@@ -18,50 +18,51 @@ while(my $file = <$PAGES>) {
 
     # print "$page_id\n";
 
-    $page_id =~ m/((g|r)\d\d)/;
+    if($page_id =~ m/((g|r)\d\d)/) {
 
-    my $volume_id = $1;
+	my $volume_id = $1;
 
-    if($last_vol ne 'new' && $volume_id ne $last_vol) {
-	my $f = "$vol_dir/$last_vol" . ".xml";
-	open my $v, ">>$f" or die "cannot open last volume file $f";
-	print $v $end;
-	close $v;
-    }
+	if($last_vol ne 'new' && $volume_id ne $last_vol) {
+	    my $f = "$vol_dir/$last_vol" . ".xml";
+	    open my $v, ">>$f" or die "cannot open last volume file $f";
+	    print $v $end;
+	    close $v;
+	}
 
-    open my $source, "<$file" or die "cannot open page $file\n";
-    open my $volume, ">>$vol_dir/$volume_id" . ".xml"
-	or die "cannot open page $volume_id file\n";
-    
-    my $text = "";
-    my $pp = 0;
-    while(my $line = <$source>) {
-	next if($line =~ m/<pb/);
-	next if($line =~ m/<\/pb/);
-	$line =~ s/&nbsp;/ /g;
-	$line =~ s/<pt>/<tp>/g;
-	$line =~ s/<\/pt>/<\/tp>/g;
-	$line =~ s/<</</g;
-	$line =~ s/”/"/g;
-	$line =~ s/<undertitloe>/<undertitle>/;
-	$line =~ s/<\/?underpage>//;
-	$line =~ s/<\/?rightside>//;
-	$line =~ s/<\/?leftside>//;
-	$line =~ s/<\?\././;
-	$line =~ s/\s&\s/ &amp;/g;
-	$line =~ s/<\/lb>/ /g;
+	open my $source, "<$file" or die "cannot open page $file\n";
+	open my $volume, ">>$vol_dir/$volume_id" . ".xml"
+	    or die "cannot open page $volume_id file\n";
 	
-	$text .= $line;
+	my $text = "";
+	my $pp = 0;
+	while(my $line = <$source>) {
+	    next if($line =~ m/<pb/);
+	    next if($line =~ m/<\/pb/);
+	    $line =~ s/&nbsp;/ /g;
+	    $line =~ s/<pt>/<tp>/g;
+	    $line =~ s/<\/pt>/<\/tp>/g;
+	    $line =~ s/<</</g;
+	    $line =~ s/”/"/g;
+	    $line =~ s/<undertitloe>/<undertitle>/;
+	    $line =~ s/<\/?underpage>//;
+	    $line =~ s/<\/?rightside>//;
+	    $line =~ s/<\/?leftside>//;
+	    $line =~ s/<\?\././;
+	    $line =~ s/\s&\s/ &amp;/g;
+	    $line =~ s/<\/lb>/ /g;
+	    
+	    $text .= $line;
 
+	}
+	print $volume $start if($volume_id ne $last_vol);
+	print $volume "<?page  $page_id ?>\n";
+	print $volume "<div>$text</div>";
+
+	close $source;
+	close $volume;
+	
+	print "done with $volume_id $page_id\n";
+	$last_vol = $volume_id;
     }
-    print $volume $start if($volume_id ne $last_vol);
-    print $volume "<?page  $page_id ?>\n";
-    print $volume "<div>$text</div>";
-
-    close $source;
-    close $volume;
-    
-    print "done with $volume_id $page_id\n";
-    $last_vol = $volume_id;
     
 }
