@@ -4,7 +4,7 @@
 <h>
 <coll>1479</coll>
 <colr>1480</colr><lb />
-<h>
+</h>
 <leftside>
 <p>
 Den ovenfor ommeldte af det i sin Tid deels af Afdelingerne,<lb />
@@ -129,7 +129,7 @@ danske Rige” , hvorimod vi, hvis ovenstaaende Indstilling ikke bifaldes,<lb />
 foreslaae:<lb />
 </p>
 <p>
-at det, istedetfor Overskriften i Udkastet, og Majoriretens Foran-
+at det, istedetfor Overskriften i Udkastet, og Majoriretens Foran-</p>
 </rightside>
 
 

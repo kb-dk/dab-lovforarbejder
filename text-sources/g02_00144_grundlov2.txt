@@ -3,7 +3,7 @@
 <p rend="page">144</p>
 <h>
 <coll>1761</coll>
-<colr>1762</colr><lb />
+<colr>1762</colr>
 </h>
 <leftside>
 <p>
@@ -89,7 +89,6 @@ vilde komme under Beharndling.<lb />
 </p>
 </leftside>
 <rightside>
-</p>
 <p>
 <speaker>Formanden:</speaker> Ja ved Afstemningen ganske vist; men her ved<lb />
 den foreløbige Behandling forekommer det mig ikke at være af Vigtighed, om Discussionen foretages før, eller senere. Maaskee den<lb />
@@ -158,7 +157,6 @@ sætte blot: Undtagesle fra Lovens almindelige Bud. Løvrigt troer<lb />
 jeg, at det er sædvanligt at kalde det en Undtagelse fra Loven, som<lb />
 er en Undtagelse fra dens Hovedregel, men jeg vil gjerne indrømme,<lb />
 at naar det tages overmaade skarpt, saa er det rigtigt, at, naar<lb />
-Undtagelser optages i Loven, bliver dens Anvendelse ikke nogen Undtagelse fra Loven.<lb />
-</p>
+Undtagelser optages i Loven, bliver dens Anvendelse ikke nogen Undtagelse fra Loven.</p>
 </rightside>
 </pb>

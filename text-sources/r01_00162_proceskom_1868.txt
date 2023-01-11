@@ -16,7 +16,7 @@ Anvendelse med fornødne Lempelser.</p>
 <title>Kapitel IV.</title>
 <undertitle>Om Gjenoptagelse af en Straffesag.</undertitle>
 <wtitle>§ 420.</wtitle>
-p>Har Statsanklageren eller Politimesteren<lb />
+<p>Har Statsanklageren eller Politimesteren<lb />
 henlagt en Sag, i hvilken endnu ingen bestemt Person var sigtet, kan han til enhver<lb />
 Tid gjenoptage Sagen, forsåvidt Bestemmelserne om Strafskylds Forældelse ej måtte<lb />
 være til Hinder.</p>
