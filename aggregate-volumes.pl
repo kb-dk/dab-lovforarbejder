@@ -66,3 +66,10 @@ while(my $file = <$PAGES>) {
     }
     
 }
+
+open my $volume, ">>$vol_dir/$last_vol" . ".xml"
+    or die "cannot open page $last_vol file\n";
+
+print $volume $end;
+
+close $volume;

@@ -119,7 +119,7 @@ mig at anføre, hvorfor Udkastets Landsthing derimod ikke giver mig<lb />
 den Betryggelse med Hensyn til hele Repræsentationen, hvorefter jeg<lb />
 har søgt.<lb />
 </p>
-<p>
+
 <morenext>
 (Fortsættes.)<lb />
 </morenext>
@@ -127,10 +127,6 @@ har søgt.<lb />
 <underpage>
 Trykt og forlagt af Kgl. Hofbogtrykker Bianco Luno.<lb />
 </underpage>
-
-
-
-</pb>
 
 </rightside>
 

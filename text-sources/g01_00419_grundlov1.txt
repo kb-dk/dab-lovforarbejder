@@ -105,7 +105,8 @@ passende til.<lb/>
 <p>
 <speaker>Algreen-Ussing:</speaker> Det er en ligefrem Følge af, at der ikke<lb/>
 påhviler Søofficererne nogen Værnepligt, at de ikke ståe i Sørullen.<lb/>
-</p><pb n="419">
+</p>
+<pb n="419">
 <pagename>419</pagename>
 <h>
 <coll>765</coll>
@@ -183,4 +184,4 @@ Søofficerer. Men hvad jeg troer, der taler for, at det helst bør forblive ved 
 nogen videre Virkning med Hensyn til Søofficerers Børn, om de begynde med at ståe i Sørullen eller de begynde med at ståe i<lb/>
 Landrullen, da det ikke lettelig vil blive Tilfældet, at de vedblive<lb/>
 at ståe i Sørullen, uden at de særlig befatte sig med Søvæsenet, <lb/>
-indseer jeg ikke, at der er nogen særdeles Grund
+indseer jeg ikke, at der er nogen særdeles Grund</p>

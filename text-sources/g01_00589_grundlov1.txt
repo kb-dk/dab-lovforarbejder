@@ -4,7 +4,6 @@
 <h>
 <coll>1105</coll>
 <colr>1106</colr>
-<lb/>
 </h>
 <leftside>
 <p>
@@ -206,4 +205,4 @@ indeholdt Følgende:<lb/>
 <p>
 2)	Ræders Forslag:<lb/>
 At der imellem §§ 9 og 10 indskydes en saalydende ny<lb/>
-Paragraph: „Forsaavidt en Mulct efter nærværende Forordning (Lov) dictere
+Paragraph: „Forsaavidt en Mulct efter nærværende Forordning (Lov) dictere</p>
