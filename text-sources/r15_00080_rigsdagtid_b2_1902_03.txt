@@ -1,0 +1,85 @@
+2247
+<pb n="80" />
+<p rend="page">80</p>
+<h>
+<coll>2247</coll>
+<colr>2248</colr><lb />
+<topmidle>Bilag til Bet. o. Lovf. om Rettens Pleje. </topmidle>
+</h>
+<wtitle>
+§ 438.<lb />
+</wtitle>
+<p>
+Anke eller Kære over Auktionsforretningen maa i Reglen rejses inden 4 Uger,<lb />
+efter at Auktionsforretningen er sluttet, eller, for saa vidt foregaaende Retshandlinger<lb />
+ere paaklagede for højere Ret, 4 Uger, efter at disse ere ophævede eller forandrede.<lb />
+</p>
+<p>
+Dog kan Anke eller Kære inden Forløbet af et Aar tillades paa samme<lb />
+Maade, som i § 383, 2det Stykke, er bestemt om Udlæg.<lb />
+</p>
+<title>
+Kapitel XXXVII.<lb />
+</title>
+<undertitle>
+Retsmidlerne imod de til Dommes tvungne Fuldbyrdelse henhørende<lb />
+Fogedforretninger m. m.<lb />
+</undertitle>
+<wtitle>
+§ 439.<lb />
+</wtitle>
+<p>
+Klager over Fogedforretninger, som vedrøre selve den Fordring eller Ret, om<lb />
+hvis Fuldbyrdelse der er Spørgsmaal, gøres gældende ved Anke til den Landsret,<lb />
+under hvilken Fogden staar. Har den, der vil rejse saadan Anke, tillige Klager af<lb />
+den i denne Paragrafs 2det Stykke angivne Beskaffenhed, blive disse at inddrage<lb />
+under Anken.<lb />
+</p>
+<p>
+Klager, der alene angaa de processuelle Betingelser for Fogedforretningen<lb />
+eller den ved samme brugte Fremgangsmsade, gøres gældende ved Kære til den Lands-<lb />
+ret, under hvilken Fogden staar.<lb />
+</p>
+<p>
+§ 440..<lb />
+</p>
+<p>
+Under Ankesagen eller Kæremaalet er den for Fogden stedfundne Procedure<lb />
+ikke bindende, og der er endog intet til Hinder for, at ny Paastande fremsættes. Dog<lb />
+kunne Parterne ikke tilbagekalde de af dem for Fogden afgivne protokollerede Er-<lb />
+klæringer med Hensyn til Sagens Sammenhæng.<lb />
+</p>
+<p>
+I øvrigt gælde de om Anke og Kære fra Underret til Landsret givne Regler<lb />
+med de Lempelser, der følge af Forholdets Natur.<lb />
+</p>
+<wtitle>
+§ 441.<lb />
+</wtitle>
+<p>
+Anke fra Landsret til Højesteret i de her omhandlede Tilfælde finder kun<lb />
+Sted, naar den Fordring, i Anledning af hvilken Eksekution er sket, har været Gen-<lb />
+stand for Landsrettens Afgørelse i første Instans eller dog ifølge sin Beskaffenhed i<lb />
+Tilfælde af Retstvist vilde henhøre under samme. Dog kan, om end Fordringen ikke<lb />
+er af den anførte Beskaffenhed, Højesterets Justitiarius i Forening med to af ham<lb />
+tiltagne Medlemmer af Retten tillade, at Sagen undtagelsesvis indbringes for Højeste-<lb />
+ret. Begæring herom fremsættes og behandles paa den i § 246 omtalte Maade.<lb />
+</p>
+<p>
+Om Anken til Højesteret gælde de almindelige Regler i Kap. XXI.<lb />
+</p>
+<p>
+Landsrettens Afgørelse i Anledning af Kære er ikke Grenstand for yderligere<lb />
+Kære til Højesteret, medmindre det i første Stykke af denne Paragraf omtalte Ud-<lb />
+valg undtagelsesvis meddeler Tilladelse hertil.<lb />
+</p>
+<wtitle>
+§ 44.<lb />
+</wtitle>
+<p>
+For saa vidt Fogder, der i Medfør af nærværende Lovs Bestemmelser mod-<lb />
+tage Indbetalinger eller Deposita, maatte findes pligtige at udrede Erstatning til pri-<lb />
+vate i Anledning af deres Embedsførelse i saa Henseende, er Statskassen ansvarlig<lb />
+for saadan Erstatnings Udredelse, dersom den ikke kan faas hos vedkommende Em-<lb />
+bedsmand eller i hans Bo.<lb />
+</p>

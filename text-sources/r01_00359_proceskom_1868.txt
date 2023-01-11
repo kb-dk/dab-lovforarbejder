@@ -1,0 +1,77 @@
+353
+<pb n="359" />
+<leftside>
+<p>denne Påanke gjældende Regler. Dette<lb />
+gjælder imidlertid for det Første kun om den<lb />
+dømmende Ret, ikke om Undersøgelsesdommeren, hvis Virksomhed ikke står i nogen formel<lb />
+Forbindelse med Domssagen, og det kan dernæst heller ikke ubetinget gjælde om den dømmende Ret. Det færegne Retsmiddel, der da<lb />
+finder Anvendelse, er i Udkastet kaldt Besværing, den samme Benævnelse, som er valgt<lb />
+i Udkastet om den borgerlige Retspleje.</p>
+<p>De nærmere Bestemmelser om dette Retsmiddel falde naturlig i to Afsnit, som § 407<lb />
+antyder.</p>
+<title>I.</title>
+<undertitle>Om Besværing mod Undersøgelsesdommerens Kjendelse og Beslutning.</undertitle>
+<p>Den almindelige af Forholdets Natur<lb />
+følgende Regel, at Besværing er hjemlet<lb />
+mod Undersøgelsesdommerens Handlinger og<lb />
+Undladelser, og at Besværingsretten tilkommer enhver Part eller Trediemand,<lb />
+som antager sin Ret krænket, udtaler<lb />
+§ 408. Det forudsættes naturligvis herved, at<lb />
+det er i Undersøgelsesdommerens Beslutning,<lb />
+at Retskrænkelsen ligger; foretager han en<lb />
+Handling ifølge Pålæg af Landsretten, er<lb />
+det mod dennes Beslutning, at Besværingen<lb />
+må rettes, jfr. Afsnit II i dette Kapitel.<lb />
+Ved det Spørgsmål, om Besværing strax<lb />
+kan finde Sted mod Beslutnmger af Dommeren, der gå ud på, at Noget skal foretages, kommer det i Betragtning, at Øjemedet ordentligvis forbyder at tillægge Påanken Virkning til at hindre Fuldbyrdelsen,<lb />
+i al Fald i Kraft af Loven selv, se §<lb />
+412. Men under denne Forudsætning er<lb />
+der ingen Grund til at udskyde det Tidspunkt, da Besværingen kan ske, f. Ex. når<lb />
+en egentlig Forundersøgelse finder Sted, indtil<lb />
+denne er sluttet. En forhalende Indflydelse<lb />
+på Undersøgelsen undgåes ved Ordningen af<lb />
+Retsmidlet efter Skriftlighedsgrundsætningen,<lb />
+og navnlig ved Reglen i § 413. På den<lb />
+anden Side er der i disse Tilfælde, hvor Besværingen ikke har suspensiv Virkning, ingen<lb />
+Grund til at sætte en så kort Besværingsfrist   som   under   den  modsatte Forudsætning.</p>
+</leftside>
+<rightside>
+<p>Flere Love kjende endogså i disse Tilfælde<lb />
+aldeles ingen Frist. Dette synes dog ikke<lb />
+anbefalelsesværdigt; men Fristen kan sættes<lb />
+så rummeligt, som § 409 har gjort (4<lb />
+Uger). Der gives imidlertid Tilfælde, hvor<lb />
+Besværingen kan og bør hindre Fuldbyrdelsen.<lb />
+I disse Tilfælde må Besværingen ske inden<lb />
+en kort Frist, hvilken Udkastet her som ved<lb />
+Påanke har sat til 3 Dage, med Adgang<lb />
+til Oprejsning efter Reglerne i § 379, se<lb />
+§ 409. De Beslutninger, om hvilke det Anførte gjælder, nævnes i § 409. Det bemærkes herved, at Beslutningen om en fængslet<lb />
+Sigtets Løsladelse ikke hører til dem, hvis<lb />
+Udførelse kan standses ved Besværing. Ligesålidt som Anklageren ved Besværing kan<lb />
+opnå en foreløbig Fængsling mod Dommerens Kjendelse, ligesålidt kan han standse<lb />
+Løsladelsen ved Besværing. Denne Sætning<lb />
+er nu i Reglen anerkjendt. Reglen i § 410<lb />
+tilsiges as Forholdets Natur, da de her nævnte<lb />
+Kjendelser ere afsagte over en Udeblivende og<lb />
+efter Udkastets Ordning ikke ere endelige.</p>
+<p>Reglerne om Besværingens processuelle<lb />
+Behandling findes i § 411 samt §§ 413<lb />
+og 414. Øjemedet er at gjøre en let<lb />
+og hurtig Afgjørelse mulig. Sagens Akter<lb />
+ere ordentligvis tilstrækkeligt Grundlag for<lb />
+Afgjørelsen, som prøver Beslutningen uden<lb />
+Indskrænkning, efter Grundsætningerne om<lb />
+egentlig Appel, se § 414 3die Stykke. Om<lb />
+mundtlig Forhandling skal finde Sted, har<lb />
+Udkastet overladt Besværingsinstantsen at bestemme. En Frist er given, inden hvilken den,<lb />
+der besværer sig, og Modparten kunne fremkomme med skriftlige Udtalelser om Spørgsmålet. I Reglen er det Landsretten, til<lb />
+hvilken Besværingen går, jfr. imidlertid §<lb />
+14 1ste Stykke. Yderligere Besværing fra<lb />
+Landsretten finder kun Sted, når det af<lb />
+særegne Grunde tilstedes, se § 415.</p>
+<title>II.</title>
+<undertitle>Om Besværing mod den dømmende<lb />
+Rets Kjendelser og Beslutninger.</undertitle>
+<p>Ikke mod alle Kjendelser og Beslutninger af den dømmende Ret gives der et Retsmiddel.    Visse   af de Beslutninger,   der  ved-</p>
+</rightside>

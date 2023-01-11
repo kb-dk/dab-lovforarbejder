@@ -1,0 +1,53 @@
+3771
+<pb n="204" />
+<h>
+<coll>3771</coll>
+<topmidle>Forsl. t. L, om Strafferetspleien.</topmidle>
+<colr>3772</colr>
+</h>
+<p>af Slægtninge eller af Personer, som staa i Forretningsforhold til Fangen, eller med hvem<lb />
+han onster at raadfore sig, bor kun nceates, naar Omstændighederne give Grund til at frygte,<lb />
+at deraf vil opstaa Skade for Undersøgelsen.</p>
+<p>2)  Om det skal tillades Fangen at afsende og  modtage Breve, beror paa Rettens<lb />
+Formand,   jfr.   dog med Hensyn til Forsvarere Z§ 47 og 57.   Tilladelse  bor  kun ncegtes,<lb />
+naar Rettens Formand,   efterat  have   læst Brevet, finder enten, at der kan være Grund til<lb />
+at befrygte, at dets Afsendelse eller Udlevering vil være til Skade for Undersøgelsen, eller at<lb />
+dets Afsendelse  vilde indeholde et Retsbrud.    Afsendelsen af lukkede Skrivelser til Ret eller<lb />
+øvrighed kan ikke ncegtcs Fangen.</p>
+<p>3)  Varetægtsfanger have Ret til at sysselsætte sig, dog med de Begrændsninger, som<lb />
+følge af Fængslingens øiemed og fængselsordenen.    Denne Ret kan kun betages en Fange,<lb />
+naar han har forstyldt det som discipliner Straf.</p>
+<p>4)  Legemlig Revselse maa ikke anvendes som discipliner Straf paa Varetægtsfanger.</p>
+<p>5)  Hverken Arrestforvareren eller andre Personer maa benyttes til at udforske Fangen.<lb />
+Ncrrmere Regler om fængselsordenen fastsættes ved kongelig Anordning under Iagt-<lb />
+tagelse af det i nærværende Paragraf Forestrevne.</p>
+<wtitle>§ 189.</wtitle>
+<p>Den anordnede fængsling bortfalder, naar forfølgning frafaldes, eller den Sigtede<lb />
+frifindes, og der ikke er anden af den endte Sag uafhcrngig Grund til at holde h.im fængslet.</p>
+<p>Fcrngslingen ophæves ved Rettens Beslutning, naar i løbet af Undersøgelsen de<lb />
+Grunde, hvorpaa den ftottedes, bortfalde, og Grunde til Fcrngsling ved en ny Kjendelse ikke<lb />
+ere forbaanden. Navnlig bor den paa § 183 Nr. 3 stottede fængsling ophceves, saasnart<lb />
+Undersøgelsen i paagjældende Retning cr sikkret, i hvilken Henseende det Fornødne snarest<lb />
+mulig skal iværkfættes.</p>
+<p>De med Hensyn til fængslingens Ophor fornødne Afgjørelser og Forholdsregler<lb />
+træffes af den Ret, for hvilken Sagen er eller var anhængig.</p>
+<wtitle>§ 190.</wtitle>
+<p>Gr den Sigtede under 18 Aar, skal Retten, forsaavidt det efter Sigtelsens Gjenl'tand,<lb />
+den Sigtedes Personlighed og de forbaandenværen.de Forhold lader sig gjore, istedetfor<lb />
+fængsling beslutte, at han sættes under Tilsyn af paalidelige Personer, Forceldre eller Andre.<lb />
+Naar Forceldre eller Andre fremsætte ønste om, at en faadan Sigtet maa betros til deres<lb />
+Tilsyn, kan Retten, om det findes nodvendigt, knytte Indvilgelse heri til den Betingelse, at<lb />
+Sikkerhed stilles af de Paagjældende overensstemmende med Reglerne i §§ 191  og 192.</p>
+<p>I andre Tilfælde skal, hvor Saadant maa anses for tilstrækkeligt til Formaalets Op-<lb />
+naaelse, istedetfor fængsling efter Rettens Beslutning træde Bevogtning i Hjemmet paa<lb />
+den Sigtedes Bekostning efter Sikkerhedsstillelse for det hertil sandsynlig medgaaende Belob,<lb />
+Tilhold om ikke uden Dommerens Tilladelse at forlade et anvist Opholdssted eller en bestemt<lb />
+Kreds, Paalæg om til bestemte Tider at fremstille sig for Politiet, Beslaglæggelse af Pas eller<lb />
+andre Legitimationødokumenter, samt Losladelse mod Sikkerhed efter de nærmere Regler i<lb />
+efterfolgende Paragrafer.</p>
+<wtitle>§ 191.</wtitle>
+<p>Losladelse mod Sikkerhed kan ikke finde Sted, naar den i § 183 Nr. 3 nævntc<lb />
+fængslingsgrund er forhaanden.</p>
+<p>I de i § 183 Nr. 1 og 2 nævnte Tilfælde skal Fritagelse for fængsling tilstedes,<lb />
+naar Formaalet maa antages tilstrækkelig betrygget ved, at Sikkerhed stilles for, at den Sigtede<lb />
+vil møde i Retten til enhver Forhandling i Sagen efter behorig Indkaldets?, samt indfinde</p>

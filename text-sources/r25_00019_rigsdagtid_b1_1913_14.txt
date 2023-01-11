@@ -1,0 +1,90 @@
+1945
+<pb n="19" />
+<h>
+<coll>1945</coll>
+<topmidle>Bet. o. Lovf. om Rettens Pleje m. m.</topmidle>
+<colr>1946</colr>
+</h>
+<p>
+7. Hillerød Købstad med Frederiksborg Birk (undtagen Ølsted Sogn) og Kronborg<lb/>
+vestre Birk.
+</p>
+<p>
+8.	Frederikssund Købstad og Horns Herred med Frederiksværk Købstad og Halsnæs<lb/>
+Birk.
+</p>
+<p>
+9.	Holbæk Købstad og Merløse-Tudse Herreder samt Nykøbing S. Købstad og Drags-<lb/>
+holm Birk.
+</p>
+<p>
+10.	Kallundborg Købstad. Arts-Skippinge Herreder, Løve Herred samt Samsø Birk.
+</p>
+<p>
+11.	Slagelse Købstad, Antvorskov Birk, Korsør Købstad og Landjurisdiktion, Skelskør<lb/>
+Købstad, Vester Flakkebjerg Herred og Holsteinborg Birk.
+</p>
+<p>
+12.	Ringsted Købstad, Skjoldnæsholm og Svenstrup Birker, Sorø Købstad, Sorø Birk<lb/>
+og Baroniet Holbergs Birk.
+</p>
+<p>
+13.	Næstved Købstad og Tybjerg Herred med Øster Flakkebjerg Herred.
+</p>
+<p>
+14.	Vordingborg Købstad, Vordingborg søndre Birk, Præstø Købstad, Vordingborg<lb/>
+nordre Birk, Stege Købstad og Møens Herred.
+</p>
+<place>
+Bornholm.
+</place>
+<p>
+15.	Rønne Købstad, Vester Herred, Hasle Købstad, Nordre Herred, Hammershus<lb/>
+Birk, Svaneke Købstad, Øster Herred, Christiansø, Neksø Købstad, Sønder Herred<lb/>
+samt Aakirkeby Købstad.
+</p>
+<place>
+Lolland-Falster.
+</place>
+<p>
+16.	Nykøbing F. Købstad og Herred, Stubbekøbing Købstad og Herred samt Falster<lb/>
+Vester Herred.
+</p>
+<p>
+17.	Sakskøbing Købstad, Musse Herred, Nysted Købstad og Birk, Maribo Købstad<lb/>
+og Birk, Rødby Købstad og Fuglse Herred samt Fejø Birk.
+</p>
+<p>
+18.	Nakskov Købstad med Lollands Nørre samt Sønder Herreder.
+</p>
+<place>
+Fyn.
+</place>
+<p>
+19.	Nyborg Købstad, Vinding Herred, Kerteminde Købstad og Hindsholm Herred<lb/>
+med Bjerge-Aasum Herreder (undtagen Nørre Søby, Nørre Lyndelse, Sønder<lb/>
+Næraa og Højby Sogne).
+</p>
+<p>
+20.	Sunds-Gudme Herreder og Lehn Birk.
+</p>
+<p>
+21.	Svendborg Købstad og Thorseng Birk, Ærøskøbing Købstad og Ærø Herred,<lb/>
+Rudkøbing Købstad og Langelands Herreder.
+</p>
+<p>
+22.	Faaborg Købstad, Salling Herred, Muckadell, Holstenshus og Brahetrolle-<lb/>
+borg Birker.
+</p>
+<p>
+23.	Odense Købstad med Odense Skt, Hans Sogns Landdistrikt.
+</p>
+<p>
+24.	Odense Herred (undtagen Odense Skt. Hans Sogns Landdistrikt), med de 4 un-<lb/>
+der Nr. 19 angivne Sogne af Aasum Herred, Bogense Købstad, Skovby Herred,<lb/>
+Lunde-Skam Herreder og Grevskabet Roepstorffs Birk.
+</p>
+<p>
+25.	Assens Købstad, Baag Herred, Wedellsborg Birk, Middelfart Købstad og Vends<lb/>
+Herred.
+</p>

@@ -1,0 +1,315 @@
+67
+<pb n="24" >
+<p rend="page">24</p>
+<h>
+<coll>67</coll>
+<colr>68</colr><lb />
+Bilag til Bet. o. Lovf. om Rettens Pleje.<lb />
+</h>
+<table><tr>
+<td rowspan="2">Retskredsen.</td>
+<td colspan="6">Personale.</td>
+<td colspan="2">Befordring.</td>
+<td rowspan="2">Kv.-Mil omtrent.</td>
+<td rowspan="2">Indbyggertal.</td>
+<td rowspan="2">Sogne.</td>
+<td rowspan="2" >Sognefogeder.</td>
+</tr>
+<tr>
+<td>Assistenter og Overbetjente.</td>
+<td>Betjente.</td>
+<td>Reserve-betjente.</td>
+<td>Vægtere.</td>
+<td>Reserve-vægtere.</td>
+<td>I alt</td>
+<td>Hest.</td>
+<td>Cykel.</td>
+</tr>
+<tr>
+  <td>Overfør</td>
+  <td>95</td>
+  <td>922</td>
+  <td>15</td>
+  <td>20</td>
+  <td>3</td>
+  <td>1055</td>
+  <td>41</td>
+  <td>57</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+<tr>
+  <td>Lunde-Skam  Herreder  og Roepstorff Birk</td>
+  <td>3</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>3</td>
+  <td>»</td>
+  <td>3</td>
+  <td>5</td>
+  <td>13,631</td>
+  <td>16</td>
+  <td>18</td>
+</tr>
+<tr>
+  <td>Odense Herred</td>
+  <td>3</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>3</td>
+  <td>1</td>
+  <td>2</td>
+  <td>51/2</td>
+  <td>20,010</td>
+  <td>16</td>
+  <td>24</td>
+</tr>
+<tr>
+  <td>Bjerge-Aasum Herreder</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>2</td>
+  <td>4</td>
+  <td>13,014</td>
+  <td>16</td>
+  <td>18</td>
+</tr>
+<tr>
+  <td>Kerteminde    Købstad    og Hindsholm Herred</td>
+  <td>»</td>
+  <td>5</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>5</td>
+  <td>»</td>
+  <td>2</td>
+  <td>13/4</td>
+  <td>7,007</td>
+  <td>6</td>
+  <td>6</td>
+</tr>
+<tr>
+  <td>Middelfart    Købstad   og Yends Herred</td>
+  <td>1</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>3</td>
+  <td>1</td>
+  <td>»</td>
+  <td>31/3</td>
+  <td>16,554</td>
+  <td>11</td>
+  <td>13</td>
+</tr>
+<tr>
+  <td>Wedellsborff Birk</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>1</td>
+  <td>»</td>
+  <td>4</td>
+  <td>8,889</td>
+  <td>13</td>
+  <td>13</td>
+</tr>
+<tr>
+  <td>Svendborg   Købstad    og Thorseng Birk</td>
+  <td>2</td>
+  <td>161)</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>18</td>
+  <td>»</td>
+  <td>1</td>
+  <td>11/4</td>
+  <td>15,587</td>
+  <td>3</td>
+  <td>4</td>
+</tr>
+<tr>
+  <td>Faaborg Købstad   og  Salling Herred</td>
+  <td>»</td>
+  <td>4</td>
+  <td>»</td>
+  <td>3</td>
+  <td>»</td>
+  <td>7</td>
+  <td>2</td>
+  <td>»</td>
+  <td>52/5</td>
+  <td>20,849</td>
+  <td>20</td>
+  <td>22</td>
+</tr>
+<tr>
+  <td>Nvborg Købstad</td>
+  <td>1</td>
+  <td>8</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>10</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>7,790</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+<tr>
+  <td>Vinding Herred</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>2</td>
+  <td>2</td>
+  <td>»</td>
+  <td>43/5</td>
+  <td>14,326</td>
+  <td>18</td>
+  <td>19</td>
+</tr>
+<tr>
+  <td>Sunds-Gridme   Herreder samt Lelms Birk</td>
+  <td>»</td>
+  <td>3</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>3</td>
+  <td>2</td>
+  <td>1</td>
+  <td>92/5</td>
+  <td>29,820</td>
+  <td>24</td>
+  <td>25</td>
+</tr>
+<tr>
+  <td>Muckadell,   Holstenhus   og Brahetrolleborg Birker</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>1</td>
+  <td>»</td>
+  <td>3</td>
+  <td>7,615</td>
+  <td>8</td>
+  <td>9</td>
+</tr>
+<tr>
+  <td>Rudkøbing    Købstad    og Langelands Nørre og Sønder Herreder</td>
+  <td>1</td>
+  <td>2</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>5</td>
+  <td>1</td>
+  <td>»</td>
+  <td>5</td>
+  <td>19,745</td>
+  <td>16</td>
+  <td>18</td>
+</tr>
+<tr>
+  <td>Ærøskøbing    Købstad    og Ærø Herred</td>
+  <td>1</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>2</td>
+  <td>1</td>
+  <td>»</td>
+  <td>11/2</td>
+  <td>12,509</td>
+  <td>6</td>
+  <td>6</td>
+</tr>
+<tr>
+  <td>Nakskov Købstad</td>
+  <td>»</td>
+  <td>4</td>
+  <td>»</td>
+  <td>7</td>
+  <td>1</td>
+  <td>12</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>8,310</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+<tr>
+  <td>Lollands Nørre Herred</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>1</td>
+  <td>»</td>
+  <td>32/3</td>
+  <td>10,687</td>
+  <td>12</td>
+  <td>13</td>
+</tr>
+<tr>
+  <td>Lollands Sønder Herred</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>1</td>
+  <td>»</td>
+  <td>4</td>
+  <td>9,929</td>
+  <td>14</td>
+  <td>15</td>
+</tr>
+<tr>
+  <td>At overføre</td>
+  <td>107</td>
+  <td>975</td>
+  <td>16</td>
+  <td>32</td>
+  <td>4</td>
+  <td>1134</td>
+  <td>55</td>
+  <td>71</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+</table>
+
+</pb>

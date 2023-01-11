@@ -1,0 +1,37 @@
+25
+<pb n="31" />
+<p>til   Vedtagelse,   dog   kun   forsåvidt   Sagens<lb />
+Gjenstand har en Værdi af over 40 Kr.</p>
+<wtitle>§  85.</wtitle>
+<p>Fuldstændigt optages i Retsbogen:</p>
+<p>Rettens Domme, Kjendelser og øvrige Beslutninger;</p>
+<p>Parternes Påstande for Underretterne,<lb />
+samt for Landsretterne Indsigelser og Påstande vedrørende Sagens Formalitet efter<lb />
+§   175;</p>
+<p>Nye Påstande og faktiske Anbringender,<lb />
+såvelsom Forandringer i, Tillæg til eller Opgivelser af tidligere fremsatte Påstande, Benægtelser, Indsigelser eller faktiske Anbringender,<lb />
+forsåvidt herom efter §168, jfr. § 169, kan<lb />
+blive Spørgsmål udenfor de skriftlige Sagsfremstillinger og Tillæg til samme;</p>
+<p>De i § 194 omhandlede Indsigelser og<lb />
+Forlangender.</p>
+<p>I Retsbogen gjøres fremdeles Bemærkning om Overleverelsen eller Fremlæggelsen af<lb />
+alle skriftlige Fremstillinger, Dokumenter, Breve,<lb />
+Forkyndelser, Meddelelser og andre Aktstykker,<lb />
+som derhos blive at forsyne med Fremlæggelsespaategning.</p>
+<wtitle>§  86.</wtitle>
+<p>Klageskriftet, Parternes øvrige Skrifter og<lb />
+Sagsfremstillinger forblive i Rettens Arkiv.<lb />
+Dokumenter og Aktstykker, der benyttes som<lb />
+Bevis, tilbageleveres Parterne, naar Sagen er<lb />
+paadømt, imod at disse til Retten indlevere<lb />
+bekræftede Gjenparter. Dog fordres ikke Gjenpart af Dokumenter, der kun ere Udskrifter af<lb />
+Embedsprotokoller, eller af Haudelsbøger, Regnskabsbøger eller andre saadanne Dokumenter,<lb />
+som ere af særdeles betydeligt Omfang.</p>
+<wtitle>§  87.</wtitle>
+<p>Retsbogen underskrives af den, der har<lb />
+fungeret som Formand, og af Protokolforerm.</p>
+<wtitle>§  88.</wtitle>
+<p>Retsskriveren har at samle de enhver Sag<lb />
+vedkommende Dokumenter og bevare dem eller<lb />
+de Gjenparter, som ifølge § 86 afgives i<lb />
+Stedet for Originaler, der tilbageleveres.</p>

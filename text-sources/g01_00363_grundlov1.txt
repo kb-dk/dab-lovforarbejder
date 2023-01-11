@@ -1,0 +1,125 @@
+653
+<pb n="363">
+<pagename>363</pagename>
+<h>
+<coll>653</coll>
+<colr>654</colr>
+<lb/>
+
+<topleft>1848.</topleft>
+<topmidle>
+Beretning om Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 86.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Tre og tredivte Møde.<lb/>
+(Sluttet.)<lb/>
+</btitle>
+<p>
+<law n="12."/>§ 12.<lb/>
+Med 22 Års Alderen indtræder den almindelige Forpligtelse til<lb/>
+Udskrivning til Landkrigstjenesten, til hvilken Ende i Reglen enhver<lb/>
+Landværnepligtig har personlig at fremstille sig for Sessionen til Bedømmelse og Behandling i Overeensstemmelse med de i så Henseende<lb/>
+foreskrevne Regler.<lb/>
+<law n="13."/>§ 13.<lb/>
+For den almindelig anordnede Undersøgelse af Sessionslægerne<lb/>
+blive de at fritage, som selv anmelde sig som fuldkommen tjenstdygtige<lb/>
+og derom medbringe en autoriseret Læges Attest.<lb/>
+<law n="14."/>§ 14.<lb/>
+De, som ved dette Møde befindes at have sådanne Svagheder<lb/>
+eller Mangler, der gjøre dem aldeles uskikkede til al Krigstjeneste, og<lb/>
+som ei kunne ventes senere at blive hævede, har Sessionen strax at<lb/>
+udslette af Rullen og at meddele Fripas.<lb/>
+Comiteebetænkningen til §§ 11—14 lyder således:<lb/>
+</p>
+<lawaddress>
+ad § 11.<lb/>
+</lawaddress>
+<p>
+Da de i 2det Capitel indeholdte Regler ei blot angåe Udskrivning til den stående Hær, hvorunder forståes Linien og Krigsreserven, men også Udskrivning til Forstærkningen, bør det formeentlig<lb/>
+i denne Paragraph istedetfor „den stående Hær” hedde „Hæren”,<lb/>
+ligesom vi og ansee det rigtigere, istedetfor Udtrykket „årlige Sessioner” at sætte „de anordnede Sessioner”.<lb/>
+</p>
+<lawaddress>
+ad § 14.<lb/>
+</lawaddress>
+<p>
+Der vil formeentlig opnåes en mere concis Udtryksmåde, når<lb/>
+der istedetfor „aldeles” i 2den Linie sættes „for stedse”, og når Ordene<lb/>
+“og som ei kunne ventes senere at blive hævede” udelades.<lb/>
+</p>
+<p>
+<speaker>Ordføreren:</speaker> Udvalgets Forslag til Forandring med Hensyn til<lb/>
+Overskriften af det 2det Capitel er blot en Redactionsbemærkning.<lb/>
+Dette gjælder ligeledes dens Forslag til § 11. Som det i Betænkningen er bemærket, angåe de i det 2det Capitel indeholdte Regler ikke<lb/>
+blot Udskrivning til den stående Hær, men også Udskrivning til<lb/>
+Forstærkningen, og man har derfor meent, at Udtrykket „Hæren” var<lb/>
+mere adæqvat end „den stående Hær”. Ordet „årlige” har man<lb/>
+foreslået forandret, fordi man, når man vilde urgere stærkt på<lb/>
+dette Udtryk, derved kunde ledes til at antage, at der ved dette var<lb/>
+udelukket extraordinaire Sessioner, og da man kan forvente, at der<lb/>
+snart efter at Anordningen er kommen ud, vil finde sådanne extraordinaire Sessioner Sted, så har man meent, at det her burde<lb/>
+antydes, at det ikke blot var de i Anordningerne udtrykkelig hjemlede<lb/>
+Sessioner, men også de, som de Autoriteter, der have den dertil fornødne Myndighed, måtte anordne, ved hvilke Udskrivning kan skee.<lb/>
+Bestemmelsen i § 12 er aldeles overeensstemmende med den bestående<lb/>
+Organisation. Herved kunde vel atter Spørgsmålet om Lægdsrullealderen drages frem, men jeg antager, at dette tilstrækkelig er discuteret. Bestemmelsen i § 13 afviger Noget fra det hidtil Bestående,<lb/>
+når det heri siges, at de blive at fritage for Undersøgelse, der selv<lb/>
+anmelde sig som fuldkommen tjenstdygtige og derom medbringe en autoriseret Læges Attest. At de skulde producer Lægeattest, har man<lb/>
+anseet nødvendigt, fordi det undertiden har hændet sig, at de Udskrivningspligtige selv have erklæret sig tjenstdygtige, men senere ere blevne<lb/>
+befundne ikke at være det. Hvad Udvalget har foreslået i § 14, er<lb/>
+kun en Redactionsforandring.<lb/>
+</p>
+</leftside>
+<rightside>
+<p>
+<speaker>Lorck:</speaker> Med Hensyn til § 11 skal jeg tillade mig at fremføre en Bemærkning. Denne Paragraph siger: Udskrivningen skeer på Sessioner.<lb/>
+Man måtte dog vel spørge: har Sessionen i Fremtiden en endelig, en afgjørende Dom? Før kunde Kjendelserne, om Een var udskrevet med<lb/>
+Rette eller ikke, dog appelleres til Cancelliet, ja i visse Tilfælde til<lb/>
+Høiesteret. Med Hensyn til Udlændinge og med Hensyn til Islændere,<lb/>
+Bornholmere o. s. v. kunde der vistnok oftere opståe Tvivl, navnlig<lb/>
+i den første Tid, især med Hensyn til Bestemmelsen om de hidtil<lb/>
+Fritagne i Slutningen af § 9. Der måtte dog vel her eller et andet Sted i Loven fastsættes, at Sessionens Dom i Tvivlstilfælde<lb/>
+kunde appelleres til Justitsministeren eller Domstolene. Da jeg har<lb/>
+Ordet, tillader jeg mig endvidere at henstille til den ærede Ordfører,<lb/>
+om det ikke i Loven, hvor Taler er om Sessionen, kunde bestemmes,<lb/>
+at den skal tiltrædes af et Medlem af Amtsrådet eller af een eller<lb/>
+flere Sognforstandere efter Tour, i Analogi med hvad der er omtalt i Loven af 23de Septbr. d. A., et Ønske, hvilke jeg troer, deles af<lb/>
+en stor Deel af Landbefolkningen.<lb/>
+</p>
+<p>
+<speaker>Ordføreren:</speaker> Med Hensyn til hvad den sidste ærede Taler<lb/>
+først yttrede, må jeg henvisse ham til Slutningen af § 11, hvori det<lb/>
+hedder: „i Overeensstemmelse med de Forskrifter, som nu ere eller i<lb/>
+Fremtiden måtte blive givne.” Når altså Nogen beklager sig over<lb/>
+den ved Udskrivningen brugte Fremgangsmåde, må han forholde sig,<lb/>
+som hidtil foreskrevet. Med Hensyn til hvad han i Slutningen yttrede om en Tilforordning af Amtsråds- eller Sogneforstanderskabsmedlemmer til Sessionerne, skal jeg bemærke, at dette er Noget, som<lb/>
+vistnok kunde være ret ønskeligt, men at det ikke forekommer mig at<lb/>
+høre ind under denne Anordning at organisere Sessionen.<lb/>
+</p>
+<p>
+<speaker>Ørsted:</speaker> Det Spørgsmål, der er bleven fremsat af en æret Deputeret, om hvilken Myndighed Sessionen skal have for Fremtiden, er<lb/>
+efter min Mening af stor Vigtighed. Efter den hidtilværende Tingenes Orden var der flere Måder, hvorpå der kunde rådes Bod<lb/>
+på de Feil, der måtte blive begåede af Sessionerne. Cancelliet<lb/>
+kunde rette disse, når Feilene vare tilstede for Private, og når det<lb/>
+for det Offentliges Vegne ikke fandt Anledning til at inhærere, hvad<lb/>
+der var skeet fra Sessionens Side; Cancelliet kunde også i flere Tilfælde moderere Udskrivningen eller ganske fritage de Udskrivningspligtige, som ved Sessionen vare medtagne, men i alle Tilfælde<lb/>
+hvor der var Spørgsmål, om Nogen var værnepligtig eller ikke,<lb/>
+kunde Sagen indbringes for Høiesteret. De her opgivne Bestemmelser vare knyttede til den bestående Tingenes Orden, da Værnepligten<lb/>
+beroede på Vedkommendes stand og Stilling, og da der i så Henseende kunde opståe Spørgsmål, som skulde afgjøres ved Domstolene.<lb/>
+Nu opståe ikke disse Spørgsmål for Fremtiden, men der vil opståe<lb/>
+andre Spørgsmål. Ved flere Leiligheder vil der blive Spørgsmål<lb/>
+om, hvad der skal forståes ved „fast Ophold”, idet der gives Individer, hvis Værnepligt afhænger heraf. Der kan blive Spørgsmål<lb/>
+om Sessionens Beslutning, forsåvidt den har antaget, at det kan<lb/>
+tilregnes Nogen at have forsømt at give Møde uden at anmelde lovligt Forfald. Disse Spørgsmål burde vistnok ikke på en så endelig Måde kunne afgjøres af Sessionen, at der ikke skulde være Tale<lb/>
+om Forandringer; men det er vist, at denne vil have støtte Vanskelighed end hidtil, thi hidindtil blev den Pågjældende uden Undtagelse ved Fødselden indskreven i Lægdsrullen, og dersom han fandt,<lb/>
+når har blev tilsagt til at møde, at han ikke var værnepligtig,<lb/>
+havde han Tid til at påanke Indskrivningen i Rullen, før han blev<lb/>
+udskreven. Nu opståer Spørgsmålet først på den Tid, da den Vedkommende udskrives, thi før har han ikke noget med Sessionen at gjøre, og<lb/>
+</p>
+</rightside>
+
+</pb>

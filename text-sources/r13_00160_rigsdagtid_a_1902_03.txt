@@ -1,0 +1,72 @@
+2047
+<pb n="160" />
+<h>
+<coll>
+2047
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2048
+</colr>
+</h>
+<p>
+dette paa Grund af Vidners Bopæl eller af anden særlig Grund skønnes hensigtsmæs-<lb />
+sigt til Sagens Fremme. Beslutning herom tages af den Bet, ved hvilken Forfølgningen<lb />
+er begyndt, naar den anden Ret deri er enig, og ellers af den fælles overordnede Ret<lb />
+(§ 764). En Beslutning, hvorved en Begæring om Sagens Overflytning til en anden Ret<lb />
+nægtes, kan paakæres.
+</p>
+<wtitle>§  728.</wtitle>
+<p>
+Naar Sigtede møder, prøver Retten ikke i Embeds Medfør, om Sagen er ind-<lb />
+bragt for ret Værneting. Indsigelse er udelukket, naar Sigtede, førend Domsforhand-<lb />
+lingen er begyndt, har haft Adgang til at fremsætte den, uden at dette er sket.
+</p>
+<p>
+At Forundersøgelse eller enkeltstaaende Retshandlinger uden for Domsforhand-<lb />
+ling ikke ere foregaaede ved rette Værneting, berøver dem ikke deres Gyldighed.
+</p>
+<p>
+Er der Strid mellem flere Retters Afgørelser af et Værnetingsspørgsmaal, kan<lb />
+det af Paatalemyndigheden indbringes til Afgørelse for Landsretten, hvis Retterne<lb />
+høre til samme Landsretskreds, og i andre Tilfælde for Højesteret, Herved finde i<lb />
+øvrigt Reglerne i Kapitlerne 88—90 Anvendelse, saaledes at der ved Fristernes<lb />
+Beregning tages Hensyn til den sidste Afgørelse.
+</p>
+<wtitle>§  729.</wtitle>
+<p>
+Skal Forfølgning, enten ved Undersøgelsesret eller ved den dømmende Ret,<lb />
+samtidig finde Sted mod samme Sigtede for flere Forbrydelser eller mod flere Sigtede<lb />
+som delagtige i een Forbrydelse, bør dette ske under een Sag, for saa vidt saadant lader<lb />
+sig gøre uden væsentlig Forhaling eller Vanskelighed.
+</p>
+<wtitle>§  730.</wtitle>
+<p>
+Retten kan paa Begæring eller i Embeds Medfør beslutte Adskillelse af de<lb />
+Straffesager, som ere forenede i Henhold til § 729. Det beror paa Retten, om de<lb />
+Sager, som kun paa Grund af Foreningen forfølges for den, efter Adskillelsen frem-<lb />
+deles skulle behandles ved den eller ikke; samme Regel gælder, naar Foreningen op-<lb />
+hører af anden Grund, saasom Frafald af Forfølgning.
+</p>
+<wtitle>§  731.</wtitle>
+<p>
+Retten kan med Hensyn til flere selvstændige Sager, der samtidig henstaa for<lb />
+Undersøgelsesretten eller samtidig for den dømmende Ret, beslutte, at de skulle for-<lb />
+bindes til een Sag, dog, naar Søgsmaalene ikke staa i det i § 729 forudsatte Forhold til<lb />
+hinanden, kun, naar ingen af Parterne gør Indsigelse derimod.
+</p>
+<p>
+Beslutningen tages af den Ret, for hvilken Sagerne henstaa, eller, hvis Spørgs-<lb />
+maal er om Forening af Sager, som ere tingfæstede dels ved Landsretten, dels ved<lb />
+en under den hørende Underret, af Landsretten. Forfølges Sagerne ellers for for-<lb />
+skellige Retter, og der ikke er Enighed, afgøres Spørgsmaalet af vedkommende over-<lb />
+ordnede Ret (§  764).
+</p>
+<wtitle>§  732.</wtitle>
+<p>
+Retten kan omgøre Beslutninger, som den har truffet i Medfør af §§ 730 og<lb />
+731; dog kan en Sags Overgang til en anden Ret kun besluttes overensstemmende<lb />
+med Forskrifterne i § 731, 2det Stykke.
+</p>

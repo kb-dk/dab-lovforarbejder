@@ -1,0 +1,76 @@
+3655
+<pb n="8"/>
+<h>
+<coll>3655</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3656</colr>
+</h>
+<wtitle>§ 32.</wtitle>
+<p>
+Naar Domsforhandlingen i en Straffesag holdes for lukkede Døre, have de ved<lb />
+den paatalte Handling forurettede Personer, fremdeles Dommere, Øvrighedspersoner,<lb />
+Sagførere samt de, der ere indkaldte som Nævninger til det paagældende Ting, Adgang<lb />
+til at overvære samme; endvidere kan der af Rettens Formand tilstedes enkelte andre<lb />
+Adgang. Om de Forhandlinger, der af Hensyn til Statens Forhold til fremmede<lb />
+Magter eller til Sædeligheden finde Sted for lukkede Døre, maa ikke ske Meddelelse<lb />
+til nogen, hvem Adgang til at overvære dem ikke har været tilstedet. Overtrædelse<lb />
+heraf straffes med Bøder eller simpelt Fængsel.
+</p>
+<p>
+Hvorvidt der i borgerlige Sager, i hvilke Forhandling finder Sted for lukkede<lb />
+Døre, kan tilstedes enkelte Personer, som ikke have med Sagen at gøre, Adgang,<lb />
+beror paa Rettens Formand. Det samme gælder, naar i en Straffesag Retshandlinger<lb />
+udenfor Domsforhandling foregaa for lukkede Døre.
+</p>
+<wtitle>§ 33.</wtitle>
+<p>
+Adgang til offentligt Retsmøde kan nægtes Personer under 18 Aar samt en-<lb />
+hver, der fremstiller sig i en saadan Tilstand, at hans Nærværelse vilde stride mod<lb />
+Rettens Værdighed eller god Orden, i Straffesager desuden Personer, der for Vold<lb />
+eller for nogen i den offentlige Mening vanærende Handling have været straffede med<lb />
+offentligt Arbejde, Fængsel paa Vand og Brød eller Tvangsarbejde uden senere at<lb />
+have faaet Æresoprejsning. Rettens Formand kan under enhver Omstændighed, for<lb />
+at hindre, at Rummet overfyldes, begrænse Antallet af de Personer, der indlades.
+</p>
+<title>Kapitel 3</title>
+<undertitle>
+Retsbøger.
+</undertitle>
+<wtitle>§ 34.</wtitle>
+<p>
+Almindelige Forskrifter om, hvilke Retsbøger der skal føres ved de forskellige<lb />
+Retter, saavel som om deres Indretning og Førelse, kunne gives ved kongelig Anordning.<lb />
+Indenfor de derved dragne Grænser bestemmes Retsbøgernes Indretning for de af<lb />
+flere Dommere bestaaende Retter af Justitiarius, henholdsvis Formanden, for de øvrige<lb />
+Retters Vedkommende af Landsrettens Justitiarius.
+</p>
+<p>
+ De Retsbøger, som føres, autoriseres ved de af flere Dommere bestaaende Retter<lb />
+af vedkommende Justitiarius eller Formand og ved de øvrige Retter af vedkommende<lb />
+Dommer.
+</p>
+<wtitle>§ 35.</wtitle>
+<p>
+Angaaende alle Retshandlinger optages Beretning i Retsbogen.
+</p>
+<p>
+I Retsbogen indføres Angivelse af:
+</p>
+<p>
+1)	Tiden og Stedet for Retsmødet;
+</p>
+<p>
+2)	Navnene paa de Personer, der fungere som Dommere, Nævninger, Retsskriver og<lb />
+Retsvidner;
+</p>
+<p>
+3)	Sagens Nummer med Parternes Navne;
+</p>
+<p>
+4)	Navnene paa de Personer, der ere til Stede som Parter eller paa disses Vegne<lb />
+eller til deres Bistand, eller Bemærkning om de Forholdsregler, som maatte være<lb />
+trufne med Hensyn til deres Tilkaldelse eller Udelukkelse;
+</p>
+<p>
+5)	om Retsmødet er offentligt eller ikke.
+</p>

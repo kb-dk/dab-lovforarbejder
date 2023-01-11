@@ -1,0 +1,46 @@
+3567
+<pb n="102" />
+<h>
+<coll>3567</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3568</colr>
+</h>
+<p>stamdigheder tillades (§   168), og de for Underretten afgivne protokollerede Erklæringer med<lb />
+Hensyn til Sagens faktiske Sammenhcrng ere bindende for Parterne.</p>
+<p>Ved Paaanke af Udeblivelsesdomme kunne Omstændigheder, som Parten paa Grund<lb />
+af Udeblivelsen er afskaaren fra at gjøre gjældende, ei heller fremsættes for den overordnede<lb />
+Ret, undtagen hvor der i Henhold til Grundsætningerne i § 327 Nr. 5 vilde være at ind-<lb />
+romme ny Foretagelse af Sagen, hvis denne var bleven behandlet ved Landsret.</p>
+<wtitle>§ 359.</wtitle>
+<p>Bevisførelsen foregaar efter de almindelige Regler i andet Afsnit. Vidner og Syns-<lb />
+mænd fores derfor i Reglen paany for Landsretten. Dog kunne protokollerede Vidneudsagn<lb />
+for Underretten benyttes ved Landsretten, dersom Landsretten ifølge Sagens Beskaffenhed og<lb />
+øvrige Omstændigheder efter den ene Parts Begjæring finder Fsie til at bestemme, at de<lb />
+skulle gjælde, uden at Vidnerne paany fores for Landsretten.</p>
+<p>Hvor efter de almindelige Regler (§ 203) Vidners Afhørelse skulde eller kunde finde<lb />
+Sted ved Underretten, kan Landsretten bestemme, at de ved Underretten allerede afgivne pro-<lb />
+tokollerede Vidneudsagn skulle benyttes, uden at ny Afhørelse behsves.</p>
+<wtitle>§ 360.</wtitle>
+<p>Besværing til Landsretten over Underrettens Handlinger finder Sted i de samme<lb />
+Tilfælde, i hvilke der over Landsrettens Handlinger kan  iværkfættes Besværing til Hoiesteret.</p>
+<p>Fremgangsmaaden er med de af Forholdets Natur flydende Lempelser den samme, som<lb />
+benytte? ved Besværing over Landsrettens Handlinger.</p>
+<p>Besværing kan finde Sted uden Hensyn til Gjenstandens værdi.</p>
+<p>Landsrettens Afgjørelse i Anledning af Besværingen er ikke Gjenstand for yderligere<lb />
+Besværing til Høiesteret</p>
+<wtitle>§ 361.</wtitle>
+<p>Det i tredie Afsnits andet Kapitel omhandlede Retsmiddel, ny Foretagelse af Sagen<lb />
+ved den samme Ret, kan ikke anvendes imod Underretternes Domme og Behandlinger.</p>
+<title>Femte Afsnit.</title>
+<undertitle>Om fremgangsmaaden ved Intervention og ved Tilstaevning   af Trediemand<lb />
+under den imellem Parterne begyndte Netssag.</undertitle>
+<wtitle>§ 362.</wtitle>
+<p>Intcrventionsssgsmaal anlægges og fremmes efter de om et selvstcrndigt Segsmaal<lb />
+gjældende Regler, forsaavidt ikke Bestemmelserne i de følgendc Paragrafer medføre Afvigelse herfra.</p>
+<wtitle>§ 363.</wtitle>
+<p>Intervenienten indtræder i Sagen derved, at han tilstiller hver iscer af de oprindelige<lb />
+Parter et Skrift, hvori han fremstiller Grundene til sit søgsmaal og den Paastand, han<lb />
+vil nedlægge.</p>
+<p>Dette Skrift tilligemed Gjenpavter af de Dokumenter, som agtes benyttede, maa<lb />
+meddeles de oprindelige Parter senest 5 Dage forinden det af de til Hovedsagens Behandling<lb />
+bestemte Retsmeder, i hvilket Intervenienten vil optrcrdc.</p>

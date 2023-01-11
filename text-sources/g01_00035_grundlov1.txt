@@ -1,0 +1,159 @@
+1
+<pb n="35">
+<pagename>35</pagename>
+<h>
+<coll>1.</coll>
+<colr>2.</colr>
+<lb/>
+
+<topleft>1848.</topleft>
+<topmidle>
+Beretning om Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 1.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Første Møde.<lb/>
+</btitle>
+<p>
+Mandagen den 23de October 1848 om Formiddagen Kl.11½<lb/>
+samledes de til Rigsforsalingen valgte Mænd i den til Forsamlingen<lb/>
+indrettede Sal på Christiansborg Slot, efter forud afholdt Gudstjeneste i Slotskirken.<lb/>
+De Folkevalgte ere:<lb/>
+</p>
+<stitle>
+I. Kjøbenhavn.<lb/>
+</stitle>
+<p>
+1ste Distrikt:	Hammerich, M. I., Mag. artium.<lb/>
+2det	—	Hansen, H. P., Bankdirecteur, Grosserer.<lb/>
+3die	—	Ørsted, A. S., Geheimeconferentsråd.<lb/>
+4de 	—	Algreen-Ussing, Statsråd, Generalprocureur.<lb/>
+5te	—	Duntzfelt, Rådmand, Directeur.<lb/>
+6te	—	Visby, C. H.,Sognepræst.<lb/>
+7de	—	Larsen, I. E., Professor, Dr. juris.<lb/>
+8de	—	Kayser, H., Tømmermester.<lb/>
+9de	—	Pedersen, P., Professor.<lb/>
+10de	—	Hvidt, L. N., Statsråd.<lb/>
+l1te	—	Tuxen, N. E., Capitainlieutenant.<lb/>
+</p>
+<stitle>
+II.	Kjøbenhavns Amt.<lb/>
+</stitle>
+<p>
+lste Distrikt: Hall, Overauditeur, Lic. juris.<lb/>
+2det	—	Danchell, Grosserer, af Ørholm.<lb/>
+3die	—	Thalbitzer, Proprietair til Cathrineberg.<lb/>
+4de	—	Krieger, Professor juris.<lb/>
+5te	—	Lorck, Sognepræst til Hvedstrup og Flyng Menigheder.<lb/>
+6te	—	Hansen, Peder, Gårdmand af Abbelved.<lb/>
+</p>
+<stitle>
+III.	Frederiksborg Amt.<lb/>
+</stitle>
+<p>
+lste Distrikt: Olrik, Cancelliråd,Byfoged.<lb/>
+2det	—	Drewsen, Kammerråd, af Kjøbenhavn.<lb/>
+3die	—	Buntzen, Høiesteretsadvocat.<lb/>
+4de	—	Møller,Rasmus Nielsen, Huusfæster af Stoven i<lb/>
+Dråby Sogn.<lb/>
+5te	—	Johansen, Hans, Sognefoged, Gårdeler,af Knardrup.<lb/>
+6te	—	Ostermann, I.A., Overlærer.<lb/>
+</p>
+<stitle>
+IV.	Holbeks Amt.<lb/>
+</stitle>
+<p>
+lste Distrikt: Westerggård, N. L., Professor.<lb/>
+2det	—	Gregersen, Jens, Arvefæstegårdmand, af Kundby.<lb/>
+3die	—	Gleerup,A. C., Skolelærer,af Kjøbenhavn.<lb/>
+4de	—	Jespersen, Capitain, til Grønnebjerggård.<lb/>
+5te	—	Nielsen,Niels Hansen, Gårmand,af Løserup.<lb/>
+6te 	—	Andreasen, Nicolai,Møller, af Egeberg Mølle.<lb/>
+</p>
+<stitle>
+V. Sorø Amt.<lb/>
+</stitle>
+<p>
+lste Distrikt: Hækkerup, Lars Andersen, Parcellist, af Vettersløv.<lb/>
+2det	—	Mundt, Lector ved Sorø Akademi.<lb/>
+3die	—	Frølund, Cand. theol., af Kjøbenhavn.<lb/>
+4de	—	Møller, Institutbestyrer,af Flakkeberg.<lb/>
+5te	—	Neergård, C., Etatsråd, til Gundersløvholm.<lb/>
+6te	—	Boisen, Sognepræst til Skjørpinge og Faurdrup.<lb/>
+</p>
+</leftside>
+<rightside>
+<stitle>
+VI. Præsto Amt.<lb/>
+</stitle>
+<p>
+lste Distrikt:Hansen, Lars, Arvefæstegårdmand„ af Bjelkerup i<lb/>
+Storehedinge Landsogn.<lb/>
+2det	—	Johansen, Frederik, Møller, af Houby Mølle.<lb/>
+3die	—	Schack, H. E., Cand. juris., af Kjøbenhavn.<lb/>
+5te	—	Schroll, Chr., Fæstegårdmand, af Basnæs i. Beilø<lb/>
+Sogn.<lb/>
+6te	—	Rasmussen, Mikkel, Sognefoged, af Herlufmagle-Torpe.<lb/>
+7de	—	Barfod, P, F.,Student, af Kjøbenhavn.<lb/>
+</p>
+<stitle>
+VII.	Odense Amt.<lb/>
+</stitle>
+<p>
+lste Distrikt: Paludan -Müller, Overlærer, Dr. phil.<lb/>
+2det	—	Pedersen, Cornelius, Gårdmand,af Davinde.<lb/>
+3die	—	Madsen, Niels, Exam. juris, Gårdeier,af Asperup.<lb/>
+4de	—	Dinesen, Hans, Gårdeier,af Saltofte.<lb/>
+5te	—	Leth,A., Sognepræst i Middelfart.<lb/>
+6te	—	Jespersen, F., Procurator i Bogense.<lb/>
+7be	—	Johansen, Hans Christian, Gårdfæster, af Østrup.<lb/>
+8de	—	Larsen,Christian, Fæstegårdmand,af Dalby.<lb/>
+</p>
+<stitle>
+VIII.	Svendborg Amt.<lb/>
+</stitle>
+<p>
+lste Distrikt: Hansen, I. A., Redacteur,af Kjøbenhavn.<lb/>
+2det	—	Jacobsen, I., Rasmussen, Gårdmand, af Lundby.<lb/>
+3die	—	Colding, I. Chr., Dr. med., af Svendborg.<lb/>
+4de	—	Schjern, Lector, Mag., af Kjøbenhavn.<lb/>
+5te	—	Christensen, Olaus, Sognefoged, Gårdmand, af<lb/>
+Veistrup.<lb/>
+6te	—	Rasmussen, Jens, Fæstegårdmand, af Svanninge.<lb/>
+7be	—	Høier, Knud Chr., Gårdfæster, af Bjerrebye.<lb/>
+</p>
+<stitle>
+IX.	Maribo Amt.<lb/>
+</stitle>
+<p>
+lste Distrikt: Christensen B., Landsoverretsprocurator.<lb/>
+2det	—	Black Christen, Arvefæstegårdmand ,af Tjennemarke.<lb/>
+3die	—	Ågård, G., Procurator, på Binnitze.<lb/>
+4de	—	Olesen, H., Gårdfæster, af Sædinge<lb/>
+5te	—	Mörch-Hansen, Catechet i Nykjøbing.<lb/>
+6te	—	Rasmussen, Hans, Sognefoged, af Egense.<lb/>
+</p>
+<stitle>
+X.	Bornholms Amt.<lb/>
+</stitle>
+<p>
+lste Distrikt: Stender, A., Cand. juris<lb/>
+2det — Madvig, Professor, Dr. phil.<lb/>
+</p>
+<stitle>
+XI.	Ålborg Amt<lb/>
+</stitle>
+<p>
+lste Distrikt:Hjort, A. I., Godsforvalter, af Åstrup.<lb/>
+2det	—	Schurmann, I., Sognepræst, af Ålborg.<lb/>
+3die	—	Jungersen, Skolelærer.<lb/>
+4de	—	Eriksen, Chr., Møller.<lb/>
+5te	—	Jespersen, C. R., Landsoverretsprocurator i Viborg.<lb/>
+</p>
+</rightside>
+
+</pb>

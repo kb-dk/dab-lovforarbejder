@@ -1,0 +1,77 @@
+2655
+<pb n="8" />
+<h>
+<coll>
+2655
+</coll>
+<topmidle>
+F. t. L.  Rettens Pleje.
+</topmidle>
+<colr>
+2656
+</colr>
+</h>
+<p>
+f hver Landsret mindst en Gang i Løbet af hver 3 Maaneder paa hvert af Ting-<lb />
+stederne udenfor København, paa Bornholm dog kun en Gang i Løbet af hver 6<lb />
+Maaneder.
+</p>
+<p>
+Tiden for de ovennævnte regelmæssige Tings Begyndelse bestemmes for hvert<lb />
+Fjerdingaar af Landsrettens Formand og bringes til almindelig Kundskab.
+</p>
+<p>
+Over de Sager, som skal foretages paa et Ting, forfatter Landsrettens Kontor<lb />
+— i Straffesager med Overanklagerens Bistand — en Fortegnelse, i hvilken Sagerne<lb />
+opføres i den Orden, i hvilken de formenes at burde foretages, med Angivelse af den<lb />
+Tid, paa hvilken hver Sag paaregnes at ville kunne komme for. Paa Fortegnelsen<lb />
+opføres fremdeles de Sager, som i Medfør af § 11, 2det Stykke, 2det Punktum, maatte<lb />
+være henviste til Tinget. Denne Fortegnelse forelægges betimeligt Rettens Formand<lb />
+til Godkendelse. Naar Fortegnelsen, efter Omstændighederne med de Ændringer, som<lb />
+Formanden maatte have bestemt, er godkendt af ham, bekendtgør Retsskriveren ved<lb />
+Opslag paa Tingstedet en overensstemmende hermed affattet Tingliste. Senere For-<lb />
+andringer eller Tillæg indføres paa Tinglisten, saa snart de er godkendte af For-<lb />
+manden, og foranstaltes saa hurtigt som muligt meddelt alle vedkommende.
+</p>
+<p>
+Overordentlige Ting til Domsbehandling af Straffesager, under hvilke Sigtede<lb />
+er fængslet, afholdes saavel paa Rettens Hovedtingsted som paa dens andre Tingsteder<lb />
+efter de af Justitsministeren ved Anordning fastsatte Regler.
+</p>
+<wtitle>§ 24.</wtitle>
+<p>
+Til Behandling af andre end de i § 23 nævnte Sager afholder Landsretterne<lb />
+Møder til de Tider, som Retterne bestemmer, og hvorom offentlig Bekendtgørelse finder<lb />
+Sted. Overordentlige Møder kan vedkommende Formand beramme, naar saadant af<lb />
+særegne Grunde findes fornødent.
+</p>
+<p>
+Sø- og Handelsretten i København træffer selv Bestemmelse om Tiden for<lb />
+Rettens Møder og om Bekendtgørelsen heraf.
+</p>
+<wtitle>§ 25.</wtitle>
+<p>
+Bestemmelse om Tiden for ordentlige Møder i de Afdelinger af Københavns<lb />
+Byret, der behandler Domssager, saavel som om Bekendtgørelsen heraf træffes af By-<lb />
+rettens Formand med Justitsministerens Billigelse; overordentlige Møder kan be-<lb />
+rammes af Dommeren i den paagældende Afdeling. Møder i andre Sager berammes<lb />
+af Dommeren overensstemmende med Reglerne i de følgende Bøger.
+</p>
+<wtitle>§ 26.</wtitle>
+<p>
+For Underretterne udenfor København bestemmes ved kongelig Anordning<lb />
+Tiden for de ordentlige Retsmøder til Domssagers Behandling paa de enkelte Ting-<lb />
+steder. Dommeren berammer i hvert enkelt Tilfælde Tiden for andre Retsmøder.
+</p>
+<wtitle>§ 27.</wtitle>
+<p>
+Paa Søn- og Helligdage afholdes ikke Retsmøder undtagen i paatrængende<lb />
+Tilfælde, Om Tilfældet er paatrængende, afgøres af Retten eller dennes Formand.
+</p>
+<wtitle>§ 28.</wtitle>
+<p>
+Naar Hensyn til Retspersonalet eller Rettens øvrige Forretninger kræver det,<lb />
+eller Omstændighederne i øvrigt gør det nødvendigt, kan Formanden afbryde begyndte<lb />
+Retsmøder eller afsige eller udsætte berammede Retsmøder, hvorom da Underretning<lb />
+snarest muligt bliver at give alle vedkommende.
+</p>

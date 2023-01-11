@@ -1,0 +1,93 @@
+504
+<pb n="240" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>504</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+Register<lb/>
+til<lb/>
+Lov om Rettens Pleje.
+</p>
+<p>
+Første Bog: Domsmagten m. m.
+</p>
+<p>
+Paragraf.
+</p>
+<p>
+Første Afsnit: Domstolenes Ordning:
+</p>
+<p>
+Kap. 1: Retterne		1—22
+</p>
+<p>
+Kap. 2: Retsmøder		23-33
+</p>
+<p>
+Kap. 3: Retsbøger		34—42
+</p>
+<p>
+Kap. 4: Dommere. Retsskrivere, Retsvidner og Retsbude m. m. ...	43—60<lb/>
+</p>
+<p>
+Kap. 5: Tilfælde, hvor Rettens Personer skulle eller kunne vige<lb/>
+deres Sæde		61—68
+</p>
+<p>
+Andet Afsnit: Nævningers Kaldelse:
+</p>
+<p>
+Kap. 6: Almindelige Bestemmelser		69—73
+</p>
+<p>
+Kap. 7 : Grundlister			74—78
+</p>
+<p>
+Kap. 8: Nævningekredsens Årsliste		79—83
+</p>
+<p>
+Kap. 9: Udtagelse af Nævninger for det enkelte Ting og for den<lb/>
+enkelte Sag			84—105
+</p>
+<p>
+Tredie Afsnit: Sagførere:
+</p>
+<p>
+Kap. 10: Sagføreres Beskikkelse og Adgang til at benytte Fuldmægtig m. m				106—117
+</p>
+<p>
+Kap. 11: Sagføreres Rettigheder og Pligter 			118—123
+</p>
+<p>
+Kap. 12: Ophør af Retten til Sagførervirksomhed				124—125
+</p>
+<p>
+Kap. 13: Sagførersamfund og Sagførerråd 		 ....	126—134
+</p>
+<p>
+Fjerde Afsnit: Politimyndigheden:
+</p>
+<p>
+Kap. 14				135—138
+</p>
+<p>
+Anden Bog: Fælles Bestemmelser for borgerlige Sager og Straffesager.
+</p>
+<p>
+Kap. 15: Almindelige Bestemmelser om Procesmåden		139—143
+</p>
+<p>
+Kap. 16: Forkyndelser og Meddelelser		144—158
+</p>
+<p>
+Kap. 17: Vidner		159-186
+</p>
+<p>
+Kap. 18: Syn og Skøn			187—204
+</p>
+<p>
+Kap. 19: Rettens Rådslagninger og Afgørelser		205—214
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

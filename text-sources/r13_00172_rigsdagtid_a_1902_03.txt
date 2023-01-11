@@ -1,0 +1,85 @@
+2071
+<pb n="172" />
+<h>
+<coll>
+2071
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2072
+</colr>
+</h>
+<p>
+er noget til Hinder for Vidnesbyrdets Modtagelse. Dommeren skal derefter alvorlig<lb />
+lægge Vidnet paa Hjerte at følge Sandheden, idet han minder det om det Strafansvar,<lb />
+som det paadrager sig ved at afgive falsk Forklaring for Retten.
+</p>
+<p>
+Skulle flere Vidner afhøres, kan Dommeren lade denne Forberedelse til Af-<lb />
+hørelse foregaa under et for flere eller samtlige indkaldte Vidner.
+</p>
+<wtitle>§  776.</wtitle>
+<p>
+Vidner, som afgive Forklaring under Domsforhandling, skulle som Regel ed-<lb />
+fæstes, eller — hvis Vidnet ikke hører til et Trossamfund, for hvilket der haves en<lb />
+lovbestemt Edsformular, eller erklærer, at det ifølge sin religiøse Tro ikke tør aflægge<lb />
+Ed, eller at det overhovedet ikke har nogen religiøs Tro — afgive en Forsikring „paa<lb />
+Ære og Samvittighed", der træder i Eds Sted.
+</p>
+<p>
+Eden aflægges eller Forsikringen afgives, forinden Afhørelsen om Sagen be-<lb />
+gynder, medmindre Retten af Hensyn til Reglen i § 778 Nr. 2 eller samme Paragrafs<lb />
+næstsidste Stykke finder Grund til at udsætte Afgørelsen af, hvorvidt Edfæstelse skal<lb />
+finde Sted.
+</p>
+<p>
+Ed, der aflægges, eller Forsikring, der afgives, før Afhørelsen om Sagen be-<lb />
+gynder, gaar ud paa, at Vidnet lover, at det vil udsige den rene Sandhed og i sine<lb />
+Svar paa Spørgsmaalene intet fordølge, som kan tjene til Sagens Oplysning.
+</p>
+<p>
+En Ed, der skal aflægges, eller Forsikring, der skal afgives efter Afhørelsen<lb />
+kan udsættes, indtil alle Vidner, hvis Forklaringer angaa et og samme Forhold, ere<lb />
+afhørte, og Dommeren bør i alt Fald, forinden han modtager et Vidnes Bekræftelse,<lb />
+give det Lejlighed til at berigtige sin Forklaring og kan foreholde det, hvad der af<lb />
+andre Vidner er forklaret eller paa anden Maade er fremkommet i Modstrid med Vidnets<lb />
+Forklaring. Vidnets Bekræftelse gaar ud paa, at det Forslkrer, at det har talt den<lb />
+rene Sandhed og intet fortiet, der kan tjene til Sagens Oplysning.
+</p>
+<wtitle>§  777.</wtitle>
+<p>
+Vidneforklaring, som afgives uden for Domsforhandling, bliver ikkun at be-<lb />
+edige, naar Forklaringen maa paaregnes at skulle benyttes som Bevis under Doms-<lb />
+forhandling, eller naar saadant af særlige Grunde maa anses nødvendigt. Retten<lb />
+bestemmer, om Edfæstelsen i saadanne Tilfælde skal gaa forud for eller følge efter<lb />
+Afhørelsen, og Retsvidne skal saa vidt muligt tilkaldes, overensstemmende med § 736,<lb />
+naar en særlig Retsskriver ikke er til Stede.
+</p>
+<p>
+Afgiver Vidnet senere Forklaring under Domsforhandlingen, skal Vidnet tages i<lb />
+Ed eller afgive- Forsikring efter de for denne givne Regler.
+</p>
+<wtitle>§  778.</wtitle>
+<p>
+Edfæstelse finder ikke Sted af:
+</p>
+<p>
+1)	Børn under 15 Aar,
+</p>
+<p>
+2)	Personer, hvis Aandsevner skønnes at være saa mangelfuldt udviklede eller<lb />
+saa svækkede eller forstyrrede, at Edfæstelse vilde være betydningsløs,
+</p>
+<p>
+3)	Personer, som ere under Tiltale for eller fundne skyldige i Mened,
+</p>
+<p>
+4)	Personer, der ere dømte som skyldige eller medskyldige i den Handling, som<lb />
+er Undersøgelsens Genstand.
+</p>
+<p>
+Retten kan nægte at edfæste Personer, hvis Vidnesbyrd enten paa Grund af<lb />
+deres forbryderske Vandel eller paa Grund af deres Stilling til Sagen eller til Sigtede
+</p>

@@ -1,0 +1,75 @@
+2889
+<pb n="125" />
+<h>
+<coll>
+2889
+</coll>
+<topmidle>
+F. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2890
+</colr>
+</h>
+<p>
+af nogen af de oprindelige Parter lovlig er rejst Anke eller Kære mod Udlægsforretningen,<lb />
+enten selvstændigt eller som et Tilbehør til Dommen, bliver det udlagtes Forauktionering<lb />
+at stille i Bero.
+</p>
+<p>
+Dog kan Fogeden, naar de udlagte Genstande er udsatte for Fordærvelse eller<lb />
+væsentlig Værdiforringelse ved at henligge saa længe, som Iagttagelsen af foranstaaende<lb />
+Bestemmelser vilde kræve, eller naar deres Bevaring er forbundet med uforholdsmæssig<lb />
+Bekostning, lade Auktionen afholde til et tidligere Tidspunkt, end de ovenangivne<lb />
+Regler hjemler.
+</p>
+<wtitle>§ 543.</wtitle>
+<p>
+Til Omkostninger ved Forauktioneringen regnes ikke blot de egentlige Auktions-<lb />
+udgifter, Afgifter, Inkassationssalær, Leje af Lokale, Bekostning ved Varernes Opbevaring<lb />
+og desl., men ogsaa Fogedens Udlæg til Porto, Bekendtgørelser m. v. Til Auktionsomkost-<lb />
+ningerne henregnes endvidere ved Tvangsauktioner over faste Ejendomme Udgifter ved<lb />
+disses Bestyrelse og Drift efter Udlæget indtil det endelige Salg, for saa vidt den, der<lb />
+har udredet dem, har Krav paa Andel i Købesummen.
+</p>
+<title>Kapitel 50.</title>
+<undertitle>
+Tvangsauktion over Løsøre.
+</undertitle>
+<wtitle>§ 544.</wtitle>
+<p>
+Bekendtgørelse om Auktion over udlagt Løsøre skal ske mindst en Uge før Auk-<lb />
+tionens Afholdelse, jfr. dog § 538, sidste Stykke, og § 556. Den skal i det mindste 2 Gange<lb />
+indrykkes i de mere udbredte stedlige Blade, saaledes at den første Bekendtgørelse<lb />
+sker med det nævnte Varsel og den anden en af de nærmeste Dage før Auktionen.<lb />
+Fremdeles skal der om Auktionen ske Opslag ved Plakater og foregaa offentligt Udraab,<lb />
+for saa vidt saadant paa Auktionsstedet er sædvanligt ved frivillige Auktioner.
+</p>
+<wtitle>§ 545.</wtitle>
+<p>
+Bekendtgørelsen skal indeholde tydelig og nøjagtig Angivelse af Tiden og Stedet,<lb />
+naar og hvor Auktionen holdes, samt en almindelig Betegnelse af de Genstande, som<lb />
+skal bortsælges, med Fremhævelse af de særlig værdifulde iblandt dem.
+</p>
+<wtitle>§ 546.</wtitle>
+<p>
+Auktionsrekvirenten antager en Inkassator, som har at stille en af Fogeden nærmere<lb />
+bestemt Sikkerhed. Det paahviler Inkassator at være til Stede ved Auktionen og afgøre,<lb />
+om han vil give den enkelte bydende Kredit eller ikke, samt at indkræve Auktionspengene.
+</p>
+<p>
+Inkassator er som Selvskyldner ansvarlig for, at Beløbene af de af ham antagne<lb />
+Bud bliver betalt, medmindre andet er vedtaget.
+</p>
+<wtitle>§ 547.</wtitle>
+<p>
+Fogeden har at paase, at der ved Auktionsvilkaarene, som i øvrigt forfattes af<lb />
+Rekvirenten, indrømmes vederhæftige Købere den paa Egnen ved frivillige Auktioner<lb />
+sædvanlige Kredit, dog uden Fogedens Billigelse ikke ud over 3 Maaneder.
+</p>
+<p>
+Det beror paa Auktionsrekvirenten, om han ved Auktionsvilkaarene vil paalægge<lb />
+Køberne at udrede Auktionsomkostningerne, eller om han vil fritage Køberne herfor<lb />
+og lade dem forlods udrede af Auktionssummen; i førstnævnte Tilfælde bliver de at ansætte<lb />
+til visse Procent eller en vis Andel af hver Krone.
+</p>

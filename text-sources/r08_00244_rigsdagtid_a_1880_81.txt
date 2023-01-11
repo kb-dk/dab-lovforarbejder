@@ -1,0 +1,53 @@
+3851
+<pb n="244" />
+<h>
+<coll>3851</coll>
+<topmidle>Forsl. t. L. on Strafieretspleien.</topmidle>
+<colr>3852</colr>
+</h>
+<p>gelse, eller nogen af nævningerne ikke har været   tilstede   under   hele den forudgaaende Del<lb />
+af Hovedforhandlingen;</p>
+<p>2)  naar en Person,   som ifølge Loven er  udelukket   fra nævningehvervet i Alminde-<lb />
+lighed eller i den paagjældende Sag, har medvirket som nævning;</p>
+<p>3)  naar den i Lov om Domsmagtens Ordning m, m. § 8), jfr. § 90, foreskrevne<lb />
+meddelelse er forssmt, eller naar Lodtrækning cu nævninger til en Sag er foretagen, uden<lb />
+at det   i   § 314   foreskrevne Antal nævninger   var tilstede,   eller  naar Forskrifterne   i   §§<lb />
+315—17  ere tilsidesætte, eller naar nævningerue ikke lovlig ere blevne edfcestede;</p>
+<p>4)  naar Neglerne om Maaden, hvorpaa Spørgsmaalene til nævningerne skulle stilles,<lb />
+erc tilsidesætte, eller det paa  Grund as Retsvildfarelse eller i aabenbar Miskjendelse af den i<lb />
+Forhandlingerne liggende Opfordring   er undladt at stille spørgsmaal,   som burde være stil-<lb />
+lede,   forsaavidt ikke Udfaldet af Nævningernes Erklæring   viser,   at Feilen   er   bleven uden<lb />
+Betydning;</p>
+<p>5)  naar Nævningernes Erklæring er saa ufuldstændig, utydelig eller modsigende,   at<lb />
+en Domfældelse ikke burde være stottet paa den, men Retten burde have gjort Anvendelse af<lb />
+sin Bewiclse efter § 348,   eller naar Retten uden Fsic har fundet en Erklæring,   som be-<lb />
+grundede Frifindelse, ufuldstændig,   utydelig eller modsigende og derfor har   bragt   § 348   lil<lb />
+Anvendelse;</p>
+<p>6) naar Erklæringer,   som det ligger udenfor nævningernes Befoieile   at   afgive,   cre<lb />
+tagne i Betragtning af  Retten;</p>
+<p>7)  naar Netten i Henhold til § 350 har frifundet eller henvift Sagen til  nv For-<lb />
+handling, men Beslutningen derom enten  hviler paa en Netsvildfarelse  eller   ikke er ledsaget<lb />
+af Grunde  eller ikkun begrundet ved en almindelig Henvisning til Forhandlingernes Resultat,<lb />
+eller naar ^luiningsbestemmelsen i § 351   er tilsidesat;</p>
+<p>8)  naar ellers mod Loven Dommen ikke er grundet paa nævningcrnes Erklæring.</p>
+<wtitle>§ 376.</wtitle>
+<p>Paaankc i Anklagens Interesse kan ikke finde Sted paa Grund af Krænkelse a^<lb />
+Rettergangsregler, som ere forestrevne til den Sigtedes Tarv, og omvendt kan Paaanke i<lb />
+den Sigtedes Interesse ikke finde Sted, fordi Rettergangsregler, som ere foreskrevne for An-<lb />
+klagens Skyld, ere tilsidesatte.</p>
+<p>Krænkelse af Rettergangsregler, med Hensyn til hvilke Loven kræver, at Indsigelse<lb />
+skal fremsættes inden en vis Frist, kunne ikke benyttes som Ankegrund, naar Fristen er for-<lb />
+'smt. Det Samme gjælder, naar Besværing kunde anvendes som Retsmiddel, men ikke er<lb />
+anvendt eller ikke er tagen til følge.</p>
+<wtitle>§ 377.</wtitle>
+<p>Dommen kan fremdeles paaankes:</p>
+<p>1)  naar Loven er urigtig anvendt ved spørgsmaalet, om Statsanklageren i Henhold<lb />
+til §§ 34 og 36—37  var berettiget til Paatale;</p>
+<p>2)  naar i Sager,   som   ere   paakjendtc uden nævninger,   Retten   ved at domfældc<lb />
+eller frifinde har anvendt Lovcn urigtig paa de i Dommen som beviste antagne Kjendsgjerninger;</p>
+<p>3)  naar i nævningesager Retten har grundet Domfældelse paa en Erklæring af næv-<lb />
+ningerne. som indeholder en Retsvildfarelse,    eller   naar Retten   har   domfældt eller frifundet<lb />
+paa Grund af urigtig Anvendelse af Loven i Henseende til faadanne Punkter, som ikke hore<lb />
+under nævningernes Afgjørclse;</p>
+<p>4)  naar Retten   i at fastfætte Straffen   er   gaaet   udenfor   de  i Loven   forestrevne<lb />
+Grænser;</p>

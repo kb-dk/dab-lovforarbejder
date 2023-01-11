@@ -1,0 +1,54 @@
+19
+<pb n="19" />
+<leftside>
+<pagename>17
+</pagename>
+<title>Andet Afsnit..<lb />
+Nævningers Kaldelse.<lb />
+Kap. III.
+</title>
+<undertitle>Almindelige Bestemmelser,
+</undertitle>
+<wtitle>§ 45.
+</wtitle>
+<p>For hvert Aar, regnet fra 1ste Juni<lb />
+til 31te Maj, vælges et Antal Mænd til<lb />
+til at udføre Nævningehvervet. Blandt disse<lb />
+udtages Nævningerne for det enkelte Ting<lb />
+ved Lodtrækning, og blandt de saaledes Udtagne atter Nævningerne for den enkelte<lb />
+Sag, ligeledes ved Lodtrækning.
+</p>
+<p>Ved Nævningekreds forstaas den Del<lb />
+af en Landsretskreds, som er henlagt til<lb />
+samme  Landsretstingsted.
+</p>
+<wtitle>§ 46.
+</wtitle>
+<p>Til Nævning kan med de af §§ 47 og<lb />
+48 følgende Undtagelser kaldes Enhver, som<lb />
+har Valgret til Folketinget, medmindre han<lb />
+paa Grund af legemlige Mangler eller utilstrækkeligt Kendskab til det danske Sprog er<lb />
+ude af Stand til at fyldestgøre en Nævnings<lb />
+Pligter. Den for Valgretten gældende Betingelse med Hensyn til Boligen bliver her<lb />
+at anvende saaledes, at den Paagældende i<lb />
+det Nar, der gaar forud for Nævningeaarets<lb />
+Begyndelse, stal have haft Bopæl i Nævningekredsen.
+</p>
+<wtitle>§ 47.
+</wtitle>
+<p>Udelukkede fra at være Nævninger ere:<lb />
+Ministre, Departementschefer, Medlemmer af<lb />
+højesteret samt Dommere i Landsretterne<lb />
+og Underretterne, offentlige Anklagere, Overøvrigheder, Politiets Embeds- og Bestillings-mænd, Folkekirkens og de anerkendte Trossamfunds Gejstlige.
+</p>
+<wtitle>§ 48.
+</wtitle>
+<p>Følgende Personer   kunne  begære sig<lb />
+fritagne for Nævningehvervet:
+</p>
+<p>1) Rigsdagsmænd, medens Rigsdagen<lb />
+er samlet,
+</p>
+<pagename>3
+</pagename>
+</leftside>

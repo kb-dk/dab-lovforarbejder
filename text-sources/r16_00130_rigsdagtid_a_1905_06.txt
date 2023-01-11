@@ -1,0 +1,70 @@
+2163
+<pb n="130" />
+<h>
+<coll>
+2163
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2164
+</colr>
+</h>
+<wtitle>§ 562.</wtitle>
+<p>
+Køberen paa Tvangsauktionen er, naar den i § 570 angivne Frist af 4 Uger<lb />
+er forløben, uden at der er rejst Anke eller Kære, og han har fyldestgjort Auktions-<lb />
+vilkaarene, berettiget til at lade de Hæftelser, til hvis Dækning der efter Auktionens<lb />
+Udfald intet udkommer, udslette af Skøde- og Pantebogen.
+</p>
+<wtitle>§ 563.</wtitle>
+<p>
+I Honorar til Auktionsrekvirentens juridiske Konsulent kan der i det højeste<lb />
+paalægges Køberen at betale for samtlige i Forbindelse med Auktionen staaende For<lb />
+retninger l/2 pCt. af Købesummen, naar denne overstiger 10,000 Kr., og hvis den er<lb />
+ringere, kun Salærer fra 20 til 50 Kr. foruden Rejseomkostninger.
+</p>
+<p>
+For saa vidt nogen af de øvrige mødende har Krav paa Salær, bestemmes<lb />
+dette ikke procentvis i Forhold til Købesummen eller Størrelsen af den Fordring, som<lb />
+de skulle værne om, men i Forhold til Ulejligheden ved Mødet og Sagens Beskaffenhed<lb />
+i det hele ligeledes med Tillæg af Rejseomkostninger.
+</p>
+<p>
+Hvor der tvistes om Størrelsen af et fordret Salær, afgør Fogden, hvis Over-<lb />
+enskomst ikke kan opnaas ved hans Mægling, Spørgsmaal herom ved Kendelse.
+</p>
+<title>Kapitel 49.</title>
+<undertitle>Proceduren af Tvistigheder, der opstaa under Tvangsauktionen.</undertitle>
+<wtitle>§ 564.</wtitle>
+<p>
+Under Tvangsauktionen kunne de oprindelige Parter ikke fremsætte saadanne<lb />
+Indsigelser, som vedrøre Lovligheden af Udlægsforretningen eller de forud for samme<lb />
+liggende Retshandlinger.
+</p>
+<p>
+Indsigelser, som ikke høre til de i Kapitel 48 omhandlede, kunne af Tredie-<lb />
+mand fremsættes under Auktionsforretningen, naar han formener, at Auktionens<lb />
+Fremme paa den paastaaede Maade vil komme i Strid med lians Ret.
+</p>
+<wtitle>§ 565.</wtitle>
+<p>
+Proceduren under Auktionen eller Forberedelserne til samme foregaar efter de<lb />
+Regler, som i §§ 500, 501 og 502 ere givne om Tvistigheders Forhandling under<lb />
+Eksekutionsforretninger.
+</p>
+<wtitle>§ 566.</wtitle>
+<p>
+Hvad der skal optages i Auktionsbogen, afgøres efter de i § 503 opstillede<lb />
+Grundsætninger.
+</p>
+<p>
+Dog blive de i Reskript af 13. Juni 1783 og Plakat af 3. September 1823 inde-<lb />
+holdte Bestemmelser, hvorefter visse Løsøreauktioner ikke behøve at foretages til<lb />
+Auktionsbogen, fremdeles at anvende med de Lempelser, som følge af Reglerne i<lb />
+nærværende Kapitel.
+</p>
+<wtitle>§ 567.</wtitle>
+<p>
+De i § 504 om Udsættelse og Standsning givne Regler komme ogsaa til An-<lb />
+vendelse paa selve Auktionens Afholdelse, jfr. dog § 551, 1ste Stykke i Slutningen.
+</p>

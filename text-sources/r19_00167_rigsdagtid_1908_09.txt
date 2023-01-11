@@ -1,0 +1,71 @@
+2471
+<pb n="167" />
+<h>
+<coll>2471</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2472</colr>
+</h>
+<p>
+Sigtede offentlig Forsvarer, naar Retten efter Sagens Beskaffenhed finder saadant for-<lb/>
+nødent, og Sigtede ikke selv har valgt en Forsvarer, eller denne udebliver; jvf. derhos § 903.
+</p>
+<p>
+Beslutninger, hvorefter Forsvarer skal beskikkes, kunne ikke paaklages for højere<lb/>
+Ret. Imod Beslutninger, hvorved Beskikkelse af Forsvarer nægtes, kan Kære til højere<lb/>
+Ret finde Sted.
+</p>
+<wtitle>§ 717.</wtitle>
+<p>
+Til at beskikkes som offentlige Forsvarere antager Justitsministeren efter Over-<lb/>
+enskomst et passende Antal af de til Møde for vedkommende Domstol berettigede Sag-<lb/>
+førere eller, om fornødent, andre dertil egnede Mænd. I paatrængende Tilfælde kan<lb/>
+dog ogsaa en Sagfører, der ikke er antagen af Justitsministeren, men dog berettiget<lb/>
+til Møde for vedkommende Ret, beskikkes til Forsvarer.
+</p>
+<p>
+Antagelse til at beskikkes som offentlig Anklager i Henhold til § 712 udelukker
+ikke, at vedkommende tillige kan antages til at beskikkes som offentlig Forsvarer.
+</p>
+<wtitle>§ 718.</wtitle>
+<p>
+Til offentlig Forsvarer maa ingen beskikkes, der selv er forurettet ved For-<lb/>
+brydelsen eller staar i et saadant Forhold til den forurettede, som vilde udelukke en<lb/>
+Dommer fra at handle i Sagen, eller der er kaldet til at forklare som Vidne, Spis-<lb/>
+eller Skønsmand i Sagen eller har handlet i den som Anklager eller Rettergangs-<lb/>
+fuldmægtig for den forurettede eller som Politiembedsmand eller som Dommer eller<lb/>
+i en anden Straffesag har været Forsvarer for en Sigtet, med hvis Interesse i Sagen<lb/>
+den nu Sigtedes staar i Strid, eller hvis Beskikkelse ifølge § 61 Nr. 3 vilde medføre<lb/>
+Inhabilitet hos Dommeren.
+</p>
+<p>
+Ere flere Personer sigtede under samme Sag, kan Forsvaret kun udføres af<lb/>
+den samme Person, naar de Sigtedes Interesser under Sagen ikke ere modstridende.
+</p>
+<wtitle>§ 719.</wtitle>
+<p>
+Beskikkelse af Forsvarer ved Undersøgelsesret samt ved Domsforhandling for<lb/>
+Underret foretages af den Overøvrighed (i København Politidirektøren), i hvis Kreds den<lb/>
+paagældende Underret er beliggende. I paatrængende Tilfælde, indtil vedkommendes<lb/>
+Bestemmelse kan indhentes, kan dog Dommeren foretage Beskikkelsen. Beskikkelse af<lb/>
+Forsvarer for Landsret eller Højesteret foretages af henholdsvis Landsrettens eller<lb/>
+Højesterets Formand. Sagerne bør saa vidt muligt fordeles mellem de antagne For-<lb/>
+svarere efter Omgang; ønsker Sigtede en bestemt Person beskikket og oplyser, at<lb/>
+denne er villig, bør han i Reglen beskikkes uden Hensyn til den regelmæssige Omgang,<lb/>
+forudsat at ingen lovlig Hindring er forhaanden.
+</p>
+<wtitle>§ 720.</wtitle>
+<p>
+Beskikkelsen kan tilbagekaldes, jvf. § 719, naar det findes nødvendigt i For-<lb/>
+svarets Interesse, samt, for saa vidt Sagen ikke derved forhales, efter Begæring af Sig-<lb/>
+tede, naar han har truffet Overenskomst om Forsvarets Udførelse uden Udgift for det<lb/>
+offentlige.
+</p>
+<wtitle>§ 721.</wtitle>
+<p>
+Forsvareren er berettiget til at overvære alle Retsmø der, selv om disse holde<lb/>
+for lukkede Døre (§ 30), den valgte Forsvarer dog kun, for saa vidt han ikke er ude-<lb/>
+lukket fra Tilstedeværelse i Medfør af § 804 Nr. 3. I de Retsmøder, der afholdes,<lb/>
+forinden Tiltale er rejst, er Forsvareren berettiget til at fremføre Bemærkninger og<lb/>
+til i Korthed at faa disse tilførte Protokollen; men Dommeren bestemmer, paa hvilket<lb/>
+Tidspunkt af Retsmødet dette kan ske, jvf. dog § 807. I Retsmødet er Forsvareren
+</p>

@@ -1,0 +1,52 @@
+3839
+<pb n="238" />
+<h>
+<coll>3839</coll>
+<topmidle>Forsl. t. L. om Strafferetspleien.</topmidle>
+<colr>3340</colr>
+</h>
+<wtitle>§ 348.</wtitle>
+<p>Lider nævningernes erklæring as Mangler i Formen, eller er dens Indhold utyde-<lb />
+ligt, modsigende eller usuldstændigt, eller opstaar der Tvivl, om den oplcefte erklæring ud-<lb />
+trykker nævningernes virkelige Mening eller er vedtagen med det foreskrevne Stemmetal, og<lb />
+Mangelen ikke strax kan afhjælpes eller Tvivlen hæves ved en erklæring af Nævningernes<lb />
+Formand, paalægger Retten ved Kjendelse nævningerne at begive sig tilbage til deres Vce-<lb />
+relse, for ved en ny erklæring at afhjælpe Manglen eller fjerne Tvivlen. De fornødne For-<lb />
+klaringer meddeles nævningerne ved Kjendelsens Afsigelse af Rettens Formand.</p>
+<p>Vedrover Mangelen kun Formen, maa nævningerne Intet forandre i Glklæringens<lb />
+Indhold; ligeledes skulle de Svar, hvis Berettigelse eller fuldstændiggjørelse ikke fordres,<lb />
+forblive uforandrede.    Utilstedelige ændringer maa ikke tages i Betragtning af Retten.</p>
+<p>Berigtigelsen eller fuldstændiggiørelsen vedføies saaledes, at det træder tydelig frem,<lb />
+hvorledes den oprindelige Erklæring har lydt.</p>
+<p>Den heromhandlede Forholdsregel kan   træffes, saalænge Retten ikke har afsagt Dom.</p>
+<wtitle>§ 349.</wtitle>
+<p>Gfterat nævningernes Erklæring er oplæst og overleveret Rettens Formand, kunne<lb />
+ordentligvis ingen yderligere spørgsmaal forelægges nævningerne. Dog kunne saadannc<lb />
+Tillægsspørgsmaal, som ommeldes i §§ 333 og 334, ogsaa forelægges nævningerne senere,<lb />
+saalænge Retten ikke har afsagt Dom, naar det under Forhandlingen Fremkomne saa klart<lb />
+paabød at stille stige spørgsmaa! i embeds medfør, at Undladelse heraf kan antages at<lb />
+ville medføre Dommens Ophævelse.</p>
+<wtitle>§ 350.</wtitle>
+<p>Finder Retten, at Indholdet af en for den Sigtede ugunstig erklæring af Nævnin-<lb />
+gerne viser, at den beror paa en Retsvildfarelse, afsiger Retten Frifindelsesdom.</p>
+<p>Finder Retten, at Forhandlingerne ikke have vdet et efter Erfaringens Vidnesbyrd<lb />
+tilstrækkeligt godtgjort faktisk Grundlag for en ugunstig erklæring, kan Retten iftedetfor at<lb />
+afsige Dom henvise Sagen til ny Hovedforhandling. Denne skal foregaa for andre<lb />
+Dommere og andre nævninger- bliver det paa Grund heraf nedvendigt, at Sagen for-<lb />
+handles for en anden Ret, bestemmer Hoiesteret det Fornødne paa Overstatsanklagerens An-<lb />
+dragende. Har Retten i Henhold til foranftaaende Regel henvift Sagen til ny Hovedfor-<lb />
+handling, bliver Overstatsanklageren beføiet til, indtil nævningerne have erklæret sig nnder<lb />
+den nye Saa, at frafalde Anklagen, i  hvilket Fald Frifindelsesdom bliver  at afsige.</p>
+<p>Rettens ovennævnte Beslutninger skulle være ledsagede af Grunde. Stemmeflerhed<lb />
+skal være tilstede ikke blot med Hensyn til Resultatet, men ogsaa med Hensyn til enhver af<lb />
+de anforte Grunde; de Dommere, som ikke billige Resultatet, skulle vel være tilstede ved hele<lb />
+Raadstagningen, men stemme ikke ved Fastsættelse af de enkelte Grunde.</p>
+<p>Andragende fra Parternes Side om de nævnte Beslutninger kunne ikke finde Sted;<lb />
+Beslutningen kan tages af Retten, saalænge ikke Dom er afsagt.</p>
+<wtitle>§ 351.</wtitle>
+<p>Kommer Retten under den nye Hovedforhandling, der finder Sted i Henhold til<lb />
+Reglen i § 350 2det Stykke, enstemmig til det fammc Resultat som Retten nnder den<lb />
+fsrste Forhandling, afsiger den Frifindelsesdom; Enstemmigheden skal være tilstede saavel med<lb />
+Hensyn til Resultatet som meo Hensyn til enhver af de i Dommen anforte Grunde. I an-<lb />
+dre Tilfældc bliver Dommen at grunde paa den af de to foreliggende Erklæringer af næv-<lb />
+ninger, scm i sin Helbed iorer ti! det gunstigste Resultat for den Sigtede.</p>

@@ -1,0 +1,33 @@
+5
+<pb n="5" />
+<h>V</h>
+<title>Fjerde Afsnit.</title>
+<undertitle>Tiltale og Domsforhandling ved Landøret.</undertitle>
+<undertitle>(§§ 216-301).</undertitle>
+<p>Kapitel XXI.</p>
+<p>Iværksættelse af Tiltale for Landøret.  Forberedelse af Domsforhandling (§§ 216—230)      86—93.</p>
+<p>Kapitel XXII.</p>
+<p>Almindelige Bestemmelser om Domsforhandling ved Landøret (§§ 231—257)___    93—103.</p>
+<p>Kapitel XXIII.</p>
+<p>Særlige Bestemmelser om Domsforhandling for Nævninger (§§ 258—298)  .....   103—116.</p>
+<p>Kapitel XXIV.</p>
+<p>Særlige Bestemmelser om Domsforhandling uden Nævninger (§§ 299—301)___   116—117.</p>
+<title>Femte Afsnit.</title>
+<undertitle>Tiltale og Domsforhandling ved Underret.</undertitle>
+<undertitle>(§§ 302—316).</undertitle>
+<p>Kapitel XXV.</p>
+<p>Tiltale   og   Domsforhandling    for   Underret   i sager,   som    påtales   af    Over^</p>
+<p>anklageren (§§ 302—307)........................................   118—120.</p>
+<p>Kapitel XXVI.</p>
+<p>Tiltale   og   Domsforhandling   for   Underret   i   Sager,   som    påtales   af   Politimesteren (§§ 308-316)..........................................   120—124.</p>
+<title>Sjette Afsnit.</title>
+<undertitle>Retsmidler mod trufne Afgørelser</undertitle>
+<undertitle>(§§ 317-365).</undertitle>
+<p>Kapitel XXVII.</p>
+<p>Påanke af Domme, afsagte af Landsretterne i første Instans (§§ 317—336) ...  125—134.</p>
+<p>Kapitel XXVIII.</p>
+<p>Påanke af Domme, afsagte af Underretterne (§§ 337—345).................  134—138.</p>
+<p>Kapitel XXIX.</p>
+<p>kære til højere Ret (§§ 346-352,    ....................................   138—141.</p>
+<p>Kapitel XXX.</p>
+<p>Genoptagelse (§§ 353—365)    ..........................................   142—146.</p>

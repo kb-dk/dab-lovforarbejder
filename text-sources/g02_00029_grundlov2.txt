@@ -1,0 +1,88 @@
+1531
+<pb n="29" >
+<p rend="page">29</p>
+<h>
+<coll>1531</coll>
+<colr>1532</colr><lb />
+</h>
+<leftside>
+<p>
+europæiske Fastland. Den maa altsaa indskrænkes til Strafferetssager.<lb />
+Men den kan ingenlunde anvendes her i alle Sager; De fleste criminelle Sager ville tvertimod ogsaa fremdeles, blive at paakjende uden<lb />
+Nævningers Mellemkomst. Dette er overalt Tilfældet og kan vanskeligt<lb />
+undgaaes, dersom der ikke i en ganske overordentlig Grad skal lægges<lb />
+Beslag paa Borgernes Tid og Kraft. Nævninger bør altsaa kun<lb />
+dømme i de vigtigere Strafferetssager. Hvilken Grændse nu her skal<lb />
+drages, maa det være den fremtidige Lovgivning forbeholdt at afgjøre; kun har man troet ogsaa her at kunne vælge det Ord, der i<lb />
+Fremtiden skal betegne denne Art af Sager, nemlig Misgjerningssager.<lb />
+</p>
+<p>
+Men foruden disse Sager er der en anden Klasse af Forseelser,<lb />
+som udentvivl, om de end maatte være af mindre betydende Natur, bør paakjendes af Nævninger, vi mene alle politiske Straffesager. Ogsaa dette Begreb kan blive nærmere at fastsætte ved<lb />
+Lovgivningen, men det er klart, at det omfatter alle de Trykkefrihedssager, som det i Folkefrihedens Interese maa ansees ønskeligt at<lb />
+unddrage de faste Statsdommeres udelukkende Domsret. Man foreslaaer altsaa følgende Tillægs-Paragraph:<lb />
+</p>
+<p>
+I Misgjerningssager og i Sager, der reise sig af<lb />
+politiske Lovovertrædelser, skulle Nævninger indføres.<lb />
+Man tilføier alene den Bemærkning, at det heraf med indre<lb />
+Nødvendighed vil følge, at Mundtlighed, Offentlighed og Anklageproces maa blive gjennemført i den hele Strafferetspleie. Den gamle<lb />
+Inqvisitionsproces kan ikke vedvare i et Land, der indfører Nævninger.<lb />
+</p>
+<title>
+VIII.<lb />
+</title>
+<p>
+Dette Afsnit indeholder kun een Paragraph, der destemmer den<lb />
+Fremgangsmaade, der skal iagttages ved Grundlovsforandringer, forsaavidt det ikke i Grundloven undtagelsesviis er bestemi, at Forandringen<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+skete enten ad den sædvanlige Lovgivningsvei, som f. Ex. i §§ 21 og<lb />
+23, eller under andre særegne betryggende Former, som f. Ex. ved<lb />
+Spørgsmaal om Arvefølgens Forandring (§ 4). Den Fremgangsmaade,<lb />
+nærværende Paragraph foreskriver, er følgende:<lb />
+1) Først skal Forslag til Forandring, eller Tillæg til Grundloven<lb />
+kun kunne fremsættes paa en ordentlig Rigsdag.<lb />
+2) Dersom begge Thing paa denne ordentlige Rigsdag enes om et<lb />
+Forslag til en Grundlovsforandring, skal dette Forslag<lb />
+hvile til næste ordentlige Rigsdag.<lb />
+3) Kun hvis det her atter vedtages i uforandret Skikkelse<lb />
+af begge Thing, forelægges det Kongen.<lb />
+4) Kun hvis Kongen foreløbigt bifalder Forslaget, gaaer<lb />
+Sagen videre; i saa Fald opløses nemlig begge Thingene, og<lb />
+nye Valg udskrives.<lb />
+5) Beslutningen maa nu atter her vedtages uforandret af degge<lb />
+Thing, hvad enten disse iøvrigt ere samlede i et ordentligt eller<lb />
+overordentligt Møde; ellers falder hele Sagen. Men skeer dette,<lb />
+da skal Forslaget forelægges Kongen.<lb />
+6) Kongen kan endda nægte sin endelige Stadfæstelse;<lb />
+men hvis han stadfæster Forslaget, bliver det Grundlov.<lb />
+</p>
+<p>
+Udvalget tiltræder disse Udkastets Bestemmelser. Man er<lb />
+nemlig enig i, at Grundlovsforandringer bør vanskeliggjøres, men man<lb />
+anseer det paa den anden Side for ligesaa vigtigt, at det ikke gjøres<lb />
+for vanskeligt, at forandre Forfatningen ad forfatningsmæssig Vei. Udkastet<lb />
+synes nu her at have fulgt en passende Middelvei. Ved første Øiekast seer det maaskee ud, som om man har været altfor forsigtig med at<lb />
+optaarne Vanskeligheder; men ved nærmere Overveielse vil det findes,<lb />
+at dersom der virkelig hos Konge og Folk udvikler sig en bestemt<lb />
+Overbeviisning om Gavnligheden af en Forandring, kan denne efter<lb />
+Udkastets Bestemmelse om Rigsdagens aarlige Sammenkomst gjennemføres i Løbet af omtrent 15 Maaneder. Saalænge kan Forandringsønsket vel taale at vente.<lb />
+</p>
+<signatur>
+Kjøbenhavn, den 22de Februar 1849.<lb />
+</signatur>
+<px>
+Vilh. Bjerring. P. D. Bruun. Balthazar Christensen. Dahl. C. N. David. Gleerup.<lb />
+(Formand) (Secretair)<lb />
+H. Hage C. Hall H. P. Hansen. J. R. Jacobsen. C. M. Jespersen. A. F. Krieger.<lb />
+(Ordfører)<lb />
+I. E. Larsen. C. Neergard. Pjetursson. Schurmann. Algreen-Ussing.<lb />
+</px>
+</rightside>
+<underpage>
+Trykt og forlagt af Kgl. Hofbogtrykker Bianco Luno.<lb />
+</underpage>
+</pb>

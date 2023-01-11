@@ -1,0 +1,61 @@
+45
+<pb n="45" />
+<leftside>
+<pagename>43
+</pagename>
+<wtitle>§  120.
+</wtitle>
+<p>Med Henfyn til dc Auktioner, der ikke<lb />
+ere omhandlede i Loven om den borgerlige<lb />
+Retspleje, forbeholdes det ved færlig Lov at<lb />
+træffe nærmere Bestemmelser om, ved hvem<lb />
+og under hvilke Former de blive at afholde.
+</p>
+<wtitle>§ 121.
+</wtitle>
+<p>I det første Aar efter denne Lovs<lb />
+Ikrafttræden bliver, forsaavidt den Paagældende iøvrigt opfylder de Betingelser for<lb />
+at stedes til Sagførervirksomhed, som denne<lb />
+Lov foreskriver, Sagførerbeskikkelse at meddele Vedkommende, selv om han kun har<lb />
+gjort 3 Aars Tjeneste som Fuldmægtig hos<lb />
+en Amtmand eller som autoriseret Dommerfuldmægtig eller som autoriseret Fældmægtig<lb />
+hos en Sagfører.
+</p>
+<title>Jurisdiktionerne*) forealaas ordnede paa<lb />
+følgende Maade:
+</title>
+<p>Sjælland og Møen:
+</p>
+<p>1.    Amager c. 19,000.
+</p>
+<p>2.    Frederiksberg Birk c. 56,000.
+</p>
+<p>3.    Nordre Birk med Hørsholm Birk c.<lb />
+35,000.
+</p>
+<p>4.    Søndre Birk c. 20,000.
+</p>
+<p>5.    Roskilde med Ramsø-Thune Herred<lb />
+c.  18,000.
+</p>
+<p>6.    Lejre Herred c.  18,000.
+</p>
+<p>7.    Kjøge med Vallø Birk  og Bjeverskov<lb />
+Herred c.  16,000.
+</p>
+<p>8.    Helsingør c. 11,000.
+</p>
+<p>9.    Kronborg østre Virk c. 12,500.
+</p>
+<p>
+</p>
+<p>10.    Kronborg vestre Birk c. 13,000.
+</p>
+<p>11.    Hillerød   med   Frederiksborg   Birk   c.<lb />
+24,000.
+</p>
+<note rend="food">*) De af de nuværende Jurisdiktioner, der nedlægges<lb />
+ved at forenes med andre, ere betegnede ved at<lb />
+være fremhævede.
+</note>
+</leftside>

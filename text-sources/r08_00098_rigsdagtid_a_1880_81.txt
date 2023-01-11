@@ -1,0 +1,47 @@
+3559
+<pb n="98" />
+<h>
+<coll>3559</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3560</colr>
+</h>
+<p>inden Paaankefnstens Udlob.   Varselsfristen (§ 307  Litr. g) indskrænkes  til 4 Uger.    Iøv-<lb />
+rigt foregaar Paaanken efter de almindelige Regler.</p>
+<wtitle>§ 338.</wtitle>
+<p>Er ny Foretagelse af Sagen bevilges, har den Part, som herpaa har andraget, inden<lb />
+8 Dage fra Kjendelsens Afsigelse at henvende sig til Landsrettens Formand med skriftlig<lb />
+Begjæring om, at denne vil beramme et Retsmode til Sagens fornyede Foretagelse og tilsige<lb />
+Modparten ti! dette.</p>
+<p>I det omhandlede Retsmode har vedkommende Part at stille de Andragender, som<lb />
+ere fornødne, for at Sagen paany kan foretages i Overensstemmelse med den afsagte Kjen-<lb />
+delse (Z 335). Retten fastsætter i Henhold hertil de fornødne Frister og møder for Sagens<lb />
+videre Forhandling.</p>
+<p>Forsommelse fra Partens Side med at fremme Sagen i Overensstemmelse med<lb />
+denne Paragraf, anses for Frafaldelse af Sagens fornyede Foretagelse.</p>
+<wtitle>§ 339.</wtitle>
+<p>Ved den fornyede Behandling af Sagen blive de i denne Lovs andet Afsnit givne<lb />
+Regler at følge med de Indskrænkninger, som flyde af de i dette Kapitel indeholdte For-<lb />
+skrifter. Skulde det ikke være muligt paany at afhoreførte Vidner eller Parter eller paany<lb />
+at iværksætte Syn cg skjøn, kan Retten forsaavidt henholde sig til de Oplysninger om de<lb />
+paagjoeldende faktiske Omstændigheder, der indeholdes i den ophcevede Dom.</p>
+<wtitle>§ 340.</wtitle>
+<p>Ny Foretagel'e af Sagen kan, naar undtages det i § 327 Nr. 1 omhandlede Til-<lb />
+fælde, finde Sted, ogsaa naar Dom i Hoiesteret er gaaet. Andragendet maa da henvendes<lb />
+til Hoiesteret. Bevilges Sagens fornyede Foretagelse, ophcever Hoiesteret den afsagte Dom,<lb />
+saavidt nødvendigt er, og henviser Sagen til Behandling ved den Landsret, som har afsagt<lb />
+Dommen, hvorefter Sagens videre Behandling sker ifolge fnranstaacndc Regler.</p>
+<wtitle>§ 341.</wtitle>
+<p>Udeblivelse under de angaaende Sagens fornyede Foretagelse stedfindende Forhand-<lb />
+linger har for den andragende Parts Vedkommende den følge, at han anses for at frafalde<lb />
+sit Andragende, for Modparlens Vedkommende den Folge. at Sagen afgjores efter de fra den<lb />
+andragende Parts Side fremkomne Oplysninger og Forklaringer.</p>
+<p>Iøvrigt komme de i andet Afsnits Kap. V givne Regler om Udeblivelse til Anvendelse.</p>
+<title>Fjerde Ffsmt.</title>
+<undertitle>Om Behandlingen af og Retsmidlerne i de Tager, der i forste Instants paa-<lb />
+kjendes af Underretterne.</undertitle>
+<wtitle>§ 342.</wtitle>
+<p>De i  andet Afsnits forste Kapitel omhandlede striftlige Sagsfremstillinger og ovrige<lb />
+striftlige meddelelser mellem Parterne bortfalde, naar Sagen behandles ved Underretten.</p>
+<wtitle>§ 343.</wtitle>
+<p>
+Sagssgeren begynder Sagen med at tilstille Underdommeren sin Klage.</p>

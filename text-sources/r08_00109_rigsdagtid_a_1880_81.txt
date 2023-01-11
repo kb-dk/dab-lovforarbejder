@@ -1,0 +1,44 @@
+3581
+<pb n="109" />
+<h>
+<coll>3581</coll>
+<topmidle>Forsl. t. L. om den borgerlige retspleie.</topmidle>
+<colr>3582</colr>
+</h>
+<wtitle>§ 398.</wtitle>
+<p>Ved Høiesteret kan skriftlig Behandling undtagelsesvis anordnes, naar Sagens Beskaf-<lb />
+fenhed med Nodvcndighed kræver det (§ 312).</p>
+<p>Sagen forhandles i saa Fald ved skriftlige Indlæg, ikke mere end to fra hver Side,<lb />
+som vezles mellem Parterne og afgives til Retten i Forbindelse med Sagens Dokumenter<lb />
+inden de Frister, som Formanden i Hoiesteret bestemmer.</p>
+<title>Kapitel IV.</title>
+<undertitle>Om Behandlingen af Wgtessabssager samt Sager, hvorunder Arvinger fsge<lb />
+sig en bortebleven Persons Formue tilkjenot.</undertitle>
+<wtitle>§ 399.</wtitle>
+<p>Sager angaaende et Wgtestabs Ugyldighed eller Oplosning blive at behandle ved<lb />
+Landsretten for det Sted, hvor Mgtemanden har Bopæl eller Opholdssted, eller, dersom han<lb />
+har forladt Landet eller det ikke vides, hvor han er, hvor han sidst havde Bopæl eller Op-<lb />
+holdssted her i Riget. Dog, hvis Separation fra Bord og Seng finder Sted, eller Manden<lb />
+har forladt Hustruen, maa Sag mod Hustruen anlæggcs ved den Ret, sbm ifølge de al-<lb />
+mindelige Regler i forfte Afsnit Kapitel II. er hendes værnething.</p>
+<wtitle>§ 400.</wtitle>
+<p>Wgtestabssager, hvorved i dette Kapitel forstaas Sager angaaende et Wgtestabs Ugyl-<lb />
+dighed eller Oplosning (§ 399), behandles efter de for Landsretsprocedmen gjældende Regler,<lb />
+dog med de nærmere Bestemmelser, som gives i efterfolgende Paragrafer.</p>
+<wtitle>§ 401.</wtitle>
+<p>Dersom Sagfogte ikke efter Modtagelsen af Sagsogerens Klagestrift inden den i §<lb />
+133 bestemte Tid afgiver Tilsvarsstrift og deri opgiver en til Sagens Udforelse antage«<lb />
+Sagfører, har Sagssgeren at andrage paa, at der maa blive bestikket Sagsogte en Forsvarer<lb />
+af det Offentlige.    Forsommes dette, afvises Sagen.</p>
+<p>Salæret til den for Sagsogte bestikkede Forsvarer udredes af det Offentlige, hvor det<lb />
+ikke paalægges Sagsogeren som tabende Part at udrede det.</p>
+<wtitle>§ 402.</wtitle>
+<p>Retten kan uden Hensyn til Modpartens Begjæring paalægge Sagsogeren at frem-<lb />
+stille sig til Afhorelse under Hovedforhandlingen og til der under Ed at besvare de spørgs-<lb />
+maal angaaende Sagens Gjenstand, som Retten maatte gjore. Ugrundet Undladelse heraf<lb />
+eller Vcegring herved har til Folge, at Sagen afvises.</p>
+<wtitle>§ 403.</wtitle>
+<p>Ligeledes kan Retten, hvis Sagsogte bor eller opholder sig i Riget, paalægge denne<lb />
+at fremstille sig til Afhorelse under Hovedforhandlingen og der under Gd at besvare de<lb />
+spørgsmaal angaaende Sagens Gjenstand, som gjores af Retten. Ugrundet Undladelse af<lb />
+at møde eller Vcegring ved at svare medfører dog kun Virkning efter § 404 2det Skykke,</p>

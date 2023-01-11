@@ -1,0 +1,42 @@
+661
+<pb n="9" />
+<h>
+<coll>661</coll>
+<topmidle>Bet. o. Lovf. om Rettens Pleje.</topmidle>
+<colr>662</colr>
+</h>
+<leftside>
+<wtitle>Til § 1000.</wtitle>
+<p>
+Af Udvalget:<lb />
+</p>
+<p>
+34) 12det Stykke, Linie 3, efter „Justits-<lb />
+ministeren" indskydes „ifølge Indstilling fra<lb />
+disse efter de nærmere Regler, som Justits-<lb />
+ministeren fastsætter,".<lb />
+</p>
+</leftside>
+<rightside>
+<wtitle>Til § 1002.</wtitle>
+<p>
+Af Udvalget:<lb />
+</p>
+<p>
+35) I Linie 4 efter „Politimestre<lb />
+(§ 137)" indskydes: „samt, indtil der er<lb />
+forløbet 10 Aar fra Lovens Ikrafttræden, mid-<lb />
+lertidig beskikkes til at beklæde et Onder-<lb />
+dommerembede (§ 45) eller et Politimester-<lb />
+embede (§ 136)".<lb />
+</p>
+</rightside>
+<p>
+Borgbjerg.	Alfred Christensen.	N. C. Christensen.	Effersøe,<lb />
+Sekretær.<lb />
+Ellinger.	Ingvard Jensen.	Laust Jensen.	P. Knudsen.<lb />
+Krabbe.	H. Madsen.	J. Nielsen.<lb />
+L. Rasmussen (Ribe A. 4. V.),	Emil Petersen.	Sveistrup,<lb />
+Formand.	Ordfører.<lb />
+Lars Jensen var fraværende ved Betænkningens Afgivelse.
+</p>

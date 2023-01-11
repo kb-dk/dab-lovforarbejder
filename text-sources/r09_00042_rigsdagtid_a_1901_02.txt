@@ -1,0 +1,70 @@
+2231
+<pb n="42" />
+<h>
+<coll>2231</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2232</colr>
+</h>
+<title>Tredie Afsnit.</title>
+<title>
+Rettergangsmaaden.
+</title>
+<title>Kapitel XVIII.</title>
+<undertitle>
+Behandlingen af Sager, der i første Instans paakendes af Landsretterne.
+</undertitle>
+<wtitle>§ 200.</wtitle>
+<p>
+Processen indledes med Stævning. I denne skulle begge Parter være beteg-<lb/>
+nede med Navn og Stilling og deres Bopæl eller Opholdssted være angivet, hvorhos<lb/>
+den skal indeholde Sagsøgerens Paastand og en kort Fremstilling af de Kendsgerninger,<lb/>
+hvorpaa Paastanden støttes, samt en Opfordring til Sagsøgte om at møde og frem-<lb/>
+komme med sit Svar paa Sagens første Tægtedag (jfr. endvidere § 211).
+</p>
+<p>
+Parterne kunne dog, naar de efter Overenskomst begge møde for Retten, og<lb/>
+Sagen er anmeldt for denne senest Dagen før Retsmødet, uden Stævning begære Sagen<lb/>
+foretaget. Sagsøgeren har i saa Fald at fremlægge en skriftlig Angivelse af sin Paa-<lb/>
+stand og af de Kendsgerninger, hvorpaa den støttes.
+</p>
+<wtitle>§ 201.</wtitle>
+<p>
+Stævningen indleveres, efter at i fornødent Fald Varslet er fastsat, jfr. § 202<lb/>
+med Angivelse af den tidligste Tid for Sagens første Tægtedag, paa Rettens Kontor<lb/>
+til Paategning om Dag og Tid, da Sagen falder i Rette, hvorefter den tilbagegives<lb/>
+Sagsøgeren til videre Foranstaltning.
+</p>
+<wtitle>§ 202.</wtitle>
+<p>
+Har Sagsøgte Bopæl i den Underretskreds, hvor Landsrettens Sæde befinder<lb/>
+sig, skal Sagsøgeren lade Stævningen forkynde med 14 Dages Varsel. Boer Sagsøgte<lb/>
+uden for nævnte Kreds, er Varslet 3 Uger, medmindre han har Bopæl paa Færøerne,<lb/>
+Island, Grønland, de vestindiske Øer eller i Udlandet, i hvilket Tilfælde, saavel som<lb/>
+naar det ikke vides, hvor Sagsøgtes Bopæl er, Varslet bestemmes af Rettens Justitiarius.
+</p>
+<p>
+Maa det antages, at Sagsøgte ikke har nogen Bopæl, træder hans Opholdssted<lb/>
+i Stedet for Bopæl i Henseende til Stævnevarslet.
+</p>
+<p>
+Under særlige Omstændigheder kan det lovbestemte Varsel af Rettens Justi-<lb/>
+tiarius forkortes efter Sagsøgerens Begæring.
+</p>
+<p>
+Forinden Rettens Justitiarius fastsætter et Varsel, hvilket sker ved Paategning<lb/>
+paa Stævningen, kan han afkræve Sagsøgeren nærmere mundtlige eller skriftlige Op-<lb/>
+lysninger.
+</p>
+<wtitle>§ 203.</wtitle>
+<p>
+Paa Sagens første Tægtedag skal Sagsøgeren møde og fremlægge Stævning<lb/>
+eller den i § 200, 2det St., omhandlede Angivelse. Undlader han dette, bliver Sagen<lb/>
+at afvise, og der tilkendes den Sagsøgte, der har givet forgæves Møde, Procesomkost-<lb/>
+ninger. Samme Virkning har Sagsøgerens Udeblivelse eller Undladelse af at foretage<lb/>
+de til Sagens Fortsættelse hørende Skridt ved senere Retsmøder, saafremt Domsfor-<lb/>
+handling ikke er berammet, eller ved selve Domsforhandlingen.
+</p>
+<p>
+Sagsøgerens Udeblivelse forhindrer ikke, at der gives Sagsøgte Dom for de før<lb/>
+Udeblivelsen tingfæstede Modkrav.
+</p>

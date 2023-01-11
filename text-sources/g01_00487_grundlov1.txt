@@ -1,0 +1,142 @@
+901
+<pb n="487">
+<pagename>487</pagename>
+<h>
+<coll>901</coll>
+<colr>902</colr>
+<lb/>
+
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 117.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+To og Fyrgetydende offentlige Møde.<lb/>
+(Det 45de Møde i den hele Række*).)<lb/>
+</btitle>
+<notedate>
+Tirsdagen den 16de Januar.<lb/>
+</notedate>
+<p>
+Forhandlingsprotocollen for forrige Møde blev oplæst.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Jeg skal anmelde: <lb/>
+1) at den ærede Rigsdagsmand for Præstø Amts 4de District<lb/>
+(Grundtvig) agter at gjøre en Forespørgsel til Ministerpræsidenten som Udenrigsminister angaaende den Anskuelse af den danske<lb/>
+Rigsforsamlings 41de Møde, som Ministeriet efter „Officiel<lb/>
+Meddelelse“ Berlings Avis Nr. 11 har udtalt til det tydske<lb/>
+Rigsministerium, og<lb/>
+2) en Adresse fra 111 Beboere af Skive, der tilbyde Offre<lb/>
+til at erholde en hæderlig og heldbringende Fred, navnligen<lb/>
+Slesvigs uopløselige Forbindelse med Danmark og Adskillelse fra<lb/>
+Holsteen.<lb/>
+</p>
+<p>
+Rigsdagsmanden for Frederiksborg Amts 1ste District (Olrik) har<lb/>
+ønsket Ordet.<lb/>
+</p>
+<p>
+<speaker>Olrik:</speaker> I et Uddrag af det danske Udenrigsministeriums Instrux til Baron Dirckink-Holmfeld, som officielt er meddelt i den<lb/>
+Berlingske Tidende under 12te dennes, findes Forhandlingerne i Rigsforsamlingens 41de Møde paaberaabte som et nyt Argument, der<lb/>
+endnu mere vil overtyde om, at Nationen helst undgaaer Kampens<lb/>
+Fornyelse, saalænge der er mindste Udsigt til ved Underhandlinger at<lb/>
+opnaae en hæderlig Fred. Ved at eftersee Rigsdagstidenden, vil man<lb/>
+finde, at det 41de Møde er afholdt Løverdagen den 13de dennes, og<lb/>
+der maa saaledes finde en Uovereensstemmelse Sted imellem Rigsforsamlingens Forhandlingsprotocol og Rigsdagstidenden. Jeg henstiller til den ærede Formand, om det ikke for det større Publicums<lb/>
+Skyld skulde være hensigtsmæssigt at oplyse Aarsagen til, at en saadan Uovereensstemmelse finder Sted, og om ikke for Fremtiden en<lb/>
+større Overeensstemmelse kunde tilveiebringes imellem den officielle Protocol og Rigsdagstidenden.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Sammenhængen hermed er den, at man i Rigsdagstidenden kun har numereret Møderne, forsaavidt de have været<lb/>
+offentlige, hvorimodd de heemmelige Møder ikke ere blevne medtagne<lb/>
+i Numerfølgen; det gjør en Forskjet af 3 Numere.<lb/>
+</p>
+<p>
+<speaker>Grundtvig:</speaker> Turde jeg da spørge den høistærede Formand, <lb/>
+om dette skal vedblive? Det gaaer dog ikke an saaledes med 2 Tidsregninger.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Det kunde maaskee overlades mig at tage denne<lb/>
+Sag under nærmere Overveielse tilligemed Secretairerne. Vi gaae<lb/>
+nu over til den tredie Behandling eller endelige Læsning af Placaten<lb/>
+angaaende Styrmandspatenter. Den er bleven trykt og omdeelt.<lb/>
+Den ærede Ordfører vil maaskee behage at oplæse den.<lb/>
+</p>
+<p>
+<speaker>Bregendahl:</speaker> Saaledes som Placaten en bleven redigeret i<lb/>
+Overeensstemmelse med de indkomne Amendements, skal jeg tillade<lb/>
+mig at oplæse den; den lyder som følger: <lb/>
+</p>
+<note>
+*) See Forhandlingerne i Begyndelsen af dette Møde, betræffende Uovereensstemmelsen mellem Mødernes Antal efter Rigsdagstidenden og efter Rigsforsamlingens Protocol.<lb/>
+</note>
+</leftside>
+<rightside>
+<p>
+„Placat angaaende midlertidig Indskrænkning i Adgangen til at<lb/>
+erholde Styrmands-Patent og i den Fritagelse for Udskrivning til<lb/>
+Sø- Krigstjeneste, som i visse Tilfældee tilkommer de med StyrmandsPatent forsynede Søfarende.<lb/>
+<law n="1."/>§ 1.<lb/>
+Den Adgang, som Forordningen af 8de Januar 1802 angaaende<lb/>
+Sø-Indrulleringsvæsenet i Danmark, sammes 68de Paragraph, og den<lb/>
+kongelige Resolution af 5te (September 1838, give de Søfarende til<lb/>
+at erholde Styrmands-Patent, skal, faalænge Krigsforholdene vedvare, <lb/>
+være indskrænket til dem, der have opnaaet en Lægdsrulle-Alder af 31<lb/>
+Aar. Derimod bemyndiges Sø-Sessionerne til, saalænge nærværende<lb/>
+midlertidige Bestemmelse er i Kraft, at meddele de Søfarende, der ei<lb/>
+endnu have opnaaet den nævnte Alder og efter de nu gjældende<lb/>
+Regler ere qvalificerede til at erholde Styrmands-Patent, naar de<lb/>
+derom under Sessionens Afholdelse fremsætte Begjering, Tilladelse til<lb/>
+at fare som Styrmænd. Denne Tilladelse vil iøvrigt med Hensyn<lb/>
+til Erhvervelse af Certificat som Skipper blive at ansee, som om<lb/>
+Styrmands-Patent havde været tilstaaet.<lb/>
+<law n="2."/>§ 2.<lb/>
+De Søfarende, som have erholdt Styrmands-Patenter, men ei<lb/>
+endnu have opnaaet en Lægdsrulle-Alder af 31 Aar, skulle, uanseet<lb/>
+Bestemmelserne i Forordningen af 8de Januar 1802 § 69, saalænge<lb/>
+Krigsforholdene vedvare, kunne udskrives til Sø-Krigstjeneste i Egenskab af heelbefarne Matroser, dog med den for 4de Styrmænd i Vore<lb/>
+Krigsskibe reglementerede Sage.“<lb/>
+</p>
+<p>
+Fra Udvalgets Side er ikke fundet Anledning til nogen Bemærkning med Hensyn til den foretagne Redaction, og jeg har derfor<lb/>
+Intet videre at tilføie.<lb/>
+</p>
+<p>
+<speaker>Algreen-Ussing:</speaker> Det er vel en Trykfeil, naar det i Slutningen af § 2 hedder „fjerde Styrmænd“ istedetfor det vel skal være<lb/>
+„fjerde Styrmand“; der staaer nok ogsaa i Udkastet „Styrmand“.<lb/>
+</p>
+<p>
+<speaker>Bregendahl:</speaker> Nei, der staaer i Udkastet til Placaten „fjerde<lb/>
+Styrmænd“.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Ifølge Bestemmelsen i Forretningsordenen skal<lb/>
+ved den endelige Læsning ingen Forhandling finde Sted, naar der<lb/>
+ikke er gjort Forslag til Rettelser enten af Comiteen eller af 15 Medlemmer. Saaledes maa altsaa denne Sag ansees endt og den oplæste Placat uden videre Forhandling blive at sætte under Afstemning.<lb/>
+Ved den derefter foretagne Afstemning vedtoges Placaten, som den<lb/>
+var oplæst, med 129 mod 2 Stemmer.<lb/>
+</p>
+<p>
+Vi gaae dernæst over til Værnepligtssagen, som bliver at foretage til 2den Behandling. En Fortegnelse over Amendementerne<lb/>
+saavelsom over de Forandringer, som Udvalget har fundet Anledning<lb/>
+til at gjøre i dets oprindelige Forslag, er bleven noget forhindret i<lb/>
+Trykkeriet ved adskillige Uheld og er derfor ikke endnu fuldstændig<lb/>
+bleven omdeelt. Den vil imidlertid endnu idag blive det; men da<lb/>
+den ikke fuldstændigen har kunnet blive omdeelt, er jeg af flere af de<lb/>
+ærede Herrer Rigsdagsmænd bleven anmodet om, ikke idag at gaae<lb/>
+videre end til de 3 første Paragrapher, hvortil ikke er stillet omfattende Amendements, og først imorgen fortsætte Behandlingen med<lb/>
+de følgende Paragrapher. Jeg har troet at burde efterkomme denne<lb/>
+Anmodning og vi ville saaledes idag indskrænke os til de 3 første<lb/>
+Paragrapher; disse ville blive at tage enhver for sig under Behandling, fordi Discussionen og Afstemningen formeentligen da vil gaae<lb/>
+lettere. Jeg maa dernæst tillade mig at gjøre opmærksom paa den<lb/>
+Afstemningsliste, som jeg har ladet omdele og navnlig paa den Anmærkning, hvormed den begynder, nemlig, at de Forslag, som angaae Loven<lb/>
+</p>
+</rightside>
+
+</pb>

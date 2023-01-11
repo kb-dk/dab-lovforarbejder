@@ -1,0 +1,77 @@
+2123
+<pb n="198" />
+<h>
+<coll>
+2123
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2124
+</colr>
+</h>
+<wtitle>§  881.</wtitle>
+<p>
+Fremkommer der under Forundersøgelsen Oplysning om Omstændigheder, ifølge<lb />
+hvilke Politimesteren skønner, at der vil blive Spørgsmaal om at undlade Paatale i<lb />
+Medfør af § 701, og som maa antages at være Overanklageren ubekendte, meddeler han<lb />
+ham Underretning herom, ledsaget af fornøden Udskrift af Undersøgelsen. Indtil hans<lb />
+Beslutning inden en af Betten fastsat Frist indtræffer, foretages der kun saadanne<lb />
+Undersøgelseshandlinger, som ikke taale Ophold.
+</p>
+<wtitle>§  882.</wtitle>
+<p>
+Er Forundersøgelse under een Sag iværksat mod flere Sigtede eller for flere<lb />
+Forbrydelser, kan Betten, naar den finder, at Undersøgelsen for enkelte, men ikke alle<lb />
+Sigtedes eller Forbrydelsers Vedkommende er fremmet i det Omfang, som Øjemedet<lb />
+udkræver, for saa vidt slutte Forundersøgelsen. Fremsætter Paatalemyndigheden Be-<lb />
+gæring i saa Henseende og oplyser, at Tiltale er rejst mod den paagældende Sigtede,<lb />
+skal Betten tage Begæringen til Følge.
+</p>
+<p>
+Sluttes Forundersøgelsen for en eller nogle af de Forbrydelser, for hvilke den<lb />
+samme Person er sigtet, kan Undersøgelsen af de andre Forbrydelser midlertidig<lb />
+hvile, indtil Afgørelse for den eller de førstnævnte Forbrydelsers Vedkommende har<lb />
+fundet Sted, naar Overanklageren forlanger det og Sigtede ikke fordrer Fortsættelse.
+</p>
+<wtitle>§  883.</wtitle>
+<p>
+Samtidig med at Tiltale rejses i en Sag, i hvilken Forundersøgelse har fundet<lb />
+Sted, skal Paatalemyndigheden tilstille Undersøgelsesretten Meddelelse herom og om,<lb />
+ved hvilken Ret Tiltale er rejst.
+</p>
+<p>
+Er Sigtede fængslet, bør Undersøgelsesretten ved Forundersøgelsens Slutning<lb />
+opgive Paatalemyndigheden en vis Frist, ved hvis Udløb Fængslingen vil blive hævet,<lb />
+saafremt ikke inden den Tid enten Tiltale rejses, eller Oplysninger meddeles, som<lb />
+findes at burde begrunde en Forlængelse af Fristen. Paa lignende Maade kan for-<lb />
+holdes, hvor Spørgsmaal opstaar om Ophør af andre vedvarende Foranstaltninger.
+</p>
+<title>
+Fjerde Afsnit.
+</title>
+<undertitle>
+Tiltale og Domsforhandling ved Landsret.
+</undertitle>
+<title>
+Kapitel 81.
+</title>
+<title>
+Iværksættelse af Tiltale for Landsret. Forberedelse al' Domsforhandling.
+</title>
+<wtitle>§  884.</wtitle>
+<p>
+Tiltale rejses ved et af Overanklageren udfærdiget og underskrevet Anklage-<lb />
+skrift, som skal indeholde:
+</p>
+<p>
+1.	Angivelse af den Domstol, ved hvilken Sagen anlægges;
+</p>
+<p>
+2.	Tiltaltes Navn, og hvad der ellers niaatte udkræves til hans nøjagtige Betegnelse;
+</p>
+<p>
+3.	under Benyttelse af Forbrydelsens i Loven hjemlede Navn eller under Frem-<lb />
+hævelse af dens i Loven beskrevne Kendemærker og, om fornødent, med Til-
+</p>

@@ -1,0 +1,90 @@
+2221
+<pb n="67" />
+<p rend="page">67</p>
+<h>
+<coll>2221</coll>
+<colr>2222</colr><lb />
+<topmidle>Bilag til Set. o. Lovf. om Rettens Pleje. </topmidle>
+</h>
+<p>
+Dog taber Udlægshaveren i Løsøre, som er forblevet i Skyldnerens Besiddelse,<lb />
+sin af Udlæget flydende Sikkerhedsret over for Skyldnerens Kreditorer i Tilfælde af<lb />
+Konkurs eller senere Udlæg, naar han ikke inden 12 Uger efter Udlægsforretningens<lb />
+Slutning skrider til Tvangsauktion eller faar det udlagte bragt ud af Skyldnerens Be-<lb />
+siddelse, medmindre han ved Anke eller Kære eller Trediemands Ret har været hin-<lb />
+dret i at fremme Tvangssalget, eller Trediemands Ret er til Hinder for at betage<lb />
+Skyldneren Besiddelsen<lb />
+</p>
+<wtitle>
+§ 380.<lb />
+</wtitle>
+<p>
+Viser den stedfundne Tvangsauktion, at Udlægshaveren ikke bliver fyldestgjort<lb />
+af det udlagte, eller kan en Udlægshaver, der ikke har faaet tilstrækkeligt Udlæg til<lb />
+at dække sin Fordring, senere paavise Gods, hvori der kan gøres Eksekution, er han<lb />
+berettiget til at forlange Eksekutionsforretningen genoptaget og fortsat efter de oven<lb />
+for givne Regler. Omvendt er den, hos hvem Udlæget er sket, berettiget til at be-<lb />
+gære Forretningen genoptaget og det skete Udlæg i det hele eller for en Del hævet,<lb />
+naar den Fordring, hvorfor det er gjort, i det hele eller for en Del er bortfalden,<lb />
+efter at Udlæget er sket.<lb />
+</p>
+<p>
+Ligeledes kan Fogden efter Domhaverens Begæring genoptage Eksekutionsfor-<lb />
+retningen og træffe ny Bestemmelse om Bevaringen og Administrationen af det ud-<lb />
+lagte, naar Tiden, som vil hengaa forinden Auktionen, betydeligt vil blive forlænget<lb />
+ved, at Anke eller Kære er rejst imod Udlægsforretningen, eller naar Domfældtes<lb />
+Forhold med Hensyn til udlagt Gods, som er forbleven i hans Besiddelse, giver An-<lb />
+ledning dertil, eller naar Bekosteligheden ved det udiagtes Bevaring eller lignende<lb />
+Grunde opfordrer dertil.<lb />
+</p>
+<wtitle>
+§ 381.<lb />
+</wtitle>
+<p>
+Ogsaa i andre Tilfælde end de i § 380, jfr. § 379, 2det Stykke, nævnte kan<lb />
+Eksekutionsforretningen genoptages efter Begæring af Trediemand eller en af Par-<lb />
+terne, naar alle vedkommende samtykke deri.<lb />
+</p>
+<wtitle>
+§ 382.<lb />
+</wtitle>
+<p>
+En sluttet Eksekutionsforretning kan paaankes eller paakæres overensstem-<lb />
+mende med Reglerne i Kapitel XXXVII.<lb />
+</p>
+<p>
+Kendelser, der afsiges af Fogden, kunne først gøres til Genstand for Anke<lb />
+eller Kære, efter at hele Eksekutionsforretningen er sluttet.<lb />
+</p>
+<wtitle>
+§ 383.<lb />
+</wtitle>
+<p>
+Anke eller Kære imod Eksekutionsforretningen maa i Reglen rejses inden 4<lb />
+Uger, efter at Eksekutionsforretningen er endelig sluttet, eller, for saa vidt Ekseku-*<lb />
+tionsgrundlaget paa lovlig Maade ophæves eller forandres, 4 Uger, efter at dette er sket.<lb />
+</p>
+<p>
+Dog kan Landsrettens Justitiarius indtil et Aar efter Eksekutionsforretningens<lb />
+Slutning, efter et fra vedkommende Part indgivet skriftligt Andragende, hvormed de<lb />
+fornødne Oplysninger maa følge, tillade Anke eller Kære, naar ganske særegne Om-<lb />
+stændigheder tale herfor.<lb />
+</p>
+<title>
+Kapitel XXXIII.<lb />
+</title>
+<undertitle>
+Almindelige Bestemmelser for Tvangsauktion.<lb />
+</undertitle>
+<wtitle>
+§ 384.<lb />
+</wtitle>
+<p>
+Udlæg til Forauktionering giver Ret til, efter de i det følgende opstillede<lb />
+Regler, at sætte det ndlagte til offentlig Auktion og gøre sig betalt af Auktions-<lb />
+summen, jfr. dog § 403.<lb />
+</p>
+<p>
+Med Hensyn til Forauktionering af haandfaaet Pant forbliver det ved den<lb />
+gældende Ret, dog saaledes at Auktionen foretages af Fogden.<lb />
+</p>

@@ -1,0 +1,158 @@
+2739
+<pb n="13" />
+<h>
+<coll>2739</coll>
+<topmidle>
+Kommissionens Bem. t. Udk. t. L. om den borgerlige Retspleje.
+</topmidle>
+<colr>2740</colr>
+</h>
+<leftside>
+<p>
+det rettere at udelade. Kendelsen vil alt-<lb />
+saa kunne være Genstand for Kære. Hvor<lb />
+vidt saadan Kære har opsættende Virk-<lb />
+ning, afgøres efter Reglen i § 270, 2det<lb />
+Stykke,<lb />
+</p>
+<wtitle>§§ 62—64.</wtitle>
+<p>
+Nærmere Regler angaaende Protokolla-<lb />
+tion findes paa følgende Steder i Udkastet:<lb />
+</p>
+<p>
+§ 163  (Vidneforklaringer).<lb />
+§ 168 (Tvistigheder under Vidneførslen).<lb />
+§ 185 (Syn og Skøn).<lb />
+§ 198 (Parts Ed).<lb />
+§§ 209, 210 og 218 (Behandling ved<lb />
+Landsret).<lb />
+§ 276 (Forlig ved Underretten).<lb />
+§ 277 (Behandling ved Underret).<lb />
+§§ 371, 374, 396, 420, 434, 449, 480<lb />
+og 499 (Fogedforretninger).<lb />
+</p>
+<p>
+Naar det i § 64, 1ste Stykke, siges, at<lb />
+Rettens Domme, Kendelser og „øvrige Be-<lb />
+slutninger“ skulle optages fuldstændig i<lb />
+Retsbogen, er det ikke dermed Meningen<lb />
+at foreskrive, at. hvad som helst en Rets-<lb />
+formand eller Enkeltdommer maatte be-<lb />
+stemme med Hensyn til en Sags Behand-<lb />
+ling, skal protokolleres, men kun at dette<lb />
+skal ske med Hensyn til saadanne Beslut-<lb />
+ninger, der fremtræde som Afgørelse af en<lb />
+mellem de i Sagen interesserede opstaaet<lb />
+Tvist. Hvor vidt i øvrigt en af Retten<lb />
+truffen Ordning skal omtales i Protokollen,<lb />
+maa afgøres efter Reglen i § 63, 1ste<lb />
+Stykke.<lb />
+</p>
+<wtitle>§ 65.</wtitle>
+<p>
+I denne Paragraf er tilføjet den med<lb />
+den gældende Ret stemmende og i sig selv<lb />
+praktiske Bestemmelse, at Retsbogen af-<lb />
+giver Bevis for, hvad der er foregaaet<lb />
+under Retshandlingen, men at Modbevis<lb />
+ikke er udelukket.<lb />
+</p>
+<wtitle>§ 66</wtitle>
+<p>
+sigter særlig til at bevirke, at Retsskriveren<lb />
+altid kan være i Besiddelse af det Materiale,<lb />
+der udkræves for at tilvejebringe en saa<lb />
+fuldstændig Udskrift, som behøves til Anke.<lb />
+</p>
+<title>
+Kapitel VIII<lb />
+</title>
+<undertitle>
+Forkyndelser og Meddelelser.<lb />
+</undertitle>
+<p>
+Af Tydelighedshensyn og for at opnaa<lb />
+den størst mulige Overensstemmelse med<lb />
+Straffeprocesudkastet er Kapitlet i Hen-<lb />
+seende til Stoffets Ordning og i redaktionel<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+Henseende en Del afvigende fra det tid-<lb />
+ligere Forslags 1ste Afsnit, Kapitel IX<lb />
+(bl. a. har man forbeholdt Ordet „For-<lb />
+kyndelse “ for de efter Reglerne i §§71—78<lb />
+behandlede Meddelelser). Af Realitets-<lb />
+ændringer findes nærmest kun følgende:<lb />
+</p>
+<p>
+1)	Reglen i det tidligere Forslags<lb />
+§ 109, 3die Stykke, om, at de for en Rets-<lb />
+kreds beskikkede Stævningsmænd ere plig-<lb />
+tige at besørge alle Forkyndelser inden for<lb />
+Grænserne af vedkommende Retskreds, er<lb />
+ligesom i Straffeprocesudkastet udeladt, da<lb />
+Retskredsene kunne blive saa store, at det<lb />
+bliver nødvendigt at dele dem i flere Stæv-<lb />
+ningsmændsdistrikter.<lb />
+</p>
+<p>
+2)	Forkyndelse for den vedkommende<lb />
+personlig er i § 72 opstillet som den For-<lb />
+kyndelsesmaade, der først og fremmest bør<lb />
+søges iværksat.<lb />
+</p>
+<p>
+3)	Samme Paragrafs Nr. 2 — der dog<lb />
+kun kommer til Anvendelse, naar Forkyn-<lb />
+delse for den vedkommende personlig ikke<lb />
+kan finde Sted — er i øvrigt bragt i Over-<lb />
+ensstemmelse med § 3, 1ste Punktum, i<lb />
+Lov om Forandring af visse processuelle<lb />
+Frister m. m. af 1lte April 1890.<lb />
+</p>
+<p>
+Endvidere kan nævnes, at det tidligere<lb />
+Forslags § 123 er udeladt, fordi den, hvis<lb />
+den skulde forstaas som indeholdende en<lb />
+egentlig Formforskrift, maatte anses for<lb />
+uheldig og i modsat Fald er overflødig.<lb />
+Som det vil ses, er Udkastets System<lb />
+for Forkyndelser i sine Hovedtræk dette;<lb />
+</p>
+<p>
+Forkyndelser foregaa ved en af et Vidne<lb />
+ledsaget Stævningsmand, der afleverer Gen-<lb />
+part af det, der skal forkyndes. Forkyn-<lb />
+delsen skal saa vidt muligt iværksættes for<lb />
+den paagældende personlig og skal helst<lb />
+ske paa hans Bopæl eller i hans Logis<lb />
+eller lignende midlertidigt Opholdssted;<lb />
+men i øvrigt er personlig Forkyndelse gyl-<lb />
+dig, hvor den end sker.<lb />
+</p>
+<p>
+Kan Stævningsmanden ikke træffe den<lb />
+paagældende personlig, skal han foretage<lb />
+Forkyndelsen for en af de i Udkastet nær-<lb />
+mere angivne Personer, der maatte være<lb />
+at træffe paa vedkommendes Bopæl, Kontor,<lb />
+Værksted eller andet fast Forretningslokale,<lb />
+eller — for Søfolks Vedkommende — paa<lb />
+deres Skib, eventuelt for den, hos hvem<lb />
+den paagældende midlertidig maatte være<lb />
+til Huse.<lb />
+</p>
+<p>
+Har Stævningsmanden heller ikke kun-<lb />
+net iværksætte Forkyndelsen paa denne<lb />
+Maade, giver han det Dokument, der skal<lb />
+forkyndes, Paategning herom, og afleverer<lb />
+det til Politiet. Det forudsættes selvfølge-<lb />
+lig herved, at det ikke allerede paa dette<lb />
+Stadium er blevet klart, at Forkyndelsen<lb />
+skal ske i en anden Retskreds eller i Ud-
+</p>
+</rightside>

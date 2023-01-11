@@ -1,0 +1,69 @@
+240
+<pb n="<span class="result"><span class="result">246</span></span>" />
+<leftside>
+<p>vedtages, at Afvisning på Grund af Afvigelse<lb />
+fra det lovbestemte Værnething kun bør finde<lb />
+Sted, når Indsigelse gjøres; i modsat Fald<lb />
+antages altså Samtykke af den Sigtede til<lb />
+Afvigelsen. Men også i offentlige Sager bør det så vidt mulig undgåes, at Retten af Hensyn til Værnethinget erklærer sig inkompetent,<lb />
+da dette let fører til Forhaling, Gjentagelser og<lb />
+andre Ulemper, uden at Sådant kan siges nødvendigt for det Offentliges Interesse. Dette Hensyn<lb />
+får især Betydning, når Hovedforhandlingen<lb />
+er begyndt. prøvelse i Embeds medfør bør derfor<lb />
+indskrænkes til Sagens foreløbige Stadier; er<lb />
+Sagen kommen ud over disse, bør Afvisning<lb />
+kun sinde Sted, naar Indsigelse gjøres. Grkjendes først dette, at det under visse Forbold<lb />
+ikke er en Nødvendighed, men beror på den<lb />
+Sigtede, om Afvisning skal finde Sted, så<lb />
+må der fremdeles, for at Retten til at gjøre<lb />
+Indsigelse ikke skal misbruges til at gjøre en<lb />
+næsten afsluttet Forhandling frugtesløs, fastsættes en Frist, inden hvilken Indsigelsen skal fremsættes. I Reglen er der Lejlighed for den<lb />
+Sigtede til at fremkomme med Indsigelsen,<lb />
+førend Hovedforhandlingen er begyndt, jfr. §<lb />
+254; han bør da ikke holde den tilbage, hvis<lb />
+han vil gjøre Brug af den. Derimod må<lb />
+ban, når han har fremsat den, uden at det<lb />
+lykkedes ham derved at hindre Henvisning til<lb />
+Hovedforhandling, Være berettiget til at fremsætte den påny ved denne efter den Grundsætning, som § 304 opstiller; men det bør ske strax,<lb />
+så snart Adgangen dertil er åben, jfr. §§<lb />
+310 og 356. Adgang til at fremsætte Indsigelsen før Hovedforhandlingen har den Sigtede dog ikke altid, navnlig ikke i Politifager<lb />
+og private Straffesager, se §§ 363, 364 og<lb />
+447 (men det Første Møde under Hovedforhandlingen er her heller ikke beregnet på Bevisførelse); i så Fald gjælder kun den sidstnævnte Regel.</p>
+<p>Det andet Stykke i § 68 udtaler den<lb />
+med Forholdets Natur stemmende Regel, at<lb />
+Tilsidesættelse af Værnethingsreglerne med Hensyn til Forundersøgelse eller Retshandlinger<lb />
+udenfor Hovedforhandlingen dog ikke berøver<lb />
+dem deres Gyldighed.</p>
+<p>Reglerne om Påanke på Grund af Af-</p>
+</leftside>
+<rightside>
+<p>gjørelser af Værnethingsspørgsmål medtages<lb />
+ikke her, men henvises til Afsnittet om Retsmidler. Slutningsstykket af § 68 har Hensyn<lb />
+til et særeget Tilfælde. Have flere Retter efter<lb />
+hinanden erklæret sig inkompetente, medens en af<lb />
+dem må være kompetent, må der være et<lb />
+Middel til at fåe Sagen bragt for den kompetente Ret, selv om Påankefristen med Hensyn<lb />
+til den første Afgjørelse er udløben. Herpå er<lb />
+den nævnte Bestemmelse beregnet, jfr. den ved lignende Hensyn begrundede Regel i § 13 Nr. 3.<lb />
+Reglerne for Forretningsfordelingen i Stræffesager mellem de flere Statsanklagere og Politimestre ere tildels ligefrem givne ved Reglerne om Værnethinget. Berettiget og forpligtet til at påtale er den Embedsmand, til<lb />
+hvis Embedskreds Sagens Værnething hører.<lb />
+Enkeltstående Retshandlinger må regelmæssig<lb />
+foranlediges af ham, selv om de skulle foregå<lb />
+ved en Ret, der ligger udenfor hans Embedskreds, i så Fald nemlig ved Rekvisition til<lb />
+den vedkommende Statsanklager eller Politimester, se § 76, jfr. dog § 78. Begynder<lb />
+Efterforskningen på en Tid, da der endnu<lb />
+mangler Forudsætninger til at bestemme Værnethinget, er enhver Statsanklager eller Politimester, der først får Anledning dertil, berettiget og forpligtet til at tage Sagen i sin<lb />
+Hånd og foranledige de enkelte Retshandlinger, der måtte blive Spørgsmål om, indtil<lb />
+Værnethinget kan bestemmes, dog at Sagen<lb />
+kan gå over til en anden Statsanklager eller<lb />
+Politimester ifølge Aftale eller overordnet Myndigheds Afgjørelse. Uopsættelige Skridt er<lb />
+uden Henfyn til Beføjelsen til at påtale Sagen som Helhed enhver Statsanklager eller<lb />
+Politimester, som dertil får Anledning, berettiget og forpligtet til at foretage. Er der<lb />
+Valg mellem flere Værnething i en offentlig<lb />
+Sag, og således flere Statsanklagere eller Politimestre lige kompetente, kan enhver af dem<lb />
+tage Sagen i sin Hånd; Prævention vil<lb />
+altså være afgjørende, medmindre Andet aftales eller afgjøres af overordnet Myndighed.<lb />
+Alle disse Regler er der imidlertid neppe Grund<lb />
+til at optage i Loven; de høre hjemme i en<lb />
+Instrux. De vedkomme nemlig ikke Domstolene.    Disse have alene at prøve, om  Sagen</p>
+</rightside>

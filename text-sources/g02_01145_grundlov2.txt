@@ -1,0 +1,63 @@
+3763
+<pb n="1145" >
+<p rend="page">1145</p>
+<h>
+<coll>3763</coll>
+<colr>3764</colr><lb />
+Den endlige Behandling of Valgoven. Regulativet.<lb />
+</h>
+
+<table>
+Amt.	Valgkredsene i hvert Amt.	Valgkredsenes Sammensætning.	Beboernes Antal i hver Valgkreds	Mødestedet.<lb />
+		sogn, Haslund, Ølst, Ørum, Værum, Laurberg, Leerberg,<lb />
+		Galthen og Vissing. Af Sønder Hald Herred: Kristrup.<lb />
+	3.	Rougsøe Herred. Af Sønder Hald Herrad: Fausing, Auning,<lb />
+Virring, Essenbek, Østeralling, Vesteralling, Aarslev, Hørning,<lb />
+Lihme, Hvilsager, Mygind, Krogsbek, Skjørring, Søby og<lb />
+Skadder. Af Galthen Herred: Halling, Ødum, Hadberg,<lb />
+Boldum og Rud. Af Østerliisberg Herred: Mørke, Skjødstrup,<lb />
+Hornslet, Todberg, Meilby, Hjortshøi og Egaa.	15,810	Hørning.<lb />
+	4.	Grenaa Kjøbstad, Nørre Herred. Af Sønder Herred: Veilby,<lb />
+Homøe, Aalsø og Hoed. Af Sønder Hald Herred: Koed,<lb />
+Marie Magdalene, Nørager, Giessing, Vivild og Veilby.	12,416	Grenaa.<lb />
+	5.	Ebeltoft Kjøbstad, Mols Herred. Af Sønder Herred: Feldballe,<lb />
+Nødager, Tiirstrup, Fuglslev, Hyllested, Rosmus, Kolind,<lb />
+Ebdrup, Lyngby og Albøge. Af Østerliisberg Herred: Skarresø,<lb />
+Bregnet og Thorsager.	13,246	Ebeltoft.<lb />
+XVII. Veile.	1.	Fredericia Kjøbstad, Elbo Herred og Holmans Herred.	13,672	Fredericia.<lb />
+	2.	Kolding Kjøbstad, Brusk Herred og Jerlev Herred.	13, 506	Kolding.<lb />
+	3.	Veile Kjøbstad. Veile Landsogn. Sognene: Hornstrup, Hover,<lb />
+Jellinge, Bræsten, Skidet, Greis, Sindberg, Østersnede, Engom,<lb />
+Hedensted, Store Dalby, Løsning og Korning.	14,243	Veile.<lb />
+	4.	Sognene: Nørup, Randbøl, Gadberg, Linneballe, Ringgive,<lb />
+Sønderomme, Brande, Thyregod, Vester, Nykirke, Give, Hveisel, Givskud, Kollerup, Vindelev, Uldum og Langskov.	11,876	Give.<lb />
+	5.	Sognene: Thyrsted, Uth, Stenderup, Urlev, Skjøld, Glud, Hiarnø, Assens, Klakring, Raarup, Barrit, Vrigsted, Nebsager,<lb />
+Bjerre, Stouby, Hornum, Hatting, Thorsted, Daugaard, Ørum<lb />
+og Ølsted.	14,479	Bjerre.<lb />
+XVIII. Ringkjøbing.	1.	Ringkjøbing Kjøbstad og Ulfborg-Hind Herreder	12,086	Ringkjøbing Kjøbstad.<lb />
+	2.	Lemvig Kjøbstad og Skodborg-Vandfuld Herreder	11,822	Lemvig Kjøbstad.<lb />
+	3.	Holstebro Kjøbstad og Hjerm-Ginding Herreder	14,102	Holstebro Kjøbstad.<lb />
+	4.	Hammerum Herred	9,698	Herning.<lb />
+	5.	Bølling-Nørre Herred	9,800	Skjern.<lb />
+XIX. Ribe.	1.	Varde Kjøbstad, Vester Herred, Øster Herred med Undtagelse af<lb />
+Andsager Sogn.	11,903	Varde Kjøbstad.<lb />
+	2.	Skads Herred. Af Øster Herred: Andsager Sogn. Af Gjørding Herred: Aastrup Sogn. Fanø.	11,595	Hjerting.<lb />
+	3.	Ride Kjøbstad, Frue og St. Cathrine Landsogn, Seem Sogn.<lb />
+Manø. De under Ribe Amt henhørende Beboere af NørFardrup, Hillerup, Jedsted, Hjortlund, Carlslund, Lintrup,<lb />
+Øster-Hjerting, Hygom, Fohl, Skodborg, Rødding og Gram<lb />
+Sogne. Gjørding Herred med Undtagelse af Aastrup Sogn.<lb />
+Af Malt Herred: Feuling, Holsted, Malt og Folding Sogne.	11,977	Ride Kjøbstad.<lb />
+	4.	Andst Herred. Slaugs Herred. Af Malt Herred, Sognene:<lb />
+Veien, Læborg, Brørup og Lindknud. De under Ride Amt		Brørup Sogn.<lb />
+henhørende Beboere af Øddis Sogn.	11,917	Steensvanggaard I Brørup Sogn.<lb />
+	5.	Løve eller Loe Herred med de under Ride Amt henhørende<lb />
+Beboere af Føhr, Amrum, Romø og Sylt. De under Ride<lb />
+Amt henhørende Beboere i Skjæbek, Reisby, Brøns, Vodder,<lb />
+Noager, Spandet, Hvidding, Høyrup, Arrild, Vester-Vedsted,<lb />
+Toftlund, Abild, Skads, Høier, Emmerlev, Jerpsted og Brede<lb />
+Sogne. Møgeltønder Herred.	11,827	Bredebro i Brede Sogn.<lb />
+</table>
+<underpage>
+Tryft og forlagt af Kgl. Hofbogtrykker Vianco Lune.<lb />
+</underpage>
+</pb>

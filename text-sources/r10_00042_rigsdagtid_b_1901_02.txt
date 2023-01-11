@@ -1,0 +1,136 @@
+2797
+<pb n="42" />
+<h>
+<coll>2797</coll>
+<topmidle>
+Kommissionens Bem. t. Udk. t. L. om den borgerlige Retspleje.
+</topmidle>
+<colr>2798</colr>
+</h>
+<leftside>
+<p>
+drage Grænserne for Parternes Forkla-<lb />
+ringspligt snævrere eller videre end for<lb />
+Vidners.<lb />
+</p>
+<p>
+Med Hensyn til den i sidste Stykke<lb />
+gjorte Henvisning bl. a. til § 158 skal be-<lb />
+mærkes, at der intet kan være til Hinder<lb />
+for, at en Part afhøres eller modafhøres<lb />
+af sin egen Sagfører. Tværtimod kan saa-<lb />
+dant være af væsentlig Betydning, for at<lb />
+ikke Partens Forklaring skal give et ufuld-<lb />
+stændigt eller skævt Billede af de virkelige<lb />
+Forhold. En Part vil f. Eks. let af For-<lb />
+virring eller juridisk ükyndighed kunne<lb />
+undlade at fremhæve Biomstændigheder af<lb />
+Betydning. Her maa da hans egen Sag-<lb />
+fører, der kender Sagen fra Partens Frem-<lb />
+stillinger for ham, træde til med passende<lb />
+Spørgsmaal, for at Partens Forklaring kan<lb />
+give det rette og fulde Indtryk.<lb />
+</p>
+<p>
+Om Rettens Adgang til efter Sagens<lb />
+Optagelse at indkalde alt afhørte Parter<lb />
+for at forelægge dem yderligere Spørgs-<lb />
+maal, jfr. § 92,<lb />
+</p>
+<wtitle>§ 194.</wtitle>
+<p>
+Med Hensyn til Anvendelsen af Straffe-<lb />
+lovens §§ 146—48 paa Parterne skal be-<lb />
+mærkes, dels at Udtrykket „usandfær^g<lb />
+Forklaring“ tilsigter at omfatte samtlige<lb />
+de Arter af Forseelser, der rammes af de<lb />
+nævnte Paragrafer og deres Analogi, dels<lb />
+at den i Straffelovens § 147, 2det Stykke,<lb />
+hjemlede Nedsættelse kun vil finde Anven-<lb />
+delse, hvor Analogien af Udkastets § 146<lb />
+burde have udelukket Afhøreisen, eller hvor<lb />
+Parten ifølge Udkastets § 147 in fine<lb />
+burde have været gjort opmærksom paa<lb />
+sin Ret til at nægte at give Forklaring.<lb />
+</p>
+<wtitle>§§ 197—99.</wtitle>
+<p>
+Om den her med Hensyn til Edsdomme<lb />
+foretagne Forandring henvises til de oven for<lb />
+ved dette Kap. gjorte Bemærkninger. Da<lb />
+den foreløbige Edsdom ikke kan paaankes<lb />
+(jfr. § 245), bliver der ikke — som i nugæl-<lb />
+dende Ret — Tale om at hindre Eds-<lb />
+aflæggelsen ved Appelstævning eller for at<lb />
+skaffe sig en Frist til at overveje, om man<lb />
+vil appellere. Paa den anden Side staar<lb />
+det den Part, der ifølge den endelige Dom<lb />
+taber Sagen, frit for at paaanke Dommen,<lb />
+uanset at Eden er aflagt (jfr. § 199 in<lb />
+fine).<lb />
+</p>
+</leftside>
+<rightside>
+<title>
+Tredie Afsnit.<lb />
+</title>
+<undertitle>
+Rettergangsmaaden.<lb />
+</undertitle>
+<p>
+Hele dettte Afsnit adskiller sig paa<lb />
+væsentlige Punkter fra de Dele af det tid-<lb />
+ligere Forslag, i hvis Sted det træder.<lb />
+Denne Forskel beror først og fremmest<lb />
+derpaa, at man i nærværende Udkast har<lb />
+aabnet Adgang til en fuldstændig Appel til<lb />
+Højesteret, altsaa til en Appel, der kan<lb />
+omfatte saavel hele Sagens faktiske Side<lb />
+(Bevisspørgsmaalet) som dens retlige.<lb />
+</p>
+<p>
+Som bekendt var der i den tidligere<lb />
+Kommission stærke Tvivl fremme om Rig-<lb />
+tigheden af at udelukke Bevisspørgsmaal<lb />
+fra Højesterets Prøvelse, og naar Kommis-<lb />
+sionens Flertal dog bestemte sig til at fore-<lb />
+slaa en delvis Udelukkelse af saadan Prø-<lb />
+velse — idet der nemlig efter det tidligere<lb />
+Forslag skulde tilkomme Landsretten selv<lb />
+den endelige Afgørelse af, hvad der kunde<lb />
+anses bevist ved Vidner, Skøn eller Par-<lb />
+ternes personlige Afhøring, — skete dette<lb />
+navnlig under Hensyn til, at det fra Teo-<lb />
+riens Side med megen Styrke hævdedes, at<lb />
+en fornyet Prøvelse ved Højesteret af Sa-<lb />
+gens hele faktiske Side ikke lod sig forene<lb />
+med en virkelig og tilfredsstillende Gen-<lb />
+nemførelse af Umiddelbarhedsprincipet.<lb />
+Ræsonnementet var i saa Henseende i korte<lb />
+Træk dette: Naar Højesteret skal kunne<lb />
+skønne over den hele Bevisførelse, maa<lb />
+denne bringes frem for Højesteret enten<lb />
+derved, at Vidners, Parters og Skønsmænds<lb />
+Forklaringer for Landsret straks protokol-<lb />
+leres og senere oplæses for Højesteret, eller<lb />
+derved, at hele Bevisførelsen gentages. Det<lb />
+første fører bort fra Umiddelbarhedsprin-<lb />
+cipet og derigennem ind i den Modsigelse,<lb />
+at der fra en Domstol, der til de nævnte<lb />
+Forklaringer har den Førstehaands Kend-<lb />
+skab, hvorpaa der efter Principet lægges<lb />
+Vægt, appelleres til en Domstol, der kun<lb />
+har en Andenhaands Kendskab til disse,<lb />
+hvortil kommer, at den Protokollation, der<lb />
+herefter maatte finde Sted under Lands-<lb />
+retsbehandlingen, vilde virke hæmmende<lb />
+paa dennes Liv og Friskhed. Det andet<lb />
+Alternativ, at lade Bevisførelsen i dens<lb />
+Helhed foregaa paany for Højesteret, vilde<lb />
+nødvendiggøre, at der gaves Højesteret en<lb />
+anden Karakter, end den hidtil har haft<lb />
+(et større Antal Medlemmer, forskellige<lb />
+Afdelinger etc.) og vilde derhos føre bort<lb />
+fra det sædvanlige Begreb om Appel som
+</p>
+</rightside>

@@ -1,0 +1,62 @@
+3329
+<pb n="60" />
+<h>
+<coll>3329</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3330</colr>
+</h>
+<p>
+Landsret, dog maa der, da det ordentligvis er Overanklageren, der tager Bestemmelse<lb />
+om Anke paa det offentliges Vegne, men derimod er Rigsanklageren, der skal føre<lb />
+Ankesagen for Højesteret, gives Rigsanklageren særlig Meddelelse om Anker. Anke-<lb />
+sagens Forberedelse ved Højesteret kan foregaa for et af 3 Medlemmer bestaaende<lb />
+Udvalg af Retten. I øvrigt er der inden for visse Grænser givet Højesteret Bemyn-<lb />
+digelse til selv at fastsætte de Former, hvori Forhandlingen for samme skal foregaa.<lb />
+Ny Beviser kunne forelægges Højesteret angaaende saadanne Omstændigheder, som<lb />
+ere undergivne denne Rets Bedømmelse. Det beror paa Højesteret selv, om eventuelle<lb />
+ny Vidner skulle føres for selve denne Ret eller ved Underret. Om fornødent kan<lb />
+Højesteret forlange Erklæring af Landsretten til yderligere Oplysning om, hvad der<lb />
+er foregaaet under Domsforhandlingen ved denne.
+</p>
+<p>
+45. Kære (Kæremaal, Besværing) i Straffesager. Medens den Dom, hvor-<lb />
+med en Straffesag ender, og i Forbindelse med den hele den foregaaende Behandling,<lb />
+kan gøres til Genstand for Anke, er Øjemedet med „Kære" at aabne Parterne Adgang<lb />
+til paa en let og hurtig Maade at bringe den underordnede Rets Kendelser og andre<lb />
+Beslutninger frem til særskilt Prøvelse for overordnet Ret. Denne Kæreadgang maa<lb />
+dog undergives en vis Begrænsning, ligesom Kære ikke ubetinget kan have opsættende<lb />
+Virkning, idet Adgangen i modsat Fald kunde misbruges til chikanøs Hindren eller<lb />
+Forhalen af Sagen. Særlig er Adgang til Kære nægtet Parterne, for saa vidt angaar<lb />
+den største Del af de Afgørelser, som træffes under selve Domsforhandlingen eller<lb />
+dennes Forberedelse. Ubetinget opsættende Virkning har Kære kun, naar den i rette<lb />
+Tid rejses mod en Beslutning af en Underret, hvorved Fængsling dekreteres som Tvangs-<lb />
+middel over for nogen, der har vægret sig ved at afgive Vidnesbyrd eller Syn eller<lb />
+Skøn eller ved at fremkomme med Dokumenter. I alle andre Tilfælde har Kære kun<lb />
+opsættende Virkning, naar saadant bestemmes enten af den Ret, hvorfra, eller af den<lb />
+Ret, hvortil der kæres. Den Fremgangsmaade, der skal anvendes ved Kære, er meget<lb />
+simpel og meget lidt formbunden. Kæremaalet skal først i særlig skriftlig Fremstilling<lb />
+eller i Form af en Bemærkning til Retsbogen eller, naar den paagældende er fængs-<lb />
+let, til Fængselsbestyrerens Bog forelægges den Ret, over hvilken man vil klage. Det<lb />
+skal derefter, bilagt med de fornødne Udskrifter og andre Dokumenter og eventuelt<lb />
+ogsaa med vedkommende Rets Erklæring, indsendes til vedkommende højere Ret.<lb />
+Denne skal give Parterne Adgang til at indgive skriftlige Udtalelser om Sagen, kan<lb />
+derhos af egen Drift foranledige yderligere Oplysninger tilvejebragte, og kan endelig,<lb />
+naar særlige Grunde tale derfor, anordne mundtlig Forhandling. Under en saadan<lb />
+skal der altid være en Forsvarer til Stede. — Kæremaal kunne i Højesteret forhandles<lb />
+for og afgøres af et Tremands-Udvalg. Kære maa i Almindelighed erklæres inden 14<lb />
+Dage efter Afgivelsen af den Beslutning, hvorover man vil klage, i visse Tilfælde dog<lb />
+inden 3 Dage eller endog straks paa Stedet. — Landsrettens Afgørelse i Anledning<lb />
+af Kære over Underrettens Beslutninger kan kun i Kraft af særlig Tilladelse fra<lb />
+Højesterets Side bringes videre til denne Ret.
+</p>
+<p>
+40. Genoptagelse (ny Foretagelse) af en Straffesag.*) Medens der efter<lb />
+gældende Ret ikke opstilles nogen særlig Betingelse for Genoptagelse fra det offent-<lb />
+liges Side af en Strafforfølgning, der er standset eller frafalden, uden at Dom er bleven
+</p>
+<note rend="foot">
+<p>
+*) Genoptagelse tages her i snævrere Forstand, saaledes at herunder ikke indbefattes den ved<lb />
+Anke foranledigede fornyede Behandling af en Sag.
+</p>
+</note>

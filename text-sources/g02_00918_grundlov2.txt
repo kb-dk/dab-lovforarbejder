@@ -1,0 +1,121 @@
+3309
+<pb n="918" >
+<p rend="page">918</p>
+<h>
+<coll>3309</coll>
+<colr>3310</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne Paa Rigsdagen.</topmidle>
+<topright>
+No. 418.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede og Thvende (124de) Møde.<lb />
+(Den endelige Behandling af Grundloven. §§ 51—54.)<lb />
+</stitle>
+<p>
+<law n="51" >§ 51.<lb /></law>
+68) Udvalgets Forslag: At Ordene „for hver ordentlig eller<lb />
+overordentlig Samling" udgaae, og at efter „og den" indskydes<lb />
+„eller dem".<lb />
+69) Udkastet: Ethvert Thing vælger selv for hver ordentlig eller<lb />
+overordentlig Samling sin Formand og den, der i hans Forfald skal føre Forsædet.<lb />
+<law n="53" >§ 53.<lb /></law>
+70) Udkastet: Til enhver Beslutning, faavelsom til Valget af Formændene, udfordres Fleertallet af de givne Stemmer. Hvorledes<lb />
+der skal forholdes ved andre Valg, bestemmes ved hvert Things<lb />
+Forretningsordning.<lb />
+(Udvalget foreslaaer, at denne Paragraph udgaaer.)<lb />
+</p>
+<p>
+<speaker>Ørsted:</speaker> Det Forslag, som jeg har tilladt mig at gjøre, og<lb />
+som blot angaaer Formen, gaaer ud fra den Anskuelse, at § 53<lb />
+beqvemt kan udgaae, naar Noget af den optages i § 51; thi at<lb />
+bestemme, at der til enhver Besluthing i Almindelighed behøves Stemmefleerhed, det forekommer mig at være Noget, der ikke behøver at<lb />
+siges. Det egentlige, positive Indhold, som Paragraphen har, er at<lb />
+til Formandsvalget udfordres Fleertallet af de afgivne Stemmer;<lb />
+men da denne Sætning ikke kan opfyldes, uden man tillige har Regler om, hvorledes denne absolute Stemmefleerhed skal tilveiebringes,<lb />
+forekommer det mig, at der maatte tilføies, hvad ogsaa er foreskrevet i vor Forretningsorden og i flere andre Forretningsordener, at naar man har gjort to Forsøg paa at tilveiebringe<lb />
+Stemmeflerhed ved frit Valg, maa man gaae over til bundet<lb />
+Valg af dem, som ved de foregaaende Valg have faaet de fleste<lb />
+Stemmer. Dette er vist en saa almindelig vedtagen Regel, at<lb />
+den vilde iagttages, om det end ikke udtykkelig stod i Grundloven;<lb />
+men det forekommer mig, at naar Grundloven først indlader sig paa<lb />
+at afgjøre, at der behøves absolut Stemmefleerhed for at tilveiebringe<lb />
+Valget, burde det ogsaa siges, paa hvad Maade det kan tilveiebringes, da det naturligviis ikke kan tilveiebringes ved et vedvarende<lb />
+frit Valg.<lb />
+</p>
+<p>
+<speaker>Ordføreren:</speaker> Udvalgets Forslag til § 51 er støttet paa den<lb />
+almindelige Betragtning, at Grundloven ikke synes at burde binde<lb />
+Thinget i de to Retninger, hvor Udkastet har en fast Regel; efter<lb />
+Paragraphen skal nemlig Formanden vælges for hele Thingets ordentlige og overorordentlige Samling, og der skal kun vælges Een, der i<lb />
+hans Forfald kan føre Forsædet. Uden at udtale Noget om, hvorvidt man vil benytte en større Frihed, forekommer det Uadalget, at<lb />
+man gjerne kunde gjøre det muligt for Thinget at vælge sin Formand<lb />
+paa kortere Tid og gjøre det muligt for det at vælge mere end een<lb />
+Viceformand. § 53 har Udvalget troet gjerne kunde udgaae, idet<lb />
+den nemlig deels henviser til Forretningsordenen—men herom indeholdes den fornødne Bestemmelse i § 51—, deels udtaler, at Fleertallet af<lb />
+de afgivne Stemmer udfordres til enhver Beslutning, saavel som til<lb />
+Valget af Formand. Det er forekommet os saa aldeles at ligge i<lb />
+Forholdets Natur, at der behøves Fleertallet af de afgivne Stemmer<lb />
+til Formandsvalget, at vi ikke have kunnet tænke og Muligheden af,<lb />
+at en Forsamling skulde ville vælge sin Formand med et Mindretal.<lb />
+Derimod have vi havt nogen Tvivl, om der ikke kunde lægges ind i<lb />
+Ordene: „Til enhver Beslutning, saavel som til Valget af Formæn<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+dene, udfordres Fleertallet af de afgivne Stemmer" noget Mere, end<lb />
+man egentlig meente, om man ikke deraf kunde udlede, at det ikke<lb />
+stod i Forsamlingens Magt, t. Ex. ved formelle Spørgsmaal, at fordre<lb />
+mere end absolut, at fordre qvalificeret Stemmefleerhed; man har<lb />
+spurgt, om man ikke deraf kunde udlede, at Fleertallet altid var tilstrækkeligt, at man f. Ex. ikke skulde kunne sige: Afvigelse fra Forretningsordenen kan finde Sted, naar der er ¾ Majoritet, men ligesom nærværende Forsamling ved Forretningsordenen fastsætter saadanne Forhold, saaledes have vi ikke fundet nogen Betænkelighed ved,<lb />
+at det i Fremtiden overlades til Thinget at afgjøre disse Spørgsmaal ved Forretningsordenen.<lb />
+</p>
+<p>
+Da ingen Flere begjerede Ordet, skredes til Afstemning, hvorved<lb />
+1) Nr. 67. Ørsteds Forslag: „Der tilføies § 51 Følgende: „Til<lb />
+saadant Valg udfordres Fleertallet af Stemmer, og forsaavidt<lb />
+en saadan Fleerhed ei kan erholdes ved den første Afstemining,<lb />
+foregaaer endnu en Afstemning med frit Valg, og derefter endelig Afsteming, indskrænket til dem, der ved den foregaaende havde<lb />
+faaet flere Stemmer end nogen anden:; hvorimod da § 53<lb />
+udgaaer. “<lb />
+Forkastedes med 82 Stemmer mod 17.<lb />
+<law n="51" >§ 51.<lb /></law>
+2) Nr. 68. Udvalgets Forslag: „At Ordene „for hver ordentlig eller overordentlig Samling" udgaae, og at efter „og den"<lb />
+indskydes „eller dem". “<lb />
+vedtoges eenstemmig med 103 Stemmer.<lb />
+3) Nr. 69. Udkastet, med den efter foranstaaende Afstemning nødvendige Forandring, saalydende:<lb />
+„Ethvert Thing vælger selv sin Formand og den eller dem,<lb />
+der i hans Forfald skal føre Forsædet. “<lb />
+vedtoges eenstemmig med 108 Stemmer.<lb />
+<law n="53" >§ 53.<lb /></law>
+4) Nr. 70. Udkastet: „Til enhver Beslutning, saavelsom til Valget af Formændene, udfordres Fleertallet af de afgivne Stemmer.<lb />
+Hvorledes der skal forholdes ved andre Valg, bestemmes ved<lb />
+hvert Things Forretningsorden", hvilken Paragraph Udvalget<lb />
+havde foreslaaet at skulle udgaae,<lb />
+forkastedes med 91 Stemmer mod 5.<lb />
+Derefter gik man over til § 52, hvortil Afstemningslisten indeholdt Følgende:<lb />
+71) Udvalgets Fleertals Forslag: At istedetfor „ikke idetmindste<lb />
+⅓" sættes „ikke over Halvdelen".<lb />
+72) Udkastet: Intet af Thingene kan tage nogen Beslutning,<lb />
+naar ikke idetmindste ⅓ af dets Medlemmer er tilstede og deeltager i Afsteminingen.<lb />
+Anmærkn. Udvalgets Mindretal (Christensen, Gleerup, Hage,<lb />
+Jacobsen, Krieger, Pictursson) stemmer for Udkastet.<lb />
+Da Ingen begjerede Ordet, skred man til Afstemning, hvorved:<lb />
+1) Nr. 71. Udvalgets Fleertals Forslag: „At istedetfor „ikke<lb />
+idetmindste ⅓" sættes „ ikke over Halvdelen". “<lb />
+vedtoges med 68 Stemmer mod 42.<lb />
+2) Nr. 72. Udkastet, efter den foranstaaende Afstemning saalydende:<lb />
+„Intet af Thingene kan tage nogen Beslutning, naar ikke<lb />
+over Halvdelen af dets Medlemmer er tilstede og deeltager i Afstemningen. “<lb />
+vedtoges med 107 Stemmer mod 1.<lb />
+Derefter gik man over til § 54, hvortil Afstemningslisten indeholdt Følgende:<lb />
+</p>
+</rightside>
+
+
+</pb>

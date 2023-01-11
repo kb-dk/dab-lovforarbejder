@@ -1,0 +1,35 @@
+0
+<pb n="4" />
+<title>Andet Afsnit.</title>
+<undertitle>Om Midlerne til Opnåelse af Straffesagers Formål.....§§ 110-210.</undertitle>
+<p>Kapitel I.</p>
+<p>Om Adgang til synlige Bevismidler.................................................. §§ 112—128.</p>
+<p>Om Ransagning efter synlige Bevismidler...................... §§ 112-119.</p>
+<p>n.<lb />
+Andre Midler til at faae synlige Bevismidler i Hænde...........  §§ 120—124.</p>
+<p>Om Beslaglæggelse af Ting, der kunne tjene til Bevis, m. V.....§§ 125-128.</p>
+<p>Kapitel II.</p>
+<p>Om Vidner..................................................................... §§ 129-147.</p>
+<p>Kapitel III.</p>
+<p>Om Besigtigelser, Syn og Skjøn...................................................  §§ 148—165.</p>
+<p>Kapitel IV.</p>
+<p>Om den Sigtedes Indkaldelse   for Retten,  Anholdelse  og   Fængsling samt om Beslaglæggelse af</p>
+<p>dens Formue, som unddrager sig Forfølgning m. V.............................  §§ 166    200.</p>
+<p>Om den Sigtedes Indkaldelse for Retten.....................    §§ 166—168,</p>
+<p>II.</p>
+<p>Om Anholdelse........................................    §§ 169-181.</p>
+<p>III.<lb />
+Om fængsling.........................................    §§ 182-196.</p>
+<p>Om Beslaglæggelse på dens Formue, som unddrager sig Forfølgning,</p>
+<p>samt om Sagens Pådømmelse i den Sigtedes Fraværelse.    §§ 197—200.</p>
+<p>Kapitel V.</p>
+<p>Om Afhørelse af den Sigtede og af en privat Anklager..................................  §§ 201 -206.</p>
+<p>Kapitel VI.</p>
+<p>Om Beslaglæggelse på den Mistænktes Gods for Omkostninger og Erstatning samt om Forbud..  §§ 207 — 210.</p>
+<title>Tredie Afsnit.</title>
+<undertitle>Om Undersøgelsen, forend Anklage er reist, i Sager, som<lb />
+forfølges af Statsanklageren eller Politiet ........... §§ 211- 246.</undertitle>
+<p>Kapitel I.</p>
+<p>Om Efterforskningen............................................................... §§ 211-226.</p>
+<p>Kapitel II.</p>
+<p>Om Forundersøgelsen ned Retten.....................................................  §§ 227—246.</p>

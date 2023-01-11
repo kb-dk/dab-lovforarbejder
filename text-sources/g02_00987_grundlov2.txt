@@ -1,0 +1,110 @@
+3447
+<pb n="987" >
+<p rend="page">987</p>
+<h>
+<coll>3447</coll>
+<colr>3448</colr><lb />
+
+Den foreløbige Behandling af Valgloven. §§ 36—40.<lb />
+</h>
+<leftside>
+<p>
+ikke var saa. Maaskee den ærede Ordfører vil yttre sig om, hvorledes<lb />
+Udvalget har troet, at denne Uregelmæssighed kunde forebygges.<lb />
+</p>
+<p>
+<speaker>Ordføreren:</speaker> Vi have i denne henseende ganske henholdt os<lb />
+til Udkastet; jeg maa tillige giøre opmærtkom paa, at jeg ikke var<lb />
+i Stand til at høre Begyndelsen af hvad det ærede Medlem sagde,<lb />
+da der var nogen Bevægelse i Salen, og jeg tør derfor ikke nu indlade mig paa nogen ucermere Besvarelse deraf.<lb />
+</p>
+<p>
+<speaker>Ørsted:</speaker> Jeg skal dog med hensyn til det Spørgsmaal, som<lb />
+er opkastet, om ikke den Tid, inden hvilken navnlig Afstemning skal<lb />
+forlanges, burde være længere end et Qvarteer, som Udkastet har<lb />
+sat og som Udvalget har holdt sig til, giøre den Bemærkning, at<lb />
+Aarsagen, hvorfor man har forandret Tiden fra een Time til eet<lb />
+Qvarteer, vel rimeligviis er den, at det meget let kunde være, at<lb />
+Folk, som ikke troede, at der vilde blive forlangt Navneopraab kunde<lb />
+fierne sig, og at man kunde benytte sig deraf til at forlange navnlig<lb />
+Afstemning paa en Tid, hvor adskillige af Vælgerne ikke være tilstede.<lb />
+
+</p>
+</leftside>
+<rightside>
+<p>
+Desuden troer jeg, at det vil blive en Gene for Vælgerne, om de<lb />
+skulde forblive længere Tid paa Valgstedet, og at dette ogsaa kan<lb />
+være en Grund til ikke at forlænge Tiden.<lb />
+</p>
+<p>
+Da ingen flere begjerede Ordet, var saaledes den foreøbige<lb />
+Behandling af de af Udvalget foreslaaede første 36 Paragrapher af<lb />
+Valgloven tilendebragt. Formanden gjorde derefter opmærtsom<lb />
+paa, at han havde modtaget nogle Ændringsforslag, og indstillede til<lb />
+forsamliugens Medlemmer, om disse, da der ikke var anmeldt mange<lb />
+Ændrigsforslag, samt i lighed med hvad der havde været Tilfældeet,<lb />
+da Grundlovssagen behandledes afsnitsviis, for at fremme Sagen<lb />
+vilde indlevere disse Ændringsforslag inden næstkommende Mandag<lb />
+Middag.<lb />
+</p>
+<p>
+Man gik derpaa over til § 37, om „landsthinget".<lb />
+Udvalgets Betænkning, som Ordføreren oplæste, indehlder<lb />
+herom:<lb />
+</p>
+<btitle>
+Landsthinget.<lb />
+1 Landsthingskredsenes Ordning.<lb />
+</btitle>
+<p>
+(§ 37.)<lb />
+(Oversigt over folketallet i Landsthingskredsene).<lb />
+</p>
+<p>
+Naar Antallet af Folkethingets Medlemmer for Jylland og Østifterne forudsættes at skulle være omtrent 100, bliver Landsthingsmedlemmernes Antal omtrent 50. Da Folkrmængden i Jylland og Østifterne efter den sidste Tælling udgjorde 1,350,327, skal der efter et<lb />
+Middelforhold være:<lb />
+</p>
+<p>
+1 Landsthingsmand for 27, 000 Mennesker,<lb />
+2 —	—	54,000	—<lb />
+3 —	—	81,000	—<lb />
+4 —	—	108,000	—<lb />
+5 —	—	135,000	—<lb />
+6 —	—	162,000	—<lb />
+7 —	—	189,000	—<lb />
+8 —	—	216,000	—<lb />
+</p>
+<p>
+Forsaavidt Befolkningstallet i Kredsen ikke ganske maatte passe, kunde naar der ei være særegne Grunde til at fravige det<lb />
+arithmetiske forhold, intet Hensyn tages til et Overskud under 13,500 hvorimodd et større Overskud maatte give Adgang til en Forhøielse<lb />
+af landsthingsmændenes Antal.<lb />
+Efter det af Regieringen forelagte Valglovsudkast var Forholdet følgende:<lb />
+</p>
+<p>
+	Indbyggere.	Landsthingsmænd.<lb />
+Kiøbenhavn	126,787.	4.<lb />
+Odense Amt	98,936.	3.<lb />
+Kjøbenhavns Amt	69,286.	2.<lb />
+Frederiksborg Amt	74,099.	2.<lb />
+Holbeks Amt	73,236.	2.<lb />
+Sorø Amt	66,567.	2.<lb />
+Vræstø Amt	78,915.	2.<lb />
+Svendborg Amt	83,824.	2.<lb />
+Maribo Amt	75,249.	2.<lb />
+Aalborg Amt	63,204.	2.<lb />
+Hiørring Amt	67,787.	2.<lb />
+Viborg Amt	59,213.	2.<lb />
+Randers Amt	69,868.	2.<lb />
+Ribe Amt	59,219.	2.<lb />
+Ringkiøbing Amt	57,568.	2.<lb />
+Veile Amt	67,775.	2.<lb />
+Bornylms Amt	26,546.	1.<lb />
+Thisted Amt	46,627.	1.<lb />
+Aarhuus Amt	40,706.	1.<lb />
+Skanderborg Amt	44,915	1.<lb />
+</p>
+</rightside>
+
+
+</pb>

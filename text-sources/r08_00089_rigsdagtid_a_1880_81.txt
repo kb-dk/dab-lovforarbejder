@@ -1,0 +1,45 @@
+3541
+<pb n="89" />
+<h>
+<coll>3541</coll>
+<topmidle>Tillæg ^ (167).          Ordentl. Samling 1880.<lb />
+Forsl. t. L. om dm borgerlige Retspleie.</topmidle>
+<colr>3542</colr>
+</h>
+<wtitle>§ 289.</wtitle>
+<p>Udebliver en Part under Bevisforhandlingen (§ 188), fremmes Sagen paa scedvan-<lb />
+lig Maade af den modende Part. Retten lader den af den udeblevne Part indgivne Paa-<lb />
+stand oplcefe, ligesom Retten ogsaa i hans Interesse kan stille Spørgsmaal til Vidner,<lb />
+skjønsmænd og den modende Modpart.</p>
+<p>Dom afsiges paa Grundlag af de i Sagen stedfundne Forhandlinger.</p>
+<wtitle>§ 290.</wtitle>
+<p>Udeblive i noget Retsmode begge Parter, harves Sagen strax af Retten.</p>
+<p>Naar den ene Part udebliver, staar det altid den msdende Part frit for at lade<lb />
+sig anse som udebleven ved enten udtrykkeligt at begjære dette eller ved at undlade at<lb />
+fremme Sagen.</p>
+<wtitle>§ 291.</wtitle>
+<p>Udeblivelse i de Moder, til hvilke en Forhandling udsættes, eller i hvilke den fort-<lb />
+sættes, behandles efter de ovenfor i §§ 285—290 givne Regler, dog med den nærmere Be-<lb />
+stemmelse, at det, som forinden Udeblivelsen er anfort af Parten, ikke taber sin Betydning<lb />
+eller Virkning, men af Retten bliver at tage i Betragtning ved Domsafsigelsen ifolge de al-<lb />
+mindelige Regler.</p>
+<wtitle>§ 292.</wtitle>
+<p>Tillades det i Tilfælde, hvor den ene Part udebliver, den modende Part at foretage<lb />
+Forandringer i Paastandene eller at fremsætte nye Anbringender, uden at forudgaaende<lb />
+skriftlig meddelelse til Modparten herom er flet (jfr. § 168 sidste Stykke i Slutningen) kan<lb />
+Retten udfoette Sagen og paalægge den modende Part at underrette Modparten om det<lb />
+Stedfundne.</p>
+<title>Tredie Afsnit.</title>
+<undertitle>Om Retsmidlerne imod Landsretternes Handlinger</undertitle>
+<wtitle>§ 293.</wtitle>
+<p>Retsmidlerne imod Landsretternes Handlinger ere:</p>
+<p>1)  Paaanke og Besvaning til Hoiesteret;</p>
+<p>2)  Andragende til den samme Ret om ny Foretagelse af Sagen.</p>
+<title>Kapitel I.</title>
+<undertitle>a.   Paaante til Hviefteret</undertitle>
+<wtitle>§ 294.</wtitle>
+<p>Kun Domme, hvormed Sagen endes i den paagjældende Instants, ere Gjenstand for<lb />
+Paaanke.</p>
+<p>Dommens Bestemmelse med Hensyn til Procesomkostninger kan   ikke  paaankes uden<lb />
+i Forbindelse med Hovedsagen, jfr. dog §  135.</p>
+<p>Forelagte Lovforslag m. m.              167</p>

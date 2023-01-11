@@ -1,0 +1,38 @@
+4081
+<pb n="358" />
+<h>
+<coll>4081</coll>
+<topmidle>Bil. t. Lovs. om Retsafgifter m. m.</topmidle>
+<colr>4088</colr>
+</h>
+<wtitle>§ 33.</wtitle>
+<p>For Iværkfcrttelse af Paaanke og Oesværing imod Exekutions- eller Tvangsauktionsforretninger<lb />
+erlægges Afgift efter Reglerne i §§ 23 og 24.</p>
+<title>II.</title>
+<undertitle>Om Afgifterne for Udpantning famt Indsættelses- og<lb />
+Udfcr tiel fesforretninger.</undertitle>
+<wtitle>§ 34.</wtitle>
+<p>Paa Udpantningsforretninger blive de i foregaaende Afdeling for Exekution givne Afgifts'<lb />
+regler at anvende, dog at Afgifterne, naar det BelB, for hvilket der udpantes, ikke overstiger 100 Kr.,<lb />
+nedsættes til det Halve.    Foretages Udpantningen af søgnefogden, Tilfælder Afgiften denne.</p>
+<p>Ligeledes blive de i foranstaaende Afdelings §§ 30—33 givne Afgiftsregler at anvende paa<lb />
+Realisationen af det Udpantede, forsaavidt denne sker ved Fogden (jfr. Lov om den borgerlige Rets«<lb />
+pleie § 565).</p>
+<wtitle>§ 35.</wtitle>
+<p>Paa Indsættelses- og Udsættelsesforretninger, der foretages uden de fædvanlige Exekutians«<lb />
+grundlag, blive de i foranstaaende Afdeling for Exekution givne Afgiftsregler i det Hele at anvende.</p>
+<title>Tredie Kapitel.</title>
+<undertitle>Om Afgifterne for de forelsbige Retsmidler.</undertitle>
+<wtitle>§ 36.</wtitle>
+<p>For en Arrestforretnings Foretagelse erlægges dm almindelige Retsafgift, saaledes at Af-<lb />
+gnten, der betales af Rekvirenten ved Rekvisitionens Indgivelse, beregnes i Forhold til Værdien af<lb />
+den Fordring, for hvilken Arrest foretages.</p>
+<wtitle>§ 37.</wtitle>
+<p>For Forbudsforretningers Foretagelse erlægges ligeledes af Rekvirenten den almindelige<lb />
+Retsafgift, faaledes at denne i' alle Tilfælde ansættes efter § 8.</p>
+<wtitle>§ 38.</wtitle>
+<p>Foretages Arrest- eller Forbudsforretninger  ifølge   en paa  Statskassens Vegne eller af en<lb />
+beneficeret Part fremsat Rekvisition, sinder Bestemmelsen i § 30 tilsvarende Anvendelse.</p>
+<wtitle>§ 39.</wtitle>
+<p>For Iværksættelse af Paaanke og Besværing imod Arrest- og Forbudsforretninger erlægges<lb />
+Afgift efter Reglerne i §§ 23 og 24.</p>

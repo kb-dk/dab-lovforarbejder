@@ -1,0 +1,170 @@
+2375
+<pb n="7" />
+<h>
+<coll>2375</coll>
+<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
+<colr>2376</colr>
+</h>
+<leftside>
+<wtitle>Til § 352.</wtitle>
+<p>
+1. Stk., L. 2: „§ 363" 1. ,,§ 490".
+</p>
+<wtitle>Til § 354.</wtitle>
+<p>
+1. Stk., L. 1: „§ 350" 1. „§ 477".
+</p>
+<wtitle>Til § 364.</wtitle>
+<p>
+L. 5: „Kap. XXXI" 1. „Kap. 45".
+</p>
+<wtitle>Til § 368.</wtitle>
+<p>
+1.	Stk., L. 1 : „§ 329" 1. „§ 456".
+</p>
+<wtitle>Til § 374.</wtitle>
+<p>
+2.	Stk., L. 5: „§ 363" 1. „§ 490".
+</p>
+<wtitle>Til § 381.</wtitle>
+<p>
+L. 1: „§ 380, jfr. § 379" 1. „§ 507, jfr.<lb/>
+§ 506".
+</p>
+<wtitle>Til § 384.</wtitle>
+<p>
+1.	Stk., L. 3: „§ 403" 1. „§ 533".
+</p>
+<p>
+4. Stk., L. 3: „§ 452" 1. „§ 578".
+</p>
+<wtitle>Til § 386.</wtitle>
+<p>
+2.	Stk., L. 2: „§ 326" 1. „§ 453".
+</p>
+<wtitle>Til § 387.</wtitle>
+<p>
+L. 1: „§ 328" 1. „§ 455".
+</p>
+<wtitle>Til § 390.</wtitle>
+<p>
+L. 2: „§ 384" 1. „§ 514" og „§ 402" 1.<lb/>
+„§ 532".
+</p>
+<wtitle>Til § 397.</wtitle>
+<p>
+1. Stk.. L. 6: „§ 400" 1. „§ 530".
+</p>
+<wtitle>Til § 398.</wtitle>
+<p>
+L. 3: „§ 397" 1. „§ 527".
+</p>
+<wtitle>Til § 401.</wtitle>
+<p>
+1.	Stk., L. 2: „§ 81" 1. „§ 201".
+</p>
+<wtitle>Til § 405.</wtitle>
+<p>
+L. 1: „§§ 403 og 404" 1. „§§ 533 og 534".<lb/>
+L. 2: „§§ 400 og 401" 1. „§§ 530 og 531".
+</p>
+<wtitle>Til § 406.</wtitle>
+<p>
+2.	Stk., L. 4: „§ 416" 1. „§ 546".
+</p>
+<wtitle>Til § 407.</wtitle>
+<p>
+1.	Stk., L. 1: „§ 406" 1. „§ 536".
+</p>
+<p>
+2.	Stk., L. 5: „§ 81" 1. „§ 201".
+</p>
+<p>
+2.	Stk., L. 9: „§§ 401 og 390" 1. „§§ 531<lb/>
+og 502".
+</p>
+<wtitle>Til § 408.</wtitle>
+<p>
+3.	Stk., L. 6: „§ 407" 1. „§ 537".
+</p>
+</leftside>
+<rightside>
+<wtitle>Til § 409.</wtitle>
+<p>
+3. Stk., L. 4: „§ 427" 1. „§ 557".
+</p>
+<wtitle>Til § 410.</wtitle>
+<p>
+1. Stk., L. 2: „§ 408" 1. „§ 538".
+</p>
+<wtitle>Til § 411.</wtitle>
+<p>
+L. 1: „§§ 408—410" 1. „§§ 538—540".
+</p>
+<wtitle>Til § 412.</wtitle>
+<p>
+L. 1: „§ 407" 1. „§ 537".
+</p>
+<wtitle>Til § 413.</wtitle>
+<p>
+1. Stk., L. 5: „§§ 408—411" 1. „§§ 538<lb/>
+-541".
+</p>
+<p>
+3. Stk., L. 2: „§ 407" 1. „§ 537".
+</p>
+<p>
+3. Stk., L. 10: „§ 401" 1. „§ 531".
+</p>
+<wtitle>Til § 414.</wtitle>
+<p>
+L. 6: „§ 427" 1. „§ 557".
+</p>
+<wtitle>Til § 415.</wtitle>
+<p>
+L. 2: „§ 407" 1. „§ 537".
+</p>
+<wtitle>Til § 416.</wtitle>
+<p>
+1. Stk.. L. 5: „§ 407" 1. „§ 537".<lb/>
+1. Stk., L. 6: „§ 413" 1. „§ 543".
+</p>
+<wtitle>Til § 419.</wtitle>
+<p>
+1. Stk., L. 5: „§ 413" 1. „§ 543".<lb/>
+1. Stk., L. 8: „§ 414" 1. „§ 544".<lb/>
+1. Stk., L. 11: „§ 412" 1. „§ 542".<lb/>
+1. Stk., L. 21: „§ 417" 1. „§ 547".
+</p>
+<wtitle>Til § 421.</wtitle>
+<p>
+L. 1: „§ 416" 1. „§ 546".
+</p>
+<wtitle>Til § 422.</wtitle>
+<p>
+1. Stk., L. 7: „§ 416" 1. „§ 546".
+</p>
+<wtitle>Til § 423.</wtitle>
+<p>
+1.	Stk., L. 2: „§ 417" 1. „547".
+</p>
+<wtitle>Til § 425.</wtitle>
+<p>
+2.	Stk., L. 1: „§ 410" 1. „§ 540".
+</p>
+<wtitle>Til § 426.</wtitle>
+<p>
+L. 3: „§ 414" 1. „§ 544".
+</p>
+<wtitle>Til § 427.</wtitle>
+<p>
+1. Stk., L. 1: „§ 414" 1. „§ 544".
+</p>
+<p>
+1.	Stk., L. 11: „§ 81" 1. „§ 201".
+</p>
+<wtitle>Til § 428.</wtitle>
+<p>
+2.	Stk., L. 2: „§ 423" 1. „§ 553",
+</p>
+</rightside>

@@ -1,0 +1,153 @@
+3369
+<pb n="948" >
+<p rend="page">948</p>
+<h>
+<coll>3369</coll>
+<colr>3370</colr><lb />
+
+Den endelige Behandling af Grundlovsudkastet. §§ 2, 66 og 80.<lb />
+</h>
+<leftside>
+<px>
+Nei.<lb />
+G. Aagaard.	Jacodsen.<lb />
+Andresen.	Fr. Jespersen.<lb />
+Andræ.	H. C. Johansen.<lb />
+Barfod.	Jungersen.<lb />
+Bjerring.	Jørgensen.<lb />
+Black.	Kayser.<lb />
+Bregendahl.	Kirk.<lb />
+M. P. Vruun.	Knuth.<lb />
+Buntzen.	Krieger.<lb />
+Boisen.	Køster.<lb />
+Balthazar Christensen	Chr. Larsen.<lb />
+G. Christensen.	Maden.<lb />
+H. Christensen.	R. N. Møller.<lb />
+J. Christensen.	N. H. Nielsen.<lb />
+Colding.	Nørgaard.<lb />
+la Cour.	Olesen.<lb />
+Dahl.	Olrik.<lb />
+Dinsen.	Cornelius Pedersen.<lb />
+J. C. Drewsen.	J. Pedersen.<lb />
+M. Drewsen.	P. Pedersen.<lb />
+Duntzfelt.	Ploug.<lb />
+Flor.	J. Rasmussen.<lb />
+Fløe.	H. Rasmussen.<lb />
+Frølund.	M. Rasmussen.<lb />
+Gleerup.	Rée.<lb />
+Gregersen.	Schack.<lb />
+Gudmundsson.	Schroll.<lb />
+Hage.	Stender.<lb />
+J. A. Hansen.	Thalbitzer.<lb />
+L. Hansen.	Theilmann.<lb />
+P. Hansen.	Tscherning.<lb />
+Hermannsen	Tuxen.<lb />
+Hiort.	W. Ussing.<lb />
+Hunderup.	Westergaard.<lb />
+Hækkerup.	Winther.<lb />
+Høier.<lb />
+</px>
+<px>
+Ja.<lb />
+U. Agaard.	Mundt.<lb />
+Bagger.	Paludan-Műller.<lb />
+Bluhme.	Mynster.<lb />
+Brandt.	C. C. Møller.<lb />
+P. D. Bruun.	Neergaard.<lb />
+Cederfeld de Simonsen.	H. C. Nielsen.<lb />
+Dahlerup.	Nyholm.<lb />
+David.	Ostenfeldt.<lb />
+Funder.	Ostermann.<lb />
+Gram.	Oxholm.<lb />
+Hall.	Pape.<lb />
+Hammerich.	B. Petersen.<lb />
+H. P. Hansen.	C. N. Petersen.<lb />
+Mørk Hansen.	Pløyen.<lb />
+N. Hansen.	Scavenius.<lb />
+Hastrup.	Schiern.<lb />
+v. Haven.	Schurmann.<lb />
+Holck.	Brinck-Seidelin.<lb />
+C. M. Jespersen.	Sidenius.<lb />
+N. F. Jespersen.	Tobiesen.<lb />
+H. Johansen.	Tvede.<lb />
+Johnsen.	Algreen-Ussing.<lb />
+J. E. Larsen.	Wegener.<lb />
+Linnemann.	Wulff.<lb />
+Lorck.	Zeuthen.<lb />
+Lűttichau.	Ørsted.<lb />
+Lűtzhőft.<lb />
+
+</px>
+</leftside>
+<rightside>
+<px>
+Fraværende.<lb />
+Bergmann.	Marckmann.<lb />
+H. B. Bruun.	Tage-Műller. (syg).<lb />
+Buchwaldt.	Otterstrøm.<lb />
+Eriksen.	Pjetursson.<lb />
+Fidiger.	Ræder.<lb />
+Gislason.	Schlegel.<lb />
+Grundtvig.	Schytte.<lb />
+Hasselbalch.	Sigurdsson.<lb />
+Hvidt.	Stockfleth.<lb />
+Jacobæus.	Tang.<lb />
+F. Johannsen.	Treschow.<lb />
+Sehestedt-Juel.	Visby.<lb />
+Leth (syg).	With.<lb />
+</px>
+<p>
+Efterat næste Møde var berammet til Onsdagen den 16de,<lb />
+Kl. 6 Eftermiddag. Fortsættelse af Grundlovssagens anden Behandling, blev Mødet hævet.<lb />
+</p>
+<stitle>
+122de offentlige Møde.<lb />
+(Det 126de Møde i den hele Række.)<lb />
+Aftenmøde.<lb />
+</stitle>
+<subtitle>
+Onsdagen den 16de Mai.<lb />
+</subtitle>
+<p>
+(Den endelige Behandling af Grundloven. § 80.)<lb />
+</p>
+<p>
+Viceformanden Hvidt besteg i Formandens Forfald Forsædet.<lb />
+</p>
+<p>
+Efter Dagsordenen gik man over til den fortsatte endelige Behandling af Grundlovsudkastet og navling til dets § 80.<lb />
+</p>
+<p>
+Til denne Paragraph indeholdt Afstemningslisten Følgende:<lb />
+124) Grundtvigs Forslag: „Denne Grundlov kan ikke forandres<lb />
+uden paa en Rigsdag, som dertil udtrykkelig er sammenkaldt,<lb />
+og naar de tre Fjerdedele af hele Nigsforsamlingen ere derom<lb />
+enige med Kongen. “<lb />
+125) Ørsteds Forslag: Efter Slutningen „er den Grundlov"<lb />
+tilføies: „Dog kan ingen Forandring i Grundloven, der gaaer<lb />
+ud paa en Indskrænkning i de Kongen tillagte Rettigheder, eller paa<lb />
+en Forandring i Arvefølgen, komme under Forhandling, naar<lb />
+ikke Forslag dertil er gjort eller samtykket af Kongen. “<lb />
+126) Udkastet: Forslag til Forandring i eller Tillæg til nærværende Grundlov fremsættes paa en ordentlig Rigsdag. Vedtages den derom fattede Beslutning i uforandret Skikkelse af<lb />
+næste ordentlige Rigsdag, og bifaldes den af Kongen, opløses<lb />
+begge Thingene, og almindelige Valg foregaae baade til Folkethinget og til Landsthinget. Vedtages Beslutningen 3die Gang<lb />
+af den nye Rigsdag paa en ordentlig eller overordentlig Samling, og stadfæstes den af Kongen, er den Grundlov.<lb />
+</p>
+<p>
+Efter Formandens Opfordring erholdt den stillede Forslag den fornødne Understøttelse.<lb />
+</p>
+<p>
+<speaker>Grundtvig:</speaker> Jeg behøver ikke at sige Forsamlingen, at vi ved<lb />
+Aftalen eller ved den saakaldte endelige Behandling af Grundloven<lb />
+ere gaaede rask frem. Vi have kjørt med Damp, og da vi have havt<lb />
+et temmelig svært Læs af Ændringsforslag, er der naturligviis faldet Meget af. Nu er det vist nok, at der mellem alt det, der saaledes<lb />
+er faldet af, sagtens maa være Noget, som snart vil savnes, og derfor skulle vi ikke gjøre det, saavidt det staaer til os, altfor vanskeligt<lb />
+at optage det. Men hvad nu det Ændringsforslag angaaer, som jeg<lb />
+har gjort, da vil jeg dog ikke lobe nogen Fare ved at holde paa det,<lb />
+men jeg vil hellere lade det falde med alle de andre. Jeg er vvistnok<lb />
+nu af den samme Mening, som da jeg gjorde dette Ændringsforslag,<lb />
+</p>
+</rightside>
+
+
+</pb>

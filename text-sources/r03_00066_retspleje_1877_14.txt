@@ -1,0 +1,35 @@
+60
+<pb n="<span class="result">66</span>" />
+<title>Kapitel III.</title>
+<p>Om Bevis og Bevisførelse.</p>
+<wtitle>§  196.</wtitle>
+<p>Bevis kan føres både direkte og indirekte.<lb />
+Alt, hvad der efter sin Natur er istand til at<lb />
+bidrage til Sagens Oplysning, kan benyttes<lb />
+som Bevis. Undtagelse herfra finder kun Sted,<lb />
+hvor Loven hjemler det.</p>
+<wtitle>§  197.</wtitle>
+<p>Om Noget er bevist eller ikke, afgjøres<lb />
+af Retten, uden at denne i sit Skjøn herover<lb />
+er bunden eller begrænset ved andre Regler end<lb />
+dem, som Loven hjemler.</p>
+<wtitle>§   198.</wtitle>
+<p>Spørgsmål om Bevisbyrden afgjøres efter den hidtil gjældende Ret. Parterne kunne<lb />
+ikke fordre nogen foreløbig eller særskilt forudgående Bestemmelse af Retten om Bevisbyrdens Fordeling, men må selv afgjøre, hvilke<lb />
+af de Omstændigheder, for hvilke Retten har<lb />
+fordret Bevis, del tilkommer dem at bevise, og<lb />
+i Overensstemmelse dermed begjære Adgang til<lb />
+at fore Bevis.</p>
+<wtitle>§ 199.</wtitle>
+<p>
+Er der imellem Parterne Strid,    om en</p>
+<p>Skade er forårsaget eller hvilken Erstatning der skal gives, har Retten, når den<lb />
+ifølge de Oplysninger, som foreligge eller indhentes (§ 264), må ansees for at være istand<lb />
+hertil, at afgiøre disse Spørgsmål efter et<lb />
+frit Skjøn over alle i Betragtning kommende<lb />
+Omstændigheder, Erstatningen anstaaes i Reglen til en rund Sum.</p>
+<wtitle>§   200.</wtitle>
+<p>Retten har efter frit Skjøn at afgjøre,<lb />
+om og hvorvidt Domme, der i Straffesager<lb />
+ere overgåede nogen af Sagens Parter, i<lb />
+den foreliggende Sag skulle ansees for at afgive Bevis.</p>

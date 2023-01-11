@@ -1,0 +1,177 @@
+37
+<pb n="9" >
+<p rend="page">9</p>
+<h>
+<coll>37</coll>
+<colr>38</colr><lb />
+Bet. o. Lovf. om Rettens Pleje.<lb />
+</h>
+<leftside>
+<p>
+<dtitle>Til § 44.</dtitle>
+Af Nanke:
+</p>
+<p>
+<nnumber>18</nnumber>
+18)    Til   Paragraffen   føjes   som   nyt
+Stykke :
+</p>
+<p>
+„I alle Tilfælde, hvor en Ret beklæ-
+des af Enkeltdommer, uden særlig Rets-
+skriver, skal der være et Retsvidne (jfr.
+§ 736) til Stede og medunderskrive Pro-
+tokollen".
+</p>
+<p>
+<dtitle>Til § 46.</dtitle>
+Af Nanke:
+</p>
+<p>
+<nnumber>19</nnumber>
+19)    1ste Stykke,   Ordene  „For hvert
+Aar,   regnet  fra   1. Juni til 31. Maj,   æn-
+dres til   ,,Hvert   tredie Aar. — Nævninge-
+aaret regnes   fra   1. Juni til 31. Maj. -—"
+</p>
+<p>
+Af Udvalget:
+</p>
+<p>
+<nnumber>20</nnumber>
+20)    I 2det Stykke   indskydes mellem
+,,soin"   og   „er"   Ordene:   ,.i Henhold   til
+</p>
+<p>
+<dtitle>Til § 47.</dtitle>
+Af Nanke:
+</p>
+<p>
+<nnumber>21</nnumber>
+21)    I næstsidste Linie ændres „Aar"
+til „Nævningeaar".
+</p>
+<p>
+<dtitle>Til § 48.</dtitle>
+</p>
+<p>
+Af Udvalgets Flertal (Berg, Borgbjerg. Al-
+fred Christensen, Fogtmann, Oscar Han-
+sen, J. Jensen, Knop, Krabbe, N. J.
+Larsen, H. Madsen, Nanke, Bavn og
+Slengerik):
+</p>
+<p>
+<nnumber>22</nnumber>
+22)    Ved   Paragraffens   Slutning    til-
+føjes:   „samt  Professorer   i   Teologi   med
+gejstlig Ordination."
+</p>
+<p>
+<dtitle>Til § 49.</dtitle>
+Af Udvalget:
+</p>
+<p>
+
+<nnumber>23</nnumber>
+23)    I  8.   ændres ,,efter den kommu-
+nale Nævningelistes Berigtigelse" til:   „efter
+at   Grundlisten   i   Overensstemmelse   med
+§ 53 er berigtiget".
+</p>
+<p>
+<dtitle>Til § 51.</dtitle>
+Af J. Jensen og Borgbjerg:
+</p>
+<p>
+Principalt :
+</p>
+<p>
+<nnumber>24</nnumber>
+24)    Paragraffen affattes saaledes:
+,,Kommunalbestyrelserne udvælge aar-
+</p>
+<p>
+ligt   efter Forholdstal blandt de Personer,
+</p>
+</leftside>
+<rightside>
+<p>
+der ere opførte paa Folketingsvalglisten og
+opfylde de øvrige i §§ 46 og 47 foreskrevne
+Betingelser, Mænd, der anses for særlig
+egnede og værdige til Nævningehvervet,
+nemlig i Kjøbenhavn 1200 og 200 Supple-
+anter, paa Landet i hver Sogneraadskreds
+5 (paa Bornholm dog 6) og 2 Suppleanter,
+og i Købstæderne samt i Handelspladserne
+1 for hvert fulde Antal af 250 Indbyggere
+og 1 Suppleant for hvert fulde Antal af
+500 Indbyggere regnet efter den sidste
+almindelige Folketælling.
+</p>
+<p>
+I Kjøbenhavn foretages Valget af
+Nævninger og Suppleanter paa den Maade,
+at et Udvalg, bestaaende af 5 Borgerre-
+præsentanter og 3 Medlemmer af Magi-
+straten, gør Indstilling til Borgerrepræsen-
+tationen, hvorefter denne foretager Valget
+efter Forholdstal."
+</p>
+<p>
+Subsidiært :
+</p>
+<p>
+<nnumber>25</nnumber>
+25)    I L. 2. ændres:   „2 af Magistra-
+ten" til: „3 af Magistraten" og i L. 3 æn-
+dres:   ,.2   af Borgerrepræsentationen"   til:
+„5 af Borgerrepræsentationen".
+</p>
+<p>
+<dtitle>Til § 51.</dtitle>
+Af Nanke:
+</p>
+<p>
+<nnumber>26</nnumber>
+26)    I 1ste Stykke, 3die Linie: „aarlig"
+ændres til „hvert 3die Aar".
+</p>
+<p>
+<dtitle>Til § 56.</dtitle>
+</p>
+<p>
+Af Nanke:
+</p>
+<p>
+<nnumber>27</nnumber>
+27)    I 3die Stykke, sidste Linie,   ind-
+skydes efter ,,godtgøres" Ordene „af Stats-
+kassen".
+</p>
+<p>
+Af Nanke:
+</p>
+<p>
+27 a) I 1ste Stykke, Linie 3, ændres
+,.to" paa to Steder til: ,,et", og i Linie 4
+ændres „valgte Medlemmer" til: „valgt
+Medlem".
+</p>
+<p>
+<dtitle>Til § 61.</dtitle>
+Af Nanke:
+</p>
+<p>
+<nnumber>28</nnumber>
+28)    I   1ste Stykke,   1ste   Linie,   æn-
+dres   „Mindst    en   Uge"    til   „Mindst    14
+Dage".
+</p>
+<p>
+(Baade § 65 og § 66 have Tidsfristen
+,,mindst en Uge").
+</p>
+</rightside>
+</pb>

@@ -1,0 +1,78 @@
+3805
+<pb n="233">
+<h>
+<coll>
+3805
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3806
+</colr>
+</h>
+<p>
+der har Adgang til at slutte sig til Forfølgningen for Landsretten overensstemmende<lb />
+med Bestemmelserne i § 725. Finder Overanklageren, at en offentlig Interesse kræ-<lb />
+ver, at en Underrets Dom i en privat forfulgt Straffesag (jvf. 1ste Punktum) gøres<lb />
+til Genstand for Paaanke, kan han af egen Drift iværksætte saadan, og foranstaaende<lb />
+Regler finde da tilsvarende Anvendelse.
+</p>
+<p>
+Foranstaaende Regler finde tilsvarende Anvendelse, hvor en Landsrets Dom i<lb />
+en privat Straffesag kan paaankes til Højesteret i Medfør af Reglerne i § 435 eller<lb />
+</p>
+<lowtitle>§ 966.</lowtitle>
+<p>
+Den private Sagsøger kan uanset denne sin Stilling afhøres som Vidne i Sagen.
+</p>
+<title rend="chapter">Kapitel 89</title>
+<title rend="subtitle">Paatale af borgerlige Krav under Straffesager.</title>
+<lowtitle>§ 991.</lowtitle>
+<p>
+I Politisager samt i Sager, der paadømmes ved Undersøgelsesretten (§ 925),<lb />
+kan Erstatning hos Tiltalte tilkendes den forurettede for den ved Forbrydelsen for-<lb />
+voldte Skade, naar han herom har fremsat Begæring for Retten, hvortil der, for saa<lb />
+vidt Sagens Beskaffenhed dertil giver Anledning, bør gives ham Lejlighed.
+</p>
+<p>
+Under andre offentlige Straffesager har vedkommende Paatalemyndighed, naar<lb />
+dette kan ske uden væsentlig Ulempe, efter Begæring af den forurettede at forfølge<lb />
+de for denne ved Forbrydelsen begrundede borgerlige Krav paa Tiltalte. Som Følge<lb />
+heraf bør der, for saa vidt Sagens Beskaffenhed dertil giver Anledning under For-<lb />
+undersøgelsen gives den forurettede Lejlighed til at erklære, om han begærer sig til-<lb />
+kendt Erstatning under Sagen. Er dette ikke sket, eller rejses Tiltale uden forud-<lb />
+gaaende Forundersøgelse, bør Paatalemyndigheden saa betimeligt give ham Lejlighed<lb />
+til at erklære sig, at fornøden Paastand kan blive optagen enten i Anklageskriftet<lb />
+eller i alt Fald i Stævningen.
+</p>
+<p>
+For saa vidt særlige Beviser maatte blive at føre under Domsforhandlingen<lb />
+i en Nævningesag til Støtte for et borgerligt Krav, bør Paatalemyndigheden angive<lb />
+disse i sin Bevisfortegnelse eller i et Tillæg til denne (jvf. §§ 834 og 836).
+</p>
+<p>
+Retten kan paa ethvert Trin nægte et borgerligt Kravs Forfølgning under<lb />
+Straffesagen, naar den finder, at dets Behandling under denne ikke kan ske uden<lb />
+væsentlig Ulempe.
+</p>
+<p>
+Den i Lov Nr. 125 om Motorkøretøjer af 29. April 1913 § 33, 4de Stykke<lb />
+hjemlede udvidede Adgang til at faa Erstatningskrav afgjort under en offentlig<lb />
+Straffesag, bliver staaende ved Magt.
+</p>
+<p>
+Den forurettede kan paa ethvert Trin indtil Sagens Optagelse til Dom<lb/>
+tage<lb />
+sin Begæring efter nærværende Paragrafs første og andet Stykke tilbage med Forbe-<lb />
+hold af Adgang til at paatale Kravet i den borgerlige Retsplejes Former.
+</p>
+<lowtitle>§ 992.</lowtitle>
+<p>
+Finder Retten, at de Oplysninger, der foreligge til Støtte for en Paastand,<lb />
+som er fremsat i Henhold til de foregaaende Paragraffer, ere ufuldstændige, eller at<lb />
+den Domfældelse eller Frifindelse, som finder Sted for Straffespørgsmaalets Vedkom-<lb />
+mende ikke vil medføre en Afgørelse i samme Retning af den heromhandlede Paa-<lb />
+stand, bliver denne ikke at tage under Paakendelse, se dog Lov Nr. 125 om Motor-<lb />
+køretøjer af 29. April 1913 § 33, 4de Stykke.
+</p>
+
+</pb>

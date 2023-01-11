@@ -1,0 +1,160 @@
+35
+<pb n="8" >
+<p rend="page">8</p>
+<h>
+<coll>35</coll>
+<colr>36</colr><lb />
+Bet. o. Lovf. om Rettens Pleje.<lb />
+</h>
+<leftside>
+<p>
+Den sjællandske Landsret har sit Sæde
+i Kjøbenhavn og bestaar af en Justitiarius
+og indtil 14 andre Landsdommere; den
+fynske Landsret har sit Sæde i Odense og
+bestaar af en Justitiarius og 4 andre Lands-
+dommere; den jydske Landsret har sit
+Sæde i Viborg og bestaar af en Justitiarius
+og indtil 9 andre Landsdommere."
+</p>
+<p>
+<dtitle>Til § 6.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>5</nnumber>
+5)    I L. 2 ændres „Bøgerne" til „denne
+Lovs Bøger".
+</p>
+<p>
+<dtitle>Til § 9.</dtitle>
+Af Mindretallet under Nr. 4:
+</p>
+<p>
+<nnumber>6</nnumber>
+6)    I 1ste Stykke.   1ste Linie, ændres
+,,Østre"   til   „den   Sjællandske"   og i 3die
+Stykke, 1ste Linie. „Vestre" til „den Fyn-
+ske   og   den   Jydske"   samt  i   2den  Linie
+„Østre" til ,,den Sjællandske".
+</p>
+<p>
+<dtitle>Til § 11.</dtitle>
+Af Mindretallet under Nr. 4:
+</p>
+<p>
+<nnumber>7</nnumber>
+7)    I Linie   3—4   ændres   „ved   østre
+Landsret 6,   red  vestre Landsret 3" til ,.i
+den sjællandske   6,   i   den   fynske   1   og i
+den jydske 2".
+</p>
+<p>
+<dtitle>Til § 12.</dtitle>
+</p>
+<p>
+Af Mindretallet under Nr. 4:
+</p>
+<p>
+<nnumber>8</nnumber>
+8)    I  1ste Stykke,   6te Linie,   ændres
+„Østre" til „den Sjællandske".
+</p>
+<p>
+<dtitle>Til § 17.</dtitle>
+Af Mindretallet under Nr. 4:
+</p>
+<p>
+<nnumber>9</nnumber>
+9)    I 2det Stykke,   næstsidste   Linie,
+ændres „Østre" til „den Sjællandske".
+</p>
+<p>
+<dtitle>Til § 20.</dtitle>
+</p>
+<p>
+Af Udvalget undtagen Nanke:
+<nnumber>10</nnumber>
+10)   Stk. 2 udgaar.
+</p>
+</leftside>
+<rightside>
+<p>
+<dtitle>Til § 25.</dtitle>
+Af Flertallet ved § 1:
+</p>
+<p>
+<nnumber>11</nnumber>
+11)    I Stk. 2 udgaar  „dels. ,, .gejstlig
+Embedsmænd, dels", og i næstsidste Linie
+udgaar „tvende henholdsvis gejstlige eller."
+</p>
+<p>
+<dtitle>Til § 28.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>12</nnumber>
+12)    Paragraffens sidste Ord ændres til
+,,„Dommer"   med Angivelse af.   hvor paa-
+gældende ansættes."
+</p>
+<p>
+<dtitle>Til § 29.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>13</nnumber>
+13)    I L. 1, 2, 4 og 11 ændres „Advo-
+kat" og „Advokater", „Prokurator" og „Pro-
+kuratorer"   til   henholdsvis   „Sagfører"   og
+„Sagførere".
+</p>
+<p>
+(Tilsvarende Ændring  foretages   i  §§
+82. 94, 95, 96, 98, 100, 101, 104 og 105.)
+</p>
+<p>
+Af Udvalget undtagen Nanke:
+</p>
+<p>
+<nnumber>14</nnumber>
+14)    Sidste Stykke udgaar.
+</p>
+<p>
+Af Nanke:
+</p>
+<p>
+14 a)   I  sidste Linie  sættes   Punktum
+efter „sig", og Eesten udgaar.
+</p>
+<p>
+Af Udvalget:
+</p>
+<p>
+<nnumber>15</nnumber>
+15)    Som nyt 5te Stk. tilføjes:
+„Ingen  fast ansat Dommer maa mod-
+tage   nogen Titel eller Ordensdekoration."
+</p>
+<p>
+<dtitle>Til § 31.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>16</nnumber>
+16)    I   1ste Stykke,   2den   Linie,  æn-
+dres „udføre Dommerforretninger" til „be-
+klæde Dommersædet".
+</p>
+<p>
+<dtitle>Til § 34.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>17</nnumber>
+17)    I 2det Stykke, 2den Linie, udgaar
+Ordet „saadant".
+</p>
+</rightside>
+</pb>

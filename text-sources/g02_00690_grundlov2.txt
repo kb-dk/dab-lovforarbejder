@@ -1,0 +1,127 @@
+2853
+<pb n="690" >
+<p rend="page">690</p>
+<h>
+<coll>2853</coll>
+<colr>2854</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 361.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede og tredie (107de) Møde.<lb />
+(Den endelige Behandling af Grundloven. § 29.)<lb />
+</stitle>
+<p>
+Da ingen Flere begjerede Ordet, skred man til Afstemning,<lb />
+hvorved<lb />
+</p>
+<p>
+124) Udvalgets Forslag (cfr. Winthers Forslag: „at denne<lb />
+Paragraph udgaaer“): „I særdeles paatrængende Tilfælde kan<lb />
+Kongen, naar Rigsdagen ikke er samlet, udstede foreløbige<lb />
+Love, der dog ikke maae stride mod Grundloven og altid bør<lb />
+forelægges den følgende Rigsdag.<lb />
+vedtoges med 127 mod 2 Stemmer.<lb />
+</p>
+<p>
+Derester gik man over til Grundlovesudkastets § 29, hvortil Afstemningslisten indeholder Følgende:<lb />
+126) Ørsteds Forslag: Kongen kan eftergive eller formilde idømte<lb />
+Straffe, dog bør Betænkning være indhentet fra den Ret, der<lb />
+har afsagt endelig Dom i Sagen, ligesom og, hvis Straffen<lb />
+er idømt under en privat Sag, fra den Forurettede. Ogsaa kan<lb />
+Kongen, naar særdeles Omstændigheder tale derfor, fritage de<lb />
+Paagjældende fra den offentlige Tiltale, som de ellers kunde<lb />
+være underkastede; dog kan Kongen i de Sager, som ved Rigsretten blive anlagte mod Ministrene alene formilde idømt Livsstraf til Frihedstab for Livstid, men ikke uden Samtykke af<lb />
+Rigsdagen tilstaae videre Benaadning<lb />
+127) Ørsteds Forslag: Kongen kan (i sit Statsraad) eftergive eller formilde idømte Straffe, dog bør Betænkning være indhentet fra den Ret,<lb />
+der har afsagt endelig Dom i Sagen, ligesom og, hvis Straffen er<lb />
+idømt under en privat Sag, fra den Forurettede. Ogsaa kan<lb />
+Kongen, naar særdeles Omstændigheder tale derfor, fritage de<lb />
+Paagjældende fra den offentlige Tiltale, som de ellers kunde<lb />
+være underkastede (hvilket ligeledes skeer i Statsraadet); dog<lb />
+kan Kongen i de Sager, som ved Rigsretten blive anlagte mod<lb />
+Ministrene, alene formilde idømt Livsstraf til Frihedstab for<lb />
+Livstid, men ikke uden Samtykke af Rigsdagen tilstaae videre<lb />
+Benaadning<lb />
+128) Grundtvigs Forslag: Kongen kan benaade Forbrydere og<lb />
+eftergive idømte Straffe, naar dertil angives Grunde; dog kan<lb />
+han hverken benaade Nogen, som har gjort sig skyldig i Landsforræderi, ikke heller af nogensomhelst Grund paalægge Nogen<lb />
+en anden Straf end den idømte.<lb />
+</p>
+<p>
+Ingen, som er dømt ved Rigsretten, kan benaades uden med<lb />
+Rigsdagens Samtykke.<lb />
+129) Schacks Forslag: „og give Amnesti“ bortfalder.<lb />
+130) Winthers: Forslag: § 29 første  Passus affattes saaledes:<lb />
+„Kongen kan benaade; Amnesti gives ved Lov. “<lb />
+131) J. A. Hansens og Barfods Forslag: Efter Ordene „Kongen kan benaade og give Amnesti“ tilføies: „dog kan Forandring af en idømt Straf ikke paanødes den Dømte imod hans<lb />
+Villie. “<lb />
+132) Visbys Forslag: Kongen kan efter Ansøgning af den Paagjældende eftergive en idømt Straf eller formilde denne. Han<lb />
+kan give Amnesti; Ministrene kan han 2x.<lb />
+133) Kæders Forslag: Efter Ordet „Amnesti“ tilføies „dog har<lb />
+den Dømte, undtagen naar der er overgaaet ham Dødsdom,<lb />
+Valget, om han vil modtage Kongens Naade eller underkaste<lb />
+sig den idømte Straf. “<lb />
+134) Grams Forslag (Tillæg til Paragraphen): „dog kan han ogsaa<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+uden saadant Samtykke forandre en idømt Livsstraf til livsvarig<lb />
+Fængselsstraf. “<lb />
+135) Otterstrøms Forslag: Efter „idømte Straffe“ tilføies: „Ligeledes kan han kun med Rigsdagens Samtykke benaade Nogen,<lb />
+som er domfældet for at have antastet Rigsdagens Sikkerhed<lb />
+og Frihed, udstedt eller adlydt nogen dertil sigtende Befaling. “<lb />
+136) Udkastet: Kongen kan benaade og give Amnesti; Ministrene<lb />
+kan han kun med Folkethingets Samtykke benaade for de dem<lb />
+af Rigsretten idømte Straffe.<lb />
+</p>
+<p>
+Ligesom Forslaget under Nr. 129 var frafaldet af Forslagstilleren, Schack, saaledes erklærede Formanden, at Ørsted kun ønskede<lb />
+afstemt over det under Nr. 126 stillede Forslag. Saavel dette, som<lb />
+de øvrige af forskjellige andre Medlemmer stillede og paa Afstemningslisten opførte Forslag bleve paa den i Regulativer foreskrevne Maade<lb />
+understøttede.<lb />
+</p>
+<p>
+<speaker>Ørsted:</speaker> Det, som har foranlediget mig til at stille mit Ændringsforslag, er fornemmelig det, at jeg finder nogen Utydelighed i<lb />
+den foreliggende Paragraph, om at Kongen kan benaade og give<lb />
+Amnesti. Det Ord „Amnesti“ er et noget usædvanligt Udtryk; det<lb />
+bruges i Almindelighed ikke undtagen om en stor Masse af Forbrydelser, især politiske Forbrydelser, som ved Lov fritages for Straf;<lb />
+men maaskee det i dette Tilfælde skal sigte til, hvad man almindelig<lb />
+kalder Abolition, nemlig at En bliver fritagen for at sættes under<lb />
+Tiltale for en Forbrydelse, og skjøndt den Rettighed at undertrykke<lb />
+Forsølgningen af en offentlig Sag er en mere betænkelig Ret, end<lb />
+Benaadning i en allerede ved Dom afgjorte Sag, hvorfor der ogsaa<lb />
+er flere Forfatninger, som tilstaae Regenten den sidste Ret men ikke<lb />
+den første, saa har jeg dog efter fornyet Overveielse fundet, at man<lb />
+heller ikke bør negte Kongen denne Ret; men det forekommer mig,<lb />
+at det bør udtrykkes paa en klarere og, som det forekommer mig,<lb />
+rigtigere Maade end ved at kalde det Amnesti. Jeg har forøvrigt,<lb />
+siden jeg har fundet at burde stille et Amendement, ogsaa optaget<lb />
+enkelte Bestemmelser, som jeg troer kunde tjene til nogen Betryggelse<lb />
+for Udøvelsen af denne Benaadningsret, og som ogsaa findes i adskillige andre Landes Forfatninger. Jeg har saaledes foreslaaet, at der skal<lb />
+indhentes Betænkning fra den Ret, som har afsagt den Dom, om<lb />
+hvis Formildelse der er Spørgsmaal. Jeg har ligeledes troet at<lb />
+burde tilføie, at naar det er en privat Sag, bør der ogsaa være<lb />
+indhentet Betænkning fra den fornærmede Person. Det er et Spørgsmaal, som er meget omtvistet, men som dog efter vore Loves Beskaffenhed bør besvares bekræftende, nemlig om der ogsaa kan finde Benaadning Sted i Sager, som ere afgjorte ad privat Vei. Jeg antager, at man ikke godt kan negte Benaadning i saadanne Sager,<lb />
+især med Hensyn til, at vore Love endnu have 3 Marks Straf for<lb />
+Injurier, og det dog vistnok vilde være meget urigtigt, om denne i<lb />
+sig selv lidet hensigtsæssige Straf aldeles ikke kunde ophæves.<lb />
+Endelig har jeg troet, at den Sætning, som er indeholdt i Udkastet,<lb />
+nemlig at ingen Benaadning maa finde Sted med Hensyn til de af<lb />
+Rigsretten idømte Straffe uden Rigsdagens Samtykke, dog vil kunne<lb />
+taale en Undtagelse med Hensyn til det Tilfælde, at Nogen maatte<lb />
+være dømt fra Livet, idet at da Straffen maatte kunne ved kongelig Benaadning nedsættes til Fængsel paa Livstid. En saadan<lb />
+Undtagelse findes ogsaa i den norske Grundlov, og den synes velbegrundet. Det kunde vel synes, at Rigsdagen eller, som foreslaaet,<lb />
+Folkethinget heller ikke vilde negte sit Samtykke dertil, men da der<lb />
+dog vel i enkelte Tilfælde kunde tænkes en saadan forbittret Stemning hos Folkethinget, at det kunde negte sit Samtykke dertil, saa<lb />
+</p>
+</rightside>
+
+
+</pb>

@@ -1,0 +1,134 @@
+3435
+<pb n="981" >
+<p rend="page">981</p>
+<h>
+<coll>3435</coll>
+<colr>3436</colr><lb />
+
+Den foreløbige Behandling af Valgloven. §§ 31—35.<lb />
+</h>
+<leftside>
+<p>
+vil jeg antage, at Forsamlingen er enig i, at vi, i det følgende Møde,<lb />
+der vil blive afholdt imorgen, Løverdagen den 19de Mai, Eftermiddag Kl. 6, kunne, ifald vi skulde blive fædige med Valgene til Folkethinget, gaae ever til Behandlingen af Landsthingsvalgene.<lb />
+</p>
+<signatur>
+Mødet hævet.<lb />
+</signatur>
+<stitle>
+124de offentlige Møde.<lb />
+(Det 128de Møde i den hele Række.)<lb />
+Aftenmøde.<lb />
+</stitle>
+<subtitle>
+Løyerdagen den 19de Mai.<lb />
+</subtitle>
+<p>
+(Den foreløbige Behandling af Valgaloven. §§ 31—35.)<lb />
+</p>
+<firstlineinfo>
+Forhandlingsprotocollen for forrige Møde blev oplæst.<lb />
+</firstlineinfo>
+<p>
+Formanden anmeldte, at han havde modtaget tvende Skrivelser, fra Rigsdagsmanden for Aalvorg Amts 4de District (Chr.<lb />
+Eriksen) og den 13de kongevalgte Rigsdagsmand (Fibiger), i hvilke<lb />
+den Første underretter ham om, at han paa Grund af Sygdom ikke<lb />
+seer sig istand til mere at give Møde i Forsamlingen, og den Sidste,<lb />
+at han i kongeligt Ærinde maa reise bort og derfor ikke længere kan<lb />
+deeltage i Forhandlingerne.<lb />
+</p>
+<p>
+Man gik derpaa over til Dagsordenen og begyndte med Afsnittet “Kaaringen", Udkastets §§ 31—35, Udvalgets §§ 27—31, hvortil den omdeelte Oversigt indeholder Følgende:<lb />
+Udkastet.<lb />
+Kaaringen.<lb />
+<law n="31" >§ 31.<lb /></law>
+Kaaringen til Folkethinget foretages i de for Samme anordnede Valgdistricter i Valgmøder, hvortil Adgangen staaer aaben for<lb />
+Enhver.<lb />
+<law n="32" >§ 32.<lb /></law>
+Dagen og Klokkeslettet, da Valgmødet afholdes, berammes med<lb />
+idetmindste otte Dages foregaaende Varsel, deels ved Bekiendtgjørelse i vedkommende Stiftsavis, deels ved Kundgiørelse i de til hvert<lb />
+District henhørende Communer til Kirkestevne eller paa den ellers<lb />
+paa Stedet brugelige Maade.<lb />
+<law n="33" >§ 33.<lb /></law>
+Valgforhandlingerne aabnes af den af Valgbestyrelsen udnævnte<lb />
+Formand.<lb />
+</p>
+<p>
+Han fremstiller for Forsamlingen de anmeldte Valgcandidater og<lb />
+de Vælgere, som anbefale dem hver især.<lb />
+</p>
+<p>
+Saavel disse som Valgcandidaterne skulle have Adgang til at<lb />
+udtale sig for Forsamlingen og til besvare de Spørgsmaal, som<lb />
+de Tilstedeværende maatte forelægge dem. Formanden leder disse<lb />
+Forhandlinger og slutter dem, naar han finder det rigtigt.<lb />
+
+</p>
+</leftside>
+<rightside>
+<p>
+<law n="34" >§ 34.<lb /></law>
+Formanden sætter derpaa Valgcandidaterne under Afstemning efter deres Navnes Bogstavfølge. Afstemningen skeer af de tilstedeværende Vælgere ved Haandsoprækning. Valgbestyrelsens Medlemmer<lb />
+deeltage ikke i samme.<lb />
+</p>
+<p>
+Den Candidat, som efter Valgbestyrelsens Skiøn har erholdt<lb />
+flere Stemmer end nogen Anden, er kaaret og kundgiøres strax for<lb />
+Forsamlingen som Districtets Rigsdagsmand.<lb />
+<law n="35" >§ 35.<lb /></law>
+Skulde i et District kun een Candidat have fremstillet sig, ansees han<lb />
+for kaaret, havis meer end Halvdelen af de Stemmende skjønnes at erklære<lb />
+sig for ham. I modsat Fald berammes et nyt Møde til ottende Dagen<lb />
+derefter. Har der da ikke fremstillet sig nogen anden Candidat, er<lb />
+den Første kaaret uden ny Afstemning.<lb />
+Comiteens Indstilling.<lb />
+<law n="31 (§ 27)" />§ 31 (<law n="31 (§ 27)" />§ 27).<lb />
+Valgene til Folkethinget foreteges i de for Samme anordnede<lb />
+Valgkredse i Valgmøder, hvortil Adgangen staaer aaben for<lb />
+Enhver.<lb />
+<law n="32 (§ 28)" />§ 32 (<law n="32 (§ 28)" />§ 28).<lb />
+Dagen og Klokkeslettet, da Valgmødet afholdes, berammes med<lb />
+idetmindste otte Dages foregaaende Varsel, deels ved Bekiendtgjørelse<lb />
+i vedkommende Stistsavis, deels ved Kundgiørelse i de til hver<lb />
+Valgkreds henhørende Communer til Kirkestevne eller paa den ellers<lb />
+paa Stedet brugelige Maade.<lb />
+<law n="33 (§ 29)" />§ 33 (<law n="33 (§ 29)" />§ 29).<lb />
+Valgforhandlingerne aabnes af den af Valgbestyrelsen udnævnte<lb />
+Formand.<lb />
+</p>
+<p>
+Han fremstiller for Forsamlingen de anmeldte Valgcandidater<lb />
+og de Vælgere, som anbefale dem hver især.<lb />
+</p>
+<p>
+Saavel disse som Valgcandidaterne skulle have Adgang til at<lb />
+udtale sig for Forsamlingen og til at besvare de Spørgsmaal, som<lb />
+de Tilstedeværende maatte forelægge dem. Formanden leder disse<lb />
+Forhandlinger og slutter dem, naar han finder det rigtigt.<lb />
+<law n="34 (§ 30)" />§ 34 (<law n="34 (§ 30)" />§ 30).<lb />
+Formanden sætter derpaa Valgcandidaterne under Afstemning<lb />
+efter deres Navnes Bogstavfølge. Afstemningen skeer af de tilstedeværende Vælgere ved Haandsoprækning. Valgbestyrelsens Medlemmer<lb />
+deeltage ikke i samme.<lb />
+</p>
+<p>
+Den Candidat, som efter Valgbestyrelsens Skiøn har erholdt<lb />
+flere Stemmer end nogen Anden, er kaaret og kundgiøres strax for<lb />
+Forsamlingen som Valgkredsens Rigsdagsmand. Ved denne, som<lb />
+ved alle andre til Valgbestyrelsen overladte Beslutninger giør Formanden i Tilfældee af Stemmelighed Udslaget.<lb />
+<law n="35(§ 31)" />§ 35(<law n="35(§ 31)" />§ 31).<lb />
+Skulde i en Valgkreds kun een Candidat have fremstillet sig, bør<lb />
+han, for at ansees som valgt, have meer end Halvdelen af de<lb />
+Stemmende for sig, I modsat Fald berammes et nyt Møde til ottende<lb />
+Dagen derefter. Har der da ikke fremstillet sig nogen anden Candidat, betragtes den Første som kaaret uden ny Afstemning.<lb />
+</p>
+<morenext>
+(Fortsættes.)<lb />
+</morenext>
+</rightside>
+<underpage>
+Trykt og forlagt af Kgl. Hofbogtrykker Bianco Luno.<lb />
+</underpage>
+
+
+
+</pb>

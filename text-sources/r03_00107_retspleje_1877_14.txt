@@ -1,0 +1,35 @@
+101
+<pb n="107" />
+
+<p>Parterne kunne ikke gyldig give Afkald på deres Ret til at begjære ny Foretagelse af Sagen, førend efterat den Retsafqjørelse, med Hensyn til hvilken der er<lb />
+Spørgsmål om ny Foretagelse af Sagen, er<lb />
+truffen.</p>
+<wtitle>§ 328.</wtitle>
+<p>Ny Foretagelse af Sagen bevilges, når<lb />
+Retten skjønner, at nogen af de i § 327<lb />
+nævnte Omstændigheder kan have havt en for<lb />
+Parten skadelig Indflydelse på selve Sagens<lb />
+Udfald, og at den fornødne Retshjælp ikke<lb />
+er opnået eller ikke skjønnes at kunne opnåes<lb />
+ved Påanke. Fremdeles bliver ny Foretagelse af Sagen at bevilge i det i § 262<lb />
+nævnte Tilfælde,</p>
+<wtitle>§ 329.</wtitle>
+<p>Andragende om ny Foretagelse af Sagen<lb />
+fremsættes inden 4 Uger efter Dommens Afsigelse eller dog inden 4 Uger efter, at Parten har fået Kundskab om den Omstændighed, hvorpå han ifølge § 327 skotter sin<lb />
+Begjæring.</p>
+<p>Efter Udløbet af 1 År fra Dommens<lb />
+Afsigelse kan intet Andragende om ny Foretagelse af Sagen modtages.</p>
+<p>Påanker Modparten Sagen til højere<lb />
+Ret, efterat Andragende om ny Foretagelse<lb />
+af Sagen er fremsat, bliver Påankens videre<lb />
+Fremme at udsætte, indtil Spørgsmålet om<lb />
+ny Foretagelse af Sagen er afgjort, og, hvis<lb />
+denne tilstedes, den nye Behandling er tilendebragt.</p>
+<wtitle>§ 330.</wtitle>
+<p>Den Part, der vil andrage på ny Foretagelse af Sagen, har i et til Netten indgivet skriftligt Andragende at angive de Omstændigheder, hvorpå han støtter sig. En<lb />
+Udskrift af Dommen skal ledsage Andragendet.</p>
+<wtitle>§ 331.</wtitle>
+<p>Anser Netten sig, ifølge hvad der indeholdes i Andragendet og Dommen, tilstrækkelig<lb />
+overbevist om, at ny Foretagelse af Sagen<lb />
+bør nægtes, kan den ved Kjendelse strar afvise<lb />
+Andragendet.</p>

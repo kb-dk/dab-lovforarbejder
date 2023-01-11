@@ -1,0 +1,59 @@
+4099
+<pb n="367" />
+<h>
+<coll>4099</coll>
+<topmidle>Bil. t. Lovs. om Retsafgifter m. m.</topmidle>
+<colr>4100</colr>
+</h>
+<wtitle>§ 89.</wtitle>
+<p>For Forkyndelser i de Tilfælde, hvor saadanne i medfør af Lov om den borgerlige Rets-<lb />
+pleie eller Lov om Straffepleien, skulle ske ved stævningsmænd, betales for hver person, til hvem<lb />
+Forkyndelsen sker, til lige Deling mellem Stævningsmændene, eller, under de i nysnænnte Love hen-<lb />
+holdsvis § 108, 1ste Stykke, og § 97, sidste Stykke, indeholdte Forudsætninger, til lige Deling<lb />
+mellem Stævningsmanden og det tiltagne Vidne, 1 Kr> 60 Øre, medmindre Sagen enten er en<lb />
+Straffesag, der forsølges af Private i medfør af Lov om Straffepleien § 39, eller en borgerlig<lb />
+Retssag, hvis Gjenstand er under 200 Kr, i hvilket Tilfælde Betalingen til Stævningsmændene<lb />
+nedsættes til 80 Øre, eller, naar Sagens Gjenstand er under 50 Kr. til 40 Øre.</p>
+<p>For de i Lov om den borgerlige Retspleje § 559 omhandlede Forkyndelser erlægges 40<lb />
+Ørs til hver af stævningsmændene, og for de i samme lovs § 561 omhandlede Forkyndelser 40<lb />
+Øre til Stævningsmanden, søgnefogden eller Politibetjenten.</p>
+<p>Sker Forkyndelsen ved Retsbude, nedsaltes de i denne Paragraf fastsætte Betalinger med<lb />
+Undtagelse af den i Slutningen af 2det Stykke nævnte til det Halve.</p>
+<wtitle>§ 90.</wtitle>
+<p>I de Tilfælde, i hvilke Bestemmelserne i denne Lovs 2det Afsnit § 20 komme til Anvendelse<lb />
+paa den Retssag, Forkyndelsen angaar, skulle Forkyndelser med Undtagelse af de i § 88 omhandlede<lb />
+foretages uden Betaling. Det Samme gjælder, naar de i § 89, 2oet Stykke, omhandlede Forkyndel-<lb />
+ser angaa det Faderen til et uægte Barn ved øvrighedens Beslutning paalagte Bidrag til Barnets<lb />
+Underholdning.</p>
+<wtitle>§ 91.</wtitle>
+<p>For andre Forkyndelser end de i §§ 88, 89 og 90 ommeldte, og forsaavidt ikke Andet er<lb />
+foreskrevet ved særlig Lov, tilkommer der hver as Stævningsmændene 1 Kr.</p>
+<wtitle>§ 92.</wtitle>
+<p>De i § 88, 89, 2det Stykke, og i § 9! omtalte Forkyndelfer ere Etcevningsmændene ikke<lb />
+pligtige at foretage udenfor det søgn eller den Købstad, i hvilken de have Bopæl. Forsaavidt For-<lb />
+kyndelsen i noget Tilfælde sker over ½ Mil i lige Linie fra stævningsmandens Bopæl, tilkommer<lb />
+der ham 75 Øre for hver løbende halve Mil, han har at befordre sig. skal Stævningsmanden for at<lb />
+naae sit Bestemmelsessted benytte Baad, har Rekvirenten af Forretningen at skaffe ham Baadbefordring<lb />
+frem og tilbage. Kroever Hvervets Udførelse, at Stævningsmanden maa begive sig udenfor det<lb />
+søgn eller den kjøbstad, i hvilken han har Bopæl, og derhos maa være fraværende fra sit Hjem<lb />
+over 6 Timer, tilkommer der ham i dagpenge 4 Kr. for hver Dag.</p>
+<wtitle>§ 93.</wtitle>
+<p>2 de Sager, som omhandles i denne Lovs 2det Afsnit § 21 Nr. 1 og 3 afholdes den<lb />
+stævningsmændene tilkommende Betaling af det Offentlige efter Reglerne for veneficeredc Sager.<lb />
+Det Samme gjalder i de nævnte Sager, samt i de Tilfælde, hvor Forkyndelfen efter § 90 sker uden<lb />
+Betaling, det Vederlag, som efter forrige Paragraf tilkommer Stævningsmanden, dog kun forsaavidt<lb />
+han er pligtig at foretage Forretningen.</p>
+<wtitle>§ 94.</wtitle>
+<p>Stævningsmændene ere udenfor de Tilfælde, hvor Betalingen skal erlægges af det Offentlige,<lb />
+berettigede til at fordre den dem tilkommende Betaling eller, forsaavidt dens endelige Størrelse ikke<lb />
+strax kan bestemmes, et passende Forskud paa samme erlagt, før de stride ttl Forretningens Foretagelse.</p>
+<wtitle>§ 95.</wtitle>
+<p>For ved Kirkestævne at oplæse en bekjendtgjørelse vedrørende Tvangsauktioner eller andre<lb />
+Auktioner, som ifølge Lov blive at bekjendtgjøre efter Reglerne for Tvangsauktioner, tilkommer der<lb />
+søgnefogden en Betaling af 50 Øre.</p>
+<p>Samme Betaling erlægges, naar ellers Noget, som søgnefogden eller Kirkesangeren ikke ere<lb />
+pligtige i Btstlllings medfør at besørge læst, begjæres oplæst ved Kirkestævne.</p>
+<p>Betalingen kan fordres forud erlagt.</p>
+<wtitle>§ 96.</wtitle>
+<p>Udenfor kjøbenhavn tilkommer der de mænd, der af Skifterelten benyttes som Vidner ved<lb />
+Boers Behandling, hver  I Kr. hver Gang Netten fættes.    Naar de eller Retsbudet efter § 16 i Lov</p>

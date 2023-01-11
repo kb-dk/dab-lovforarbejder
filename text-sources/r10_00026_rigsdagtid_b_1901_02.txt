@@ -1,0 +1,148 @@
+2765
+<pb n="26" />
+<h>
+<coll>2765</coll>
+<topmidle>
+Kommissionens Bem. t. Udk. t. L. om den borgerlige Retspleje.
+</topmidle>
+<colr>2766</colr>
+</h>
+<leftside>
+<p>
+meddeles, er der ingen virkelig Grand til<lb />
+at befrygte, saa meget mindre som det<lb />
+ikke er vedkommende Enkeltdommer eller<lb />
+selve den kollegiale dømmende Ret, men<lb />
+Justitiarius i denne, der efter Udkastet<lb />
+skal meddele Bevillingen. At Meddelelse<lb />
+af fri Proces er overladt til Domstolene,<lb />
+er ogsaa Tilfældet i adskillige fremmede<lb />
+Lande (saaledes i Tyskland, Østerrig og<lb />
+England).<lb />
+</p>
+<wtitle>§ 134.</wtitle>
+<p>
+Paragrafen indeholder — som bemær-<lb />
+ket i Motiverne til det tidligere Udkast<lb />
+om dettes tilsvarende § 142 — nogle ny<lb />
+Bestemmelser, i Henhold til hvilke en alle-<lb />
+rede given Tilstaaelse af fri Proces under<lb />
+visse Betingelser bortfalder eller kan tages<lb />
+tilbage. Efter den bestaaende Ret gælder<lb />
+en Tilstaaelse af fri Proces ikke blot for<lb />
+den, hvem den er givet, men ogsaa for<lb />
+hans Arvinger. En saadan Regel stemmer<lb />
+imidlertid ikke med Forholdets Natur; ti,<lb />
+naar vedkommende er død, bliver det hans<lb />
+Arvingers økonomiske Forhold, hvorpaa<lb />
+det maa komme an ved Afgørelsen af<lb />
+Spørgsmaalet om fri Proces, og disse kunne<lb />
+naturligvis være meget forskellige fra Par-<lb />
+tens egne. Efter nærværende Paragraf<lb />
+skal derfor ved Partens Død den givne<lb />
+Tilstaaelse af fri Proces bortfalde. Lige saa<lb />
+naturlig er Paragrafens anden Bestem-<lb />
+melse, hvorefter den Parten tilstaaede fri<lb />
+Proces kan tages tilbage, naar de Forud-<lb />
+sætninger, under hvilke den er meddelt,<lb />
+vise sig ikke at være til Stede eller at<lb />
+være bortfaldne. Herved tænkes dels paa,<lb />
+at vedkommende Parts Formuesomstændig-<lb />
+heder under Sagens Drift kunne undergaa<lb />
+en saadan Forandring, at Grunden til fri<lb />
+Proces bortfalder, dels paa det Tilfælde,<lb />
+at Parten ifølge senere fremkomne Oplys-<lb />
+ninger kan skønnes ikke at have haft<lb />
+rimelig Grund til at procedere, en Mulig-<lb />
+hed, som ikke ligger fjærnt, hvor der er<lb />
+Spørgsmaal om fri Proces i første Instans,<lb />
+og hvor Afgørelsen som Følge heraf er<lb />
+truffen i Henhold til Partens ensidige<lb />
+Fremstilling af Sagens Sammenhæng.<lb />
+</p>
+<wtitle>§ 137.</wtitle>
+<p>
+Bestemmelsen gaar — som bemærket<lb />
+
+i Motiverne til det tidligere Udkast ved<lb />
+dettes tilsvarende § 145 — ud paa at op-<lb />
+retholde den Myndighed, som Justitsmini-<lb />
+steriet hidtil har haft til uden Hensyn til<lb />
+Uformuenhedsbetingelsen at tilstaa fri Pro-<lb />
+ ces (beneficium processus gratuiti) saavel i<lb />
+offentlige Myndigheders, Stiftelsers og Em-<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+bedsmænds Sager som i andre Tilfælde,<lb />
+hvor det offentliges Interesse gør det øn-<lb />
+skeligt, at en judiciel Afgørelse af et<lb />
+Spørgsmaal tilvejebringes. Det vilde sik-<lb />
+kert blive følt som et væsentligt Savn i<lb />
+Forvaltningen, om der ikke var Adgang<lb />
+til at faa saadanne Spørgsmaal afgjorte<lb />
+ved Domstolene uden Bekostning for ved-<lb />
+kommende. Omfanget af den   meddelte<lb />
+Bevilling maa bestemmes efter § 132.<lb />
+</p>
+<title>
+Kapitel XIII<lb />
+</title>
+<undertitle>
+Den tvungne Forligsprøve.<lb />
+</undertitle>
+<p>
+Reglerne om Forligsmægling i dette<lb />
+Kapitel adskille sig ikke uvæsentligt fra de<lb />
+i det tidligere Forslags 1ste Afsnit, Kapitel<lb />
+XIII, indeholdte Regler om samme Emne.<lb />
+</p>
+<p>
+Det tidligere Forslag henlagde For-<lb />
+ligsmægling i Underretssager (med Und-<lb />
+tagelse af Tyendesager og Aftægtssager,<lb />
+jfr. Tyendelovens § 65 og Lov 4de Marts<lb />
+1857 § 8) til Underretterne selv, medens<lb />
+den bibeholdt de bestaaende Forligskom-<lb />
+missioner som mæglende i Landsretssager.<lb />
+Det opretholdt endvidere alle de bestaa-<lb />
+ende Regler om Forligsmægling, derunder<lb />
+altsaa om Mæglingens Hemmelighed og<lb />
+Sagføreres Udelukkelse fra at møde under<lb />
+denne.<lb />
+</p>
+<p>
+I Modsætning hertil henlægges efter<lb />
+nærværende Udkast Mægling i alle Sager<lb />
+(undtagen Tyende- og Aftægtssager) til<lb />
+Underretten, Mæglingen skal være offent-<lb />
+lig op- Sagførere som saadanne udelukkes<lb />
+ikke fra at møde derunder.<lb />
+</p>
+<p>
+De Betragtninger, der i saa Henseende<lb />
+have været bestemmende, ere følgende:<lb />
+</p>
+<p>
+Naar man først fjærner alle Under-<lb />
+retssagerne fra Forligskommissionerne, vil<lb />
+det ikke længere være muligt eller i alt<lb />
+Fald rimeligt at opretholde disse alene at<lb />
+Hensyn til Landsretssagerne. Underrets-<lb />
+sagerne udgøre jo nemlig det langt over-<lb />
+vejende Antal Sager og derhos dem, der<lb />
+gennemgaaende ere mest egnede til for-<lb />
+ligsmæssig Afgørelse. Landsretssagerne<lb />
+derimod ville blive forholdsvis faa i Antal<lb />
+og ville, netop fordi de dreje sig om større<lb />
+Værdier, i Reglen (for saa vidt de da ikke<lb />
+ere rene<lb />
+Inkassationssager) have gennem-<lb />
+løbet et længere Forstadium, under hvilket<lb />
+Udsigten til Forlig normalt vil være bleven<lb />
+mindre og mindre. Forholdet vil derfor<lb />
+være det, at Forligskommissionerne, hvis<lb />
+man da ellers vil blive staaende ved den
+</p>
+</rightside>

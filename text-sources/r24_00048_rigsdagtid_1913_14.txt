@@ -1,0 +1,79 @@
+3431
+<pb n="48">
+<h>
+<coll>
+3431
+</coll>
+
+F. t. L. om Rettens Pleje.
+<colr>
+3432
+</colr>
+</h> 
+<title rend="chapter">Kapitel 19</title>
+<title rend="subtitle">Syn og Skøn.</title>
+<lowtitle>§ 196.</lowtitle>
+<p>
+Naar der i en borgerlig Sag fremsættes Begæring om Optagelse af Syn og<lb />
+Skøn, og Begæringen af Retten tages til Følge, saavel som naar i en Straffesag de i<lb />
+§ 743 nævnte Betingelser foreligge, udmelder Retten ved et Udmeldelsesdekret en<lb />
+eller flere Syns- eller Skønsmænd. Dersom den, der skal tilkaldes, har en almindelig<lb />
+offentlig Bemyndigelse til Foretagelsen af vedkommende Syn eller Skøn, sker i Straffe-<lb />
+sager Tilkaldelsen ved Rettens til ham rettede Begæring.
+</p>
+<p>
+Personer, som bo udenfor vedkommende Rets Embedsomraade, kunne kun ud-<lb />
+meldes af denne, naar det er oplyst, at de ere villige til at efterkomme Udmeldelsen,<lb />
+eller naar det findes nødvendigt, enten fordi der indenfor Retskredsen ikke findes sag-<lb />
+kyndige Personer, som kunne benyttes, eller fordi den Ting, der er Genstand for For-<lb />
+retningen, er udenfor Retskredsen.
+</p>
+<lowtitle>§ 197.</lowtitle>
+<p>
+Kun Personer, der ere uberygtede, kunne udmeldes til Syns- eller Skønsmænd.
+</p>
+<p>
+hvorhos Personer, der vilde være udelukkede fra at handle som Dommere i Sagen<lb />
+ifølge § 60, Nr. 1 og 2, under ingen Omstændigheder maa tilkaldes som Syns- eller<lb />
+Skønsmænd, og de øvrige i § 60 nævnte Personer kun, for saa vidt det ikke er muligt<lb />
+at finde andre lige saa gode.
+</p>
+<p>
+Til at foretage Syn og Skøn kunne Kvinder udmeldes lige saavel som Mænd.<lb />
+Alt, hvad der i denne og andre Love er bestemt om Syns- eller Skønsmænd, finder<lb />
+tilsvarende Anvendelse paa Kvinder.
+</p>
+<lowtitle>§ 198.</lowtitle>
+<p>
+Enhver, der er pligtig at vidne, er ogsaa pligtig at modtage Udmeldelse som<lb />
+Syns- eller Skønsmand.
+</p>
+<p>
+Statens Embedsmænd og Bestillingsmænd fritages for Udmeldelse, naar de ved<lb />
+Skrivelse fra de dem foresatte Myndigheder oplyse, at de ikke have den fornødne Tid,<lb />
+eller at Forretningens Foretagelse i øvrigt kommer i Strid med deres offentlige Pligter.<lb />
+Personer, for hvem Syns- eller Skønsforretningens Udførelse vilde medføre stort Be-<lb />
+svær eller Ulempe, bør, for saa vidt Omstændighederne tillade det, forskaanes for<lb />
+Udmeldelse.   Det samme gælder om den, der har fyldt 65 Aar.
+</p>
+<lowtitle>§ 199.</lowtitle>
+<p>
+For saa vidt Personer ere beskikkede med almindelig Bemyndigelse til Fore-<lb />
+tagelsen af visse Syn eller Skøn, bør andre kun udmeldes hertil, naar Henvendelse til<lb />
+hine vilde medføre en Forhaling, hvorved Øjemedet kunde forspildes, eller naar andre<lb />
+særegne Grunde gøre det tilraadeligt.
+</p>
+<p>
+Til Forretninger, ved hvilke der udkræves særegen Indsigt eller Færdighed,<lb />
+bør i Reglen kun udmeldes Mænd, der ifølge offentlig Stilling eller Livserhverv eller<lb />
+dog ifølge offentlig aflagte Prøver maa anses for duelige hertil.
+</p>
+<p>
+Skal i en Straffesag en Kvinde synes paa Legeme, bør i alle Tilfælde, hvor<lb />
+det til Øjemedets Opnaaelse er tilstrækkeligt. Kvinder dertil vælges, navnlig bør, hvor<lb />
+Spørgsmaal foreligger om Svangerskab eller Barnefødsel, kvindelige Læger eller Jorde-<lb />
+mødre benyttes, for saa vidt disse maa antages at have tilstrækkelig Indsigt til at<lb />
+afgive Erklæring om Spørgsmaalet.
+</p>
+
+</pb>

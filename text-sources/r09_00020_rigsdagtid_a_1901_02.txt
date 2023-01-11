@@ -1,0 +1,72 @@
+2187
+<pb n="20" />
+<h>
+<coll>2187</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2188</colr>
+</h>
+<p>
+taget, hvorhos den skal oplyse, hvor vidt nogen af Parterne skal varsles til Forretningen,<lb/>
+og i bekræftende Fald Varslets Længde. Anmodningen tilstilles Justitsministeriet til<lb/>
+videre Foranstaltning.
+</p>
+<p>
+Skal Parts Ed aflægges ved fremmed Domstol, fremsættes Begæring om dens<lb/>
+Aflæggelse for den Ret, der har afsagt Edsdommen.
+</p>
+<p>
+Anmodninger fra fremmede Retter om Bevisoptagelse eller andre retslige Hand-<lb/>
+linger blive alene at efterkomme, naar de fremsendes gennem Justitsministeriet, jfr.<lb/>
+i øvrigt §§ 135 og 172.
+</p>
+<title>Kapitel X.</title>
+<undertitle>
+Rettens Raadslagninger og Afgørelser.
+</undertitle>
+<wtitle>§ 100.</wtitle>
+<p>
+Domme, Kendelser og andre Beslutninger af en Ret, der ikke beklædes af en<lb/>
+enkelt Dommer, og som ikke høre til de Beslutninger, Rettens Formand kan træffe,<lb/>
+vedtages ved Afstemning efter forudgaaende Raadslagning. Afstemningen foregaar<lb/>
+efter Tjenestealderen, saaledes at det yngste Medlem stemmer først. Formanden<lb/>
+stemmer altid sidst, han forestaar Afstemningen og samler Stemmerne. Afstemningen<lb/>
+sker mundtlig; de afgivne Stemmer indføres udtogsvis i en Stemmegivningsbog. Enhver<lb/>
+Dommer har Ret til at paase, at hans Stemme gengives rigtigt.
+</p>
+<p>
+Dommernes Raadslagninger og Afstemninger maa ikke overværes af Tilhørere,<lb/>
+med Undtagelse af Retsskriveren.
+</p>
+<p>
+I Afstemningen maa kun de Dommere deltage, som liave overværet den mundt-<lb/>
+lige Forhandling og Bevisførelsen i Sagen.
+</p>
+<wtitle>§ 101.</wtitle>
+<p>
+I Dommens Vedtagelse deltage for Landsretternes Vedkommende mindst tre<lb/>
+Medlemmer og for Højesterets Vedkommende mindst syv Medlemmer af Retten. Samme<lb/>
+Regler gælde ogsaa for Vedtagelse af Kendelser, medmindre andet er bestemt.
+</p>
+<wtitle>§ 102.</wtitle>
+<p>
+For enhver Afgørelse skal der være Stemmeflerhed. Kræver Afgørelsen Af-<lb/>
+stemning over flere Punkter, ere de Dommere, som have befundet sig i Mindretal,<lb/>
+pligtige at deltage i de senere Afstemninger.
+</p>
+<p>
+Opstaar der Meningsforskel om, hvorledes Spørgsmaalene skulle stilles, eller<lb/>
+om Afstemningens Resultat, bliver der afstemt særskilt herom.
+</p>
+<p>
+Den vedtagne Afgørelse føres i Pennen af Rettens Formand eller af den af<lb/>
+de i Afgørelsen deltagende Dommere, hvem dette Hverv af Formanden overdrages.
+</p>
+<wtitle>§ 103.</wtitle>
+<p>
+Ved Dommen skal Sagen paakendes endelig uden anden Henvisning til paa-<lb/>
+følgende Proceshandlinger end den, der hjemles ved § 197.
+</p>
+<p>
+Bevis ved Syn eller Skøn kan ikke henskydes til Optagelse efter Dommens<lb/>
+Afsigelse.
+</p>

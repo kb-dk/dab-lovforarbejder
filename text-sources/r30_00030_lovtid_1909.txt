@@ -1,0 +1,64 @@
+294
+<pb n="30" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>294</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+Har en Sagfører gjort sig skyldig i det i Straffelovens § 253 omhandlede Forhold. bliver, selv om i øvrigt andet Strafansvar mod ham i Medfør af samme Lovs<lb/>
+§ 254 måtte bortfalde, Retten til Sagførervirksomhed ved Dom at frakende ham for<lb/>
+en bestemt angiven Tid eller for bestandig under den mod ham anlagte Straffesag,<lb/>
+eller, hvis en sådan ikke måtte være anlagt, da under en særlig i dette Øjemed<lb/>
+ifølge Justitsministerens Bestemmelse mod ham rejst Straffesag.
+</p>
+<p>
+Når Dom til Fortabelse af Ret til Sagførervirksomhed er overgået en Sagfører, kan han ikke, selv om han påanker sådan Dom, fortsætte sin Virksomhed,<lb/>
+før han ved endelig Dom har fået sin Dom forandret.
+</p>
+<wtitle>§ 125.</wtitle>
+<p>
+Kommer en Sagfører under Konkurs, har Justitsministeren at fratage ham<lb/>
+Retten til at udøve Sagførervirksomhed og kan som Regel først tilbagegive ham den,<lb/>
+når han fremskaffer Erklæring fra samtlige de i Konkursboet anmeldte Kreditorer<lb/>
+om, at han har fyldestgjort dem for deres Krav, eller at de have samtykket i Boets<lb/>
+Ekstradition. Bliver en Sagfører umyndiggjort, har Justitsministeren ligeledes at fratage ham Retten til at udøve Sagførervirksomhed, så længe Umyndiggørelsen vedvarer.
+</p>
+<title>Kapitel 13.</title>
+<undertitle>
+Sagførersamfund og Sagførerråd.
+</undertitle>
+<wtitle>§ 126.</wtitle>
+<p>
+Samtlige i en Landsretskreds boende Sagførere udgøre et Samfund. Højesteretssagførerne ere Medlemmer af det til Østre Landsret hørende Sagførersamfund.
+</p>
+<wtitle>§ 127.</wtitle>
+<p>
+Ethvert Sagførersamfund skal have en Bestyrelse, der benævnes Sagførerråd.
+</p>
+<p>
+Sagførerrådet består af en af Landsrettens Formand blandt Sagførerne i<lb/>
+Kredsen valgt Formand og et lige Antal Medlemmer, ikke under 4 og ikke over 8,<lb/>
+Halvdelen valgt af og blandt Landsrets- og Højesteretssagførerne, Halvdelen af og<lb/>
+blandt Underretssagførerne. Samtlige Valg gælde for 4 År; Genvalg kan finde Sted.
+</p>
+<wtitle>§ 128.</wtitle>
+<p>
+Til almindeligt Møde af Samfundets Medlemmer indbydes ved en offentlig<lb/>
+Bekendtgørelse i Statstidende med mindst 14 Dages Varsel.
+</p>
+<wtitle>§ 129.</wtitle>
+<p>
+Almindelige Møder sammenkaldes dels for at vælge Medlemmer af Sagførerrådet dels for at afhandle andre Genstande vedkommende Sagførerstandens Forhold<lb/>
+og Interesser.
+</p>
+<p>
+Sagførerrådet sammenkalder Møder, så ofte dette findes nødvendigt; når<lb/>
+et Antal af mindst en Fjerdedel af Medlemmerne af Sagførersamfundet, eller når<lb/>
+Landsrettens Formand forlanger det, er Sagførerrådet pligtigt at sammenkalde Møde.
+</p>
+<p>
+Første Gang efter, at denne Lov er trådt i Kraft, sammenkalder Landsrettens<lb/>
+Formand Møde til Valg af et Sagførerråd.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

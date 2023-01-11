@@ -1,0 +1,49 @@
+296
+<pb n="32" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>296</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 134.</wtitle>
+<p>
+For ethvert Sagførersamfund kan der angående Samfundets indre Anliggender oprettes Vedtægter, som dog ikke må indeholde noget, der strider mod denne Lov.
+</p>
+<p>
+Sådanne Vedtægter skulle behandles og vedtages med absolut Stemmeflerhed<lb/>
+på et almindeligt Møde og derefter forelægges Kongen, som enten stadfæster dem<lb/>
+eller nægter dem Stadfæstelse.
+</p>
+<title>Fjerde Afsnit.</title>
+<title>
+Politimyndigheden.
+</title>
+<title>Kapitel 14.</title>
+<wtitle>§ 135.</wtitle>
+<p>
+Det københavnske Politis Ordning berøres ikke af nærværende Lov. Det forbeholdes at underkaste Bestemmelserne om Statens Tilskud til Københavns Politi et<lb/>
+Gennemsyn.
+</p>
+<wtitle>§ 136.</wtitle>
+<p>
+Særlige Politimestre, som udenfor København ansættes i Medfør af § 22, 2det<lb/>
+Stykke, beskikkes af Kongen og må fyldestgøre de i § 43, 2det Stykke, angivne<lb/>
+Fordringer, dog at Autorisation som Fuldmægtig hos en af de i denne Paragraf nævnte<lb/>
+Politimestre ligestilles med Autorisation som Dommerfuldmægtig. Med Hensyn til<lb/>
+midlertidig Beskikkelse finder Reglen i § 45, sidste Punktum, tilsvarende Anvendelse.<lb/>
+Justitsministeren bestemmer, hvor i Kredsen den særlige Politimester skal bo.
+</p>
+<wtitle>§ 137.</wtitle>
+<p>
+Den eller de af Politimesteren antagne Fuldmægtige kan der af Amtmanden<lb/>
+meddeles Autorisation til at udføre Politimesterens Forretninger. Autorisationen kan<lb/>
+kun meddeles Personer, der fyldestgøre de i § 46 angivne Fordringer.
+</p>
+<wtitle>§ 138.</wtitle>
+<p>
+Ved særlig Lov bliver der at træffe Bestemmelse om Antal, Ansættelse og<lb/>
+Lønning af Politibetjente udenfor København, samt af de særlige Opdagelsesbetjente,<lb/>
+der skulle kunne gøre Tjeneste overalt i Riget. Førend en sådan særlig Lov er given<lb/>
+træder Loven om Retsplejens Ordning ikke i Kraft.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

@@ -1,0 +1,44 @@
+44
+<pb n="44" />
+<rightside>
+<pagename>42
+</pagename>
+<wtitle>§ 117.
+</wtitle>
+<p>De nuværende Dommere og andre<lb />
+Embedsmænd ved Landsover- samt Hof- og<lb />
+Stadsretten i Kjøbenhavn, Kriminal- og<lb />
+Politiretten samt Sø- og Handelsretten<lb />
+sammesteds og Landsoverretten i Viborg<lb />
+ere pligtige at modtage Beskikkelse ved de<lb />
+nye Landsretter og Kjøbenhavns Stadsret,<lb />
+og de nuværende Underdommere og Underretsskrivere at modtage Beskikkelse ved de nye<lb />
+Underretter, dog uden Formindskelse i deres<lb />
+hidtil haste Embedsindtægter og saaledes,<lb />
+at den Embedstid, der med Hensyn til<lb />
+Beregning af Alderstillæg har været lagt<lb />
+til Grund for Udregningen af Embedslønningen i den Stilling, de hidtil have<lb />
+beklædt, ogsaa kommer dem til Gode i de<lb />
+nye Stillinger, i hvilke de saaledes ere<lb />
+pligtige at modtage Beskikkelse.
+</p>
+<p>Forsaavidt der i nærværende Lov stilles<lb />
+strængere Fordringer i Henseende til juridisk<lb />
+Eksamen for Dommere og andre Retsembedsmænd end efter de hidtil gældende Regler,<lb />
+forbliver det dog ved disse med Hensyn til<lb />
+de Mænd, der alt ere beskikkede som saadanne.
+</p>
+<wtitle>§ 118.
+</wtitle>
+<p>De Spørgsmaal, som opstaa ved Sammenligning eller Deling af hidtilværende<lb />
+Politikredse med Hensyn til de for en Politikreds fælles Anliggender, afgøres af Iustitsministeren i Forening med Indenrigsministeren efter Forhandling med vedkommende<lb />
+kommunale Myndigheder.
+</p>
+<wtitle>§ 119.
+</wtitle>
+<p>De nuværende Underretsdommere ere<lb />
+pligtige at modtage Beskikkelse som Politimestre, dog uden Formindskelse i deres Embedsindtægter og saaledes, at den Embedstid, der med Hensyn til Beregning af Alderstillæg har været lagt til Grund for Udregningen af Embedslønningen i den Stilling, de hidtil have beklædt, ogsaa kommer<lb />
+dem til Gode i de nye Stillinger, i hvilke<lb />
+de saaledes ere pligtige at modtage Bestikkelse.
+</p>
+</rightside>

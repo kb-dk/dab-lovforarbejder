@@ -1,0 +1,44 @@
+7
+<pb n="13" />
+<h>
+<topmidle>Kap. H.    Værneting.         7</topmidle>
+</h>
+<p>Sagsøgte ved Stævningens Forkyndelse   er<lb />
+tilstede i Retskredsen.</p>
+<p>Har Nogen under et Ophold i en<lb />
+Retskreds pådraget sig en Forpligtelse, som<lb />
+skulde opfyldes der, inden han forlod Retskredsen, kan han endvidere i den Anledning<lb />
+sagsøges der, uagtet han ved Stævningens<lb />
+Forkyndelse ikke er tilstede i Retskredsen.</p>
+<wtitle>§ 21.</wtitle>
+<p>Sager, hvorunder der påstås Straf,<lb />
+Erstatning eller Oprejsning i Anledning af<lb />
+retstridige Skadetilføjelser eller andre Retskrænkelser, kunne anlægges på det Sted,<lb />
+hvor Skadetilføjelsen eller Retskrænkelsen er<lb />
+foregået, eller, når den har været udøvet i<lb />
+flere Retskredse, i hvilken som helst af disse.</p>
+<wtitle>§ 22.</wtitle>
+<p>Når flere Sagvoldere skulle eller dog<lb />
+kunne sagsøges under Eet, og Sagen imod<lb />
+dem ikke ifølge denne Lov kan indbringes<lb />
+for andet Værneting, kan den anlægges<lb />
+ved enhver Ret, som for nogen af Sagvolderne er Hjemting.</p>
+<wtitle>§ 23.</wtitle>
+<p>Kan  Sagen  i Medhold   af denne  Lov<lb />
+anlægges   ved  flere forskellige Retter,   har<lb />
+Sagsøgeren   Valget,   forsåvidt ikke  Andet<lb />
+fremgår af Lovens Forskrifter.</p>
+<wtitle>§ 24.</wtitle>
+<p>Når Parterne vedtage det, kunne de<lb />
+indbringe deres Sag for hvilken af samtlige<lb />
+ligeartede Retter i første Instans de ville,<lb />
+uden at Rettens Samtykke behøves.</p>
+<wtitle>§ 25.</wtitle>
+<p>Udlændinge kunne sagsøges her i Riget,<lb />
+forsåvidt nogen Ret i Følge de foranstående Regler kan anses som Værneting i<lb />
+Sagen.</p>
+<p>Gives der ingen Ret i Riget, ved hvilken Sagen imod Udlændingen herefter kan<lb />
+anlægges, skal det, forsåvidt ikke særlige<lb />
+traktatmæssige Bestemmelser ere til Hinder<lb />
+derfor, være Indlændinge tilladt i Sager<lb />
+angående   Formueretsforhold    at   sagsøge</p>

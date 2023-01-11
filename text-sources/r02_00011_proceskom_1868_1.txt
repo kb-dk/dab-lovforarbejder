@@ -1,0 +1,30 @@
+8
+<pb n="11" />
+<p>I de ovenmeldte Samlinger behandles<lb />
+Straffesager, som ere henviste til Hovedforhandling med eller uden Nævninger, eller i<lb />
+hvilke der ifølge Paaanke fra Underretten stal<lb />
+finde Hovcdførhandling med ny Vevisførelse<lb />
+Sted, fremdeles paa Bornholm de borgerlige<lb />
+Retstrætter, som maatte være henviste til den<lb />
+nordsjællandske Landsret anden særlige Afdeling,<lb />
+og i hvilke Bevisførelse er berammet. Nævningesager behandles Først; dog kunne andre<lb />
+Sager indskydes, naar det kan ske uden Forhaling for nævningesagerne.</p>
+<p>Ved Samlingerne udenfor Rettens Hovedsæde medfølger det fornødne Skriverpersonale<lb />
+fra Landsrettens Skriverkontor.</p>
+<wtitle>§ 21.</wtitle>
+<p>Ved de særlige Afdelingers Møde mellem<lb />
+Samlingerne blive Nævningesager ikke behandlede. Møderne holdes ved Rettens Sæde og<lb />
+bestemmes paa den i § 19 angivne Maade.</p>
+<wtitle>§ 22.</wtitle>
+<p>Fører et Medlem af Landsretten Forundersøgelsen i en Straffesag, berammer han<lb />
+Tid og Sted for Retsmøders Afholdelse overensstemmende med Reglerne i Loven om Strafferetsplejen.</p>
+<title>III.</title>
+<undertitle>Underretter.</undertitle>
+<wtitle>§ 23.</wtitle>
+<p>Kjøbenhavn med Kjøbenhavns Amtsraadskreds (§ 2) henlægges under Kjøbenhavns<lb />
+Stadsret. Hver af de andre i § 2 nævnte<lb />
+Kredse henlægges under en By- og Herredsret<lb />
+eller Herredsret.</p>
+<wtitle>§ 24.</wtitle>
+<p>Underrettens Virkekreds omfatter Behandling og Paakjendelse af Retssager samt Foretagelse af Retshandlinger i det Omfang, som<lb />
+bestemmes ved Lovene om den borgerlige Retspleje og Strafferetsplejen.</p>

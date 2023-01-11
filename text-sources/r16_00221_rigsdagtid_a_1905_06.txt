@@ -1,0 +1,53 @@
+2345
+<pb n="221" />
+<h>
+<coll>
+2345
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2346
+</colr>
+</h>
+<wtitle>§ 951.</wtitle>
+<p>
+Hvor Genoptagelse er tilstaaet alene efter Begæring af Domfældte eller nogen<lb />
+af de i § 907, 2det og 3die Punktum, nævnte Personer, maa den ny Dom ikke i noget<lb />
+Punkt afvige fra den tidligere Dom til Skade for ham. I andre Tilfælde maa saadan<lb />
+Afvigelse ikke ske for de Punkters Vedkommende, som ikke berøres af Genoptagelses-<lb />
+grunden.
+</p>
+<wtitle>§ 952.</wtitle>
+<p>
+Mod en Kendelse af en Landsret, hvorved Genoptagelse er tilstaaet eller nægtet<lb />
+af en Sag, der kun ifølge Anke har været paadømt ved Landsretten, kan Kæremaal<lb />
+ikke rejses, medmindre Højesteret undtagelsesvis meddeler Tilladelse hertil (§ 210).
+</p>
+<wtitle>§ 953.</wtitle>
+<p>
+Begæring om Genoptagelse medfører ikke Udsættelse eller Standsning af<lb />
+Dommens Fuldbyrdelse, medmindre Betten bestemmer det modsatte; det samme gælder<lb />
+om Beslutning om Genoptagelse, der træffes i Henhold til § 943. Er Genoptagelse<lb />
+besluttet i Henhold til § 944, bliver Fuldbyrdelsen altid at udsætte eller standse, hvis<lb />
+Domfældte begærer det.
+</p>
+<wtitle>§ 954.</wtitle>
+<p>
+Er en udebleven Tiltalt, som ikke overensstemmende med § 823 Nr. 3 har<lb />
+samtykket i, at Sagen er blevet fremmet i hans Fraværelse, bleven domfældt, og staar<lb />
+Anke overensstemmende med Beglerne i Kapitel 80 ham ikke aaben, kan han<lb />
+begære Sagen genoptagen til ny Forhandling, naar han godtgør, at han har haft lov-<lb />
+ligt Forfald og ved ham utilregnelige Omstændigheder har været forhindret fra i Tide<lb />
+at anmelde dette, eller at Stævningen ikke betimelig er kommen til lians Kundskab.<lb />
+Begæringen maa fremsættes inden saadan Frist som bestemt i § 912, jfr. § 913.<lb />
+Reglerne i §§ 946—949 og 952 finde herved tilsvarende Anvendelse.
+</p>
+<p>
+Udebliver Domfældte under den ny Domsforhandling, hæver Retten ved Ken-<lb />
+delse Sagen, og den afsagte Dom bliver staaende ved Magt.
+</p>
+<p>
+Under tilsvarende Betingelser, som i denne Paragrafs første Stykke angivet,<lb />
+kan Tiltalte begære Genoptagelse af en af ham rejst Ankesag, som er afvist paa<lb />
+Grund af hans Udeblivelse.
+</p>

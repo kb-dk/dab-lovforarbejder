@@ -1,0 +1,127 @@
+2807
+<pb n="4" />
+<h>
+<coll>2807</coll>
+<topmidle>
+Bet. o. Lovf. om Rettens Pleje m. m.
+</topmidle>
+<colr>2808</colr>
+</h>
+<leftside>
+<p>
+straks afgiven frivillig og troværdig Til-<lb />
+staaelse, ikke vilde fremtræde paa en Rets-<lb />
+følelsen stødende eller Konflikt medførende<lb />
+Maade. Det er da kun i Overensstemmelse<lb />
+med Landstingets Opfattelse ved Vedtagelse<lb />
+af Lovene af 1908 og 1909, naar det nu fore-<lb />
+trækker det foreliggende Forslag, for saa vidt<lb />
+angaar Ordningen af Strafferetsplejen, for<lb />
+Loven af 26. Marts 1909, Dertil kommer,<lb />
+at der i Løbet af de Aar, i hvilke denne<lb />
+Lov kun har haft en Skintilværelse, har<lb />
+gjort sig en stærk Misstemning gældende<lb />
+hos Dommere lige overfor den Stilling,<lb />
+Loven tillægger dem i Straffesager, at være<lb />
+samtidig Anklager og Dommer. Et kraf-<lb />
+tigt Udtryk har denne Misstemning givet<lb />
+sig i den Henvendelse, som Udvalget har<lb />
+modtaget fra Formændene i Rigets kolle-<lb />
+giale Retter: Højesteret, Overretterne i<lb />
+København og Viborg, Kriminal- og Politi-<lb />
+retten samt Sø- og Handelsretten i Køben-<lb />
+havn, se Bilag I. A. og B. Næst at udtale, at<lb />
+der efter Retternes Formening trænges til<lb />
+en grundig og hurtig Reform; af vor Rets-<lb />
+pleje, erklærer Formændene for disse<lb />
+Retter — hvad der i denne Forbindelse har<lb />
+særlig Betydning — „at det Rigsdagen<lb />
+for Tiden forelagte Forslag til en Reform<lb />
+utvivlsomt fortjener Fortrinet fremfor den<lb />
+ved Loven af 26. Marts 1908 trufne Ord-<lb />
+ning saavel ved dets Bestemmelser om Ad-<lb />
+skillelsen af Domsmagten fra Administra-<lb />
+tionen som ved dets Bestemmelser om Ind-<lb />
+førelsen af en fast Anklagemagt.'' Over-<lb />
+ensstemmelse hermed har endvidere Besty-<lb />
+relsen for Underretsdommerforeningen i<lb />
+Skrivelse af 23. Maj 1914 udtalt, „at det<lb />
+Rigsdagen forelagte og af Folketinget ved-<lb />
+tagne Forslag til Retsreform med dets<lb />
+Indførelse af Anklageprincippet i den<lb />
+kriminelle Retspleje og dets gennemførte<lb />
+Adskillelse af den administrative og døm-<lb />
+mende Myndighed maa anses for et væ-<lb />
+sentligt og meget betydeligt Fremskridt fra<lb />
+den tidligere vedtagne Lov om Rettens Fleje<lb />
+af 1909, og man maa i høj Grad anbefale,<lb />
+at Sagen søges gennemført i indeværende<lb />
+Rigsdagssamling."
+</p>
+<p>
+I Henhold til, hvad der saaledes er<lb />
+anført, indstiller følgende Medlemmer af
+</p>
+</leftside>
+<rightside>
+<p>
+Udvalget — Jørgen Berthelsen, Deuntzer,<lb />
+Goos, Holstein-Holsteinbor g, Harald Jensen,<lb />
+Sonne — til Tinget — med de Ændrin-<lb />
+ger, som nedenfor skal omtales — at ved-<lb />
+tage det foreliggende Forslag til Lov om<lb />
+Rettens Pleje og de dermed nødvendigt<lb />
+sammenhængende Lovforslag.
+</p>
+<p>
+Til denne Indstilling kan andre Med-<lb />
+lemmer af Udvalget, nemlig Birch, Falbe<lb />
+Hansen, Godskesen, Oluf Jensen, Johansen,<lb />
+Johnsen, Koefoed, Nygart og Enevold Sø-<lb />
+rensen, ikke slutte sig.
+</p>
+<p>
+Naar disse Medlemmer slutter sig til en<lb />
+Del af de Ændringsforslag, der stilles til<lb />
+de foreliggende Lovforslag, vil de ikke<lb />
+derved have deres Stilling til disse Lov-<lb />
+forslag som Helhed foregrebet.
+</p>
+<title>
+I. Forslag til Lov om Rettens Pleje.
+</title>
+<p>
+Til dette Forslag stilles der dels af<lb />
+hele Udvalget, dels af Medlemmer af Ud-<lb />
+valget en Række Ændringsforslag. Af<lb />
+større Betydning er dog kun de Forslag,<lb />
+der angaar Retskredsenes og Politikredsenes<lb />
+Tal (Ændringsforslag til §§12 og 109),<lb />
+og hvad dermed staar i nærmere eller<lb />
+fjernere Forbindelse (Ændringsforslag til<lb />
+§§ 17, 19, 44).
+</p>
+<p>
+I Anledning af herhenhørende Spørgs-<lb />
+maal har Udvalget dels gennem Justitsmini-<lb />
+steriet forskaffet sig eller modtaget Udtalelser<lb />
+fra forskellige kommunale Myndigheder og<lb />
+Foreninger (se Bilag V., VI. og VII.),<lb />
+dels direkte modtaget en Række Andra-<lb />
+gender fra kommunale Myndigheder (se<lb />
+Bilag VIII.). Endvidere har man af Justits-<lb />
+ministeren udbedt sig forskellige Oplysnin-<lb />
+ger denne Sag vedrørende, hvorom henvises<lb />
+til Bilag II. og III., samt haft flere Samraad<lb />
+med Ministeren eller dennes Repræsentant.
+</p>
+<p>
+At Adskillelsen af Domsmagten fra<lb />
+Politimyndigheden maatte medføre en be-<lb />
+tydelig Indskrænkning i Tallet af Under-<lb />
+retskredse og Politikredse, hver med sin<lb />
+selvstændige Dommer og sin Politimester,<lb />
+har altid været betragtet som en Selvfølge.<lb />
+En Fordobling af disse Embedsmænds Tal
+</p>
+</rightside>

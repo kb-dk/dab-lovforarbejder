@@ -1,0 +1,58 @@
+3759
+<pb n="1143" >
+<p rend="page">1143</p>
+<h>
+<coll>3759</coll>
+<colr>3760</colr><lb />
+Den endlige Behandling of Valgoven. Regulativet.<lb />
+</h>
+<table>
+Amt.	Valgkredsene i hvert Amt.	Valgkredsenes Sammensætning.	Beboernes Antal i hver Valgkreds	Mødestedet.<lb />
+	4.	Nvkjøbing Kjøbstad, Do. Landdistrikt, Snstofte, Skjelby og<lb />
+Sjeddesby, Veggerløse, Idestrup, Sønderkirkeby, og Sønder Alslev, Tingsted, Maibølle, Kjettinge og Bregninge, Thoreby.	13,231	Nykjøbing Kjøbstad.<lb />
+	5.	Stubbekjøbing Kjøbstad, Maglebrænde, Torkildstrup og Lillebrænde, Gunslev, Ønslev og Eskildstrup, Nørrevedby og<lb />
+Nørrealslev, Vaalse, Kippinge og Brarup, Stadager og Nørrekirkeby, Aastrup, Horbeløv og Falqversløv, Karleby, Horreby og Nørre Ørsløv. 	13,642	Stubbekjøbing Kjøbstad.<lb />
+IX Bornholm.	1.	Rønne Kjøbstad, Hasle Kjøbstad, Vestermariæ, Nylarsker, Knudsker,<lb />
+Clemensker, Olsker, Nyker og Rutsker, Sandvig, Allinge.<lb />
+(herunder Hammershuus Birk)	13,128	Rønne Kjøbstad.<lb />
+	2.	Aakirkeby Kjøbstad, Nexø Kjøbstad, Svanike Kjøbstad, Aaker,<lb />
+Vedersker, Voulsker, Bodilsker, Ipsker, Østermariæ, Østerlarsker<lb />
+og Gudhjem, Røe, Christiansø.	13,418	Aakirkeby Kjøbstad.<lb />
+X. Aalborg	1.	Sognene: Hals, Sulsted, Aistrup, Hammer, Horsens, Vadum,<lb />
+Østerhassing, Vesterhassing, Aaby, Biersted, Ulsted, Sundby og Hvorup; Øen Egholm.<lb />
+Det bemærkes, at be til Hjørring Amt hørende Dele af Horsens<lb />
+og Aaby Sogne ere henlagte til denne Valgsreds, og at derimod de til Aalborg amt hørende Dele af Dronninglund og<lb />
+Je??mark Sogne ere henlagte til Hjørring Amts respective 2den<lb />
+og 5te Valgkreds.	12,470	Nørresundby.<lb />
+	2.	Aalborg Kjøbstad, Budolphi Landsogn, Sognene: Nørretranders,<lb />
+Søndertranders, Romdrup, Clarup, Storvorde, Mou, Neufling, Ferslev, Dall og Voldsted.	12,470	Aalborg Kjøbstad.<lb />
+	3.	Sognene: Gudum, Lillevorde, Seilflod, Gunderup, Storebrøndum, Siem, Thorup, Gjerding, Blendstrup, Vælum, Snelberg,<lb />
+Skibsted, Lyngby, Skjørping, Fræer, Sønderkongerslev, Nørrekongerslev, Komdrup, Skelund, Visborg, Als, Astrup, Rostrup<lb />
+og Storarden.	13,049	Vælum Tingsted.<lb />
+	4.	Sognene: Vive, Oue, Valsgaard, Øls, Hørby, Døstrup, Rold,<lb />
+Vebbestrup, Rørbek, Grynderup, Steenild, Strandby, Farsø,<lb />
+Gislum, Vognsild, Thisted, Binderup, Duurup, Ulli??, Foulum Louns, Alstrup, Aars, Haubro, Brorstrup, Ravnkilde,<lb />
+Hauerslev, Vefterhornum, Hvlleberg, Fleisborg, Ulftrup, Bjørnsholm, Aardestrup, Buderup, Gravlen, Sønderup og Suldrup.	12,729	Brorstrup By.<lb />
+	5.	Nibe Kjøbstad, Sognene: Voxlev, Veggerby, Bislev, Sønderholm, Freiley, Nørholm, Østerhornum, Ellibhøi, Svenstrup,<lb />
+Sebber, Aistrup, Kornum, Løgstør, Løgsted, Farstrup, Lundby,<lb />
+Næsborg, Salling, Oudrup, Vildsted, Vindblæs, Gundersted,<lb />
+Malle, Skivum, Giver, Blære og Eidrup.	12,486	Nibe Kjøbstad.<lb />
+XI. Hjørring.	1.	Skagen Kjøbstad med Landdistrikt, Frederikshavns Kjøbstad med<lb />
+Landdistrikt, Sognene: Raaberg, Elling, Tolne, Mosberg,<lb />
+Hørmested, Aasted, Skjerum, Flade, Gjerum, Hirbholm, Understed Karup samt Tørslev og Lindum.	13,003	Frederikshavn Kjøbstad.<lb />
+	2.	Sæby Kjøbstad, Læsø, Sognene: Hørby, Volstrup, Alberk, Voer<lb />
+og Dronninglund, derunder indbefattet de til Aalborg Amt<lb />
+hørende Dele af sidstnævnte Sogn, samt Skjæve, Hellevad,<lb />
+Hellum og Ørum. Det bemærks, at den til Dronninglund<lb />
+Herred hørende Deel af Horsens Sogn tilligemed de øvrige<lb />
+Dele af Sognet er henlagt til Aalborg Amts 1ste Valgsreds<lb />
+med 50 Indbyggere.	14,139	Sæby Kjobstad.<lb />
+	3.	Hjørring Kjøbstad, Sognene: Tversted, Uggerby, Bindslev, St.<lb />
+Olai, St, Hans, Vidstrup, Tornby, Horne, Asdal, Bjergby,<lb />
+Mygdal, Sindal, Astrup, Venneberg, Skallerup, Harri??lev, Seilistrup, Rakkeby, Jelstrup, Lyngby, Ruberg og Maarup.	14,097	Hjørring Kjøbstad.<lb />
+
+</table>
+
+
+
+</pb>

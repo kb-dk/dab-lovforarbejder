@@ -1,0 +1,148 @@
+2737
+<pb n="12" />
+<h>
+<coll>2737</coll>
+<topmidle>	Kommissionens Bem. t. Udk. t. L. om den borgerlige Retspleje.
+</topmidle>
+<colr>2738</colr>
+</h>
+<leftside>
+<p>
+Henstand med Sagens Foretagelse, saa snart<lb />
+det stiller sig som overvejende sandsynligt,<lb />
+at en eller anden Omstændighed vil være<lb />
+til Hinder for Sagens Behandling netop<lb />
+paa den Dag, til hvilken den er ansat.<lb />
+Hellere end at lade Sagen komme for og<lb />
+alle vedkommende møde til ingen Nytte<lb />
+blot for at høre et Udsættelsesdekret af-<lb />
+sagt, maa da den trufne Bestemmelse for-<lb />
+andres og Sagens Forhandling udskydes i<lb />
+nogle Dage, i hvilken Tid Hindringerne<lb />
+ofte ville kunne hæves. Med Nutidens Kom-<lb />
+munikationsmidler vil det næsten altid være<lb />
+muligt at give samtlige vedkommende saa<lb />
+betimelig Underretning om den- forandrede<lb />
+Bestemmelse, at de kunne undgaa at møde<lb />
+forgæves (jfr. § 81). Retten maa til dette<lb />
+Øjemed have én aldeles diskretionær Myn-<lb />
+dighed til, naar den enten af sig selv eller<lb />
+ifølge indløbne Oplysninger fra Parter,<lb />
+Vidner eller andre forudser, at Sagens<lb />
+Forhandling vil møde Hindringer, at kunne<lb />
+ansætte den til en anden Dag, uden at<lb />
+Parterne høres herover eller andre Forma-<lb />
+liteter iagttages. Men naturligvis vil det<lb />
+stride imod Parternes Ret, om den af egen<lb />
+Magtfuldkommenhed paa denne formløse<lb />
+og ukontrollerede Maade udskød Sagens<lb />
+Forhandling længere end en kort Tid.<lb />
+Man har dog ikke fundet det nødvendigt<lb />
+at optage den udtrykkelige Grænse af een<lb />
+üge, som det tidligere Forslag satte.<lb />
+</p>
+<wtitle>§ 55.</wtitle>
+<p>
+Medens § 54 handler om Berammelse<lb />
+og Udsættelse af den enkelte Sag, inde-<lb />
+holder § 55 nogle nødvendige Regler om<lb />
+Rettens Myndighed til at afsige berammede<lb />
+saavel som til at afbryde og udsætte alle-<lb />
+rede begyndte Retsmøder. Følgen heraf<lb />
+er naturligvis, at alle de Sager eller For-<lb />
+retninger, som i Retsmødet skulde besør-<lb />
+ges, maa henlægges i en anden Tid.<lb />
+</p>
+<wtitle>§§ 56 og 57</wtitle>
+<p>
+indeholde den almindelige Grundsætning,<lb />
+at alle Retsmøder i civile Sager ere offent-<lb />
+lige. Den Undtagelse, der i § 56 gøres<lb />
+herfra, er selvfølgelig; lignende Undtagel-<lb />
+ser gøres overalt. Det er i § 56 helt over-<lb />
+ladt Rettens Formand at bestemme, hvor-<lb />
+vidt der skal tilstedes enkelte Personer<lb />
+foruden Parterne og disses Rettergangs-<lb />
+fuldmægtige (jfr. Bemærkning til § 44) Ad-<lb />
+gang tii et Retsmøde, der holdes for luk-<lb />
+kede Døre. Den særlige Beføjelse, som<lb />
+det tidligere Forslags § 76 hjemlede Par-<lb />
+terne til at medtage tre andre Personer,<lb />
+er ikke optaget, fordi den ikke ses at have<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+nogen tilstrækkelig Grund og let kunde<lb />
+misbruges.<lb />
+</p>
+<p>
+At Rettens Beslutning om at lade<lb />
+Dørene lukke, ikke kan gøres til Genstand<lb />
+for Klage for højere Ret, stemmer med,<lb />
+hvad der maa anses for gældende Ret,<lb />
+ifølge hvilken ubeføjet Udelukkelse af Offent-<lb />
+ligheden i alt Fald ikke kan antages at<lb />
+være Annullationsgrund; Reglen stemmer<lb />
+derhos med, hvad der overhovedet er Ud-<lb />
+kastets Tanke, nemlig saa vidt muligt at af-<lb />
+skære Klage til højere Ret med deraf føl-<lb />
+gende Besvær og Forhaling, hvor saadan<lb />
+ikke behøves til den materielle Rets Be-<lb />
+skyttelse. Skulde en enkelt Dommer finde<lb />
+paa jævnlig uden Grund at lade Dørene<lb />
+lukke, vil en lejlighedsvis misbilligende Ud-<lb />
+talelse af Overretten sikkert være til-<lb />
+strækkelig til at gøre Ende derpaa.<lb />
+</p>
+<p>
+Retternes Voteringer ere ikke offent-<lb />
+lige, jfr. § 100, 2det Stykke.<lb />
+</p>
+<wtitle>§§ 58 og 59.</wtitle>
+<p>
+Disse Bestemmelser fandtes ikke i det<lb />
+tidligere Forslag.<lb />
+</p>
+<p>
+Bestemmelserne i § 58 ere optagne<lb />
+efter det i den ny norske Straffeproceslovs<lb />
+§116 givne Forbillede og aabenbart hen-<lb />
+sigtsmæssige.<lb />
+</p>
+<p>
+Reglen i § 59 giver for det første et<lb />
+naturligt Supplement til Reglerne i § 149,<lb />
+jfr. § 148, men vil i øvrigt ogsaa kunne<lb />
+anvendes, hvor det i og for sig lod sig<lb />
+gøre at samle det hele Bevismateriale ved<lb />
+Rettens Sæde, men det dermed forbundne<lb />
+Besvær vilde være uforholdsmæssigt i Sam-<lb />
+menligning med at sætte Retten uden for<lb />
+det almindelige Tingsted; med denne Para-<lb />
+graf kan sammenholdes § 12, 2det Stykke,<lb />
+i Udkast til Lov om Domsmagtens Ord-<lb />
+ning.<lb />
+</p>
+<wtitle>§ 60.</wtitle>
+<p>
+Naar det i 2det Stykke udtrykkelig er<lb />
+bestemt, at ogsaa Fogedret og Skifteret<lb />
+skal kunne udøve Rettergangspolitiet, er<lb />
+dette naturlig begrundet derved, at netop<lb />
+disse Retter efter den særlige Maade, hvor-<lb />
+paa de træde i Forhold til Publikum, ere<lb />
+mere udsatte end andre Retter. Naar de<lb />
+ikke for Tiden have saadan Beføjelse, er<lb />
+dette i Virkeligheden en Anomali, frem-<lb />
+kommen som en ren formel Konsekvens<lb />
+af, at disse Retter i øvrigt ikke kunne af-<lb />
+sige eksigible Dekreter.<lb />
+</p>
+<p>
+Den i det tidligere Forslags § 81 inde-<lb />
+holdte Bestemmelse om, at en Straffeken-<lb />
+delse i Medfør af nærværende Paragraf<lb />
+skulde være upaaankelig, har man fundet
+</p>
+</rightside>

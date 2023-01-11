@@ -1,0 +1,75 @@
+2357
+<pb n="105" />
+<h>
+<coll>2357</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2358</colr>
+</h>
+<wtitle>§ 481.</wtitle>
+<p>
+Hvis cler ikke allerede er anlagt Retssag i Anledning af den Fordring, for<lb/>
+hvilken Arrest er gjort, skal Rekvirenten, naar Skyldneren ikke under eller efter For-<lb/>
+retningen har frafaldet Forfølgning, inden en Uge efter Arresten anlægge saadan Sag,<lb/>
+under hvilken han tillige skal nedlægge særskilt Paastand paa, at Arrestens Foretagelse<lb/>
+stadfæstes. Retten kan bestemme, at Spørgsmaal vedrørende Arrestens Stadfæstelse<lb/>
+forhandles særskilt, jfr. § 94.
+</p>
+<p>
+Er Retssag i Anledning af paagældende Fordring svævende ved første Instans,<lb/>
+bliver cler inden fornævnte Frist at anlægge en særskilt Arrestsag ved den samme<lb/>
+Ret, ved hvilken hin Sag behandles. Det er Retten forbeholdt at bestemme, at Ar-<lb/>
+restsagen skal sættes i Forbindelse med Hovedsagen, saavel som at den ene af disse<lb/>
+Sager skal udsættes, indtil den anden er paakendt, jfr. §§ 94 og 95.
+</p>
+<p>
+Er Dom falden i første Instans i Retssagen, hvorunder den Fordring er ind-<lb/>
+talt, for hvilken Arresten er gjort, anlægges Arrestsagen ved den Ret, af hvilken hin<lb/>
+Sag er bleven paakendt. Retten kan i Tilfælde af Anke udsætte Arrestsagens For-<lb/>
+handling i det hele eller for en Del, jfr. § 95.
+</p>
+<p>
+Naar Arrestforfølgning finder Sted som særskilt Sag, er Forligsmægling<lb/>
+unødvendig.
+</p>
+<p>
+Reglerne om Arrestens og Fordringens Forfølgning blive med de fornødne<lb/>
+Lempelser at anvende, naar Arrest er afværget ved Sikkerhedsstillelse.
+</p>
+<p>
+Arrest for Bodmerigæld behøver ikke at forfølges til Stadfæstelse.
+</p>
+<wtitle>§ 482.</wtitle>
+<p>
+Kommer Skyldneren, efter at Arresten er gjort, under Konkurs, eller dør han,<lb/>
+og offentligt Skifte uden Gælds Vedgaaelse finder Sted efter ham, bortfalder Arrest-<lb/>
+rekvirentens Forpligtelse til at anlægge Retssag i Anledning af Fordringen eller<lb/>
+Arresten. Den af Rekvirenten i Anledning af Arresten stillede Sikkerhed løsgives dog<lb/>
+først, naar 8 Uger ere gaaede efter Arrestens Foretagelse eller, hvis Sag har været<lb/>
+anlagt og hæves, 8 Uger efter Ophævelsen, og der derhos ikke fra Boets Side er rejst<lb/>
+Sag om Erstatning. Er dette sket, maa det endelige Udfald af Sagen afventes.
+</p>
+<wtitle>§ 483.</wtitle>
+<p>
+Under Arrestsagen paakendes det, om Arresten er lovlig gjort. Er Retssag i<lb/>
+Anledning af den paagældende Fordring svævende, og Arrestsagen ikke behandles i<lb/>
+Forbindelse med Hovedsagen, kunne Indsigelser mod Fordringens Rigtighed ikke frem-<lb/>
+føres under Arrestsagen. løvrigt kunne alle andre Indsigelser vedkommende Arrestens<lb/>
+Lovlighed fremsættes og paakendes under Arrestsagen, uden Hensyn til om de tilforn<lb/>
+have været undergivne Fogdens Afgørelse.
+</p>
+<wtitle>§ 484.</wtitle>
+<p>
+Klager fra dens Side, hos hvem Arresten er gjort, sigtende til at bevirke Op-<lb/>
+hævelse af den foretagne Arrest som ulovlig gjort, kunne over for Arrestrekvirenten<lb/>
+alene fremføres henholdsvis under Arrestsagen eller den i Anledning af Fordringen<lb/>
+anlagte Retssag.
+</p>
+<wtitle>§ 485.</wtitle>
+<p>
+Arresten kan ophæves saavel ved Dommen i Arrestsagen som ved Dommen<lb/>
+i Hovedsagen.
+</p>
+<p>
+Arresten bortfalder først, naar Ankefristen for den Dom, hvorved den kendes<lb/>
+ugyldig, er udløben, uden at Anke er iværksat, medmindre andet er bestemt i Dommen.
+</p>

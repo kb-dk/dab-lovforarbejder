@@ -1,0 +1,36 @@
+190
+<pb n="196" />
+<title>Andet Afsnit</title>
+<undertitle>Om Midlerne til Opnelse af Stræffesagers Formål.</undertitle>
+Side.
+<p>Indledende Bemærkninger............................................................          69—61.</p>
+<p>Kapitel I.</p>
+<p>Om Adgang til synlige Bevismidler...................................................         62—67.</p>
+<p>I.Om Ransagning efter synlige Bevismidler.......................            62 — 65.</p>
+<p>II.<lb />
+Andre Midler til at fåe synlige Bevismidler i Hænde............            65—66.</p>
+<p>III.</p>
+<p>Om Beslaglæggelse af Ting, der kunne tjene til Bevis, m. B......            66 — 67.</p>
+<p>Kapitel II.</p>
+<p>Om Vidner.......................................................................          67—73.</p>
+<p>Kapitel III.</p>
+<p>Om Besigtigelser, Syn og skjøn.....................................................          73—75.</p>
+<p>Kapitel IV.</p>
+<p>Om den Sigtedes Indkaldelse   for Retten,   Anholdelse  og   Fængsling   samt om Beslaglæggelse af</p>
+<p>dens Formue, som unddrager sig Forfølguing, m. B.............................          75 — 86.</p>
+<p>Kapitel V.</p>
+<p>Om Afhørelse af den Sigtede og af en privat Anklager...................................         86—87.</p>
+<p>Kapitel VI.</p>
+<p>Om Beslaglæggelse paa den Mistænktes Gods for Omkostninger og Erstatning samt om Forbud...                  88.</p>
+<title>Tredie Afsnit.</title>
+<undertitle>Om Undersøgelsen, forend Anklage er reist, i Sager, som forfølges af Statsanklageren<lb />
+eller Politiet.</undertitle>
+<p>Indledende Bemærkninger.............................................................        88—93.</p>
+<p>Kapitel I.</p>
+<p>Om Efterforskningen.................................................................        93—96.</p>
+<p>Kapitel II.</p>
+<p>Om Forundersøgelsen ved Retten......................................................       96—103.</p>
+<title>Fjerde Afsnit</title>
+<undertitle>Om Anklage for og Sagens Behandling ved Landsretten.</undertitle>
+<p>Kapitel I.</p>
+<p>Om Anklage samt om Henvisning til og Forberedelse af Hovedforhandlingen .,..............        103—114.</p>

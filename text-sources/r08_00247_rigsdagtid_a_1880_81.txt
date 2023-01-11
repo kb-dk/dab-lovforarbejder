@@ -1,0 +1,50 @@
+3857
+<pb n="247" />
+<h>
+<coll>3857</coll>
+<topmidle>Forsi- t. 3. om Strafferetspleien.</topmidle>
+<colr>3858</colr>
+</h>
+<wtitle>§ 387.</wtitle>
+<p>Ved Forhandlingen for Hoiesteret finde Reglerne i §§ 278 og 279 tilsvarende<lb />
+Anvendelse.</p>
+<p>Er den Sigtede ikke fcrngstet har han Ret til at deltage i Modet; er han fængstet,<lb />
+bliver han kun, naar Hoiesterets Formand finder, at »crrlige Grunde tale for at efterkomme<lb />
+hans Begjæring derom, at foranstalte bcnbr^gt til Modet.</p>
+<p>Berettigede til at møde ere fremdeles værgen, som bar paaanket, samt den Sigtedes<lb />
+valgte Forsvarer.</p>
+<p>Udeblivelse af den Sigtede, værgen eller en valgt Forsvarer hindrer ikke Sagens<lb />
+Fremme, naar en offentlig Forsvarer er beskikket.</p>
+<wtitle>§ 388.</wtitle>
+<p>Forhandlingen om Paaankens Gjenstand begynder med, at Formanden lader Re.'s'<lb />
+skriveren oplæse de fremsætte Ankegrunde. Derefter rrholder den Ankende Ordet for at be-<lb />
+grunde sin Anke under Henvisning til og Oplæsning af Landsrettens Dom og Sagens sv-<lb />
+nge Aktstykker, og dernæst Modparten for at imodegaa Anken og at begrunde sin Modanke,<lb />
+bvis en saadan er fremsat.</p>
+<p>Iovrigt finde ved Forhandlingen alle de Regler i fjerde Afsnit Kapitel III Anvendelse,<lb />
+'om itke ere udelukkede ved Forholdets Forskjellighed eller ved særlig Bestemmelse.</p>
+<wtitle>§ 389.</wtitle>
+<p>Anke- eller Modankegrunde, som ikke cre fremsætte for Landsretten, kunne gjores<lb />
+Mldende af eller for den Sigtede, naar de fremsættes for Hoiesteret senest umiddelbart,<lb />
+efterat Realitetsforhandlingen er indledet, men paa et senere Tidspunkt eller af Anklageren<lb />
+kun, naar Hoiesteret finder, at særegne Grunde tale derfor. Findes del, at de nye, frem-<lb />
+komne Ankegrunde gjøre yderligere Forberedelse for Modparten nødvendig, udsætter Høiesteret<lb />
+Sagen derefter.</p>
+<wtitle>§ 390.</wtitle>
+<p>Til Grundlag for Høiestetets Paakjendclse af Vågen tjener Dommen i Forbindelse<lb />
+med Sagens Aktstykker og Udskriften af Retsbogerne. Opstaar der Tvivl om Rigtigheden<lb />
+af det Retsbogen Tilfsrte, kan Hoiesteret indhente yderligere Oplysninger og navnlig Erklæ-<lb />
+ring fra Landsretten; findes det nødvendtgt, at Vidner afhores, sker dette ved Undersogelses-<lb />
+dommeren.</p>
+<p>Naar Sagens Forhandling er tilende, afsiges Dom strax eller dog snarest muligt.</p>
+<wtitle>§ 391.</wtitle>
+<p>Hoiesteret paakjender ordentligvis kun Dommen, forsaavidt paaanket er.</p>
+<p>Dog har Hoiesteret i Embeds medfør at tage i Betragtning til den Sigtedes Fordel:</p>
+<p>1)  naar den Sigtede er idømt Livsstraf,   alle   af   de foreliggende Oplysninger frem-<lb />
+gaaende Paaankegrunde, som kunde være gjort gjældende af eller for den Sigtede,</p>
+<p>2)  i andre Paaanketilfælde saadanne Ankegrunde, som medføre,   at en ny, for den<lb />
+digtede gunstigere Realitetsdom bliver at afsige af Hoiesteret uden Hjemvisning.</p>
+<p>Angaar Dommen flere medsigtede, men ikke for Alles Vedkommende er paaanket,<lb />
+bar Hoiesteret fremdeles i Embeds medfør at paakjende Dommen ogsaa med Hensyn til<lb />
+bem, der ikke have anket, naar det findes, at Ankegrunde, som ifolge denne Paragraf skulle<lb />
+tages i Betragtning i Embeds medfør, ogsaa maa komme saadanne medsigtede til Gode.</p>

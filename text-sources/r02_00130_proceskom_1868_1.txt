@@ -1,0 +1,48 @@
+127
+<pb n="130" />
+<leftside>
+<wtitle>§ 14.</wtitle>
+<p>1ste Stykke  anden Sletning som  i Forslag II.</p>
+<p>Resten af Paragrafen affattes således:<lb />
+Ved..................</p>
+<p>(som i Forslag 1.)</p>
+<p>....................Lands.</p>
+<p>retten.</p>
+<p>Ved Landsretternes særlige Afdelinger behandles de Sager, som indbringes for Landsretten i Henhold til Lov om Strasseretsplejen.<lb />
+Til Behandling ved den sjællandske Landsrets<lb />
+anden særlige Afdeling og de jydske Landsretters særlige Afdelinger kunne tillige henvises<lb />
+borgerlige Retstrætter, forfåvidt det med Hensyn til førestående Bevisførelse skjønnes hen«<lb />
+sigtsmæssigt, at Hovedforhandlingen i Sagen<lb />
+føregår på et Sted udenfor Rettens Sæde,<lb />
+hvor Afdelingen holder Møde.</p>
+<p>Naar den sjællandske Landsrets anden<lb />
+særlige Afdeling eller de jydske Landsretters<lb />
+særlige Afdelinger holde Møde udenfor Rettens Sæde, overtages deres Hverv i ny indkomne Sager i fornødent Omfang henholdsvis<lb />
+af den Første særlige Afdeling eller af Rettens<lb />
+Hovedafdeling.</p>
+<wtitle>§ 15.</wtitle>
+<p>1ste Punktum som i førstag II,</p>
+<p>I 2det Stykke samme Forandring som i</p>
+<title>Forslag II.</title>
+</leftside>
+<rightside>
+<wtitle>§ 14.</wtitle>
+<p>Til Behandling af de Straffesager, der<lb />
+indbringes for Landsretten i Henhold til Lov<lb />
+om Strafferetsplejen. dannes ved den sjællandske Landsret tvende færlige Afdelinger,<lb />
+den ene for Kjøbenhavn med Kjøbenhavns<lb />
+Amtsrådskreds, Roeskilde Amtsrådskreds, Frederiksborg og Holbæk Amter; den anden for<lb />
+Sorø, Præstø, Maribo og Bornholms Amter,<lb />
+samt for hver af de to andre Landsretter een<lb />
+færlig Afdeling.</p>
+<p>Til Behandling ved den sjællandske Landsrets anden særlige Afdeling og ved den jydske<lb />
+Landsrets særlige Afdeling kunne tillige henvises borgerlige Retstrætter, naar det med<lb />
+Hensyn til førestående Bevisførelse skjønnes<lb />
+hensigtsmæssigt, at Hovedforhandlingen i Sagen føregår på et Sted udenfor Rettens<lb />
+Sæde, hvor Afdelingen holder Møde (§ 20).</p>
+<p>Naar den sjællandske Landsrets anden særlige Afdeling eller den jydske Landsrets særlige<lb />
+Afdeling holder Møde osv. (som førstag III<lb />
+sidste Stykke).</p>
+<wtitle>§ 15.</wtitle>
+<p>Som førstag III.</p>
+</rightside>

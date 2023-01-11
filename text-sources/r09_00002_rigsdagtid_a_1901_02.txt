@@ -1,0 +1,77 @@
+2151
+<pb n="2" />
+<h>
+<coll>2151</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2152</colr>
+</h>
+<wtitle>§ 3.</wtitle>
+<p>
+Sagens Værdi bestemmes efter Paastanden i Stævningen. Bestaar Søgsmaalet<lb/>
+af flere Poster eller Fordringer, sammenlægges disse. Ved Krav paa noget mod Er-<lb/>
+læggelse af en Modpræstation medregnes denne ikke.
+</p>
+<p>
+Der tages intet Hensyn til Procesomkostninger og de ved Stævningens Dato<lb/>
+endnu ikke forfaldne Renter, ej heller til senere Nedsættelse af Paastanden.
+</p>
+<wtitle>§ 4.</wtitle>
+<p>
+Drejer Sagen sig om Rettigheden til periodiske Ydelser eller Indtægter, bliver<lb/>
+dens Værdi at bestemme efter følgende Regler:
+</p>
+<p>
+1)	Ere aarlige Ydelser eller Indtægter erhvervede, betingede eller tilsagte for be-<lb/>
+standig eller for flere end de ved Sagens Anlæg (§ 84) levende Personers Livs-<lb/>
+tid eller for et bestemt Tidsrum, der ikke er kortere end 25 Aar efter det<lb/>
+nævnte Tidspunkt, bliver Værdien af Rettigheden at sætte lig med det 25-dob-<lb/>
+belte af et Aars Beløb.
+</p>
+<p>
+2)	Ere aarlige Ydelser eller Indtægter erhvervede, betingede eller tilsagte for en<lb/>
+enkelts eller flere ved Sagens Anlæg levende Personers Livstid eller i øvrigt for<lb/>
+ubestemt Tid, sættes Rettighedens Værdi lig med det 5-dobbelte af et Aars Beløb.
+</p>
+<p>
+3)	Kunne Ydelser eller Indtægter ikkun oppebæres et bestemt Antal Gange, sættes<lb/>
+Rettighedens Værdi lig med en enkelt Ydelses Beløb taget dette Antal Gange,<lb/>
+dog ingensinde over 25.
+</p>
+<p>
+Er Beløbet af aarlige Ydelser eller Indtægter ikke lige stort de forskellige<lb/>
+Aar, tages Gennemsnitsbeløbet som Enhed.
+</p>
+<wtitle>§ 5.</wtitle>
+<p>
+Lyder Paastanden ikke paa en bestemt Pengesum, ansættes Værdien af dens<lb/>
+Genstand ved Rettens Skøn.
+</p>
+<wtitle>§ 6.</wtitle>
+<p>
+I de i de tvende foregaaende Paragraffer omhandlede Tilfælde er Rettens Af-<lb/>
+gørelse, for saa vidt den gaar ud paa at erklære sig kompetent til at paakende Sagen,<lb/>
+ikke Genstand for Anke eller Kære; nægter Retten at antage Sagen, er dens Afgø-<lb/>
+relse Genstand for Kære til højere Ret, men ikke for Anke.
+</p>
+<wtitle>§ 7.</wtitle>
+<p>
+Er Sagens Værdi afgørende for Kompetencespørgsmaalet, maa den Part, som<lb/>
+paastaar den højere Værdi, føre Bevis derfor.
+</p>
+<p>
+I øvrigt paahviler det Sagsøgeren at oplyse, at Sagen hører under Underret.
+</p>
+<wtitle>§ 8.</wtitle>
+<p>
+Imod Søgsmaal, der i Henhold til § 2 ere anlagte ved Underret, kunne Mod-<lb/>
+fordringer gøres gældende, naar i øvrigt de almindelige Betingelser for disses Frem-<lb/>
+sættelse ere til Stede (§ 85). Selvstændig Dom for Modfordringen eller den over-<lb/>
+skydende Del af samme kan dog, hvis Modparten modsætter sig det, kun gives, for<lb/>
+saa vidt Dommen ikke herved kommer til at lyde paa noget højere Beløb end 400<lb/>
+Kr. (§ 2, jfr. §§ 3, 4 og 5), eller saafremt Modfordringen kunde forfølges ved Under-<lb/>
+ret, dersom den gjordes gældende under en selvstændig Sag.
+</p>
+<p>
+Imod Søgsmaal, der svæve for Landsret, kunne Modfordringer fremføres uden<lb/>
+Hensyn til, at de, i og for sig betragtede, vilde henhøre under Underret.
+</p>

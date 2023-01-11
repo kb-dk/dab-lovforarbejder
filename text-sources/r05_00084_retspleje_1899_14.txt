@@ -1,0 +1,33 @@
+78
+<pb n="84" />
+<h>
+<topmidle>78     Kap. XVIII. Behandl. ved Landsret.</topmidle>
+</h>
+<p>Når Formaliteten er indladt, ere alle<lb />
+de Indsigelser vedrørende Formaliteten indtil dette Tidspunkt, som kunne frafaldes,<lb />
+udelukkede fra at komme i Betragtning.</p>
+<p>Angår Domsforhandlingen alene Formaliteten, skal Retten i Tilfælde af, at Sagen<lb />
+ikke i det hele afvises, ved Formalitetskendelsens Afsigelse efter Omstændighederne fastsætte<lb />
+de for Skriftvekslingen i Realiteten nødvendige Frister eller beramme et Retsmøde til ny<lb />
+Domsforhandling. Udebliver Sagsøgte da<lb />
+uden at have svaret i Realiteten eller ved<lb />
+Domsforhandlingen, finde de i § 204 indeholdte Regler tilsvarende Anvendelse.</p>
+<wtitle>§ 218.</wtitle>
+<p>Domsforhandlingen foregår på Grundlag af Skriftsvekslingen og det Retsbogen<lb />
+tilførte. Når en Part under Forhandlingen helt eller delvis frafalder Påstande,<lb />
+Benægtelser o. desl. eller gør Indrømmelser, er Modparten berettiget til at så fornøden Tilførsel herom optaget i Retsbogen.<lb />
+Vil en Part fremsætte Påstande eller Anbringender, på hvilke Modparten ikke er<lb />
+bleven forberedt gennem det skriftlige Grundlag, bliver det efter Begæring ved Rettens<lb />
+Kendelse at nægte, såfremt deres Fremsættelse vilde medføre Forhandlingens Udsættelse, medmindre det skønnes at være<lb />
+undskyldeligt, at de ikke tidligere ere meddelte. Tilstedes deres Fremsættelse, optages<lb />
+de i Retsbogen, og Forhandlingen bliver<lb />
+efter den deri interesserede Parts Begæring<lb />
+at udsætte ganske eller til Dels, forsåvidt det er nødvendigt til Varetagelse af<lb />
+hans Tarv.</p>
+<p>Tilsvarende Regler gælde om fremførelse af Beviser, om hvis Fremkomst Modparten ikke har erholdt så betimelig Meddelelse, at han har kunnet forberede sig<lb />
+tilstrækkelig.</p>
+<wtitle>§ 219.</wtitle>
+<p>Ved Domsforhandlingen gives i Reglen<lb />
+Ordet først til Sagsøgeren, men Rettens<lb />
+Formand kan  gøre Afvigelse  herfra.    Han</p>
+<p>bestemmer ligeledes,  om Parternes Afhøjelse</p>

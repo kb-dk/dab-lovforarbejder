@@ -1,0 +1,96 @@
+3913
+<pb n="1220" >
+<p rend="page">1220</p>
+<h>
+<coll>3907</coll>
+<colr>3908</colr><lb />
+</h>
+<leftside>
+<maintitle>
+Forskrifter for Forretningsordenen i Rigsforsamlingen.<lb />
+</maintitle>
+<p>
+<law n="1220" />§ 1. Forsamlingens Embedsmænd ere: En Formand, to Vice-Formænd og fire Sekreterer. De vælges paa fire Uger, men kunne gjenvælges. Ingen kan uden Forsamlingens Samtykke undslaae sig for at modtage Valget.<lb />
+<law n="1220" />§ 2. Til Valg af Formænd udkræves over Halvdelen af Stemmerne;<lb />
+opnaaes dette ikke ved den første Afstemning, saa foretages et nyt frit<lb />
+Valg. Vindes eiheller da den forlangte Stemmefleerhed, saa indskrænkes<lb />
+Stemmegivningen til de to Medlemmer, der havde de fleste Stemmer ved<lb />
+andet Valg; have Flere lige Stemmer, gjør Alderen Udslaget. Efter samme<lb />
+Forskrift forholdes ved Valget af Vice-Formænd, hvorimodd Sekretererne<lb />
+vælges ved simple Stemmefleerhed.<lb />
+<law n="1220" />§ 3. Formanden leder Forhandlingerne i Forsamlingen og sørger for,<lb />
+at god Orden vedligeholdes. Han modtager alle Meddelelser til Forsamlingen og forestaaer dens Udfædigelser; ligeledes forestaaer han Forsamlingens Regnskabsvæsen. Vil han tage videre Deel i Forhandlingerne end<lb />
+den, der hører til Formandens Virksomhed som saadan, maa han imidlertid overlade Forsædet til en af Vice-Formændene.<lb />
+<law n="1220" />§ 4. Ogsaa i Formandens Forfald træder efter hans Anmodning en<lb />
+af Vice-Formændene i alle Henseender i hans Sted.<lb />
+<law n="1220" />§ 5. Sekretererne føre under Formandens Tilsyn en kortfattet Protokol, hvori Forhandlingernes Gjenstand og Udfald optages; den oplæses<lb />
+ved Begyndelsen af det følgende Møde. De samle fremdeles Stemmerne<lb />
+ved Afstemningen, efter først selv at have afgivet deres Stemme. Forretningerne fordeles mellem dem efter Aftale med Formanden.<lb />
+<law n="1220" />§ 6. Formanden bestemmer ved Slutningen af hvert Møde Dagsordenen for næste Møde. Dog kunne 15 Medlemmer forlange, at den<lb />
+fastsættes ved Forsamlingens Beslutning.<lb />
+<law n="1220" />§ 7. Forsamlingens Medlemmer fordeles af Formanden ved Lodtrækning i 5 Afdelinger, over hvilke Forsamlingens Sekreterer affatte Listerne.<lb />
+Hver Afdeling maa, saavidt muligt, bestaae af lige mange Medlemmer; den<lb />
+vælger under Ledelse af Afdelingens ældste Medlem strax med absolut<lb />
+Stemmefleerhed en Formand samt en Sekreteer, der dog ikke optegner Forhandlingerne; den Forhandler, dog uden Afstmning, enhver Sag, der af<lb />
+Forsamlingen henvises til den og udnævner efter endt Forhandling med absolut Stemmefleerhed de teller de Medlemmer af Comiteen, som den har<lb />
+at vælge. Naar Omvalg af Forsamlingens Embedsmænd finder Sted, afgjør Forsamlingen tillige, hvorvidt en ny Fordeling af dens Medlemmer<lb />
+skal foretages, og i bekræftende Fald forholdes paa den ovenanførte Maade;<lb />
+dog at de ældre Afdelinger blive i deres Virksomhed med Hensyn til de<lb />
+alleredeee begyndt Sager. Til samme Tid foreteges Omvalg af Formand<lb />
+og Sekreterer i Afdelingerne.<lb />
+<law n="1220" />§ 8. Ved en Sags Henviisning til Afdelingerne fastsætter Forsamlingen, af hvormange Medlemmer den Comitee skal bestaae, der skal afgive en skriftlig Betænkning om Sagen, og bestemmer, om denne Comitee<lb />
+enten alene skal vælges gjennem Afdelingerne, eller forstærkes ved et vist<lb />
+Antal frit valgte Medlemmer.<lb />
+<law n="1220" />§ 9. Ogsaa naar Forsamlingen beslutter, i en Sag at nedsætte en<lb />
+Comitee, uden at henvise den til Behandling i Afdelingerne, bestemmer<lb />
+den, om denne Comitee skal vælges enten af Forsamlingen i almindeligt<lb />
+Møde, eller i Afdelingerne, og i sidste Tilfældee on den skal forstærkes ved<lb />
+frit Valg af Forsamlingen.<lb />
+<law n="1220" />§ 10. Comiteen udnævner en Formand og en Sekreteer, samt efter<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+endt Forhandling en Ordfører. Den af Comiteen afgivne Betænkning trykkes og omdeles 3 Dage, førend den foretages i Forsamlingen.<lb />
+<law n="1220" />§ 11. Ethvert Lovforslag skal underkaftes tre Behandlinger.<lb />
+<law n="1220" />§ 12. Ved den første Behandling i Forsamlingen kan ethvert Medlem gjentagende forlange Ordet, kræve Oplysninger af Comiteens Ordfører<lb />
+eller af Regjeringens Medlemmer og fremsætte Forslag til Udeladelse, Tillæg eller andre Forandringer i Udkastet.<lb />
+<law n="1220" />§ 13. Ved den anden Behandling kunne kun saadanne Forslag foretages, der ifølge Forbeholde eller i Henhold til den foreløbige Behandling<lb />
+ere stillede inden 48 Timer efter hele den første Behandlings Slutning, og<lb />
+som understøttes af idetmindste eet Medlem. Spørgsmaalet om, hvorvidt et<lb />
+anmeldt Forslag i Henhold til den første Behandling kan stilles, afgjøres,<lb />
+dersom Formanden har Tvivl eller 15 Medlemmer Forlange det, af Forsamlingen, men uden videre Forhandling, end at Forslagsstilleren og Formanden<lb />
+eller Eet af de 15 Medlemmer kunne udtale sig.<lb />
+</p>
+<p>
+Forslag om Deling af Afstemningen over en Paragraph eller et<lb />
+Ændringsforslag maae, for at komme i Betragtning, anmeldes ved Begyndelsen af den endelige Behandling af Paragraphen. Det Samme gjælder i<lb />
+Henseende til Forslag om Forening af tvende særskilte Ændringsforslag under een Afstemning.<lb />
+<law n="1220" />§14. Ved den anden Behandlingen have Medlemmerne, med Undtagelse af Ordføreren, kun Ret til at tale een Gang om hver Paragraph eller<lb />
+hvert mindre Afsnit, der særskilt stilles til Forhandling. Umiddelbart efter<lb />
+Forhandlingen af hver saadan Paragraph eller hvert saadant Afsnit skrides<lb />
+til Afstemning herover.<lb />
+<law n="1220" />§ 15. Naar forskjelligee Paragrapher gjensidigen betinge eller have<lb />
+væsentlig Indflydelse paa hinanden, kan Forsamlingen, efter Forslag af Formanden eller femten Medlemmer, førend den endelige Behandling af saadanne Paragrapher begynder, vedtage en dobbelt Afstemning af samme.<lb />
+Efterat den første Afstemning er foregaaet, kan saavel Comiteen som Forsamlingens enkelte Medlemmer gjøre Ændringsforslag. Disse Forslag skulle<lb />
+være indleverede til Formanden 24 Timer efter den første Afstemning og<lb />
+meddeelte Forsamlingen 24 Timer førend den anden Afstemning. Ved denne<lb />
+ville vedkommende Paragrapher med de stillede Ændringsforslag, de sidste<lb />
+forsaavidt de understøttes af idetmindste eet Medlem, komme under ny Behandling og Afstemning. Saavel ved den første som ved den anden Afstemning kunne Medlemmerne, med Undtagelse af Ordføreren, knn tale een<lb />
+Gang om hver Paragraph eller hvert Afsnit, der sæskilt stilles til Forhandling.<lb />
+<law n="1220" />§ 16. Ligeledes kan Forsamlingen, efter Forslag af Forrmanden eller<lb />
+femten Medlemmer, i et foregaaende Møde vedtage en saadan dobbelt Afstemning, naar der ved en Paragrapg eller ved en Samling af Paragrapher<lb />
+er gjort flere Forslag af saadan Bestaffenhed, at dersom det ene forkastes,<lb />
+Forandringer kunne ønstes i de andre. I dette Tilfældee behandles det ene<lb />
+Forslag efter det andet, i den Orden Formanden fastsætter, indtil eet er<lb />
+antaget. Naar det første Forslag er forkastet, kau man til det næste, der<lb />
+foretages i et følgende Møde, stille nye Ændringsforslag, og saa fremdeles.<lb />
+Disse Forslag skulle være indeleverede til Formanden inden en saadan Tid<lb />
+efter det første Mødes Slutning, som Formanden fastsætter, og meddeles<lb />
+Forsamlingen senest ved Begyndelsen af det Møde, hvori det næste Forslag<lb />
+skal behandles. Det ved første Afstemning foreløbigen antagne Forslag behandles tilligemed de stillede Ændringsforslag paany i et følgende Møde og<lb />
+</p>
+</rightside>
+
+
+</pb>

@@ -1,0 +1,35 @@
+10
+<pb n="13" />
+<p>Forretninger er Stadsretten delt i 12 Kamre,<lb />
+som hvert overtages af en Dommer, der behandler de til Kammeret hentagte Sager som<lb />
+Enkeltdommer. Forretningernes Fordeling mellem<lb />
+Kamrene bestemmes af Formanden med Iustitsministerens Villigelse. Formanden fordeler,<lb />
+efter Forhandling med Rettens øvrige Medlemmer, Kamrene imellem Medlemmerne. Naar<lb />
+det gjøres fornødent, kan Formanden overdrage<lb />
+til et Medlem af Netten midlertidig eller i<lb />
+enkelte Sager tillige at udfore Forretninger i<lb />
+et andet Kammer end det ham tildelte.</p>
+<wtitle>§ 28.</wtitle>
+<p>Skjøde- og Pantebøgernes forelse horer<lb />
+linder Pante- og Brevskriverkontoret. Beslutninger vedkommende Førelsen kunne tages af<lb />
+Pante- og Brevskriveren eller en Fuldmægtig.<lb />
+Stadsrettens Formand fansætter, efter Forhandling med Pante- og Brevskriveren, Forretningernes Fordeling.</p>
+<p>Thinglæsninger og Aflysninger foregaa<lb />
+ved de Kamre, som behandle borgerlige Domssager; Formanden fastsætter Fordelingen med<lb />
+Justitsministerens Billigelse.</p>
+<wtitle>§ 29.</wtitle>
+<p>Skriverforretningerne ved Stadsrettens<lb />
+førstjellige Kamre, samt Oppebørsel af og<lb />
+Regnskabsaflæggelse for Retssportler, høre under Rettens Skriverkontor. Fogedforretninger,<lb />
+og de til Skifteforvaltningen horende Forretninger kunne, forfaavidt der ikke derved bliver<lb />
+Spørgsmaal om Afgjørelse af Tvistigheder, efter<lb />
+Dommerens Bestemmelse udføres af den Fuld<lb />
+mægtig, søm er tildelt det paagjældende<lb />
+Kammer.</p>
+<p>Stadsrettens Formand fastsætter, efter<lb />
+Forhandling med Byskriveren, Forretningernes<lb />
+Fordeling.</p>
+<wtitle>§ 30.</wtitle>
+<p>Om Tiden for ordentlige Møder i de<lb />
+Kamre af Stadsretten, der behandle Domssager, trasser Stadsrettens Formand med Justitsministeriets Billigelse Bestemmelser, som<lb />
+offentliggjøres; overordentlige Møder kunne berammes   af   Dommeren   i   det   paagjældende</p>

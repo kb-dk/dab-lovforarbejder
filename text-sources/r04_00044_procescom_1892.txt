@@ -1,0 +1,40 @@
+44
+<pb n="44" />
+<h>36    Kap. X.   Rådslagninger og Afgørelser.</h>
+<wtitle>§ 96.</wtitle>
+<p>I de Tilfælde, hvor en efter Loven<lb />
+tilstedelig Afvigelse fra de almindelige Regler betinges af en forudgående Beslutning<lb />
+af en Ret, ved hvilken den Sag, med Hensyn til hvilken Spørgsmålet opstår, ej er<lb />
+tingfæstet, bliver Spørgsmålet skriftlig at<lb />
+forelægge Retten. Er denne Højesteret eller<lb />
+en Landøret, træffes Afgørelsen af Formanden med to Medlemmer af Retten eller,<lb />
+hvor sådant særlig er bestemt, af Formanden. Retten tager Beslutning på Grundlag af det forelagte samt de yderligere Oplysninger og Erklæringer, som måtte være<lb />
+indhentede: findes det nødvendigt, at Vidner<lb />
+afhøres, sier dette ved en Undersøgelsesret.<lb />
+Mundtlig Forhandling finder ikke Sted,<lb />
+medmindre Formanden af særegne Grunde<lb />
+finder Anledning til at beslutte en saadan:<lb />
+dog er Retsmødet i så Fald ikke offentligt.<lb />
+De i denne Paragraf ommeldte afgørelser<lb />
+kunne ikke påklages for højere Ret.</p>
+<wtitle>§ 97.</wtitle>
+<p>Retten kan til enhver Tid i Embeds<lb />
+medfør eller ifølge begæring berigtige<lb />
+Skrivfejl, som ere indløbne i Henseende til<lb />
+Ord, Navne eller Tal, blotte Regnefejl,<lb />
+samt sådanne Fejl og Forglemmelser, der<lb />
+alene vedrøre Udfærdigelsens Form.</p>
+<p>Fremdeles kan den også, naar Begæring derom fremkommer inden Ankefristens Udløb, og efter at der er givet<lb />
+Parterne og deres Sagførere Lejlighed til<lb />
+at ytre sig derom, berigtige den i Afgørelsen indeholdte Fremstilling af den faktiske<lb />
+Sammenhæng, forsåvidt denne erkendes<lb />
+at lide af Fejl, bestående i Forbigåelser,<lb />
+Uklarheder eller Modsigelser, men derimod<lb />
+ikke iøvrigt foretage Forandringer enten i<lb />
+Begrundelsen eller Resultatet. Beslutning<lb />
+angående stige Berigtigelser træffes, og Meddelelse om dem sker efter de samme Regler,<lb />
+som gælde for den oprindelige afgørelse.</p>
+<p>Den i Henhold til Rettens Beslutning<lb />
+berigtigede afgørelse træder i alle Henseender i Stedet for den oprindelige. Beslutning<lb />
+angående Berigtigelse er ikke Genstand for<lb />
+Anke eller kære.</p>

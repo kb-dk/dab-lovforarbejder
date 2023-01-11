@@ -1,0 +1,75 @@
+2031
+<pb n="152" />
+<h>
+<coll>
+2031
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2032
+</colr>
+</h>
+<wtitle>§  692.</wtitle>
+<p>
+Den til Rigsanklagerens Bistand beskikkede Overanklager er beføjet til efter<lb />
+Paalæg af Rigsanklageren eller, i Tilfælde af dennes Forhindring, uden Paalæg at<lb />
+foretage enhver Embedshandling, som hører under Rigsanklagerens Virkekreds.
+</p>
+<wtitle>§  693.</wtitle>
+<p>
+De for Landsretskredsene beskikkede Overanklag ere virke for Forfølgning af<lb />
+alle Forbrydelser, der ikke ere henviste til Paatale af private eller af Politimyndig-<lb />
+hederne (§ 699), hvad enten Paadømmelsen i første Instans sker ved Landsret eller ved<lb />
+en Underret i Landsretskredsen; endvidere varetage de det offentliges Tarv i Hen-<lb />
+seende til Paaanke af Underretternes Domme i Politisager.
+</p>
+<p>
+Rigsanklageren kan paalægge en Overanklager at overtage i det hele eller for<lb />
+en Del det offentlige Anklagerhverv i en Sag, som hører under en anden Overanklagers<lb />
+Forretningskreds.
+</p>
+<p>
+Det paahviler Overanklagerne at gøre Indberetning til Rigsanklageren, naar<lb />
+tvivlsomme eller særdeles vigtige Spørgsmaal opstaa i de Sager, som de behandle.
+</p>
+<p>
+Overanklagernes Medhjælpere ere beføjede til efter Paalæg af Overanklageren<lb />
+eller, i Tilfælde af dennes Forhindring, uden Paalæg at foretage enhver Embeds-<lb />
+handling, som hører under Overanklagerens Virkekreds.
+</p>
+<wtitle>§  694.</wtitle>
+<p>
+De ved Underretterne ansatte Anklagere have efter Paalæg af Overanklageren<lb />
+at udføre Sager for Underretterne.
+</p>
+<title>
+Kapitel 65.
+</title>
+<title>
+Paatalen.
+</title>
+<wtitle>§  695.</wtitle>
+<p>
+Retterne træde i de under denne Lov hørende Sager kun i Virksomhed ifølge<lb />
+Begæring af nogen, hvem Ret til Paatale tilkommer, for saa vidt ikke Undtagelse er<lb />
+særlig hjemlet, jfr. §§ 863 og 874.
+</p>
+<wtitle>§  696.</wtitle>
+<p>
+Forfølgning kan frafaldes, saa længe ikke Dom er afsagt eller henholdsvis Næv-<lb />
+ningernes Erklæring afgiven. Frafaldes Paatale, efter at Domsforhandling er begyndt,<lb />
+afsiger Retten Frifindelsesdom. Naar ellers en begyndt Forfølgning frafaldes, udsteder<lb />
+Retten paa Forlangende et skriftligt Vidnesbyrd herom.
+</p>
+<wtitle>§  697.</wtitle>
+<p>
+Paatalen tilkommer efter de nedenstaaende Regler Overanklageren, Politi-<lb />
+mesteren, særlige Forvaltningsmyndigheder og private.
+</p>
+<wtitle>§  698.</wtitle>
+<p>
+I alle Sager, hvis Forfølgning ikke er henvist til Politimesteren eller private<lb />
+(§§ 699 og 703), tilkommer det Overanklageren at paatale for den dømmende Ret. For-
+</p>

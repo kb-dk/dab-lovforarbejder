@@ -1,0 +1,172 @@
+2385
+<pb n="12" />
+<h>
+<coll>2385</coll>
+<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
+<colr>2386</colr>
+</h>
+<leftside>
+<wtitle>Til § 219.</wtitle>
+<p>
+1.	Stk., L. 9: „§ 101" 1. „§ 765".
+</p>
+<wtitle>Til § 221.</wtitle>
+<p>
+3. Stk., L. 1 og 3: '„§ 58" 1. „§ 722".
+</p>
+<p>
+3.	Stk., L. 2: „§ 59" 1. „§ 723"'.
+</p>
+<wtitle>Til § 222.</wtitle>
+<p>
+2.	Stk., L. 2: „§ 221" 1. „§ 886".
+</p>
+<wtitle>Til § 223.</wtitle>
+<p>
+L. 5: „§§ 219—222" 1. „§§ 884—887".
+</p>
+<wtitle>Til § 224.</wtitle>
+<p>
+1.	Stk., L. 4—5: „§§ 219—223'' 1. ,.§§ 884<lb/>
+—888".
+</p>
+<p>
+2.	Stk., L. 1: „Kap. XX." 1. „Kap. 80".
+</p>
+<wtitle>Til § 230.</wtitle>
+<p>
+1.	Stk., L. 2: „§ 228" 1. „§ 893".
+</p>
+<p>
+2.	Stk., L. 4 og 7: „§§ 221 og 223" 1. „§§<lb/>
+886 og 888".
+</p>
+<wtitle>Til § 236.</wtitle>
+<p>
+1. Stk., L. 1: „§ 71" 1. „§ 735".
+</p>
+<wtitle>Til § 241.</wtitle>
+<p>
+4.	Stk., L. 2: „§ 228" 1. ,,§ 893".
+</p>
+<wtitle>Til § 245.</wtitle>
+<p>
+1.	Stk., L. 2: „§ 257" 1. „§ 916«.
+</p>
+<wtitle>Til § 248.</wtitle>
+<p>
+2.	Stk., L. 11: „§ 234" 1. „§ 899"-
+</p>
+<p>
+2. Stk., L. 15: „§ 102, jfr. §§ 124 og 131".
+</p>
+<p>
+1. „§§ 766, jfr. §§ 788 og 795".
+</p>
+<wtitle>Til § 249.</wtitle>
+<p>
+2. Stk., L. 1: „§ 248" 1. „§ 913".
+</p>
+<wtitle>Til § 254.</wtitle>
+<p>
+1.	Stk., L. 3: „§ 327" 1. „§ 993".
+</p>
+<wtitle>Til § 258.</wtitle>
+<p>
+2.	Stk, L. 3: „§ 267" 1. „§ 932".
+</p>
+<wtitle>Til § 260.</wtitle>
+<p>
+L. 7: „§ 12" 1. „§ 676".
+</p>
+<wtitle>Til § 261.</wtitle>
+<p>
+3.	Stk, L. 3 : „§ 72" 1. „§ 73".
+</p>
+<wtitle>Til § 264.</wtitle>
+<p>
+1. Stk, L. 1: „§ 263" 1. „§ 928".
+</p>
+</leftside>
+<rightside>
+<wtitle>Til § 265.</wtitle>
+<p>
+L. 1: ,,§§ 263 og 264" 1. §§ 928 og 929".
+</p>
+<wtitle>Til § 269.</wtitle>
+<p>
+L. 1: „§ 152" 1. „§ 816".
+</p>
+<wtitle>Til § 270.</wtitle>
+<p>
+1.	Stk., L. 1: „§ 269" 1. „§ 934".
+</p>
+<p>
+2.	Stk., L. 6: „§ 110" 1. „§ 774".
+</p>
+<p>
+3.	Stk., L. 2: „§ 272" 1. „§ 937".
+</p>
+<wtitle>Til § 272.</wtitle>
+<p>
+1. Stk., L. 1: „§ 269" 1. „§ 934".<lb/>
+1. Stk., L. 3: „§ 242" 1. ,,§ 907".
+</p>
+<wtitle>Til § 275.</wtitle>
+<p>
+L. 5: „§ 257" 1. „§ 922".
+</p>
+<wtitle>Til § 279.</wtitle>
+<p>
+L. 1: „§§ 280 og 281" 1. „§§ 945 og 946".
+</p>
+<wtitle>Til § 285.</wtitle>
+<p>
+3. Stk., L. 1: ,,§§ 286—289" 1. „§§ 951<lb/>
+—954".
+</p>
+<wtitle>Til § 286.</wtitle>
+<p>
+3. Stk., L. 1: „§ 271" 1. „§ 936".
+</p>
+<p>
+5. Stk., L. 1: „§§ 286—289" 1. „951—954".
+</p>
+<wtitle>Til § 287.</wtitle>
+<p>
+3. Stk. L. 3.: „§§ 280 og 281" 1. „§§ 945<lb/>
+og 946".
+</p>
+<wtitle>Til § 293.</wtitle>
+<p>
+1.	Stk. L. 4: „§ 280" 1. „945".
+</p>
+<p>
+2.	Stk. L. 2: „§ 297" 1. „§ 962".
+</p>
+<wtitle>Til § 295.</wtitle>
+<p>
+2. Stk. L. 6: „§ 297'' 1. „§ 962''.
+</p>
+<wtitle>Til § 296.</wtitle>
+<p>
+1. Stk. L. 2: „§293'' 1. „§ 958" og ,.§295"<lb/>
+1. „§ 960".
+</p>
+<p>
+1. Stk. L. 3: „§ 294" 1. ,,§ 959".
+</p>
+<wtitle>Til § 298.</wtitle>
+<p>
+L. 3: „§ 301" 1. „§ 966".
+</p>
+<wtitle>Til § 299.</wtitle>
+<p>
+1.	Stk. L. 1: „§§ 258, 269 og 272—274"<lb/>
+1. „§ 923, 934 og 937—939".
+</p>
+<p>
+2.	Stk. L. 4: „§§ 274 og 296" 1. „§§ 939<lb/>
+og 961".
+</p>
+</rightside>

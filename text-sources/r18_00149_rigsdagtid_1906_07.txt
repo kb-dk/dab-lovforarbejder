@@ -1,0 +1,77 @@
+3937
+<pb n="149"/>
+<h>
+<coll>3937</coll>
+<topmidle>Tillæg A. (247).	Ordentlig Samling 1906.</topmidle>
+<colr>3938</colr>
+</h>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<p>
+Fjerde Bog.<lb />
+Strafferetsplejen.
+</p>
+<htitle>Første Afsnit.</htitle>
+<title>
+Almindelige Bestemmelser.
+</title>
+<title>Kapitel 58.</title>
+<undertitle>
+Strafferetsplejens Omraade.
+</undertitle>
+<wtitle>§ 660.</wtitle>
+<p>
+Alle Spørgsmaal om Straf, som ikke i Medfør af særlig Hjemmel i Lovgiv-<lb />
+ningen afgøres uden særlig Straffesag eller behandles i den borgerlige Retsplejes For-<lb />
+mer eller henhøre under særlige Domstole, behandles efter de i denne Bog fast-<lb />
+satte Regler. Det samme gælder Ærefornærmelser i navnløse eller med urigtigt eller<lb />
+opdigtet Navn forsynede Skrivelser, for saa vidt den fornærmede forlanger offentlig<lb />
+Paatale, samt Sager om Erstatning eller Æreserklæring for uforskyldt Anholdelse<lb />
+eller Erstatning for uforskyldt Varetægtsarrest eller for uforskyldt Udstaaelse af Straf.
+</p>
+<wtitle>§ 661.</wtitle>
+<p>
+Efter denne Bogs Regler behandles endvidere, uden Hensyn til, om der sam-<lb />
+tidig nedlægges Paastand om Straf eller ikke:
+</p>
+<p>
+1)	Sager, der anlægges af det offentlige for Overtrædelse af Love om Politivæsenet,<lb />
+Bygningsvæsenet, Landbovæsenet og lignende;
+</p>
+<p>
+fremdeles Sager, hvorunder det offentlige nedlægger Paastand om:
+</p>
+<p>
+2)	Ophævelse af en Forening;
+</p>
+<p>
+3)	Stadfæstelse af Forbud mod Udbredelse af et fremmed Skrift;
+</p>
+<p>
+4)	Anvendelse af Straffelovens § 299;
+</p>
+<p>
+5)	Sikkerhedsforanstaltninger i Henhold til Straffelovens § 38, 2det Stykke;
+</p>
+<p>
+6)	Udvisning af Riget i Henhold til Straffelovens § 16;
+</p>
+<p>
+7)	Forbrydelse af Penge eller Gods;
+</p>
+<p>
+8)	Forbrydelse af Embede, Bestilling, Rang, Titel, Orden eller Hæderstegn;
+</p>
+<p>
+9)	Forbrydelse af Næringsadkomst;
+</p>
+<p>
+10)	Forbrydelse af Arveret eller
+</p>
+<p>
+11)	Omstødelse af Ægteskab, som er indgaaet trods et Slægtskabs- eller Svogerskabs-<lb />
+forhold, der er ubetinget Ægteskabshindring, eller trods et endnu bestaaende<lb />
+Ægteskab.
+</p>
+<p>
+Forelagte Lovforslag m. m.	247
+</p>

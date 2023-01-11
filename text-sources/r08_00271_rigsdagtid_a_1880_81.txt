@@ -1,0 +1,39 @@
+3905
+<pb n="271" />
+<h>
+<coll>3905</coll>
+<topmidle></topmidle>
+<colr>3906</colr>
+</h>
+<title>LXXIV</title>
+<title>Forslag til Lov</title>
+<undertitle>om</undertitle>
+<undertitle>Retsafgifter</undertitle>
+<undertitle>«Fremsat i Folkethmget den i?de December 1880 af Justitsminister Nellemann).</undertitle>
+<title>Forfte Afsnit.</title>
+<undertitle>Almindelige Bestemmelser om Retsafgifter.</undertitle>
+<wtitle>§ 1.</wtitle>
+<p>Retsafgifter blive for Fremtiden kun at erlægge i de i dmne Lov angivne Tilfiklde<lb />
+og med de i samme fastsætte Belsb.</p>
+<wtitle>§ 2.</wtitle>
+<p>Den Part, hvis Afgiftspligt skal bestemmes, kan, forsaavidt han ikke anerkjender<lb />
+Retsskriverens Paastand i faa Henseende, under Iagttagelse af de i Lov om den borgerlige<lb />
+Retspleie § 89, 2det Stykke, foreskrevne Former, begjære Epørgsmaalet afgjort ved Kjendelse af<lb />
+den Ret, som behandler den paagjældende Sag. Overværes den Retshandling, for hvilken<lb />
+Afgiften skal bestemmes, ikke af Retsskriveren, eller forestaar denne selv den paagjoeldende<lb />
+Retshandling, har den Ret eller Retsembedsmand, som forestaar den paagjoeldende Rets-<lb />
+handling, i Embedsmedfør at træffe Afgjørelse om Afgiftspligten. med Henfyn til Spørgs-<lb />
+maal om Thinglæsningsafgiftens  Beregning forholdes dog efter Reglen i § 60.</p>
+<p>Forend Afgjørelse træffes, indhenter vedkommende Ret eller Retsembedsmand de Gr-<lb />
+klæringer og yderligere Oplysninger, som efter Omstændighederne maatte findes fornødne.<lb />
+Afgjørelsen kan i Embeds medfør forandres af den Ret eller Retsembedsmand, som har<lb />
+truffen den.</p>
+<p>Imod den trufne Afgjørelse kan der faavel paa Statskassens Vegne som af den<lb />
+Part, hvis Afgiftspligt er Gjenstand for Afgjørelsen, iværksættes Befværing efter de i Lov<lb />
+om   den borgerlige Retspleie herom givne almindelige Regler.</p>
+<wtitle>§ 3.</wtitle>
+<p>Alle Retsafgifter blive — under Iagttagelse af de i det Folgende for enkelte Af><lb />
+gifter givnc særlige Regler — at erlægge forinden Foretagelsen af de Retshandlinger,<lb />
+der medføre Afgiftspligten, dog det Offentliges Ret til at fremfore Efterkrav forbeholden.</p>
+<p>Derhos kan Foretagelsen af faadanne Retsbandlinger, som medføre Udlcrg, betinges<lb />
+af, at Rekvirenten forud tilveiebringrr Dcrkning for de derlil medgaaende Udgifter.</p>

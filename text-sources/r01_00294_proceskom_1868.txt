@@ -1,0 +1,61 @@
+288
+<pb n="294" />
+<leftside>
+<p>blive anvendelig til at fåe Bøder, som ere<lb />
+pålagte i Henhold til § 147 eller § 163,<lb />
+ophævede.</p>
+<title>Kapitel II.</title>
+<undertitle>Om Rettens Fornndersøgelse.</undertitle>
+<p>Ved Andragende om Rettens Forundersøgelse anhængiggjøres Sagen som Helhed for<lb />
+Undersøgelsesdommeren; Andragendet er at betragte som en foreløbig Anklage. Formålet<lb />
+for denne Forundersøgelse er selvfølgelig ikke<lb />
+at fåe Dom over den Sigtede. Det er heller<lb />
+ikke at fåe Underføgelsesdommerens Afgjørelse<lb />
+af, om Anklage skal rejses; thi i Overensstemmelse med Anklageprincipet har Udkastet<lb />
+henlagt denne Afgjørelse til Anklageren (jfr.<lb />
+næste Afsnit), og ikke, som det Sædvanlige er<lb />
+i den fransk-tyske Straffeproces, enten til<lb />
+Undersøgelsesdommeren eller til en Undersøgelsesret, (Rådskammer, Anklagekammer),<lb />
+som hvis Delegerede til Tilvejebringelse af<lb />
+Grundlaget for Afgjørelsen Undersøgelsesdommeren er at betragte. Formålet er i og for<lb />
+sig ikke forskjelligt fra det, som karakteriserer<lb />
+Efterforskningen, med den Lempning, som<lb />
+følger af, at denne også kan tjene til at forbevede Rettens Forundersøgelse. altså Forberedelse af Anklagen ved Tilvejebringelse af<lb />
+de Oplysninger, som behøves for Anklageren<lb />
+til at tage Beslutning om denne, samt den<lb />
+Forberedelse til Hovedforhandlingen, som dermed følger. Betydningen af, at denne forberedende Undersøgelse anhængiggjøres for<lb />
+Dommeren, viser sig under den Forudsætning,<lb />
+at Forundersøgelsen er inkvisitorisk, ligefrem<lb />
+deri, at Undersøgelsens Ledelse går over til Dommeren. Det er imidlertid ikke nødvendigt,<lb />
+at Forundersøgelsen går frem efter det inkvisitoriske Princip; den engelske Proces frembyder Exempel på en akkusatorisk ordnet Forundersøgelse. Skal man derfor angive Betydningen af den forberedende Undersøgelses Anhængiggjørelse for Dommeren med et Udtryk,<lb />
+som rummer begge Ordninger, må den på<lb />
+en mere almindelig Måde bestemmes derhen,<lb />
+at Undersøgelsens Formål og Midler sættes<lb />
+under Dommerens vedvarende Kontrol. Undersøgelsen må efter Anhængiggjørelsen indrettes</p>
+</leftside>
+<rightside>
+<p>på, at Dommeren er istand til at følge den<lb />
+og fåe en begrundet Overbevisning med Hensyn til Formålets vedvarende Berettigelse og<lb />
+Midlernes Formålstjenlighed, på hvilken<lb />
+Overbevisning det vil bero, om Rettens<lb />
+Hjælp til samme skal ydes.</p>
+<p>Ved Straffeprocessens Omdannelse bibeholdt man i Frankrig og senere i Tyskland<lb />
+det inkvisitoriske System som Norm for Forundersøgelsen. Undersøgelsesdommeren leder frit<lb />
+Undersøgelsens Gang. Anklagerens Andragende<lb />
+betinger kun Begyndelsen, hvorhos der må<lb />
+gives ham Lejlighed til Andragender inden Slutningen; men imellem disse to Punkter skal Dommeren ikke afvente Anklagerens Andragender. Dommeren forener altså i Løbet af Undersøgelsen Anklagerens og Dommerens Pligter<lb />
+og Ansvar i sin Person. Forsvaret indrømmes der ingen selvstændige Rettigheder; i Henseende til Omsorgen for dette må der alene<lb />
+stoles på Dommeren. Denne Ordning har<lb />
+givet Anledning til levende og vid tgående Reformønster i Frankrig, Belgien og Tyskland*):<lb />
+Dommeren kan vanskelig fåe en upartisk Dom<lb />
+om Formål og Midler, når han selv skal overtage Partsfunktionerne med Hensyn til<lb />
+Sagens Oplysning; hans Handlinger kunne<lb />
+derfor vanskelig undgå det partiske Præg, som<lb />
+den judicielle Forundersøgelse netop skulde være<lb />
+en Betryggelse imod både for Forberedelsens<lb />
+egne Formåls Skylo og med Hensyn til den<lb />
+umiddelbare Betydning, som efter Omstændighederne de under den fremkomne Oplysninger<lb />
+kunne   fåe for Hovedforhandlingen og Dom-</p>
+
+*) For Tysklandes Bedkommende mærkes her navnlig Forhandlingerne på den tredie tyske Iuriftsorsamling 1862. For Frankrigs Bedkommende jævnføres Indberetning til Kejseren af 12te Marts 1870 om en Revision i Iustitslovgivningen, i hvillen det hedder: La procédure pénale a été divisée par les lois instruction préparatoire, restée sous le coup du régime inquisitorial, celle de la procédure de jugement, placéé sous les régles du régime accusatoire … Le temps est venu de rechercher, si l’on ne pourrait sans danger pour la société, reduire la part løissée  au système inquisitorial. Med Hensyn til Belgien ere Resormønskerne navnlig komme til Orde i et Bærk af 1871: Réforme de l’instrunction préparatoire en belgique par Adolphe Prins et Herman Pergsmeni, avocats près la cour la cour d’apple de Bruxelles.
+</rightside>

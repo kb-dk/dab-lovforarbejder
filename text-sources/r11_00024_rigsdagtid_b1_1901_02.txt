@@ -1,0 +1,82 @@
+2305
+<pb n="24" />
+<h>
+<coll>2305</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2306</colr>
+</h>
+<leftside>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>385) I næstsidste Linie udgaa Ordene:<lb />
+„dersom det behøves, ved en Kendelse".</p>
+<wtitle>Til § 421.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>386)	I L. 7 udgaar: „ved en af Fog-<lb />
+den afsagt Kendelse", og sidste Punktum<lb />
+udgaar.</p>
+<wtitle>Til § 422.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>387)	I første Stykkes sidste Linie ud-<lb />
+gaar: „ved Kendelse som i § 421 fore-<lb />
+skrevet".</p>
+<wtitle>Til § 422.</wtitle>
+<p>Af Justitsministeren, tiltraadt af<lb />
+Udvalget undtagen Nanke:</p>
+<p>388)	„Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 424.</wtitle>
+<p>389)	„Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 425.</wtitle>
+<p>390)	„Fogden" ændres til „Syssel-<lb />
+manden". (2 Steder).</p>
+<wtitle>Til § 426.</wtitle>
+<p>391)	„Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 427.</wtitle>
+<p>392)	„Fogden" ændres til „Syssel-<lb />
+manden". (6 Steder).</p>
+<p>393)	I 3die Stykke ændres „4"' foran<lb />
+„Uger" til „2".</p>
+<wtitle>Til § 428.</wtitle>
+<p>394)	„Fogden" ændres til „Syssel-<lb />
+manden". (2 Steder).</p>
+<wtitle>Til § 429.</wtitle>
+<p>395) „Fogden" ændres til „Syssel-<lb />
+manden". (4 Steder).</p>
+</leftside>
+<rightside>
+<wtitle>Til § 430.</wtitle>
+<p>396)	I Linie 1 ændres „4" foran<lb />
+„Uger" til „2„</p>
+<p>397)	I Linie 3 ændres „Anke eller<lb />
+Kære" til „Besværing til højere Øvrighed<lb />
+eller til Retten".</p>
+<wtitle>Til § 431.</wtitle>
+<p>398) „Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>399) De sidste Ord: „Ved Kendelse"<lb />
+udgaa.</p>
+<wtitle>Til § 432.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>401) I Overskriften ændres „Proce-<lb />
+duren af" til „Forhandlingen om".</p>
+<p>Af Justitsministeren, tiltraadt af<lb />
+Udvalget undtagen Nanke:</p>
+<p>402) I Overskriften tilføjes „Klager<lb />
+vedrørende Tvangsauktionen".</p>
+<wtitle>Til § 433.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>403)	Første Ord „Proceduren" ændres<lb />
+til „Forhandlingen".</p>
+<wtitle>Til § 434.</wtitle>
+<p>Af Justitsministeren, tiltraadt af<lb />
+Udvalget:</p>
+<p>404)	„Auktionsprotokollen" ændres til<lb />
+„Auktionsbogen".</p>
+<wtitle>Til § 435.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>405)	Slutningsordene „jfr. dog §419,<lb />
+1ste Stykke, i Slutningen" udgaa.</p>
+</rightside>

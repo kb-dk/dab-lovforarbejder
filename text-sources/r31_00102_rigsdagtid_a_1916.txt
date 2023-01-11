@@ -1,0 +1,70 @@
+518
+<pb n="102" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>518</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+Med Hensyn til Bevisoptagelsen forholdes efter Bestemmelserne i §§ 408—410,<lb />
+dog at de i § 408 omhandlede Beslutninger i Regelen først bliver at træffe i det Retsmøde, i hvilket Skriftvekslingen afsluttes.
+</p>
+<p>
+Vil nogen af Parterne fremsætte nye Anbringender, må disse anføres i hans<lb />
+Processkrifter overensstemmende med Reglerne i §§ 337 ff. Efter Skriftvekslingens<lb />
+Slutning kan nye Anbringender uden Modpartens Samtykke kun fremføres med Rettens<lb />
+Tilladelse, i hvilken Henseende Reglerne i §§ 348 og 366 finder tilsvarende Anvendelse.
+</p>
+<p>
+For Ankesagens Behandling gælder i øvrigt de for Procesmåden ved Landsret<lb />
+fastsatte Bestemmelser, dog at Skriftvekslingen foregår for selve Landsretten, der<lb />
+også i øvrigt leder Sagens Forberedelse til Domsbehandling.
+</p>
+<wtitle>§ 441.</wtitle>
+<p>
+Underrettens Afgørelser, derunder også Afgørelser af en Underret, der leder<lb />
+Forberedelsen af en Landsretssag i 1ste Instans, kan påkæres til Landsret i de<lb />
+samme Tilfælde, i hvilke Landsrettens Afgørelser kan påkæres til Højesteret.
+</p>
+<p>
+Fremgangsmåden er med de af Forholdets Natur flydende Lempelser den<lb />
+samme, som benyttes ved Kære over Landsrettens Afgørelser; dog kan Kæremålet<lb />
+her altid fremsættes mundtlig til Retsbogen. Også § 422 finder her Anvendelse med<lb />
+fornødne Lempelser.
+</p>
+<p>
+Landsrettens Afgørelse i Anledning af Kære kan ikke indbringes for Højesteret.
+</p>
+<title>Kapitel 40.</title>
+<undertitle>
+Behandlingen af Sager, der påkendes ved Sø- og Handelsretten.
+</undertitle>
+<wtitle>§ 442.</wtitle>
+<p>
+Sager, der i Medfør af denne Lovs §§ 224—25 vilde høre under Landsretterne, behandles for Sø- og Handelsretten i Overensstemmelse med de for Landsretterne givne Regler, dog at Sagernes Forberedelse til mundtlig Domsforhandling<lb />
+foregår ved Sø- og Handelsretten selv, jfr. § 9. Påanke og Kære iværksættes til<lb />
+Højesteret overensstemmende med Reglerne i Kapitel 36 og 37.
+</p>
+<p>
+Sager, der ifølge de nævnte Paragraffer vilde høre under Underretterne, behandles efter de for Underretterne givne Regier. Anke og Kære i disse Sager sker<lb />
+til Østre Landsret efter de i Kapitel 39 givne Regler.
+</p>
+<title>Kapitel 41.</title>
+<undertitle>
+Sager om Veksler og visse andre Gældsbreve.
+</undertitle>
+<wtitle>§ 443.</wtitle>
+<p>
+Sagsøgeren kan anvende den i dette Kapitel omhandlede hurtige Retsforfølgning:<lb />
+1) I Sager, der anlægges til Indfrielse af Gældsbreve, når Skyldneren enten i selve<lb />
+Gældsbrevet eller ved senere Påtegning på samme har underkastet sig sådan<lb />
+Forfølgning.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

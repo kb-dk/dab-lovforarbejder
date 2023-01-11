@@ -1,0 +1,90 @@
+2753
+<pb n="57" />
+<h>
+<coll>
+2753
+</coll>
+<topmidle>
+Tillæg A. (173).	Ordentlig Samling 1915-16.
+</topmidle>
+<colr>
+2754
+</colr>
+</h>
+<topmidle>
+F. t. L. om Rettens Pleje.
+</topmidle>
+<wtitle>§ 226.</wtitle>
+<p>
+Sagens Værdi bestemmes efter Paastanden i Stævningen. Bestaar Søgsmaalet<lb />
+af flere Poster eller Fordringer, sammenlægges disse. Ved Krav paa noget mod Er-<lb />
+læggelse af en Modpræstation medregnes denne ikke. Dersom Paastanden omfatter<lb />
+Renter af Fordringen, tages kun Hensyn til Fordringen selv.
+</p>
+<p>
+Der tages intet Hensyn til Sagsomkostninger eller til senere Nedsættelse af<lb />
+Paastanden.
+</p>
+<wtitle>§ 227.</wtitle>
+<p>
+Drejer Sagen sig om Rettigheden til periodiske Ydelser eller Indtægter, bliver<lb />
+dens Værdi at bestemme efter følgende Regler:
+</p>
+<p>
+1)	Er aarlige Ydelser eller Indtægter erhvervede, betingede eller tilsagte for be-<lb />
+standig eller for flere end de ved Sagens Anlæg (§ 279) levende Personers Livs-<lb />
+tid eller for et bestemt Tidsrum, der ikke er kortere end 25 Aar efter det nævnte<lb />
+Tidspunkt, bliver Værdien af Rettigheden at sætte lig med det 25-dobbelte af et<lb />
+Aars Beløb.
+</p>
+<p>
+2)	Er aarlige Ydelser eller Indtægter erhvervede, betingede eller tilsagte for en<lb />
+enkelts eller flere ved Sagens Anlæg levende Personers Livstid eller i øvrigt for<lb />
+ubestemt Tid, sættes Rettighedens Værdi lig med det 5-dobbelte af et Aars Beløb.
+</p>
+<p>
+3)	Kan Ydelser eller Indtægter ikkun oppebæres et bestemt Antal Gange, sættes<lb />
+Rettighedens Værdi lig med en enkelt Ydelses Beløb taget dette Antal Gange,<lb />
+dog ingen Sinde over 25.
+</p>
+<p>
+Er Beløbet af aarlige Ydelser eller Indtægter ikke lige stort de forskellige<lb />
+Aar, tages Værdien i det sidst forløbne Aar som Enhed.
+</p>
+<wtitle>§ 228.</wtitle>
+<p>
+Lyder Paastanden ikke paa en bestemt Pengesum, ansættes Værdien af den<lb />
+Genstand ved Rettens Skøn, jfr. dog § 227.
+</p>
+<wtitle>§ 229.</wtitle>
+<p>
+I de i de tvende foregaaende Paragraffer omhandlede Tilfælde er Rettens Af-<lb />
+gørelse, for saa vidt den gaar ud paa at erklære sig kompetent til at paakende Sa-<lb />
+gen, ikke Genstand for Anke eller Kære; nægter Retten at antage Sagen, er dens Af-<lb />
+gørelse Genstand for Kære til højere Ret, men ikke for Anke.
+</p>
+<wtitle>§ 230.</wtitle>
+<p>
+Er Sagens Værdi afgørende for Kompetencespørgsmaalet, maa den Part, som<lb />
+paastaar den højere Værdi, føre Bevis derfor.
+</p>
+<p>
+I øvrigt paahviler det Sagsøgeren at oplyse, at Sagen hører under Underret.
+</p>
+<wtitle>§ 231.</wtitle>
+<p>
+Imod Søgsmaal, der i Henhold til § 225 er anlagte ved Underret, kan Mod-<lb />
+fordringer gøres gældende, naar i øvrigt de almindelige Betingelser for disses Frem-<lb />
+sættelse er til Stede (§ 280). Selvstændig Dom for Modfordringen eller den over-<lb />
+skydende Del af samme kan dog, hvis Modparten modsætter sig det, kun gives, for<lb />
+saa vidt Dommen ikke herved kommer til at lyde paa noget højere Beløb end 300<lb />
+Kr. (§ 225, jfr. §§ 226, 227 og 228), eller saafremt Modfordringen kunde forfølges ved<lb />
+Underret, dersom den gjordes gældende under en selvstændig Sag.
+</p>
+<p>
+Imod Søgsmaal, der svæver for Landsret, kan Modfordringer fremføres uden<lb />
+Hensyn til, at de, i og for sig betragtede, vilde henhøre under Underret.
+</p>
+<p>
+Forelagte Lovforslag m. m.	173
+</p>

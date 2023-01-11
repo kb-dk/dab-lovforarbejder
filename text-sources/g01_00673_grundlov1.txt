@@ -1,0 +1,162 @@
+1273
+<pb n="673">
+<p rend="page">673</p>
+<h>
+<coll>1273</coll>
+<colr>1274</colr>
+<lb/>
+</h>
+<leftside>
+<p rend="continue">
+Grund til at ansee det ommeldte Forslag som berettiget for Formens<lb/>
+Side.<lb/>
+Den derefter stedfundne Afstemning gav følgende Resultat.<lb/>
+</p>
+<p>
+1) Udvalgets Forslag ti Paragraphen 1ste Deel:<lb/>
+At Ordene „i Tilfælde af Krig“ og „da“ i 5te og 6te Linie<lb/>
+udgaae;<lb/>
+blev vedtaget med 84 Stemmer mod 27.<lb/>
+</p>
+<p>
+2) Lüttichaus Forslag:<lb/>
+„ Ingen Værnepligtig kan mod sin Villie befales til at være<lb/>
+Officeersoppaser“;<lb/>
+blev efter Begjering af N.F. Jespersen, Jacobæus, Schytte,<lb/>
+Stockfleth, Lüttichau, Nyholm, Skeel, Hastrup, Pape, G.M.<lb/>
+Jespersen, Reé, Dahlerup, Holck, Brandt og Linnemann afgjorte<lb/>
+ved Navneopraab saaledes:<lb/>
+Stemmegivende 118, Fraværende 33, vedtaget med 60 Stemmod 58.<lb/>
+</p>
+<indexlist>
+Ja<lb/>
+Aagaard af Thisted.	Lützhöft.<lb/>
+Bagger.	Marckmann.<lb/>
+Brandt.	Mundt.<lb/>
+Bruun af Assens.	Tage Müller.<lb/>
+M.P. Bruun af Bruunshaab.	Møller af Flakkeberg.<lb/>
+P.D. Bruun af Kjøbenhavn.	H.C. Nielsen af Tranberg.<lb/>
+Boisen.	Nyholm.<lb/>
+Georg Christensen.	Ostenfeldt.<lb/>
+Colding.	Otterstrøm.<lb/>
+Dahl.	Oxholm.<lb/>
+Dahlerup.	Pape.<lb/>
+David.	C.R. Petersen af Hjørring.<lb/>
+Eriksen.	Pløyen.<lb/>
+Funder.	Rée.<lb/>
+Gram.	Ræder.<lb/>
+H.P.Hansen af Kjøbehavn.	Schack.<lb/>
+Mørk Hansen.	Schiern.<lb/>
+N. Hansen af Eskelund.	Schytte.<lb/>
+Hastrup.	Skeel.<lb/>
+Hiort.	Stender.<lb/>
+Hunderup.	Stockfleth.<lb/>
+Holck.	Tang.<lb/>
+Jacobæus.	Theilmann.<lb/>
+Jespersen af Grønnebjerggaard.	Tvede.<lb/>
+C.M.Jespersen af Viborg.	Algreen-Ussing.<lb/>
+Johnsen.	Wegener.<lb/>
+Kayser.	Visby.<lb/>
+I.C. Larsen.	With.<lb/>
+Linnemann.	Wulff.<lb/>
+Lüttichan.	Ørsted.<lb/>
+Nei.<lb/>
+G. Aagaard af Lolland	J.A. Hansen af kjøbenhavn.<lb/>
+Andræ.	L. Hansen af Bjelkerup.<lb/>
+Barfod.	P.Hansen af Abbetved.<lb/>
+Bjerring.	v.Haven.<lb/>
+Black.	Hvidt.<lb/>
+Bregendahl.	Høier.<lb/>
+Balth. Christensen.	Jacobsen.<lb/>
+H. Christensen af Veistrup.	F. Jespersen af Bogense.<lb/>
+J. Christensen af Voldum.	F. Johannsen af Houby.
+Dinsen.	H.C. Johansen af Østrup<lb/>
+Van Dockum.	H. C. Johansen af Knardrup.<lb/>
+Fibiger.	Sehestedt- Juel.<lb/>
+Frølund.	Jungersen.<lb/>
+Gregersen.	Jørgensen.<lb/>
+Hage.	Kirk.<lb/>
+Hall. Knuth.
+Hammerich.	Krieger.<lb/>
+</indexlist>
+</leftside>
+<rightside>
+<indexlist>
+Køster.	Cornelius Petersen af Davinde.<lb/>
+Chr. Larsen af Dalby.	Pjetursson<lb/>
+Leth.		Ploug.<lb/>
+Madsen.	M. Rasmussen af Herlufmagle.<lb/>
+Paludan-Müller.	Schlegel.<lb/>
+R.N.Møller af Draaby.	Schurmann.<lb/>
+Neergaard.	Cederfeld de Simonsen.<lb/>
+Nørgaard.	Tscherning.<lb/>
+Olrik.	W. Ussing af Viborg.<lb/>
+Ostermann.	Westergaard.<lb/>
+I.Pedersen af Sæding.	Winther.<lb/>
+P. Pedersen af Kjøbenhavn.	Zeuthen.<lb/>
+</indexlist>
+<middle>
+Graværende.<lb/>
+</middle>
+<indexlist>
+Andresen.	Lorck.<lb/>
+Bergmann.	Mynster.<lb/>
+Buchwaldt.	N.H. Nielsen af Løserup.<lb/>
+Buntzen.	Olesen.<lb/>
+La Cur.	B.Petersen af Kjøbenhavn.<lb/>
+Drewsen af Kjøbenhavn.	H. Nasmussen af Egense.<lb/>
+Drewsen af Silkeborg.	I.Rasmussen af Svanninge.<lb/>
+Duntzfelt.	Scavenius.<lb/>
+Flor.	Schroll.<lb/>
+Fløe.	Brinck-Seidelin.<lb/>
+Gislason.	Sidenius.<lb/>
+Gleerup.	Sigurdsson.<lb/>
+Grundtvig.	Thalbitzer.<lb/>
+Gudmundsson.	Tobiesen.<lb/>
+Hasselbalch.	Treschow.<lb/>
+Hermannsen.	Tuxen.<lb/>
+Hækkerup.<lb/>
+</indexlist>
+<p>
+3) Udvalgets Forslag:<lb/>
+At 2den Passus „I Reglen blive de Yngre at udtage fremfor de Ældre“ forandres til „de yngre Aldersclasser blive at<lb/>
+udskrive fremfor de ældre“;<lb/>
+blev vedtaget eenstemmigen med 111 Stemmer.<lb/>
+</p>
+<p>
+4) Udvalgets Forslag:<lb/>
+At Ordet „ældre“I 3die Passus, 3die Linie, udelades;<lb/>
+blev vedtaget eenstemmigen me 112 Stemmer.<lb/>
+</p>
+<p>
+5) Lovudkastets § 32 med de vedtagne Forandringer;<lb/>
+blev vedtaget med 98 Stemmer mod 7.<lb/>
+De under Nr. 1, 5, 6, og 7 af Ørsted, v.Haven, Brinck „Seidelin og J. A. Hansen stillede Forslag var af Stillerne tagne tilbage.<lb/>
+Efterat næste Møde var berammet til den følgende Dag (Tirsdag) Kl. 11, Værnepligtssagen til fortsat Behandling, blev Mødet<lb/>
+hævet.<lb/>
+</p>
+<btitle>
+53de offentlige Møde.<lb/>
+(Det 56de Møde i den hele Række.)<lb/>
+</btitle>
+<notedate>
+Tirsdagen den 30te Januar.<lb/>
+</notedate>
+<p>
+Forhandlingsprotocollen for forringe Møde blev oplæst.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Efter Dagsordenen gaae vi over til Værnepligtssagen, og begynde med dens 33te Paragraph.<lb/>
+Til denne Paragraph indeholdt Afstemningslisten Følgende:<lb/>
+</p>
+<p>
+1) Pløynes Forslag:<lb/>
+I Slutningen tilføies til Forordningen af 3die Juni 1801 om<lb/>
+almindelig Opbydelse til Færelandets Forsvar.<lb/>
+</p>
+<p>
+2) Lovudkastet.<lb/>
+<speaker>Formanden : </speaker>Jeg skal bemærke, at den ærede Rigsdagsmand<lb/>
+</p>
+</rightside>
+</pb>

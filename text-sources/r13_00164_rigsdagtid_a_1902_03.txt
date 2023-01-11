@@ -1,0 +1,83 @@
+2055
+<pb n="164" />
+<h>
+<coll>
+2055
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2056
+</colr>
+</h>
+<p>
+Hvor en Retsskriver er ansat, samler han de enhver Sag vedkommende Doku-<lb />
+menter og bevarer dem samt de af tilbageleverede Originaler tagne Genparter. Ved<lb />
+andre Retter paahviler dette Dommeren. De i Nævningesager overensstemmende med<lb />
+§§ 953 og 956—958 udfærdigede Spørgsmaal tillige med Nævningernes vedtegnede Er-<lb />
+klæringer, blive at samle og opbevare som Bilag til Retsbogen.
+</p>
+<wtitle>§  746.</wtitle>
+<p>
+Uden for de Tilfælde, for hvilke der i denne Lov er truffet særlig Bestemmelse,<lb />
+kunne Parterne samt, naar Sagen er endt, andre, som deri have retlig Interesse, hos<lb />
+Retsskriveren eller, hvor ingen saadan er ansat, hos Dommeren forlange Udskrift af<lb />
+Retsbøgerne, derunder dog ikke Stemmegivningsbogen, samt af de øvrige hos Retten<lb />
+beroende, til en Straffesag hørende, fremlagte Dokumenter.
+</p>
+<wtitle>§  747.</wtitle>
+<p>
+Retssproget er dansk. Afhørelse af Personer, der ikke ere det danske Sprog<lb />
+mægtige, foregaar ved Hjælp af en edsvoren Tolk; dog kan ved Afhørelse uden for<lb />
+Domsforhandling for Landsret Tilkaldelse af Tolk udelades, naar Dommeren tiltror<lb />
+sig fornødent Kendskab til det fremmede Sprog.
+</p>
+<p>
+Dokumenter, der ere affattede i fremmede Sprog, skulle ledsages af en Over-<lb />
+sættelse, som bliver at autorisere af en offentlig ansat Translatør, medmindre Retten<lb />
+og Parterne anerkende dens Rigtighed.
+</p>
+<p>
+Forhandling med og Afhørelse af døve, stumme og døvstumme foregaar enten<lb />
+ved Hjælp af Personer, der ere kyndige i Tegnsproget eller Talemetoden, og som forud<lb />
+tages i Ed, eller ved skriftlige Spørgsmaal og Svar.
+</p>
+<p>
+Til at bistaa som Tolk eller tegnsprogkyndig maa ingen af Retten tilkaldes,<lb />
+der ifølge §§ 680 og 682 vilde være udelukket fra at handle som Dommer i Sagen.<lb />
+I øvrigt blive de om Vidner givne Regler at anvende paa de nævnte Personer med de<lb />
+Lempelser, der følge af Forholdets Natur, og for saa vidt ikke andet særlig er fore-<lb />
+skrevet.
+</p>
+<wtitle>§  748.</wtitle>
+<p>
+De Forretninger, som ifølge denne Bog paahvile Rettens Formand, udføres,<lb />
+naar Retten beklædes af en enkelt Dommer, af denne.
+</p>
+<title>
+Kapitel 69.
+</title>
+<title>
+Forkyndelser og Meddelelser.
+</title>
+<wtitle>§  749.</wtitle>
+<p>
+Med de i §§ 755 og 756 hjemlede Undtagelser, skulle efternævnte Forkyndelser<lb />
+ske ved Stævningsmændene eller i de i § 752 c angivne Tilfælde ved Politiet:
+</p>
+<p>
+1)	Forkyndelse for Sigtede af Tilsigelse eller Stævning til Møde for Retten, af<lb />
+Anklageskrift. Bevisfortegnelse, Domsudskrift, Ankemeddelelse eller Kæremaal og af<lb />
+den i sidste Stykke af § 992 ommeldte Tilkendegivelse,
+</p>
+<p>
+2)	Forkyndelse for Vidner og Syns- eller Skønsmænd af Indkaldelse til Afhø-<lb />
+relse, for Syns- eller Skønsmænd af den Beslutning, hvorved de ere udmeldte, og for<lb />
+udeblevne Vidner eller Syns- eller Skønsmænd af den i § 774, jfr. § 781, ommeldte<lb />
+Kendelse,
+</p>
+<p>
+3)	Forkyndelse for en privat Sagsøger af den i sidste Punktum af § 1042 om-<lb />
+meldte Meddelelse.
+</p>

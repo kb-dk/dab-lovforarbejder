@@ -1,0 +1,47 @@
+39
+<pb n="39" />
+<leftside>
+<pagename>37
+</pagename>
+<p>Med Angivelse og i fornødent Fald<lb />
+Bevisliggørelse af lovligt Forfald kunne<lb />
+Sagførere under de i denne Paragraf omhandlede Rettergangsforetagender give møde<lb />
+ved enhver uberygtet myndig Mandsperson.
+</p>
+<wtitle>§ 103.
+</wtitle>
+<p>Enhver Sagfører er berettiget til at<lb />
+have en autoriseret Fuldmægtig, der skal være<lb />
+en uberygtet Person, som har underkastet<lb />
+sig den juridiske Fællesprøve eller den tidligere juridiske Eksamen for Ustuderede.<lb />
+Autorisationen meddeles for Fuldmægtige<lb />
+hos Højesteretssagførere af Højesterets Iustitiarius og hos Landsretssagførere samt<lb />
+de Underretssagførere, der have Kontor i<lb />
+Kjøbenhavn, af Iustitiarius i vedkommende<lb />
+Landsret, for Fuldmægtige hos andre<lb />
+Underretssagførere af Dommeren i den Retskreds, i hvilken vedkommende Sagfører har<lb />
+Kontor. De autoriserede Fuldmægtige skulle,<lb />
+saa længe de ville benytte Fuldmagten, have<lb />
+Bopæl i eller ved den Stad eller i den<lb />
+Retskreds, hvor deres Principal har Kontor.
+</p>
+<wtitle>§ 104.
+</wtitle>
+<p>Udtrykkene „Højesteretssagfører" og<lb />
+„Sagfører ved Underretterne" („Underretssagfører") i §§ 94, 99, 100 og 103 stal forstaas som indbefattende de i Henhold til<lb />
+den hidtilværende Lovgivning beskikkede<lb />
+Sagførere af de tilsvarende Klasser. De i<lb />
+Henhold til den hidtilværende Lovgivning<lb />
+beskikkede Overretsprokuratorer og Overretssagførere skulle i Henseende til Møderet<lb />
+(§ 100) saavel som i øvrigt ved Anvendelsen af de foranstaaende Bestemmelser være<lb />
+ligestillede med Landsretssagførere.
+</p>
+<p>Sagførere, som forinden denne Lovs<lb />
+Ikrafttræden have været antagne til at udfore offentlige og beneficerede Sager, beholde<lb />
+dette Hverv, for Straffesagers Vedkommende<lb />
+dog kun som Forsvarere, saa længe ikke Iustitsministeren efter paagældende Retters Indstilling anser dem for uskikkede dertil. Efter<lb />
+paagældende Retters Indstilling kan Justitsministeren, efterhaanden som der findes<lb />
+Anledning dertil, antage andre Sagførere<lb />
+til at deltage i nævnte hverv.
+</p>
+</leftside>

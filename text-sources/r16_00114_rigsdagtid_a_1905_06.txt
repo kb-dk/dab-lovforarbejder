@@ -1,0 +1,84 @@
+2131
+<pb n="114" />
+<h>
+<coll>
+2131
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2132
+</colr>
+</h>
+<p>
+tagelsesvis at burde tilstede det. Finder en saadan Bevisførelse Sted, foretages den<lb />
+efter de for Underretssager gældende Regler.
+</p>
+<p>
+Henhører Hovedsagen under Underret, har Fogden at yde Parterne Vejledning<lb />
+i Overensstemmelse med Grundsætningerne i § 409.
+</p>
+<wtitle>§ 503.</wtitle>
+<p>
+I Fogedbogen optages:
+</p>
+<p>
+1)	Angivelse af Tid og Sted for Forretningen, Parternes Navne, Eksekutionsgrund-<lb />
+lagets Beskaffenhed;
+</p>
+<p>
+2)	Betegnelse af Fogden og Vidnerne;
+</p>
+<p>
+3)	Beretning om Forretningens Gang i Almindelighed.
+</p>
+<p>
+I Tilfælde af Tvist optages i Fogedbogen en ordret Angivelse af de frem-<lb />
+satte Paastande. Derhos lader Fogden i det Omfang, som af ham skønnes hensigts-<lb />
+mæssigt, Parternes Erklæringer over Sagens Sammenhæng tilføre Fogedbogen, dog ikke<lb />
+ordret, men kun efter deres væsentlige Indhold. Det tilførte oplæses og vedkendes.
+</p>
+<wtitle>§ 504.</wtitle>
+<p>
+Udsættelse kan kun undtagelsesvis gives under Forretningen, naar ikke Par-<lb />
+terne ere enige derom.
+</p>
+<p>
+Derimod kan Fogden beslutte eller tilstaa en Standsning i Forhandlingerne,<lb />
+naar Omstændighederne kræve det, Fogden har da paa Domhaverens Forlangende<lb />
+ved Bevogtning eller paa anden Maade at træffe de fornødne Foranstaltninger for at<lb />
+opretholde den samme Tilstand, indtil Forretningen atter fortsættes. Parterne skulle<lb />
+paa behørig Maade underrettes om Tiden herfor.
+</p>
+<wtitle>§ 505.</wtitle>
+<p>
+I opstaaende Tvistigheder afsiger Fogden Kendelse umiddelbart efter Forhand-<lb />
+lingernes Slutning eller dog snarest muligt,
+</p>
+<p>
+Kendelsen, der skal være ledsaget af Grunde, indføres fuldstændigt i Foged-<lb />
+bogen.
+</p>
+<p>
+Dens Fuldbyrdelse kan ikke hindres ved Anke eller Kære.
+</p>
+<wtitle>§ 506.</wtitle>
+<p>
+I Fogedbogen optegnes nøjagtigt alle de enkelte Genstande, hvori Udlæg gøres;<lb />
+ved hver enkelt Genstand tilføjes dens Værdi efter den stedfundne Ansættelse.
+</p>
+<p>
+Fogden erklærer derefter til Fogedbogen de optegnede Genstande for udlagte<lb />
+til Domhaverens Fyldestgørelse og betyder Domfældte, at han fra nu af ikke uden at<lb />
+paadrage sig Strafansvar kan raade over dem paa en Maade, som kommer i Strid<lb />
+med Udlægshaverens Ret. Er Domfældte ikke til Stede, gives der den eller dem, som<lb />
+i Henhold til § 495 tilkaldes paa hans Vegne, Paalæg om at give Domfældte en saadan<lb />
+Betydning, og efter Omstændighederne kan lignende Betydning gives den Trediemand,<lb />
+i hvis Besiddelse det udlagte er,
+</p>
+<wtitle>§ 507.</wtitle>
+<p>
+Hvor der gives Udlæg i fast Ejendom, uden at der tillige gives Udlæg i dens<lb />
+Indtægter, forbliver den indtil Tvangsauktionen i Domfældtes Besiddelse, medmindre<lb />
+denne findes at ødelægge eller forringe Ejendommen, i hvilket Tilfælde den kan sættes<lb />
+under en af Fogden valgt Mands Bestyrelse.
+</p>

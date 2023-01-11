@@ -1,0 +1,73 @@
+2025
+<pb n="149" />
+<h>
+<coll>
+2025
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2026
+</colr>
+</h>
+<p>
+Fortabelse af Embede, Bestilling eller Valgret. Retten for Sigtede til i disse<lb />
+Tilfælde at begære Nævningers Medvirkning bortfalder dog, naar den Forbrydelse,<lb />
+for hvilken han sigtes, er en af de i Straffelovens Kapitel 23—27 omhandlede,<lb />
+og han forhen for en saadan Forbrydelse har været dømt til Strafarbejde, og der<lb />
+ikke er forløbet 10 Aar efter Udstaaelsen af denne Straf til Udøvelsen af den<lb />
+den Handling, som Sigtelsen angaar.
+</p>
+<p>
+Ogsaa i andre Sager end de oven for nævnte kan Landsretten, naar<lb />
+Overanklageren og Sigtede eller dennes Værge derom ere enige, bestemme, at<lb />
+Nævninger skulle medvirke.
+</p>
+<wtitle>§  675.</wtitle>
+<p>
+Ved Anvendelsen af Reglerne i §§ 673 og 674 kommer, naar Sigtelsen angaar<lb />
+Forsøg eller Meddelagtighed, den Strafbestemmelse i Betragtning, som vilde være<lb />
+anvendelig, hvis Forbrydelsen var fuldbyrdet, eller Sigtede var Gerningsmand.
+</p>
+<wtitle>§  676.</wtitle>
+<p>
+Finder Forening af flere Straffesager Sted, og nogen af dem hører under<lb />
+Landsret eller kræver Nævningers Medvirkning, blive de alle at behandle og paa-<lb />
+kende henholdsvis for Landsret og med Nævninger. Forening af Sager mod flere<lb />
+Sigtede, som adskilte vilde høre under Landsret uden og under Landsret med Næv-<lb />
+ninger, bor dog kun finde Sted, naar særegne Grunde tale derfor.
+</p>
+<wtitle>§  677.</wtitle>
+<p>
+Retten prøver i Embeds Medfør, om en Sag hører under dens Virkekreds, og<lb />
+om Nævninger skulle medvirke ved Paakendelsen. Er Domsforhandling ved Landsret<lb />
+begyndt, skal det dog ikke være nødvendigt at afvise Sagen, fordi det findes, at den<lb />
+burde have været anlagt ved Underret. Er Domsforhandlinger ved Nævninger be-<lb />
+gyndt, kan disses Medvirkning efter Rettens Bestemmelse vedblive, selv om det findes,<lb />
+at Sagen burde have været foretagen uden Nævninger.
+</p>
+<wtitle>§  678.</wtitle>
+<p>
+Til Landsrettens Virkekreds høre endvidere Afgørelser i Anledning af Paaanke<lb />
+af eller Kæremaal mod Underrettens Domme, Kendelser og Beslutninger.
+</p>
+<wtitle>§  679.</wtitle>
+<p>
+Under Højesteret høre alle Afgørelser i Anledning af Paaanke af eller Kære-<lb />
+maal mod Landsrettens Domme, Kendelser og Beslutninger, derunder indbefattet<lb />
+Handlinger af det Medlem af Landsretten, hvem det maatte være overdraget at handle<lb />
+som Undersøgelsesdommer.
+</p>
+<title>
+Kapitel 63.
+</title>
+<title>
+Tilfælde, hvor Rettens Personer skulle eller kunne vige deres Sæde.
+</title>
+<wtitle>§  680.</wtitle>
+<p>
+Ingen maa medvirke som Dominer eller Nævning i en Straffesag, naar han<lb />
+1) selv er Part i Sagen eller er forurettet ved Forbrydelsen eller er interes-<lb />
+seret i Sagens Udfald,
+</p>

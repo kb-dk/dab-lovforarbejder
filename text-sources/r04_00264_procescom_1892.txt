@@ -1,0 +1,92 @@
+264
+<pb n="264" />
+<leftside>
+<p>1.    Er Tiltalte N. N. skyldig  i den i<lb />
+Straffelovens § 190 omhandlede Forbrydelse<lb />
+ved o. s. v. med Overlæg at have dræbt... ?<lb />
+(Til Ja udkræves mindst 8 Stemmer).  Hvis<lb />
+dette spørgsmål besvares benægtende, spørges yderligere:</p>
+<p>2.    Er Tiltalte X. N. skyldig i den i<lb />
+Straffelovens § 186 omhandlede Forbrydelse<lb />
+ved o. s. v. forsætlig,  men uden Overlæg at<lb />
+have dræbt. . .? '(Til Ja 8 Stemmer).</p>
+<p>Hvis også spørgsmål 2 besvares benægtende, spørges endelig:</p>
+<p>' 3. Er Tiltalte N. 'N. skyldig i den i<lb />
+Straffelovens § 198 omhandlede Forbrydelse<lb />
+ved o. s. v. ved Uagtsomhed at have dræbt<lb />
+. . .? (Til Ja 8 Stemmer).</p>
+<p>På samme Måde forholdes, naar der<lb />
+kan være spørgsmål om at karakterisere<lb />
+selve den objektive Handling på forskellig<lb />
+Måde. Der kan altså være at spørge f. Eks. således:</p>
+<p>1.    Er Tiltalte X. N. skyldig i Tyveri<lb />
+ved til den og den Tid under de og de Omstændigheder  at have tilegnet sig det og det<lb />
+(Til Fa  8 Stemmer).   Hvis spørgsmålet<lb />
+besvares benægtende, spørges yderligere:</p>
+<p>2.    Er Tiltalte N. X. skyldig  i  den i<lb />
+Straffelovens § 253 omhandlede bedrageriforbrydelse ved til den og den Tid under de<lb />
+og de Omstændigheder at have tilegnet sig<lb />
+det  og det,  som af den og den var betroet<lb />
+ham  i  Forvaring?   (Til   Ja  8 Stemmer)<lb />
+eller f. Eks. således:</p>
+<p>1.    Er  Tiltalte X. N.   skyldig i fuldbyrdet Tyveri ved o. s. v.?   Hvis dette besvares benægtende, spørges yderligere:</p>
+<p>2.     Er Tiltalte N. N. skyldig i Forsøg<lb />
+på Tyveri ved o. s. v.?</p>
+<p>Er der imidlertid under Forhandlingerne<lb />
+fremkommet Data til Støtte for, at der foreligger særlige Strafudelukkelses- eller særlige<lb />
+Strafforhøjelses- eller Strasnedsættelsesgrunde af almindelig Karakter, der forandre<lb />
+den for en Handling som den pågældende<lb />
+normalt foreskrevne Strafferamme, kan der<lb />
+til hvert af Hovedspørgsmålene blive at<lb />
+føje hertil sigtende Tillægsspørgsmål,<lb />
+hvis Ejendommelighed således er den, at<lb />
+deres Besvarelse forudsætter, at et forudgående<lb />
+spørgsmål er blevet besvaret bekræft e n d e.</p>
+<p>spørgsmålene ville herefter altså<lb />
+kunne være at stille s. Els. således:</p>
+<p>(Høvedspørgsmål 1). Er Tiltalte N.N.<lb />
+skyldig i ... forsætlig at have dræbt . . .<lb />
+(Til Ja 8 Stemmer).</p>
+<p>Hvis dette Spørgsmål besvares bekræftende, spørges yderligere:</p>
+<p>(Tillægsspørgsmål 1). Handlede Til«<lb />
+talte N. N. ved den  pågældende Lejlighed</p>
+</leftside>
+<rightside>
+<p>indenfor grænserne af lovligt Nødværge?<lb />
+(Til Nej 8 Stemmer.) *)</p>
+<p>Hvis det foregående spørgsmål besvares benægtende, spørges endvidere:</p>
+<p>(Tillægsspørgsmål 2). Må Tiltalte N.<lb />
+N. antages i Gærningens Øjeblik at have<lb />
+manglet den fulde Tilregnelighed, der findes<lb />
+hos voksne og sjælssunde Personer? (Til<lb />
+Nej 8 Stemmer) og således fremdeles.</p>
+<p>Hvorvidt der stal gås i detailleret Betegnelse af Handlingen for at få den i §<lb />
+279 krævede „tilstrækkelige Betegnelse", må<lb />
+bestemmes dels ved Hensynet til, hvad der hører med til den indenfor vedkommende<lb />
+Strafferamme liggende Forbrydelses begrebsmæssige Kendemærker. dels ved Hensynet til,<lb />
+hvad der udkræves for at forebygge en fornyet forfølgning for samme Handling.</p>
+<p>Det følger af § 278, 1ste Stykke, at et<lb />
+spørgsmål, hvorved der gives nævningerne<lb />
+Valget mellem flere Alternativer, f. Eks, om<lb />
+Tiltalte har stjålet en Ting, eller om han.<lb />
+uden Hensigt til at tilegne fig den eller skille<lb />
+Ejeren derved, har sat sig i Besiddelse af den for<lb />
+at benytte den til et bestemt Brug, ikke må<lb />
+stilles; ej heller bor nogensinde en negativ<lb />
+Spørgsmålsform benyttes, f. Els: Har<lb />
+Tiltalte ikke begået Drabet i en ved Mishandling af ham selv fremkaldt oprørt Sindsstemning ? baade fordi Svaret: Ja eller Nej<lb />
+på et således stillet spørgsmål vilde blive<lb />
+tvetydigt, og fordi et sådant spørgsmål<lb />
+tenderer til at lægge nævningerne Svaret i<lb />
+Munden.</p>
+<p>Ifølge § 278, 2det Stykke, må et spørgsmål ikke stilles således: Ere A. og V. skyldige i i Forening at have o. s. v.? Der<lb />
+må — forsåvidt der overhovedet er Grund<lb />
+til at medtage begge de Tiltaltes Navne i<lb />
+samme spørgsmål — spørges: 1. Er A.<lb />
+skyldig i i Forening med 13. at have o. s. v.?<lb />
+2. Er V. skyldig i i Forening med A. at<lb />
+have o. s. v.?</p>
+<p>Naar det derhos i 2det Stykke hedder<lb />
+„og så vidt muligt kun eet forbryders! For-</p>
+<p>1</p>
+</rightside>

@@ -1,0 +1,169 @@
+2311
+<pb n="112" />
+<p rend="page">112</p>
+<h>
+<coll>2311</coll>
+<colr>2312</colr><lb />
+<topmidle>Bilag til Bet. o. Lovf. om Rettens Pleje. </topmidle>
+</h>
+<leftside>
+<p>
+§ 294 — Forslagets § 320, dog at Ordene:<lb />
+„saavel som de fremsatte Indsigelser<lb />
+mod denne" i sidste Stk., Linie 2,<lb />
+udgaa.<lb />
+</p>
+<p>
+§ 295 = Forslagets § 321.<lb />
+</p>
+<p>
+Kapitel 29—30 (§§ 296—322) = Forsla-<lb />
+gets Kapitel 24—25 (§§ 232—257)<lb />
+og Ændringsforslag Nr. 89.<lb />
+</p>
+<p>
+Andet Afsnit.<lb />
+Rettergangsmaaden.<lb />
+</p>
+<title>
+Kapitel 31.<lb />
+</title>
+<p>
+§§ 323—37 = Forslagets §§ 322—36.<lb />
+</p>
+<p>
+§ 338, jfr. Forslagets §§ 293 og 307, 2. Pkt.<lb />
+= Forslagets § 293, dog at Hen-<lb />
+visningen til §§ 379 og 403 i Linie 2<lb />
+udgaar, og at der tilføjes følgende<lb />
+ny Stykke:<lb />
+</p>
+<p>
+„Den i foregaaende Stykke indeholdte<lb />
+Regel finder tilsvarende Anvendelse med<lb />
+Hensyn til Syn og Skøn. Er Sagen endnu<lb />
+ikke tingfæstet, har Parten at indgive Be-<lb />
+gæring til Underretten paa det Sted, hvor<lb />
+Genstanden for Syns- og Skønsforretningen<lb />
+befinder sig."<lb />
+</p>
+<p>
+§ 339, jfr. Forslagets §§ 271. 2. Stk., 1.<lb />
+</p>
+<p>
+Pkt., 307 og 315!<lb />
+</p>
+<p>
+„Naar Vidner, Syns- eller Skønsmænd<lb />
+eller Parter ikke kunne eller skulle møde<lb />
+under Domsforhandlingen, blive de at af-<lb />
+høre ved Underretten paa det Sted, hvor<lb />
+de bo eller opholde sig; dog kan Retten<lb />
+under Iagttagelse af Reglerne i § (160)<lb />
+lade Vidnet afhøre der ved ét eller to af<lb />
+sine Medlemmer, saafremt ikke begge Par-<lb />
+ter modsætte sig dette."<lb />
+</p>
+<p>
+§ 340, jfr. Forslagets §§ 337, 1. Stk. og<lb />
+273, 5te Stk.<lb />
+</p>
+<p>
+1. Stk. = § 337, 1. Stk.<lb />
+</p>
+<p>
+2. Stk.: „Til Vidneførsel o. desl., som<lb />
+ikke sker for den dømmende Ret eller et<lb />
+eller to Medlemmer af samme, skal Mod-<lb />
+parten indkaldes med samme Varsel, som<lb />
+om han var Vidne. Samtidig eller dog<lb />
+mindst 3 Dage før Vidneførselen skal der<lb />
+derhos gives Modparten saadan Meddelelse<lb />
+som i første Stykke nævnt. I paatræn<lb />
+gende Tilfælde kan Indstævning af Mod<lb />
+parten" o. s. v. som § 273, 5. Stk. ud.<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+§ 341 = Forslagets § 337, 2. Stk.<lb />
+§§ 342—45 = Forslagets §§ 338—41.<lb />
+§ 346 — Forslagets § 342, 1. og 2. Stk.<lb />
+</p>
+<p>
+§ 347 = Forslagets § 281, 1. Stk. 1. Pkt.,<lb />
+2. Stk. (i den foreliggende Affattelse,<lb />
+uden Hensyn til Ændringsforslagene<lb />
+Nr. 108 og Nr. 109) og § 283, 2. Stk.<lb />
+</p>
+<p>
+§ 348 — Forslagets § 285.<lb />
+</p>
+<p>
+§ 349 = Forslagets § 286, 1. Stk., 1. og<lb />
+2. Pkt., og 2. Stk.<lb />
+</p>
+<p>
+§ 350, jfr. Forslagets §§ 307 og 315.<lb />
+</p>
+<p>
+„Keglerne i §§ (347, 348 og 349) finde<lb />
+med de fornødne Lempelser Anvendelse,<lb />
+ogsaa naar Parter eller Syns- eller Skøns-<lb />
+mænd skulle afhøres."<lb />
+</p>
+<p>
+§ 351, jfr. Forslagets §§ 342. 3.-6. Stk.<lb />
+og 289.<lb />
+</p>
+<p>
+1. Stk. = § 342, 3. Stk.<lb />
+</p>
+<p>
+2. og 3. Stk. = § 289.<lb />
+</p>
+<p>
+4.-6. Stk. = § 342, 4.-6. Stk.<lb />
+</p>
+<p>
+§§ 352—56 = Forslagets §§ 343—47.<lb />
+</p>
+<p>
+Kap. 32—33 (§§ 357—73) = Forslagets<lb />
+Kap. 32—33 (§§ 348—64).<lb />
+</p>
+<title>
+Kapitel 34.<lb />
+</title>
+<p>
+§§ 374—88 = Forslagets §§ 365—79.<lb />
+</p>
+<p>
+§ 389, jfr. Forslagets §§ 271, 1. Stk., 2.<lb />
+Pk., § 286, 1. Stk., sidste Pkt.<lb />
+</p>
+<p>
+„Skal Vidneførsel o. desl. finde Sted,<lb />
+beror det paa Rettens Bestemmelse, om<lb />
+vedkommende skal afhøres under Doms-<lb />
+forhandlingen eller ikke, og i førstnævnte<lb />
+Fald, om og hvor meget af Forklaringen<lb />
+der skal optegnes i Retsbogen.<lb />
+</p>
+<p>
+Reglerne i §§ (338, 339, 347, 348, jfr.<lb />
+350, og 351, 2det og 3die Stykke), finde<lb />
+tilsvarende Anvendelse."<lb />
+</p>
+<p>
+§ 390 = Forslagets 380, dog at der til-<lb />
+føjes som sidste Stykke:<lb />
+„Ved Vidneførsel, som ikke sker for<lb />
+den dømmende Ret eller et eller to Med-<lb />
+lemmer af samme, finder Reglen i § (340,<lb />
+2det Stykke) tilsvarende Anvendelse."<lb />
+</p>
+<p>
+§§ 391-96 = Forslagets §§ 381—86.<lb />
+</p>
+</rightside>

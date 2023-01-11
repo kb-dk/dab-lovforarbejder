@@ -1,0 +1,67 @@
+587
+<pb n="171" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>587</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 732.</wtitle>
+<p>
+Også udenfor de Tilfælde, hvor Beskikkelse af offentlig Forsvarer følger af<lb />
+Bestemmelsen i § 731, kan der, såvel før som efter at Tiltale er rejst, beskikkes<lb />
+Sigtede offentlig Forsvarer, når Retten efter Sagens Beskaffenhed finder sådant fornødent, og Sigtede ikke selv har valgt en Forsvarer, eller denne udebliver; jfr. derhos § 925.
+</p>
+<p>
+Beslutninger, hvorefter Forsvarer skal beskikkes, kan ikke påklages for<lb />
+højere Ret. Imod Beslutninger, hvorved Beskikkelse af Forsvarer nægtes, kan Kære<lb />
+til højere Ret finde Sted.
+</p>
+<wtitle>§ 733.</wtitle>
+<p>
+Til at beskikkes som offentlige Forsvarere antager Justitsministeren efter Overenskomst et passende Antal af de til Møde for vedkommende Domstol berettigede<lb />
+Sagførere eller, om fornødent, andre dertil egnede Mænd. I påtrængende Tilfælde<lb />
+kan dog også en Sagfører, der ikke er antaget af Justitsministeren, men dog berettiget til Møde for vedkommende Ret, beskikkes til Forsvarer.
+</p>
+<wtitle>§ 734.</wtitle>
+<p>
+Til offentlig Forsvarer må ingen beskikkes, der selv er forurettet ved Forbrydelsen eller står i et sådant Forhold til den forurettede, som vilde udelukke en<lb />
+Dommer fra at handle i Sagen, eller der er kaldet til at forklare som Vidne, Synseller Skønsmand i Sagen eller har handlet i den som Anklager eller Rettergangsfuldmægtig for den forurettede eller som Politiembedsmand eller som Dommer eller<lb />
+i en anden Straffesag har været Forsvarer for en Sigtet, med hvis Interesse i Sagen<lb />
+den nu Sigtedes står i Strid, eller hvis Beskikkelse ifølge § 60 Nr. 3 vilde medføre<lb />
+Inhabilitet hos Dommeren.
+</p>
+<p>
+Er flere Personer sigtede under samme Sag, kan Forsvaret kun udføres af<lb />
+den samme Person, når de Sigtedes Interesser under Sagen ikke er modstridende.
+</p>
+<wtitle>§ 735.</wtitle>
+<p>
+Forsvareren beskikkes ved Højesteret, Landsret, Sø- og Handelsretten og Københavns Byret af vedkommende Rets Formand, ved Undersøgelsesret og Underret<lb />
+af Dommeren. Sagerne bør så vidt muligt fordeles mellem de antagne Forsvarere<lb />
+efter Omgang; ønsker Sigtede en bestemt Person beskikket og oplyser, at denne er<lb />
+villig, bør han i Regelen beskikkes uden Hensyn til den regelmæssige Omgang, forudsat<lb />
+at ingen lovlig Hindring er forhånden.
+</p>
+<wtitle>§ 736.</wtitle>
+<p>
+Beskikkelsen kan tilbagekaldes, når det findes nødvendigt i Forsvarets Interesse, samt, for så vidt Sagen ikke derved forhales, efter Begæring af Sigtede, når<lb />
+han har truffet Overenskomst om Forsvarets Udførelse uden Udgift for det offentlige.
+</p>
+<wtitle>§ 737.</wtitle>
+<p>
+Forsvareren er berettiget til at overvære alle Retsmøder, selv om disse holdes<lb />
+for lukkede Døre (§ 29), den valgte Forsvarer dog kun, for så vidt han ikke er udelukket fra Tilstedeværelse i Medfør af § 821 Nr. 3. I de Retsmøder, der afholdes,<lb />
+forinden Tiltale er rejst, er Forsvareren berettiget til at fremføre Bemærkninger og<lb />
+til i Korthed af få disse tilført Protokollen; men Dommeren bestemmer, på hvilket<lb />
+Tidspunkt af Retsmødet dette kan ske, jfr. dog § 824. I Retsmødet er Forsvareren<lb />
+berettiget til at samtale med den sigtede angående disse Tilførsler, men i anden<lb />
+Anledning kun med Dommerens Samtykke.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

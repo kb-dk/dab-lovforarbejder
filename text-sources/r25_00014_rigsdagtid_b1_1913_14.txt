@@ -1,0 +1,180 @@
+1935
+<pb n="14" />
+<h>
+<coll>1935</coll>
+<topmidle>Bet. o. Lovf. om Rettens Pleje m. m.</topmidle>
+<colr>1936</colr>
+</h>
+<leftside>
+<p>
+18)	I sidste Stykke, 1ste—2den Linie,<lb/>
+ændres „Kommunalbestyrelsen — i Kø-<lb/>
+benhavn af det i § 73 nævnte Udvalg —"<lb/>
+til: „Udvalget".
+</p>
+<p>
+19)	I sidste Stykke, 5te—6te Linie,<lb/>
+ændres „Kommunalbestyrelsen" til: „Ud-<lb/>
+valget".
+</p>
+<wtitle>
+Til § 75.
+</wtitle>
+<p>
+Af Flertallet under Nr. 2 og subsidiært af<lb/>
+Mindretallet under Nr. 1:
+</p>
+<p>
+20)	I 2den Linie ændres „Kommunal-<lb/>
+bestyrelsens — i København det i § 73<lb/>
+ommeldte Udvalgs —" til: „Udvalgets".
+</p>
+<wtitle>
+Til § 76.
+</wtitle>
+<p>
+Af Flertallet under Nr. 2 og subsidiært af<lb/>
+Mindretallet under Nr. 1:
+</p>
+<p>
+21)	I 5te Linie ændres „Kommunal-<lb/>
+bestyrelsen" til: „Udvalget".
+</p>
+<wtitle>
+Til § 77.
+</wtitle>
+<p>
+Af flertallet under Nr. 2 og subsidiært af<lb/>
+Mindretallet tinder Nr. 1;
+</p>
+<p>
+22)	I 3die Linie ændres „Kommu-<lb/>
+nalbestyrelsens" til: „Udvalgets", og i 7de<lb/>
+Linie ændres „Kommunalbestyrelsen" til:<lb/>
+„Udvalget".
+</p>
+<wtitle>
+Til § 78.
+</wtitle>
+<p>
+Af Flertallet under Nr. 2 og subsidiært af<lb/>
+Mindretallet under Nr. 1:
+</p>
+<p>
+23)	11ste Linie ændres „hvilke Mænd"<lb/>
+til: „hvem".
+</p>
+<wtitle>
+Til § 79.
+</wtitle>
+<p>
+Af Flertallet under Nr. 2 og subsidiært af<lb/>
+Mindretallet under Nr. 1:
+</p>
+<p>
+24)	I 5te Linie ændres „Kommunal-<lb/>
+bestyrelsen" til: „Udvalget for Grundlis-<lb/>
+ternes Dannelse".
+</p>
+<wtitle>
+Til § 80.
+</wtitle>
+<p>
+Af Flertallet under Nr. 2 og subsidiært af<lb/>
+Mindretallet under Nr. 1:
+</p>
+<p>
+25)	I 4de Linie udgaar Ordet „Mænd".
+</p>
+<p>
+26)	I 3die Stykke, 1ste—2den Linie,<lb/>
+ændres „Kommunalbestyrelsen eller Ud-<lb/>
+valget" til: „noget af Udvalgene".
+</p>
+</leftside>
+<rightside>
+<wtitle>
+Til § 81.
+</wtitle>
+<p>
+Af Flertallet under Nr. 2 og subsidiært af<lb/>
+Mindretallet under Nr. 1:
+</p>
+<p>
+27)	I 1ste Stykke, 2den Linie, ændres<lb/>
+„Mænd" til: „Personer".
+</p>
+<p>
+28)	I 2det Stykke, 1ste Linie, udgaar<lb/>
+Ordet „Mænd".
+</p>
+<wtitle>
+Til § 97.
+</wtitle>
+<p>
+Af Flertallet under Nr. 2 og subsidiært af<lb/>
+Mindretallet under Nr. 1 :
+</p>
+<p>
+29)	1 1ste Linie ændres „3" til: „4".
+</p>
+<wtitle>
+Til § 108.
+</wtitle>
+<p>
+Af Flertallet under Nr. 2:
+</p>
+<p>
+30)	Nyt 2det Stykke:
+</p>
+<p>
+„Til Hjælp for Politidirektøren ved<lb/>
+Paatale af Straffesager ansættes 9 Politi-<lb/>
+fuldmægtige, der skal have de til Ansæt-<lb/>
+telse som Politimester nødvendige Kvalifi-<lb/>
+kationer og lønnes af Statskassen."
+</p>
+<wtitle>
+Til § 109.
+</wtitle>
+<p>
+Af I lertallet tinder Nr. 2 og subsidiært<lb/>
+Mindretallet under Nr. 1 med Undtagelse<lb/>
+af Markvorsen og Pinstrup.
+</p>
+<p>
+31) 1ste—2det Stykke ændres til: „I<lb/>
+øvrigt deles Riget i 55 Politikredse, saaledes<lb/>
+som det angives paa den nærværende Lov<lb/>
+vedføjede Tavle. Hver Politikreds fore-<lb/>
+staas af en Politimester, der skal have<lb/>
+Bolig i Kredsen efter Justitsministerens<lb/>
+nærmere Bestemmelse."
+</p>
+<wtitle>
+Til § 155.
+</wtitle>
+<p>
+Af Flertallet under Nr. 2 og subsidiært af<lb/>
+Mindretallet under Nr. 1:
+</p>
+<p>
+32) Der tilføjes som nyt 3die Stykke:<lb/>
+„Naar Forretningen udføres af een Stæv-<lb/>
+ningsmand, kan denne tilkalde endnu en<lb/>
+Stævningsmand eller en anden god Mand<lb/>
+som Vidne."
+</p>
+<wtitle>
+Til § 735.
+</wtitle>
+<p>
+Af Flertallet under Nr. 2 og subsidiært af<lb/>
+Mindretallet under Nr. 1:
+</p>
+<p>
+33) 1ste Punktum udgaar, og i Stedet<lb/>
+for indsættes: „Forsvareren beskikkes ved<lb/>
+Højesteret, Landsret, Sø- og Handelsretten
+</p>
+</rightside>

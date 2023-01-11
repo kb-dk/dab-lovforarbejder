@@ -1,0 +1,66 @@
+3221
+<pb n="6" />
+<h>
+<coll>3221</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3222</colr>
+</h>
+<p>
+Betænkning, at den omhandlede Reform maa betragtes som et stort Skridt til at ud-<lb />
+vikle og befæste Grundloven, der ikke kan siges at være fuldstændig gennemført, saa<lb />
+længe den bebudede Reform i Retsplejen — hvilken har en saa indgribende Betydning<lb />
+for den personlige Frihed, for Udviklingen af det statsborgerlige Liv, for Befæstelsen<lb />
+af Tilliden til Domstolene, for Udbredelsen af Agtelse for Loven og Nidkærhed for at<lb />
+opretholde den — ikke er bleven tilvejebragt. I den følgende Rigsdagssamling frem-<lb />
+satte dernæst Justitsministereren (Casse) paa ny i Januar 1864 Forslaget fra forrige<lb />
+Samling (jfr. Folketingstid. 1863 Sp. 63, 388, Tillæg A. Sp. 455) med Optagelse af<lb />
+adskillige Ændringer under Hensyn til det af Folketingsudvalget foreslaaede. I For-<lb />
+bindelse hermed blev der fremsat Forslag til Lov om Kongeriget Danmarks Inddeling<lb />
+i Underretskredse m. m. og om Politiets Ordning i Kongeriget Danmark med Und-<lb />
+tagelse af Kjøbenhavn og gamle Kjøbenhavns Amt, hvorhos der bebudedes Fore-<lb />
+læggelsen af et særligt Forslag til Lov om Strafferetsplejen i Kjøbenhavn. Heller ikke<lb />
+disse Forslag naaede længer end til første Behandling i Folketinget og til Udvalgs-<lb />
+betænknings Afgivelse (jfr. Folketingstid. 1863 Tillæg B. Sp. 377). I Oktober 1864<lb />
+(Justitsminister Heltzen) bleve derpaa de samme 3 Lovforslag paa ny forelagte Rigs-<lb />
+dagen (jfr. Folketingstid. 1864 Sp. 287, 852, Tillæg A. Sp. 1053), men naaede atter<lb />
+kun til første Behandling i Folketinget.
+</p>
+<p>
+Sagen hvilede derpaa, indtil Hage i Decbr. 1867, da Rosenørn-Teilmann var<lb />
+Justitsminister, fremsatte 3 Lovforslag i væsentlig Overensstemmelse med de sidste<lb />
+Gang i Oktober 1864 fremsatte (jfr. Folketingstid. 1867 Sp. 387, 1073, Tillæg A.<lb />
+Sp. 1129). Forslagene kom til første Behandling i Folketinget, men bleve ved denne<lb />
+tagne tilbage af Forslagsstilleren, efter at der var fremkommet Forslag til en moti-<lb />
+veret Dagsorden, som gik ud paa, at en saa stor og indgribende Reform, som Lov-<lb />
+forslagene gik ud paa, vanskelig kunde gennemføres med Held, før Regeringen tog<lb />
+Initiativet dertil, og alle fornødne Forarbejder vare til Stede, at det vilde være rettest,<lb />
+at der, forinden endelig Beslutning toges om Indførelse af Nævninger i den kriminelle<lb />
+Retspleje, forelaa Forberedelser til den civile Retsplejes Omordning, og at man for-<lb />
+ventede, at Regeringen vilde lade begge disse Anliggenders Fremme være sig særdeles<lb />
+magtp aaliggende.
+</p>
+<p>
+I Henhold til allerhøjeste Reskript af 28de Februar 1868 blev der derpaa af<lb />
+Justitsminister Rosenørn-Teilmann nedsat en Kommission til Udarbejdelse af Forslag<lb />
+til en Omordning af saavel den civile som den kriminelle Retspleje.*) Om Arbejdets<lb />
+Gang i Vlenne Kommission afgav Kommissionens Formand i Forbindelse med Indsen-<lb />
+delsen af de af Kommissionen udarbejdede 3 Lovudkast: om Strafferetsplejen, om den<lb />
+borgerlige Retspleje og om Domsmagtens Ordning m. m., en Beretning til Justits-<lb />
+ministeriet, dateret Septbr. 1877.
+</p>
+<p>
+Som Grundlag for Kommissionens Arbejder paa den borgerlige Retsplejes Om-
+</p>
+<note rend="foot">
+<p>
+*) Denne Kommission (den anden Proceskommission) bestod fra Begyndelsen af' følgende Med-<lb />
+lemmer: Højesteretsassessor Krieger som Formand, Højesteretsassessor Ussing, Borgmester i<lb />
+Kjøbenhavn, Etatsraad Larsen, Formand i Sø- og Handelsretten i Kjøbenhavn Klein, Professor<lb />
+juris Nellemann, Kriminalretsassessor Nyholm, Overretsassessor Rimestad, By- og Herredsfoged<lb />
+Hage samt Højesteretsadvokaterne Brock og Liebe. Senere tiltraadtes Kommissionen, i Henhold<lb />
+til allerhøjeste Reskipter af 8de Juni og 19de Oktober 1870, af Professor juris Goos og Depar-<lb />
+tementschef i Justitsministeriet Ricard, medens to af dens oprindelige Medlemmer, Etatsraad,<lb />
+Borgmester Larsen og Byfoged Hage afgik ved Døden, forinden Kommissionen havde sluttet<lb />
+sine Arbejder.
+</p>
+</note>

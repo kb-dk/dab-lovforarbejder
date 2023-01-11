@@ -1,0 +1,78 @@
+670
+<pb n="254" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>670</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+50.	Sæby Købstad og Dronninglund Herred.
+</p>
+<p>
+51.	Frederikshavn Købstad og Horns Herred samt Skagen Købstad og Læsø Birk.
+</p>
+<p>
+52.	Hjørring Købstad og Vennebjerg Herred samt Børglum Herred.
+</p>
+<p>
+53.	Thisted Købstad og Hillerslev-Hundborg Herreder samt Øster og Vester Han<lb />
+Herreder.
+</p>
+<p>
+54.	Hassing-Refs Herreder.
+</p>
+<p>
+55.	Nykøbing M. Købstad og Morsø Herreder.
+</p>
+<p>
+56.	Skive Købstad og Sallinglands Herreder.
+</p>
+<p>
+57.	Viborg Købstad og Lysgård samt en Del af Hovlbjerg Herred.
+</p>
+<p>
+58.	Fjends-Nørlyng og Middelsom-Sønderlyng Herreder.<lb />
+59.	Herning Købstad og Hammerum Herred.
+</p>
+<p>
+60.	Holstebro Købstad og Hjerm-Ginding Herreder.
+</p>
+<p>
+61.	Lemvig Købstad og Skodborg-Vandfuld Herreder.
+</p>
+<p>
+62.	Ringkøbing Købstad og Ulvborg-Hind Herreder samt Bølling-Nørre Herreder.
+</p>
+<p>
+63.	Varde Købstad og Land jurisdiktion samt Øster og Vester Herreder.
+</p>
+<p>
+64.	Esbjerg Købstad, Skads Herred og Fanø Birk.
+</p>
+<p>
+65.	Ribe Købstad, Ribe Herred og Gjørding-Malt Herreder.
+</p>
+<p>
+Hvorefter alle vedkommende sig have at rette.
+</p>
+<p>
+Givet på Amalienborg, den 11te April 1916.
+</p>
+<p>
+Under Vor Kongelige Hånd og Segl.
+</p>
+<signatur>
+Christian R.
+(L. S.)
+</signatur>
+<p>
+Zahle.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

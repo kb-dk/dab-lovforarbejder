@@ -1,0 +1,90 @@
+47
+<pb n="47" />
+<leftside>
+<pagename>45
+</pagename>
+<title>Fyen:</title>
+<p></p>
+<p>41.    Nyborg    med    Binding   Herred    c.<lb />
+20,500.
+</p>
+<p>42.    Sunds-Gudme Herred c. 28,000.
+</p>
+<p>43.    Svendborg    med   Taasinge    Birk   c.<lb />
+14,300.
+</p>
+<p>44.    Rudkjøbing  og Langelands Herred  c<lb />
+20,000.
+</p>
+<p>45.    Ærøskjøbing med Ærø c. 12,000.
+</p>
+<p>46.    Faaborg   med    Salling    Herred    og<lb />
+Muckadel Birk c. 27,500.
+</p>
+<p>47.    Odense c. 36,000.
+</p>
+<p>48.    Odense Herred c. 18,500.
+</p>
+<p>49.    Bjerge-Aasum Herred c. 14,000.
+</p>
+<p>50.    Kjerteminde og Hindsholm  Herred   c.<lb />
+6,000.
+</p>
+<p>51.    Lunde-Skam Herred c. 13,500.
+</p>
+<p>
+</p>
+<p>52.    Bogense og Skovby Herred c. 11,000.
+</p>
+<p>53.    Assens   med    Baag    Herred   og   as<lb />
+Wedellsborg    Birk    Kjerte,   Barløse,<lb />
+Sandager  og  Tanderup Sogne samt<lb />
+Den Baagø c. 23,500.
+</p>
+<p>54.    Middelfart   med   Vends   Herred    og<lb />
+Resten   af   Wedellsborg   Birk   c.<lb />
+20,500.
+</p>
+<title>Jylland:</title>
+<p>
+</p>
+<p>55.    Frederikshavn   og  Horns   Herred  og<lb />
+Skagen c. 26,000.
+</p>
+<p>56.    Sæby   med   Dronninglund  Herred c.<lb />
+23,000.
+</p>
+<p>57.    Læsø c. 2,500.
+</p>
+<p>58.    Hjørring   med   Vennebjerg   Herred c.<lb />
+27,000.
+</p>
+<p>59.    Børglum Herred c. 24,000.
+</p>
+<p>60.    Hvetbo Herred c. 9,000.
+</p>
+<p>61.    Han Herrederne c. 17,500.
+</p>
+<p>62.	 Thisted med Hillerslev-Hundborg Herred
+</p>
+<p>c.  23,000.
+</p>
+<p>63.    Hassing-Refs Herred c. 16,500.
+</p>
+<p>64.    Nykjøbing med Mors c. 21,500.
+</p>
+<p>65.    Skive med Salling  Herred c. 24,000.
+</p>
+<p>66.    Viborg med Fjends-Nørlyng Herred<lb />
+c. 23,000.
+</p>
+<p>67.    Middelsom-Sønderlyngherred c. 16,000.
+</p>
+<p>68.    Hobro med Rinds-Gislum  Herred   c.<lb />
+20,500.
+</p>
+<p>69.    Lysgaard-hids Herred c. 21,500.
+</p>
+<p>70.    Hammerum Herred c. 21,000.
+71.	</p>
+</leftside>

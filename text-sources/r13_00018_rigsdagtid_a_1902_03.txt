@@ -1,0 +1,87 @@
+1759
+<pb n="18" />
+<h>
+<coll>
+1759
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+1760
+</colr>
+</h>
+<title>
+Tredie Afsnit.
+</title>
+<undertitle>
+Anklagemyndigheden.
+</undertitle>
+<title>
+Kapitel 8.
+</title>
+<wtitle>§  77.</wtitle>
+<p>
+De offentlige Anklagere ere Rigsanklageren, Overanklagerne samt de til disses<lb />
+Bistand beskikkede Mænd.
+</p>
+<wtitle>§  78.</wtitle>
+<p>
+Rigsanklageren beskikkes af Kongen. Til midlertidig at fungere som Rigs-<lb />
+anklager i Tilfælde af Embedsledighed eller Forfald kan Justitsministeren meddele<lb />
+Beskikkelse.
+</p>
+<p>
+Rigsanklageren virker ved Højesteret og fører Tilsynet med de offentlige An-<lb />
+klagere efter de nærmere Regler i nærværende Lov.
+</p>
+<p>
+Rigsanklageren har Embedskontor i Kjøbenhavn.
+</p>
+<wtitle>§  79.</wtitle>
+<p>
+Til Bistand ved Udførelsen af Rigsanklagerens Hverv beskikker Kongen en<lb />
+Overanklager.
+</p>
+<p>
+Justitsministeren kan efter Forhandling med Rigsanklageren give ogsaa andre<lb />
+Bemyndigelse til at optræde i en enkelt Sag for Højesteret i Rigsanklagerens Sted.
+</p>
+<wtitle>§  80.</wtitle>
+<p>
+For østre Landsretskreds beskikker Kongen 3, og for vestre Landsretskreds<lb />
+ligeledes 3 Overanklagere. Til midlertidig at fungere som Overanklager i Tilfælde af<lb />
+Embedsledighed eller Forfald kan Justitsministeren meddele Beskikkelse.
+</p>
+<p>
+Overanklagerne virke ved Landsretterne og Underretterne efter de derom i<lb />
+denne Lov givne Regler.
+</p>
+<p>
+Fordelingen af Forretningerne mellem Overanklagerne ved hver af Landsret-<lb />
+terne saa vel som Stedet for deres Embedskontor bestemmes af Justitsministeren.
+</p>
+<p>
+Bemyndigelse til i en enkelt Sag at optræde for Landsretten i Stedet for eller<lb />
+sammen med Overanklageren kan efter Forhandling med denne gives af Justitsmini-<lb />
+steren.
+</p>
+<wtitle>§  81.</wtitle>
+<p>
+Justitsministeren beskikker de fornødne Medhjælpere for Overanklageren.
+</p>
+<p>
+Rigsanklageren beskikker efter Forslag af Overanklageren Anklagere ved<lb />
+Underretterne, een eller efter Omstændighederne flere ved hver Underretskreds, til<lb />
+efter Paalæg af Overanklageren at udføre Tiltale for Underretten. Saadan Beskik-<lb />
+kelse kan meddeles samme Mand for flere Underretskredse.
+</p>
+<p>
+Bemyndigelse til i en enkelt Sag at udføre en Sag for Underretten kan efter<lb />
+Forhandling med Overanklageren gives af Rigsanklageren.
+</p>
+<wtitle>§  82.</wtitle>
+<p>
+Kun uberygtede, vederhæftige Mænd kunne beskikkes til eller handle som<lb />
+offentlige Anklagere.
+</p>

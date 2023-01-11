@@ -1,0 +1,159 @@
+3895
+<pb n="1211" >
+<p rend="page">1211</p>
+<h>
+<coll>3895</coll>
+<colr>3896</colr><lb />
+
+Valglovens tredie Læsning<lb />
+</h>
+<leftside>
+<btitle>
+Valgcandidater.<lb />
+</btitle>
+<p>
+<law n="1211" >§ 23.<lb /></law>
+Ingen kan ved Valg til Forkethinget komme i Betragtning, som<lb />
+ikke selv har stillet sig og dertil er anbefalet af idetmindste een af<lb />
+Valgkredsens Vælgere.<lb />
+<law n="1211" >§ 24.<lb /></law>
+Skriftlig Anmeldelse saavel om Candidaten som om den eller<lb />
+dem, der ville understøtte hans Valg, skal være gjort til det i § 20<lb />
+nævnte Medlem af Valgbestyrelsen, og i Kjøbenhavn til Valgbestyrelsens Formand, senest inden Kl. 10 Aftenen før Valget finder Sted.<lb />
+Paa selve Valgdagen skulle saavel Candidaten som de, der anbefale<lb />
+ham, fremstille sig personligen. Ikkun et for Valgbestyrelsen oplyst<lb />
+og af denne anerkjendt Forfald kan fritage Candidaten eller den, der<lb />
+anbefaler ham, for personligt Møde paa Valgdagen.<lb />
+<law n="1211" >§ 25.<lb /></law>
+Candidaten behøver ikke for Valgbestyrelsen at godtgjøre sin<lb />
+Valgbarhed. Fremkommer der ved Valghandlingen Indsigelser eller<lb />
+endog Beviser mod samme, kan Valgbestyrelsen vel ikke afskjære Forhandlingerne derom, men heller ikke af den Grund undslaae sig for<lb />
+at stille Candidaten til Valg.<lb />
+<law n="1211" >§ 26.<lb /></law>
+Ingen tør melde sig til samtidigt Valg i mere end een Valgkreds. Handler Nogen herimod, bliver hans Valg, hvis saadant falder paa ham, ugyldigt.<lb />
+</p>
+<btitle>
+Valgmøder.<lb />
+</btitle>
+<p>
+<law n="1211" >§ 27.<lb /></law>
+Valgene til Folkethinget foretages i de for samme anordnede Valgkredse i Valgmøder, hvortil Adgangen staaer aaben for<lb />
+Enhver.<lb />
+<law n="1211" >§ 28.<lb /></law>
+Dagen og Klokkeslettet, da Valgmødet afholdes, bekjendtgjøres i<lb />
+vedkommende Stiftsavis med idetmindste otte Dages Varsel. Derhoskundgiøres samme i de enkelte Communer paa den Maade, som ethvert Sted er brugelig, med lignende Varsel, og bør navnlig den i<lb />
+Landcommunerne sædvanlige Bekjendtgjørelse ved Kirkestevne skee de<lb />
+tvende sidste Søndage før Valgdagen.<lb />
+<law n="1211" >§ 29.<lb /></law>
+Valgforhandlingerne aabnes af den af Valgbestyrelsen udnævnte<lb />
+Formand.<lb />
+Han fremstiller for Forsamlingen de anmeldte Valgcandidater og<lb />
+de Vælgere, som anbefale dem hver især.<lb />
+Saavel disse som Valgcandidaterne skulle have Adgang til at<lb />
+udtale sig for Forsamlingen og til at besvare de Spørgsmaal, som<lb />
+de Tilstedeværende maatte forelægge dem. Formanden leder disse<lb />
+Forhandlinger og slutter dem, naar han finder det rigtigt.<lb />
+</p>
+<btitle>
+Kaaring.<lb />
+</btitle>
+<p>
+<law n="1211" >§ 30.<lb /></law>
+Formanden sætter derpaa Valgcandidaterne under Afstemning<lb />
+efter deres Navnes Bogstavfølge. Afstemningen skeer af de tilstedeværende Vælgere ved Haandsoprækning. Valgbestyrelsens Medlemmer<lb />
+deeltage ikke i samme.<lb />
+</p>
+<p>
+Den Candidat, som efter Valgbestyrelsens Skjøn har erholdt<lb />
+flere Stemmer end nogen Anden, er kaaret til Valgkredsens Rigsdagsmand, hvilket strax kundgjøres for Forsamlingen.<lb />
+</p>
+<p>
+Ved denne, som ved alle andre til Valgbestyrelsen overladte Beslutninger, gjør Formanden i Tilfældee af Stemmelighed Udslaget.<lb />
+<law n="1211" >§ 31.<lb /></law>
+Skulde i en Valgkreds kun een Candidat have fremstillet sig, bør<lb />
+han, for at ansees som valgt, have meer end Halvdelen af de Stemmende for sig. Har han ikke enten ved Kaaringen eller ved den<lb />
+navnlige Afstemning (§ 32) erholdt et saadant Stemmeantal, berammes et nyt Møde til ottende Dagen derefter. Har der da ikke fremstillet sig nogen anden Candidat, betragtes den Første som Kaaret uden<lb />
+ny Afstemning.<lb />
+
+</p>
+</leftside>
+<rightside>
+<p>
+Navnlig Afstemning.<lb />
+<law n="1211" >§ 32.<lb /></law>
+Kaaringens Virkning ophæves, naar navnlig Afstemning begjeres<lb />
+af en Candidat, der ikke har opnaaet Valg, eller, hvis denne er fraværende, af den, der har anbefalet ham. Denne Fordring skal fremsættes inden Udløbet af et Qvarteer, efterat Kaaringens Udfald er<lb />
+kundgiort, i hvilken Tid derfor Valgbestyrelsen bliver tilstede paa<lb />
+Valgstedet.<lb />
+</p>
+<p>
+Fremkommer ingen saadan Begjering i betimelig Tib, staaer<lb />
+Kaaringen ved Magt, og hele Valghandlingen sluttes.<lb />
+<law n="1211" >§ 33.<lb /></law>
+Forlanges navnlig Afstemning, paabegyndes den uopholderligen.<lb />
+Den finder kun Sted mellem den kaarede Candidat og den eller de<lb />
+Modcandidater, som udtrykkeligen fordre det.<lb />
+</p>
+<p>
+Naar i det i § 31 omhandlede Tilfældee fordres navnlig Afstemning, vil denne gaae ud paa et simpelt for eller imod.<lb />
+<law n="1211" >§ 34.<lb /></law>
+Afstemningen foregaaer samtidigen til de forskjelligee Valglister, som Formanden fordeler mellem Valgbestyrelsens Medlemmer.<lb />
+Ved hver Valgliste tilforordnes derhos een af de tilstedeværende<lb />
+Vælgere, ligesom ogsaa en saadan Vælger, hvor det maatte være<lb />
+nødvendigt, af Valgbestyrelsen kan beskikkes til at udføre de Forretninger, der paahvile Valgbestyrelsens Medlemmer ved Stemmernes<lb />
+Modtagelse. Selv deeltager Formanden ikke i Modtagelsen af Valgstemmer.<lb />
+</p>
+<p>
+I den Orden, hvori Vælgerne møde, afgive de mundtligen deres<lb />
+Stemme<lb />
+</p>
+<p>
+Efterat have anerkjendt Vælgeren, tilfører det ved Valglisten<lb />
+ansatte Medlem af Valgbestyrelsen den Candidats Navn, paa hvilken<lb />
+Vælgeren har stemt, ved Siden af dennes eget Navn, paa selve<lb />
+Valglisten.<lb />
+</p>
+<p>
+Den ham tilforordnede Vælger optegner paa en særskilt Stemmeliste Vælgerens Navn ved Siden af den Candidats Navn, som han<lb />
+har givet sin Stemme.<lb />
+</p>
+<p>
+Forinden Vælgeren aftræder, oplæses for ham saavel hans eget,<lb />
+som den af ham Valgtes Navn, til Sikkerhed for begge Tilførslers<lb />
+Rigtighed og indbyrdes Overeensstemmelse.<lb />
+</p>
+<p>
+Naar, uagtet Formandens Opfordring, Ingen mere begierer at<lb />
+deeltage i Valget, tilføre Valgbestyrelsens Medlemmer og sammes<lb />
+Medhiælpere deres egne Stemmer, og underskrive saavel Valglisten<lb />
+som Stemmelisten, hvormed Afstemningen er sluttet.<lb />
+<law n="1211" >§ 35.<lb /></law>
+Efter samtlige Lister sammenlægger den forenede Valgbestyrelse<lb />
+det Stemmeantal, hver af Candidaterne har erholdt. Udfaldet tilføres Valgbogen og kundgjøres for Forsamlingen. Valglisterne tilbageleveres vedkommende Communer; Stemmelisterne bilægges Valgbogen,<lb />
+som underskrives af hele Valgbestyrelsen.<lb />
+<law n="1211" >§ 36.<lb /></law>
+Den, som ved den navnlige Afstemning har erholdt flere Stemmer end nogen Anden, er valgt. Have Flere lige mange Stemmer,<lb />
+afgiør Lodtrækning, som foretages af Formanden.<lb />
+</p>
+<stitle>
+II. Landsthinget.<lb />
+</stitle>
+<undertitle>
+Landsthings-Kredsene.<lb />
+</undertitle>
+<p>
+<law n="1211" >§ 37.<lb /></law>
+Til Landsthinget vælges for Østifterne og Nørrejylland 51 Medlemmer i følgende Valgkredse:<lb />
+</p>
+<px>
+1) Staden Kjøbenhavn vælger	5.<lb />
+2) Kjøbenhavns, Frederiksborgs og Holbeks Amter	8.<lb />
+3) Sorø og Præstø Amter	5.<lb />
+4) Bornholms Amt	1.<lb />
+5) Maribo Amt	3.<lb />
+ 
+</px>
+</rightside>
+
+
+</pb>

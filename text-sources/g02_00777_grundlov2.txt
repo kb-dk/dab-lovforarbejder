@@ -1,0 +1,156 @@
+3027
+<pb n="777" >
+<p rend="page">777</p>
+<h>
+<coll>3027</coll>
+<colr>3028</colr><lb />
+Den endelige Behandling af Grundlovsudkastet. §§ 30—36.<lb />
+</h>
+<leftside>
+<p>
+<law n="30" />§ 30. Som ovenfor.<lb />
+Folkethinget. § 31—34 Som ovenfor.<lb />
+</p>
+<btitle>
+Landsthinget.<lb />
+</btitle>
+<p>
+<law n="35" >§ 35.<lb /></law>
+Valgret til Landsthinget har Enhver, der ifølge § 31<lb />
+har Valgret til Folkethinget. De Valgberettigede vælge udaf<lb />
+deres Midte Valgmænd efter, de Bestemmelser, som gives i Valgloven.<lb />
+<law n="36">§ 36</law><lb />
+Valgbar til Landsthinget er enhver uberygtet Mand, som<lb />
+har Indfødsret, og hvis Bo ei under Opbuds- eller Fallitbehandling, naar han har fyldt sit 40de Aar og i det sidfte Aar<lb />
+enten har svaret i directe Skat til Staten eller Communen<lb />
+200 Rbd eller godtgjør at have havt en aarlig Netto-Indtægt<lb />
+of 1200 Rbd.<lb />
+<law n="37">§ 37</law><lb />
+Valgene til Landsthinget foregaae i større Valgkredse, der<lb />
+ordnes ved Valgloven. Valgmændene i hver saadan større<lb />
+Valgkreds træde sammen og stemme paa saa mange Mænd,<lb />
+som skulle vælges for Valgkredsen, i hvilken idetmindste 3/4 af<lb />
+de Valgte skulle have havt fast Bopæl i det sidste Aar før<lb />
+Valget. Til et gyldigt Valg udfordres mere end Halvdelen<lb />
+af de afgivne Stemmer.<lb />
+<law n="38">§ 38</law><lb />
+Antallet af Landsthingets Medlemmer skal stedse være omtrent 1/2 af Antallet af Folkethingets Medlemmer.<lb />
+<law n="39" >§ 39.<lb /></law>
+Medlemmerne af Landsthinget vælges paa 8 Aar. Halvdelen afgaaer hvert 4de Aar. De erholde same daglige Vederlag som Folkethingets Medlemmer.<lb />
+<law n="40" >§ 40.<lb /></law>
+Naar en ny Communallov er given, kan det ved Lov bestemmes, at Valget af Landsthingets Medlemmer skal gaae over til<lb />
+Communalbestyrelserne.<lb />
+</p>
+<px>
+blev ved Navneopraab, der var forlangt af:<lb />
+Frølund.	M. Drewsen.<lb />
+F. Jespersen.	H. Rasmussen.<lb />
+Madsen.	Schack.<lb />
+Fløe.	Rée.<lb />
+B. Christrnsen.	Thalbitzer.<lb />
+J. A. Hansen.	Winther.<lb />
+Nørgaard.	Olesen.<lb />
+G. Aagaard.<lb />
+</px>
+<p>
+meb 68 Stemmeer mod 66 vedtaget.<lb />
+Stemmegivende 134, Fraværende 12, 5 afholdt sig fra at stemme.<lb />
+</p>
+<px>
+Ja.<lb />
+U. Aagaard.	N. Hansen<lb />
+Bagger.	Hastrup.<lb />
+Bergmann.	v. Haven.<lb />
+Bluhme.	Hiort.<lb />
+Brandt.	Holck.<lb />
+Bregendahl.	Hunderup.<lb />
+H. B. Bruun.	Jacobæus.<lb />
+M. P. Bruun.	C. M. Jespersen.<lb />
+P. D. Bruun.	N. F. Jespersen.<lb />
+Buchwaldt.	H. Johansen af Knardrup.<lb />
+Dahlerup.	Johnsen.<lb />
+David.	Sehestedt-Juel.<lb />
+J. C. Drewsen af Kjøbenhavn.	Knuth.<lb />
+Duntzfelt	Køster.<lb />
+Fibiger.	J. E. Larsen.<lb />
+Flor.	Lüttichau.<lb />
+Funder.	Lützhöft.<lb />
+H. P. Hansen	Marckmann.<lb />
+Mørt Hansen	Mundt.<lb />
+</px>
+</leftside>
+<rightside>
+<px>
+Paludan-Müller.	Schytte.<lb />
+Tage Müller.	Brinck-Seidelin.<lb />
+Mynster.	Sidenius.<lb />
+Neergaard.	Tang.<lb />
+H. C. Nielsen af Tranberg.	Theilmann.<lb />
+Nyholm.	Tobiesen.<lb />
+Olrik.	Tvede.<lb />
+Ostenfeldt.	Algreen Ussing.<lb />
+Oxholm.	W. Ussing af Viborg.<lb />
+Pape.	Wegener.<lb />
+P. Pedersen af Kjøbenhavn.	Visby.<lb />
+B. Peterfen af Kjøbenhavn.	With.<lb />
+C. N. Petersen af Hjørring	Wulff.<lb />
+Pløyen.	Zeuthen.<lb />
+Scavenius.	Ørstev.<lb />
+</px>
+<px>
+Nei.<lb />
+G. Aagaard	Høier.<lb />
+Andresen.	Jacobsen.<lb />
+Andræ.	F. Jespersen af Bogense.<lb />
+Barfod	H. C. Johansen af Østrup.<lb />
+Bjerring.	F. Johansen af Houby.<lb />
+Vlack.	Jungersen.<lb />
+Buntzen.	Kayser.<lb />
+Boisen	Krieger.<lb />
+Cederfeld de Simonsen.	Shr Larsen af Dalby.<lb />
+Balthazar Christensen.	Linnemann.<lb />
+Georg Christensen.	Madsen.<lb />
+H. Chrisrensen.	R. N. Møller.<lb />
+J. Christensen.	R. H. Rielsen af løferup.<lb />
+Colding.	Nørgaard<lb />
+la Cour.	Olesen.<lb />
+Dahl.	Otterstrøm.<lb />
+Dinsen.	Cornelius Petersen af Davinde.<lb />
+M. Drewsen af Silkeborg.	Ploug.<lb />
+Fløe.	I. Rasmussen af Svanninge.<lb />
+Frolund.	H. Rasmussen af Egense.<lb />
+Gleerup.	M. Rasmussen af Herlufmagle.<lb />
+Gregersen.	Rée.<lb />
+Grundtvig.	Schack.<lb />
+Gudmundsson.	Schiern<lb />
+Hall.	Schroll.<lb />
+Hammerich	Schurmann.<lb />
+J. A. Hansen af Kjøbenhavn.	Sigurdsson.<lb />
+L. Hansen af Bjelkerup.	Stender.<lb />
+P. Hansen af Abbetved.	Thalbitzer.<lb />
+Hasselbalch.	Tscherning.<lb />
+Hermannsen.	Luxen.<lb />
+Hvidt.	Westergaard.<lb />
+Hækkerup.	Winther.<lb />
+</px>
+<px>
+Fraværende.<lb />
+Eriksen.	Pjetursson.<lb />
+Gislason.	Ræder.<lb />
+Gram.	Schlegel.<lb />
+Jørgensen.	Skeel.<lb />
+Leth (syg.)	Stockfleth.<lb />
+C. C. Møller.	Treschow.<lb />
+</px>
+<px>
+Stemte ikke.<lb />
+Hage.	Ostermann.<lb />
+Kirk.	J. Pedersen af Sæding.<lb />
+Lorck.<lb />
+</px>
+<p>
+(Fortsættes.)<lb />
+Trykt og forlagt af Kgl Hofbogtrykker Bianco Luno.<lb />
+</p>
+</rightside>
+</pb>

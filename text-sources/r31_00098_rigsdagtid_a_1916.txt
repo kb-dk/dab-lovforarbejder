@@ -1,0 +1,73 @@
+514
+<pb n="98" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>514</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+dog ikke efter 6 Måneders Forløb, tillade, at Kæreskrift indgives inden 2 Uger efter<lb />
+Tilladelsens Meddelelse.
+</p>
+<p>
+Kære til Højesteret har ikke opsættende Virkning, hvor det ikke særlig er<lb />
+fastsat i denne Lov. Dog kan såvel Landsretten som Højesteret anordne sådan<lb />
+Opsættelse.
+</p>
+<p>
+Adgang til Kære fortabes, når en til den given Udsættelse ikke benyttes.
+</p>
+<title>Kapitel 38.</title>
+<undertitle>
+Ny. Foretagelse ved Højesteret.
+</undertitle>
+<wtitle>§ 423.</wtitle>
+<p>
+Højesteret kan på Andragende undtagelsesvis tillade, at en ved denne Ret<lb />
+pådømt Sag på ny foretages ved samme, når der er tilvejebragt en meget stor<lb />
+Sandsynlighed for, at en af Højesteret pådømt Sag uden Andragerens Fejl har foreligget urigtig oplyst, og for, at der nu haves Oplysninger, som vil medføre et væsentlig forskelligt Resultat, samt når samtlige Omstændigheder i høj Grad taler for Bevilgelsen af Andragendet, derunder også, at det må anses for givet, at Andrageren<lb />
+kun ad denne Vej vil kunne undgå eller oprette et for ham indgribende Tab.
+</p>
+<p>
+Under tilsvarende Betingelser kan Højesteret tillade Påanke af en ellers<lb />
+upåankelig Landsrets- eller Underretsdom.
+</p>
+<p>
+Samtidig med at Tilladelsen gives, såvel som på ethvert senere Trin, kan<lb />
+Højesteret eller den Ret, der behandler Sagen, på Begæring bestemme, at den afsagte<lb />
+Doms Virkninger skal stilles i Bero, ganske eller til Dels, mod eller uden Sikkerhedsstillelse.
+</p>
+<p>
+På Adgang til den i nærværende Paragraf omhandlede Retshjælp kan der<lb />
+ikke gives Afkald.
+</p>
+<wtitle>§ 424.</wtitle>
+<p>
+Højesteret bestemmer i hvert enkelt Tilælde, hvorledes de fornævnte Andragender skal behandles, samt hvorledes den forinden Andragendets Afgørelse fornødne<lb />
+Bevisførelse skal foregå, og fastsætter de Lempelser i de almindelige Procesregler,<lb />
+der måtte findes nødvendige eller hensigtsmæssige ved Sagens fornyede Foretagelse.
+</p>
+<p>
+Findes Forudsætningerne for ny Foretagelse eller ekstraordinær Anke ikke at<lb />
+foreligge, afviser Retten Sagen.
+</p>
+<title>Kapitel 39.</title>
+<undertitle>
+Behandling af Sager, der i Medfør af Kapitel 21 henhører under Underret, og<lb />
+Retsmidler mod Underrettens Afgørelser.
+</undertitle>
+<wtitle>§ 425.</wtitle>
+<p>
+Sagen indledes med Stævning. Når Sagen hører til de i § 225 Nr. 1 og 4<lb />
+nævnte, og dens Værdi er under 50 Kr., eller Sagsøgeren er ubemidlet, har Retten<lb />
+på Begæring at affatte Stævning og om fornødent at forsyne den med Indkaldelse ti<lb />
+Møde for Forligskommissionen. Det samme gælder i de i § 225 Nr. 8 nævnte Sager.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

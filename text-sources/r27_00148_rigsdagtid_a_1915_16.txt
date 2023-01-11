@@ -1,0 +1,76 @@
+2935
+<pb n="148" />
+<h>
+<coll>
+2935
+</coll>
+<topmidle>
+F. t. L.  Rettens Pleje.
+</topmidle>
+<colr>
+2936
+</colr>
+</h>
+<wtitle>§ 635.</wtitle>
+<p>
+Kommer Skyldneren, efter at Arrest er gjort, under Konkurs, eller dør han,<lb />
+og offentligt Skifte uden Gælds Vedgaaelse finder Sted efter ham, bortfalder Arrest-<lb />
+rekvirentens Forpligtelse til at anlægge Retssag i Anledning af Fordringen eller<lb />
+Arresten. Den af Rekvirenten i Anledning af Arresten stillede Sikkerhed løsgives dog<lb />
+først, naar 8 Uger er gaaet efter Arrestens Foretagelse eller, hvis Sag har været<lb />
+anlagt og hæves, 8 Uger efter Ophævelsen, og der derhos ikke fra Boets Side er rejst<lb />
+Sag om Erstatning. |Er dette sket, maa det endelige Udfald af Sagen afventes.
+</p>
+<wtitle>§ 636.</wtitle>
+<p>
+Under Arrestsagen paakendes det, om Arresten er lovlig gjort. Er Retssag i<lb />
+Anledning af den paagældende Fordring svævende, og Arrestsagen ikke behandles i<lb />
+Forbindelse med Hovedsagen, kan Indsigelser mod Fordringens Rigtighed ikke<lb />
+fremføres under Arrestsagen. I øvrigt kan alle andre Indsigelser vedkommende Ar-<lb />
+restens Lovlighed fremsættes og paakendes under Arrestsagen, uden Hensyn til, om<lb />
+de tilforn har været undergivne Fogedens Afgørelses.
+</p>
+<p>
+Dersom Retten efter derom af Rekvisitus nedlagt Paastand skønner, at der<lb />
+ikke i hans økonomiske Stilling eller Forhold i øvrigt paa den Tid, da Arresten be-<lb />
+gæredes, fandtes nogen rimelig Anledning for Arrestrekvirenten til at benytte det<lb />
+nævnte Retsmiddel, bliver der ikke ved Dommen at tilkende Rekvirenten Erstatning<lb />
+for de med Arrestens Foretagelse eller den særlige Retsforfølgning forbundne Udgifter.<lb />
+Herimod stridende Overenskomster er ugyldige.
+</p>
+<wtitle>§ 637.</wtitle>
+<p>
+Klager fra dens Side, hos hvem Arresten er gjort, sigtende til at bevirke Op-<lb />
+hævelse af den foretagne Arrest som ulovlig gjort, kan overfor Arrestrekvirenten<lb />
+alene fremføres henholdsvis under Arrestsagen eller den i Anledning af Fordringen<lb />
+anlagte Retssag.
+</p>
+<wtitle>§ 638.</wtitle>
+<p>
+Arresten kan ophæves saavel ved Dommen i Arrestsagen som ved Dommen<lb />
+i Hovedsagen.
+</p>
+<p>
+Arresten bortfalder først, naar Ankefristen for den Dom, hvorved den kendes<lb />
+ugyldig, er udløbet, uden at Anke er iværksat, medmindre andet er bestemt i Dommen.
+</p>
+<wtitle>§ 639.</wtitle>
+<p>
+Forsømmer Arrestrekvirenten den ham ifølge det foregaaende paahvilende For-<lb />
+pligtelse til inden de i § 634 ommeldte Frister at begynde Arrestsag eller Sag i Anled-<lb />
+ning af Fordringen eller afvises eller hæves nogen af disse Sager, kan Arresten fordres<lb />
+ophævet, dog uden at Arrestrekvirenten af denne Grund er udelukket fra igen at gøre<lb />
+Arrest for den samme Fordring.
+</p>
+<wtitle>§ 640.</wtitle>
+<p>
+En paalagt Arrest kan i det hele eller for en Del ophæves af Fogeden paa<lb />
+Grund af Omstændigheder, som er indtruffet efter Arrestens Foretagelse. Paa Grund<lb />
+af formelle Fejl ved Forfølgningssagen kan Arresten kun fordres ophævet i Medfør<lb />
+af § 639.
+</p>
+<p>
+Forinden Arresten ophæves, skal Fogeden saa vidt muligt give Arrestrekvi-<lb />
+renten Lejlighed til at ytre sig, medmindre Grunden til Ophævelsen er Udeblivelse<lb />
+med de anordnede Underholds- og Varetægtspenge.
+</p>

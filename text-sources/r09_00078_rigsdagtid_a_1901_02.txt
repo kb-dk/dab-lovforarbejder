@@ -1,0 +1,81 @@
+2303
+<pb n="78" />
+<h>
+<coll>2303</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2304</colr>
+</h>
+<wtitle>§ 371.</wtitle>
+<p>
+I Fogedprotokollen optages:
+</p>
+<p>
+1)	Angivelse af Tid og Sted for Forretningen, Parternes Navne, Eksekutionsgrund-<lb/>
+lagets Beskaffenhed;
+</p>
+<p>
+2)	Betegnelse af Fogden og Vidnerne;
+</p>
+<p>
+3)	Beretning om Forretningens Gang i Almindelighed.
+</p>
+<p>
+I Tilfælde af Tvist optages i Fogedprotokollen en ordret Angivelse af de frem-<lb/>
+satte Paastande. Derhos lader Fogden i clet Omfang, som af ham skønnes hensigts-<lb/>
+mæssigt, Parternes Erklæringer over Sagens Sammenhæng protokollere, dog ikke ordret,<lb/>
+men kun efter deres væsentlige Indhold. Det tilførte oplæses og vedkendes.
+</p>
+<wtitle>§ 372.</wtitle>
+<p>
+Udsættelse kan kun undtagelsesvis gives under Forretningen, naar ikke Parterne<lb/>
+ere enige derom.
+</p>
+<p>
+Derimod kan Fogden beslutte eller tilstaa en Standsning i Forhandlingerne,<lb/>
+naar Omstændighederne kræve det. Fogden har da paa Domhaverens Forlangende<lb/>
+ved Bevogtning eller paa anden Maade at træffe de fornødne Foranstaltninger for at<lb/>
+opretholde den samme Tilstand, indtil Forretningen atter fortsættes. Parterne skulle<lb/>
+paa behørig Maade underrettes om Tiden herfor.
+</p>
+<wtitle>§ 373.</wtitle>
+<p>
+I opstaaende Tvistigheder afsiger Fogden Kendelse umiddelbart efter For-<lb/>
+handlingernes Slutning eller dog snarest muligt.
+</p>
+<p>
+Kendelsen, der skal være ledsaget af Grunde, indføres fuldstændigt i Protokollen.
+</p>
+<p>
+Dens Fuldbyrdelse kan ikke hindres ved Anke eller Kære.
+</p>
+<wtitle>§ 374.</wtitle>
+<p>
+I Fogedprotokollen optegnes nøjagtigt alle de enkelte Genstande, hvori Udlæg<lb/>
+gøres; ved hver enkelt Genstand tilføjes dens Værdi efter den stedfundne Ansættelse.
+</p>
+<p>
+Fogden erklærer derefter til Protokollen de optegnede Genstande for udlagte<lb/>
+til Domhaverens Fyldestgørelse og betyder Domfældte, at han fra nu af ikke uden at<lb/>
+paadrage sig Strafansvar kan raade over dem paa en Maade, som kommer i Strid<lb/>
+med Udlægshaverens Ret. Er Domfældte ikke til Stede, gives der den eller dem, som<lb/>
+i Henhold til § 363 tilkaldes paa hans Vegne, Paalæg om at give Domfældte en saadan<lb/>
+Betydning, og efter Omstændighederne kan lignende Betydning gives den Trediemand,<lb/>
+i hvis Besiddelse clet udlagte er.
+</p>
+<wtitle>§ 375.</wtitle>
+<p>
+Hvor der gives Udlæg i fast Ejendom, uden at cler tillige gives Udlæg i dens<lb/>
+Indtægter, forbliver den indtil Tvangsauktionen i Domfældtes Besiddelse, medmindre<lb/>
+denne findes at ødelægge eller forringe Ejendommen, i hvilket Tilfælde den kan sættes<lb/>
+under en af Fogden valgt Mands Bestyrelse.
+</p>
+<p>
+Udlægsforretningen maa, for at kunne gøres gældende imod dem, cler i god<lb/>
+Tro ved Retshandler maatte erhverve Rettigheder over Ejendommen, tinglæses ved<lb/>
+dennes Værneting.
+</p>
+<wtitle>§ 376.</wtitle>
+<p>
+Udlagt Løsøre maa, naar Udlægshaveren modsætter sig clet, ikke forblive i<lb/>
+Domfældtes Besiddelse, medmindre denne stiller antagelig Sikkerhed for dets Tilstede-
+</p>

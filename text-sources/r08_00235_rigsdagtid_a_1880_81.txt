@@ -1,0 +1,48 @@
+3833
+<pb n="235" />
+<h>
+<coll>3833</coll>
+<topmidle>Forsl. t. L. om Strafieretspleien.</topmidle>
+<colr>3834</colr>
+</h>
+<p>Hovedsporgsmaalet indledes altid med Ordene: Gr den Sigtede skyldig?</p>
+<p>Forbrydelsen skal betegnes og spørgsmaalet stilles saaledes, at Reglerne i § 329<lb />
+derved blive fyldestgjorte. Til retlig Betegnelse af den Forbrydelse, som paastaas at foreligge,<lb />
+anvendes Forbrydelsens i Loven hjemlede Navn eller, hvor intet saadant findes, en Henvisning<lb />
+til den paagjældende Straffebestemmelse, hvorhos den i Loven indeholdte ncrrmere Beskrivelse<lb />
+af Forbrydelsen st.^l medoptages i Spørgsmaalet.</p>
+<wtitle>§ 333.</wtitle>
+<p>Naar der under Forhandlingen er fremkommet bestemte Bevisdata til Hjemmel for<lb />
+cn Omstændighed, der vil udelukke Straf, eller som der efter Rettens skjøn mulig kan blive<lb />
+tillagt en saadan Virkning, kan dcr stilles et særskilt spørgsmaal om Tilstedeværelsen af<lb />
+samme, som Tillæg til Hovedsporgsmaalet, for at fremkalde en udtrykkelig Udtalelse af Noev-<lb />
+ningerne herom.</p>
+<p>I den Maade, hvorpaa Hovedsporgsmaalet bliver at fremscrttc, ster der i saadanne<lb />
+Tilicelde ingen Forandring.</p>
+<wtitle>§ 334.</wtitle>
+<p>^pørgsmaal om Tilftedeværelsen ar Omstændigheder, der ifølge Loven hjemle Ned-<lb />
+sættelse af Straffen maa ikke optages i Hovedsporgsmaalet, men bor altid gjøres til Gjen-<lb />
+stand for særskilte Tillægssporgsmaal.</p>
+<p>Andrager den beskikkede Forsvarer eller den Sigtede paa, at et saadant spørgsmaal<lb />
+stilles, kan det kun ncrgtcs, naar Retten finder, at den omspurgte Omstændighed ikke efter<lb />
+Loven hjemler Nedsættelse af Straffen. Retten kan ogsaa i Embeds medfør stille et faadant<lb />
+spørgsmaal, naar den ifolge det under Forhandlingen Fremkomne finder Grund dertil.</p>
+<wtitle>§ 335.</wtitle>
+<p>Naar der i medfør as Anklagen skal stilles spørgsmaal om Tilstedeværelsen af Om-<lb />
+stcrndigheder, som hjemle StrafforHøielse, bsr de regelmcrsig gjøres til Gjenstand for særskilte<lb />
+Tilltrgssporgsmaal og altid, naar Anklageren fordrer det.</p>
+<wtitle>§ 336.</wtitle>
+<p>De i §§ 333—335 omhandlede Tillægssvorgsmaal bortfalde, naar Hovedjpørgs-<lb />
+maalet besvares bencrgtende.</p>
+<p>Naar der spørges om Tilftedeværelsen af en i Loven anerkjendt Grund til at ude<lb />
+lukke, uedscrttc eller forhsic Straffen, skal det fornødne faktiste Grundlag optages i spørgs<lb />
+maalet.</p>
+<wtitle>§ 337.</wtitle>
+<p>Naar det efter Anklagens Indhold er nodvendigt til udtommende Forelæggelse af<lb />
+samme, eller Retten i det under Forhandlingen Fremkomne og Reglen i § 329 Nr. 1 finder<lb />
+Hjemmel dertil, bliver der efter hverandre at stille flere spørgsmaal til Nævningerne an-<lb />
+gaaende en og samme Handlings Henførelsc under forstjellige Straffebestemmelser. med Hen-<lb />
+syn til hver Gruppe af spørgsmaal finde de ovenstaaende Regler Anvendelse.</p>
+<p>Angaa de flere spørgsmaa! Handlingens Henførelse under forskellige Straffebestem-<lb />
+melsel med forstjellig Strafferamme, sættes det spørgsmaal forst, hvis Bekræftelse medfører<lb />
+den strengeste Beoemmelse.</p>

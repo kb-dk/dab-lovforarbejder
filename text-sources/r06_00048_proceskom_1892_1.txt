@@ -1,0 +1,87 @@
+48
+<pb n="48" />
+<rightside>
+<pagename>46</pagename>
+<p>
+</p>
+<p>71.    Holstebro med Hjerm-Ginding Herred<lb />
+c.  27,500.
+</p>
+<p>72.    Lemvig med Skodborg-Vandfuld Herred<lb />
+c.  18,600.
+</p>
+<p>73.    Ringkjøbing  og  Ulfborg-hind  Herred<lb />
+c. 17,000.
+</p>
+<p>74.    Bølling-Nørre Herred c. 15,000.
+</p>
+<p>75.    Øster og Vester Herred samt Varde<lb />
+med Landsogne c. 30,000.
+</p>
+<p>76.    Esbjerg med Skads Herred og Fanø<lb />
+c. 21,000.
+</p>
+<p>77.    Ribe med Ribe Herred c. 11,000.
+</p>
+<p>78.    Gjjørding-Malt Herred c. 13,500.
+</p>
+<p>79.    Andst-Slangs Herred c.  19,000.
+</p>
+<p>80.    Vejle med Nørvang-Tørrild Herred<lb />
+c. 42,000.
+</p>
+<p>81.    Bjerge og Hatting Herreder c. 20,000.
+</p>
+<p>82.    Fredericia   og   Elbo,  Brusk,   Holmans Herreder c. 23,000.
+</p>
+<p>83.    Kolding og Kolding Herred c. 26,200.
+</p>
+<p>84.    Horsens c.  18,700.
+</p>
+<p>85.    Voer og Nim Herreder c. 18,000.
+</p>
+<p>86.    Tyrsting-Vrads Herred c. 13,000.
+</p>
+<p>87.    Silkeborg Birk c. 13,400.
+</p>
+<p>88.    Skanderborg    med    Hjelmslev-Gjern<lb />
+Herred c. 14,000.
+</p>
+<p>89.    Hads Herred c. 13,000.
+</p>
+<p>90.    Hasle,   Vesterlisberg,   Framlev   samt<lb />
+Ning Herreder c. 27,000.
+</p>
+<p>91.    Frijsenborg Birk c. 21,500.
+</p>
+<p>92.    Aarhus c.  36,500.
+</p>
+<p>93.    Ebeltoft med Mols Herred c. 13,000.
+</p>
+<p>94.    Grenaa med Nørre Herred c. 18,000.
+</p>
+<p>95.    Randers c.  18,000.
+</p>
+<p>96.    Rougsø,   Sønderhald   og   Ø.  Lisberg<lb />
+Herreder e. 30,000.
+</p>
+<p>97.    Nørhald, Støvring og Galten Herreder<lb />
+e.  17,000.
+</p>
+<p>98.    Mariager  og   Gierlev-Onsild   Herred<lb />
+c.  13,000.
+</p>
+<p>99.    Aalborg    med    Aalborg    Birk   og<lb />
+Fleskum Herred c. 41,400.
+</p>
+<p>
+</p>
+<p>100.    Kjær Herred c. 20,000.
+</p>
+<p>101.    Hellum-hindsted Herred e. 19,500.
+</p>
+<p>102.    Løgstør med Aars-Slet Herred c.. 13,900.
+</p>
+<p>103.    Nibe med Hornum Herred  c. 13,500.
+104.	</p>
+</rightside>

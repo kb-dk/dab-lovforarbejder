@@ -1,0 +1,67 @@
+4071
+<pb n="216"/>
+<h>
+<coll>4071</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>4072</colr>
+</h>
+<p>
+klager bliver i saa Fald altid at beskikke og tillige Forsvarer, medmindre Sigtede<lb />
+selv bar antaget en Forsvarer, eller den Forsvarer, som allerede er beskikket for ham,<lb />
+er beføjet til at møde for den overordnede Ret og erklærer sig villig hertil.
+</p>
+<p>
+Rettens Afgørelse træffes ved Kendelse og meddeles uden Ophold alle ved-<lb />
+kommende.
+</p>
+<wtitle>§ 934.</wtitle>
+<p>
+Mod Landsrettens Afgørelse i et Kæremaal kan yderligere Kære til Højesteret<lb />
+ikke finde Sted, medmindre Højesteret undtagelsesvis meddeler Tilladelse hertil (§ 200).<lb />
+Andragende om saadan Tilladelse maa indgives til Højesteret inden en Uge, efter at<lb />
+Landsrettens Kendelse er meddelt. Paa saadant yderligere Kæremaal finde Reglerne<lb />
+i de foregaaende Paragrafer Anvendelse med de fornødne Lempelser.
+</p>
+<p>
+Kæremaal kunne i Højesteret forhandles og afgøres i det i § 914 om-<lb />
+meldte Udvalg.
+</p>
+<wtitle>§ 935.</wtitle>
+<p>
+Beslutninger vedrørende Forberedelsen af et Kæremaals Forhandling kunne i<lb />
+lignende Omfang som bestemt for Ankesagers Vedkommende træffes henholdsvis af<lb />
+Landsrettens eller af Højesterets Justitiarius.
+</p>
+<title>Kapitel 82.</title>
+<undertitle>Genoptagelse.</undertitle>
+<wtitle>§ 936.</wtitle>
+<p>
+Naar en Forfølgning, som ved Undersøgelsesret har været indledet mod en<lb />
+bestemt Sigtet, standses (§ 793), eller naar, efter at Tiltale er rejst, Forfølgningen fra-<lb />
+faldes, uden at Dom bliver afsagt, kan, udenfor det i § 795 omhandlede Tilfælde,<lb />
+ny Forfølgning ved Undersøgelsesret eller ny Tiltale kun rejses, naar ny Beviser af<lb />
+Vægt senere komme for Dagen, eller de i nedenstaaende § 937 angivne Betingelser<lb />
+ere til Stede. Derimod er den Omstændighed, at Undersøgelsesretten i Henhold til<lb />
+§ 785 har nægtet at tage en Begæring om Forundersøgelse til Følge eller i Henhold<lb />
+til § 793 har standset en begyndt Forundersøgelse, ikke til Hinder for, at Tiltale<lb />
+rejses ved den dømmende Ret.
+</p>
+<wtitle>§ 937.</wtitle>
+<p>
+Genoptagelse af en Sag, som er paadømt ved Højesteret eller ved Landsret<lb />
+under Medvirkning af Nævninger eller ifølge Anke, og hvorunder Tiltalte er frifunden,<lb />
+kan finde Sted efter Justitsministerens Begæring,
+</p>
+<p>
+1.	naar det ifølge en Tilstaaelse, Tiltalte senere har afgivet, eller andre Beviser,<lb />
+der senere ere komne for Dagen, maa antages, at han har begaaet Forbrydelsen;
+</p>
+<p>
+2.	naar falske Forklaringer eller Erklæringer ere afgivne under Sagen af Vidner<lb />
+eller Syns- eller Skønsmænd, eller falske eller forfalskede Dokumenter ere benyttede<lb />
+under samme, eller noget strafbart Forhold, sigtende til at paavirke eller bestemme<lb />
+Sagens Udfald, er udvist enten af Tiltalte eller af nogen, der i Medfør af sit Embede<lb />
+eller offentligt Hverv har medvirket ved Sagens Behandling, og der efter Omstændig-<lb />
+hederne er god Grund til at antage, at saadant har bevirket eller medvirket til, at<lb />
+Tiltalte har undgaaet Domfældelse.
+</p>

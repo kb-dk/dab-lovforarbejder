@@ -1,0 +1,76 @@
+2239
+<pb n="51" />
+<h>
+<coll>2239</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2240</colr>
+</h>
+<wtitle>§ 206.</wtitle>
+<p>
+I Dommens Vedtagelse deltage for Landsretternes Vedkommende mindst fem.<lb/>
+i Sager, i hvilke Nævninger medvirke, mindst tre, og for Højesterets Vedkommende<lb/>
+mindst ni Medlemmer af Retten, jvf, dog § 205. Samme Regler gælde ogsaa for<lb/>
+Vedtagelse af Kendelser, medmindre andet er bestemt.
+</p>
+<wtitle>§ 207.</wtitle>
+<p>
+For enhver Afgørelse i en Ret, der beklædes af flere Dommere, skal der være<lb/>
+Stemmeflerhed. Ved lige Stemmetal gør Formandens (jvf. § 7). eventuelt den efter<lb/>
+Embedsalder ældste i Afgørelsen deltagende Dommers Stemme Udslaget. Kræver Afgørel-<lb/>
+sen Afstemning over flere Punkter, ere de Dommere, som have befundet sig i Mindretal,<lb/>
+pligtige at deltage i de senere Afstemninger, for saavidt det modsatte ikke særlig er bestemt.
+</p>
+<p>
+Danner der sig i en Straffesag om det samme Spørgsmaal flere end to for-<lb/>
+skellige Meninger, af hvilke ingen er i Flertal, blive de for Sigtede ugunstigste Stemmer<lb/>
+regnede sammen med de nærmeste mindre ugunstige, indtil der udkommer Stemme-<lb/>
+flerhed. Er det tvivlsomt, hvilken Mening der er den ugunstigste for Sigtede, bliver<lb/>
+der afstemt særskilt herom.
+</p>
+<p>
+Særskilt Afstemning finder ligeledes Sted, naar der opstaar Meningsforskel<lb/>
+om, hvorledes Spørgsmaalene skulle stilles, eller om Afstemningens Resultat.
+</p>
+<p>
+Den vedtagne Afgørelse føres i Pennen af Rettens Formand eller af den af<lb/>
+de i Afgørelsen samstemmende Dommere, hvem dette Hverv af Formanden overdrages.<lb/>
+Stemmetallet maa ikke optages i Rettens Afgørelser.
+</p>
+<wtitle>§ 208.</wtitle>
+<p>
+Rettens Afgørelser ske ved Kendelse i de Tilfælde, hvor denne Form er særlig<lb/>
+foreskreven.
+</p>
+<wtitle>§ 209.</wtitle>
+<p>
+Domme og Kendelser skulle ledsages af Grunde. Andre Beslutninger af Retten<lb/>
+eller Rettens Formand behøve ikke at begrundes, medmindre saadant særlig er foreskrevet.
+</p>
+<p>
+Den i Rettens Afgørelse af en borgerlig Sag givne Fremstilling af Parternes<lb/>
+mundtlige Angivelser og Ytringer under Sagens Behandling afgiver fuldt Bevis for
+disse, for saa vidt ikke Modbevis imod den føres.
+</p>
+<wtitle>§ 210.</wtitle>
+<p>
+Rettens Afgørelser træffes snarest muligt, efter at den paagældende For-<lb/>
+handling er til Ende. Kan i en Straffesag Afsigelsen ikke finde Sted samme Dag.<lb/>
+skal dog Dom afsiges senest inden en Uge, og hvor Nævninger have medvirket, senest<lb/>
+Dagen efter. Det sidste gælder ogsaa om Kendelser i Straffesager.
+</p>
+<p>
+Afsigelsen af en Dom foregaar ved, at Domsslutningen, efter at hele Dommen<lb/>
+er skriftlig udarbejdet, oplæses i et Retsmøde.
+</p>
+<p>
+Dersom det ikke ved Optagelsen af en borgerlig Sag tilkendegives, naar<lb/>
+Dommen eller Kendelsen vil blive afsagt, skulle Parterne og efter Omstændig-<lb/>
+hederne Vidner og Syns- eller Skønsmænd tilsiges til at høre den afsagt. Er<lb/>
+den paagældende ikke saaledes sat i Kendskab om Afsigelsestiden, regnes for<lb/>
+hans Vedkommende de ellers fra Afsigelsen løbende processuelle Frister først fra<lb/>
+Dommens eller Kendelsens Forkyndelse for ham.
+</p>
+<p>
+I Straffesager bør Tiltalte, hvis han er fængslet, bringes til Stede ved Dom-<lb/>
+mens Afsigelse, jvf. dog § 897, 2det Stykke. Er Dommen fældende, og er Tiltalte
+</p>

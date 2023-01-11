@@ -1,0 +1,103 @@
+1961
+<pb n="27" />
+<h>
+<coll>1961</coll>
+<topmidle>Bet. o. Lovf. om Rettens Pleje m. m.</topmidle>
+<colr>1962</colr>
+</h>
+<p>
+30.	Dommeren i Læsø Birk.
+</p>
+<p>
+31.	— i Hassing-Refs Herreder.
+</p>
+<p>
+32.	— i Lemvig Købstad m. m.
+</p>
+<p>
+33.	— i Bølling-Nørre Herreder.
+</p>
+<p>
+34.	— i Ribe Købstad m. m.
+</p>
+<p>
+35.	— i Gjørding-Malt Herreder.
+</p>
+<title>
+Tavle C.
+</title>
+<p>
+(Politimestre i 1ste Lønningsklasse).
+</p>
+<place>
+Sjælland og Møen,
+</place>
+<p>
+1.	Politimesteren i Frederiksberg Birk.
+</p>
+<p>
+2.	—	i Københavns Amts nordre Birk.
+</p>
+<p>
+3.	—	i Roskilde Købstad m. m.
+</p>
+<p>
+4.	—	i Køge Købstad m. m.
+</p>
+<p>
+5.	—	i Helsingør Købstad m. m.
+</p>
+<p>
+6.	—	i Hillerød Købstad m. m.
+</p>
+<p>
+7.	—	i Holbæk Købstad m. m.
+</p>
+<p>
+8.	—	i Kalundborg Købstad m. m.
+</p>
+<p>
+9.	—	i Slagelse Købstad m. m.
+</p>
+<p>
+10.	—	i Ringsted Købstad m. m.
+</p>
+<p>
+11.	—	i Vordingborg Købstad m. m.
+</p>
+<place>
+Bornholm.
+</place>
+<p>
+12. Politimesteren i Rønne Købstad m. m.
+</p>
+<place>
+Lolland-Falster.
+</place>
+<p>
+13.	Politimesteren i Nykøbing F. Købstad m. m.
+</p>
+<p>
+14.	—	i Sakskøbing Købstad m. m.
+</p>
+<p>
+15.	—	i Nakskov Købstad m. m.
+</p>
+<place>
+Fyn.
+</place>
+<p>
+16.	Politimesteren i Nyborg Købstad m. m.
+</p>
+<p>
+17.	—	i Svendborg Købstad m. m.
+</p>
+<p>
+18.	—	i Odense Købstad m. m.
+</p>
+<p>
+19.	—	i Odense Herred m. m.
+</p>
+<p>
+20.	— i Assens Købstad m. m.
+</p>

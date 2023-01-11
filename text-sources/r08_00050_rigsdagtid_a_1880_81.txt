@@ -1,0 +1,48 @@
+3463
+<pb n="50" />
+<h>
+<coll>3463</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>3464</colr>
+</h>
+<p>Nye Paastande og fakn'ste Anbringender, saavelsom Forandringer i, Tillæg til eller<lb />
+Opgivelser af tidligere fremsætte Paastande, Benægtelser, Indsigelser eller faktiske Anbringender,<lb />
+forfuavidt herom efter § 168, jfr. § 169, kan blive Spørgsmaal udenfor de skriftlige Sags-<lb />
+fremstillinger og Tillæg til samme;</p>
+<p>De i § 194 omhandlede Indsigelser og Forlangender,</p>
+<p>I Retsbogen gjøres fremdeles Bemcrrkning om Overleverelsen eller Fremlæggelsen af<lb />
+alle skriftlige Fremstillinger, Dokumenter. Breve, Forkyndelser, meddelelser og andre Aktstykker,<lb />
+som derhos blive at forsyne med Fremlæggelsespaategning.</p>
+<wtitle>§ 86.</wtitle>
+<p>Klagefkriftet, Parternes ovrige Skrifter og Sagsfremstillinger forblive i Rettens Arkiv.<lb />
+Dokumenter og Aktstykker, der benyttes som Bevis, tilbageleveres Parterne, naar Sagen er<lb />
+paadsmt, imod at disse til Retten indlevere bekræftede Gjenparter. Dog fordres ikke Gjen«<lb />
+part af Dokumenter, der kun ere Udskrifter af Embedsprotokoller, eller af Handelsboger, Regn-<lb />
+skabsbøger eller andre saadanne Dokumenter, som ere af særdeles betydeligt Omfang.</p>
+<wtitle>§ 87.</wtitle>
+<p>
+Retsbogen underskrives af den, der har fungeret som Formand, og af Protokolføreren.</p>
+<wtitle>§ 88.</wtitle>
+<p>Retsskriveren har at samle de enhver Sag vedkommende Dokumenter og bevare dem<lb />
+eller de Gjenparter, som ifolge § 86 afgives i Stedet for Originaler, der tilbageleveres.</p>
+<p>Iøvrigt bestemmes det nærmere ved Anordning for enhver enkelt Ret, hvilke Boger<lb />
+der stulle føres ved den, samt hvorledes de skulle indrettes.</p>
+<wtitle>§ 89.</wtitle>
+<p>Parterne saavelsom enhver Anden, som deri har retlig Interesse, kan hos Retsskriveren<lb />
+forlange Udskrift af Retsbogerne samt af de øvrige ved Retten beroende og til Sagen horende<lb />
+Dokumenter, imod herfor at erlægge sportelmcessig Betaling.</p>
+<p>Dersom Retsfkriveren ncrgter at meddele en forlangt Udskrift, kan den, som har be-<lb />
+gjoert en saadan, skriftlig fremsætte behorig begrundet Anke, der afleveres til Retsskriveren,<lb />
+som indsender denne med sin Erklæring til Retten, som derefter ved Kjendelse afgjør Spørgs-<lb />
+maalet.    Mod denne Kjendelse kan der iværksoettes Besværing efter de almindelige Regler herom</p>
+<title>Kapitel VIII.</title>
+<undertitle>Om Procesmaadeu i Almindelighed.</undertitle>
+<wtitle>§ 90.</wtitle>
+<p>Samtlige til Processens (derunder Bevisets) førelse fornødne Skridt iværkfættes af<lb />
+Parterne.    En Indgriben af Retten finder kun Sted, saavidt Loven hjemler det.</p>
+<wtitle>§ 91.</wtitle>
+<p>Retssager forhandles mundtligt.    Skrift anvendes kun, forsaavidt Loven hjemler det.</p>
+<p>Ved den mundtlige Forhandling benyttes frit Foredrag; Oplæsning af skrevne Bevis-<lb />
+dokumenter, Fremstillinger eller Udviklinger tilstedes alene, hvor Loven hjemler saadant. Og-<lb />
+saa Beviser fremstilles, saavidt muligt, i frit mundtligt Foredrag; dog tillades Oplæsning,<lb />
+hvor det kommer an paa ordret Gjengivelse.</p>

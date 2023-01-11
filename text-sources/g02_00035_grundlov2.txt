@@ -1,0 +1,103 @@
+1543
+<pb n="35" >
+<p rend="page">35</p>
+<h>
+<coll>1543</coll>
+<colr>1544</colr><lb />
+</h>
+<leftside>
+<btitle>
+A. Grundlovsudkastet.<lb />
+§§ 30—36.<lb />
+</btitle>
+</leftside>
+<rightside>
+<btitle>
+C. Minoritetsindstillingerne.<lb />
+</btitle>
+<stitle>
+3die Minoritet.<lb />
+</stitle>
+<p>
+<law n="30" />§ 30. Rigsdagen bestaaer af Folkethinget og Landsthinget. Begge fremgaae ved umiddelbare Valg.<lb />
+<law n="31" />§ 31. Valgret til Folkethinget har enhver uberygtet, fuldmyndig Mand, som har Indfødsret, og hvis Bo ei er under Opbuds- eller Fallitbehandling, naar han enten er Borger i en<lb />
+Kjøbstad, eller i det sidste Aar har eiet eller havt i Brug en Jordeiendom, matriculeret idetmindste til 2 Skjepper Hartkorn, eller i det sidste Aar har svaret i directe kongelige eller communale Afgifter ialt 5 Rbd. Valgbar til Folkethinget er enhver uberygtet, fuldmyndig Mand’<lb />
+som har Indsødsret, og hvis Bo ei er under Opbuds- eller Fallitbehandling.<lb />
+<law n="32" />§ 32 Valgene til Folkethinget foregaae paa Distrikter af omtrent 14, 000 Indvaanere.<lb />
+Hvert Distrikt vælger Een, efter de Regler,<lb />
+som Valgloven foreskriver.<lb />
+(Jespersen.) Hvert Distrikt vælger Een<lb />
+blandt dem, der have stillet sig.<lb />
+</p>
+<p>
+Medlemmerne af dette Thing vælges paa 3 Aar og erholde et dagligt Vederlag.<lb />
+</p>
+<stitle>
+4de Minoritet a.<lb />
+</stitle>
+<p>
+<law n="33" />§ 33. Valgret til Landsthinget har enhver uberygtet, fuldmyndig Mand, som har<lb />
+Indfødsret, og hvis Bo ei er under Opbuds- eller Fallitbehandling, naar han i det sidste Aar<lb />
+har svaret i directe kongelige eller communale Afgifter ialt 40 Rbd.<lb />
+</p>
+<p>
+Valgbar til Landsthinget er Enhver, som har de til Valgbarhed til Folkethinget<lb />
+fornødne Egenskaber, dog først naar han har fyldt sit 35te Aar.<lb />
+<law n="34" />§ 34. Landsthinget skal bestaae af 20 Medlemmer valgte af Østifterne, 20 Medlemmer valgte<lb />
+af Nørrejylland, og et lignende Antal valgte af Slesvig, samt 2 Medlemmer valgte af Island,<lb />
+1 Medlem valgt af Færøerne.<lb />
+</p>
+<p>
+Desuden Indtræde i Landsthinget 2 Medlemmer valgte af Universitetet i Kjøbenhavn,<lb />
+1 Medlem valgt af ven polytechniske Anstalts og den militære Høiskoles Lærere i Forening, 2<lb />
+Medlemmer valgte af Høiesteret, 2 Medlemmer valgte af Overretterne i Danmark, 4 Medlemmer<lb />
+valgte af Geistligheden i Danmark og 6 Medlemmer valgte af Kongen.<lb />
+</p>
+<p>
+Af de 20 Medlemmer, som Østifterne have at vælge, vælges:<lb />
+4 af Kjøbenhavn;<lb />
+2 — de øvrige Kjøbstæder i Sjællands Stift med Undtagelse af Byerne paa Bornholm:<lb />
+1 — Kjøbstæderne i Lollands-Falsters Stift;<lb />
+2 — Kjøbstæderne i Fyens Stift; og<lb />
+11 — Landdistrikter paa omtrent lige mange Indvaanere, dog at paa Bornholm Kjøbstæder og<lb />
+Land udgjøre eet Distrikt.<lb />
+</p>
+<p>
+Af de 20 Medlemmer, som falde paa Jylland, vælges 8 af Købstæderne;<lb />
+12 af Landdistrikter paa omtrent lige mange Indvaanere.<lb />
+</p>
+<p>
+Med Hensyn til Adskillelsen mellem By og Land til Landsthingsvalgene kan Forandring<lb />
+skee ved Lov, dog ikke førend efter Udløbet af den første Valgperiode.<lb />
+<law n="35" />§ 35. Samtlige Valg til Landsthinget skee paa 8 Aar, og efter de Regler, som Valgloven bestemmer.<lb />
+Halvdelen af de Valgte afgaaer hvert 4de Aar.<lb />
+<law n="36" />§ 36. Medlemmerne af begge Thing erholde et dagligt Vederlag, hvis Størrelse fastsættes i Valgloven.<lb />
+</p>
+<stitle>
+4de Minoritet b.<lb />
+</stitle>
+<p>
+<law n="33" />§ 33. Valgret tit Landsthinget har enhver uberygtet, fuldmyndig Mand, som har Indfødsret, og hvis Bo ei er under Opbuds- eller Fallit-Behandling, naar han i det sidste Aar<lb />
+har svaret i directe kongelige eller communale Afgifter i Alt 40 Rbdlr.<lb />
+<law n="34" />§ 34. Valgbarhed til Landsthinget har Enhver, som er valgbar til Folkethinget, naar<lb />
+han har fyldt sit 35te Aar.<lb />
+<law n="35" />§ 35. Landsthinget skal bestaae af:<lb />
+20 Medlemmer valgte af Østifterne.<lb />
+20	—	—	Nørrejylland.<lb />
+2	—	—	Island.<lb />
+1	—	—	Færøerne.<lb />
+2	—	—	Universitetet i Kjøbenhavn.<lb />
+1	—	—	Den polytechyniske Anstalts og den militære Høiskoles Lærere<lb />
+i Forening.<lb />
+2	—	—	Høiesteret, og<lb />
+2	—	—	Overretterne i Danmark.<lb />
+<law n="36" />§ 36. Valgene til Landsthinget foregaae amtsviis. Hovedstaden vælger særskilt. Hver<lb />
+Vælger stemmer i sin Communne paa saamange Mænd, som skulle vælges for Valgkredsen.<lb />
+Omvalg finde Sted for deres Vedkommende, der ved første Valg ikke have opnaaet mere en<lb />
+Trediedelen af de afgivne Stemmer.<lb />
+<law n="37" />§ 37. Medlemmerne af Landsthinget vælges paa 8 Aar. Halvdelen afgaaer hvert<lb />
+4de Aar.<lb />
+<law n="38" />§ 38. Medlemmerne af Landsthinget erholde et dagligt Vederlag.<lb />
+</p>
+</rightside>
+</pb>

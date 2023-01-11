@@ -1,0 +1,39 @@
+192
+<pb n="198" />
+
+<p>tillægges der  den  Arresterede   Erstatning  for<lb />
+ham ved Arresten forårsaget Tab, Kreditspilde<lb />
+og Tort, når det må antages, at  Arresten,<lb />
+om den var bleven  behørig forfulgt   og holdt<lb />
+ved Magt, vilde have medført sådant Ansvar.</p>
+<wtitle>§ 603.</wtitle>
+<p>Arresten kan ophæves fåvel ved Dommen i Arrestsagen som ved Dommen i Hovedsagen, når den enten i og for sig eller på<lb />
+Grund af det med Hensyn til Hovedsagen<lb />
+antagne Resultat må anfees for ulovlig gjort.</p>
+<p>Arresten bortfalder først, når Exekutionsfristen for den Dom, hvorved den kjendes<lb />
+ugyldig, er udløbet, nden at Påanke er<lb />
+iværksat.</p>
+<wtitle>§ 604.</wtitle>
+<p>Den Arresterede kan gjøre sit Krav på<lb />
+Erstatning i Anledning af Arresten gjældende<lb />
+mod Arrestrekvirenten efter Omstændighederne<lb />
+enten som Modkrav under Arrestsagen eller<lb />
+som selvstændigt Søgsmål i første Instants,<lb />
+hvilket sidste dog først kan anlægges, når<lb />
+Arresten enten ved endelig Dom er kjendt<lb />
+ugyldig, eller ved Fogdens Kjendelse (§ 601)<lb />
+ophævet; sådant selvstændigt Søgsmål må<lb />
+i så Fald anlægges inden 8 Uger.</p>
+<wtitle>§ 605.</wtitle>
+<p>Ophæves Arresten af overordnet Ret, for<lb />
+hvilken Fogdens Nægtelse (§ 601) af at gjøre<lb />
+det er indbragt, kan der ved samme Dom<lb />
+tillægges den Arresterede den ham muligvis<lb />
+tilkommende Erstatning hos Arrestrekvirenten.</p>
+<title>Kapitel II.</title>
+<undertitle>Forbud.</undertitle>
+<wtitle>§ 606.</wtitle>
+<p>Ved Forbud, foretaget af Fogden, kan der<lb />
+gives en eller flere bestemte private Personer<lb />
+embedsmæssigt Pålæg om at undlade Handlinger eller Foretagender, som stride imod<lb />
+Forbudsrekvirentens  Ret   og som de Pågjæl-</p>

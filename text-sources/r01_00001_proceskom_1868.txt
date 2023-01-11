@@ -1,0 +1,12 @@
+0
+<pb n="1" />
+<title>
+<p>Udkast</p>
+<p>til</p>
+<p>Lov om Strafferetsplejen.</p>
+</title>
+<undertitle>(Udarbejdet af den ved allerhøjeste Reskript af 28de Februar 1868 nedsatte Proceskommission).</undertitle>
+<undertitle>Marts 1875.</undertitle>
+<undertitle>Kjøbenhavn.</undertitle>
+<undertitle>Trykt hos I. H. Schultz.<lb />
+1875.</undertitle>

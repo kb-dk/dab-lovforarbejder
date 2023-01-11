@@ -1,0 +1,42 @@
+34
+<pb n="34" />
+<rightside>
+<pagename>32
+</pagename>
+<p>flydende 1500 Indbyggere, dog ikke mere end<lb />
+8 i alt, samt for Landet 1 bereden Politibetjent for hver 5000 Indbyggere, saaledes<lb />
+at et overskydende Antal regnes for fulde<lb />
+5000, naar det overstiger Halvdelen. — En<lb />
+Forøgelse af det fastfatte Antal Politibetjente<lb />
+kan med Justitsministerens Samtykke finde<lb />
+Sted, naar vedkommende Købstad eller Amtsraad bevilger de dertil fornødne. Midler.
+</p>
+<p>Politibetjentene, der skulle have Indfødsret og være vederhæftige Mænd af uplettet<lb />
+Rygte, ansættes Paa 3 Maaneders Opsigelse.<lb />
+De antages og afskediges af Amtmanden<lb />
+efter Politimestrenes Indstilling.
+</p>
+<p>Sognefogderne og lignende Bestillingsmænd bistaa Politiet efter de gældende Regler.<lb />
+Det færegne Kystpoliti bortfalder.
+</p>
+<wtitle>§ 90.
+</wtitle>
+<p>I enhver Politikreds stal der være<lb />
+Station, med Vagtstue, Kontor og Opholdssted for Anholdte, paa det Sted, hvor<lb />
+Tingstedet eller, hvis der er flere Tingsteder<lb />
+indenfor Politikredsens Omraade, Hovedtingstedet i Kredsen er. Her skal ogsaa<lb />
+Politimesteren have Bolig.
+</p>
+<wtitle>§ 91.
+</wtitle>
+<p>Politimyndighederne ere Justitsministeren underordnede og staa under hans<lb />
+øverste Tilsyn.
+</p>
+<p>Politiet udenfor Kjøbenhavns Politikreds staar i sin Virksomhed for Efterforskning og Forfølgning af de Forbrydelser,<lb />
+som høre under Overanklagerens Virkekreds,<lb />
+under dennes Overtilsyn. Med Hensyn til<lb />
+fin øvrige Virksomhed staar Politiet udenfor<lb />
+Kjøbenhavns Politikreds under Amtmandens<lb />
+Overtilsyn.
+</p>
+</rightside>

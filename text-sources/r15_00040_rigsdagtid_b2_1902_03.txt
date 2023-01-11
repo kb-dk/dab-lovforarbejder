@@ -1,0 +1,194 @@
+2167
+<pb n="40" />
+<p rend="page">40</p>
+<h>
+<coll>2187</coll>
+<colr>2168</colr><lb />
+<topmidle>Bet. o. Lovf. om Rettens Pleje.</topmidle>
+</h>
+<leftside>
+<p>
+Af Flertallet under Nr. 6:<lb />
+</p>
+<stitle>
+Til§ 179.<lb />
+</stitle>
+<p>
+74) I 2det Stykke, 3die Linie, efter<lb />
+Ordet „Retten" sættes „(derunder ogsaa<lb />
+Skifte- og Fogedret)".<lb />
+</p>
+<p>
+Af Udvalget:<lb />
+</p>
+<p>
+Til 8 182.<lb />
+</p>
+<p>
+75) I sidste Stykke efter „nødvendigt"<lb />
+udgaar Ordet „eller", og der tilføjes: „enten<lb />
+af egen Drift eller ifølge Begæring af",<lb />
+hvorefter de sidste Ord i Stykket „begærer<lb />
+det" udgaa.<lb />
+</p>
+<p>
+Af Flertallet under Nr. 6:<lb />
+</p>
+<stitle>
+Til§ 190.<lb />
+</stitle>
+<p>
+76) I 1ste Stykke, Linie 5 og 6: Ordene<lb />
+„eller, for saa vidt.... Sysselmanden" ud-<lb />
+gaa.<lb />
+</p>
+<p>
+Af Udvalget:<lb />
+</p>
+<stitle>
+Til§ 191.<lb />
+</stitle>
+<p>
+77) 1 Stykket 2), Linie 1, efter „per-<lb />
+sonlig" indskydes: „paa hans Bopæl her<lb />
+i Riget", og disse Ord i Slutningen af<lb />
+Linie 1 og Begyndelsen af Linie 2 udgaa<lb />
+</p>
+<p>
+78) I 4), Linie 3: „ordentligvis" ud-<lb />
+gaar.<lb />
+</p>
+<stitle>
+Til§ 195.<lb />
+</stitle>
+<p>
+79) I 1 ste Stykke: Ordene i Linie 4—5<lb />
+„den almindelige Tidende......Bekendt-<lb />
+gørelser" rettes til „Statstidenden".<lb />
+</p>
+<stitle>
+Til§ 196.<lb />
+</stitle>
+<p>
+80) I Stedet for Ordene „nogen af<lb />
+</p>
+<p>
+de i § 191.......befuldmægtiget" sættes:<lb />
+</p>
+<p>
+„nogen, der er villig".<lb />
+</p>
+<stitle>
+Til§ 198.<lb />
+</stitle>
+<p>
+81) „Salen" rettes til „Sagen".<lb />
+</p>
+<stitle>
+Til§ 199.<lb />
+</stitle>
+<p>
+82) Linie 1. „Processen" ændres til<lb />
+„Sagen".<lb />
+</p>
+<p>
+Sidste Linie. „Fuldmægtige" ændres<lb />
+til „Fuldmægtig".<lb />
+</p>
+<stitle>
+Til§ 201.<lb />
+</stitle>
+<p>
+83) I Linie 5 indskydes foran Ordene<lb />
+„have forladt Mødet": „uberettiget".<lb />
+</p>
+</leftside>
+<rightside>
+<stitle>
+Til§ 209.<lb />
+</stitle>
+<p>
+84) Ordene „, eller efter Omstændig-<lb />
+hederne .... Sagen" i sidste Stykke udgaa.<lb />
+</p>
+<p>
+Af Flertallet under Nr. 6:<lb />
+</p>
+<stitle>
+Til§ 218.<lb />
+</stitle>
+<p>
+85) I næstsidste Stykke forandres<lb />
+„Parts Bekræftelse" til „Parts Ed" og„Be-<lb />
+kræftelsesdommen" til „Edsdommen".<lb />
+</p>
+<p>
+Af Udvalget:<lb />
+</p>
+<stitle>
+Til§ 219.<lb />
+</stitle>
+<p>
+86) 2det Punktum udgaar, og i 3die<lb />
+Punktum forandres „I øvrigt bestemmes<lb />
+Afstemningsordenen" til „Afstemningsor-<lb />
+denen bestemmes".<lb />
+</p>
+<stitle>
+Til§ 220.<lb />
+</stitle>
+<p>
+87) I Linie 2 udgaar Ordet „lovkyn-<lb />
+dige" og „(jfr. dog § 9, 1ste Stykke)", i<lb />
+Linie 3 Ordet „lovkyndige".<lb />
+</p>
+<stitle>
+Til§ 233.<lb />
+</stitle>
+<p>
+88) I 1ste Stykke, sidste Linie, for-<lb />
+andres „finder særlig Grund" til „i sær-<lb />
+lige Omstændigheder finder skellig Grund".<lb />
+</p>
+<p>
+Af Flertallet under Nr. 6:<lb />
+</p>
+<stitle>
+Til§ 249.<lb />
+</stitle>
+<p>
+89) Efter denne Paragraf indsættes<lb />
+en ny § 250, saalydende:<lb />
+</p>
+<p>
+„Ved Tvistigheder, som afgøres af<lb />
+Foged- eller Skifteretter, finde Bestemmel-<lb />
+serne i nærværende Kapitel ikke Anven-<lb />
+delse i første Instans."<lb />
+</p>
+<p>
+Af Udvalget:<lb />
+</p>
+<stitle>
+Til§ 252.<lb />
+</stitle>
+<p>
+90) I 2den Linie indsættes efter<lb />
+„Landsret" „ , for saa vidt Sø- og Han-<lb />
+delssager i Kjøbenhavn angaar, for For-<lb />
+manden i Sø- og Handelsrettens 1ste Af-<lb />
+deling".<lb />
+</p>
+<stitle>
+Til§ 258.<lb />
+</stitle>
+<p>
+91) I 1lte Linie rettes „8" til „7".<lb />
+</p>
+<p>
+92) I Litr. e udelades „uden for Kjø-<lb />
+benhavn", og i Stedet for sættes „ , jfr.<lb />
+for Kjøbenhavn Lov om Sø- og Handelsret<lb />
+af 19. Februar 1861 § 19".<lb />
+</p>
+</rightside>

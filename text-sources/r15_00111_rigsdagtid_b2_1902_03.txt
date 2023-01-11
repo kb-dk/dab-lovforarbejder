@@ -1,0 +1,155 @@
+2309
+<pb n="111" />
+<p rend="page">111</p>
+<h>
+<coll>2309</coll>
+<colr>2310</colr><lb />
+<topmidle>Bilag til Bet. o. Lovf. om Rettens Pleje. </topmidle>
+</h>
+<leftside>
+<p>
+I 1. Stk. i Slutningen tilføjes: „med-<lb />
+mindre saadant særlig er foreskrevet".<lb />
+</p>
+<p>
+I 2. Stk., Linie 1, indskydes efter „Af-<lb />
+gørelse" : „af en borgerlig Sag".<lb />
+</p>
+<p>
+§ 206, jfr. Forslagets §§ 228, 763. 1. Stk.,<lb />
+1. Pkt., og 923, 3.-6. Stk.<lb />
+</p>
+<p>
+„Rettens Afgørelser træffes snarest mu-<lb />
+ligt, efter at den paagældende Forhandling<lb />
+er til Ende. Kan i en Straffesag Afsigel-<lb />
+sen ikke finde. Sted samme Dag, skal dog<lb />
+Dom afsiges senest inden en Uge, og hvor<lb />
+Nævninger have medvirket, senest Dagen<lb />
+efter. Det sidste gælder ogsaa om Ken-<lb />
+delser i Straffesager.<lb />
+</p>
+<p>
+Afsigelsen af en Dom foregaar ved,<lb />
+at Domsslutningen, efter at hele Dommen<lb />
+er skriftlig udarbejdet, oplæses i et Rets-<lb />
+møde.<lb />
+</p>
+<p>
+Dersom det ikke ved Optagelsen af en<lb />
+borgerlig Sag tilkendegives, naar Dommen"<lb />
+o. s. v., som § 228 ud.<lb />
+</p>
+<p>
+„I Straffesager bør Tiltalte, hvis han<lb />
+er fængslet, bringes til Stede ved Dom-<lb />
+mens Afsigelse. Er Dommen fældende,<lb />
+og er Tiltalte ikke til Stede ved Afsigel-<lb />
+sen, bliver Udskrift af Dommen at for-<lb />
+kynde for ham; i andre Tilfælde meddeles<lb />
+der ham paa Begæring Udskrift uden Be-<lb />
+taling. Af alle Domme tilstilles der Over-<lb />
+anklageren Udskrift. Ved Afsigelsen eller<lb />
+Forkyndelsen af en fældende Dom bliver<lb />
+det at betyde domfældte, inden hvilken<lb />
+Frist og paa hvilken Maade han kan frem-<lb />
+sætte Meddelelse om Anke."<lb />
+</p>
+<p>
+§ 207 = Forslagets § 229.<lb />
+</p>
+<p>
+§ 208, jfr. Forslagets §§ 230 og 765.<lb />
+= § 765 med følgende Ændringer:<lb />
+I 2. Stk., Linie 3—4, forandres Or-<lb />
+dene „Afgørelsen indeholdte ... erkendes"<lb />
+til: „Afgørelsen af en borgerlig Sag inde-<lb />
+holdte Fremstilling af Parternes mundtlige<lb />
+Angivelser og Ytringer eller den i Af-<lb />
+gørelsen af en Straffesag indeholdte Frem-<lb />
+stilling af Sagens faktiske Sammenhæng,<lb />
+for saa vidt Fremstillingen erkendes".<lb />
+</p>
+<p>
+8 209, jfr. Forslagets §§ 231 og 763, 2.<lb />
+Stk., 2. Pkt. — § 231.<lb />
+</p>
+<p>
+§ 210 = Forslagets § 764 [med følgende<lb />
+</p>
+<p>
+Ændring:<lb />
+</p>
+<p>
+I Linie 2 tilføjes efter „Regler": „om<lb />
+Straffesagers Behandling".<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+Tredie Bog.<lb />
+</p>
+<p>
+Den borgerlige Retspleje.<lb />
+</p>
+<p>
+Første Afsnit.<lb />
+Almindelige Bestemmelser.<lb />
+</p>
+<p>
+Kapitel 20-22 (§§211—241) = Forslagets<lb />
+Kapitel 14—16 (§§ 121—151).<lb />
+</p>
+<p>
+Kapitel 23—24 (§§ 242—254) = Forslagets<lb />
+Kapitel 18—19 (§§ 160-172).<lb />
+</p>
+<p>
+Kapitel 25 (§§ 255—263) = Forslagets<lb />
+Kapitel 26 (§§ 258—266).<lb />
+</p>
+<title>
+Kapitel 26.<lb />
+</title>
+<undertitle>
+Procesmaaden i Almindelighed.<lb />
+</undertitle>
+<p>
+§264= Forslagets § 173.<lb />
+§ 265 = Forslagets § 174, 2. Stk.<lb />
+§§ 266—67 = Forslagets §§ 203 og 204,<lb />
+§§ 268—77 = Forslagets §§ 208—217.<lb />
+§§ 278—82 = Forslagets §§ 222—226.<lb />
+§ 283 = Forslagets § 218.<lb />
+</p>
+<title>
+Kapitel 27.<lb />
+</title>
+<undertitle>
+Om Parternes og Trediemands Forplig-<lb />
+telse til at fremlægge synbare Bevis- *<lb />
+midler.<lb />
+</undertitle>
+<p>
+§§ 284-87 = Forslagets §§ 311—14.<lb />
+</p>
+<p>
+§ 288, jfr. Forslagets 8 301, 2. og 3. Stk.<lb />
+„Naar en Syns- eller Skønsforretning<lb />
+skal finde Sted, have Parterne at give de<lb />
+udmeldte Mænd Lejlighed" o. s. v., som<lb />
+§ 301, 2. og 3. Stk.<lb />
+</p>
+<title>
+Kapitel 28.<lb />
+</title>
+<p>
+§ 289 = Forslagets § 315, dog at sidste<lb />
+Sætning i 2. Stk. udgaar, og at<lb />
+Tallet „286" i 3. Stk., Linie 2, æn-<lb />
+dres til „284".<lb />
+</p>
+<p>
+§§ 290—93 = Forslagets §§ 316—19.<lb />
+</p>
+</rightside>

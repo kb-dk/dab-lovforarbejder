@@ -1,0 +1,137 @@
+1507
+<pb n="17" >
+<p rend="page">17</p>
+<h>
+<coll>1507</coll>
+<colr>1508</colr><lb />
+</h>
+<leftside>
+<p>
+d) ikke har havt fast Bopæl i<lb />
+eet Aar i det Valgdistrikt eller<lb />
+den Stad, hvori han opholder sig<lb />
+paa den Tid, Valget foregaaer.<lb />
+<law n="32" >§ 32.<lb /></law>
+Hage: Valgbar til Folkethinget er, med de i § 31 a, b og<lb />
+c nævnte Undtagelser, enhver uberygtet, fuldmyndig Mand, som har Indfødsret.<lb />
+Bruun: Valgbar til Folkethinget er, med de i § 31 b og c<lb />
+nævnte Undtagelser, enhver uberygtet, fuldmyndig Mand, som<lb />
+har Indfødsret.<lb />
+<law n="33" >§ 33.<lb /></law>
+Valgene til Folkethinget foregaae efter Distrikter paa omtrent<lb />
+12000 Indvaanere. Ethvert Distrikt vælger een blandt dem, der<lb />
+have stillet sig til Valg.<lb />
+<law n="34" >§ 34.<lb /></law>
+Medlemmerne af Folkethinget vælges paa 3 Aar. De erholde<lb />
+et dagligt Vederlag.<lb />
+<law n="35" >§ 35.<lb /></law>
+Valgret til Landsthinget har Enhver, der ifølge § 31 har<lb />
+Valgret til Folkethinget, og som eier skyldsat Jord eller er Borger i<lb />
+en Kjøbstad eller aarlig betaler 5 Rbd. i directe Skat til Staten<lb />
+eller Communen.<lb />
+<law n="36" >§ 36.<lb /></law>
+De, der ifølge § 35 have Valgret til Landsthinget, vælge udaf<lb />
+deres Midte Valgmænd, efter de Bestemmelser, som gives i Valgloven<lb />
+<law n="37" >§ 37.<lb /></law>
+Valgbar til Landsthinget er med de i (Hages) § 31 a, b og c<lb />
+nævnte Undtagelser, enhver uberygtet Mand, som har Indfødsret, naar<lb />
+han har fyldt sit 40de Aar.<lb />
+<law n="38" >§ 38.<lb /></law>
+Valgene til Landsthinget foregaae stiftsviis. Valgmændene i<lb />
+hvert Stift træde sammen og stemme paa saa mange Mænd, som<lb />
+skulle vælges for Valgkredsen, i hvilken i det Mindste ¾ af de Valgte<lb />
+skulle have havt fast Bopæl i det sidste Aar. Til et gyldigt Valg<lb />
+udfordres mere end Halvdelen af de afgivne Stemmer.<lb />
+<law n="39" >§ 39.<lb /></law>
+Antallet af Landsthingets Medlemmer skal stedse være omtrent<lb />
+½ af Antallet af Folkethingets Medlemmer.<lb />
+<law n="40" >§ 40.<lb /></law>
+Medlemmerne af Landsthinget vælges paa 8 Aar. Halvdelen<lb />
+afgaaer hvert 4de Aar. De erholde intet Vederlag.<lb />
+<law n="41" >§ 41.<lb /></law>
+Naar en ny Communallov er givet, kan det ved Lov bestemmes, at Valget af Landsthingets Medlemmer skal gaae over til<lb />
+Communalbestyrelserve.<lb />
+<stitle>
+6te Minoritet.<lb />
+</stitle>
+Minoritets-Votum af Bjerring, Dahl, Hall, Krieger,<lb />
+Pjetursson og Schurmann.<lb />
+</p>
+<p>Idet vi i det Væsentlige slutte os til Grundlovsudkastets Repræsentationssystem, antage vi det fornødent ikke blot i Korthed at begrunde de enkelte Afvigelser fra dette, som vi ville tilraade, men<lb />
+tillige, da Motiverne til Udkastets Bestemmelser ikke ere meddeelte,<lb />
+at antyde den Opfattelse af Hovedpunkterne i samme, som har bevæget<lb />
+os til at fastholde disse.<lb />
+</p>
+<p>Naar Udkastets § 31 bestemmer: „Rigsdagen bestaaer af Folkethinget og Landsthinget. Begge fremgaae ved umiddelbare Valg af Folket", saa er heri den nye Forfatnings Grundcharakteer givet ved 3<lb />
+Bestemmelser angaaende Repræsentationens Ordning, dens Tilbivelsesmaade og dens Udspring, hvilke vi ikke kunne andet<lb />
+end tiltræde.<lb />
+</p>
+<p>Vi kunne ikke antage det nødvendigt eller hensigtsmæssigt her<lb />
+nøiere at udvikle de Grunde, der tale for Tokammerindretningen,</p>
+</leftside>
+<rightside>
+<p>
+og som for den store Fleerhed af os ere aldeles afgjørende. Vi<lb />
+kunne henholde os til de vægtfulde Stemmer, der have hævet sig<lb />
+herfor under det forløbne Aars storartede Discussioner om denne<lb />
+Gjenstand, og til Historiens Vidnesbyrd om dette Systems praktiske<lb />
+Betydning ikke blot i de Lande, hvor det har faaet sin Tilværelse<lb />
+som en nødvendig Følge af Folkets ældre politiske Tilstand, men fornemmelig der, hvor det er fremtraadt uden nogen Forbindelse med<lb />
+Standsadskillelser, ja endog er bleven tillagt Fortrin for en tidligere<lb />
+bestaaende Ordning af Folkerepræsentationen i eet Kammer.<lb />
+</p>
+<p>Idet vi antage, at den saaledes ordnede Repræsentation bør<lb />
+frembringes alene ved umiddelbare Valg, og derfor forkaste den<lb />
+saakaldte indirecte eller middelbare Valgmaade gjennem Valgmænd, kunne<lb />
+vi slutte os til Martsministeriets Yttringer i dets Motiver til<lb />
+Valgloven af 7de Juli, at Erfaringen ikke har stadfæstet den Mening, at man ved den nævnte Valgmaade opnaaede, at Valgene<lb />
+bleve foretagne med større Indsigt og Kyndighed, hvorimod det netop<lb />
+kunde befrygtes, at man paa denne Maade aabnede Intriguer og<lb />
+locale smaalige Hensyn Adgang til at gjøre sig gjældende, ligesom<lb />
+det og maatte antages, at man ved at skyde Valgmænd ind<lb />
+mellem Vælgerne og de Deputerede let forvanskede den rene Udtalen af<lb />
+Vælgernes Villie og Anskuelser, og vi skulle blot tilføie, at det vel<lb />
+ogsaa maa antages, at en saadan middelbar Valgmaade noget maa<lb />
+svække den Interesse hos Folket for dets Repræsentation, som Alle<lb />
+erkjende for en væsentlig Betingelse for dennes frugtbringende Virksomhed.<lb />
+</p>
+<p>Naar det endelig bestemmes, at Repræsentationen skal have sit<lb />
+Udspring fra „Folket", saa udelukkes herved Valg saavel af Regjeringen, som af andre Autoriteter. Med Hensyn til det første<lb />
+Slags Valg, der er bleven benyttet til den nuværende Rigsforsamling, samstemme vi i det Væsentlige i den Erkjendelse, som blev udtalt af begge de sidste Provindsialstænder, at disse indeholdt en saadan Afvigelse fra Folkerepræsentationens Princip, at de alene maatte<lb />
+søge deres Berettigelse i ganske særegne og fordigaaende Forhold.<lb />
+</p>
+<p>Naar Valget af nogle Medlemmer af Repræsentationen overlades<lb />
+til andre Autoriteter (f. Er. de overordnede Retter, Universitetet)<lb />
+saa kan det vel ikke nægtes, at enkelte gode Kræfter, som ellers maaskee ikke vilde saae Plads i samme, ad denne Vei vilde kunne naae<lb />
+en saadan, men disse vilde dog efter vor Formening ikkun da kunne<lb />
+udøve en sand og velgjørende Indflydelse paa Repræsentationen, naar<lb />
+de ikke med Rette maatte betragtes som et uligeartet Element i<lb />
+samme. Saadanne Valgcorporationer, der med en høiere Dygtighed og<lb />
+Anseelse forene et virkeligt folkeligt Præg, ville vel kunne fremkomme<lb />
+som en Følge af den nye Forfatning ved Omordningen af Retsvæsenet<lb />
+og Communaladministrationen, og det vil da være en følgende<lb />
+Tids lovgivende Magt forbeholdt at afgjøre, om en Indvirkning paa<lb />
+Repræsentationen hensigtsmæssigen kan overlades til disse, og i<lb />
+saa Fald ad den grundlovmæssige Vei at bevirke en saadan Forandring. Men under de nuværende Forhold finde vi ikke, at der<lb />
+ved at overlade Valgret til nogen af de bestaaende Autoriteter vilde<lb />
+kunne forventes saadanne Fordele, som vilde opveie de mislige<lb />
+Følger af at give Repræsentationen en saa blandet Natur.<lb />
+</p>
+<p>Vi skulle derefter udtale os over den i de følgende Paragrapher<lb />
+(31—36) i Udkastet givne Udførelse af de paa det ovenanførte<lb />
+Grundlag byggede Repræsentationssystem, idet vi sammenfatte Bestemmelserne herom under de 3 Hovedpunkter: Valgretten, Valgbarheden og Valgmaaden.<lb />
+</p>
+<stitle>A. Om Valgretten.<lb />
+</stitle>
+<p>Vi slutte os med Hensyn til dette Punkt til de i § 31 givne<lb />
+Bestemmelser, idet vi alene foreslaae Udeladelsen af Ordene: „enten<lb />
+er eftergivet eller" i Litr. b, og den forkortede Redaction af Litr. d<lb />
+„ikke har havt Bopæl i eet Aar i det Valgdistrikt eller i den<lb />
+Stad, hvori han opholder sig paa den Tid, Valget foregaaer".<lb />
+</p>
+<morenext>(Fortsættes.)<lb />
+</morenext>
+</rightside>
+<underpage>Trykt og forlagt af Ngl. Hofbogtrykker Bianco Luno.<lb />
+ </underpage>
+</pb>

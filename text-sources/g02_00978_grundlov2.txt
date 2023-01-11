@@ -1,0 +1,128 @@
+3429
+<pb n="978" >
+<p rend="page">978</p>
+<h>
+<coll>3429</coll>
+<colr>3430</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerene paa Rigsdagen.</topmidle>
+<topright>
+No. 433.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede og Tre og Thvende (127de) Møde.<lb />
+(Den foreløbige Behandling af Valgloven. §§ 22—26.)<lb />
+</stitle>
+<p>
+<speaker>Ordføreren:</speaker> Ja, mere end tilstrækkelig, jeg troer endog, den<lb />
+er overflødig (Latter), thi den vedkommer ikke nærværende Paragraph.<lb />
+</p>
+<p>
+<speaker>Ørsted:</speaker> Mig forekommer det, at den Deel af Paragraphen,<lb />
+som indeholder Forbeholde med Hensyn til Slesvig, hellere maatte<lb />
+forbigaaes, da der jo ikke er bestemt Noget om, at Grundloven skal<lb />
+være Grundlov baade for Danmark og Slesvig, og saaledes synes jeg,<lb />
+at først naar det er bestemt, om den skal være Grundlov ogsaa for<lb />
+Slesvig, kan der være Tale om at træffe Bestemmelser med Hensyn<lb />
+til dette Spørgsmaal for Slesvigs Vedkommende.<lb />
+</p>
+<p>
+<speaker>Tscherning:</speaker> Jeg ønsker at stille et Ændringsforslag, som skal<lb />
+gaae ud paa at ombytte Udtrykkene „de nærmere Bestemmelser for<lb />
+Slesvig, Island og Færøerne forbeholdees" med „de nærmere Bestemmelser for Rigets øvrige Lande forbeholdees".<lb />
+</p>
+<p>
+<speaker>Paludan-Müller:</speaker> Jeg skal blot bemærke, i Anledning af<lb />
+hvad den ærede Ordfører nylig sagde, at jeg mener, at et saadant<lb />
+Amendement, som det, jeg forbeholdet mig, vil være paa sit rette Sted<lb />
+ved Udkastets § 22, hvis den skulde blive antagen, et Amendement<lb />
+nemlig, der skulde gaae ud paa, at Kjøbstad og Land skulde vælge<lb />
+særskilt; jeg siger ikke, at jeg vil jeg stille dette Amendement, det vil beroe<lb />
+paa, hvorledes Valgkredsenes Fordeling vil skee, men det kan godt<lb />
+være, at Udfaldet kunde blive saadandt, at Amendementet netop blev<lb />
+paa sit rette Steb ved § 22.<lb />
+</p>
+<p>
+Man gik derpaa, da ingen Flere begjerede Ordet, over til Valglovens §§ 24—26, hvortil den omdeelte Oversigt indeholdt Følgende:<lb />
+Udkastet.<lb />
+Valgbestyrelser.<lb />
+<law n="24" >§ 24.<lb /></law>
+For hvert Valgdistrict dannes en Valgbestyrelse, bestaaende af<lb />
+Udsendinge fra de til Districtet hørende Communer. Fra hver Commune vælges idetmindste eet Medlem af Valgbestyrelsen, uden Hensyn til dens Indvaanertal. Har en Commune 3000 Indbyggere,<lb />
+vælger den To, og saa fremdeles Een for hver 1500 Indvaanere,<lb />
+den har efter den senest offentliggjorte Folketælling. Valgbestyrelsens<lb />
+Medlemmer vælges af Communalbestyrelserne og blandt disses egne<lb />
+Medlemmer.<lb />
+<law n="25" >§ 25.<lb /></law>
+Det Medlem af Valgbestyrelsen, som er valgt for den Commune,<lb />
+hvori Valget afholdes, forestaaer alle de foregaaende Forberedelser til<lb />
+selve Valget og modtager Anmeldelser af Candidater og andre til<lb />
+Valgbestyrelsen rettede Meddelelser. Han aabner paa Valgdagen<lb />
+Valgbestyrelsens Møde og forestaaer Valget af dens Formand. Vælger<lb />
+vedkommende Commune flere Medlemmer af Valgbestyrelsen, fordele<lb />
+disse de ovennævnte Forretninger mellem sig efter Overeenskomst.<lb />
+Formanden leder selve Valghandlingen. I alle Valgbestyrelsen<lb />
+overladte Beslutninger gjør han i Tilfældee af Stemmelighed Udslaget.<lb />
+(Jfr. § 57.)<lb />
+<law n="26" >§ 26.<lb /></law>
+Valgbestyrelsen fører en Valgbog, hvortil de fra forskjelligee Communer medbragte Valglister og de til Bestyrelsen indløbne Skrivelser<lb />
+fremlægges. I Valgbogen optegnes det væsentlige Indhold af Valgforhandlingerne, hvortil dog de af Candidaterne og andre Tilstede</p>
+</leftside>
+<rightside>
+<p>
+værende holdte Taler ikke skulle henregnes. Valgbogen underskrives<lb />
+af Valgbestyrelsen og opbevares af Communalbestyrelsen for det Sted,<lb />
+hvor Valget er afholdt.<lb />
+Comiteens Indstilling.<lb />
+<law n="24(§ 19)" />§ 24(<law n="24(§ 19)" />§ 19).<lb />
+For hver Valgkreds dannes en Valgbestyrelse, bestaaende af<lb />
+Udsendinge fra de til Valgkredsen hørende Communer. For<lb />
+hver Commune vælges idetmindste eet Medlem af Valgbestyrelsen,<lb />
+uden Hensyn til dens Indvaanertal. Har en Commune 3000<lb />
+Indbyggere, vælger den To, og saa fremdeles Een for hvor 1500 Indvaanere, den har efter den senest offentliggjorte Folketælling. Valgbestyrelsens Medlemmer vælges af Communalbestyrelserne og blandt<lb />
+disses egen Medlemmer.<lb />
+<law n="25 (§ 20)" />§ 25 (<law n="25 (§ 20)" />§ 20).<lb />
+Det Medlem af Valgbestyrelsen, som er valgt for den Commune, hvori Valget afholdes, forestaaer alle Forberedelserne til<lb />
+selve Valget og modtager Anmeldelser af Candidater og andre til<lb />
+Valgbestyrelsen rettede Meddelelser. Han aabner paa Valgdagen<lb />
+Valgbestyrelsens Møde og forestaaer Valget af dens Formand. Vælger vedkommende Commune flere Medlemmer af Valgbestyrelsen, fordele disse de ovennævnte Forretninger mellem sig efter Overeenskomst.<lb />
+(§ 21).<lb />
+Valgbestyrelsen i hver af Kjøbenhavns 9 Valgkredse bestaaer af<lb />
+fem Medlemmer, som udnævnes af den forenede Communalbestyrelse,<lb />
+de to af sammes egen Midte, de tre Andre blandt de i Valgkredsen<lb />
+bosatte Vælgere. Hver Valgbestyrelse vælger selv sin Formand.<lb />
+<law n="26 (§ 22)" />§ 26 (<law n="26 (§ 22)" />§ 22).<lb />
+Valgbestyrelsen fører en Valgbog, hvortil de fra de forskjelligee<lb />
+Communer medbragte Valglister og de til Bestyrelsen indløbne Skrivelser fremlægges. I Valgbogen optegnes det væsentlige Indhold af<lb />
+Valgsorhandlingerne, hvortil dog de af Candidaterne og andre Tilstedeværende holdte Taler ikke skulle henregnes. Valgbogen underskrives<lb />
+af Valgbestyrelsen og opbevares af Communalbestyrelsen for for det<lb />
+Sted, hvor Valget er afholdt.<lb />
+</p>
+<p>
+<speaker>Ordføreren:</speaker> De Forandringer, som Udvalget her har tilladt sig<lb />
+at foreslaae, ere saare udetydelige. De bestaae væsentlig blot i Tillæget under § 21 med Hensyn til Kjøbenhavn, som jo her maatte<lb />
+indføres; dernæst ere de sidste Linier i Udkastets § 25 udgaaede:<lb />
+„Formanden leder selve Valghandlingen. I alle Valgbestyrelsen<lb />
+overladte Beslutninger gjør han i Tilfældee af Stemmelighed Adslaget." Den første Sætning nemlig, at Formanden leder selve Valghandlingen, ligger vvistnok i Begrebet af en Formand, dertil kommer<lb />
+at i Udkastets § 33, Udvalgets § 29, er det med Hensyn til en<lb />
+enkelt Deel af Valghandlingen, hvor der trænges meest til Ledelse,<lb />
+udtrykkelig sagt, altsaa i Udkastet gjentaget, at Formanden leder<lb />
+Valgsorhandlingen; to Gange syntes vi, at det ikke skulde siges, og<lb />
+vi meente, at det stod ret godt i den specielle Anvendelse og Indskjærpelse i § 33 eller § 29. Slutningen af de to Linier, som vi<lb />
+have troet skulde udgaae, nemlig at Formanden i Tilfældee af Stemmelighed gjor Udslaget i alle Valgbestyrelsen overladte Beslutninger,<lb />
+er i en noget andet Form indtagen paa et Sted, hvor der kunde<lb />
+synes at være en speciel Opfordring til at indskjærpe denne Regel;<lb />
+i Udvalgets § 30, hvor der tales, om hvilken Candidat der efter<lb />
+Valgbestyrelsens Skjøn kan antages at have erholdt de fleste Stemmer, er det sagt, at ved denne, som ved alle andre Beslutninger,<lb />
+gjør Formanden i Tilfældee af Stemmelighed Udslaget.<lb />
+</p>
+<p>
+<speaker>Bregendahl:</speaker> Jeg vil blot tillade mig at bemærke, at jeg<lb />
+</p>
+</rightside>
+
+
+</pb>

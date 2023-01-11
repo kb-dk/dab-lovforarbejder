@@ -1,0 +1,76 @@
+3707
+<pb n="34"/>
+<h>
+<coll>3707</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3708</colr>
+</h>
+<wtitle>§ 148.</wtitle>
+<p>
+Vidnesbyrd kan i borgerlige Sager nægtes, naar Besvarelsen af et Spørgsmaal<lb />
+maa forudsættes at ville udsætte Vidnet selv, dets Ægtefælle, Forældre eller Børn for<lb />
+Tab af borgerlig Agtelse eller Velfærd eller dog for et væsentligt Formuetab eller<lb />
+anden hermed i Klasse staaende Skade, samt naar Spørgsmaalet angaar Meddelelser,<lb />
+som Vidnets Ægtefælle under Ægteskabet nar gjort Vidnet, for saa vidt Vidnet selv<lb />
+eller dets Ægtefælle herved kan skades.
+</p>
+<p>
+I Straffesager kan Vidnesbyrd kun nægtes (jfr. dog 4de Stykke), naar Besva-<lb />
+relsen af det stillede Spørgsmaal maa forudsættes at ville udsætte Vidnet selv for Tab<lb />
+af borgerlig Agtelse eller Velfærd.
+</p>
+<p>
+Et Vidne kan ingen Sinde undslaa sig for at besvare det Spørgsmaal, om der er<lb />
+overgaaet Vidnet en Straffedom, som Vidnet ikke har faaet Æresoprejsning for.
+</p>
+<p>
+Den, hvem Ansvaret for et trykt Skrifts Indhold i Medfør af Lov af 3. Januar<lb />
+1851 § 3 kan komme til at paahvile, kan nægte Vidnesbyrd angaaende Betingelserne<lb />
+for en Forgængers Ansvar, naar han enten selv vil overtage Ansvaret, eller Opfor-<lb />
+dringen til ham ikke er sket inden 3 Maaneder, efter at Bekendtgørelse om Skriftets<lb />
+Udgivelse første Gang var indrykket i et offentligt Blad. Ligeledes kan paa Bladet<lb />
+navngiven Bedaktør og Redaktionssekretær ved et offentligt Blad nægte Vidnesbyrd<lb />
+angaaende, hvem der er Hjemmelsmand til en i det paagældende Blad optagen, ikke<lb />
+med Forfatterens Navn forsynet Artikel eller Meddelelse, medmindre Sagen angaar en<lb />
+Forbrydelse, der kan medføre højere Straf end simpelt Fængsel, eller den angaar<lb />
+Brud paa Tavshedspligt i Embedsforhold, begaaede af Embeds- eller Bestillingsmænd<lb />
+i Stat eller Kommune.
+</p>
+<p>
+At nogen i de nævnte Tilfælde har fundet sig i at afgive en Forklaring, som<lb />
+han var berettiget til at nægte, udelukker ham ikke fra senere at undslaa sig for at<lb />
+bekræfte den eller for at afgive videre Forklaring.
+</p>
+<p>
+I ethvert Tilfælde, hvor det er klart, at Betingelserne for Fritagelsen ere til<lb />
+Stede, skal Retten før Afnørelsen gøre paagældende opmærksom paa hans Ret til at<lb />
+undslaa sig.
+</p>
+<wtitle>§ 149.</wtitle>
+<p>
+I borgerlige Sager er i Reglen ingen pligtig at møde som Vidne udenfor den<lb />
+Underretskreds, i hvilken han bor eller opholder sig.
+</p>
+<p>
+I Straffesager er i Reglen ingen pligtig at møde som Vidne udenfor den<lb />
+Underretskreds, i hvilken han bor eller opholder sig, naar han vilde komme til at rejse<lb />
+mere end 70 Kilometer paa Jernbane eller Dampskib eller 25 Kilometer paa anden Maade<lb />
+eller en tilsvarende Vejlængde delvis paa Jernbane eller Dampskib og paa anden Maade<lb />
+for at naa hen til vedkommende Ret. Til Domsforhandling for Landsret i Sager, ved<lb />
+hvis Paadømmeise Nævninger medvirke, er dog enhver, hvis Helbredstilstand ikke er til<lb />
+Hinder derfor, pligtig at møde som Vidne indenfor den Landsretskreds, i hvilken han bor<lb />
+eller opholder sig, samt i øvrigt, naar han ikke vilde faa længere at rejse hen til Retten<lb />
+end 140 Kilometer paa Jernbane eller Dampskib eller 50 Kilometer paa anden Maade<lb />
+eller en tilsvarende Vejlængde delvis paa Jernbane eller Dampskib og paa anden Maade.
+</p>
+<p>
+Ved Beslutning af Retten eller dens Formand, der bliver at paaberaabe i Ind-<lb />
+kaldelsen, kan det saavel i borgerlige Sager som i Straffesager paalægges et fjernere<lb />
+boende Vidne at give Møde for Landsret eller Højesteret, naar dets Afhøring maa<lb />
+antages at være af særlig Betydning for Sagens Oplysning.
+</p>
+<wtitle>§ 150.</wtitle>
+<p>
+I borgerlige Sager afgives Vidnesbyrd som Regel for Underretten paa det<lb />
+Sted, hvor Vidnet bor eller opholder sig.
+</p>

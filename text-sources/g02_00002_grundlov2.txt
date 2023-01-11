@@ -1,0 +1,139 @@
+1477
+<pb n="2" >
+<p rend="page">2</p>
+<h>
+<coll>1477</coll>
+<colr>1478</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 189.<lb />
+</topright>
+</h>
+<leftside>
+<pb>
+Andet Bind.<lb />
+</pb>
+<stitle>
+62de offentlige Møde.<lb />
+(Det 65de Møde i den Hele Række.)<lb />
+</stitle>
+<subtitle>
+Torsdagen den 22de Februar.<lb />
+</subtitle>
+<p>
+(Valg af Forsamlingens Embedsmænd.)<lb />
+</p>
+<firstlineinfo>
+Forhandlingsprotocollen for det sidstafholdte Møde blev oplæst.<lb />
+</firstlineinfo>
+<p>
+<speaker>Formanden:</speaker> Jeg skal først anmelde, at jeg fra Justitsministeriet har modtaget en Skrivelse angaaende Værnepligtsloven, der<lb />
+lyder saaledes, som een af Secretairerne nu vil oplæse.<lb />
+Secretairen (Ussing) oplæste derefter nedenstaaende Skrivelse:<lb />
+At Hans Majestæt Kongen, paa den af mig derom nedlagte<lb />
+allerunderdanigste Forestilling, under Dags Dato har med sin<lb />
+allerhøieste Underskrift udfærdiget Loven om almindelig Værnepligt<lb />
+for Kongeriget Danmark, saaledes som den af Rigsforsamlingen<lb />
+var vedtagen, derom tillader jeg mig tjenstligst at meddele Hr.<lb />
+Etatsraad en Underretning.<lb />
+Justitsminsteriet den 12te Februar 1849.<lb />
+</p>
+<btitle>
+Bardenfleth.<lb />
+</btitle>
+<p>
+Til<lb />
+Rigsforsamlingens Formand<lb />
+Hr. Etatsraad Schouw,<lb />
+Ridder af Dannebroge.<lb />
+</p>
+<p>
+<speaker>Formanden:</speaker> Dernæst skal jeg anmelde:<lb />
+1) At Rigsdagsmanden for Ribe Amts 4de District (Hansen) agter<lb />
+at gjøre et Spørgsmaal til Ministeriet, angaaende Erstatning<lb />
+for militaire Kiørsler:<lb />
+2) at den 19de kongevalgte Rigsdagsmand (Tage Müller) agter at<lb />
+rette et Spørgsmaal til Ministeriet i Anledning af en Skrivelse<lb />
+fra 5 Provster i Arhuus Stift, angaaende naar den Kirkeforsamling, der er bebudet ved Circulaire af 9de Mai f. A. Vil<lb />
+blive sammenkaldt.<lb />
+3) Et Andragende fra Rigsdagsmanden fra Kjøbenhavns 7de District<lb />
+(I. E. Larsen) angaaende en nærmere Bestemmelse i Forretningsregulativets § 15.<lb />
+4) En Adresse, indleveret af Rigsdagsmanden for Holbeks Amts<lb />
+3die District (Gleerup), fra 816 Landboere paa Møen, om den<lb />
+fremtidige Bibeholdelse af umiddelbare Folkevalg; og at enhver<lb />
+fuldmyndig Mand uden Hensyn til Stand eller Stilling maa<lb />
+vorde valgberettiget og valgbar.<lb />
+5) Tvende Andragender, indleverede af Rigsdagsmanden for Viborg<lb />
+Amts 1ste District (Nørgaard) fra Junget, Thorum Sogne samt<lb />
+fra Sælde, Lændum, Houtrup, Aasted, Risum og Nisum Byer<lb />
+i Salling med ialt 144 Underskrifter, hvori ønskes, at der ingen<lb />
+væsentlig Forandring maa skee i den almindelige Valgret, og<lb />
+formenes, at Classevalg, middelbare Valg og Census ikke svare<lb />
+til Nutidens Krav.<lb />
+6) 14 ligelydende Adresser, indleverede af Rigsdagsmanden for<lb />
+Ringkjøbing Amts 4de District (Fløe) med 525 Underskrifter,<lb />
+der gaae ud paa, at Rigsforsamlingen ikke, i Anledning af de<lb />
+fra Kjøbstæderne indkomne Andragender, vil give slip paa den<lb />
+Valglov, som foreligger i Adkast.<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+7) Flere ligelydende Adresser, indleverede af Rigsdagsmanden for<lb />
+Holbeks Amts 3die District (Gleerup) med 1353 Underskrifter fra<lb />
+Landboerne i Holbeks Amt, hvorved de slutte sig til en tidligere<lb />
+Adresse om, at Rigsforsamlingen ansees uberettiget til at behandle andre Sager end Grundloven, Penge- og Værnepligtssagen, at den tilkommende Valglov maa tilsige directe Folkevalg<lb />
+uden Census, at Diæter tilstaaes enhver Rigsdagsmand, m. m.<lb />
+8) Et Andragende indleveret af Rigsdagsmanden for Aarhuus Amts<lb />
+3die District (Dahl) fra 73 Beboere i Withen Pastorat og 32<lb />
+større og mindre Landeiendomsbesiddere i Aarhuus Amts 3die<lb />
+Valgkreds, angaaende Diæter til begge Afdelinger af Rigsdagen,<lb />
+Kjøbstædernes Interesser og Landboforholdenes Ordning i denne<lb />
+Forsamling.<lb />
+9) Fire Andragender, indleverede af Rigsdagsmanden for Viborg<lb />
+Amts 1ste District (Nørgaard) fra Salling med 468 Underskrifter, om at Sagen angaaende Hartkornets Egalisering maatte<lb />
+blive Gjenstand for denne Forsamlings Forhandling.<lb />
+10) Et Andragende, indleveret af den 11te kongevalgte Rigsdagsmand (David), fra Fængselsselskabet, om at Valglovens § 3<lb />
+maatte forandres derhen, at kun de, som efter at have fyldt det<lb />
+18 Aar, ved Dom ere fundne skyldige i en i den offentlige Mening vanærende Handling, miste deres Valgret.<lb />
+11) En Erklæring, indleveret af Rigsdagsmanden for Sorø Amts<lb />
+2det District (Mundk) fra 4 Gaardmænd i Bjernede Sogn, hvori<lb />
+de tilbagekalde deres Underskrifter under den saakaldte „Femten-Mænds Adresse," paa Grund af, at man har vildledet dem.<lb />
+Efter Dagsordenen blev dernæst foretaget Valg paa Embedsmænd for Forsamlingen og da først paa en ny Formand.<lb />
+Hertil gjenvalgtes under Viceformanden Hvidts Forsæde,<lb />
+</p>
+<p>
+<speaker>Schouw </speaker>med 82 Stemmer. Af de 87 afgivne Stemmer faldt 3<lb />
+paa I. E. Larsen, 1 paa Hvidt og 1 paa Neergaard. Under<lb />
+Schouws Forsæde foretoges derefter under Eet Valg paa 2<lb />
+Viceformænd, hvortil gjenvalgtes Hvidt med 80 og P. D.<lb />
+</p>
+<p>
+<speaker>Bruun</speaker> med 49 af 86 afgivne Stemmer. Resten af Stemmerne<lb />
+faldt saaledes: Bjerring 33, I. E. Larsen 5, Otterstrøm, Sehestedt-Juel og P. Pedersen hver 1 Stemme.<lb />
+</p>
+<p>
+Ved det derefter foretagne Valg paa Secretairer erholdt af<lb />
+84 Stemmer W. Ussing (81) Cederfeld de Simonsen (80)<lb />
+Pjetursson (76) og Westergaard (74) de fleste Stemmer og<lb />
+vare saaledes gjenvalgte til Secretairer.<lb />
+</p>
+<p>
+Efterat Formanden derefter havde gjort opmærkjom paa, at der<lb />
+formeentlig ikke kunde blive Spørgsmaal om nogen ny Fordeling til<lb />
+Afdelingerne, hvilket uden Afstemning bifaldtes, samt anmeldt, at der<lb />
+i Forsamlingen var omdeelt saavel en Fortegnelse over Rigsforsamlingens Bogsamling, som Begyndelsen af den af Grundlovsudvalget<lb />
+afgivne Betænkning, hvis Slutning vilde blive omdeelt imorgen, saa<lb />
+at Grundlovssagens Behandling kunde begynde næstkommende Mandag, angav han Dagsordenen for næste Møde, der berammedes til<lb />
+næstkommende Løverdag Kl. 2½, saaledes<lb />
+1) Foretagelse af den i Dagsmødet anmeldte Forespørgsel fra Rigsdagsmanden for Ribe Amts 4de District (N. Handen) angaaende<lb />
+Erstatning for militaire Kjørsler og<lb />
+2) Det ligeledes i Dagsmødet anmeldte Forslag fra Rigsdagsmanden for Kjøbenhavns 7de District (I. E. Larsen) angaaende en<lb />
+nærmere Bestemmelse af Forretningsregulativets § 15.<lb />
+Mødet blev derefter hævet.<lb />
+</p>
+</rightside>
+
+</pb>

@@ -1,0 +1,79 @@
+2965
+<pb n="163" />
+<h>
+<coll>
+2965
+</coll>
+<topmidle>
+F. t. L.  Rettens Pleje.
+</topmidle>
+<colr>
+2966
+</colr>
+</h>
+<p>
+ag til Stadfæstelse af de i Lov af 3. Januar 1851 § 14, jfr. § 15, omhand-<lb />
+lede Forbud forfølges ved den Ret, i hvis Kreds Forbudet er nedlagt.
+</p>
+<p>
+Paa Sager, hvorunder Paastand alene nedlægges om nogen af de øvrige i § 684<lb />
+omhandlede Følger, finder Reglerne i §§ 696—99 tilsvarende Anvendelse.
+</p>
+<wtitle>§ 702.</wtitle>
+<p>
+Afvigelse fra Reglerne om Værneting kan, saa længe Domsforhandling endnu<lb />
+ikke er begyndt, paa Begæring, naar særegne Grunde findes at tale derfor, besluttes<lb />
+af Landsretten, dersom Spørgsmaalet angaar Underretter i samme Landsretskreds,<lb />
+henholdsvis Sø- og Handelsretten og en Underret i Østre Landsretskreds, og i andre<lb />
+Tilfælde af Højesteret (§ 223).
+</p>
+<p>
+Sager, der skal forhandles for Nævningeret, kan af Sigtede begæres fore-<lb />
+tagne paa det Steel, hvor Landsretten har sit Hovedsæde — eller undtagelsesvis for<lb />
+den først forestaaende Nævningeret i Landsretskredsen —, naar Varetægtsfængselet<lb />
+derved efter Landsrettens Skøn vil blive væsentlig afkortet, uden at Bekostningen for<lb />
+det offentlige vil blive forhøjet i nogen uforholdsmæssig Grad.
+</p>
+<wtitle>§ 703.</wtitle>
+<p>
+Efter Begæring kan Retten meddele Tilladelse til, at en begyndt Forfølgning-<lb />
+overflyttes til en anden Ret, som efter foranstaaende Regler er lovligt Værneting,<lb />
+naar dette paa Grund af Vidners Bopæl eller af anden særlig Grund skønnes hen-<lb />
+sigtsmæssigt til Sagens Fremme. Beslutning herom tages af den Ret, ved hvilken<lb />
+Forfølgningen er begyndt, naar den anden Ret deri er enig, og ellers af den fælles<lb />
+overordnede Ret (§ 223). En Beslutning, hvorved en Begæring om Sagens Overflyt-<lb />
+ning til en anden Ret nægtes, kan paakæres.
+</p>
+<wtitle>§ 704.</wtitle>
+<p>
+Naar Sigtede møder, prøver Retten ikke af egen Drift, om Sagen er ind-<lb />
+bragt for rette Værneting. Indsigelse er udelukket, naar Sigtede, førend Domsfor-<lb />
+| handlingen er begyndt, har haft Adgang til at fremsætte den, uden at dette er sket.
+</p>
+<p>
+At Forundersøgelse eller enkeltstaaende Retshandlinger udenfor Domsforhand-<lb />
+ling ikke er foregaaet ved rette Værneting, berøver dem ikke deres Gyldighed.
+</p>
+<p>
+Er der Strid mellem flere Retters Afgørelser af et Værnetingsspørgsmaal, kan<lb />
+det af Paatalemyndigheden indbringes til Afgørelse for Landsretten, hvis Retterne<lb />
+hører til samme Landsretskreds, og i andre Tilfælde for Højesteret. Herved finder i<lb />
+øvrigt Reglerne i Kapitlerne 82—85 Anvendelse, saaledes at der ved Fristernes Be-<lb />
+regning tages Hensyn til den sidste Afgørelse.
+</p>
+<wtitle>§ 705.</wtitle>
+<p>
+Skal Forfølgning, enten ved Undersøgelsesret eller ved den dømmende Ret,<lb />
+samtidig finde Sted mod samme Sigtede for flere Forbrydelser eller mod flere Sigtede<lb />
+som delagtige i een Forbrydelse, bør dette ske under een Sag, for saa vidt saadant<lb />
+lader sig gøre uden væsentlig Forhaling eller Vanskelighed. Forbrydelser af den i<lb />
+§ 687 litra d. nævnte Art kan kun forenes med andre Forbrydelser af samme Art.
+</p>
+<wtitle>§ 706.</wtitle>
+<p>
+Retten kan paa Begæring eller i Embeds Medfør beslutte Adskillelse af de<lb />
+Straffesager, som er forenede i Henhold til § 705. Det beror paa Retten, om de<lb />
+Sager, som kun paa Grund af Foreningen forfølges for den, efter Adskillelsen frem-<lb />
+deles skal behandles ved den eller ikke; samme Regel gælder, naar Foreningen op-<lb />
+hører af anden Grund, saasom Frafald af Forfølgning.
+</p>

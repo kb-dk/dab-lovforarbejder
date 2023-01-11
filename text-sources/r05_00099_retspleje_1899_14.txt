@@ -1,0 +1,44 @@
+93
+<pb n="99" />
+<h>
+<topmidle>Kap, XXI. Anke til Højesteret.      93 </topmidle>
+</h>
+<wtitle>§ 263.</wtitle>
+<p>
+Når skriftlig Behandling finder Sted<lb />
+på Grund af Sagens Beskaffenhed, jfr.<lb />
+§ 252, forhandles Sagen ved skriftlige<lb />
+Indlæg, ikke over to fra hver Side, som<lb />
+veksles mellem Parterne og afgives til Retten<lb />
+i Forbindelse med Sagens Dokumenter inden<lb />
+de Frister, sum Iustitiarius bestemmer. 
+Har Bevisførelse fundet Sted, kan<lb />
+enhver af Parterne i dertil berammede Retsmøder fremlægge et skriftligt Indlæg. 
+Udgår en Sag til skriftlig Behandling<lb />
+på Grund af Indstævntes Udeblivelse, har<lb />
+Appellanten inden en fastsat Frist at aflevere<lb />
+et skriftligt Indlæg tilligemed Sagens Dokumenter, derunder fuldstændig Beskrivelse af<lb />
+det for Landsretten Passerede. Oplyses det,<lb />
+inden Sagen er påkendt, at Indstævntes<lb />
+Udeblivelse ikke kan lægges ham til Last som<lb />
+en Forsømmelse, kan Højesteret reassumere<lb />
+Sagen. 
+Mundtlig Domsforhandling finder ikke<lb />
+Sted i disse Sager. 
+Hvis Appellanten har stævnet Vidner<lb />
+til Førelse for Højesteret, og de have givet<lb />
+Møde, kan Højesteret bestemme, at de, inden<lb />
+Sagen udgår til skriftlig Behandling, skulle<lb />
+afhøres, efter at Appellanten har fremstillet<lb />
+Sagens Omstændigheder. I øvrigt sker<lb />
+Vidners førelse, Syns- eller Skønsforretningers Optagelse og Parters Afhøring for<lb />
+Underret, medmindre Højesteret bestemmer,<lb />
+at den skal ske for et af Rettens Medlemmer. 
+Ved skriftlig Behandling finde iøvrigt<lb />
+de almindelige Regler om Højesteretsproceduren Anvendelse med de fornødne Lempelser.</p>
+<wtitle>§ 264.</wtitle>
+<p>Når Højesterets Dom går ud på Hjemvisning, kan enhver af Parterne henvende sig til Landsretten med en Udskrift<lb />
+af Dommen og begære et Retsmøde berammet, hvortil han da har at indkalde<lb />
+Modparten med et af Rettens Iustitiarius<lb />
+fastsat Varsel. Sagen fremmes derefter i<lb />
+Overensstemmelse med de almindelige Regler.</p>

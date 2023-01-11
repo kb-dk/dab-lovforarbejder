@@ -1,0 +1,36 @@
+2605
+<pb n="234" />
+<h>
+<coll>2605</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>2606</colr>
+</h>
+<wtitle>§ 994.</wtitle>
+<p>
+Den som i Tale eller Skrift, beregnet paa at virke i en videre Kreds, giver vild-<lb/>
+ledende Meddelelser om en Straffesag, der endnu ikke er endelig afgjort eller bort-<lb/>
+faldet, eller som paa nævnte Maade gør en saaclan Sag til Genstand for Drøftelse, naar<lb/>
+denne efter sin Karakter er egnet til at vanskeliggøre Sagens Oplysning eller til at<lb/>
+lægge Hindringer i Vejen for en uhildet Afgørelse af den, straffes med Bøder fra<lb/>
+100 til 1,000 Kr. eller med simpelt Fængsel.
+</p>
+<htitle>
+Tiende Afsnit.
+</htitle>
+<title>Kapitel 91.</title>
+<undertitle>
+Særlige Bestemmelser om nogle Forhør m. m.
+</undertitle>
+<wtitle>§ 995.</wtitle>
+<p>
+Med Hensyn til Søforhør har det sit Forblivende ved de hidtil gældende Regler.<lb/>
+Ligeledes kan Optagelse af Forhør ved Undersøgelsesret finde Sted i samme Omfang<lb/>
+som hidtil dels angaaende stedfundne Ildebrande, Ulykkestilfælde, dødfundne Personer<lb/>
+o. desl., dels efter Begæring af Myndigheder til Oplysning om trængendes Forsørgelses-<lb/>
+hjem og Undersøgelse af personlige Forhold af retlig Betydning.
+</p>
+<p>
+For saa vidt der udenfor Strafferetsplejen er Hjemmel for Anvendelse af saa-<lb/>
+danne Forholdsregler, som de i 4de Bog, 2det Afsnit, omhandlede, for andre offent-<lb/>
+lige Formaals Skyld, berøres de derom gældende Regler ikke af denne Lov.
+</p>

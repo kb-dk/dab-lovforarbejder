@@ -1,0 +1,76 @@
+2103
+<pb n="188" />
+<h>
+<coll>
+2103
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2104
+</colr>
+</h>
+<p>
+Stedet for at fængsles, at sætte under Tilsyn af paalidelige Personer, Forældre eller<lb />
+andre. For de unge Personers Vedkommende iagttages tillige, at de holdes fri for<lb />
+fordærvelig Paavirkning. Naar Forældre eller andre fremsætte Ønske om, at en saadan<lb />
+Sigtet maa betros til deres Tilsyn, kan Retten, om det findes nødvendigt, knytte Ind-<lb />
+vilgelse heri til den Betingelse, at Sikkerhed stilles af de paagældende overensstem-<lb />
+mende med Reglerne i §§ 841 og 842.
+</p>
+<p>
+I andre Tilfælde kan, hvor saadant maa anses for tilstrækkeligt til Formaalets<lb />
+Opnaaelse, i Stedet for Fængsling efter Rettens Beslutning anvendes Bevogtning i<lb />
+Hjemmet, efter Omstændighederne efter Sikkerhedsstillelse for det hertil sandsynlig<lb />
+medgaaende Beløb, Tilhold om ikke uden Dommerens Tilladelse at forlade et anvist<lb />
+Opholdssted eller en bestemt Kreds, Paalæg om til bestemte Tider at fremstille sig for<lb />
+Politiet, Beslaglæggelse af Pas eller andre Legitimationsdokumenter, eller Sikkerheds-<lb />
+stillelse efter de nærmere Regler i efterfølgende Paragrafer.
+</p>
+<wtitle>§  841.</wtitle>
+<p>
+Sikkerhedsstillelse kan ikke træde i Stedet for Fængsling, naar den i § 835<lb />
+Nr. 2 c nævnte Fængslingsgrund er forhaanden.
+</p>
+<p>
+I de i § 835 Nr. 1 og 2 a nævnte Tilfælde skal Fritagelse for Fængsling til-<lb />
+stedes, naar Formaalet maa antages tilstrækkelig betrygget ved, at Sikkerhed stilles<lb />
+for, at Sigtede vil møde i Retten til enhver Forhandling i Sagen efter behørig Ind-<lb />
+kaldelse samt indfinde sig til Dommens Fuldbyrdelse, hvis den gaar ham imod. Det<lb />
+paahviler i saa Fald Sigtede at opgive Bolig eller Opholdssted i Kongeriget, hvor alle<lb />
+Forkyndelser til ham kunne ske.
+</p>
+<p>
+I det i § 835, sidste Stykke, ommeldte Tilfælde tilstedes Fritagelse for Fængs-<lb />
+ling, naar det findes tilstrækkeligt, at Sikkerhed stilles for, at Sigtede vil undlade den<lb />
+Virksomhed, som frygtes, indtil Dommen, hvis den gaar ham imod, kan fuldbyrdes.
+</p>
+<wtitle>§  842.</wtitle>
+<p>
+Sikkerheden, hvis Størrelse i det enkelte Tilfælde fastsættes af Retten, stilles<lb />
+ved Overlevering af rede Penge eller gode Værdipapirer, der paa Forlangende, eller<lb />
+naar det af Dommeren findes hensigtsmæssigt, blive at opbevare i Nationalbanken eller<lb />
+vedkommende Amtstue, eller ved Selvskyldnerkaution af en eller flere i Kongeriget bo-<lb />
+satte vederhæftige Mænd.
+</p>
+<wtitle>§  843.</wtitle>
+<p>
+Den, af hvem Sikkerhed stilles, skal herom underskrive en Erklæring, hvori<lb />
+den eller de Forpligtelser, indtil hvis Opfyldelse Sikkerheden hæfter, og ved hvis Mis-<lb />
+ligholdelse den forbrydes, ere angivne.
+</p>
+<p>
+Hvor vidt en stillet Sikkerhed bør være forbrudt, afgøres ved Kendelse, efter at<lb />
+der saa vidt muligt er givet de vedkommende Lejlighed til at udtale sig. Det for-<lb />
+brudte Beløb tilfalder Statskassen. Dog blive først Sagens Omkostninger og den for-<lb />
+urettedes Erstatningskrav deraf at dække, for saa vidt Dækning derfor ikke kan faas<lb />
+paa anden Maade.
+</p>
+<p>
+Er Sikkerheden forbrudt som Følge af Sigtedes Undvigelse eller Udeblivelse fra<lb />
+Møde, kan Retten, naar Sigtede inden en Maaned efter den Dag, da han er undveget<lb />
+eller skulde være mødt, frivillig fremstiller sig eller paagribes, helt eller delvis eftergive<lb />
+Sikkerhedens Forbrydelse, dog at den hæfter for alle Udgifter, som ere bevirkede ved<lb />
+Undvigelsen eller Udeblivelsen.
+</p>

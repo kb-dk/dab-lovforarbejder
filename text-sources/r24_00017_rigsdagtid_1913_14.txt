@@ -1,0 +1,68 @@
+3369
+<pb n="17">
+<h>
+<coll>
+3369
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3370
+</colr>
+</h>
+<p>
+Inhabilitet, ligesom ethvert andet Medlem af Retten, der maatte være bekendt med<lb />
+saadanne Omstændigheder, er berettiget og forpligtet til at rejse Spørgsmaal derom,<lb />
+hvorefter Afgørelse træffes ved Kendelse af Retten, uden at han selv er udelukket<lb />
+fra at deltage i Paakendelsen af Spørgsmaalet.
+</p>
+<lowtitle>§ 62.</lowtitle>
+<p>
+Parterne kunne ikke blot fordre, at en Dommer skal vige sit Sæde i de i § 60<lb />
+angivne Tilfælde, men enhver af dem kan fremsætte Indsigelse mod, at en Dommer be-<lb />
+klæder Retten, naar andre Omstændigheder foreligge, som ere egnede til at vække Tvivl<lb />
+om hans fuldstændige Upartiskhed. I Tilfælde af den sidstnævnte Beskaffenhed kan<lb />
+ogsaa Dommeren selv, naar han frygter for, at Parterne ej kunne have fuld Tillid til<lb />
+ham, vige sit Sæde, selv om ingen Indsigelse mod ham fremsættes. Beklædes Retten af<lb />
+flere Dommere, kan enhver af disse rejse det Spørgsmaal, om nogen af Rettens Med-<lb />
+lemmer paa Grund af Omstændigheder af heromhandlede Art bør fratræde.
+</p>
+<p>
+De Spørgsmaal, som maatte opstaa i Henhold til nærværende Paragraf, afgøres<lb />
+paa samme Maade, som i § 61 er bestemt med Hensyn til de i § 60 omhandlede<lb />
+Tilfælde.
+</p>
+<lowtitle>§ 63.</lowtitle>
+<p>
+Spørgsmaalet om en Dommers Fratræden, der, naar det rejses af en af Par-<lb />
+terne, i borgerlige Sager i processuel Henseende behandles som andre Formalitets-<lb />
+indsigelser, bør saa vidt muligt rejses før den mundtlige Forhandlings Begyndelse. Det<lb />
+kan afgøres, uden at Parterne have haft Adgang til at ytre sig derom.
+</p>
+<lowtitle>§ 64.</lowtitle>
+<p>
+Kendelser, hvorved en Enkeltdommer erklærer at ville vige sit Sæde, eller<lb />
+hvorved det paalægges en Dommer i en Kollegialret at vige sit Sæde, ere ikke Gen-<lb />
+stand for Anke eller Kære. Imod Kendelser, hvorved Indsigelser mod en Dommers<lb />
+Habilitet forkastes, kan Kæremaal rejses. Naar det straks forlanges, kan i denne<lb />
+Anledning en kort Udsættelse af Sagen tilstaas.
+</p>
+<lowtitle>§ 65.</lowtitle>
+<p>
+Fra det Øjeblik, da Retskendelse for, at en Dommer skal vige sit Sæde, er<lb />
+afsagt, er denne Dommer kun berettiget til at foretage saadanne Handlinger i Sagen,<lb />
+som ej kunne opsættes.
+</p>
+<lowtitle>§66.</lowtitle>
+<p>
+De om Dommere givne Forskrifter finde ogsaa Anvendelse paa Retsskrivere<lb />
+og Retsvidner.   Afgørelsen af Habilitetsspørgsmaalet træffes af Retten.
+</p>
+<lowtitle>§ 67.</lowtitle>
+<p>
+En Stævningsmand maa ikke foretage eller deltage i en Forretning, naar nogen<lb />
+af Parterne er hans Ægtefælle eller beslægtet eller besvogret med ham i lige op-<lb />
+eller nedstigende Linie eller i første Sidelinie, eller han selv er Part i Sagen eller er<lb />
+interesseret i dens Udfald.
+</p>
+
+</pb>

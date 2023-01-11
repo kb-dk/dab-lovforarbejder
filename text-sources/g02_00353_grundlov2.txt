@@ -1,0 +1,100 @@
+2179
+<pb n="353" >
+<p rend="page">353</p>
+<h>
+<coll>2179</coll>
+<colr>2180</colr><lb />
+Oversigt over Grundlovsudkastet.<lb />
+</h>
+<leftside>
+<btitle>
+A. Grundlovsudkastet.<lb />
+</btitle>
+<p>
+<law n="79" >§ 79.<lb /></law>
+Intet Lehn, Stamhuus eller Fideicommisgods kan for Fremtiden oprettes; de nu bestaaende kunne med alle Berettigedes Samtykke<lb />
+overgaae til fri Eiendom.<lb />
+</p>
+<btitle>
+B. Comiteens (Majoritets) Indstilling.<lb />
+</btitle>
+<p>
+<law n="79" >§ 79.<lb /></law>
+Intet Lehn, Stamhuus eller Fideicommisgods kan for Fremtiden oprettes; det skal ved<lb />
+Lov nærmere ordnes, hvorledes de nu bestaaende kunne overgaae til fri Eiendom.<lb />
+<law n="79 b" />§ 79 b.<lb />
+For Krigsmagten ere de i §§ 67, 73 og<lb />
+74 givne Bestemmelser kun anvendelige med<lb />
+de Indskrænkninger, der følge af de militære<lb />
+Loves Forskrifter.<lb />
+</p>
+<title>
+VIII b.<lb />
+</title>
+<p>
+<law n="81" >§ 81.<lb /></law>
+Alle Love og Anordninger, der ere i Strid<lb />
+med Grundlovens Bestemmelser, er forsaavidt<lb />
+uden Gyldighed.<lb />
+</p>
+<title>
+IX.<lb />
+</title>
+<btitle>
+Midlertidige Bestemmelser.<lb />
+</btitle>
+<p>
+<law n="82" >§ 82.<lb /></law>
+Ligesom Reglen i § 15, at Civillisten bestemmes ved Lov, ingen Anvendelse har for den<lb />
+nuregjerende Konge, saaledes vil ikke heller den<lb />
+i § 16 givne Forskrift være til Hinder for, at<lb />
+Apanager nydes udenfor Riget, forsaavidt<lb />
+saadant hjemles ved alt bestaaende Contracter.<lb />
+<law n="83" >§ 83.<lb /></law>
+Indtil den i § 21 bebudede Pensionslov<lb />
+udkommer, vil enhver Embedsmand, der efter<lb />
+samme Paragraphs Bestemmelse bliver afskediget, erholde Pension efter de hidtil fulgte Regler.<lb />
+<law n="84" >§ 84.<lb /></law>
+Den i § 62 indeholdte Bestemmelse skal<lb />
+ikke være anvendelig paa de nuværende Dommere, som tillige have administrative Forretninger.<lb />
+<law n="85" >§ 85.<lb /></law>
+Indtil en Omordning af den criminelle<lb />
+Proces er iværksat, vil den i § 67 omhandlede<lb />
+Indankning af en Fængslingskjendelse skee som<lb />
+af en privat Sag, dog med Extraretsvarsel,<lb />
+ligesom den Klagende er fritagen for Brugen<lb />
+af stemplet Papiir og Erlæggelse af Retsgebyhrer. Der bør gives ham Adgang til i<lb />
+Anledning af saadan Paaanke at raadføre sig<lb />
+med en Sagfører, og nye Oplysninger kunne<lb />
+fremlægges for Overretten.<lb />
+<law n="86" >§ 86.<lb /></law>
+Der skal saa snart som muligt gives Love<lb />
+om følgende Gjenstande:<lb />
+1) om Kolonierne og deres Bestyrelse;<lb />
+2) om Ministerraadets Ordning, Statsforretningernes Fordeling, Ministrenes Ansvarlighed (§ 20) og Retsforfølgningsmaaden ved Rigsretten (§ 60);<lb />
+3) om Pensionsvæsenet (§ 21);<lb />
+4) om Retspleiens Adskilleise fra Forvaltningen (§ 63 b.);<lb />
+5) om Nævningers Indførelse (§ 63 e.);<lb />
+6) om Folkekirkens (§ 64) og de fra samme<lb />
+afvigende Troessamfunds Forhold (§ 64 b.);<lb />
+7) om Næringsforholdnes Ordning (§ 69);<lb />
+8) om Trykkefriheden (§ 72);<lb />
+9) om Ordningen af Communalforholdene<lb />
+(§ 77);<lb />
+10) om de nu bestaaende Lehns, Stamhuses<lb />
+og Fideicommisgodsers Overgang til fri<lb />
+Eiendom. (§ 79)<lb />
+</p>
+</leftside>
+<rightside>
+<btitle>
+C. Minoritetsindstillinger.<lb />
+</btitle>
+</rightside>
+<underpage>
+Trykt og forlagt af Kgl. Hofbogtrykker Bianco Luno.<lb />
+</underpage>
+
+
+
+</pb>

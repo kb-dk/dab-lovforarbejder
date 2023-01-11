@@ -1,0 +1,71 @@
+2199
+<pb n="26" />
+<h>
+<coll>2199</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2200</colr>
+</h>
+<wtitle>§ 134.</wtitle>
+<p>
+Den givne Tilstaaelse af fri Proces ophører, naar Parten dør. Den kan tages<lb/>
+tilbage, naar de Forudsætninger, under hvilke den er meddelt, vise sig ikke at have<lb/>
+været til Stede eller at være bortfaldne.
+</p>
+<wtitle>§ 135.</wtitle>
+<p>
+Meddelelse af fri Proces udstrækker sine Virkninger til hele Sagen i den<lb/>
+Instans, derunder til den for at opnaa ny Foretagelse af Sagen for samme Ret fore-<lb/>
+skrevne Procedure, samt til Eksekution.
+</p>
+<p>
+Naar Retshandlinger skulle foretages efter Begæring af udenlandsk Myndighed,<lb/>
+beskikkes der af Rettens Formand, saa vidt fornødent gøres, Sagførere til at varetage<lb/>
+Parternes Tarv, og Sagen behandles foreløbig, som om fri Proces var meddelt, men<lb/>
+Regning indgives til vedkommende udenlandske Myndighed over Retsafgifter, Sag-<lb/>
+førersalærer og andre af Sagen flydende Omkostninger.
+</p>
+<wtitle>§ 136.</wtitle>
+<p>
+Afgørelser, hvorved fri Proces tilstaas, kunne ikke paaklages for højere Ret;<lb/>
+imod Afgørelser, ved hvilke den nægtes eller tages tilbage, kan Kære til Højesteret<lb/>
+finde Sted.
+</p>
+<wtitle>§ 137.</wtitle>
+<p>
+Justitsministeriet skal i samme Omfang som hidtil være berettiget til uden<lb/>
+for de i § 131 opstillede Betingelser at anordne, at fri Proces skal tillægges offentlige<lb/>
+Myndigheder, Stiftelser, Embedsmænd og andre, og det paahviler derfor vedkommende<lb/>
+Justitiarius (§ 133) at iagttage det fornødne til Udførelsen heraf.
+</p>
+<p>
+Fri Proces tilkommer i de i § 301 og § 303 jfr. § 312 ommeldte Sager hen-<lb/>
+holdsvis Overanklageren og Øvrigheden.
+</p>
+<wtitle>§ 138.</wtitle>
+<p>
+Bestemmelserne i Lov om Sagførersalær m. m. af 24de Maj 1879 forblive gæl-<lb/>
+dende i borgerlige Sager.
+</p>
+<title>Kapitel XIII.</title>
+<undertitle>
+Den tvungne Forligsprøve.
+</undertitle>
+<wtitle>§ 139.</wtitle>
+<p>
+Grenstand for tvungen Forligsmægling ere alle borgerlige Domssager i første<lb/>
+Instans. Dog er Forligsprøve ej fornøden:
+</p>
+<p>
+1)	naar Modfordringer gøres gældende, om endog selvstændig Dom for dem paastaas;
+</p>
+<p>
+2)	i Sager om Veksler og visse andre Gældsbreve (Kap. XXV);
+</p>
+<p>
+3)	naar offentlig Indstævning finder Sted.
+</p>
+<wtitle>§ 140.</wtitle>
+<p>
+I Underretssager foregaar Forligsmæglingen offentlig ved Retten, hvor Doms-<lb/>
+sagen behandles, medmindre Sagen henhører til dem, i hvilke den ved Lov 10de Maj
+</p>

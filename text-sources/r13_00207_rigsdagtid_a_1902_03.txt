@@ -1,0 +1,80 @@
+2141
+<pb n="207" />
+<h>
+<coll>
+2141
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2142
+</colr>
+</h>
+<wtitle>§  917.</wtitle>
+<p>
+Oplæsning af Tilførsler til Retsbøger angaaende Udsagn af Tiltalte, Vidner<lb />
+eller Syns- eller Skønsmænd paa Grund af de nu afgivne Forklaringers Uoverensstem-<lb />
+melse med de tidligere afgivne bør kun finde Sted, efter at der paa foreskreven Maade<lb />
+er givet de paagældende Lejlighed til sammenhængende Udtalelser om Genstanden for<lb />
+Afhørelsen, og de yderligere Spørgsmaal, hvortil denne Udtalelse opfordrer, ere stillede.
+</p>
+<p>
+Naar Oplæsning af de i § 916 Nr. 2 og 3 ommeldte Aktstykker finder Sted,<lb />
+skal Grunden meddeles af Rettens Formand og tilføres Retsbogen; saa bør det og<lb />
+bemærkes, om Vidnets eller Syns- og Skønsmandens Forklaring er beediget eller ikke,<lb />
+og i sidste Fald, af hvilken Grund.
+</p>
+<wtitle>§  918.</wtitle>
+<p>
+Oplæsning af skriftlige Beviser sker ved Retsskriveren, medmindre Rettens<lb />
+Formand tillader den bevisførende selv at oplæse dem, eller et af Rettens Medlemmer<lb />
+foretager Oplæsningen.
+</p>
+<wtitle>§  919.</wtitle>
+<p>
+Bevis, som haves til Stede, kan ikke nægtes ført af den Grund, at det ikke er<lb />
+anmeldt for Modparten saa betimelig, at denne har haft tilstrækkelig Forberedelse;<lb />
+men hvor dette ikke er sket, og hvor Retten ikke i den Anledning har udsat Førelsen<lb />
+af det paagældende Bevis til en senere Dag, kan Modparten, efter at det er ført, for-<lb />
+lange en passende Udsættelse, medmindre Retten finder, at det er uden Betydning for<lb />
+Sagen, eller af anden Grund finder, at en Udsættelse ikke vilde tjene noget berettiget<lb />
+Formaal.
+</p>
+<p>
+Udsættelse til Førelse af Bevis, som ikke haves til Stede, bevilges af Betten,<lb />
+naar den finder, at Omstændighederne gøre dette ønskeligt for Sagens Oplysning.
+</p>
+<p>
+Retten kan, naar den anser det for nødvendigt til Sagens fuldstændige Op-<lb />
+lysning, beslutte, at Beviser skulle føres, som ingen af Parterne har begært førte, eller<lb />
+som den, der har anmeldt samme, har erklæret at ville frafalde, og kan i dette Øje-<lb />
+med udsætte Sagen; de Foranstaltninger, som Beslutningen foranlediger, træffes af<lb />
+Retten eller efter dens Paalæg af Overanklageren.
+</p>
+<wtitle>§  920.</wtitle>
+<p>
+Rettens Afgørelse af Tvistepunkter, som opstaa under Bevisførelsen mellem<lb />
+Parterne, samt af Indsigelser, der fremsættes af Vidner. Syns- eller Skønsmænd, sker,<lb />
+for saa vidt det begæres, ved Kendelse.
+</p>
+<wtitle>§  921.</wtitle>
+<p>
+Førend Dom eller Kendelse afsiges under Domsforhandlingen, bør der være<lb />
+givet Parterne Lejlighed til at udtale sig. Tiltalte har stedse det sidste Ord.
+</p>
+<wtitle>§  922.</wtitle>
+<p>
+Domsforhandlingen afsluttes ved Rettens Dom i Sagen; dog betragtes Sagen<lb />
+som tingfæstet ved Retten, indtil Dommens Fuldbyrdelse kan begynde, eller indtil i<lb />
+Tilfælde af Anke Sagens Aktstykker ere indsendte til Rigsanklageren (jfr. §  996).
+</p>
+<p>
+Den vedtagne Afgørelse føres i Pennen af Rettens Formand eller af den af<lb />
+de i Afgørelsen deltagende Dommere, hvem dette Hverv af Formanden overdrages.<lb />
+Stemmetallet maa ikke optages i Rettens Afgørelser.
+</p>
+<p>
+Dommens Afsigelse foregaar derved, at den oplæses i et Retsmøde. Er Til-<lb />
+talte fængslet, bør han bringes til Stede ved Dommens Afsigelse.
+</p>

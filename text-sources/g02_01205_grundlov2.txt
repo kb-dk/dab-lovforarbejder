@@ -1,0 +1,147 @@
+3883
+<pb n="1205" >
+<p rend="page">1205</p>
+<h>
+<coll>3883</coll>
+<colr>3884</colr><lb />
+
+Den endelige Behandling af Valgloven. Udvalgets § 80.<lb />
+</h>
+<leftside>
+<px>
+Pjetursson.	Tobiesen.<lb />
+Ploug.	Tuxen.<lb />
+Pløyen.	Ussing af Viborg.<lb />
+Scavenius.	Westergaard.<lb />
+Schack.	Wulff.<lb />
+Schiern.	Zeuthen.<lb />
+Tang.	Ørsted.<lb />
+</px>
+<px>
+Ja.<lb />
+Aagaard (G.).	Høier.<lb />
+Andresen.	Jacobsen.<lb />
+Andræ.	Jespersen (F.).<lb />
+Barsod.	Johansen (H. C.).<lb />
+Black.	Jungersen.<lb />
+Bregendahl.	Leth.<lb />
+Christensen (Balthazar).	Madsen.<lb />
+Christensen (Georg).	Møller (R. N.) af Draaby.<lb />
+Christensen (H.).	Nielsen (N. H.).<lb />
+Christensen (J.).	Rasmussen (J.) af Svanninge.<lb />
+la Cour.	Rasmussen (H.).<lb />
+Dinsen.	Rasmussen (M.)<lb />
+Frølund.	Rée.<lb />
+Gleerup.	Stender.<lb />
+Gregersen.	Theilmann.<lb />
+Hansen (J. A.).	Tscherning.<lb />
+Hansen (L.).	Tvede.<lb />
+Hansen (P.) af Bjelkerup.	Visby.<lb />
+v. Haven.	Winther.<lb />
+Hækkerup.<lb />
+</px>
+<px>
+Fraværende.<lb />
+M. P. Bruun.	Tage Müller (syg).<lb />
+Buchwaldt.	Olesen.<lb />
+Boisen.	Otterstrøm.<lb />
+Colding.	Ræder.<lb />
+Dahlerup.	Schlegel.<lb />
+Drewsen (M.).	Schroll.<lb />
+Eriksen.	Schurmann.<lb />
+Fibiger.	Schytte.<lb />
+Fløe.	Brinch-Seidelin.<lb />
+Gislason.	Sidenius.<lb />
+Grundtvig.	Sigurdsson.<lb />
+Gudmundsson.	Stockfleth.<lb />
+Hiort.	Thalbi‡er.<lb />
+Holck.	Treschow.<lb />
+Hvidt (syg).	Algreen-Ussing.<lb />
+Jespersen (C M.)	af Viborg. Wegener.<lb />
+Johnsen.	With.<lb />
+Linnemann.<lb />
+</px>
+<p>
+3) Nr. 226. Rées Forslag: “Paragraphen foreslaaes forandret<lb />
+saaledes:<lb />
+</p>
+<p>
+“Den Rigsdagens Medlemmer tilkommende, daglige Godtgjørelse bestemmes til 3 Rigsbankdaler for dem, som ere bosid<lb />
+dende paa det Sted, hvor Rigsdagen holdes, og 4 Rigsbank<lb />
+daler for udenbyes Medlemmer. Reiseomkostningerne erstattes<lb />
+
+</p>
+</leftside>
+<rightside>
+<p>
+efter indgiven, af vedkommende Things Formand bifaldet og anviist Regning.""<lb />
+blev ligeledes ved Navneopraab, der var forlangt af:<lb />
+</p>
+<px>
+N. F. Jespersen.	Lü‡höft.<lb />
+Stender.	Dahlerup.<lb />
+Hunderup.	C. N. Petersen.<lb />
+Jacobæus.	Barfod.<lb />
+J. E. Larsen.	Ostenfeldt.<lb />
+H. B. Bruun.	Wulff.<lb />
+H. P. Hansen.	Sehestedt-Juel.<lb />
+Pape.<lb />
+</px>
+<p>
+forkastet med 79 Nei mod 35 Ja — 35 Fraværende, 1 (Visby)<lb />
+stemte ikke.<lb />
+</p>
+<px>
+Nei.<lb />
+U. Aagaard.	J. E. Larsen.<lb />
+Bagger.	Lorck.<lb />
+Bergmann.	Lüttichan.<lb />
+Bjerring.	Lü‡höft.<lb />
+Bluhme.	Madsen.<lb />
+Brandt.	Marckmann.<lb />
+H. B. Bruun.	Mundt.<lb />
+P. D. Bruun.	Paludan-Müller.<lb />
+Bun‡en.	Mynster.<lb />
+Cederfeld de Simonsen.	C. C. Møller.<lb />
+G. Christensen.	Neergaard.<lb />
+Dahl.	H. C. Nielsen.<lb />
+David.	Nyholm.<lb />
+J. C. Drewsen.	Nørgaard.<lb />
+Dun‡felt.	Olrik.<lb />
+Flor.	Ostenfeldt.<lb />
+Funder.	Ostermann.<lb />
+Gram.	Oxholm.<lb />
+Hage.	Pape.<lb />
+Hall.	Cornelius Petersen.<lb />
+Hammerich.	I. Pedersen.<lb />
+H. P. Hansen.	P. Pedersen.<lb />
+Mørk Hansen.	B. Petersen.<lb />
+N. Hansen. C. N. Petersen.<lb />
+Hasselbalch.	Pjetursson.<lb />
+Hastrup.	Poug.<lb />
+Hermannsen.	Pløyen.<lb />
+Hunderup.	Scavenius.<lb />
+Jacobæus.	Schack.<lb />
+N. F. Jespersen.	Tang.<lb />
+F. Johannsen.	Theilmann.<lb />
+H. Johansen.	Tobiesen.<lb />
+Sehestedt-Juel.	Tuxen.<lb />
+Jørgensen.	Tvede.<lb />
+Kayser.	W. Ussing.<lb />
+Kirk.	Westergaard.<lb />
+Knuth.	Wulff.<lb />
+Krieger. Zeuthen.<lb />
+Køster. Ørsted.<lb />
+Chr. Larsen.<lb />
+</px>
+<morenext>
+(Fortsættes.)<lb />
+</morenext>
+</rightside>
+<underpage>
+Trykt og forlagt af Kgl. Hofbogtrykker Bianco Luno.<lb />
+</underpage>
+
+
+
+</pb>

@@ -1,0 +1,94 @@
+761
+<pb n="12" />
+<h>
+<coll>
+761
+</coll>
+<topmidle>
+Bet. o. Lovf. om Rettens Pleje m. m.
+</topmidle>
+<colr>
+762
+</colr>
+</h>
+<p>
+Tavle A.<lb />
+</p>
+<p>
+(Dommere i 1ste Lønningsklasse).<lb />
+</p>
+<title>
+Sjælland.
+</title>
+<p>
+1.—3. Dommerne i Frederiksberg Birk.<lb />
+</p>
+<p>
+4.	Dommeren i Københavns Amts nordre Birk (borgerlige Sager).<lb />
+</p>
+<p>
+5.	— i Københavns Amts nordre Birk (Straffesager).<lb />
+</p>
+<p>
+6.	— i Københavns Amts søndre Birk m. m.<lb />
+</p>
+<p>
+7.	— i Roskilde Købstad m. m. (borgerlige Sager).<lb />
+</p>
+<p>
+8.	— i Helsingør Købstad m. m.<lb />
+</p>
+<p>
+9.	— i Frederikssund Købstad m. m.<lb />
+</p>
+<p>
+10.	— i Holbæk Købstad m. m.<lb />
+</p>
+<p>
+11.	— i Kalundborg Købstad m. m.<lb />
+</p>
+<p>
+12.	— i Skelskør Købstad m. m.<lb />
+</p>
+<p>
+13.	— i Næstved Købstad m. m.<lb />
+</p>
+<title>
+Bornholm.
+</title>
+<p>
+14.	Dommeren i Rønne Købstad m. m.<lb />
+</p>
+<p>
+Lolland—Falster.<lb />
+</p>
+<p>
+15. Dommeren i Nykøbing F. Købstad m. m.<lb />
+</p>
+<p>
+—	i Maribo Købstad m. m.<lb />
+</p>
+<p>
+—	i Nakskov Købstad m. m.<lb />
+</p>
+<title>
+Fyn.
+</title>
+<p>
+18. Dommeren i Sunds-Gudme Herreder.<lb />
+</p>
+<p>
+19. — i Faaborg Købstad m. m.<lb />
+</p>
+<p>
+20.— i Odense Købstad (borgerlige Sager).<lb />
+</p>
+<p>
+21.    i Bogense Købstad m. m.<lb />
+</p>
+<p>
+22. — i Assens Købstad m. m.<lb />
+</p>
+<p>
+23. —- i Middelfart Købstad m. m.<lb />
+</p>

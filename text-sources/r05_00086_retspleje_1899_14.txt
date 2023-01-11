@@ -1,0 +1,45 @@
+80
+<pb n="86" />
+<h>
+<topmidle>80     Kap. XVIII. Behandl. ved Landsret.</topmidle>
+</h>
+<wtitle>§ 222.</wtitle>
+<p>Enhver, der er dømt som udebleven ved<lb />
+en Landsret som 1ste Instans, kan begære<lb />
+Sagen genoptaget og fortsat fra det Punkt,<lb />
+hvor Forhandlingen på Grund af Udeblivelsen standsede for hans Vedkommende,<lb />
+når han godtgør, at Udeblivelsen var ham<lb />
+utilregnelig. Den, der ønsker at benytte<lb />
+sig heraf, må indgive en skriftlig begrundet<lb />
+Begæring til Retten, ledsaget af de fornødne<lb />
+Bevisligheder. Finder Retten ikke Grund<lb />
+til straks at afvise Begæringen, berammes<lb />
+et Retsmøde, og Rettens Formand fastsetter det Varsel, med hvilket Modparten<lb />
+skal indkaldes. Udebliver denne, anses de<lb />
+for Begæringen påberåbte Grunde for<lb />
+beviste; møder Modparten og rejser Indsigelse, forhandles Spørgsmålet om Genoptagelse mundtlig.</p>
+<p>Retten afgør ved Kendelse, om Sagen<lb />
+skal genoptages, og berammer i bekræftende<lb />
+Fald et Retsmøde samt fastsætter et Varsel,<lb />
+med hvilket Modparten dertil skal indkaldes.<lb />
+I dette Møde træffes de fornødne Bestemmelser om Sagens Fortsættelse overensstemmende med de almindelige Regler, forsåvidt Genoptagelsen ikke afvises, fordi<lb />
+Modparten ikke er behørig indkaldt.</p>
+<p>Samtidig med at Sagen erklæres for<lb />
+genoptaget såvel som på ethvert senere<lb />
+Trin af Sagen kan Retten efter Begæring<lb />
+bestemme, at den afsagte Udeblivelsesdoms<lb />
+Virkninger skulle udsættes.</p>
+<p>Fører Genoptagelsen til samme Resultat<lb />
+som den afsagte Dom, bliver denne at stadfæste; i modfat Fald ophæves den, og ny<lb />
+Dom afsiges.</p>
+<wtitle>§ 223.</wtitle>
+<p>Begæring om den i § 222 omhandlede<lb />
+Genoptagelse må fremsættes, så snart det<lb />
+er muligt, og kan ikke fremføres efter et<lb />
+Års Forløb fra Dommens Afsigelse. Er<lb />
+Sagen indanket til højere Ret, er Adgangen<lb />
+til Genoptagelse udelukket, indtil Anken<lb />
+frafaldes eller afvises. Når Indkaldelse<lb />
+til det første i § 222 ommeldte Retsmøde<lb />
+er sket, ere begge Parter udelukkede fra at<lb />
+påanke Udeblivelsesdommen,   indtil Genop-</p>

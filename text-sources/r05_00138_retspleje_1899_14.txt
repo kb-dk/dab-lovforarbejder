@@ -1,0 +1,43 @@
+132
+<pb n="138" />
+<h>
+<topmidle>132     Kap. XXXII.    Eksek.-Proceduren.</topmidle>
+</h>
+<wtitle>§ 373.</wtitle>
+<p>I opstående Tvistigheder afsiger Fogden Kendelse umiddelbart efter Forhandlingernes Slutning eller dog snarest muligt.</p>
+<p>Kendelsen, der skal være ledsaget af<lb />
+Grunde, indføres fuldstændigt i Protokollen.</p>
+<p>Dens Fuldbyrdelse kan ikke hindres<lb />
+ved Anke eller Kære.</p>
+<wtitle>§ 374.</wtitle>
+<p>I Fogedprotokollen optegnes nøjagtigt<lb />
+alle de enkelte Genstande, hvori Udlæg gøres;<lb />
+ved hver enkelt Genstand tilføjes dens Værdi<lb />
+efter den stedfundne Ansættelse.</p>
+<p>Fogden erklærer derefter til Protokollen<lb />
+de optegnede Genstande for udlagte til Domhaverens Fyldestgørelse og betyder Domfældte, at han fra nu af ikke uden at pådrage sig Strafansvar kan råde over dem<lb />
+på en Måde, som kommer i Strid med<lb />
+Udlægshaverens Ret. Er Domfældte ikke<lb />
+til Stede, gives der den eller dem, som i<lb />
+Henhold til § 363 tilkaldes på hans Vegne,<lb />
+Pålæg om at give Domfældte en sådan<lb />
+Betydning, og efter Omstændighederne kan<lb />
+lignende Betydning gives den Trediemand,<lb />
+i hvis Besiddelse det Udlagte er.</p>
+<wtitle>§ 375.</wtitle>
+<p>Hvor der gives Udlæg i fast Ejendom,<lb />
+uden at der tillige gives Udlæg i dens<lb />
+Indtægter, forbliver den indtil Tvangsauktionen i Domfældtes Besiddelse, medmindre<lb />
+denne findes at ødelægge eller forringe<lb />
+Ejendommen, i hvilket Tilfælde den kan<lb />
+sættes under en af Fogden valgt Mands<lb />
+Bestyrelse.</p>
+<p>Udlægsforretningen må, for at kunne<lb />
+gøres gældende imod dem, der i god Tro<lb />
+ved Retshandler måtte erhverve Rettigheder<lb />
+over Ejendommen, tinglåses ved dennes<lb />
+Værneting.</p>
+<wtitle>§ 376.</wtitle>
+<p>Udlagt Løsøre må, når Udlægshaveren<lb />
+modsætter sig det, ikke forblive i Domfældtes Besiddelse, medmindre denne stiller<lb />
+antagelig Sikkerhed for dets Tilstedeblivelse</p>

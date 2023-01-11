@@ -1,0 +1,35 @@
+128
+<pb n="128" />
+<h>120   Kap. XXV. Domsforhdl. for Underret.</h>
+<p>Tiltaltes Opmærksomhed. Om den Erklæring, som Tiltalte i ommeldte Henseende<lb />
+måtte afgive under Forkyndelsen, optages<lb />
+fornøden Bemærkning i Forkyndelsespåtegningen.</p>
+<wtitle>§ 305.</wtitle>
+<p>Hvor det ikke efter Omstændighederne<lb />
+findes rettest at afvente, om Tiltalte vil<lb />
+begære Behandling ved Landøret, og hvor<lb />
+heller ikke Omfanget af den Forberedelse,<lb />
+som Sagen udkræver, gør det uhensigtsmæssigt, berammer dømmeren, forsåvidt han<lb />
+ikke finder, at Sagen straks må afvises (§228),<lb />
+ufortøvet Tid og Sted til Sagens Foretagelse: i andre Tilfælde foregår Berammelsen, så snart ske kan. Hvor Sagen straks<lb />
+er bleven berammet, kan Stævning forkyndes<lb />
+samtidig med Anklageskriftet.</p>
+<p>Den Frist, inden hvilken Meddelelse<lb />
+skal ske fra Tiltaltes Side om Beviser m. v.,<lb />
+fastsættes as dømmeren.</p>
+<wtitle>§ 306.</wtitle>
+<p>Er Tiltalte uden Forsvarer, skal<lb />
+dømmeren, foruden selv at undersøge, hvorvidt andre eller flere Oplysninger bør<lb />
+søges tilvejebragte, end Overanklageren har<lb />
+opgivet, give Tiltalte Lejlighed til for ham<lb />
+at fremkomme med sine mulige Begæringer<lb />
+vedrørende Sagens Forberedelse eller Fremme.</p>
+<wtitle>§ 307.</wtitle>
+<p>Afhørelsen af Vidner og Syns- eller<lb />
+Skønsmænd kan altid overtages af dømmeren, naar han finder Grund hertil.</p>
+<title>Kapitel XXVI.</title>
+<undertitle>Tiltale   og   Domsforhandling   for   Underret<lb />
+i Sager, som påtales as Politimesteren.</undertitle>
+<wtitle>§ 308.</wtitle>
+<p>Tiltale rejses i Politisager i Almindelighed ved et af Politimesteren udfærdiget<lb />
+Anklageskrift, hvori Sigtedes  Navn og hvad</p>

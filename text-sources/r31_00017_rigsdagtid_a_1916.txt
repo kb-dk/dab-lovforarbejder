@@ -1,0 +1,64 @@
+433
+<pb n="17" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>433</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+Inhabilitet, ligesom ethvert andet Medlem af Retten, der måtte være bekendt med<lb />
+sådanne Omstændigheder, er berettiget og forpligtet til at rejse Spørgsmål derom,<lb />
+hvorefter Afgørelse træffes ved Kendelse af Retten, uden at han selv er udelukket
+fra at deltage i Påkendelsen af Spørgsmålet.
+</p>
+<wtitle>§ 62.</wtitle>
+<p>
+Parterne kan ikke blot fordre, at en Dommer skal vige sit Sæde i de i § 60<lb />
+angivne Tilfælde, men enhver af dem kan fremsætte Indsigelse mod, at en Dommer beklæder Retten, når andre Omstændigheder foreligger, som er egnede til at vække Tvivl<lb />
+om hans fuldstændige Upartiskhed. I Tilfælde af den sidstnævnte Beskaffenhed kan<lb />
+også Dommeren selv, når han frygter for, at Parterne ej kan have fuld Tillid til<lb />
+ham, vige sit Sæde, selv om ingen Indsigelse mod ham fremsættes. Beklædes Retten af<lb />
+flere Dommere, kan enhver af disse rejse det Spørgsmål, om nogen af Rettens Medlemmer på Grund af Omstændigheder af heromhandlede Art bør fratræde.
+</p>
+<p>
+De Spørgsmål. som måtte opstå i Henhold til nærværende Paragraf, afgøres<lb />
+på samme Måde, som i § 61 er bestemt med Hensyn til de i § 60 omhandlede<lb />
+Tilfælde.
+</p>
+<wtitle>§ 63.</wtitle>
+<p>
+Spørgsmålet om en Dommers Fratræden, der, når det rejses af en af Parterne, i borgerlige Sager i processuel Henseende behandles som andre Formalitetsindsigelser, bør så vidt muligt rejses før den mundtlige Forhandlings Begyndelse. Det
+kan afgøres, uden at Parterne har haft Adgang til at ytre sig derom.
+</p>
+<wtitle>§ 64.</wtitle>
+<p>
+Kendelser, hvorved en Enkeltdommer erklærer at ville vige sit Sæde. eller<lb />
+hvorved det pålægges en Dommer i en Kollegialret at vige sit Sæde, er ikke Genstand for Anke eller Kære. Imod Kendelser, hvorved Indsigelser mod en Dommers<lb />
+Habilitet forkastes, kan Kæremål rejses. Når det straks forlanges, kan i denne
+Anledning en kort Udsættelse af Sagen tilstås.
+</p>
+<wtitle>§ 65.</wtitle>
+<p>
+Fra det Øjeblik, da Retskendelse for, at en Dommer skal vige sit Sæde, er<lb />
+afsagt, er denne Dommer kun berettiget til at foretage sådanne Handlinger i Sagen,<lb />
+som ej kan opsættes.
+</p>
+<wtitle>§ 66.</wtitle>
+<p>
+De om Dommere givne Forskrifter finder også Anvendelse på Retsskrivere<lb />
+og Retsvidner. Afgørelsen af Habilitetsspørgsmålet træffes af Retten.
+</p>
+<wtitle>§ 67.</wtitle>
+<p>
+En Stævningsmand må ikke foretage eller deltage i en Forretning, når nogen<lb />
+af Parterne er hans Ægtefælle eller beslægtet eller besvogret med ham i lige opeller nedstigende Linie eller i første Sidelinie, eller han selv er Part i Sagen eller er<lb />
+interesseret i dens Udfald.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.  59
+</title>

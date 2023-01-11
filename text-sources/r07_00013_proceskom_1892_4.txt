@@ -1,0 +1,74 @@
+3235
+<pb n="13" />
+<h>
+<coll>3235</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3236</colr>
+</h>
+<p>
+En for hele det tydske Rige fælles Straffeproceslov er givet den 1ste Februar<lb />
+1877 og traadt i Kraft den 1ste Oktober 1879. Denne Lov fastholder i det hele de<lb />
+ovenangivne Grundsætninger (mundtlig, offentlig Anklageproces med Bevisumiddelbarhed<lb />
+og fri Bevisbedømmelse, Jury i de større Sager); men samtidig indfører den for<lb />
+mindre Forbrydelser en Paakendelse ved Meddomsretter (Schöffengerichte), der bestaa<lb />
+af en enkelt retskyndig Dommer og 2 Lægmænd som Meddomsmænd. Disse Retter<lb />
+ere navnlig deri forskellige fra Nævningeretterne (Juryretterne), at den retskyndige<lb />
+Dommer og Meddomsmænd ene som en Enhed paakende Sagen i dens Helhed, medens<lb />
+i Nævningeretterne Nævningerne særskilt forhandle og paakende Skyldspørgsmaalet og<lb />
+intet have med Strafudmaalingen at gøre. Spørgsmaalet om, hvor vidt den ved Næv-<lb />
+ningeretten eller den ved Meddomsretten repræsenterede Form for Lægmænds Del-<lb />
+tagelse i Strafferetsplejen er den heldigste, har i Tyskland været Genstand for levende<lb />
+Diskussion og har fremkaldt en vidtløftig Literatur.
+</p>
+<p>
+I Norge er en ligeledes paa de ovennævnte Grundsætninger bygget, ny Straffe-<lb />
+proceslov, nemlig Lov om Rettergangsmaaden i Straffesager af 1ste Juli 1887 („Jury-<lb />
+loven"), traadt i Kraft den 1ste Januar 1890.*) Ogsaa denne Lov anordner for<lb />
+mindre Forbrydelser Paakendelse ved Meddomsretter; og den Anskuelse, at denne<lb />
+Form for Lægmænds Medvirken er at foretrække for Nævningeinstitutionen, har i<lb />
+Norge som i Tyskland fremragende Talsmænd. Sager, der ere blevne paakendte ved<lb />
+Meddomsretter, kunne efter en for norsk Ret ejendommelig Regel med visse Begræns-<lb />
+ninger indbringes til fornyet Prøvelse ved Lagmandsret (o: Nævningeret). I øvrigt<lb />
+har, som rimeligt er, den nævnte Lovs Regler paa mange Punkter været Kilden til<lb />
+de af Proceskommissionen foretagne Ændringer i det ældre Straffeprocesudkast.**)
+</p>
+<p>
+I Ungarn er i 1896 vedtaget en ny Straffeproceslov, der bygger paa de<lb />
+samme Grundsætninger som de andre nyere Straffeproceslove. Den skal træde i<lb />
+Kraft senest 1ste Januar 1900. Endelig har ogsaa Bulgarien i 1897 faaet en saadan<lb />
+ny Straffeproceslov.
+</p>
+<p>
+Af de øvrige europæiske Lande har Sverig endnu en, væsentlig gennem Praksis<lb />
+udviklet, Straffeproces, der indeholder en Blanding af akkusatoriske og inkvisitoriske<lb />
+Momenter, og kun anvender Jury i Pressesager. „Nya lagberedningen" har i 1884<lb />
+afgivet Forslag til en paa moderne Grundsætninger bygget Straffeproces.
+</p>
+<p>
+I Finland arbejdes der af fornævnte Kommission ogsaa paa en Reform af<lb />
+Strafferetsplejen.
+</p>
+<p>
+Hvad angaar Lande uden for Europa skal nævnes, at de nordamerikanske<lb />
+Fristater saavel som engelsk Ostindien have en paa engelsk Rets Grundlag hvilende<lb />
+Straffeproces, samt at Japan har en ny Straffeproceslov af 1880, revideret 1890,<lb />
+hvilken dog ikke hjemler Anvendelse af Jury.
+</p>
+<p>
+Blandt de nyere europæiske Love paa Straffeprocessens Omraade turde i øvrigt<lb />
+navnlig følgende fortjene Opmærksomhed:
+</p>
+<p>
+I Kanton Genf, hvis Code d'instruction pénale af 1884 efter det af en fransk<lb />
+Lov af 1881 givne Forbillede helt havde afskaffet Retspræsidentens Retsbelæring til<lb />
+Juryen, er den 1ste Oktober 1890 vedtaget en i Forhold til de for Nævningeretter
+</p>
+<note rend="foot">
+<p>
+*) Loven er paa enkelte Punkter ændret ved Love af 4de April 1891 og 14de Juli 1894.
+</p>
+<p>
+**) Om den for Aarene 1892 og 1893 foreliggende Statistik angaaende den norske Straffeproceslovs<lb />
+Virken se ndf.
+</p>
+</note>

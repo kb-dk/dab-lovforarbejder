@@ -1,0 +1,55 @@
+3643
+<pb n="140" />
+<h>
+<coll>3643</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3644</colr>
+</h>
+<p>Retten tillade, at Sagen undtagelsesvis indbringes for Hoiesteret. Andragende herom frem-<lb />
+soettes  og behandles paa den i § 304 omtalte Maade.</p>
+<p>Om Paaanken til Hoiesteret gjælde de almindelige Regler i tredie Afsnit Kap. I.</p>
+<p>Landsrettens Afgjørelse i Anledning af Besværing er ikke Gjenstand for yderligere<lb />
+Besværing til Hoiesteret.</p>
+<title>Anden Hovedafdeling.</title>
+<undertitle>Om Udpantning samt om Indsættelses- og Udsættelsesforretninger.</undertitle>
+<title>I.   Om Udpantning.</title>
+<wtitle>§ 556.</wtitle>
+<p>Udpantning kan finde Sted for efternævnte Fordringer:</p>
+<p>1) Stats- og Kommuneskatter, samt Afgifter og Idelser, som ifolge Lovgivningens<lb />
+umiddelbare Bud eller en i Henhold til samme foretagen Ligning eller Anfoettelse tilkomme<lb />
+Stat, Kommune, Kirker, anerkjendte Troessamfund, offentlige Stiftelser eller Embeder og<lb />
+Bestillinger; denne Bestemmelse kommer dog ikke til Anvendelse i Henseende til Told- og<lb />
+Skibs« samt Brænderiafgifter, Stempelafgift for Spillekort og Afgift for Adgangsbeviser for<lb />
+Handelsreifende undtagen i det i Forordningen angaaende det under det Kgl General-Told-<lb />
+kammer og Kommercekollegium henhorende Kasse- og Regnskabsvæsen af 8de Juli 1840<lb />
+§ 9  2det Punktum omhandlede Tilfælde;</p>
+<p>2)  Enhver paa en fast Giendom hvilende,   stadig   tilbagevendende   eller   af en bestemt<lb />
+Begivenhed   afhcrngig Penge-   eller Naturalafgift, som uden fanlig Vedtagelse gaar over fra<lb />
+Gier til Gier, forsaavidt den tilkommer en af de   under Nr.  1    ommeldte Berettigede,    her-<lb />
+under indbesattet Renterne   af   de i enkelte Giendomme   fra   det forrige Ryttergodses Salg<lb />
+indeftaaende,  Statskassen tilhørende halve kjøbesummer  samt Renterestanær   af   den i Hen-<lb />
+hold   til   Lov   8de  April   1851   om Selveiendoms Indforelse   paa  det Staten  tilhorende<lb />
+Vendergods, jfr. Lov 27de Januar  1852 § 4,  Lov 3die Marts  1852 §  2   og Lov 8de<lb />
+Februar  1854 § 2, stiftede Pantegjæld, fremdeles Bankhoeftelsesrenter. Tiendevederlag og et-<lb />
+hvert  ved   de anordnede Kommissioners Mellemkomst   fastsat Vederlag   for Aflosningen   af<lb />
+Naturalydelser,   Pligtarbejde   eller Byrder paa faste Giendomme,   alt  forsaavidt   de   i   dette<lb />
+Nummer omhandlede Afgifter eller Vederlag ere bestemte til en uforanderlig   eller dog efter<lb />
+faste Regler vexlende Størrelse;</p>
+<p>3)  Den Betaling,   som efter et   af Kongen   eller   vedkommende Ministerium   stadfæstet<lb />
+eller   af vedkommende Kommunalbestyrelse   eller  anden  offentlig Myndighed indenfor Græn-<lb />
+serne af den samme tilkommende Befoielse   vedtaget eller stadfcrftet Betalingsreglement   bliver<lb />
+at erlægge for Benyttelsen af faadanne et almennyttigt Formaal tjenende Indretninger, hvor-<lb />
+til Adgangen under visfe almindelige Betingelser staar aaben for Enhver;</p>
+<p>4)  Gebyrer  for   kongelige  eller ministerielle Gxpeditioner,  Rets-   og Magiftratsgebyrer<lb />
+og de med Retshandlinger forbundne Afgifter samt det Vederlag,   derunder  indbesattet Dag-<lb />
+penge og Befordringsgodtgørelse, som tilkommer Nogen  for Udforelsen   af Forretninger   eller<lb />
+møder i medfør af Loven,   af offentlig Bestilling eller af en   af   vedkommende Myndighed<lb />
+færlig sket Udmeldelse eller givet Paalæg, forsaavidt Vederlagets Størrelse   eller Reglen   for<lb />
+dets Beregning  er fastsat i Lov   eller   i   en  af Kongen   eller   vedkommende Ministerium   i<lb />
+Henhold til de gjteldende Regler stadfcrftet Tazt,   saa og Erstatning  for de af den Paagjæl-<lb />
+dende til Forretningens Udforelse lovlig gjorte Udlæg;</p>
+<p>5)  Erstatning hos Private  for det Udlæg,   som Stat,   Kirke   eller Kommune har havt<lb />
+ved paa den Forsømmeliges Vegne at  beforge   befalede Anskaffelser, Istandsættelser,   Arbeider<lb />
+eller Naturalydelser;</p>
+<p>6)  Underholdningsbidrag, som   det ifolge øvrighedens i medfør af den gjaldende Lov-<lb />
+givning afgivne Bestemmelse  eller Sammes Stadfæstelse  paa Separations-   eller Skilsmisse-</p>

@@ -1,0 +1,117 @@
+3893
+<pb n="1210" >
+<p rend="page">1210</p>
+<h>
+<coll>3893</coll>
+<colr>3894</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 491.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede og Ni og Tredivte (143de) Møde.<lb />
+(Valglovens tredie Læsning.)<lb />
+</stitle>
+<p>
+<law n="1210" >§ 10.<lb /></law>
+Valglisterne skulle affattes een Gang hvert Aar. Til Grund<lb />
+derfor lægges det foregaaende Aars Valglister med Udeladelse af<lb />
+de Vælgere, som i Mellemtiden ere afgaaede ved Døden eller bortflyttede, eller som have tabt deres Valgberettigelse (§§ 2, 3, 4 og 5),<lb />
+og med Tilføining af dem, som imidlertid have opnaaet Valgret<lb />
+eller inden Valgdagen ville have opfyldt Betingelserne med Hensyn<lb />
+til Alder og Bopæl. Til den Ende blive de, der vel endnu ikke have<lb />
+opfyldt de sidstnævnte Betingelser, men kunne ventes at ville opfylde<lb />
+dem i Løbet af det forestaaende Aar, for hvilket Valglisterne skulle<lb />
+giælde, at opføre paa en særskilt Liste, med udtrykkelig Angivelse af<lb />
+den Dag i Aaret, da de enten fylde det 30te Aar eller ville have<lb />
+havt fast Bopæl i eet Aar i Valgkredsen.<lb />
+<law n="1210" >§ 11.<lb /></law>
+Denne Valglisternes Berigtigelse og Fuldstændiggjørelse skal foretages i de sidste fjorten Dage af Februar Maaned. De derved opstaaede Tvivl skulle efter indhentede Oplysninger afgjøres af Communalbestyrelsen.<lb />
+<law n="1210" >§ 12.<lb /></law>
+Fra den 1ste Marts til den 8de s. M., begge Dage indbefattede,<lb />
+skulle Valglisterne fremligge til almindeligt Eftersyn paa et for Communens Beboere beqvemt Sted i sex Timer hver Dag. Fremlæggelsens Tid og Sted bekjendtgjøres med mindst 8 Dages Varsel til<lb />
+Kirkestevne eller paa den for offentlige Kundgjørelser paa vedkommende<lb />
+Sted ellers brugelige Maade.<lb />
+<law n="1210" >§ 13.<lb /></law>
+Inden tre Dage fra Udløbet af den Tid, hvori Valglisterne<lb />
+fremligge, skal Enhver, som troer uden Føie at være udeladt af<lb />
+samme, eller som formener, at en Uberettiget derpaa er optagen,<lb />
+skriftligen fremsætte sin Begjering om Optagelse eller sin Paastand<lb />
+om en Andens Udslettelse, ledsaget af en kort Angivelse af de Grunde,<lb />
+hvorpaa Paastanden er bygget.<lb />
+<law n="1210" >§ 14.<lb /></law>
+De mod Valglisterne saaledes fremkomne Erindringer paakiendes<lb />
+af Communalbestyrelsen i et offentligt Møde, som afholdes i Løbet af<lb />
+de paafølgende fjorten Dage. Til dette Møde tilsiges saavel de, som<lb />
+have fremført Erindringer, som og de, mod hvilke Indsigelse er giort,<lb />
+til hvilke derhos en Gjenpart af den mod dem rettede Skrivelse skal<lb />
+leveres. Efter de af Parterne fremlagte Documenter og de af dem<lb />
+fremstillede Vidners Forklaringer afgjøres de opstaaede Spørgsmaal,<lb />
+hvorom en kort Kjendelse tilføres Communalbestyrelsens sædvanlige<lb />
+Forhandlingsprotocol. De derefter berigtigede Valglister underskrives<lb />
+af Communalbestyrelsens Formand.<lb />
+<law n="1210" >§ 15.<lb /></law>
+For Kiøbenhavn affattes aarligen 9 Valglister, een for hver af<lb />
+de 9 Valgkredse, hvori Staden er deelt. Berigtigelsen af Valglisterne (§ 11) og Paakjendelsen af de mod samme fremkomne Erindringer (§ 14) skeer af den samlede Communalbestyrelse giennem en<lb />
+Comitee af fem Medlemmer, hvoraf to udnævnes af Magistraten og<lb />
+tre af Borgerrepræsentantskabet.<lb />
+<law n="1210" >§ 16.<lb /></law>
+Den, som er utilfreds med Communalbestyrelsens Kiendelse,<lb />
+hvorved Valgret er negtet ham, kan fordre en Udskrift af samme sig<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+meddeelt uden Betaling og indbringe Spørgsmaalet til Afgjørelse ved<lb />
+Lov og Dom. Saadanne Sager behandles gjæsteretsviis. Parterne ere<lb />
+i 1ste Instants fritagne for Erlæggelse af Retsgebyrer og for Brugen<lb />
+af stemplet Papir, ligesom der af det Offentlige skal beskikkes en Sagfører for den indstevnede Communalbestyrelse. Opnaaer Vedkommende<lb />
+Dom for at være valgberettiget, skal han optages paa Valglisten,<lb />
+saasnart han foreviser en Udskrift af Dommen.<lb />
+<law n="1210" >§ 17.<lb /></law>
+Valglisterne giælde fra 1ste April til 31te Marts i det paafølgende Aar. Efter Samme foretages alle i Aarets Løb forefaldende<lb />
+Valg til Folkethinget, dog saaledes, at det paasees, at de paa Tillægslisten (§ 10) opførte Mænd kun ere stemmeberettigede, dersom de<lb />
+inden Valgdagen have opfyldt Betingelserne med Hensyn til Alder<lb />
+eller Bopæl.<lb />
+</p>
+<btitle>
+Valgkredse og Valgbestyrelser.<lb />
+</btitle>
+<p>
+<law n="1210" >§ 18.<lb /></law>
+Til Folkethinget vælge Østifterne og Nørrejylland 100 Medlemmer. Valgene foregaae i Valgkredse efter den nærværende Lov vedføiede Fortegnelse.<lb />
+De nærmere Bestemmelser for Slesvig, Island og Færøerne forbeholdees.<lb />
+<law n="1210" >§ 19.<lb /></law>
+For hver Valgkreds dannes en Valgbestyrelse, bestaaende af<lb />
+Udsendinge fra de til Valgkredsen hørende Communer. For hver Commune vælges idetmindste eet Medlem af Valgbestyrelsen, uden Hensyn til dens Indvaanertal. Har en Commune 3000 Indbyggere,<lb />
+vælger den to, og saa fremdeles een for hvert 1500 Indvaanere,<lb />
+den har efter den senest offentliggjorte Folketælling. Valgbestyrelsens<lb />
+Medlemmer vælges af Communalbestyrelserne og blandt disses egne<lb />
+Medlemmer, og bør disse Udnævnelser uopholderlig iværksættes, saasnart Valg er udskrevet for Valgkredsen.<lb />
+<law n="1210" >§ 20.<lb /></law>
+Det Medlem af Valgbestyrelsen, som er valgt for den Commune, hvori Valget afholdes, forestaaer alle Forberedelserne til<lb />
+selve Valget og modtager Anmeldelser af Candidater og andre til<lb />
+Valgbestyrelsen rettede Meddelelser. Han aabner paa Valgdagen<lb />
+Valgbestyrelsens Møde og forestaaer Valget af dens Formand. Vælger<lb />
+vedkommende Commune flere Medlemmer af Valgbestyrelsen, fordele<lb />
+disse de ovennævnte Forretninger mellem sig efter Overeenskomst.<lb />
+<law n="1210" >§ 21.<lb /></law>
+Valgbestyrelsen i hver af Kjøbenhavns 9 Valgkredse bestaaer af<lb />
+fem Medlemmer, som udnævnes af den forenede Communalbestyrelse,<lb />
+de to af sammes egen Midte, de tre andre blandt de i Valgkredsen<lb />
+bosatte Vælgere. Hver Valgbestyrelse vælger selv sin Formand.<lb />
+<law n="1210" >§ 22.<lb /></law>
+Valgbestyrelsen fører en Valgbog, hvortil de fra de forskjelligee Communer medbragte Valglister og de til Bestyrelsen indløbne Skrivelser<lb />
+fremlægges. I Valgbogen optegnes det væsenlige Indhold af Valg<lb />
+forhandlingerne, hvortil dog de af Candidaterne og andre Tilstedeværende holdte Taler ikke skulle henregnes. Valgbogen underskrives<lb />
+af Valgbestyrelsen og opbevares af Communalbestyrelsen for det Sted,<lb />
+hvor Valget er afholdt.<lb />
+</p>
+</rightside>
+
+
+</pb>

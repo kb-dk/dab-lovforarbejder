@@ -1,0 +1,44 @@
+3457
+<pb n="47" />
+<h>
+<coll>3457</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3458</colr>
+</h>
+<wtitle>§ 71.</wtitle>
+<p>Som tilstrækkeligt Bevis for Befuldmægtigelse til at møde i Rettergang anses en<lb />
+af vedkommende Part til Retsprotokollen afgiven Erklæring.</p>
+<p>Naar skriftlig Fuldmagt benyttes, maa Partens Underskrift paa den i Landsretssager<lb />
+i det Mindste være attesteret af tvende Vitterlighedsvidner.</p>
+<wtitle>§ 72.</wtitle>
+<p>Naar en iøvrigt til at møde for en Part berettiget Person erklærer at ville varetage<lb />
+Partens Sag og forpligte sig til at tilveiebringe dennes Billigelse, og ingen Anden giver<lb />
+møde for Parten, kan han af Retten stedes hertil enten mod eller uden Sikkerhedsstillelse.<lb />
+Den Paagjældende har da inden Næste Retsmode eller dog inden en anden af Retten bestemt<lb />
+Frist at tilveiebringe Partens Godkjendelse af hans Handlinger; i modsat Fald afvises han<lb />
+og har at tilfvare Modparten de ved Retsmoderne foranledigede Omkostninger saavelsom<lb />
+muligt Tab ved Sagens Forhaling.</p>
+<wtitle>§ 73.</wtitle>
+<p>Naar en Rettergangsfuldmægtig afvises enten paa Embedsvegne eller efter Paastand,<lb />
+anses paagjældende Part for udebleven fra det Retsmode, hvori Afvisningen sinder Sted,<lb />
+medmindre Retten i Henhold til Lovens Bestemmelser udscetler Sagen, i hvilket Tilfælde<lb />
+Udeblivelse forsi antages at finde Sted, naar der ikke sker behorigt møde for Parten i det<lb />
+Retsmode, til hvilket Sagen er udsat.</p>
+<wtitle>§ 74.</wtitle>
+<p>Om end en Part iøvrigt lader sin Sag udfore ved en Rettergangsfuldmægtig, er<lb />
+han dog ikke udelukket fra selv at ytre sig under den mundtlige Forhandling, umiddelbart<lb />
+efterat hans Rettergangsfuldmægtig har talt.</p>
+<wtitle>§ 75.</wtitle>
+<p>Forholdet imellem Parten selv og hans Sagfører eller anden Rettergangsfuldmægtig,<lb />
+saasom med Henfyn til Krav paa Godtgjørelse for Udlæg og Betaling for Arbeide, med Hen-<lb />
+syn til Berettigelsen til at tilbagekalde Fuldmagten eller til at frasige sig den m. v., be«<lb />
+dommes efter den hidtil gjældende Ret.</p>
+<title>Kapitel Vll.</title>
+<undertitle>Om Retsmøder og Retsbsger.</undertitle>
+<wtitle>§ 76.</wtitle>
+<p>Alle Retsmøder ere offentlige; dog kan Retten ifolge Andragende fra nogen af Par-<lb />
+terne eller paa embedsvegne bestemme, at Dorene skulle lukkes og Tilhorerne fjernes, naar<lb />
+Sagens offentlige Forhandling kunde vcekke Forargelse eller medføre en Forstyrrelse af den<lb />
+offentlige Orden; i faadanne Tilfælde kan enhver af Parterne fordre, at der tilstedes tre af<lb />
+ham opgivne Personer Adgang, ligesom Rettens Formand kan tillade enkelte Andre at over-<lb />
+være Forhandlingerne.   Domme afsiges altid i offentligt Mode.</p>

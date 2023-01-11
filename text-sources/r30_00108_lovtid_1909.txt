@@ -1,0 +1,65 @@
+372
+<pb n="108" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>372</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 473.</wtitle>
+<p>
+Den, der vil have en Eksekution foretagen, skal for Fogden fremsætte sin<lb/>
+Begæring herom, ledsaget af Udskrift af Dommen, Kendelsen eller Forliget eller af det<lb/>
+originale Pantebrev eller Bodmeribrev, ligesom han også ved samme Lejlighed har at<lb/>
+meddele alle de Oplysninger, som i øvrigt måtte være fornødne, for at Fogden kan<lb/>
+tage Bestemmelse om Forretningens Berammelse.
+</p>
+<p>
+Begæringen skal, hvis Fordringen, bortset fra Sagsomkostninger og Renter,<lb/>
+der ere påløbne siden Sagens Begyndelse, overstiger 300 Kroners Værdi, være<lb/>
+skriftlig. I andet Fald kan den fremsættes mundtlig for Fogden, som da har at tage<lb/>
+den til Fogedbogen.
+</p>
+<p>
+Eksekution kan begæres under eet hos samme Skyldner efter forskellige Eksekutionsgrundlag.
+</p>
+<wtitle>§ 474.</wtitle>
+<p>
+Dommen eller Kendelsen må være udfærdiget i lovmæssig Form. Er dette Tilfældet. vedkommer det ikke Fogden at undersøge eller afgøre, om Dommen eller<lb/>
+Kendelsen måtte lide af sådanne Fejl eller Mangler, som kunde medføre en anden<lb/>
+Afgørelse efter Anke eller Kære. Kun hvis Dommen eller Kendelsen ikke er udgået<lb/>
+fra en lovlig bestående Domstol eller nogen til at afsige eksigible Dekreter beføjet<lb/>
+Myndighed, eller den ikke ifølge sit Indhold kan fuldbyrdes, har Fogden at nægte<lb/>
+Eksekution.
+</p>
+<wtitle>§ 475.</wtitle>
+<p>
+Under Eksekutionen af Forlig har Fogden at påkende alle Indsigelser mod<lb/>
+Forligets Gyldighed, dog, hvad Retsforlig angår, kun, for så vidt Fogdens Kendelse<lb/>
+ikke vilde indeholde en Bedømmelse af Rettens Handlinger.
+</p>
+<p>
+Er den ved Forliget hjemlede Fordring knyttet til en Betingelse eller en Tidsfrist eller afhængig af Erlæggelse af en Modydelse, må det ved Forligets eget Indhold eller ved andre offentlige Dokumenter eller ved Skyldnerens egen Indrømmelse<lb/>
+være givet, at Betingelsen er indtrådt eller Tidsfristen udløben, eller at Forligshaveren<lb/>
+fra sin Side har erlagt Modydelsen, for så vidt ikke lovligt Tilbud herom fremkommer<lb/>
+under selve Forretningen og da endnu kan betimelig fremsættes.
+</p>
+<wtitle>§ 476.</wtitle>
+<p>
+De i foregående Paragraf med Hensyn til Forlig opstillede Grundsætninger<lb/>
+finde også Anvendelse på de i § 469 Nr. 3 nævnte Pantebreve og de i § 469 Nr. 4<lb/>
+nævnte Bodmeribreve.
+</p>
+<wtitle>§ 477.</wtitle>
+<p>
+Den. der forlanger Eksekution efter en udenlandsk Dom eller Kendelse, må<lb/>
+samtidig med Begæringen herom forelægge Fogden de Oplysninger, som udkræves<lb/>
+efter § 470.
+</p>
+<wtitle>§ 478.</wtitle>
+<p>
+Domme kunne fuldbyrdes, når Fuldbyrdelsesfristen er udløben, uden at lovlig<lb/>
+Anke er bleven iværksat ved Ankestævnings Indlevering til Berammelse inden denne<lb/>
+Frists Udløb. Fuldbyrdelsesfristen, der regnes fra Dommens Afsigelse eller, jvf. § 210,<lb/>
+3die Stykke, fra dens Forkyndelse, er ved alle Retter 15 Dage.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

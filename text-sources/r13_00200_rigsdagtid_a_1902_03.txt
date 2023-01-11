@@ -1,0 +1,83 @@
+2127
+<pb n="200" />
+<h>
+<coll>
+2127
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2128
+</colr>
+</h>
+<p>
+Det bør iagttages, at ikke flere Vidner end fornødent indkaldes, hvorved sær-<lb />
+lig bliver at tage Hensyn til, om Tiltalte for Retten har afgivet en fuldstændig og tro-<lb />
+værdig Tilstaaelse.
+</p>
+<wtitle>§  888.</wtitle>
+<p>
+En Genpart af Bevisfortegnelsen foranstaltes af Overanklageren uden Op-<lb />
+hold meddelt Forsvareren eller forkyndt for Tiltalte, saafremt han ikke har nogen<lb />
+Forsvarer. Forsvareren meddeles der tillige en Udskrift af de i Sagen foretagne<lb />
+Undersøgelses- og Bevishandlinger. I øvrigt gøres Sagens Dokumenter og andre syn-<lb />
+lige Bevismidler saa vidt muligt tilgængelige paa hensigtsmæssig og betryggende Maade,<lb />
+og fornøden Underretning herom meddeles.
+</p>
+<wtitle>§  889.</wtitle>
+<p>
+Inden Udløbet af en af Overanklageren paa Anklageskriftet opgiven Frist, der<lb />
+paa Begæring kan forlænges af Rettens Formand, skal Forsvareren eller, hvor der<lb />
+ingen Forsvarer er, Tiltalte, afgive saavel paa Rettens Kontor som til Overanklageren<lb />
+en Fortegnelse over de Beviser, der fra hans Side maatte ønskes fremførte, med kort<lb />
+Angivelse af, hvad dermed tilsigtes godtgjort. Ønskes Vidner eller Syns- eller Skøns-<lb />
+mænd indkaldte, maa det opgives, om de begæres indkaldte til Domsforhandlingen<lb />
+eller for en Undersøgelsesret. Samtidig indleveres paa Rettens Kontor de Dokumenter<lb />
+og andre synlige Bevismidler, af hvilke der maatte agtes gjort Brug.
+</p>
+<p>
+Vil Forsvareren eller Tiltalte fremsætte Begæring om:
+</p>
+<p>
+1.	at der, forinden Sagen videre fremmes, foretages Forundersøgelse — eller at den<lb />
+Forundersøgelse, som har fundet Sted, genoptages — til Fremskaffelse af nær-<lb />
+mere betegnede Oplysninger,
+</p>
+<p>
+
+2.	at noget Bevis, som er opført i Overanklagerens Bevisfortegnelse, maa tilveje-<lb />
+bringes paa anden Maade end deri anført, eller
+</p>
+<p>
+3.	at Sagen maa blive foretagen paa andet Ting end paa Anklageskriftet angivet,<lb />
+eller maa blive behandlet for Nævninger i Tilfælde, hvor dette ikke er begært af<lb />
+Overanklageren, eller omvendt,
+</p>
+<p>
+bør den fornødne skriftlige Begæring indgives paa Rettens Kontor inden fornævnte<lb />
+Frists Udløb; Genpart af Begæringen tilstilles samtidig Overanklageren.
+</p>
+<p>
+Det samme gælder, naar Forsvareren eller Tiltalte overensstemmende med § 726<lb />
+eller § 727 vil fremsætte Begæring om Sagens Overflytning til en anden Ret; gaar Be-<lb />
+gæringen ud paa én Afvigelse fra Værnetingsreglerne (§ 726), bliver den af Retten<lb />
+uden Ophold at indsende til Højesteret, ledsaget af Overanklagerens og efter Om-<lb />
+stændighederne Rettens Erklæring.
+</p>
+<p>
+Antager Forsvareren, at Sagen, saaledes som den er anlagt, ikke kan fremmes,<lb />
+eller at Overanklageren har overset nogen uden for Bevisspørgsmaalet liggende Om-<lb />
+stændighed, paa Grund af hvilken Tiltalte ikke kan fældes, bør han ufortøvet gøre<lb />
+Overanklageren opmærksom derpaa,
+</p>
+<wtitle>§  890.</wtitle>
+<p>
+Finder Overanklageren at maatte modsætte sig en Begæring, som af For-<lb />
+svareren eller Tiltalte er fremsat i Henhold til foregaaende Paragraf, skal han uden<lb />
+Ophold forelægge Retten Sagen til Afgørelse. Forinden denne træffes, bør der, saa<lb />
+vidt dertil er Anledning, gives Overanklageren og Forsvareren eller Tiltalte Lejlighed<lb />
+til at ytre sig mundtlig eller skriftlig. Tilfølgetagelse af en Begæring om Indkaldelse<lb />
+af Vidner kan, hvor dertil er særlig Anledning, betinges af, at Tiltalte stiller Sikker-<lb />
+hed for de Omkostninger, som derved ville forvoldes.
+</p>

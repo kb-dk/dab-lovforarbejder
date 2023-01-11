@@ -1,0 +1,77 @@
+3419
+<pb n="42">
+<h>
+<coll>
+3419
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3420
+</colr>
+</h>
+<p>
+foregaar ved Landsretten selv (jfr. § 338), afgives Vidnesbyrdet dog for denne Ret.<lb />
+for saa vidt Reglen i § 171, 1ste Stykke, ikke er til Hinder derfor.
+</p>
+<p>
+I Straffesager afgives Vidnesbyrd i Reglen for vedkommedde Undersøgelsesret<lb />
+eller, for saa vidt Vidnet enten ikke er pligtigt at give Møde for denne, eller et saa-<lb />
+dant Møde af vedkommende Undersøgelsesdommer skønnes at ville medføre væsentlig<lb />
+større Besvær for Vidnet end Møde for Underretten paa det Sted, hvor Vidnet bor<lb />
+eller opholder sig, for denne sidste Ret. Dog have Vidner, hvis Forklaring skal be-<lb />
+nyttes som Bevis under Domsforhandling for Landsret i Nævningesager, at møde under<lb />
+denne og der at aflægge Forklaring, medmindre Reglerne i § 171 eller Vidnets Hel-<lb />
+bredstilstand er til Hinder derfor, eller dette efter Rettens Skøn vilde medføre Vidt-<lb />
+løftiggørelse af Forhandlingerne, Ulemper for Vidnet eller Bekostning, som ikke vilde<lb />
+staa i rimeligt Forhold til Sagens Genstand eller den Betydning, Vidnesbyrdet kan<lb />
+antages at have for Sagens Oplysning.
+</p>
+<p>
+Landsret eller Højesteret kan derhos, for saa vidt ikke Vidnets Helbredstilstand<lb />
+er til Hinder derfor, saavel i borgerlige Sager som i Straffesager bestemme, at Vidnes-<lb />
+byrd, der maa antages at være af særlig Betydning for Sagens Oplysning, aflægges<lb />
+under Domsforhandling for Retten, se endvidere med Hensyn til borgerlige Sager,<lb />
+der behandles skriftlig for Landsret og Højesteret, §§ 389, 415 og 438. Naar en<lb />
+Underret træffer saadan Bestemmelse i Medfør af § 433, jvf. § 442, eller i Medfør af<lb />
+§ 926, jvf. § 922, eller naar Vidner skulle afhøres under Domsforhandling i offentlige<lb />
+Politisager i Medfør af § 935,  er Vidnets Mødepligt begrænset ved Reglerne i § 171.
+</p>
+<p>
+Er et Vidnes Helbredstilstand til Hinder for, at det møder paa det sædvanlige<lb />
+Tingsted, kan Retten til dets Afhørelse sættes paa saadant Sted, som Omstændig-<lb />
+hederne udkræve.
+</p>
+<lowtitle>§ 173.</lowtitle>
+<p>
+Militære af Hæren og Flaaden ere pligtige til at aflægge Vidnesbyrd for de<lb />
+borgerlige Domstole overensstemmende med Reglerne i denne Lov.
+</p>
+<lowtitle>§ 174.</lowtitle>
+<p>
+Indkaldelse  til at møde som Vidne udgaar,  hvor  ikke andet er bestemt,   fra<lb />
+den Ret, for hvilken Vidnesbyrdet skal aflægges. I borgerlige Sager udstedes Indkal-<lb />
+delsen efter vedkommende Parts Begæring og overgives ham til Forkyndelse. Skal<lb />
+et Vidne indkaldes for en Underret ifølge en anden Rets Beslutning, maa en Udskrift<lb />
+af denne forelægges Underretten.
+</p>
+<p>
+Foruden Vidnets Navn, og hvad der i øvrigt hører til dets nærmere Betegnelse,<lb />
+Sagen og Indkaldelsens Øjemed, hvem der har begært Indkaldelsen, den Ret, for<lb />
+hvilken der skal vidnes, samt Stedet og Tiden for Mødet skal der i Indkaldelsen nævnes<lb />
+det Varsel, som skal gives den indkaldte, og gøres opmærksom paa, at Udeblivelse<lb />
+medfører Strafansvar.
+</p>
+<p>
+Varslet er i borgerlige Sager en Uge, men kan dog under særlige Omstændigheder<lb />
+afkortes efter Beslutning af Rettens Formand. I Straffesager tilkommer der Vidnet<lb />
+Aftens Varsel, hvortil lægges to Døgn, saafremt det skal møde udenfor den Underretskreds,<lb />
+hvor det bor eller opholder sig, og Afstanden til Tingstedet er over 15 Kilometer; dog<lb />
+kan Retten eller dens Formand fastsætte andet Varsel eller paalægge uopholdeligt Møde.
+</p>
+<p>
+Skulle Vidner føres i Udlandet, udsteder Retten — i borgerlige Sager efter<lb />
+vedkommende Parts Forlangende — de i saa Henseende fornødne Begæringer til de<lb />
+udenlandske Myndigheder.
+</p>
+
+</pb>

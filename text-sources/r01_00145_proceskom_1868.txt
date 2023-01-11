@@ -1,0 +1,32 @@
+139
+<pb n="145" />
+<p>domfælde er afvegen fra Anklagen videre, end<lb />
+Loven tilsteder, eller Forandringer i Anklagen<lb />
+ere tilstedte med Tilsidesættelse af Lovens Regler, naar Forsvarer ikke har været bestikket,<lb />
+hvor dette burde være sket, eller naar Forhandlingen mod Loven er fremmet i Anklagerens,<lb />
+den Sigtedes eller den beskikkede Forsvarers<lb />
+Fraværelse;</p>
+<p>7)   naar dømmen ikke  er  forsynet med<lb />
+de   fornødne    Domsgrunde,   eller   Domsstutningen lider af væsentlige Mangler;</p>
+<p>8)    naar   den   Forbrydelse,   for    hvilken<lb />
+Anklage er rejst,   ikke er betegnet i Anklagen<lb />
+saa tilstrækkeligt og   tydeligt,   som  Forsværets<lb />
+Forberedelse   krævede,   eller   der ikke   er givet<lb />
+den Sigtede eller  hans Forsvarer  tilstrækkelig<lb />
+Lejlighed til   at  gjøre  sig bekjendt  med Sagens Aktstykker, eller der uden Hjemmel er givet den  3igtede  kortere Varsel end en  Uge;</p>
+<p>9)    naar   det  paa   Grund  af  Retsvildfarelse   eller i aabenbar  Miskjendelse  af  den<lb />
+i   Forhandlingerne    liggende   Opfordring   er<lb />
+nægiet Anklageren   eller   den Sigtede eller er<lb />
+undladt i Embeds medfør at fore Bevis angaaende Omstændigheder, som under Forhandlingen ere komne   paa Tale,   eller at henvise<lb />
+Sagen  til  Forundersøgelse,    eller   Udsættelse<lb />
+ikke er given,   hvor  det i Loven  er  bestemt;</p>
+<p>10)    naar   i andre   end de forannævnte<lb />
+Tilfælde Rettergangøregler ere krcenkede, og det<lb />
+er tvivlsomt,   om ikke   deres Iagttagelse  vilde<lb />
+have ført til en anden Afgjørelse.</p>
+<wtitle>§ 375.</wtitle>
+<p>I Sager, som ere paakjendte under Medvirkning af nævninger, afgiver Krcenkelse af<lb />
+Rettergangøreglerne endvidere Grund til Paaanke i følgende Tilfælde:</p>
+<p>1) naar det lovbestemte Antal nævninger ikke har deltaget i Erklæringens Vedtagelse, eller nogen af nævningerne ikke har været<lb />
+tilstede under hele den forudgaaende Del af<lb />
+Hovedforbandlingen;</p>

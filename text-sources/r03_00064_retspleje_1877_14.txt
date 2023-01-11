@@ -1,0 +1,39 @@
+58
+<pb n="64" />
+<p>Parternes Afhørelse skal finde Sted, forinden<lb />
+Vidner og Syns- eller Skjønsmænd afhøres,<lb />
+eller efter disses Afhørelse.</p>
+<wtitle>§  190.</wtitle>
+<p>Parterne afhøre selv de af dem fremstillede Vidner. Såsnart et Vidne har besvaret et forelagt Spørgsmål, kan Modparten<lb />
+nærmere udspørge det med Hensyn hertil.<lb />
+Dog kan den, der fører Vidnet, modsætte sig<lb />
+Afbrydelsen, når hans egen Tilspørgsel om<lb />
+det pågjældende Punkt endnu ikke er tilendebragt. Når et Vidnes Afhørelse er fuldendt,<lb />
+kan Modparten, inden det aftræder, fåe det<lb />
+underkastet en ny Afhørelse, hvortil den,<lb />
+som oprindelig har ført Vidnet, atter kan stille<lb />
+Modspørgsmål.</p>
+<p>Retten kan stille Spørgsmål til Vidnet,<lb />
+såvel til nærmere Opklaring af Punkter,<lb />
+hvorom Parterne have spurgt Vidnet, som til<lb />
+selvstændig Oplysning af Sagen.</p>
+<p>I Reglen må et Vidne ikke høre på<lb />
+de foregående Vidners Forklaring, medmindre<lb />
+Retten bestemmer anderledes.</p>
+<wtitle>§  191.</wtitle>
+<p>Rettens Formand våger over, at Vidneforhørene foregå med Orden og Værdighed.<lb />
+Han kan overtage Vidnets Afhørelse og forbyde Parten umiddelbart at forhandle med<lb />
+Vidnet, når denne ikke vil rette sig efter hans<lb />
+Pålæg og Irettesættelser; han kan gribe ind,<lb />
+når Parten i Vienets Afhørelse går udenfor Sagen, og han kan slutte Vidneforhøret,<lb />
+når det skjønnes, at intet Videre til Sagens<lb />
+Oplysning kan ventes at ville fremkomme ved<lb />
+dets Fortsættelse.</p>
+<wtitle>§  192.</wtitle>
+<p>Når udmeldte Syns- eller Skjønsmænd<lb />
+have afgivet deres Forretning, kunne både<lb />
+Parterne og Retten stille Spørgsmål til dem.<lb />
+Deres Afhørelse foregår efter de om Vidner<lb />
+gjældende Regler. Dog kunne Syns- eller<lb />
+Skjønsmændene i Reglen rådslå om Svaret,<lb />
+medmindre Retten  ifølge  Påstand eller på</p>

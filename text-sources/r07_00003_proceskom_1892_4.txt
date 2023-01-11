@@ -1,0 +1,65 @@
+3215
+<pb n="3" />
+<h>
+<coll>3215</coll>
+<colr>3216</colr>
+</h>
+<p>
+34.	Forbud.
+</p>
+<p>
+35.	Skifte af Dødsbo og Fællesbo m. v.
+</p>
+<p>
+36.	Konkurs.
+</p>
+<p>
+37.	Retsafgifter.
+</p>
+<p>
+38.	Efterforskning og Forundersøgelse i Straffesager.
+</p>
+<p>
+39.	Behandling af Politisager.
+</p>
+<p>
+40.	Summarisk Behandling af almindelige Straffesager ved Underret.
+</p>
+<p>
+41.	Tiltale og Domsforhandling ved Underret i Straffesager, der ikke ere Politisager<lb />
+og ikke behandles summarisk.
+</p>
+<p>
+42.	Tiltale og Domsforhandling i Straffesager ved Landsret.
+</p>
+<p>
+43.	Anke til Landsret i Straffesager.
+</p>
+<p>
+44.	Anke til Højesteret i Straffesager.
+</p>
+<p>
+45.	Kære (Kæremaal, Besværing) i Straffesager.
+</p>
+<p>
+46.	Genoptagelse (ny Foretagelse) af en Straffesag.
+</p>
+<p>
+47.	Fremsættelse af borgerlige Krav (Erstatningskrav, Krav paa Tilbagelevering af<lb />
+stjaalne Ting o. lign.) under en Straffesag.
+</p>
+<p>
+48.	Fuldbyrdelse af Domme i Straffesager.
+</p>
+<p>
+49.	Lovenes Ikrafttræden og Overgangsbestemmelser.
+</p>
+<p>
+50.	Hvilke Udgifter Reformen vil medføre.<lb />
+</p>
+<p>
+Uddrag af den norske Straffeproces-Statistik<lb />
+Sagregister til Udkast til Lov om Domsmagtens Ordning.<lb />
+Sagregister til Udkast til Lov om den borgerlige Retspleje.<lb />
+Sagregister til Udkast til Lov om Strafferetsplejen
+</p>

@@ -1,0 +1,36 @@
+99
+<pb n="105" />
+<h>
+<topmidle>Kap. XXIV. Behandl. ved Underret.      99</topmidle>
+</h>
+<wtitle>§ 280.</wtitle>
+<p>Dokumenter må, hvad enten de påberåbes i Stævningen eller ikke, fremlægges i<lb />
+Retsmødet; dog kan Retten, forsåvidt det<lb />
+findes, at der ikke har været tilstrækkelig Tid<lb />
+eller Anledning for Sagsøgte til at fremskaffe et Dokument, eller at det fra Modpartens Side Fremkomne giver vedkommende Part Anledning til at fremkomme<lb />
+med yderligere Dokumenter, eller at det dog<lb />
+er undskyldeligt, at vedkommende Part ikke<lb />
+har medbragt Dokumentet, udsætte Sagen<lb />
+herefter.</p>
+<p>Til at gøre sig bekendt med de fremlagte Dokumenter bør der i Reglen gives<lb />
+Modparten den fornødne Tid i selve Retsmødet.</p>
+<p>Finder Retten, at dette Sidste efter<lb />
+Omstændighederne og navnlig Dokumentets<lb />
+Beskaffenhed ikke vil være tilstrækkeligt, kan<lb />
+Sagen udsattes. Den, mod hvem Dokumentet fremlægges, må, dersom det ikke med<lb />
+Producentens Samtykke kan udlånes ham,<lb />
+forsynes med en Genpart af samme, og der<lb />
+må gives ham Adgang til på Retsskriverkontoret at undersøge Dokumentet.</p>
+<wtitle>§ 281.</wtitle>
+<p>Såfremt ingen af Parterne begærer<lb />
+at føre yderligere Bevis, eller sådant ikke<lb />
+skønnes at kunne føre til Oplysning af<lb />
+Omstændigheder, der ere af Betydning for<lb />
+Sagen, skal Dommeren, efter at Påstandene i Overensstemmelse med § 277, 3dje<lb />
+Stykke, ere nedlagte, give Parterne Lejlighed til en mundtlig Domsforhandling.</p>
+<p>Findes det derimod, at Sagens tilbørlige Oplysning udkræver yderligere Bevisførelse, navnlig ved Vidner eller Syn og<lb />
+Skøn, træffer Dommeren i Overensstemmelse med Reglerne i §§ 213—216 de i<lb />
+så Henseende fornødne Foranstaltninger.<lb />
+Når Bevisførelsen er til Ende, og efter<lb />
+at Påstandene ere nedlagte, finder Domsforhandling Sted.</p>
+<p>Dom afsiges snarest muligt efter Domsforhandlingen.</p>

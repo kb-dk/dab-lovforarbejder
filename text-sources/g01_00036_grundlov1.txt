@@ -1,0 +1,187 @@
+3
+<pb n="36">
+<pagename>36</pagename>
+<h>
+<coll>3</coll>
+<colr>4</colr>
+<lb/>
+</h>
+<leftside>
+<stitle>
+XII. Hjørring Amt.<lb/>
+</stitle>
+<p>
+1 ste Distrikt: Hastrup, Cand. juris.<lb/>
+2det	—	Theilmann, H. P., Godsforvalter.<lb/>
+3die	—	Nyholm, I. C., Proprietair, til Baggesvogn.<lb/>
+4de	—	Pape, H. R., Proprietair, til Heiselt.<lb/>
+5te	—	Berinck-Seidelin, L. C., Etatsråd.<lb/>
+6te	—	Hasselbalch, F., Proprietair, til Ålegård.<lb/>
+</p>
+<stitle>
+XIII.	Thisted Amt.<lb/>
+</stitle>
+<p>
+l ste Distrikt: Ågård, Justitsråd, Amtsforvalter.<lb/>
+2det	—	Lützhoft, Agent, af Thisted.<lb/>
+3die	—	v. Haven, F. Chr., Sognepræst for Hassing og Villerslev Menigheder.<lb/>
+4de	—	Bagger, E., Sognepræst for Øster- og Vester-Assels<lb/>
+Menigheder.<lb/>
+</p>
+<stitle>
+XIV.	Viborg Amt.<lb/>
+</stitle>
+<p>
+1ste Distrikt : Nørgård, Berthel Larsen, Gårdmand, af Kreiberg.<lb/>
+2det	—	Bregendahl, Landsoverretsassessor.<lb/>
+3die	—	Bruun, M. P., Fabrikeier, af Bruunshåb.<lb/>
+4de	—	Jacobæus, H. B., Proprietair, til Borupgård.<lb/>
+5te	—	Ussing. Landsoverretsassessor.<lb/>
+</p>
+<stitle>
+XV.	Århuus Amt.<lb/>
+</stitle>
+<p>
+1 ste Distrikt: Winther, G. H., Mag. artium, af Kjøbenhavn.<lb/>
+2det	—	Otterstrøm, Cancelliråd, Bankkasserer.<lb/>
+3 die	—	Dahl, Landsoverretsprocurator, Godseier.<lb/>
+</p>
+<stitle>
+XVI.	Skanderborg Amt.<lb/>
+</stitle>
+<p>
+1ste Distrikt: Ræder, Justisråd, Borgermester i Horsens.<lb/>
+2det	—	Schytte, Oliemøller, af Horsens.<lb/>
+3die	—	Hunderup, Cancelliråd, Herredsfoged.<lb/>
+4de	—	Drewsen, Fabrikeier på Silkeborg.<lb/>
+</p>
+<stitle>
+XVII.	Randers Amt.<lb/>
+</stitle>
+<p>
+1ste Distrikt: Schouw, Etatsråd, Professor.<lb/>
+2det — Linnemann, Overlærer i Randers.<lb/>
+3die — Dahlirup, C. E., Auditeur, af Randers.<lb/>
+4de — Lacour, Pastor, i Nimtofte.<lb/>
+5te — Bruun, P. D., Høiesteretsassesor.<lb/>
+6te — Rée, B., Kjøbmand, Redacteur.<lb/>
+</p>
+<stitle>
+XVIII.	Veile Amt.<lb/>
+</stitle>
+<p>
+1ste Distrikt: Bang, P. G., Etatsråd, Amtmand.<lb/>
+2det	—	Ploung, C., Cand. phil., Redacteur.<lb/>
+3die	—	Stockfleth, Overauditeur, Herredsfoged.<lb/>
+4de	—	Hermansen, Anders, Sogneforstander, af Sandvad i<lb/>
+Hveisel Sogn.<lb/>
+5te 	—	Jørgensen, I., Gårdmand, af Bøgballe i Østersnede.<lb/>
+6te	—	With, Justitsråd, Herredsfoged.<lb/>
+</p>
+<stitle>
+XIX.	Ringkjøbing Amt.<lb/>
+</stitle>
+<p>
+lste Distrikt: Tang, Justitsråd, Proprietair, til Nøre-Vosborg.<lb/>
+2det	—	Kirk, O. Chr., Gårdeier, af Ebbensgård.<lb/>
+3die	—	Petersen, C.N., Justitsråd, By-og Herredsf., af Hjøring.<lb/>
+4de	—	Fløe, Kammerråd, Stifslandinspecteur, af Vostrup.<lb/>
+5te	—	Pedersen, Jens, Skolelærer og Kirkesanger, i Sæding Sogn.<lb/>
+</p>
+<stitle>
+XX.	Ribe Amt.<lb/>
+</stitle>
+<p>
+1ste Distrikt: Tobiesen, Provst til Thorstrup og Horne Menigheder.<lb/>
+</p>
+</leftside>
+<rightside>
+<p>
+
+2det	—	Nielsen, Hans Christian, Gårdier, af Tranberg i<lb/>
+Årre Sogn.<lb/>
+3die	—	Tvede, Underretsprocurator i Ribe.<lb/>
+4be	—	Hansen, N., Skolelærer og Kirkesanger i Eskelund.<lb/>
+5te	—	Gram, C. F., Sognepræst i Dahler Sogn.<lb/>
+</p>
+<p>
+De Kongevalgte ere:<lb/>
+</p>
+<p>
+v. Andræ, Major a la suite i Generalstaben og Lærer ved den mili<lb/>
+taire Høiskole.<lb/>
+</p>
+<p>
+Bergmann, Gårdfæster og Dyrlæge i Dalby Sogn under Præstø<lb/>
+Amt.<lb/>
+Bjerring, V., Professor, Lærer ved den militaire Høiskole.<lb/>
+Bruun, Agent,. Kjøbmand i Assens.<lb/>
+Brandt, Rådmand, Klædefabrikør i Odense.<lb/>
+Buchmald, Kjøbmand i Viborg.<lb/>
+Cedrefeld de Simonsen, Kammerjunker, til Erholm og Søndergårde.<lb/>
+Christensen, G., Bessemager.<lb/>
+Christensen, Jens Gårdmand i Woldum under under Randers Amt.<lb/>
+Clausen, Dr. theol., Professor i Theologi ved Kjøbenhavns Universitet.<lb/>
+David, C. N., Dr. philos., Professor og Rådmand i Kjøbenhavn.<lb/>
+van Dockum, C. E., Capitain i Søetaten og Chef for Søcadetcorpset.<lb/>
+v. Fibigerm Overst i Artilleridrigaden.<lb/>
+Funder, Cancelloråd og Rådmand, Tobaksfabrikør i Århuus.<lb/>
+Hage, H., Cand. juris., af Kjøbenhavn.<lb/>
+Sehestedt-Juel, Kammerherre, til Raunholt.<lb/>
+Køster, Rådmand, Apotheker i Randers.<lb/>
+v. Lüttichan, Kammerherre, Major, til Grundet.<lb/>
+Tage-Müller, Biskop over Ribe Stist.<lb/>
+Mynster, Dr. theol, Biskop over Sjællands Stift.<lb/>
+Ostenfeldt, Hospitalsforstander i Ålborg.<lb/>
+v. Oxholm, W., Kammerherre, Generalmajajor, til Tårnborg.<lb/>
+Petersen, B., Hattemagermester, Borgerrepræsentant.<lb/>
+Scavenius, Kammerherre, til Gjorsløv.<lb/>
+v. Schlegel, Oberstlieutenant i Ingenieurcorpset.<lb/>
+Sidenius, K., Kjøbmand i Maribo.<lb/>
+Skeel, Kammerherre, til Birkelse.<lb/>
+Sponneck, Kammerherre, Greve, Deputeret i General-Toldkammer- og<lb/>
+Commerce-Collegiet.<lb/>
+Treschom, Conferentsråd, til Brahesborg.<lb/>
+Wegener, Geheimearchivarius, Dr.<lb/>
+Wulff, Kæmner i Ålborg.<lb/>
+Zeuthen, Kammerherre, Baron til Baroniet Zeuthen.<lb/>
+</p>
+<middle>
+For Island.<lb/>
+</middle>
+<p>
+Gudmundsson, Jon, Althingsmand, Student, af Reikiavig.<lb/>
+Gislason, Konrad, Lector ved Kjøbenhavns Universitet.<lb/>
+Johnsen, J., Althingsmand, Landsoverretsassessor, Byfoged i Ålborg.<lb/>
+Pjcttursson, Br., Kammerassessor, i Kjøbenhavn.<lb/>
+Sigurdsson, Jón, Althingsmand, Cand., af Kjøbenhavn.<lb/>
+</p>
+<middle>
+For Færøerne.<lb/>
+</middle>
+<p>
+Pløyen, Amtmand.<lb/>
+</p>
+<p>
+Kl. 12 ankom Hs. Majestæt Kongen med sin Hofetat og<lb/>
+samtlige Medlemmer af Ministeriet, hvorefter Allerhøistsamme fra<lb/>
+Thronstolen oplæste følgende Tale:<lb/>
+</p>
+<p>
+Danske Mænd!<lb/>
+</p>
+<p>
+Det er med Glæde og med Trøst, at jeg her, for første Gang,<lb/>
+seer mig omringet af mit trofaste danske Folks Udvalgte.<lb/>
+</p>
+<p>
+Den Kjærlighed, Samdrægtighed og Selvopoffrelse, hvormed dette<lb/>
+har understøttet mig og Landets hellige Sag i de tunge Dage, siden<lb/>
+jeg besteg mine Fædres Throne, ere mig Borgen for, at en bedre<lb/>
+Tid, med Guds Bistand, snart vil oprinde for vort lidende, ved Vold<lb/>
+og Splid nu så hårdt prøvede Fødeland. — Under en dybtfølt<lb/>
+Erkjendelse af det Forbigangne, skrider jeg da nu til, med folkets<lb/>
+</p>
+</rightside>
+
+</pb>

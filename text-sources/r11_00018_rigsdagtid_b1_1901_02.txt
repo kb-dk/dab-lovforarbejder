@@ -1,0 +1,86 @@
+2293
+<pb n="18" />
+<h>
+<coll>2293</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2294</colr>
+</h>
+<leftside>
+<wtitle>Til § 371.</wtitle>
+<p>316) „Fogden" ændres til „Syssel-<lb />
+manden." (2 Steder).</p>
+<p>2294</p>
+<p>317) „Fogedprotokollen" ændres til<lb />
+„Fogedbogen." (2 Steder).</p>
+<wtitle>Til § 372.</wtitle>
+<p>Af Udvalget:</p>
+<p>318) Stk. 1 affattes saaledes: „Udsæt-<lb />
+telse kan. naar Parterne ikke ere enige<lb />
+derom, kun undtagelsesvis meddeles under<lb />
+Forretningen."</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>319) „Fogden" ændres til „Syssel-<lb />
+manden." (2 Steder).</p>
+<wtitle>Til § 373.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>320) I L. 1 ændres: „afsiger Fogden<lb />
+Kendelse" til: „tager Fogden sin Beslut-<lb />
+ning".- Stk. 2 og 3 ændres til: „Det til-<lb />
+føres Fogedbogen, hvad Fogdens Beslutning<lb />
+gaar ud paa. Dennes Udførelse kan ikke<lb />
+hindres ved Søgsmaal eller Besværing (jfr.<lb />
+Kap. m.)."</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>321) Underændringsforslag til Udval-<lb />
+gets Ændringsforslag Nr. 320: „Fogden"<lb />
+ændres til „Sysselmanden" (2 Steder).</p>
+<wtitle>Til § 374.</wtitle>
+<p>322)	„Fogden" ændres til „Syssel-<lb />
+manden."</p>
+<p>323)	„Fogedprotokollen" ændres til<lb />
+„Fogedbogen."</p>
+<wtitle>Til § 375.</wtitle>
+<p>324) „Fogden" ændres til „Syssel-<lb />
+manden."</p>
+</leftside>
+<rightside>
+<wtitle>Til § 375.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>325) De sidste Ord: „tinglæses ved<lb />
+dennes Værneting" ændres til: „tinglyses<lb />
+der, hvor Ejendommen ligger (jfr. § v.)".</p>
+<wtitle>Til § 376.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valg e t undtagen Nanke:</p>
+<p>326) „Fogden" ændres til „Syssel-<lb />
+manden." (2 Steder).</p>
+<wtitle>Til § 378.</wtitle>
+<p>32/) „Fogden" ændres til „Syssel-<lb />
+manden." (2 Steder).</p>
+<wtitle>Til § 379.</wtitle>
+<p>328)	I trediesidste Linie ændres „Anke<lb />
+eller Kære" til: „Søgsmaal eller Besvæ-<lb />
+ring."</p>
+<wtitle>Til § 380.</wtitle>
+<p>329)	I Slutningen af 1ste Stykke til-<lb />
+føjes: „eller den Dom, paa Grundlag af<lb />
+hvilken Udlæget er gjort, er bleven om-<lb />
+stødt af højere Ret."</p>
+<p>I 2det Stykke ændres „Fogden" til<lb />
+„Sysselmanden."</p>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>330) I fjerdesidste Linie ændres „Anke<lb />
+eller Kære er rejst imod" til: „Besværing<lb />
+eller Søgsmaal er rejst i Anledning af".</p>
+<wtitle>Til § 382.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>331)	Paragraffen udgaar.</p>
+<wtitle>Til § 383.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>332)	Første Stykke ændres til „Søgs-<lb />
+maal i Anledning af Eksekutionsforretnin-<lb />
+gen maa i Reglen rejses inden 4 Uger<lb />
+efter, at Eksekutionsforretningen er sluttet".</p>
+</rightside>

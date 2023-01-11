@@ -1,0 +1,131 @@
+2851
+<pb n="26" />
+<h>
+<coll>2851</coll>
+<topmidle>Bet. o. Lovf. om Rettens Pleje m. m.	</topmidle>
+<colr>2852</colr>
+</h>
+<p>
+10.	Dommeren i Storehedinge Købstad m. m.
+</p>
+<p>
+11.	— i Præstø Købstad m. m.
+</p>
+<p>
+12.	— i Vordingborg Købstad m. m.
+</p>
+<p>
+13.	— i Stege Købstad m. m.
+</p>
+<title>
+Bornholm.
+</title>
+<p>
+14.	Dommeren i Neksø Købstad m. m.
+</p>
+<title>
+Lolland—Falster.
+</title>
+<p>
+15.	Dommeren i Stubbekøbing Købstad m. m.
+</p>
+<p>
+16.	—	i Sakskøbing Købstad m. m.
+</p>
+<title>
+Fyn.
+</title>
+<p>
+17.	Dommeren i Rudkøbing Købstad in. m.
+</p>
+<p>
+18.	—	i Svendborg Købstad m. m.
+</p>
+<p>
+19.	—	i Ærøskøbing Købstad m. m.
+</p>
+<p>
+20.	—	i Odense Købstad (Straffesager).
+</p>
+<p>
+21.	—	i Odense Herred.
+</p>
+<p>
+22.	—	i Kerteminde Købstad m. m
+</p>
+<title>
+Jylland.
+</title>
+<p>
+23.	Dommeren i Bjerre Herred m. m.
+</p>
+<p>
+24.	—	i Voer og Nim Herreder m. m.
+</p>
+<p>
+25.	—	i Tyrsting og Vrads Herreder.
+</p>
+<p>
+26.	—	i Skanderborg Købstad m. m.
+</p>
+<p>
+27.	—	i Silkeborg Købstad m. m.
+</p>
+<p>
+28.	—	i Hads Herred.
+</p>
+<p>
+29.	—	i Frijsenborg-Faurskov Birk.
+</p>
+<p>
+30.	—	i Grenaa Købstad m. m.
+</p>
+<p>
+31.	—	i Æbeltoft Købstad m. m.
+</p>
+<p>
+32.	—	i Mariager Købstad m. m.
+</p>
+<p>
+33.	—	i Hellum-Hindsted Herreder.
+</p>
+<p>
+34.	—	i Løgstør Købstad m. m.
+</p>
+<p>
+35.	—	i Nibe Købstad m. m.
+</p>
+<p>
+36.	—	i Aalborg Birk m. m.
+</p>
+<p>
+37.	—	i Hassing-Refs Herreder.
+</p>
+<p>
+38.	—	i Lemvig Købstad m. m.
+</p>
+<p>
+39.	—	i Bølling-Nørre Herreder.
+</p>
+<p>
+40.	—	i Ribe Købstad m. m.
+</p>
+<p>
+41.	—	i Gjørding-Malt Herreder.
+</p>
+<title>
+Tavle C.
+(Politimestre i 1ste Lønningsklasse).
+</title>
+<title>
+Sjælland.
+</title>
+<p>
+1.	Politimesteren i Frederiksberg Birk.
+</p>
+<p>
+2.	—	i Købenbavns Amts nordre Birk.
+</p>
+<p>
+3.	—	i Roskilde Købstad m. m.
+</p>

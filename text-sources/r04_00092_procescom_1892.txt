@@ -1,0 +1,42 @@
+92
+<pb n="92" />
+<h>84  Kap. XX.   Forundersøgelse ved Retten.</h>
+<p>Myndighed; dog må Forfølgningens Fortsættelse efter den overordnede Myndigheds<lb />
+Beslutning finde Sted inden Udlovet af to<lb />
+Måneder, medmindre Betingelserne for<lb />
+Sagens Genoptagelse efter § 353 er<lb />
+tilstede.</p>
+<wtitle>§ 213.</wtitle>
+<p>Fremkommer der under Forundersøgelsen<lb />
+Oplysning om Omstændigheder, ifølge hvilke<lb />
+Politimesteren skønner, at der vil blive<lb />
+Spørgsmål om at undlade Påtale i Medfør af § 33, og som må antages at være<lb />
+overanklageren ubekendte, meddeler han ham<lb />
+Underretning herom, ledsaget af fornøden<lb />
+Udskrift af undersøgelsen. Indtil hans<lb />
+Beslutning inden en af Retten fastfat<lb />
+Frist indtræffer, foretages der kun sådanne<lb />
+Undersøgelseshandlinger, som ikke tåle Ophold.</p>
+<wtitle>§ 214.</wtitle>
+<p>Er Forundersøgelse under een Sag<lb />
+iværksat mod flere Sigtede eller for flere<lb />
+Forbrydelser, kan Retten, naar Undersøgelsen for enkelte, men ikke alle Sigtedes eller<lb />
+Forbrydelsers Vedkommende findes fremmet<lb />
+i det Omfang, som øjemedet udkræver, for<lb />
+så vidt slutte Forundersøgelsen.</p>
+<p>Sluttes Forundersøgelsen for en eller<lb />
+nogle af de Forbrydelser, for hvilke den<lb />
+samme Person er sigtet, kan Undersøgelsen<lb />
+af de andre Forbrydelser midlertidig hvile,<lb />
+indtil Afgørelse for den eller de førstnævnte<lb />
+Forbrydelsers Vedkommende har fundet Sted,<lb />
+naar overanklageren forlanger det og<lb />
+Sigtede ikke fordrer Fortsættelse.</p>
+<wtitle>§ 215.</wtitle>
+<p>Samtidig med at Tiltale rejses i en<lb />
+Sag, i hvilken Forundersøgelse har fundet<lb />
+Sted, stal Påtalemyndigheden tilstille Undersøgelsesretten Meddelelse herom og om, ved<lb />
+hvilken Ret Tiltale er rejst.</p>
+<p>Er Sigtede Fængslet, bor Undersøgelsesretten ved Forundersøgelsens Slutning opgive Påtalemyndigheden en vis Frist, ved<lb />
+hvis Udøb Fængslingen vil blive hævet,<lb />
+såfremt ikke inden .den  Tid  enten Tiltale</p>

@@ -1,0 +1,115 @@
+1959
+<pb n="26" />
+<h>
+<coll>1959</coll>
+<topmidle>Bet. o. Lovf. om Rettens Pleje m. m.</topmidle>
+<colr>1960</colr>
+</h>
+<title>
+Tavle B.
+</title>
+<p>
+(Dommere i 2den Lønningsklasse).
+</p>
+<place>
+Sjælland og Møen,
+</place>
+<p>
+1.	Dommeren i Roskilde Købstad m. m. (Straffesager).
+</p>
+<p>
+2.	—	i Køge Købstad m. m.
+</p>
+<p>
+3.	—	i Nykøbing S. Købstad m. m.
+</p>
+<p>
+4.	—	i Løve Herred.
+</p>
+<p>
+5.	—	i Bregentved-Gisselfeld Birk.
+</p>
+<p>
+6.	—	i Ringsted Købstad m. m.
+</p>
+<p>
+7.	—	i Sorø Købstad m. m.
+</p>
+<p>
+8.	—	i Storehedinge Købstad m, m.
+</p>
+<p>
+9.	—	i Stege Købstad m. m.
+</p>
+<place>
+Bornholm.
+</place>
+<p>
+10.	Dommeren i Neksø Købstad m. m.
+</p>
+<p>
+Lolland—Falster.
+</p>
+<p>
+11.	Dommeren i Stubbekøbing Købstad m. m.
+</p>
+<p>
+12.	— i Sakskøbing Købstad m. m.
+</p>
+<place>
+Fyn.
+</place>
+<p>
+13.	Dommeren i Rudkøbing Købstad m. m.
+</p>
+<p>
+14.	— i Odense Købstad m. m. (Straffesager).
+</p>
+<p>
+15.	— i Odense Herred m. m.
+</p>
+<p>
+16.	— i Kerteminde Købstad m. m.
+</p>
+<place>
+Jylland.
+</place>
+<p>
+17.	Dommeren i Hatting Herred m. m.
+</p>
+<p>
+18.	—	i Voer og Nim Herreder m. m.
+</p>
+<p>
+19.	—	i Tyrsting og Vrads Herreder.
+</p>
+<p>
+20.	—	i Skanderborg Købstad m. m.
+</p>
+<p>
+21.	—	i Hads Herred.
+</p>
+<p>
+22.	—	i Frijsenborg-Faurskov Birk.
+</p>
+<p>
+23.	—	i Grenaa Købstad m. m.
+</p>
+<p>
+24.	—	i Ebeltoft Købstad m. m.
+</p>
+<p>
+25.	—	i Mariager Købstad m. m.
+</p>
+<p>
+26.	—	i Hellum-Hindsted Herreder.
+</p>
+<p>
+27.	—	i Løgstør Købstad m. m.
+</p>
+<p>
+28.	—	i Nibe Købstad m. m.
+</p>
+<p>
+29.	—	i Aalborg Birk m. m.
+</p>

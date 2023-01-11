@@ -1,0 +1,82 @@
+343
+@@@<pb n="349" />
+<leftside>
+<p>i Almindelighed ikke kan gives, hvis Tilsidesættelse<lb />
+vel kan være, men ikke nødvendigvis må være<lb />
+Ankegrund mod Dommen, hvor Bedømmelsen<lb />
+altså beror   på de konkrete   Omstændigheder<lb />
+og derfor må   overlades den Ret, der træffer<lb />
+Afgjørelse om Påanken.    Det er en Mellemvej  mellem   disse to Opfattelser,   som   alle de<lb />
+nyere Love   følge.     Det   erkjendes, at der er<lb />
+visse Rettergangsregler, som ere væsentlige uden<lb />
+Henfyn til det konkrete   Tilfælde, men at det<lb />
+udenfor   denne   Kreds må tages   i Betragtning,  om Reglens Tilsidesættelse kan have havt<lb />
+nogen   Indflydelse   til   den Ankendes Skade.<lb />
+I Overensstemmelse med denne Opfattelse give<lb />
+de nyere Love dels en Opregning af visse bestemte    Tilfælde    (hyppig   tildels   spredt   om<lb />
+ved   de   enkelte Regler), hvor Krænkelsen altid<lb />
+er Ankegrund, og ved Siden deraf en almindelig Regel,   der hjemler   Hensyntagen til de<lb />
+konkrete Omstændigheder.    Dette er også Udkastets  System; ved Siden af Opregningen i<lb />
+§ 374 Nr.   1 — 9  og § 375  sindes hin almindelige Regel i § 374 Nr. 10*). At Dømmes   Ophævelse   på Grund af Krænkelse af<lb />
+Rettergangsregler    i   Reglen    må   være   betinget   af,   at   den   stedfundne Krænkelse   ikke<lb />
+i det givne Tilfælde   har været uden al Indflydelse på Dommen,  tilsiger Forholdets Natur.      Den   abstrakte   Bestemmelse   af   Ankegrundene er en Formalisme,   som både, hvor<lb />
+Dommen må  ophæves, og hvor Ophævelse er<lb />
+udelukket,   let medfører unaturlige   Resultater.<lb />
+Den Grundsætning   må derfor i Almindelighed billiges,   hvorefter det kommer til at bero<lb />
+på det konkrete Tilfælde, om  Krænkelsen skal være Ankegrund.    Herved bliver det imidlertid<lb />
+at bemærke, at det kan være umuligt for Retten   i   Påankeinstantsen at   afgjøre,  om   og<lb />
+hvorvidt Krænkelsen   har havt Indflydelse på<lb />
+Dommen.     I sådanne   Tilfælde må   På-</p>
+</leftside>
+<rightside>
+<p>anken tages til Følge. Krænkelsen kan kun<lb />
+da ikke komme i Betragtning, når det under<lb />
+de givne Omstændigheder er klart, at den<lb />
+ikke har havt nogen Indflydelse på Dommen, jfr. mürttb. Kommissionsbetænkning S.<lb />
+436 — 7 og Motiverne til det tyske Udkast.<lb />
+I Overensstemmelse hermed er Reglen i §<lb />
+374 Nr. 10 affattet, jfr. den württ. Lov §<lb />
+441 Nr. 14. En sådan almindelig Regel<lb />
+er imidlertid ikke tilstrækkelig. Der gives for<lb />
+det Første Procesregler, som stå uden Berøring med Dømmens materielle Indhold, og<lb />
+hvor derfor Afgjørelsen af, om de ere væsentlige eller ej, ikke kan bero på det konkrete<lb />
+Tilfældes Omstændigheder, men på deres almindelige Betydning som Led i den processuelle Ordning. Her er det naturligt, at Loven fastsætter, når og i hvilket Omfang<lb />
+Krænkelsen skal være Ankegrund. På denne<lb />
+Betragtning hviler Optagelsen af Reglerne i<lb />
+§ 374 Nr. 1—7 og § 375 Nr. 1—3.<lb />
+Når Udkastet endvidere i § 374 Nr. 8 og<lb />
+9 og § 375 Nr. 4—8 særlig fremhæver enkelte processuelle Retskrænkelfer, på hvilke<lb />
+den angivne Betragtning ikke passer, kan<lb />
+dette forsvares som en vejledende Angivelse<lb />
+af Exempler, hentet fra Tilfælde, hvor der<lb />
+ikke kunde være Tvivl om, at Ankegrunden<lb />
+måtte anerkjendes i Henhold til den almindelige Regel. Men dertil kommer, at der ved<lb />
+flere af disse Bestemmelser var særlig Grund<lb />
+til at træffe positiv Afgjørelse af omtvistede<lb />
+Sporgsmål.</p>
+<p>I denne Henseende mærkes for det Første<lb />
+den Grundsætning, af hvilken der er gjort<lb />
+Anvendelse i § 374 Nr. 9 og i § 375<lb />
+Nr. 4, nemlig at der ved Procesregler, hvis<lb />
+Anvendelse kræver et Skjøn om Sagens faktiske<lb />
+Sammenhæng, ligger en Ankegrund ikke<lb />
+blot deri, at Retten ved Anvendelsen har gjort<lb />
+sig skyldig i en Retsvildvarelse, men også når den åbenbart har fejlet i hint Skjøn.<lb />
+Udkastet er herved i Overensstemmelse med<lb />
+Fordringer, som med stor Styrke ere komne<lb />
+til Orde ligeoverfor den franske Rets Regel,<lb />
+der i slige Tilfælde kun anerkjender en Ankegrund,<lb />
+når der enten mangler en Afgjørelse<lb />
+af Retten, som det er dens Pligt at give,<lb />
+eller den foreliggende Afgjørelse åbenbarer en</p>
+<p>*) I bet nye tyske Udkoft er den samme Lanke udtrykt<lb/>
+således, at der som almindelig Regel stilles<lb/>
+i Spidsen, at Påanke (Revision) kun kan flottes<lb/>
+på, at Dommen beror på en Nrænkelse af<lb/>
+Loven (§ 300), og at der dernæst opregnes en<lb/>
+Række af Tilfælde, hvor „en Dom stedse skol antages<lb/>
+at bero på en Krænkelse af Loven‟ (§ 301)<lb/>
+jfr. herved Motiverne („den Maßstab für die Erheblichkeit<lb/>
+der Berleßung einer Broges vorschrist<lb/>
+kann nur die Eage des eingelnen Falles bieten‟).</p> 
+</rightside>

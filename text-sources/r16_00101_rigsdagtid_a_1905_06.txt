@@ -1,0 +1,70 @@
+2105
+<pb n="101" />
+<h>
+<coll>
+2105
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2106
+</colr>
+</h>
+<p>
+Derefter har Landsretten at beramme et Retsmøde, om hvilket der meddeles<lb />
+den umyndiggjortes Værge betimelig Underretning; i Retsmødet høres de paagældende,<lb />
+og de fremførte Beviser overvejes, hvorefter Landsretten enten ophæver Umyndig-<lb />
+gørelsesdekretet eller afslaar Begæringen herom.
+</p>
+<p>
+I sidste Fald bæres Omkostningerne ved Forhandlingerne af den, der har rejst<lb />
+Sagen. Ophæves Dekretet, afholdes Omkostningerne af det offentlige.
+</p>
+<wtitle>§ 445.</wtitle>
+<p>
+De om Landsretsproceduren givne Forskrifter komme i øvrigt med de af det<lb />
+foregaaende følgende Lempelser til Anvendelse i disse Sager.
+</p>
+<title>Kapitel 41.</title>
+<undertitle>Fremgangsmaaden ved at erhverve Mortifikations- eller Ejendomsdom.</undertitle>
+<wtitle>§ 446.</wtitle>
+<p>
+Sager, hvorunder Mortifikation søges, blive, for saa vidt angaar Gældsbreve, ved<lb />
+hvilke der er givet Pant i fast Ejendom, at anlægge ved Underretten paa det Sted,<lb />
+hvor den faste Ejendom er beliggende, og ellers ved Landsretten paa det Sted, hvor ved-<lb />
+kommende Dokument er udstedt. Lade disse Regler sig ikke anvende, f. Eks. fordi Doku-<lb />
+mentet er udstedt af en dansk Undersaat i Udlandet, skal Sagen anlægges i København.
+</p>
+<p>
+Mortifikation af bortkomne Konnossementer søges paa det Sted, hvor Varerne<lb />
+skulle afleveres. Mortifikation af Oplagsbeviser og de i Lov om Oplagsbeviser m. ni.<lb />
+i Københavns Frihavn af 30. Marts 1894 ommeldte Garantibeviser søges paa det Sted,<lb />
+hvor Oplagshuset er beliggende.
+</p>
+<p>
+Sager, hvorunder Ejendomsdoni søges, blive at anlægge ved Landsretten paa<lb />
+det Sted, hvor Ejendommen er beliggende, eller, hvis Sagens Genstand er et Dokument,<lb />
+hvor Mortifikation af dette skulde søges efter Reglerne i denne Paragraf. Ejendoms-<lb />
+dom paa et Skib eller en Skibspart søges i København.
+</p>
+<wtitle>§ 447.</wtitle>
+<p>
+Den, der søger Mortifikation. har til den Ret, hvor Sagen efter § 446 skal<lb />
+føres, at indgive skriftlig Begæring om Indkaldelse af den eller dem, som maatte være<lb />
+Ihændehaver af Dokumentet eller anse sig berettiget til det.
+</p>
+<wtitle>§ 448.</wtitle>
+<p>
+Begæringen om Mortifikation skal være ledsaget af Oplysninger, som gøre det<lb />
+antageligt, at den paagældende er berettiget til at erholde Mortifikation, og navnlig<lb />
+om Maaden, hvorpaa Dokumentet er frakommet ham, hvorhos det paagældende<lb />
+Dokument maa betegnes med en saadan Tydelighed, at det ikke kan forveksles<lb />
+med andre.
+</p>
+<wtitle>§ 449.</wtitle>
+<p>
+Retten afgør derpaa ved Kendelse i et Retsmøde, hvortil den, der søger<lb />
+Mortifikation, tilsiges, om offentlig Indkaldelse maa udstedes. Forinden Beslutning<lb />
+herom tages, kan Retten afæske den, der søger Mortifikation, yderligere mundtlig eller<lb />
+skriftlig Oplysning. Undlader han at efterkomme Opfordringen, eller befindes de af<lb />
+ham givne Oplysninger ufyldestgørende, kan Retten nægte at udstede Indkaldelsen.
+</p>

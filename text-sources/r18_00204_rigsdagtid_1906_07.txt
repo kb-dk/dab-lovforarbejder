@@ -1,0 +1,76 @@
+4047
+<pb n="204"/>
+<h>
+<coll>4047</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>4048</colr>
+</h>
+<p>
+færdigelse af Anklageordre straks fremmes til Dom ved den Ret, hvor Forundersøgelse<lb />
+har fundet Sted. Forinden Dom afsiges, skal det til Retsbogen betydes Tiltalte, hvad<lb />
+der er Tiltalens Genstand, og Lejlighed gives ham til at fremføre, hvad han maatte<lb />
+have at anføre til sit Forsvar. Findes yderligere Oplysninger at burde fremskaffes,<lb />
+sker dette overensstemmende med Reglerne i Kapitel 71, og Lejlighed gives Tiltalte til<lb />
+at ytre sig over det saaledes fremkomne.
+</p>
+<p>
+Der skal derhos, hvis Sigtede er fængslet, altid være beskikket ham en For-<lb />
+svarer og være givet denne Lejlighed til at gøre sig bekendt med Sagen, samtale<lb />
+med Sigtede og udtale sig over for Retten, inden der gøres Tilførsel til Retsbogen om<lb />
+Sigtedes Samtykke til Sagens Paadømmelse uden Udfærdigelse af Anklageordre og<lb />
+Domsforhandling, hvorhos saavel Forsvareren som Sigtede skal være tilstede, medens<lb />
+denne Tilførsel sker.
+</p>
+<p>
+Er Sigtede ikke fængslet, skal det, inden Bemærkning om Sigtedes Samtykke til<lb />
+Sagens Paadømmelse uden Udfærdigelse af Anklageskrift og Domsforhandling tilføres<lb />
+Retsbogen, udtrykkelig tilkendegives ham, at der, hvis han ønsker det, vil blive be-<lb />
+skikket ham en Forsvarer. Erklærer Sigtede, at han ikke ønsker nogen Forsvarer<lb />
+beskikket, tilføres der Retsbogen Bemærkning herom; i modsat Fald beskikker Retten<lb />
+ham en Forsvarer, hvis Stilling derefter er den samme som angivet med Hensyn til<lb />
+den fængslede Sigtedes Forsvarer.
+</p>
+<p>
+Indtil Dom er afsagt, kan Dommeren, dersom han finder, at nogen af de i<lb />
+§ 793, første Stykke, angivne Forudsætninger er til Stede, eller at nogen foreliggende<lb />
+Omstændighed gør det betænkeligt at paadømme Sagen uden formelig Domsforhand-<lb />
+ling, beslutte henholdsvis at standse eller slutte Behandlingen overensstemmende<lb />
+med § 793.
+</p>
+<p>
+Med Dommens Afsigelse og Forkyndelse forholdes overensstemmende med de<lb />
+Regler, som gælde i andre Underretssager.
+</p>
+<wtitle>§ 889.</wtitle>
+<p>
+Udenfor de Tilfælde, hvor den i § 888 hjemlede Fremgangsmaade benyttes,<lb />
+rejses Tiltale for Underretten henholdsvis Sø- og Handelsretten ved en i Overensstem-<lb />
+melse § 875 affattet Anklageordre, der udfærdiges af Amtmanden (i København Politi-<lb />
+direktøren) og ved hvis Indlevering til vedkommende Ret Sagen er tingfæstet.
+</p>
+<p>
+Samtidig med Anklageordrens Udfærdigelse beskikker Paatalemyndigheden<lb />
+blandt de i § 698 nævnte Sagførere en offentlig Anklager til at udføre Anklagen mod<lb />
+Tiltalte.
+</p>
+<p>
+Om Udvidelse og Ændring i Tiltalen gælde Reglerne i § 800.
+</p>
+<p>
+For saa vidt ikke i det efterfølgende afvigende Forskrifter ere givne, finde i<lb />
+øvrigt med Hensyn til Domsforhandlingen og dennes Forberedelse Reglerne i Kapit-<lb />
+lerne 74 og 75 Anvendelse med de fornødne Lempelser.
+</p>
+<p>
+I Sager om Erstatning eller Æreserklæring for uforskyldt Anholdelse og om<lb />
+Erstatning for uforskyldt Varetægtsarrest eller uforskyldt Udstaaelse af Straf følges<lb />
+ligeledes med de fornødne Lempelser Reglerne i Kapitlerne 74 og 75, navnlig finder<lb />
+ogsaa § 808 tilsvarende Anvendelse ved Underretterne.
+</p>
+<wtitle>§ 890.</wtitle>
+<p>
+Hører Sagen til dem, i hvilke Tiltalte i Medfør af § 664 b og c kan begære<lb />
+Behandling ved Landsret, og har han ikke allerede afgivet Erklæring i saa Henseende,<lb />
+jfr. § 786, skal Anklageskriftet have en Paategning, hvori Tiltalte gøres opmærksom paa<lb />
+denne sin Ret og opfordres til, saafremt han vil gøre Brug af samme, herom at afgive
+</p>

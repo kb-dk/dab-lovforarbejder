@@ -1,0 +1,98 @@
+747
+<pb n="5" />
+<h>
+<coll>
+747
+</coll>
+<topmidle>
+Bet. o. Lovf. om Rettens Pleje m. m.<lb />
+</topmidle>
+<colr>
+748
+</colr>
+</h>
+<p>
+Oversigt
+over
+den aaiiige Udgiftsforøgelse Ted Procesreformen efter Regeringsforslaget af 1914,<lb />
+Landstingsndvalgets Ændringsforslag og efter Folketingsudvalgets Ændringsforslag.<lb />
+</p>
+<table>
+<tr><td>
+	Regerings-forslaget.	Landstings-udvalgets Ændrings- forslag.	Folketings-udvalgets Ændrings-torslag.	Anmærkning.<lb />
+</td></tr>
+<tr><td>
+		Kr.	Kr.	Kr.	
+</td></tr>
+<tr><td>
+1.	Lønninger og Kontorudgif-<lb />
+ter til de kollegiale Retter	208.500	209,500	209,500	<lb />
+</td></tr>
+<tr><td>
+2.	Retsbetjente med fast Løn-<lb />
+ning og Politimestre (Løn-<lb />
+ning og Kontorhold)		278.000	351.600	401,250<lb />
+<p>
+	Efter Landstingsudvalgets<lb />
+Betænkning af 1914 og<lb />
+det sidst forelagte Re-<lb />
+geringsforslag vilde der<lb />
+blive 98 Dommere og<lb />
+65 Politimestre. Folke-<lb />
+tingsudvalget foreslaar<lb />
+Dommernes Antal for-<lb />
+øget med 1.<lb />
+</p>
+<p>
+Efter Folketingsudvalgets<lb />
+Forslag forøges Udgif-<lb />
+terne i Sammenligning<lb />
+med Landstingsudval-<lb />
+gets Forslag med 49,650<lb />
+Kr., hvoraf 9,650 Kr.<lb />
+medgaar til forøgede<lb />
+Lønninger og 40,000 Kr.<lb />
+til Kontorhold, idet Fol-<lb />
+ketingsudvalget bereg-<lb />
+ner 5,400 Kr. i Kontor-<lb />
+holdsgodtgørelse i Gen-<lb />
+nemsnit til hvert Em-<lb />
+bede, medens Lands-<lb />
+tingsudvalget beregnede<lb />
+5,200 Kr. i Kontorholds-<lb />
+godtgørelse pr. Embede.<lb />
+Den af Folketingsudval-<lb />
+get anslaaede Merudgift<lb />
+til Kontorhold er i Sam-<lb />
+menligning med tidligere<lb />
+Forslag ganske nominel.<lb />
+</p>
+</td></tr>
+<tr><td>
+3. Erstatning for uforskyldt<lb /> 
+Varetægtsfængsel    10,000   10,000  10,0000<lb />
+</td></tr>
+<tr><td>
+4.	Kontorhold til Forligskom-<lb />
+missionen i København ...  4,000  4,000  4,000<lb />
+</td></tr>
+<tr><td>
+5.	Offentlige Anklagere	105,000  105,000 105,000<lb />
+</td></tr>
+<tr><td>
+6.	Offentlige Forsvarere			75,000	75,000	75,000<lb />
+</td></tr>
+<tr><td>
+I Henhold til Ændrings-<lb />
+forslag til Lov om Ud-<lb />
+gifterne i Strafferets-<lb />
+plejen § 3 skal Køben-<lb />
+havns Kommune godt-<lb />
+gøre Statskassen Halv-<lb />
+delen af Lønningerne<lb />
+til de Fuldmægtige, som<lb />
+</td></tr>
+<tr><td>
+	At overføre...	680,500	755,100	804.750	<lb />
+</td></tr>
+</table>

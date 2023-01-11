@@ -1,0 +1,132 @@
+2887
+<pb n="707" >
+<p rend="page">707</p>
+<h>
+<coll>2887</coll>
+<colr>2888</colr><lb />
+Den endelige Behandling af Grundlovsudkastet. §§ 30—36.<lb />
+</h>
+<leftside>
+<p>
+
+Anskuelser, er jeg overbeviist om, at den ærede Rigsdagsmand for<lb />
+Kjøbenhavns 3die Valgkreds (Ørsted) ikke vil betragte det som en<lb />
+Mangel af Opmærksomhed, naar jeg antager, at jeg som Ordfører<lb />
+ikke er pligtig til udførlig at oplyse, hvorfor Udvalget ikke har kunnet tiltræde dette Forslag.<lb />
+</p>
+<p>
+Da ingen Flere begjerede Ordet, skred man til Afstemning,<lb />
+hvoraf Resultate blev, at det foreliggende, ovenfor anførte Forslag af<lb />
+Ørsted forkastedes med 105 Stemmer imod 16.<lb />
+</p>
+<p>
+Formanden gav derefter Ordet til Rigsdagsmanden for Kjøbenhavns 7de District (J. E Larsen) paa Grund af, at denne agtede<lb />
+at tilbagetage sit under Litr. C stillede Forslag, men dog desangaaende<lb />
+at yttre nogle Ord. Forslaget lyder saaledes:<lb />
+</p>
+<p>
+Udvalgets Mindretals (Larsens) Hovedforslag.<lb />
+143) Rées Ændringsforslag til § 31. For det egentlige Danmarks<lb />
+Vedkommende sammensættes Rigsdagen omtrent saaledes:<lb />
+I. Ved betingede Valg vælger Kjøbenhavn 4, Østifternes og Iyllands Kjøbstæder i 2 Valgkredse hver 4, Østisternes og Iyllands<lb />
+mindre Landeiendomsbesiddere i to Valgkredse hver 8, og de<lb />
+større Landeiendomsbesiddere i 2 Valgkredse hver 2, ialt 32.<lb />
+II. Ved almindelige Valg, i Valgkredse paa omtrent 12, 000 Indvaanere, vælges 114.<lb />
+144) Rées Ændringsforslag til § 32. Valgret til de betingede<lb />
+Valg giver:<lb />
+1) I Kjøbenhavn Eiendomsret over Huse og Gaarde til Brandforsikkringsværdi af mindst 2000 Rbd.<lb />
+2) I Kjøbstæderne dito til Værdi af 1000 Rbd., og paa Bornholm<lb />
+det Halve.<lb />
+3) I de mindre Landeiendomsbesidderes Valgkreds: Eiendoms-eller<lb />
+Fæsteret over 1 Tdr. Hartkorn Ager og Eng eller 2 Tdr. Hartkorn Skov og Mølleskyld, eller Eiendomsret over Bygninger,<lb />
+der ere undergivne Arealskat og have en Brandforsikkringsværdi<lb />
+af 2000 Rbd.<lb />
+145) Hovedforslaget:<lb />
+<law n="30" >§ 30.<lb /></law>
+Rigsdagen fremgaaer ved umiddelbare Valg af Folket og danner<lb />
+en af tvende Afdelinger bestaaende Eenhed.<lb />
+<law n="31" >§ 31.<lb /></law>
+For det egentlige Danmarks Vedkommende sammensættcs Rigsdagen omtrent saaledes:<lb />
+I. ved betingede Valg:<lb />
+1) Kjøbenhavn vælger 10.<lb />
+2) a. Østifternes Kjøbstæder efter de ældre Valgdistricter 11.<lb />
+b. Iyllands Kjøbstæder ligeledes 11.<lb />
+3) a. de mindre Landeiendomsbesidderes Valgdistricter i<lb />
+Østifterne 20.<lb />
+b. ligeledes i Iylland 22.<lb />
+4) De større Landeiendomsbesiddere efter nærmere Fordeling 16.<lb />
+II. ved almindelige Valg:<lb />
+60 omtrent lige folkerige Valgkredse, i hvilke Kjøbftæderne,<lb />
+med Undtagelse af Kjøbenhavn, forenes med Landet,<lb />
+vælge 60.<lb />
+150.<lb />
+<law n="32" >§ 32.<lb /></law>
+Valgret til de i § 31 I. under 1—3 ommeldte Valg betinges af, at den Vedkommende enten eier Arealskat undergivne<lb />
+Bygninger af en Assuranceværdi i Kjøbenhavn mindst 4000 Rbd.<lb />
+og udenfor Kjøbenhavn 1000 Rbd.; eller er Eier, Fæster eller<lb />
+Beneficiarius af mindst 3 Tdr. Hartkorn, eller ifølge skriftlig<lb />
+Leiecontract betaler i aarlig Huusleie i Kjøbenhavn mindst 200<lb />
+Rbd. og udenfor Kjøbenhavn 100 Rbd.; eller betaler i Forpagtningsafgift af et Landbrug eller et industrielt Etablissement<lb />
+mindst 500 Rbd. aarlig. De under 4 nævnte større Landeiendomsbesiddere skulle som Eiere eller Lehns-og Fideicommisbesiddere have en Eiendom af i det Mindste 20 Tdr. Hartkorn.<lb />
+</p>
+<p>
+Som personlige Egenskaber fordres hos Enhver, der skal<lb />
+deeltage i disse Valg, at han er fuldmyndig og uberygtet, at<lb />
+han har Indfødsret, og at hans Bo ikke er taget under Opbuds-eller Fallitbehandling.<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+
+<law n="33" >§ 33.<lb /></law>
+Valgret til de almindelige Valg tilkommer enhver fuldmyndig og uberygtet Mand, som har Indfødsret og har havt fast<lb />
+Bopæl i et halvt Aar i den Valgkreds eller den Stad, hvori han<lb />
+opholder sig paa den Tid, han indtegnes som Vælger, med<lb />
+mindre han staaer under Fattigforsørgelse, eller hans Bo er<lb />
+under Opbuds-eller Fallitbehandling.<lb />
+<law n="34" >§ 34.<lb /></law>
+Valgbarhed saavel ved de betingede som ved de almindelige<lb />
+Valg tilkommer Enhver, som er valgberettiget ved de almindelige Valg, dog at Betingelsen om Bopæl i Valgkredsen her<lb />
+bortfalder.<lb />
+<law n="35" >§ 35.<lb /></law>
+Rigsdagsmændene vælges paa 4 Aar. Hver Gang Rigsdagen, efterat nye Valg over hele Landet heve fundet Sted, er<lb />
+sammentraadt, udvælger den for ligesaa lang Tid en Trediedeel<lb />
+af sine Medlemmer, som skulle udgjøre Rigsdagens første Afdeling (Lovthinget); de øvrige danne dens anden Afdeling<lb />
+(Folkethinget).<lb />
+<law n="36" >§ 36.<lb /></law>
+Samtlige Rigsdagsmænd erholde et dagligt Vederlag.<lb />
+145) Det samme Forslag med den Forandring, at der i § 35 istederfor „en Trediedeel" sættes „en Fierdedeel eller det en saadan<lb />
+nærmest kommende Antal".<lb />
+</p>
+<p>
+<speaker>J E. Larsen:</speaker> Jeg reiser mig for at meddele Forsamlingen,<lb />
+at jeg af Hensyn til det billige Ønske hos mange Medlemmer af<lb />
+Forsamlingen om, at Forhandlingerne maatte blive afkortede saameget, som dette uden Skade kunde skee, vil tilbagetage det Forslag,<lb />
+som jeg har havt den Ære at forelægge Forsamlingen. Jeg skal<lb />
+tilføie den Bemærkning, at dette ikke skeer, fordi jeg af hvad der er<lb />
+bleven fremført imod det er bleven overbeviist om, at jeg har befundet mig paa en urigtig Vei. Jeg er tvertimod efter en samvittighedsfuld Overveielse af alle de Grunde, der ere fremkomme derimod, kun yderligere bleven overbeviist om, at det er en rigtig Vei,<lb />
+jeg har angivet, og at den maa foretrækkes for den, som Udkastet<lb />
+er slaaet ind paa; men paa den anden Side kan jeg indsee, at der<lb />
+ikke er nogen Udsigt til at sætte mit Forslag igjennem. Det modtog vel allerede ved den foreløbige Behandling en større Understøttelse fra mange Medlemmers Side, end jeg havde ventet, men selv<lb />
+de fleste af disse være dog tilbøielige til at gaae videre med Hensyn<lb />
+til de almindelige Valg, end jeg troede at kunne gaae, naar Forslaget skulde fremtræde som mit, og et saadant videregaaende Forslag er nu stillet af Andre. Grunden til, at jeg dog nu igjen havde<lb />
+bragt det frem til endelig Behandling med endeel, som jeg troer<lb />
+hensigtsmæssige Modificationer, er ikke saameget den, at jeg har<lb />
+troet, at det skulde kunne føres igjennem, men dette er fornemmelig<lb />
+skeet, fordi jeg har antaget, at Discussionen af samme kunde tjene<lb />
+til at opklare flere Punkter, som kunne udøve Indflydelse paa Bedømmelsen af de følgende Forslag Ifølge de nu indtraadte Tidsforhold troer jeg imidlertid at burde opgive mit Forslag for ikke at<lb />
+opholde Forsamlingen ved Discussionen deraf, saameget mere, som<lb />
+de følgende Forslag, blandt hvilket jeg subsidiairt agter at slutte mig<lb />
+til det femte under Litr. E fremsatte, ville give Leilighed til i det<lb />
+Væsentlige at fremkomme med de samme Bemærkninger som Discussioner af mit Forslag.<lb />
+</p>
+<p>
+Efterat Formanden havde berammet det næste Møde til den<lb />
+følgende Dag, Torsdag den 26de April Kl. 10, hvor det under<lb />
+Litr. D opførte Forslag (af Neergaard og Scavenius) til Udkastets<lb />
+§ 30—36 vilde komme under Behandling, blev Mødet hævet.<lb />
+</p>
+</rightside>
+
+
+</pb>

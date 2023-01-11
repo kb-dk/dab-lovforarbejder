@@ -1,0 +1,75 @@
+301
+<pb n="307" />
+<leftside>
+<p>pere sig om 3 Hovedmomenter: Anklagen<lb />
+(§§ 247—250), Henvisningen til Hovedforhandling, (§§ 251—261), og den nærmere<lb />
+derpå følgende Forberedelse af denne (§§<lb />
+262—265).</p>
+<p>Anklagen, som er Grundlaget for Hovedforhandlingen og oplæses ved dennes Begyndelse, se §§ 323 og 356, indgives skriftlig<lb />
+af Statsanklageren til Rettens Formand (§<lb />
+247). Hermed er Sagen anhængiggjort, og<lb />
+den regelmæssige Beføjelse til under Lovens<lb />
+Betingelser og i den Form, som Processtadiet<lb />
+medfører, at tage Bestemmelse om Midler til<lb />
+Straffesagens Formåls Opnåelse er fra nu<lb />
+af hos Landsretten, fe §§ 250 2det Stykke,<lb />
+255, 260 2det Stykke, jfr. § 256 1 ske<lb />
+Stykke i Slutningen. Hvilke Fordringer der<lb />
+må stilles til Anklagens Angivelse af Forbrydelsen (§ 248, o), bestemmes efter Hensynet<lb />
+til den Sigtedes Forsvar. Skal denne selv<lb />
+Være virksom for sit Forsvar, hvilket ligger i<lb />
+Anklageprincipet, efter hvis Fordringer Hovedforhandlingen skal indrettes, må for det Første<lb />
+Anklagen Være formuleret således, at den<lb />
+Sigtede kan vide, mod hvad han har at forberede sit Forsvar, hvis et sådant er muligt.<lb />
+Derfor må Anklagen optage så Meget til konkret Bestemmelse af Handlingen, at den<lb />
+Sigtede efter det enkelte Tilfældes Beskaffenhed kan vide, om hvilke bestemte Kjendsgjerninger Sagen drejer sig, og kan vide det,<lb />
+navnlig også under den Forudsætning, at han<lb />
+er uskyldig i det, han sigtes for.*) Den må<lb />
+fremdeles angive, i hvilken Retning den vil<lb />
+have Handlingen subsumeret under Straffeloven; thi ved en Anklage, der gik ud på,<lb />
+at den Sigtede skal drages til Ansvar for en<lb />
+Handling i alle de Retninger, i hvilke en<lb />
+Subsumtion af samme under Straffeloven er<lb />
+tænkelig, er intet Forsvar muligt, da disse<lb />
+Retninger, navnlig på Grund af Kategorierne</p>
+</leftside>
+<rightside>
+<p>Forsøg og Meddelagtighed, ere ubegrænfede.<lb />
+De øvrige positive Fordringer til Anklagens<lb />
+Indhold behøve ingen Begrundelse. særlig<lb />
+mærkes den negative Bestemmelse, at Udviklinger om de mod den Sigtede forhåndenværende Beviser eller af Retsspørgsmål ikke<lb />
+må findes i Anklageskriftet. Dette skal kun indeholde, hvad der behøves for, at<lb />
+det kan være Grundlag eller Ramme for<lb />
+den mundtlige Forhandling, ligesom Anklagekjendelsen i den franske og tyske Proces.<lb />
+Når der i den franske og tyske Proces<lb />
+til Anklagekjendelsen flutter sig et af Anklageren udfærdiget Anklageskrift, der går ud<lb />
+på nærmere Begrundelse af Anklagen, er det<lb />
+med Rette bemærket om dette, at det i den<lb />
+mundtlige Proces er overflødigt, at det dernæst forhaler Sagerne og ofte forskaffer de<lb />
+Sigtede flere Måneders forlænget Væresægtssængsel, endelig at det, hvis det oplæses for<lb />
+nævninger, let kan virke forudindsagende på<lb />
+disse og således krænke Mundslighedsprincipet, jfr. Mittermaier Gesetzgebung und Rechtsubung S. 409 o. ff., Bar Redyt und Bew.<lb />
+im Geschwger. S. 152 Note. Stedse talrigere ere også de Stemmer blevne, der fordre,<lb />
+at et sådant Anklageskrift skal bortfalde, jfr.<lb />
+også den engelske Re? og den sachsiske Lov<lb />
+af 1868 § 43. Også det tyske Udkast<lb />
+anerkjender Rigtigheden af denne Fordring i<lb />
+Principet, om det end mener at kunne overlade dens Fyldestgørelse til Statsanklagerens<lb />
+Takt, og derfor ikke har optaget den omspurgte<lb />
+negative Bestemmelse, se Udkastets § 165 og<lb />
+Motiverne S.  112—13.</p>
+<p>først og fremmest for den Sigtedes<lb />
+Skyld, dernæst også for Rettens Skyld, der<lb />
+dels kan komme til at foretage en prøvelse<lb />
+af Anklagen på Grundlag af de skrevne Akter dels, foruden at udøve en procesledende<lb />
+Virksomhed, er beføjet og forpligtet til selvstændig at fremskaffe Beviser, omend Parternes Virksomhed står i Første række, må med<lb />
+Anklageskriftet overleveres til Retten ikke blot<lb />
+Dokumenter og andre Bevisgjenfkande, som<lb />
+Anklageren har i hænde og som agtes fremlagte under Sagen, men også alle Efterforsknings- og Forundersøgelsesakter (§ 249). Endvidere må der — da enhver Straffesag kræ-</p>
+<note rend="foot">*) Således i Lovgivningen for New-Iork, fe<lb />
+code of procedures 1850 S. 140 ff. Den<lb />
+ældre engelske Proces forbrede en urimelig Omstændelighed i denne Henseende, der bevirkede<lb />
+mange stsdende Frifindelser. Se derimod nu en<lb />
+Parlamentsakt ?de August 1851 (an act tor<lb />
+farther improving the administration ol criminal justice, 14 & 15 Viet. c 100).</note>
+</rightside>

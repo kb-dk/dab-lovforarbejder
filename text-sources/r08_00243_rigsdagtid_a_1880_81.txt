@@ -1,0 +1,52 @@
+3849
+<pb n="243" />
+<h>
+<coll>3849</coll>
+<topmidle>Forsl. t. L. om Strafferetspleien.</topmidle>
+<colr>3850</colr>
+</h>
+<wtitle>§ 372.</wtitle>
+<p>Dommen paaankes  af Statsanklageren   i Anklagens Interesse,   og   i   den Sigtedes</p>
+<p>!  Interesse af den Sigtede selv samt af hans værge, forsaavidt han ikke er personlig myndig.</p>
+<p>De Skridt,   som i Anledning af Paaanke   blive   at foretage  ved Landsretten i den</p>
+<p>Sigtedes Interesse, er den for den  Sigtede   ved Landsretten   beskikkede Forsvarer  pligtig   at</p>
+<p>foretage, naar det begjæres.</p>
+<wtitle>§ 373.</wtitle>
+<p>Afkald paa Paaanke kan finde Sted, efterat Dommen er afsagt. Beslutning om<lb />
+Paaanke kan frafaldes, for Anklagens Vedkommende af Overstatsanklageren, faalænge Dom<lb />
+ikke er afsagt af Hoiesteret. Frafaldes Anke, cfterat Forhandlingen om Paaankens Gjenstand<lb />
+er begyndt, kan derved dog ikke Provelse af saadanne Ankegrunde unddrages Hoiefteret, som<lb />
+skulle tages i Betragtning i Embeds medfør (§ 391).</p>
+<wtitle>§ 374.</wtitle>
+<p>Dommen kan paaankcs paa Grund af Krcrnkelse af Rettergangsreglerne i folqendc<lb />
+Tilfælde:</p>
+<p>1)  naar det lovbestemte Anlal Donmiere  ikke   har deltaget  i Dommens Vedtagelse<lb />
+eller Reglen i § 278   1ste Stykke med Hensyn til nogen af Dommerne er tilsidesat;</p>
+<p>2)  naar en Dommer, som ifølge Loven   var udelukket  eller burde udelukkes  fra at<lb />
+deltage i Sagens Behandling,  bar medvirket ved Hovedforhandlingen;</p>
+<p>3)  naar Retten var inkompetent eller har afvist Sagen, skjønt den var kompetent;</p>
+<p>4)  naar Anklagen ellers uden lovlig Grund  er   bleven   afvist  eller ikke   i sin hele udstrækning er paadømt;</p>
+<p>5)  naar Hovedforbandlingen i Strid med Loven er foregaaet for lukkede Dere;</p>
+<p>6)  naar Dom mod Loven er gaaet uden Anklage eller i en gjenopwgen Sag uden<lb />
+Hjemmel   i Reglerne herom, naar Retten i at domfælde er afvegen fra Anklagen videre, end<lb />
+Loven   tilsteder,   eller Forandringer  i   Anklagen   ere  tilstedte   med Tilsidesættelse   af Lovens<lb />
+Regler, naar Forsvarer ikke har van et beskikket, hvor dette burde værc sket,   eller naar For-<lb />
+handlingen mod Loven er fremmet i Anklagerens, den Sigtedes eller den beskikkede Forsvarers<lb />
+Fraværelse;</p>
+<p>7)  naar Dommen  ikke er forsynet  med   de   fornødne Domsgrunde,   eller Domsflut-<lb />
+ningen lider af væsentlige Mangler;</p>
+<p>8)  naar den Forbrydelse, for hvilken Anklage   er reift,  ikke er  betegnet i Anklagen<lb />
+saa tilstrækkeligt og tydeligt,   som Forsvarets Forberedelse   krævede,   eller der ikke er givet den<lb />
+Sigtede eller hans Forsvarer   tilstrækkelig Leilighed   til   at   gjøre   sig   bekjendt   M3d Sagens<lb />
+Aktstykker, eller der uden Hjemmel er givet den Sigtede kortere Varsel end en Uge;</p>
+<p>9)  naar det paa Grund af Retsvildfarelse  eller   i   aabenbar Miskjendelse af den i<lb />
+Forhandlingerne liggende Opfordring er ncegtet Anklageren eller den Sigtede eller er undladt<lb />
+i Embeds medfør at   føre Bevis angaaend? Omstændigheder,   som  under Forhandlingen ere<lb />
+komne paa Tale,  eller at henvise Sagen   til Forundersogelse,   eller Udslettelse  ikke   er given,<lb />
+hvor det i Loven er bestemt;</p>
+<p>10) naar i andrc end de forannævnte Tilfælde Rettergangsregler ere krænkede, og det<lb />
+er tvivlsomt,  om ikke deres Iagttagelse vilde have fort til en anden Afgjørelse.</p>
+<wtitle>§ 375.</wtitle>
+<p>I Sager, som ere paakjendte under medvirkning af nævninger, afgiver Krænkelsc<lb />
+af Rettergangsreglerne endvidere Grund til Paaanke i folgende Tilfælde:</p>
+<p>1) naar   det lovbestemte Antal nævninger  ikke har deltaget   i Grtlæringens Veota-</p>

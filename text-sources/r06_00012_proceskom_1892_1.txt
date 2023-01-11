@@ -1,0 +1,48 @@
+12
+<pb n="12" />
+<rightside>
+<pagename>10
+</pagename>
+<p>modtage Dokumenter, som indleveres til Tinglæsning eller Aflæsning, samt efter Forud-begæring at udlevere tinglæste og aflæste<lb />
+Dokumnenter.
+</p>
+<p>Dommeren stal have Bolig ved Kredsens Tingsted eller, naar Kredsen har flere<lb />
+Tingsteder, ved Hovedtingstedet. Dog kan<lb />
+Justitsministeren tilstede Afvigelse herfra.
+</p>
+<wtitle>§ 23.
+</wtitle>
+<p>Ved Anordning bestemmes Tiden for<lb />
+de ordentlige Retsmøder til Domssagers Behandling paa ethvert af Retskredsens Tingsteder; herved iagttages, at der fastsættes<lb />
+forskellige Tingdage for de forskellige Tingsteder. Dommeren berammer i hvert enkelt<lb />
+Tilfælde Tiden for andre Retsmøder.
+</p>
+<wtitle>§ 24.
+</wtitle>
+<p>Sø- og Handelssager kunne behandles<lb />
+ved de for almindelige borgerlige Retssager<lb />
+dannede Retter, naar begge Parter ere enige<lb />
+herom.
+</p>
+<p>Begæring om, at en Sag skal behandles som Sø- eller Handelssag, eller<lb />
+Indsigelse derimod stal fremsættes senest paa<lb />
+den første Tægtedag. Rettens Afgørelse<lb />
+af Spørgsmaal derom kan ikke medføre Afvisning af Sagen, men kun Henvisning af<lb />
+dens videre Behandling til den rette Domstol.    Kærefristen er 3 Dage.
+</p>
+<wtitle>§ 25.
+</wtitle>
+<p>Regeringens Ret til, udenfor det i<lb />
+D. L. 1—2—1 omhandlede Tilfælde, at anordne ekstraordinære Retter bortfalder. Dog<lb />
+kan Kongen, foruden i det i Lov om Spare- og<lb />
+Laanekasser af 28. Maj 1880 § 8 ommeldte<lb />
+Tilfælde, undtagelsesvis, naar Begæring<lb />
+derom maatte indkomme, med Indvilgelse af<lb />
+samtlige de paa en dertil berammet Skiftesamling nødende Fordringshavere, bestikke<lb />
+Skiftekommissarier til i Stedet for den<lb />
+ordinære Skifteret at forestaa Behandlingen<lb />
+og Opgørelsen af et Konkursbo, der befindes<lb />
+at være af en særegen vidtløftig og indviklet Beskaffenhed. Ligeledes forbeholdes<lb />
+der Regeringen Adgang til at tillægge Landvæsenskommissioner   dømmende   Myndighed
+</p>
+</rightside>

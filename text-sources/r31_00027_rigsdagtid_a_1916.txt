@@ -1,0 +1,81 @@
+443
+<pb n="27" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>443</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+hvis Område og Virksomhed nærmere Bestemmelser træffes af Justitsministeren.<lb />
+Enhver Politimester skal efter Justitsministerens Bestemmelse være forpligtet til foruden sit eget Embede midlertidig at beklæde et andet Politimesterembede, når vedkommende Politimester har Forfald, eller Embedet er ledigt.
+</p>
+<p>
+Politimestrene, der beskikkes af Kongen, må være fuldmyndige, uberygtede,<lb />
+vederhæftige Mænd, som har underkastet sig den fuldstændige juridiske Eksamen<lb />
+med i det mindste Karakteren haud illaudabilis efter denne Eksamens tidligere Ordning eller haud illaudabilis lmi gradus efter den nuværende Ordning. Ved midlertidig<lb />
+Beskikkelse er det dog tilstrækkeligt, at vedkommende fyldestgør den i § 44 i Slutningen angivne Fordring med Hensyn til juridisk Eksamen.
+</p>
+<wtitle>§ 110.</wtitle>
+<p>
+Udenfor København udøves Politiets Virksomhed dels af Statspolitiet, der er<lb />
+fælles for hele Riget, dels af det kommunale Politi, hvis Virksomhedsområde falder<lb />
+indenfor de enkelte Politikredse.
+</p>
+<wtitle>§ 111.</wtitle>
+<p>
+Statspolitiets Opgave er at udføre de Politiet påhvilende Hverv indenfor den<lb />
+straffende Retsplejes Område i Overensstemmelse med den derom gældende Lovgivning og således navnlig at foretage Efterforskning og Forfølgning af Forbrydelser.<lb />
+Desuden påhviler det Statspolitiet at påse Overholdelsen af Lov om Tilsynet med<lb />
+Fremmede og Rejsende m. m. af 15. Maj 1875, samt i det Omfang, hvori dets øvrige<lb />
+Virksomhed tilsteder det. at yde Bistand til Opretholdelse af Sikkerhed, Fred og Orden.
+</p>
+<wtitle>§ 112.</wtitle>
+<p>
+Det kommunale Politis Opgave er i første Række at opretholde Sikkerhed<lb />
+Fred og Orden og at påse Overholdelsen af Love og Vedtægter.
+</p>
+<p>
+Desuden er det kommunale Politi pligtigt at bistå Statspolitiet i enhver<lb />
+Henseende i det Omfang, hvori dets øvrige Virksomhed tilsteder det.
+</p>
+<wtitle>§ 113.</wtitle>
+<p>
+Chefen for Statspolitiet har den øverste Ledelse af dette. Til hans Bistand<lb />
+beskikkes en af Kongen udnævnt Politiinspektør.
+</p>
+<p>
+Antallet af Politibetjente kan ikke overstige 200. Af disse kan indtil 30<lb />
+beskikkes til Overpolitibetjente.
+</p>
+<p>
+Bestemmelserne i Lov om Oprettelse af et Statspoliti af 13. Maj 1911 forbliver i øvrigt i Kraft.
+</p>
+<wtitle>§ 114.</wtitle>
+<p>
+Politimesteren leder de i Politikredsen forefaldende Politiforretninger og er<lb />
+såvel det kommunale Politis som Statspolitiets øverste stedlige Foresatte. For så<lb />
+vidt angår de særlig til Statspolitiet henlagte Hverv, står Politimesteren under Chefen<lb />
+for Statspolitiets Overtilsyn.
+</p>
+<p>
+Det påhviler yderligere Politimesteren at bestyre Arresthusene.
+</p>
+<p>
+Andre Forretninger end de foran nævnte, som efter den hidtil gældende Ret<lb />
+har været henlagte til Herredsfogeden, Birkedommeren eller Byfogeden, og som ikke<lb />
+ifølge Reglerne i denne Lovs 1ste Bogs 1ste Afsnit går over til Retterne, varetages<lb />
+indtil videre af Politimesteren, dog at den Øvrigheden efter Danske Lov 3—16—4<lb />
+jfr. Fr. 30. April 1824 § 3 Nr. 6, tilkommende Afgørelsesret går over til vedkommende Amtmand.
+</p>
+<p>
+Øvrighedens Deltagelse i Frederiksberg Kommunalforvaltning ordnes ved særlig Lov. Indtil denne Lov er givet, er Politimesteren i Frederiksberg Birk tillige<lb />
+Formand for Frederiksberg Kommunalbestyrelse.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

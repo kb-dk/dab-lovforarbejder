@@ -1,0 +1,137 @@
+749
+<pb n="6" />
+<h>
+<coll>
+749
+</coll>
+<topmidle>
+Bet.o. Lovf. om Rettens Pleje m. m.<lb />
+</topmidle>
+<colr>
+750
+</colr>
+</h>
+<table>
+<tr><td>
+	Regerings-forslaget.	Landstings-udvalgets Ændrings-forslag.	Folketings-udvalgets Ændrings-forslag.	Anmærkning.<lb />
+</td></tr>
+<tr><td>
+Kr.  Kr.   Kr.
+</td></tr>
+<tr><td>
+Overført ...    680,500		755,100		804,750<lb />
+</td></tr>
+<tr><td>
+7.	Konsultation til ubemidlede<lb />
+(Lovforslagets § 135)	10,000		10,000		10,000
+</td></tr>
+<tr><td>
+8.	Leje af Retslokaler (jfr.<lb />
+Lovforslagets § 11)	  35,000	35,000		35,000
+</td></tr>
+<tr><td>
+9.	Nævningeudgifter	130,000		130,000		130,000
+</td></tr>
+<tr><td>
+10.	Vidnegodtgørelser	50,000		50,000		50,000
+</td></tr>
+<tr><td>
+11.	Udgifter til Politivæsenet<lb />
+(Statspoliti)		279,700		279,700		279,700
+</td></tr>
+<tr><td>
+					1,203,200	1,277,800	1,327,450
+</td></tr>
+<tr><td>
+Hertil kommer som Følge af<lb />
+Folketingets Vedtagelse om<lb />
+Ansættelse af 9 Politifuld-<lb />
+mægtige i København (jfr.<lb />
+Lovforslagets § 108)		27,000		27,000		13,500
+</td></tr>
+<tr><td>
+					1,230,200	1,304,800	1,304,950
+</td></tr>
+<tr><td>
+Herfra gaar Stigning af Rets-<lb />
+afgifter			-170,000	-170,000	-170,0000
+</td></tr>
+<tr><td>
+					1,060,200	1,134,800	1,170,950
+</td></tr>
+<tr><td>
+i Henhold til Lovfor-<lb />
+slagets § 108, 2det<lb />
+Stykke, skal ansættes<lb />
+som Medhjælpere for<lb />
+Politidirektøren ved Paa-<lb />
+tale af Straffesager i<lb />
+København.<lb />
+</td></tr>
+</table>
+<leftside>
+<p>
+Det er selvfølgelig umuligt at opgive<lb />
+Udgifterne ved Retsplejelovens Gennem-<lb />
+førelse aldeles nøjagtigt. Men selv om<lb />
+enkelte Udgiftsposter maatte overskride<lb />
+det kalkulerede Overslag noget, tør man<lb />
+dog regne med, at Gennemførelsen af den<lb />
+nu foreliggende Retsreform ikke vil koste<lb />
+over 2 Mill Kr. en Gang for alle — heri<lb />
+ikke medregnet Værdien af den nuværende<lb />
+Rigsdagsbygning —, og at den aarlige Mer-<lb />
+udgift for Statskassen ikke vil overstige<lb />
+1 1/4 Mill. Kr.<lb />
+</p>
+<p>
+I denne Sammenhæng er det værd at<lb />
+erindre sig, at Statens Indtægter ved Rets-<lb />
+sportler, hvis naturlige Anvendelse er at<lb />
+dække Udgifterne ved Retsplejen, for Ti-<lb />
+den efter Justitsministerens Opgørelse er<lb />
+Ca. 4,450,000 Kr., medens Statens Ud-<lb />
+til Justits- og Politivæsen kun er<lb />
+Ca. 2,740,000 Kr.<lb />
+</p>
+<p>
+ Udval get stiller kun faa Ændringsfor-<lb />
+</p>
+<p>
+Med Hensvn til disse bemærkes føl-<lb />
+gende;<lb />
+</p>
+<p>
+I Overensstemmelse med Landstings-<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+udvalgets Betænkning af 29. Maj 1914 er<lb />
+der i Lovforslaget optaget en Bestemmelse<lb />
+om, at det ved kgl. Anordning kan be-<lb />
+stemmes, at en Retskreds, som har naaet<lb />
+40,000 Indbyggere, og hvor der derfor skal<lb />
+ansættes 2 Dommere, i Stedet for kan<lb />
+deles i 2 Retskredse, hver med ,1 Dom-<lb />
+mer, hvorimod Sammenlægning af paa<lb />
+denne Maade adskilte Retskredse kun kan<lb />
+ske ved Lov. Da Udvalget foretrækker<lb />
+den Ordning, at saavel eventuel Deling<lb />
+som Sammenlægning af Retskredse kun<lb />
+kan ske ved Lov, stiller Udvalget Ændrings-<lb />
+forslag Nr. 1 til § 17.<lb />
+</p>
+<p>
+Ændringsforslagene Nr. 2, 3, 5, 6, 8,<lb />
+9, 10, 11, 12 og 13 til §§ 72, 73, 74, 75,<lb />
+76, 77, 79 og 80 angaar alle Reglerne for<lb />
+Udtagelse af Nævninger til Grundlisten.<lb />
+Det vigtigste af disse Ændringsforslag er<lb />
+Nr. 3 til § 73. Vedtages dette Ændrings-<lb />
+forslag, er de øvrige fornævnte Ændrings-<lb />
+forslag til dette Afsnit dermed nødvendig-<lb />
+ gjorte. Saavel nærværende Forslag til Lov<lb />
+ om Rettens Pleje som det i 1914 frem-<lb />
+</p>
+</rightside>

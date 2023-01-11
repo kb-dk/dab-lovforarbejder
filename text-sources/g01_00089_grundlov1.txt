@@ -1,0 +1,120 @@
+105
+<pb n="89">
+<pagename>89</pagename>
+<h>
+<coll>105</coll>
+<colr>106</colr>
+<lb/>
+
+<topleft>1848</topleft>
+<topmidle>
+Beretning om Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 15.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Sydende Møde.<lb/>
+</btitle>
+<notedate>
+Tirsdagen den 31te October.<lb/>
+</notedate>
+<p>
+Protocollen for forrige Møde oplæstes.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Efter Dagsordenen skulle vi fortsætte Behandlingen af Udkastet til Regulativet for Forretningsordenen, og gåe<lb/>
+derefter således over til det næste Afsnit, nemlig §§ 11—15.<lb/>
+</p>
+<p>
+<speaker>Algreen-Ussing </speaker>oplæste de nysnævnte Paragrapher og<lb/>
+bemærkede derefter: Comiteen har, som det sees, fundet det nødvendigt at fastsætte særegne Bestemmelser om Behandlingen af Lovforslag. De to første Behandlinger ville findes at være i det Væsentlige overeensstemmende med den foreløbige og endelige Behandling af Sager, som hidtil har fundet Sted i Stænderforsamlingerne;<lb/>
+den eneste Forandring af nogen Betydenhed er den, som findes i § 14,<lb/>
+hvor det er bestemt, at der ved den endelige Behandling skal finde<lb/>
+Discussioner Sted af enhver enkelt Paragraph eller ethvert mindre<lb/>
+Afsnit, som Præsidenten måtte bestemme det, og at Afstemning<lb/>
+umiddelbart derefter skal foregåe. Denne Fremgangsmåde er den,<lb/>
+som bruges i andre Landes lovgivende Forsamlinger, og den vil<lb/>
+udentvivl erkjendes som hensigtsmæssig, når Afstemningen skal blive<lb/>
+et pålideligt Resultat af de stedfundne Forhandlinger. Det er ikke<lb/>
+hensigtssvarende, således som hidtil har været Tilfældet i Stænderforsamlingerne, at udsætte Afstemningen over det hele Lovudkast, som ofte er af et meget stort Omfang og beståer af et<lb/>
+stort Antal Paragrapher, hvortil der igjen kan være knyttet et betydeligt Antal Amendements, til den endelige Discussion er fuldt tilendebragt, og da lade Afstemning foregåe på eengang over alle<lb/>
+Paragrapher. Det er kun, når Afstemningen skeer umiddelbart efter<lb/>
+Discussionen af hver enkelt Paragraph, at Grunde og Modgrunde ville<lb/>
+ståe klart for ethvert Medlem. I Stænderforsamlingerne har det<lb/>
+undertiden endog været Tilfældet, at man har måttet udsætte Afstemningen til et andet Møde end det, hvori den endelige Discussion<lb/>
+blev tilendebragt. hvilket Enhver let vil skjønne at være urigtigt.<lb/>
+Følgen af den foreslåede successive Afstemning kan imidlertid blive,<lb/>
+som i § 15 antydet, at der kan fremkomme, som det dog antages,<lb/>
+mindre væsentlige Modsigelser ved de stedfundne Afstemninger, og der<lb/>
+er derfor bragt i Forslag et Middel til at fåe disse rettede. I Forbindelse dermed er det bestemt, at der i Henhold til de stedfundne Afstemninger skal udarbeides et revideret Lovudkast, som bliver at oplæse<lb/>
+for og vedtage af Forsamlingen. Der vil nemlig ikke her, som i de<lb/>
+rådgivende Forsamlinger, kunne være Tale om at afgive nogen motiveret Betænkning over Lovforslaget, men efter det Standpunkt, hvorpå Rigsforsamlingen er stillet, må i samme, som i andre besluttende Forsamlinger, Lovudkastet omredigeres i Henhold til de stedfundne Afstemninger og forelægges Forsamlingen til Antagelse som<lb/>
+det endelige Actstykke, der bliver at tilstille Regjeringen, hvilket således svarer til den sidste Læsning af Lovudkastet i det engelske Parlament.<lb/>
+</p>
+<p>
+<speaker>David:</speaker> Jeg skal blot tillade mig et Par ganske korte Bemærkninger ved dette Afsnit. Det forekommer mig, at der i § 14<lb/>
+måtte optages en Bestemmelse om, at der umiddelbart efter Forhandlingen af enhver Paragraph skrides til Afstemning ikke blot over<lb/>
+denne, men også i Forbindelse hermed over de til den fremsatte<lb/>
+Amendements, og at man fremdeles vil følge den Regel, som var den<lb/>
+gjældende i Provindsialstænderforsamlingerne, at disse skulle have<lb/>
+Prioritet fremfor eller sættes under Afstemning før selve den Paragraph,</p>
+</leftside>
+<rightside>
+<p>
+ hvortil de knytte sig. Den anden Bemærkning, som jeg skal<lb/>
+tillade mig at gjøre, er med Hensyn til § 15. Uden at gåe videre<lb/>
+ind på, hvad der kunde være at bemærke ved den Måde, hvorpå<lb/>
+man har troet at kunne rectisicere de mulige, om end uvæsentlige, Modsigelser, der ved de foretagne Afstemninger kunne være<lb/>
+komme ind i en Lovparagraph, skal jeg tillade mig at bemærke, at<lb/>
+dersom et sådant Forslag kan fremsættes af 15 Medlemmer,<lb/>
+hvilket er billigt, måtte der dog være angivet en Tid, inden<lb/>
+hvilken det må anmeldes for Præsidenten og for Forsamlingen,<lb/>
+at et sådant Forslag vil komme frem, da man ellers stod Fare<lb/>
+for, at der uden tilbørligt Varsel for Forsamlingen kunde komme<lb/>
+sådanne Forslag for Dagen, og i Henhold til disse finde sådanne Afstemninger Sted, som kunde omstyrte en foregående<lb/>
+Dags Beslutning. Vel er det foreslået, at der da skal udfordres en<lb/>
+Pluralitet af <sup>2</sup>/<sub>3</sub> af de tilstedeværende Medlemmer, men jeg vil tillade<lb/>
+mig at gjøre opmærksom på, at da Forsamlingen er fuldtallig, når<lb/>
+77 eller over Halvdelen af Rigsdagsmændene ere tilstede, så kan det<lb/>
+hænde, at 51 Stemmer ville være <sup>2</sup>/<sub>3</sub> eller udgjøre Majoriteten, og<lb/>
+det vil altså være tænkeligt, at de 51 Stemmer kunne gjøre en Forandring i en vedtagen Bestemmelse. Det er ikke rimeligt, at et<lb/>
+sådant Tilfælde vil indtræffe; men det forekommer mig, at man også skal søge at forebygge de Tilfælde, som man dog ikke kan nægte<lb/>
+ere mulige, især når disse ikke vilde være uden Betydning for Forsamlingens Værdighed, der neppe kan siges at være uanfægtet, når<lb/>
+en mindre Majoritet omstøder hvad en større i et tidligere Møde har<lb/>
+antaget.<lb/>
+</p>
+<p>
+<speaker>Ørsted:</speaker> Forinden jeg tillader mig nogle få Bemærkninger<lb/>
+ved nærværende Deel af Udkastet, skal jeg fremsætte nogle Yttringer<lb/>
+i Anledning af hvad der er fremført at den ærede Repræsentant for<lb/>
+Kjøbenhavns Amts 4de Distrikt (Krieger). Forsåvidt man gåer<lb/>
+ud fra den Forudsætning, at man ligeså let feile i Lovgivningen som
+ i andre Samfundsforhold, såvel ved at binde sig ved altfor<lb/>
+bestemte Regler, som ved at overlade Alt til Vilkårligheden, er jeg<lb/>
+vist aldeles enig med ham; kun er det ofte forbunden med store Vanskeligheder i så Henseende at træffe den rette Grændse, og det er een<lb/>
+af de største Vanskeligheder, såvel i Statsstyrelsen, som i Udøvelsen<lb/>
+af den lovgivende Magt. Jeg er forøvrigt aldeles enig i, at der bør<lb/>
+være en vis Elasticitet i de givne Bestemmelser og denne Sætning<lb/>
+finder også Anvendelse i et Regulativ som det nærværende; dog<lb/>
+må jeg bemærke, at der er en stor Forskjel på Forretningsgangen i<lb/>
+Afdelingerne og i Forsamlingen selv. Hvad angåer Afdelingerne,<lb/>
+så er enig i, at der må være så lidt Form og Bånd på Forretningsordenen som muligt, fordi det er disse Afdelingers Væsen, at<lb/>
+der skal finde en fri og ubunden Tankevexling Sted mellem de forskjellige<lb/>
+Medlemmer, som Tilfældet har samlet på denne Måde. Dette kan<lb/>
+heller ikke have nogen Betænkelighed ved sig, fordi disse Afdelinger<lb/>
+dog ikke tage nogen Beslutning med Hensyn til Sagen selv, men kun<lb/>
+med Hensyn til en Comitees Udnævnelse, og det er såmeget mere<lb/>
+betænkeligt at komme med Erindringer i denne Henseende, som vi<lb/>
+heller ikke have nogen Erfaring om den rette Benyttelse af en sådan<lb/>
+Indretning. Det er en Indretning, som er opstået i Frankrig, og<lb/>
+vi gjøre vistnok det sikkreste i at tage den således, som den er os<lb/>
+overantvordet, sålænge til Erfaringen viser os, at den trænger til<lb/>
+en eller anden Rettelse; men hvad der gjælder om Forretningsgangen<lb/>
+i Afdelingerne, det gjælder ikke således om Forhanlingerne i Forsamlingen selv. Disse ere af stor Betydning; der er i Forsamlingen<lb/>
+et stort Antal Medlemmer, som ere berettigede til at påsee, at Alt<lb/>
+</p>
+</rightside>
+</pb>

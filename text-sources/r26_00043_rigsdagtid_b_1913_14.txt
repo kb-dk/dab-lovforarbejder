@@ -1,0 +1,102 @@
+2885
+<pb n="43" />
+<h>
+<coll>2885</coll>
+<topmidle>Bilag til Bet. o. Lovf. om Rettens Pleje m. m.	</topmidle>
+<colr>2886</colr>
+</h>
+<p>
+Underbilag II.
+</p>
+<title>
+Sammenlignende Oversigt
+over
+Udgifterne til Dommeres og Politimestres Lønninger og Kontorhold.
+</title>
+<table>
+<tr>
+<td>
+Lønning:
+</td>
+<td>
+Nu.
+</td>
+<td>
+Det oprindelige<lb />
+Lovforslag.
+</td>
+<td>
+Folketingets<lb />
+Vedtagelse.
+</td>
+<td>
+Landstingets<lb />
+Ændringsforslag.
+</td>
+</tr>
+<tr>
+<td>
+Dommere		
+Politimestre
+</td>
+<td>
+713,500 Kr.
+</td>
+<td>
+533,500 Kr.<lb />
+338,000 —
+</td>
+<td>
+599,500 Kr.<lb />
+268,000 —
+</td>
+<td>
+620,500 Kr.<lb />
+299,600 —
+</td>
+</tr>
+<td>			
+Kontorhold:				
+</td>
+<td>
+Dommere
+Politimestre......
+</td>
+<td>
+700,000 —
+</td>
+<td>
+450,000 —<lb />
+370,000 —
+</td>
+<td>
+500,000 —<lb />
+300,000 —
+</td>
+<td>
+520,000 —<lb />
+325,000 —
+</td>
+<tr>
+<td>
+I alt...
+</td>
+<td>
+1,413,500 Kr.
+</td>
+<td>
+1,691,500 Kr.
+</td>
+<td>
+1,667,500 Kr.
+</td>
+<td>
+1,765,100 Kr.
+</td>
+</tr>
+</table>
+<p>
+Der er ligesom i Oversigten i Bemærkningerne til Forslaget til Lov om Udgif-<lb />
+terne i Strafferetsplejen regnet med, at der straks vil være at tillægge hver Dommer<lb />
+l ½ og hver Politimester 1 Lønningstillæg.
+</p>

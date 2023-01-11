@@ -1,0 +1,175 @@
+55
+<pb n="18" >
+<p rend="page">18</p>
+<h>
+<coll>55</coll>
+<colr>56</colr><lb />
+Bet. o. Lovf. om Rettens Pleje.<lb />
+</h>
+<leftside>
+<p>
+„Retsvidner   have   Krav   paa   samme
+</p>
+<p>
+Godtgørelse  som   i § 782 foreskrevet  for
+Vidner".
+</p>
+<p>
+<dtitle>Til § 738.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>121</nnumber>
+121)   I Linie 3 efter „der" indskydes:
+„for Vold eller for   nogen i den offentlige
+Mening vanærende Handling".
+</p>
+<p>
+<dtitle>Til § 761.</dtitle>
+</p>
+<p>
+Af Mindretallet ved § 219:
+</p>
+<p>
+<nnumber>122</nnumber>
+122)    I 2det Stykke udgaa Ordene ,.og
+Afstemninger".
+</p>
+<p>
+<dtitle>Til § 768.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>123</nnumber>
+123)    I Slutningen   af Stk. 1   ændres
+Ordene „om der er overgaaet det en Straffe-
+dom, uden at det senere har opnaaet Æres-
+oprejsning"   til:    ,,om    der    er   overgaaet
+Vidnet   en   Straffedom,   som   Vidnet   ikke
+har opnaaet Æresoprejsning for".
+</p>
+<p>
+<dtitle>Til § 775.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>124</nnumber>
+124)    Efter   ,,Forklaring   for Retten"
+indskydes: „og om,   at det maa være  for-
+beredt paa at bekræfte sin Forklaring med
+Ed eller paa anden højtidelig Maade".
+</p>
+<p>
+Underændringsforslag til forrige Nr.
+</p>
+<p>
+Af Mindretallet ved § 269:
+</p>
+<p>
+<nnumber>125</nnumber>
+125)  11ste Stykkes sidste linie ændres
+Ordene „med Ed ... Maade" til ,,med den i
+§ 778 nævnte Forsikring paa Ære og Sam-
+vittighed".
+</p>
+<p>
+<dtitle>Til § 776.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>126</nnumber>
+126)  Paragraffen nyttes hen efter § 780
+og affattes saaledes:
+</p>
+<p>
+„Naar ikke begge Parter frafalde det,
+skulle Vidneforklaringer bekræftes med Ed
+eller, — hvis et Vidne enten ikke hører til
+et Tros-Samfund, for hvilket der haves en
+lovbestemt Edsformular, eller erklærer, at
+det ifølge sin religiøse Opfattelse ikke kan af-
+lægge Ed, eller at det overhovedet ikke
+har nogen religiøs Tro, — med en For-
+sikring ,,paa Ære og Samvittighed", der
+træder i Eds Sted,
+</p>
+</leftside>
+<rightside>
+<p>
+Bekræftelsen sker efter Afhøringen og
+bør, naar Omstændighederne tale derfor,
+udsættes, indtil alle Vidner, hvis Forkla-
+ringer angaa et og samme Forhold, ere
+afhørte. For saa vidt Omstændighederne
+give Anledning hertil, bør Dommeren først
+paany minde Vidnerne om Bekræftelsens
+Betydning og om det Ansvar, som de paa-
+drage sig ved at bekræfte en falsk For-
+klaring. Forinden han modtager et Vid-
+nes Bekræftelse, bør han give Vidnet for-
+nøden Lejlighed til at berigtige sin For-
+klaring; hvor han dertil finder Anledning,
+kan han foreholde Vidnet, hvad der af
+andre Vidner er forklaret eller paa anden
+Maade er fremkommet i Modstrid med
+Vidnets Forklaring. Vidnets Bekræftelse
+gaar ud paa. at det forsikrer, at det har
+talt Sandhed og intet fortiet."
+</p>
+<p>
+Underændringsforslag til forrige Nr.
+Af Mindretallet ved § 269:
+</p>
+<p>
+<nnumber>127</nnumber>
+127)  Paragraffens 1ste Stykke affattes
+saaledes:
+</p>
+<p>
+„Vidneforklaringer blive som Regel at
+bekræfte med en Forsikring paa Ære og
+Samvittighed".
+</p>
+<p>
+<dtitle>Til § 777.</dtitle>
+</p>
+<p>
+Af Mindretallet ved § 269:
+</p>
+<p>
+<nnumber>128</nnumber>
+128)    I 1ste Stykkes 1ste—2den Linie
+rettes „beedige" til „bekræfte".
+</p>
+<p>
+I 2det Stykke udgaa Ordene „tages
+i Ed eller".
+</p>
+<p>
+Af Udvalget:
+</p>
+<p>
+<nnumber>129</nnumber>
+129)    I Linie 3   indskydes efter „for-
+handling" Ordene  ,, , uden at Vidnet  paa
+ny afhøres", og  i samme Linie   indskydes
+„ellers" efter „Grunde".
+</p>
+<p>
+Af Udvalget:
+</p>
+<p>
+<nnumber>130</nnumber>
+130)    Ordene fra „Retten" i 3die Linie
+til „og" i 5te Linie udgaa.
+</p>
+<p>
+Af Udvalget:
+</p>
+<p>
+<nnumber>131</nnumber>
+131)  Paragraffen flyttes hen efter foran-
+staaende Paragraf.
+</p>
+</rightside>
+</pb>

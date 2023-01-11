@@ -1,0 +1,98 @@
+2311
+<pb n="27" />
+<h>
+<coll>2311</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2312</colr>
+</h>
+<leftside>
+<wtitle>Til § 456.</wtitle>
+<p>Af Justitsministeren, tiltraadt af U cl-<lb />
+valget undtagen Nanke:</p>
+<p>	Ordene i Linie 1: „Det skal . .</p>
+<p>	hidtil" ændres til: „Sysselmandens 
+Hjælp<lb />
+skal kunne fordres i de samme Tilfælde, i</p>
+<p>	hvilke det hidtil har staaet 
+vedkommende",</p>
+<p>	— og Ordene i Linie 4: „Ogsaa . . . 
+hid</p>
+<p>	til"' ændres til: „Ogsaa skal 
+Sysselman-</p>
+<p>	dens Hjælp, ligesom hidtil 
+Fogdens".</p>
+<p>	I 2det Stykke ændres „Fogden"<lb />
+til „Sysselmanden".</p>
+<wtitle>Til § 457.</wtitle>
+<p>	Paragraffen affattes saaledes:</p>
+<p>„Overensstemmende med de nærmere</p>
+<p>Regler i Kap. m. gøres Indsigelser mod<lb />
+den af Sysselmanden benyttede Fremgangs-<lb />
+maade, mod Forretningens Foretagelse uden<lb />
+sædvanligt Eksekutionsgrundlag og mod<lb />
+selve den af Rekvirenten paastaaede Ret<lb />
+gældende henholdsvis ved Besværing til<lb />
+højere Øvrighed, Besværing til Retten og<lb />
+Søgsmaal i første Instans."</p>
+<wtitle>Til § 458.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>	Paragraffen udgaar.</p>
+<wtitle>Til § 462.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>	„Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 463.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>	I Stk. 2, L. 3—4 ændres: „at<lb />
+Tinglæsning af Arrestdekretet har fundet<lb />
+Sted ved Skyldnerens personlige Værne-<lb />
+ting eller, hvis Arresten er gjort i fast<lb />
+Ejendom, ved dennes Værneting" til: „at<lb />
+Tinglysning af Arrestdekretet har fundet<lb />
+Sted i det Syssel, hvori Skyldneren bor<lb />
+eller i Mangel af Bopæl opholder sig,<lb />
+eller, hvis Arresten er gjort i fast Ejen-<lb />
+dom, i det Syssel, hvori Ejendommen<lb />
+ligger".</p>
+</leftside>
+<rightside>
+<wtitle>Til § 464.</wtitle>
+<p>Af Justitsministeren, tiltraadt af U d-<lb />
+valget undtagen Nanke:</p>
+<p>443) „Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 465.</wtitle>
+<p>444) „Fogden" ændres til „Syssel-<lb />
+manden". (2 Steder).</p>
+<wtitle>Til § 469.</wtitle>
+<p>Af Udvalget:</p>
+<p>445)	Ordet „ikke" udgaar.</p>
+<wtitle>Til § 470.</wtitle>
+<p>Af Udvalget:</p>
+<p>446)	I Stk. 1 ændres „Underhold-<lb />
+ningspenge" til „Underlioldspenge".</p>
+<p>I næstsidste Linie efter „dettes Ren-<lb />
+holdelse" indsættes „Belysning og Op-<lb />
+varmning".</p>
+<p>Sidste Punktum udgaar, og Stk. 2 af-<lb />
+fattes saaledes:</p>
+<p>„Underholdspengene fastsættes til 8<lb />
+Kr. om Ugen, Varetægtspengene til 2 Kr.<lb />
+om Ugen."</p>
+<wtitle>Til § 472.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>447)	L. 1 ændres til: „Ved Arrest-<lb />
+forretningers Foretagelse benyttes Vidner."</p>
+<wtitle>Til § 473.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>448)	„Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 474.</wtitle>
+<p>449)	„Fogden" ændres til „Syssel-</p>
+<p>450)	manden". (4 Steder).</p>
+<wtitle>Til § 477.</wtitle>
+<p>450) „Fogden" ændres til „Syssel-</p>
+<p>manden".</p>
+</rightside>

@@ -1,0 +1,75 @@
+2669
+<pb n="15" />
+<h>
+<coll>
+2669
+</coll>
+<topmidle>
+F. t. L.  Rettens Pleje.
+</topmidle>
+<colr>
+2670
+</colr>
+</h>
+<p>
+yrets Vedkommende Rettens Formand, Sagen ved Kendelse. Mod denne Kendelse kan<lb />
+rejses Kæremaal. Hvor Retsskriverforretningerne paahviler Dommeren, afgøres deslige<lb />
+Klager ved Kære. Kærefristen er i sidstnævnte Tilfælde 6 Maaneder.
+</p>
+<p>
+Med Hensyn til Retsskriveres og Pante- og Brevskriverens Ansvar til Straf og<lb />
+Erstatning for Overtrædelse af deres Embedspligter finder Reglerne i § 47, jfr. § 48,<lb />
+2det Stykke, tilsvarende Anvendelse.
+</p>
+<wtitle>§ 55.</wtitle>
+<p>
+Til Retsmøder, der i Straffesager afholdes af en Ret, som beklædes af Enkelt-<lb />
+dommer, skal, saafremt ingen særlig Retsskriver er til Stede, en Stævningsmand i eller<lb />
+udenfor Retskredsen eller i Mangel af en saadan en fuldmyndig, uberygtet Mand i<lb />
+selvstændig Stilling af Dommeren tilkaldes som Retsvidne. Kan en saadan ikke straks<lb />
+komme til Stede, bliver Retshandlingen at udsætte, medmindre dens Øjemed derved vilde<lb />
+staa i Fare for at forspildes. Tilkaldelse af Retsvidne kan fremdeles undlades, naar<lb />
+der er beskikket en Forsvarer for Sigtede, eller denne selv har antaget en saadan, med-<lb />
+mindre den valgte Forsvarer ifølge § 821 Nr. 3 er udelukket fra Retsmødet, eller dette<lb />
+holdes for lukkede Døre, og Tilkaldelsen forlanges enten af Sigtede eller Forsvareren.<lb />
+I sidstnævnte Tilfælde skal der, naar Ønske derom fremsættes, og Omstændighederne<lb />
+tillader det, tilkaldes en anden end en Stævningsmand.
+</p>
+<p>
+Dommeren sørger saa vidt muligt for, at Tilkaldelsen af andre end Stævnings-<lb />
+mændene sker efter Omgang; kun i Nødsfald kan en Person tilkaldes til at fungere<lb />
+flere Dage efter hinanden. Hvor Forholdene tillader det, bør der gives ham et passende<lb />
+Varsel. Udebliver et tilkaldt Retsvidne uden lovligt Forfald eller uden betimelig An-<lb />
+meldelse herom, kan det straffes med en Bøde af indtil 20 Kr. Dommeren kan paalægge<lb />
+Retsvidnerne at iagttage Tavshed om, hvad de ved Retshandlingen erfarer om Under-<lb />
+søgelsens Genstand; Overtrædelse af et saadant Paalæg straffes med Bøder indtil 100 Kr.
+</p>
+<p>
+Retsvidner har Krav paa samme Godtgørelse som i § 192 foreskrevet for Vidner.<lb />
+Den Retten i § 192, 3die Punktum, givne Beføjelse til at tilstaa et Vidne passende<lb />
+højere Godtgørelse end den almindelige skal uden Hensyn til, om den der nævnte<lb />
+Betingelse er til Stede, kunne anvendes ved tilkaldte Retsvidner, naar det skønnes, at<lb />
+Tilkaldelsen har medført større Tab eller uforholdsmæssigt Besvær eller Ulempe for<lb />
+den tilkaldte.
+</p>
+<wtitle>§ 56.</wtitle>
+<p>
+Ved Højesteret, Landsretterne, Sø- og Handelsretten i København og Køben-<lb />
+havns Byret ansætter Rettens Formand det fastsatte Antal Retsbude.
+</p>
+<wtitle>§ 57.</wtitle>
+<p>
+I hver af de i § 12 ommeldte Retskredse ansættes det fornødne Antal Stæv-<lb />
+ningsmænd.
+</p>
+<p>
+De ved Landsretterne og Underretterne ansatte Retsbude kan benyttes som<lb />
+Stævningsmænd for vedkommende Rets Omraade i det Omfang og paa den Maade.<lb />
+som vedkommende Formand eller Underretsdommer nærmere bestemmer. De Stæv-<lb />
+ningsmænd, som yderligere efter Justitsministerens Bestemmelse behøves, beskikkes<lb />
+af vedkommende Formand eller Underretsdommer. Fortegnelse over Retskredsens<lb />
+Stævningsmænd opslaas paa Tingstederne samt henholdsvis i Landsretternes og Kø-<lb />
+benhavns Byrets Lokaler og bekendtgøres tillige aarlig og oftere, naar Forandring<lb />
+sker, i Statstidenden. Ved Sø- og Handelsretten i København finder de om Stævnings-<lb />
+mænd ved Landsretterne givne Regler tilsvarende Anvendelse.
+</p>

@@ -1,0 +1,76 @@
+298
+<pb n="304" />
+<leftside>
+<p>principets Følgesætninger, som det er, at gjøre<lb />
+en Domstol til Anklager, altså Part. Det<lb />
+er derfor også ejendommeligt, at hele dette<lb />
+Hensyn, Frygten for, at grundede Anklager ikke<lb />
+skulde komme frem, hvilket ved den franske<lb />
+Ordning i code d’instr. crim. fra først af<lb />
+spillede en vigtig Rolle, nu sjælden gjøres<lb />
+gjældende til Forsvar for den franske Rets og<lb />
+de efter dens Forbillede dannede Loves Regel,<lb />
+medens det dog er indlysende, at Betryggelsen for den Sigtede mod ugrundede Anklager<lb />
+ikke kan føre til en Ordning, der hjemler Anklagedomstolen Ret til at rejse Anklage mod<lb />
+Statsanklagerens Andragende, eller gjør en<lb />
+judiciel Anklagekjendelse til det formelle Grundlag for Hovedforhandlingen. Forsåvidt en<lb />
+sådan Regel hævdes som Konsekventsen af<lb />
+den Grundsætning, at kun Initiativet tilkommer Statsanklageren, men at denne<lb />
+ikke kan frafalde den engang begyndte<lb />
+forfølgning, viser Følgesætningen netop det<lb />
+Urigtige i denne Regel, jfr. hvad der tidligere<lb />
+er bemærket herom ved Udkastets § 32. Det<lb />
+Abnorme i hin Ordning vil fra et principielt<lb />
+Standpunkt selvfølgelig træde stærkest frem,<lb />
+når det er selve den Domstol, der skal dømme,<lb />
+som afsiger Anklagekjendelsen, og herved forklares Trangen til at konstituere en særlig Anklageret. Men når denne da hyppigt dannes<lb />
+af en overordnet Domstol, fremtræde de praktiske<lb />
+Vanskeligheder, idet dette dels kræver en mere<lb />
+kompliceret Retsorganisation, end Udkastet går<lb />
+ud fra, dels medfører betænkelige Følger for<lb />
+den dømmende Rets Frihed i Afgjørelsen. I<lb />
+Henhold til disse Betragtninger har Udkastet i<lb />
+Lighed med den skotske Proces og i væsentlig Overensstemmelse med den nye østrigske<lb />
+Lov fastholdt den Regel, at det er den asfentlige Anklagemyndigheds Ret og Ansvar at<lb />
+tage Beslutning om, hvorvidt Anklage skal<lb />
+rejses, hvad enten Forundersøgelse har fundet<lb />
+Sted eller ikke, så at en Anklage aldrig kan<lb />
+påtvinges denne af en Domstol, og fremdeles,<lb />
+at det er den af Anklageren formulerede Anklage, der er Grundlaget for Hovedforhandlingen<lb />
+Således er jo også Ordningen i den<lb />
+Rest af Anklageform, som vor nugjældende<lb />
+Proces har bevaret.</p>
+<p>Hvad dernæst det Spørgsmål angår, om</p>
+</leftside>
+<rightside>
+<p>enhver Anklage   skal   gjøre   Hovedforhandling nødvendig, må det for det første erkjendes, at<lb />
+det   vil   kunne stille sig således,   at dels Afvisningsgrunde   dels    visse   Frifindelsesgrunde<lb />
+kunne   fremgå    således af Sagens skriftlige<lb />
+Grundlag (Anklagen   med Efterforsknings-   og<lb />
+Forundersøgelsesakter),    at det i og for sig er<lb />
+overflødigt   at   lade   det komme til Hovedforhandling.    At undgå denne vil da være højst<lb />
+ønskeligt ikke blot for den Sigtedes Skyld, men<lb />
+også for at spare den i så Fald unyttige Udgift<lb />
+og Besvær, som en mundtlig Hovedforhandling<lb />
+med hele det til Bevisførelsen sigtende Apparat vil forårsage.    Der kan derfor neppe være<lb />
+Tvivl om, at det må ansees for en Opgave<lb />
+såvidt mulig at skaffe de Anklager ud af Verden for Hovedforhandlingen, der under denne<lb />
+vilde blive ramte enten af formelle Afvisningsgrunde eller af Frifindelsesgrunde, som uden Hensyn til en Hovedforhandlings Resultater ere klare<lb />
+efter det Foreliggende.   Dette Sidste kan naturligvis kun være Tilfældet med ganske enkelte<lb />
+Frifindelse bevirkende Retsgrunde,   nemlig    at<lb />
+Anklageren ikke er påtaleberettiget, at Handlinger af den Art, Anklagen angår,   ikke ere<lb />
+Gjenstand for Straf,    altså selv under Forudsætning af Rigtigheden  af alle   de Kjendsgjerninger, Anklagen angiver, samt efter Omstændighederne Forældelse   af Strafskyld   eller<lb />
+lignende   en oprindelig   Strafskyld   ophævende<lb />
+Omstændigheder.    En judiciel prøvelse, eventuelt Tilbagevisning af Anklagen af sådanne<lb />
+Grunde, forekommer,   som   ovenfor bemærket,<lb />
+selv  i den skotske Proces.</p>
+<p>Tvivlsommere er det derimod, og det er<lb />
+hovedsagelig herom, at Striden for Tiden drejer<lb />
+sig, om en judiciel Prøvelse af Anklagen også med Hensyn til Beviset bør være Betingelse<lb />
+for, at Anklageren kan nå til Hovedforhandling. En sådan prøvelse må nødvendigvis<lb />
+finde Sted på Grundlag af de forelagte<lb />
+skriftlige, under Efterforskningen og Forundersøgelsen fremkomne Aktstykker. Thi skulde<lb />
+Beviserne føres frem efter Umiddelbarhedsprincipets Fordringer, som det undertiden gjøres<lb />
+gjældende, vilde selve Hovedforhandlingen i de<lb />
+allerfleste Tilsælde blive en overflødig og urimelig Gjentagelse, medens det er en Uretfærdighed som i England  kun   at   høre Anklagebe-</p>
+</rightside>

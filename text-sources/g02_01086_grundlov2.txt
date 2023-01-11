@@ -1,0 +1,145 @@
+3645
+<pb n="1086" >
+<p rend="page">1086</p>
+<h>
+<coll>3645</coll>
+<colr>3646</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 460.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede og Otte og Tyvende (132te) Møde<lb />
+(Grundlovens tr?a?die Læsning.)<lb />
+</stitle>
+<p>
+<law n="1086" >§ 96.<lb /></law>
+Communernes Ret til, under Statens Tilsyn, selvstændig at<lb />
+styre deres Anliggender vil blive ordnet ved Lov.<lb />
+<law n="1086" >§ 97.<lb /></law>
+Enhver i Lovgivningen til Adel, Titel og Rang knyttet Forret<lb />
+er affkaffet<lb />
+<law n="1086" >§ 98.<lb /></law>
+Intet Lehn, Stamhuus eller Fideicommisgods kan for Fremtiden<lb />
+oprettes; det skal ved lov nærmere ordnes, hvorledes de nu bestaaende kunne overgaae til fri Eiendom.<lb />
+<law n="1086" >§ 99.<lb /></law>
+For Krigsmagten ere de i §§ 85, 92 og 93 givne Bestemmelser<lb />
+kun anvendelige med de Indskrænkninger, der følge af de militære<lb />
+Loves Forskrifter.<lb />
+</p>
+<title>
+IX<lb />
+</title>
+<p>
+<law n="1086" >§ 100.<lb /></law>
+Forslag til Forandring i, eller Tillæg til, nærværende Grundlov fremsættes paa en ordentlig Rigsdag. Vedtages den derom fattede Beslutning i uforandret Skikkelse af næste ordentlige Rigsdag<lb />
+og bifaldes den af Kongen, opløses begge Thingene, og almindelige<lb />
+Valg foregaae baade til Folkethinget og til Landsthinget. Vedtages<lb />
+Beslutningen 3die Gang af den nye Rigsdag paa en ordentlig eller<lb />
+overordentlig Samling, og stadfæstes den af Kongen, er den Grundlov.<lb />
+</p>
+<btitle>
+Midlertidige Bestemmelser.<lb />
+</btitle>
+<p>
+1.<lb />
+Ligesom Reglen i § 16, at Civillisten bestemmes ved Lov, ingen<lb />
+Anvendelse har for den nuregjerende Konge, saaledes vil ikke heller<lb />
+den i § 17 givne Forskrift være til Hinder for, at Apanager nydes<lb />
+udenfor Riget, forsaavidt saadant hjemles ved alt bestaaende Contracter.<lb />
+</p>
+<p>
+2.<lb />
+Indtil den i § 22 bebudede Pensionslov udkommer, vil enhver<lb />
+Embedsmand, der efter samme Paragraphs Bestemmelse bliver afskediget, erholde Pension efter de hidtil fulgte Regler.<lb />
+</p>
+<p>
+3.<lb />
+Den i § 78 indeholdte Bestemmelse, at Dommere ikke kunne<lb />
+afsættes uden ved Dom eiheller forflyttes mod deres Ønske, skal ikke<lb />
+være anvendelig paa de nærværende Dommere, som tillige have<lb />
+administrative Forretninger.<lb />
+</p>
+<p>
+4.<lb />
+Indtil en Omordning af den criminelle Proces er iværksat, vil<lb />
+den i § 85 omhandlede Indankning af en Fængslingskjendelse skee<lb />
+som af en privat Sag, dog med Extraretsvarsel, ligesom den Klagende er fritagen for Brugen af stemplet Papiir og Erlæggelse af<lb />
+Retsgebyrer. Der bør gives ham Adgang til i Anledning af saadan<lb />
+Paanke at raadføre sig med en Sagfører, og nye Oplysninger<lb />
+kunne fremlægges for Overretten.<lb />
+</p>
+</leftside>
+<rightside>
+
+<p>
+<speaker>Formanden:</speaker> Der er forlangt Afstemning ved Navneopraab<lb />
+af følgende Rigsdagsmænd:<lb />
+</p>
+<px>
+Dinsen.	Barfod.<lb />
+H. Christensen.	Winther.<lb />
+R. Møller.	F. Jespersen.<lb />
+M. Rasmussen.	Gram.<lb />
+J. A. Hansen.	Jungersen.<lb />
+Gregersen.	Black.<lb />
+L. Hansen.	Andresen.<lb />
+Schroll.<lb />
+</px>
+<p>
+Man skred derefter til Afstemning der gav nedenstaaende Resultat:<lb />
+</p>
+<px>
+Ja.<lb />
+G. Aagaard.	N. Hansen.<lb />
+U. Aagaard.	P. Hansen.<lb />
+Andresen.	Hasselbalch.<lb />
+Andræ.	Hastrup.<lb />
+Bagger.	Hermannsen.<lb />
+Barfod.	Hiort.<lb />
+Bergmann.	Holck.<lb />
+Bjerring.	Hunderup.<lb />
+Black.	Hvidt.<lb />
+Bluhme.	Hækkerup.<lb />
+Brandt.	Høier.<lb />
+Bregendahl.	Jacobsen.<lb />
+H. B. Bruun.	Jacobæus.<lb />
+P. D. Bruun.	Fr. Jespersen.<lb />
+Boisen.	N. F. Jespersen.<lb />
+Cederfeld de Simonsen.	H. C. Johansen.<lb />
+Balthazar Christensen.	F. Johannsen.<lb />
+G. Christensen.	H. Johansen<lb />
+H. Christensen	Johnsen.<lb />
+J. Christensen.	Sehestedt-Juel.<lb />
+Colding.	Jungersen.<lb />
+la Cour.	Jørgensen.<lb />
+Dahl.	Kayser.<lb />
+Dahlerup.	Kirk.<lb />
+Dinsen.	Knuth.<lb />
+J. C. Drewsen.	Krieger.<lb />
+M. Drewsen.	Køster.<lb />
+Duntzfelt.	Chr. Larsen.<lb />
+Flor.	J. E. Larsen.<lb />
+Frølund.	Leth.<lb />
+Funder.	Linnemann.<lb />
+Gleerup.	Lorck.<lb />
+Gram.	Lützhöft.<lb />
+Gregersen.	Madsen.<lb />
+Gudmundsson.	Marckmann.<lb />
+Hage.	Mundt.<lb />
+Hall.	Paludan-Müller.<lb />
+Hammerich.	C. C. Møller.<lb />
+H. P. Hansen.	R. N. Møller.<lb />
+J. A. Hansen	H. C. Nielsen<lb />
+L. Hansen.	N. H. Nielsen.<lb />
+Mørk Hansen.	Nyholm.<lb />
+ 
+</px>
+</rightside>
+
+
+</pb>

@@ -1,0 +1,159 @@
+3403
+<pb n="965" >
+<p rend="page">965</p>
+<h>
+<coll>3403</coll>
+<colr>3404</colr><lb />
+
+Den endelige Behandling af Grundlovsudkastet. § 86.<lb />
+</h>
+<leftside>
+<p>
+gens Beslutning i denne Henseende, naar det Hele tages under Overveielse, end om man nu skulde stemme over dem enkeltviis. Imidlertid<lb />
+kommer det ganske an paa de ærede Forslagsstillere, om de ville indvillige heri.<lb />
+</p>
+<p>
+<speaker>Barfod:</speaker> Da jeg er den, der har taget mig den Frihed at<lb />
+stille de sleste af de her omhandlede Ændringsforslag, skal jeg tillade<lb />
+mig at yttre, at jeg aldeles retter mig efter Formandens Mening<lb />
+og maa finde den af ham foreslaaebe Fremgangsmaade aldeles i sin<lb />
+Orden.<lb />
+</p>
+<p>
+<speaker>Schiern:</speaker> Jeg har af de nu under Omtale værende Forslag<lb />
+stillet det, der gaaer ud paa, at Benævnelsen „Landsthing" kunde foranbres til „Danething". Jeg stillede dette Forslag, da jeg endnu<lb />
+nærede noget Haab om, at det vedkommende Thing vilde blive tilsikkret en anden Repræsentation, end jeg senere har kunnet finde opnaaet<lb />
+ved den nu vedtagne Valgbarhedscensus. Nu kan jeg for mit Vedkommende ikke have Noget imod, at Forslaget bortfalder.<lb />
+</p>
+<p>
+<speaker>Hammerich:</speaker> Jeg har tilladt mig at foreslaae Ombyttelsen af<lb />
+Benædnelsen „Ministre" med „Statsraader" i Lighed med Udkastets<lb />
+„Statsraad". Jeg skal herved blot bemærke, at jeg ingenlunde<lb />
+har foreslaaet Benævnelsen „Statsraadsformand", og jeg troer ikke<lb />
+heller, at dette er foreslaaet af nogen Anden.<lb />
+</p>
+<p>
+<speaker>Barfod:</speaker> Jo, jeg har tilladt mig at foreslaae dette.<lb />
+</p>
+<p>
+<speaker>Hammerich:</speaker> For mit Vedkommende skal jeg ganske henstille<lb />
+til den hoitærede Formand, hvorledes han mener, at denne Sag bedst<lb />
+fremmes.<lb />
+</p>
+<p>
+<speaker>Formanden:</speaker> Dersom ingen Flere ville yttre sig, kunne vi<lb />
+maaskee altsaa ansee det afgjorte, at disse Ændringsforslag henvises<lb />
+til det ærede Udvalg, og de ville saaledes komme for ved den 3die<lb />
+Læsning af Grundloven.<lb />
+</p>
+<p>
+<speaker>Paludan-Műller:</speaker> Jeg vilde gjerne spørge den høitærede<lb />
+Formand, om det ikke var mig tilladt at gjøre en Bemærkning, dog<lb />
+ingenlunde om Slutningsindstillingen, men blot i Anledning af Kongelovens Ophævelse. Den vedrører saaledes Grundloven i det hele<lb />
+taget og ikke nogen enkelt Deel af samme.<lb />
+</p>
+<p>
+<speaker>Formanden:</speaker> Ja det er vanskeligt for mig at afgjøre, da jeg<lb />
+ikke veeb, hvorpaa den ærede Rigsdagsmands Bemærkninger egentligen<lb />
+skulle gaae ud; men det forekommer mig, at man ikke nu kan gaae<lb />
+tilbage til hvad der alleredeee er afgjorte. Forsaavidt jeg forstod den<lb />
+ærede Taler ret, var det en Bemærkning om de Forandringer, der<lb />
+skulde foretages i Kongeloven, og om en Erklæring fra hans Majestæt angaaende denne, han vilde gjøre, men dette er alleredeee<lb />
+afgjorte.<lb />
+</p>
+<p>
+<speaker>Paludan-Müller:</speaker> Nei, det er heller slet ikke med hensyn<lb />
+til dette Punkt, men det er blot en Bemærkning om Kongeloven i<lb />
+det hele, som jeg ønsker at fremsætte.<lb />
+</p>
+<p>
+<speaker>Formanden:</speaker> I saa Fald maa den ærede Rigsdagsmand<lb />
+komme frem med et bestemt Andragende i denne Retning.<lb />
+</p>
+<p>
+<speaker>Ørsted:</speaker> Jeg kunde ogsaa have Adskilligt at erindre, som vedkommer Sagen, men da Adgangen til Discussionen er asskaaren,<lb />
+kan jeg naturligviis ikke komme frem med det nu.<lb />
+</p>
+<p>
+<speaker>Formanden:</speaker> Jeg veed ikke, hvad den ærede Rigsdagsmand<lb />
+har at bemærke. Den anden ærede Rigsdagsmand yttrede, at hvad<lb />
+han havde at bemærke, vedkom ikke Grundloven.<lb />
+</p>
+<p>
+<speaker>Ørsted:</speaker> Mine Erindringer skulde kun angaae Forslaget under<lb />
+Nr. 157; men jeg bemærkede blot dette, da det ikke har været mig<lb />
+tilladt at tale.<lb />
+</p>
+<p>
+<speaker>Formanden:</speaker> Det er et Tilfældee, som den ærede Rigsdagsmand deler med Alle, som kunde have ønsket at tale.<lb />
+
+</p>
+</leftside>
+<rightside>
+<p>
+Man gik derefter over til den foreløbige Behandling af Valglovssagen.<lb />
+E</p>
+<p>
+fter Formandens Forslag behandlede man Valglovssagen afsnitsviis, saaledes at Udkastets 8 første Paragrapher først kom under<lb />
+Forhandling.<lb />
+</p>
+<p>
+Hertil indeholdt den i Forsamlingen omdelte Oversigt Følgende:<lb />
+</p>
+<btitle>
+Udkastet.<lb />
+Valgret.<lb />
+</btitle>
+<p>
+<law n="1" >§ 1.<lb /></law>
+Valgret saavel til Folkethinget som til Landsthinget<lb />
+tilkommer enhver uberygtet Mand, som har Indfødsret, saasnart han<lb />
+har fyldt sit tredivte Aar.<lb />
+<law n="2" >§ 2.<lb /></law>
+Indtil en ny lov om Indfødsretten nærmere fastsætter dennes<lb />
+Betingelser, skulle de Udlædinge, som i ti Aar have opholdt sig i<lb />
+de til den danske Stat henhørende Landsdele, og som staae i personlig undersaatligt Forhold til Kongen af Danmark, nyde samme Ret<lb />
+som de, der overeensstemmende med Fdgn. af 15de Januar 1776 have<lb />
+dansk Indfødsret.<lb />
+<law n="3" >§ 3.<lb /></law>
+Ingen kan ansees som Uberygtet, som ved Dom er funden<lb />
+skyldig i en i den offentlige Mening vanærende Handling eller som<lb />
+vitterligen er hengiven til saadanne Lafter eller beviisligen har udviist et saadant Forhold, som maa stemle ham som<lb />
+uværdig til enhver ærekjær Mands Agtelse.<lb />
+<law n="4" >§ 4.<lb /></law>
+Ingen, som staaer i privat Tjenesteforhold, kan saalænge<lb />
+han forbliver i denne Stilling ubøve sin Valgret, melmindre han har sin egen Huusstand.<lb />
+<law n="5" >§ 5.<lb /></law>
+Ingen kan udøve Valgret, som nyder Understøttelse af det almindelige Fattigvæsen eller som efter det fyldte attende Aar<lb />
+har modtaget nogen saadan hjælp, medmindre den enten er tilbagebetalt, eller Fattigvæsenet udtrykkeligen har eftergivet sit<lb />
+derpaa byggede Krav.<lb />
+<law n="6" >§ 6.<lb /></law>
+Saa kan Valgret ei heller udøves af den, som er ude af Raavigheden over sit Bo.<lb />
+<law n="7" >§ 7.<lb /></law>
+Endeligen kan kun den udøve sin Valgret, som i et Aar har<lb />
+havt fast Bopæl i det Valgdistrict eller i den Commune, hvori han<lb />
+opholderr sig paa den Tid, Valget foregaaer. Den, som har fast<lb />
+Bopæl paa flere Steder, kan saaledes selv bestemme, paa hvilket<lb />
+af disse han vil gjøre sin Valgret gjæl?a?ende.<lb />
+<law n="8" >§ 8.<lb /></law>
+Ethvert Spørgsmaal om Valgberettigelse afgjøres foreløbigen<lb />
+af Communalbestyrelsen paa det Sted, hvorpaa Vedkommende boer.<lb />
+Dog kan den, hvem samme har frakjendt Valgret, fordre Spørgsmaalet afgjorte ved Lov og Dom.<lb />
+Comiteens Indstilling.<lb />
+<law n="1" >§ 1.<lb /></law>
+Valgret til Folkethinget tilkommer, med de i de følgende<lb />
+Paragrapher indeholdte Indskrænkninger, enhver uberygtet Mand, som har Indfødsret, naar han har fyldt sit tredivte Aar.<lb />
+<law n="2" >§ 2.<lb /></law>
+(Udgaaer.)<lb />
+</p>
+<morenext>
+(Fortsættes.)<lb />
+</morenext>
+</rightside>
+<underpage>
+Trykt og forlagt af Kgl. Hofbogtrykker Bianco Luno.<lb />
+</underpage>
+
+
+
+</pb>

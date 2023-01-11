@@ -1,0 +1,132 @@
+765
+<pb n="14" />
+<h>
+<coll>
+765
+</coll>
+<topmidle>
+Bet. o. Lovf. om Rettens Pleje m. m.</topmidle>
+<colr>
+766
+</colr>
+</h>
+<p>
+13. Dommeren i Præstø Købstad m. m.<lb />
+</p>
+<p>
+14. — i Vordingborg Købstad m. m.<lb />
+</p>
+<p>
+15. — i Stege Købstad m. m.<lb />
+</p>
+<title>
+Bornholm.
+</title>
+<p>
+16. Dommeren i Neksø Købstad m. m.<lb />
+</p>
+<title>
+Lolland-Falster.
+</title>
+<p>
+17.	Dommeren i Stubbekøbing Købstad m. m.<lb />
+</p>
+<p>
+18.	— i Sakskøbing Købstad m. m.<lb />
+</p>
+<title>
+Fyn.
+</title>
+<p>
+19.	Dommeren i Nyborg Købstad m. m.<lb />
+</p>
+<p>
+20.	— i Rudkøbing Købstad m. m.<lb />
+</p>
+<p>
+21.	— i Svendborg Købstad m. m.<lb />
+</p>
+<p>
+22.	— i Ærøskøbing Købstad m. rn.<lb />
+</p>
+<p>
+23.	— i Odense Købstad (Straffesager).<lb />
+</p>
+<p>
+24.	— i Odense Herred.<lb />
+</p>
+<p>
+25.	— i Kerteminde Købstad m. m.<lb />
+</p>
+<title>
+Jylland.
+</title>
+<p>
+26.	Dommeren i Bjerre Herred m. m.<lb />
+</p>
+<p>
+27.	—	i Voer og Nim Herreder m. m.<lb />
+</p>
+<p>
+28. —	i Tyrsting og Vrads Herreder.<lb />
+</p>
+<p>
+29. —	i Skanderborg Købstad m. m.<lb />
+</p>
+<p>
+30. -	i Hads Herred.<lb />
+</p>
+<p>
+31- —	i Frijsenborg-Faurskov Birk.<lb />
+</p>
+<p>
+32. —	i Grenaa Købstad m. m.<lb />
+</p>
+<p>
+33. —	i Æbeltoft Købstad m. m.<lb />
+</p>
+<p>
+34. —	i Rougsø Herred m. m.<lb />
+</p>
+<p>
+35. —	i Øster Lisbjerg Herred m. m.<lb />
+</p>
+<p>
+36. —	i Mariager Købstad m. m.<lb />
+</p>
+<p>
+37. —	i Hellum-Hindsted Herreder.<lb />
+</p>
+<p>
+38. —	i Løgstør Købstad m. m.<lb />
+</p>
+<p>
+39.	- i Nibe Købstad m. m.<lb />
+</p>
+<p>
+40. —	i Aalborg Birk m. m.<lb />
+</p>
+<p>
+42. —	i Øster og Vester Han Herreder.<lb />
+</p>
+<p>
+43.	i Hassing-Refs Herreder.<lb />
+</p>
+<p>
+44. —	i LysgaardHerred m. m.<lb />
+</p>
+<p>
+45. - i Lemvig Købstad m. m.<lb />
+</p>
+<p>
+46.	- i Ringkøbing Købstad m. m.<lb />
+</p>
+<p>
+47.	i Bølling-Nørre Herreder.<lb />
+</p>
+<p>
+48.	i Ribe Købstad m. m.<lb />
+</p>
+<p>
+i Gjørding-Malt Herreder.<lb />
+</p>

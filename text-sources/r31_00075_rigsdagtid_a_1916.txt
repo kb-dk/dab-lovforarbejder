@@ -1,0 +1,75 @@
+491
+<pb n="75" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>491</topmidle>
+<colr>
+15 de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<title>Kapitel 30.</title>
+<undertitle>
+Sagsomkostninger og Rettergangsbøder.
+</undertitle>
+<wtitle>§ 311.</wtitle>
+<p>
+Enhver Part har at betale de Omkostninger, som foranlediges ved processuelle<lb />
+Skridt, der af ham begæres eller sættes i Bevægelse, dog med Forbehold af Ret til at<lb />
+få dem erstattet af Modparten ifølge nedenstående Regler.
+</p>
+<p>
+Omkostningerne ved processuelle Skridt, som Retten anordner, kan foreløbig<lb />
+kræves betalte enten af den Part, i hvis Interesse Retten anser det foretagne at være,<lb />
+eller af begge Parter i det Forhold, som Retten bestemmer, se dog § 284, 2det Stykke.
+</p>
+<wtitle>§ 312.</wtitle>
+<p>
+Den tabende Part er pligtig at erstatte Modparten de ham ved Retssagen påførte Udgifter, for så vidt Parterne ikke selv har truffet en anden Overenskomst,<lb />
+eller Retten i særlige Omstændigheder finder skellig Grund til at gøre Afvigelse fra<lb />
+denne Regel.
+</p>
+<p>
+Udgifter, der ikke har været fornødne for Sagens forsvarlige Udførelse,<lb />
+erstattes ikke. Hvilke Udgifter der i det givne Tilfælde har været fornødne, afgør<lb />
+Retten efter sit Skøn. Beløbet ansættes under eet til en rund Sum, således at Udgift til Sagførersalær erstattes med et passende Beløb, og øvrige Udgifter så vidt<lb />
+muligt erstattes fuldt ud. Tilkendelse af Sagens Omkostninger skadesløst eller efter<lb />
+Regning eller overhovedet på anden Måde end med et bestemt, i Dommen fastsat<lb />
+Beløb kan således ikke finde Sted, selv om der derom foreligger Overenskomst<lb />
+mellem Parterne.
+</p>
+<p>
+Den Omstændighed, at enkelte Søgsmålsgrunde eller Indsigelser forkastes, eller<lb />
+enkelte Beviser anses ikke at oplyse noget i Sagen, medfører ikke i og for sig, at de<lb />
+herpå anvendte Udgifter skal som ikke fornødne udelukkes fra Erstatning.
+</p>
+<p>
+Når en Sag hæves, kan Retten efter Omstændighederne pålægge den ene<lb />
+Part helt eller delvis at erstatte Modparten dennes Sagsomkostninger eller bestemme,<lb />
+at hver af Parterne skal bære sine Omkostninger (ophæve Omkostningerne).
+</p>
+<p>
+Har Sagsøgte lovlig tilbudt Sagsøgeren, hvad der kan tilkomme denne, bør<lb />
+Sagsøgeren erstatte Sagsøgte Udgifterne ved den derefter følgende Del af Processen.
+</p>
+<wtitle>§ 313.</wtitle>
+<p>
+Når Sagen i det hele afvises, betragtes den med Hensyn til Sagsomkostninger som tabt af Sagsøgeren.
+</p>
+<wtitle>§ 314.</wtitle>
+<p>
+Procesfæller hæfter solidarisk for Sagsomkostninger. Dog kan Retten, når<lb />
+Omstændighederne taler derfor, pålægge en enkelt eller enkelte af dem at udrede<lb />
+visse Dele af Omkostningerne.
+</p>
+<wtitle>§ 315.</wtitle>
+<p>
+For så vidt en Sags Udfald er gjort afhængigt af den ene Parts Ed, bliver<lb />
+den også i Henseende til Sagsomkostningerne at betragte som vunden eller tabt af<lb />
+ham, efter som Eden aflægges eller ikke.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

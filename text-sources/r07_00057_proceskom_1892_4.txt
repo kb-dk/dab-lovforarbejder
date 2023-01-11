@@ -1,0 +1,60 @@
+3323
+<pb n="57" />
+<h>
+<coll>3323</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3324</colr>
+</h>
+<p>
+eller Skønsmænd afhøres af den Parf. der fremstiller dem, og modafhøres af Mod-<lb />
+parten; dog kan Dommeren altid overtage Afhørelsen, naar han finder Grund dertil.<lb />
+Oplæsning af Dokumenter kan kun finde Sted i et nærmere begrænset Omfang, og<lb />
+navnlig skulle Rapporter o. lign. saa godt som aldrig kunne oplæses, og Protokol-<lb />
+tilførsler i Reglen kun kunne oplæses, naar de gengive Forklaringer af Personer, som<lb />
+af særlige Grunde ikke ere til Stede under Domsforhandlingen, eller naar de paa-<lb />
+gældende nu forklare paa anden Maade end tidligere. Naar Bevisførelsen er sluttet,<lb />
+gives der paa ny Parterne Lejlighed til at udtale sig; Tiltalte har stedse det sidste<lb />
+Ord. Dommen afsiges snarest muligt. Er Tiltalte fængslet, skal han bringes til Stede<lb />
+ved dens Afsigelse. Ved Afgørelsen af, om noget er bevist eller ikke, tages alene<lb />
+Hensyn til de Beviser, som ere fremførte under Domsforhandlingen. Retten kan ikke<lb />
+domfælde for noget andet faktisk Forhold end det, som Tiltalen omtaler, men kan<lb />
+henføre det under en anden Straffebestemmelse end den, der er paastaaet anvendt,<lb />
+ligesom den kan afvige fra Tiltalen, for saa vidt angaar de med Forbrydelsen for-<lb />
+bundne Biomstændigheder, begge Dele dog kun, hvis Tiltalte ogsaa under denne For-<lb />
+udsætning har haft fyldestgørende Adgang til Forsvar.
+</p>
+<p>
+42. Tiltale og Domsforhandling i Straffesager ved Landsret. Om, hvilke<lb />
+de Landsretssager ere, hvori Nævninger skulle medvirke, se Nr. 2. Om de nærmere<lb />
+Regler for denne Nævningernes Medvirken se Nr. 5. I øvrigt gælder om alle Straffe-<lb />
+sager ved Landsret, hvad enten Nævninger skulle medvirke eller ej, følgende: Tiltale<lb />
+saavel som Forberedelsen af Domsforhandlingen og selve denne foregaar i det hele<lb />
+paa lignende Maade som ved Underret (se Nr. 41). Overanklageren indleverer til<lb />
+Retten Anklageskrift, Bevisfortegnelse og Udskrift af de retslige Undersøgelses-<lb />
+handlinger med Bilag. Genpart af Anklageskriftet forkyndes for Tiltalte og tilstilles<lb />
+tillige med Genpart af Bevisfortegnelsen og en Udskrift af nys nævnte Art Forsva-<lb />
+reren*). Sagens Dokumenter og andre synlige Bevismidler gøres saa vidt muligt til-<lb />
+gængelige for Tiltalte og Forsvareren. Paa Anklageskriftet angives det Ting (Samling<lb />
+og Tingsted), paa hvilket Domsforhandlingen ventes foretagen, samt om denne skal<lb />
+foregaa for Nævninger eller ikke; endvidere opgives paa dette en Frist, inden hvilken<lb />
+Tiltalte eller dennes Forsvarer maa fremsætte deres mulige Begæringer om Tilveje-<lb />
+bringelsen eller Fremførelsen af andre eller flere Beviser end paa Overanklagerens<lb />
+Fortegnelse anført, om Sagens Foretagelse paa et andet Ting, om dens Foretagelse<lb />
+henholdsvis med eller uden Nævninger o. lign. Modsætter Overanklageren sig noget<lb />
+af det saaledes begærte, forelægges Sagen Landsretten til Afgørelse. Naar Forbere-<lb />
+delsen er færdig, foregaar Sagens Berammelse derved, at Retsskriveren med Bistand<lb />
+af Overanklageren udarbejder en Retsliste over de Sager, der ville være rede til Be-<lb />
+handling paa det forestaaende Ting, hvilken Liste forelægges Formanden, der saavel<lb />
+straks som senere kan foretage Forandringer i samme. Overanklageren foranstalter<lb />
+derefter Tiltalte, Forsvarer, Vidner og Syns- og Skønsmænd indkaldte til den Dag,<lb />
+paa hvilken han antager, at Sagen tidligst vil komme for. Om eventuelle Udsættelser<lb />
+sendes øjeblikkelig Meddelelse til alle vedkommende. Om Rettens Adgang til forinden<lb />
+Domsforhandlingen ved Kendelse at afvise Sagen saavel som om Parternes Ret og<lb />
+Pligt til at være til Stede under denne gælder ganske det samme som ved Underret,
+</p>
+<note rend="foot">
+<p>
+*) Man vil kunne gaa ud fra, at der i Landsretssager saa godt som altid vil blive beskikket Til-<lb />
+talte en Forsvarer, for saa vidt ban ikke selv har antaget en saadan.
+</p>
+</note>

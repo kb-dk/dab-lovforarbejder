@@ -1,0 +1,39 @@
+48
+<pb n="48" />
+<h>40                 Kapitel XI.    Vidner.</h>
+<p>nødvendigt   til   Sagens   tilbørlige   Oplysning.</p>
+<p>Er et Vidnes Helbredstilstand til Hinder<lb />
+for, at det moder på det sædvanlige Tingsted, kan Retten til dets Afhørelse sættes på sådant Sted, som Omstændighederne<lb />
+udkræve.</p>
+<wtitle>§ 103.</wtitle>
+<p>Militære af Hæren og Flåden ere Pligtige at aflægge Vidnesbyrd i Straffesager for<lb />
+de borgerlige Tomstole overensstemmende med<lb />
+reglerne i denne Lov.</p>
+<wtitle>§ 104.</wtitle>
+<p>Indkaldelse til at mode som Vidne udgår, hvor ikke andet er bestemt, fra den Ret,<lb />
+for hvilken Vidnesbyrdet stal aflægges.</p>
+<p>Foruden Vidnets Navn og hvad der<lb />
+iøvrigt hører til dets nærmere Betegnelse,<lb />
+Sagen og Indkaldelsens Øjemed, den Ret, for<lb />
+hvilken der stal vidnes, samt Stedet og Tiden<lb />
+for Modet stal der i Indkaldelsen nævnes det<lb />
+Varsel, som stal gives den Indkaldte, og gøres<lb />
+opmærksom på, at Udeblivelse medfører Strafansvar.</p>
+<p>Vidner ere, om fornødent, pligtige til,<lb />
+forinden de mode i Retten, at styrke eller<lb />
+opfriske deres Kundskab om Vidneførslens<lb />
+Genstand ved at efterse deres Regnskabsbøger, Breve eller andre Optegnelser eller<lb />
+bese Genstande, hvortil de uden særlig Omkostning eller besvær have Adgang o. desl.,<lb />
+og denne Pligt kan af Retten særlig pålægges dem ved Indkaldelsen eller senere.</p>
+<p>Forsåvidt Retten eller dens Formand<lb />
+ikke har fastsat andet Varsel eller pålagt uopholdeligt Mode, tilkommer der Vidnet Aftens<lb />
+Varsel, hvortil lægges to Døgn, såfremt det<lb />
+skal Møde udenfor den underretskreds, hvor<lb />
+det bor eller opholder sig, og Afstanden til<lb />
+Tingstedet er over 2 Mil.</p>
+<wtitle>§ 105.</wtitle>
+<p>Enhver, som er til Stede i et Retsmøde eller<lb />
+i umiddelbar nærhed af Retslokalet, kan det<lb />
+af Retten pålægges at fremstille sig strax til<lb />
+Afgivelse af Vidnesbyrd. Tilstedeværende<lb />
+Vidner kan det pålægges at mode til ny Tid.</p>

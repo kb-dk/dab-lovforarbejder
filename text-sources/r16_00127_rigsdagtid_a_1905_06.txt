@@ -1,0 +1,64 @@
+2157
+<pb n="127" />
+<h>
+<coll>
+2157
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2158
+</colr>
+</h>
+<wtitle>§ 552.</wtitle>
+<p>
+Ejendommen opraabes derefter enten delvis eller samlet og enten med eller<lb />
+uden Alternativer, eftersom Vilkaarene give Anledning til. Budene optegnes, efter-<lb />
+haanden som de gøres, enten i Auktionsbogen eller paa et særskilt Ark med Tilføjelse<lb />
+af de bydendes Navne. Hvis Størrelsen af det mindste Overbud ikke er fastsat i<lb />
+Auktionsvilkaarene, staar det til Fogden at fordre, at Overbud skulle have en i For-<lb />
+hold til Genstandens Betydenhed passende mindste Størrelse, ligesom Fogden i det<lb />
+hele har at lede Auktionen og sørge for, at denne fremmes med Ro og Orden og<lb />
+uden unødvendigt Ophold. Naar ingen efter derom 3 Gange gentagen Opfordring gør<lb />
+Overbud, standses Opraabet, og Resultatet indføres i Auktionsbogen. Der gives vedkom-<lb />
+mende Lejlighed til at gøre de Bemærkninger med Hensyn til Sikkerhedsstillelse, ny<lb />
+Auktion, Auktionens Hævelse og deslige, hvortil der maatte være Anledning, og Fogden<lb />
+afgør derefter det fornødne, dersom det behøves, ved en Kendelse. Hvis Salg skal<lb />
+finde Sted, bekræftes det vedkommende Bud ved Hammerslag.
+</p>
+<wtitle>§ 553.</wtitle>
+<p>
+Enhver, som ifølge § 548 kan fordre Auktionens Fremme, har, for saa vidt<lb />
+han ifølge sin Fordrings Beskaffenhed kan antages at ville faa Del i den budne Købe-<lb />
+sum, Eet til, dersom andet ikke er vedtaget ved Auktionsvilkaarenes Fastsættelse, at<lb />
+gøre Fordring paa, at Hammerslag gives den højstbydende, som kan tilfredsstille de<lb />
+Fordringer, der lovmedholdelig stilles med Hensyn til Sikkerheden for Budets Opfyl-<lb />
+delse. Fremsættes en saadan Fordring ikke, og Rekvirenten ikke hører til dem, der<lb />
+ville faa Del i den budne Købesum, hæves Auktionen ved en af Fogden afsagt Ken-<lb />
+delse, og det paahviler Rekvirenten at udrede de med Auktionen forbundne Omkost-<lb />
+ninger. Ligeledes hæves Auktionen, naar intet Bud gøres, medmindre anden Auktion<lb />
+er begært i Overensstemmelse med den følgende Paragraf. Den afsagte Kendelse kan<lb />
+om fornødent eksekveres hos Rekvirenten.
+</p>
+<wtitle>§ 554.</wtitle>
+<p>
+Dog kan Skyldneren saavel som enhver af dem, hvis Rettighed over Ejen-<lb />
+dommen ved Tvangssalg vil bringes til at ophøre, for saa vidt der ved første Auktion<lb />
+intet Bud sker, eller han ikke ifølge det skete Bud vil faa fuld Dækning for sit Krav,<lb />
+fordre en anden Auktion afholdt, naar han straks paa Auktionsstedet erklærer saa-<lb />
+dant, imod at han stiller Sikkerhed for Betalingen af de af den ny Auktion flydende<lb />
+Omkostninger, for saa vidt disse ikke maatte blive dækkede ved et højere Bud. Flere<lb />
+Auktioner afholdes ikke, medmindre alle de, som ifølge § 548 kunne fordre Auktionens<lb />
+Fremme, samtykke heri, i hvilken Henseende bemærkes, at de, der ikke gøre Ind-<lb />
+sigelse, anses at samtykke. Gøres paa anden eller en senere Auktion intet Bud, eller<lb />
+fremsættes der ikke af nogen dertil berettiget Fordring paa Hammerslag, hæver Fogden<lb />
+Auktionen ved Kendelse som i § 553 foreskrevet.
+</p>
+<p>
+Den, som er højstbydende ved første Auktion, er, dog ikke i længere Tid end<lb />
+6 Uger, bunden ved sit Bud for det Tilfælde, at der ikke ved anden Auktion skulde<lb />
+ske lige saa højt eller højere Bud, eller det skete Bud formedelst manglende Sikker-<lb />
+hedsstillelse ej kan antages. Gives der ved anden Auktion hverken Hammerslag til<lb />
+ham eller til nogen anden, er den højstbydende ved første Auktion løst fra sit Bud,<lb />
+og Forpligtelse til at vedstaa Budet paahviler heller ikke den eller de højstbydende<lb />
+ved anden Auktion.
+</p>

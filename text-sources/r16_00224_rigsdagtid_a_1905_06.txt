@@ -1,0 +1,74 @@
+2351
+<pb n="224" />
+<h>
+<coll>
+2351
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2352
+</colr>
+</h>
+<p>
+Rettergangsfuldmægtig uden oplyst lovlig Forhindring undlader at møde, hvor saadant<lb />
+Møde findes nødvendigt, for at Sagen kan fremmes, og Retten ikke efter Omstændig-<lb />
+hederne finder at burde udsætte Sagen.
+</p>
+<wtitle>§ 962.</wtitle>
+<p>
+Anke til Landsret, som omfatter Bevisbedømmelsen (§§ 930 ff.), kan den pri-<lb />
+vate Sagsøger kun iværksætte efter Tilladelse af Landsretten; Andragende derom<lb />
+fremsættes og afgøres overensstemmende med Reglerne i § 926.
+</p>
+<p>
+Til Udførelsen af en Ankesag henholdsvis for Landsretten og for Højesteret<lb />
+maa Sagsøgeren antage en til Møde ved paagældende Ret berettiget Sagfører.
+</p>
+<p>
+Anke fra Tiltaltes Side iværksættes efter de for offentlige Straffesager i<lb />
+Kapitlerne 79 og 80 givne Regler. Overanklageren lader Meddelelse om Ankesagen<lb />
+forkynde for den private Sagsøger; denne har Adgang til at slutte sig til Forfølg-<lb />
+ningen overensstemmende med Bestemmelserne i næste Paragraf.
+</p>
+<wtitle>§ 963.</wtitle>
+<p>
+Vedkommende Paatalemyndighed har Ret til paa ethvert som helst Trin at<lb />
+optræde under en Sag, som er anlagt i Henhold til § 705, og kan naar som helst selv<lb />
+overtage Forfølgningen. Er der gaaet Dom i Sagen, kan Paatalemyndigheden rejse<lb />
+Anke saavel til Skade som til Fordel for Tiltalte, og kan ligeledes begære Grenoptagelse,<lb />
+alt overensstemmende med de Regler, som gælde i offentlige Sager.
+</p>
+<p>
+I Tilfælde, hvor Paatalemyndigheden saaledes overtager Forfølgningen, beholder<lb />
+dog Sagsøgeren, naar han straks afgiver Erklæring om at ville slutte sig til Paatale-<lb />
+myndighedens Forfølgning, sin Ret til at optræde som Part i Sagen. Dog kan han<lb />
+ikke udøve Udskydelsesret ved Udtagelsen af Nævninger; ej heller kan han i noget<lb />
+Tilfælde gøre Krav paa Udsættelse af Sagen, og det paahviler ikke Tiltalte eller For-<lb />
+svareren at afgive de foreskrevne Meddelelser ogsaa til ham. Retten kan derhos ude-<lb />
+lukke ham fra Deltagelse, naar den finder dette nødvendigt,
+</p>
+<wtitle>§ 964.</wtitle>
+<p>
+Har vedkommende Paatalemyndighed frafaldet en begyndt Forfølgning, kan<lb />
+den, hvem Paataleret tilkommer efter § 705, overensstemmende med Reglerne i de<lb />
+foregaaende Paragraffer, optage Sagens Forfølgning paa det Trin, hvori denne befinder<lb />
+sig, naar han, skriftlig eller til Retsbogen, afgiver Erklæring herom til vedkom-<lb />
+mende Ret inden en Uge efter Frafaldeisen eller, hvis denne er sket under Doms-<lb />
+forhandling, paa Stedet,
+</p>
+<p>
+Har Paatalemyndigheden nægtet eller undladt at rejse Anke over for en fri-<lb />
+findende Dom i en offentlig Sag, kan den, hvem Paataleret tilkommer efter § 705, gøre<lb />
+dette, dog at saadant sker inden fire Dage henholdsvis efter Nægtelsen, eller efter at<lb />
+Ankefristen er udløben, og at Bestemmelserne i § 962, 1ste og 2det Stykke, ogsaa<lb />
+her finde Anvendelse. Ligeledes er han, naar han forgæves har opfordret Over-<lb />
+anklageren til at begære Genoptagelse i Henhold til § 943 af en af Paatalemyndig-<lb />
+heden anlagt Sag, hvorunder Tiltalte er frifunden, berettiget til selv indenfor en Frist<lb />
+af fire Dage efter Nægtelsen at fremsætte Begæring om Genoptagelse.
+</p>
+<p>
+Naar en privat Sagsøger indtræder i en Forfølgning i Henhold til nærværende<lb />
+Paragraf, blive Reglerne i de foregaaende Paragraffer at anvende med de fornødne<lb />
+Lempelser. Hans Indtrædelse i Forfølgningen saavel som Sagens videre Fremme kan<lb />
+betinges af Sikkerhedsstillelse overensstemmende med § 958, sidste Stykke.
+</p>

@@ -1,0 +1,107 @@
+2363
+<pb n="1" />
+<h>
+<coll>2363</coll>
+<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
+<colr>2364</colr>
+</h>
+<title>
+LXXXV.<lb/>
+Tillæg til Betænkninger<lb/>
+over<lb/>
+Lovforslagene om 1) Domsmagtens Ordning m. v., 2) den borgerlige<lb/>
+Retspleje og 3) Strafferetsplejen.
+</title>
+<p>
+(Meddelt af det i Folketinget om de nævnte Lovforslag nedsatte Udvalgs Ordførere<lb/>
+den 17de Maj 1902).
+</p>
+<p>
+Saafreint de af Udvalget eller Udvalgets Flertal stillede Ændringsforslag ved-<lb/>
+tages, ville forskellige i Lovforslagenes Tekster forekommende Citater være at rette,<lb/>
+hvorom følgende Ændringsforslag stilles
+</p>
+<leftside>
+<p>
+af Ordførerne:
+</p>
+<undertitle>
+Ændringsforslag
+til
+</undertitle>
+<p>
+2den Behandling af Forslag til Lov om<lb/>
+Domsmagtens, den offentlige Anklagemyn-<lb/>
+digheds, Politimyndighedens samt Sagfører-<lb/>
+væsenets Ordning.
+</p>
+<wtitle>Til § 9.</wtitle>
+<p>
+1.	Stk., L. 6: „§ 188" 1. „§ 306".
+</p>
+<wtitle>Til § 12.</wtitle>
+<p>
+2,	Stk.. L. 3: „§ 59", 1. „§ 179".
+</p>
+<wtitle>Til § 46.</wtitle>
+<p>
+L. 1: ,.§§ 47 og 48", 1. ,,§§ 48 og 49".
+</p>
+<wtitle>Til § 49.</wtitle>
+<p>
+1. Stk., L. 1: „§§ 50 ff.", 1. „§§ 51 ff."
+</p>
+<p>
+1.	Stk.. L. 2: „§§ 55 ff.", 1. „§§ 56 ff."
+</p>
+<p>
+2.	Stk., L. 1: „§§ 46 og 47", 1. „§§ 47<lb/>
+og 48".
+</p>
+<wtitle>Til § 50.</wtitle>
+<p>
+1. Stk., L. 5: ,,§§ 46 og 47", 1. ,.§§ 47<lb/>
+og 48".
+</p>
+</leftside>
+<rightside>
+<wtitle>Til § 51.</wtitle>
+<p>
+1. Stk., L. 1: „§ 50", 1. „§ 51".
+</p>
+<p>
+3.	Stk.. L. 2: „§ 48", 1. „§ 49".
+</p>
+<p>
+4.	Stk., L. 2: „§ 50", 1. „§ 51".
+</p>
+<wtitle>Til § 52.</wtitle>
+<p>
+L. 2: „§ 50", 1. ,.§ 51".<lb/>
+L. 4: „§ 55", 1. „§ 56".<lb/>
+L. 5: „§ 51", 1. „§ 52".
+</p>
+<wtitle>Til § 54.</wtitle>
+<p>
+L. 2: „§ 51", 1. „§ 52".
+</p>
+<wtitle>Til § 56.</wtitle>
+<p>
+L. 1: „§ 55" 1. „§ 56".<lb/>
+L. 5: „§ 51" 1. „§ 52".<lb/>
+L. 7: „§48" 1. „§49" og „§49" 1. „§50".
+</p>
+<wtitle>Til § 57.</wtitle>
+<p>
+1. Stk., L. 2: „§§ 54 og 56" 1. „§§ 55 og<lb/>
+57".
+</p>
+<p>
+1. Stk.. L. 4: ..§§ 46 og 47" 1. „§§ 47 og<lb/>
+48".'
+</p>
+<wtitle>Til § 59.</wtitle>
+<p>
+L. 1: „Kap. III—V" 1. „Kap. 3—6".
+</p>
+</rightside>

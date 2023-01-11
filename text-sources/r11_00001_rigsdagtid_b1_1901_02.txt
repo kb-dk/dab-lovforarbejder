@@ -1,0 +1,68 @@
+2259
+<pb n="1" />
+<h>
+<coll>2259</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2260</colr>
+</h>
+<title>LXXXIII.</title>
+<title>Betænkning</title>
+<undertitle>over</undertitle>
+<undertitle>Forslag til Lov om den borgerlige Retspleje.</undertitle>
+<undertitle>(Afgiven af Folketingets Udvalg den 14de Maj 1902.)</undertitle>
+<leftside>
+<p>Mange af Udvalgets her foreliggende<lb />
+Forslag ere foranledigede ved Ændringsfor-<lb />
+slag til Lovforslaget om Domsmagtens Ord-<lb />
+ning. andre ere af redaktionel Natur, og selv<lb />
+blandt dem, der rumme selvstændig Realitet,<lb />
+er der mange, som ikke trænge til nær-<lb />
+mere Begrundelse eller Forklaring, i alt<lb />
+Fald ikke lier. Man kan derfor indskrænke<lb />
+sig til at dvæle ved følgende:</p>
+<p>Nr. 146 tilsigter— i Forbindelse med<lb />
+tilsvarende Ændringer i Lovforslaget om<lb />
+Strafferetsplejen — at holde Adgangen til<lb />
+en Sags Behandling for Nævninger aaben<lb />
+i alle de Tilfælde, som Grundlovens § 74<lb />
+nævner, altsaa ogsaa overalt, hvor det<lb />
+drejer sig om „en politisk Lovovertrædelse".<lb />
+— At afgøre, hvor „Midtpunktet for en<lb />
+Embedsvirksomhed" er, kan være saa<lb />
+vanskeligt og i det paagældende Forhold<lb />
+risikabelt, at man under Nr. 152 har fore-<lb />
+slaaet at erstatte det med Bopælen. — Da<lb />
+Adgangen til Sagførervirksomhed fremtidig<lb />
+skal staa aaben ogsaa for Kvinder, har<lb />
+man under Nr. 156 forudsat den Mulighed,<lb />
+at Dommeren kan være gift med vedkom-<lb />
+mende Sagfører, og da bør han selvfølgelig</p>
+</leftside>
+<rightside>
+<p>vige sit Sæde. — Forslaget under Nr. 159<lb />
+vil udelukke Folk fra under Skin af at<lb />
+staa i en andens Tjeneste at tilsnige sig<lb />
+Adgang til at møde i Retten for andre. —<lb />
+Nr. 160 saavel som Nr. 203 følger af Æn-<lb />
+dringsforslaget under Nr. 17. — Nr. 161<lb />
+gaar ud paa at erstatte det uklare og<lb />
+flertydige Ord „uberygtet" med den fra Valg-<lb />
+lovens § 2 tilvante nærmere Bestemmelse<lb />
+deraf. — Nr. 165 tilsigter dels at udelukke<lb />
+den Misforstaaelse, at Roligliedsforstyrrelser.<lb />
+som ikke kunne antages at have umiddel-<lb />
+bar Indflydelse paa Retsforhandlingens<lb />
+Gang, skulde kunne begrunde Dørenes<lb />
+Lukning, dels at muliggøre Offentlighedens<lb />
+Udelukkelse, hvor dens Nærværelse uden<lb />
+at gavne nogen kunde tilføje de i Sagen<lb />
+optrædende eller indviklede Personer<lb />
+særlig Krænkelse. — Man anser det for<lb />
+tilstrækkeligt, at Stævningsmænd i Hen-<lb />
+seende til mulige Overtrædelser af de dem<lb />
+paahvilende Pligter ere undergivne Lovens<lb />
+almindelige Regler for Embeds- eller Be-<lb />
+stillingsmænd. og foreslaar derfor under<lb />
+Nr. 174 at fritage dem for at staa under<lb />
+særlige „Disciplinærbestemmelser".</p>
+</rightside>

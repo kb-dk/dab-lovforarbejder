@@ -1,0 +1,29 @@
+0
+<pb n="5" />
+<p>Kapitel XXXVI.</p>
+<p>Proceduren af Tvistigheder, der opstå under Tvangsauktionen, §§ 432—438......   159—160.</p>
+<p>Kapitel XXXVII.</p>
+<p>Retsmidlerne mod de til Tommes tvungne Fuldbyrdelse henhørende Fogedforretninger</p>
+<p>M.  M., §§ 439—442...............................................   160—162.</p>
+<title>Femte Afsnit.</title>
+<undertitle>Udpantning samt Indsættelses- og Udsættelsesforretninger.</undertitle>
+<undertitle>§§ 443—458.</undertitle>
+<p>Kapitel XXXVIII.</p>
+<p>Udpantning, §§ 443—455...............................................   163—170.</p>
+<p>Kapitel XXXIX.</p>
+<p>Indsættelses- og Udsættelsesforretninger, §§ 456—458.....................___   170—171.</p>
+
+<title>Sjette Afsnit.</title>
+<undertitle>De foreløbige Retsmidler.</undertitle>
+<undertitle>§§ 459—500.</undertitle>
+<p>Kapitel XL.</p>
+<p>Arrest, §§ 459—492....................................................   172—181.</p>
+<p>Kapitel XLI.</p>
+<p>Forbud,  §§ 493—500..............................................   182—184.</p>
+<title>Syvende Afsnit.</title>
+<undertitle>Skifte af Dødsbo og Fællesbo m. v. samt Konkurs.</undertitle>
+<undertitle>§§ 501—529.</undertitle>
+<p>Kapitel XLII.</p>
+<p>Skifte af Dødsbo og Fællesbo m. v., §§ 501—513..........................   185—189.</p>
+<p>Kapitel XLIII.</p>
+<p>Konkurs, §§ 514- 525 ..............................................   189 — 193.</p>

@@ -1,0 +1,46 @@
+3527
+<pb n="82" />
+<h>
+<coll>3527</coll>
+<topmidle>Forsl. t. 3. om den borgerlige Netspleie.</topmidle>
+<colr>3528</colr>
+</h>
+<wtitle>§ 248.</wtitle>
+<p>Indenlandste offentlige Dokumenter stulle formodes at være cægte, naar deres Udseende<lb />
+og Form ikke frembyder nogen særlig Tvivlsgrund.</p>
+<p>Om et udenlandst offentligt Dokument skal formodes at være cægte, Afgjøres af Retten,<lb />
+Er det paa behorig Maade forsynet med diplomatisk Legalisation, nyder det samme 3Egt-<lb />
+hedsformodning som et indenlandsk offentligt Dokument.</p>
+<wtitle>§ 249.</wtitle>
+<p>Gt Privatdokuments Wgthed maa bevises. Til saadant Bevis er det, naar der Me<lb />
+stjonnes at være Grund til at antage en Forfalskning, i Reglen tilstrækkeligt, at Underskriftens<lb />
+Wgthed godtgjores.</p>
+<wtitle>§ 250.</wtitle>
+<p>Om Regnskabsbilag stulle formodes at være cægte i Forhold til den, til hvem Regn-<lb />
+stabet aflægges, Afgjøres vbd Rettens skjøn, medmindre færlige Lovbestemmelser indeholde<lb />
+andre Regler.</p>
+<wtitle>§ 251.</wtitle>
+<p>Privatdokumenter af saadan Mlde, at deres LEgthed ikke kan oplyfes ved Vidnebevis<lb />
+eller ved Parternes egne Erklæringer, kmne holdes for cægte, naar Stedet, hvor Dokumentet<lb />
+findes, Maaden, hvorvaa det er bevaret, eller andre Omstændigheder i overveiende Grad tale<lb />
+derfor.</p>
+<wtitle>§ 252.</wtitle>
+<p>Beviset for et Privatdokuments Wgthed bliver at føre og bedomme efter de almin-<lb />
+delige Regler, hvorved ogsaa den Retten i denne Lovs § 257 givne Myndighed til at til-<lb />
+stede den Bevispligtige at udfylde Beviset ved sin Ed kommer til Anvendelse.</p>
+<wtitle>§ 253.</wtitle>
+<p>Producenten af et Privatdokmnent kan, selv om han ikke har tilvejebragt nogen For-<lb />
+modning for dets Mgthed, forlange, at det paalægges den, mod hvem Dokumentet fremlægges,<lb />
+edelig at bencægte sin Underskrift med den Virkning, at Dokumentet under Sagen holdes for<lb />
+cægte, hvis Gden ikke aflægges.</p>
+<wtitle>§ 254.</wtitle>
+<p>Den, der imod bedrc Vidende har ncægtet Wgtheden af et Dokument, bliver ved den<lb />
+endelige Dom at anse med Boder fra 200 lil 400 Kr., uden at herved er udelukket det<lb />
+Anfvar, som efter Straffelovgivningens almindelige Regler maatte være vaadraget.</p>
+<wtitle>§ 255.</wtitle>
+<p>Om en Part ved fenere Mringer eller Foretagender har afstaaret sig fra at beftrids<lb />
+et Dokuments Mgthed eller Beviskraft, afgjores ved Nettens skjøn.</p>
+<p>Fjerde Underafdeling.<lb />
+Om Parts Ed.</p>
+<wtitle>§ 256.</wtitle>
+<p>Parterne kunne vedtage, at Antagelsen eller Ikke-Antagelsen af et omtvistet Faktum</p>

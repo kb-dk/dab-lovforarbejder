@@ -1,0 +1,54 @@
+3461
+<pb n="49" />
+<h>
+<coll>3461</coll>
+<topmidle>Tillag H. (162).             Ordentl. Saml. 1880. <lb />
+Forsl. t. L om den borgerlige Retspleie.</topmidle>
+<colr>3462</colr>
+</h>
+<p>eller Andre, naar de tillade sig upassende Udla«delser eller utilbsrlige personlige Angreb, eller<lb />
+naar de gaa udenfor Sagen i deres Bevisforelse, Udvikling eller Beretning.</p>
+<p>personer, der ved stoiende eller anden utilborlig Adfærd forstyrre Forhandlingerne<lb />
+eller tilsidesætte den Agtelse, som skyldes Retten, kunne udvises af Retslokalet. Bliver det i<lb />
+Henhold hertil nodvendigt at fjerne nogen af Parterne, kan Retten enten udscrite Sagen eller<lb />
+efter Modpartens Andragende bestemme, at den bortviste Part skal anses som udebleven</p>
+<p>For Fornærmelser mod Retten eller nogen af de i samme Msdende, Ulydighed imod<lb />
+Formandens Paamindelser og Befalinger eller Uordener af mere strasværdig Natur end de<lb />
+ovenanfsrte, kan Retten ved en Kjendelse, der afsiges strar, paalægge Straf af Boder indtil<lb />
+40 Kr. eller simpelt Famgfel indtil 8 Dage. Saadan Kjendelse er upaaankelig, og Retten<lb />
+kan, hvor den lyder paa Fængselsstraf, bestemme, at den oieblikkelig skal fuldbyrdes.</p>
+<p>De Ordensstraffe, som paalægges i Henhold til denne Paragraf, medføre ingen Ind-<lb />
+strænkning i Adgangen til at drage den Skyldige til Ansvar efter Straffelovens almindelige<lb />
+Bestemmelser, hvor disse iøvrigt ere anvendelige.</p>
+<p>Politiet er forpligtet til uvcegerlig og sieblikkelig at yde Retten Bistand til Udførelsen<lb />
+af denne Paragrafs Forstrifter.</p>
+<wtitle>§ 82.</wtitle>
+<p>De Forretninger, som ifølge denne Lov paahvile Formanden i Kollcgialretterne, ud-<lb />
+føres ved de Retter, som beklcrdes af en Enkeltdommer, af denne.</p>
+<wtitle>§ 83.</wtitle>
+<p>Angaaende alle Retshandlinger optages Beretning i Retsbogen.<lb />
+I Retsbogen indfores fsrft Angivelse af:</p>
+<p>1)   Tiden og Stedet for Retsmodet.</p>
+<p>2)   De Personers Navne, der have fungeret som Dommere og som Protokolførere.</p>
+<p>3)   Sagens Nummer og Parternes Navne (Rubrum af Sagen).</p>
+<p>4)   De, der have givet møde i Sagen som Parter eller paa disses Vegne.</p>
+<wtitle>§ 84.</wtitle>
+<p>Retsbogen ffal indeholde en kort Fremstilling af Forhandlingernes Gang i Al-<lb />
+mindelighed.</p>
+<p>Parternes Udviklinger og Vidners og Synsmomds Forklaringer optages ved Lands-<lb />
+retterne ikke i Retsbogen, men Protokolføreren har i en foerskilt Bog til Brug for Retten og<lb />
+efter Formandens ncrrmere Anvisning at optegne det væsentlige af Vidnernes og Syns-<lb />
+mandenes Forklaringer, uden at dog nogen Oplæsning for eller Vedtagelse af de Paagjoel-<lb />
+dende finder Sted.</p>
+<p>Naar Vidners, Synsmcmds eller^Parters Forklaringer afgives for en anden Ret end<lb />
+den, for hvilken Hovedforhandlingen foregaar (§s 96, 181, 203 og 232), blive de i deres<lb />
+Helhed at indføre i Retsbogen samt at oplæse til Vedtagelse af de Paagjældende, jfr. § 224.</p>
+<p>Ved Underretterne bliver det Væsentlige af Parternes Erklæringer over Sagens<lb />
+Sammenhæng og af Vidners og Synsmomds Forklaringer at protokollere og derefter at op-<lb />
+lcefe til Vedtagelse, dog kun forsaavidt Sagens Gjenstand har en værdi af over 40 Kr.</p>
+<wtitle>§ 85.</wtitle>
+<p>Fuldstændigt optages i Retsbogen:<lb />
+Rettens Domme.  Kjendelser og vvrige Beslutninger;</p>
+<p>Parternes Paastande for Underretterne, samt for Landsretterne Indsigelser og Paa-<lb />
+stande vedrorende Sagens Formalitet efter § 175;</p>
+<p>Forelagte Lovforslag m. m.              162</p>

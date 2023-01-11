@@ -1,0 +1,66 @@
+265
+<pb n="<span class="result">1</span>" />
+<h>
+<coll>Lovtidenden for <span class="result">1</span>909 Nr. <span class="result">1</span>3.</coll>
+<topmidle>265</topmidle>
+<colr>Udgivet den <span class="result">1</span>0de April.</colr>
+</h>
+<title>Lov<lb/>
+om<lb/>
+Rettens Pleje.*)
+</title>
+<p>
+Vi Frederik den Ottende, af Guds Nåde Konge til Danmark,<lb/>
+de Venders og Goters. Hertug til Slesvig, Holsten, Stormarn, Ditmarsken,<lb/>
+Lauenborg og Oldenborg.<lb/>
+Gøre vitterligt: Rigsdagen har vedtaget og Vi ved Vort Samtykke stadfæstet følgende Lov:
+</p>
+<title>
+Første Bog.
+</title>
+<undertitle>
+Domsmagten m. m.
+</undertitle>
+<title>Første Afsnit.</title>
+<title>
+Domstolenes Ordning.
+</title>
+<title>Kapitel <span class="result">1</span>.</title>
+<undertitle>
+Retterne.<lb/>
+</undertitle>
+<wtitle>§ <span class="result">1</span>.</wtitle>
+<p>
+De almindelige Domstole ere Højesteret, Landsretterne og Underretterne, samt<lb/>
+Sø- og Handelsretten i København.
+</p>
+<p>
+Rigsretten, Sessionerne, de gejstlige og militære Retter omfattes ikke af<lb/>
+denne Lov. Det samme gælder om de i Lov Nr. 35 af <span class="result">1</span>5. Februar <span class="result">1</span>895 omhandlede<lb/>
+Konsularretter, de i Lov Nr. 57 af 3. April <span class="result">1</span>900 omhandlede Arbejds-Voldgiftsretter,<lb/>
+den ved Lov Nr. 225 af <span class="result">1</span>4. April <span class="result">1</span>905 § 35 under Navn af Akkordretten opret-<lb/>
+tede Domstol, samt de i Lov Nr. 77 af <span class="result">1</span>9. April <span class="result">1</span>907 §§ <span class="result">1</span><span class="result">1</span> og <span class="result">1</span>2 omhandlede Vold-<lb/>
+giftsretter, for så vidt der ved de nævnte Love er fastsat særlige Regler for disse<lb/>
+Retter. Regeringen bemyndiges dog til ved kongelig Anordning at fastsætte sådanne
+</p>
+<p>
+Lempelser i disse Særregler, som denne Lov nødvendiggør.
+</p>
+<p>
+§ 2. 
+</p>
+<p>
+Højesteret er øverste Domstol for hele Riget. Den har sit Sæde i Køben-<lb/>
+havn og består af en Formand og <span class="result">1</span>2 andre Højesteretsdommere. I Formandens<lb/>
+Sted træder i fornødent Fald den efter Embedsalder ældste af Rettens tilstedeværende<lb/>
+Dommere.
+</p>
+<pagename>
+*) Udfærd, gj. Justitsministeriet Se Rigsdagst. <span class="result">1</span>908—09: Landst. T. 32, 69, <span class="result">1</span>52, <span class="result">1</span>57,<lb/>
+842; Folket. T. <span class="result">1</span>930. 3959, 4876, 57<span class="result">1</span>0; Till. A. 2<span class="result">1</span>39; Till. B. 645, <span class="result">1</span>833; Till. C. <span class="result">1</span>7,<lb/>
+<span class="result">1</span>005, <span class="result">1</span>537, 207<span class="result">1</span>. (Se endvidere Rigsdagst. <span class="result">1</span>906—07: Landst. T. 379, 467; Till. A.<lb/>
+364<span class="result">1</span>, se om tidl. Forelægg. 4<span class="result">1</span><span class="result">1</span>3 ff.; Rigsdagst. <span class="result">1</span>907 — 08: Landst. T. 79, <span class="result">1</span>485, <span class="result">1</span>593,<lb/>
+2309; Folket. T. 7<span class="result">1</span>39, 7556, 7790. 8484; Till. A. 2<span class="result">1</span>45; Till. B. 2405, 3807; Till, C.<lb/>
+<span class="result">1</span>073, <span class="result">1</span>8<span class="result">1</span>7, 2727).
+</pagename>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.	36</pagename>

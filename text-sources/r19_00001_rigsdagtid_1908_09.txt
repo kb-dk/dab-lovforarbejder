@@ -1,0 +1,55 @@
+2139
+<pb n="1" />
+<h>
+<coll>
+2139
+</coll>
+<colr>
+2140
+</colr>
+</h>
+<title>
+XIII,
+Forslag til Lov
+om
+Rettens Pleje.
+</title>
+<undertitle>
+(Fremsat i Landstinget den 23. Oktober 1908 af Justitsminister Svend Høgsbro.)
+</undertitle>
+<undertitle>
+Første Bog.<lb/>
+Domsmagten m. m.
+</undertitle>
+<title>
+Første Afsnit.
+</title>
+<undertitle>
+Domstolenes Ordning.
+</undertitle>
+<title>Kapital 1.</title>
+<undertitle>
+Retterne.
+</undertitle>
+<wtitle>§ 1.</wtitle>
+<p>
+De almindelige Domstole ere Højesteret. Landsretterne og Underretterne, samt<lb/>
+Sø- og Handelsretten i København.
+</p>
+<p>
+Rigsretten, Sessionerne, de gejstlige og militære Retter omfattes ikke af<lb/>
+denne Lov. Det samme gælder om de i Lov Nr. 35 af 15. Februar 1895 omhandlede<lb/>
+Konsularretter. de i Lov Nr. 57 af 3. April 1900 omhandlede Arbejds-Voldgiftsretter,<lb/>
+den ved Lov Nr. 225 af 14. April 1905 § 35 under Navn af Akkordretten opret-<lb/>
+tede Domstol, samt de i Lov Nr. 77 af 19. April 1907 §§ 11 og 12 omhandlede Vold-<lb/>
+giftsretter, for saa vidt der ved de nævnte Love er fastsat særlige Regler for disse<lb/>
+Retter. Regeringen bemyndiges dog til ved kongelig Anordning at fastsætte saadanne<lb/>
+Lempelser i disse Særregler, som denne Lov nødvendiggør.
+</p>
+<wtitle>§ 2.</wtitle>
+<p>
+Højesteret er øverste Domstol for hele Riget, Den har sit Sæde i Køben-<lb/>
+havn og bestaar af en Formand og 12 andre Højesteretsdommere. I Formandens<lb/>
+Sted træder i fornødent Fald den efter Embedsalder ældste af Rettens tilstedeværende<lb/>
+Dommere.
+</p>

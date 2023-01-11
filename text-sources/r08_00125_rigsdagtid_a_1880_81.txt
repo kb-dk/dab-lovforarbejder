@@ -1,0 +1,52 @@
+3613
+<pb n="125" />
+<h>
+<coll>3613</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3614</colr>
+</h>
+<wtitle>§ 481.</wtitle>
+<p>Trediemand kan fremfætte Indsigelser imod Ezekutionen, naar dennes Foretagelse paa<lb />
+den paastaaede Maade vilde stride imod hans Ret. Han har i faa Fald blot at møde un-<lb />
+der Forretningen, fremsætte sin Indsigelse til Protokollen og ceste Fogdens Kjendelse, hvorefter<lb />
+den indtrædende Trediemand er at anse som Part i Forretningen.</p>
+<wtitle>§ 482.</wtitle>
+<p>Forhandlingerne for Fogden foregaa mundtligt.</p>
+<p>Fogden paakjender den opstaaede Tvistighed i Henhold til, hvad der fra Parternes<lb />
+Side forklares og indrommes under Forhandlingerne, saavelsom i Henhold til de fremlagte<lb />
+Dokumenter og andre skriftlige Beviser.</p>
+<p>Under Forhandlingerne for Fogden kan i Reglen Bevisførelse ved Vidner, Syn og<lb />
+skjøn eller Parternes personlige Afhorelse ikke finde Sted.</p>
+<p>Henhører Hovedsagen efter sin Beskaffenhed under Underretternes Afgjørelse, har Fog-<lb />
+den at yde Parterne Veiledning i Overensstemmelse med Grundsætningerne i § 346.</p>
+<wtitle>§ 483.</wtitle>
+<p>
+I Fogedprotokollen optages:</p>
+<p>a)  Angivelse af Tid  og Sted for Forretningen,   Parternes Navne,   Erekutionsgrundlagcts<lb />
+Beskaffenhed;</p>
+<p>b)  Betegnelse af Fogdens og Vidnernes Navne;</p>
+<p>o)  Beretning om Forretningernes Gang i Almindelighed.</p>
+<p>I Tilfælde af Tvist optages i Fogedprotokollen en ordret Angivelse af de fremsætte<lb />
+Paastande.</p>
+<p>Derhos lader Fogden i det Omfang, som af ham skjønnes hensigtsmæssigt, Parternes<lb />
+Erklæringer over Sagens Sammenhæng protokollere, dog ikke ordret, men kun efter deres<lb />
+offentlige Indhold.</p>
+<p>Det Tilforte oplæses og vedkjendes.</p>
+<wtitle>§ 484.</wtitle>
+<p>Udslettelse kan i Reglen ikke gives under Forretningen, medmindre Parterne ere<lb />
+enige herom.</p>
+<p>Derimod kan Fogden anordne eller tilståa en Standsning i Forhandlingerne, naar<lb />
+Omstændighederne kræve det, men uden at Forretningen afbrydes.</p>
+<p>Fogderc har da paa Domhaverens Forlangende ved Bevogtning eller paa anden<lb />
+Maade at træffe de fornødne Foranstaltninger for at opretholde den samme Tilstand, indtil<lb />
+Forretningen atter fortsættes. Parterne skulle paa behorig Maade underrettes om<lb />
+Tiden herfor.</p>
+<wtitle>§ 485.</wtitle>
+<p>I opstaaede Tvistigheder afsiger Fogden Kjendelse umiddelbart efter Forhandlingernes<lb />
+Slutning eller dog fnarest muligt.</p>
+<p>Kjendelsen, der skal være forsynet med Grunde, indføres fuldstændigt i Protokollen.<lb />
+Dens Fuldbyrdelse kan ikke hindres ved Anvendelse af Retsmidler.</p>
+<wtitle>§ 486.</wtitle>
+<p>I Fogedprotokollen optegnes nsiagtigt alle de enkelte Gjenstande, hvori Udlæg gjores<lb />
+ved hver enkelt Gjenstand tilfoies dens værdi efter den stedfundne Ansoettelse.</p>
+<p>Fogden erklærer derefter til Protokollen de optegnede Gjenstande for udlagte til Dom?</p>

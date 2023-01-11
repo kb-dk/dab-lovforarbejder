@@ -1,0 +1,64 @@
+3229
+<pb n="10" />
+<h>
+<coll>3229</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3230</colr>
+</h>
+<title>
+Udlandets Proeeslovgivning.
+</title>
+<p>
+Da den forrige Proceskommission i 1877 til Justitsministeriet afleverede de af<lb />
+den udarbejdede Udkast til en Reform af Retsplejen, var Civilproceslovgivningens<lb />
+Stilling i det øvrige Europa denne, at mundtlig Procedure mere eller mindre fuld-<lb />
+stændig var gennemført i England, Irland og Skotland, Frankrig, den største Del af<lb />
+Tyskland, Belgien, Holland, Schweiz, Rumænien og Grækenland, endvidere i Rusland<lb />
+og Serbien, for saa vidt angaar Proceduren i første Instans, og i Italien, navnlig for<lb />
+saa vidt angaar den summariske Proces*). Derimod havde Norge, Sverig, Finland,<lb />
+Østerrig, Ungarn, Spanien og Portugal ligesom Danmark en i det væsentlige skriftlig<lb />
+Civilproces. I de siden 1877 forløbne 22 Aar har Mundtlighedsprincipet vundet<lb />
+yderligere Udvidelse og Befæstelse. Saaledes er en for hele det tyske Rige fælles<lb />
+mundtlig Procedure indført ved Rigs-Civilprocesloven af 30te Januar 1877, der er<lb />
+traadt i Kraft den 1ste Oktober 1879. Fremdeles ere ny paa Mundtlighedsprincipet<lb />
+byggede Civilproceslove givne for Bosnien og Herzegovina 1883 og for Bulgarien 1892.<lb />
+Videre har Ungarn ved en Lov af 1893 indført mundtlig Procedure i 1ste og 2den<lb />
+Instans med Hensyn til Sager, der behandles summarisk (o: 90 pCt, af det hele Antal
+</p>
+<note rend="foot">
+<p>
+*) Den gældende engelske Civilproces er navnlig grundet paa „ Judicature acts" af 1873 med senere<lb />
+Tillæg samt de i Henhold til disse Love af et Dommerudvalg givne processuelle Regler, „Rules<lb />
+of the supreme court" af 1883 med senere Tillæg.
+</p>
+<p>
+Den gældende franske Civilproces bygger vedvarende paa Napoleons Code de procedure civile<lb />
+af 1806, til hvilken dog slutter sig en Række senere Love, der ændre og supplere enkelte Punkter.
+</p>
+<p>
+For Belgien gælder den franske Civilproces-Codex af 1806, delvis ændret ved forskellige<lb />
+senere Love, navnlig Lov 25de Marts 1876.
+</p>
+<p>
+Hollands Civilproceslov af 1838 er revideret og suppleret ved forskellige senere Love.
+</p>
+<p>
+Schweiz har en Række Speciallove for de enkelte Kantoner.
+</p>
+<p>
+For Rumænien gælder en Civilproceslov af 1865 med Tillægslove.
+</p>
+<p>
+For Grækenland gælder en Civilproceslov af 1834 med Tillægslove. I Praksis er Proce-<lb />
+duren i første Instans i Strid med Lovens Tanke dog nærmest blevet skriftlig.
+</p>
+<p>
+Ruslands Civilproces reformeredes ved Alexander II.s Proceslove af 1864, hvilke successivt<lb />
+ere satte i Kraft i omtrent hele det europæiske Rusland, derunder i Polen 1875; i 1878 bleve de<lb />
+ved en provisorisk Forordning udvidede til Bulgarien.
+</p>
+<p>
+Serbien har en Civilproceslov af 1865 med Tillægslove og
+Italien ligeledes en Civilproceslov af 1865 med Tillægslove.
+</p>
+</note>

@@ -1,0 +1,78 @@
+1833
+<pb n="53" />
+<h>
+<coll>
+1833
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+1834
+</colr>
+</h>
+<p>
+Til Mægling ved Retterne eller Forligskommissionerne i Kjøbenhavn behøve<lb />
+Parterne ikke at give personligt Møde, men kunne lade en hvilken som helst, med<lb />
+tilstrækkelig Fuldmagt forsynet, god Mand møde for sig.
+</p>
+<wtitle>§  261.</wtitle>
+<p>
+Indgivelse af en særlig Klage til de i § 259 nævnte Forligskommissioner er<lb />
+ikke nødvendig. Derimod maa Klageren udstede en paa lignende Maade som en Stæv-<lb />
+ning affattet Indkaldelse til Møde for Forligskommissionen. Stævningen kan benyttes<lb />
+som saadan. Indkaldelsen eller Stævningen indleveres til Forligskommissionen, der<lb />
+giver den Paategning om Tid og Sted for Mæglingens Foretagelse, hvorefter den til-<lb />
+bageleveres Klageren til Forkyndelse for Modparten i Overensstemmelse med de for<lb />
+Stævnings Forkyndelse givne Regler, dog at Varslet kun behøver at være 3 Dage, hvis<lb />
+Indklagede bor i Kredsen, og en Uge, hvis han bor uden for denne. Benyttes Stæv-<lb />
+ningen til Forligsindkaldelse, kunne de nævnte Frister medregnes som Dele af det<lb />
+foreskrevne Stævnevarsel.
+</p>
+<wtitle>§  262.</wtitle>
+<p>
+Udebliver Klageren helt fra Forligsmæglingen, uden at oplyse lovligt Forfald,<lb />
+medens Indklagede giver behørigt Møde, kan Kommissionen paa Begæring ved en<lb />
+upaaankelig Kendelse, der straks kan eksekveres, tillægge Indklagede en Erstatning<lb />
+paa indtil 10 Kr. hos Klageren for forgæves Møde.
+</p>
+<p>
+Hvis en Sag tingfæstes ved Retten, uden at Sagsøgeren forinden behørig har<lb />
+indkaldt til samt har mødt eller ladet møde til Forligsmægling, bliver Sagen at afvise,<lb />
+og der tilkendes Sagsøgte, naar han møder og gør Paastand derpaa, Erstatning for<lb />
+forgæves Møde. Dog kan Retten i Stedet for Afvisning bestemme, at Sagen udsættes,<lb />
+for at Forligsmægling kan finde Sted, jfr. i øvrigt §  246.
+</p>
+<wtitle>§  263.</wtitle>
+<p>
+Den tvungne Forligsmægling ved Retten og ved Forligskommissionerne foregaar<lb />
+for lukkede Døre, og det er forbudt at udstede Attester eller føre Vidner om, hvad<lb />
+der af Parterne tilstaas eller foreslaas under Mæglingen, medmindre det vedtages af<lb />
+begge Parter og udgøre Punkter af Forliget.
+</p>
+<p>
+En Sag kan under Mægling for en Forligskommission ikke udsættes, naar<lb />
+nogen af Parterne rejser Indsigelse derimod.
+</p>
+<p>
+Kommer Forlig i Stand, bør dette i sin Helhed indføres i Forligsprotokollen<lb />
+og underskrives af Parterne.
+</p>
+<wtitle>§  264.</wtitle>
+<p>
+Naar overhovedet Forligsmægling har været forsøgt i Anledning af en Sag, er<lb />
+Forligsindkaldelsens Indhold ikke til Hinder for en senere Udvidelse eller Forandring<lb />
+af Søgsmaalsgrunde eller Paastande.
+</p>
+<wtitle>§  265.</wtitle>
+<p>
+Spørgsmaal om Gyldigheden af indgaaede Forlig henhøre under Afgørelse ved<lb />
+Retterne i første Instans, jfr. herved § 461 smh. med § 516. Dog maa Indsigelser<lb />
+mod Retsforlig gøres gældende ved Kære, naar de støttes paa Fejl ved Rettens Handlinger.
+</p>
+<wtitle>§  266.</wtitle>
+<p>
+Den bestaaende Adgang til for en Forligskommission at godkende et udenfor<lb />
+samme sluttet Forlig, for derved at give Forliget Eksekutionskraft eller sikre sig Bevis<lb />
+derfor, opretholdes.
+</p>

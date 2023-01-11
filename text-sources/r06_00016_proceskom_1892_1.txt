@@ -1,0 +1,53 @@
+16
+<pb n="16" />
+<rightside>
+<pagename>14
+</pagename>
+<wtitle>§  35.
+</wtitle>
+<p>Viser saadan, efter Omstændighederne<lb />
+gentagen, Advarsel sig frugtesløs, eller har<lb />
+Dommeren gjort sig skyldig i et Forhold,<lb />
+der maa svække eller gøre ham uværdig til<lb />
+den Agtelse og Tillid, som Dommerkaldet<lb />
+forudsætter, kan dette drage til følge efter<lb />
+Omstændighederne Afskedigelse uden Pension<lb />
+eller med Pension, beregnet efter Pensions-lovens Regler, eller endelig saaledes, at<lb />
+Pensionens Størrelse bliver at bestemme ved<lb />
+særlig Lov. Er der Tale om et efter Straffeloven strafbart Forhold, bliver Sagen af<lb />
+Iustitiarius at overgive til vedkommende<lb />
+Overanklager for eventuelt at forfølges som<lb />
+selvstændig Straffesag. I andet Fald, eller<lb />
+naar Dommen i Straffesagen ikke lyder paa<lb />
+Embedsforbrydelse, afgøres Spørgsmaalet<lb />
+ifølge Justitsministerens nærmere Bestemmelse under en af det Offentlige mod Dommeren anlagt Sag. Sagen behandles efter<lb />
+de for Landsretsproceduren for borgerlige<lb />
+Sager i 1ste Instans gældende Negler.
+</p>
+<p>I Overensstemmelse hermed bliver det<lb />
+fremdeles at afgøre, hvorvidt en Dommer<lb />
+bør afskediges paa Grund af vedvarende<lb />
+Aands- eller Legemssvaghed.
+</p>
+<wtitle>§ 36.
+</wtitle>
+<p>Naar Straffesag er rejst. mod en<lb />
+Dommer, eller naar han maa antages at<lb />
+have gjort sig skyldig i saadant utilbørligt<lb />
+Forhold, som omhandles i § 35, saavelsom<lb />
+naar han er bleven uvederheftig eller aandssvag, kan han suspenderes. Afgørelse herom<lb />
+træffes, naar Talen er om en Underretsdommer, af Landsrettens Iustitiarius og to<lb />
+af Rettens Medlemmer, og naar Talen er<lb />
+om en højesterets- eller Landsretsdommer,<lb />
+af højesterets Iustitiarius og to af Rettens<lb />
+Medlemmer.
+</p>
+<wtitle>§ 37.
+</wtitle>
+<p>Beslutning om Ophør af midlertidig<lb />
+Bestikkelse til at beklæde et Dommerembede<lb />
+(§30) eller af Bemyndigelse til at udføre Dommergærning efter § 20, 4de Stykke, kan tages<lb />
+af den Myndighed, der har meddelt den, dog,<lb />
+forsaavidt det er Landsrettens Iustitiarius,
+</p>
+</rightside>

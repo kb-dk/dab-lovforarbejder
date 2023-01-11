@@ -1,0 +1,40 @@
+2217
+<pb n="245" />
+<h>
+<coll>
+2217
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2218
+</colr>
+</h>
+<wtitle>§  1075.</wtitle>
+<p>
+Straffesager, der endnu ikke ere optagne til Dom paa den Tid, Loven træder<lb />
+i Kraft, behandles efter de Regler, som denne Lov foreskriver. Gyldigheden af Rets-<lb />
+handlinger, som ere foretagne i Sagen, førend Loven træder i Kraft, bedømmes efter<lb />
+den tidligere Lovgivning. Nærmere Regler om Behandlingssted og Behandlingsmaade,<lb />
+for de heromhandlede Sager kunne gives ved kongelig Anordning.
+</p>
+<wtitle>§  1076.</wtitle>
+<p>
+Paaanke af Straffedomme, som ere afsagte, førend Loven træder i Kraft, sker<lb />
+efter de hidtil gældende Regler, dog at Overanklageren ved den Landsret, som træder<lb />
+i vedkommende Landsoverrets Sted, eller henholdsvis Rigsanklageren varetager, hvad<lb />
+der i Anledning af saadan Anke vilde paahvile Overøvrigheden eller en beskikket<lb />
+Aktor. Med Hensyn til Dommens Fuldbyrdelse blive Reglerne i denne Lov at anvende<lb />
+med de af Forholdets Natur flydende Lempelser.
+</p>
+<wtitle>§  1077.</wtitle>
+<p>
+Genoptagelse af Straffesager, der ere afsluttede ved upaaankelig Dom eller paa<lb />
+anden Maade, førend denne Lov træder i Kraft, eller i Henhold til § 1076, kan ske<lb />
+efter Begæring af Overanklageren eller Domfældte eller nogen af de i § 987, 2det og<lb />
+3die Punktum, nævnte Personer; i Henseende til saadan Genoptagelse blive de i Kap.<lb />
+91 foreskrevne Begler at følge. Om Genoptagelse af en Sag, der er afsluttet ved<lb />
+upaaankelig Underretsdom, kan finde Sted, beror paa, om Sagen efter denne Lovs<lb />
+Regler vilde høre for Landsretten; Afgørelsen træffes af vedkommende Landsret.
+</p>

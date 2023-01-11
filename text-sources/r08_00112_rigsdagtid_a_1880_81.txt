@@ -1,0 +1,46 @@
+3587
+<pb n="112" />
+<h>
+<coll>3587</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3588</colr>
+</h>
+<wtitle>§ 416.</wtitle>
+<p>Omkostningerne ved heronchandlede Fremgangsmaade, derunder indbesattet Salær til<lb />
+den ifølge § 412 beskikkede Sagfører, paalægges ved Kjendelsen i Sagen den, der umyndig-<lb />
+gjores. Tages Andragendet om Umyndiggørelse ikke til følge, blive Omkostningerne at<lb />
+udrede af den, der har reist Sagen eller af det Offentlige, hvis Sagen er reist af øvrigheden.</p>
+<wtitle>§ 417.</wtitle>
+<p>Den ovenangivne Fremgangsmaade bliver ogsaa at anvende, naar der af Andre frem-<lb />
+fores Andragende om, at Enke maa fættes under fast Lavværgemaal.</p>
+<p>Naar en Enke selv begjærer at blive sat under fast Lavværge, har Underdommeren<lb />
+uden videre Undersøgelse at beskikke en saadan for hende.</p>
+<wtitle>§ 418.</wtitle>
+<p>Naar endeligt Umyndiggjørelsesdekret er afsagt, eller naar det er besluttet, at en Enke<lb />
+skal fættes under fast værgemaal, paahviler det vedkommende Ret strax at give den til vær-<lb />
+ges eller Lavværges Udnævnelse kompetente Myndighed Underretning herom.</p>
+<wtitle>§ 419.</wtitle>
+<p>Naar enten øvrigheden eller den Person, der er erklæret umyndig eller fat under<lb />
+fast Lavværge, eller nogen af de i § 409 1ste Stykke angivne personer for Landsretten tror<lb />
+at kunne oplyse, at der ikke længere er Grund til denne Foranstaltnings Vedblive«, har<lb />
+Paagjældende at indgive et Andragende til Formanden for Landsretten i den Kreds, hvor<lb />
+den Umyndiggjorte bor, om at maatte blive stedet til i et Retsmode at begrunde eller lade<lb />
+begrunde en Begjæring om Umyndigggjørelsens Ovhcevelse. Er Sindssvaghed Umyndiggjo-<lb />
+relsesgrunden, kan der dog ikke tages Hensyn til et af den Umyndiggjorte eller af andre paa<lb />
+hans Vegne indgivet Andragende, medmindre det er ledfaget af en læges Anbefaling.</p>
+<p>Derefter har Landsrettens Formand at beramme et Retsmode, om hvilket der, for-<lb />
+saavidt Andragendet er udgaaet fra den Person, som er erklæret umyndig, skal meddeles hans<lb />
+værge betimelig Underretning; i Retsmodet hores den Paagjældende, og de af ham frem-<lb />
+fsrte Bevifer overveies, hvorefter Landsretten enten ophcever det afsagte Dekret eller afviser<lb />
+hans Begjæring.</p>
+<wtitle>§ 420.</wtitle>
+<p>De om Landretsproceduren givne Forstrifter komme Iøvrigt med de af det Foregaaende<lb />
+følgende Lempelser til Anvendelse i disse Sager.</p>
+<p>Paaanke af eller Besværing over Landsrettens Beslutninger i de i dette Kapitel om-<lb />
+handlede Tilfælde kan ikke finde Sted. Gi heller kan ny Foretagelse af Sagen bevilges i<lb />
+de i dette Kapitel omhandlede Tilfælde.</p>
+<title>Kapitel VI.</title>
+<undertitle>Om Fremgangsmaaden ved at erhverve Mortifilations- eller Eiendomsdom.</undertitle>
+<wtitle>§ 421.</wtitle>
+<p>Sager, hvorved Mortifikationødom søges, blive at anlægge  ved Landsretten  paa  det<lb />
+Sted, hvor vedkommende Dokument er udstedt,   forsaavidt der ved Dokumentet gives Pant i</p>

@@ -1,0 +1,81 @@
+1909
+<pb n="3" />
+<h>
+<coll>
+1909
+</coll>
+<topmidle>Forsl. t. L. om  Rettens Pleje.</topmidle>
+<colr>
+1910
+</colr>
+</h>
+<p>
+de nævnte Paragraffer vilde høre under Underretterne, fremdeles handlendes, Fa-<lb />
+brikanters og Skibsrederes Konkursboer samt endelig de Straffesager, der efter de<lb />
+hidtil gældende Regler have hørt under Sø- og Handelsretten.
+</p>
+<p>
+Den første Afdeling bestaar af en af Kongen blandt Landsrettens Medlemmer<lb />
+valgt Formand og 4 sø- eller handelskyndige Dommere, den anden Afdeling af en<lb />
+af Kongen blandt Byrettens Medlemmer valgt Formand og 2 sø- eller handelskyn-<lb />
+dige Dommere. Dog kan Retten beklædes af Formanden alene, naar der ikke er<lb />
+Spørgsmaal om Vidneførsel, Syn og Skøn, Afhøring af Parter, Parts Ed, Kendelse<lb />
+om omtvistede Punkter eller Domsforhandling. Ved Behandling af Straffesager samt<lb />
+naar Søforklaringer eller Søforhør skulle optages, dannes Retten af Formanden for<lb />
+2den Afdeling og to søkyndige Medlemmer; dog kan Retten i Straffesager udenfor<lb />
+Domsbehandling beklædes af Formanden alene, for saa vidt der ikke til Brug under<lb />
+denne skal afhøres Vidner, ske Besigtigelse eller afgives Syn eller Skøn.
+</p>
+<p>
+De sø- og handelskyndige Medlemmer vælges paa den i Lov af 19. Februar 1861<lb />
+§ 3 angivne Maade og skulle have de i samme Lovs § 4 nævnte Egenskaber, lige-<lb />
+som Bestemmelserne i Lovens §§ 6 og 7 skulle gælde om dem. Deres samlede An-<lb />
+tal fastsættes ved kongelig Anordning; Retten bestemmer selv den Omgang, hvorefter<lb />
+de skulle deltage i Rettens Møder.
+</p>
+<p>
+I Henseende til Proceduren saavel som til Paaanke og Kære forholdes der med<lb />
+Hensyn til første Afdeling efter de for Landsretterne givne Regler og med Hen-<lb />
+syn til anden Afdeling efter de for Underretterne givne Regler.
+</p>
+<p>
+Ved Sø- og Handelssager forstaas i denne Lov de borgerlige Sager, i hvilke<lb />
+Fagkundskab henholdsvis til Søforliold og til Handelsforhold skønnes at være af Be-<lb />
+tydning; og ved Afgørelsen heraf vil der være at tage særligt Hensyn til, om begge
+</p>
+<p>
+Parter ønske Sagen behandlet som Sø- og Handelssag.
+</p>
+<wtitle>§ 10.</wtitle>
+<p>
+Oppebørsel af og Regnskabsaflæggelse for Retsafgifter forestaas ved hver<lb />
+Landsret af en Justitssekretær, der tillige er Retsskriver. Desuden ansættes der ved<lb />
+Landsretterne, foruden det i øvrigt fornødne Kontorpersonale, ved Østre Landsret 6,<lb />
+ved Vestre Landsret 3 Fuldmægtige. Landsrettens Justitiarius træffer Bestemmelse<lb />
+om Forretningernes Fordeling.
+</p>
+<p>
+Ved Sø- og Handelsretten indrettes et af Formanden for 1ste Afdeling ledet<lb />
+Skriverkontor, hvorved ansættes en Justitssekretær samt to Fuldmægtige foruden det<lb />
+øvrige fornødne Kontorpersonale.
+</p>
+<wtitle>§ 11.</wtitle>
+<p>
+Domsbehandling af Straffesager, i hvilke Bevisførelse skal finde Sted for Lands-<lb />
+retten, foregaar dels paa det Sted, hvor Landsretten har sit Sæde, dels paa andre<lb />
+af Justitsministeren ved Anordning dertil fastsatte Steder i Landsretskredsen. I An-<lb />
+ordningen bestemmes, hvilke Dele af Landsretskredsen der skal henlægges til hvert<lb />
+af disse Tingsteder.
+</p>
+<p>
+I borgerlige Sager kan Landsretten bestemme, at Domsforhandlingen helt eller<lb />
+delvis skal foregaa udenfor Rettens Sæde, naar saadant af Hensyn til Bevisførelser<lb />
+skønnes hensigtsmæssigt. Sager, i hvilke saadan Bestemmelse er truffen, kunne hen-<lb />
+vises til Behandling og Paakendelse paa de Ting, der i Henhold til Reglen i nær-<lb />
+værende Paragrafs første Stykke afholdes udenfor Landsrettens Hovedtingsted.
+</p>
+<wtitle>§ 12.</wtitle>
+<p>
+Landsretskredsene inddeles i Underretskredse. Disses Tal og Omraade fastsættes<lb />
+ved særlig Lov.
+</p>

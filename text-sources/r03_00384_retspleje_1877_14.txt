@@ -1,0 +1,74 @@
+378
+<pb n="384" />
+<leftside>
+<p>blot  anordnes   i   Landsretssager,   men   også<lb />
+finde   Anvendelse   ved   Underretten.     Faktisk</p>
+<p>vil   der   vel   sjældent  være  Brug for   denne<lb />
+Vehandlingsmåde   i de Sager, som ere henlagte til Underretten; mm da dennes Kompetence kan udvides   ved   Parternes  Vedtagelse<lb />
+(§ 8), må i al Fald af den Grund Adgang <lb />
+til skriftlig Behandling holdes åben også for <lb />
+Underretssagernes Vedkommende.     Imod   den<lb />
+Bestemmelse   af Retten,   hvorved skriftlig Behandling   anordnes,   bør   der  formentlig  ikke<lb />
+kunne anvendes noget Retsmiddel, se § 388 i<lb />
+Slutn.;   de   Hensigtsmæssighedshensyn,   hvorefter   Afgjørelsen   må   træffes,   kunne  bedst <lb />
+vurderes af den Ret, for hvilken Sagen føres.<lb />
+Hvor   skriftlig   Behandling   er  anordnet, <lb />
+bortfalder  efter  Forholdets Natur  nødvendigvis det,  som  tidligere måtte være mundtlig<lb />
+forhandlet i Sagen, hvorimod de skriftlig fastslåede Indrømmelser  eller andre Erklæringer<lb />
+ikke   ophøre   at   være   bindende   for   vedkommende Part,   fordi  skriftlig Behandling bagefter    anordnes.     Den   nye   Procedure   begynder   med  en  under  Rettens   Ledelse   stedfindende Indlægsvexling mellem Parterne, som<lb />
+kan strække sig til Duplik, se § 389.   At disse<lb />
+Indlæg have en helt anden Betydning end de<lb />
+Processkrifter,   der i den   almindelige Procesmåde gå forud for den mundtlige Forhandling, er  en  Selvfølge.     I   den   almindelige<lb />
+Procesmåde    går    Skristvexlingen    mellem<lb />
+Parterne kun ud på at forberede den mundtlige Forhandling, medens denne   er   det egentlige Grundlag for Sagens Afgjørelse,    Netten<lb />
+stal altså ikke i   Embeds   Medfør påse,   at<lb />
+den mundtlige   Forhandling stemmer med   de<lb />
+forberedende Processkrifter.    Efter den Behandlingsmåde, som foreskrives i nærværende Kapitel, høre   derimod   Parternes   Processkrifter,<lb />
+selv   hvor   en   mundtlig Slutningsforhandling<lb />
+finder   Sted,    til   det    Grundlag,     hvorpå<lb />
+Dommen  bygges, se §   394.     Når bortsees<lb />
+fra   Bevisførelsen,    er Skrift   det   alene Bestemmende ved Dommens Afsigelse, så at ikke<lb />
+blot Påstandene, men også Søgsmålsgrunde,<lb />
+Indsigelser  såvelsom overhovedet   faktiske Anbringender alene kunne komme i Betragtning,<lb />
+forsåvidt de   enten  indeholdes  i de skriftlige<lb />
+Indlæg eller  ere optagne i Protokollen.</p>
+</leftside>
+<rightside>
+<p>Iøvrigt er Proceduren i de heromhandlede<lb />
+Sager med fornøden Lempelse ordnet efter<lb />
+det samme Mønster, som følges i den almindelige Rettergang. Derfor kommer en lignende<lb />
+Sondring som den, der kjendes i den almindeprocesmåde, til Anvendelse her, idet Bevisførelsen og de dertil sig knyttende Spørgsmål<lb />
+udskydes, indtil den ovenfor omtalte Indlægsvexling er sluttet. Når dette Punkt er<lb />
+nået, bliver Sagen at optage, og findes den<lb />
+da moden til endelig Påkjendelse, afsiger<lb />
+Retten strax Dom på det foreliggende helt<lb />
+skriftlige Grundlag, Finder Retten derimod,<lb />
+at der ikke på dette Trin kan afsiges Dom,<lb />
+fordi der mangler Bevis for Omstændigheder,<lb />
+som vilde være af Betydning for Sagens Afgjørelse, skal der, i Lighed med hvad der<lb />
+gjælder i det almindelige System, afgives en<lb />
+Kjendelse, hvorved det bestemmes, hvilke disse<lb />
+Omstændigheder ere, og i Forbindelse hermed<lb />
+berammes et Møde til Bevisførelsens Forberedelse, se § 390. Såvel denne som selve<lb />
+Bevisførelsen foregår derefter i Overensstemmelse med de almindelige Regler, altså<lb />
+mundtlig, forsåvidt der ikke i Medfør af de<lb />
+almindelige Regler, jfr, §§ 181 Litr. b og c<lb />
+og §§ 96, 203 og 232, gjøres Undtagelse<lb />
+fra Umiddelbarhedsgrundfætningen (§§ 391—<lb />
+392). Ligeledes have Parterne strax mundtlig i<lb />
+Forbindelse med Bevisførelsen at fremsætte de<lb />
+yderligere Bemærkninger, som de ville knytte<lb />
+til deres tidligere skriftlige Udviklinger, alt forsåvidt ikke Retten i Henhold til sin i det Foregående omtalte Bemyndigelse tillader, at skriftlige Indlæg træde i Stedet for den mundtlige<lb />
+Slutningsforhandling. Når Bevisforhandlingen er tilende, afsiges Dom på Grundlag af<lb />
+de skriftlige Indlæg i Forbindelse med den<lb />
+mundtlige Bevisførelse og de dertil sig<lb />
+knyttende Slutningsforedrag, eller de skriftlige<lb />
+Beviser og Skutningsindlæg, hvor sådanne<lb />
+benyttes, se § 394.</p>
+<p>Om Virkningen af Parternes Udeblivelse<lb />
+gives der i § 395 Regler, som ere simple<lb />
+Konsekventser af Procedurens Beskaffenhed.<lb />
+Udebliver Nogen af Parterne i et Retsmøde,<lb />
+forinden Sagen ved Indlægsvexlingens Slutning optages, bliver den efter Begjæring af den<lb />
+mødende Part at påkjeude på Grundlag af</p>
+</rightside>

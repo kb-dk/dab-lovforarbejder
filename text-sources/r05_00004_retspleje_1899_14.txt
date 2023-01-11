@@ -1,0 +1,35 @@
+0
+<pb n="4" />
+<p>Kapitel XXIII.</p>
+<p>Ny Foretagelse ved Højesteret, §§ 271—272.................................    95—96.</p>
+<p>Kapitel XXIV.</p>
+<p>Behandlingen  af Sager ved  Underret  og  Retsmidler   mod  Underrettens   Afgørelse,</p>
+<p>§§ 273—289......................................................     96—102.</p>
+<p>Kapitel XXV.</p>
+<p>Sager om Veksler og visse andre Gældsbreve,  §§ 290—294..................   102—104.</p>
+<p>Kapitel XXVI.</p>
+<p>Ægteskabssager samt Sager,   hvorunder Arvinger   søge   sig   en  bortebleven Persons</p>
+<p>Formue tilkendt, §§ 295—302........................................   104—106.</p>
+<p>Kapitel XXVII.</p>
+<p>Fremgangsmåden,  når Nogen skal umyndiggøres,  eller Enke skal sættes under fast</p>
+<p>Lavværgemål, §§ 303 — 313.........................................  106—109.</p>
+<p>Kapitel XXVIII.</p>
+<p>Fremgangsmåden ved at erhverve Mortifikations- eller Ejendomsdom, §§ 314—323 110—112.</p>
+
+<title>Fjerde Afsnit.</title>
+<undertitle>Eksekution og Tvangsauktion.</undertitle>
+<undertitle>§§ 324—442.</undertitle>
+<p>Kapitel XXIX.</p>
+<p>Almindelige Betingelser for Eksekution, M 324—338.........................   113—118.</p>
+<p>Kapitel XXX.</p>
+<p>Fuldbyrdelse af Domme, der ikke lyde på Udredelse af Penge, §§ 339—346......   118—121.</p>
+<p>Kapitel XXXI.</p>
+<p>Fuldbyrdelse af Domme, der lyde på Udredelse af Penge, §§ 347—361.........  122—128.</p>
+<p>Kapitel XXXII.</p>
+<p>Eksekutionsforretningens Foretagelse og Proceduren under samme, §§ 362—383 ...   128—135.</p>
+<p>Kapitel XXXIII.</p>
+<p>Almindelige Bestemmelser for Tvangsauktion §§ 384—389....................  135—137.</p>
+<p>Kapitel XXXIV.</p>
+<p>Tvangsauktion over Løsøre, §§ 390—405..................................  138—143.</p>
+<p>Kapitel XXXV.</p>
+<p>Tvangsauktion over fast Ejendom, §§ 406—431 ............................  143—159,</p>

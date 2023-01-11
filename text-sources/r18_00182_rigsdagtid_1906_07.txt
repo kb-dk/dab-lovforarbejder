@@ -1,0 +1,80 @@
+4003
+<pb n="182"/>
+<h>
+<coll>4003</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>4004</colr>
+</h>
+<p>
+Gerningens Spor, Paavirken af Medsigtede eller Vidner til Afgivelse af urigtig For-<lb />
+klaring eller paa, anden lignende Maade, dog at den i ethvert Tilfælde maa tilstedes<lb />
+inden Forundersøgelsens Slutning.
+</p>
+<wtitle>§ 792.</wtitle>
+<p>
+Afhørelse af Sigtede saavel som af Vidner og Syns- og Skønsmænd sker ved<lb />
+Dommeren, medmindre denne tillader andet. Hvor Vidner eller Syns- eller Skøns-<lb />
+mænd afhøres, kan Sigtede og Forsvareren begære yderligere Spørgsmaal stillede.<lb />
+Dommeren kan overlade til den paagældende selv at stille disse.
+</p>
+<p>
+Af de Personers Udsagn, som afhøres, skal det væsentlige Indhold gengives i<lb />
+Retsbogen; vigtigere Erklæringer af Sigtede og navnlig Tilstaaelser skulle saa vidt<lb />
+muligt gengives med hans egne Ord; det samme gælder om Forklaringer, der af-<lb />
+gives af Vidner og Syns- eller Skønsmænd, medmindre de maa antages at skulle af-<lb />
+høres paanv under Domsforhandlingen (Nævningesager). Naar Afhørelsen er endt, op-<lb />
+læses og vedtages det Retsbogen tilførte.
+</p>
+<p>
+Efter Oplæsningen ere Sigtede og Forsvareren berettigede til at fremføre Be-<lb />
+mærkninger med Hensyn til den skete Tilførsel. Saadanne Bemærkninger indføres i<lb />
+Korthed i Retsbogen.
+</p>
+<p>
+Afslag paa Begæring om yderligere Spørgsmaal saavel som Afgørelse af Tviste-<lb />
+punkter, der opstaa under Forundersøgelsen, sker ved Kendelse.
+</p>
+<p>
+Offentlig Gengivelse af Forhandlinger i Retsmøder under Forundersøgelsen<lb />
+maa ikke finde Sted, medmindre Retten af særlige Grunde ved Kendelse har give<lb />
+Samtykke dertil. Overtrædelse heraf straffes med Bøder fra 100 til 1,000 Kr.
+</p>
+<wtitle>§ 793.</wtitle>
+<p>
+Frafaldes Forfølgningen, eller finder Retten, at Lovens Betingelser for dens<lb />
+Virksomhed ikke ere til Stede, standses Forundersøgelsen, og fornøden Underretning<lb />
+meddeles Politiet og Sigtede.
+</p>
+<p>
+Forundersøgelsen sluttes, naar Retten finder, at Undersøgelsen er fremmet saa<lb />
+vidt, som Øjemedet udkræver, saa og naar Politiet begærer det eller oplyser, at Til-<lb />
+tale er rejst. Udskrift af Sagen tilligemed dennes Aktstykker tilstilles snarest muligt<lb />
+Paatalemyndigheden. Underretning om Slutningen meddeles Sigtede.
+</p>
+<p>
+En sluttet Forundersøgelse kan genoptages efter Begæring af Paatalemyndig-<lb />
+heden eller Sigtede. Indtil Tiltale er rejst, kan Retten ogsaa af egen Drift genoptage<lb />
+Forundersøgelsen for at træffe Bestemmelse om Ophør af Fængsling eller anden ved-<lb />
+varende Foranstaltning.
+</p>
+<wtitle>§ 794.</wtitle>
+<p>
+Fremkommer der under Forundersøgelsen Oplysning om Omstændigheder, ifølge<lb />
+hvilke Undersøgelsesdommeren skønner, at der vil blive Spørgsmaal om at undlade<lb />
+Paatale i Medfør af § 692, meddeler han Paatalemyndigheden Underretning herom,<lb />
+ledsaget af fornøden Udskrift af Undersøgelsen. Indtil dens Beslutning indtræffer,<lb />
+foretages der kun saadanne Undersøgelseshandlinger, som ikke taale Ophold.
+</p>
+<p>
+Paatalemyndighedens Beslutning om Frafald af Forfølgning binder ikke den<lb />
+overordnede Myndighed; dog maa Forfølgningens Fortsættelse efter den overordnede<lb />
+Myndigheds Beslutning finde Sted inden Udløbet af to Maaneder, medmindre Be-<lb />
+tingelserne for Sagens Genoptagelse efter § 936 ere til Stede.
+</p>
+<wtitle>§ 795.</wtitle>
+<p>
+Er Forundersøgelse under een Sag iværksat mod flere Sigtede eller for flere<lb />
+Forbrydelser, kan Retten, naar den finder, at Undersøgelsen for enkelte, men ikke alle<lb />
+Sigtedes eller Forbrydelsers Vedkommende er fremmet i det Omfang, som Øjemedet<lb />
+udkræver, for saa vidt slutte Forundersøgelsen.
+</p>

@@ -1,0 +1,60 @@
+487
+<pb n="223" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>487</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+Rettens Afgørelse træffes ved Kendelse og meddeles uden Ophold alle vedkommende.
+</p>
+<wtitle>§ 950.</wtitle>
+<p>
+Mod Landsrettens Afgørelse i et Kæremål kan yderligere Kære til Højesteret<lb/>
+ikke finde Sted. medmindre Justitsministeren undtagelsesvis meddeler Tilladelse hertil.<lb/>
+Andragende om sådan Tilladelse må indgives inden en Uge, efter at Landsrettens<lb/>
+Kendelse er meddelt. På sådant yderligere Kæremål finde Reglerne i de foregående Paragraffer Anvendelse med de fornødne Lempelser.
+</p>
+<p>
+Kæremål kunne i Højesteret forhandles og afgøres i det i § 930 ommeldte Udvalg.
+</p>
+<wtitle>§ 951.</wtitle>
+<p>
+Beslutninger vedrørende Forberedelsen af et Kæremåls Forhandling kunne i<lb/>
+lignende Omfang som bestemt for Ankesagers Vedkommende træffes henholdsvis af<lb/>
+Landsrettens eller af Højesterets Formand.
+</p>
+<title>Kapitel 84.</title>
+<undertitle>
+Genoptagelse.
+</undertitle>
+<wtitle>§ 952.</wtitle>
+<p>
+Når en Forfølgning, som ved Undersøgelsesret har været indledet mod en<lb/>
+bestemt Sigtet, standses (§ 808), eller når, efter at Tiltale er rejst, Forfølgningen frafaldes, uden at Dom bliver afsagt, kan, udenfor det i § 809, 2det Stykke, omhandlede<lb/>
+Tilfælde, ny Forfølgning ved Undersøgelsesret eller ny Tiltale kun rejses, når ny Beviser<lb/>
+af Vægt senere komme for Dagen, eller de i nedenstående § 953 angivne Betingelser<lb/>
+ere til Stede. Derimod er den Omstændighed, at Undersøgelsesretten i Henhold til<lb/>
+§ 800 har nægtet at tage en Begæring om Forundersøgelse til Følge eller i Henhold<lb/>
+til § 808 har standset en begyndt Forundersøgelse, ikke til Hinder for, at Tiltale<lb/>
+rejses ved den dømmende Ret.
+</p>
+<wtitle>§ 953.</wtitle>
+<p>
+Genoptagelse af en Sag, som er pådømt ved Højesteret eller ved Landsret<lb/>
+under Medvirkning af Nævninger eller ifølge Anke, og hvorunder Tiltalte er frifunden,<lb/>
+kan finde Sted efter Justitsministerens Begæring,
+</p>
+<p>
+1.	når det ifølge en Tilståelse, Tiltalte senere har afgivet, eller andre Beviser,<lb/>
+der senere ere komne for Dagen, må antages, at han har begået Forbrydelsen;
+</p>
+<p>
+2.	når falske Forklaringer eller Erklæringer ere afgivne under Sagen af Vidner<lb/>
+eller Syns- eller Skønsmænd, eller falske eller forfalskede Dokumenter ere benyttede<lb/>
+under samme, eller noget strafbart Forhold, sigtende til at påvirke eller bestemme<lb/>
+Sagens Udfald, er udvist enten af Tiltalte eller af nogen, der i Medfør af sit Embede<lb/>
+eller offentligt Hverv har medvirket ved Sagens Behandling, og der efter Omstændighederne er god Grund til at antage, at sådant har bevirket eller medvirket til, at<lb/>
+Tiltalte har undgået Domfældelse.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

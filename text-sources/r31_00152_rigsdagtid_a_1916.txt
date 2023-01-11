@@ -1,0 +1,72 @@
+568
+<pb n="152" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>568</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+Vil Parter, imellem hvilke en Tvist på Skiftet er opstået, overlade Spørgsmålets Afgørelse til Skifteretten, er denne, når ingen Bevisførelse ved Vidner, Syn<lb />
+eller Parternes egen Forklaring behøves, pligtig at afsige en Kendelse, ved hvilken<lb />
+Spørgsmålet da er afgjort på samme Måde som ved Voldgift. Skifteretten kan<lb />
+pålægge den Part, der skønnes uden tilstrækkelig Grund at have givet Anledning til<lb />
+eller unødig at have vidtløftiggjort Proceduren, at udrede Sagsomkostninger til Modparten, således at Fuldbyrdelsesfrist med Hensyn hertil fastsættes i Kendelsen.
+</p>
+<wtitle>§ 657.</wtitle>
+<p>
+De i foregående Paragraf omhandlede Sager kan anlægges ved det Steds<lb />
+Underret, hvor Boet behandles, eller, for så vidt Sagen ifølge dens Genstand henhører<lb />
+under Landsret, ved den Landsret (jfr. § 338), under hvilken vedkommende Skifteret står.
+</p>
+<p>
+Dog skal det, hvor en Fordring bestrides af Boet, altid stå den, der nedlægger Påstanden eller anmelder Fordringen, frit for at anlægge Sagen ved Underret<lb />
+uden Hensyn til dens Genstand.
+</p>
+<wtitle>§ 658.</wtitle>
+<p>
+Boet er i de i § 656, 1ste Stykke, omhandlede Tilfælde selv at anse som Modpart, hvorfor Stævningen lyder på det og forkyndes for Skifteretten på Boets Vegne.
+</p>
+<p>
+Det påhviler Skifteretten at sørge for, at Boet under Retssagen repræsenteres<lb />
+på behørig Måde.
+</p>
+<wtitle>§ 659.</wtitle>
+<p>
+Dommen i en i Henhold til § 656 anlagt Sag kan ikke, medmindre pågældende<lb />
+Parter frafalder Anke imod Dommen, eller den kun kan påankes efter særlig Tilladelse,<lb />
+lægges til Grund for Boets videre Behandling, førend den almindelige Ankefrist er udløbet ubenyttet.
+</p>
+<p>
+Skulde Dommen blive forandret eller annulleret ifølge senere Påanke, tages<lb />
+behørigt Hensyn hertil ved Boets videre Behandling, i fornødent Fald ved Omgørelse<lb />
+af det foretagne, hvis Skifte ikke endnu er sluttet, men efter den Tid må enhver Forandring søges iværksat ved Påanke af Repartitionen.
+</p>
+<wtitle>§ 660.</wtitle>
+<p>
+Spørgsmål om Boets Overtagelse, Bestyrelse — derunder Fastsættelse af de<lb />
+i Skifteloven af 30. November 1874 § 31, 2det Stykke, og § 33, 2det Stykke, omhandlede<lb />
+Vederlag — Udlevering og, med de af §§ 655 og 656 flydende Begrænsninger, også om<lb />
+dets Opgørelse påkendes af Skifteretten. Tvistigheder angående disse Spørgsmål<lb />
+behandles efter de for Underretssager foreskrevne Regler. Forligsmægling foregår ved<lb />
+Skifteretten.
+</p>
+<wtitle>§ 661.</wtitle>
+<p>
+Kendelser eller Beslutninger af Skifteretten, der forefalder under Boets Behandling, kan, for så vidt der overhovedet er Adgang til at indbringe dem til højere<lb />
+Rets Prøvelse (jfr. § 663), påkæres til den Landsret, under hvilken Skifteretten står.<lb />
+Boets Behandling bliver ikke desto mindre at fortsætte, men Skifteretten har i så<lb />
+Fald at drage Omsorg for, at den ankendes Ret ikke foregribes ved Behandlingen,<lb />
+medens Kæremålet står på.
+</p>
+<p>
+Kæremålet må iværksættes inden 2 Uger, efter at pågældende Beslutning<lb />
+er taget eller Kendelse afsagt.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

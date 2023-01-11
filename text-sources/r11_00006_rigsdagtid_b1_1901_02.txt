@@ -1,0 +1,87 @@
+2269
+<pb n="6" />
+<h>
+<coll>2269</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2270</colr>
+<topmidle> Tillæg B. (148).	Ordentl. Samling 1901—02. </topmidle>
+</h>
+<leftside>
+<wtitle>Til § 20.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget:</p>
+<p>154) I Slutningen af 1ste Stykke saavel<lb />
+som i Slutningen af 2det Stykke sættes<lb />
+efter „Stævningens": „eller Forligskla-<lb />
+gens".</p>
+<wtitle>Til § 31.</wtitle>
+<p>Af Udvalget:</p>
+<p>155) Ordene „samme ved § 94 tillagte<lb />
+Myndighed" ændres til: „den Myndighed,<lb />
+som er tillagt den i § 94".</p>
+<wtitle>Til § 32.</wtitle>
+<p>156) I Stykke 3 efter „er" indsættes<lb />
+„gift med".</p>
+<wtitle>Til § 32.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget:</p>
+<p>157) Sidste Stykke udgaar.</p>
+<wtitle>Til § 42.</wtitle>
+<p>Af Udvalget:</p>
+<p>158) „Procesomkostninger" ændres til:<lb />
+„Sagsomkostninger".</p>
+<wtitle>Til § 45.</wtitle>
+<p>159) Efter „Maaned" indsættes: „og<lb />
+ikke med det særlige Hverv for Øje at<lb />
+møde for Retten".</p>
+<wtitle>Til § 46.</wtitle>
+<p>Af Udvalget undtagen Nanke:<lb />
+160) Paragraffen udgaar.</p>
+<wtitle>Til § 47.</wtitle>
+<p>Af Udvalget:</p>
+<p>161) Ordet „uberygtet" i Linie 2 æn-<lb />
+dres til: „ikke ved Dom funden skyldig<lb />
+i en i den offentlige Mening vanærende<lb />
+Handling."</p>
+</leftside>
+<rightside>
+<p>Af Udvalget:</p>
+<p>162) Stk. 1 Pkt. 2 affattes saaledes:<lb />
+„Er denne ikke indrettet saaledes, at den<lb />
+tillige kan være Retsliste for den enkelte<lb />
+Retsdag, affattes der for hver enkelt Rets-<lb />
+dag en Retsliste, paa hvilken de Sager, der<lb />
+skulle komme for, optages". Pkt. 3 udgaar.</p>
+<p>Underændringsforslag til Nr. 162:</p>
+<p>Af Nanke:</p>
+<p>163) Til Ændringsforslaget føjes:<lb />
+„Retslisten for den enkelte Dag op-<lb />
+slaas, Dagen før Retten sættes, i Rettens<lb />
+Forværelse paa et for alle tilgængeligt<lb />
+Sted".</p>
+<wtitle>Til § 56.</wtitle>
+<p>Af Udvalget:</p>
+<p>164) I Linie 2 foran „beslutte" 
+indsæt-<lb />
+tes: „undtagelsesvis".</p>
+<p>165)	I Linie 3 ændres „den offentlige<lb />
+Orden til: „Orden og Ro i Retslokalet".<lb />
+I Linie 3 efter „kræver det" indsættes:<lb />
+„, eller offentlig Behandling vilde tilføje<lb />
+nogen en ufornøden Krænkelse".</p>
+<wtitle>Til § 60.</wtitle>
+<p>Af Justitsministeren, tiltraadt af<lb />
+Udvalget:</p>
+<p>166) 12det Stykke udgaar: „(herunder<lb />
+ogsaa Fogedret og Skifteret").</p>
+<wtitle>Til § 62.</wtitle>
+<p>Af Udvalget:</p>
+<p>167) I Linie 2 udgaar „først".</p>
+<wtitle>Til § 63.</wtitle>
+<p>168) Slutningsordene: „i Loven er fore-<lb />
+skrevet eller tilladt" ændres til: „er fore-<lb />
+skrevet eller tilladt i Loven".</p>
+<p>Der tilføjes som nyt Stykke:</p>
+<p>„Det i en Sag tilførte oplæses, inden<lb />
+ny Sag foretages".</p>
+</rightside>

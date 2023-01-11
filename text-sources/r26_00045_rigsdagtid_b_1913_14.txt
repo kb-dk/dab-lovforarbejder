@@ -1,0 +1,318 @@
+2889
+<pb n="45" />
+<h>
+<coll>2889</coll>
+<topmidle>Bilag til Bet. o. Lovf. om Rettens Pleje m. m.</topmidle>
+<colr>2890</colr>
+</h>
+<table>
+<tr>
+<td>
+Nugældende Ret.
+</td>
+<td>
+Efter Forslaget.
+</td>
+</tr>
+<tr>
+<td>
+Yærdi.
+</td>
+<td>
+Yed almindelig<lb />
+kontradiktorisk<lb />
+Forhandling.
+</td>
+<td>
+I Tilfælde af Op-<lb />
+tagelse paa første<lb />
+Tægtedag — ved<lb />
+Højesteret i Til-<lb />
+fælde af Indstævn-<lb />
+tes Udeblivelse.
+</td>
+<td>
+Yed almindelig<lb />
+kontradiktorisk<lb />
+Forhandling.
+</td>
+<td>
+I Tilfælde af Op-<lb />
+tagelse paa første<lb />
+Tægtedag — saa-<lb />
+ledes i Regelen<lb />
+ved Indstævntes<lb />
+Udeblivelse.
+</td>
+</tr>
+<tr>
+<td>
+40 Kr.
+Underret 		
+Over(Lands)ret...
+</td>
+<td>
+2.84<lb />
+12.88
+</td>
+<td>
+2.00<lb />
+11.34
+</td>
+<td>
+3.00<lb />
+24.00
+</td>
+<td>
+1.50<lb />
+24.00
+</td>
+</tr>
+<tr>
+<td>
+100 Kr.
+Underret	
+Over(Lands)ret...
+</td>
+<td>
+4.70<lb />
+24.63
+</td>
+<td>
+4.00<lb />
+22.55
+</td>
+<td>
+6.00<lb />
+24.00
+</td>
+<td>
+3.00<lb />
+24.00
+</td>
+</tr>
+<tr>
+<td>
+200 Kr.
+Underret	
+Over(Lands)ret...<lb />
+Højesteret
+</td>
+<td>
+8.40<lb />
+24.63<lb />
+84.00
+</td>
+<td>
+7.80<lb />
+22.55<lb />
+55.20
+</td>
+<td>
+12.00
+24.00
+»
+</td>
+<td>
+6.00
+24.00<lb />
+»
+</td>
+</tr>
+<tr>
+<td>
+300 Kr.
+Underret		
+Over(Lands)ret...<lb />
+Højesteret
+</td>
+<td>
+8.40<lb />
+24.63<lb />
+84.00
+</td>
+<td>
+7.80<lb />
+22.55<lb />
+55.20
+</td>
+<td>
+16.00
+24.00
+»
+</td>
+<td>
+8.oo
+24.00
+»
+</td>
+</tr>
+<tr>
+<td>
+400 Kr.
+Underret	
+Over(Lands)ret...<lb />
+Højesteret
+</td>
+<td>
+8.40<lb />
+24.63<lb />
+84.00
+</td>
+<td>
+7.80<lb />
+22.55<lb />
+55.20
+</td>
+<td>
+»
+20.00<lb />
+100.00
+</td>
+<td>
+»
+10.00<lb />
+100.00
+</td>
+</tr>
+<tr>
+<td>
+1,000 Kr.<lb />
+Underret ........
+Over(Lands)ret,..<lb />
+Højesteret
+</td>
+<td>
+8.40<lb />
+24.63<lb />
+84.00
+</td>
+<td>
+7.80<lb />
+22.55<lb />
+55.20
+</td>
+<td>
+»
+50.00<lb />
+100.00
+</td>
+<td>
+»
+25.00<lb />
+100.OO
+</td>
+</tr>
+<tr>
+<td>
+1,500 Kr.
+Underret	
+Over(Lands)ret..,<lb />
+Højesteret
+</td>
+<td>
+8.40<lb />
+24.63<lb />
+84.00
+</td>
+<td>
+7.80<lb />
+22.55<lb />
+55.20
+</td>
+<td>
+»
+60.00<lb />
+100.00
+</td>
+<td>
+»
+30.00<lb />
+100.00
+</td>
+</tr>
+<tr>
+<td>
+4,000 Kr.
+Underret 		
+Over(Lands)ret...<lb />
+Højesteret
+</td>
+<td>
+12.40<lb />
+32.63<lb />
+92.00
+</td>
+<td>
+11.80<lb />
+30.55<lb />
+63.20
+</td>
+<td>
+»
+120.00<lb />
+180.00
+</td>
+<td>
+»
+60.00<lb />
+180.00
+</td>
+</tr>
+<tr>
+<td>
+5,000 Kr.
+Underret	
+Over(Lands)ret...<lb />
+Højesteret	
+</td>
+<td>
+13.40<lb />
+34.63<lb />
+94.00
+</td>
+<td>
+12.80<lb />
+32.63<lb />
+65.20
+</td>
+<td>
+»
+130.00<lb />
+195.00
+</td>
+<td>
+»
+65.00<lb />
+195.00
+</td>
+</tr>
+<tr>
+<td>
+10,000 Kr.
+Underret	
+Over(Lands)ret...<lb />
+Højesteret
+</td>
+<td>
+18.40<lb />
+44.63<lb />
+104.00
+</td>
+<td>
+17.80<lb />
+42.55<lb />
+75.20
+</td>
+<td>
+»
+180.00<lb />
+270.00
+</td>
+<td>
+»
+90.00<lb />
+270.00
+</td>
+</tr>
+</table>

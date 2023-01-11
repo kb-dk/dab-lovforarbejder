@@ -1,0 +1,40 @@
+27
+<pb n="33" />
+<wtitle>§  92.</wtitle>
+<p>Retssproget er dansk. Ingen skriftlig eller<lb />
+mundtlig Henvendelse fra Parterne til hinanden eller til Retten må ske i noget andet<lb />
+Sprog. Afhørelse af Personer, der ikke ere<lb />
+det danske Sprog mægtige, foregår ved Hjælp<lb />
+af en edsvoren Tolk; dog kan ved Underretterne Tilkaldelse af Tolk undlades, når Parterne ikke gjøre Fordring herpå, og Retten<lb />
+tiltror sig fornødent Kjenskab til det fremmede<lb />
+Sprog.</p>
+<p>Dokumenter, der ere affattede i fremmede<lb />
+Sprog, må ledsages af en Oversættelse, der<lb />
+skal være autoriseret af en offenlig ansat<lb />
+Translateur, medmindre Parterne anerkjende<lb />
+dens Rigtighed.</p>
+<p>Forhandling med og Afhørelse af Døve,<lb />
+Stumme og Døvstumme foregår enten ved<lb />
+Hjælp af Personer, der ere kyndige i Tegnsproget, og som forud tages i Ed, eller ved<lb />
+skriftlige Spørgsmål og Svar.<lb />
+</p>
+<wtitle>§  93.</wtitle>
+<p>Rettens Formand leder de mundtlige Forhandlinger. Han giver Parterne Ordet i den<lb />
+Orden, hvori disse have at ytre sig, og han<lb />
+slutter Forhandlingerne, når Han anser det<lb />
+foreliggende Æmne for tilstrækkeligen drøftet.<lb />
+Ordet kan fratages den Part, som ikke vil<lb />
+rette sig efter Formandens Ledelse, og han<lb />
+må da bære det Tab, som kan følge heraf.</p>
+<wtitle>§  94.</wtitle>
+<p>Enhver af Parterne er pligtig bestemt og<lb />
+utvetydigt at angive de Kjendsgjerninger, på<lb />
+hvilke han støtter sine Påstande, såvelsom<lb />
+bestemt og utvetydigt at erklære sig over de<lb />
+af Modparten anførte Kjendsgjerninger.</p>
+<p>Om en ikke særskilt og udtrykkeligt benægtet Kjendsgjerning skal ansees for indrømmet<lb />
+eller bestridt, afgjør Retten efter et Skjøn over<lb />
+Forhandlingerne i det Hele.</p>
+<wtitle>§  95.</wtitle>
+<p>Retten skal ved hensigtsmæssige Spørgsmål til Parterne søge at fjerne Uklarhed,<lb />
+Tvetydighed eller Ufuldstændighed i Fremstillingen af Sagen og i andre afgivne Erklæringer og Oplysninger.</p>

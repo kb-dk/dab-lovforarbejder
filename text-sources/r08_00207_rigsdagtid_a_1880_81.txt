@@ -1,0 +1,45 @@
+3777
+<pb n="207" />
+<h>
+<coll>3777</coll>
+<topmidle>Forsl. t. L. om Strafferetspleien.</topmidle>
+<colr>3778</colr>
+</h>
+<p>lingens Udslettelse af den foranforte Grund vilde gaa tabt, eller at de ved senere Benyttelse<lb />
+vilde give et mindre sikkert Resultat, kunne de efter Rettens Beslutning fores udenfor Hoved-<lb />
+forhandlingen.</p>
+<p>I Sager, som det ifolge § 35 tilkommer Politimesteren eller ifølge § 39 Private<lb />
+at paatale, kan, naar den Sigtede udebliver uden oplyst lovligt Forfald, og Dommeren ikke<lb />
+finder hans personlige Ncrrværelse nødvendig, Hovedforhandling finde Sted (§§ 366 og 451).</p>
+<title>Kapitel V.</title>
+<undertitle>Om Afhørelse af den Sigtede sg af en privat Anklager.</undertitle>
+<wtitle>§ 201.</wtitle>
+<p>Enhver Sigtet, som indkaldes eller fremstilles for Retten til Aihorelse, skal hores<lb />
+angaaende Sigtelsen og de mod ham fremfsrte Beviser.</p>
+<p>Den Sigtedes Begjæring om at afgive Forklaring for Retten skal altid tages til følge (jfr. § 167).</p>
+<wtitle>§ 202.</wtitle>
+<p>Forend videre Afhorelse sinder Sted, adspørges den Sigtede af Rettens Formand om<lb />
+Navn, Alder, Bopæl, Stilling og, hvad der Iøvrigt maatte findes fornødent for at forvisse<lb />
+sig om hans Identitet, samt gjores bekjendt med den mod ham rettede Sigtelse.</p>
+<wtitle>§ 203.</wtitle>
+<p>Den Sigtede opfordres af Dommeren til at udtale sig angaaende de Kjendsgjerninger,<lb />
+som udgjore Sigtelsens Gjenstand. Endvidere opfordrer Dommeren den Sigtede til at ud-<lb />
+tale sig om de ved Vidneforklaringerne samt i andre Maader mod ham fremkomne Bevislig-<lb />
+heder. Forsaavidt det imod den Sigtede Fremkomne eller den Sigtedes egne Udtalelser dertil<lb />
+give Anledning, kan Dommeren rette spørgsmaal til ham angaaende enkelte Punkter.</p>
+<p>Den Sigtedes Afhorelse maa ikke forlænges i det øiemed at fremskaffe Tilstaaelse.</p>
+<wtitle>§ 204.</wtitle>
+<p>Saalænge den Sigtede er tilstede i Retten, skal han være fri for Baand og Tvang.</p>
+<p>Under Afhørelsen skal Dommeren tiltale den Sigtede uden Vrede eller Haan.</p>
+<p>Spørgsmaalene, som rettes til den Sigtede, skulle være bestemte, tydelige og faaledes<lb />
+stillede, at det er ham klart, hvad han bekrcefter eller bencegter med sit Svar.</p>
+<p>Intet spørgsmaal maa stilles saaledes, at Noget, der er bencegtet eller ikke vedgaaet<lb />
+af den Sigtede, forudsættes som tilstaaet.</p>
+<p>Lofter, urigtige Foregivender, Truster og andre Tvangsmidler maa ikke anvendes for<lb />
+at bevcege den Sigtede til Tilstaaelse eller anden Udtalelse af bestemt Indhold.</p>
+<p>Det er ikke den Sigtede tilladt at raadfore sig med en Forsvarer angaaende den<lb />
+umiddelbare Besvarelse af de ham gjorte spørgsmaal.</p>
+<wtitle>§ 205.</wtitle>
+<p>Mod en Sigtet, der vcrgrer sig ved at svare, være sig i det Hele eller paa enkelte<lb />
+Spørgsmaal, eller som hindrer Afhorelsen ved forskilt Afsindighed eller paa lignende Maade,<lb />
+maa ingen Tvang anvendes.</p>

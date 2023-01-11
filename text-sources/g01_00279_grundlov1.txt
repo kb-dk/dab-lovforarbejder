@@ -1,0 +1,160 @@
+485
+<pb n="279">
+<pagename>279</pagename>
+<h>
+<coll>485</coll>
+<colr>486</colr>
+<lb/>
+
+<topleft>1848</topleft>
+<topmidle>
+Beretning<lb/>
+om<lb/>
+Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 65.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Ni og tyvende Møde.<lb/>
+</btitle>
+<notedate>
+Mandagen den 18de December.<lb/>
+</notedate>
+<p>
+Forhandlingsprotocollen for forrige Møde blev oplæst.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Jeg skal anmelde nogle indkomne Adresser,<lb/>
+nemlig:<lb/>
+</p>
+<p>
+1) En Adresse, indleveret af Rigsdagsmanden for Thisted Amts<lb/>
+2det District (Lützhøft) fra 82 Borgere i Thisted, der gåer ud<lb/>
+på 1) at Landets Kjøbstæder måe udgjøre en særskilt Valgclasse,<lb/>
+2) at Kjøbstædernes Rettigheder og Privilegier måe forbeholdes<lb/>
+disse uden videre Indskrænkninger, og 3) at Consumtionen må<lb/>
+blive afsikaffet mod billigt, passende Vederlag.<lb/>
+</p>
+<p>
+2) En Adresse, indleveret af Rigsdagsmanden for Ringkjøbing<lb/>
+Amts 4de District (Fløe) fra 138 Beborere af Stadit og Vedersø<lb/>
+Sogne, hvori de udtale deres Uvillie over den Ånd, der gjør<lb/>
+sig gjældende i de mange fra Kjøbstæderne indkomne Andragender<lb/>
+om Forandring i Udkastet til Valgloven.<lb/>
+</p>
+<p>
+3) Et Andragende, indleveret af den kongevalgte Rigsdagsmand<lb/>
+Køster fra Selskabet Philiatrien i Anledning af den påtænkte<lb/>
+Dåreanstalt i Jylland, hvilket Andragende ønskes overgivet Finantscomiteen.<lb/>
+</p>
+<p>
+De 2 førstnævnte Adresser ville henlagte i Læseværelset og<lb/>
+i sin Lid overleverede til Comiteen i Forfatningsjagen. Dernæst<lb/>
+skulle vi gåe over til Dagsordenen, nemlig Sagen om Værnepligten,<lb/>
+der er til foreløbig Behandling. Efter Aftale med Ordføreren skal<lb/>
+jeg først åbne Discussionen om Uokastets tre første Paragrapher,<lb/>
+der omhandle de almindelige Principer for Værnepligten. Den ærede<lb/>
+Ordfører har Ordet. —<lb/>
+</p>
+<p>
+Den fremlagte Betænkning over Forordningen lyder således:<lb/>
+</p>
+<p>
+Det er overdraget Undertegnede at sammentræde i det Udvalg, som<lb/>
+skal afgive Betænkning over det Rigsforsamlingen af regjeringen forelagte Lovforslag til Indførelje af almindelig Værnepligt. Ved at<lb/>
+gjennemgåe Udkastet have vi fundet Anledning til at forslåe følgende<lb/>
+Forandringer i samme:<lb/>
+</p>
+<p>
+Med Hensyn til Overskriften, formene vi, at det bør hedde: „Lov<lb/>
+om almindelig Værnepligt for Kongeriget Danmark.”<lb/>
+</p>
+<lawaddress>
+ad § 1.<lb/>
+</lawaddress>
+<p>
+Da der ved Udtrykket „Indfødsretten” må antages at være<lb/>
+sigtet til Anordn. 15de Januar 1776, og denne Anordning senere er<lb/>
+undergået Forandriug, ligesom og det forelagte Udkast til en Valglov<lb/>
+indeholder Forslag til Forandring deri, formene di, at det, istedetfor<lb/>
+at betegne de Værnepligten undergivne Mandspersoner, deels som<lb/>
+dem, der ere indfødte, og deels som dem, der ere at ansee lige med<lb/>
+disse, bør hedde: „Alle de Mandspersoner, der have Indfødsret i<lb/>
+Vort Kongerige Danmark, skulle etc.”. Vi foreslåe derhos, at Tilføiningen, om at Forpligtelsen er betinget af Tjenstvygtighed og Alder,<lb/>
+som Noget, der indeholdes i de efterfølgende Bestemmelser, udelades,<lb/>
+så at Slutningen af Paragraphens 1 sie Passus fra Ordet „forsåvidt” bortfalder.<lb/>
+</p>
+<lawaddress>
+ad § 2.<lb/>
+</lawaddress>
+<p>
+Da det synes mindre passende at betegne de her omhandlede Personer som stående i Classe med Udlændinge, formener Udvalget, at<lb/>
+det bør ligefrem udtrykkes, at det kun er, når de erhverve fast Hjem<lb/>
+</p>
+</leftside>
+<rightside>
+<p>
+nogetsteds i Kongeriget Danmark, at de blive Værnepligten undergivne, og der foreslåes derfor den Forandring i Udkastet, at det<lb/>
+efter Ordet „Mandspersoner” i 3die Linie, Kommer til at hedde:<lb/>
+“kun når de siden måtte erhverve sast Hjem nogetsteds i Vort<lb/>
+Kongerige Danmark, Værnepligten undergivne.”<lb/>
+</p>
+<lawaddress>
+ad § 4.<lb/>
+</lawaddress>
+<p>
+Undertegnede Hiort formener, at den sidste Deel af Paragraphen ikke fyldestgjør Retfærdigheden, idet Bestemmelsen kun gåer<lb/>
+ud på Tilbagebetaling af den erlagte Kjendelse, forsåvidt den Vedkommende bliver udskreven til activ Tjeneste. Forholdet er nærmest<lb/>
+et Contractsforhold mellem Staten og den Private, og derfor må<lb/>
+Staten, når den ikke seer sig istand til at opfylde Contracten, give<lb/>
+den Vedkommende Skadeserstatning, og således i det mindste tilbagebetale den erlagte Kjendelse. Jeg indstiller derfor, at Bestemmelsen rettes derhen, at Vedkommende, uden Hensyn til om de blive<lb/>
+udskrevne til activ Tjeneste, på Anfordring tilbagebetales de erlagte<lb/>
+Kjendelser.<lb/>
+</p>
+<p>
+Undertegnede Bregendahl formener derimod, at da det ved en<lb/>
+Kjendelses Erlæggelse kun kan have dæret tilsigtet at opnåe samme<lb/>
+Fritagelse, som der tilkom dem, der efter deres Fødsel eller senere opnået Stilling i Samfundet vare fritagne for Værnepligt, er der<lb/>
+ikke nogen tilstrækkelig Grund til at indrømme Tilbagebetaling af<lb/>
+den erlagte Kiendelse i det Udkastet ommeldte Tilfælde.<lb/>
+Udvalgets Fleerhed kan ikke tiltræde nogen af de foreslåede<lb/>
+Forendringer, men formener, at det bør forblive ved Udkastets Bestemmelser.<lb/>
+</p>
+<lawaddress>
+ad § 5.<lb/>
+</lawaddress>
+<p>
+Undertegnede Bregendahl, van Dockum, Hiort, Koster,<lb/>
+Petersen, Scavenius og Stocksleth formene. at, ligesom man<lb/>
+må erkiende, at et billigt Hensyn ttl den hidtil værnepligtige Befolknings Tarv krævede, at der, da Fædrelanders Stilliing medførte, at<lb/>
+en usædvanlig Mængde deraf kaldtes til dets Forsvar, toges Forholdsregler til en Udfkrivining af den hidtil ikke værnepligtige Befolkning,<lb/>
+således må det antages, at dette Krav skeer Fyldest derved, at<lb/>
+Værnepligttens Almindeliggiørelse udstrækkes så langt tilbage i Tiden,<lb/>
+at den kommer til at omsatte også dem, der ere fødte i Året 1826,<lb/>
+og som således ved Anordningens Gmanation strax ere udskrivningspligtige. Da det nu derhos kan antages, at de ei hidtil Værnepligtige, der ere fødte i 1826, omtrent ville udgjøre det samme Antal,<lb/>
+som efter Anordn. 23. Septbr. d. A. skulde udskrives, så antage vi<lb/>
+såmeget mere, at denne Anodning, forsåvidt det ikke måtte være<lb/>
+fundet nødvendigt at sætte den i Udøvelse forinden nærværende Lovs<lb/>
+Emanation, bør ophæves.<lb/>
+</p>
+<p>
+Dette Forslag kan ikke tiltrædes af Udvalgets Fleerhed.<lb/>
+</p>
+<p>
+Undertegnede Christensen, Hiort, Scavenius og Ussing<lb/>
+formene, at når hensees til, at de Pågjældende, der ville<lb/>
+rammes af den ved Frdg. 23 Sept. sidstl. anordnede Udskrivning, hvis<lb/>
+denne Anordning bringes i Anvendelse, ville blive underkastede en<lb/>
+Byrde, hvorpå de ikke havde kunnet gjøre Regning, og når det<lb/>
+tillige tages i Betragtning, at Krigstjenesten kun med mangfoldige<lb/>
+Undtagelser er affordret de forhen Værnepligtige af de tilsvarende<lb/>
+Aldersclasser, da er der en stor Opfordring til ikke at udelukke sådanne Undtagelser fra den ved hiin Anordning befalede Udskrivning,<lb/>
+som uomtvisteligen have Billighed for sig og som hverken træde det<lb/>
+militaire Øiemed hindrende i Veien, og ikke heller frarådes af andre<lb/>
+Hensyn. Ved at overveie, hvilke Undtagelser der herefter burde ind</p>
+</rightside>
+
+</pb>

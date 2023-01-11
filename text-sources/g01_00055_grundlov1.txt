@@ -1,0 +1,150 @@
+41
+<pb n="55">
+<pagename>55</pagename>
+<h>
+<coll>41</coll>
+<colr>42</colr>
+<lb/>
+
+<topleft>1848</topleft>
+<topmidle>
+Beretning om Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 6.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Andet Møde.<lb/>
+(Sluttet).<lb/>
+</btitle>
+<p>
+<law n="28."/>§ 28.<lb/>
+Skriftlig Anmeldelse, såvel om Candidaten som om den eller<lb/>
+dem, der ville understøtte hans Valg, skal være gjort til det i § 25<lb/>
+nævnte Medlem af Valgbestyrelsen senest inden Kl. 10 Aftenen før<lb/>
+Valget finder Sted. På selve Valgdagen skulle såvel Candidaten<lb/>
+som de, der anbefale ham, fremstille sig personligen. Ikkun et for<lb/>
+Valgbestyrelsen oplyst og af denne anerkjendt Forfald kan berettige<lb/>
+Candidaten til efter blot skriftlig Anmeldelse at komme på Valg.<lb/>
+<law n="29."/>§ 29.<lb/>
+Candidaten behøver ikke for Valgbestyrelsen at godtgjøre sin Valgbarhed. Fremkommer der ved Valghandlingen Indsigelser eller endog<lb/>
+Beviser mod samme, kan Valgbestyrelsen vel ikke afskjære Forhandlingerne derom, men heller ikke af den Grund undslåe sig for at stille<lb/>
+Candidaten til Valg.<lb/>
+<law n="30."/>§ 30.<lb/>
+Ingen tør melde sig til samtidigt Valg i mere end eet Valgdistrikt. Handler Nogen herimod, bliver hans Valg, hvis sådant<lb/>
+falder på ham, ugyldigt.<lb/>
+</p>
+<middle>
+Kåringen.<lb/>
+</middle>
+<p>
+<law n="31."/>§ 31.<lb/>
+Kåringen til Folkethinget foretages i de for Samme anordnede<lb/>
+Valgdistrikter i Valgmøder, hvortil Adgangen ståer åben for<lb/>
+Enhver.<lb/>
+<law n="32."/>§ 32.<lb/>
+Dagen og Klokkeslettet, da Valgmødet afholdes, berammes med<lb/>
+idetmindste otte Dages foregående Varsel, deels ved Bekjendtgjørelse<lb/>
+i vedkommende Stiftsavis, deels ved Kundgjørelse i de til hvert Distrikt henhørende Communer til Kirkestevne eller på den ellers på<lb/>
+Stedet brugelige Måde.<lb/>
+<law n="33."/>§ 33.<lb/>
+Valgforhandlingerne åbnes af den af Valgbestyrelsen udnævnte<lb/>
+Formand.<lb/>
+</p>
+<p>
+Han fremstiller for Forsamlingen de anmeldte Valgcandidater<lb/>
+og de Vælgere, som anbefale dem hver især.<lb/>
+</p>
+<p>
+Såvel disse som Valgcandidaterne skulle have Adgang til at<lb/>
+udtale sig for Forsamlingen og til at besvare de Spørgsmål, som<lb/>
+de Tilstedeværende måtte forelægge dem. Formanden leder disse<lb/>
+Forhandlinger og slutter dem, når han finder det rigtigt.<lb/>
+<law n="34."/>§ 34.<lb/>
+Formanden sætter derpå Valgcandidaterne under Afstemning<lb/>
+efter deres Navnes Bogstavfølge. Afstemningen skeer af de tilstedeværende Vælgere ved Håndsoprækning. Valgbestyrelsens Medlemmer<lb/>
+deeltage ikke i samme.<lb/>
+</p>
+<p>
+Den Candidat, som eftet Valgbestyrelsens Skjøn har erholdt flere<lb/>
+Stemmer end nogen Anden, er kåret og kundgjøres strax for Forsamlingen som Distriktets Rigsdagsmand.<lb/>
+<law n="35."/>§ 35.<lb/>
+Skulde i et Distrikt kun een Candidat have fremstillet sig, ansees<lb/>
+han for kåret, hvis meer end Halvdelen af de Stemmende skjønnes<lb/>
+at erklære sig for ham. I modsat Fald berammes et nyt Møde til<lb/>
+ottende Dagen derefter. Har der da ikke fremstillet sig nogen anden<lb/>
+Candidat, er den Første kåret uden ny Afstemning.<lb/>
+</p>
+</leftside>
+<rightside>
+<middle>
+Navnlig Afstemning.<lb/>
+</middle>
+<p>
+<law n="36."/>§ 36.<lb/>
+Kåringens Virkning ophæves, når een eller flere af de Candidater, som derved ikke have opnået Valg, begjere navnlig Afftemning. Denne Fordring skal fremsættes inden Udløbet af et Qvarteer,<lb/>
+efterat Kåringens Udfald er kundgjort, i hvilken Tid derfor Valgbestyrelsen bliver tilsteds på Valgstedet.<lb/>
+</p>
+<p>
+Fremkommer ingen sådan Begjering i betimelig Tid, ståer<lb/>
+Kåringen ved Magt, og hele Valgforhandlingen sluttes.<lb/>
+<law n="37."/>§ 37.<lb/>
+Forlanges navnlig Afstemning, påbegyndes denne uopholderligen. Den finder kun Sted mellem den, som ved Kåringen har<lb/>
+erholdt fleest Stemmer, og den eller de Modcandidater, som udtrykkeligen fordre det.<lb/>
+<law n="38."/>§ 38.<lb/>
+Afstemningen foregåer samtidigen til de forskjellige Valglister,<lb/>
+som Formanden fordeler mellem Valgbestyrelsens Medlemmer. Ved<lb/>
+hver Valgliste tilforordnes derhos een af de tilstedeværende Vælgere.<lb/>
+Selv deeltager Formanden ikke i Modtagelsen af Valgstemmer.<lb/>
+</p>
+<p>
+I den Orden, hvori Vælgerne møde for Valglisterne, nævne de<lb/>
+mundtligen een af de Candidater, mellem hvilke der skal vælges.<lb/>
+</p>
+<p>
+Efterat have anerkjendt Vælgerne, tilfører det ved Valglisten<lb/>
+ansatte Medlem af Valgbestyrelsen den Candidats Navn, på hvilken Vælgeren har stemt, ved Siden af dennes eget Navn, på selve<lb/>
+Valglisten.<lb/>
+</p>
+<p>
+Den ham tilforordnede Vælger optegner på en særskilt Stemmeliste Vælgerens Navn ved Siden af den Candidats Navn, som han<lb/>
+har givet sin Stemme.<lb/>
+</p>
+<p>
+Forinden Vælgeren aftræder, oplæses for ham såvel hans<lb/>
+eget, som den af ham Valgtes Navn, til Sikkerhed for begge Tilførslers Rigtighed og indbyrdes Overeensstemmelse.<lb/>
+</p>
+<p>
+Når Formanden har erklæret Afstemningen for sluttet, tilføre<lb/>
+Valgbestyrelsens Medlemmer og sammes Medhjælpere deres egne<lb/>
+Stemmer og underskrive såvel Valglisten som Stemmelisten.<lb/>
+<law n="39."/>§ 39.<lb/>
+Efter samtlige Lister sammenlægger den forenede Valgbestyrelse<lb/>
+det Stemmeantal, hver af Candidaterne har erholdt. Udfaldet tilføres Valgbogen og kundgjøres for Forsamlingen. Valglisterne tilbageleveres vedkommende Communer; Stemmelisterne bilægges Valgbogen,<lb/>
+som underskrives af hele Valgbestyrelsen.<lb/>
+<law n="40."/>§ 40.<lb/>
+Den, som ved den navnlige Afstemning har erholdt flere Stemmer end nogen Anden, er valgt. Have Flere ligemange Stemmer,<lb/>
+afgjør Lodtrækning, som foretages af Formanden.<lb/>
+</p>
+<middle>
+Landsthingvalget.<lb/>
+</middle>
+<p>
+<law n="41."/>§ 41.<lb/>
+Til Landsthingt vælges for hvert Amt og for Kjøbenhavn een<lb/>
+eller flere Rigsdagsmænd i Forhold til dets Folkemængde.<lb/>
+<law n="42."/>§ 42.<lb/>
+Kjøbenhavn skal vælge Fire, Odense Amt Tre, Kjøbenhavns<lb/>
+Frederiksborg, Holbek, Sorø, Præstø, Svendborg, Maribo, Ålborg,<lb/>
+Hjørring, Viborg, Randers, Ribe, Ringkjøbing og Veile Amter,<lb/>
+samt Island, hvert To, og Bornholm, Thisted, Århuus og Skanderborg Amter, samt Færøerne, hvert eet Medlem af Landsthinget.<lb/>
+</p>
+<p>
+Slesvig skal vælge elleve Medlemmer af Landsthinget. Den<lb/>
+nærmere Fordeling forbeholdes.<lb/>
+</p>
+</rightside>
+
+</pb>

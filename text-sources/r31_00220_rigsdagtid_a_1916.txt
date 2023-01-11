@@ -1,0 +1,70 @@
+636
+<pb n="220" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>636</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 932.</wtitle>
+<p>
+Når Anklageskriftet er indleveret, berammer Dommeren, for så vidt han ikke<lb />
+finder, at Sagen straks må afvises (§ 842, jfr. § 918 og § 926), snarest muligt Tid og Sted<lb />
+for Sagens Foretagelse og lader Tiltalte tilsige med mindst Aftens Varsel. Forkyndelse<lb />
+af selve Anklageskriftet er ufornøden. Tilsigelsen affattes i Overensstemmelse med Bestemmelserne i § 764, Stykke 2, og skal særlig indeholde Bemærkning om, at Udeblivelse uden<lb />
+oplyst lovligt Forfald kan bevirke, at Tiltalte anses at vedgå Forseelsen, eller efter Omstændighederne, at han vil blive anholdt.
+</p>
+<p>
+Hvorvidt Vidner også straks skal tilsiges eller andre Foranstaltninger til<lb />
+Bevisførelse træffes, beror på Dommerens Bestemmelse. Under Tiltaltes Møde i Retten<lb />
+gives der ham fornøden Lejlighed til at opgive de Beviser, han på sin Side måtte<lb />
+ønske førte.
+</p>
+<wtitle>§ 933.</wtitle>
+<p>
+Det er ikke til Hinder for Sagens Fremme, at ingen giver Møde på Politimesterens Vegne; Dommeren afhører i dette Tilfælde dennes Vidner.
+</p>
+<wtitle>§ 934.</wtitle>
+<p>
+Udebliver Tiltalte uden oplyst lovligt Forfald, eller nægter han at afgive Forklaring, kan Betten, når der ikke under Sagen er Spørgsmål om højere Straf end Bøder,<lb />
+og Omstændighederne ikke findes at tale herimod, anse ham som den, der vedgår det<lb />
+ham påsigtede Forhold, og påkende Sagen uden videre Bevisførelse.
+</p>
+<p>
+Når der i en Sag, hvorunder der ikke er Spørgsmål om højere Straf end Bøder,<lb />
+i Tiltaltes Sted møder en Person, der er forsynet med skriftlig Fuldmagt fra Tiltalte og<lb />
+er beredt på at meddele de fornødne Oplysninger, kan Retten modtage den således<lb />
+mødtes Forklaringer og Erklæringer og lægge dem til Grund, som om de var afgivne<lb />
+af Tiltalte selv.
+</p>
+<p>
+Skal der i et Tilfælde, hvor hverken Tiltalte eller en Forsvarer er mødt, afhøres<lb />
+Vidner, som er indkaldte efter hans Begæring, foretages Af hørelsen af Dommeren.
+</p>
+<p>
+Frafalder Politiet en begyndt Forfølgning i de i § 726, 3die og 4de Stykke, ommeldte Sager (Lov af 11. Februar 1863 § 2), er den private Klager berettiget til at optage Forfølgningen, når han straks erklærer dette
+</p>
+<wtitle>§ 935.</wtitle>
+<p>
+Møder Tiltalte og vedgår at være skyldig i det ham påsigtede Forhold, optages<lb />
+Sagen til Dom, uden at det i Regelen er nødvendigt at tilvejebringe yderligere Oplysninger.
+</p>
+<p>
+Nægter Tiltalte sig skyldig, eller indrømmer han kun til Dels Sigtelsens Rigtighed, eller finder Dommeren det i øvrigt nødvendigt, føres Bevis i Sagen.
+</p>
+<p>
+Bevisførelsen sker for den Ret, der behandler Sagen, se dog §§ 171 og 172, jfr.<lb />
+§ 202. Såfremt Bevisførelsen ikke kan ske straks, udsætter Dommeren Sagen til et følgende Retsmøde, idet han underretter Parterne om, når dette skal afholdes, og tilkendegiver Tiltalte, at han ikke kan vente nogen anden Tilsigelse til samme.
+</p>
+<wtitle>§ 936.</wtitle>
+<p>
+Angår Sagen en Lovovertrædelse, for hvilken der i Loven er hjemlet Straf af<lb />
+Bøde eller Konfiskation, kan Dommeren, når han ikke finder Grund til at betvivle Til-
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

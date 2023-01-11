@@ -1,0 +1,71 @@
+296
+<pb n="302" />
+<leftside>
+<p>prøver før dennes Begyndelse uden Nævninger<lb />
+Anklagens formelle og retlige Gyldighed, derimod ikke Beviserne; når ingen Betænkelighed<lb />
+i hin Henseende er funden, indleder den<lb />
+Hovedforhandlingen ved det såkaldte interlocutor of relevancy. Udenfor Skotland er<lb />
+det derimod ingenlunde den almindelige Regel,<lb />
+at Anklageren er Herre over, om Anklage skal<lb />
+rejses. Det Sædvanlige er, at Anklagen først<lb />
+i fin Helhed må prøves og sanktioneres af<lb />
+en Domstol, oftest i den Form, at denne gjør<lb />
+Anklagen til sin, så at Anklageren nærmest<lb />
+kun andrager på, at Anklage må blive rejst;<lb />
+ja efter de fleste Love kan Anklagedomstolen<lb />
+endog efter Omstændighederne rejse Anklage<lb />
+mod den offentlige Anklagers Villie. Det oprindelige Forbillede for denne Ordning er hentet fra den engelske Ret, ester hvilken Anklageskriftet (indictment) forelægges den store Jury,<lb />
+der efter at have hørt Anklageren og dennes<lb />
+Vidner, men ikke den Sigtede og hans Bevis,<lb />
+afgjør, om Anklagerens Beviser ere af den<lb />
+Beskaffenhed, at de sandsynligvis ville være tilstrækkelige til at begrunde Domfældelse, og i<lb />
+bekræftende Fald gjør det allerede formelt i<lb />
+dens Navn affattede Anklageskrift til sit (truø<lb />
+bill). En sådan Anklagejury blev ved Anklageprocessens Overførelse også optagen i Frankrig,<lb />
+men senere afskaffet ved den gjældende cods d’instruction criminelle, hvis Ordning af Anklagemyndigheden dog atter er undergået vigtige<lb />
+Forandringer ved en Lov af 17de Juli 1856.<lb />
+Efter den franske Lovgivning må der nu<lb />
+skjelnes imellem, om en judiciel Forundersøgelse<lb />
+har fundet Sted eller ikke. I første Fald beror det, om Anklage skal rejses, ved de grove<lb />
+Forbrydelser (crimes) på Anklagekammeret, en<lb />
+Afdeling af Appeldomstolen*), og ved Mellemklassen af Forbrydelser (délits) på Undersøgelsesdømmeren (tidligere Rådskammeret); i begge<lb />
+Tilfælde kan   Anklagen  rejses også mod An-</p>
+*) Tidligere blev Sagen første forelagt det såkaldte Rådskammer, bestående af Undersøgelsesdommeren og to andre Dommere men den gik til Anklagekammeret, når enige i at frafalde Anklagen. Dette Rådskammer    blev ophævet ved Loven af 1856
+
+</leftside>
+<rightside>
+<p>klagerens Villie. Har Forundersøgelse derimod<lb />
+ikke fundet Sted, tilkommer det Anklageren at<lb />
+tage Beslutning om Anklagen, og der gives<lb />
+intet Middel til at afværge Hovedforhandlingen (citation directe). For de tyske Love har<lb />
+i det Hele den franske Ordning været Forbillede, navnlig for de Tilfælde, hvor Forundersøgelse har fundet Sted. Det er nemlig i<lb />
+så Fald også i Tyskland den almindelige<lb />
+Regel, at Afgjørelsen af, om Anklage skal rejses, tilkommer en Domstol, der formulerer Anklagen (Anklagekjendelse), og således at denne<lb />
+kan afsige Kjendelse om, at Anklage skal finde<lb />
+Sted, også mod Statsanklagerens Andragende.<lb />
+Man ser heri den nødvendige Konsekvents af<lb />
+den Regel, som er almindelig i de tyske Love,<lb />
+at Statsanklageren vel har Initiativet til Forfølgning, men at han ikke længere således er<lb />
+Herre over denne, at han kan frafalde den, når<lb />
+han først har bragt Sagen for Retten, hvilket<lb />
+allerede er sket ved Begjæringen om Forundersøgelse, jfr. det tyske Udkast §§ 136 og 163,<lb />
+Meget forskjellige indbyrdes ere derimod de<lb />
+tyske Love i Henseende til Bestemmelsen af<lb />
+den Ret, hvilken det tilkommer at tage Beslutning, om Anklage skal finde Sted. Nogle,<lb />
+som s. Ex. den preussiske, kræve i Nævningesager en dobbelt Beslutning, en foreløbig af<lb />
+Rådskammeret ved Kollegialretten i første<lb />
+Instants, en endelig af Anklagekammeret ved<lb />
+en Appeldomstol. Andre Lovgivninger kjende<lb />
+kun en enkelt Beslutning, men overdrage<lb />
+denne snart til en Ret i første Instants,<lb />
+snart til en højere Domstol. Enkelte have<lb />
+fulgt den franske Lovgivnings Exempel, i<lb />
+visse Sager at overlade Undersøgelsesdommeren Afgjørelsen (se f. G. den würtb. Lov. art.<lb />
+253). Herimod bemærkes det særlig i Motiverne til det tyske Udkast, at der let hos denne<lb />
+Dommer på Grund af hans længere Beskjæftigelse med Sagen kan danne sig en<lb />
+mere ensidig Opfattelse, og at en kollegialretlig Afgjørelse så meget mere er<lb />
+naturlig, som Forundersøgelse kun kan finde<lb />
+Sted i vigtigere Sager. Det tyske Udkast overdrager Afgjørelsen i alle Tilfælde<lb />
+til Kollegialretterne i første Instants (Landgerichte) og har derfor anset det for overflødigt</p>
+
+</rightside>

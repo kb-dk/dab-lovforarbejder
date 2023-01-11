@@ -1,0 +1,70 @@
+482
+<pb n="66" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>482</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 273.</wtitle>
+<p>
+Den tvungne Forligsmægling ved Forligskommissionerne foregår for lukkede<lb />
+Døre, og det er forbudt at udstede Attester eller føre Vidner om, hvad der af Parterne tilstås eller foreslås under Mæglingen, medmindre det vedtages af begge Parter<lb />
+og udgør Punkter af Forliget.
+</p>
+<p>
+En Sag kan under Mægling for en Forligskommission ikke udsættes, når nogen<lb />
+af Parterne rejser Indsigelse derimod.
+</p>
+<p>
+Kommer Forlig i Stand, bør dette i sin Helhed indføres i Forligsbogen og<lb />
+underskrives af Parterne.
+</p>
+<wtitle>§ 274.</wtitle>
+<p>
+Når Forligsmægling har været forsøgt i Anledning af en Sag, er Forligsindkaldelsens Indhold ikke til Hinder for en senere Udvidelse eller Forandring af Søgsmålsgrunde eller Påstande.
+</p>
+<wtitle>§ 275.</wtitle>
+<p>
+Spørgsmål om Gyldigheden af indgåede Forlig henhører under Afgørelse ved<lb />
+Retterne i første Instans, jfr. herved § 484. Dog må Indsigelser mod Retsforlig<lb />
+gøres gældende ved Kære, når de støttes på Fejl ved Rettens Handlinger.
+</p>
+<wtitle>§ 276.</wtitle>
+<p>
+Den bestående Adgang til for Forligskommissionen at godkende et udenfor<lb />
+samme sluttet Forlig for derved at give Forliget Eksekutionskraft eller sikre sig Bevis<lb />
+derfor opretholdes. Dog kan sådan Godkendelse kun gyldig finde Sted ved en Forligskommission. under hvilken enten Kreditor eller Skyldneren hører.
+</p>
+<title>Kapitel 27.</title>
+<undertitle>
+Procesmåden i Almindelighed.
+</undertitle>
+<wtitle>§ 277.</wtitle>
+<p>
+Over de til Retten indkomne Sager føres en Sagliste. Er denne ikke indrettet<lb />
+således, at den tillige kan være Retsliste for den enkelte Retsdag, affattes der, for<lb />
+så vidt ikke Regelen i § 23, Stykke 3, finder Anvendelse, for hver enkelt Retsdag en<lb />
+Retsliste, på hvilken de Sager, som skal komme for, optages. Retslisten for den<lb />
+enkelte Dag opslås, Dagen før Retten sættes, i Rettens Forværelse på et for alle<lb />
+tilgængeligt Sted.
+</p>
+<p>
+Rettens Formand afgør, i hvilken Orden de Sager, der er ansatte til Forhandling på samme Retsdag, skal foretages. Sager, som ikke når at komme til<lb />
+Forhandling, overgår uden videre til næste Retsdag, medmindre Formanden bestemmer<lb />
+anderledes.
+</p>
+<p>
+Retten eller dens Formand er bemyndiget til at lade en Sag udgå af Retslisten og overføre den til en af de påfølgende Retsdage, når der er Grund til at<lb />
+antage, at Sagen enten af Hensyn til Rettens Forretninger, Retspersonalet eller andre<lb />
+Årsager, såsom Forhindringer for Sagførere, Parter, Vidner, Synsmænd eller desl.,<lb />
+ikke vil kunne forhandles på den oprindelig fastsatte Tid. Oplysninger i denne Henseende kan baade mundtlig og skriftlig meddeles Rettens Formand, såvel under<lb />
+Retsmøder som udenfor disse.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

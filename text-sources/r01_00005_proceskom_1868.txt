@@ -1,0 +1,34 @@
+0
+<pb n="5" />
+<title>Fjerde Afsnit.</title>
+<undertitle>Om Anklage for og Sagens Behandling ved Landsretten...  §§ 247-353.</undertitle>
+<p>kapitel i.</p>
+<p>Om Anklage samt om Henvisning til og Forberedelse af Hovedforhandlingen ..,..........  §§ 247—266.</p>
+<p>Kapitel II.</p>
+<p>Om  Forandringer i  Anklagen eller i de  om  Henvisning   og  Hovedforhandlingens Forberedelse</p>
+<p>trusne Bestemmelser....................................................... Zs 267 -276.</p>
+<p>Kapitel III.</p>
+<p>Almindelige Bestemmelser om Hovedforhandlingen for Landsretten.........................    §§ 277-309.</p>
+<p>Kapitel IV.</p>
+<p>særlige Bestemmelser om Hovedforhandlingen for Nævninger.............................  §§ 310-355.</p>
+<p>Kapitel V.</p>
+<p>Sirlige Bestemmelser om Hovedforhandlingen uden rærvninger............................ §§ 356—358.</p>
+<title>Femte Afsnit.</title>
+<undertitle>Om Anklage for og Sagens Behandling ved Underretten.. ,  §§ 359- 370.</undertitle>
+<p>Kapitel I.</p>
+<p>Om Sager, som påtales af Statsankløgeren.......................................... §§ 360-362.</p>
+<p>Kapitel II.</p>
+<p>Om Sager, som påtales af Politiet................................................. §§ 363-370.</p>
+<title>Sjette Afsnit.</title>
+<undertitle>Om Retsmidlerne......................  §§ 371-439.</undertitle>
+<p>Kapitel I.</p>
+<p>Om Påanke af dømme, afsagte af Landsretten i første Instants..........................§§ 371-396.</p>
+<p>Kapitel II.</p>
+<p>Om Påanke af dømme, afsagte af Underretten........................................ §§ 397-406.</p>
+<p>Kapitel III.</p>
+<p>Om Besværing til højere Ret.................................................. §§ 407—419.</p>
+<p>Om Besværing mod Undersøgelsesdommerens Kjendelser og Beslutninger   §§ 408—415.</p>
+<p>n.<lb />
+Om Besværing mod den dømmende Rets Kjendelser og Beslutninger   §§ 416—419.</p>
+<p>Kapitel IV.</p>
+<p>Om Gjenoptagelse af en Straffesag..................................................§§ 420-439.</p>

@@ -1,0 +1,33 @@
+0
+<pb n="3" />
+<title>Andet Afsnit.</title>
+<p>Om Procesmåden ved Landsretterne —........   §§ 159—292.</p>
+<p>Kapitel I.</p>
+<p>Om de Skrifter, som vexles mellem Parterne, og om de Skrifter, som skulle forelægges Retten</p>
+<p>forinden den mundtligt Forhandlings Begyndelse...........................    §§ 159—172.</p>
+<p>Kapitel II.</p>
+<p>Om Sagens Behandling, efterat den mundtlige Forhandling er begyndt....................    §§ 173—195.</p>
+<p>Kapitel III.</p>
+<p>Om Bevis og Bevisførelse.........................................................    §§ 196-262.</p>
+<p>Første Underafdeling.</p>
+<p>Om Bidnebeviset ...............................................    §§ 202-224.</p>
+<p>Anden Underafdeling.</p>
+<p>Om Bevis ved Syn og Skjøn....................................    §§ 225-239.</p>
+<p>Tredie  Underafdeling.</p>
+<p>Om Bevis ved Dokumenter......................................    §§ 240-255.</p>
+<p>Fjerde Underafdeling.</p>
+<p>Om Parts Ed..................................................    §§ 256-262.</p>
+<p>Kapitel IV.</p>
+<p>Om Domme og Kjendelser.......................................................    §§ 263-283.</p>
+<p>Kapitel V.</p>
+<p>Om Udeblivelser................................................................    §§ 284 - 292.</p>
+<title>Tredie Afsnit.</title>
+<p>Om Retsmidlerne imod Landsretternes Handlinger.........   §§ 293-341.</p>
+<p>Kapitel I.</p>
+<p>a.   Påanke til Højesteret..........................................................    §§ 294-319.</p>
+<p>b.   Besværing til Højesteret........................................................    §§ 320-326.</p>
+<p>Kapitel II.</p>
+<p>Ny Foretagelse af Sagen ved den samme Ret.........................................    §§ 327—341.</p>
+
+<p>Om  Behandlingen af  og Retsmidlerne i de Sager, der i første Instants</p>
+<p>påkjendes af Underretterne....................   §§ 342-361</p>

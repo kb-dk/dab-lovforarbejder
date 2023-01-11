@@ -1,0 +1,123 @@
+2175
+<pb n="351" >
+<p rend="page">351</p>
+<h>
+<coll>2175</coll>
+<colr>2176</colr><lb />
+Oversigt<lb />
+over<lb />
+Grundlovsudkastet, Comiteens (Majoritets) Indstilling og Minoritetsindstillingerne.<lb />
+</h>
+<leftside>
+<btitle>
+A. Grundlovsudkastet.<lb />
+</btitle>
+<title>
+VII.<lb />
+</title>
+<p>
+<law n="65" >§ 65.<lb /></law>
+Borgerne have Ret til at forene sig i Samfund for at dyrke Gud paa den Maade, dem<lb />
+bedst tykkes, dog at Intet foretages, som strider<lb />
+mod Sædeligheden eller den offentlige Orden.<lb />
+<law n="66" >§ 66.<lb /></law>
+Ingen er pligtig at yde personlige Bidrag til nogen anden Gudsdyrkelse end den,<lb />
+som er hans egen. Den, som ikke vil svare<lb />
+den til den lutherske Kirke lovbefalede personlige Afgift enten til denne eller til et andet<lb />
+anerkjendt kirkeligt Samfund i Landet, betaler<lb />
+samme til Skolevæsenet.<lb />
+<law n="64" >§ 64.<lb /></law>
+Ingen kan paa Grund af sin Troesbekjendelse berøves den fulde Adgang til borgerlige<lb />
+og politiske Rettigheder.<lb />
+<law n="67" >§ 67.<lb /></law>
+Enhver, der anholdes, skal inden 24 Timer<lb />
+stilles for en Dommer. Hvis den Anholdte<lb />
+ikke strax kan sættes paa fri Fod, skal Dommeren ved en af Grunde ledsaget Kjendelse afgjøre, at han skal fængsles, og, hvis han kan<lb />
+løslades mod Sikkerhed, bestemme dennes Art<lb />
+eller Størrelse.<lb />
+</p>
+<p>
+Den Kjendelse, hvorved Nogen erklæres for<lb />
+fængslet, kan af denne strax fordres beskreven<lb />
+og særskilt indankes for høiere Ret.<lb />
+</p>
+<p>
+Ingen kan underkastes Varetægtsfængsel for<lb />
+en Forseelse, som kun kan medføre Straf af<lb />
+Pengebod eller simpelt Fængsel.<lb />
+</p>
+<btitle>
+Comiteens (Majoritets) Indstilling.<lb />
+</btitle>
+<title>
+VI. B.<lb />
+</title>
+<p>
+<law n="64" >§ 64.<lb /></law>
+Folkekirkens Forfatning ordnes ved Lov,<lb />
+efterat Betænkning er afgiven af et af Kongen<lb />
+anordnet Kirkemøde.<lb />
+<law n="65" >§ 65.<lb /></law>
+Borgerne have Ret til at forene sig i<lb />
+Samfund for at dyrke Gud paa den Maade,<lb />
+der stemmer med deres Overbeviisning, dog at<lb />
+Intet læres eller foretages, som strider mod<lb />
+Sædeligheden eller den offentlige Orden.<lb />
+<law n="66" >§ 66.<lb /></law>
+Ingen er pligtig at yde personlige Bidrag<lb />
+til nogen anden Gudsdyrkelse end den, som er<lb />
+hans egen; dog at Enhver, der ikke godtgjør<lb />
+at være Medlem af et i Landet anerkjendt<lb />
+Troessamfund, har at svare de lovbefalede<lb />
+personlige Afgifter til Folkekirken.<lb />
+<law n="66 b" />§ 66 b.<lb />
+De fra Folkekirken afvigende Troessamfunds<lb />
+Forhold ordnes nærmere ved Lov.<lb />
+<law n="66" />§ 66. c.<lb />
+Ingen kan paa Grund af sin Troesbekjendelse berøves Adgang til den funde Nydelse af<lb />
+borgerlige og politiske Rettigheder eller unddrage sig Opfyldelsen af nogen almindelig<lb />
+Borgerpligt.<lb />
+<law n="66 d" />§ 66 d.<lb />
+De til Kirken, Skolen og milde Stiftelser<lb />
+henlagte eller skænkede Eiendele og Midler kunne<lb />
+ikke anvendes til noget fremmed Øiemed.<lb />
+</p>
+<title>
+VII.<lb />
+</title>
+<p>
+<law n="67" >§ 67.<lb /></law>
+Enhver, der anholdes, skal inden 24 Timer<lb />
+stilles for en Dommer. Hvis den Anholdte<lb />
+ikke strax kan sættes paa fri Fod, skal Dommeren ved en af Grunde ledsaget Kjendelse,<lb />
+der afgives snarest muligt og senest inden 3<lb />
+Dage, afgjøre, at han skal fængsles, og, hvis<lb />
+han kan løslades mod Sikkerhed, bestemme<lb />
+dennes Art eller Størrelse.<lb />
+</p>
+<p>
+Den Kjendelse, som Dommeren afsiger, kan<lb />
+af Vedkommende strax særskilt indankes for<lb />
+høiere Ret.<lb />
+</p>
+<p>
+Ingen kan o. s. v. som Udkastet.<lb />
+<law n="67 b" />§ 67 b.<lb />
+Boligen er ukrænkelig. Huusundersøgelse,<lb />
+Beslaglæggelse og Undersøgelse af Breve og andre Papirer maa, hvor ingen Lov hjemler<lb />
+en særegen Undtagelse, alene skee efter en Retskjendelse.<lb />
+</p>
+</leftside>
+<rightside>
+<btitle>
+C. Minoritetsindstillinger.<lb />
+</btitle>
+<p>
+<law n="64 b" />§ 64 b.<lb />
+Ethvert Medlem af Folkekirken kan i alle<lb />
+ministerielle Handlinger henvende sig til hvilken Præst i denne Kirke, han vil. De nærmere Bestemmelser i denne Henseende fastsættes ved Lov.<lb />
+</p>
+</rightside>
+
+
+</pb>

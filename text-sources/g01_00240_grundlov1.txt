@@ -1,0 +1,147 @@
+407
+<pb n="240">
+<pagename>240</pagename>
+<h>
+<coll>407</coll>
+<colr>408</colr>
+<lb/>
+</h>
+<leftside>
+<indexlist>
+Hage.<lb/>
+Hammerich.<lb/>
+Hansen (J. A.).<lb/>
+Hansen (L.) af Bjelkerup.<lb/>
+Hansen (P.) af Abbelved.<lb/>
+Hasselbalch.<lb/>
+von Haven.<lb/>
+Hermannsen.<lb/>
+Hiort.<lb/>
+Hækkerup.<lb/>
+Høier.<lb/>
+Jacobsen.<lb/>
+Jacobæus.<lb/>
+Jespersen (F.) af Bogense.<lb/>
+Johansen (H. C.) af Østrup.<lb/>
+Johannsen (F.) af Houby.<lb/>
+Johansen (H.) af Knardrup.<lb/>
+Johnsen.<lb/>
+Kirk.<lb/>
+Knuth.<lb/>
+Krieger.<lb/>
+Larsen (C.) af Dalby.<lb/>
+Madsen.<lb/>
+Mynster.<lb/>
+Møller (R. R.) af Dråby.<lb/>
+Nielsen (N. H.) af Løserup.<lb/>
+Nørgård.<lb/>
+Olesen.<lb/>
+Ostermann.<lb/>
+Otterstrøm.<lb/>
+Pape.<lb/>
+Petersen (Cornelius) af Davinde.<lb/>
+Pedersen (J.) af Sæding.<lb/>
+Pedersen (P.) af Kjøbenhavn.<lb/>
+Petersen (C. N.) af Hjørring.<lb/>
+Ploug.<lb/>
+Rasmussen (H.) af Egense.<lb/>
+Rasmussen (M.) af Herlufmagle.<lb/>
+Rasmussen (J.) af Svanninge.<lb/>
+Scharck.<lb/>
+Schroll.<lb/>
+Schurmann.<lb/>
+Schytte.<lb/>
+Sidenius.<lb/>
+Cederfeld de Simonsen.<lb/>
+Skeel.<lb/>
+Stender.<lb/>
+Stockfleth.<lb/>
+Tscherning.<lb/>
+Thalbitzer.<lb/>
+Theilmann.<lb/>
+Westergård.<lb/>
+With.<lb/>
+Ja.<lb/>
+Ågård af Thisted.<lb/>
+Bagger.<lb/>
+Bergmann.<lb/>
+Brandt.<lb/>
+Bruun (M. P.) af Brunshåb.<lb/>
+Buchwaldt.<lb/>
+Boisen.<lb/>
+Christensen (Georg) af Kjøbenhavn.<lb/>
+Colding.<lb/>
+la Cour.<lb/>
+
+</indexlist>
+</leftside>
+<rightside>
+<indexlist>
+Dahl.<lb/>
+Dahlerup.<lb/>
+David.<lb/>
+Fibiger.<lb/>
+Flor.<lb/>
+Funder.<lb/>
+Gislason.<lb/>
+Gram.<lb/>
+Grundtvig.<lb/>
+Gudmundsson.<lb/>
+Hansen (H. P.) af Kjøbenhavn.<lb/>
+Mørk Hansen.<lb/>
+Hansen (N.) af Eskelund.<lb/>
+Hastrup.<lb/>
+Hunderup.<lb/>
+Jespersen af Grønnebjerggård.<lb/>
+Jespersen (C. M.) af Viborg.<lb/>
+Sehestedt-Juul.<lb/>
+Jungersen.<lb/>
+Kayser.<lb/>
+Køster.<lb/>
+Larsen (J. E.) af Kjøbenhavn.<lb/>
+Leth.<lb/>
+Linnemann.<lb/>
+Lorck.<lb/>
+Lüttichau.<lb/>
+Lützhöft.<lb/>
+Mundt.<lb/>
+Tage Müller.<lb/>
+Paludan-Müller.<lb/>
+Møller af Flakkeberg.<lb/>
+Neergård.<lb/>
+Nielsen (H. E.) af Tranberg.<lb/>
+Nyholm.<lb/>
+Olrik.<lb/>
+Ostenfeldt.<lb/>
+Petersen (B.) af Kjøbenhavn.<lb/>
+Pløyen.<lb/>
+Rée.<lb/>
+Ræder.<lb/>
+Scavenius.<lb/>
+Schiern.<lb/>
+Schlegel<lb/>
+Brinck-Seidelin.<lb/>
+Sigurdsson.<lb/>
+Tang.<lb/>
+Tobiesen.<lb/>
+Tuxen.<lb/>
+Tvede.<lb/>
+Algreen-Ussing.<lb/>
+Ussing af Viborg.<lb/>
+Wegener.<lb/>
+Visby.<lb/>
+Winther.<lb/>
+Wulff.<lb/>
+Zeuthen.<lb/>
+Ørsted.<lb/>
+</indexlist>
+<p>
+Efterat Formanden dernæst havde bestemt Dagsordenen for det<lb/>
+følgende Møde, som berammedes til Torsdag den 30te November<lb/>
+Kl. 1, nemlig Valg af Forsamlingens Embedsmænd, blev Mødet<lb/>
+hævet.<lb/>
+Trykt og forlagt af gl. Hofbogtrykker Bianco Luno.<lb/>
+</p>
+</rightside>
+
+</pb>

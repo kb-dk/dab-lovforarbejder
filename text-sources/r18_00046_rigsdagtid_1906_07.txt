@@ -1,0 +1,79 @@
+3731
+<pb n="46"/>
+<h>
+<coll>3731</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>3732</colr>
+</h>
+<wtitle>§ 195.</wtitle>
+<p>
+Domme og Kendelser skulle ledsages af Grunde. Andre Beslutninger af Retten<lb />
+eller Rettens Formand behøve ikke at begrundes, medmindre saadant særlig er foreskrevet.
+</p>
+<p>
+Den i Rettens Afgørelse af en borgerlig Sag givne Fremstilling af Parternes<lb />
+mundtlige Angivelser og Ytringer under Sagens Behandling afgiver fuldt Bevis for<lb />
+disse, for saa vidt ikke Modbevis imod den føres.
+</p>
+<wtitle>§ 196.</wtitle>
+<p>
+Rettens Afgørelser træffes snarest muligt, efter at den paagældende For-<lb />
+handling er til Ende. Kan i en Straffesag Afsigelsen ikke finde Sted samme Dag,<lb />
+skal dog Dom afsiges senest inden en Uge, og hvor Nævninger have medvirket, senest<lb />
+Dagen efter. Det sidste gælder ogsaa om Kendelser i Straffesager.
+</p>
+<p>
+Afsigelsen af en Dom foregaar ved, at Domsslutningen, efter at hele Dommen<lb />
+er skriftlig udarbejdet, oplæses i et Retsmøde.
+</p>
+<p>
+Dersom det ikke ved Optagelsen af en borgerlig Sag tilkendegives, naar<lb />
+Dommen eller Kendelsen vil blive afsagt, skulle Parterne og efter Omstændig-<lb />
+hederne Vidner og Syns- eller Skønsmænd tilsiges til at høre den afsagt. Er<lb />
+den paagældende ikke saaledes sat i Kendskab om Afsigelsestiden, regnes for<lb />
+hans Vedkommende de ellers fra Afsigelsen løbende processuelle Frister først fra<lb />
+Dommens eller Kendelsens Forkyndelse for ham.
+</p>
+<p>
+I Straffesager bør Tiltalte, hvis han er fængslet, bringes til Stede ved Dom-<lb />
+mens Afsigelse. Er Dommen fældende, og er Tiltalte ikke til Stede ved Afsigelsen,<lb />
+bliver Udskrift af Dommen at forkynde for ham; i andre Tilfælde meddeles der ham<lb />
+paa Begæring Udskrift uden Betaling. Af alle Domme tilstilles der Tiltalemyndigheden<lb />
+Udskrift. Ved Afsigelsen eller Forkyndelsen af en fældende Dom bliver det at betyde<lb />
+Domfældte, inden hvilken Frist og paa hvilken Maade han kan fremsætte Meddelelse<lb />
+om Anke.
+</p>
+<wtitle>§ 197.</wtitle>
+<p>
+Stadfæstelse af en indanket Dom kan gives enten i Henhold til de i samme<lb />
+anførte Grunde eller i Henhold til ny Begrundelse.
+</p>
+<p>
+I overordnet Rets Dom skal det altid anføres, ved hvilken Ret den indankede<lb />
+Dom er afsagt.
+</p>
+<wtitle>§ 198.</wtitle>
+<p>
+Retten kan til enhver Tid i Embeds Medfør eller ifølge Begæring berigtige<lb />
+Skrivefejl, som ere indløbne i Henseende til Ord, Navne eller Tal, blotte Regnefejl<lb />
+samt saadanne Fejl og Forglemmelser, som alene vedrøre Udfærdigelsens Form.
+</p>
+<p>
+Fremdeles kan den ogsaa, naar Begæring derom fremkommer inden Anke-<lb />
+fristens Udløb, og efter at der er givet Parterne og i Straffesager tillige Forsvareren<lb />
+Lejlighed til at ytre sig derom, berigtige den i Afgørelsen af en borgerlig Sag inde-<lb />
+holdte Fremstilling af Parternes mundtlige Angivelser og Ytringer eller den i Afgø-<lb />
+relsen af en Straffesag indeholdte Fremstilling af Sagens faktiske Sammenhæng, for<lb />
+saa vidt Fremstillingen erkendes at lide af Fejl, bestaaende i Forbigaaelser, Uklar-<lb />
+heder eller Modsigelser, men derimod ikke i øvrigt foretage Forandringer enten<lb />
+i Begrundelsen eller Resultatet. Beslutning angaaende slige Berigtigelser træffes, og<lb />
+Meddelelse om dem sker efter de samme Regler, som gælde for den oprindelige<lb />
+Afgørelse.
+</p>
+<p>
+Den i Henhold til Rettens Beslutning berigtigede Afgørelse træder i alle Hen-<lb />
+seender i Stedet for den oprindelige. Beslutningen angaaende Berigtigelse er ikke<lb />
+Genstand for Anke eller Kære.
+</p>

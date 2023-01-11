@@ -1,0 +1,131 @@
+3405
+<pb n="966" >
+<p rend="page">966</p>
+<h>
+<coll>3405</coll>
+<colr>3406</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning<lb />
+om<lb />
+Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 430.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede og tre og thvende (127de) Møde.<lb />
+(Den foreløbige Behandling af Valgloven. §§ 1—8.)<lb />
+</stitle>
+<p>
+<law n="3 (§ 2)" />§ 3 (<law n="3 (§ 2)" />§ 2).<lb />
+Ingen kan ansees som uberygtet, der ved Dom er funden skyldig i en i den offentlig Mening vanærende Handling eller vitterligen har udviist et Forhold, som maa stemple ham som<lb />
+uværdig til ærekjære Mænds Agtelse.<lb />
+<law n="4 (§ 3)" />§ 4 (<law n="4 (§ 3)" />§ 3).<lb />
+Ingen, som staaer i privat Tjensteforhold, kan udøve Valgret,<lb />
+medmindre han har sin egen Huusstand.<lb />
+<law n="5 (§ 4)" />§ 5 (<law n="5 (§ 4)" />§ 4).<lb />
+Ingen kan udøve Valgret, som nyder Understøttelse af det almindelige Fattigvæsen eller som har modtaget nogen saadan Hjælp,<lb />
+medmindre den enten er tilbagebetalt eller eftergiven.<lb />
+<law n="6 (§ 5)" />§ 6 (<law n="6 (§ 5)" />§ 5).<lb />
+Saa kan Valgret eiheller udøves af den, som er sat under<lb />
+Bærgemaal, eller hvis Boer under Opbuds eller Fallitbehandling.<lb />
+<law n="7 (§ 6)" />§ 7 (<law n="7 (§ 6)" />§ 6).<lb />
+Endligen kan kun den udøve sin Valgret, som i eet Aar har<lb />
+havt fast Bopæl i den Valgkreds eller i den Stad, hvori han<lb />
+opholderr sig paa den Tid, Valget foregaaer. Den, som har havt<lb />
+fast Bopæl paa flere Steder, kan selv bestemme, paa hvilket af disse<lb />
+han vil gjøre sin Valgret gjældende.<lb />
+<law n="8" >§ 8.<lb /></law>
+(Udgaaer.)<lb />
+</p>
+<p>
+<speaker>Ordføreren (Krieger):</speaker> De første 8 Paragrapher i Udkastet indeholde Valglovens Bestemmelser om Valgretten i Henhold til de Hovedregler, som ere vedtagne ved Grundlovssagens Behandling. Den første Paragraph indeholder Udtalelsen af den almindelige Regel om Valgretten saavel til Folkethinget som til Landsthinget. Jeg tør bemærke, at Udvalget, med særdeles Hensyn til<lb />
+Nødvendigheden for det at afgive sin Betænkning stykkeviis, har anseet det rettest at affatte sig Forslag saaledes, at det her omhandlede<lb />
+Stylke af Valgloven kun kommer til at angaae Folkethinget, og denne<lb />
+første Paragraph vil derfor ogsaa findes kun at angaae Valgretten<lb />
+til Folkethinget. Iøvrigt har Udkastet gjort en Forskjel imellem hvem<lb />
+Valgretten tilkommer og hvo der kunne udøve den; det har forsøgt at gjennemføre en, om jeg saa maa sige, metaphysisk Forskjel<lb />
+mellem hvem denne Ret tilkommer og dem, der ikke kunne udøve den,<lb />
+for hvem den saa at sige hviler. Denne Forskjel turde være altfor<lb />
+fiin og stemmer heller ikke med Opfattelsen heraf i Grundloven.<lb />
+Som Følge deraf har Udvalget troet det natuligt, at der i § 1<lb />
+tilføies et Par Ord, som henvise til de Indskrænkninger, der nærmere angives i de følgende Paragrapher. Med denne lille Forandring stemmer den af Udvalget indstillede § 1 iøvrigt med Udkastet,<lb />
+saaledes at Paragraphen kommer til at lyde: „Valgret til Folkethinget tilkommer, med de i de følgende Paraaravber indholde Indskrænkninger, enhver uberygtet Mand, som har Indfødsret, naar han<lb />
+har syldt sit 30te Aar. “<lb />
+</p>
+<p>
+Udkastets § 2 indeholder en Bestemmelse, der nærmere forklarer<lb />
+Indfødsrettens Begreb, indtil en ny Lov herom bliver given. Bed<lb />
+den første Betragtning af Ordene i § 2 kunde det Spørgsmaal<lb />
+opstaae, om det var Indfødsret i alle Retninger, der tillægges de<lb />
+Udlændinge, som i 10 Aar have opholdt sig her i Landet, og som<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+staae i personlig undersaatligt Forhold til den danske Konge;<lb />
+men om man end antager, at her kun sigtes til en enkelt,<lb />
+Rettighed, nemlig den, hvorom i Valgloven kan være Spørgsmaal,<lb />
+skjøndt denne rigtignok i sine Conseqventser er overordentlig vigtig,<lb />
+have vi dog antaget det rettest, at hele denne Bestemmelse bortfalder,<lb />
+saa at man maa vente, indtil en ny Lov om Indfødsretten bliver<lb />
+given, førend man kan tage almindelige Bestemmelser om, hvem<lb />
+denne Ret skal tilkomme udenfor hvad der hidtil har været gjældende.<lb />
+Det er derfor foreslaaet af Udvalget, at denne Paragraph udgaaer,<lb />
+saa at det bliver ved de hidtil givne Bestemmelser om Indfødsretten.<lb />
+</p>
+<p>
+Udkastets § 3 fastsætter de nærmere Bestemmelser om Uberygtethedsbetingelsen. Efter Udkastet hedder det, at „Ingen kan ansees<lb />
+som Uberygtet, som ved Dom er kunden skyldig i en i den offentlige<lb />
+Mening vanærende Handling, eller som vitterlig er hengiven til<lb />
+saadanne Laster eller beviisligen har udviist et saadant<lb />
+Forhold, som maa stemple ham som uværdig til enyver ærekjær<lb />
+Mands Agtelse". Vvistnok er denne Bestemmelse meget omsattende og<lb />
+almindelig; imidlertid har Udvalget troet, ikke at burde fraraade den<lb />
+Tanke, der ligger til Grund for denne saa omfattende og almindelige<lb />
+Bestemmelse. Dommen er lagt i en Autoritets Hænder, hvem den<lb />
+vvistnok tør betroes, men det forekommer os dog, at den, der vitterlig<lb />
+er hengiven til saadanne, Laster, som maae stemple ham som uværdig<lb />
+til ærekjære Mænds Agtelse, ligefrem maa siges at have udviist et<lb />
+saadant Forhold, der gjør ham uværdig til disses Agtelse, og vi have<lb />
+derfor troet, at denne dobbelte Udtalelse af den samme Tanke gjerne<lb />
+kunde bortfalde. Dernæst have vi havt Tvivl, om det ikke var noget<lb />
+for stærkt at sige „uværdig til enhver ærekjær Mands Agtelse";<lb />
+Meningen er jo vvistnok aabenbart ikke at betone Ordet „enhver", men<lb />
+vi have dog troet, at det kunde være nok, alene at sige, „ærekjære<lb />
+Mænds Agtelse". Paragraphen vil da herefter komme til at lyde<lb />
+saaledes: „Ingen kan ansees som uberygtet, der ved Dom er funden<lb />
+skyldig i en i den offentlige Mening vanærende Handling eller vitterlig har udviist et saadant Forhold, som maa stemple ham som<lb />
+uværdig til ærekjære Mænds Agtelse."<lb />
+</p>
+<p>
+Ved Udkastets § 4 have vi alene foreslaaet en lille Forandring<lb />
+i Afsattelsen, fordi Udkastets Affattelse synes os at indeholde en Gjentagelse, naar det hedder: „Ingen, som staaer i privat Tjenesteforhold,<lb />
+kan, saalænge han forbliver i denne Stilling, udøve sin<lb />
+Valgret, medmindre han har sin egen Huusstand." Det Samme<lb />
+er sagt med de færre Ord: „Ingen, som staaer i privat Tjenesteforhold,<lb />
+kan udøve Valgret, medmindre han har sin egen Huusstand."<lb />
+</p>
+<p>
+Den femte Paragraph i Udkastet indeholder den nærmere Forklaring om dem, der ere udlukkede fra Valgretten, fordi de nyde<lb />
+Understøttelse af Fattigvæsenet eller have nydt en saadan, uden at<lb />
+den er bleven tilbagebetalt eller eftergiven. Forsaavidt det i denne<lb />
+Paragraph udtrykkeligt er sagt, at det kun skal være den, der efter<lb />
+sit fyldte 18de Aar har nydt en saadan urekunderet Hjælp, der<lb />
+ikke skal komme i Betragtning som Vælger, saa har Udvalget meent,<lb />
+at dette ikke behøvedes og ikke burde gjentages her; thi det følger<lb />
+ganske af sig selv, idet nemlig efter den gjældende Fattiglovagivning<lb />
+Ingen kan faae Understøttelse af Fattigvæsenet, førend han har fyldt<lb />
+sit 18de Aar; først da ydes en saadan Hjælp ham selv, indtil den<lb />
+Tid tilfalder den Andre paa hans Vegne, og det forekommer os<lb />
+saaledes, at det vilde være urigtigt at gjentage i Velgloven, hvad<lb />
+der ligefrem følger af Fattiglovginingen, da det fynes unaturligt<lb />
+at give en Forklaring af hvad der ikke trænger til Forklaring.<lb />
+Naar det endvidere hedder i denne Paragraph „medmindre den enten<lb />
+</p>
+</rightside>
+
+
+</pb>

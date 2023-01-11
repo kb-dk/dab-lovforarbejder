@@ -1,0 +1,166 @@
+3897
+<pb n="1212" >
+<p rend="page">1212</p>
+<h>
+<coll>3897</coll>
+<colr>3898</colr><lb />
+
+Valglovens tredie Læsning<lb />
+</h>
+<leftside>
+<px>
+6) Odense og Svendborg Amter	7.<lb />
+7) Hiorring og Aalborg Amter	5.<lb />
+8) Thisted Amy, samt af Viborg Amy Kiøbstaden Skive med<lb />
+Nørre, Rødding, Harre, Hinddorg og Fjends Herreder, og<lb />
+af Ringkjøbing Amt Kjøæderne Holstebro og Lemvig samt<lb />
+Skodborg, Vandsuld, Hjerm, Ginding og Ulsborg Herreder	4.<lb />
+9) Aarhuus og Randers Amter, samt af Viborg Amt Kiøbstaden Viborg, tilligemed Rinds, Nørlyng, Søderlyng, Lysgaard, Hids, Houlberg og Middelsom Herreder	6.<lb />
+10) Veile og Skanderborg Amter	4.<lb />
+11) Ribe Amt, og af Ringsjøbing Amt Kjøbstaden Ringskiøbing<lb />
+med Hammerum, Hind, Vølling og Nørre Herreder	3.<lb />
+</px>
+<p>
+Med Hensyn til den i Grundloven foreskrevne Asgang af Halvdelen af Landsthingets Medlemmer deles landsthingskredfene i 2<lb />
+Grupper, hvoraf den ene bestaaer af første, anden, fierde, syvende og<lb />
+niende Valgkreds, den anden af de ovrige; ved Lodtrækning afgiøres<lb />
+det, hvilken af disse Grupper der første Gang skal fornyes.<lb />
+</p>
+<p>
+De nærmere Bestemmelser med Hensyn til Slesvig, Island og<lb />
+Færøerne forbeholdees.<lb />
+</p>
+<btitle>
+Valgmænd.<lb />
+</btitle>
+<p>
+<law n="1212" >§ 38.<lb /></law>
+Valgene til Landsthinget skee ved Valgmænd, som de til Folkethinget Valgberettigede dertil udnævne af deres Midte.<lb />
+<law n="1212" >§ 39.<lb /></law>
+I Kiøbenhavn foregaae Valgene af Valamændene i de same 9<lb />
+mindre Kredse, i hvilke Staden er inddeelt med Hensyn til Valg af<lb />
+Medlemmer af Folkethinget. Iøvrigt udgjør hver Kjøbstad og hvert<lb />
+Sogneforstanderskabsdistrict for sig en Valgmandskreds.<lb />
+</p>
+<p>
+Valgmændenes Antal retter sig efter Antallet af de Valgderettigede, saaledes at indtil 149 Valgberettigede udnævne een Valgmand,<lb />
+150—249 vælge to, 250—49 ter, og saaledes fremdeles i samme<lb />
+Forhold.<lb />
+</p>
+<p>
+Kun de Valgberettigede, der boe i Communen, og for Kiøbenhavns Vedkommende i den paagjældende mindre Valgkreds, kunne<lb />
+vælges til Valgmænd.<lb />
+<law n="1212" >§ 40.<lb /></law>
+Valgene ledes af Commualbestyrelferne, dog i Kiøbenhavn af de<lb />
+samme Valgbestyrekser, som forestaae Valgene til Folkethinget.<lb />
+<law n="1212" >§ 41.<lb /></law>
+Det almindelige Udnævnelser af Valgmænd foregaae paa een og<lb />
+samme Dag i vedkommende Valgkredse. Efterat Dagen er fastsat ved<lb />
+offentlig Kundgiørelse fra Regjeringen, bekjendgjøres Tid og Sted til<lb />
+Valgets Foretagelse i den enkelte Commune med mindst tre Dages<lb />
+Varsel til Kirkestevne eller paa anden paa ethvert Sted brugelig Maade,<lb />
+hvorved det tillige bekjendtgjøres, hvormange Valgmænd der skulle<lb />
+udnævnes.<lb />
+<law n="1212" >§ 42.<lb /></law>
+Afstemningen skeer i et offentligt Møde paa et for Vælgerne beqvemt Sted de for Folkethingsvalget optagne Valglister; dog<lb />
+kunne Valgmandskredsene, om saadant findes fornødent, af Com<lb />
+munalbestyrelsen deles i flere Afdelinger til Stemmernes Modtagelse.<lb />
+I den Folge, Vælgerne fremstaae for Valgbordet. nævne de saa<lb />
+Mange, som der skulle vælges for Valgmandskredsen.<lb />
+Et af Valgbestyrelsens Medlemmer tilforer paa Valglisterne,<lb />
+</p>
+<p>
+Ved Siden af Vælgerens Navn, de Mænds Navne, paa hvilke han<lb />
+stemmer. Et andet Medlem optegner paa en færskilt Stemmeliste<lb />
+de Valgtes, og ved Siden deraf Vælgernes Navne. Tilførslerne oplæses for Vælgeren, bekræftes af denne og sammenholdes indbyrdes.<lb />
+<law n="1212" >§ 43.<lb /></law>
+Naar, uagtet Opsordring, Ingen mere begjerer at deeltage i<lb />
+Valget, tilføre de, have bestyret samme, deres egne Stemmer;<lb />
+hermed sluttes Afstemningen. Efterat Valglisten og Stemmelisten ere<lb />
+sammenholdte med hinanden, optælles Stemmerne. Simpel Stemmeleehed giør Udslaget.<lb />
+<law n="1212" >§ 44.<lb /></law>
+Naar Valgene ere fulndyrdede, indføres Navnene paa de valgte<lb />
+Valgmænd i en af Communalbestyrelsen autoriseret Protocol.<lb />
+
+</p>
+</leftside>
+<rightside>
+<p>
+<law n="1212" >§ 45.<lb /></law>
+Enhver er pligtig at modtage Valg som Valgmand og at udføre det ham overdragne Hverv, medmindre han kan oplyse lovlig<lb />
+Forfald. Dersom den Valgte er tilstede ved Valghandlingen, har han<lb />
+strax at erklære, om han har nogen særlig Undskyldningsgrund, hvis<lb />
+Tilstrækkelighed da paakjendes af Valgbestyrelsen. Er han ikke tilstede,<lb />
+har Valgbestyrelsens Formand strax at meddele ham Underretning om<lb />
+Valget, og dersom han da ei inden 2 Dage fremkommer med gyldig<lb />
+Undskyldning, ansees han ikke at have Noget at indvende. I alle<lb />
+Tilfældee, hvor den anførte Undskyldningsgrund findes antagelig, skrides<lb />
+der til nyt Valg paa den ovenfor foreskrevne Maade.<lb />
+</p>
+<p>
+Naar Valgene ere endelig berigtigede, gjøres derom Indberetning<lb />
+til den Valgbestyrelse, der forestaaer Valgene til Landsthinget. Den<lb />
+Valgte erholder derhos et af Valgbestyrelsen udfærdiget Valgbrev.<lb />
+<law n="1212" >§ 46.<lb /></law>
+Unddrager nogen Valgmand sig, uden at have oplyst lovligt<lb />
+Forfald, fra Opfyldelsen af den ham paahvilende Forpligtelse, ansees<lb />
+han af den Valgbestyrelse, som forestaaer Valgene til Landsthinget,<lb />
+med en Mulct af 20 Rbdr., der tilfalder Fattigkassen i den Commune, for hvilken han er valgt, og kan uden Amtets Approbation<lb />
+inddrives ved Udpantning efter en Udskrift af Valgprotocollen.<lb />
+<law n="1212" >§ 47.<lb /></law>
+Det Valgmændene overdragne Hverv ophører med Fuldførelsen<lb />
+af det forestaaende Landsthingsvalg, dog saaledes, at de Omvalg, som<lb />
+maatte blive fornødne, fordi en Landsthingsmand ikke modtager Valget,<lb />
+eller dette af Landsthinget erklæres ugyldigt, foretages af de samme<lb />
+Valgmænd. Skulde imidlertid et Valg blive kjendt ugyldigt paa Grund<lb />
+af væsentlige selve Valgmændene vedkommende Mangler, bestemmer<lb />
+Landsthinget tillige, hvorvidt nye Valgmænd skulle udnævnes til<lb />
+Omvalgets Foretagelse.<lb />
+<law n="1212" >§ 48.<lb /></law>
+Ingen af — Vælgerne til Valgmanden given Instrux eller af ham<lb />
+indgaaet Forpligtelse Valget vedkommende har nogensomhelst Gyldighed.<lb />
+<law n="1212" >§ 49.<lb /></law>
+Valgmændene erholde af vedkommende Commune i Reiseomkostninger 48 Sk. for hver Miil, som de have at reise mellem deres Bopæl<lb />
+og det Sted, hvor Valgene til Landsthinget foregaae, men ingen Diæter.<lb />
+</p>
+<btitle>
+Valgbarhed.<lb />
+</btitle>
+<p>
+<law n="1212" >§ 50.<lb /></law>
+Valgbar til Landsthinget er enhver uberygtet Mand, som har<lb />
+Indfødsret, og hvis Bo ei er under Opbuds- eller Fallitbehandling,<lb />
+naar han har fyldt sit 40de Aar og i det sidste Aar enten har svaret i directe Skat til Staten eller Communen 200 Rbd. eller godtgiør at have havt en reen aarlig Indtæg af 1200 Rbd. Dog vil i<lb />
+enkelte Valgkredse Antallet af Valgbare kunne forøges med lavere<lb />
+Beskattede, overeensstemmende med de Regler, der indeholdes i §§ 61<lb />
+og 62.<lb />
+</p>
+<p>
+Idetmindste tre Fjerdedele af de Landsthingsmænd, som vælges<lb />
+for en Valgkreds, skulle i det sidste Aaar før Valget have havt fast<lb />
+Bopæl i selve Valgkredsen.<lb />
+</p>
+<btitle>
+Valgbestyrelser.<lb />
+</btitle>
+<p>
+<law n="1212" >§ 51.<lb /></law>
+Valgene til Landsthinget ledes af særegne Valgbestyrelsser for<lb />
+hver Valgkreds.<lb />
+<law n="1212" >§ 52.<lb /></law>
+Valgbestyrelsen forestaaes af en Formand, som Regjeringen udnævner. Denne tilforordnes i Kjøbenhavn 2 Medlemmer af Magistraten og 4 Borgerrepræsentanter, udenfor Kjøbenhavn 2 Medlemmer<lb />
+af hvert af de Amtsraad, som sindes i Valgkredsen, og 1 Medlem<lb />
+af Communalbestyrelsen for den støste Kjøbstad i hvert af Valgkredsens Amter.<lb />
+</p>
+<p>
+Hvor et Amt er deelt mellem tvende Valgkredse, vælges der for<lb />
+sammes Vedkommende et Medlem af Amtsraadet til hver Valgbestyrelse; den største Kjobstad i hver Deel af Amtet sender ligeledes et<lb />
+Medlem.<lb />
+</p>
+<p>
+Kjøbenhavns Magistrat og Borgerrepræsentanter udnævne, hver<lb />
+</p>
+</rightside>
+
+
+</pb>

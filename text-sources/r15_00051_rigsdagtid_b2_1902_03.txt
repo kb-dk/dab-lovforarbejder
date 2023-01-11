@@ -1,0 +1,169 @@
+2189
+<pb n="51" />
+<p rend="page">51</p>
+<h>
+<coll>2189</coll>
+<colr>2190</colr><lb />
+<topmidle>Set. o. Lovf. om Rettens Pleje.</topmidle>
+</h>
+<leftside>
+<p>
+at afgive Forklaring, uden Ed, om, hvad<lb />
+der med Hensyn til Efterforskningens Gen-<lb />
+stand maatte være dem bekendt. Udebliver<lb />
+den indkaldte uden lovligt Forfald (jfr.<lb />
+§ 774), er Politimesteren berettiget til at<lb />
+paalægge ham en Bøde af indtil 4 Kr. til<lb />
+Politikassen, at udrede inden en Uge, for<lb />
+saa vidt Klage ikke fremsættes efter Reg-<lb />
+len i § 868.<lb />
+</p>
+<p>
+Vægrer den indkaldte sig ved at af-<lb />
+give Forklaring for Politimesteren, kan<lb />
+denne begære ham indkaldt for Retten til<lb />
+Vidneafhørelse (§ 864), men kan ikke<lb />
+træffe andre Tvangsforanstaltninger mod<lb />
+den vægrende.<lb />
+</p>
+<p>
+Reglerne i den følgende Paragraf finde<lb />
+tilsvarende Anvendelse ved Indkaldelse til<lb />
+Afgivelse af Forklaring for Politimesteren.<lb />
+</p>
+<p>
+Til 8 785.<lb />
+</p>
+<p>
+260) I Paragraffens Begyndelse rettes<lb />
+„Kun uberygtede Personer" til: „Kun Per-<lb />
+soner, der ere uberygtede og kunne ed-<lb />
+fæstes, jfr. §§ 778 og 780,".<lb />
+</p>
+<p>
+Af Udvalget;<lb />
+</p>
+<stitle>
+Til§ 787.<lb />
+</stitle>
+<p>
+261) I Stykke 3, Linie 2, indskydes<lb />
+foran „Kvinder": „ærbare".<lb />
+</p>
+<p>
+Af Flertallet under Nr. 6:<lb />
+</p>
+<stitle>
+Til§ 793.<lb />
+</stitle>
+<p>
+262) I 1ste og følgende Linier udgaa<lb />
+Ordene „eller under de i § 287 ... For-<lb />
+sikring.".<lb />
+</p>
+<p>
+Af Mindretallet under Nr. 7:<lb />
+</p>
+<p>
+263) Paragraffens 1ste Punktum af-<lb />
+fattes saaledes:<lb />
+</p>
+<p>
+„Syns- og Skønsmænd have, under de<lb />
+i § 778 angivne Betingelser, at bekræfte<lb />
+deres Syn eller Skøn med Ed eller For-<lb />
+sikring i Eds Sted."<lb />
+</p>
+<p>
+Af Flertallet under Nr. 6:<lb />
+</p>
+<stitle>
+Til§ 795.<lb />
+</stitle>
+<p>
+264) I Linie 6 udgaa Ordene: „eller<lb />
+Forsikring".<lb />
+</p>
+</leftside>
+<rightside>
+<stitle>
+Til§ 797.<lb />
+</stitle>
+<p>
+265) I Linie 6 ombyttes Ordene „det<lb />
+Syssel" med „den Politikreds".<lb />
+</p>
+<p>
+Af Udvalget:<lb />
+</p>
+<stitle>
+Til§ 801.<lb />
+</stitle>
+<p>
+266) Der tilføjes 1ste Stykke følgende<lb />
+Slutningspunktum:<lb />
+</p>
+
+<p>
+„Samme Beføjelse som Politiet har<lb />
+enhver anden, naar den paagældende træf-<lb />
+fes i Udførelsen af en Forbrydelse eller<lb />
+paa friske Spor. Kan i dette Tilfælde<lb />
+Forelæggelse for Retten ikke straks finde<lb />
+Sted, skal det beslaglagte uopholdelig af-<lb />
+leveres til Politiet, som afkræver nøjagtig<lb />
+Forklaring om det forefaldne og paa-<lb />
+lægger vedkommende private, hvis Beslag-<lb />
+læggelsen ikke straks hæves, at møde for<lb />
+Retten, der træffer Afgørelse."<lb />
+</p>
+<stitle>
+Til§ 811.<lb />
+</stitle>
+<p>
+267) I trediesidste Linie ændres „anden<lb />
+Mands" til: „en ikke Sigtets".<lb />
+</p>
+<stitle>
+Til§ 816.<lb />
+</stitle>
+<p>
+268) I Paragraffens sidste Stykke ind-<lb />
+skydes foran „Kvinder": „ærbare".<lb />
+</p>
+<stitle>
+Til§ 820.<lb />
+</stitle>
+<p>
+269) 1 2det Stykke, 3die Linie, ændres<lb />
+„fremdeles" til „derefter".<lb />
+</p>
+<p>
+Af Flertallet under Nr. 6:<lb />
+</p>
+<p>
+270) Der tilføjes 2det Stykke følgende<lb />
+Slutningspunktum:<lb />
+</p>
+<p>
+„For saa vidt det imod den Sigtede<lb />
+fremkomne eller den Sigtedes egne Ud-<lb />
+talelser dertil give Anledning, kan Dom-<lb />
+meren rette Spørgsmaal til ham angaaende<lb />
+enkelte Punkter."<lb />
+</p>
+<stitle>
+Til§ 821.<lb />
+</stitle>
+<p>
+271) I sidste Linie forandres „ ; " til<lb />
+„ . ", hvorefter indskydes: „Ligeledes bør<lb />
+Dommeren, naar dertil findes Anledning,<lb />
+gøre Sigtede opmærksom paa Muligheden<lb />
+af, at Undladelse af at afgive Forklaring<lb />
+enten i det hele eller med Hensyn til<lb />
+Punkter, som maa antages at være ham<lb />
+bekendte, kan blive opfattet som en Om-<lb />
+stændighed, der taler imod ham;".<lb />
+</p>
+</rightside>

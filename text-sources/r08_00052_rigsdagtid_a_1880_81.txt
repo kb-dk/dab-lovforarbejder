@@ -1,0 +1,50 @@
+3467
+<pb n="52" />
+<h>
+<coll>3467</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3468</colr>
+</h>
+<p>Enhver Part kan frivilligt fremstille sig under Bevisforhandlingen og begjære personlig<lb />
+at afgive sin Forklaring. Dette tilstedes ham i Almindelighed, medmindre Retten anser det<lb />
+for at være uden Nytte i Henseende til Sagens Oplysning. Den Part, der fremstiller sig<lb />
+for at afgive Forklaring, er pligtig at besvare de yderligere spørgsmaal, som Modparten eller<lb />
+Retten maatte gjøre ham.</p>
+<wtitle>§ 97.</wtitle>
+<p>Naar en Part, der er tilfagt til personligt Mode, uden oplyst lovligt Forfald ude-<lb />
+bliver, eller naar der ikke svares paa de ifølge de tvende foregaaende Paragrafer stillede<lb />
+spørgsmaal, eller Svaret ikke har tilstrækkelig Bestemthed, kan Retten fortolke Udeblivelsen,<lb />
+Tavsheden eller Ubestemthedcn paa den for Modparten gunstigste Maade og navnlig henholde<lb />
+sig til dennes Forklaring.</p>
+<wtitle>§ 98.</wtitle>
+<p>Retten kan paalægge en Pait at fremlægge Situationskort, Stamtavler, Grundrids,<lb />
+Tegninger og andre lignende Anfkueligheden befordrende Midler til Faktums Forstaaelse, naar<lb />
+Sagen ikke uden dette kan paademmes med tilstrækkelig Sikkerhed.</p>
+<p>Vcrgrer Sagsogeren sig herved, kan Sagen afvises; er det Indstævnte, behandles han<lb />
+efter Reglerne i § 97.</p>
+<wtitle>§ 99.</wtitle>
+<p>Antager Retten, at der er Omstændigheder tilstede, som kunne medføre Afvisning<lb />
+paa Embedsvegne, kan den standse Forhandlingerne og opfordrer da Parterne kil at erklære<lb />
+sig over Afvisningsfpørgsmaalet.</p>
+<p>Naar Afvisntngsdom ikke afsiges, fortsættes derefter Forhandlingerne.</p>
+<wtitle>§ 100.</wtitle>
+<p>Ved Klageffriftets meddelelse til Modparten anses Sagen for anboengiggjort. ligesom<lb />
+en Modfordring er at anse som anhomgiggjort ved meddelelsen af det Tilsvarsfkrift, hvori<lb />
+den fremfættes, forsaavidt der paastaas felvstændig Dom for samme.</p>
+<p>Indtil Sagfsgeren mundtligt har nedlagt sin Paastand og har fremlagt sin Sags-<lb />
+fremstilling i Retten, forsaavidt en faadan er nodvendig, staar det ham frit for at harve Sagen,<lb />
+imod til den Sagsogte at udrede Erstatning for Uleilighed, Udgifter og Tidsspilde, dog at<lb />
+Sagsogeren ikke drrved kan forhindre, at der gives den Sagsogte Dom for Modfordringer.<lb />
+Efter det anforte Tidspunkt kan Sagsogeren derimod ikke ensidig hæve Sagen.</p>
+<wtitle>§ 101.</wtitle>
+<p>Ved Sagens Nnhængiggjørelse begrundes Ret for Modparten til at fremsætte Mod-<lb />
+fordringer, forsaavidt som disse enten have forkes Oprindelse med Hovedfordringen eller dog i<lb />
+Mangel heraf ere udjcevnelige (komputable) med den. Der kan gives felvstoendig Dom for<lb />
+Modfordringen.</p>
+<p>Under Proceduren behandles Modfordringen aldeles som en Bestanddel af Indstævntes<lb />
+Forsvar. Den fremfættes og forhandles i Forbindelse med hans Indsigelser paa samme<lb />
+Maade som disse. Dog kan Retten udove den samme ved § 102 tillagte Myndighed ogsaa<lb />
+med Hensyn til Modfordringer.</p>
+<wtitle>§ 102.</wtitle>
+<p>Retten kan bestemme, at ftere for den svcevende Retssager imellem de samme Parter<lb />
+skulle forhandles i Forbindelse med hverandre.    Samme  Myndighed   har Retten ogsaa med</p>

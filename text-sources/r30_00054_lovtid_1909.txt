@@ -1,0 +1,71 @@
+318
+<pb n="54" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>318</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 217.</wtitle>
+<p>
+Sagens Værdi bestemmes efter Påstanden i Stævningen. Består Søgsmålet<lb/>
+af flere Poster eller Fordringer, sammenlægges disse. Ved Krav på noget mod Erlæggelse af en Modpræstation medregnes denne ikke. Dersom Påstanden omfatter<lb/>
+Renter af Fordringen, tages kun Hensyn til Fordringen selv.
+</p>
+<p>
+Der tages intet Hensyn til Sagsomkostninger eller til senere Nedsættelse af<lb/>
+Påstanden.
+</p>
+<wtitle>§ 218.</wtitle>
+<p>
+Drejer Sagen sig om Rettigheden til periodiske Ydelser eller Indtægter, bliver<lb/>
+dens Værdi at bestemme efter følgende Regler:
+</p>
+<p>
+1)	Ere årlige Ydelser eller Indtægter erhvervede, betingede eller tilsagte for bestandig eller for flere end de ved Sagens Anlæg (§ 270) levende Personers Livstid eller for et bestemt Tidsrum, der ikke er kortere end 25 År efter det<lb/>
+nævnte Tidspunkt, bliver Værdien af Rettigheden at sætte lig med det 25-dobbelte af et Års Beløb.
+</p>
+<p>
+2)	Ere årlige Ydelser eller Indtægter erhvervede, betingede eller tilsagte for en<lb/>
+enkelts eller flere ved Sagens Anlæg levende Personers Livstid eller i øvrigt for<lb/>
+ubestemt Tid, sættes Rettighedens Værdi lig med det 5-dobbelte af et Års Beløb.
+</p>
+<p>
+3)	Kunne Ydelser eller Indtægter ikkun oppebæres et bestemt Antal Gange, sættes<lb/>
+Rettighedens Værdi lig med en enkelt Ydelses Beløb taget dette Antal Gange,<lb/>
+dog ingensinde over 25.
+</p>
+<p>
+Er Beløbet af årlige Ydelser eller Indtægter ikke lige stort de forskellige<lb/>
+År, tages Værdien i det sidst forløbne År som Enhed.
+</p>
+<wtitle>§ 219.</wtitle>
+<p>
+Lyder Påstanden ikke på en bestemt Pengesum, ansættes Værdien af dens<lb/>
+Genstand ved Rettens Skøn, jvf. dog § 218.
+</p>
+<wtitle>§ 220.</wtitle>
+<p>
+I de i de tvende foregående Paragraffer omhandlede Tilfælde er Rettens Af-<lb/>
+gørelse, for så vidt den går ud på at erklære sig kompetent til at påkende Sagen,<lb/>
+ikke Genstand for Anke eller Kære; nægter Retten at antage Sagen, er dens Afgørelse Genstand for Kære til højere Ret, men ikke for Anke.
+</p>
+<wtitle>§ 221.</wtitle>
+<p>
+Er Sagens Værdi afgørende for Kompetencespørgsmålet, må den Part, som<lb/>
+påstår den højere Værdi, føre Bevis derfor.
+</p>
+<p>
+I øvrigt påhviler det Sagsøgeren at oplyse, at Sagen hører under Underret.
+</p>
+<wtitle>§ 222.</wtitle>
+<p>
+Imod Søgsmål, der i Henhold til § 216 ere anlagte ved Underret, kunne Modfordringer gøres gældende, når i øvrigt de almindelige Betingelser for disses Fremsættelse ere til Stede (§ 271). Selvstændig Dom for Modfordringen eller den overskydende Del af samme kan dog, hvis Modparten modsætter sig det, kun gives, for<lb/>
+så vidt Dommen ikke herved kommer til at lyde på noget højere Beløb end 300<lb/>
+Kr. (§ 216, jvf. §§ 217, 218 og 219), eller såfremt, Modfordringen kunde forfølges ved<lb/>
+Underret, dersom den gjordes gældende under en selvstændig Sag.
+</p>
+<p>
+Imod Søgsmål, der svæve for Landsret, kunne Modfordringer fremføres uden<lb/>
+Hensyn til, at de, i og for sig betragtede, vilde henhøre under Underret.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

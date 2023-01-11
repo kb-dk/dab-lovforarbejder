@@ -1,0 +1,59 @@
+297
+<pb n="33" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>297</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<title>
+Anden Bog.
+</title>
+<undertitle>
+Fælles Bestemmelser for borgerlige Sager og
+Straffesager.
+</undertitle>
+<title>Kapitel 15.</title>
+<undertitle>
+Almindelige Bestemmelser om Procesmåden.
+</undertitle>
+<wtitle>§ 139.</wtitle>
+<p>
+Retssager forhandles mundtlig. Skrift anvendes kun i det Omfang, i hvilket<lb/>
+Loven særlig bestemmer det.
+</p>
+<p>
+Ved den mundtlige Forhandling benyttes frit Foredrag.
+</p>
+<p>
+Når Oplæsning skal finde Sted, bestemmer Rettens Formand, ved hvem den<lb/>
+skal foregå, for så vidt andet ikke i Loven er foreskrevet.
+</p>
+<wtitle>§ 140.</wtitle>
+<p>
+Retssproget er dansk. Afhørelse af Personer, der ikke ere det danske Sprog<lb/>
+mægtige, foregår ved Hjælp af en edsvoren Tolk. Dog kan i borgerlige Sager ved<lb/>
+Underret Tilkaldelse af Tolk undlades, når ingen af Parterne gør Fordring herpå, og<lb/>
+Retten tiltror sig fornødent Kendskab til det fremmede-Sprog. Det samme kan under<lb/>
+sidstnævnte Forudsætning finde Sted i Straffesager udenfor Domsforhandling for Landsret.
+</p>
+<p>
+Dokumenter, der ere affattede i fremmede Sprog, skulle ledsages af en Oversættelse, der, når Retten eller Modparten forlanger det, skal autoriseres af en offentlig<lb/>
+ansat Translatør.
+</p>
+<p>
+Forhandling med og Afhørelse af døve, stumme og døvstumme foregår enten<lb/>
+ved Hjælp af Personer, der ere kyndige i Tegnsproget eller Talemetoden, og som<lb/>
+forud tages i Ed, eller ved skriftlige Spørgsmål og Svar.
+</p>
+<p>
+Til at bistå som Tolk eller Tegnsprogkyndig må ingen tilkaldes, der ifølge<lb/>
+§§ 61 og 63 vilde være udelukket fra at handle som Dommer i Sagen. I øvrigt blive<lb/>
+de om Vidner gældende Regler at anvende på de nævnte Personer med de Lempelser,<lb/>
+der følge af Forholdets Natur, og for så vidt ikke andet særlig er foreskrevet.
+</p>
+<wtitle>§ 141.</wtitle>
+<p>
+Rettens Formand leder Forhandlingen. Han bestemmer Rækkefølgen af de<lb/>
+enkelte Dele af Forhandlingen, for så vidt Loven ikke indeholder Forskrifter derom.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.	40</pagename>

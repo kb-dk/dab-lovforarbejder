@@ -1,0 +1,104 @@
+1941
+<pb n="17" />
+<h>
+<coll>1941</coll>
+<topmidle>Bet. o. Lovf. om Rettens Pleje m. m.</topmidle>
+<colr>1942</colr>
+</h>
+<p>
+33.	Faaborg Købstad og Salling Herred med Muckadell, Holstenshus og Brahetrolle-<lb/>
+borg Birker, 30,655 Indb.
+</p>
+<p>
+34.	Odense Købstad med Odense Skt. Hans Sogns Landdistrikt af Odense Herred,<lb/>
+46,595 Indb.
+</p>
+<p>
+35.	Odense Herred (undtagen Odense Skt. Hans Sogns Landdistrikt) med Nørre<lb/>
+Søby, Nørre Lyndelse, Sønder Næraa og Højby Sogne af Aasum Herred, 23,572 Indb.
+</p>
+<p>
+36.	Kerteminde Købstad og Hindsholm Herred med Bjerge-Aasum Herreder (und-<lb/>
+tagen de 4 under Nr. 35 angivne Sogne af Aasum Herred), 18,113 Indb.
+</p>
+<p>
+37.	Bogense Købstad og Skovby Herred med Lunde-Skam Herreder og Grevskabet<lb/>
+Roepstorffs Birk, 27,401 Indb.
+</p>
+<p>
+38.	Assens Købstad og Baag Herred, med Kerte, Bariøse, Sandager og Tanderup<lb/>
+Sogne af Wedellsborg Birk, 25,095 Indb.
+</p>
+<p>
+39.	Middelfart Købstad og Vends Herred med Resten af Wedellsborg Birk, 25,796 Indb.
+</p>
+<place>
+Jylland.
+</place>
+<p>
+40. Fredericia Købstad med Elbo, Brusk og Holmans Herreder, 28,757 Indb.<lb/>
+41. Kolding Købstad med Kolding Herred samt Jerlev, Andst og Slaugs Herreder,<lb/>
+54,913 Indb.
+</p>
+<p>
+42.	Vejle Købstad med Nørvang-Tørrild Herreder, 53,458 Indb.
+</p>
+<p>
+43.	Hatting Herred med Bjerre Herred, 21,947 Indb.
+</p>
+<p>
+44.	Horsens Købstad, 23,843 Indb.
+</p>
+<p>
+45.	Voer og Nim Herreder samt Stensballegaard Birk, 19,106 Indb.
+</p>
+<p>
+46.	Tyrsting og Vrads Herreder, 15,525 Indb.
+</p>
+<p>
+47.	Silkeborg Købstad og Silkeborg Birk med Lysgaard og Hids samt en Del af<lb/>
+Hovlbjerg Herred, 42,885 Indb.
+</p>
+<p>
+48.	Skanderborg Købstad samt Hjelmslev-Gjern Herreder, 16,147 Indb.
+</p>
+<p>
+49.	Hads Herred, 14,388 Indb.
+</p>
+<p>
+50.	Aarhus Købstad, 61,755 Indb.
+</p>
+<p>
+51.	Ning Herred med Hasle, Vester Lisbjerg, Framlev og Sabro Herreder 32,763 Indb.
+</p>
+<p>
+52.	Frijsenborg-Faurskov Birk, 17,139 Indb.
+</p>
+<p>
+53.	Grenaa Købstad samt Nørre og en Del af Sønder Herred, 20,164 Indb.
+</p>
+<p>
+54.	Ebeltoft Købstad samt Mols Herred og en Del af Sønder Herred, 13,519 Indb.
+</p>
+<p>
+55.	Rougsø og en Del af Sønderhald Herred med Øster Lisbjerg og en Del af Søn-<lb/>
+derhald Herred, 34,017 Indb.
+</p>
+<p>
+56.	Randers Købstad med Nørhald, Støvring og Galten Herreder, 43,682 Indb.
+</p>
+<p>
+57.	Mariager Købstad samt Gjerlev-Onsild Herreder (undtagen Vester-Tørslev, Glen-<lb/>
+strup, Sønder-Onsild, Nørre-Onsild, Hvornum, Snæbum og Skjellerup Sogne),<lb/>
+12,989 Indb.
+</p>
+<p>
+58.	Hobro Købstad, Gislum og Rinds Herreder med de 7 under Nr. 57 nævnte Sogne<lb/>
+af Gjerlev-Onsild Herreder, 29,689 Indb.
+</p>
+<p>
+59.	Hellum-Hindsted Herreder, 23,984 Indb.
+</p>
+<p>
+60.	Løgstør Købstad samt Aars-Slet Herreder, 18,282 Indb.
+</p>

@@ -1,0 +1,76 @@
+2987
+<pb n="174" />
+<h>
+<coll>
+2987
+</coll>
+<topmidle>
+F. t. L.  Rettens Pleje.
+</topmidle>
+<colr>
+2988
+</colr>
+</h>
+<p>
+etten, der afgør, om Beslaglæggelsen skal opretholdes. Samme Beføjelse som Politiet<lb />
+har enhver anden, naar den paagældende træffes i Udførelsen af en Forbrydelse eller<lb />
+paa friske Spor. Kan i dette Tilfælde Forelæggelse for Retten ikke straks finde Sted,<lb />
+skal det beslaglagte uopholdelig afleveres til Politiet, som afkræver nøjagtig Forklaring<lb />
+om det forefaldne og paalægger vedkommende private, hvis Beslaglæggelsen ikke<lb />
+straks hæves, at møde for Retten, der træffer Afgørelse.
+</p>
+<p>
+Beslaglæggelse af et trykt Skrift, i Anledning af hvis Indhold Ansvar skal<lb />
+gøres gældende, kan kun ske efter Retskendelse.
+</p>
+<wtitle>§ 747.</wtitle>
+<p>
+Vilde Beslaglæggelse udsætte en ikke sigtet Person for Tab, bør den, naar<lb />
+Øjemedet derved kan antages tilstrækkelig sikret, undlades mod Løfte, med eller<lb />
+uden Sikkerhedsstillelse, om paa Opfordring at forevise, fremlægge eller med-<lb />
+bringe Tingen.
+</p>
+<wtitle>§ 748.</wtitle>
+<p>
+Den, der er i Besiddelse af Ting af saadan Art som nævnt i § 745, kan det,<lb />
+for saa vidt han ikke er i noget Tilfælde, hvor Vidnepligt er udelukket, af Retten<lb />
+paalægges at forevise eller udlevere dem. Skal han møde som Vidne, kan det paa-<lb />
+lægges ham at medtage Tingen, naar han har paataget sig dette (§ 747), eller det<lb />
+findes at kunne ske uden Udgift eller væsentligt Besvær. Mod den, som vægrer sig<lb />
+ved eller undlader at efterkomme saadant Paalæg, kan de Bøder og Tvangsmidler<lb />
+anvendes, som er hjemlede overfor Vidner, der vægrer sig ved at svare. Herved<lb />
+finder Regelen i § 189 tilsvarende Anvendelse. Anvendelse af det i denne Paragraf<lb />
+hjemlede Middel medfører ingen Indskrænkning i Adgangen til Ransagning efter næste<lb />
+Kapitel eller omvendt.
+</p>
+<wtitle>§ 749.</wtitle>
+<p>
+Embedsakter, som indeholder Oplysninger, der skønnes at være af Betydning<lb />
+for Sagen, kan Retten eller Paatalemyndigheden kræve meddelte, medmindre Hemme-<lb />
+ligholdelse findes nødvendig i Statens Interesse, hvorom Afgørelse træffes af vedkom-<lb />
+mende Minister. Meddelelsen kan ske i bekræftet Genpart; dog er Retten beføjet til<lb />
+at kræve Fremlæggelse af Originalen.
+</p>
+<p>
+Om andre hos offentlige Myndigheder beroende Dokumenter kan Retten, naar<lb />
+det findes nødvendigt, ved Kendelse bestemme, at de skal forevises eller udleveres<lb />
+til Benyttelse under Sagen, selv om de maatte være givne i embedsmæssig Forvaring<lb />
+med det Formaal, at Indholdet skal være hemmeligt,
+</p>
+<p>
+Dog finder ved denne Paragraf Reglerne i § 169 Nr. 1 og 3 tilsvarende<lb />
+Anvendelse.
+</p>
+<wtitle>§ 750.</wtitle>
+<p>
+Breve og andre Forsendelser, som er rettede til eller antages at være be-<lb />
+stemte for eller hidrøre fra Sigtede, kan det ved Rettens Kendelse paalægges Post-<lb />
+væsenet at tilbageholde og udlevere til Retten, naar Sigtelsen angaar en Forbrydelse,<lb />
+som det efter Lovens almindelige Regel tilkommer Overanklageren at forfølge, og<lb />
+Omstændighederne gør det sandsynligt, at Indholdet bør beslaglægges. Undtagne<lb />
+fra saadan Beslaglæggelse er Breve, som veksles mellem Sigtede og hans Forsvarer,<lb />
+for saa vidt dette følger af Reglerne i § 738.
+</p>
+<p>
+I paatrængende Tilfælde kan Politiet paalægge Postvæsenets Embedsmænd at
+</p>

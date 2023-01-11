@@ -1,0 +1,76 @@
+2823
+<pb n="92" />
+<h>
+<coll>
+2823
+</coll>
+<topmidle>
+F. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2824
+</colr>
+</h>
+<title>Kapitel 36.</title>
+<undertitle>
+Anke til Højesteret.
+</undertitle>
+<wtitle>§ 394.</wtitle>
+<p>
+Domme, afsagte i første Instans af en Landsret, kan, med den i § 229 inde-<lb />
+holdte Undtagelse, overensstemmende med nedenstaaende Regler af Parterne paaankes<lb />
+til Højesteret, I Forbindelse med Dommen kan Anken omfatte den forudgaaende<lb />
+Behandling og de under denne faldne Afgørelser, for saa vidt Anke ikke særlig er<lb />
+udelukket,
+</p>
+<p>
+Anke kan iværksættes til Forandring, Ophævelse eller Hjemvisning, hvorimod<lb />
+Anke alene til Stadfæstelse ikke kan finde Sted. Heller ikke kan Anke iværksættes<lb />
+alene til Forandring af Dommens Bestemmelser om Sagsomkostninger og processuelle<lb />
+Straffe, Dog kan Justitsministeren tillade, at deslige Bestemmelser særskilt paaankes<lb />
+af Parterne, naar Afgørelse med Hensyn til disse Punkter er uafhængig af Sagens Ud-<lb />
+fald, eller af Trediemand, hvem Omkostninger eller Straf er paalagt eller Salær tilkendt<lb />
+eller frakendt.
+</p>
+<wtitle>§ 395.</wtitle>
+<p>
+Anke kan iværksættes fra begge Parters Side, men de tvende Anker bliver da<lb />
+at forene til samtidig Forhandling, jfr. § 286. 1ste Stykke.
+</p>
+<p>
+Udtrykkelig eller stiltiende Afkald paa Anke kan ikke gyldig gives, forinden<lb />
+den Retsafgørelse, om hvis Paaanke der er Tale, er truffet,
+</p>
+<wtitle>§ 396.</wtitle>
+<p>
+Edsdomme og Afgørelser i Henhold til § 295 af enkelte Spørgsmaal eller<lb />
+Dele af Sagen kan først paaankes, naar den endelige Dom er afsagt.
+</p>
+<wtitle>§ 397.</wtitle>
+<p>
+Ankefristen er 8 Uger fra Dommens Afsigelse at regne. Anken kan dog und-<lb />
+tagelsesvis tillades af Justitsministeren indtil et Aar efter Dommens Afsigelse, naar<lb />
+der foreligger tilstrækkelig Grund til at afvige fra den almindelige Regel om<lb />
+Ankefristen.
+</p>
+<wtitle>§ 398.</wtitle>
+<p>
+Inden Ankefristens Udløb eller inden 4 Uger, efter at den i § 397 ommeldte<lb />
+Tilladelse til Anke er meddelt, skal Appellanten indlevere Ankestævning paa Rettens<lb />
+Kontor til Sagens Berammeise overensstemmende med de i § 338 fastsatte Regler.<lb />
+Begæres Sagen berammet til et overdrevent fjernt Tidspunkt, skal Justitssekretæren<lb />
+forelægge Rettens Formand Spørgsmaalet til Afgørelse.
+</p>
+<p>
+Ankestævningen skal indeholde en fuldstændig og tydelig Angivelse af Anke-<lb />
+grunden og den Paastand, der agtes nedlagt.
+</p>
+<p>
+Om Varselet gælder de i § 339 fastsatte Regler med fornøden Lempelse, dog<lb />
+saaledes at det ikke maa være kortere end 4 Uger.
+</p>
+<wtitle>§ 399.</wtitle>
+<p>
+Hæves eller afvises en i rette Tid, jfr. §§ 397 og 398, indanket Sag, skal det,<lb />
+uanset at Ankefristen imidlertid maatte være udløbet, være Parten tilladt at indanke
+</p>

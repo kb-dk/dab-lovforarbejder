@@ -1,0 +1,139 @@
+3885
+<pb n="1206" >
+<p rend="page">1206</p>
+<h>
+<coll>3885</coll>
+<colr>3886</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning Om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 490.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede og Syv og Tredivte (141de) Møde.<lb />
+(Den endelige Behandling af Valgloven. Udvalgets § 80.)<lb />
+</stitle>
+<px>
+Ja.<lb />
+G. Aagaard.	Hækkerup.<lb />
+Andresen.	Høier.<lb />
+Andræ.	Jacobsen.<lb />
+Barfod.	Fr. Jespersen.<lb />
+Black.	H. C. Johansen.<lb />
+Bregendahl.	Jungersen.<lb />
+Balthazar Christensen.	Leth.<lb />
+H. Christensen. R. N. Møller.<lb />
+J. Christensen. N. H. Nielsen.<lb />
+la Cour.	J. Rasmussen.<lb />
+Dinsen.	H. Rasmussen.<lb />
+Frølund.	M. Rasmussen.<lb />
+Gleerup.	Rée.<lb />
+Gregersen.	Schiern.<lb />
+J. A. Hansen.	Stender.<lb />
+L. Hansen.	Tscherning.<lb />
+P. Hansen.	Winther.<lb />
+v. Haven.<lb />
+</px>
+<px>
+Fraværende.<lb />
+M. P. Bruun.	Tage Müller (syg).<lb />
+Buchwaldt.	Olesen.<lb />
+Boisen.	Otterstrøm.<lb />
+Colding.	Ræder.<lb />
+Dahelerup.	Schlegel.<lb />
+M. Drewsen.	Schroll.<lb />
+Eriksen.	Schurmann.<lb />
+Fibiger.	Schytte.<lb />
+Fløe.	Brinck-Seidelin.<lb />
+Gislason.	Sidenius.<lb />
+Grundtvig.	Sigurdsson.<lb />
+Gudmundsson.	Stochfleth.<lb />
+Hiort.	Thalbi‡er.<lb />
+Holck.	Treschow.<lb />
+Hvidt (syg).	Algreen-Ussing.<lb />
+C. M. Jespersen.	Wegener.<lb />
+Johnsen.	With.<lb />
+Linnemann.<lb />
+</px>
+<p>
+4) Nr. 227. Udvalgets Mindretals (Bjerrings) Forslag:<lb />
+“Istedetfor “2 Rbd. “ sættes “3 Rod."."<lb />
+blev ved Navneopraab, det var forlangt af de samme Rigsdagsmænd som ved Afstemningen over Nr. 224, vedtaget med 66<lb />
+Ja mod 49 Nei — 35 Fraværende.<lb />
+</p>
+<px>
+Ja.<lb />
+G. Aagaard.	Bergmann.<lb />
+Andresen.	Bjerring.<lb />
+Andræ.	Black.<lb />
+Barsod.	Brandt.<lb />
+</px>
+</leftside>
+<rightside>
+<px>
+Bregendahl.	Mundt.<lb />
+Bun‡en.	Paludan-Müller.<lb />
+G. Christensen.	Mynster.<lb />
+H. Christensen.	R. N. Møller.<lb />
+J. Christensen.	H. C. Nielsen.<lb />
+la Cour.	N. H. Nielsen.<lb />
+Dinsen.	Norgaard.<lb />
+Dun‡felt.	Olrik.<lb />
+Flor.	Ostermann.<lb />
+Frolund.	Oxholm.<lb />
+Hammerich.	Cornelius Petersen.<lb />
+N. Hansen.	J. Pedersen.<lb />
+P. Hansen.	B. Petersen.<lb />
+Hasselbalch.	Pjetursson.<lb />
+Hastrup. Ploug.<lb />
+v. Haven.	J. Rasmussen.<lb />
+Hermannsen.	H. Rasmussen.<lb />
+Høier.	Rée.<lb />
+Jacobsen.	Schack.<lb />
+F. Jespersen.	Schiern.<lb />
+H. C. Johansen.	Stender.<lb />
+F. Johannsen.	Theilmann.<lb />
+Jørgensen.	Tobiesen.<lb />
+Kayser.	Tscherning.<lb />
+Kirk.	W. Ussing.<lb />
+Chr. Larsen.	Westergaard.<lb />
+Leth.	Visby.<lb />
+Madsen.	Winther.<lb />
+Marckmann.	Ørsted.<lb />
+</px>
+<px>
+Nej.<lb />
+U. Aagaard.	Sehestedt-Juel.<lb />
+Bagger.	Jungersen.<lb />
+Bluhme.	Knuth.<lb />
+H. B. Bruun.	Krieger.<lb />
+P. D. Bruun.	Køster.<lb />
+Cederfeld de Simonsen.	J. E. Larsen.<lb />
+Balthazar Christensen.	Lorck.<lb />
+Dahl.	Lüttichan.<lb />
+David.	Lü‡höft.<lb />
+J. C. Drewsen.	C. C. Møller.<lb />
+Funder.	Neergaard.<lb />
+Gleerup.	Nyholm.<lb />
+Gram.	Ostenfeldt.<lb />
+Gregersen.	Pape.<lb />
+Hage.	P. Pedersen.<lb />
+Hall.	C. N. Petersen.<lb />
+H. P. Hansen.	Pløyen.<lb />
+J. A. Hansen.	M. Rasmussen.<lb />
+L. Hansen.	Scavenius.<lb />
+Mørk Hansen.	Tang.<lb />
+Hunderup.	Tuxen.<lb />
+Hækkerup.	Tvede.<lb />
+Jacobæus.	Wulff.<lb />
+N. F. Jespersen.	Zeuthen.<lb />
+H. Johansen.<lb />
+ 
+</px>
+</rightside>
+
+
+</pb>

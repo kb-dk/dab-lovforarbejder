@@ -1,0 +1,120 @@
+2173
+<pb n="350" >
+<p rend="page">350</p>
+<h>
+<coll>2173</coll>
+<colr>2174</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne Paa Rigsdagen.</topmidle>
+<topright>
+No. 276.<lb />
+</topright>
+</h>
+<leftside>
+<p>
+(Comiteebetænkning over 7de Afsnit af Grundlovsudkastet)<lb />
+</p>
+<p>
+<law n="85" />§ 85. Indtil en Omordning af dencriminelle Proces<lb />
+er iværksat, vil den i § 67 omhandlede Indankning af<lb />
+en Fængslingskjendelse skee som af en privat Sag,<lb />
+dog med Extraretsvarsel, ligesom den Klagende er fritagen for Brugen af stemplet Papiir og Erlæggelse af<lb />
+Retsgebyhrer. Der bør gives ham Adgang til i Anledning af saadan Paaanke at raadføre sig med en<lb />
+Sagfører, og nye Oplysninger kunne fremlægges for<lb />
+Overretten.<lb />
+<law n="86" />§ 86. Der skal saasnart som muligt gives Love om<lb />
+følgende Gjenstande:<lb />
+1) om Kolonierne og deres Bestyreelse;<lb />
+2) om Ministerraadets Ordning, Statsforretningernes Fordeling, Ministrenes Ansvarlighed<lb />
+(§ 20) og Retsforfølgningsmaaden ved Rigsretten (§ 60);<lb />
+3) om Pensionsvæsenet (§ 21);<lb />
+4) om Retspleiens Adskillelse fra Forvaltningen<lb />
+(§ 63);<lb />
+5) om Rævningers Indførelse (§ 63 e.);<lb />
+6) om Folkekirkens (§ 64) og de fra samme afvigende Troessamfunds Forhold (§ 66 b.);<lb />
+7) om Næringsforholdnes Ordning (§ 69);<lb />
+8) om Trykkefriheden (§ 72);<lb />
+9) om Ordningen af Communalforholdene (§ 77);<lb />
+10) om de nu bestaaende Lehus, Stamhuses og Fideicommisgodsers Overgang til fri Eiendom<lb />
+(§ 79).<lb />
+</p>
+<p>
+Angaaende disse nye Bestemmelser kunne vi i det Hele henholde<lb />
+os til, hvad der paa de tilsvarende Steder af vor Betænkning allerede<lb />
+er yttret. Vi tilføie med Hensyn til den af os foreslaaede § 84,<lb />
+at ligesom Grundsætningen i Udkastets § 62 i og for sig ikke passer<lb />
+paa saadanne Embedsmænd, for hvem dømmende Forretninger kun<lb />
+ere en, maaskee endog underovdnet Deel af deres Embedsvirksomhed,<lb />
+saaledes forekommer det os ogsaa særdeles utilraadeligt at indskrænke<lb />
+Kongens Ret til at afskedige Embedsmænd netop nu, da en heel ny<lb />
+Ordning af Administrationen og Retspleien maa betragtes som forestaaende. Med Hensyn til den foreslaaede nye § 85 maae vi indrømme,<lb />
+at den fremsatte Paaankningsform er noget særegen, og at den derfor vel tør frembyde nogen Vanskelighed i sin Anvendelse; men vi<lb />
+have dog ikke vidst at foreslaae nogen anden, der bedre forenede de<lb />
+tvende Egenskaber, som vi ansee aldeles fornødne for en saadan, nemlig<lb />
+paa den ene Side at aabne den ulovligt Fængslede en Mulighed af<lb />
+at komme til sin Frihed og sin Ret, og paa den anden Side ikke at<lb />
+give en altfor let Leilighed for Enhver, som fængsles, til idelig Fortrædigelse for Dommeren og Forstyrrelse af den criminelle Undersøgelse.<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+Det er vel en Selvfølge, at Kongeloven er sat ud af Kraft,<lb />
+saasnart den nye Grundlov endeligt er vedtagen; men Udvalget anseer det dog for passende, at Ophævelsen af Kongeloven udtrykkelig<lb />
+tilkjendegives ved en høitidelig Erklæring af Hs. Majestæt Kongen.<lb />
+En saadan Kundgjørelse maatte imidlertid indeholde en Undtagelse af<lb />
+Reglerne for Arvefølgen, der ere stadfæstede ved Grundlovens § 4,<lb />
+og efter Udvalgets Formening tillige af de Bestemmelser, der alene<lb />
+vedkomme de kgl. Prindsers og Prindsessers Stilling til Kongen,<lb />
+nemlig § 21, der foreskriver, at de ikke maae gifte sig, reise ud af<lb />
+Landet, eller begive sig i fremmede Herrers Tjeneste uden hans<lb />
+Samtykke, og § 25, der indeholder, at de ikke skulle svare for nogen<lb />
+Underdommer, men at deres første og sidste Dommer skal være Kongen, eller hvem han særdeles dertil forordner; idet der dog med Hensyn til disse sidste Bestemmelser tilføiedes, at en nærmere Ordning<lb />
+vilde kunne skee ved en Huuslov. — Eudeligt burde efter vor Formening denne kongelige Kundgjørelse indeholde en Stadfæstelse af de<lb />
+Tilsagn, der ere givne deels for Slesvig i Valgloven af 7de Juli<lb />
+f. A.: „at Forfatningen kun bliver provisorisk, forsaavidt en folkelig<lb />
+„Repræsentation for Hertugdømmet Slesvig, der i dette Øiemed<lb />
+„maatte sammenkaldes, og som vil blive at vælge efter de samme<lb />
+„Principer, som den nuværende Rigsforsamling, maatte ønske, at en<lb />
+„ny Rigsforsamling tager den hele Forfatningsfag under Overveielse,<lb />
+„for i Førening med Hs. Majestæt Kongen at vedtage de Forandrin„ger, der maatte ansees for ønskelige," deels for Island i Rescriptet<lb />
+af 23de Septbr. f. A.: „at de Grundbestemmelser, der med Hensyn<lb />
+„til Islands særegne Forhold maatte være nødvendige for at ordne<lb />
+„denne Landsdeels forfatningsmæssige Stilling i Riget, ikke skulle<lb />
+„endeligen vedtages, førend efterat Islænderne i en egen Forsamling<lb />
+„i Landet derover ere hørte, og at det i saa Henseende Fornødne vil<lb />
+„blive forelagt Althinget ved dets næste ordentlige Sammenkomst. "<lb />
+Vi foreslaae derfor, at Forsamlingen udtaler sig over disse<lb />
+Punkter i følgende<lb />
+</p>
+<btitle>
+Indstilling.<lb />
+</btitle>
+<p>
+At Hans Majestæt, efter af fri kongelig Villie at<lb />
+have tilsagt Danmarks Rige en fri Forfatning, høitidelig vil erklære, at Kongeloven, efterat den nye<lb />
+Grundlov for Danmark er vedtagen, skal være ophævet<lb />
+i alle dens Bestemmelser, med Undtagelse af dem, der<lb />
+indeholdes i §§ 27—40 om Arvefølgen, hvilke ere stadfæstede i Grundlovens § 4, samt med Undtagelse af de<lb />
+i Kongelovens §§ 21 og 25 om de kongelige Prindser<lb />
+og Prindsesser indeholdte Bestemmelser, der dog nærmere kunne ordnes ved en Huuslov; og at den kongelige Kundgjørelse, i hvilken Kongeloven erklære at<lb />
+være ophævet og den nye Grundlov at være vedtagen<lb />
+for Danmarks Rige, maa indeholde en Stadfæstelse<lb />
+af de deels i Valgloven af 7de Juli f. A. for Hertugdømmet Slesvig, deels i det kongelige Brev af 23de<lb />
+September f. A. for Island givne Forbeholde.<lb />
+</p>
+<p>
+Kjøbenhavn, den 26de Marts 1849.<lb />
+</p>
+<px>
+Vilh. Bjerring. P. D. Bruun. Balthazar Christensen. Dahl. C. N. David. Gleerup.<lb />
+(Formand) (Secretair)<lb />
+H Hage. C. Hall. H. P. Hansen. J. R. Jacobsen. C. M. Jespersen A. F. Krieger.<lb />
+(Ordfører)<lb />
+J. C. Larsen. S. Neergaard. Pjetursson. Schurmann. Algreen-Ussing.<lb />
+ 
+</px>
+</rightside>
+
+
+</pb>

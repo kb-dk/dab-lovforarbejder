@@ -1,0 +1,52 @@
+3671
+<pb n="154" />
+<h>
+<coll>3671</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3672</colr>
+</h>
+<wtitle>§ 619.</wtitle>
+<p>Skal en Paastand eller Fordring bestrides fra Boets Side, har Skifteretten snarest<lb />
+muligt herom at underrette den, der har fremsat Paastanden eller anmeldt Fordringen, samt<lb />
+tilkjendegive ham, at han maa forfølgc sit Krav ved scedvanlig Rettergang imod Boet. Fore-<lb />
+tager Paagjældende ikke inden 4 Uger herefter de fornødne Skridt i saa Henseende, bliver<lb />
+Boet at opgjore, som om Paastanden ikke var bleven fremsat eller Fordringen ikke var ble-<lb />
+ven anmeldt.</p>
+<p>Overlades det til den, som modsiger Fordringen eller Paastanden, selv at udfore<lb />
+Tvisten, har Skifteretten at tilkjendegive ham, at han inden 4 Uger har at foretage de<lb />
+fornødne Skritt til Retssags Anlæg imod den, som har anmeldt Fordringen eller nedlagt Paa-<lb />
+standen, da der i modsat Fald ved Boets Opgjørelse ikke vil blive taget Hensyn til hans<lb />
+Indsigelse imod Fordringen eller Paastanden.</p>
+<p>Ville Parter, imellem hvilke en Tvist paa Skiftet er opstaaet, overlade spørgs-<lb />
+maalets Afgjørelse til Skifteretten, er denne, naar ingen Bevisførelse ved Vidner, Syn eller<lb />
+Parternes egen Forklaring behsves, pligtig at afsige en Kjendelse, ved hvilken spørgsmaalet<lb />
+da er afgjort paa samme Maade som ved Voldgift.</p>
+<wtitle>§ 620.</wtitle>
+<p>De i foregaaende Paragraf omhandlede Sager anlægges paa det Sted, hvor Boet<lb />
+behandles, enten for Underretten eller for den Landsret, under hvilken vedkommende Skifteret<lb />
+staar, forsaavidt Sagen ifølge dens Gjenstand henhorer under Landsret.</p>
+<p>Dog skal det, hvor cn Fordring bestrides af Boet, altid staa den, der nedlægger<lb />
+Paastanden eller anmelder Fordringen, frit for at begjoerc Sagen paakjendl ved Underret uden<lb />
+Hensyn til dens Gjenstand.</p>
+<wtitle>§ 621.</wtitle>
+<p>Boet er i de i § 619 forste Stykke omhandlede Tilfælde felv at anse som Mod-<lb />
+part, hvorfor Klageskriftet (§§ 160 og 343) lyder paa det og forkyndes for Skifteretten paa<lb />
+Boets Vegne.</p>
+<p>Det paahviler Skifteretten at forge for, at Boet under Retssagen repræsenteres paa<lb />
+behørig Maade.</p>
+<wtitle>§ 622.</wtitle>
+<p>De i § 619 omhandlede Sager udføres Iøvrigt efter de almindelige Regler, som<lb />
+gjælde for Sagers Behandling henholdsvis ved Landsret og Underret.</p>
+<wtitle>§ 623.</wtitle>
+<p>Imod de afsagte Domme kan der anvendes de almindelige Retsmidler.</p>
+<p>Den afsagte Dom kan derfor ikke, medmindre paagjældende Parter frafalde Rets-<lb />
+midlers Anvendelse imod Dommen, eller denne ifølge fin Gjenstand ikke kan angribes ved<lb />
+Retsmidler, lægges til Grund for Boets videre Behandling, foreno der er hengaaet cn Frist<lb />
+af 4 Uger fra Afsigelsen, uden at der er gjort Retsmidler gjældende.</p>
+<p>Skulde Dommen blive forandret eller annulleret ifolge senere Anvendelse af Rets-<lb />
+midler, tages behørigt Hensyn hertil ved Boets videre Behandling, og i fornøden: Fald ved<lb />
+Omgjørelse af det Foretagne, hvis Skiftet ikke endnu er sluttet, men efter den Tid maa en-<lb />
+hver Forandring fsges iværksat ved Paaanke af Repartitionen.</p>
+<wtitle>§ 624.</wtitle>
+<p>Kjendelser eller Beslutninger af Skifteretten, der forefalde under Boets Behandling,<lb />
+kunne, forsaavidt der overhovedet er Adgang til at indbringe   orm  til Høiere Nets prøvelse</p>

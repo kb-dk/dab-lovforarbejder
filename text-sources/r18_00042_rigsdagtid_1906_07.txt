@@ -1,0 +1,73 @@
+3723
+<pb n="42"/>
+<h>
+<coll>3723</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3724</colr>
+</h>
+<p>
+foregaa — medmindre Fastsættelsen af Tiden herfor efter Omstændighederne findes<lb />
+at maatte bero til senere Berammelse — og det paalægges de udmeldte til den Tid<lb />
+at møde for at afgive og beedige deres Erklæring.
+</p>
+<p>
+I Straffesager foretages den til et Syn eller Skøn fornødne Besigtigelse under<lb />
+et Retsmøde — der efter Omstændighederne bliver at foretage udenfor det sædvan-<lb />
+lige Tingsted — medmindre Synet eller Skønnet udkræver fortsat Iagttagelse eller<lb />
+Undersøgelse, eller Besigtigelse under et Retsmøde af anden Grund, saasom af Sømme-<lb />
+lighedshensyn, findes uhensigtsmæssig eller ufornøden, i hvilket Tilfælde Retten kan<lb />
+overlade Mændene at foretage eller fortsætte deres Besigtigelse udenfor Retsmøde. I<lb />
+saadant Tilfælde bliver der i Udmeldelsesbeslutningen eller Begæringen eller under<lb />
+Møde inden Retten at give dem saadan Meddelelse om Synets eller Skønnets Gen-<lb />
+stand og Øjemed, som i første Stykke nævnt, samt saadan anden Anvisning, som<lb />
+maatte udkræves. I Udmeldelsesbeslutningen eller Begæringen eller i en Tilførsel til<lb />
+Retsbogen, hvoraf Udskrift overgives Mændene, bliver der at forelægge dem bestemte<lb />
+Spørgsmaal til Besvarelse. Tillige meddeles der dem de fornødne Oplysninger af<lb />
+Sagens Aktstykker og fastsættes en Frist til Erklæringens Afgivelse. Anse de yder-<lb />
+ligere Oplysninger fornødne, kunne de derom henvende sig til Retten.
+</p>
+<p>
+Vil Foretagelsen af et Syn eller Skøn medføre Tilintetgørelse eller Forandring<lb />
+af dets Genstand, bør saa vidt muligt en Del af denne holdes udenfor Undersøgelsen.<lb />
+Lader dette sig ikke gøre, bør Syns- eller Skønsmændenes Antal ikke være under to.
+</p>
+<p>
+De gældende Regler om Obduktionsforretninger blive fremdeles staaende<lb />
+ved Magt.
+</p>
+<wtitle>§ 179.</wtitle>
+<p>
+Med Hensyn til Syns- eller Skønsmænds Møde til Afhjemling eller gentagen<lb />
+Afhøring for Retten finde Reglerne i §§ 149 og 150 tilsvarende Anvendelse.
+</p>
+<p>
+Skulle Syns- eller Skønsmænd møde for en Underret ifølge en anden Rets Be-<lb />
+slutning, maa en Udskrift af denne forelægges Underretten, der forsyner den med en<lb />
+Paategning om, naar Afhjemlingen skal finde Sted.
+</p>
+<wtitle>§ 180.</wtitle>
+<p>
+Udmeidelsesdekretet bliver uden Ophold at forkynde for de udmeldte i Over-<lb />
+ensstemmelse med de for Vidner givne Regler. Skulle Mændene møde for en Under-<lb />
+ret ifølge en anden Rets Beslutning, skal tillige den i foregaaende Paragraf ommeldte<lb />
+Berammelse af Afhjemlingen forkyndes for dem, i borgerlige Sager desuden for<lb />
+Modparten.
+</p>
+<p>
+I borgerlige Sager skulle Syns- og Skønsmændene give Parterne Underretning om,<lb />
+naar og hvor Forretningen foregaar, ligesom de ogsaa have at meddele Parterne Gen-<lb />
+part af den skriftlige Forretning (§ 181) eller dog at give dem Adgang til at gøre<lb />
+sig bekendt med den senest 3 Dage forinden Afhjemlingen.
+</p>
+<p>
+Klage over Syns- og Skønsmænds Fremgangsmaade ved deres Forretning frem-<lb />
+sættes for den Ret, for hvilken Afhjemlingen skal ske. Denne kan paalægge dem at<lb />
+omgøre eller fuldstændiggøre Forretningen.
+</p>
+<wtitle>§ 181.</wtitle>
+<p>
+Syns- og Skønsmænd afgive deres Forklaring ved en skriftlig, til Retten stilet,<lb />
+af Mændene underskreven Erklæring. Yderligere Forklaring kan afæskes dem inden<lb />
+Retten; findes Erklæringen mangelfuld, kan derhos Retten paalægge dem at omgøre<lb />
+eller fuldstændiggøre den i en yderligere skriftlig Erklæring.
+</p>

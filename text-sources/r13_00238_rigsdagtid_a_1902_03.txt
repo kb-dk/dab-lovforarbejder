@@ -1,0 +1,74 @@
+2203
+<pb n="238" />
+<h>
+<coll>
+2203
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2204
+</colr>
+</h>
+<p>
+Under andre offentlige Straffesager har vedkommende Paatalemyndighed, naar<lb />
+dette kan ske uden væsentlig Ulempe, efter Begæring af den forurettede at forfølge<lb />
+de for denne ved Forbrydelsen begrundede borgerlige Krav paa Tiltalte. Som Følge<lb />
+heraf bør der, for saa vidt Sagens Beskaffenhed dertil giver Anledning, under For-<lb />
+undersøgelsen gives den forurettede Lejlighed til at erklære, om han begærer sig til-<lb />
+kendt Erstatning under Sagen. Er dette ikke sket, eller rejses Tiltale uden forud-<lb />
+gaaende Forundersøgelse, bør Paatalemyndigheden saa betimeligt give ham Lejlighed<lb />
+til at erklære sig, at fornøden Paastand kan blive optaget enten i Anklageskriftet<lb />
+eller i alt Fald i Stævningen.
+</p>
+<p>
+For saa vidt særlige Beviser maatte blive at føre under Domsforhandlingen<lb />
+til Støtte for et borgerligt Krav, bør Paatalemyndigheden angive disse i sin Bevis-<lb />
+fortegnelse eller i et Tillæg til denne (jfr. §§ 887 og 889).
+</p>
+<wtitle>§  1047.</wtitle>
+<p>
+Retten kan paa. ethvert Trin nægte et borgerligt Kravs Forfølgning under<lb />
+Straffesagen, naar den finder, at dets Behandling under denne ikke kan ske uden<lb />
+væsentlig Ulempe.
+</p>
+<p>
+Den forurettede kan paa ethvert Trin indtil Sagens Optagelse til Dom tage<lb />
+sin Begæring efter § 1046 tilbage med Forbehold af Adgang til at paatale Kravet i<lb />
+den borgerlige Retsplejes Former.
+</p>
+<wtitle>§  1048.</wtitle>
+<p>
+Finder Retten, at de Oplysninger, der foreligge til Støtte for en Paastand,<lb />
+som er fremsat i Henhold til de foregaaende Paragrafer, ere ufuldstændige, eller at<lb />
+den Domfældelse eller Frifindelse, som tinder Sted for Straffespørgsmaalets Vedkom-<lb />
+mende, ikke vil medføre en Afgørelse i samme Retning af den heromhandlede Paa-<lb />
+stand, bliver denne ikke at tage under Paakendelse.
+</p>
+<p>
+I ethvert Tilfælde, hvor Retten ikke har paakendt et under Sagen paatalt<lb />
+borgerligt Krav, staar det den forurettede frit for at paatale dette i den borgerlige<lb />
+Retsplejes Former.
+</p>
+<wtitle>§  1049.</wtitle>
+<p>
+Størrelsen af den Erstatning, som tilkendes den forurettede, fastsættes af<lb />
+Retten. I Nævningesager kan dog Retten, naar hertil er særlig Grund, forelægge<lb />
+Nævningerne Spørgsmaal, saavel om Skade er bevirket ved Forbrydelsen, som om<lb />
+Erstatningens Størrelse. Ved Stemmegivningen om Erstatningens Størrelse bliver<lb />
+den Sum gældende, som har over Halvdelen af Stemmerne for sig, naar dertil med-<lb />
+regnes de Stemmer, som ere afgivne for et højere Beløb.
+</p>
+<wtitle>§  1050.</wtitle>
+<p>
+I Sager, som forfølges af den forurettede, gøres borgerlige Krav gældende paa<lb />
+samme Maade som Paastanden om Straf.
+</p>
+<wtitle>§  1051.</wtitle>
+<p>
+Paaankes Dommen for Straffepaastandens Vedkommende, bliver ogsaa dens<lb />
+Afgørelse vedrørende de under Straffesagen paatalte borgerlige Krav at prøve af den<lb />
+overordnede Ret, for saa vidt den Afgørelse, der træffes for Straffepaastandens Ved-<lb />
+kommende, maa bestemme Afgørelsen med Hensyn til bemeldte Krav. Ellers om-
+</p>

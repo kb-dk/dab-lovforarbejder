@@ -1,0 +1,78 @@
+2337
+<pb n="100" />
+<h>
+<coll>2337</coll>
+<topmidle>Tillæg A. (147).	Ordentlig Samling 1908-09.</topmidle>
+<colr>2338</colr>
+</h>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<p>
+2)	I Vekselsager, hvorved forstaas Sager, som anlægges mod Trassenter, Endossenter<lb/>
+eller Acceptanter af trasserede Veksler eller mod Udstedere og Endossenter af<lb/>
+egne Veksler til Vekslens Betaling eller for at gøre Vekselregres gældende,<lb/>
+Sager, som anlægges mod Trassenter og Endossenter af Veksler paa Grund af<lb/>
+manglende Accept, til Betaling af Vekselsummen eller det ikke accepterede Beløb<lb/>
+(Veksellovens § 29) eller mod Trassenter og Endossenter samt Acceptanter paa<lb/>
+Grund af manglende eller ikke betryggende Accept, til Stillelse af Sikkerhed<lb/>
+(Veksellovens §§ 25, 26 og 30), Sager, som anlægges mod dem, der have tegnet<lb/>
+Borgen (Aval) for en vekselforpligtet Person, til Vekselforpligtelsens Opfyldelse.
+</p>
+<p>
+3)	I Sager, hvorunder Regreskrav efter en Check indtales.
+</p>
+<wtitle>§ 435.</wtitle>
+<p>
+Under Sagen kan det ikke tillades Sagsøgte at fremsætte andre Indsigelser i<lb/>
+Realiteten end, at han ikke ved Underskriftens Meddelelse var mægtig og myndig til<lb/>
+saaledes at forbinde sig, eller at Underskriften er falsk, eller at der i Dokumentets<lb/>
+Indhold er foregaaet en Forfalskning, efter at Underskriften er meddelt.
+</p>
+<p>
+I Vekselsager kan Sagsøgte endvidere fremsætte de Indvendinger, som angaa<lb/>
+selve Vekslens Indretning og Indhold eller den til Vekselfordringens Vedligeholdelse<lb/>
+fornødne Omgang eller andre i Vekselloven foreskrevne Betingelser for at kunne gøre<lb/>
+Vekselretten gældende. Tilsvarende Regler gælde om de i § 434 Nr. 3 nævnte Sager.
+</p>
+<p>
+I de i § 434 Nr. 1 nævnte Sager kan Sagsøgte derhos, for saa vidt Søgs-<lb/>
+maalet foruden paa selve Gældsbrevet støttes paa Transport eller andet udenfor<lb/>
+Gældsbrevet liggende Grundlag, fremsætte enhver Indsigelse herimod, ligesom han i<lb/>
+disse Sager overhovedet kan fremkomme med enhver Indsigelse, med Hensyn til hvilken<lb/>
+Bevisbyrden ikke paahviler ham, eller til hvis Godtgørelse han ikke behøver andre<lb/>
+Bevismidler end Dokumenter, som haves til Stede.
+</p>
+<p>
+Alle andre Indsigelser i Realiteten ere udelukkede fra at komme i Betragtning,<lb/>
+naar Parterne ikke ere enige om at ønske dem paakendte; men det forbeholdes Sag-<lb/>
+søgte i Anledning af slige Indsigelser, naar han i sit Tilsvar har opgivet eller i det<lb/>
+mindste forbeholdt dem, at anlægge et selvstændigt Erstatningssøgsmaal mod<lb/>
+Sagsøgeren.
+</p>
+<p>
+Dette Erstatningssøgsmaal behandles i alle Henseender efter de almin-<lb/>
+delige Regler.
+</p>
+<wtitle>§ 436.</wtitle>
+<p>
+Imod de i § 434 Nr. 2 og 3 omhandlede Fordringer kunne Modfordringer kun<lb/>
+gøres gældende, naar disse ere støttede paa, at der ved Forsømmelse med at give den<lb/>
+i Veksellovens §§ 20, 30, 42, 45 og 75 omhandlede Underretning er forvoldt Sagsøgte<lb/>
+Skade, og imod de i § 434 Nr. 1 omhandlede kun, for saa vidt Modfordringen selv<lb/>
+gaar ind under samme Bestemmelse, eller den indrømmes.
+</p>
+<wtitle>§ 437.</wtitle>
+<p>
+Sager, i hvilke den heromhandlede Retsforfølgning anvendes, behandles uden<lb/>
+Hensyn til Genstandens Værdi ved Underret efter de ovenfor i Kapitel 38 givne<lb/>
+Regler, hvorved dog bliver at bemærke, at Dommeren er pligtig at drage særlig Om-<lb/>
+sorg for, at Sagen fremmes med den størst mulige Hurtighed.
+</p>
+<wtitle>§ 438.</wtitle>
+<p>
+Naar Sager af heromhandlede Beskaffenhed indankes for Landsret, er det en<lb/>
+Selvfølge, at Proceduren for denne ikke kan omfatte andet end det, som i Henhold<lb/>
+til ovenstaaende Regler kunde gøres gældende for Underret.
+</p>
+<p>
+Forelagte Lovforslag m. m.	147
+</p>

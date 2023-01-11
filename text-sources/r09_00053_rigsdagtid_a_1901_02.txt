@@ -1,0 +1,66 @@
+2253
+<pb n="53" />
+<h>
+<coll>2253</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2254</colr>
+</h>
+<wtitle>§ 253.</wtitle>
+<p>
+Paastande eller Anbringender, der ligge uden for den ved Landsretten sted-<lb/>
+fundne Procedure, kunne ikke fremsættes uden Modpartens Samtykke, dog kan Retten<lb/>
+tilstede deres Fremsættelse, naar det findes undskyldeligt, at de ikke tidligere ere<lb/>
+fremkomne, og deres Afskæreise vilde medføre et uforholdsmæssigt Tab for Parten.
+</p>
+<wtitle>§ 254.</wtitle>
+<p>
+Den, der ønsker at opnaa den i § 253 ommeldte Tilladelse, maa i en Paa-<lb/>
+tegning paa Stævningen eller den i § 252 omtalte skriftlige Angivelse meddele, hvad<lb/>
+han agter at begære Tilladelse til at fremføre, samt de formentlig derfor talende Om-<lb/>
+stændigheder, og Retten bringer da Spørgsmaalet om Tilladelsens Meddelelse til Af-<lb/>
+gørelse i det første eller, om fornødent, et senere berammet Retsmøde, efter at Par-<lb/>
+terne have udtalt sig.
+</p>
+<p>
+Vil en Part, uden at have iagttaget den anførte Fremgangsmaade, søge at<lb/>
+opnaa bemeldte Tilladelse, maa han snarest muligt til Retten indgive et skriftligt, be-<lb/>
+grundet Andragende, der tillige maa indeholde Oplysning om Grunden til, at An-<lb/>
+dragendet ikke er fremkommet tidligere. Finder Retten tilstrækkelig Undskyldning<lb/>
+herfor, ansættes et Retsmøde, saafremt dette kan finde Sted inden Domsforhandlingen,<lb/>
+og Andrageren har da med et af Retten fastsat Varsel at give Modparten Meddelelse<lb/>
+om dette Retsmøde og dets Genstand. Udebliver Andrageren, bortfalder lians<lb/>
+Andragende; udebliver Modparten, anses de i Andragendet paaberaabte Grunde<lb/>
+for beviste.
+</p>
+<p>
+Meddeler Retten Tilladelsen, tilstaas der paa Begæring enhver af Parterne<lb/>
+den fornødne Tid til at varetage sit Tarv i den Anledning, ligesom en berammet<lb/>
+Domsforhandling, om fornødent, udsættes. Saafremt en begært Skriftveksling skønnes<lb/>
+at være nødvendig, fastsætter Retten Frister for Processkrifternes Meddelelse og be-<lb/>
+rammer et nyt Retsmøde, hvorhos de i §§ 209, 210 og 211 givne Regler komme til<lb/>
+Anvendelse.
+</p>
+<p>
+Fremkomme ny Paastande eller Anbringender først under Domsforhandlingen,<lb/>
+og finder Retten i Overensstemmelse med de foranstaaende Grundsætninger, at deres<lb/>
+Fremførelse bør tilstedes, bestemmer den det fornødne i Lighed med de i § 218<lb/>
+givne Regler.
+</p>
+<wtitle>§ 255.</wtitle>
+<p>
+Ny Beviser kunne fremføres for Højesteret med Modpartens Samtykke, eller<lb/>
+naar der samtidig med Forkyndelsen af Stævningen eller Fremlæggelsen af den i<lb/>
+§ 252 omtalte skriftlige Angivelse er givet Modparten skriftlig Meddelelse om, af hvilken<lb/>
+Art de ny Beviser ere, og hvad derved forventes bevist. Foreligger der tilstrækkelig<lb/>
+Undskyldning for, at den nævnte Meddelelse ikke er givet som anført, kan Retten<lb/>
+tilstede, at den fremkommer paa et senere Trin af Sagen, i hvilken Henseende til-<lb/>
+svarende Regler til de i § 254 givne komme til Anvendelse. Modparten kan i øvrigt<lb/>
+frafalde den omhandlede Meddelelse.
+</p>
+<wtitle>§ 256.</wtitle>
+<p>
+Naar Omstændighederne tale derfor, kan Højesteret tillade, at enkelte Punkter<lb/>
+eller Dele af Sagen, som ikke have foreligget for eller ikke ere paakendte af Lands-<lb/>
+retten. indbringes for Højesteret. Med Hensyn til Opnaaelsen af saadan Tilladelse<lb/>
+komme tilsvarende Regler til de i § 254 givne til Anvendelse.
+</p>

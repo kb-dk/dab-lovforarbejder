@@ -1,0 +1,68 @@
+124
+<pb n="127" />
+<title>Forslag angående Landsretternes Organisation,</title>
+<leftside>
+<title>Forslag I.</title>
+<p>Organisation med 6 Landsretter som i<lb />
+Udkastet, men uden rejsende Dommere undtagen for Bornholm.</p>
+<wtitle>§ l.</wtitle>
+<p>Som i Udkastet.</p>
+<wtitle>§ 10.</wtitle>
+<p>Som i Udkasiet.</p>
+<wtitle>§ 12.</wtitle>
+<p>Paragrafens 1ste Stykke affattes fåledes:</p>
+<p>„Den nordsjællandske Landsret består af<lb />
+m Formand og 15 andre Medlemmer. De<lb />
+øvrige Landsretter bestå hver af en Formand<lb />
+og 5 andre Medlemmer".</p>
+<p>I 3die Stykke, 5te—8de Lime, sættes i<lb />
+Stedet for „til at . . . . Hovedside": „til<lb />
+at tiltroede den nordsjællandske Landsrets særlige Afdeling, naar den i Medfør af § 20<lb />
+holder Møde på Bornholm".</p>
+<wtitle>§ 13.</wtitle>
+<p>Som i Udkastet.</p>
+</leftside>
+<rightside>
+<title>Forslag II.</title>
+<p>Organisation med 5 Landsretter, med rejsende Dommere ved den sjællandske Landsret<lb />
+for Sorø, Præstø, Maribo og Bornholms<lb />
+Amter.</p>
+<wtitle>§ 1.</wtitle>
+<p>Riget inddeles i 5 Landsretskredse, nemlig:<lb />
+1.   Den sjællandske Landsretskreds, omfattende de sjællandske Amter, Maribo Amt samt<lb />
+Bornholms Amt.</p>
+<p>2—5 som 3—6 i Udkastet.</p>
+<wtitle>§ 10.</wtitle>
+<p>I   Stedet   for   Udkastets   2det   og   3 die<lb />
+Stykke sættes:</p>
+<p>„Den   sjællandske   Landsret   har   Sæde   i<lb />
+Kjøbenhavn".</p>
+<p>Ellers som i Udkastet.</p>
+<wtitle>§ 12.</wtitle>
+<p>Paragrafens 1ste Stykke affattes således:</p>
+<p>„Sjællands Landsret består af en Formand og 18 andre Medlemmer. De øvrige<lb />
+Landsretter bestå hver af en Formand og 5<lb />
+andre Medlemmer".</p>
+<p>I 8die Stykke, 5te—8de Linie, sættes i</p>
+<p>Stedet for , til at......Sæde":   „til</p>
+<p>at   tiltræde   den   sjællandske Landsrets   anden<lb />
+særlige Afdeling, naar den i Medfør af § 20<lb />
+holder Møde udenfor Kjøbenhavn".<lb />
+</p>
+<wtitle>§  13.</wtitle>
+<p>I 2den—3die Lime sættes „sjællandske"<lb />
+i Stedet for ,nordsjællandske". Ellers som i<lb />
+Udkastet.</p>
+</rightside>
+<note>
+<p>')   Antallet af Landsretsdommen,  Landsretsskrivere   og   de ved Ekriverkontorerne  ansætte Fuldmægtige,  vil<lb />
+henholdevis efter Udkastet og de subsidiært henstillede førstag blive:</p>
+<p>Landretsdommere.    Retsskrivere.       Fuldmagtige.</p>
+<p>Udkastet...........................         61.          7.          10.</p>
+<p>førstag I.........................         46.          7.            9.</p>
+<p>— II.........................         43.        6.        10.</p>
+<p>— III........................         47.       5.         9.</p>
+<p>—  IV........................         38.        4.          8.</p>
+<p>Ved ovenstående Sammenstilling må dog endnu erindres, at førstagene II—IV ville gjøre en Indskrænkning af Statsanklagernes Antul mulig, samt at det efter førstagene III og IV tillige undgåes at<lb />
+gisre Brug af det i § 12   3die Stykke ommeldte Suppleantinstitut.</p>
+</note>

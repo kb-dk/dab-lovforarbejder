@@ -1,0 +1,77 @@
+3085
+<pb n="223" />
+<h>
+<coll>
+3085
+</coll>
+<topmidle>
+F. t. L. om  Retens Pleje.
+</topmidle>
+<colr>
+3086
+</colr>
+</h>
+<p>
+3. at den Straf, Dommen bar ikendt, ligger udenfor de i Loven fastsatte Græn-<lb />
+ser eller staar i aabenbart Misforhold til Brøden.
+</p>
+<p>
+Anke kan ikke grundes paa, at Spørgsmaalet, om Tiltalte skal domfældes, er<lb />
+urigtigt afgjort som Følge af en fejlagtig Bedømmelse af Bevisernes Vægt, medmindre<lb />
+Talen er om et Punkt, der ifølge § 885 i Nævningesager er unddraget Nævningernes<lb />
+Afgørelse.
+</p>
+<wtitle>§ 946.</wtitle>
+<p>
+Tilsidesættelse eller fejlagtig Anvendelse af en Rettergangsregel skal ikke<lb />
+bevirke Ophævelse af en paaanket Dom, medmindre det findes antageligt, at Iagt-<lb />
+tagelse af den paagældende Regel kunde have medført et andet Udfald af Sagen.
+</p>
+<p>
+Ikke-Iagttagelse af Rettergangsregler, som udelukkende er foreskrevne til<lb />
+Betryggelse for Tiltalte, kan ikke føre til Forandring til hans Skade.
+</p>
+<wtitle>§ 947.</wtitle>
+<p>
+Vil Overanklageren anke til Skade for Tiltalte, maa han inden fjorten Dage<lb />
+efter Dommens Afsigelse for Tiltalte lade forkynde Meddelelse om, at Dommen paaankes.<lb />
+Anke til Fordel for Tiltalte kan Overanklageren iværksætte ogsaa efter Udløbet af<lb />
+den nævnte Frist; saadan Anke hindres heller ikke ved, at Tiltalte har givet Afkald<lb />
+paa Anke.
+</p>
+<p>
+I Sager om Erstatning for uforskyldt Varetægtsfængsel eller for uforskyldt Ud-<lb />
+staaelse af Straf er Ankefristen for det offentlige altid 3 Maaneder.
+</p>
+<p>
+Meddelelsen skal indeholde Tilkendegivelse om, at Sagen vil blive foretaget i<lb />
+Højesteret, saa snart dertil er Lejlighed, uden nogen yderligere Underretning til<lb />
+Tiltalte. Genpart af Meddelelsen indleveres paa Landsrettens Kontor.
+</p>
+<wtitle>§ 948.</wtitle>
+<p>
+Vil Tiltalte anke, maa han afgive Meddelelse herom inden fjorten Dage<lb />
+regnet fra Dommens Afsigelse eller, naar han ikke har været til Stede ved Afsigelsen<lb />
+af Dommen, og denne er fældende, fra den Dag, da Udskrift af Dommen er ham<lb />
+forkyndt. Meddelelsen kan, naar den foregaar straks ved Dommens Afsigelse eller<lb />
+Forkyndelse, fremsættes mundtlig henholdsvis til Retsbogen eller til den, som iværk-<lb />
+sætter Forkyndelsen, og som i saa Fald har at optage fornøden Bemærkning i For-<lb />
+kyndelsespaategningen. Ellers indgives Meddelelsen skriftlig, underskreven af Tiltalte,<lb />
+paa Overanklagerens eller Landsrettens Kontor; er Tiltalte fængslet, kan den dog<lb />
+ogsaa fremsættes mundtlig til den Undersøgelsesrets Retsbog, i hvis Kreds Fængslet<lb />
+ligger, eller til Fængselsbestyrerens Bog (§ 844). Hvor Tiltaltes Ankemeddelelse er<lb />
+fremsat til sidstnævnte Bog eller til en Retsbog eller indgivet paa Landsrettens Kontor,<lb />
+bliver henholdsvis Udskrift af Tilførselen eller den modtagne Ankemeddelelse uden<lb />
+Ophold at tilstille Overanklageren.
+</p>
+<p>
+Snarest muligt efter Modtagelsen af Ankemeddelelsen lader Overanklageren<lb />
+for Tiltalte forkynde en saadan Tilkendegivelse, som ommeldt i § 947, 3die Stykke, og<lb />
+tilstiller, for saa vidt Ankemeddelelsen ikke allerede har passeret Landsrettens Kontor,<lb />
+dette Underretning om Anken.
+</p>
+<wtitle>§ 949.</wtitle>
+<p>
+En Anke, hvorom Meddelelse ikke er sket inden den i §§ 947 og 948 fore<lb />
+skrevne Frists Udløb, bliver af Højesteret at afvise, medmindre den ankende gør
+</p>

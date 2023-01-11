@@ -1,0 +1,81 @@
+2197
+<pb n="235" />
+<h>
+<coll>
+2197
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2198
+</colr>
+</h>
+<p>
+særlige Myndighed optage Forfølgningen, naar den paa Stedet afgiver Erklæring<lb />
+herom; den indtræder i saa Fald i Politimesterens Sted i den Stilling, hvori Sagen<lb />
+befinder sig.
+</p>
+<wtitle>§  1036.</wtitle>
+<p>
+Naar nogen i Henhold til §  704 aataler en Sag, som vedkommende Paatale-<lb />
+myndighed har nægtet at forfølge, finde, med de af Forholdets Forskellighed følgende<lb />
+Lempelser og med de nærmere Bestemmelser, som foreskrives i de efterfølgende Para-<lb />
+grafer, Reglerne i Kapitlerne 80—86, 88—90 Anvendelse saaledes, at den private<lb />
+Sagsøger træder i vedkommende Paatalemyndigheds Sted.
+</p>
+<p>
+Den, som vil rejse Paatale i Henhold til § 704, maa indgive Begæring til ved-<lb />
+kommende Ret overensstemmende med næste Paragraf inden fjorten Dage, efter at<lb />
+han er bleven bekendt med. at Paatalemyndigheden har nægtet at forfølge, og senest<lb />
+inden tre Maaneder efter Nægtelsen.
+</p>
+<wtitle>§  1037.</wtitle>
+<p>
+Den private Sagsøgers Forfølgning indledes ved, at han til Undersøgelses-<lb />
+retten indgiver Begæring om Foretagelse af Forundersøgelse eller — hvor Forunder-<lb />
+søgelse ikke begæres — til Underretten indgiver Begæring om, at Tiltale maa blive<lb />
+rejst mod Sigtede ved Udfærdigelse af Anklageskrift, Ved Landsret kan Sagsøgeren<lb />
+ikke rejse Tiltale uden forudgaaende retslig Forundersøgelse, indledet efter hans Be-<lb />
+gæring.
+</p>
+<p>
+Foretagelse af enkeltstaaende Retshandlinger, inden Sag er indledet som for-<lb />
+anført, kan Sagsøgeren begære hos vedkommende Undersøgelsesret, naar Omstændig-<lb />
+hederne ikke tillade Opsættelse.
+</p>
+<p>
+Hvor Sagsøgeren, uden først at begære retslig Forundersøgelse, til Underretten<lb />
+indgiver Begæring om Udfærdigelse af Anklageskrift, maa Udkast til dette vedlægges.<lb />
+Bevisfortegnelse bør medfølge overensstemmende med Regierne i Kapitel 81,
+</p>
+<p>
+Samtidig med at Sagsøgeren indbringer Sagen for Retten, skal han fore-<lb />
+lægge denne Oplysning om, at Paatalemyndigheden har nægtet at rejse Forfølgning,<lb />
+og at Genpart af Begæringen er meddelt samme. I Mangel heraf bliver Sagen ved<lb />
+Kendelse at afvise.
+</p>
+<wtitle>§  1038.</wtitle>
+<p>
+Naar Begæring fremsættes om Forundersøgelse eller om enkeltstaaende Rets-<lb />
+handlinger, afgør Undersøgelsesretten, om der er Grund til at tage Begæringen til Følge.
+</p>
+<p>
+Naar Retten slutter en Forundersøgelse, som er indledet efter Sagsøgerens Be-<lb />
+gæring, afgør den ved Kendelse, hvor vidt Tiltale ved den dømmende Ret skal tilstedes.<lb />
+Tilladelse hertil bliver at nægte, naar de fremkomne Oplysninger ikke findes at afgive<lb />
+rimeligt Grundlag for Tiltale, Tilstedes Tiltale, skal Kendelsen indeholde de Angivel-<lb />
+ser, som ifølge § 884 skulle findes i et Anklageskrift. En Udskrift af Kendelsen kan<lb />
+benyttes som Anklageskrift,
+</p>
+<p>
+Fremsættes Begæring om Udfærdigelse af Anklageskrift (§ 1037, 3die Stykke),<lb />
+har Retten paa Grundlag af de den med Begæringen forelagte Oplysninger samt, efter<lb />
+Omstændighederne, efter at have modtaget Forklaring af Sagsøgeren og Sigtede og<lb />
+mulig andre Personer i et dertil berammet, ikke offentligt Retsmøde, hvortil Tilsigelse<lb />
+kan gives med Aftens Varsel, ved Kendelse at afgøre, om Tiltale skal tilstedes; Reglen<lb />
+i foregaaende Stykkes andet Punktum bliver herved at iagttage. Tilstedes Tiltale, be-<lb />
+stemmes i Kendelsen, hvorledes Anklageskriftet bliver at affatte. Finder Retten, at<lb />
+retslig Forundersøgelse bør finde Sted. lader den Kendelsen gaa ud herpaa; Reglerne<lb />
+i foregaaende Stykke blive i saa Fald at anvende.
+</p>

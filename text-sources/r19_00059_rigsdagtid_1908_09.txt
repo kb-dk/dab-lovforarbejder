@@ -1,0 +1,74 @@
+2255
+<pb n="59" />
+<h>
+<coll>2255</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2256</colr>
+</h>
+<wtitle>§ 249.</wtitle>
+<p>
+Retten har ikke paa Embeds Vegne at afkræve Parterne Bevis for, at de ere<lb/>
+myndige til at raade over Processen. Afvisning paa Grund af Sagsøgerens eller Sag-<lb/>
+volderens Mangel paa Myndighed til at raade over Sagen finder derfor kun Sted<lb/>
+efter Paastand.
+</p>
+<p>
+Dog kan Retten paa Embeds Vegne afvise Sagen enten straks, eller naar de<lb/>
+fornødne Oplysninger ikke fremskaffes, naar der ifølge den Maade, hvorpaa Parterne<lb/>
+i Processkrifterne betegnes, eller i øvrigt ifølge de foreliggende Oplysninger er Grund<lb/>
+til at antage, at nogen af dem mangler Myndighed til at raade over Sagen.
+</p>
+<wtitle>§ 250.</wtitle>
+<p>
+Enhver kan baade som Sagsøger og som Sagvolder gaa i Rette for sig selv.
+</p>
+<p>
+Højesteret og Landsret samt Underretten, naar den medvirker ved Forberedel-<lb/>
+sen af en Landsretssag, kunne, naar en Parts Processkrifter findes uforstaaelige,<lb/>
+tilbagevise disse og tilkendegive Parten, at han maa lade sin Sag udføre for sig af<lb/>
+en Sagfører; ligeledes kunne de under de mundtlige Forhandlinger afvise en Part,<lb/>
+der selv udfører sin Sag, og henvise ham til at lade en Sagfører møde for sig, naar<lb/>
+det viser sig, at han ikke kan fremstille Sagen med tilbørlig Ro og Klarhed. Retten<lb/>
+træffer i de anførte Tilfælde de fornødne Bestemmelser med Hensyn til Sagens Ud-<lb/>
+sættelse. Saafremt ovenomhandlede af Retten givne Paalæg, som ej ere Genstand for<lb/>
+Anke eller Kære, ikke efterkommes, anses Parten som den, der ikke har indgivet de<lb/>
+paagældende Processkrifter, eller som den, der udebliver under paagældende mundtlige<lb/>
+Forhandling.
+</p>
+<title>Kapital 24.</title>
+<undertitle>
+Rettergangsfuldmægtige.
+</undertitle>
+<wtitle>§ 251.</wtitle>
+<p>
+Enhver kan baade som Sagsøger og som Sagvolder lade møde i Retten for<lb/>
+sig ved en efter nedenstaaende Regler berettiget Rettergangsfuldmægtig.
+</p>
+<p>
+Sagførere ere eneberettigede til at møde i Retten som Fuldmægtige for Par-<lb/>
+terne; dog kan der mødes af Værger for umyndige og umyndiggjorte, af Kuratorer<lb/>
+for mindreaarige, af faste Lavværger for Enker, ved Ægtefælle, beslægtede og besvog-<lb/>
+rede i anden Grad af Sidelinien eller nærmere samt ved Personer, der staa i fast<lb/>
+Tjenesteforhold til Parten, saaledes at de ere antagne af ham for ikke kortere Tid<lb/>
+end en Maaned og — naar Parten ikke selv er Sagfører — ikke med det særlige<lb/>
+Hverv for Øje at møde for Retten.
+</p>
+<p>
+Den, der foregiver at staa i et af de ovennævnte Forhold til Parten, maa<lb/>
+være rede til at føre Bevis herfor, naar det af Retten eller Modparten forlanges; dog<lb/>
+kan Retten undtagelsesvis tilstaa en passende Udsættelse hertil.
+</p>
+<p>
+Endvidere er det under Skiftebehandlinger tilladt at lade møde for sig ogsaa<lb/>
+ved andre end de foran nævnte Personer, og det samme gælder under Fogedforret-<lb/>
+ninger, derunder Auktionsforretninger, for dens Vedkommende, imod hvem Retshand-<lb/>
+lingen er rettet, og under sidstnævnte Forretninger for de bydendes Vedkommende,<lb/>
+alt for saa vidt ikke fremsatte Paastande eller Indsigelser foranledige Forhandling for<lb/>
+vedkommende Ret, jvf. dog § 508, 2det Stykke.
+</p>
+<wtitle>§ 252.</wtitle>
+<p>
+Den, der uden at være Sagfører møder som Fuldmægtig for Parten, maa være<lb/>
+personlig myndig og ikke ved Dom funden skyldig i en i den offentlige Mening van-<lb/>
+ærende Handling.
+</p>

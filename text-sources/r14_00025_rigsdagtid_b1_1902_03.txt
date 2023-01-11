@@ -1,0 +1,301 @@
+69
+<pb n="25" >
+<p rend="page">25</p>
+<h>
+<coll>69</coll>
+<colr>70</colr><lb />
+Bilag til Bet. o. Lovf. om Rettens Pleje.<lb />
+</h>
+<table><tr>
+<td rowspan="2">Retskredsen.</td>
+<td colspan="6">Personale.</td>
+<td colspan="2">Befordring.</td>
+<td rowspan="2">Kv.-Mil omtrent.</td>
+<td rowspan="2">Indbyggertal.</td>
+<td rowspan="2">Sogne.</td>
+<td rowspan="2" >Sognefogeder.</td>
+</tr>
+<tr>
+<td>Assistenter og Overbetjente.</td>
+<td>Betjente.</td>
+<td>Reserve-betjente.</td>
+<td>Vægtere.</td>
+<td>Reserve-vægtere.</td>
+<td>I alt</td>
+<td>Hest.</td>
+<td>Cykel.</td>
+</tr>
+<tr>
+  <td>Overført</td>
+  <td>107</td>
+  <td>975</td>
+  <td>16</td>
+  <td>32</td>
+  <td>4</td>
+  <td>1134</td>
+  <td>55</td>
+  <td>71</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+<tr>
+  <td>Rødby Købstad og Fuglse Herred</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>2</td>
+  <td>1</td>
+  <td>»</td>
+  <td>3</td>
+  <td>10,020</td>
+  <td>14</td>
+  <td>15</td>
+</tr>
+<tr>
+  <td>Sakskøbing   Købstad    og Musse Herred</td>
+  <td>»</td>
+  <td>2</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>3</td>
+  <td>1</td>
+  <td>»</td>
+  <td>3</td>
+  <td>11,417</td>
+  <td>10</td>
+  <td>11</td>
+</tr>
+<tr>
+  <td>Maribo Købstad og Maribo Birk</td>
+  <td>»</td>
+  <td>3</td>
+  <td>2</td>
+  <td>2</td>
+  <td>1</td>
+  <td>8</td>
+  <td>1</td>
+  <td>»</td>
+  <td>21/2</td>
+  <td>10,830</td>
+  <td>6</td>
+  <td>6</td>
+</tr>
+<tr>
+  <td>Nysted Købstad og Nysted &quot;Birk</td>
+  <td>»</td>
+  <td>3</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>4</td>
+  <td>1</td>
+  <td>»</td>
+  <td>4</td>
+  <td>6,841</td>
+  <td>10</td>
+  <td>10</td>
+</tr>
+<tr>
+  <td>Nykøbing Købstad  og Nykøbing Herred</td>
+  <td>»</td>
+  <td>5</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>5</td>
+  <td>1</td>
+  <td>»</td>
+  <td>3</td>
+  <td>14,047</td>
+  <td>5</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td>Falsters vestre Herred</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>1</td>
+  <td>»</td>
+  <td>31/3</td>
+  <td>9,981</td>
+  <td>14</td>
+  <td>14</td>
+</tr>
+<tr>
+  <td>Stubbekøbing  Købstad   og Stubbekøbing Herred</td>
+  <td>»</td>
+  <td>2</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>3</td>
+  <td>1</td>
+  <td>»</td>
+  <td>31/2</td>
+  <td>11,689</td>
+  <td>10</td>
+  <td>11</td>
+</tr>
+<tr>
+  <td>Fejø Birk</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>3/4</td>
+  <td>2,254</td>
+  <td>3</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>Aalborg Købstad</td>
+  <td>3</td>
+  <td>32</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>35</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>31,457</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+<tr>
+  <td>Aalborg Birk  og Fleskum Herred</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>1</td>
+  <td>63/4</td>
+  <td>13,408</td>
+  <td>15</td>
+  <td>18</td>
+</tr>
+<tr>
+  <td>Nibe Købstad og Horn am Herred</td>
+  <td>»</td>
+  <td>1</td>
+  <td>1</td>
+  <td>2</td>
+  <td>»</td>
+  <td>4</td>
+  <td>»</td>
+  <td>»</td>
+  <td>62/7</td>
+  <td>14,852</td>
+  <td>20</td>
+  <td>20</td>
+</tr>
+<tr>
+  <td>Løgstør Købstad og Slet og Aara Herreder</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>9</td>
+  <td>15,436</td>
+  <td>20</td>
+  <td>23</td>
+</tr>
+<tr>
+  <td>Hellum-Hindsted Herreder</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>1</td>
+  <td>13</td>
+  <td>21,569</td>
+  <td>25</td>
+  <td>26</td>
+</tr>
+<tr>
+  <td>Nørresundby   Købstad    og Kær Herred</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>1</td>
+  <td>91/2</td>
+  <td>22,166</td>
+  <td>15</td>
+  <td>16</td>
+</tr>
+<tr>
+  <td>Hjørring Købstad og Ven-nebjerg Herred</td>
+  <td>»</td>
+  <td>3</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>3</td>
+  <td>»</td>
+  <td>3</td>
+  <td>7</td>
+  <td>23,299</td>
+  <td>18</td>
+  <td>18</td>
+</tr>
+<tr>
+  <td>Frederikshavn Købstad og Horns Herred</td>
+  <td>»</td>
+  <td>3</td>
+  <td>»</td>
+  <td>3</td>
+  <td>2</td>
+  <td>8</td>
+  <td>»</td>
+  <td>2</td>
+  <td>8</td>
+  <td>22,682</td>
+  <td>13</td>
+  <td>14</td>
+</tr>
+<tr>
+  <td>At overføre</td>
+  <td>110</td>
+  <td>1037</td>
+  <td>21</td>
+  <td>40</td>
+  <td>7</td>
+  <td>1215</td>
+  <td>62</td>
+  <td>81</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+</table>
+	
+
+</pb>

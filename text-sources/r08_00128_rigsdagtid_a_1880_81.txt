@@ -1,0 +1,49 @@
+3619
+<pb n="128" />
+<h>
+<coll>3619</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3620</colr>
+</h>
+<title>Kapitel IV.</title>
+<undertitle>Om Tvangsauktion.</undertitle>
+<title>Forste Underafdeling.</title>
+<undertitle>Almindelige Bestemmelser.</undertitle>
+<wtitle>§ 496.</wtitle>
+<p>Udlæg til Forauktionering giver Ret til, efter de i det Folgende opstillede Regler, at<lb />
+fætte det Udlagte til offentlig Auktion og gjøre sig betalt af Auktionssummen, jfr. dog § 515.</p>
+<p>Om Adgangen til at stille haandfaaet Pant til offentlig Auktion uden foregaaende<lb />
+Dom eller Forlig   og Udlæg gjælde   den borgerlige Rets Regler,   jfr. Konkurslovens § 155.</p>
+<p>Ligeledes har det sit Forblivende ved den Statskassen som Panthaver for kredite-<lb />
+rede Toldafgifter i de en Oplagshaver betroede Oplagsvarer tilkommende Ret til at forauk-<lb />
+tionere disse uden foregaaende Retsforfølgning.</p>
+<wtitle>§ 497.</wtitle>
+<p>Tvangsauktionen foretages i Reglen af den Foged, som har wcerksat Udlæget.</p>
+<p>Auktionen bliver l Almindelighed at afholde i den Jurisdiktion, hvor Udlæget er sket.<lb />
+Dog er Rekvirenten berettiget til at lade de udlagte Gjenstande bortfælge i nærmeste Kjebstad<lb />
+eller med Fogdens Billigelse andetsteds.</p>
+<p>Dette Steds Foged er da Pligtig at afholde Auktionen; dog skal ogsaa den Foged,<lb />
+som har foretaget Udlæget, være beføiet til at afholde Auktionen, dersom Rekvirenten onsker<lb />
+det, og han selv dertil er villig.</p>
+<wtitle>§ 498.</wtitle>
+<p>Ved Auktioners Afholdelse er særlig Tilkaldelse af Vidner ikke fornøden.<lb />
+Det exekutive Politi er forpligtet til paa Begjæring at yde Fogden Bistand i Over-<lb />
+ensstemmelse med, hvad der i § 437 er bestemt.</p>
+<wtitle>§ 499.</wtitle>
+<p>Ved Begjæringen om Tvangsauktion forholdes der efter de ovenfor i § 439 givne<lb />
+Regler, dog at her desuden Udskrift af Udlægsforretningen maa medfølge, medmindre Tvangs-<lb />
+auktionen skal foretages af den samme Foged, som har foretaget Udlægsforretningen, i hvilket<lb />
+Tilfælde en simpel Paaberaabelse af Udlægsforretningen med Angivelse af dens Datum er<lb />
+tilstrækkelig.</p>
+<wtitle>§ 500.</wtitle>
+<p>Finder Fogden, at Grundlaget for Tvangsauktionen er i Orden, og at iøvrigt Intet<lb />
+er til Hinder for det Udlagtes Forauktionering, har han at foretage de til Auktionens Afhol-<lb />
+delse fornødne Skridt i Henhold til den fremsætte Begjæring.</p>
+<p>Det bliver at iagttage, at Auktionen ikke maa foregaa, førend den til Retsmidlers<lb />
+
+Anvendelse givne ordentlige Frist af 4 Uger er udloben. Fremlægges Bevis for, at Udlægs-<lb />
+forretningen inden denne Frists Udlsb af nogen af de oprindelige Parter lovlig er angreben<lb />
+ved Retsmidler, enten selvstændigt eller som et Tilbehsr til Dommen, bliver det Udlagtes<lb />
+Forauktionering at stille i Bero.</p>
+<p>Dog kan Fogden, naar de udlagte Gjenstande ere udsætte for Fordcervelse eller væsent-<lb />
+lig Værdiforringelse ved at henligge saa  længe,  som Iagttagelsen   af foranstaaende  Bestem-</p>

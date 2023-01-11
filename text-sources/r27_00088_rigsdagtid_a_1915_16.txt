@@ -1,0 +1,79 @@
+2815
+<pb n="88" />
+<h>
+<coll>
+2815
+</coll>
+<topmidle>
+F. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2816
+</colr>
+</h>
+<wtitle>§ 373.</wtitle>
+<p>
+Enhver, der i Medfør af §§ 340, sidste Stykke, 341 eller 363 er dømt som<lb />
+udebleven under en Landsretssag i 1ste Instans, kan begære Sagen genoptaget og<lb />
+fortsat fra det Punkt, hvor Forhandlingen paa Grund af Udeblivelsen standsede for<lb />
+hans Vedkommende, naar han godtgør, at Udeblivelsen var ham utilregnelig. Den,<lb />
+der ønsker at benytte sig heraf, maa indgive en skriftlig begrundet Begæring til den<lb />
+Ret, der har afsagt Udeblivelsesdommen, ledsaget af de fornødne Bevisligheder.<lb />
+Finder Retten ikke Grund til straks at afvise Begæringen, berammes et Retsmøde,<lb />
+og Rettens Formand (jfr. § 152) fastsætter det Varsel, med hvilket Modparten skal<lb />
+indkaldes. Udebliver denne, anses de for Begæringen paaberaabte Grunde for be-<lb />
+viste; møder Modparten og rejser Indsigelse, forhandles Spørgsmaalet om Genop-<lb />
+tagelse mundtlig.
+</p>
+<p>
+Retten afgør ved Kendelse, om Sagen skal genoptages, og berammer i bekræf-<lb />
+tende Fald et Retsmøde samt fastsætter et Varsel, med hvilket Modparten dertil skal<lb />
+indkaldes. I dette Møde træffes de fornødne Bestemmelser om Sagens Fortsættelse<lb />
+overensstemmende med de almindelige Regler, for saa vidt Genoptagelsen ikke afvises,<lb />
+fordi Modparten ikke er behørig indkaldt.
+</p>
+<p>
+Samtidig med, at Sagen erklæres for genoptagen, saavel som paa ethvert senere<lb />
+Trin af Sagen kan Retten efter Begæring bestemme, at den afsagte Udeblivelsesdoms<lb />
+Virkninger skal udsættes.
+</p>
+<p>
+Fører Genoptagelsen til samme Resultat som den afsagte Dom, bliver denne at<lb />
+stadfæste; i modsat Fald ophæves den. og ny Dom afsiges af vedkommende Landsret.
+</p>
+<wtitle>§ 374.</wtitle>
+<p>
+Begæring om den i § 373 omhandlede Genoptagelse maa fremsættes, saa snart<lb />
+det er muligt, og kan ikke fremføres efter et Aars Forløb fra Dommens Afsigelse.<lb />
+Er Sagen indanket til højere Ret, er Adgangen til Genoptagelse udelukket, indtil<lb />
+Anken frafaldes eller afvises. Naar Indkaldelse til det første i § 373 ommeldte Rets-<lb />
+møde er sket, er begge Parter udelukkede fra at paaanke Udeblivelsesdommen, indtil<lb />
+Genoptagelsen bortfalder eller afvises. Adgang til Genoptagelse haves kun een Gang<lb />
+i samme Sag.
+</p>
+<wtitle>§ 375.</wtitle>
+<p>
+Den, der, uden at have afgivet noget Svar i Sagen, er dømt som udebleven<lb />
+under en Landsretssag i 1ste Instans, kan endvidere begære Sagen genoptaget, naar han<lb />
+inden en Uge efter Dommens Afsigelse skriftlig begærer et Retsmøde berammet samt<lb />
+enten fremlægger Bevis for at have betalt de idømte Sagsomkostninger eller i Retten<lb />
+deponerer Beløbet. Vedkommende Ret giver Begæringen Paategning om, at Sagen er<lb />
+genoptaget, og fastsætter det Varsel, med hvilket Modparten skal indkaldes. I Mødet<lb />
+maa Domfældte i Regelen, jfr. § 346, afgive sit Svar i Sagen: undlader han dette, eller<lb />
+er Modparten ikke behørig indkaldt, afvises Genoptagelsen.
+</p>
+<p>
+Indkaldelse af Modparten til Sagens Genoptagelse har samme opsættende<lb />
+Virkning som Forkyndelse af Ankestævning.
+</p>
+<p>
+I øvrigt gælder Bestemmelserne i § 373, sidste Stykke, dog saaledes at Ude-<lb />
+blivelsesdommens Paalæg af Sagsomkostninger ikke kan ophæves, og i § 374. 2det-<lb />
+4de Punktum, samt de almindelige Regler om Landsretsproceduren.
+</p>
+<wtitle>§ 376.</wtitle>
+<p>
+Naar Tilladelse til at fremføre ny Paastande eller Anbringender søges hos<lb />
+Landsret eller Højesteret paa Grund af utilregnelig Udeblivelse henholdsvis under For-<lb />
+beredelsen af Domsforhandling i en Landsretssag eller under selve Domsforhandlingen
+</p>

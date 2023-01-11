@@ -1,0 +1,71 @@
+2061
+<pb n="167" />
+<h>
+<coll>
+2061
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2062
+</colr>
+</h>
+<p>
+skal i saa Fald Udfærdigelsen tillige tilstilles vedkommende med Posten i betalt Brev,<lb />
+der skal anbefales. Postembedsmanden har at forsyne det ene Eksemplar af Udfær-<lb />
+digelsen med Paategning om, at ligelydende Eksemplar er afsendt til nærmere be-<lb />
+tegnet Adresse i betalt og anbefalet Brev. Paategningen afgiver Bevis herfor, indtil<lb />
+Modbevis føres.
+</p>
+<wtitle>§  757.</wtitle>
+<p>
+Meddelelse, som under Retsmøde i Sagen gives vedkommende personlig til<lb />
+Retsbogen, kan altid træde i Stedet for Forkyndelse.
+</p>
+<wtitle>§  758.</wtitle>
+<p>
+De fra Retten udgaaende Meddelelser i Straffesager, for hvilke Loven ingen<lb />
+særlig Forskrift indeholder, ske paa den Maade, som Rettens Formand i hvert enkelt<lb />
+Tilfælde finder hensigtsmæssigst, og uden at hans Beslutninger herom ere Grenstand<lb />
+for Kære. Det er tilladt at tilstille Meddelelsen med Posten.
+</p>
+<wtitle>§  759.</wtitle>
+<p>
+Naar der af Retten i et behørig afholdt Møde træffes Beslutning om Tids-<lb />
+punktet for et nyt Møde eller for en Retshandlings Iværksættelse, anses de Personer,<lb />
+der ere til Stede og paahøre Beslutningen, for at have faaet tilstrækkelig Underret-<lb />
+ning derom. Personer, som have været lovlig tilsagte til Mødet, men som enten ere<lb />
+udeblevne eller have forladt Mødet, forinden Beslutningen der toges, have intet Krav<lb />
+paa særlig Forkyndelse eller Meddelelse om det ny Møde eller om Tidspunktet for de<lb />
+besluttede Retshandlingers Iværksættelse. Dog bør Retten ikke undlade ved Bud-<lb />
+sendelse eller med Posten at give dem Meddelelse om Beslutningen, for saa vidt denne<lb />
+antages at være af Interesse for dem.
+</p>
+<wtitle>§  760.</wtitle>
+<p>
+Indkaldelser og Meddelelser til militære, hvilke med de af Forholdets Natur<lb />
+flydende Lempelser blive at forkynde efter de i dette Kapitel givne Regler, skulle til-<lb />
+lige anmeldes for Afdelingschefen, som foranlediger paagældendes Møde for Retten,<lb />
+hvor saadant gøres fornødent.
+</p>
+<title>
+Kapitel 70.
+</title>
+<title>
+Rettens Raadslagninger og Afgørelser.
+</title>
+<wtitle>§  761.</wtitle>
+<p>
+Domme, Kendelser og andre Beslutninger af en Ret, der ikke beklædes af en<lb />
+enkelt Dommer, og som ikke høre til de Beslutninger, Rettens Formand kan træffe,<lb />
+vedtages ved Afstemning efter forudgaaende Raadslagning. Afstemningen foregaar<lb />
+efter Lodtrækning for hver enkelt Sag, umiddelbart før Raadslagningen begynder.<lb />
+Formanden stemmer dog altid sidst, han forestaar Afstemningen og samler Stemmerne.<lb />
+Afstemningen sker mundtlig; de afgivne Stemmer indføres udtogsvis i en Stemme-<lb />
+givningsbog. Enhver Dommer har Ret til at paase, at hans Stemme gengives rigtigt.
+</p>
+<p>
+Dommernes Raadslagninger og Afstemninger maa ikke overværes af Tilhørere<lb />
+med Undtagelse af Retsskriveren.
+</p>

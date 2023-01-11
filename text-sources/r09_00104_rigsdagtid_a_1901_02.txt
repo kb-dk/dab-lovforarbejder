@@ -1,0 +1,67 @@
+2355
+<pb n="104" />
+<h>
+<coll>2355</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2356</colr>
+</h>
+<p>
+under Arrestforretningen fremkommer saadanne Indsigelser, som kunne fremsættes<lb/>
+under den i Anledning af Fordringen anlagte Sag, jfr. Kap. XXV.
+</p>
+<wtitle>§ 475.</wtitle>
+<p>
+Arrestforretningen begynder paa Skyldnerens Bopæl eller i Mangel af en saa-<lb/>
+dan paa hans sædvanlige Opholdssted, men kan dog efter Omstændighederne, navnlig<lb/>
+naar der er Fare ved Opsættelse, eller naar Skyldneren ikke har Bopæl i Riget eller<lb/>
+staar i Begreb med at forlade dette, begynde paa det Sted, hvor Personen eller For-<lb/>
+retningens Genstand forefindes.
+</p>
+<wtitle>§ 476.</wtitle>
+<p>
+Med Hensyn til Parternes Møde under Forretningen m. m. gælde de i § 363<lb/>
+givne Regler.
+</p>
+<wtitle>§ 477.</wtitle>
+<p>
+Arrestforretningen begynder med, at Fogden opfordrer paagældende til ved<lb/>
+Sikkerhedsstillelse eller Betaling at tilfredsstille Rekvirenten, hvorpaa han, naar dette<lb/>
+ikke straks sker, efter Afgørelse af mulige Indsigelser skrider til Arrestens Udførelse.
+</p>
+<wtitle>§ 478.</wtitle>
+<p>
+Arresten kan kun udstrækkes til saa meget af Skyldnerens Gods, som i Hen-<lb/>
+hold til den under Forretningen foretagne Vurdering behøves til at sikre Rekvirentens<lb/>
+Fordring i Forbindelse med de sandsynlige Udgifter ved Arresten.
+</p>
+<wtitle>§ 479.</wtitle>
+<p>
+Med Hensyn til Valget af de Genstande, hvori Arresten gøres, forholdes der<lb/>
+efter de i §§ 352 og 353 givne Forskrifter, ligesom der i øvrigt ved Arrestforretningers<lb/>
+Foretagelse, med de af Forholdets Natur følgende Lempelser, gaas frem efter de om<lb/>
+Eksekutionsforretninger i §§ 365—373 givne Regler.
+</p>
+<wtitle>§ 480.</wtitle>
+<p>
+I Fogedprotokollen optegnes nøjagtigt alle de enkelte Genstande, hvori Arrest<lb/>
+gøres, og ved hver enkelt Genstand tilføjes dens Værdi efter den stedfundne Ansættelse.
+</p>
+<p>
+Fogden erklærer derefter til Protokollen de optegnede Genstande for belagte<lb/>
+med Arrest til Arrestrekvirentens Sikkerhed. Det betydes Skyldneren, at han fra nu<lb/>
+af ikke uden at udsætte sig for Strafansvar efter Straffelovens § 253 kan raade over<lb/>
+dem paa en Maade, som kommer i Strid med Arrestrekvirentens Ret. Er Skyldneren<lb/>
+ikke til Stede, gives der den eller dem, som i Henhold til § 363 tilkaldes paa hans<lb/>
+Vegne, Paalæg om at give ham en saadan Betydning. Efter Omstændighederne kan<lb/>
+et lignende Paalæg gives den Trediemand, i hvis Besiddelse det arresterede er.
+</p>
+<p>
+Er Arrest paa Person paalagt, tilkendegives det af Fogden Skyldneren, hvis<lb/>
+han er til Stede, at han er belagt med Gældsfængsel, hvorefter Fogden beordrer ham<lb/>
+straks henbragt til Gældsfængslet. I modsat Tilfælde er det Rekvirentens egen Sag<lb/>
+at drage Omsorg for Udførelsen af Arrestkendelsen ved Skyldnerens Indsættelse i<lb/>
+Gældsfængsel, og han kan hertil fordre Politiets Bistand. Saa snart Indsættelsen i<lb/>
+Gældsfængslet er sket, har Rekvirenten øjeblikkelig at meddele Fogden Underretning<lb/>
+herom; denne gør, efter at have hørt Arrestforvarerens Forklaring, fornøden Be-<lb/>
+mærkning i Fogedprotokollen om Tiden og Klokkeslettet for Indsættelsen.
+</p>

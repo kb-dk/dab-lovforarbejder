@@ -1,0 +1,51 @@
+3691
+<pb n="164" />
+<h>
+<coll>3691</coll>
+<topmidle>Forsl. t. L. om Strafferetspleien.</topmidle>
+<colr>3692</colr>
+</h>
+<wtitle>§ 14.</wtitle>
+<p>Under Hoiesterets Virkekreds hore alle Afgjørelser i Anledning af Paaanke af (Be-<lb />
+sværing over) Landsrettens Domme, Kjendelser og Beslutninger, derunder indbesattet Handlinger<lb />
+af det medlem af Landsretten, hvem det maatte være overdraget at handle som Nnder- søgelsesdommer.</p>
+<p>Til Landsrettens Virkekreds hore afgjørelser i Anledning af Paaanke af (besværing<lb />
+over) Underrettens Domme, Kjendelser og Beslutninger.</p>
+<p>Kapitel III.</p>
+<p>Om de Tilfælde, hvor Rettens Personer som inhabile stnlle eller lunne ndelnttes fra eller fritages</p>
+<p>for at handle i Sagen.</p>
+<wtitle>§ 15.</wtitle>
+<p>Ingen Dommer eller nævning maa handle i en Straffesag, naar han</p>
+<p>1)  selv er Part i Sagen eller er  forurettet ved  Forbrydelsen  eller af Sagens Udfald<lb />
+kan have Skade eller Fordel, eller naar det iøvrigt under Sagen bliver nødvendigt<lb />
+at bedømme hans egen tidligere færd;</p>
+<p>2)  er beflægtet eller befvogret med nogen af Parterne  eller  dcn  Forurettede i op- eller<lb />
+nedstigende Linie eller i Sidelinien faa  nær som Sossende, eller er nogen af disse<lb />
+personers Wgtefælle, værge, Kurator, Adoptiv- eller Pleiefader, Adoptiv- eller Pleieson;</p>
+<p>3)  er beflægtet eller besvogret i op- eller nedstigende Linie eller beflægtet i Sidelinien<lb />
+saa ncrr som Soskende med den i Sagen optrædende offentlige Anklager eller Politi-<lb />
+embedsmand, en privat Anklagers  eller den Forurettedes Rettergangsfuldmægtig eller<lb />
+den Sigtedes Forsvarer;</p>
+<p>4)  eller har aflagt Vidnesbyrd eller været Syns- eller skjønsmand i Sagen eller handlet<lb />
+i den som offentlig Anklager, Politiembedsmand, Rettergangsfuldmægtig for en privat<lb />
+Anklager eller den Forurettede eller som Forsvarer;</p>
+<p>5)  ei heller naar nævningen har handlet som Dommer i Sagen, eller naar Dommeren<lb />
+har handlet som Dommer eller nævning i Sagen ved den underordnede Instants.<lb />
+Ved Anvendelsen af den under Nr. 1   givne Regel bliver  dog  at iagttage, at den</p>
+<p>Omstændighed, at Dommeren, fordi ftere Embedsvirksomheder ere forenede i hans Person, tid-<lb />
+ligere af den Grund har havt med Sagen at gjore, ikke i og for sig medfører Inhabilitet,<lb />
+naar der ikke efter de foreliggende Omstændigheder er Grund til at antage, at han har havt<lb />
+nogen færegen Interesse i Sagens Udfald.</p>
+<wtitle>§ 16.</wtitle>
+<p>I de i foregaaende Paragraf omhandlede Tilfælde er Dommeren, hvis han er Gnkelt-<lb />
+dommer, Pligtig efter Kjendelse afsagt af ham selv at vige sit sæde. Beklceder han Retten<lb />
+i Forening med andre Dommere, er han pligtig at gjøre Retten meddelelse om de Om-<lb />
+stændigheder, som ifslae foregaaende Paragraf formenes at medføre hans Inhabilitet,<lb />
+hvorefter afgjørelse træffes af Retten, uden at han selv er udelukket fra at deltage i Paakjendelsen af<lb />
+spørgsmaalet.</p>
+<p>førend Lodtrækningen af nævninger til en Sag begynder, stiller Rettens Formand<lb />
+l^porgsmaal til Anklageren, den eller de Sigtede og den eller de beskikkede Forsvarere, til<lb />
+Dommerne og nævningerne, om der med Hensyn til nogen af de indkaldte, tilstedeværende<lb />
+nævninger maatte være dem nogen Omstændighed bekjendt, som efter § 15 udelukker fra af<lb />
+være nævning i den foreliggende Sag. De herefter opstaaende spørgsmaal Afgjøres af<lb />
+Dommerne i den fammentraadte Ret.</p>

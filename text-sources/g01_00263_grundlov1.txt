@@ -1,0 +1,138 @@
+453
+<pb n="263">
+<pagename>263</pagename>
+<h>
+<coll>453</coll>
+<colr>454</colr>
+<lb/>
+
+<topleft>1848.</topleft>
+<topmidle>
+Beretning om Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 61.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Syv og tyvende Møde.<lb/>
+</btitle>
+<notedate>
+Torsdagen den 14de December.<lb/>
+</notedate>
+<p>
+På Dagsordenen stod:<lb/>
+1) Spørgsmål fra Rigsdagsmanden for Kjøbenhavns 2det District (H. P. Hansen) til Ministeriet, angående Tilstanden i<lb/>
+de dansk-vestindiske Colonier.<lb/>
+2) Spørgsmål til Justitsministeriet fra Rigsdagsmanden for Svendborg Amts 2det District (J. R. Jacobsen), om Regjeringen,<lb/>
+samtidig med de ved Circulaire af 2den d. M. bebudede Landmilitie-Sessioner, agter at udskrive det Antal Ikke-Værnepligtige,<lb/>
+som Frd. af 23de September d. A. foreskriver.<lb/>
+3) Forslaget fra Comiteen for Forsamlingens Forretningsorden til<lb/>
+et Tillæg til § 19 i Forretningsordenen, til endelig Behandling.<lb/>
+Forhandlingsprotocollen for forrige Møde blev oplæst.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Jeg har at anmelde endeel Andragender og<lb/>
+Adresser, der ere indkomne siden sidste Møde, nemlig:<lb/>
+1) Et Andragende fra Sokkelunds, Smørum og Ølstykke Herreders<lb/>
+Convent, om at de Paragrapher i Grundloven, som angåe de<lb/>
+kirkelige Forhold, måe blive forbigåede under Drøftningen,<lb/>
+indtil en Synode er afholdt , eller , hvis dette ei kan tilståes,<lb/>
+at der da må tages Hensyn til de i Andragendet gjorte Bemærkninger ved disse Paragrapher. Dette Andragende skal<lb/>
+blive henlagt i Læseværelset og i sin Tid overgives til Comiteen<lb/>
+for Grundloven.<lb/>
+2) En Adresse, indleveret af Rigsdagsmanden for Sorø Amts 6te<lb/>
+District (Boisen), fra 103 Borgere og Indvånere i Korsør, om<lb/>
+at Classevalg måe finde Sted ved Valget af Medlemmer til<lb/>
+Landsthinget.<lb/>
+3) En Adresse, indleveret af Rigsdagsmanden for Odense Amts<lb/>
+4de District (Dinsen), fra 168 Borgere og Indvånere af afsens, om at der med Hensyn til Kjøbstædernes, og navnlig Laugenes, Interesser måtte tillægges Kjøbstæderne særskilt Repræsentation til Rigsdagen.<lb/>
+4) En Adresse fra Veile Amts 1 ste District med 125 Underskrifter<lb/>
+fra Fredericia, om at Kjøbstædernes Interesser måe blive vedbørligen varetagne ved Valglovens Behandling.<lb/>
+5) Et Andragende, indleveret af Rigsdagsmanden for Randers Amts<lb/>
+2det District (Linnemann), fra Randers, med 520 Underskrifter,<lb/>
+om at Forsamlingen ved Behandlingen af Grund- og Valgloven<lb/>
+vil varetage Kjøvstædernes og de høiere Interesser.<lb/>
+6) En Adresse fra 173 Borgere og Indvånere i Assens, ligelydende med den fra Odense, om Hærens Rustning til at forsvare Danmarks fulde Ret.<lb/>
+7) En Adresse fra Fredericia med 113 Underskrifter, angående<lb/>
+Opretholdelsen af den danske Nationalitet i Danmark mod<lb/>
+Tydskernes Overgreb, ledsaget af en Skrivelse fra 11 af Undertegnerne, om at det i Grundloven måtte bestemmes, at der ved<lb/>
+Tilståelje af Indfødsret må sees hen til udviist Redebonhed<lb/>
+til at ville tilegne sig dansk Sprog og Nationalitet.<lb/>
+8) Et Andragende fra tvende Huusmænd i Reersløv ved Roeskilde,<lb/>
+angående Forbedring af Huusmændsclassens Kår.<lb/>
+9)Et Andragende, indleveret af Rigsdagsmanden for Odense Amts<lb/>
+5te District (Leth), fra endeel Fæstehuusmænd, om at de måe<lb/>
+erholde Forbedring i deres Stilling med Hensyn til Landgilde<lb/>
+og Hoveri, samt at de måe blive valgbare til Sogneforstanderskaber</p>
+</leftside>
+<rightside>
+<p>
+ og Amtsråd. Andragendet er understrevet af 18 Mænd<lb/>
+på Huusmændenes Vegne i 10 Sogne.<lb/>
+10) En Adresse, indleveret af Rigsdagsmanden for Randers Amts<lb/>
+6te District (Rée), fra 115 Indvånere i Kjøbenhavn og Omegn, om at Almeenvæbning, uden Leien og Stillen for sig, må<lb/>
+følge uadskillelig med almindelig Værnepligt.<lb/>
+</p>
+<p>
+Samtlige disse Andragender ville blive henlagte i Læseværelset,<lb/>
+og nogle af dem, som angåe Valgloven, afgivne til Comiteen for<lb/>
+Grund- og Valgloven.<lb/>
+</p>
+<p>
+Jeg skal derefter anmelde, at Kammerjunker, Herredsfoged Hold er<lb/>
+bleven valgt til Rigsdagsmand for Veile Amts 1 ste District og idag<lb/>
+er tilstede i Forsamlingen. Valgbrevet er tilstillet den Comitte, som<lb/>
+har pleiet at prøve Valgenes Gyldighed. Den ærede Ordfører for<lb/>
+denne Comitee har Ordet.<lb/>
+</p>
+<p>
+<speaker>Algreen-Ussing:</speaker> Det Valgbrev, som er tilstillet Comiteen,<lb/>
+indeholder, at der ved den afholdte Valghandling havde stillet sig 3<lb/>
+Candidater, nemlig Pastor, Feltpræst Helweg, Borgerrepræsentant<lb/>
+Rasmus Ottesen, samt Kammerjunker, Overauditeur og Herredsfoged Hold, at Resultatet ved den stedfundne Afstemning ved Håndsoprækning blev, at Kammerjunker Hold efter Valgbestyrelsens Skjøn<lb/>
+erholdt de sleste Stemmer, og at, da Afstemning til Protocollen derpå blev iværksat, Udfaldet blev, at Kammerjunker Hold erholdt 166,<lb/>
+Pastor Helweg 100 og R. Ottesen 5 Stemmer, hvorefter Kammerjunker Hold blev proclameret som Rigsdagsmand for Veile Amts<lb/>
+1 ste District. Valghandlingen er foregået aldeles overeensstemmende<lb/>
+med Forordningens Bestemmelser, og Valgbrevet er fundet i fuldkommen Orden, så at der i formel Henseende Intet er til Hinder for,<lb/>
+at Kammerjunker Hold af Formanden proclameres som Medlem af<lb/>
+Rigsforsamlingen.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Da der således ikke har fundet nogen Mangel<lb/>
+Sted ved dette Valg, skal jeg herved erklære Kammerjunker, Herredsfoged Hold for Repræsentant for Veile Amts 1 ste District. Han vil<lb/>
+indtræde i sin Formands Plads i Afdelingerne og altså komme til<lb/>
+at henhøre til 2den Afdeling.<lb/>
+</p>
+<p>
+Ifølge Dagsordenen skal jeg herefter give Ordet til Rigsdagsmanden for Kjøbenhavns 2det District (H. P. Hansen), der har et<lb/>
+Spørgsmål at giøre til Ministeriet.<lb/>
+</p>
+<p>
+<speaker>H. P. Hansen:</speaker> Den Interpellation, som jeg vil tillade mig<lb/>
+at giøre, og som jeg har anmeldt for den ærede Formand, lyder<lb/>
+således:<lb/>
+</p>
+<p>
+Kan Ministeriet af de Samme tilhændekomne Meddelelser oplyse,<lb/>
+om vore vestindiske Colonier og deres Beboeres Velvære væsentlig er<lb/>
+bleven afficeret ved den Omvæltning, som fandt Sted i de derværende<lb/>
+Forhold ved den pludselige Emancipation af Negerbefolkningen i Juli<lb/>
+Måned d. A., og hvilken Indfiydelse kan denne Begivenhed antages<lb/>
+at ville have såvel på de private Eiendommes Værdi i Almindelighed, som på Værdien af den ikke ringe Deel af Statskassens Activer, som ere ubestaaende i Vestindien?<lb/>
+</p>
+<p>
+Jeg har fundet mig foranledigeet til denne Interpellation, tildeels<lb/>
+fordi jeg er opfordret dertil af flere agtede Medborgere, men også<lb/>
+fordi det forekommer mig, at den Begivenhed, som har tildraget sig<lb/>
+på de langt bortliggende, Danmark tilhørende Øer, har ved Siden<lb/>
+af de alvorlige Begivenheder, som i den senere Tid have tildraget sig<lb/>
+i vort Fædreland, om ikke i samme Grad, så dog altid noget<lb/>
+Krav på her at komme under Omtale. Det vil være den ærede<lb/>
+Forsamling bekjendt, at der i Begyndelsen af Juli Måned d. A.<lb/>
+udbrød en Opstand mellem Negerbefolkningen på de dansk-vestindiske<lb/>
+</p>
+</rightside>
+
+</pb>

@@ -1,0 +1,70 @@
+465
+<pb n="201" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>465</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 860.</wtitle>
+<p>
+Førend Dom eller Kendelse afsiges under Domsforhandlingen, bør der være<lb/>
+givet Parterne Lejlighed til at udtale sig. Tiltalte har stedse det sidste Ord.
+</p>
+<wtitle>§ 861.</wtitle>
+<p>
+Efter at Bevisførelsen er sluttet, får først Anklageren, dernæst Forsvareren og, såfremt Tiltalte begærer det, denne Ordet for at udtale sig om Bevisførelsens Resultat samt om Retsspørgsmålene i Sagen, dog så vidt muligt uden at<lb/>
+omhandle sådanne Punkter, som ikke skulle forelægges Nævningerne til Afgørelse.
+</p>
+<wtitle>§ 862.</wtitle>
+<p>
+Efter at Parterne have haft Ordet, skal Anklageren overlevere Retten og<lb/>
+Forsvareren Udkast til de Spørgsmål, som skulle forelægges Nævningerne, hvorefter<lb/>
+der gives Forsvareren og Tiltalte Lejlighed til at ytre sig og fremsætte Forslag til<lb/>
+Ændringer i eller Tillæg til Spørgsmålene. Spørgsmålene fastsættes derefter af<lb/>
+Retten og meddeles Parterne; hvor dette kræves af Reglerne i § 886. 4de Stykke,<lb/>
+gives der disse fornyet Lejlighed til at ytre sig.
+</p>
+<p>
+Intet Spørgsmål kan forelægges Nævningerne, medmindre det har været udtrykkelig fremdraget under Forhandlingerne, og det således har været muligt for<lb/>
+Parterne at ytre sig derom.
+</p>
+<wtitle>§ 863.</wtitle>
+<p>
+Ved Spørgsmålene til Nævningerne skal det forelægges dem til Afgørelse, om<lb/>
+Tiltalte er skyldig i det Forhold, som Tiltalen angår; Tiltalens Angivelser kunne fraviges indenfor de Grænser, som ere betegnede i § 886. Som Følge heraf hører det<lb/>
+under Nævningernes Afgørelse, om nogen Grund, som udelukker Straf, eller om sådanne i Straffeloven bestemt betegnede Omstændigheder, der hjemle Nedsættelse eller<lb/>
+Forhøjelse af Straffen udenfor den almindelige Strafferamme, ere til Stede.
+</p>
+<p>
+Undtagne fra Nævningernes Afgørelse ere Spørgsmål om
+</p>
+<p>
+a)	Strafskyldens Forældelse,
+</p>
+<p>
+b)	de i Straffelovens §§ 7 og 58 ommeldte Omstændigheder,
+</p>
+<p>
+c)	Straffens Forhøjelse på Grund af Gentagelse.
+</p>
+<p>
+For så vidt det imidlertid ved Anvendelsen af Reglerne om Strafskyldens<lb/>
+Forældelse og Strafforhøjelse på Grund af Gentagelse kommer an på det Tidspunkt,<lb/>
+da den påtalte Handling blev begået, afgøres dette Spørgsmål af Nævningerne efter<lb/>
+den almindelige Regel.
+</p>
+<p>
+Om Påtalemyndigheden er påtaleberettiget, er ikke Genstand for Nævningernes Afgørelse.
+</p>
+<wtitle>§ 864.</wtitle>
+<p>
+Det tilkommer ikke Nævningerne at afgøre noget om Tilstedeværelsen af Omstændigheder, der kunne komme i Betragtning ved Straffens Udmåling indenfor<lb/>
+Lovens Strafferamme, og som Følge heraf heller ikke i de Tilfælde, hvor Loven på<lb/>
+Grund af skærpende eller formildende Omstændigheder, men uden nærmere Betegnelse af disse eller blot med Angivelse af vejledende Eksempler, har udvidet Grænserne for Straffens Valg. at afgøre, om sådanne Omstændigheder foreligge.
+</p>
+<wtitle>§ 865.</wtitle>
+<p>
+Ethvert Spørgsmål til Nævningerne skal stilles således, at det kan besvares<lb/>
+med „ja" eller „nej".
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.	61</pagename>

@@ -1,0 +1,136 @@
+2765
+<pb n="646" >
+<p rend="page">646</p>
+<h>
+<coll>2765</coll>
+<colr>2766</colr><lb />
+<topleft>1849.</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 350.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede (104de) Møde.<lb />
+(Dn endelige Behandling af Grundloyvn § 8 b.)<lb />
+</stitle>
+<px>
+Nei.<lb />
+Aagaard (G.) af Lolland.	Jespersen (N. F.).<lb />
+Andresen.	Johansen, (H. C.).<lb />
+Andræ.	Johansen (H.) af Knardrup.<lb />
+Bjerring.	Jungersen.<lb />
+Black	Jørgensen.<lb />
+Bregendahl	Kayser.<lb />
+Bruun (M. P.) af Bruunshaab.	Kirk.<lb />
+Bruun (P. D.) af Kjøbenhavn.	Knuth.<lb />
+Buchwaldt.	Krieger.<lb />
+Boisen.	Larsen (C) af Dalby.<lb />
+Christensen (B.).	Linnemann.<lb />
+Christensen (Georg) af Kjøbenhavn.	Lorck.<lb />
+Chrisiensen (H.).	Madsen.<lb />
+Christnsen (I.) af Voldum.	Paludan-Müller.<lb />
+Colding.	Møllerr af Flakkeberg.<lb />
+Dahl.	Møller (R. N.) af Draaby.<lb />
+Dinsen.	Nielsen (N H) af Løserup.<lb />
+Drewsen (M.).	Nørgaard.<lb />
+Flor.	Olesen.<lb />
+Fløe.	Ostermann.<lb />
+Frølund.	Otterstrøm.<lb />
+Gislason.	Pedersen (J) af Sæding.<lb />
+Gleerup.	Pjetursson.<lb />
+Gregersen.	Ploug.<lb />
+Grundtvig.	Rasmussen (J.).<lb />
+Gudmudsson.	Rasmussen (H.).<lb />
+Hage.	Rasmussen (M.).<lb />
+Hall.	Reé.<lb />
+Hansen (I A.).	Schack<lb />
+Hansen (P.) af Abbetved.	Schiern.<lb />
+Hasselbalch.	Schroll.<lb />
+Hermannsen.	Schytte.<lb />
+Hiort.	Sidenius.<lb />
+Hvidt.	Stender.<lb />
+Hækkerup.	Tscherning.<lb />
+Høier.	Turen.<lb />
+Jacobsen.	Ussing af Viborg.<lb />
+Jacobæus.	Westergaard.<lb />
+Jespersen (C. M.) af Viborg.	Winther.<lb />
+Jespersen (F.) af Bogense.<lb />
+</px>
+<px>
+Fraværende.<lb />
+Bagger.	Pedersen (P.) af Kjøbenhavn.<lb />
+Bruun af Assens.	Petersen (C. N.) af Hjørring.<lb />
+Buntzen.	Schlegel.<lb />
+Drewsen af Kjøbenhavn.	Brinck-Seidelin.<lb />
+Eriksen.	Sigurdsson.<lb />
+Gram.	skeel.<lb />
+Hansen (L.).	Stockfleth.<lb />
+Hunderup.	Thalbitzer<lb />
+Johannsen (F.).	Treschow.<lb />
+Køster.	With.<lb />
+Leth.	Zeuthen.<lb />
+</px>
+</leftside>
+<rightside>
+<p>
+Mødet blev derpaa hævet, efterat det næste Møde var berammet til<lb />
+den følgende Dag Kl 12, Grundlovssagens endelige Behandling<lb />
+fortsat.<lb />
+</p>
+<stitle>
+101ste offentlige Møde.<lb />
+(Det 105te Møde i den hele Række.)<lb />
+</stitle>
+<subtitle>
+Løverdagen den 21de April.<lb />
+</subtitle>
+<p>
+(Den endelige Behandling af Grundloven. § 9 a.)<lb />
+</p>
+<firstlineinfo>
+Førhandlingsprotocollen for forrige Møde blev oplæst.<lb />
+</firstlineinfo>
+<p>
+<speaker>Formanden anmeldte:</speaker><lb />
+1) En Adresse, indsendt af Rigsdagsmanden for Viborg Amts 1 ste<lb />
+District (Nørgaard), fra 35 af Jungetgaards hoverigjørende<lb />
+Bønder, hvori de yttre Ønske om, at Sagen angaaende Landboforholdenes Ordning maa fremmes saa hastigt som muligt.<lb />
+2) to Adresser, indsendte af den 7de Kongevalgte Rigsdagsmand<lb />
+(Cederfeld de Simonsen) med 55 Underskrister, om at Rigsdagsmændenes Diæter ikke maae overstige 3 Rbd.<lb />
+</p>
+<p>Efter Dagsordenen gik man dernæst over til den endelige Behandling af Grundlovsudkaktet. Efterat Formanden havde gjort opmærksom paa, at den Ansmærkning, der paa Afstemningslisten var sat<lb />
+soran § 9, om at Afstemningerne over §§ 9—14 ere betingede af,<lb />
+at det af Rigsdagsmanden for Kjøbenhavns 3die District (Ørsted)<lb />
+stillede Forslag til nye Paragraher istedetfor samme ikke senere antages, gik man først over til Discussionen om det af den samme Rigsdagsmand stillede og af Udvalget optagne Forslag (opført paa Afstemningslisten under Nr. 34) til en ny; Paragraph i Grundloven,<lb />
+§ 9 a, saalydende:<lb />
+</p>
+<p>„Saafremt Kongen, enten formedelst Bortreise eller Svaghed,<lb />
+finder, at der bør udnævnes en Rigsforstander, sammenkalder han<lb />
+Rigsdagen og forelægger den et Lovforslag herom. "<lb />
+</p>
+<p>
+<speaker>Ordføreren:</speaker> Det er forekommet Udvalget, at det Forslag,<lb />
+den ærede Rigsdagsmand for Kjøbenhavns 3die Disrict (Ørsted) har<lb />
+stillet, gjør opmærksom paa et Hul i Grundlovens Bestemmelser og<lb />
+tillige viser en passende Maade, hvorpaa dette Hul kan udsyldes,<lb />
+saa at man ikke vidste bedre end at optage denne Bestemmelse; det kan<lb />
+nemlig ikke negtes, at det er tækeligt, at Kongen kunde paa Grund<lb />
+af Bortreise eller Svaghed ønske, at der blev udnævnt en Rigsforstander, og det sees ikke at kunne skee bedre end saaledes som Forslaget<lb />
+hjemler det Fremdeles, medens Udkastet blot har tænkt sig det Tilsælde, at Kongen er ude af Stand til at regjere, og at Statsraadet<lb />
+da maatte tage Initiativet, saa kunde det unegtelig ogsaa tænkes, at<lb />
+Kongen selv følte Trang til Udnævnelsen af en Rigsforstander, og<lb />
+at han i Følelsen af sin Svaghed kunde ønske t. Ex. sin Søn udnævnt<lb />
+til; Rigsforstander, og man har da troet, at Grundloven i saa Fald<lb />
+kunde med god Grund aabne Kongen Adgang til selv at tage Initiativet, da det aabenbart, hvis det saaledes kunde lade sig gjøre, er den<lb />
+delicateste Form.<lb />
+</p>
+<p>
+Man har derfor troet, ogsaa i denne Henseende at maatte tiltræde det af den ærede Rigsdagsmand stillede Forslag, saa at denne<lb />
+Paragraph stilles i Spidsen for den hele følgende Række af Para</p>
+</rightside>
+
+
+</pb>

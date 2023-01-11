@@ -1,0 +1,127 @@
+111
+<pb n="92">
+<pagename>92</pagename>
+<h>
+<coll>111</coll>
+<colr>112</colr>
+<lb/>
+</h>
+<leftside>
+<p rend="continue">
+(Ørsted) har, som jeg forstod ham, meent, at der manglede Bestemmelse om Lovforslagenes indledende Behandling, har Comiteen ikke på dette Sted fundet et nødvendigt herom at bestemme Noget, da der i en foregående Paragraph er fastsat, at<lb/>
+Forsamlingen har at tage Bestemmelse over enhver Sags Behandling,<lb/>
+enten i en særskilt Comitee eller igjennem Afdelingerne. Ved Lovforslag sigtes iøvrigt på dette Sted til Regjeringens Lovforslag;<lb/>
+dersom der fra noget af Forsamlingens Medlemmer måtte blive<lb/>
+fremsat virkelige Lovudkast, følger det af Bestemmelsen i § 16, om<lb/>
+Andragender fra Medlemmernes Side, at Forsamlingen har at bestemme, hvorledes disse skulle behandles. De Bestemmelser, som indeholdes i § 13 om den Tid, inden hvilken Amendements måe være<lb/>
+stillede, det vil sige afleverede til Præsidenten eller Comiteen,<lb/>
+ere affattede efter nøiagtig Overveielse af Comiteen, og jeg kan ikke,<lb/>
+ved hvad der nu er anført derimod, finde mig foranlediget til deri<lb/>
+at foreslåe nogen Forandring. Det er vigtigt, at der haves bestemte<lb/>
+Forskrifter om den Tid, inden hvilken sådanne Forslag skulle være<lb/>
+indgivne, og når hensees til Vigtigheden af de Lovforslag, hvormed<lb/>
+Forsa mlingen vil komme til at beskjæftige sig, vil en Tid af 48 Timer<lb/>
+efter den første Behandlings Slutning neppe kunne ansees for lang.<lb/>
+Når det er fastsat, at det, hvis Formanden har Tvivl, om et Amendement er tilstrækkelig begrundet i Sagens foreløbige Behandling,<lb/>
+eller 15 Medlemmer forlange det, skal afgjøres af Forsamlingen, om<lb/>
+Amendementet kan stilles, da er hermed ikke meent, at Proponenten<lb/>
+ikke skulde have Ret til at udvikle, hvorsor han mener, at Forslaget<lb/>
+finder sin Begrundelse i den forudgående Behandling, og heller ikke, at<lb/>
+Præsidenten ikke skulde kunne fremsætte den begrundede Tvivl, han i<lb/>
+så Henseende har; men derimod anseer man det ikke for ønskeligt,<lb/>
+om der om disse reent formelle Spørgsmål skulde kunne opståe<lb/>
+vidtløftige Discussioner i Forsamlingen. At der, når der tales om<lb/>
+Afstemning ved hver enkelt Paragraph, også sigtes til, at de Amendements, som ere stillede til denne, samtidigen måe komme til Afstemning, er en Selvfølge, og dette har Comiteen derfor anseet ufornødent at bemærke; om derimod Amendementet skal have nogen Fortrinsret for Paragraphen selv, hører til Afstemningsmaterien og<lb/>
+må afgjøres af Præsidenten i ethvert forekommende Tilfælde.<lb/>
+</p>
+<p>
+Med Hensyn til § 15 skal jeg bemærke, at det vistnok vil være hensigtsmæssigt, at de omredigerede Lovforslag beførges trykte og omdeelte<lb/>
+til Forsamlingens Medlemmer, for således at komme til disses Kundskab<lb/>
+forinden Oplæsningen. Forøvrigt forudsættes her jo, at Omredigeringen er overeensstemmende med de stedfundne Afstemninger, og altså har Enhver i Forsamlingen det i sin Magt selv at overveie, om<lb/>
+der ved de skete Afstemninger er fremkommet sådanne Modsigelser i<lb/>
+Lovforslaget, som ved dets senere Behandling kunde foranledige Rettelser. Med Hensyn til hvad der ved dette Punkt er yttret af Rigsdagsmanden for Kjøbenhavns 3die Distrikt (Ørsted), at det ikke blot<lb/>
+skulde være Modsigelser, men også Inconseqventser, som på denne<lb/>
+Måde kunne søges afhjulpne, skal jeg dog bemærke, at man må<lb/>
+være meget varsom i denne Henseende; det kunde let føre til, at der<lb/>
+skete sådanne Forandringer ved den 3die Behandling, som ikke bør<lb/>
+finde Sted, og som vilde forrykke den sidste Afstemning. Når der<lb/>
+kræves Samtykke fra <sup>2</sup>/<sub>3</sub> af de tilstedeværende Medlemmer, for at sådanne Forandringer skulde kunne vedtages, har man formeentlig deri<lb/>
+tilstrækkelig Garanti for, at Forsamlingen ikke skal blive overrumplet<lb/>
+i denne Henseende. Det er vel bemærket, at <sup>2</sup>/<sub>3</sub> af det Antal, der er tilstrækkeligt til at udgjøre en lovlig Forsamling ifølge § 25, kan være<lb/>
+ikkun 52 Medlemmer, men det er dog ikke antageligt, at Forsamlingens<lb/>
+Medlemmer ved den her omhandlede Oplæsning, hvorved Lovforslaget<lb/>
+skal finde sin endelige Afgjørelse, ikke skulde være talrigere tilstede,<lb/>
+især når Hensyn tages til de Sagers Vigtighed, som at denne Forsamling skal afgjøres. Med Hensyn til hvad af den ærede Rigsdagsmand for Kjøbenhavns 3die Distrikt er anført i Anledning af<lb/>
+Yttringerne fra Rigsdagsmanden af Kjøbenhavns 4de Distrikt (Krieger), må jeg overlade til denne selv, hvorvidt han i denne Anledning vil yttre sig.<lb/>
+
+</p>
+</leftside>
+<rightside>
+<p>
+<speaker>Krieger:</speaker> Den ærede Ordfører vil blot tillade mig den Bemærkning, at ikke alle Udskudets Medlemmer kunne være enige i den<lb/>
+Indrømmelse, som i et enkelt Punkt blev gjort; Rigsdagsmanden for<lb/>
+Kjøbenhavns 3die Distrikt har udtalt den Formening, at der nemlig<lb/>
+ved „Lovforslag“ udelukkende skal være sigtet til Regjeringens Lovforslag. Jeg antager og, at den ærede Ordfører virkelig vil være<lb/>
+enig i, at der herved vel nærmest er sigtet til de egentlige Lovforslag<lb/>
+fra Regjeringen, men at man dog har holdt det Spørgsmål åbent,<lb/>
+om hvorvidt Forsamlingen også vilde komme til at tage private Lovforslag under Behandling, så at, dersom Forholdene måtte udvikle sig<lb/>
+således, at denne Forsamling kom til at udøve et virkeligt Lovinitiativ,<lb/>
+sådanne private Lovforslag vilde komme til at gjennemgåe de strengere Former, den bestemte, 3 Gange gjentagne, Behandling. Fuldkomment de samme Grunde, der anbefale den gjentagne Prøvelse af<lb/>
+Regjeringslovforslag, tale også for, at private Lovforslag, dersom de<lb/>
+komme frem, skulle behandles i den samme Form. Det Spørgsmål<lb/>
+derimod, om sådanne Forslag også virkeligt skulle komme frem i<lb/>
+denne Forsamling, ståer naturligviis, uanseet Forretningsordenens<lb/>
+Bestemmelse, fremdeles åbent.<lb/>
+</p>
+<p>
+<speaker>Algreen-Ussing:</speaker> Jeg har ikke udladt mig om, hvorvidt private<lb/>
+Forslag kunne fremkomme; men jeg har udtrykt, at dersom der kommer<lb/>
+private Lovforslag, vil man i § 16 have Reglen for deres Afgjørelsesmåde. Men at disse private Forslag måtte underkastes den<lb/>
+samme Behandling som de øvrige, er formeentlig nødvendigt.<lb/>
+</p>
+<p>
+<speaker>Ørsted:</speaker> Jeg skal ikke indlade mig på at imødegåe det, der<lb/>
+af flere ærede Medlemmer er anbragt mod mine forhen fremsatte specielle Bemærkninger, for ikke at spilde den ærede Forsamlings Tid;<lb/>
+kun skal jeg henstille, navnlig til Udskudets ærede Ordfører, ved den<lb/>
+endelige Redaction at tage såmeget Hensyn til disse mine Bemærkninger, som man måtte finde passende.<lb/>
+</p>
+<p>
+<speaker>Professor Larsen:</speaker> Efter den Måde, hvorpå den ærede Ordfører har forklaret Slutningen af § 13, at det ved Ordene „uden<lb/>
+Forhandling“ ikke har været Hensigten at udelukke en Motiveren af<lb/>
+Formanden eller af det Medlem, der har stillet Forslaget, skal jeg<lb/>
+ikke gjøre nogen videre Erindring ved dette Sted i Udkastet, men<lb/>
+jeg skal dog tillade mig at bemærke, at det kunde synes rigtigere, at dette udtrykkelig var bleven bestemt i Paragraphen, såmeget mere, som en anden Paragraph, § 27, i et aldeles lignende<lb/>
+Tilfælde udtrykkeligen har bestemt sådant, og en Sammenligning<lb/>
+mellem disse Paragrapher derfor kunde synes at føre til, at der ved<lb/>
+Ordene i § 13 „uden Forhandling“ var sigtet til Udelukkelse af al<lb/>
+Motivering. Jeg ønsker forøvrigt ikke at opholder Forsamlingen med<lb/>
+Erindringer i der Enkelte ved disse Paragrapher, Erindringer, som<lb/>
+også tildeels allerede ere fremførte, og som jeg må tilståe, at jeg<lb/>
+for en stor Deel finder grundede. Jeg skal derfor kun tillade mig<lb/>
+den almindelige Bemærkning, at det forekommer mig, at megen Tvivl<lb/>
+vilde være undgået, når Comiteen, istedetfor at give Regulativet<lb/>
+den almindelige Form og den store Udstrækning, som det nu har<lb/>
+fået, således at det sigter til en Behandling af alle Lovforslag<lb/>
+og private Andragender, havde nærmest indskrænket sig til at<lb/>
+give Regler for det, der dog er denne Forsamlings egentlige<lb/>
+Opgave, nemlig at behandle Grundlovsudkastet. Det forekommer<lb/>
+mig, at der burde være givet, såvidt muligt, faste, bestemte, og ikke<lb/>
+elastiske Regler for denne Behandling. Dertil kunde der da vistnok<lb/>
+være føiet passende Tillæg om Behandlingen af de enkelte Forslag<lb/>
+og private Andragender, som Forsamlingen muligen kan komme til<lb/>
+at beskjæftige sig med, uden dog at disse Regler behøvede at have en<lb/>
+så stor Udstrækning, som nu er givet dem.<lb/>
+</p>
+<p>
+Der er dog et Punkt i dette Afsnit, som jeg ikke kan undlade<lb/>
+en Bemærkning ved, nemlig ved Slutningen af § 15, hvor det hedder: „tilsidst bliver da uden nogensomhelst Forhandling det endelige<lb/>
+Lovforslag i sin Heelhed sat under Afstemning til Antagelse eller Forkastelse.“<lb/>
+</p>
+<morenext>
+(Fortsættes.)<lb/>
+</morenext>
+</rightside>
+<underpage>
+Trykt og forlagt af Kgl. Hofbogtrykker Bianco Luno.<lb/>
+</underpage>
+</pb>

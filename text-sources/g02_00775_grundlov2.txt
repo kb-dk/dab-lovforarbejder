@@ -1,0 +1,157 @@
+3023
+<pb n="775" >
+<p rend="page">775</p>
+<h>
+<coll>3023</coll>
+<colr>3024</colr><lb />
+Den endelige Behandling af Grundlovsudkastet. §§ 30—36.<lb />
+</h>
+<leftside>
+<px>
+Jespersen (F.) af Bogense.	Oxholm.<lb />
+Jespersen (N. F.).	Petersen (C.) af Davinde.<lb />
+Johansen (H. C.).	Pedersen (I.) af Sæding.<lb />
+Johannsen (F.)	Pedersen (B.) af Kjøbenhavn.<lb />
+Johansen (H.) af Knardrup	Petersen (B.) af Kjøbenhavn.<lb />
+Johnsen.	Petersen (C. N.) af Hjørring.<lb />
+Jungersen.	Ploug.<lb />
+Kayser.	Pløyen.<lb />
+Kirk.	Rasmussen (I.) af Svanninge.<lb />
+Knuth.	Rasmussen (H.).<lb />
+Krieger.	Rasmussen (M.).<lb />
+Koster.	Scavenius.<lb />
+Larsen (C.) af Dalby.	Schack.<lb />
+Linnemann.	Schiern.<lb />
+Lorck.	Schroll.<lb />
+Lüttichau.	Schurmann.<lb />
+Lützhöft.	Schytte.<lb />
+Madsen.	Sidenius.<lb />
+Mundt.	Sigurdsson.<lb />
+Mynster.	Stender.<lb />
+Møller (R. N.) af Draaby.	Thalbitzer.<lb />
+Neergaard.	Theilmann.<lb />
+Nielsen (N. H.).	Tscherning.<lb />
+Nørgaard.	Tuxen.<lb />
+Olesen.	Ussing af Viborg.<lb />
+Olrik.	Wegener.<lb />
+Ostenfeldt.	Westergaard.<lb />
+Ostermann.	Winther.<lb />
+Otterstrøm.	With.<lb />
+</px>
+<px>
+Ja.<lb />
+Bagger.	Larsen (I. E.) af Kjøbenhavn.<lb />
+Bluhme.	Paludan-Müller.<lb />
+Boisen.	Tage Müller.<lb />
+Colding.	Nyholm.<lb />
+Dahlerup.	Pape.<lb />
+David.	Rée.<lb />
+Duntzfelt.	Brinck-Seidelin.<lb />
+Flor.	Tang.<lb />
+Grundtvig.	Tobiesen.<lb />
+Hansen (H. P.).	Tvede.<lb />
+Mørk Hansen.	Algreen-Ussing.<lb />
+Hansen (N.).	Visby.<lb />
+Hastrup.	Wulff.<lb />
+von Haven.	Zeuthen.<lb />
+Sehestedt-Juel.	Ørsted.<lb />
+</px>
+<px>
+Fraværende.<lb />
+Bergmann.	Nielsen (H. C.).<lb />
+Eriksen.	Pjetursson.<lb />
+Gislason.	Ræder.<lb />
+Gram.	Schlegel.<lb />
+Jørgensen.	Skeel.<lb />
+Leth. (syg)	Stockfleth.<lb />
+Marckmann.	Treschow.<lb />
+Møller (C. C).<lb />
+</px>
+<p>
+2) Nr. 190. Udvalgets Mindretals (David, Hansen,<lb />
+Neergaard, Ussing) Forslag: Litr. a udgaaer.<lb />
+forkastedes med 100 Stemmer mod 32.<lb />
+3) Nr. 191. Ørsteds Forslag: At Litr. a affattes saaledes: ,,staaer<lb />
+i Tyendeforhold".<lb />
+</p>
+<p>
+forkastedes med 83 Stemmer mod 43.<lb />
+4) Nr. 192. Udvalgets mindretals (David, Hansen,<lb />
+Larsen, Ussing) Forslag: Ordene ,,eller har nydt" og ,,som<lb />
+ikke er eftergiven eller tilbagebetalt" udgaae.<lb />
+forkastedes med 89 Stemmer mod 35.<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+5) Nr. 193. Udvalgets Mindretals (Ussings) Forslag:<lb />
+subsidiairt: Ordene ,,enten eftergiven eller" udgaae.<lb />
+forkastedes med 81 Stemmer mod 40.<lb />
+6) Nr. 194. Ørsteds Forslag: ,,Nyder eller i det sidste Aar<lb />
+har nydt Understøttelse af Fattigvæsenet.“<lb />
+forkastedes med 69 Stemmer mod 56.<lb />
+7) Nr. 195. Udvalgets Mindretals (Hansen, Ussing)<lb />
+Forslag principalt: Litr. d udgaaer.<lb />
+forkastedes med 104 Stemmer mod 13.<lb />
+8) Nr. 196. Udvalgets Mindretals (Hansen, Larsen,<lb />
+Ussing) og Ørsteds Forslag: subsidiairt: ,,1/2 Aar" for “eet<lb />
+Aar".<lb />
+forkastedes med 87 Stemmer mod 36.<lb />
+<law n="32" >§ 32.<lb /></law>
+9) Nr. 197. Udvalgets Mindretals (David, Ussing) Forslag: ,,Valgbar til Folkethinget er enhver uberygtet, fuldmyndig<lb />
+Mand, som har Indfødsret, og hvis Bo ei er under Opbudseller<lb />
+Fallitbehandling.“<lb />
+forkastedes med 101 Stemmer mod 22.<lb />
+10) Nr. 198. Ørsteds Forslag: At 25de Aar forandres til 30te<lb />
+Aar.<lb />
+forkastedes med 91 Stemmer mod 26.<lb />
+<law n="33" >§ 33.<lb /></law>
+11) Nr. 199. W. Ussings Forslag: At denne Paragraph affattes<lb />
+som af Comiteens Majoritet indstillet med Hensyn til Paragraphens første Deel, nemlig saaledes:<lb />
+,,Valgene til Folkethinget foregaae i Valgkredse, hvis Antal<lb />
+og Omfang fastsættes ved Valgloven. Enhver Valgkreds vælger<lb />
+Een blandt dem, der have stillet sig til Valg.“<lb />
+</p>
+<p>
+forkastedes med 87 Stemmer mod 22.<lb />
+12) Nr. 200. Mundts Forslag: Istedetfor ,,14000" sættes ,,15000".<lb />
+forkastedes med 79 Stemmer mod 38.<lb />
+</p>
+<btitle>
+Til det principale Forslag.<lb />
+</btitle>
+<p>
+<law n="35" >§ 35.<lb /></law>
+13) Nr. 202 Tangs Forslag: Valgret til Landsthinget har enhver fuldmyndig og uberygtet Mand, der i Kjøbenhavn og<lb />
+paa Landet erlægger aarlig i kongelige Skatter og Communeafgifter 100 Rbd. Og derover, og i de andre Kjøbstæder<lb />
+50 Rbd.<lb />
+forkastedes med 100 Stemmer mod 12.<lb />
+14) Nr. 203. Ørsteds Forslag: At i c og d istedetfor ,,har betalt" sættes ,,har havt at betale".<lb />
+forkastedes med 85 Stemmer mod 28.<lb />
+<law n="36" >§ 36.<lb /></law>
+15) Nr. 204 Tangs Forslag: Valgbar til Landsthinget saavel<lb />
+som til Folkethinget er enhver fuldmyndig og uberygtet Mand,<lb />
+som har dansk Indfødsret.<lb />
+forkastedes med 101 Stemmer mod 7.<lb />
+16) Nr. 205. Ørsteds Forslag: At ,,40de Aar" forandres til<lb />
+,,30te Aar".<lb />
+forkastedes med 86 Stemmer mod 21.<lb />
+<law n="37" >§ 37.<lb /></law>
+17) Nr. 207 Davids Forslag: Efter Ordene ,,der ordnes ved<lb />
+Valgloven" tilføies: ,,dog saaledes, at Kjøbenhavn og Kjøbstæderne tilsammen vælge en Trediedeel af dets Medlemmer.“<lb />
+forkastedes med 83 Stemmer mod 45.<lb />
+18) Nr. 208. Ørsteds Forslag: At ,,3/4" forandres til ,,1/2".<lb />
+forkastedes med 99 Stemmer mod 15.<lb />
+19) Nr. 209. Ørsteds Forslag: At Slutningen ,,Omvalg o. s. v. “<lb />
+udgaaer.<lb />
+forkastedes med 100 Stemmer mod 10.<lb />
+</p>
+<btitle>
+Til det subsidiaire Forslag.<lb />
+</btitle>
+<p>
+<law n="§ 35, 37 og 40" />§<law n="§ 35, 37 og 40" />§ 35, 37 og 40.<lb />
+20) Nr. 210. Davids Tillæg til hans eller Køsters Forslag:<lb />
+</p>
+</rightside>
+</pb>

@@ -1,0 +1,51 @@
+3565
+<pb n="101" />
+<h>
+<coll>3565</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3566</colr>
+</h>
+<wtitle>§ 353.</wtitle>
+<p>Hvor de i de foregaaende Paragrafer giunc Bestemmelser ikke indeholde afvigende<lb />
+Forskrifter, blive de i andet Afsnit om Sagers Behandling for Landsretterne givne<lb />
+Regler at følge med de Indskrænkninger, som flyde af Forholdets Natur.</p>
+<wtitle>§ 354.</wtitle>
+<p>Naar Sagen, uden Henlyn til de ikke ved Klagestriftets Indgivelse forfaldne Renter<lb />
+Procesomkostninger eller Rettergangsboder, har en værdi af over 40 Kr., kan den paaankes<lb />
+til den Landsret, i hvis Kreds Underretten ligger.</p>
+<p>Er Sagen ikke af den angivne værdi, haves i Reglen intet Retsmiddel imod Under-<lb />
+rettens Handlinger. Dog kan Landsrettens Formand, efter et fra vedkommende Part indgivet<lb />
+skriftligt Andragende, hvormed de fornødne Oplysninger maa følge, tillade, at Sagen antages<lb />
+til Paakjendelse, naar den sijsnnes at have en almindelig Interesse eller videregaaende be«<lb />
+tydelige følger for Vedkommende.    Herom meddeles der Modparten Underretning.</p>
+<p>Naar en fra Underretten indanket Sag er paakjendt af Landsretten, kan den i Reglen<lb />
+ikke yderligere paaankes. Dog kan Hoiesterets Formand i Forbindelse med 2 af ham tiltagne<lb />
+medlemmer af Retten undtagelsesvis tillade, at Sagen indbringes for Hoiesteret, naar den<lb />
+skjønnes at have almindelig Interesse eller videregaaende betydelige følger for Vedkommende.<lb />
+Andragende herom fremsættes og behandles paa den i § 304 angivne Maade.</p>
+<wtitle>§ 355.</wtitle>
+<p>med Hensyn til Tiden for Paaankens Iværksættelse gjælde de i §§ 302—304<lb />
+givne Regler. Den i sidstnævnte Paragraf omhandlede Bestemmelse om Paaankens Tilstede-<lb />
+lighed afgives, iøvrigt i Overensstemmelse med Paragrafens Regler, af Landsrettens Formand<lb />
+i Forbindelse med 2 andre af Rettens medlemmer og er ikke Gjenstand for Paaanke.</p>
+<p>Den i § 305 Litr. d angivne Regel finder ogsaa Anvendelse paa Underretssager.</p>
+<wtitle>§ 356.</wtitle>
+<p>Paaanken iværksættes ved, at den Ankende inden den foreskrevne Frist til Landsretten<lb />
+indleverer og, efterat have faaet det tilbageleveret med paategnet Berammelse af Dagen til<lb />
+Sagens Foretagelse, for Modparten lader forkynde et Klagefkrift, der maa indeholde en An-<lb />
+givelse af Ankens Gjenstand og Hensigt og være bilagt med Udskrift af Underrettens Dom<lb />
+og det sammes Retsbog Tilfsrte, samt iøvrigt væsentlig være afsattet i Overensstemmelse med<lb />
+de i § 159 givne Regler.</p>
+<p>med Henfyn til Varselet til Modparten og dennes Forpligtelse til at meddele Sag-<lb />
+søgeren Tilfvarsstrift kom»ne tilsvarende Bestemmelser til de i §§ 161—162 indeholdte til<lb />
+Anvendelse.</p>
+<wtitle>§ 357.</wtitle>
+<p>For Sagens Behandling ved Landsretten gjælde ligeledes, med de af Bestemmelserne<lb />
+i §§ 358 og 359 flydende Lempelser, de i 2det Afsntt om Sagens Behandling ved Lands-<lb />
+retten givne Regler.</p>
+<wtitle>§ 358.</wtitle>
+<p>Naar og forsaavidt den afsagte Dom ved Paaanken eller Kontrapaaanken fsges<lb />
+forandret i Realitc,':-, finder en fuldstændig ny Bevisførelsc og Sagsudvikling Sted for<lb />
+Landsretten.</p>
+<p>Den for Underretten stedfundne Procedure og Bevisførelse er ikke bindende; dog kunne<lb />
+nye Paastande ikke fremsættes for Landsretten,  medmindre dette paa Grund af  særlige Om-</p>

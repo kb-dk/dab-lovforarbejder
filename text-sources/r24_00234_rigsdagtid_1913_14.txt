@@ -1,0 +1,65 @@
+3807
+<pb n="234">
+<h>
+<coll>
+3807
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3808
+</colr>
+</h>
+<p>
+I ethvert Tilfælde, hvor Retten ikke har paakendt et under Sagen paatalt<lb />
+borgerligt Krav, staar det den forurettede frit for at paatale dette i den borgerlige<lb />
+Retsplejes Former.
+</p>
+<lowtitle>§ 993.</lowtitle>
+<p>
+Størrelsen af den Erstatning, som tilkendes den forurettede, fastsættes af<lb />
+Retten. I Nævningesager kan dog Retten, naar hertil er særlig Grund, forelægge<lb />
+Nævningerne Spørgsmaal, saavel om Skade er bevirket ved Forbrydelsen, som om<lb />
+Erstatningens Størrelse. Ved Stemmegivningen om Erstatningens Størrelse bliver<lb />
+den Sum gældende, som har over Halvdelen af Stemmerne for sig, naar dertil med-<lb />
+tegnes de Stemmer, som ere afgivne for et højere Beløb.
+</p>
+<lowtitle>§ 994.</lowtitle>
+<p>
+I Sager, som forfølges af den forurettede, gøres borgerlige Krav gældende paa<lb />
+samme Maade som Paastanden om Straf.
+</p>
+<lowtitle>§ 995.</lowtitle>
+<p>
+Paaankes Dommen for Straffepaastandens Vedkommende, bliver ogsaa dens<lb />
+Afgørelse vedrørende de under Straffesagen paatalte borgerlige Krav at prøve af den<lb />
+overordnede Ret, for saa vidt den Afgørelse, der træffes for Straffepaastandens Ved-<lb />
+kommende, maa bestemme Afgørelsen med Hensyn til bemeldte Krav. Ellers om-<lb />
+fatter den overordnede Rets Prøvelse ikke de borgerlige Krav, medmindre disse ud-<lb />
+trykkelig ere inddragne under Anken, jvf. dog næstsidste Stykke.
+</p>
+<p>
+Ogsaa i Henseende til Anke har Paatalemyndigheden at varetage den for-<lb />
+urettedes Tarv, naar fornøden Begæring fra denne foreligger. Reglerne i § 991, 4de<lb />
+Stykke, og § 992 finde ogsaa her tilsvarende Anvendelse.
+</p>
+<p>
+Ved Paaanke, der omfatter ogsaa Bevisbedømmelsen, blive de for den under-<lb />
+ordnede Ret rejste borgerlige Krav at undergive den overordnede Rets Prøvelse, naar<lb />
+ikke baade Tiltalte og den forurettede udtrykkelig have frafaldet dette; saadanne<lb />
+Krav kunne derhos i dette Tilfælde fra nyt af inddrages under Sagen i samme Ud-<lb />
+strækning, som om Sagen var indbragt for vedkommende overordnede Ret som første<lb />
+Instans.
+</p>
+<p>
+Kære finder ikke Sted overfor Rettens Beslutninger vedrørende borgerlige Krav.
+</p>
+<lowtitle>§ 996.</lowtitle>
+<p>
+Overfor Rettens Afgørelse angaaende et ved Dommen paakendt borgerligt<lb />
+Krav staar særskilt Anke i den borgerlige Retsplejes Former saavel Tiltalte som den<lb />
+forurettede aaben, naar Afgørelsen vilde kunne paaankes efter Reglerne om den borger-<lb />
+lige Retspleje. Saadan Anke kan ikke grundes paa, at Afgørelsen er urigtig som<lb />
+Følge af en fejlagtig Bedømmelse af Beviset.
+</p>
+
+</pb>

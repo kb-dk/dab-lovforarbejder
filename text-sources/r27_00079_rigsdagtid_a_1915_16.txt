@@ -1,0 +1,71 @@
+2797
+<pb n="79" />
+<h>
+<coll>
+2797
+</coll>
+<topmidle>
+F. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2798
+</colr>
+</h>
+<p>
+Naar Retshandlinger skal foretages efter Begæring af udenlandsk Myndighed,<lb />
+forholdes der efter de derom gældende Lovbestemmelser og Traktater.
+</p>
+<wtitle>§ 335.</wtitle>
+<p>
+Udenfor det i § 330 nævnte Tilfælde skal Justitsministeren i samme Omfang<lb />
+som hidtil være berettiget til at tilstaa fri Proces, saaledes at Virkningen er den i<lb />
+§ 331, § 333 og § 334, 1ste Stykke, angivne.
+</p>
+<p>
+Fri Proces tilkommer i de i § 454 og § 457, jfr. § 466, ommeldte Sager hen-<lb />
+holdsvis Overanklageren og Øvrigheden.
+</p>
+<wtitle>§ 336.</wtitle>
+<p>
+Bestemmelserne i Lov om Sagførersalær m. m. af 24. Maj 1879 forbliver gæl-<lb />
+dende i borgerlige Sager.
+</p>
+<title>Andet Afsnit.</title>
+<title>
+Rettergangsmaaden.
+</title>
+<title>Kapitel 32.</title>
+<undertitle>
+Forberedelse af Domsforhandling i Sager, der i første Instans henhører<lb />
+nnder Landsretterne.
+</undertitle>
+<wtitle>§ 337.</wtitle>
+<p>
+Processen indledes med Stævning. I denne skal begge Parter være beteg-<lb />
+nede med Navn og Stilling og deres Bopæl eller Opholdssted være angivet, hvorhos<lb />
+den skal indeholde Sagsøgerens Paastand, en kort Fremstilling af de Kendsgerninger,<lb />
+hvorpaa Paastanden støttes, og en Angivelse af de Dokumenter, han agter at paabe-<lb />
+raabe sig, samt en Opfordring til Sagsøgte om at møde og fremkomme med sit Svar<lb />
+paa Sagens første Tægtedag (jfr. endvidere § 349).
+</p>
+<p>
+Parterne kan dog, naar de efter Overenskomst begge møder for Retten (jfr.<lb />
+§ 340), og Sagen er anmeldt for denne senest Dagen før Retsmødet, uden Stævning be-<lb />
+gære Sagen foretaget. Sagsøgeren har i saa Fald at fremlægge en skriftlig Angivelse<lb />
+af sin Paastand og af de Kendsgerninger, hvorpaa den støttes.
+</p>
+<wtitle>§ 338.</wtitle>
+<p>
+Efter at i fornødent Fald Varselet er fastsat (jfr. § 339), bliver Stævningen,<lb />
+der udtages til den Underret, under hvilken Sagens Paadømmelse vilde høre. saafremt<lb />
+Landsretsbehandling ej var anvendelig, med Angivelse af den tidligste Tid for Sagens<lb />
+første Tægtedag, at indlevere paa den nævnte Underrets Kontor til Paategning om<lb />
+Dag og Tid, da Sagen falder i Rette, hvorefter den tilbagegives Sagsøgeren til<lb />
+videre Foranstaltning.
+</p>
+<p>
+Hvis Sagen, saafremt Landsretsbehandling ej var anvendelig, skulde behandles<lb />
+ved en Underret, som har Tingsted i den Retskreds, hvor Landsretten har sit Sæde,<lb />
+i hvilken Henseende Underretten i Frederiksberg Birk skal anses at have Tingsted i<lb />
+København, bliver Stævning at udtage til Landsretten, og Sagens Forberedelse foregaar
+</p>

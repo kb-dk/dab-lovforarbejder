@@ -1,0 +1,41 @@
+15
+<pb n="21" />
+<h>
+<topmidle>Kap. VI.    Rettergangsfuldmægtige.      15</topmidle>
+</h>
+<p>Sagen, ej heller derved, at Parten er<lb />
+bleven myndig til selv at råde over Processen, men kun ved en Tilkendegivelse til<lb />
+Modparten   om Befuldmægtigelsens Ophør.</p>
+<wtitle>§ 51.</wtitle>
+<p>Retten påser på Embeds Vegne, at<lb />
+den, der møder som Rettergangsfuldmægtig<lb />
+for en Part, er befuldmægtiget hertil.</p>
+<p>Dog afkæeves der ikke på Embeds<lb />
+Vegne Sagførere Bevis for, at de ere befuldmægtigede for Parten, og, når deres<lb />
+Befuldmægtigelse benægtes af Modparten,<lb />
+kunne de forlange Udsættelse for at tilvejebringe det fornødne Bevis.</p>
+<p>Andre Rettergangsfuldmægtige end Sagførere må være i Stand til straks for<lb />
+Retten og Modparten at føre Bevis for<lb />
+Befuldmægtigelsen, da de ellers straks kunne<lb />
+<title>afvises.</title></p>
+<wtitle>§ 52.</wtitle>
+<p>Når en i øvrigt til at møde for en<lb />
+Part berettiget Person erklærer at ville<lb />
+varetage Partens Sag og forpligte sig til<lb />
+at tilvejebringe dennes Billigelse, og ingen<lb />
+Anden giver Møde for Parten, kan han,<lb />
+når sådant kan ske uden væsentlig Ulempe,<lb />
+af Retten stedes hertil enten mod eller<lb />
+uden Sikkerhedsstillelse. Den Pågældende<lb />
+har da inden næste Retsmøde eller dog<lb />
+inden en anden af Retten bestemt Frist at<lb />
+tilvejebringe Partens Godkendelse af hans<lb />
+Handlinger; i modsat Fald afvises han og<lb />
+har at tilsvare Modparten de ved Retsmøderne foranledigede Omkostninger såvel<lb />
+som muligt Tab ved Sagens Forhaling.</p>
+<wtitle>§ 53.</wtitle>
+<p>Om end en Part i øvrigt lader sin<lb />
+Sag udføre ved en Rettergangsfuldmægtig,<lb />
+er han dog ikke udelukket fra selv at ytre<lb />
+sig under den mundtlige Forhandling,<lb />
+umiddelbart efter at hans Rettergangsfuldmægtig har talt.</p>

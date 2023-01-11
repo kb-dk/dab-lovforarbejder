@@ -1,0 +1,73 @@
+2423
+<pb n="143" />
+<h>
+<coll>2423</coll>
+<topmidle>Forsl. t. L. om RetteDS Pleje.</topmidle>
+<colr>2424</colr>
+</h>
+<p>
+Undlader Rekvirenten at betale paa foranførte Maade, er Skyldneren berettiget<lb/>
+til straks at løslades, og han, kan ikke mere fængsles for samme Fordring.
+</p>
+<wtitle>§ 616.</wtitle>
+<p>
+Arrestforretninger udføres af Fogden. Ved deres Foretagelse benyttes Vidner<lb/>
+paa den Maade, som i § 471 er foreskrevet.
+</p>
+<p>
+Den i § 471, sidste Stykke, givne Forskrift er ogsaa anvendelig paa Arrest-<lb/>
+forretninger.
+</p>
+<wtitle>§ 617.</wtitle>
+<p>
+Hvilken Foged der er pligtig eller berettiget til at foretage Arrestforretninger,<lb/>
+afgøres efter de i § 472 givne Regler.
+</p>
+<wtitle>§ 618.</wtitle>
+<p>
+Den, der vil erhverve Arrest paa nogens Gods eller Person, har at indgive<lb/>
+skriftlig Begæring herom til vedkommende Foged, ledsaget af de Dokumenter og<lb/>
+øvrige Oplysninger, som ere forhaanden.
+</p>
+<p>
+I Reglen har Fogden før Forretningens Foretagelse at afkræve Rekvirenten<lb/>
+en Sikkerhedsstillelse, reel eller personlig, med Hensyn til det Erstatningsbeløb, som<lb/>
+vilde tilkomme den, hos hvem Arresten er gjort, i Tilfælde af dennes Ulovlighed;<lb/>
+kun hvor de foreliggende Oplysninger skønnes at indeholde et fuldstændigt Bevis for<lb/>
+Arrestens Lovlighed, er Sikkerhedsstillelse ufornøden, saa længe ikke Beviset svækkes<lb/>
+ved det under Forretningen oplyste. Dog bør der ikke en Gang mod Sikkerheds-<lb/>
+stillelse indrømmes Arrest, naar det ifølge det for Fogden oplyste skønnes, at For-<lb/>
+dringen er ugrundet. Alle Spørgsniaal om Sikkerhedsstillelsens Art og Størrelse afgør<lb/>
+Fogden efter sit Skøn.
+</p>
+<p>
+Søges Arrest for en af de i § 434 ommeldte Fordringer, kan der ikke af-<lb/>
+kræves Arrestrekvirenten Sikkerhedsstillelse, medmindre der fra Skyldnerens Side<lb/>
+under Arrestforretningen fremkommer saadanne Indsigelser, som kunne fremsættes<lb/>
+under den i Anledning af Fordringen anlagte Sag, jvf. Kapitel 40.
+</p>
+<wtitle>§ 619.</wtitle>
+<p>
+Arrestforretningen begynder paa Skyldnerens Bopæl eller i Mangel af en saa-<lb/>
+dan paa hans sædvanlige Opholdssted, men kan dog efter Omstændighederne, navnlig<lb/>
+naar der er Fare ved Opsættelse, eller naar Skyldneren ikke har Bopæl i Riget eller<lb/>
+staar i Begreb med. at forlade dette, begynde paa det Sted, hvor Personen eller For-<lb/>
+retningens Genstand forefindes.
+</p>
+<wtitle>§ 620.</wtitle>
+<p>
+Med Hensyn til Parternes Møde under Forretningen m. m. gælde de i § 508<lb/>
+givne Regler, dog at Møde for Rekvirenten altid er nødvendigt,
+</p>
+<wtitle>§ 621.</wtitle>
+<p>
+Arrestforretningen begynder med, at Fogden opfordrer paagældende til ved<lb/>
+Sikkerhedsstillelse eller Betaling at tilfredsstille Rekvirenten, hvorpaa han, naar dette<lb/>
+ikke straks sker, efter Afgørelse af mulige Indsigelser skrider til Arrestens Udførelse.
+</p>
+<wtitle>§ 622.</wtitle>
+<p>
+Arresten kan kun udstrækkes til saa meget af Skyldnerens Gods, som i Hen-<lb/>
+hold til den under Forretningen foretagne Vurdering behøves til at sikre Rekvirentens<lb/>
+Fordring i Forbindelse med de sandsynlige Udgifter ved Arresten og dens Forfølgning.
+</p>

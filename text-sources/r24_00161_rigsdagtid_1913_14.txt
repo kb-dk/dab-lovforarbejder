@@ -1,0 +1,68 @@
+3657
+<pb n="161">
+<h>
+<coll>
+3657
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3658
+</colr>
+</h>
+<p>
+disses  Medvirkning   efter Rettens Bestemmelse vedblive,  selv om det findes at Sagen<lb />
+burde have været foretagen uden Nævninger.
+</p>
+<p>
+En Afgørelse af Underret, hvorved en Sigtets Begæring om Sagens Paaken-<lb />
+delse ved Landsret afslaas, saavel som en Afgørelse af Landsret, hvorved Overan-<lb />
+klagerens eller Sigtedes Begæring om Sagens Paakendelse under Medvirkning af Næv-<lb />
+ninger afslaas, kan paakæres.
+</p>
+<lowtitle>§ 692.</lowtitle>
+<p>
+Til Landsrettens Virkekreds høre endvidere Afgørelser i Anledning af Paaanke<lb />
+af eller Kæremaal mod Underrettens Domme, Kendelser og Beslutninger.
+</p>
+<lowtitle>§ 693.</lowtitle>
+<p>
+Under Højesteret høre alle Afgørelser i Anledning af Paaanke af eller Kære-<lb />
+maal mod Landsrettens Domme, Kendelser og Beslutninger, derunder indbefattet<lb />
+Handlinger af det Medlem af Landsretten, hvem det maatte være overdraget at handle<lb />
+som Undersøgelsesdommer.
+</p>
+<title rend="chapter">Kapitel 63</title>
+<title rend="subtitle">Værneting og Forening af Straffesager.</title>
+<lowtitle>§ 694.</lowtitle>
+<p>
+Enkeltstaaende Retshandlinger foretages i Reglen ved Undersøgelsesretten<lb />
+(§ 686) i den Retskreds, hvor den Person, som skal afhøres, bor eller opholder sig eller<lb />
+hvor den Ting findes eller antages at være, til hvilken Retshandlingen har Hensyn.
+</p>
+<lowtitle>§ 695.</lowtitle>
+<p>
+Forundersøgelse kan begæres enten i den Retskreds, hvor Forbrydelsen er<lb />
+begaaet, eller hvor Sigtede er paagreben, eller hvor han bor eller opholder sig, eller<lb />
+hvor Oplysninger i Sagen antages bedst at kunne tilvejebringes.
+</p>
+<lowtitle>§ 696.</lowtitle>
+<p>
+Domsforhandling skal med Hensyn til alle i Kongeriget begaaede Forbrydelser<lb />
+i Reglen foregaa ved den Ret, i hvis Kreds Handlingen er foretagen. Udkræves flere<lb />
+Handlinger til Forbrydelsens Begreb, er den Ret Værneting, i hvis Kreds den sidste<lb />
+af dem er foretagen. Udgøre flere i forskellige Retskredse foretagne strafbare Hand-<lb />
+linger, som hver især vilde begrunde Værneting efter foranstaaende Regler, tilsammen<lb />
+een Forbrydelse, eller er en Forbrydelse begaaet paa Grænsen af flere Retskredse,<lb />
+eller er det uvist, i hvilken af flere bestemte Retskredse en Forbrydelse er begaaet,<lb />
+kan Forfølgning ske ved en hvilken som helst af de Retter, om hvilke der paa Grund<lb />
+af de angivne Omstændigheder opstaar Spørgsmaal.
+</p>
+<lowtitle>§ 697.</lowtitle>
+<p>
+Som Gerningsstedets Værneting ved Forbrydelser, der begaas udenfor Konge-<lb />
+rigets Søterritorium om Bord paa dansk Skib eller af Personer, som høre til saadant<lb />
+Skib, anses den Ret, til hvis Kreds Skibet ved sin Hjemkomst til Kongeriget ankom-<lb />
+mer for at losse eller lade.
+</p>
+
+</pb>

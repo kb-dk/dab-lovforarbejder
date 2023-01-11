@@ -1,0 +1,20 @@
+1475
+<pb n="1" >
+<p rend="page">1</p>
+<leftside>
+<title>Beretning Om Forhandlingerne paa Rigsdagen.<lb /></title>
+<p rend="middle">Andet Bind.<lb /></p>
+<p rend="middle">Nr. 189—492, samt Anhang.<lb /></p>
+<p rend="middle">
+Kjøbenhavn.<lb />
+Trykt og forlagt af Kongl. Hofbogtrykker Bianco Luno.<lb />
+1849<lb />
+</p>
+<p rend="middle">
+Arbejds- og socialministerirnes<lb />
+bibliotek<lb />
+</p>
+</leftside>
+
+
+</pb>

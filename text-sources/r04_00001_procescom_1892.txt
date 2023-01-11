@@ -1,0 +1,11 @@
+1
+<pb n="1" />
+<title>
+<p>Udkast</p>
+<p>til</p>
+<p>Lov om Strafferetsplejen.</p>
+<p>Udarbejdet af den ved allerhøjeste Reskript af 11. Mai 1892 nedsatte Proceskommission.</p>
+<p>Kjøbenhavu.</p>
+<p>Trykt hos J.H. Schulz</p>
+<p>1899.</p>
+</title>

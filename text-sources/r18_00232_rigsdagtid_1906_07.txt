@@ -1,0 +1,86 @@
+4103
+<pb n="232"/>
+<h>
+<coll>4103</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>4104</colr>
+</h>
+<p>
+Register
+til
+Lov om Rettens Pleje.
+</p>
+<p>
+Paragraf,
+</p>
+<p>
+Første Bog: Domsmagten m. m.
+</p>
+<p>
+Første Afsnit: Domstolenes Ordning:
+</p>
+<p>
+Kap. 1: Retterne....		1—22
+</p>
+<p>
+Kap. 2: Retsmøder		23—33
+</p>
+<p>
+Kap. 3: Retsbøger		34—42
+</p>
+<p>
+Kap. 4: Dommere, Retsskrivere, Retsvidner og Retsbude m. m. ...                  43—60<lb />
+</p>
+<p>
+Kap. 5: Tilfælde, hvor Rettens Personer skulle eller kunne vige 
+deres Sæde		61—68
+</p>
+<p>
+Andet Afsnit.  Nævningers Kaldelse:
+</p>
+<p>
+Kap. 6: Almindelige Bestemmelser 			69—73
+</p>
+<p>
+Kap. 7: Grandlister		74—78
+</p>
+<p>
+Kap. 8: Nævningekredsens Aarsliste.					79—83
+</p>
+<p>
+Kap. 9: Udtagelse af Nævninger for det enkelte Ting og for den i
+</p>
+<p>
+enkelte Sag		84—105
+</p>
+<p>
+Tredie Afsnit. Sagførere :
+</p>
+<p>
+Kap. 10: Sagføreres Beskikkelse og Adgang til at benytte Fuld-<lb />
+mægtig m. m					106—117
+</p>
+<p>
+Kap. 11: Sagføreres Rettigheder og Pligter			...	118—123
+</p>
+<p>
+Kap. 12: Ophør af Retten til Sagførervirksomhed		124—125
+</p>
+<p>
+Anden Bog: Fælles Bestemmelser for borgerlige Sager og Straffesager.
+</p>
+<p>
+Kap. 13: Almindelige Bestemmelser om Procesmaaden			126—130
+</p>
+<p>
+Kap. 14: Forkyndelser og Meddelelser		131—145
+</p>
+<p>
+Kap. 15: Vidner		146—172
+</p>
+<p>
+Kap. 16: Syn og Skøn		173—190
+</p>
+<p>
+Kap. 17: Rettens Raadslagninger og Afgørelser		191—200
+</p>

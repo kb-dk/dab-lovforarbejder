@@ -1,0 +1,71 @@
+2243
+<pb n="53" />
+<h>
+<coll>2243</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2244</colr>
+</h>
+<p>
+Tredie Bog.<lb/>
+Den borgerlige Retspleje.
+</p>
+<htitle>
+Første Afsnit.
+</htitle>
+<title>
+Almindelige Bestemmelser.
+</title>
+<title>Kapitel 20.</title>
+<undertitle>
+Retternes Virkekreds.
+</undertitle>
+<wtitle>§ 215.</wtitle>
+<p>
+Enhver borgerlig Retstrætte behandles i første Instans ved Landsret, med-<lb/>
+mindre den er henlagt til Underret eller den ved Overenskomst mellem Parterne<lb/>
+indbringes for Underret, for saa vidt dette lovligt kan ske. Om Virkekredsen for Sø-<lb/>
+og Handelsretten i København gælder denne Lovs § 9.
+</p>
+<wtitle>§ 216.</wtitle>
+<p>
+Til Underretterne henlægges:
+</p>
+<p>
+1)	Søgsmaal angaaende private Formuerettigheder, naar Genstanden for samme i<lb/>
+Penge eller Penges Værd ikke overstiger 300 Kr.
+</p>
+<p>
+2)	Sager angaaende Skatter, Afgifter og andre lignende Ydelser af offentligretlig<lb/>
+Beskaffenhed til Stat, Kommune, Embeder og andre offentlige Indretninger, naar<lb/>
+Genstanden for samme ikke overstiger 300 Kr.
+</p>
+<p>
+3)	Sager angaaende Servitutter og partielle Brugsrettigheder.
+</p>
+<p>
+4)	Sager om Veksler og visse andre Gældsbreve (§ 437, jvf. § 434).
+</p>
+<p>
+5)	Ægteskabssager (§ 439).
+</p>
+<p>
+6)	Sager angaaende Mortifikation af Gældsbreve, ved hvilke der er givet Pant i<lb/>
+fast Ejendom (§ 459), samt Mortifikation af Servitutter, Brugsrettigheder og<lb/>
+Grundbyrder (§ 468).
+</p>
+<p>
+7)	Sager angaaende Erhvervelse af Ejendomsdom.
+</p>
+<p>
+8)	Sager, hvorved Faderskabet til Børn udenfor Ægteskab søges oplyst, for at<lb/>
+Underholdsbidrag kan paalægges Faderen.
+</p>
+<p>
+9)	Sager, anlagte i Medfør af Forordningen af 28. Marts 1845 § 17 til Hæftelses-<lb/>
+breves Udslettelse.
+</p>
+<p>
+10) Sager angaaende strafbare Handlinger, der ved Lovgivningen ere henviste til<lb/>
+privat Forfølgning, jvf. § 708, for saa vidt der ikke paastaas højere Erstatning<lb/>
+end 300 Kr.
+</p>

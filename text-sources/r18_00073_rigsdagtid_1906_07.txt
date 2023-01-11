@@ -1,0 +1,75 @@
+3785
+<pb n="73"/>
+<h>
+<coll>3785</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3786</colr>
+</h>
+<wtitle>§ 320.</wtitle>
+<p>
+Møder Sagsøgte uden at rejse Indsigelse, gives efter Sagsøgerens Begæring<lb />
+Dom i Overensstemmelse med Paastanden, hvilken Dom ligeledes afsiges af den i § 316<lb />
+nævnte Underretsdommer.
+</p>
+<wtitle>§ 321.</wtitle>
+<p>
+Vil Sagsøgte bestride Sagsøgerens Paastand, maa han paa Sagens første<lb />
+Tægtedag, jfr. dog § 324, fremlægge et Svarskrift, indeholdende hans Paastand og en<lb />
+kort Fremstilling af hans Benægtelser og Indsigelser og i det hele af de Kends-<lb />
+gerninger, hvorpaa hans Forsvar grunder sig. Vil han gøre Modfordringer gældende,<lb />
+maa de Kendsgerninger anføres, hvorpaa de støttes.
+</p>
+<p>
+Sagsøgte maa i Svarskriftet fremsætte alle sine Formalitetsindsigelser, men<lb />
+kan foreløbig indskrænke sig hertil med udtrykkeligt Forbehold af Realitetsindsigelser,<lb />
+hvis ogsaa saadanne haves.
+</p>
+<p>
+Den Indsigelse, at Stævningen er urigtig forkyndt, eller at Varslet har været<lb />
+for kort, kan ikke bevirke Sagens Afvisning, men kun berettige til Udsættelse.
+</p>
+<wtitle>§ 322.</wtitle>
+<p>
+Sagsøgeren kan kræve Udsættelse for at gøre sig bekendt med Sagsøgtes<lb />
+Svarskrift og eventuelt til yderligere Skriftveksling. Retten fastsætter da en Frist, inden<lb />
+hvis Udløb Sagsøgeren skal meddele Sagsøgte sine yderligere Bemærkninger, og en<lb />
+Frist for Sagsøgte til Afgivelse af Gensvar og berammer tillige et nyt Retsmøde, i<lb />
+hvilket bemeldte Skrifter fremlægges.
+</p>
+<p>
+En fortsat Skriftveksling tilstedes kun undtagelsesvis, hvor Sagens Beskaffenhed<lb />
+skønnes at gøre den nødvendig. Retten bestemmer da ny Frister dertil samt be-<lb />
+rammer et nyt Retsmøde.
+</p>
+<p>
+Af ethvert Processkrift, som ikke inden Fremlæggelsen er meddelt Modparten,<lb />
+skal en Genpart overgives denne samtidig med Fremlæggelsen.
+</p>
+<wtitle>§ 323.</wtitle>
+<p>
+Har Sagsøgte i sit Svarskrift behandlet saavel Sagens Formalitet som dens<lb />
+Realitet, kan Sagsøgeren foreløbig indskrænke sig til at udtale sig om Formaliteten.<lb />
+Naar der har fundet en særskilt Skriftveksling Sted om Formaliteten, kan enhver af<lb />
+Parterne fordre denne paakendt, inden der skrides til Realitetens Behandling.
+</p>
+<p>
+Paakendelse af Sagens Formalitet sker i saa Tilfælde ved, at den i § 316 nævnte<lb />
+Underret efter at have optaget Sagen indsender en Udskrift af Retsprotokollen og<lb />
+Sagens Dokumenter, deriblandt de mellem Parterne vekslede Processkrifter, til Lands-<lb />
+retten, der træffer Afgørelse paa det foreliggende skriftlige Grundlag. I Tilfælde af,<lb />
+at Sagen ikke i det Hele afvises, skal Landsretten ved Formalitetskendelsens Afsigelse<lb />
+henvise Sagen til vedkommende Underret til Fortsættelse af Sagens Forberedelse til<lb />
+Domsforhandling i Realiteten.
+</p>
+<wtitle>§ 324.</wtitle>
+<p>
+Naar Omstændighederne tale derfor, kan den i § 316 omhandlede Underret<lb />
+efter Begæring tilstaa den Part Udsættelse, der ikke i rette Tid har fremlagt eller<lb />
+meddelt sine skriftlige Bemærkninger, eller tillade ham at lade det fornødne tilføre<lb />
+Retsbogen.
+</p>
+<wtitle>§ 325.</wtitle>
+<p>
+Anser en Part Modpartens Udtalelser om Sagens Sammenhæng for at lide af<lb />
+Uklarhed eller andre Mangler, som ikke efter hans Opfordring ere afhjulpne under
+</p>

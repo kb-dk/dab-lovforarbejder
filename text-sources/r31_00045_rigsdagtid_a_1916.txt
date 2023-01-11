@@ -1,0 +1,75 @@
+461
+<pb n="45" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>461</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+denne foregår i en passende Form. Sker Afhørelsen, trods Formandens Advarsel<lb />
+på utilbørlig Måde eller på en Måde, som ikke er egnet til at bringe Sandheden<lb />
+for Dagen, eller som går udenfor Sagen, kan han unddrage den pågældende Part<lb />
+Afhørelsen og selv overtage den. Skønner han, at Afhørelsens Fortsættelse ikke kan<lb />
+bidrage til Sagens Oplysning, kan han slutte den.
+</p>
+<wtitle>§ 185.</wtitle>
+<p>
+Vidners Forklaringer optegnes i borgerlige Sager i Retsbogen, således at de<lb />
+vigtigste Udtalelser gengives så vidt muligt med Vidnets egne Ord, medens uvæsentlige Bemærkninger kan udelades. Har Vidnet tidligere været afhørt, er Henvisning<lb />
+tilstrækkelig, så at kun Afvigelser eller Fuldstændiggørelser optegnes. Det Retsbogen<lb />
+tilførte bliver efter endt Afhøring at oplæse for Vidnet, og Bemærkning, om Vidnet<lb />
+godkender Forklaringen, optages i Retsbogen.
+</p>
+<p>
+Når Vidner afhøres under Domsforhandling for Landsret i Ankesager, og der<lb />
+ikke er særlig Grund til at antage, at Tilladelse til Anke til Højesteret vil blive søgt<lb />
+eller tilstået, samt ved Vidneafhøring under Domsforhandling for Højesteret, beror<lb />
+det på Retten, om og hvor meget der skal optegnes af Vidners Forklaringer. Med<lb />
+Hensyn til Oplæsning og Vedtagelse gælder Regelen i § 36.
+</p>
+<p>
+I Straffesager forholdes med Hensyn til Optegning, Oplæsning og Vedtagelse af<lb />
+Vidneforklaringer efter Bestemmelserne i Bogen om Strafferetsplejen, sammenholdte<lb />
+med § 35, 6te Stykke, og § 36.
+</p>
+<wtitle>§ 186.</wtitle>
+<p>
+I borgerlige Sager bliver Vidneforklaringer at bekræfte med Ed eller anden<lb />
+højtidelig Forsikring, jfr. § 187, når nogen af Parterne forlanger det.
+</p>
+<p>
+I Straffesager skal sådan Bekræftelse ligeledes som Regel finde Sted, såvel<lb />
+når Vidneforklaringen afgives for en Undersøgelsesret som under Domsforhandlingen,<lb />
+medmindre et for en Undersøgelsesret afhørt Vidne må antages på ny at skulle<lb />
+afhøres under Domsforhandling (Nævningesager).
+</p>
+<p>
+Afgiver et forinden Domsforhandlingen edfæstet Vidne senere Forklaring under<lb />
+Domsforhandling, skal Bekræftelse finde Sted efter de for denne givne Regler, medmindre Rettens Formand finder det tilstrækkeligt, at Afhørelsen sker i Henhold til<lb />
+den tidligere aflagte Ed.
+</p>
+<p>
+Finder Retten i noget Tilfælde, at det, hvorom Vidnet er spurgt, allerede er<lb />
+tilstrækkeligt bevist, eller at det er uden væsentlig Betydning for Sagens Afgørelse,<lb />
+hvis det er en borgerlig Sag, eller ganske uden Betydning for Tiltaltes Frifindelse<lb />
+eller Domfældelse, hvis det er en Straffesag, bortfalder Bekræftelsen.
+</p>
+<wtitle>§ 187.</wtitle>
+<p>
+I Stedet for Ed træder en efter en af Justitsministeren foreskreven Formular<lb />
+afgiven højtidelig Forsikring, når Vidnet hører til et Trossamfund, der ikke tillader<lb />
+sine Medlemmer at aflægge Ed efter nogen af de på det pågældende Tidspunkt gældende Edsformularer, eller der foreligger Erklæring fra Vidnet om, at Vidnet ifølge<lb />
+sin religiøse Tro ikke kan aflægge Ed, eller om, at Vidnet ikke har nogen religiøs<lb />
+Tro. Sådan Erklæring tages dog kun for gyldig, når den er afgivet enten før den<lb />
+Tid, da det, hvorom Vidnet spørges, skal have fundet Sted, eller mindst et År før<lb />
+Vidneførselen, og Erklæringen ikke er to År gammel. Erklæringen afgives på Rettens Kontor i den Retskreds, hvor Vidnet har sit personlige Værneting. Bevis for<lb />
+dens Afgivelse udstedes uden Betaling.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

@@ -1,0 +1,52 @@
+3721
+<pb n="179" />
+<h>
+<coll>3721</coll>
+<topmidle>Forsl. t. L. om Strafferetspleien.</topmidle>
+<colr>3722</colr>
+</h>
+<p>De Ordensstrasse, som paalægges i Henhold til denne Paragraf, medføre ingen Ind-<lb />
+simnkning i Adgangen til at drage den Skyldige til Ansvar efter Straffelovens almindelige<lb />
+Negler, hvor disse iøvrigt ere anvendelige.</p>
+<p>Politiet er forpligtet til uvcrgerlig og sieblikkelig at yde Retten Bistand til Udførelse<lb />
+af denne Paragrafs Forskrifter,</p>
+<wtitle>§ 84.</wtitle>
+<p>Angaaende alle Retshandlinger i Strafferetspleien optages Beretning i Retsbogen.<lb />
+I Retsbogen indføres forst Angivelse af:</p>
+<p>1)   Tiden og Stedet for Retsmodet;</p>
+<p>2)   de  Personers Navne,   der have  fungeret   som Dommsrc,   nævninger,   Retsfkriver og<lb />
+Retsvidner;</p>
+<p>3)   Sagens Nummer med Parternes Navne;</p>
+<p>4)   de Personers Navne, der ere tilstede som Parter eller paa disses Vegne eller til deres<lb />
+Bistand, samt Bemcrrkning om de Forholdsregler, som maatte være trufne med Henfyn<lb />
+til deres Tilkaldelse eller Udelukkelse;</p>
+<p>5)   om Retsmodet har været offentligt eller ikke.</p>
+<wtitle>§ 85.</wtitle>
+<p>Fuldstændigt optages i Retsbogen Parternes Paastande, Andragender og Indsigelser,<lb />
+forsaavidt de ikke indeholdes i Skrifter, som overleveres Netten, i hvilket Fald Henvisning er<lb />
+tilstrækkelig, Indsigelser, som fremfættes af Vidner, Syns- eller skjønsmænd, Rettens Domme,<lb />
+Kjendelser og øvrige Beslutninger og i nævningesager de til nævningerne stillede spørgs-<lb />
+maal samt Nævningernes erklæring over disse.</p>
+<p>Af de Personers Udsagn, som afhores for Undersøgelsesdommeren, skal det væsentlige<lb />
+Indhold gjengives; vigtigere Erklæringer af den Sigtede og navnlig Tilstaaelser skulle saavidt<lb />
+mulig gjengives med hans egne Ord; det Samme Mlder om Vidneforklaringer, Syns- eller<lb />
+skjønsmænds Forklaringer, som afgives for at benyttes ved Oplæsning under Hovedforhand-<lb />
+lingen, samt om Syns- eller skjønsmænds Erklæringer til Retsbogen. Tilsvarende Regler<lb />
+gjælde med Hensyn til Hovedforhandlingeu for Underretten i Sager, der ikke ere undtagne<lb />
+fra Paaanke. Af Udfagn, der afgives under Afhørelse for Landsretten, optager Retsfkriveren<lb />
+under Formandens Veiledning det Væsentligste i en særskilt Bog; ere de Paagjældende tid-<lb />
+ligere afhorte for en Ret, er dog Henvisning tilstrækkelig, og kun væsentlige Afvigelser eller<lb />
+Fuldstændiggjørelser optegnes.</p>
+<p>Nn^aaende Besigtigelser, som foretages af Undersøgelsesdommeren eller af Underretten<lb />
+i Sager, der ikke ere undtagne fra Paaanke, skal Retsbogen indeholde saa Meget, at den<lb />
+giver et fuldstændigt og tro Billede af det Besigtigede.</p>
+<p>Af Udviklinger og Foredrag til Begrundelse af Paastande, Andragender eller Ind-<lb />
+sigelser, optages Intet i Retsbogen; dog kan Formanden beslutte, at enkelte Udtalelser stulle<lb />
+optages.</p>
+<p>særlig Vemcerkning gjores i Retsbogen om, hvorledes der er gaaet tilværks med<lb />
+Hensyn til Former, som efter Loven skulle iagttages, om hvad der fremlægges i Retten, og<lb />
+hvilke Dokumenter der ere blevne oplæste.</p>
+<wtitle>§ 86.</wtitle>
+<p>Oplæsning og Vedtagelse af Tilfsrsler til Retsbogen angaaende afhorte Personers<lb />
+Udsagn sinder kun Sted ved Afhørelser for Undersozelsesdommeren og under Hovedforhand-<lb />
+lingen for Underretten i Sager, som ikke ere undtagne fra Paaanke.</p>

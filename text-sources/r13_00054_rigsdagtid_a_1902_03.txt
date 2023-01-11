@@ -1,0 +1,81 @@
+1835
+<pb n="54" />
+<h>
+<coll>
+1835
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+1836
+</colr>
+</h>
+<title>
+Andet Afsnit.
+</title>
+<undertitle>
+Midler til Sagens Oplysning.
+</undertitle>
+<title>
+Kapitel 27.
+</title>
+<title>
+Vidner.
+</title>
+<wtitle>§  267.</wtitle>
+<p>
+Enhver er pligtig til efter lovlig Opfordring at aflægge Vidnesbyrd for Retten<lb />
+om, hvad der med Hensyn til Sagen er ham bekendt, for saa vidt Loven ikke særlig<lb />
+hjemler Undtagelse herfra.
+</p>
+<wtitle>§  268.</wtitle>
+<p>
+Mod dens Ønske, som har Krav paa Hemmeligholdelse, maa Vidnesbyrd ikke<lb />
+afkræves:
+</p>
+<p>
+1)	Folkekirkens og anerkendte Trossamfunds Præster om det, som i Skrifte-<lb />
+maal eller i øvrigt i deres Egenskab af Sjælesørgere maatte være dem betroet,
+</p>
+<p>
+2)	Sagførere angaaende det, som de ved Partens Fortrolighed have erfaret i<lb />
+en borgerlig Retstrætte eller Straffesag, der har været dem betroet til Udførelse, eller<lb />
+hvori deres Raad har været søgt,
+</p>
+<p>
+3)	de ved den kgl. Fødselsstiftelse i Kjøbenhavn ansatte Embedsmænd, Be-<lb />
+tjente og Jordemødre angaaende de Kvinders Svangerskab og Barnefødsel, som for-<lb />
+løses paa Stiftelsen, medmindre det ved Vidnesbyrdet tilsigtes at oplyse, om Drab eller<lb />
+anden strafbar Handling er begaaet mod Barnet.
+</p>
+<p>
+Ej heller maa Vidnesbyrd afkræves Embeds- og Bestillingsmænd eller andre,<lb />
+som handle i offentligt Hverv, angaaende, hvad der ifølge dette er dem betroet eller<lb />
+kommet til deres Kundskab om et offentligt Anliggende og omfattes af deres Tavs-<lb />
+hedspligt, medmindre vedkommende overordnede Myndighed eller for Rigsdagsmænds<lb />
+Vedkommende det paagældende Tings Formand saavel som Regeringen samtykker i,<lb />
+at de afhøres.
+</p>
+<p>
+Retten har paa Embeds Vegne saa vidt muligt at forebygge, at Vidnesbyrd<lb />
+modtages i de Tilfælde, hvor saadant efter nærværende Paragraf ikke maa afkræves.<lb />
+Er det efter Omstændighederne klart, at en Vidneførsel vilde komme i Strid med<lb />
+ovenstaaende Regler, bør ingen Indkaldelse udstedes.
+</p>
+<wtitle>§  269.</wtitle>
+<p>
+Vidnesbyrd kan nægtes, naar Besvarelsen af et Spørgsmaal maa forudsættes<lb />
+at ville udsætte Vidnet selv, dets Ægtefælle, Forældre eller Børn for Tab af borgerlig<lb />
+Agtelse eller Velfærd. Dog kan et Vidne ikke undslaa sig for at besvare Spørgsmaal,<lb />
+om der er overgaaet det en Straffedom, uden at det senere har opnaaet Æres-<lb />
+oprejsning.
+</p>
+<p>
+Vidnesbyrd kan fremdeles nægtes om Meddelelser, som Vidnets Ægtefælle<lb />
+under Ægteskabet har gjort Vidnet.
+</p>
+<p>
+Den, hvem Ansvaret for et trykt Skrifts Indhold i Medfør af Lov 3die Januar<lb />
+1851 § 3 kan komme til at paahvile, kan nægte Vidnesbyrd angaaende Betingelserne
+</p>

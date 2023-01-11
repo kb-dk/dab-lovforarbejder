@@ -1,0 +1,91 @@
+2281
+<pb n="12" />
+<h>
+<coll>2281</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2282</colr>
+<topmidle> Tillæg B. (144).	Ordentl. Samling 1901-02. </topmidle>
+</h>
+<leftside>
+<wtitle>Til § 209.</wtitle>
+<p>Af Udvalget:</p>
+<p>239)	I næstsidste Linie rettes „, som<lb />
+af Modparten angives" til „som af Mod-<lb />
+parten angivet".</p>
+<wtitle>Til § 211.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget :</p>
+<p>240)	I sidste Linie ændres „8 Dage"<lb />
+til „en Uge".</p>
+<wtitle>Til § 215.</wtitle>
+<p>241)	I 2det Stykke ændres „8 Dage"<lb />
+til „en Uge".</p>
+<wtitle>Til § 220.</wtitle>
+<p>Af Udvalget:</p>
+<p>242)	Andet Stykkes sidste Punktum<lb />
+udgaar her og indsættes som sidste Stk.,<lb />
+saaledes affattet:</p>
+<p>„Naar Sagen i det hele eller for et<lb />
+enkelt Punkt skønnes at være tilstrækkelig<lb />
+behandlet, sluttes Forhandlingerne (jfr.<lb />
+§ 94). Sagen optages, og Dom afsiges (jfr.<lb />
+§ 109)."</p>
+<wtitle>Til § 224.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valg e t:</p>
+<p>24.3) I 1ste Stykke ændres „5 Dage"<lb />
+til „en Uge".</p>
+<p>244) I sidste Stykke ændres „Proces-<lb />
+omkostninger" til „Sagsomkostninger".</p>
+<wtitle>Til § 227.</wtitle>
+<p>Af Udvalget:</p>
+<p>245)	„8 Dage" forandres til: „en Uge"</p>
+<wtitle>Til § 243.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget :</p>
+<p>246)	I 2det Stykke ændres „Proces-<lb />
+omkostninger" til „Sagsomkostninger".</p>
+</leftside>
+<rightside>
+<wtitle>Til § 245.</wtitle>
+<p>247) Paragraffen affattes saaledes:<lb />
+„Edsdomme og Afgørelser i Henhold<lb />
+til § 107 af enkelte Spørgsmaal eller Dele<lb />
+af Sagen kunne først paaankes, naar den<lb />
+endelige Dom er afsagt,"</p>
+<wtitle>Til § 246.</wtitle>
+<p>248) I 1ste Stykke indskydes efter „und-<lb />
+tagelsesvis tilstedes" : „saavel af Højesteret<lb />
+som af Justitsministeriet", og Begyndelsen<lb />
+af næste Stykke affattes saaledes: „Den,<lb />
+der hos Retten vil søge Tilladelse til Anke<lb />
+efter Udløbet af den almindelige Ankefrist,<lb />
+maa osv.".</p>
+<p>249) Som nyt Stykke tilføjes:</p>
+<p>„Der kan ikke i samme Sag indgives<lb />
+Andragende om Tilladelse til Anke efter Ud-<lb />
+løbet af den almindelige Ankefrist baade<lb />
+til Retten og til Justitsministeriet, og den,<lb />
+der har indgivet saadant Andragende det<lb />
+ene Sted og faaet Afslag, kan ikke der-<lb />
+efter indgive Andragende det andet Sted.<lb />
+Handler nogen herimod, afvises hans An-<lb />
+dragende."</p>
+<wtitle>Til § 250.</wtitle>
+<p>Af Udvalget:</p>
+<p>250) I Stykke 3: „i hvilket Tilfælde"<lb />
+ændres til: „i hvilket sidste Tilfælde".</p>
+<wtitle>Til § 270.</wtitle>
+<p>Af Justitsministeren, tiltraadt af U d-<lb />
+valget:</p>
+<p>251) I Slutningen af 1ste Stykke tilføjes:<lb />
+„Samme Beføjelse tilkommer Justitsmini-<lb />
+steriet. Reglen i § 246, 3die Stykke, finder<lb />
+herved Anvendelse."</p>
+<wtitle>Til § 271.</wtitle>
+<p>Af Udvalget:</p>
+<p>252) 1ste Stykke affattes saaledes:</p>
+<p>..Naar der er tilvejebragt en meget<lb />
+stor Sansvnlighed for, at en af Højesteret</p>
+<p>Udvalgenes Betænkninger m. m.	144</p>
+</rightside>

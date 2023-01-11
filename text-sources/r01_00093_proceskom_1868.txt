@@ -1,0 +1,33 @@
+87
+<pb n="93" />
+<p>mesteren opfordres i så Fald til snarest mulig<lb />
+at erklære, om han andrager på Forundersøgelse.</p>
+<wtitle>§ 228.</wtitle>
+<p>Andragende om Forunderføgelse fremsættes<lb />
+skriftlig eller mundtlig til Retsbogen; det skal betegne den Person, mod hvem, og den Handling, på Grund af hvilken Undersøgelsen skal<lb />
+foretages, samt ledsages af Sagens Aktstykker<lb />
+og forhåndenværende synlige Bevismidler.</p>
+<p>Ved Andragendets Indgivelse til dømmeren er Sagen anhængiggjort.</p>
+<p>Forundersøgelsen angår kun de Handlinger og de Personer, som betegnes i Andragendet, men er iøvrigt ikke indskrænket ved dette.<lb />
+Fremkommer der i løbet af Forundersøgelsen<lb />
+grundet Mistanke mod Medskyldige eller om<lb />
+strafbare Handlinger as den Sigtede, som Andragendet ikke ommelder, eller vender Mistanken sig mod en Anden end den oprindelig Sigtede,<lb />
+skal dømmeren ved fornøden Meddelelse give<lb />
+Politimesteren Lejlighed til at fremkomme med<lb />
+sådant Andragende, som derved måtte findes<lb />
+foranlediget; uopsættelige Skridt har dømmeren dog i Henhold til § 227 at foretage<lb />
+uden at afvente Andragende.</p>
+<wtitle>§ 229.</wtitle>
+<p>Finder dømmeren, at Sagen ikke er indbragt for ret Værnething, eller at den, der<lb />
+påtaler, ej er berettiget dertil, eller at Forundersøgelse er udelukket ved Reglen i § 227,<lb />
+eller at Handlinger af den Art. som Sigtelsen angår, ikke ere Gjenstand for Straf, eller<lb />
+at Strafskylden er forældet eller Forfølgning<lb />
+af andre lignende Grunde utilstedelig, afsiger<lb />
+han Kjendelse om, at Andragendet om Forundersøgelse ikke kan tages til følge.</p>
+<wtitle>§  230.</wtitle>
+<p>Forundersøgelsens Øjemed er at tilvejebringe sådanne Oplysninger, som udfordres<lb />
+for at afgjøre, om, for hvilken Forbrydelse og<lb />
+for hvilken Ret Anklage fkal rejses. Tillige<lb />
+blive sådanne Beviser at fore, som maa ventes<lb />
+ikke at kunne blive fremførte under Hovedforhændlingen.</p>
+<p>Til at opnå de nævnte Øjemed kunne alle</p>

@@ -1,0 +1,89 @@
+434
+<pb n="18" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>434</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<title>Andet Afsnit.</title>
+<title>
+Nævningers Kaldelse.
+</title>
+<title>Kapitel 6.</title>
+<undertitle>
+Almindelige Bestemmelser.
+</undertitle>
+<wtitle>§ 68.</wtitle>
+<p>
+For hvert År, regnet fra 1. Juni til 31. Maj, vælges for hver Nævningekreds<lb />
+et Antal Personer til at udføre Nævningehvervet. Blandt disse udtages Nævningerne for det enkelte Ting ved Lodtrækning, og blandt de således udtagne atter Nævningerne<lb />
+for den enkelte Sag, ligeledes ved Lodtrækning.
+</p>
+<p>
+Ved Nævningekreds forstås den Del af en Landsretskreds, som i Henhold til<lb />
+§ 11 er henlagt til samme Landsretstingsted.
+</p>
+<wtitle>§ 69.</wtitle>
+<p>
+Til Nævning kan med de af §§ 70 og 71 følgende Undtagelser kaldes enhver<lb />
+Mand eller Kvinde, som har,Valgret til Folketinget, medmindre den pågældende på Grund<lb />
+af legemlige Mangler eller utilstrækkeligt Kendskab til det danske Sprog er ude af Stand<lb />
+til at fyldestgøre en Nævnings Pligter.
+</p>
+<wtitle>§ 70.</wtitle>
+<p>
+Udelukkede fra at være Nævninger er: Ministre, Departementschefer samt<lb />
+ligestillede Embedsmænd i Centraladministrationen, Medlemmer af Højesteret samt<lb />
+Dommere i Landsretterne og Underretterne, Formand og Næstformand i Sø- og Handelsretten, offentlige Anklagere, Overøvrigheder, Politiets Embeds- og Bestillingsmænd,<lb />
+Folkekirkens og de anerkendte Trossamfunds Gejstlige.
+</p>
+<wtitle>§ 71.</wtitle>
+<p>
+Følgende Personer kan begære sig fritagne for Nævningehvervet:
+</p>
+<p>
+1)	Rigsdagsmænd og Rigsdagens Tjenestemænd, medens Rigsdagen er samlet,
+</p>
+<p>
+2)	Tjenstgørende Militærpersoner, dog derunder ikke indbefattet de ved Bornholms<lb />
+Væbning ansatte,
+</p>
+<p>
+3)	Told- og Postvæsenets Embeds- og Bestillingsmænd, faste Brandfolk, såvel som<lb />
+de ved Jernbaner og Telegrafer samt Telefoner ansatte Personer,
+</p>
+<p>
+4)	Læger, som ikke holder Hjælpelæge, og Fødselshjælpersker,
+</p>
+<p>
+5)	Apotekere, der driver deres Næring uden Hjælp af en farmaceutisk Kandidat,
+</p>
+<p>
+6)	Lodser,
+</p>
+<p>
+7)	eksaminerede Kedelpassere ved de det offentlige Tilsyn underkastede Dampkedler,
+</p>
+<p>
+8)	de, som inden Nævningeårets Begyndelse fylder 65 År,
+</p>
+<p>
+9)	de, som på Grund af deres Helbredstilstand eller Erhvervs- eller Familieforhold<lb />
+ikke uden Fare for deres Velfærd kan opfylde Nævningepligten,
+</p>
+<p>
+10) de, som har fæstet Bopæl i en anden Nævningekreds.
+</p>
+<wtitle>§ 72.</wtitle>
+<p>
+Ingen kan kaldes til Nævning, som ikke er optaget på Grundlisten (§§ 73 ff.)<lb />
+og Nævningekredsens Årsliste (§§ 78 ff.). Efter den førstnævnte Listes endelige Berigtigelse af det i § 73 nævnte Udvalg kan ingen optages på den uden ifølge Forandring af Udvalgets Kendelse efter Anke.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

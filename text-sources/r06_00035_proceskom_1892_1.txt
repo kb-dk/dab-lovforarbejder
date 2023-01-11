@@ -1,0 +1,47 @@
+35
+<pb n="35" />
+<leftside>
+<pagename>33
+</pagename>
+<title>Femte Afsnit.</title>
+<undertitle>Sagførere.</undertitle>
+<title>Kap. IX.</title>
+<undertitle>Sagføreres Bestikkelse og Adgang til at<lb />
+benytte Fuldmægtig m.m.
+</undertitle>
+<wtitle>§ 92.
+</wtitle>
+<p>Sagførere beskikkes af Justitsministeriet.<lb />
+Beskikkelse meddeles paa Begæring Enhver<lb />
+(Mand eller Kvinde), som har Indfødsret,<lb />
+har opnaaet 25 Aars Alderen, ikke er ude<lb />
+af Raadighed over sit Bo, ifølge paalidelige<lb />
+Vidnesbyrd har ftrt en retskaffen Vandel og<lb />
+derhos opfylder de i de efterfølgende Para-grafer for de enkelte Stillinger foreskrevne Betingelser.
+</p>
+<wtitle>§ 93.
+</wtitle>
+<p>For at blive Højesteretssagfører ud-fordres, at den Paagældende har bestaaet den<lb />
+fuldstændige juridiske Eksamen med Karakteren laudabilis, samt at han enten i 3 Aar<lb />
+har været i Virksomhed som Sagfører ved<lb />
+Landsret eller Overanklager eller i lige<lb />
+Tid været i Virksomhed som Universitetslærer i Lovkyndighed eller Dommer,<lb />
+uden mod eget Ønske at være fjærnet fra<lb />
+disse Stillinger paa en saadan Maade, at<lb />
+den almindelige Pensionsret er gaaet tabt<lb />
+eller indskrænket, og endelig at han har<lb />
+bestaaet den nedenfor i § 96 omhandlede<lb />
+Prøve.
+</p>
+<wtitle>§ 94.
+</wtitle>
+<p>For at blive Sagfører ved Landsret<lb />
+udfordres, at den Paagældende har bestaaet<lb />
+den fuldstændige juridiske Eksamen, i det<lb />
+mindste med Karakteren haud iliaudadilis,<lb />
+samt at han enten i 3 Aar har været i<lb />
+Virksomhed   som   Sagfører    ved   Underret
+</p>
+<pagename>5
+</pagename>
+</leftside>

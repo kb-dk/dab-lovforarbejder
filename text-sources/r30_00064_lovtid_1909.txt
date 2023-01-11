@@ -1,0 +1,63 @@
+328
+<pb n="64" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>328</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+Når en Sag ifølge denne Paragraf overføres til en følgende Retsdag, lader<lb/>
+Rettens Formand, for at forebygge forgæves Møder, alle vedkommende så hurtigt<lb/>
+som muligt underrette derom.
+</p>
+<wtitle>§ 269.</wtitle>
+<p>
+Når et Retsmøde ophører til fastsat Klokkeslet eller ifølge Rettens Bestemmelse, fortsættes afbrudte Forhandlinger i det næste Retsmøde, medmindre Rettens<lb/>
+Formand bestemmer anderledes. Afsiges eller udsættes et berammet Retsmøde, overgå Sagerne til det næste Retsmøde, der holdes, medmindre særlig Bestemmelse træffes<lb/>
+om en anden Tid til deres Foretagelse.
+</p>
+<wtitle>§ 270.</wtitle>
+<p>
+En Sag anses for anlagt, når Forligsindkaldelse eller Stævning er indleveret til<lb/>
+Berammelse eller Sagen er anmeldt for Retten efter § 328, 2det Stykke, eller § 416,<lb/>
+3die Stykke.
+</p>
+<p>
+Ved Forkyndelsen af Stævningen eller Fremlæggelsen af den i § 328, 2det<lb/>
+Stykke, omhandlede Angivelse anses Sagen for tingfæstet; en Modfordring er at anse<lb/>
+som tingfæstet ved Fremlæggelsen eller Meddelelsen af det Svarskrift, hvori den<lb/>
+fremsættes. I det i § 416, 3die Stykke, nævnte Tilfælde er Sagen tingfæstet, når<lb/>
+den foretages i Retten.
+</p>
+<p>
+Indtil Sagsøgeren mundtlig har nedlagt sin Påstand under Domsforhandlingen,<lb/>
+står det ham frit for at hæve Sagen, dog at Sagsøgeren ikke derved kan forhindre,<lb/>
+at der gives Sagsøgte Dom for allerede tingfæstede Modfordringer. Efter det anførte<lb/>
+Tidspunkt kan Sagsøgeren derimod ikke ensidig hæve Sagen, jvf. dog § 382.
+</p>
+<wtitle>§ 271.</wtitle>
+<p>
+Sagsøgte er berettiget til at fremsætte Modfordringer, for så vidt som disse<lb/>
+enten have fælles Oprindelse med Hovedfordringen eller dog ere udjævnelige (komputable) med den. Der kan gives selvstændig Dom for Modfordringen.
+</p>
+<p>
+Under Proceduren behandles Modfordringen som en Bestanddel af Sagsøgtes<lb/>
+Forsvar. Den fremsættes og forhandles i Forbindelse med hans Indsigelser på samme<lb/>
+Måde som disse. Dog kan den Retten ved § 277 tillagte Myndighed udøves også<lb/>
+med Hensyn til Modfordringer.
+</p>
+<wtitle>§ 272.</wtitle>
+<p>
+Enhver af Parterne er pligtig bestemt og utvetydigt at angive de Kendsgerninger, på hvilke han støtter sine Påstande, såvel som bestemt og utvetydigt at erklære sig over de af Modparten anførte Kendsgerninger og de af denne til ham stillede<lb/>
+Opfordringer.
+</p>
+<p>
+Om en ikke særskilt og udtrykkeligt benægtet Kendsgerning skal anses indrømmet eller bestridt, og hvilken Virkning Undladelse af behørig at besvare en Opfordring medfører, afgør Retten efter et Skøn over Forhandlingerne i det hele.
+</p>
+<wtitle>§ 273.</wtitle>
+<p>
+Retten bør ved hensigtsmæssige Spørgsmål til Parterne søge at fjerne Uklarhed, Tvetydighed eller Ufuldstændighed i Fremstillingen af Sagen og i andre afgivne<lb/>
+Erklæringer. Om fornødent kan Retten indkalde Parterne til Besvarelse af sådanne<lb/>
+Spørgsmål.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

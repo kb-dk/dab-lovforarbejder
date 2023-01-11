@@ -1,0 +1,37 @@
+113
+<pb n="119" />
+<p>dem afhøre påny, når dertil findes Anledning, sir. § 144.</p>
+<p>Formanden kan på Begjæring af en Part<lb />
+eller i Embeds medfør bestemme, at et Vidne<lb />
+midlertidig skal forlade Retssalen, når en<lb />
+uforbeholden Forklaring af et andet Vidne ellers<lb />
+ikke kan ventes.</p>
+<p>Vidnerne samt Syns- eller Skjønsmænd<lb />
+må ikke forelægge den Sigtede eller hverandre Spørgsmål, men de kunne andrage på,<lb />
+at de selv eller et andet Vidne eller den Sigtede yderligere afhøres om angivne Punkter i<lb />
+det Øjemed at fuldstændiggjøre eller berigtige<lb />
+forudgående Udsagn.</p>
+<p>Syns- eller Skjønsmænd kunne i Henhold til § 157 2det Stykke også under<lb />
+Hovedforhandlingen fordre Spørgsmål forelagte den Sigtede eller Vidner angående<lb />
+Punkter, som ere af Vigtighed for deres Svar.</p>
+<wtitle>§ 298.</wtitle>
+<p>Dokumenter, der påståes at være tagne<lb />
+eller frembragte ved Forbrydelsen eller at have<lb />
+været brugte eller bestemte til dens Udførelse,<lb />
+eller som yde umiddelbar Oplysning om Gjerningen eller den Sigtedes Forhold til denne,<lb />
+blive at oplæse, når Bevisførelsen kræver det.</p>
+<p>Dokumenter og Aktstykker, som indeholde<lb />
+Erklæringer eller Vidnesbyrd, må ordentligvis<lb />
+ikke benyttes som Bevismidler. Herfra undtages:</p>
+<p>1)  Tilførsler   i   Retsbøger   om   Ransagninger,   Beslaglæggelser,   Besigtigelser,   Syns- eller   Skønsforretninger,    foretagne    udenfor<lb />
+Hovedforhandlingen;</p>
+<p>2)   Erklæringer    til    Retten   afgivne    af<lb />
+Syns- eller Skjønsmænd;</p>
+<p>3)   tilførfler til Retsbøger  om de af den<lb />
+Sigtede   under afhørelsm om   Sigtelsen   afgivne Erklæringer, når den Sigtede enten nu<lb />
+vægrer sig ved at svare, eller den nu afgivne<lb />
+Forklaring afviger fra den tidligere;</p>
+<p>4)  Tilførsler til Retsbøger angående   de<lb />
+af Vidner,   Syns-   eller   Skjønsmænd  under<lb />
+afhørelse afgivne Forklaringer, når disse Personer enten ere døde   eller   af  anden  Grund<lb />
+ikke kunne afhøres påny, eller deres Fremstilling for Retten ikke finder Sted   af   de i   §</p>

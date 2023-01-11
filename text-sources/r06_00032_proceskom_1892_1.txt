@@ -1,0 +1,54 @@
+32
+<pb n="32" />
+<rightside>
+<pagename>30
+</pagename>
+<wtitle>§ 82.
+</wtitle>
+<p>Udøvelse af Sagførervirksolnhed er<lb />
+uforenelig med Stillingen som Rigsanklager<lb />
+eller Overanklager. Dog skal den Anklager,<lb />
+der har Bestikkelse som Sagfører, med sine<lb />
+Foresattes Tilladelse kunne overtage Udførelsen af enkelte borgerlige Retssager.
+</p>
+<p>Virksomhed som Sagfører udelukker<lb />
+ikke fra Bestikkelse som Anklager ved Underretten, ej heller fra Bemyndigelse til ellers<lb />
+at optræde som Anklager i en enkelt Sag.
+</p>
+<wtitle>§ 83.
+</wtitle>
+<p>De offentlige Anklagere ere Justitsministeren underordnede og staa med Hensyn til deres Hvervs Udførelse under dennes<lb />
+Tilsyn.
+</p>
+<wtitle>§ 84.
+</wtitle>
+<p>Anklagere ved Underretterne samt de<lb />
+Mænd, der bemyndiges til at optræde som<lb />
+Anklagere i en enkelt Sag, erholde Vederlag<lb />
+af det Offentlige for den enkelte Sag. Retten<lb />
+fastsætter i Dommen eller, hvis Sagen afsluttes uden Dom, ved Kendelse Vederlaget<lb />
+efter Arbejdets Betydning og Omfang.
+</p>
+<title>Fjerde Afsnit.
+</title>
+<undertitle>Politimyndigheden.</undertitle>
+<title>Kap. VIII.</title>
+<wtitle>§ 85.
+</wtitle>
+<p>Med Henfyn til Politiets Ordning<lb />
+og Virksomhed i Kjøbenhavn forbliver det<lb />
+indtil videre ved de nugældende Bestemmelser.<lb />
+Embedet som Vicepolitidirektør i Kjøbenhavn<lb />
+opretholdes.
+</p>
+<wtitle>§ 86.
+</wtitle>
+<p>I øvrigt deles Riget i Politikredse,<lb />
+der hver for sig forestaas af en Politimester.
+</p>
+<p>Enhver Underretskreds udenfor Kjøbenhavn udgør een Politikreds, naar ikke<lb />
+andet særlig er bestemt.
+</p>
+<p>Politimestrene, der beskikkes af Kongen,
+</p>
+</rightside>

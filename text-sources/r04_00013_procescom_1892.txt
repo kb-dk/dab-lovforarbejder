@@ -1,0 +1,43 @@
+13
+<pb n="13" />
+<h>Kap. II.   Retternes Virkekreds.           5</h>
+<p>ser og Beslutninger, derunder indbefattet<lb />
+Handlinger af det Medlem af Landsretten,<lb />
+hvem det måtte være overdraget at handle<lb />
+som  Undersøgelsesdommer.</p>
+<title>Kapitel III.</title>
+<undertitle>Tilfælde, hvor Rettens Personer skulle eller<lb />
+kunne vige deres sæde.</undertitle>
+<wtitle>§ 12.</wtitle>
+<p>Ingen må medvirke som Dommer<lb />
+eller nævning i en Straffesag, naar han</p>
+<p>1) selv er Part i Sagen eller er forurettet<lb />
+ved Forbrydelsen eller er interesseret i Sagens<lb />
+Udfald,</p>
+<p>2)   er   beslægtet   eller   besvogret   med<lb />
+Sigtede   i op- eller  nedstigende  Linie eller<lb />
+i Sidelinien så nær som Søskendebørn, eller<lb />
+er   Sigtedes   ægtefælle.   værge,   Kurator,<lb />
+Adoptiv-   eller   Plejefader,   Adoptiv-    eller<lb />
+plejeson,</p>
+<p>3)  er beslægtet  eller  besvogret   i  op- eller   nedstigende   Linie   eller   beslægtet   i<lb />
+Sidelinien så nær som søskende med den<lb />
+Forurettede, den i Sagen optrædende offentlige Anklager   eller Politiembedsmand, eller<lb />
+den Forurettedes Rettergangsfuldmægtig eller<lb />
+Sigtedes Forsvarer,</p>
+<p>4)  eller  har  aflagt   Vidnesbyrd  eller<lb />
+været Syns- eller Skønsmand i Sagen eller<lb />
+handlet    i    den    som   offentlig    Anklager,<lb />
+Politiembedsmand,     Rettergangsfuldmægtig<lb />
+for den Forurettede eller som Forsvarer;</p>
+<p>5)  et heller naar nævningen har handlet<lb />
+som Dommer i Sagen, eller naar Dommeren<lb />
+har handlet som Dommer eller nævning i<lb />
+Sagen ved den underordnede Instans.</p>
+<p>Den Omstændighed, at Dommeren, fordi<lb />
+flere Embedsvirksomheder ere forenede i hans<lb />
+Person, tidligere af den Grund har haft<lb />
+med Sagen at gøre, medfører ikke Inhabilitet,<lb />
+naar der ikke efter de foreliggende Omstændigheder er Grund til at antage, at han<lb />
+har nogen særegen Interesse i Sagens<lb />
+Udfald.</p>

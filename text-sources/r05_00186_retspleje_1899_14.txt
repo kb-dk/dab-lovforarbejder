@@ -1,0 +1,41 @@
+180
+<pb n="186" />
+<h>
+<topmidle>180        Kap. XL.    Arrest.</topmidle>
+</h>
+<p>Arresten bortfalder først, når Ankefristen for den Dom, hvorved den kendes<lb />
+ugyldig, er udløbet, uden at Anke er iværksat, medmindre andet er bestemt i Dommen.</p>
+<wtitle>§ 486.</wtitle>
+<p>Forsømmer Arrestrekvirenten den ham<lb />
+i Følge det Foregående påhvilende Forpligtelse til inden den i § 481 ommeldte<lb />
+Frist at anlægge Arrestsag eller at anlægge Sag i Anledning af Fordringen, eller<lb />
+afvises eller hæves nogen af disse Sager,<lb />
+kan Arresten fordres ophævet, dog uden at<lb />
+Arrestrekvirenten af denne Grund er udelukket fra igen at gøre Arrest for den samme<lb />
+Fordring.</p>
+<wtitle>§ 487.</wtitle>
+<p>En pålagt Arrest kan i det Hele eller<lb />
+for en Del ophæves af Fogden på Grund<lb />
+af Omstændigheder, som ere indtrufne efter<lb />
+Arrestens Foretagelse. På Grund af formelle Feil ved Forfølgningssagen kan Arresten<lb />
+kun fordres Ophævet i Medfør af § 486.</p>
+<p>Forinden Arresten ophæves, skal Fogden<lb />
+såvidt muligt give Arrestrekvirenten Lejlighed til at ytre sig, medmindre Grunden til<lb />
+Ophævelsen er Udeblivelse med de anordnede<lb />
+Underholds- og Varetægtspenge.</p>
+<p>Imod Fogdens Kendelse kan der, hvad<lb />
+enten den går ud på at ophæve Arresten<lb />
+eller nægte dens Ophævelse, iværksættes<lb />
+Anke eller Kære i Overensstemmelse med<lb />
+Reglerne om Anke eller Kære imod de til<lb />
+Dommes Fuldbyrdelse sigtende Fogedforretninger, jfr. navnlig §§ 439 ff.</p>
+<p>Fogdens Ophævelsesdekret kan ikke<lb />
+hindres fra at træde i Virksomhed ved Anvendelse af Anke eller Kære.</p>
+<wtitle>§ 488.</wtitle>
+<p>Befindes en Arrest i det Hele ulovlig,<lb />
+enten fordi den Fordring, for hvilken den<lb />
+er iværksat, ikke ved endelig Dom befindes<lb />
+grundet hverken i det Hele eller for en Del,<lb />
+eller fordi Arresten selv, bortset fra Fordringens Rigtighed, lider af Mangler, som<lb />
+medføre dens Ugyldighed, og som kunde have<lb />
+været   undgåede   af  Arrestrekvirenten ved</p>

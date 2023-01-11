@@ -1,0 +1,72 @@
+60
+<pb n="63" />
+<leftside>
+<p>en heldig Udvikling af Sagførervæsenet. Indførelsen af en sådan Institution, der har<lb />
+Forbilleder i mange fremmede Lande og i<lb />
+disse anerkjendes for et virksomt Middel til<lb />
+at hæve Advokaturen, ligger det såmeget<lb />
+nærmere at sætte i Forbindelse med Overgangen til den mundtlige Proces, som denne<lb />
+ifølge fin Natur i høj Grad vil forøge<lb />
+Sagførerinstitutionens Betydning for Retsplejen<lb />
+og samtidig fremkalde de ydre Betingelser, hvor-under den nye Institution naturligst kan udvikle sig.</p>
+<p>Forinden der gåes over til Begrundelsen<lb />
+af de enkelte Afsnit og Bestemmelser i Udkastet, skal endnu Kun fremhæves, at dette ikke<lb />
+giver og ikke har kunnet give et i alle Enkeltheder udført Billede af den nye Retsorga-<lb />
+nisation. Dels har selvfølgelig den nærmere<lb />
+Udførelse as flere Bestemmelser måttet forbeholdes administrativ Ordning, dels har Kommissionen med Hensyn til enkelte spørgsmål,<lb />
+hvis Afgjørelse iøvrigt forudsættes at måtte<lb />
+ske ad Lovgivningsvejen, ikke fundet sig foranlediget til at stille bestemte førstag, fordi man<lb />
+efter de særegne Hensyn, der herved måtte<lb />
+blive at tage i Betragtning, har anset det for<lb />
+naturligst, at Initiativet til disse Forholds<lb />
+Ordning udgår fra Regjeringen. En Fuldstændiggjørelse af Udkastet i de omhandlede<lb />
+Henseender vil derfor være nødvendig, for at<lb />
+den nye Ordning kan træde i Virksomhed.</p>
+<p>Hvad angår Udkastets System, handle de<lb />
+to første Afsnit om Domsmagtens Organisation, første Afsnit om Domstolenes Ordning,<lb />
+andet Afsnit om Nævningernes Kaldelse.<lb />
+Derefter følger i tredie og fjerde Afsnit Fremstillingen af den offentlige Anklagemyndigheds<lb />
+og Politimyndighedens Ordning. Femte Afsnit indeholder Bestemmelserne om Sagførervæsenet. Endelig gives der i sjette Afsnit<lb />
+Forskrifter om Lovens Træden i Kraft samt<lb />
+de fornødne Overgangsbestemmelser.</p>
+<title>Forste Afsnit.</title>
+<undertitle>Qm Domstolenes Ordning.</undertitle>
+<p>Forinden Bestemmelserne i de enkelte Kapitler udvikles, stal en Oversigt gives over Hovedtrækkene i den foreslåede Ordning af Domstolene.</p>
+</leftside>
+<rightside>
+<p>De nuværende Retter i 1ste Instants<lb />
+såvel, i som udenfor Kjøbenhavn bortfalde.<lb />
+Hele Riget inddeles i 6 Landsret skred fe,<lb />
+hver med sin kollegialt besætte Net (Landsret), nemlig:</p>
+<p>1.    Den nordsjællandske Landsret for Staden<lb />
+Kjøbenhavn  og Kjøbenhavns, Frederiksborg,   Holbæk   samt   Bornholms Amter<lb />
+med Sæde i Kjøbenhavn.</p>
+<p>2.    Den sydsjællandske  Landsret   for Sorø,<lb />
+Præstø og Maribo Amter med Sæde i<lb />
+Vordingborg.</p>
+<p>3.    Den   fyenske Landsret   for  Fyens Stift<lb />
+med Sæde i Odense.</p>
+<p>4.    Den  nordjydske   Landsret   for   Ålborg,<lb />
+Hjørring og Randers Amter med Sæde i Ålborg.</p>
+<p>5.    Den mellemjydske Landsret  for Viborg,<lb />
+Thisted og Ringkjøbing Amter med Sæde i Viborg.</p>
+<p>6.    Den  sydjydske Landsret for  Vejle, Århus og Ribe Amter med Sæde i Vejle.</p>
+<p>Landsretterne påkjende som 1ste Instants<lb />
+(i Strafferetsplejen tildels under Medvirkning<lb />
+af Rævninger) alle Domssager, som ikke undtagelsesvis ere henlagte til Underretterne eller<lb />
+særlige Retter. Under Landsretternes Domsmyndighed er fremdeles indbefattet Påkjendelse i 2den og ordentligvis sidste Instants<lb />
+af de til Underretterne henlagte Domssager<lb />
+og øvrige judicielle Forretninger, førsåvidt<lb />
+Retsmidler kunne anvendes i Sagen. Endelig kan Foretagelse af Forundersøgelse og andre<lb />
+akcessoriske Retshandlinger i Straffesager, hvis<lb />
+Påkjendelse horer under Landsretten, undtagelsesvis overdrages til et Medlem af denne.<lb />
+— Landsretterne bestå med Undtagelse af<lb />
+den nordsjællandske, som tæller 16 Medlemmer,<lb />
+hver af en Formand og 8 andre Medlemmer<lb />
+foruden det fornødne Skriverpersonale. Doms<lb />
+Afsigelse ved Landsretterne udkræver i Almindelighed 5 Dommere. Til Sagernes Behandling består der ved hver Landsret<lb />
+foruden Hovedafdelingen en særlig Afdeling<lb />
+(ved den nørdsjællandske Landsret to særlige<lb />
+Afdelinger), under hvilken de Sager, som ind-bringes for Retten i Henhold til Lov om<lb />
+Strafferetsplejen,  ere  henlagte.      De  særlige</p>
+</rightside>

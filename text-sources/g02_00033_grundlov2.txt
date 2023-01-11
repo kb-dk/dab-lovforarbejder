@@ -1,0 +1,105 @@
+1539
+<pb n="33" >
+<p rend="page">33</p>
+<h>
+<coll>1539</coll>
+<colr>1540</colr><lb />
+</h>
+<leftside>
+<btitle>
+A. Grundlovsudkastet.<lb />
+</btitle>
+<p>
+<law n="23" >§ 23.<lb /></law>
+Kongen sammenkalder Rigsdagen senest til<lb />
+den 1 ste Mandag i October Maaned hvert Aar.<lb />
+Uden Kongens Samtykke kan den ikke forblive<lb />
+længere sammen end 2 Maaneder.<lb />
+</p>
+<p>
+Forandringer i disse Bestemmelser kunne<lb />
+skee ved Lov.<lb />
+<law n="24" >§ 24.<lb /></law>
+Kongen kan indkalde Rigsdagen til overordentlige Sammenkomster, hvis Varighed beroer paa hans Bestemmelse.<lb />
+<law n="25" >§ 25.<lb /></law>
+Kongen kan hæve Rigsdagens ordentlige<lb />
+Sammenkomst, dog uden Rigsdagens Samtykke<lb />
+ikke længere end paa 2 Maaneder og ikke mere<lb />
+end een Gang i Aaret indtil dens næste ordentlige Sammenkomst.<lb />
+<law n="26" >§ 26.<lb /></law>
+Kongen kan opløse enten hele Rigsdagen<lb />
+eller en af dens Afdelinger; opløses kun eet af<lb />
+Thingene, skal det andet hæves, indtil hele<lb />
+Rigsdagen atter kan samles. Dette skal skee<lb />
+inden 2 Maaneders Forløb efter Opløsningen.<lb />
+<law n="27" >§ 27.<lb /></law>
+Kongen er berettiget til for Rigsdagen at<lb />
+lade fremsætte Forslag til Love og andre Beslutninger.<lb />
+<law n="28" >§ 28.<lb /></law>
+Naar Kongen har givet sit Samtykke til<lb />
+en Lov, befaler han dens Vekjendtgjørelse og<lb />
+drager Omsorg for dens Fuldbyrdelse.<lb />
+<law n="29" >§ 29.<lb /></law>
+Kongen kan benaade og give Amnesti; Ministrene kan han kun med Folkethingets Samtykke benaade for de dem af Rigsretten idømte<lb />
+Straffe.<lb />
+</p>
+<btitle>
+B. Comiteens (Mojoritets) Indstilling.<lb />
+</btitle>
+<p>
+<law n="23" >§ 23.<lb /></law>
+Kongen sammenkalder en ordentlig Rigsdag<lb />
+hvert Aar. Uden Kongens Samtykke kan den<lb />
+ikke forblive længere sammen end 2 Maaneder.<lb />
+</p>
+<p>
+Forandringer i disse Bestemmelser kunne<lb />
+skee ved Lov.<lb />
+<law n="24" >§ 24.<lb /></law>
+Som Udkastet.<lb />
+<law n="25" >§ 25.<lb /></law>
+Kongen kan udsætte den ordentlige Rigsdags Møder paa bestemt Tid, dog uden Rigsdagens Samtykke ikke længere end paa 2 Maaneder og ikke mere end een Gang i Aaret indtil dens næste ordentlige Sammenkomst.<lb />
+<law n="26" >§ 26.<lb /></law>
+Kongen kan opløse enten hele Rigsdagen<lb />
+eller en af dens Afdelinger; opløses kun eet<lb />
+af Thingene, skal det andet Things Møder udsættes, indtil hele Rigsdagen atter kan samles.<lb />
+Dette skal skee inden 2 Maaneders Forløb efter<lb />
+Opløsningen.<lb />
+<law n="27" >§ 27.<lb /></law>
+Kongen kan for Rigsdagen lade fremsætte<lb />
+Forslag til Love og andre Beslutninger.<lb />
+<law n="28" >§ 28.<lb /></law>
+Kongens Samtykke udfordres til at give<lb />
+en Rigsdagsbeslutning Lovskraft. Kongen befaler Lovens Bekjendtgjørelse og drager Omsorg for dens Fuldbyrdelse; han kan da ikke<lb />
+undtage Nogen fra dens Bus, medmindre<lb />
+dette har Hjemmel i Loven selv.<lb />
+<law n="28 b" />§ 28 b.<lb />
+I særdeles paatrængende Tilfælde kan Kongen, naar Rigsdagen ikke er samlet, udstede<lb />
+foreløbige Love, der dog ikke maae stride mod<lb />
+Grundloven og altid bør forelægges den følgende Rigsdag.<lb />
+<law n="29" >§ 29.<lb /></law>
+Som Udkastet.<lb />
+<law n="29 b" />§ 29 b.<lb />
+Kongen har Ret til at lade slaae Mynt i<lb />
+Henhold til Loven.<lb />
+</p>
+</leftside>
+<rightside>
+<btitle>
+C. Minoritetsindstillingerne.<lb />
+</btitle>
+<p>
+<law n="23" >§ 23.<lb /></law>
+a) Kongen sammenkalder en ordentlig Rigsdag hvert andet Aar. Uden Kongens Samtykke kan den ikke forblive længere sammen<lb />
+end 2 Maaneder. (Slutningsbestemmelsen bortfalder.)<lb />
+</p>
+<p>
+b) Sidste Punktum: „Forandringer o. s. v."<lb />
+udgaaer.<lb />
+<law n="26" >§ 26.<lb /></law>
+Efter „atter kan samles" forandres sidste<lb />
+Punktum saaledes: Opløsningsbrevet anordner<lb />
+nye Valg i Løbet af 40 Dage og sammenkalder Rigsdagen inden 2 Maaneder efter Opløsningen.<lb />
+</p>
+</rightside>
+</pb>

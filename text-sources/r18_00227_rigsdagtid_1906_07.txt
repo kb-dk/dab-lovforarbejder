@@ -1,0 +1,27 @@
+4093
+<pb n="227"/>
+<h>
+<coll>4093</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>4094</colr>
+</h>
+<htitle>
+Tiende Afsnit.
+</htitle>
+<title>Kapitel 89</title>
+<undertitle>
+Særlige Bestemmelser om nogle Forhør m. m.
+</undertitle>
+<wtitle>§ 978.</wtitle>
+<p>
+Med Hensyn til Søforhør har det sit Forblivende ved de hidtil gældende Regler.<lb />
+Ligeledes kan Optagelse af Forhør ved Undersøgelsesret finde Sted i samme Omfang<lb />
+som hidtil dels angaaende stedfundne Ildebrande, Ulykkestilfælde, dødfundne Personer<lb />
+o. desl.. dels efter Begæring af Myndigheder til Oplysning om trængendes Forsørgelses-<lb />
+hjem og Undersøgelse af personlige Forhold af retlig Betydning.
+</p>
+<p>
+For saa vidt der udenfor Strafferetsplejen er Hjemmel for Anvendelse af saa-<lb />
+danne Forholdsregler, som de i 4de Bog, 2det Afsnit omhandlede, for andre offent-<lb />
+lige Formaals Skyld, berøres de derom gældende Regler ikke af denne Lov.
+</p>

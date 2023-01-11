@@ -1,0 +1,80 @@
+268
+<pb n="4" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>268</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+Ved Sø- og Handelsretten indrettes et af Formanden ledet Skriverkontor, hvor-<lb/>
+ved ansættes en Justitssekretær samt to Fuldmægtige foruden det øvrige fornødne<lb/>
+Kontorpersonale.
+</p>
+<wtitle>§ 11.</wtitle>
+<p>
+Domsbehandling af Sager, i hvilke Nævninger skulle medvirke, foregår dels<lb/>
+på det Sted, hvor Landsretten har sit Sæde, dels på andre ved kongelig Anordning<lb/>
+dertil fastsatte Steder i Landsretskredsen. I Anordningen bestemmes, hvilke Dele af<lb/>
+Landsretskredsen der skal henlægges til hvert af disse Tingsteder.
+</p>
+<p>
+Når der i andre Landsretssager i første Instans er truffet Bestemmelse om,<lb/>
+at umiddelbar Bevisførelse undtagelsesvis skal finde Sted (§§ 351,360 og 900), kan Lands-<lb/>
+retten, når det for sådan Bevisførelses Skyld findes formålstjenligt, bestemme, at<lb/>
+Domsforhandlingen helt eller delvis skal foregå udenfor Rettens Sæde. Sager, i hvilke<lb/>
+sådan Bestemmelse er truffen, kunne henvises til Behandling og Påkendelse på<lb/>
+de Ting, der i Henhold til Reglen i denne Paragrafs 1ste Stykke afholdes udenfor<lb/>
+Landsrettens Sæde.
+</p>
+<wtitle>§ 12.</wtitle>
+<p>
+Landsretskredsene inddeles i Underretskredse. Disses Tal og Område forblive<lb/>
+som hidtil. Forandring i Området kan ske ved kongelig Anordning.
+</p>
+<wtitle>§ 13.</wtitle>
+<p>
+Underrettens Virkekreds omfatter Behandling og Påkendelse af Retssager og<lb/>
+Foretagelse af Retshandlinger i det Omfang, som bestemmes ved Reglerne i denne Lov.
+</p>
+<wtitle>§ 14.</wtitle>
+<p>
+Til Underretternes Virkekreds henhører fremdeles udenfor den egentlige<lb/>
+Retspleje:
+</p>
+<p>
+a.	Tinglæsningsvæsenet;
+</p>
+<p>
+b.	de Retsbetjentene ved Lov af 23. Januar 1862 angående Tiendevederlagets Be-<lb/>
+rigtigelse påhvilende Forretninger;
+</p>
+<p>
+c.	Udmeldelse af Syns- og Skønsmænd udenfor Retsplejen, for så vidt den<lb/>
+ikke kan ske af Øvrigheden, jvf. § 204;<lb/>
+samt udenfor Københavns Byrets Område:
+</p>
+<p>
+d.	Notarialforretninger.
+</p>
+<p>
+Notarialvæsenets Ordning i København fastsættes ved særlig Lov.
+</p>
+<wtitle>§ 15.</wtitle>
+<p>
+Københavns Byret, som udgør Underret for København, består af en For-<lb/>
+mand og 20 andre Dommere. Af disse ere to Fogder og to Skifteforvaltere. By-<lb/>
+retten deles i 16 Afdelinger, som hver beklædes af en enkelt Dommer, der behandler<lb/>
+og påkender de til Afdelingen henlagte Sager. Almindelige Regler om Forretningernes<lb/>
+Fordeling mellem Afdelingerne fastsættes af Rettens Formand med Justitsministerens<lb/>
+Billigelse. Indenfor de herved dragne Grænser foretages Fordelingen af Formanden,<lb/>
+der tillige efter Forhandling med Rettens øvrige Medlemmer fordeler Afdelingerne<lb/>
+mellem disse. Når det gøres fornødent, kan Formanden overdrage til et Medlem af<lb/>
+Retten midlertidig eller i enkelte Sager tillige at udføre Forretninger i en anden<lb/>
+Afdeling end den ham tildelte.
+</p>
+<wtitle>§ 16.</wtitle>
+<p>
+Til Københavns Byret hører et Skriverkontor samt et Pante- og Brev-<lb/>
+skriverkontor.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

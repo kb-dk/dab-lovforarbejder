@@ -1,0 +1,135 @@
+99
+<pb n="86">
+<pagename>86</pagename>
+<h>
+<coll>99</coll>
+<colr>100</colr>
+<lb/>
+</h>
+<leftside>
+<p rend="continue">
+angående Udvælgelsesmåden, når Comiteemedkemmernes Tal skal<lb/>
+overstige 5. Det forekommer mig, at den friere Udvexling af Anskuelserne er vigtigere, og man bør vistnok finde sig i den mindre gode Side herved, at Udvalgene komme til at består af et større<lb/>
+Antal Medlemmer. Tager man f. Ex. Afdelinger på 15 eller 20,<lb/>
+så vil Antallet af Afdelingerne blive, enten 10 eller imellem 7 og 8;<lb/>
+derefter vil følge, at ethvert Udvalg kommer til at beståe af 7, 8<lb/>
+eller endog 10 Medlemmer; men jeg mener dog, at dette vel er en<lb/>
+Ulempe, men at denne ikke er så stor som den anden, der er forbunden med, at 30 Medlemmer samles i hver Afdeling, hvorved en sådan kom til at udgjøre en heel Forsamling, der let gåer over til<lb/>
+politiske Former og derved hindrer den frie Udvexling af Anskuelserne.<lb/>
+— Der omtales i Udkastet, at der i Afdelingerne skal foretages Valg<lb/>
+af Secretairer, som dog ikke skulle optegne Forhandlingerne. Det er<lb/>
+mig ikke ganske klart, hvilket Hverv de da skulle udføre.<lb/>
+</p>
+<p>
+<speaker>Bregendahl:</speaker> Jeg skal tillade mig at rette en Opfordring til<lb/>
+den ærede Ordfører, om at udtale sig med Hensyn til den Uvished,<lb/>
+der af Flere er bleven yttret angående Udvalget af de enkelte Comiteer, og jeg skal navnlig tillade mig at spørge Ordføreren, om der<lb/>
+er påtænkt at optage tydeligere Bestemmelser i det endelige Udkast<lb/>
+end de, som indeholdes i det her foreliggende.<lb/>
+</p>
+<p>
+<speaker>Modvig:</speaker> Jeg har kun nogle enkelte Bemærkninger at gjøer.<lb/>
+Min første Bemærkning, der kun er en simpel Redactionsbemærkning,<lb/>
+angåer Slutningen af § 7, hvor der ståer „den (Afdelingen) forhandler, dog uden Afstemming, enhver Sag, der af Forsamlingen<lb/>
+henvises til den.“ Dette er mindre correct, da Sagen ikke kan blive<lb/>
+henviist til en enkelt Afdeling, men kun til alle Afdelinger. Jeg har<lb/>
+endnu en anden Redactionsbemærkning at fremsætte, som jeg, hvis<lb/>
+dette Regulativ var bestemt for flere Forsamlinger, vilde lægge temmelig megen Vægt på, men som nu ikke har så stor Vigtighed.<lb/>
+Det forekommer mig nemlig, at der savnes en Bestemmelse for,<lb/>
+hviske Sager der nødvendig skulle henvises til Afdelingerne. Af hvad<lb/>
+den ærede Ordfører har anført, må jeg antage, at Meningen er<lb/>
+den, at Lovforslag i ethvert Tilfælde skulle henvises til Afdelingen,<lb/>
+og andre Sager, når hele Forsamlingen ved deres første Foretagelse<lb/>
+strax finder det nødvendigt med Hensyn til deres Vidtløftighed; men<lb/>
+jeg troer, at det vil være rigtigt, at en Bestemmelse derom anbringes<lb/>
+enten i Slutningen af § 7 eller i Begyndelsen af § 8. I denne<lb/>
+sidstnævnte Paragraph er der en Mangel, som jeg troer at være<lb/>
+opstået deraf, at alle de, der have deeltaget i Udarbeidelsen af det<lb/>
+Forslag, som her foreligger, have fuldkommere Rundskab om Bureausystemet, end mange af Forsamlingens øvrige Medlemmer. Derved<lb/>
+er det nemlig, som jeg antager, skeet, at der er kommet til at mangle<lb/>
+en Bestemmelse, som er nødvendig for at detegne hele Systemets Beskaffenhed. Jeg troer, at det alt er blevet bemærket,<lb/>
+(hvis jeg ret har opfattet hvad der er blevet yttret, hvilket tildeels er temmelig vanskeligt) at der burde sættes til<lb/>
+for at udtrykke Comiteens Mening, at Afdelingerne skulle vælge Medlemmer af Comiteen af deres egen Midte. Det har været underkastet<lb/>
+forskjellig Omtale, om Afdelingerne ved at stemme på eet eller flere<lb/>
+Comitee-Medlemmer, ere bundne til at vælge een eller flere af hver<lb/>
+enkelt Afdeling; jeg troer, at overalt, hvor dette System er indført,<lb/>
+enhver Afdeling vælger Comitee-Medlemmer af sin Midte, og dette<lb/>
+hører vistnok også væsentlig med til Systemet, thi Valget bør<lb/>
+fremåe af Forhandlingerne i Afdelingerne, og hele denne Forhandling eller, som man måskee snarere kunde kalde den, Underhandling,<lb/>
+vilde være uden Virkning, når man i en Afdeling, efterat en Sag<lb/>
+der var førhandlet, stemte for Medlemmer af en anden Afdeling,<lb/>
+uden at man vidste hvad der i denne var foregået, stemte for Medlemmer, uden at have Kundskad om i hvad Ånd disse havde udtalt<lb/>
+sig. Meningen må just være, at der skal stemmes på een af Afdelingens Midte, da Enhver temmelig nøie vil kjende Meningerne i<lb/>
+sin Afdeling. Jeg troer det altså nødvendigt, når man vil udtrykke<lb/>
+Meningen og undgåe Misforståelse, at der tilføies i § 8, at Afdelingerne skulle udnævne Comitee-Medlemmer of deres egen Midte.<lb/>
+Deraf følger vistnok også, at man ikke kan undgåe, med Hensyn<lb/>
+til den Tvivl, som i så Henseende var opstået og som også her<lb/>
+har yttret sig, men som neppe har tildraget sig synderlig Opmærksomhed,
+</p>
+</leftside>
+<rightside>
+<p>
+at give en Bestemmelse om Forholdet imellem Comitee-Medlemmernes og Afdelingernes Antal, da der enten må være Overeensstemmelse mellem disse, så at Comiteerne komme til at beståe af 5,<lb/>
+10 eller 15 Medlemmer, eller der må tages en Bestemmelse om,<lb/>
+hvorledes der skal forholdes med det overskydende Antal, hvorledes der<lb/>
+f. Ex., når en Comitee skal beståe af 7, skal forholdes med Hensyn<lb/>
+til de 2, da kun de 5 Medlemmer kunne fremgåe af Afdelingernes<lb/>
+Valg. Men der er eet Punkt af væsentlig Vigtighed, som jeg troer at burde<lb/>
+bringe på Vane mere, end det hidtil er skeet; dette er Spørgsmålet om Begrændsningen af Forhandlingerne i Afdelingerne. Den ærede Ordfører har<lb/>
+bemærket, at man andetsteds har Forholdsregler, hvorved man gjør Ende<lb/>
+på Forhandlingerne i de enkelte Afdelinger, når disse trække i Langdrag, men han har troet, at en sådan Bestemmelse ikke her er nødvendig; men jeg antager, at en slig Bestemmelse måskee her, hvor<lb/>
+man ikke er inde i Systemet, hvor man ikke kjender dette Systems<lb/>
+Beskaffenhed som en Forberedelse og som en Lettelse ved Forsamlingens<lb/>
+følgende Arbeide, vil være end mere nødvendig, end hvor man alt er<lb/>
+inde i Sagen. Såvidt jeg, t de få Dage vi have været sammen,<lb/>
+har havt Leilighed til at bemærke, ere de fleste Medlemmer skinsyge<lb/>
+med Hensyn til deres egen individuelle Deeltagelse i Sagerne. Når<lb/>
+de nu alle i Afdelingerne deeltage i Behandlingen, ville de, når<lb/>
+Forhandlingerne i Udvalget begynde, for Øjeblikket føle sig udelukkede<lb/>
+fra de egentlige Forhandlinger, og jeg troer derfor, at der let turde<lb/>
+vise sig en betænkelig Tilbøielighed til at uddrage Forhandlingerne i<lb/>
+Afdelingerne, så at det turde være nødvendigt at fastsætte en Grændse.<lb/>
+Man kan da ikke her blive stående ved en sådan Grændse, som<lb/>
+den ærede Ordfører har antydet, som brugelig på enkelte Steder,<lb/>
+idet nemlig, når et vidt Antal Afdelinger (f. Ex. 2/3) ere færdige, de<lb/>
+andre skulle slutte. Jeg troer ikke, at man kan blive stående ved en<lb/>
+Bestemmelse om, at når 4 Afdelinger ere færdige, den 5te da skal<lb/>
+slutte sine Forhandlinger, eller endog når 3 ere færdige, at da de<lb/>
+to øvrige skulle slutte. Jeg frygter for, Forhandlingerne endda<lb/>
+kunde trækkes utilbørligt i Langdrag, ifær når der ikke indrømmedes<lb/>
+Afdelings-Formanden Myndighed til at  afslutte Forhandlingen, det<lb/>
+er ikke engang bestemt, at simple Pluralitet i Afdelingerne kan tage<lb/>
+Bestemmelse herom. Jeg troer derfor, at der ved den endelige Redaction af Forretningsordenen bør traffes en Regel for Begrændsningen<lb/>
+af Afdelingernes Forhandlinger.<lb/>
+</p>
+<p>
+<speaker>Algreen-Ussing:</speaker> Jeg skal søge at sammensatte så kort<lb/>
+som muligt, hvad jeg har at bemærke i Anledning af de Yttringer,<lb/>
+der ere fremsatte med Hensyn til det Afsnit, som for Tiden er under<lb/>
+Omhandling. Det kan for det Første ikke Andet end være Comiteen<lb/>
+behageligt at erfare, at selve Forslaget om Indretning af Bureauer<lb/>
+eller Afdelinger synes at have fundet almindelig Gjenklang her i<lb/>
+Salen; der er nemlig, såvidt jeg har opfattet de Yttringer, der ere<lb/>
+blevne fremførte ved dette Afsnit, fra ingen Side bleven udtalt noget<lb/>
+Bestemt imod denne Indretning, hvorimod der ikkun er gjort enkelte<lb/>
+Bemærkninger om Modificationer i samme. Den første og væsentligste Indvending er den der er bleven fremsat fra nogle Sider, at<lb/>
+Afdelingerne ikke udelukkende burde dannes ved Lodtrækning, men at<lb/>
+et vist Antal af Medlemmerne i disse forud skulde vælges af hele<lb/>
+Forsamlingen, således f. Ex., hvis vi blive stående ved de 5 Afdelinger og det foreslåede Antal af 25 Personer, at 5 Medlemmer<lb/>
+skulle vælges til hver Afdeling af Forsamlingen. Det er ikke undgået Comiteens Opmærksomhed, at der er noget Tilfældigt i Afdelingernes Sammensætning ved Lodtrækning, og der er i den<lb/>
+Anledning i Comiteen bleven anført det same Moddel til at<lb/>
+afhjælpe denne Tilfældighed, som her er bleven nævnt; men<lb/>
+Comiteen er ved nærmere Overveielse kommen til det Resultat, som<lb/>
+allerede er bleven udtalt af den meget ærede Rigsdagsmand for<lb/>
+Kjøbenhavns 3die Distrikt (Ørsted), at det neppe er hensigtsmæssigt.<lb/>
+Ligesom man, når man vil optage dette System fra andre<lb/>
+Lande, må være varsom med at forandre Noget i det, der må<lb/>
+ansees som det Grundvæsentlige i samme, således vilde let de 5<lb/>
+Medlemmer, de skulde udvælges af Forsamlingen, komme i et<lb/>
+skjævt Forhold til de andre Medlemmer i Afdelingerne, når<lb/>
+de ligesom forud vare designerede som de, der på en Måde skulde<lb/>
+veilede de andre og antages for dygtigere og i Besiddelse af<lb/>
+</p>
+</rightside>
+
+</pb>

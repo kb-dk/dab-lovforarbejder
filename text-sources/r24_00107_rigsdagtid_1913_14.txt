@@ -1,0 +1,76 @@
+3549
+<pb n="107">
+<h>
+<coll>
+3549
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3550
+</colr>
+</h>
+<p>
+give  den  til  Værges   eller Lavværges Udnævnelse  kompetente  Myndighed Underret-<lb />
+ning herom.
+</p>
+<lowtitle>§ 466.</lowtitle>
+<p>
+Naar enten Øvrigheden eller den Person, der er erklæret umyndig eller sat<lb />
+under fast Lavværgemaal, eller nogen af de i § 457, 1ste Stykke angivne Personer for<lb />
+Landsretten tror at kunne oplyse, at der ikke længere er Grund til denne Foran-<lb />
+staltnings Vedbliven, har paagældende at indgive et Andragende til Landsretten i den<lb />
+Kreds, hvor den umyndiggjorte bor, om at maatte blive stedet til i et Retsmøde at<lb />
+begrunde eller lade begrunde en Begæring om Umyndiggørelsens Ophævelse. Er Sinds-<lb />
+svaghed Umyndiggørelsesgrunden, kan der dog i Reglen ikke tages Hensyn til et af<lb />
+den umyndiggjorte eller af andre paa hans Vegne indgivet Andragende, medmindre<lb />
+det er ledsaget af Anbefaling fra Retslægeraadet eller en Embedslæge eller fra Overlægen<lb />
+paa den Helbredelsesanstalt, paa hvilken den umyndiggjorte maatte være anbragt.
+</p>
+<p>
+Derefter har Landsretten at beramme et Retsmøde, om hvilket der meddeles<lb />
+den umyndiggjortes Værge betimelig Underretning; i Retsmødet høres de paagældende,<lb />
+og de fremførte Beviser overvejes, hvorefter Landsretten enten ophæver Umyndig-<lb />
+gørelsesdekretet eller afslaar Begæringen herom.
+</p>
+<p>
+I sidste Fald bæres Omkostningerne ved Forhandlingerne af den, der har rejst<lb />
+Sagen.    Ophæves Dekretet, afholdes Omkostningerne af det offentlige.
+</p>
+<lowtitle>§ 467.</lowtitle>
+<p>
+De om Landsretsproceduren givne Forskrifter komme i øvrigt med de af det<lb />
+foregaaende følgende Lempelser til Anvendelse i disse Sager. Med Hensyn til offentlig<lb />
+Gengivelse af Forhandlingerne i saadanne Sager finde Bestemmelserne i § 455 til-<lb />
+svarende Anvendelse.
+</p>
+<title rend="chapter">Kapitel 44</title>
+<title rend="subtitle">Fremgangsmaaden ved at erhverve Mortifikations- eller Ejendomsdom.</title>
+<lowtitle>§ 468.</lowtitle>
+<p>
+Sager, hvorunder Mortifikation paa Dokumenter søges, blive, for saa vidt angaar<lb />
+Gældsbreve, ved hvilke der er givet Pant i fast Ejendom, at anlægge ved Underretten<lb />
+paa det Sted, hvor den faste Ejendom er beliggende, og ellers ved Landsretten paa det<lb />
+Sted, hvor vedkommende Dokument er udstedt. Lade disse Regler sig ikke anvende,<lb />
+f. Eks. fordi Dokumentet er udstedt af en dansk Undersaat i Udlandet, skal Sagen<lb />
+anlægges i København.
+</p>
+<p>
+Mortifikation af bortkomne Konnossementer søges paa det Sted, hvor Varerne<lb />
+skulle afleveres. Mortifikation af Oplagsbeviser og de i Lov om Oplagsbeviser m. m.<lb />
+i Københavns Frihavn af 30. Marts 1894 ommeldte Garantibeviser søges paa det Sted,<lb />
+hvor Oplagshuset er beliggende.
+</p>
+<p>
+Sager, hvorunder Ejendomsdom søges, blive at anlægge ved Underretten paa<lb />
+det Sted, hvor Ejendommen er beliggende, eller, hvis Sagens Genstand er et Dokument,<lb />
+hvor Mortifikation af dette skulde søges efter Reglerne i denne Paragraf. Ejendoms-<lb />
+dom paa et Skib eller en Skibspart søges i København.
+</p>
+<lowtitle>§ 469.</lowtitle>
+<p>
+Den, der søger Mortifikation paa et Dokument, har til den Ret, hvor Sagen<lb />
+efter § 468 skal føres, at indgive skriftlig Begæring om Indkaldelse af den eller dem,<lb />
+som maatte være Ihændehaver af Dokumentet eller anse sig berettiget til det.
+</p>
+
+</pb>

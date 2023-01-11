@@ -1,0 +1,83 @@
+394
+<pb n="400" />
+<leftside>
+<p>Uagtet man således for dette Afsnits<lb />
+Vedkommende i det Væsentlige har kunnet<lb />
+bygge på den gjældende Rets Grundlag, vil<lb />
+det imidlertid findes, at dets enkelte Bestemmelser ikke lidet afvige fra de nugjældende.<lb />
+Dette gjalder dog i mindre Grad om den Del<lb />
+af nærværende Afsnit, der handler om Exekution (Kap, I.—III). idet de Forandringer i<lb />
+den ældre Ret, hvorom Kommissionen på<lb />
+dette Område havde stillet Forstag, for en stor<lb />
+Del allerede bleve optagne i Konkursloven af<lb />
+25de Marts 1872 samt Lov om Udpantning<lb />
+og om Udlæg uden Grundlag af Dom eller<lb />
+Forlig af 29de Marts 1873. Af nye Bestemmelser, der særligt angå Exekution, skal kun<lb />
+fremhæves, at Udkastet har forladt den i vor<lb />
+nugjældende Ret (Frd. 6te April 1842) anerkjendte Grundsætning, at Exekutionen af<lb />
+Domme, der gå ud på Foretagelsen af en<lb />
+Handling, i Reglen skal ske ved Inddrivelsen<lb />
+af en i Dommen fastsat daglig eller ugentlig<lb />
+Mulkt, og istedet derfor opstillet den i flere<lb />
+nyere Love antagne Regel, at sådanne Dommes Exekution skal ske derved, at Domhaverens<lb />
+Interesse i Dommens Efterkommelse anslåes<lb />
+i Penge, og at Vederlagsbeløbet derefter inddrives (§ 451), en Forandring, som endvidere<lb />
+har havt til Følge, at Gjældsfængsel efter<lb />
+Udkastet i det Hele er bortfaldet som Exekutionsmiddel. Mere indgribende ere de<lb />
+Afvigelser fra den gjældende Ret, som Udkastet<lb />
+indeholder på Tvangsauktionens Område<lb />
+(Kap. IV). Udkastet har nemlig her efter flere<lb />
+fremmede Lovgivningers Exempel gjennemført<lb />
+den Hovedgrundsætning, at Tvangsauktionen<lb />
+såvidt muligt skal være en Opgjørelse, som<lb />
+omfatter alle dem, der ere interesserede i den<lb />
+eller de bortfolgte Ting, medens det nu er<lb />
+Reglen, at enhver Auktionsrekvirent kun iværksætter Retssorfølgningen på sine egne Vegne<lb />
+(jfr. Frd. 11te September 1833 § 1 i Slutningen), hvorfor de øvrige i Tingen Interesserede på den ene Side have Valget imellem,<lb />
+om de under Forfølgningen ville forholde sig<lb />
+aldeles passive, eller om de hver for sig ville<lb />
+indlede en jævnsides med Rekvirentens gående<lb />
+selvstændig Forfølgning, men på den anden<lb />
+Side også ere indskrænkede enten til det ene<lb />
+eller   det   andet af disse Alternativer uden at</p>
+</leftside>
+<rightside>
+<p>have noget Krav på at delagtiggjøres i den<lb />
+af Rekvirenten foretagne Forfølgning, Som<lb />
+en Afvigelse fra den bestående Ret, der er<lb />
+fælles for Exekution og Tvangsauktion, skal<lb />
+endelig anføres, at Udkastet, overensstemmende<lb />
+med det i Domssager fulgte Retsmiddelsystem, opstiller en dobbelt Form, hvorunder<lb />
+Fogedrettens Afgjørelser kunne indbringes til<lb />
+højere Rets Prøvelse, nemlig ved Siden af<lb />
+Påanke i egentlig Forstand Besværing til<lb />
+højere Ret (Kap. V.), hvilket sidste Retsmiddel<lb />
+der på Fogedforretningernes Område er givet<lb />
+Anvendelse overalt, hvor Anken alene angår<lb />
+de processuelle Betingelser for Forretningen<lb />
+eller den ved  samme brugte Fremgangsmåde.</p>
+<title>Kapitel I.</title>
+<undertitle>Almindelige Betingelser for Exekution.</undertitle>
+<p>I § 435 gives en Oversigt over de<lb />
+Grundlag, i Henhold til hvilke Fogden kan<lb />
+skride til Anvendelse af Tvangsmyndigheden.<lb />
+I så Henseende fastsætter Udkastet, overensstemmende med den gjældende Ret, at Exekution<lb />
+kan ske på Grundlag af:</p>
+<p>1)  Domme og Kjendelser, afsagte af<lb />
+lovligt bestående Domstole i Riget såvelsom<lb />
+af andre indenlandske Myndigheder,   der efter<lb />
+Lovene ere beføjede til at afsige exigible Kendelser. Ved disse sidste Udtryk sigtes der f. Ex.<lb />
+til Landvæsens- og Overlandvæsenskommissioner,<lb />
+jfr. Lov 30te Decbr.  1858 § 25;</p>
+<p>2) Forlig, indgåede for de i Riget<lb />
+lovlig bestående Forligskommissioner, Retter<lb />
+eller   Øvrigheder,  for   de   sidstnævntes   Vedkommende   dog  kun,   forsåvidt   det ved Lovgivningen   er dem pålagt at mægle Forlig i<lb />
+sådanne Tilfælde, såvelsom for Landvæsenskommissioner og andre Myndigheder, om hvilke<lb />
+Lovene  bestemme, at de for dem afsluttede<lb />
+Forlig skulle kunne exekveres.</p>
+<p>Endelig nævner § 435, næst i sidste<lb />
+Stykke at henvise til de i nærværende Afsnits<lb />
+2den Hovedafdeling fastsatte Regler om Udpantning samt om de såkaldte Udsættelsesog Indsættelsesforretninger uden foregående<lb />
+Lovmål og Dom, som Grundlag for Exekution:<lb />
+3) thinglæste Pantebreve, hvorved</p>
+</rightside>

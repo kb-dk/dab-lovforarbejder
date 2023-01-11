@@ -1,0 +1,27 @@
+2377
+<pb n="237" />
+<h>
+<coll>
+2377
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2378
+</colr>
+</h>
+<p>
+i vedkommende Landsoverrets Sted, eller henholdsvis Rigsanklageren varetager, hvad<lb />
+der i Anledning af saadan Appel vilde paahvile Overøvrigheden eller en beskikket<lb />
+Aktor. Med Hensyn til Dommens Fuldbyrdelse blive Reglerne i denne Lov at anvende<lb />
+med de af Forholdets Natur flydende Lempelser.
+</p>
+<wtitle>§ 1016.</wtitle>
+<p>
+Genoptagelse af Straffesager, der ere afsluttede ved upaaankelig Dom eller paa<lb />
+anden Maade, førend denne Lov træder i Kraft, eller i Henhold til § 1015, kan ske<lb />
+efter Begæring af Overanklageren eller Domfældte eller nogen af de i § 907, 2det og<lb />
+3die Punktum, nævnte Personer; i Henseende til saadan Genoptagelse blive de i Kapitel<lb />
+82 foreskrevne Regler at følge. Om Genoptagelse af en Sag, der er afsluttet ved<lb />
+upaaankelig Underretsdom, kan finde Sted, beror paa, om Sagen efter denne Lovs<lb />
+Regler vilde høre for Landsretten; Afgørelsen træffes af vedkommende Landsret.
+</p>

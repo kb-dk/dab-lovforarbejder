@@ -1,0 +1,169 @@
+2827
+<pb n="14" />
+<h>
+<coll>2827</coll>
+<topmidle>
+Bet. o. Lovf. om	Rettens Pleje m. m.
+</topmidle>
+<colr>2828</colr>
+</h>
+<leftside>
+<p>
+dømmende Ret (§§ 171—72, jfr. 202),<lb />
+forelægger han Spørgsmaalet herom for<lb />
+Landsretten. Beslutter Retten inden Doms-<lb />
+forhandlingen, at saadan Indkaldelse skal<lb />
+finde Sted, gives der Forsvareren eller<lb />
+Tiltalte Meddelelse derom."
+</p>
+<wtitle>
+Til § 915.
+</wtitle>
+<p>
+54 a) 1ste Stykke affattes saaledes:
+„Inden Udløbet af en af Overankla-<lb />
+geren paa Anklageskriftet opgiven Frist,<lb />
+der paa Begæring kan forlænges af Ret-<lb />
+tens Formand, skal Forsvareren eller,<lb />
+hvor der ingen Forsvarer er, Tiltalte saa-<lb />
+vel paa Rettens Kontor som til Overan-<lb />
+klageren afgive en trykt eller maskin-<lb />
+skreven Ekstraktgenpart af saadanne<lb />
+Udskrifter og andre Dokumenter, som<lb />
+han vil lade oplæse under Domsforhand-<lb />
+lingen udover de i Overanklagerens Eks-<lb />
+traktgenpart optagne. Er de paagældende<lb />
+Dokumenter ikke allerede indleverede til<lb />
+Retten af Overanklageren, forholdes der<lb />
+derhos med dem efter Regelen i § 914,<lb />
+1ste Stykke."
+</p>
+<p>
+b)	I 2det Stykke, Linie 2, indskydes efter<lb />
+„eller": „om Indkaldelse af Vidner eller<lb />
+Syns- eller Skønsmænd som i § 914, 3die<lb />
+Stykke, nævnt eller om".
+</p>
+<p>
+c)	Ved Slutningen af 2det Stykke til-<lb />
+føjes som nyt Punktum: „Har Overan-<lb />
+klageren efter Indleveringen af Anklage-<lb />
+skriftet tilvejebragt nye Beviser, gives der<lb />
+Modparten en særlig Frist til at frem-<lb />
+sætte sine derved foranledigede Begærin-<lb />
+ger."
+</p>
+<wtitle>
+Til § 916.
+</wtitle>
+<p>
+55)	3die Stykke affattes saaledes:
+„Skal nye Oplysninger tilvejebringes,
+finder Reglerne i §§ 837, 2det Stykke, og<lb />
+839 Anvendelse med de fornødne Lem-<lb />
+pelser."
+</p>
+<wtitle>
+Til § 917.
+</wtitle>
+<p>
+56)	1ste Stykke affattes saaledes:
+„Saa snart Sagen er rede til Doms-<lb />
+forhandling, berammer Landsretten efter<lb />
+Overanklagerens Begæring Tiden for denne."
+</p>
+<wtitle>
+Til § 918.
+</wtitle>
+<p>
+57) I Linie 1 ændres: „840, 1ste<lb />
+Stykke," til: „840, 1ste og 3die Stykke,".
+</p>
+</leftside>
+<rightside>
+<wtitle>
+Til § 920.
+</wtitle>
+<p>
+58) I Linie 3 ændres: „Forunder-<lb />
+søgelsen" til: „retslige Undersøgelses- og<lb />
+Bevishandlinger".
+</p>
+<wtitle>
+Til § 921.
+</wtitle>
+<p>
+59)	I Linie 2 ændres: „under For-<lb />
+undersøgelsen" til: „for Undersøgelses-<lb />
+retten".
+</p>
+<wtitle>
+Til § 922.
+</wtitle>
+<p>
+60)	I 2det Stykke, Linie 3, ændres:<lb />
+„under Forundersøgelsen" til:- „for Under-<lb />
+søgelsesretten ".
+</p>
+<wtitle>
+Til § 924.
+</wtitle>
+<p>
+61)	I Linie 4 affattes den sidste Sæt-<lb />
+ning saaledes: „om der af den Grund skal<lb />
+gives Overanklageren Adgang til at søge<lb />
+yderligere Beviser tilvejebragte".
+</p>
+<wtitle>
+Til § 929.
+</wtitle>
+<p>
+62) I Linie 2 ændres: „andre og flere<lb />
+		 opgivet" til: „yderligere Op-<lb />
+lysninger bør søges tilvejebragt".
+</p>
+<wtitle>
+Til § 1023.
+</wtitle>
+<p>
+63a) I Linie 4 ændres: „Underrets-<lb />
+sagførere" til: „Sagførere ved Underret".
+</p>
+<p>
+63 b) I 3die Stykke, Linie 2, ændres<lb />
+„de" til: „det".
+</p>
+<wtitle>
+Til § 1029.
+</wtitle>
+<p>
+64)	I Linie 6 indskydes foran „uanset" :<lb />
+„eller et Politimesterembede (§ 109)".
+</p>
+<wtitle>
+Til § 1030.
+</wtitle>
+<p>
+64a) I Linie 3 ændres: „Underrets-<lb />
+sagfører" til: „Sagfører ved Underret".
+</p>
+<wtitle>
+Til § 1031.
+</wtitle>
+<p>
+64b) I Linie 5 ændres: „Underrets-<lb />
+sagførere" til: „Sagførere ved Underret".
+</p>
+<wtitle>
+Til § 1032.
+</wtitle>
+<p>
+64c) I Linie 1 ændres: „Underrets-<lb />
+sagfører" til: „Sagfører ved Underret".
+</p>
+<p>
+65)	Registeret til Loven, som er ud-<lb />
+faldet ved Omtrykningen i Folketinget,<lb />
+genindsættes.
+</p>
+</rightside>

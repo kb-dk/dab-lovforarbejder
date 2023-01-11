@@ -1,0 +1,46 @@
+3655
+<pb n="146" />
+<h>
+<coll>3655</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3656</colr>
+</h>
+<wtitle>§ 571.</wtitle>
+<p>Imod Fogdens Afgjørelser under de i H 669 omhandlede Forretninger kan der be-<lb />
+nyttes henholdsvis Paaanke eller Besværing ifolge de almindelige Regler om Retsmidler imod<lb />
+de til Dommes Fuldbyrdelse sigtende Fogedforretninger (jfr. navnlig § 549 ff.).</p>
+<title>Ottende Afsnit.</title>
+<undertitle>Om de forelsbige Retsmidler.</undertitle>
+<title>Kapitel I.</title>
+<undertitle>Arreft.</undertitle>
+<wtitle>§ 572.</wtitle>
+<p>Arrest pcia Gods kan finde Sted til Sikkerhed for ethvert forfaldent Krav, der lyder<lb />
+paa Penge eller Penges værd, eller hvis Tilsidesættelse kan medføre en Erstatning i Penge,<lb />
+saalænge Kravet ikke er exigibelt, men ievrigt uden Hensyn til, om Retssag i Anledning af<lb />
+det er anlagt eller ikke.</p>
+<p>Til" Sikkerhed for Fyldestgørelse af ikke forfaldne Krav kan Arreft paa Gods kun<lb />
+anvendes, naar der er særlig Grund til at befrygte, at Skyldneren ellers ved at bortstytte<lb />
+eller forstikke sit Gods eller paa anden Maade vilde umuliggjøre eller dog væsentlig vanske-<lb />
+jore Adgangen til i sin Tid at opnaa Dom og gjøre exekution.</p>
+<wtitle>§ 573.</wtitle>
+<p>Arrest paa person som Sikkerhedsmiddel for Fordringer af den i § 572 ommeldte<lb />
+Beskaffenhed kan ikkun anvendes for forfaldne Krav paa Indlændinge, der ftaa i Begreb med<lb />
+at forlade Landet for bestandigt eller paa ubestemt Tid, samt paa Udlændinge i Anledning af<lb />
+Fordringer, for hvilke de uden Henfyn til Arrestværnethingsbeftemmelserne ifolge denne Lovs<lb />
+almindelige Regler vilde kunne sagfoges ved danske Retter.</p>
+<wtitle>§ 574.</wtitle>
+<p>Arrest paa Gods kan ikke foretages i Ting, hvori der ikke vilde kunne gjøres Exekution<lb />
+for den paagjældende Fordring.</p>
+<wtitle>§ 575.</wtitle>
+<p>Arrest kan afværges og foretagen Arrest faas ophævet, naar Skyldneren stiller fornøden<lb />
+Sikkerhed for den Fordring med Renter og Omkostninger, i Anledning af hvilken Arrest søges.</p>
+<p>Om den tilbudne Sikkerhed ifølge Swrrelse og Beskaffenhed er fyldestgørende, be-<lb />
+dommes af Retten efter et frit skjøn.</p>
+<wtitle>§ 576.</wtitle>
+<p>Arrest paa Gods medfører, at Skyldneren fra det Dieblik, Arrestdekretet er afsagt,<lb />
+bliver uberettiget til at forflytte eller ved Retshandler raade over de arresterede Gjenstande,<lb />
+derunder ovpebcrre arresterede Fordringer.</p>
+<p>For at denne Arrestens Retsvirkning skal kunne gjøres gjældende overfor en god-<lb />
+troende Trediemand, saaledes at de foretagne Retshandler tabe Gyldighed, er det nodvendigt,<lb />
+at Thinglæsning af Arrestdekretet har fundet Sted ved Skyldnerens personlige værnething<lb />
+eller, hvis Arresten er gjort i fast Eiendom,   ved   dennes værnething.    Er Arreft foretagen i</p>

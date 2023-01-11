@@ -1,0 +1,140 @@
+361
+<pb n="217">
+<pagename>217</pagename>
+<h>
+<coll>361</coll>
+<colr>362</colr>
+<lb/>
+
+<topleft>1848</topleft>
+<topmidle>
+Beretning<lb/>
+om<lb/>
+Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 47.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Nittende Møde.<lb/>
+</btitle>
+<p>
+<speaker>Barfod:</speaker> Jeg skal tillade mig at stille det Spørgsmål til<lb/>
+den ærede Formand, om han, da tvende af de folkevalgte Rigsdagsmænd ere indtrådte i Ministeriet, og der således vil blive tvende<lb/>
+Pladser ledige, har anmodet Justitsministeren om at træffe de fornødne Foranstaltninger til nye Valg.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Jeg er først ved Mødets Begyndelse bleven<lb/>
+underrettet derom og har således ikke kunnet underrette Justitsministeren om, at der vilde blive at foretage nye Valg, men det er en<lb/>
+Selvfølge, at jeg uopholdeligen skal tilskrive ham derom.<lb/>
+</p>
+<p>
+<speaker>H. P. Hansen:</speaker> Må jeg tillade mig at gjøre en lille Bemærkning i Anledning af de Valg, der skulle foretages til at supplere<lb/>
+Finantscomiteen; når nemlig Afdelingerne først på Mandag kunne<lb/>
+bestemme Valget af Medlemmer til denne Comitee, vil Udfaldet heraf<lb/>
+først blive Forsamlingen bekjendt, når denne samles Kl. 2. Da<lb/>
+imidlertid Valgene fra Forsamlingens Side af Comiteemedlemmer udkræve den største Opmærksomhed, og dette Valg for en stor Deel vil<lb/>
+beroe på, hvilke Valg der i Afdelingerne ere trufne, så skal jeg<lb/>
+tillade mig at henstille til den meget ærede Formand, om det ikke i<lb/>
+ethvert Tilfælde, såfremt Afdelingerne blive så betimelig færdige,<lb/>
+kunde lade sig gjøre, at disses Valg bleve bekjendtgjorte her i Forsamlingen Kl. 1, for at Medlemmerne kunde være istand til at overlægge, på hvilken Måde man kunde supplere de trufne Valg.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Jeg skal strax lade opslåe på Tavlen de Valg<lb/>
+af Comiteemedlemmer, som ere foregåede i de Afdelinger, der allerede<lb/>
+have anmeldt at være færdige med Finantssagens Behandling, ligesom jeg skal drage Omsorg for, at de Valg, der måtte finde Sted i<lb/>
+Afdelingerne forinden Mødet på Mandag, på samme Måde blive<lb/>
+bekjendtgjorte for Forsamlingen.<lb/>
+</p>
+<p>
+<speaker>H. P. Hansen:</speaker> Jeg skal tillade mig at bemærke i Anledning<lb/>
+af hvad den nye Finantsminister har yttret idag, om måskee Formanden måtte finde sig foranlediget til at henstille til den Comitee,<lb/>
+der vil blive nedsat i Finantssagen, om denne vilde gåe ind på<lb/>
+den af Finantsministeren antydede Fremgangsmåde i Finantssagen.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Jeg har allerede i et foreløbigt Møde med Formændene for de forskjellige Afdelinger omtalt dette, og disse meente,<lb/>
+at når et Forslag fra Finantsministeren fremkom, Sagen da måtte<lb/>
+gåe tilbage til Afdelingerne.<lb/>
+</p>
+<p>
+<speaker>Rée:</speaker> Forinden Mødet hæves, skal jeg tillade mig at henstille<lb/>
+til Formanden, om der ikke ad den administrative Vei, altså gjennem<lb/>
+Formanden, kunde træffes Foranstaltning til, at Medlemmer af Rigsforsamlingen ikke forlade denne for flere Dage uden at erholde en såkaldet Permission, og at det i Overeensstemmelse hermed ved hvert Mødes Begyndelse<lb/>
+måtte blive antydet i Rigsdagstidenden, hvilke Medlemmer der vare<lb/>
+fraværende. Dette var, såvidt jeg veed, Praxis i Provindsialstænderne, og Flere have med mig været enige i at ansee det som et<lb/>
+Savn, at det ikke nævnes, hvorvidt Nogen har været fraværende, og<lb/>
+da hvem og hvormange.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Såvidt jeg veed, har dette Spørgsmål allerede været behandlet i Regulativcomiteen; men det ærede Medlem<lb/>
+kunde jo stille et Forslag i så Henseende, der da som de andre Forslag kunde blive henviist til den vedvarende Comitee for Forretningsordenen.<lb/>
+</p>
+<signature>
+Mødet hævet.<lb/>
+</signature>
+</leftside>
+<rightside>
+<btitle>
+Tyvendez Møde.<lb/>
+</btitle>
+<notedate>
+Mandagen den 20de November.<lb/>
+</notedate>
+<p>
+<speaker>Formanden:</speaker> Jeg skal anmelde, at Greve Knuth og Oberst<lb/>
+Tscherning som kongevalgte Medlemmer idag ere tilstede i Rigsforsamlingen. Kongebrevene angående deres Udnævnelser are overgivne til den Comitee, der har værett nedsat til at prøve Medlemmernes Fuldmagter.<lb/>
+</p>
+<p>
+<speaker>Algreen-Ussing:</speaker> De ere besundne i fuldkommen god<lb/>
+Orden.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> De nævnte Herrer ere således Madlemmer<lb/>
+af Rigsforsamlingen Jeg skal dernæst anmelde en Adresse fra Byfogden, Borgerrepræsentanterne og endeel Beboere I Saxkjøbing By,<lb/>
+med i Alt 113 Underskrifter, om at Kjøbstædernes Tarv må blive<lb/>
+behørigen varetaget vet Sammensætningen af Folkerepræsentationen,<lb/>
+fremdeles en Adresse on famme Gjenstand fra Borgerrepræsentanterne, Næringsdrivende og andre Indvånere i Kjøge i Alt 212, og<lb/>
+en Adresse fra Borgerrepræsentanterne, Borgere og andre Indvånere<lb/>
+i Kjerteminde, i Alt 131, om en bedre Repræsentation for Kjøbstadborgerne og Håndværksstanden i Rigsforsamlingen. Endelig gar jeg gjennem Rigsdagsmanden fra middelfart (Leth) modtaget et Andragende fra<lb/>
+7 unge mænd, betræffende den extraordinaire Udskrivning af Ikke-Værnepligtige. Såvel dette som de øvrige Andragender ønskes henlagte i Læseværelset, og det sidste tillige overgivet til den Comitee, der nedsættes<lb/>
+i Værnepligtssagen. — Jeg skal endvidere anmelde, at i 4de Afdeling,<lb/>
+hvis Formand er udtrådt af Forsamlingen, er Etatsråd Neergård<lb/>
+bleven Valgt til Formand. De 2 ærede Medlemmer, som idag ere<lb/>
+indtrådte i Rigsforsamlingen, vill naturligiis have at indtræde i<lb/>
+Afdelingerne; jeg mener, at det vil være rigtigst, at den ene af de<lb/>
+2 Herrer indtræder i den 1ste, og den anden i 4de Afdeling, hvor<lb/>
+der ere Pladser ledige, og at de trække Lod om, hvem af dem der skal<lb/>
+indtræde i første, og hvem i 4de Afdeling. En af Secretairerne ville<lb/>
+måskee behage at foranstalte denne Lodtrækning. — (Efter Lodtrækningen) Tscherning vil herefter indtræde i 1ste, og Knuth i 4de Afdeling.<lb/>
+</p>
+<p>
+Efter Dagsordenen vil der nu være at foretage Valg på en<lb/>
+Viceformand i Stedet for den ene, som er udtrådt af Forsamlingen.<lb/>
+Jeg skal gjøre opmærksom på, at jeg anseer det som selvforståeligt,<lb/>
+at den, der nu vælges til Viceformand, kun vil have at fungere<lb/>
+som sådan, sålænge som Forsamlingens øvrige Embedsmand, altså kun indtil den 30te November.<lb/>
+</p>
+<p>
+Ved det derefter foretagne Valg faldt af 140 Stemmer de 68<lb/>
+på Gvidt, 45 på Tscherning, 9 på Prof. Larsen, 8 på<lb/>
+H. P. Hansen, 5 på Algreen-Ussing, 1 på With og 1<lb/>
+på Tage Müller. 3 af de afgivne Stemmesedler vare ulæselige<lb/>
+eller utydelige.<lb/>
+</p>
+<p>
+Da Ingen af dem, på hvem Stemmerne vare faldne, havde erholdt absolut Pluralitet (71 Stemmer), blev der herefter i Overeensstemmelse med Forretningsregulativet foretaget et nyt frit Valg, hvis<lb/>
+Udfald blev således (141 Stemmegivende, 71 absolut Vluralitet):<lb/>
+Hvidt 83 Stemmer, Tscherning 46, Larsen 7, H. P. Hansen<lb/>
+4 og Tage Müller 1 Stemme. Som Følge heraf erklæredes<lb/>
+Etatsråd Hvidt af formanden som Valgt til Forsamlingens Viceformand.<lb/>
+</p>
+<p>
+Dernæst blev der efter Dagsordenen foretaget Valg på et nyt<lb/>
+Medlem til Forretningsregulativ-Comiteem (Krieger, Algreen-Ussing,<lb/>
+</p>
+</rightside>
+
+</pb>

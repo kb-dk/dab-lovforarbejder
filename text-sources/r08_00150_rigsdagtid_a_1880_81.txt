@@ -1,0 +1,50 @@
+3663
+<pb n="150" />
+<h>
+<coll>3663</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3664</colr>
+</h>
+<p>været paakjendt.    Retten kan i Tilfælde af Paa.inke udslette Arrestsagens Forhandling i det<lb />
+Hele eller for en Del, jfr §  103.</p>
+<wtitle>§ 595.</wtitle>
+<p>Kommer Skyldneren, efterat Arresten er gjort, under Konkurs, eller dsr han, og of,<lb />
+fentligt Skifte uden Gjalds Vedgaaelse finder Sted efter ham, bortfalder Arreftrekvirentens<lb />
+Forpligtelse til at anltegge Retssag i Anledning af Fordringen eller Arresten, ligesom han kan<lb />
+hceve den i denne Anledning allerede anlagte Sag, medmindre der er nedlagt Erftatningspaa-<lb />
+stand fra Skyldnerens Side, og Boet vil fortsætte Sagen. Den af Rekvirenten i Anledning<lb />
+af Arresten stillede Sikkerhed losgives dog fsrst, naar 8 Uger ere gaaede efter Arrestens<lb />
+Foretagelse eller, hvis Sag har været anlagt og hceves, 8 Uger efter Ophævelsen, og der<lb />
+derhos ikke fra Boets Side er reift Sag om Erstatning. Gr dette sket, maa det endelige<lb />
+Udfald af Sagen afventes.</p>
+<wtitle>§ 596.</wtitle>
+<p>Ved Arrestsagen skal det afgjores, om Arresten er lovlig, forudsat Rigtigheden af den<lb />
+Fordring, for hvilken den er gjort.</p>
+<p>Som en følge heraf kunne Indsigelser vedkommende Fordringens Rigtighed ikke<lb />
+fremføres under Arrestsagen, medmindre denne forhandles i Forbindelse med Hovedsagen, hvor-<lb />
+imod alle andre Indsigelser vedkommende Arrestens Lovlighed kunne fremsættes og paa-<lb />
+kjendes under Arrestsagen, uden Hensyn til, om de tilforn have været undergivne Fogdens<lb />
+Afgjørelse.</p>
+<wtitle>§ 597.</wtitle>
+<p>Forsommer Arreftrekvirenten de ham ifolge det Foregaaendc paahvilende Forpligtelser<lb />
+til inden den i § 594 ommeldte Frist at anlægge Arrestsagen eller at anlægge Eag i An-<lb />
+ledning af Fordringen, eller afvises eller ophceves nogen af disse Sager, bortfalder Arresten,<lb />
+dog uden at han af denne Grund er udelukket fra igjen at gjøre Arrest for den samme<lb />
+Fordring.         i</p>
+<p>Naar den i Anledning af Fordr ngen anlagte Sag hceves af den i § 386 2det<lb />
+Stykke angivne Grund, bortfalder Arresten dog ikke, fors«auidt Rekvirenten inden en Uge<lb />
+efter Sagens Ophcevelsc anlægger ny Sag i Anledning af Fordringen.</p>
+<wtitle>§ 598.</wtitle>
+<p>Fogdens Ncægtelse af Arrest er Gjenstand for Besværing efter Reglerne i foregaaende<lb />
+Afsnits forste Hovedafdeling.</p>
+<wtitle>§ 599.</wtitle>
+<p>Klager fra den Arresteredes Side, sigtende til at bevirke Ovhoevelsen af den foretagne<lb />
+Arrest som ulovligt gjort, kunne overfor Arrestrekvirenten alene fremføres henholdsvis under<lb />
+Arrestsagen eller den i Anledning af Fordringen anlagte Retssag.</p>
+<wtitle>§ 600.</wtitle>
+<p>Vil Nogen drage Fogden iil personligt Ansvar i Anledning af hans Embedsforhold<lb />
+med Hensyn til Arrestens Foretagelse eller Ncægtelse, maa dette ske ved Paaanke.</p>
+<wtitle>§ 601.</wtitle>
+<p>Gu paalagt Arrest kan i det Hele eller for en Del ophleves af Fogden, naar dette<lb />
+stottes paa Omstændigheder, som ere indtrufne efter Arrestens Foretagelse.</p>
+<p>Forinden Arresten ophæves,  skal Fogden   give   Arrestrekvirentcn Leilighed til at ytre</p>

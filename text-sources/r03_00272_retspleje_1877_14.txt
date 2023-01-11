@@ -1,0 +1,82 @@
+266
+<pb n="272" />
+<leftside>
+<p>For Underretsbehandlingens Vedkommende<lb />
+må der dog gjøres flere Lempninger, og det er<lb />
+ikke muligt at opretholde Principet fuldstændigt<lb />
+med Hensyn til den. Nødvendigheden af at<lb />
+Overretsprøvelsen i disse Sager udstrækkel sig<lb />
+til Bevisspørgsmålet og Eftergivelsen af Fordring<lb />
+på Sagsfremstillinger m. u. bevirker, at Protokolleringen i Retten i disse Sager må fåe<lb />
+et meget større Omfang end ved Landsretterne,<lb />
+jfr. § 84 4de Stykke og § 85 3 die Stykke;<lb />
+men de nærmere Regler herom ville bedst<lb />
+kunne gives i Forbindelse med Fremstillingen<lb />
+af Underretsprøceduren i det Hele, jfr. §§ 345,<lb />
+359 o. ft.</p>
+<p>Bestemmelsen  i § 86   sigter  til at bevirke,   at   Retsskriveren   altid  kan   have i sit<lb />
+Værge  det  Materiale,  der  udkræves   for   at<lb />
+tilvejebringe en så  fuldstændig Akt, som behøves til Påante.</p>
+<p>Udkastets § 89 indeholder Regler om<lb />
+Adgangen til at fåe Udskrifter m. m. I<lb />
+Overensstemmelse med den gjældende Ret<lb />
+går Lovforslaget ud fra, at ikke blot Parterne men også Andre, som deri have en<lb />
+retlig Interesse, kunne fåe Udskrifter, jfr.<lb />
+Nellemann Processens alm. Del S. 231. Opståede Stridsspørgsmål må helst afgjøres<lb />
+så simpelt og hurtigt som muligt. En mundtlig Forhandling kan ikke ansees fornøden,<lb />
+men skriftlig Besværing med Retsskriverens<lb />
+påtegnede Erklæring skal afgives til Retten,<lb />
+der da afgjør Spørgsmålet. I de fleste<lb />
+Tilfælde ville Vedkommende viftnok blive<lb />
+stående herved. Men det kan hænde, at<lb />
+Spørgsmålet om Retten til at erholde Udskrift har en så gjennemgribende Betydning for<lb />
+Vedkommende, at de kunne ønske en yderligere<lb />
+Prøvelse af Sagen. Adgang hertil er der<lb />
+da givet dem derved, at de kunne anstille Besværing over Rettens Afgjørelse efter de almindelige Regler herom. Ved Retten menes den<lb />
+Landsret, ved hvilken Skriveren er ansat, eller,<lb />
+hvis det er en Underretsskriver, den Landsret, under hvilken vedkommende Underret<lb />
+sorterer.</p>
+</leftside>
+<rightside>
+<title>Kapitel VIII.</title>
+<undertitle>Om Procesmåden i Almindelighed.</undertitle>
+<p>I dette Kapitel indeholdes en Række særdeles vigtige Procesgrundsætninger, som gjøre<lb />
+sig gjældende på alle Punkter af Systemet<lb />
+og derfor have deres naturlige Plads i den<lb />
+almindelige Del.</p>
+<p>I § 90 udtales den Hovedgrundsætning,<lb />
+at Parterne og ikke Retten føre Processen (ne<lb />
+procedat judex ex offcio); som en Følge heraf<lb />
+må Parterne selv ikke blot rejse Sagen, men<lb />
+de må selv foretage alle Proceshandlinger,<lb />
+selv samle, vælge og fremsætte Beviserne, selv<lb />
+nedlægge Påstandme o. s. v., og det står<lb />
+som en Undtagelse, når Retten i så Henseende<lb />
+udøver nogen Virksomhed. Det kan derfor siges,<lb />
+at Lovforslaget er bygget på Forhandlingsmaximen i Modsætning til et System, hvorefter<lb />
+Retten, når Parterne engang havde påkaldt<lb />
+dens Hjælp, besørgede Processens videre Fremme<lb />
+og Bevisets Tilvejebringelse. Parterne optræde<lb />
+altså fremdeles, ligesom hidtil, som de egentlig<lb />
+handlende Personer i Processen. Men ved<lb />
+Siden heraf skal Retten, som Paragrafens 2 det<lb />
+Punktum allerede antyder, i god Samklang med<lb />
+den mundtlige Procedures naturlige Krav udøve<lb />
+en Indflydelse på Processens Gang og Sagens<lb />
+Oplysning, der er meget videregående end i vor<lb />
+nugjældende Proces. Denne Virksomhed fra<lb />
+Rettens Side ytrer sig på dobbelt Måde:<lb />
+dels er den umiddelbart rettet på den rette<lb />
+Sagfammenhængs Udsendelse ved Spørgsmål<lb />
+til Parterne, Vidnerne og Andre angående<lb />
+de Fakta, som det kommer an på at oplyse,<lb />
+dels går den nd på at ordne og lede Forhandlingerne i Sagen, derunder også indbefattet Bevisførelsen, for derved at bevirke<lb />
+den størst mulige Klarhed, Orden og Simpelhed i Proceduren. Retten har med andre<lb />
+Ord dels en Beføjelse til at udspørge Parterne og andre Vedkommende dels en almindelig<lb />
+procesledende Myndighed.</p>
+<p>Rettens procesledende Myndighed er nærmere begrænset og ordnet ved Lovforslagets §§<lb />
+93, 95 2det Stykke, 98, 99, 102—107;<lb />
+dens Myndighed til ved Spørgsmål, stillede af<lb />
+egen Drift, at virke til Sagens Oplysning og<lb />
+Sandhedens Udfindelse hjemles ved § 95, jfrt.</p>
+</rightside>

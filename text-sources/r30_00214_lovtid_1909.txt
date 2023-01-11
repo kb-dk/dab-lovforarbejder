@@ -1,0 +1,66 @@
+478
+<pb n="214" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>478</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<title>Sjette Afsnit.</title>
+<title>
+Retsmidler mod trufne Afgørelser.
+</title>
+<title>Kapitel 80.</title>
+<undertitle>
+Påanke af Domme, afsagte af Landsretterne i første Instans.
+</undertitle>
+<wtitle>§ 917.</wtitle>
+<p>
+Domme, afsagte i første Instans af en Landsret med eller uden Nævninger,<lb/>
+kunne overensstemmende med nedenstående Eegler af Parterne påankes til Højesteret, I Forbindelse med Dommen kan Anken omfatte den forudgående Behandling<lb/>
+og de under denne faldne Afgørelser.
+</p>
+<p>
+Lige med Domme stå i Henseende til Anke sådanne Beslutninger, som omhandles i § 882.
+</p>
+<wtitle>§ 918.</wtitle>
+<p>
+Påtalemyndigheden kan anke såvel til Fordel som til Skade for Tiltalte.<lb/>
+Anke til Fordel for Tiltalte kan endvidere iværksættes af ham selv og, dersom han ikke<lb/>
+er personlig myndig, af hans Værge. Er Tiltalte død, og er han ved Dommen funden<lb/>
+skyldig i en i den offentlige Mening vanærende Handling, kan hans Ægtefælle såvel<lb/>
+som enhver af hans Slægtninge i op- og nedstigende Linie og hans Søskende anke i<lb/>
+hans Sted. Også Påtalemyndigheden kan i dette Tilfælde påanke en fældende Dom.
+</p>
+<p>
+Tiltaltes Forsvarer ved Landsretten er pligtig til på Forlangende at bistå<lb/>
+ham med Råd om, hvorvidt han bør påanke Dommen, såvel som med Affattelsen<lb/>
+og Indgivelsen af Ankemeddelelsen og dens Begrundelse.
+</p>
+<wtitle>§ 919.</wtitle>
+<p>
+Afkald på Anke kan finde Sted. efter at Dommen er afsagt. En rejst Anke<lb/>
+kan frafaldes, så længe Dom ikke er afsagt af Højesteret. Frafaldes Anke, efter at<lb/>
+Domsforhandling for Højesteret er begyndt, kan derved dog ikke Prøvelse af sådanne<lb/>
+Ankegrunde unddrages Højesteret, som tages i Betragtning i Embeds Medfør (§ 936).
+</p>
+<wtitle>§ 920.</wtitle>
+<p>
+Anke kan støttes på, at Rettergangsregler ere tilsidesatte eller fejlagtig anvendte; dog kan Tilsidesættelse eller fejlagtig Anvendelse af Rettergangsregler, hvis<lb/>
+Overholdelse Retten ikke af egen Drift påser, kun benyttes som Ankegrund, når<lb/>
+Indsigelse betimelig er fremsat for den underordnede Ret.
+</p>
+<wtitle>§ 921.</wtitle>
+<p>
+I en Sag, der er påkendt uden Nævninger, kan Anke derhos støttes på:
+</p>
+<p>
+1.	at Retten ved Afgørelsen af, om Tiltalte skal domfældes, har anvendt Straffeloven urigtig;
+</p>
+<p>
+2.	at Straffens Størrelse ikke står i passende Forhold til Brøden;
+</p>
+<p>
+3.	at Spørgsmålet, om Tiltalte skal domfældes, er urigtigt afgjort som Følge<lb/>
+af en fejlagtig Bedømmelse af Bevisernes Vægt;
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

@@ -1,0 +1,93 @@
+4031
+<pb n="333" />
+<h>
+<coll>4031</coll>
+<topmidle>Bil.t.Lovs. om Retsafgifter m. m.</topmidle>
+<colr>4032</colr>
+</h>
+<leftside>
+<p>Herefter blive Afgifterne  for en Sag,   der<lb />
+angaar</p>
+<p>Simpelt     Sag med</p>
+<p>Tilfælde.    Vidneførsel.</p>
+<p>Kr.               Kr. Ø.      Kr. S.</p>
+<p>400......   II.  43     32.  7 l</p>
+<p>4,0l,0......   15. 43     36.  71</p>
+<p>40,000......   51. 43      72. 71</p>
+<title>2.   I kjøbenhavn.</title>
+<undertitle>2.   Simpelt Tilfælde.</undertitle>
+<p>Stævning...............  I Rd.  62^5 Sk.</p>
+<p>Inkamination.............  2  —  24      —</p>
+<p>Protokolftrelse............  2 —  2-/5 —</p>
+<p>Forudbetaling for 3 Arks Be-<lb />
+skrivelse...............  1—12      —</p>
+<p>3  Anstande..............  1  —  55^5 —</p>
+<p>Udskrift af Iuftitsprotokollen   „   —  18      —</p>
+<p>Doms Afsigelse...........  4 —  4Vs —</p>
+<p>12 Ro. 82V5 Sk.</p>
+<p>25 Kr. 72 Øre.</p>
+<p>Stewplet Papir:<lb />
+stævmna...  1 Kr. „ B.</p>
+<p>4  Indlcrg ..  4 — „  —</p>
+<p>5  —    „   -</p>
+<p>30 Kr. 72 ^re.</p>
+<title>b     Thingsvidne.</title>
+<undertitle>(3 Vidner.)</undertitle>
+<p>Samme    Gebyrer   som   de   under    i    b</p>
+<p>nævnte..................    12 Kr. 18 Øre.</p>
+<p>10 Ark Udskift...........      7   ___  50   __</p>
+<p>Stemplet Papir:<lb />
+2 Indlcrg....  2 Kr. „ Ø.<lb />
+Thingsoidnet..   1 —   „ —</p>
+<p>--------------------------------    3 -    „   —</p>
+<p>22 Kr. 68 Ore.<lb />
+Naar  dertil læggev  Afgifterne<lb />
+under 2 2.............. 30 — 72   —</p>
+<p>udkommer...    53 Kr. 40 Øre.</p>
+<p>Herefter bleve Afgifterne  for  en Sag,  der<lb />
+angaar:</p>
+<p>Simpelt     Sag med</p>
+<p>Tilfælde.    Vidneførsel.</p>
+<p>Kr.               Kr. O.     Kr. Ø.</p>
+<p>400.....     30.  72     53. 40</p>
+<p>4,000.....     38.72     61.40</p>
+<p>40,000.....   110.  72     133.  40</p>
+
+</leftside>
+<rightside>
+<p>Efter Udkastet vil der i de ommeldte Sager<lb />
+blive at erlægge for Sager, der angaa:</p>
+<p>Kr.     Kr.     Kr.     Kr.</p>
+<p>400      16       20       24</p>
+<p>4,000     100      125      150</p>
+<p>40,000     280      350      420</p>
+<title>B.   Sag efter Forordn. 6te Ang. 1824.</title>
+<p>a.    Sag ang. 40 Kr. og derunder.</p>
+<p>Indkaldelse..............    „ Rd. 19VZ Sk.</p>
+<p>Inkamination ... ,........     „ —   38^/5 —</p>
+<p>2  Vidner...............    „  —   43^5 —</p>
+<p>3  Anstande..............     „ —   25V«.  —</p>
+<p>I Kjendelse................—   2^/5 —</p>
+<p>Doms Afsigelse...........    „ —   57^/z —</p>
+<p>2 Rd. 13' 5 Sk.<lb />
+4 Kr. 27 Øre.</p>
+<p>Efter Udkastet vil der i deslige Sager være<lb />
+at erlceage henholdsvis 2 Kr., 2 Kr. 50 2re<lb />
+eller 3 Kr., eftersom der ikke sinder Bevisførelse<lb />
+Sted, ellcr denne sinder Sted fra den ene eller<lb />
+begge Parters Side.</p>
+<p>d.   Sag ang. over 40 Kr.</p>
+<p>Indkaldelse..............  „ Rd.  332/5 Sk.</p>
+<p>Inkamination   ............  „  —   76^5 —</p>
+<p>2  Vidner................  „  —  86-/5 —</p>
+<p>3  Anstands..............  „   -   50^/5 —</p>
+<p>l Kjendelse..............  „  —  43^5 —</p>
+<p>Doms Afsigelse...........  I  —  19VZ —</p>
+<p>4 Rd. 26^/5 Sk.</p>
+<p>8 Kr. 54 Sre.<lb />
+Stemplet Papir:<lb />
+Stævning..   „ Kr. 30 O.</p>
+<p>4  Indlæg.   1   —   20 —</p>
+<p>I   —    50 —</p>
+<p>10 Kr.     4 Øre.</p>
+</rightside>

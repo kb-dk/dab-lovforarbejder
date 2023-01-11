@@ -1,0 +1,32 @@
+131
+<pb n="137" />
+
+<title>Syvende Afsnit.</title>
+<undertitle>Om Rettens Tvang til Forpligtelsers<lb />
+Opfyldelse.</undertitle>
+<title>Første Hovedafdeling.</title>
+<undertitle>Om Exekution og Tvangsauktion.</undertitle>
+<title>Kapitle I.</title>
+<undertitle>Almindelige Betingelser for Exekution.</undertitle>
+<wtitle>§ 435.</wtitle>
+<p>Exekution kan ske på Grundlag af:</p>
+<p>1) Domme og Kjendelser, afsagte af lovlig bebestående Domstole  i Riget,  såvelsom<lb />
+af andre indenlandske Myndigheder, der<lb />
+efter Lovene ere beføjede til at afsige<lb />
+exigible Kjendelser.</p>
+<p>2) Forlig, indgåede for de i Riget lovlig bestående Forligskommissioner, Retter eller<lb />
+Øvrigheder, for de sidstnævntes Vedkommende dog kun forsåvidt det ved Lovgivningen er dem pålagt at mægle Forlig i sådanne  Tilfælde, såvelsom for<lb />
+Landvæsenskommissioner og andre Myndigheder, om hvilke Lovene bestemme, at<lb />
+de for dem afsluttede Forlig skulle kunne<lb />
+exekveres.</p>
+<p>3) Thinglæste Pantebreve, hvorved der for en<lb />
+bestemt angiven Pengesum gives Pant i<lb />
+fast Ejendom, når de indeholde Parternes Vedtagelse om, at der uden foregående Lovmål og Dom skal kunne<lb />
+gjøres Exekution i Pantet, samt ere oprettede eller vedkjendte for    Notarius<lb />
+publicus eller for to Vitterlighedsvidner;<lb />
+Udlæget, som kan ske ikke blot for Kapitalen eller Afdrag på samme, men også særskilt for Renter, kan dog ikke udstrækkes til Andet end Pantet.<lb />
+Udpantning samt Udsættelses- og   Indsættelsesforretninger uden foregående Lovmål og Dom kunne finde Sted under<lb />
+de i dette Afsnits anden Hovedafdeling angivne Betingelser.</p>
+<wtitle>§ 436.</wtitle>
+<p>
+Fremdeles kan Exekution iværksættes</p>

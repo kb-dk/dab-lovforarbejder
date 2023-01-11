@@ -1,0 +1,121 @@
+3413
+<pb n="970" >
+<p rend="page">970</p>
+<h>
+<coll>3413</coll>
+<colr>3414</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning<lb />
+om<lb />
+Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 431.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede og Treo g Tyvende (127de) Møde.<lb />
+(Den foreløbige Behandling of Valgloven. §§ 13—21.)<lb />
+</stitle>
+<p>
+<speaker>Ordføreren:</speaker> Jeg troer rigtignok, at det vilbe være for tidligt, paa den Maade allerde at begynde at glide bort fra Grandlioven.<lb />
+</p>
+<p>
+<speaker>Rée:</speaker> Hvis det kan anseeg at være stricte asvigende fra Grundloven, saa deler ogsaa jeg for mit Vedkommende denne mening, men<lb />
+det var kun herom, jeg havbe nogen Tvivl.<lb />
+</p>
+<p>
+Man gik derpaa, da ingen Flere begjerede Orbet, over til<lb />
+§§ 13—21 af Valgloven.<lb />
+Udkastet.<lb />
+Valglister.<lb />
+<law n="13" >§ 13.<lb /></law>
+Over de i hver Commune bosatte Valgberettigede skal der føres<lb />
+Valglister efter Foranstaltning af vedkommende Communalbestyrelse.<lb />
+Hvor et Landdiftrict er henlagt under et Kjøbstadsogn uden at<lb />
+have sit eget Forstanderskab, henregnes det forsaavidt til kjøbstaden.<lb />
+<law n="14" >§ 14.<lb /></law>
+Valglisterne skulle i forskjelligee dertil indrettebe Rækker indeholde<lb />
+Vælgenres sulde Navn, Livsftilling og Bopæl. Paa hver Valglifte<lb />
+ordnes Vælgernes Navne efter deres Bogstavsølge.<lb />
+<law n="15" >§ 15.<lb /></law>
+Valglisterne skulle assattes een Gang hvert Aar. Til Grund derfor lægges det foregaaende Aars Valglister med Udeladelse af de<lb />
+Vælgere, som i Mellemtiden ere afgaaede ved Døden eller bortflyttede,<lb />
+eller som have tabt deres Valgberettigelse (§§ 3, 4, 5, og 6), og med<lb />
+Tilføining af dem, dem, som imidlertid have opnaaet Valgrets-Aalderen<lb />
+eller bosat sig i Communen.<lb />
+<law n="16" >§ 16.<lb /></law>
+Denne Valglistfternes Berigtigelse og Fuldstændiggjørelse skal foretages i de sidste fjorten Dage af Februar Maaned. De derved opstaade Tvivl skulle efter indhentede Oplysninger afgjøres af den<lb />
+samlede Communalbestyrelse.<lb />
+<law n="17" >§ 17.<lb /></law>
+Fra den 1ste Marts til den 8de s. m., begge Dage indbefattede,<lb />
+skulle Valglisterne fremligge til almindelgt Eftersyn paa et for Communens Beboere beqvemt Steb i sex Timer hver Dag. Fremlæggelsens<lb />
+Tid og steb bekjendtgjøres med mindst 8 Dages Varsel til Kirkestevne eller paa den for offentlige kundgjørelser paa vedkommende<lb />
+steb ellers brugelige maade.<lb />
+<law n="18" >§ 18.<lb /></law>
+Forinden Udløbet af den Tid, hvori Valglisterne fremligge,<lb />
+skal Enhver, som troer uden Føie at være udeladt af same, eller<lb />
+som formener, at en Uberettiget derpaa er optaget, skriftligen fremsætte sin Begjering om Optagelse eller sin Paastand om en Aandens<lb />
+Udslettelse, ledsaget af en kort Aangivelse af de Grunde, hvorpaa Paastanden er bygget.<lb />
+<law n="19" >§ 19.<lb /></law>
+De mod Valglisterne saaledes fremkomme Erindringer paakjendes<lb />
+af den samlde Communalbestyrelse i et offentligt Møde, som afholbes<lb />
+i Løbet af de paafølgende fjorten Dage. Til dette Møde tilsiges saavel de, som have fremført Erindringer, som og de, mod hvilke Indsigelse er gjort, til hvilke derhos en Gjenpart af den mod dem rettede<lb />
+Skrivelse skal leveres. Efter de af Parterne fremlagte Documenter<lb />
+og de af dem fremmstillede Vidners Forklaringer afgjøres de opstaaede<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+Spørgsmaal hvorom en kort Kjendelse tilføies Communalbestyrelsens<lb />
+sædvanlige Forhandlingsprotocol. De derefter berigtigede Valglister<lb />
+underskrives af Communalbestyrelsens Formand. (Ifr. § 56.)<lb />
+<law n="20" >§ 20.<lb /></law>
+Den, som er utilfreds med Communalbestynrelsens Kjendelfe,<lb />
+hvorved Valgret er negtet ham, kan fordre en Udskrivt af same sig<lb />
+meddelt uden Betaling of indbringe Spørgsmaalet til Aafgjørelse ved<lb />
+Lov og Dom. Saadanne Sager behandles ved de ordinaire<lb />
+Retter efter Reglerne for den civile Proces. Parterne<lb />
+ere deri fritagne for Erlæggelse af Retsgebyhrer og for Brugen af<lb />
+stemplet Papir, ligesom der af det Offentlige skal beskikkes en Sagfører for den indstevende Communalbestyrelse. Opnaaer Vedkommende<lb />
+Dom for at være valgberettget, skal han optages i sin Communes<lb />
+Valgliste, saasnart han foreviser en Udskrift af Dommen.<lb />
+<law n="21" >§ 21.<lb /></law>
+Valglisterne gjælde fra 1fte Aapril til samme Dag i det<lb />
+paafølgende Aar. Efter Samme foretages alle i Aarets Løb forefaldende Valg, saavel til Folkethinget som til landsthinget.<lb />
+Comittens Indstilling.<lb />
+<law n="13 (§ 8)" />§ 13 (<law n="13 (§ 8)" />§ 8).<lb />
+Over de i hver Commune bosatte Valgberettigede skal der<lb />
+føres Valglister efter Foranstaltning af vedkommende Communalbestyrelse.<lb />
+</p>
+<p>
+Hvor et Landdiftrict er henlagt under et Kjøbftadfogn uden<lb />
+at have sit eget Forstanderskab, henregnes det forfaavidt til Kjøbstaden.<lb />
+<law n="14 (§ 9)" />§ 14 (<law n="14 (§ 9)" />§ 9).<lb />
+Valglisterne skulle forskijellige dertil indrettede Rækker indeholde<lb />
+Valggernes fulde Navn, Aalder, Livsftilling og Bapæl. Paa hver<lb />
+Valgliste ordnes Vælgernes Navne efter deres Bogstavfølge.<lb />
+<law n="15 (§ 10)" />§ 15 (<law n="15 (§ 10)" />§ 10).<lb />
+Valglisterne skulle affattes een Gang hvert Aar. Til Grund derfor lægges det foregaaende Aars Valglister med Udeladelfe af de Vælgere, som i Mellemtiden ere afgaaede ved Døden eller bortflyttede,<lb />
+eller som have tabt deres Valgberettigelse (§§ 2, 3, 4 og 5), og med<lb />
+Tilføining af dem, som imdlertid have opnaaet Valgret eller inden den 1fte Aaugust vill have opfyldt Betingelserne<lb />
+med Hensyn til Alder og Bopæl.<lb />
+<law n="16 (§ 11)" />§ 16 (<law n="16 (§ 11)" />§ 11).<lb />
+Denne Valglisternes Beregtigelse og Fuldsteændiggjørelse skal foretages i de sidste fjorten Dage af juni Maaned. De derved opstaaede Tvivl skull efter indhentede Oplysninger afgjøres af Communalbestyrelsen.<lb />
+<law n="17 (§ 12)" />§17 (<law n="17 (§ 12)" />§ 12).<lb />
+Fra den 1fte Juli til den 8de f. M., begge Dage indbefattede,<lb />
+skulle Valglisterne fremligge til almindeligt Eftersyn paa et for Communens Beboere beqvemt Sted i sex Timer hver Dag. Fremlæggel<lb />
+sens Tid og Sted bekjendtgjøres med mindst 8 Dages Varsel til<lb />
+Kirkeftevne eller paa den for offentlige Kundgjørelser paa vedkommende Sted ellers brugelige Maade.<lb />
+<law n="18 (§ 13)" />§ 18 (<law n="18 (§ 13)" />§ 13).<lb />
+Inden tre Dage fra Udløbet af den Tid, hvori Valglisterene<lb />
+fremligge, skal-Enhver, som troer uden Foie at være udeladt af samme,<lb />
+eller som sormener, at en Uberettiget derpaa er, optaget, skriftligen<lb />
+fremsætte sin Begjering om Optagelse eller sin Paastand om en Aandens Udslettelse, ledsaget af en kort Aangivelse af de Grunde, hvorpaa<lb />
+Paastanden er bygget.<lb />
+</p>
+</rightside>
+
+
+</pb>

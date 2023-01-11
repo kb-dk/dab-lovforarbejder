@@ -1,0 +1,58 @@
+425
+<pb n="161" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>425</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 698.</wtitle>
+<p>
+Retten kan med Hensyn til flere selvstændige Sager, der samtidig henstå for<lb/>
+Undersøgelsesretten eller samtidig for den dømmende Ret, beslutte, at de skulle forbindes til een Sag, dog, når Søgsmålene ikke stå i det i § 696 forudsatte Forhold til<lb/>
+hinanden, kun, når ingen af Parterne gør Indsigelse derimod. Herved finder Reglen<lb/>
+i § 696, sidste Punktum, tilsvarende Anvendelse.
+</p>
+<p>
+Beslutningen tages af den Ret, for hvilken Sagerne henstå, eller, hvis Spørgsmål er om Forening af Sager, som ere tingfæstede dels ved Landsretten, dels ved<lb/>
+en under den hørende Underret, af Landsretten. Forfølges Sagerne ellers for forskellige Retter, og der ikke er Enighed, afgøres Spørgsmålet af vedkommende overordnede Ret (§ 214).
+</p>
+<wtitle>§ 699.</wtitle>
+<p>
+Retten kan omgøre Beslutninger, som den har truffet i Medfør af §§ 697 og<lb/>
+698; dog kan en Sags Overgang til en anden Ret kun besluttes overensstemmende<lb/>
+med Forskrifterne i § 698, 2det Stykke.
+</p>
+<wtitle>§ 700.</wtitle>
+<p>
+Retterne ere beføjede til i en fremmed Retskreds, uden Mellemkomst af Retten<lb/>
+i denne, at lade foretage Forkyndelser samt at lade udføre Anholdelsesbeslutninger.<lb/>
+Fængslingskendelser og Befalinger om ved Tvang at fremstille Vidner eller Syns- eller<lb/>
+Skønsmænd for Retten. Når det i øvrigt til Undersøgelsens Fremme findes hensigtsmæssigt, kan Retten foretage Embedshandlinger i en fremmed Retskreds med Samtykke af Retten i denne eller af højere Ret, og i påtrængende Tilfælde uden sådant<lb/>
+Samtykke. Fornøden Meddelelse skal snarest muligt ske til Retten i den pågældende Kreds.
+</p>
+<title>Kapitel 63.</title>
+<undertitle>
+Påtalen.
+</undertitle>
+<wtitle>§ 701.</wtitle>
+<p>
+Retterne træde i de efter Reglerne i denne Lovs 4de Bog behandlede Sager<lb/>
+kun i Virksomhed ifølge Begæring af nogen, hvem Ret til Påtale tilkommer, jvf. dog<lb/>
+§§ 792 og 803.
+</p>
+<p>
+I Underretskredse, hvor Dommeren tillige er Politimester, træder i Stedet for<lb/>
+Begæring til Underretten en Tilførsel til Retsbogen om, at Rettens Virksomhed er<lb/>
+foranlediget af Dommeren i hans Egenskab af Politimester.
+</p>
+<wtitle>§ 702.</wtitle>
+<p>
+Påtalen tilkommer efter de nedenstående Regler Amtmanden (i København<lb/>
+Politidirektøren), Politimesteren, særlige Forvaltningsmyndigheder og private.
+</p>
+<p>
+Hvor Påtalen tilkommer Amtmanden eller Politiet, kan Justitsministeren med<lb/>
+Hensyn til enkelte Sager pålægge Påtalemyndigheden at begynde eller fortsætte,<lb/>
+undlade eller standse Forfølgning, at gøre Retsmidler gældende o. s. fr.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.	56</pagename>

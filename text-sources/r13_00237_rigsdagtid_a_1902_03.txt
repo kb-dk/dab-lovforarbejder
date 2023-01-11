@@ -1,0 +1,76 @@
+2201
+<pb n="237" />
+<h>
+<coll>
+2201
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2202
+</colr>
+</h>
+<p>
+svareren at afgive de foreskrevne Meddelelser ogsaa til ham. Retten kan derhos ude-<lb />
+lukke ham fra Deltagelse, naar den finder dette nødvendigt.
+</p>
+<wtitle>§  1044.</wtitle>
+<p>
+Har vedkommende Paatalemyndighed frafaldet en begyndt Forfølgning, kan<lb />
+den, hvem Paataleret tilkommer efter § 704, overensstemmende med Reglerne i de<lb />
+foregaaende Paragrafer, optage Sagens Forfølgning paa det Trin, hvori denne befinder<lb />
+sig, naar han, skriftlig eller til Retsprotokollen, afgiver Erklæring herom til vedkom-<lb />
+mende Ret inden en Uge efter Frafaldelsen eller, hvis denne er sket under Doms-<lb />
+forhandling, paa Stedet.
+</p>
+<p>
+Har Paatalemyndigheden nægtet eller undladt at rejse Anke over for en fri-<lb />
+findende Dom i en offentlig Sag, kan den, hvem Paataleret tilkommer efter § 704, gøre<lb />
+dette, dog at saadant sker inden fire Dage henholdsvis efter Nægtelsen, eller efter at<lb />
+Ankefristen er udløben, og at Bestemmelserne i § 1042, første og andet Stykke, ogsaa<lb />
+her finde Anvendelse. Ligeledes er han, naar han forgæves har opfordret Over-<lb />
+anklageren til at begære Genoptagelse i Henhold til § 1023 af en af Paatalemyndig-<lb />
+heden anlagt Sag, hvorunder Tiltalte er frifunden, berettiget til selv inden for en Frist<lb />
+af fire Dage efter Nægtelsen at fremsætte Begæring om Genoptagelse.
+</p>
+<p>
+Naar en privat Sagsøger indtræder i en Forfølgning i Henhold til nærværende<lb />
+Paragraf, blive Reglerne i de foregaaende Paragrafer at anvende med de fornødne<lb />
+Lempelser. Hans Indtrædelse i Forfølgningen saavel som Sagens videre Fremme kan<lb />
+betinges af Sikkerhedsstillelse overensstemmende med § 1038, sidste Stykke.
+</p>
+<wtitle>§  1045.</wtitle>
+<p>
+Naar nogen ved en Underrets Dom i en Sag, hvorunder en privat Sagsøger i<lb />
+den borgerlige Retsplejes Former har paatalt en Forbrydelse, som er undergiven privat<lb />
+Paatale, er dømt til Fængselsstraf, kan han rejse Anke overensstemmende med de<lb />
+Regler, som gælde i offentlige Sager. Overanklageren har da overensstemmende med<lb />
+Reglerne i Kapitel 89, jfr. Kapitel 88, at indbringe Sagen for Landsretten, hvor<lb />
+Ankesagen forberedes og behandles efter de for offentlige Sager gældende Regler.<lb />
+Overanklageren lader Meddelelse om Ankesagen forkynde for den private Sagsøger,<lb />
+der har Adgang til at slutte sig til Forfølgningen for Landsretten overensstemmende<lb />
+med Bestemmelserne i §  1043.
+</p>
+<p>
+Foranstaaende Regler finde tilsvarende Anvendelse, hvor en Landsrets Dom i<lb />
+en privat Straffesag kan paankes til Højesteret i Medfør af Reglerne i § 405 eller<lb />
+§  1014.
+</p>
+<p>
+Omfatter en Anke til Landsretten Bevisbedømmelsen, finde Bestemmelserne i<lb />
+§ 1040 tilsvarende Anvendelse.
+</p>
+<title>
+Kapitel 93.
+</title>
+<title>
+Paatale af borgerlige Krav under Straffesager.
+</title>
+<wtitle>§  1046.</wtitle>
+<p>
+I Politisager samt i Sager, der paadømmes ved Undersøgelsesretten (§ 970),<lb />
+kan Erstatning hos Tiltalte tilkendes den forurettede for den ved Forbrydelsen for-<lb />
+voldte Skade, naar han herom har fremsat Begæring for Retten, hvortil der, for saa<lb />
+vidt Sagens Beskaffenhed dertil giver Anledning, bør gives ham Lejlighed.
+</p>

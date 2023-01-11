@@ -1,0 +1,61 @@
+495
+<pb n="231" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>495</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 980.</wtitle>
+<p>
+Når en Anke, som alene er rejst af Påtalemyndigheden, afvises eller forkastes, kan den overordnede Ret gøre sådan Forandring i den ved den påankede<lb/>
+Dom bestemte Straf, som i Medfør af Straffelovens § 58 måtte findes begrundet ved<lb/>
+det Varetægtsfængsel, som Domfældte har været underkastet efter Dommens Afsigelse.
+</p>
+<wtitle>§ 981.</wtitle>
+<p>
+Når der til Fuldbyrdelsen af en Straffedom bliver Spørgsmål om den domfældtes Pågribelse, kunne de samme Forholdsregler anvendes, som ere hjemlede, når<lb/>
+Fængslingskendelse er afsagt.
+</p>
+<wtitle>§ 982.</wtitle>
+<p>
+Bødestraffe, som ikke ere fuldbyrdede, bortfalde ved den domfældtes Død, for<lb/>
+så vidt der ikke er særlig Hjemmel for, at hans Bo hæfter for Bøden.
+</p>
+<wtitle>§ 983.</wtitle>
+<p>
+Ovenstående Regler finde med de af Forholdets Natur eller særlige Forskrifter<lb/>
+følgende Lempelser også Anvendelse ved Fuldbyrdelsen af Kendelser, hvorved Retten<lb/>
+har pålagt Vidner eller andre Straf.
+</p>
+<p>
+Fuldbyrdelse af de i § 108, jvf. § 197, omtalte Kendelser kan dog først finde<lb/>
+Sted, når Fristen til at fremsætte Begæring om Kendelsens Ophævelse i Henhold til<lb/>
+§168 er forløben, eller Retten har nægtet at efterkomme en sådan Begæring.
+</p>
+<p>
+Med Hensyn til Fuldbyrdelsen af de i §§ 185 og 203 ommeldte Bødepålæg forholdes efter de almindelige Regler om Bøder, som pålægges af Øvrighedsmyndigheder.
+</p>
+<title>Niende Afsnit.</title>
+<title>
+Sagsomkostninger og Rettergangsbøder i Straffesager.
+</title>
+<title>Kapitel 89.</title>
+<undertitle>
+Sagsomkostninger.
+</undertitle>
+<wtitle>§ 984.</wtitle>
+<p>
+I Straffesager, som forfølges af en offentlig Myndighed, udredes Omkostningerne ved Sagens Behandling og Straffens Fuldbyrdelse af det offentlige med Forbehold af Ret til at få dem erstattede efter nedenstående Regler.
+</p>
+<p>
+De beskikkede offentlige Anklagere og Forsvarere erholde Vederlag af det<lb/>
+offentlige for den enkelte Sag, for så vidt Krav herpå ikke er frafaldet, Retten fastsætter dette Vederlag efter Arbejdets Betydning og Omfang ved Dommen, eller når<lb/>
+deres Virksomhed er afsluttet, I øvrigt gælde Bestemmelserne i Lov om Sagførersalær m. m. af 24. Maj 1879 for de offentlige Anklagere og Forsvarere,
+</p>
+<p>
+Vederlag til valgte Forsvarere og Udgifter i Anledning af Beviser, som Sigtede fremskaffer uden Rettens Foranstaltning, vedkomme ikke det offentlige, ej heller<lb/>
+Udgifter, der foranlediges ved Skridt, som en Trediemand foretager i sin Interesse.<lb/>
+Dog kan Retten efter Omstændighederne tillægge Vidner, som fra Tiltaltes Side<lb/>
+fremstilles i Nævningesager uden dertil at være indkaldte, Godtgørelse hos det offentlige.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

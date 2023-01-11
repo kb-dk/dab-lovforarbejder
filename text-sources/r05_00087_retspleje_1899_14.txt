@@ -1,0 +1,41 @@
+81
+<pb n="87" />
+<h>
+<topmidle>Kap. XVIII. Behandl. ved Landsret.      81</topmidle>
+</h>
+<p>tagelsen bortfalder eller afvises. Adgang<lb />
+til Genoptagelse haves kun en Gang i<lb />
+samme Sag.</p>
+<wtitle>§ 224.</wtitle>
+<p>Den, der uden at have afgivet noget<lb />
+Svar i Sagen, er dømt som udebleven ved<lb />
+en Landsret som 1ste Instans, kan endvidere<lb />
+begære Sagen genoptaget, når han inden<lb />
+5 Dage efter Dommens Afsigelse skriftlig<lb />
+begærer et Retsmøde berammet samt enten<lb />
+fremlægger Bevis for at have betalt de<lb />
+idømte Sagsomkostninger eller i Retten deponerer Beløbet. Rettens Formand giver<lb />
+Begæringen Påtegning om, at Sagen er<lb />
+genoptaget, og fastsætter det Varsel, med<lb />
+hvilket Modparten skal indkaldes. I Mødet<lb />
+må Domfældte i Reglen, jfr. § 208, afgive sit Svar i Sagen; undlader han dette,<lb />
+eller er Modparten ikke behørig indkaldt,<lb />
+afvises Genoptagelsen.</p>
+<p>Indkaldelse af Modparten til Sagens<lb />
+Genoptagelse har samme opsættende Virkning som Forkyndelse af Ankestævning.</p>
+<p>I øvrigt gælde Bestemmelserne i § 222,<lb />
+sidste Stykke, dog således at Udeblivelsesdommens Pålæg af Procesomkostninger ikke<lb />
+kan ophæves, og i § 223, 2det—4de Pkt.,<lb />
+samt de almindelige Regler om Landretsproceduren.</p>
+<wtitle>§ 225.</wtitle>
+<p>Når Tilladelse til at påanke efter<lb />
+udløbet af den almindelige Ankefrist eller<lb />
+til at fremføre nye Påstande eller Anbringender søges hos Højesteret på Grund<lb />
+af utilregnelig Udeblivelse ved Landsret,<lb />
+kan Højesteret i Stedet for at give bemeldte Tilladelse bestemme, at Sagen skal<lb />
+genoptages ved Landsretten. Andrageren<lb />
+man da inden 14 Dage efter at have erholdt<lb />
+Meddelelse om Højesterets Bestemmelse, hvis<lb />
+Forkyndelse for Modparten har samme opsættende Virkning som Forkyndelse af Ankestævning, indgive Begæring til Landsretten<lb />
+om Berammelse af et Retsmøde til at træffe<lb />
+de fornødne Bestemmelser om Sagens Fortsættelse, jfr. §§ 222 og 223.</p>

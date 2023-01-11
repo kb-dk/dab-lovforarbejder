@@ -1,0 +1,104 @@
+2855
+<pb n="28" />
+<h>
+<coll>2855</coll>
+<topmidle>Bet. o. Lovf. om Rettens Pleje m. m.	</topmidle>
+<colr>2856</colr>
+</h>
+<title>
+Lolland—Falster.
+</title>
+<p>
+7.	Politimesteren i Sakskøbing Købstad m. m.
+</p>
+<p>
+8.	— i Maribo Købstad m. m.
+</p>
+<title>
+Fyn.
+</title>
+<p>
+9.	Politimesteren i Faaborg Købstad m. m.
+</p>
+<p>
+10.	— i Ærøskøbing Købstad m. m.
+</p>
+<p>
+11.	—	i Odense Herred.
+</p>
+<p>
+12.	—	i Bogense Købstad m. m.
+</p>
+<title>
+Jylland.
+</title>
+<p>
+13.	Politimesteren i Fredericia m. m.
+</p>
+<p>
+14.	—	i Ning Herred m. m.
+</p>
+<p>
+15.	—	i Grenaa Købstad m. m.
+</p>
+<p>
+16.	—	i Rougsø m. fl. Herreder.
+</p>
+<p>
+17.	—	i Hobro Købstad m. m.
+</p>
+<p>
+18.	—	i Sæby Købstad m. m.
+</p>
+<p>
+19.	—	i Skive Købstad m. m.
+</p>
+<p>
+20.	—	i Herning Købstad m. m.
+</p>
+<p>
+21.	—	i Varde Købstad m. m.
+</p>
+<p>
+22.	—	i Esbjerg Købstad m. m.
+</p>
+<title>
+Tavle E
+(Politimestre i 3die Lønningsklasse).
+</title>
+<title>
+Sjælland.
+</title>
+<p>
+1.	Politimesteren i Storehedinge Købstad m. m.
+</p>
+<p>
+2.	—	i Præstø Købstad m. m.
+</p>
+<title>
+Fyn.
+</title>
+<p>
+3.	Politimesteren i Nyborg Købstad m. m.
+</p>
+<p>
+4.	—	i Kerteminde Købstad m. m.
+</p>
+<p>
+5.	—	i Assens Købstad m. m.
+</p>
+<p>
+6.	—	i Middelfart Købstad m. m.
+</p>
+<title>
+Jylland.
+</title>
+<p>
+7.	Politimesteren i Nykøbing M. Købstad m. m.
+</p>
+<p>
+8.	—	i Hassing-Refs Herreder.
+</p>
+<p>
+9.	—	i Lemvig Købstad m. m.
+</p>

@@ -1,0 +1,88 @@
+2303
+<pb n="23" />
+<h>
+<coll>2303</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2304</colr>
+</h>
+<leftside>
+<p>365) I 2det og 3die Stykke ændres<lb />
+„Fogden" til „Sysselmanden".</p>
+<wtitle>Til § 410.</wtitle>
+<p>367)	I 2det Stykkes 1ste Linie sæt-<lb />
+tes Komma efter „overleveres".</p>
+<p>368)	I samme Stykke ændres „Fo-<lb />
+gedforretningen" til „Eksekutionsforret-<lb />
+ningen".</p>
+<p>Af Udvalget:</p>
+<p>369)	I Stk. 3 L. 7 ændres „8 Dage"<lb />
+til „en Uge".</p>
+<wtitle>Til § 413.</wtitle>
+<p>Af Udvalget:</p>
+<p>369) I Stk. 5 L. 3 ændres „8 Dage"<lb />
+til „en Uge".</p>
+<p>Af Justitsministeren, tiltraadt af<lb />
+Udvalget undtagen Nanke:</p>
+<p>370)	„Fogden" ændres til „Syssel-<lb />
+manden". (4 Steder).</p>
+<p>371)	I 2det Stykke ændres „at af-<lb />
+gøre den opstaaede Tvist ved en Kendelse,<lb />
+der afsiges snarest muligt" til „snarest<lb />
+muligt at afgøre den opstaaede Tvist".</p>
+<p>372)	Underændringsforslag til Ud-<lb />
+valgets Ændringsforslag Nr. 197: „I Stykke<lb />
+5" rettes til „I Stykke 3".</p>
+<p>373)	I Stykke 3, sidste Punktum,<lb />
+ændres „8 Dages" til „en Uges".</p>
+<wtitle>Til § 414.</wtitle>
+<p>374) „Fogden" ændres til „Syssel-<lb />
+manden". (2 Steder).</p>
+<wtitle>Til § 415.</wtitle>
+<p>375)	„Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<p>376)	I 3die Linie ændres „kendes"<lb />
+til „skønnes".</p>
+<p>377)	I 4de Linie ændres „Retskred-<lb />
+sen" til „Syslet".</p>
+</leftside>
+<rightside>
+<wtitle>Til § 416.</wtitle>
+<p>375)	„Fogden" ændres til „Syssel-<lb />
+manden". (2 Steder).</p>
+<p>376)	I Linie 2 ændres „Kendelse"</p>
+<p>377)	til „Afgørelse".</p>
+<wtitle>Til § 417.</wtitle>
+<p>380) „Fogden" ændres til „Syssel-</p>
+<p>manden". (3 Steder).</p>
+<wtitle>Til § 419.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>381) I Linie 6, 8 og 9 ændres „ankes",<lb />
+„Anken" og „Anke" til „klages", „Klagen"<lb />
+og „Klage". IL. 9 ændres „afgive sin Ken-<lb />
+delse før" til „tage sin Beslutning om". I<lb />
+L. 13 ændres „der kan afsiges Kendelse"<lb />
+til „Fogden kan tage Beslutning". I L. 16<lb />
+„Afsiges Fogdens Kendelse", I. „Træffes<lb />
+Fogden Afgørelse". L. 18 „Kendelsen" I.<lb />
+„Afgørelsen". I L. 19 ændres: „Anke eller<lb />
+Kære paa Stedet erklæres og paa For-<lb />
+langende Sikkerhed stilles" til: „nogen af<lb />
+de vedkommende paa Stedet erklærer at<lb />
+ville rejse Besværing til Retten — hvilken<lb />
+Besværing maa iværksættes i Løbet af en<lb />
+Uge — og derhos stiller Sikkerhed".</p>
+<p>Af Udvalget:</p>
+<p>382 a) I Stk. 1 L. 2 f. n. ændres „8<lb />
+Dage" til „en Uge".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>382 b) „Fogden" ændres til „Syssel-<lb />
+manden". (6 Steder).</p>
+<wtitle>Til § 420.</wtitle>
+<p>Af Justitsministeren, tiltraadt af<lb />
+Udvalget undtagen Nanke:</p>
+<p>383)	„Fogden" ændres til „Syssel-<lb />
+manden". (3 Steder).</p>
+<p>384)	„Protokollen" ændres til „Auk-<lb />
+tionsbogen". (2 Steder).</p>
+</rightside>

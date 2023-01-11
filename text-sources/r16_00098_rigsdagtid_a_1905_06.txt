@@ -1,0 +1,69 @@
+2099
+<pb n="98" />
+<h>
+<coll>
+2099
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2100
+</colr>
+</h>
+<title>Kapitel 39.</title>
+<undertitle>Ægteskabssager samt Sager, hvorunder Arvinger søge sig en bortebleven Persons<lb />
+Formue tilkendt.</undertitle>
+<wtitle>§ 427.</wtitle>
+<p>
+Sager angaaende et Ægteskabs Ugyldighed eller Opløsning blive at behandle efter<lb />
+de almindelige for Underretsproceduren gældende Regler med de nedenfor givne nær-<lb />
+mere Bestemmelser ved Underretten for det Sted. hvor Sagsøgte har Bopæl eller Op-<lb />
+holdssted, eller, dersom Sagsøgte har forladt Landet, eller det ikke vides, hvor Sagsøgte<lb />
+er, for det Sted, hvor denne sidst havde Bopæl eller Opholdssted her i Riget,
+</p>
+<wtitle>§ 428.</wtitle>
+<p>
+Dersom Sagsøgte ikke under Sagen giver Møde ved antagen Sagfører, har Sag-<lb />
+søgeren at andrage paa, at der af Retten maa blive beskikket Sagsøgte en Forsvarer.<lb />
+Forsømmes dette, afvises Sagen.
+</p>
+<p>
+Salæret til den for Sagsøgte beskikkede Forsvarer paalægges det offentlige,<lb />
+hvor det ikke paalægges Sagsøgeren som tabende Part at udrede det,
+</p>
+<wtitle>§ 429.</wtitle>
+<p>
+Retten kan uden Hensyn til, om Modparten begærer det, paalægge Sagsøgeren<lb />
+at fremstille sig til Afhørelse under Domsforhandlingen og der under Ed at besvare<lb />
+de Spørgsmaal angaaende Sagens Genstand, som Retten maatte gøre. Ugrundet Und-<lb />
+ladelse heraf eller Vægring herved har til Følge, at Sagen afvises.
+</p>
+<wtitle>§ 430.</wtitle>
+<p>
+Ligeledes kan Retten, hvis Sagsøgte bor eller opholder sig i Riget, paalægge<lb />
+denne at fremstille sig til Afliørelse under Domsforhandlingen og der under Ed be-<lb />
+svare de Spørgsmaal angaaende Sagens Genstand, som gøres af Retten. Ugrundet<lb />
+Undladelse af at møde eller Vægring ved at svare medfører dog kun Virkning efter<lb />
+§ 431, 2det Punktum.
+</p>
+<wtitle>§ 431.</wtitle>
+<p>
+Indrømmende Proceserklæringer fra Sagsøgtes Side have ikke Virkning som<lb />
+bindende Grundlag for Stridsspørgsmaalets Indhold og Omfang, men der kan alene<lb />
+tillægges dem Betydning som Bevismidler. Ligeledes kan Sagsøgtes Udeblivelse, Tavs-<lb />
+hed eller ubestemte Erklæringer i de i § 290 omhandlede Tilfælde kun tages i Be-<lb />
+tragtning som Bevisdata imod paagældende.
+</p>
+<wtitle>§ 432.</wtitle>
+<p>
+Parts Ed finder, bortset fra de i §§ 429 og 430 omhandlede Tilfælde, ikke<lb />
+Anvendelse i Ægteskabssager.
+</p>
+<wtitle>§ 433.</wtitle>
+<p>
+Overanklageren kan under Iagttagelse af Reglerne i Kap. 32 som Intervenient <lb />
+paa det offentliges Vegne indtræde i en Ægteskabssag for at forhindre, at Skilsmisse-<lb />
+dom eller Dom, hvorved et Ægteskab erklæres ugyldigt, urettelig tilsniges; han kan<lb />
+ligeledes, uden at være indtraadt i Sagen i første Instans, i det anførte Øjemed paa<lb />
+det offentliges Vegne paaanke en saadan Dom.
+</p>

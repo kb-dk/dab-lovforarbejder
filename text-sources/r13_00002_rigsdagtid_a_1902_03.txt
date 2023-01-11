@@ -1,0 +1,80 @@
+1727
+<pb n="2" />
+<h>
+<coll>
+1727
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+1728
+</colr>
+</h>
+<p>
+som vælges til Landsretten (jvfr. § 9). Tilkaldelsen sker for en enkelt Sag og paa<lb />
+det Tidspunkt, som Retten finder tjenligt. Den Tilkaldte er. indtil vedkommende Sag<lb />
+er paadømt, Medlem af Retten.
+</p>
+<p>
+Ved Sø- og Handelssager forstaas i denne Lov de borgerlige Sager, i hvilke<lb />
+Fagkendskab henholdsvis til Søforhold og til Handelsforhold skønnes at være af Be-<lb />
+tydning; og ved Afgørelsen heraf vil der være at tage særligt Hensyn til, om begge<lb />
+Parter ønske Behandling af Sagen som Sø- eller Handelssag.
+</p>
+<p>
+Paa samme Maade og med lige Virkning som i 3die Stykke angivet kan der<lb />
+i en Sag, til hvis Paakendelse Retten finder Medhjælp af særlig teknisk Indsigt nød-<lb />
+vendig, tilkaldes 2 teknisk Kyndige.
+</p>
+<wtitle>§ 3.</wtitle>
+<p>
+Skriverforretningerne ved Højesteret samt Oppebørsel af og Regnskabsaflæggelse<lb />
+for Retsafgifter forestaas af en Justitssekretær. Ved Skriverkontoret ansættes 3 Fuld-<lb />
+mægtige og det øvrige fornødne Kontorpersonale. Højesterets Justitiarius træffer Be-<lb />
+stemmelse om Forretningernes Fordeling.
+</p>
+<wtitle>§  4.</wtitle>
+<p>
+Højesteret holder Møde til de samme Tider, som hidtil har været brugeligt;<lb />
+men Retten kan bestemme saadanne Forandringer heri, som den maatte anse for hen-<lb />
+sigtsmæssige, hvorom det fornødne bliver at bekendtgøre i Lovtidende.
+</p>
+<p>
+Beslutninger af Retten, som gaa ud paa i Henhold til Reglerne i Bøgerne om<lb />
+den borgerlige Retspleje og Strafferetsplejen at tilstede Afvigelser fra de almindelige<lb />
+processuelle Regler, ere ikke bundne til de foreskrevne eller vedtagne Mødetider.
+</p>
+<wtitle>§  5.</wtitle>
+<p>
+Der skal være 2 Landsretter: Østre Landsret og Vestre Landsret, hver med<lb />
+samme Landomraade, som henholdsvis Landsoverretten i Kjøbenhavn og Landsover-<lb />
+retten i Viborg hidtil har haft.
+</p>
+<p>
+Østre Landsret, der har sit Sæde i Kjøbenhavn, bestaar af en Justitiarius og<lb />
+indtil 16 andre Landsdommere; Vestre Landsret, der har sit Sæde i Viborg, bestaar<lb />
+af en Justitiarius og indtil 11 andre Landsdommere.
+</p>
+<p>
+I Justitiarii Forfald træder i fornødent Fald det ældste tilstedeværende ordent-<lb />
+lige Medlem af Retten i hans Sted.
+</p>
+<p>
+Til i Stedet for en Landsdommer at tiltræde Landsretten, naar denne i Med-<lb />
+før af § 12 holder Møde uden for dens Hovedtingsted, kan Justitsministeren for hvert<lb />
+enkelt Ting beskikke en af de i Landsretskredsen ansatte Underretsdommere.
+</p>
+<wtitle>§ 6.</wtitle>
+<p>
+Landsretternes Domsmyndighed omfatter dels Behandling og Paakendelse i<lb />
+første Instans af Retssager i det Omfang, som bestemmes ved Reglerne i Bøgerne om<lb />
+den borgerlige Retspleje og Strafferetsplejen, dels Prøvelse i anden Instans af Under-<lb />
+retternes Behandlinger og Afgørelser overensstemmende med de nævnte Regler.
+</p>
+<wtitle>§  7.</wtitle>
+<p>
+Hvor ikke andet er særlig bestemt i denne Lov, deltage i de enkelte Lands-<lb />
+retssagers Behandling mindst 3 af Rettens Dommere. Sagernes Fordeling mellem<lb />
+Dommerne bestemmes af Justitiarius efter Forhandling med Rettens Medlemmer.
+</p>

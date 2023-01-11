@@ -1,0 +1,70 @@
+2167
+<pb n="10" />
+<h>
+<coll>2167</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2168</colr>
+</h>
+<wtitle>§ 51.</wtitle>
+<p>
+Retten paaser paa Embeds Vegne, at den, der møder som Rettergangsfuld-<lb/>
+mægtig for en Part, er befuldmægtiget hertil.
+</p>
+<p>
+Dog afkræves der ikke paa Embeds Vegne Sagførere Bevis for, at de ere<lb/>
+befuldmægtigede for Parten, og, naar deres Befuldmægtigelse benægtes af Modparten,<lb/>
+kunne de forlange Udsætttelse for at tilvejebringe det fornødne Bevis.
+</p>
+<p>
+Andre Rettergangsfuldmægtige end Sagførere maa være i Stand til straks for<lb/>
+Retten og Modparten at føre Bevis for Befuldmægtigelsen, da de ellers straks kunne<lb/>
+afvises.
+</p>
+<wtitle>§ 52.</wtitle>
+<p>
+Naar en i øvrigt til at møde for en Part beretttiget Person erklærer at ville<lb/>
+varetage Partens Sag og forpligte sig til at tilvejebringe dennes Billigelse, og ingen<lb/>
+anden giver Møde for Parten, kan han, naar saadant kan ske uden væsentlig Ulempe,<lb/>
+af Retten stedes hertil enten mod eller uden Sikkerhedsstillelse. Den paagældende<lb/>
+har da inden næste Retsmøde eller dog inden en anden af Retten bestemt Frist at<lb/>
+tilvejebringe Partens Godkendelse af hans Handlinger; i modsat Fald afvises han og<lb/>
+har at tilsvare Modparten de ved Retsmøderne foranledigede Omkostninger saavel som<lb/>
+muligt Tab ved Sagens Forhaling.
+</p>
+<wtitle>§ 53.</wtitle>
+<p>
+Om end en Part i øvrigt lader sin Sag udføre ved en Rettergangsfuldmægtig,<lb/>
+er han dog ikke udelukket fra selv at ytre sig under den mundtlige Forhandling,<lb/>
+umiddelbart efter at hans Rettergangsfuldmægtig har talt.
+</p>
+<title>Kapitel VIL.</title>
+<undertitle>
+Retsmøder og Retsbøger.
+</undertitle>
+<wtitle>§ 54.</wtitle>
+<p>
+Over de til Retten indkomne Sager føres en Sagliste. For de enkelte Rets-<lb/>
+dage affattes derhos Retslister, paa hvilke de Sager, som skulle komme for, optages.<lb/>
+De nærmere Regler for Affattelsen og Bekendtgørelsen af Retslisterne fastsættes af<lb/>
+Justitsministeriet.
+</p>
+<p>
+Rettens Formand afgør, i hvilken Orden de Sager, der ere ansatte til For-<lb/>
+handling paa samme Retsdag, skulle foretages. Sager, som ikke naa at komme til<lb/>
+Forhandling, overgaa uden videre paa Retslisten for næste Retsdag, medmindre For-<lb/>
+manden bestemmer anderledes.
+</p>
+<p>
+Retten eller dens Formand er bemyndiget til at lade en Sag udgaa af Rets-<lb/>
+listen og overføre den paa Retslisten for en af de paafølgende Retsdage, naar der er<lb/>
+Grund til at antage, at Sagen enten af Hensyn til Rettens Forretninger, Retsperso-<lb/>
+nalet eller andre Aarsager, saasom Forhindringer for Sagførere, Parter, Vidner, Syns-<lb/>
+mænd eller desl., ikke vil kunne forhandles paa den oprindelig fastsatte Tid. Oplys-<lb/>
+ninger i denne Henseende kunne baade mundtligt og skriftligt meddeles Rettens For-<lb/>
+mand, saavel under Retsmøder som uden for disse.
+</p>
+<p>
+Naar en Sag ifølge denne Paragraf overføres paa Retslisten for en følgende<lb/>
+Retsdag, lader Rettens Formand, for at forebygge forgæves Møder, alle vedkommende<lb/>
+saa hurtigt som muligt underrette derom.
+</p>

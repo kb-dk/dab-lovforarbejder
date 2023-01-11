@@ -1,0 +1,31 @@
+1
+<pb n="7" />
+<h>
+<topmidle>Kap. I.    Retternes Virkekreds.      1</topmidle>
+</h>
+<title>Første Afsnit.</title>
+<undertitle>Almindelige Bestemmelser.</undertitle>
+<title>Kapitel I.</title>
+<undertitle>Retternes Birkekreds.</undertitle>
+<wtitle>§1</wtitle>
+<p>Enhver borgerlig Retstrætte, som ikke<lb />
+ved særlig Lovforskrift er henlagt til eller<lb />
+i Følge Overenskomst mellem Parterne (§ 11)<lb />
+indbringes for Underret, behandles i første<lb />
+Instans af Landsret.</p>
+<wtitle>§ 2.</wtitle>
+<p>Til Underretterne henlægges:</p>
+<p>1)  Søgsmål angående   private   Formuerettigheder, når Genstanden for samme<lb />
+i Penge eller Penges Værd ikke   overstiger 400 Kr.</p>
+<p>2)  Sager   angående Skatter,  Afgifter og<lb />
+andre lignende Adelfer af offentligretlig<lb />
+Beskaffenhed til Stat, Kommune, Embeder   og andre   offentlige   Indretninger,<lb />
+når Genstanden  for samme ikke overstiger 400 Kr.</p>
+<p>3)  Sager angående Servituter og mindre<lb />
+omfattende (partielle)  Brugsrettigheder.</p>
+<p>4)  Sager om Veksler og visse andre Gældsbrebe (§ 293, jfr. § 290).</p>
+<p>5)  Ægteskabssager (§ 295).</p>
+<p>6)  Sager angående Mortifikation af Gældsbreve,   ved   hvilke  der  er givet Pant i<lb />
+fast Ejendom (§ 314).</p>
+<p>7)  Sager,   hvorved   Faderskabet  til uægte<lb />
+Børn søges oplyst,  for at Underholdsbidrag kan pålægges Faderen.</p>

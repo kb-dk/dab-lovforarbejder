@@ -1,0 +1,73 @@
+2197
+<pb n="147" />
+<h>
+<coll>
+2197
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2198
+</colr>
+</h>
+<wtitle>§ 641.</wtitle>
+<p>
+Anke eller Kære kan ikke finde Sted imod de Bestemmelser, der af Skifte-<lb />
+retten træffes ifølge Lov af 30. November 1874 §§ 16, sidste Stykke, 19, tredie Punk-<lb />
+tum, 23, 24. første Punktum, 27, sidste Punktum, 30, sidste Punktum, 32, 47, første<lb />
+Punktum, 51, første Stykke, og 75 samt denne Lovs § 633.
+</p>
+<wtitle>§ 642.</wtitle>
+<p>
+Anke foregaar i Overensstemmelse med de om Anke fra Underret til Landsret<lb />
+i tredie Afsnit givne Regler med de Lempelser, som følge af Forholdets Natur.
+</p>
+<p>
+Ankestævningen forkyndes for Skifteretten, der paa Boets Bekostning har at<lb />
+drage Omsorg for, at der i fornødent Fald tages til Genmæle.
+</p>
+<p>
+Den for Skifteretten stedfundne Procedure er ikke bindende, og der er endog<lb />
+intet til Hinder for, at Tillæg til og Rettelser i de tidligere Paastande fremsættes.<lb />
+Dog kunne Parterne ikke tilbagekalde de af dem for Skifteretten afgivne, Skiftebogen<lb />
+tilførte, Erklæringer med Hensyn til Sagens Sammenhæng.
+</p>
+<wtitle>§ 643.</wtitle>
+<p>
+Kære foregaar med de Lempelser, som følge af ovenstaaende Bestemmelser,<lb />
+efter samme Regler som Kære til Landsret over Underrettens Afgørelser, jfr.
+§ 421.
+</p>
+<wtitle>§ 644.</wtitle>
+<p>
+Naar en i Henhold til § 640 iværksat Anke har fundet sin Afgørelse ved<lb />
+Landsret, kan der i Reglen ikke ske yderligere Anke til Højesteret. Dog kan Højeste-<lb />
+rets Justitiarius i Forbindelse med to af ham tiltagne Medlemmer af Retten tillade,<lb />
+at Sagen undtagelsesvis indbringes for Højesteret. Andragende herom fremsættes og<lb />
+behandles paa den i § 377 fastsatte Maade.
+</p>
+<p>
+Om Anke til Højesteret gælde de almindelige Regler i Kapitel 34.
+</p>
+<p>
+Landsrettens Afgørelse i Anledning af Kære er ikke Genstand for yderligere<lb />
+Kære til Højesteret
+</p>
+<title>Kapitel 56.</title>
+<undertitle>Konkurs.</undertitle>
+<wtitle>§ 645.</wtitle>
+<p>
+Med Hensyn til Behandlingen af Konkursboer har det sit Forblivende ved<lb />
+Reglerne i Konkursloven af 25. Marts 1872 og Lov om en forandret Affattelse af visse<lb />
+Paragraffer i Konkursloven af 15. April 1887 samt Lov Nr. 30 af 20. Marts 1901 med<lb />
+de Forandringer, som følge af denne Lov.
+</p>
+<p>
+Foruden i det i Lov om Spare- og Laanekasser af 28. Maj 1880 ommeldte<lb />
+Tilfælde kan Kongen undtagelsesvis, naar Begæring derom maatte indkomme, be-<lb />
+skikke Skiftekommissarier til i Stedet for den ordinære Skifteret at forestaa Behand-<lb />
+lingen og Opgørelsen af et Konkursbo, der belindes at være af en særegen vidtløftig<lb />
+og indviklet Beskaffenhed. Saadan Begæring maa dog være vedtagen paa en dertil<lb />
+berammet Skiftesamling af mindst tre Fjerdedele af de mødende Fordrings-<lb />
+havere, repræsenterende mindst tre Fjerdedele af samtlige bekendte eller, for saa<lb />
+vidt Anmeldelsesfristen er udløben, anmeldte Fordringers Beløb.
+</p>

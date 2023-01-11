@@ -1,0 +1,57 @@
+4073
+<pb n="354" />
+<h>
+<coll>4073</coll>
+<topmidle>Bil. t. Lovs. om Retsafgifter m. m.</topmidle>
+<colr>4074</colr>
+</h>
+<wtitle>§ 8.</wtitle>
+<p>I borgerlige Domsfager, hv'.s Gjenstand ikke er Penge eller Penges værd, er den alminde-<lb />
+lige Retsafgift 10 Kr.</p>
+<p>Reises der under en saadan Sag tillige Paastand paa Penge eller Penges værd, bliver<lb />
+der, faafremt de flere Paastande have samme Retsforhold til Grundlag, ved Afgiftsberegningen kun<lb />
+at iaae Hensyn til en af dem, saaledetz at den Paastand, der fører til den Høieste Afgift, lægges til<lb />
+Grund for Beregningen.</p>
+<wtitle>§ 9.</wtitle>
+<p>
+Den almindelige Retsafgift (§§ 6 og 8) erlægges:</p>
+<p>1)  for en Domssags Anhængiggjstlrelse ved Retten (AnyVngigaMelsesafgift);</p>
+<p>2)  for en Domssags mundttiae Forhandling for Retten (Forhandlingsafgift);</p>
+<p>3)  for Bevisforelsrn i en Domssag (Bevisafgift).</p>
+<p>Anhcenaissgjørelsesafgiften og Forhandlinasafgiften erlægges af Sagfsgeren, den fzirstnævnte<lb />
+Afgift med Halvdelen ved Rettens Berammclse af en Dag "t?l Sagens fsrste Foretagelse og den<lb />
+anden Halvdel ved Sagens fsrstc Foretagelse, Forhandlingsvanten med Halodelen ved den mundtlige<lb />
+Forhandlings Begyndelse og den anden Halvdel ved Sagens Optagelse til Bevitztjendelse eller endelig<lb />
+Paaljendelse af Realiteten.</p>
+<p>Bevisafgiften, der bliver at erlceags. naar de i Lov om den borgerlige Retspleie § 181 om-<lb />
+meldte bevisforberedende Bestemmelser træffetz, udredes med Halvdelen af hver Part. der fremsætter<lb />
+Begjæring om at maatte føre Bevis. Begjærer en Part at stedes til Bevisførelse i Henhold til<lb />
+Lov om den borgerlige retspleie § 182, bliver herfor færsiilt at erlægge halv Bevisafgift.</p>
+<wtitle>§ 10.</wtitle>
+<p>Naar der ikke af Sagssgte fremsættes nogen Indsigelse imod Sagssgerens Paastand, bort-<lb />
+falder den sidst forfaldende Halvdel af Forhandlinasafgiften.</p>
+<wtitle>§ 11.</wtitle>
+<p>Forhandlingsafgiften bliver, saafremt den ikke allerede er erlagt paa et tidligere Trin af<lb />
+Eagen, ogsaa at erlægge for den i Tilfælde af skriftlig Behandling stedfindende Indlægsoexling.</p>
+<wtitle>§ 12.</wtitle>
+<p>Hjemvises en Sag til ny Behandling i iste Instants, bliver der i Henseende til Beregning<lb />
+af Wattter for Sagens fornyede Behandling at forholde, som om denne uden mellemkommende Paa-<lb />
+anke sluttede sig til Sagens tidligere Behandling i 1ste Instants.</p>
+<wtitle>§ 13.</wtitle>
+<p>gjøres en Modfordring gjældende til Likvidation, erlccgges for Modfordringen eller den Del<lb />
+af samme, som paastaas likvideret, Forhandlings- og Bcvisafgift, fsrstnævnte Afgift dog kun med<lb />
+det Halve af det foreskrevne Belsb.</p>
+<p>Vcgjoerer den, der gjpr Modfordringen gjældende, selvstændig Dom, blive derimod samtlige<lb />
+de i § 9 ommeldte Afgifter mod det forestrevne Belsb at eilægge for Modfordringen eller den Del<lb />
+af samme, for hvilken der paastaas selvstamdig Tom, Anhamgiggjørelscsafgiften bliver i faa Fald<lb />
+for Modfordringens Vedkommende at erlægge tilligemed Halvdelen af Forhandlingsafgiften forinden<lb />
+Realitetsforhandlingens Paabegyndelse.</p>
+<wtitle>§ 14.</wtitle>
+<p>Interuentionsf^aZmaal behandles i Henseende til Retsafgifter som et selvstændigt søgsmaal.<lb />
+Intervenienten har som Fplae heraf at erlægge saavel Anhcrngiggjørelsesafgift som halv Forhand-<lb />
+lingsafgut, naar han stedes til Forhandling i det i Lov om den borgerlige Netspleie § 364, 1ste<lb />
+Stykke, ommelte Retsmode.</p>
+<p>Den, der blot indtræder i Sagen, for at understøtte en af fammes Parter (Biintervenient),<lb />
+har, forsaavidt noaen af disse paaftaar Biintervenienten afvist, under Et at erlægge en Fjerdedel af<lb />
+den almindelige Retsafgift for Behandlingen og Paatjendelsen af Spørgsmaalet om hans Adgang til<lb />
+at deltage i Sagens Foryandling.    Iøvrigt   bliver   der af Biintervenienten lun at udrede de Rets-</p>

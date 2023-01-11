@@ -1,0 +1,61 @@
+3307
+<pb n="49" />
+<h>
+<coll>3307</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3308</colr>
+</h>
+<p>
+den ved Konkurslovens § 164. jfr. Lov 18de December 1897, hjemlede Adgang til at<lb />
+anvende personlig Arrest som Sikkerhedsmiddel over for Skyldnere, der staa i Begreb<lb />
+med at forlade Landet for bestandig eller paa ubestemt Tid; men Fristerne for Varig-<lb />
+heden af saadan personlig Arrest forkortes.
+</p>
+<p>
+34.	Forhud. Den gældende Rets Forbud ved Fogden bevares, men knyttes<lb />
+til mere bestemte Betingelser, end der findes fastslaaet i den nugældende Lovgivning.<lb />
+Saaledes opstilles den Regel, at Forbud kun kan gøres, naar den, mod hvem Forbudet<lb />
+rettes, ved Gerning eller Ord har givet Grund til at antage, at han vil foretage de<lb />
+Handlinger, som skulle forbydes, saaledes at Rekvirenten, hvis fyldestgørende Bevis i<lb />
+saa Henseende ikke kan fremskaffes, kun mod Sikkerhedsstillelse kan faa Forbudet<lb />
+nedlagt. Endvidere foreskrives, at Forbud ikke bør nedlægges, naar det skønnes, at<lb />
+en af Rekvisitus tilbudt Sikkerhed eller den Straf, som Lovens almindelige Regler<lb />
+hjemle for Retskrænkelsen, yder Rekvirenten tilstrækkeligt Værn. Derhos bestemmes,<lb />
+at Spørgsmaal om Idømmelse af Straf for Overtrædelse af et Forbud kan udsættes,<lb />
+indtil Forbudssagen er afgjort, en Regel, der i Rekvisiti Interesse tilsigter saa vidt<lb />
+muligt at fritage vedkommende Straffedomstol for at idømme Straf for Overtrædelse<lb />
+af et Forbud, der efter den nævnte Domstols Anskuelse er urigtigt.
+</p>
+<p>
+Forbud mod Ægteskab skal kunne finde Sted som hidtil; fremdeles skal der<lb />
+kunne nedlægges Forbud mod Repræsentanter for Stat eller Kommune i disses Egen-<lb />
+skab som Ejere af faste Ejendomme eller som Medkontrahenter i Kontraktsforhold;<lb />
+men iøvrigt er Forbud mod offentlige Myndigheders Handlinger udelukket.
+</p>
+<p>
+35.	Skifte af Dødsbo og Fællesbo m. v. Skifteloven af 30te November 1874<lb />
+med dertil sig sluttende Love forbliver i Kraft med visse Ændringer, idet Udkastet<lb />
+angaaende den borgerlige Retspleje giver de Regler, som ere nødvendige, for at passe<lb />
+Skiftelovens Regler ind i det hele ny Rettergangssystem. Den væsentligste Forandring,<lb />
+der gøres i den gældende Ret, er. at Skifterettens dømmende Myndighed begrænses.<lb />
+Den vil fremtidig kun have at paakende alle Spørgsmaal vedrørende Boets Overtagelse,<lb />
+Bestyrelse og Udlevering saavel som Udregningen af, hvad der efter Boets Status til-<lb />
+kommer enhver vedkommende, hvorimod Retstrætter, der rejse sig af, at en af en<lb />
+Kreditor anmeldt Fordring eller en fremsat Vindikationspaastand eller et af en<lb />
+Arving eller Legatar som saadan rejst Krav modsiges af nogen blandt Boets Ved-<lb />
+kommende, henvises til Procedure og Paakendelse ved den almindelige Ret (Underret<lb />
+eller Landsret). Skifteretten er nemlig ikke indrettet paa den umiddelbare Bevisførelse<lb />
+ved Vidner, Syn og Skøn eller personlig Afhørelse af Parter, hvorpaa der efter Ud-<lb />
+kastet lægges Vægt; derhos vil Sagen ordentligvis kunne tilendebringes lige saa hurtigt<lb />
+ved almindelig Ret som ved Skifteretten, ligesom det, særlig hvad Kreditorernes Ret-<lb />
+stilling angaar, kan være at anse som en ren Tilfældighed, at Tvisten først rejser sig<lb />
+i Forbindelse med et Skifte og ikke alt er opstaaet i Debitors levende Live. De her<lb />
+omhandlede Sager kunne anlægges enten ved den Ret, som angives ved Udkastets<lb />
+Værnetingsregler i øvrigt eller ved Retten paa det Sted, hvor Boet behandles. Sag<lb />
+mod Boet kan altid anlægges ved Underret uden Hensyn til Sagens Værdi. Inden<lb />
+Sagen gaar til Retten, skal Skifteretten forsøge Forligsmægling, og saafremt de<lb />
+tvistende Parter ville overlade Spørgsmaalets Afgørelse til Skifteretten, er denne, naar<lb />
+ingen Bevisførelse ved Vidner, Syn eller Parternes egen Forklaring behøves, pligtig at<lb />
+afsige en Kendelse, ved hvilken da Spørgsmaalet er afgjort paa samme Maade som<lb />
+ved Voldgift.
+</p>

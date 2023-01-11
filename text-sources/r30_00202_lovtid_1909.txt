@@ -1,0 +1,60 @@
+466
+<pb n="202" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>466</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+Ethvert enkelt Spørgsmål må alene angå een Tiltalt og, så vidt muligt,<lb/>
+kun eet forbrydersk Forhold.
+</p>
+<wtitle>§ 866.</wtitle>
+<p>
+Når undtages sådanne Tillægsspørgsmål, som omhandles i §§ 867 og 868,<lb/>
+skal ethvert Spørgsmål begynde med Ordene „Er Tiltalte (Tiltalte N. N.) skyldig?"<lb/>
+I Spørgsmålet skal Forbrydelsens Art betegnes ved dens i Loven hjemlede Navn<lb/>
+eller ved en Henvisning til den pågældende Strafbestemmelse; tillige skulle Forbrydelsens i Loven beskrevne Kendemærker optages i Spørgsmålet; Gerningen skal beskrives<lb/>
+ved sådan Angivelse af Tid og Sted, Genstand, Udførelsesmåde og andre nærmere<lb/>
+Omstændigheder, som måtte udkræves til dens tilstrækkelige Betegnelse.
+</p>
+<wtitle>§ 867.</wtitle>
+<p>
+Når der under Forhandlingen er fremkommet bestemte Bevisdata til Støtte<lb/>
+for, at der foreligger en Omstændighed, som vil udelukke Straf, eller som der efter<lb/>
+Rettens Skøn mulig kan blive tillagt en sådan Virkning, kan der, om fornødent, stilles<lb/>
+et særskilt Spørgsmål om Tilstedeværelsen af samme som Tillæg til Hovedspørgsmålet,<lb/>
+for at fremkalde en udtrykkelig Udtalelse af Nævningerne herom.
+</p>
+<p>
+I den Måde, hvorpå Hovedspørgsmålet bliver at fremsætte, sker der i sådanne Tilfælde ingen Forandring.
+</p>
+<wtitle>§ 868.</wtitle>
+<p>
+Skal der spørges om Tilstedeværelsen af Omstændigheder, der ifølge Loven<lb/>
+hjemle Forhøjelse eller Nedsættelse af Straffen, kan dette, om fornødent, ske i Form<lb/>
+af særskilte Tillægsspørgsmål, der kun blive at besvare, såfremt det Hovedspørgsmål, hvortil de slutte sig, besvares bekræftende. Er der under Bevisførelsen fremkommet noget Datum til Støtte for, at en Strafnedsættelsesgrund foreligger, kan Tillægsspørgsmål herom ikke nægtes stillet, når dette er begært af Forsvareren eller<lb/>
+Tiltalte.
+</p>
+<wtitle>§ 869.</wtitle>
+<p>
+Angå flere Hovedspørgsmål (med tilhørende Tillægsspørgsmål) det samme<lb/>
+Forholds Henførelse under forskellige Strafbestemmelser med forskellig Strafferamme,<lb/>
+stilles det Spørgsmål først, hvis Bekræftelse medfører den strengeste Strafferamme.
+</p>
+<wtitle>§ 870.</wtitle>
+<p>
+Når et Spørgsmål kun skal besvares under Forudsætning af en bestemt Besvarelse af et forudgående Spørgsmål, bør dette udtrykkelig bemærkes i den skriftlige Udfærdigelse.
+</p>
+<p>
+Ligeledes anføres ved hvert Spørgsmål, at der udkræves otte Stemmer til det<lb/>
+Svar — ,.ja" eller „nej" — som er ugunstigst for Tiltalte.
+</p>
+<wtitle>§ 871</wtitle>
+<p>
+Efter at Spørgsmålene ere fastsatte, gennemgår Formanden i Korthed Sagen<lb/>
+og dens Bevisligheder og forklarer så vidt fornødent Spørgsmålene og de Retssætninger, der skulle lægges til Grund for deres Besvarelse. Når Formanden finder<lb/>
+dette fornødent, overgives Afskrifter af Spørgsmålene til Nævningerne, forinden han<lb/>
+begynder sit Foredrag.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

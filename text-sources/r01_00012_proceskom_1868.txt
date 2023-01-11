@@ -1,0 +1,37 @@
+6
+<pb n="12" />
+<wtitle>§ 13.</wtitle>
+<p>Under højesterets Virkekreds høre alle Afgørelser i Anledning af Påanke af (Besværing over)<lb />
+Landsrettens dømme, Kjendelser og Beslutninger, derunder indbefattet Handlinger af det<lb />
+Medlem af Landsretten, hvem det måtte<lb />
+være overdraget at handle som Undersøgelsesdommer.</p>
+<p>Til Landsrettens Virkekreds høre Afgjørelser<lb />
+i Anledning af Påanke af (Besværing over)<lb />
+Underrettens dømme, Kjendelser og beslutninger.</p>
+<title>Kapitel III.</title>
+<undertitle>Om de tilfælde,   hvor Rettens  Personer som<lb />
+inhabile skulle  eller  kunne udelukkes  fra  eller<lb />
+fritages for at handle i Sagen.</undertitle>
+<wtitle>§ 15.</wtitle>
+<p>Ingen   dømmer   eller nævning   må<lb />
+handle i en Straffesag, når han</p>
+<p>1)   selv er Part i Sagen eller er  forurettet<lb />
+ved Forbrydelsen eller af Sagens Udfald<lb />
+kan have Skade  eller Fordel,  eller når<lb />
+det iøvrigt under Sagen  bliver nødvendigt   at   bedømme   hans   egen   tidligere<lb />
+Færd;</p>
+<p>2)   er beslægtet eller besvogret med nogen af<lb />
+Parterne eller den Forurettede i op- eller<lb />
+nedstigende   Linie  eller i Sidelinien   så<lb />
+nær   som søskende,   eller   er nogen   af<lb />
+disse Personers ægtefælle,   værge,  Ku-<lb />
+rator, Adoptiv- eller Plejefader,   Adoptiveller  plejeson;</p>
+<p>3)   ev   beslægtet   eller   besvogret   i   op- eller<lb />
+nedstigende linie   eller   beslægtet i Sidelinien så nær som søskende med den i<lb />
+Sagen optrædende offentlige Anklager eller<lb />
+Politiembedsmand,   en   privat   Anklagers<lb />
+eller   den Forurettedes   Rettergangsfuldmægtig eller den Sigtedes Forsvarer;</p>
+<p>4)   eller har   aflagt Vidnesbyrd   eller   været<lb />
+Syns- eller Skjønsmand   i  Sagen  eller<lb />
+handlet   i  den   som   offentlig   Anklager,<lb />
+Politiembedsmand, Rettergangsfuldmægtig</p>

@@ -1,0 +1,38 @@
+128
+<pb n="134" />
+<h>
+<topmidle>128     Kap. XXXII.    Eksek.-Proceduren.</topmidle>
+</h>
+<p>mandskabets om Bord i Skibet værende<lb />
+Ejendele, som udkræves til Tjenesten om<lb />
+Bord, når Skibet er udklareret for en<lb />
+Rejse og iøvrigt sejlfærdigt.</p>
+<wtitle>§ 361.</wtitle>
+<p>Livrenter, Overlevelsesrenter, Livsforsikringssummer og lignende mod Vederlag<lb />
+erhvervede Indtægter ere, forsåvidt ikke<lb />
+Andet ved Retsforholdets Stiftelse retsgyldig<lb />
+er bestemt, ikke undtagne fra Eksekution,<lb />
+medmindre særlig Lovhjemmel derfor haves.</p>
+<title>Kapitel XXXII.</title>
+<undertitle>Eksekutionsforretningens Foretagelse og<lb />
+Proceduren under samme.</undertitle>
+<wtitle>§ 362.</wtitle>
+<p>Er det sornødne Eksekutionsgrundlag<lb />
+til Stede, og finder Fogden ikke iøvrigt<lb />
+Noget til Hinder for at efterkomme Begæringen om Eksekution, berammer han en<lb />
+Tid til Forretningens Foretagelse, såvidt<lb />
+muligt i Overensstemmelse med Domhaverens<lb />
+Ønske.</p>
+<p>Eksekutionsforretningen skal i Reglen<lb />
+begynde på Domfældtes Bopæl, medmindre<lb />
+Fogden skønner, at der i Følge de foreliggende Omstændigheder er Anledning til<lb />
+Afvigelse herfra.</p>
+<p>Når Dommen lyder på Udlevering<lb />
+eller Afståelse af Ting, kan Eksekutionsforretningen begynde, hvor disse forefindes.</p>
+<p>Har Domfældte ingen Bopæl i Riget,<lb />
+kan Eksekutionsforretningen begynde, hvor<lb />
+Domfældte antræffes, eller hvor Ting, som<lb />
+<title>kunne tjene til Fyldestgørelse, forefindes.</title>
+<wtitle>§ 363.</wtitle>
+<p>Forretningen kan ikke  fremmes,   medmindre der under den gives behørigt Møde 
+fra Domhaverens Side,</p>

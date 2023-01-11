@@ -1,0 +1,78 @@
+2143
+<pb n="3" />
+<h>
+<coll>2143</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2144</colr>
+</h>
+<p>
+bestaar af en af Kongen beskikket Formand, en ligeledes af Kongen beskikket Næst-<lb/>
+formand samt saa mange handelskyndige og søkyndige Medlemmer, som fastsættes<lb/>
+ved kongelig Anordning.
+</p>
+<p>
+De sø- og handelskyndige Medlemmer vælges paa den i Lov af 19. Februar<lb/>
+1861 § 3 angivne Maade og skulle have de i samme Lovs § 4 nævnte Egenskaber,<lb/>
+ligesom Bestemmelserne i Lovens §§ 6 og 7 skulle gælde om dem.
+</p>
+<p>
+Til at sætte Retten udkræves under Domsforhandling i borgerlige Sager, der
+</p>
+<p>
+1	Medfør af §§ 215 — 16 vilde høre under Landsretterne, Tilstedeværelsen af For-<lb/>
+manden og 4 sø- eller handelskyndige Dommere, under Domsforhandling i Sager, der<lb/>
+ifølge de nævnte Paragraffer vilde høre under Underretterne, af Næstformanden og
+</p>
+<p>
+2	sø- eller handelskyndige Dommere. Under Forberedelse af Domsforhandling i borger-<lb/>
+lige Sager beklædes Retten af Formanden, henholdsvis Næstformanden alene, dog at<lb/>
+denne altid er berettiget til at tilkalde indtil 4, henholdsvis 2 sø- eller handelskyn-<lb/>
+dige Dommere og, dersom Retshandlingen angaar en Sag, der skal paadømmes ved<lb/>
+Sø- og Handelsretten, og den bestaar i Vidneførsel, Afhjemling af Syn eller Skøn,<lb/>
+Afhøring af Part. Modtagelse af Partsed eller Kendelse om et omtvistet Punkt, i Reglen<lb/>
+bør tilkalde samtlige de sø- eller handelskyndige Dommere, der skulle deltage i Paa-<lb/>
+dømmelsen, for saa vidt saadan Tilkaldelse ikke i det enkelte Tilfælde frembyder<lb/>
+Vanskeligheder.
+</p>
+<p>
+Under Domsforhandling i Straffesager, samt naar Søforklaringer eller Søforhør<lb/>
+skulle optages, dannes Retten af Næstformanden og 2 søkyndige Dommere. I først-<lb/>
+nævnte Sager kan det dog, enten straks ved Sagens Begyndelse eller senere, af Forman-<lb/>
+den, efter Samraad med Næstformanden, bestemmes, at der skal tilkaldes 4 søkyn-<lb/>
+dige Dommere, naar Sagens Omstændigheder tale derfor, saasom at der formenes at<lb/>
+blive Spørgsmaal om at frakende Skipper Ret til at føre Skib eller Styrmand, Maskin-<lb/>
+mester eller Lods Ret til at gøre Tjeneste i saadan Egenskab, eller at i Tilfælde af<lb/>
+Skibes Sammenstød, eller lignende, Sagen kan afføde betydelige Erstatningskrav.<lb/>
+Udenfor Domsforhandling beklædes Retten i Straffesager af Næstformanden alene.<lb/>
+Endvidere er Næstformanden berettiget til paa egen Haand at slutte offentlige Politi-<lb/>
+sager paa den i §§ 913 og 914 nævnte Maade.
+</p>
+<p>
+Ved Sø- og Handelssager forstaas i denne Lov de borgerlige Sager, i hvilke<lb/>
+Fagkundskab til Søforhold eller til Handelsforhold skønnes at være af Betydning; og<lb/>
+ved Afgørelsen heraf vil der være at tage særligt Hensyn til, om begge Parter ønske<lb/>
+Sagen behandlet som Sø- og Handelssag.
+</p>
+<p>
+I København blive Handlendes, Fabrikanters og Skibsrederes Konkursboer<lb/>
+derhos at behandle af Sø- og Handelsretten under Ledelse af Næstformanden. I<lb/>
+hvert enkelt Bos Behandling deltage Næstformanden og 2 af de sø- eller handels-<lb/>
+kyndige Medlemmer.
+</p>
+<p>
+Retten bestemmer selv den Omgang, hvorefter de sø- og handelskyndige<lb/>
+Medlemmer skulle deltage i Rettens Møder og Boernes Behandling.
+</p>
+<p>
+Formanden og Næstformanden træde i hinandens Sted i alle Tilfælde, hvor det<lb/>
+paa Grund af Forfald for nogen af dem eller af Hensyn til Sagernes Fremme skøn-<lb/>
+nes fornødent.
+</p>
+<wtitle>§ 10.</wtitle>
+<p>
+Oppebørsel af og Regnskabsaflæggelse for Retsafgifter forestaas ved hver<lb/>
+Landsret af en Justitssekretær, der tillige er Retsskriver. Desuden ansættes der ved<lb/>
+Landsretterne, foruden det i øvrigt fornødne Kontorpersonale, ved Østre Landsret 6,<lb/>
+ved Vestre Landsret 3 Fuldmægtige. Landsrettens Formand træffer Bestemmelse om<lb/>
+Forretningernes Fordeling.
+</p>

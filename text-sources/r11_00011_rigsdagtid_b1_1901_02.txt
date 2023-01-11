@@ -1,0 +1,84 @@
+2279
+<pb n="11" />
+<h>
+<coll>2279</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2280</colr>
+</h>
+<leftside>
+<wtitle>Til § 166.</wtitle>
+<p>Af Mindretallet under Nr. 211:</p>
+<p>225) I 1ste Stykkes 1ste Linie ud-<lb />
+gaa Ordene: „eller aflægge Vidneeden".</p>
+<p>I 1ste Stykkes 2den Linie udgaa Or-<lb />
+dene: „Stedet derfor trædende —" og i<lb />
+Stedet indsættes: „§ 164 nævnte".</p>
+<p>I 1ste Stykkes 5te Linie udgaar Or-<lb />
+det: „Ed" og i 6te Linie Ordet: „eller".</p>
+<wtitle>Til § 170.</wtitle>
+<p>Af Udvalget:</p>
+<p>226) Efter Ordene: „for hver løbende<lb />
+Mil" indskydes: „Hvis Jernbane eller Damp-<lb />
+skib kan benyttes, beregnes Rejseudgifterne<lb />
+efter Prisen for henholdsvis 3die Klasse og<lb />
+2den Plads".</p>
+<wtitle>Til § 171.</wtitle>
+<p>227) I Linie 3 foran Ordene „har<lb />
+særlig Interesse" indskydes: „gør det sand-<lb />
+synligt, at han."</p>
+<wtitle>Til § 172.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget:</p>
+<p>228) I Linie 5 er efter „i" udfaldet<lb />
+„Henhold til".</p>
+<wtitle>Til § 173.</wtitle>
+<p>229) I Linie 4 rettes efter „denne"<lb />
+Punktum til Komma.</p>
+<wtitle>Til § 177.</wtitle>
+<p>230) I 2det Stykke ændres „8 Dage"<lb />
+til „en Uge".</p>
+<wtitle>Til § 181.</wtitle>
+<p>Af Mindretallet under Nr. 211:</p>
+<p>231) I 1ste—2den Linie udgaa Or-<lb />
+dene: „med Ed eller, under de i § 164<lb />
+angivne Betingelser,".</p>
+</leftside>
+<rightside>
+<wtitle>Til § 182.</wtitle>
+<p>232) I 1ste Stykkes 5te Linie ud-<lb />
+gaar: „Ed eller", og i Stedet indsættes:<lb />
+„den i § 164 nævnte".</p>
+<wtitle>Til § 188.</wtitle>
+<p>Af Justitsministeren:</p>
+<p>233)	Til 1ste Punktum føjes: „dog at<lb />
+Edfæstelsen foregaar før Afhøringen".</p>
+<p>Af Mindretallet under Nr. 211:</p>
+<p>234)	2det Punktum formuleres saa-<lb />
+ledes: „Den i § 164 omtalte Forsikring<lb />
+paa Ære og Samvittighed træder i Eds<lb />
+Sted".</p>
+<wtitle>Til § 198.</wtitle>
+<p>Af Justitsministeren, tiltraadt af U d-<lb />
+valget:</p>
+<p>235)	I 2det Stykke ændres „5 Dage"<lb />
+til „en Uge".</p>
+<wtitle>Til § 201.</wtitle>
+<p>Af Udvalget:</p>
+<p>236) De 2 første Linier skrives saa-<lb />
+ledes: „Efter at i fornødent Fald Varslet<lb />
+er fastsat (jfr. § 202), bliver Stævningen<lb />
+med Angivelse af den tidligste Tid for<lb />
+Sagens første Tægtedag at indlevere paa<lb />
+Rettens Kontor."</p>
+<wtitle>Til § 203.</wtitle>
+<p>237) I Linie 3—4 ændres „Proces-<lb />
+omkostninger" til: „Sagsomkostninger, for<lb />
+saa vidt han ikke frafalder Paastand der-<lb />
+om."</p>
+<wtitle>Til § 204.</wtitle>
+<p>Af Nanke:</p>
+<p>238) I 3die Stk. 3die Linie tilføjes<lb />
+efter „(jfr. dog § 221)": „, i hvilket Til-<lb />
+fælde derhos det, som han allerede maatte<lb />
+have fremført, lades ude af Betragtning".</p>
+</rightside>

@@ -1,0 +1,115 @@
+2841
+<pb n="21" />
+<h>
+<coll>2841</coll>
+<topmidle>
+Bet. o. Lovf. om	Rettens Pleje m. m.
+</topmidle>
+<colr>2842</colr>
+</h>
+<p>
+Nr. 14 (Vordingborg m. m.) deles i f) Præstø Købstad og Vordingborg nordre Birk<lb />
+og g) Vordingborg Købstad og Vordingborg søndre Birk med Stege Købstad<lb />
+og Møens Herred.
+</p>
+<p>
+Nr. 17. (Sakskøbing m. m.) deles i h) Sakskøbing Købstad og Musse Herred med<lb />
+Nysted Købstad og Birk samt i) Maribo Købstad og Birk, Rødby Købstad og<lb />
+Fuglse Herred samt Fejø Birk.
+</p>
+<p>
+Nr. 19. (Nyborg m. m.) deles i j) Nyborg Købstad med Vinding Herred og k) Kerte-<lb />
+minde Købstad og Hindsholm Herred med Bjerge-Aasum Herreder (undtagen 4<lb />
+Sogne).
+</p>
+<p>
+Nr. 20. (Sunds-Gudme Herreder) og
+</p>
+<p>
+Nr. 21.. (Svendborg m. m.) deles i 1) Svendborg Købstad og Thorseng Birk med<lb />
+Sunds-Gudme Herreder samt m) Ærøskøbing Købstad og Ærø Herred med Rud-<lb />
+købing Købstad og Langelands Herreder.
+</p>
+<p>
+Nr. 24. (Odense Herred m. m.) deles i n) Odense Herred (undtagen Odense Skt. Hans<lb />
+Sogns Landdistrikt) med 4 Sogne af Aasum Herred samt o) Bogense Købstad og<lb />
+Skovby Herred med Lunde-Skam Herreder og Grevskabet Roepstorffs Birk.
+</p>
+<p>
+Nr. 25. (Assens m. m.) deles i p) Assens Købstad og Baag Herred med 4 Sogne af<lb />
+Wedellsborg Birk samt q) Middelfart Købstad og Vends Herred med Resten af<lb />
+Wedellsborg Birk.
+</p>
+<p>
+Nr. 31. (Silkeborg m. m.) og
+</p>
+<p>
+Nr. 48. (Viborg m. m.) deles i r) Silkeborg Købstad og Silkeborg Birk med Skander-<lb />
+borg Købstad og Hjelmslev-Gjern Herreder, s) Viborg Købstad med Lysgaard<lb />
+m. fl.. Herreder samt t) Fjends-Nørlyng og Middelsom-Sønderlyng Herreder.
+</p>
+<p>
+Nr. 32. (Hasle m. fl. Herreder m. m.) deles i u) Hasle m. fl. Herreder og Frijsenborg-<lb />
+Faurskov Birk samt v. Ning Herred og Hads Herred.
+</p>
+<p>
+Nr. 47. (Nykøbing M. Købstad m. m.) deles i x) Nykøbing M. Købstad, Morsø Herre-<lb />
+der samt y) Skive Købstad og Sallinglands Herreder.
+</p>
+<p>
+Resultat: Forøgelse med 10 Politikredse (10 Politimestre).]
+</p>
+<leftside>
+<title>
+Ændringsforslag<lb />
+til
+Forslag til Lov om Udgifterne i<lb />
+Strafferetsplejen.
+</title>
+<wtitle>
+Til § 5.
+</wtitle>
+<p>
+Af Udvalget:
+</p>
+<p>
+1) I Linie 1 ændres: „eller 706" til:<lb />
+„ , 706 eller 707".
+</p>
+<wtitle>
+Til § 7.
+</wtitle>
+<p>
+2) I Linie 6—7 udgaar Ordene: „2det<lb />
+til 4de Stykke".
+</p>
+</leftside>
+<rightside>
+<title>
+Ændringsforslag<lb />
+til
+Forslag til Lønningslov for forskellige<lb />
+af de i Lov om Rettens Pleje omhand-<lb />
+lede Embeds- og Bestillingsmænd.
+</title>
+<wtitle>
+Til § 1.
+</wtitle>
+<p>
+Af Udvalget:
+</p>
+<p>
+1)	Mellem Linie 8 og 9 indsættes:<lb />
+„Næstformanden i Sø- og Handelsret-<lb />
+ten i København: Samme Lønning som<lb />
+Landsdommerne.", hvorefter Linie 13—14<lb />
+udgaar.
+</p>
+<wtitle>
+Til § 5.
+</wtitle>
+<p>
+2)	Imellem 3die og 4de Stykke ind-<lb />
+skydes følgende nye Stykke:
+</p>
+</rightside>

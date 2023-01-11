@@ -1,0 +1,50 @@
+15
+<pb n="15" />
+<leftside>
+<pagename>13
+</pagename>
+<p>Med Hensyn til Sættedommerne finde<lb />
+Reglerne i § 30, 3die Stykke, Anvendelse,
+</p>
+<wtitle>§ 32.
+</wtitle>
+<p>Den Bemyndigelse, som i Henhold til<lb />
+§ 20 kan gives til paa Dommerens Ansvar at udføre visse Dommeren ved en<lb />
+By- eller Herredsret paahvilende Embedsforretninger, kan kun meddeles- mænd, som<lb />
+have de i § 28 angivne Egenskaber; dog er<lb />
+det tilstrækkeligt, at den Paagældende fyldestgør den i § 30 i Slutningen angivne<lb />
+Fordring med Hensyn til juridisk Eksamen.
+</p>
+<wtitle>§ 33.
+</wtitle>
+<p>Forfølgningen af det en Dommer for<lb />
+Overtrædelse af de ham efter Lovene paahvilende Pligter paadragne Strafansvar,<lb />
+der i alle Tilfælde bliver at bedømme efter<lb />
+Straffeloven, sker under en selvstændig<lb />
+Straffesag; dog kan Straffen, hvis den ej<lb />
+overstiger Bøder, i Tilfælde af Anke eller<lb />
+Kære, paalægges uden særligt Sagsanlæg,<lb />
+efter at her, om fornødent, er givet vedkommende Dommer Lejlighed til mundtligt<lb />
+eller skriftligt at udtale sig om det paagældende Forhold.
+</p>
+<p>Erstatningsansvar maa som hidtil gøres<lb />
+gældende ved Anke, forsaavidt det ikke enten<lb />
+efter Loven om Strafferetsplejen paakendes<lb />
+i Forbindelse med Spørgsmaal om Straf<lb />
+eller indtales, efter at Straffedom er fældet<lb />
+over den Paagældende.
+</p>
+<wtitle>§ 34.
+</wtitle>
+<p>Gør en Dommer sig skyldig i Forsømmelse eller Skødesløshed i Embedsførelse,<lb />
+der dog ikke er af saadan Beskaffenhed, at<lb />
+den ifølge Lovgivningen paadrager Straf,<lb />
+eller udviser han iøvrigt utilbørligt eller<lb />
+usømmeligt Forhold, paahviler det Iustitiarius<lb />
+i den Ret, hvoraf han er Medlem, med Hensyn til Landsretternes Iustitiarier Højesterets<lb />
+Iustitiarius, samt med Hensyn til Kjøbenhavns<lb />
+Stadsrets Iustitiarius og Dommere ved Byog Herredsretterne vedkommende Landsrets<lb />
+Iustitiarius i Stilhed at give ham fornøden<lb />
+Advarsel.
+</p>
+</leftside>

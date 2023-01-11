@@ -1,0 +1,42 @@
+104
+<pb n="104" />
+<h>96   Kap. XXII. Domsforhdl. ved Landøret.</h>
+<wtitle>§ 238.</wtitle>
+<p>Om Udsættelsesgrunde, som indtræde på<lb />
+en Tid, da Domsforhandlingen er udsat, påhviler det enhver Vedkommende snarest muligt<lb />
+at underrette Rettens Formand, for at Bestemmelse om Udsættelse om muligt kan tages<lb />
+og Meddelelse til alle Vedkommende sinde Sted,<lb />
+førend Sagen påny skulde have været for.</p>
+<wtitle>§ 239.</wtitle>
+<p>Domsforhandlingen er mundtlig; Skrift<lb />
+anvendes kun i det Omfang, i hvilket Loven<lb />
+særlig bestemmer det.</p>
+<p>Ved de mundtlige Udtalelser benyttes frit<lb />
+Foredrag; Oplæsning tilstedes kun, forsåvidt<lb />
+Rettens Formand tillader det.</p>
+<wtitle>§ 240.</wtitle>
+<p>Rettens Formand leder Domsforhandlingen. Han bestemmer Rækkefølgen af de<lb />
+enkelte Dele af Forhandlingen, forsåvidt Loven<lb />
+ikke indeholder Forskrifter derom. Ingen må<lb />
+tage Ordet uden ifølge hans Tilladelse; han<lb />
+kan fratage den Part Ordet, som ikke vil rette<lb />
+sig efter hans Ledelse. Han drager Omsorg<lb />
+for såvidt muligt at fjærne Alt, hvad der til<lb />
+Unytte trækker Forhandlingen i Langdrag, og<lb />
+slutter Forhandlingens enkelte Dele, naar han<lb />
+anser det foreliggende Emne for tilstrækkeligt<lb />
+behandlet.</p>
+<p>Om Slutning af Bevisførelsen enten i<lb />
+det Hele eller om et enkelt Punkt, førend alle<lb />
+Beviserne ere fremforte, samt om Genoptagelse<lb />
+af en sluttet Bevisførelse, tager Retten Beslutning.</p>
+<p>Omfatter Sagen flere Forbrydelser, kan<lb />
+Formanden lade Forhandlingen og i Nævningesager Nævningernes Påkendelse foregå særskilt<lb />
+for hver enkelt Forbrydelse.</p>
+<wtitle>§ 241.</wtitle>
+<p>Opstår der Spørgsmål, om nogen Fejl<lb />
+foreligger, der hindrer Sagens Fremme, eller<lb />
+om Overanklageren har Påtaleret, kan Forhandlingen begrænses til dette Punkt, indtil<lb />
+spørgsmålet har fundet sin Afgørelse.</p>
+<p>Det samme gælder, naar Spørgsmål<lb />
+rejses, om et sådant Forhold, som er beskrevet</p>

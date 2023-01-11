@@ -1,0 +1,45 @@
+42
+<pb n="42" />
+<rightside>
+<pagename>40
+</pagename>
+<p>Har en Sagfører gjort sig skyldig i det<lb />
+Straffelovens § 253 omhandlede Forhold,<lb />
+bliver, selv om iøvrigt andet Strafansvar<lb />
+mod ham i Medfør af § 254 maatte bortfalde, Netten til Sagførervirksomhed ved<lb />
+Dom at frakende ham under den mod ham<lb />
+anlagte Straffesag, eller, hvis en saadan ikke<lb />
+maatte være anlagt, da under en særlig i<lb />
+dette Øjemed ifølge Iustitsministerens Bestemmelse mod ham rejst Straffesag.
+</p>
+<p>Naar Dom til Fortabelse af Ret til<lb />
+Sagførervirksomhed er overgaaet en Sagfører, kan han ikke, selv om han paaanker<lb />
+saadan Dom, fortsætte sin Virksomhed, indtil<lb />
+endelig Dom i Sagen er falden.
+</p>
+<wtitle>§ 112.
+</wtitle>
+<p>Kommer en Sagfører under Konkurs<lb />
+har Justitsministeren at fratage ham Retten<lb />
+til at udøve Sagførervirksomhed, der først<lb />
+kan generhverves, naar han fremskaffer Erklæring fra samtlige de i Konkursboet anmeldte Kreditorer om, at han har fyldestgjort dem for deres Krav. Bliver en Sagfører umyndiggjort har Justitsministeren<lb />
+ligeledes at fratage ham Retten til at udøve<lb />
+Sagførervirksomhed, saa længe Umyndiggørelsen vedvarer.
+</p>
+<title>Sjette Afsnit.
+</title>
+<undertitle>Lovens  Tinden i  Kraft,   Overgangsbestemmelser.
+</undertitle>
+<title>Kap. XII.
+</title>
+<wtitle>§ 113.
+</wtitle>
+<p>Denne Lov træder i Kraft 2 Aar fra<lb />
+den Dag at regne, da det Nummer af Lovtidenden udgaar, hvori den kundgøres.
+</p>
+<p>De i §§ 12, 22 og 23 ommeldte Anordninger og Bekendtgørelser udgaa i betimelig<lb />
+Tid før det Tidspunkt, da Loven efter foranstaaende Bestemmelse træder i Kraft.<lb />
+Fremdeles bliver der før det nævnte Tidspunkt at drage Omsorg for Affattelsen af<lb />
+de i Kap. IV og V omtalte Lister.
+</p>
+</rightside>

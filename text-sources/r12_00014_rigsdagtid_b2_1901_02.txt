@@ -1,0 +1,179 @@
+2389
+<pb n="14" />
+<h>
+<coll>2389</coll>
+<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
+<colr>2390</colr>
+</h>
+<leftside>
+<wtitle>Til § 341.</wtitle>
+<p>
+1. Stk., L. 3: „Kap. XXI., XXII. og<lb/>
+XXIV." 1. „Kap. 81, 82 og 84".
+</p>
+<wtitle>Til § 342.</wtitle>
+<p>
+1.	Stk., L. 2: „§ 216" 1. „§ 881".
+</p>
+<p>
+2.	Stk., L. 1: „§ 322" 1. „§ 988".
+</p>
+<wtitle>Til § 343.</wtitle>
+<p>
+1.	Stk., L. 1: „§ 219" 1. „§ 884" og „8 220"<lb/>
+1. „§ 885".
+</p>
+<p>
+2.	Stk., L. 2: „§ 228" 1. „§ 893".
+</p>
+<wtitle>Til § 344.</wtitle>
+<p>
+2. Stk., L. 5: „§ 248" 1. „§ 913".
+</p>
+<wtitle>Til § 345.</wtitle>
+<p>
+1. Stk, L. 2: „§ 96" 1. „§ 760".
+</p>
+<p>
+1.	Stk, L. 5 og 7: „8 337" 1. „8 1003",<lb/>
+„§ 338" 1. „§ 1004".
+</p>
+<p>
+2.	Stk, L. 1: „Kap. XXVII" 1. „Kap. 88".
+</p>
+<wtitle>Til § 346.</wtitle>
+<p>
+1. Stk, L. 3: ,,§§ 317 og 337" 1. „88 983<lb/>
+og 1003".
+</p>
+<p>
+1. Stk, L. 6 og 7: ,,§ 401" 1. ,,§ 1067" og<lb/>
+,,§ 404" 1. „§ 1070".
+</p>
+<p>
+3.	Stk., L. 1: ,,§ 345" 1. ,,§ 1011".
+</p>
+<wtitle>Til § 347.</wtitle>
+<p>
+1.	Stk., L. 2: „§ 324" 1. „§ 990".
+</p>
+<wtitle>Til § 348.</wtitle>
+<p>
+2.	Stk, L. 4: „§ 230" 1. „§ 895".
+</p>
+<p>
+2. Stk, L. 6: „§ 318" 1. „§ 984".
+</p>
+<wtitle>Til § 349.</wtitle>
+<p>
+1. Stk, L. 1—2: „§ 95, 8 106 eller § 127"<lb/>
+1. „§ 759, § 770 eller § 791".
+</p>
+<wtitle>Til § 350.</wtitle>
+<p>
+1. Stk, L. 4: „§ 330, jfr. § 340" 1. „§996,<lb/>
+jfr. § 1006". 
+</p>
+<wtitle>Til § 351.</wtitle>
+<p>
+1.	Stk, L. 2: „§ 96" 1. ,,§ 760".
+</p>
+<p>
+2.	Stk, L. 1: „§ 328" 1. „§ 994".
+</p>
+<wtitle>Til § 353.</wtitle>
+<p>
+L. 2 og 8: ,.§ 211" 1. „§ 876".<lb/>
+L. 3: ,,§ 212" 1. ,.§ 877".<lb/>
+L. 5: ,,§ 354" 1. „§ 1020".<lb/>
+L. 7: „§ 203" 1. „§ 868".
+</p>
+</leftside>
+<rightside>
+<wtitle>Til § 355.</wtitle>
+<p>
+1.	Stk, L. 6: „§ 354" 1. „§ 1020".
+</p>
+<p>
+2.	Stk, L. 1: „§ 318" 1. „§ 984".
+</p>
+<wtitle>Til § 357.</wtitle>
+<p>
+2. Stk, L. 3: „§ 230" 1. „§ 895".
+</p>
+<p>
+2. Stk.. L. 5: ,,§ 354 jfr. §355" 1. „81020<lb/>
+jfr. § 1021".' '
+</p>
+<wtitle>Til § 359.</wtitle>
+<p>
+1.	Stk, L. 6: „Kap. XX" 1. „Kap. 80".
+</p>
+<p>
+2.	Stk, L. 2: ,.§ 354 jfr. § 355" 1. „81020<lb/>
+jfr. § 1021".
+</p>
+<wtitle>Til § 361.</wtitle>
+<p>
+L. 4: „§ 6" 1. „§ 670".
+</p>
+<wtitle>Til § 362.</wtitle>
+<p>
+L. 2: „§ 318" 1. „§ 984".
+</p>
+<wtitle>Til § 363.</wtitle>
+<p>
+L. 3: „§ 96" 1. „§ 760".
+</p>
+<wtitle>Til § 364.</wtitle>
+<p>
+L. 3: „§ 354" 1. „§ 1020".<lb/>
+L. 4: „§ 355" 1. „§ 1021".
+</p>
+<wtitle>Til § 365.</wtitle>
+<p>
+L. 1: „§ 234" 1. „§ 899".
+</p>
+<p>
+L. 3: „Kapitel XXVIII" 1. „Kapitel 89".
+</p>
+<p>
+L. 7: „§ 323 jfr. § 324" 1. „§ 989 jfr.<lb/>
+§ 990".
+</p>
+<p>
+L. 8: „§§ 357—360 og 363" 1. „§§ 1023—<lb/>
+1026 og 1029".
+</p>
+<wtitle>Til § 366.</wtitle>
+<p>
+1. Stk., L. 1: „§ 34" 1. „§ 698".
+</p>
+<p>
+1. Stk.. L. 4: „Kapitlerne XXVI. og XXVII.<lb/>
+—XXIX." 1. „Kapitlerne 86 og 88—90";<lb/>
+„§ 309" 1. „§ '974".
+</p>
+<wtitle>Til § 367.</wtitle>
+<p>
+1. og 2. Stk., L. 1: „§ 36" 1. „§ 700".
+</p>
+<p>
+1.	Stk., L. 4: „Kap. XX—XXIX" 1. „Kap.<lb/>
+80—90".
+</p>
+<wtitle>Til § 368.</wtitle>
+<p>
+3. Stk., L. 3: „Kap. XXI." 1. „Kap. 81".
+</p>
+<wtitle>Til § 369.</wtitle>
+<p>
+2.	Stk, L. 5: „§ 216" 1. „§ 881".
+</p>
+<p>
+3.	Stk, L. 1 : „§ 368" 1. „§ 1034".
+</p>
+<p>
+4.	Stk, L. 4: „§ 399" 1. „§ 1065".
+</p>
+</rightside>

@@ -1,0 +1,81 @@
+586
+<pb n="170" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>586</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<title>Kapitel 66.</title>
+<undertitle>
+Sigtede og hans Forsvar.
+</undertitle>
+<wtitle>§ 729.</wtitle>
+<p>
+Under Ordet „Part", hvor dette i denne Lov anvendes i Bestemmelser, der<lb />
+ikke særlig angår borgerlige Sager, skal også den Sigtede i en Straffesag anses for<lb />
+indbefattet.
+</p>
+<wtitle>§ 730.</wtitle>
+<p>
+Den, der sigtes for en Forbrydelse, er berettiget til at vælge en Forsvarer til<lb />
+at stå ham bi i Overensstemmelse med de nedenfor nærmere givne Regler. Er han<lb />
+personlig umyndig, tilkommer Valget hans Værge, som derhos altid er berettiget til<lb />
+at optræde på hans Vegne.
+</p>
+<p>
+Kun de til Møde for vedkommende Ret berettigede Sagførere eller de særlig<lb />
+af Justitsministeren til Beskikkelse som offentlige Forsvarere ved vedkommende Ret<lb />
+antagne Mænd kan vælges til Forsvarere, medmindre Retten undtagelsesvis tilsteder,<lb />
+at andre personlig myndige og uberygtede Personer benyttes som sådanne.
+</p>
+<p>
+Udelukkede fra at vælges er Personer, der er indkaldte til at afhøres som<lb />
+Vidner eller Syns- eller Skønsmænd, eller som er begært indkaldte i sådan Egenskab, indtil Retten har truffet Afgørelse herom, eller hvis Optræden ifølge § 60 Nr. 3<lb />
+vilde medføre Inhabilitet hos Dommeren.
+</p>
+<wtitle>§ 731.</wtitle>
+<p>
+Offentlig Forsvarer bliver, for så vidt Sigtede ikke selv har valgt en Forsvarer, eller den valgte Forsvarer udebliver, at beskikke,
+</p>
+<p>
+a)	når Sigtede undergives Varetægtsfængsel som sigtet for en i den offentlige Mening vanærende Handling og ikke tidligere for en sådan Handling har været<lb />
+anset med Straf uden at have fået Æresoprejsning,
+</p>
+<p>
+b)	når der, forinden Tiltale er rejst, skal afhøres Vidner, eller Besigtigelse skal<lb />
+ske eller Syn eller Skøn afgives til Brug under Domsforhandling, dog at Retshandlingen ej bliver at udsætte efter Forsvarers Tilstedekomst, når det må befrygtes, at Beviset derved vilde spildes,
+</p>
+<p>
+c)	når Nævninger skal medvirke i Landsretssager, eller der i sådanne Sager er<lb />
+Spørgsmål om at lægge Beslag på Sigtedes Formue i Henhold til denne Lovs<lb />
+§ 794.
+</p>
+<p>
+d)	i alle andre Sager, hvor Tiltale er rejst for Landsret, eller der i Anledning af<lb />
+Indankning eller Begæring om Genoptagelse af en Sag skal finde mundtlig Forhandling Sted ved Landsret,
+</p>
+<p>
+e)	når en Landsrets Dom påankes, eller der i Anledning af Kære undtagelsesvis<lb />
+skal finde mundtlig Forhandling Sted for Landsret eller Højesteret, jfr. § 972,<lb />
+2det Stykke,
+</p>
+<p>
+f)	når Vidners eller Syns- eller Skønsmænds beedigede Forklaring begæres til Brug<lb />
+under en i Udlandet indledet Straffesag,
+</p>
+<p>
+g)	i alle Tilfælde, hvor Retten i Medfør af § 29, 2det Punktum, beslutter, at Sigtedes<lb />
+Afhørelse skal foregå for lukkede Døre.
+</p>
+<p>
+I de under a og d nævnte Tilfælde bliver offentlig Forsvarer kun at beskikke,<lb />
+når den Sigtede (eller hans Værge) begærer det. Herom skal der gives Sigtede Lejlighed til at udtale sig.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

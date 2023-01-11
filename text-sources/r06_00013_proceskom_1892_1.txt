@@ -1,0 +1,50 @@
+13
+<pb n="13" />
+<leftside>
+<pagename>11
+</pagename>
+<p>til at afgøre de ved Inddæmnings- og Udtørrings- Foretagender opstaaende Spørgsmaal i samme Omfang som hidtil.
+</p>
+<p>Endvidere kan Kongen, dels i Sager,<lb />
+i hvilke der foreligger Sigtelse for Overtrædelse af den borgerlige Lovgivning og<lb />
+tillige for Forhold, der vedrøre Sigtedes<lb />
+Stilling som gejstlig Embedsmand, dels i<lb />
+Sager, hvorunder Personer, af hvilke nogle<lb />
+henhøre under militære, andre under borgerlige Retter, sigtes for Delagtighed i samme<lb />
+forbryderske Forhold, bestemme, at Sagen i<lb />
+sin Helhed skal undersøges og paakendes ved<lb />
+borgerlig Ret. I saadanne Tilfælde kan<lb />
+Kongen tilforordne de Retter, til hvilke<lb />
+Sagens Undersøgelse og Paakendelse henvises, samt de Domstole, hvem Paakendelsen<lb />
+i.Tilfælde af Anke tilkommer, hver tvende<lb />
+henholdsvis gejstlige eller militære Medlemmer som Dommere.
+</p>
+<wtitle>§ 26.
+</wtitle>
+<p>Paa Søn- og Helligdage afholdes ikke<lb />
+Retsmøder undtagen i paatrængende Tilfælde. Om Tilfældet er paatrængende, afgøres af Retten eller dennes Formand.
+</p>
+<p>I den stille Uge og i Tiden fra 24.<lb />
+Decbr. til 6. Januar bortfalde de ordentlige<lb />
+Retsmøder.
+</p>
+<wtitle>§ 27.
+</wtitle>
+<p>De Retsbøger, som føres, autoriseres<lb />
+ved de af flere Dommere bestaaende Retter<lb />
+af vedkommende Iustitiarius og ved Byog Herredsretterne af By- eller Herredsdommeren.
+</p>
+<p>Retsbøgernes Indretning bestemmes,<lb />
+indenfor de ved Lov eller Anordning dragne<lb />
+Grænser, for de af flere Dommere bestaaende<lb />
+Retter af Iustitiarius, for By- og Herreds-retternes Vedkommende af Landsrettens Iustitiarius.
+</p>
+<title>Kap. II.
+</title>
+<undertitle>Dommere, Retsskrivere, Netsbude m. m.
+</undertitle>
+<wtitle>§  28.</wtitle>
+<p>Faste Dommere ved Rigets almindelige<lb />
+Domstole bestikkes af Kongen.
+</p>
+</leftside>

@@ -1,0 +1,44 @@
+48
+<pb n="54" />
+<h>
+<topmidle>48         Kap. XIV. Vidner.</topmidle>
+</h>
+<p>Når et Vidne ikke kan eller skal møde<lb />
+under Domsforhandlingen, bliver det at afhøre ved Underretten på det Sted, hvor<lb />
+det bor eller opholder sig; dog kan en<lb />
+Landsret eller Højesteret under Iagttagelse<lb />
+af Reglerne i § 148 lade Vidnet afhøre<lb />
+ved et eller to af sine Medlemmer, såfremt<lb />
+ikke begge Parter modsætte sig dette. I Sager,<lb />
+der behandles skriftligt for Landsret eller<lb />
+Højesteret, forholdes efter §§ 237, 263 og<lb />
+286.</p>
+<p>Er et Vidnes Helbredstilstand til Hinder<lb />
+for, at det møder på det sædvanlige Tingsted, kan Retten til dets Afhørelse sættes<lb />
+på sådant Sted, som Omstændighederne<lb />
+udkræve.</p>
+<wtitle>§ 150.</wtitle>
+<p>Militære af Hæren og Flanden ere pligtige til at aflægge Vidnesbyrd for de borgerlige Domstole overensstemmende med Reglerne i denne Lov.</p>
+<wtitle>§ 151.</wtitle>
+<p>Indkaldelse til at møde som Vidne udgår efter Partens Begæring fra den Ret,<lb />
+for hvilken Vidnesbyrdet skal aflægges og<lb />
+overgives Parten til Forkyndelse. Skal et<lb />
+Vidne indkaldes for en Underret i Følge en<lb />
+anden Rets Beslutning, må en. Udskrift af<lb />
+denne forelægges Underretten.</p>
+<p>Foruden Vidnets Navn og hvad der<lb />
+i øvrigt hører til dets nærmere Betegnelse,<lb />
+Sagen og Indkaldelsens Øjemed, hvem der<lb />
+har begært Indkaldelsen, den Ret, for hvilken der skal vidnes, samt Stedet og Tiden<lb />
+for Mødet skal der i Indkaldelsen nævnes<lb />
+det Varsel, som skal gives den Indkaldte,<lb />
+og gøres opmærksom på, at Udeblivelse<lb />
+medfører Strafansvar.</p>
+<p>Varslet er en Uge, men kan dog under<lb />
+særlige Omstændigheder afkortes efter Beslutning af Rettens Formand.</p>
+<p>Skulle Vidner føres i Udlandet, kan<lb />
+pågældende Part forlange, at Retten skal<lb />
+udstede de i så Henseende fornødne Begæringer til de udenlandske Myndigheder.</p>
+<p>Til Vidneførsel udenfor den dømmende<lb />
+Ret eller et eller to Medlemmer af samme,<lb />
+skal Modparten tillige indkaldes med samme</p>

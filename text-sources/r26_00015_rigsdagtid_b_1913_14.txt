@@ -1,0 +1,106 @@
+2829
+<pb n="15" />
+<h>
+<coll>2829</coll>
+<topmidle>
+Bet. o. Lovf. om	Rettens Pleje m. m.
+</topmidle>
+<colr>2830</colr>
+</h>
+<p>
+66) Den Lovforslaget vedføjede Tavle over By- og Herredsretskredsene affattes<lb />
+som nedenfor angivet:
+</p>
+<title>
+Tavle over By- og Herredsretskredsene,
+jfr. Lovens § 12.
+(Antallet af Indbyggere er angivet efter Folketællingen i 1911).
+</title>
+<title>
+Sjælland og Møen.
+</title>
+<p>
+1.	Frederiksberg Birk, 97,237 Indb.
+</p>
+<p>
+2.	Københavns Amts nordre Birk, 44,302 Indb.
+</p>
+<p>
+3.	Københavns Amts søndre Birk med Amager Birk, 26,718 Indb.
+</p>
+<p>
+4.	Roskilde Købstad med Ramsø-Tune Herreder samt Lejre Herred, 41,267 Indb.
+</p>
+<p>
+5.	Køge Købstad, Vallø Birk og Bjeverskov Herred, 17,479 Indb.
+</p>
+<p>
+6.	Helsingør Købstad med Kronborg østre Birk og Hellebæk Birk, 26,644 Indb.
+</p>
+<p>
+7.	Hørsholm Birk, 10,932 Indb.
+</p>
+<p>
+8.	Hillerød Købstad med Frederiksborg Birk (undtagen Ølsted Sogn), 21,369 Indb.
+</p>
+<p>
+9.	Kronborg vestre Birk, 14,620 Indb.
+</p>
+<p>
+10.	Frederikssund Købstad og Horns Herred med Frederiksværk Købstad og Halsnæs<lb />
+Birk samt Ølsted Sogn af Frederiksborg Birk, 23,604 Indb.
+</p>
+<p>
+11.	Nykøbing S. Købstad og Dragsholm Birk, 21,155 Indb.
+</p>
+<p>
+12.	Holbæk Købstad med Merløse-Tudse Herreder, 35,531 Indb.
+</p>
+<p>
+13.	Kalundborg Købstad med Arts-Skippinge Herreder samt Samsø Birk, 32,260 Indb.
+</p>
+<p>
+14.	Løve Herred, 15,001 Indb.
+</p>
+<p>
+15.	Slagelse Købstad med Antvorskov Birk, 23,641 Indb.
+</p>
+<p>
+16.	Korsør Købstad og Landjurisdiktion med Skelskør Købstad og Vester Flakkebjerg<lb />
+Herred samt Holsteinborg Birk, 27,722 Indb.
+</p>
+<p>
+17.	Bregentved-Gisselfeld Birk, 20,920 Indb.
+</p>
+<p>
+18.	Ringsted Købstad og Herred samt Skjoldnæsholm og Svenstrup Birker, 17,795 Indb.
+</p>
+<p>
+19.	Sorø Købstad, Sorø Birk og Baroniet Holbergs Birk, 19,506 Indb.
+</p>
+<p>
+20.	Storeheddinge Købstad og Stevns-Fakse Herreder, 19,611 Indb.
+</p>
+<p>
+21.	Næstved Købstad og Tybjerg Herred med Øster Flakkebjerg Herred, 30,231 Indb.
+</p>
+<p>
+22.	Vordingborg Købstad og Vordingborg søndre Birk, 19,113 Indb.
+</p>
+<p>
+23.	Præstø Købstad og Vordingborg nordre Birk, 12,600 Indb.
+</p>
+<p>
+24.	Stege Købstad og Møens Herred, 14,535 Indb.
+</p>
+<title>
+Bornholm.
+</title>
+<p>
+25.	Rønne Købstad med Vester Herred samt Hasle Købstad, Nordre Herred og Ham-<lb />
+mershus Birk, 24,642 Indb.
+</p>
+<p>
+26.	Neksø Købstad og Sønder Herred, Aakirkeby Købstad med Svaneke Købstad og<lb />
+Øster Herred, samt Christiansø, 18,243 Indb.
+</p>

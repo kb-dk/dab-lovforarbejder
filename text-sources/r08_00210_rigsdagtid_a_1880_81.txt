@@ -1,0 +1,53 @@
+3783
+<pb n="210" />
+<h>
+<coll>3783</coll>
+<topmidle>Forsl. t. L. om Strafferetspleten.</topmidle>
+<colr>3784</colr>
+</h>
+<wtitle>§ 214.</wtitle>
+<p>Anmeldelse fra Private om formentlig begaaedc Forbrydelser eller om Forhold, der<lb />
+vcekke Mistanke om, at en Forbrydelse er begaaet, gjores ordentligvis til Politiet. Dog blive<lb />
+de ogsaa at modtage af Statsanklageren og i paatrængende Tilfælde af Undersogelsesdommeren,<lb />
+som da snarest muligt tilstiller Politimesteren samme.</p>
+<p>Anmeldelsen kan gjøres skriftlig eller mundtlig; i sidste Fald skal af den, som mod-<lb />
+tager Anmeldelsen, skriftlig Beretning optages.</p>
+<wtitle>§ 215.</wtitle>
+<p>Forklaring skal afkræves Anmelderen om alle Omstoendigheder, som ere af Indflydelse<lb />
+paa Anmeldelsens Sandsynlighed og hans personlige Troværdighed, samt angaaende de mulig<lb />
+forhaandenværeude Bevismidler; efter Omstændighederne kan han ogsaa udspørges om Bevæg-<lb />
+grunden til Anmeldelsen og erindres om Straffen for  falsk Angivelse.</p>
+<p>Findes det fornødent, kan Anmelderen ved Begjæring til Nndersøgelseudommeren for-<lb />
+anledige« afhort for Retten, inden viecre Skridt foretages.</p>
+<wtitle>§ 216.</wtitle>
+<p>Er Dagens Paatale afhængig af Justitsministerens Befaling eller af en Opfordring<lb />
+fra en særlig offentlig Myndighed (jfr. § 36), skal Politimesteren bringe de ham tilkomne<lb />
+Oplysninger henholdsvis til Statsanklagerens eller dcn særlige Myndigheds Kundskab, men<lb />
+iøvrigt ikke foretage yderligere Efterforskninger, forcnd Vedkommendes Befaling eller Opfordring<lb />
+foreligger.</p>
+<p>Er en Handling, hvis offentlige forfølgning er betinget af en Privats Begjæring,<lb />
+kommen lil Politimesterens Kundskab, men der er Grund til at antage, at den er den paa-<lb />
+gjældende Private ubekjendt, kan han gjøre meddelelse til denne, men foretager Iøvrigt ingen<lb />
+Efterforskning, forend Begæringen foreligger. Denne maa fremsættes udtrykkelig under Iagt-<lb />
+tagelse af Reglen i § 214. Indeholder en af den Private indgiven Anmeldelse om For-<lb />
+brydelsen ingen saadan Begjæring, skal han foranledige« til at afgive ten fornødne Er-<lb />
+klæring.</p>
+<p>Ovenftaaende Regler udelukke dog ikke, at uopsættelige Efterforskningsfkridt foretages,<lb />
+førend Befalingen, Opfordringen eller Begjæringen foreligger, under de i § 36 angivne Be-<lb />
+tingelser.</p>
+<wtitle>§ 217.</wtitle>
+<p>Finder" Politimesteren, at der mangler Grund til at foretage videre Skridt i Anled-<lb />
+ning af en indgiven Anmeldelse eller en fremfat Begz'cering om forfølgning, skal han paa<lb />
+Forlangende meddele en skriftlig Erklæring om sin Vcegring, og om denne er grundet paa, at<lb />
+den formentlige Lovovertrædelse ikke antages at være Gjenstand for offentlig forfølgning, eller<lb />
+paa Anmeldelsens utilstrækkelige Grundlag.</p>
+<p>Den, som har indgivet Anmeldelsen eller fremsat Begjæringen, kan derefter henvende<lb />
+sig til den overordnede Myndighed med Andragende om, at det maa blive paalagt Vedkom-<lb />
+mende at træde i Virksomhed.</p>
+<wtitle>§ 218.</wtitle>
+<p>Efterforskningen skal rettes paa at fremskaffe saadanne Oplysninger om Gjerningen<lb />
+og den eller de formentlig Skyldige, som ere tilstrcrkkelige til at bestemme, om forfølgning<lb />
+ved Domstolene mod en bestemt Person skal begynde, være sig ved Begjaning om Forunoerso-<lb />
+gelse eller ved Anklage for den dømmende Net.</p>
+<p>Saa bor og iøvrigt alle Oplysninger erhverves og Foranstaltninger træffes, som skjøn-<lb />
+nes nedvendige eller tjenlige til at forberede Sagens Behandling ved Netten.</p>

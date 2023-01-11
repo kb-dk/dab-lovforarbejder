@@ -1,0 +1,51 @@
+3575
+<pb n="106" />
+<h>
+<coll>3575</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3576</colr>
+</h>
+<title>Kapitel II.</title>
+<undertitle>Om ExekutivproceZ.</undertitle>
+<wtitle>§ 381.</wtitle>
+<p>Sagsogeren kan anvende exekutivproces:</p>
+<p>1)  I Sager, der anlægges til Indfrielse af gjældsbreve, naar Skyldneren enten  i selve<lb />
+gjældsbrevet eller ved senere Paategning   paa samme har underkastet sig den i nær-<lb />
+værende Kapitel omhandlede hurtige Retsforfølgning;</p>
+<p>2)  I Vexelsager, hvorved   forstaas  de som   saadanne i Lov om   Vexelfager  og  Verel-<lb />
+protefter af 28de Mai 1880 § 1 betegnede Sager.</p>
+<wtitle>§ 382.</wtitle>
+<p>I de i nærværende Kapitel omhandlede Sager finder ingen Forligsmægling Sted,<lb />
+medmindre Parterne ere enige derom.</p>
+<wtitle>§ 383.</wtitle>
+<p>Under Sagen kan det ikke tillades Sagsogte at fremsætte andre Indsigelser i<lb />
+Realiteten, end at han ikke ved Underskriftens meddelelse var mægtig og myndig til faaledes<lb />
+at forbinde sig, eller at Underskriften er falsk, eller at der i Dokumentets Indhold er fore-<lb />
+gaaet en Forfalskning, efterat Underskriften er meddelt.</p>
+<p>I Vezelsager kan Sagssgte endvidere fremsætte de Indvendinger, som angaa selve<lb />
+Veilens Indretning og Indhold eller den til Verelfordringens Vedligeholdelse fornødne<lb />
+Omgang eller andre i Verelloven forestrevne Betingelser for at kunne gjøre Vexelretten gjældende.</p>
+<p>I de i § 381 Nr. 1 nævnte Sager kan den Sagsogte derhos, forsaavidt søgs-<lb />
+maalet foruden paa selve gjældsbrevet stottes paa Transport eller andet udenfor gjældsbrevet<lb />
+liggende Grundlag, fremsætte enhver Indsigelse herimod, ligesom han i disse Sager overhove-<lb />
+det kan fremkomme med enhver Indsigelse, til hvis Godtgjørelse han ikke behover andre Be-<lb />
+vismidler end Dokumenter, som haves tilstede.</p>
+<p>Alle andre Indsigelser i Realiteten ere udelukkede fra under Sagen at komme i<lb />
+Betragtning, men det forbeholdes Sagsogte i Anledning af slige Indsigelser, naar han i sit<lb />
+Tilsvar har opgivet eller idetmindste forbeholdt dem, at anlægge et selvftændigt Grstatnings-<lb />
+fogsmaal mod Sagsogeren.</p>
+<p>Dette Grstatningsfsgsmaal behandles i alle Henseender efter de almindelige Regler.</p>
+<wtitle>§ 384.</wtitle>
+<p>Imod de i § 381 Nr. 2 omhandlede Fordringer kunne Modfordringer ikkun frem-<lb />
+sættes i de i den ovennævnte Lou af 28de Mai 1880 § 4 nævnte Tilfælde og imod de i<lb />
+§ 381 Nr. 1 omhandlede kun, forsaavidt Modfordringen selv gaar ind nnder samme Be-<lb />
+stemmelse, eller den indrommes.</p>
+<wtitle>§ 385.</wtitle>
+<p>Sager, i hvilke Gzekutivprocessen anvendes, behandles uden Hensyn til Gjenstandens<lb />
+værdi ved Underretterne efter de ovenfor i fjerde Afsnit givne Regler, hvorved dog bliver at<lb />
+bemcrike, at Dommeren er pligtig at drage særlig Omsorg for, at Sagen fremmes med den<lb />
+storft mulige Hurtighed.</p>
+<wtitle>§ 386.</wtitle>
+<p>Ligesom der ikke kan gives Sagsogte Udsættelse for at fore Bevis for andre Omstcen-<lb />
+digheder end de i § 383 omhandlede, faaledes kan det i Reglen ikke tillades Sagsogeren<lb />
+under Sagen at fore Vidner, eller lade optage Syn og skjøn eller at faa Modparten ind</p>

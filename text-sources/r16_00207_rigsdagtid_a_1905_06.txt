@@ -1,0 +1,73 @@
+2317
+<pb n="207" />
+<h>
+<coll>
+2317
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2318
+</colr>
+</h>
+<title>Kapitel 78.</title>
+<undertitle>Tiltale og Domsforhandling for Underret, henholdsvis Sø- og Handelsretten,<lb />
+i Sager, som paatales af Politimesteren.</undertitle>
+<wtitle>§ 897.</wtitle>
+<p>
+Tiltale rejses i Politisager i Almindelighed ved et af Politimesteren udfærdiget<lb />
+Anklageskrift, hvori Sigtedes Navn, og hvad der ellers udkræves til hans nøjagtige Be-<lb />
+tegnelse, anføres, og den formentlige Forseelse betegnes med saadan Angivelse af Tid,<lb />
+Sted og andre nærmere Omstændigheder, som maatte udkræves til Forholdets til-<lb />
+strækkelige og tydelige Betegnelse, og med Anførelse af de Bestemmelser i Lov, An-<lb />
+ordning eller Vedtægt, som antages at være overtraadte, og i Henhold til hvilke Straf<lb />
+antages ifalden.
+</p>
+<p>
+Naar Sigtede er til Stede i Retten, og Politimesteren eller nogen paa hans<lb />
+Vegne der giver Møde, kan Tiltale med Dommerens Tilladelse rejses mundtlig til<lb />
+Retsbogen, og Sagen derefter straks foretages til Domsforhandling.
+</p>
+<wtitle>§ 898.</wtitle>
+<p>
+Antager Politimesteren, at Forseelsen ikke egner sig til højere Straf end en<lb />
+Bøde af ikke over 40 Kroner, kan han, i Stedet for straks i Overensstemmelse med<lb />
+§ 899 at indlevere Anklageskriftet til Berammelse af Sagens Foretagelse i Retten, lade<lb />
+det forkynde for Sigtede med en af ham given Paategning om, at Sigtede, saafremt
+</p>
+<p>
+ han vedgaar at have gjort sig skyldig i den Forseelse, hvorfor han sigtes, og ønsker<lb />
+saadan Afgørelse, kan erklære sig rede til, uden retslig Forfølgning, indenfor en<lb />
+nærmere angiven Frist, der efter Omstændighederne af Politimesteren efter Begæring<lb />
+kan forlænges, at erlægge den af Politimesteren for dette Tilfælde angivne Bøde.<lb />
+Saadan Erklæring afgives enten ved Anklageskriftets Forkyndelse til den, som iværk-<lb />
+sætter denne, i hvilket Fald derom gøres Bemærkning paa Anklageskriftet, eller inden<lb />
+en Uge ved Meddelelse paa Politikontoret, Paa dette føres en særegen Bog,<lb />
+hvori de i Medfør af det ovenanførte udfærdigede Anklageskrifter og de i Anledning<lb />
+af dem afgivne Erklæringer indføres.
+</p>
+<p>
+Erlægges den vedtagne Bøde i rette Tid, eller afsones den, bortfalder videre<lb />
+Forfølgning, og saadan Afgørelse har da i Tilfælde af Forseelsens Gentagelse lige<lb />
+Virkning med en Dom.
+</p>
+<p>
+Gaar Sigtedes Erklæring ud paa, at han ikke vil afgøre Sagen paa den an-<lb />
+førte Maade, eller hvis han overhovedet ikke afgiver nogen Erklæring, bliver Anklage-<lb />
+skriftet med paategnet Bemærkning herom at indgive til Dommeren ligesom Anklage-<lb />
+skrifterne i Sager, hvori Politimesteren ikke finder Grund til Anvendelse af denne<lb />
+Paragraf.
+</p>
+<wtitle>§ 899.</wtitle>
+<p>
+Naar Anklageskrift er indleveret, berammer Dommeren, for saa vidt han ikke<lb />
+finder, at Sagen straks maa afvises (§ 818), snarest muligt Tid og Sted for Sagens<lb />
+Foretagelse og lader Tiltalte tilsige med mindst Aftens Varsel; Forkyndelse af selve<lb />
+Anklag eskriftet er ufornøden. Tilsigelsen affattes i Overensstemmelse med Bestem-<lb />
+melserne i § 741, 2det Stykke, og skal særlig indeholde Bemærkning om, at Udeblivelse<lb />
+uden oplyst lovligt Forfald kan bevirke, at Tiltalte anses at vedgaa Forseelsen, eller<lb />
+efter Omstændighederne, at han vil blive anholdt.
+</p>
+<p>
+Hvor vidt Vidner ogsaa straks skulle tilsiges eller andre Foranstaltninger til<lb />
+Bevisførelse træffes, beror paa Dommerens Bestemmelse. Meddelelse af Bevisforteg-
+</p>

@@ -1,0 +1,74 @@
+2147
+<pb n="210" />
+<h>
+<coll>
+2147
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+218
+</colr>
+</h>
+<wtitle>§  932.</wtitle>
+<p>
+I det hele kan der i Henhold til § 931 forkastes 4 Nævninger fra hver Side.
+</p>
+<p>
+Er der i samme Sag flere Tiltalte, ere disse lige nær berettigede til at udøve<lb />
+den en enkelt Tiltalt hjemlede Forkastelsesret,
+</p>
+<p>
+Kunne de ikke enes om Udøvelsen af denne Ret, fordeles de dem indrømmede<lb />
+Forkastelser ligelig imellem dem. Med Hensyn til de Forkastelser, som ikke kunne<lb />
+fordeles saaledes, afgøres det ved Lodtrækning, hvem af de Tiltalte de skulle tilkomme.<lb />
+Ligeledes bestemmes ved Lodtrækning, i hvilken Rækkefølge de skulle erklære sig om<lb />
+Forkastelse. En herefter af en af de Tiltalte erklæret Forkastelse gælder ogsaa for<lb />
+de andre.
+</p>
+<wtitle>§  933.</wtitle>
+<p>
+Indsigelser, der gaa ud paa, at Reglerne i §§ 931 og 932 ere tilsidesatte<lb />
+skulle fremsættes før Anklageskriftets Oplæsning.
+</p>
+<wtitle>§  934.</wtitle>
+<p>
+Naar 12 eller, hvis Suppleanter skulle tiltræde, henholdsvis 13 eller flere ufor-<lb />
+kastede Nævninger ere udtrukne, ophører Lodtrækningen. De 12 først udtrukne ere<lb />
+Nævningerne i Sagen; den eller de, hvis Navne senere maatte udtrækkes, ere Suppleanter.
+</p>
+<wtitle>§  935.</wtitle>
+<p>
+Naar flere Sager foretages paa een Dag, kunne, saafremt saavel Overanklageren<lb />
+som den eller de Tiltalte samtykke heri, de Nævninger, der have gjort Tjeneste i en<lb />
+Sag, uden ny Udtagelse udføre Hvervet i den nærmest paafølgende Sag.
+</p>
+<p>
+Mangle Betingelserne for Anvendelsen af foranstaaende Regel, og der som<lb />
+Følge heraf paa ny skal udtages Nævninger for en senere, til Forhandling paa samme<lb />
+Dag ansat Sag, kan efter Formandens Bestemmelse Lodtrækning for den senere Sag<lb />
+foretages, førend Forhandlingen i den tidligere Sag begynder.
+</p>
+<wtitle>§  936.</wtitle>
+<p>
+Nævningerne indtage deres Sæde i den ved Lodtrækningen bestemte Orden.
+</p>
+<wtitle>§  937.</wtitle>
+<p>
+Naar Nævningerne have indtaget deres Sæde og de i § 820, første Stykke,<lb />
+ommeldte Spørgsmaal ere rettede til Tiltalte, oplæses Anklageskriftet, og Tiltalte spør-<lb />
+ges, om han erkender sig skyldig i det der omhandlede Forhold. Erkender Tiltalte<lb />
+sig skyldig, kan, naar han heri samtykker, efter Rettens Bestemmelse Nævningernes<lb />
+Medvirkning bortfalde.
+</p>
+<wtitle>§  938.</wtitle>
+<p>
+Træffes ikke saadan Bestemmelse som ommeldt i Slutningen af §  937, aa-<lb />
+minder Formanden Nævningerne om, at de, indtil deres endelige Kendelse er afgiven,<lb />
+ikke angaaende Sagen maa have Samtale eller Forbindelse med nogen anden end<lb />
+Retten gennem dennes Formand, og tager dem derpaa i Ed, idet han foreholder dem,<lb />
+at de skulle love og sværge, opmærksomt at ville følge Forhandlingen i Retten og<lb />
+samvittighedsfuldt besvare de Spørgsmaal, som ville blive dem forelagte, saaledes som<lb />
+de finde ret og sandt at være efter Loven og Sagens Bevisligheder.
+</p>

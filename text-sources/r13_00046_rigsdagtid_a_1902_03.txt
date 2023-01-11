@@ -1,0 +1,81 @@
+1819
+<pb n="46" />
+<h>
+<coll>
+1819
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+1820
+</colr>
+</h>
+<wtitle>§  223.</wtitle>
+<p>
+Afgørelsen træffes paa Grundlag af den mundtlige Forhandling og Bevis-<lb />
+førelsen, jfr. dog §§ 361, 385 og 408. Hvorledes Sagens faktiske Sammenhæng skal<lb />
+antages at være, afgør Retten i Henhold til det samlede Indhold af Forhandlingerne<lb />
+og den stedfundne Bevisførelse.
+</p>
+<p>
+Særlig har Retten, naar der mellem Parterne er Strid, om en Skacle er for-<lb />
+aarsaget, eller hvilken Erstatning der skal gives, og den ifølge de Oplysninger, som<lb />
+foreligge eller indhentes (§ 211), anser sig for at være i Stand hertil, at afgøre disse
+</p>
+<p>
+Spørgsmaal efter et Skøn over alle i Betragtning kommende Omstændigheder.
+</p>
+<wtitle>§  224.</wtitle>
+<p>
+Retten kan ikke tilkende en Part mere, end han har paastaaet. Om Sags-<lb />
+omkostninger og Rettergangsbøder træffes de Bestemmelser, hvortil der efter Sagens<lb />
+Beskaffenhed lindes Anledning, selv om ingen udtrykkelig Paastand herpaa er nedlagt.
+</p>
+<p>
+Der maa ved Afgørelsen ikke tages Hensyn til Søgsmaalsgrunde eller Ind-<lb />
+sigelser, som ikke ere gjorte gældende af Parterne, om det end af Sagens Forhand-<lb />
+ling kan ses, at de kunde have været benyttede.
+</p>
+<wtitle>§  225.</wtitle>
+<p>
+Ere flere Krav forenede under Sagen (§§ 146 og 147), kan Retten, saa snart<lb />
+noget af disse er modent til Paakendelse, afsige Dom derom.
+</p>
+<wtitle>§  226.</wtitle>
+<p>
+Retten kan afsige Dom angaaende enkelte af de fremsatte Søgsmaalsgrunde<lb />
+eller Indsigelser saavel som angaaende Modfordringer, ikke blot hvor særskilt For-<lb />
+handling af dem er anordnet (§ 213, sidste Stykke), men ogsaa hvor de, uden at dette<lb />
+er Tilfældet, ere modne til Paakendelse. Ligeledes kan Retten, naar Sagsøgte for en<lb />
+Del har erkendt Rigtigheden af et indtalt Beløb, straks give Sagsøgeren Dom for det<lb />
+af Sagsøgte saaledes anerkendte Beløb.
+</p>
+<p>
+Domme af den Art. som de i foregaaende Stykke omhandlede, ere dog kun<lb />
+at anse som Bestanddele af den endelige Dom, i hvilken de blive at lægge til Grund<lb />
+og saa vidt fornødent at optage; en saadan Dom kan ikke særskilt fuldbyrdes, med-<lb />
+mindre Retten særlig bestemmer, at den mod eller uden Sikkerhedsstillelse straks kan<lb />
+fuldbyrdes.
+</p>
+<wtitle>§  227.</wtitle>
+<p>
+Domme og Kendelser skulle ledsages af Grunde. Andre Beslutninger af Retten<lb />
+eller Rettens Formand behøve ikke at begrundes.
+</p>
+<p>
+Den i Rettens Afgørelse givne Fremstilling af Parternes mundtlige Angivelser<lb />
+og Ytringer under Sagens Behandling afgiver fuldt Bevis for disse, for saa vidt ikke<lb />
+Modbevis imod den føres.
+</p>
+<wtitle>§  228.</wtitle>
+<p>
+Domme og Kendelser afsiges snarest muligt efter Forhandlingernes Slutning.<lb />
+Afsigelsen af en Dom, foregaar ved, at Domsslutningen. efter at hele Dommen er<lb />
+skriftlig udarbejdet, oplæses i et Retsmøde. Dersom det ikke ved Optagelsen tilkende-<lb />
+gives, naar Dommen eller Kendelsen vil blive afsagt, skulle Parterne og efter<lb />
+Omstændighederne Vidner og Syns- eller Skønsmænd tilsiges til at høre den afsagt.<lb />
+Er den paagældende ikke saaledes sat i Kendskab om Afsigelsestiden, regnes for<lb />
+hans Vedkommende de ellers fra Afsigelsen løbende processuelle Frister først fra<lb />
+Dommens eller Kendelsens Forkyndelse for ham.
+</p>

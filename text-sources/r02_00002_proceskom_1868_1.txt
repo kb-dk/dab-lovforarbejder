@@ -1,0 +1,23 @@
+0
+<pb n="2" />
+<title>Oversigt over Lovforslagets Ordning</title>
+<title>Første Afsnit.</title>
+<p>Om  Domstolenes  Ordning.....................  §§  1-59.</p>
+<p>Kapitel I.</p>
+<p>Om Rigets Inddeling i retslig Henseende ..............................................    §§     1—2.</p>
+<p>Kapitel II</p>
+<p>Om Retterne ......................................................................    §§   3—40.</p>
+<p>1 Højesteret................   ...............................    §§     4-9.</p>
+<p>Landsretter...............................................    §§ 10—22.</p>
+<p>III.</p>
+<p>Underretter...............................................    s§ 23 -34.</p>
+<p>Sarlige og extraordinare Retter.............................    §§ 35—37.</p>
+<p>v.</p>
+<p>Almindelige Bestemmelser for Retterne.........................    §§38-40.</p>
+<p>Kapitel III.</p>
+<p>Om Dommere og Retsskrivere m. o...................................................    §§ 41—59.</p>
+<p>Om Dommere.............................................    §§ 41—51.</p>
+<p>Om Retsstrivere...........................................    §§ 52-54.</p>
+<p>III.</p>
+<p>Om Retsbude, Stævningsmand m. v..........................    §§ 55—58.</p>
+<p>Om Løn, Dagpenge m. v....................................      § 59.</p>

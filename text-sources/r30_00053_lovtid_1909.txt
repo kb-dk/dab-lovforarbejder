@@ -1,0 +1,71 @@
+317
+<pb n="53" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>317</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<title>
+Tredie Bog.
+</title>
+<undertitle>
+Den borgerlige Retspleje.
+</undertitle>
+<title>Første Afsnit.</title>
+<title>
+Almindelige Bestemmelser.
+</title>
+<title>Kapitel 20.</title>
+<undertitle>
+Retternes Virkekreds.
+</undertitle>
+<wtitle>§ 215.</wtitle>
+<p>
+Enhver borgerlig Retstrætte behandles i første Instans ved Landsret, medmindre den er henlagt til Underret eller den ved Overenskomst mellem Parterne<lb/>
+indbringes for Underret, for så vidt dette lovligt kan ske. Om Virkekredsen for Sø- og Handelsretten i København gælder denne Lovs § 9.
+</p>
+<wtitle>§ 216.</wtitle>
+<p>
+Til Underretterne henlægges:
+</p>
+<p>
+1)	Søgsmål angående private Formuerettigheder, når Genstanden for samme i<lb/>
+Penge eller Penges Værd ikke overstiger 300 Kr.
+</p>
+<p>
+2)	Sager angående Skatter. Afgifter og andre lignende Ydelser af offentligretlig<lb/>
+Beskaffenhed til Stat, Kommune, Embeder og andre offentlige Indretninger, når<lb/>
+Genstanden for samme ikke overstiger 300 Kr.
+</p>
+<p>
+3)	Sager angående Servitutter og partielle Brugsrettigheder.
+</p>
+<p>
+4)	Sager om Veksler og visse andre Gældsbreve (§ 437. jvf. § 434).
+</p>
+<p>
+5)	Ægteskabssager (§ 439).
+</p>
+<p>
+6)	Sager angående Mortifikation af Gældsbreve, ved hvilke der er givet Pant i<lb/>
+fast Ejendom (§ 459), samt Mortifikation af Servitutter, Brugsrettigheder og<lb/>
+Grundbyrder (§ 468).
+</p>
+<p>
+7)	Sager angående Erhvervelse af Ejendomsdom.
+</p>
+<p>
+8)	Sager, hvorved Faderskabet til Børn udenfor Ægteskab søges oplyst, for at<lb/>
+Underholdsbidrag kan pålægges Faderen.
+</p>
+<p>
+9)	Sager, anlagte i Medfør af Forordningen af 28. Marts 1845 § 17 til Hæftelsesbreves Udslettelse.
+</p>
+<p>
+10) Sager angående strafbare Handlinger, der ved Lovgivningen ere henviste til<lb/>
+privat Forfølgning, jvf. § 708, for så vidt der ikke påstås højere Erstatning<lb/>
+end 300 Kr.
+</p>
+<p>
+Nr. 53. Lov at 26. Marts om Rettens Pleje.
+</p>

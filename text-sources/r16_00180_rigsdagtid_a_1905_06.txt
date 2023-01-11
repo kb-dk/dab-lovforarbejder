@@ -1,0 +1,68 @@
+2263
+<pb n="180" />
+<h>
+<coll>
+2263
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2264
+</colr>
+</h>
+<title>Tredie Afsnit.</title>
+<title>
+Undersøgelse, førend Tiltale er rejst, i Sager, som forfølges<lb />
+af Overanklageren eller Politiet.
+</title>
+<title>Kapitel 71.</title>
+<undertitle>Efterforskning.</undertitle>
+<wtitle>§ 777.</wtitle>
+<p>
+Det paahviler Politiembedsmændene, naar i øvrigt Betingelserne derfor ere<lb />
+til Stede, af egen Drift og med den størst mulige Hurtighed at efterforske alle strafbare<lb />
+Handlinger, som forfølges af det offentlige, saa snart der opstaar rimelig Formodning<lb />
+om, at saadanne ere forøvede.
+</p>
+<wtitle>§ 778.</wtitle>
+<p>
+Udenfor København fører Overanklageren Overtilsyn med Politiets Efterforsk-<lb />
+ning af de Forbrydelser, hvis Paatale hører under hans Virkekreds. Ligesom han<lb />
+som Følge heraf kan give Politiet almindelige Forskrifter, saaledes kan han ogsaa i<lb />
+de enkelte Tilfælde begære Oplysninger, stille Forlangender og, naar særegne Omstæn-<lb />
+digheder maatte opfordre dertil, selv handle i Politimesterens Sted. Det paahviler<lb />
+Politimesteren at gøre Indberetning maanedlig til Overanklageren om alle foretagne<lb />
+Efterforskninger, endvidere naar tvivlsomme eller særdeles vigtige Spørgsmaal opstaa<lb />
+under Efterforskningen, samt i øvrigt naar det fordres.
+</p>
+<p>
+I København er Politidirektøren, der i sin Efterforskningsvirksomhed er Ju-<lb />
+stitsministeren umiddelbart underordnet, pligtig at efterkomme alle lovlige Begæringer<lb />
+af Overanklageren vedrørende Efterforskningen af de under sidstnævntes Virkekreds<lb />
+hørende Forbrydelser, samt at meddele de herhen hørende Oplysninger, som denne<lb />
+begærer; i særlige Tilfælde kan Overanklageren med Justitsministerens Billigelse<lb />
+overtage Ledelsen af Efterforskningen, og det underordnede Politi staar da i fornø-<lb />
+dent Omfang under hans Befaling.
+</p>
+<wtitle>§ 779.</wtitle>
+<p>
+Anmeldelser fra private om formentlig begaaede Forbrydelser eller om For-<lb />
+hold, der vække Mistanke herom, gøres ordentligvis til Politiet. Dog kunne de ogsaa<lb />
+modtages af Overanklageren, som da ufortøvet tilstiller Politimesteren samme.
+</p>
+<p>
+Anmeldelsen kan være skriftlig eller mundtlig; i sidste Fald skal Modtageren<lb />
+af samme opsætte skriftlig Beretning om den.
+</p>
+<p>
+Naar dertil findes Grund, kan Politimesteren eller Overanklageren, forinden<lb />
+videre Skridt foretages, ved Begæring til Undersøgelsesretten foranledige Anmelderen<lb />
+afhørt for Retten (jfr. § 785).
+</p>
+<wtitle>§ 780.</wtitle>
+<p>
+Er Sagens Paatale afhængig af Justitsministerens Befaling eller af en Opfor-<lb />
+dring fra en særlig offentlig Myndighed (jfr. § 701), skal Politimesteren bringe de ham<lb />
+tilkomne Oplysninger henholdsvis til Overanklagerens eller den særlige Myndigheds<lb />
+Kundskab, men i øvrigt ikke foretage yderligere Efterforskninger, førend vedkommendes<lb />
+Befaling eller Opfordring foreligger.
+</p>

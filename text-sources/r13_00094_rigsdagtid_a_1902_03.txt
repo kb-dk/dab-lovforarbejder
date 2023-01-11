@@ -1,0 +1,67 @@
+1915
+<pb n="94" />
+<h>
+<coll>
+1915
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+1916
+</colr>
+</h>
+<wtitle>§  449.</wtitle>
+<p>
+Forhandlingen sker mundtlig og i de Former, som Kommunedommeren finder<lb />
+tjenlige, uden at han deri er bunden ved de almindelige Rettergangsregler.
+</p>
+<p>
+Ed kan ikke aflægges, Vidner ikke føres og Syn eller Skøn ikke optages.<lb />
+Men Kommunedommeren er berettiget til at høre, hvad de, som Parterne maatte<lb />
+medbringe, fremføre af egen Drift eller efter hans Foranledning.
+</p>
+<wtitle>§  450.</wtitle>
+<p>
+Sagens Behandling tilendebringes som Regel i eet Møde. Ingen Part har Ret<lb />
+til at kræve Udsættelse; kun ganske undtagelsesvis kan Kommunedommeren tilstaa<lb />
+en saadan.
+</p>
+<wtitle>§  451.</wtitle>
+<p>
+Kommunedommeren foretager Forligsmægling. Opnaas Forlig, er Sagen der-<lb />
+med endelig afgjort. Forliget tilføres Kommunedommerens Bog.
+</p>
+<p>
+Opnaas ikke Forlig, bliver Sagen, saa snart Kommunedommeren mener at<lb />
+have hørt Parterne tilstrækkelig, optagen til Dom.
+</p>
+<p>
+Dommen afsiges straks efter Optagelsen.
+</p>
+<p>
+Dommen afsiges mundtlig, men tilføres Kommunedommerens Bog. Den skal<lb />
+indeholde et tydeligt Resultat, men behøver ikke at indeholde en Udvikling af Grunde.
+</p>
+<wtitle>§  452.</wtitle>
+<p>
+Paa Statens Bekostning og ved Justitsministerens Forsorg forsynes hver<lb />
+Kommunedommer med en Bog og Blanketter til Udskrifter deraf. Saavel Bogens<lb />
+Sider som Blanketterne skulle være indrettede paa en Tilførslerne lettende Maade,<lb />
+navnlig saaledes, at Sidernes og Blanketternes trykte Tekst er forskellig efter Sagens<lb />
+Udfald (Forlig, Domfældelse, Frifindelse eller Afvisning).
+</p>
+<p>
+Hver af Parterne er berettiget til paa Forlangende een Gang at faa en<lb />
+Udskrift af Forlig eller Dom i den ham vedrørende Sag.
+</p>
+<wtitle>§  453.</wtitle>
+<p>
+Enhver af en Kommunedommer afsagt Dom kan i Løbet af 4 Uger indbringes<lb />
+for den Underret, i hvis Kreds Kommunen ligger.
+</p>
+<p>
+Der fremlægges da Udskrift af Kommunedommerens Bog for den paagældende<lb />
+Sags Vedkommende; men i øvrigt behandles Sagen ganske efter Lovens almindelige<lb />
+Regler om Rettergang i første Instans.
+</p>

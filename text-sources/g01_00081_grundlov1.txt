@@ -1,0 +1,121 @@
+89
+<pb n="81">
+<pagename>81</pagename>
+<h>
+<coll>89</coll>
+<colr>90</colr>
+<lb/>
+
+<topleft>1848</topleft>
+<topmidle>
+Beretning Om Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 13.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Sjette Møde.<lb/>
+(Fortsat.)<lb/>
+</btitle>
+<p>
+<speaker>Bisby:</speaker> Det er mig ikke fuldkommen klart med Hensyn til<lb/>
+Slutningen af § 6, om der ved den Forandring, som deri omtales,<lb/>
+menes Forandring i Dagsordenen for samme Dag eller for den påfølgende Dag, med andre Ord, om Forsamlingen ved Mødets Åbning kan forandre Dagsordenen for samme Dag eller blot for den<lb/>
+næste Dag.<lb/>
+</p>
+<p>
+<speaker>Algreen-Ussing:</speaker> Jeg troer ikke, at det kan misforståes, at<lb/>
+der alene er sigtet til næste Dags-Orden. Det hedder nemlig i<lb/>
+Slutningen „dog kunne 15 Medlemmer forlange, at den (Dagsordenen) fastsættes ved Forsamlingens Beslutning”, og i Begyndelsen af<lb/>
+Paragraphen siges der: „Formanden bestemmer ved Slutningen af<lb/>
+hvert Møde Dagsordenen for næste Møde”. Det er ikke for den<lb/>
+løbende Dag, men altid for det næste Møde, at Dagsordenen sættes.<lb/>
+Skal der være Tale om at bringe en Sag under Forhandling samme<lb/>
+Dag som Ønsket derom fremsættes, så falder en sådan Beslutning<lb/>
+under Udkastets sidste Paragraph, som i den Henseende tillader Undtagelser fra de almindelige Forskrifter, og hvorom jeg skal tillade mig<lb/>
+nærmere at yttre mig, når vi komme dertil.<lb/>
+</p>
+<p>
+<speaker>Mundt:</speaker> Jeg vil tillade mig en Bemærkning med Hensyn til<lb/>
+§ 2. Når man læser den første Deel af Paragraphen, kan der ikke<lb/>
+være nogensomhelst Tvivl, thi der er Kun Tale om Valget på Formand, men i Slutningen af Paragraphen ståer: „Efter samme<lb/>
+Forskrift forholdes ved Valget af Vice-Formænd og Secretairer”; nu<lb/>
+er Vice-Formændenes Antal 2 og Secretairernes Antal 4, og da bliver<lb/>
+det muligt, at allerede ved den første Afstemning Flere end det Antal, som skal vælges, kunne erholde mere end Halvdelen af Stemmerne, og det forekommer mig ikke klart, om i dette Tilfælde denne<lb/>
+Sætning også finder Anvendelse: „have Flere lige Stemmer, gjør<lb/>
+Alderen Udslaget.”<lb/>
+</p>
+<p>
+<speaker>David:</speaker> Det forekommer mig dog umuligt, når kun 2 skulle<lb/>
+vælges, at Flere end to skulde kunne erholde Halvdelen af Stemmerne.<lb/>
+</p>
+<p>
+<speaker>Mundt:</speaker> Det er ikke vanskeligt at indsee, at et sådant Tilfælde vil kunne indtræffe, og det vil være tydeligere, når Talen bliver om Secretairerne, hvis Antal er 4; da vil det let kunne hænde,<lb/>
+at Flere end 4, ja 5, 6, 7 ville kunne erholde mere end Halvdelen<lb/>
+af Stemmerne; men når kun to skulle vælges, såsom ved Valget<lb/>
+af Vice-Formænd, vil dette Tilfælde ikke kunne indtræde, undtagen<lb/>
+når Medlemmernes Antal er ulige. Hvis f. Ex. Antallet af Forsamlingens Medlemmer er 151, så er altså 76 over Halvdelen;<lb/>
+dersom de første 76 Medlemmer stemme på A og Nr. 2 til 77<lb/>
+inclusive på B, så kan en Tredie, C, erholde een Stemme af Nr. 1,<lb/>
+een Stemme af Nr. 77 og dernæst de øvrige 74 Stemmer til, hvilket<lb/>
+altså er 76. Men dette er vistnok et Tilfælde, som sjeldent vil<lb/>
+indtræffe, hvorimod det ved Secretairernes Valg hyppigere kunde skee.<lb/>
+Det var blot min Mening, at det skulde udtrykkes med Klarhed, at<lb/>
+den nævnte Sætning: „have Flere lige Stemmer” o. s. v., også har<lb/>
+Hensyn til den første Afstemning.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Hvis Ingen videre yttrer sig, antager jeg, at<lb/>
+vi kunne gåe over til næste Afsnit, som vil indbefatte §§ 7—10,<lb/>
+begge inclusive.<lb/>
+<speaker>Algreen-Ussing </speaker>oplæste det pågjældende Afsnit og bemærkede<lb/>
+derefter:<lb/>
+</p>
+<p>
+Dette Afsnit er af den Vigtighed, at det må være mig tilladt<lb/>
+</p>
+</leftside>
+<rightside>
+<p>
+derom at fremsætte nogle udførligere Bemærkninger. Dette indeholder<lb/>
+nemlig en Forretningsorden, som ikke hidtil har været gjældende hos<lb/>
+os, og som derfor vel kan behøve noget nærmere at udvikles og forklares. Comiteen har, som jeg strax tillod mig at bemærke, ikke havt<lb/>
+Leilighed til at ledsage sit Udkast med Motiver, ligesom den heller ikke<lb/>
+har anseet det passende, i selve Regulativet nærmere at forklare Øiemedet med disse Afdelinger og beskrive den hele Forhandlingsmåde i<lb/>
+samme. Det turde derfor være hensigtsmæssigt her at give en Fremstilling af det såkaldte Bureausystems Betydning. Det vil være indlysende for Enhver, som kjender til Forhandlingerne i større Forsamlinger, hvor vigtigt det er, at den foreløbige Bearbeidelse af Sagerne<lb/>
+skeer på en sådan Måde, at den bliver så udtømmende som muligt, at Forsamlingens Medlemmer derved sættes i den nøiagtigste og<lb/>
+fuldstændigste Kundskab om Sagens Gjenstand, og at der åbnes<lb/>
+Leilighed til at drage den størst mulige Nytte og Fordeel af samtlige<lb/>
+Medlemmers Kundskaber; det er som det hensigtsmæssigste Middel<lb/>
+hertil, at man i flere Landes legislative Forsamlinger har indført den<lb/>
+Indretning, som Comiteen her har bragt i Forslag. Forsamlingen<lb/>
+opløser sig nemlig, som i Udkastet foreslået, i et vist Antal Afdelinger, som Comiteen har troet at burde foreslåe til 5, hvorefter der,<lb/>
+da Forsamlingen beståer af 152 Medlemmer, vil falde 30 Medlemmer på de 3 og 31 på de 2 af disse Afdelinger. Denne Fordeling<lb/>
+skal her som i andre Lande skee ved en almindelig Lodtrækning. Når<lb/>
+disse Forsamlinger således ere dannede, er Bestemmelsen, at enhver<lb/>
+Sag af større Vigtighed, navnlig Lovforslagene, såsnart de ere forelagte Forsamlingen, samtidigen blive overgivne til foreløbig Behandling i disse Afdelinger. Den Hovedfordeel, som derved vil opnåes<lb/>
+er den, at man på eengang sætter alle Forsamlingens Medlemmer i<lb/>
+Virksomhed med Sagens foreløbige Bearbeidelse og Bedømmelse,<lb/>
+istedetfor at efter den hidtil fulgte Forretningsorden, når der nedsættes en speciel Comitee, kun et forholdsviis ringe Antal Medlemmer fåer Leilighed til nøie at træge ind i Sagens Enkeltheder.<lb/>
+Igjennem Afdelingerne kan derimod hvert enkelt Medlem fra Sagens første Begyndelse følge med denne; han kan fremsætte sine Forslag, sine Ideer, fine Ønsker på en Tid, da Sagen endnu er aldeles ny, istedetfor at han ellers, når hans Forslag først fremkommer,<lb/>
+efterat Comiteen har afgivet sin Betænkning, vil have større Vanskelighed ved at skaffe dem Indgang. I Afdelingerne kan etyvert<lb/>
+Medlem fremsætte de Tvivl og de Bemærkninger, han kan have ved<lb/>
+Lovforslagene (jeg bruger dette Udtrtyk i Almindelighed, eftersom det<lb/>
+nærmest er Lovarbeiderne, som tænkes behandlede på denne Måde);<lb/>
+han kan begjere Oplysninger og Forklaringer af de andre Medlemmer i Comiteen og gjøre de Forslag til Forandringer, som han anseer hensigtsmæsige; derved vil denne Indretning blive det naturligste Middel til at drage den størst mulige Fordeel af alle<lb/>
+Medlemmers Kundskaber og Kræfter, og disse ville ad denne<lb/>
+Vei trænge ind i Sagen på en Måde, som ellers ikke bliver<lb/>
+dem mulig, thi hvor nøiagtig og fuldstændig en Comiteebetænkning end er, vil den dog efterlade mange Tvivl hos dem, som<lb/>
+ikke på den her omhandlede måde have behandlet Sagen. Enhver,<lb/>
+der har deeltaget i Stænderforhandlinger, veed, at man ved at være<lb/>
+Medlem af en Comitee ganske anderledes kommer ind i Sagens<lb/>
+Heelhed, end når man ståer udenfor Comiteen. I disse forholdsviis mindre Afdelinger, hvor Møderne ikke holdes offentligt, ville<lb/>
+Medlemmerne derhos lettere tilsidesætte den Tilbageholdenhed i at<lb/>
+fremsætte deres Meninger og Anskuelser, som måtte hidrøre fra en<lb/>
+forvidt dreven Beskedenhed, især når de kunne have nogen Tvivl,<lb/>
+</p>
+</rightside>
+
+</pb>

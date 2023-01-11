@@ -1,0 +1,184 @@
+2307
+<pb n="110" />
+<p rend="page">110</p>
+<h>
+<coll>2307</coll>
+<colr>2308</colr><lb />
+<topmidle>Bilag til Set. o. Lovf. 6m Rettens Pleje. </topmidle>
+</h>
+<leftside>
+<p>
+Anm. § 301, 2. og 3. Stk., flyttes hen<lb />
+i Kapitel 29.<lb />
+</p>
+<p>
+§ 191, jfr. Forslagets §§ 302, 790 og 792,<lb />
+</p>
+<p>
+1. og 2. Stk.<lb />
+= § 302.<lb />
+</p>
+<p>
+§ 192, jfr. Forslagets §§ 303 og 793.<lb />
+</p>
+<p>
+1. Stk.: „I borgerlige Sager have Syns-<lb />
+og Skønsmænd at bekræfte deres Syn<lb />
+o. s. v.", som § 303.<lb />
+</p>
+<p>
+2. Stk. „I Straffesager finder saadan<lb />
+Bekræftelse som i første Stykke nævnt kun<lb />
+Sted under Domsforhandlingen, samt naar<lb />
+Mændenes Erklæring eller Forklaring maa<lb />
+ventes at skulle benyttes som Bevis under<lb />
+denne uden personligt Møde af Mændene<lb />
+selv; i sidste Tilfælde skal et Retsvidne<lb />
+saa vidt muligt tilkaldes overensstemmende<lb />
+med § (57), saafremt en særlig Retsskriver<lb />
+ikke er til Stede."<lb />
+</p>
+<p>
+§ 193, jfr. Forslagets §§ 304 og 795.<lb />
+</p>
+<p>
+1. Stk. = § 304, 1. Stk.<lb />
+</p>
+<p>
+2. Stk.: „Dog kan Retten, naar dette<lb />
+er muligt og efter Omstændighederne kan<lb />
+bidrage til Sagens Fremme, udnævne andre<lb />
+Syns- eller Skønsmænd, enten straks eller<lb />
+naar de anordnede Tvangsmidler forgæves<lb />
+ere anvendte. I borgerlige Sager kan dette<lb />
+dog kun ske efter Begæring af vedkom-<lb />
+mende Part, der i saa Fald ikke kan for-<lb />
+lange yderligere Tvangs Anvendelse mod<lb />
+den eller de genstridige Syns- eller Skøns-<lb />
+mænd."<lb />
+</p>
+<p>
+§ 194 = Forslagets § 305.<lb />
+§ 195 = Forslagets § 306.<lb />
+</p>
+<p>
+§ 196 = Forslagets § 307, 1. Pkt., og 799.<lb />
+</p>
+<p>
+Anm. § 307, 2. Pkt., flyttes til Ka-<lb />
+pitel 31.<lb />
+</p>
+<p>
+§ 197 = Forslagets §§ 308 og 794.<lb />
+</p>
+<p>
+§ 198 — Forslagets § 797, dog at der i<lb />
+Linie 1 efter „Efterforskningen" ind-<lb />
+skydes „i Straffesager".<lb />
+</p>
+<p>
+§ 199, jfr. Forslagets §§ 309 og 798.<lb />
+</p>
+<p>
+1. Stk. = § 309, 1. Stk.<lb />
+</p>
+<p>
+2. Stk.: „Disse Ydelser eller, hvis de<lb />
+ikke kunne anslaas bestemt, passende For-<lb />
+skud paa dem, skulle i borgerlige Sager<lb />
+tilbydes forud. I Straffesager kunne Mæn-<lb />
+dene ved Udmeldelsens Forkyndelse" o. s. v.,<lb />
+som § 798, 3. Stk.<lb />
+</p>
+<p>
+3. og 4. Stk. = § 309, 3. og 4. Stk.<lb />
+</p>
+<p>
+§ 200 = Forslagets § 310.<lb />
+</p>
+</leftside>
+<rightside>
+<title>
+Kapitel 19.<lb />
+</title>
+<undertitle>
+Rettens Raadslagninger og Afgørelser.<lb />
+</undertitle>
+<p>
+§ 201, jfr. Forslagets §§ 219, 761 og 900.<lb />
+1. Stk. = § 219, 1. Stk.<lb />
+</p>
+<p>
+2. Stk. = § 219, 2. Stk.<lb />
+</p>
+<p>
+3. Stk. „I en Sags Afgørelse kan<lb />
+ingen Dommer eller Nævning deltage, som<lb />
+ikke har overværet de mundtlige Forhand-<lb />
+linger i deres Helhed. Naar i en Straffe-<lb />
+sag, som behandles ved Landsret, en Dom-<lb />
+mer eller Nævning faar Forfald eller af<lb />
+anden Grund maa fratræde, efter at Doms-<lb />
+forhandling er begyndt, kan denne fort-<lb />
+sættes for henholdsvis fire Dommere eller<lb />
+elleve Nævninger eller for fire Dommere<lb />
+og elleve Nævninger; Dom kan dog, naar<lb />
+der kun er fire Dommere, kun afsiges,<lb />
+naar tre af dem ere enige i Afgørelsen.<lb />
+</p>
+<p>
+Ved Forhandlinger, som forudsættes<lb />
+at blive af længere Varighed, kan For-<lb />
+manden i en Ret, som bestaar af flere<lb />
+Medlemmer, bestemme" o. s. v. som i § 900.<lb />
+</p>
+<p>
+§ 202 = Forslagets § 220, dog at der i<lb />
+Linie 1 efter „tre" indskydes: „i<lb />
+Straffesager mindst fem", og at der<lb />
+i Linie 2 efter „Medlemmer" tilføjes:<lb />
+„jfr. dog § (201)".<lb />
+</p>
+<p>
+§ 203, jfr. Forslagets §§ 221, 762 og 923,<lb />
+2. Stk.<lb />
+</p>
+<p>
+1. Stk. = § 762 1. Stk.<lb />
+</p>
+<p>
+„Danner der sig i en Straffesag om det<lb />
+samme Spørgsmaal flere end to forskellige<lb />
+Meninger, af hvilke ingen er i Flertal,<lb />
+blive de for Sigtede ugunstigste Stemmer<lb />
+regnede sammen med de nærmeste mindre<lb />
+ugunstige, indtil der udkommer Stemme-<lb />
+flerhed. Er det tvivlsomt, hvilken Mening<lb />
+der er den ugunstigste for Sigtede, bliver<lb />
+der afstemt særskilt herom.<lb />
+</p>
+<p>
+Særskilt Afstemning finder ligeledes<lb />
+Sted, naar der opstaar Meningsforskel om,<lb />
+hvorledes Spørgsmaalene skulle stilles, eller<lb />
+om Afstemningens Resultat.<lb />
+</p>
+<p>
+Den vedtagne Afgørelse føres i Pennen<lb />
+af Rettens Formand eller af den af de i<lb />
+Afgørelsen deltagende Dommere, hvem<lb />
+dette Hverv af Formanden overdrages.<lb />
+Stemmetallet maa ikke optages i Rettens<lb />
+Afgørelser."<lb />
+</p>
+<p>
+§ 204 = Forslagets § 763, 1. Stk., 2. Pkt.<lb />
+</p>
+<p>
+§ 205, jfr. Forslagets §§ 227 og 763, 1.<lb />
+</p>
+<p>
+Stk., 1. Pkt. og 2. Stk., 1. Pkt.<lb />
+= § 227 med følgende Ændringer:<lb />
+</p>
+</rightside>

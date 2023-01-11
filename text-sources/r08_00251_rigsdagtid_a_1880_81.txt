@@ -1,0 +1,45 @@
+3865
+<pb n="251" />
+<h>
+<coll>3865</coll>
+<topmidle>Forsl. t. L. om Strafferetspleien.</topmidle>
+<colr>3866</colr>
+</h>
+<p>Udenfor de Tilfælde, i hvilke i Henhold til § 298 Nr. 4 de ved Underretten af«<lb />
+givne, Retsbogen tilforte Forklaringer af Vidner, Syns- eller skjønsmænd, kunne oplæses<lb />
+under Bevisforelsen, kan Retten ogsaa ellers, naar den ifolge Sagens Bestaffenhed og øvrige<lb />
+Omstændigheder finder Feie dertil, beslutte, at saadanne Udsagn stulle gjældc, uden at de paa-<lb />
+gjældende Personer paany fores for Landsretten.</p>
+<wtitle>§ 405.</wtitle>
+<p>Har den Sigtede paaanket, men enten fsr Hovedforhandlingen har unddraget sig<lb />
+forfølgning eller udebliver under Hovedforhandlingen uden oplyst lovligt Forfald, betragtes<lb />
+hans Anke som frafalden, dog med Forbehold af Bestemmelsen i § 391.</p>
+<p>Har Anklageren paaanket, og den Sigtede paa den foran angivne Maade unddrager<lb />
+sig forfølgning eller udebliver, bliver Sagen at udscrttc, medmindre i Henhold til § 200,<lb />
+jfr. § 366, Hovedforhandling og Paakjendelse kan sinde Sted i den Sigtedes Fraværelse<lb />
+eller Anklageren frafalder Anken eller indskrænker den til Paaanke af den i § 399 om-<lb />
+meldte Art.</p>
+<wtitle>§ 406.</wtitle>
+<p>Landsrettens Dom i en fra Underretten paaanket Sag kan i Reglen ikke yderligere<lb />
+paaankes. Dog kan Hoiesteret (§ 108) undtagelsesvis tillade, at Sagen indbringes for samme,<lb />
+naar den fkjsnnes at have almindelig Interesse eller videregaaende betydelige følger for Ved-<lb />
+kommende. Andragende herom maa fremsættes inden 3 Dage fra Dommens Afsigelse, jfr.<lb />
+§ 397  2 det Stykke i Slutn.</p>
+<p>Tilstedes Plante til Høiesteret, finde Reglerne i §§ 398 og 399 tilsvarende An-<lb />
+vendelse.</p>
+<title>Kapitel III.</title>
+<undertitle>Om Befmring til Høiere Met.</undertitle>
+<wtitle>§ 407.</wtitle>
+<p>Besværing til h«iere Ret benyttes som Retsmidddel:</p>
+<p>1)   mod Underføgelsesdommerens Kjendelser og Beslutninger,</p>
+<p>2)   mod den dømmendc Rets Kjendelser og beslutninger, som ikke paaankes i Forbindelse<lb />
+med Dommen.</p>
+<p>I.</p>
+<p>Om Besværing mod Undersogelsesdommerens Kjendelser og Beslutninger.</p>
+<wtitle>§ 408.</wtitle>
+<p>Berettiget til Besværing er Enhver, som ved Undersogelsesdommerens Handlinger eller<lb />
+Undladelser antager sig krænket i sine Rettigheder eller hindret i Opfyldelsen af sine Pligter.,.</p>
+<wtitle>§ 409.</wtitle>
+<p>Besværingsfristen er ordentligvis 4 Uger.</p>
+<p>Imod Kjendelser, ved hvilke   det   paalægges Vidner,  Synsmand eller a^H^<lb />
+mod   derto Indsigelse  at afgive Vidnesbyrd, foretage Syn eller   Ekjsn, fremkomme</p>

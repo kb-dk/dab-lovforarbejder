@@ -1,0 +1,73 @@
+515
+<pb n="99" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>515</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+I Stævningen skal begge Parter være betegnede med Navn og Stilling og<lb />
+deres Bopæl eller Opholdssted være angivet, hvorhos den skal indeholde Sagsøgerens<lb />
+Påstand og en kort Fremstilling af de Kendsgerninger, hvorpå den støttes. Stævningen skal derhos angive de Dokumenter, Sagsøgeren vil benytte, samt opfordre<lb />
+Sagsøgte til at møde på Sagens første Tægtedag og svare i Sagen samt til at medtage de Dokumenter, han vil påberåbe sig.
+</p>
+<p>
+Parterne kan dog, når de efter Overenskomst begge møder for Retten, og<lb />
+Sagen er anmeldt for denne senest Dagen før Retsmødet, uden Stævning begære<lb />
+Sagen foretaget.
+</p>
+<wtitle>§ 426.</wtitle>
+<p>
+Når Stævning benyttes, indgives den til Retten, der forsyner den med en<lb />
+Påtegning, hvorved Sagen berammes til Foretagelse i et angivet Retsmøde. Stævningen tilbageleveres Sagsøgeren til videre Foranstaltning.
+</p>
+<wtitle>§ 427.</wtitle>
+<p>
+Har Sagsøgte Bopæl i Underretskredsen, skal Stævningen forkyndes ham med<lb />
+en Uges Varsel. Bor Sagsøgte udenfor Underretskredsen, er Varselet 14 Dage, medmindre han har Bopæl på Færøerne, Island, Grønland, de vestindiske Øer eller i<lb />
+Udlandet, i hvilket Tilfælde, såvel som når det ikke vides, hvor Sagsøgtes Bopæl er,<lb />
+Varselet bestemmes af Dommeren.
+</p>
+<p>
+I øvrigt er de i § 339, 2det, 3die og 4de Stykke, indeholdte Bestemmelser<lb />
+anvendelige.
+</p>
+<wtitle>§ 428.</wtitle>
+<p>
+Dommeren kan, når som helst han inden Sagens Optagelse finder Grund<lb />
+dertil, mægle Forlig mellem Parterne. Kommer Forlig i Stand, tilføres det Retsbogen.
+</p>
+<wtitle>§ 429.</wtitle>
+<p>
+Efter at Sagsøgeren i de Sager, i hvilke Forlig skal prøves ved Forligskommissionen, har fremlagt Indkaldelse til Kommissionen samt Bevis for, at Forlig har<lb />
+været forsøgt, udvikler Parterne mundtlig deres Sag for Dommeren uden videre Forberedelse ved Skrift. Sagsøgeren fremlægger den behørigt forkyndte Stævning og<lb />
+fremstiller Sagen fra sin Side, hvorpå Sagsøgte har at erklære sig.
+</p>
+<p>
+Under Sagens Forhandling bør Dommeren ikke blot søge at fremkalde tydelige<lb />
+og sandfærdige Forklaringer fra Parternes Side om Sagens Sammenhæng, men han<lb />
+har også, for så vidt Parterne ikke møder ved Sagførere, at vejlede dem med Hensyn<lb />
+til, hvad de bør foretage til Oplysning af Sagen og i øvrigt til Varetagelse af deres<lb />
+Tarv under denne.
+</p>
+<p>
+De fra begge Sider nedlagte Påstande skal ved Forhandlingens Slutning<lb />
+indføres fuldstændigt i Retsbogen, medmindre de i særskilt skriftlig Affattelse fremlægges til denne. For så vidt sådant efter Omstændighederne måtte anses fornødent, kan Dommeren foranledige sådan skriftlig Affattelse af Påstanden og dertil<lb />
+tilstå Udsættelse.
+</p>
+<p>
+Endvidere skal Parternes Erklæringer over Sagens Sammenhæng i det Omfang, som af Dommeren skønnes hensigtsmæssigt, tilføres Retsbogen, dog ikke ordret,<lb />
+men efter deres væsentlige Indhold. Det tilførte oplæses og vedkendes.
+</p>
+<wtitle>§ 430.</wtitle>
+<p>
+Dommeren bestemmer, om Formalitetsindsigelser skal forhandles og påkendes særskilt eller i Forbindelse med Realiteten.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

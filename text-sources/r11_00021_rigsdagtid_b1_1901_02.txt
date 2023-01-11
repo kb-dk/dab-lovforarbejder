@@ -1,0 +1,112 @@
+2299
+<pb n="21" />
+<h>
+<coll>2299</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2300</colr>
+</h>
+<leftside>
+<p>vedkommende Underretning om Over-<lb />
+sendelsen.</p>
+<p>Fristen for Besværing til Landsret<lb />
+over Underrettens Besværingskendelse,<lb />
+saavel som for Besværing til Højesteret<lb />
+over Landsrettens Besværingskendelse er<lb />
+2 Uger. Dog kan saavel Justitsministeriet<lb />
+som henholdsvis Landsrettens Justitiarius<lb />
+og det i § 246 ommeldte Udvalg af<lb />
+Højesteret, naar Omstændighederne særlig<lb />
+tale herfor, i indtil 6 Maaneder tillade, at<lb />
+saadan Besværing til højere Ret finder<lb />
+Sted efter førstnævnte Frists Udløb.</p>
+<p>En ved Underret begyndt Besværing<lb />
+kan ikke uden særlig Tilladelse af Justits-<lb />
+ministeriet eller det fornævnte Højesterets-<lb />
+udvalg føres videre end til Landsret.</p>
+<p>Besværing til højere Bet over en af-<lb />
+given Besværingskendelse har ikke op-<lb />
+sættende Virkning, medmindre saadan<lb />
+udtrykkelig er bestemt i selve Kendelsen<lb />
+eller bestemmes af den højere Ret, hvortil<lb />
+Besværing rejses.</p>
+<wtitle>Til § d.</wtitle>
+<p>Almindeligt Søgsmaal anvendes, naar<lb />
+Ophævelse ønskes af et Udlæg, der er<lb />
+foretaget i Henhold til et Forlig, et<lb />
+Pantebrev eller et Bodmeribrev, idet dettes<lb />
+kontraktmæssige Gyldighed, eller den til<lb />
+Grund for Eksekutionen liggende Antagelse<lb />
+med Hensyn til dets Indhold eller Ikraft-<lb />
+træden bestrides.</p>
+<p>Saadant Søgsmaal, der maa rettes<lb />
+mod Rekvirenten, kan anlægges, alt efter<lb />
+Sagens Værdi og Beskaffenhed, henholds-<lb />
+vis ved den Underret eller ved den Lands-<lb />
+ret, i hvis Retskreds vedkommende Syssel-<lb />
+mand er ansat. Det maa anlægges inden<lb />
+2 Uger efter Eksekutionsforretningens<lb />
+Slutning, medmindre Justitsministeriet<lb />
+•eller Landsrettens Justitiarius undtagelses-<lb />
+vis tillader, at det anlægges senere.<lb />
+Saadan Tilladelse kan dog ikke gives, naar<lb />
+6 Maaneder ere forløbne efter Ekseku-<lb />
+tionsforretningens Slutning.</p>
+<p>Har en Sysselmand, fordi han finder<lb />
+en rejst Tvivl vedrørende et Forligs, et<lb />
+Pantebrevs eller et Bodmeribrevs kontrakt-<lb />
+mæssige Gyldighed, Indhold eller Ikraft-<lb />
+træden begrundet, nægtet at foretage<lb />
+Eksekution paa Grundlag deraf, maa<lb />
+Rekvirenten anlægge Søgsmaal efter al-<lb />
+mindelige Regler mod Modparten for at<lb />
+opnaa behørigt Eksekutionsgrundlag.</p>
+<p>Erstatningsansvar mod den, der har<lb />
+rekvireret en Eksekutionsforretning eller<lb />
+mod den Sysselmand, der har foretaget<lb />
+eller nægtet at foretage en saadan, kan<lb />
+kun gøres gældende under et paa sædvan-</p>
+</leftside>
+<rightside>
+<p>lig Maade mod den paagældende ved hans</p>
+<p>Værneting anlagt Søgsmaal.</p>
+<wtitle>Til § e.</wtitle>
+<p>Ved den i §§ e og d Justitsministeriet<lb />
+og Retterne tillagte Beføjelse til und-<lb />
+tagelsesvis at tillade Afvigelse fra de al-<lb />
+mindelige Fristbestemmelser eller tillade<lb />
+Besværing til Højesteret som 3die Instans<lb />
+finder Reglen i § 246, 3die Stykke, An-<lb />
+vendelse."</p>
+<wtitle>Til § 384.</wtitle>
+<p>334) „Fogden" ændres til ..Syssel-<lb />
+manden".</p>
+<wtitle>Til § 385.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>335) I Stk. 2 ændres „den Jurisdik-<lb />
+tion" til „det Syssel" og „i en Landjuris-<lb />
+diktion" til „paa Landet".</p>
+<p>Af Justitsministeren, tiltraadt af<lb />
+Udvalget undtagen Nanke:</p>
+<p>336)	„Fogden" ændres til „Syssel-<lb />
+manden" (5 Steder).</p>
+<p>337)	I 4de Stykke staar „Sølovens §<lb />
+20. 5te Stykke" læs „3die Stykke".</p>
+<wtitle>Til § 386.</wtitle>
+<p>338)	„Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 387.</wtitle>
+<p>339)	„Foged" ændres til „Sysselmand".</p>
+<wtitle>Til § 388.</wtitle>
+<p>340)	I 1ste og 3die Stykke ændres<lb />
+„Fogden" til „Sysselmanden".</p>
+<p>341)	Paragraffens 2det Stykke affattes<lb />
+saaledes:</p>
+<p>„Det bliver at iagttage, at Auktionen<lb />
+eller det i § 403 omhandlede Salg ikke<lb />
+maa foregaa, førend den ved Eksekution<lb />
+gældende almindelige Klagefrist af 2 Uger<lb />
+er udløben. Fremlægges Bevis for, at der<lb />
+inden denne Frists Udløb er rejst Besværing<lb />
+til højere Øvrighed eller til Retten eller er<lb />
+anlagt Søgsmaal i Anledning af Eksekutions-</p>
+</rightside>

@@ -1,0 +1,45 @@
+3761
+<pb n="199" />
+<h>
+<coll>3761</coll>
+<topmidle>Forsl. t. L. om Strafferetspleien.</topmidle>
+<colr>3762</colr>
+</h>
+<title>Kapitel IV.</title>
+<undertitle>Om den Sigtedes Indkaldelse for Retten,  Anholdelse og Famgsling samt om Vestaglssggelse af<lb />
+dens Formue, som undorager sig Forfslgning, m. V.</undertitle>
+<title>I.</title>
+<undertitle>Om den Sigtedes Indkaldelse for Retten.</undertitle>
+<wtitle>§ 166.</wtitle>
+<p>Den Sigtede, som besinder sig paa fri Fod, er pligtig til efter lovlig Indkaldelse<lb />
+personlig at møde for Retten til Afhorelse og iøvrigt, naar Loven kræver hans Ncrrvoerelse.<lb />
+Udeblivelse uden oplyst lovligt Forfald, kan efter de nærmere i Loven givne Regler medføre<lb />
+Anholdelse, Fcrngsling, Beslaglæggelse af Formuen eller Sagens Paadommclse i den Sigtedes<lb />
+Fravoerelse.</p>
+<wtitle>§ 167.</wtitle>
+<p>Den Sigtede er ordentligvis pligtig at mede for den Ret, ved hvilken Sagen er<lb />
+anhoengig. Udenfor Hovedforhandlingen samt i Sager, som det ifolge § 35 tilkommer Po-<lb />
+litimesteren eller ifølge §39 Private at paatale, sinder Undtagelse Sted under de i § 133<lb />
+Nr. 2 og 3 nævnte Betingelser, naar den Sigtede andrager derpaa eller er udebleoen. Frem-<lb />
+deles sinder Undtagelse Sted under de i § 133 Nr. 4 nævnte Omstændigheder.</p>
+<p>Retten bestemmer Indkaldelsesvarslet, hvor Loven ikke indeholder Forskrift.</p>
+<wtitle>§ 168.</wtitle>
+<p>Indkaldelsen sker, hvor den ikke er indeholdt i Berammelsen af Retsmodet, i Form<lb />
+af Tilsigelse, eller ved Indkaldelse til møde under Hovedforhandling i Sager, som det til-<lb />
+kommer Statsanklageren at paatale, i Form af Stævning, og udgaar fra den Ret, for hvilken<lb />
+Modet skal finde Sted.</p>
+<p>Tilsigelsen eller Stagningen skal indeholde den Sigtedes Navn, og hvad der Iøvrigt<lb />
+udkræves til hans noiagtige Betegnelse, hans Bolig eller Opholdssted, fremdeles Angivelse af<lb />
+Sigtelsen, ved Indkaldelse til Hovedforhandling under Paaberaabelse af Anklagen og Henvis-<lb />
+ningsbestutningen, og ellers med faadan Noiagtighed, som Sagens Stilling tilsteder, endvidere<lb />
+Betegnelse af Retten, Msdcts Tid og Sted, Varslet, som gives, samt Bemærkning om de<lb />
+Felger, som kunne ventes i Tilfælde af Udeblivelse uden oplyst lovligt Forfald.</p>
+<title>II.</title>
+<undertitle>Om Anholdelse.</undertitle>
+<wtitle>§ 169.</wtitle>
+<p>Naar en Mistcrnkt, som besinder sig paa fri Fod, er udebleven efter behørig Ind-<lb />
+kaldelse uden oplyst lovligt Forfald, kan Retten beslutte hans Anholdelse. I de Tilfælde,<lb />
+hvor der kan strides til Paakjendelse, stjsnt den Sigtede er udebleven ved Hovedforhandlingen,<lb />
+kan Anholdelse af denne Grund dog kun finde Sted, naar det i en efter Reglerne i<lb />
+§ 95 ff. forkyndt Indkaldelse udtrykkelig er bemaerket, at hans personlige nærværelse findes<lb />
+nodvendig.</p>

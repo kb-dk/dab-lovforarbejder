@@ -1,0 +1,46 @@
+117
+<pb n="123" />
+<h>
+<topmidle>Kap. XXIX.    Eksekution.      117</topmidle>
+</h>
+<p>domme 4 Uger, ved Domme, afsagte af<lb />
+Landsretterne som 1ste Instans, 8 Uger.</p>
+<p>Ved Domme, der påbyde en Handlings<lb />
+Foretagelse, kan Retten forlænge den nævnte<lb />
+Tidsfrist, hvis Domfældte findes at behøve<lb />
+længere Tid til at efterkomme Dommen.</p>
+<p>Ansvar for Overtrædelse af en Dom,<lb />
+som pålægger at undlade Noget, ifaldes<lb />
+ikke før den almindelige Fuldbyrdelsesfrists<lb />
+Udløb.</p>
+<p>Domme, hvorved der tilkendes Nogen<lb />
+en Ret, kunne ikke før udløbet af den<lb />
+almindelige Eksekutionsfrist afgive Hjemmel<lb />
+til Udøvelse af sådan Ret.</p>
+<wtitle>§ 334.</wtitle>
+<p>Ved udtrykkelig Bestemmelse i Dommen<lb />
+kan Retten, når Omstændighederne tale<lb />
+herfor, efter Påstand sætte Fuldbyrdelsesfristen — herunder også den ved de to sidste<lb />
+Stykker af § 333 hjemlede Frist — til kortere<lb />
+Tid end den i § 333 angivne. I Forbindelse hermed kan det på Domfældtes<lb />
+Vegæring bestemmes, at Domhaveren skal<lb />
+stille Sikkerhed, dersom han inden Udløbet<lb />
+af den almindelige Fuldbyrdelsesfrist vil eksekvere Dommen.</p>
+<p>Ligeledes kan det efter Påstand i<lb />
+Dommen bestemmes, at Eksekution med eller<lb />
+uden foregående Sikkerhedsstillelse skal kunne<lb />
+iværksættes, uanset at Dommen betimelig<lb />
+påankes.</p>
+<p>Påstand om foranførte Bestemmelser<lb />
+må fremsættes senest under den mundtlige<lb />
+Domsforhandling.</p>
+<wtitle>§ 335.</wtitle>
+<p>Kendelser, som bestemme Noget, der<lb />
+skal fuldbyrdes, kunne eksekveres straks, såsnart de ere afsagte og givne beskrevne,<lb />
+medmindre Andet fremgår af Kendelsens<lb />
+eget Indhold.</p>
+<p>Fuldbyrdelse af de i § 153, jfr. §§<lb />
+182 og 192, omtalte Kendelser kan dog først<lb />
+finde Sted, når Fristen til at fremsætte<lb />
+Begæring om Kendelsens Ophævelse i Henhold til § 153 er forløben, eller Retten<lb />
+har nægtet at efterkomme en sådan Begæring.</p>

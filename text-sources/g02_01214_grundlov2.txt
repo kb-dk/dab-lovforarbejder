@@ -1,0 +1,122 @@
+3901
+<pb n="1214" >
+<p rend="page">1214</p>
+<h>
+<coll>3901</coll>
+<colr>3902</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 492.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede og Ni og Tredivte (143de) Møde.<lb />
+(Valglovens tredie Læsning. Fortsættelse af § 63.)<lb />
+</stitle>
+<p>
+Forsømmer Nogen at iagttage det Fornødne for at blive optagen<lb />
+paa Listerne, har han at tilskrive sig selv Følgerne og kan ikke vælges<lb />
+ved det Valg, for hvilket Listerne gjælde, om han end ellers har de<lb />
+fornødne Egenskaber. Dog kan den, som forinden Valghandlingen<lb />
+foretages erhverver Dom for sin Valgbarhed, fordre sig optagen paa<lb />
+Valglisten.<lb />
+</p>
+<p>
+Listerne blive derefter trykte at omdele, hvorhos et passende Antal<lb />
+af samme tilstilles Valgbestyrelserne i de øvrige Valgkredse.<lb />
+<law n="1214" >§ 64.<lb /></law>
+De saaledes affattede Lister, som hvert Aar paa foreskievne Tid<lb />
+og Maade blive at berigtige og fuldstændiggiøre, giælde derefter fra<lb />
+1ste Iuni i samme til 31te Mai i det paafølgende Aar og lægges<lb />
+til Grund for alle i dette Tidsrum forefaldende Valg til Landsthin<lb />
+get. Forsaavidt imidlertid saadant Valg skal foretages imellem 1ste<lb />
+Januar og 1ste Iuni, skulle de, som formene, at de i det foregaaende<lb />
+borgerlige Aar have opfyldt Betingelserne med Hensyn til Skat eller<lb />
+aarlig Indtægt, og have de øvrige fornødne Egenskaber, være berettigede til at fordre sig optagne paa en Tillægsliste. Saadan Begiering skal, ledsaget af de fornødne Bevister, tilstilles Valgbestyrelsens<lb />
+Formand senest 3 Uger før den Dag, da Landsthingsvalgene skulle afholdes. Fortegnelsen over dem, hvis Begiering Valgbestyrelsen tager til<lb />
+Følge, fremlægges i 14 Dage til offentligt Eftesyn paa det Sted,<lb />
+hvor Valget skal foretages, og bringes iøvrigt saavidt muligt til offentlig Kundskab i hele Valgkredsen. Inden Udløbet af disse 14<lb />
+Dage skal Enhver, der maatte have nogen Indsigelse at gjøre, fremføre den for Valgbestyrelsens Formand. Disse Indsigelser paakiendes af Valgbestyrelsen i et offenligt Møde, der holdes Dagen før<lb />
+Valgets Foretagelse.<lb />
+</p>
+<btitle>
+Valghandling.<lb />
+</btitle>
+<p>
+<law n="1214" >§ 65.<lb /></law>
+Valgstedet bestemmes for hver Valgkreds af Kongen.<lb />
+<law n="1214" >§ 66.<lb /></law>
+Valgmændene bør til den af Valgbestyrelsen berammede Tid melde<lb />
+sig med deres Valgmandsbrev hos Bestyrelsens Formand, der i dette<lb />
+Øiemed skal være tilstede paa Valgstedet.<lb />
+<law n="1214" >§ 67.<lb /></law>
+Valghandlingen, der holdes offentlig, indldes af Valgbestyrelsens Formand, der navnligen har at henlede Vælgernes Opmærksomhed<lb />
+paa, at de tydeligen paa Stemmesedlen have at betegne den Valgtes<lb />
+Navn og Stilling, samt at de maae blive tilstede for det Tilfældee<lb />
+at Omvalg skulde finde Sted, og der skrides umiddelbart derefter til<lb />
+Afstemningen, uden at nogen Forhandling maa finde Sted om, hvoder ønskes valgt.<lb />
+<law n="1214" >§ 68.<lb /></law>
+Stemmegivningen skeer ved Navnends Opskrivning paa een hver<lb />
+Valgmand af Valgbestyrelsens Formand overgiven Stemmeseddel.<lb />
+I denne nævnes saamange Mænd, som skulle vælges til Landsthingsmænd for Valgkredsen; den Stemmeseddel, hvorpaa der findes flere<lb />
+Navne, er ugyldig.<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+<law n="1214" >§ 69.<lb /></law>
+Valgmændene have i en af Valgbestyrelsen bestemt Orden at<lb />
+aflevere Stemmesedlerne til Bestyrelsens Formand, som modtager alle<lb />
+Stemmesedlerne og henlægger dem i en dertil bestemt Urne. Saasnart<lb />
+de alle ere afgivne og eftertalte, optager han een Seddel ad Gangen<lb />
+og oplæser Navnene, som optegnes paa 2 Lister af 2 af Valgbestyrelsens Medlemmer, hvorefter den oplæste Seddel henlægges i en<lb />
+anden Urne, for paany at kunne eftersees, naar ved Iævnførelsen af<lb />
+Optegnelserne Uovereensstemmelser maatte vise sig. Derefter skeer,<lb />
+naar indløbne Feil ere berigtigede, den endelige Optælling af Stemmerne.<lb />
+<law n="1214" >§ 70.<lb /></law>
+Valget afgiøres ved Stemmefleerhed, dog saaledes at til et gyldigt<lb />
+Valg udfordres mere end Halvdelen af de afgivne Stemmer. Erholde<lb />
+ved den første Stemmegivning ikke saamage et saadant Antal af<lb />
+Stemmer, at det fulde Antal Landsthingsmænd for Valgkredsen<lb />
+udkommer, foretages der for de manglende Pladsers Vedkommende<lb />
+umiddelbart derefter ny Stemmegivning. Udkommer der endnu ikke<lb />
+herved det fornødne Antal, stemmes der tredie Gang blandt dem, der<lb />
+ved anden Afstemning fik de fleste Stemmer uden dog at vælges, paa<lb />
+et Antal, der er dobbelt saa stort, som de tilbageblivende Landshingspladser. Skulde eiheller ved tredie Valg alle Pladser blive besatte, indskrænkes næste Gang Valget paa lige Maade iblandt dem,<lb />
+der ved den tredie Afstemning havde de fleste Stemmer, og paa samme<lb />
+Maade fortsættes fremdeles, om fornødent giøres. Ere Stemmerne<lb />
+lige, giør Lodtrækning Udslaget.<lb />
+<law n="1214" >§ 71.<lb /></law>
+Skulde der blandt de Valgte være flere udenfor Valgkredsen<lb />
+boende Mænd, end der i Medfør af Grundlovens § 41 kan vælges<lb />
+for same, ansees den eller de dem for valgt, som har erholdt de<lb />
+fleste Stemmer.<lb />
+<law n="1214" >§ 72.<lb /></law>
+Over Alt, hvad der Foregaaer ved Valgmødet, holdes en af Valgbestyrelsens Formand autoriseret Protocol, som føres af et af Valgbestyrelsens Medlemmer. I Særdeleshed bør Protocollen indehold<lb />
+nøiagtig Oplysning om enhver Afstemning, saaledes at det angives,<lb />
+hvormange Stemmesedler der ere afgivne, hvilke Mænd der have<lb />
+erholdt Stemmer og hvormange hver især, om nogen Stemmeseddel<lb />
+er erklæret ugyldig og da af hvilken Grund, o. f. v. Derhos bør<lb />
+samtlige Stemmesedler, der for hver Afstemning forsynes med et særskilt Nummer, opbevares under Forsegling ved Valgprotocollen.<lb />
+<law n="1214" >§ 73.<lb /></law>
+Valgbestyrelsens Formand har uopholderlig at underrette enhven<lb />
+af de Valgte om hans Valg med Opfordring til ham at erklære<lb />
+sig, om han modtager Valget. Dersom han ikke inden 8 Dage derefter undskylder sig, ansees han at have modtaget Valget.<lb />
+</p>
+<stitle>
+III. Almindelige Bestemmelser.<lb />
+</stitle>
+<p>
+<law n="1214" >§ 74.<lb /></law>
+De almindelige Valg foregaae ordentligviis hvert tredie Aar paa<lb />
+samtlige Medlemmer af Folkethinget, og hvert fierde Aar paa Halvdelen af Landsthingets Medlemmer. Saavel i dette Tilfældee, som<lb />
+naar enten hele Rigsdagen eller et enkelt Thing er opløst, giælde<lb />
+Valgene fra den almindelige Valgdag.<lb />
+</p>
+</rightside>
+
+
+</pb>

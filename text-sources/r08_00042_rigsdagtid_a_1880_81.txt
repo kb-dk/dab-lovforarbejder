@@ -1,0 +1,45 @@
+3447
+<pb n="42" />
+<h>
+<coll>3447</coll>
+<topmidle>Korsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3448</colr>
+</h>
+<title>Kapitel IV.</title>
+<undertitle>Om Forening af SsaMaal nndet samme Retssag.</undertitle>
+<wtitle>§ 41.</wtitle>
+<p>Flere søgsmaal mellem de samme Parter kunne forenes under een Retssag, uagtet<lb />
+de hvile paa forstjellige faktiske og retlige Grunde og ere af ulige Beskaffenhed, naar Retten<lb />
+er kompetent mel Hensyn til dem alle, og samme Procesart er anvendelig paa dem<lb />
+(s 3, jft. s 6).</p>
+<wtitle>§ 42.</wtitle>
+<p>Flere Parter kunne fagsøge eller fagfoges i Forening under samme Retssag; dog ud«<lb />
+fordres hertil, forsaavidt søgsmaalene ikke have fælles Oprindelse, eller særlig Lovforfkrift<lb />
+hjemler deres Forening, at ingen af Parterne gjør Indsigelse derimod.</p>
+<wtitle>§ 43.</wtitle>
+<p>Enhver, der tror sig i det Hele eller for en Del berettiget til den Ting eller den<lb />
+Rettighed, som er Gjenstand for en Retstrcrtte i forste Instants imellem Andre, kan und«<lb />
+Iagttagelse af Reglerne i femte Afsnit indtræde i den begyndte Sag og gjøre fin Fordring<lb />
+gjaldende ved et imod dc oprindelige Parter rettet søgsmaal (Intervention).</p>
+<p>Intervention kan ikke finde Sted, naar den Ret, for hvilken Sagen svæver, ikke ved<lb />
+Parternes Samtykke kunde gjores kompetent til at paakjende Interventionssogsmaalet, der-<lb />
+som det anlagdes særfkilt.</p>
+<wtitle>§ 44.</wtitle>
+<p>Enhver, der har en retlig Interesse i, at en Part vinder en for Retten svcevende<lb />
+Sag, kan indtråde i Sagen til denne Parts Understottelse (Biintervention) og faa Adgang<lb />
+til at ytre sig i Sagen i Overensstemmelse med de nærmere Regler i femte Afsnit.</p>
+<wtitle>§ 45.</wtitle>
+<p>Sagsogeren kan andrage paa at maatte tilstævne (adcitere) Trediemand for at faa<lb />
+Dom over ham enten alternativt eller tilsammen med Sagvolderen. Saadant Andragende<lb />
+kan dog ikke tages til Folge, naar det maa tilregnes Sagsogeren som en Forssmmelse, at den<lb />
+paagjældende Trediemand ikke fra Begyndelsen af er bleven inddraget under søgsmaalet, lige<lb />
+saa lidt som naar Trediemand stjonnes ikke at være pligtig at svare for den Ret. Iovrigt<lb />
+blive de i femte Afsnit givne Regler at iagttage.</p>
+<wtitle>§ 46.</wtitle>
+<p>Ved Anvendelsen af de i dette Kapitel indeholdte Regler forbeholdes der dog Retten<lb />
+den samme ved  § 102 tillagte Myndighed.</p>
+<title>Kapitel V.</title>
+<undertitle>Om Sagens Parter.</undertitle>
+<wtitle>§ 47.</wtitle>
+<p>Hvo der er ret  Sagfoger   eller  Sagvolder, afgjo»es   efter Lovgivningens  alminde-<lb />
+lige Regler.</p>

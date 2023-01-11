@@ -1,0 +1,50 @@
+3455
+<pb n="46" />
+<h>
+<coll>3455</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3456</colr>
+</h>
+<p>til at opretholde dm og tage til Gjenmcele, naar  den for  samme Ret søges ophcevet  eller<lb />
+forandret.</p>
+<p>Befuldmægtigelse til at give møde for den, mod hvem nogen Retshandling af den<lb />
+i nærværende Paragraf omhandlede Art er rettet, bemyndiger til at foretage alle Skridt, sig-<lb />
+tende til at forhindre, at der tillægges Retshandlingen Fremme, eller til at opnaa dens<lb />
+Ophcevelse af samme Ret.</p>
+<wtitle>§ 65.</wtitle>
+<p>Gr den, der ifolge Befuldmægtigelse møder for en Part under Retshandlinger af den<lb />
+i foregaaende Paragraf omhandlede Art, ikke Sagfører, anses han dog ikke for bemyndiget<lb />
+til at udføre de Tvistigheder, som maatte blive behandlede og afgjorte under Forretningen,<lb />
+medmindre han færlig er befuldmægtiget ogsaa hertil.</p>
+<wtitle>§ 66.</wtitle>
+<p>Indskrænkninger i den Bemyndigelse, som ifølge § 62, jfr. § 63, skal antages at<lb />
+roere indeholdt i Befuldmægtigelsen til at udfore en Domssag, have i Forhold til Modparten<lb />
+ingen Gyldighed.</p>
+<p>Ved de i § 64 omhandlede Retshandlinger kan Befuldmægtigelsen med Virkning<lb />
+overfor Modparten indstrænkes til enkelte møder faavelsom til enkelte Retshandlinger.</p>
+<wtitle>§ 67.</wtitle>
+<p>Naar en Part til Sagens Udforelse samtidig benytter flere Sagførere eller andre<lb />
+Procesfuldmægtige, agtes enhver isoer af dem for bemyndiget til at foretage alle de proces-<lb />
+suelle Handlinger, som ifolge Befuldmægtigelsens Natur anses for indbesattede i den. Af-<lb />
+vigende Bestemmelser af Parten ere uden Virkning i Forhold til Modparten.</p>
+<wtitle>§ 68.</wtitle>
+<p>En Rettergangsfuldmægtigs Handlinger eller Undladelser ere, forsaavidt som de falde<lb />
+indenfor Bemyndigelsens Grcrndser, ligesaa bindende for Parten, som om de vare foretagne<lb />
+af denne felv.</p>
+<p>Dog kunne Tilstaaelser eller andre Erklæringer om det Faktiske i Sagen, som frem-<lb />
+komme i de mundtlige Forhandlinger, tilbagekaldes eller berigtiges af Parten selv, naar dette<lb />
+ster strar og umiddelbart, efterat Partens Rettergangsfuldmægtig har talt.</p>
+<wtitle>§ 69.</wtitle>
+<p>Nettergangsfuldmægtigens Bemyndigelse til at handle for en Part ophæves i Forhold<lb />
+til Modparten ikke derved, at Parten er dsd, kommen under Konkurs eller har mistet fin<lb />
+Myndighed til at raade over Sagen, ei heller derved, at Parten er bleven myndig til selv<lb />
+at raade over Processen, men kun ved en udtrykkelig Tilkendegivelse om Befuldmægtigelsens<lb />
+Ophor til Modparten eller dennes Rettergangsfuldmægtig.</p>
+<wtitle>§ 70.</wtitle>
+<p>Netten paafer paa embedsvegne, at den, der møder som Rettergangsfuldmægtig for<lb />
+en Part, er befuldmægtiget hertil.</p>
+<p>Dog afkræves der ikke paa embedsvegne Sagførere Bevis for, at de ere befuldmæg-<lb />
+tigede for Parten, og naar deres Befuldmægtigelse bencægtes af Modparten, kunne de for-<lb />
+lange Udsættelse for at tilveiebringe det fornødne Bevis.</p>
+<p>Andre Rettergangsfuldmægtige end Sagførere maa være i Stand til strar for Retten<lb />
+og Modparten at fore Bevis for Befuldmægtigelsen, da de ellers afvises.</p>

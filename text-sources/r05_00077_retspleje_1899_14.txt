@@ -1,0 +1,38 @@
+71
+<pb n="77" />
+<h>
+<topmidle>Kap. XVIII. Behandl. ved Landsret.     71</topmidle>
+</h>
+<p>Sagens første Tægtedag, på Rettens Kontor til Påtegning om Dag og Tid, da<lb />
+Sagen falder i Rette, hvorefter den tilbagegives Sagsøgeren til videre Foranskaltning.</p>
+<wtitle>§ 202.</wtitle>
+<p>Har Sagsøgte Bopæl i den Underretskreds, hvor Landsrettens Sæde befinder sig,<lb />
+skal Sagsøgeren lade Stævningen forkynde<lb />
+for ham med 14 Dages Varsel. Boer Sagsøgte udenfor nævnte Kreds, er Varslet<lb />
+3 Uger, medmindre han har Bopæl på<lb />
+Færøerne, Island, Grønland, de vestindiske<lb />
+Der eller i Udlandet, i hvilket Tilfælde,<lb />
+såvelsom når det ikke vides, hvor Sagsøgtes Bopæl er, Varslet bestemmes af<lb />
+Rettens Justitiarius.</p>
+<p>Må det antages, at Sagsøgte ikke har<lb />
+nogen Bopæl, træder hans Opholdssted i<lb />
+Stedet for Bopæl i Henseende til Stævnevarslet.</p>
+<p>Under særlige Omstændigheder kan det<lb />
+lovbestemte Varsel as Rettens Justitiarius<lb />
+forkortes efter Sagsøgerens Begæring.</p>
+<p>Forinden Rettens Justitiarius fastsætter<lb />
+et Varsel, hvilket sker ved Påtegning på<lb />
+Stavningen, kan han afkræve Sagsøgeren<lb />
+nærmere mundtlige eller skriftlige Oplysninger.</p>
+<wtitle>§ 203.</wtitle>
+<p>På Sagens første Tægtedag skal Sagsøgeren møde og fremlægge Stævning eller<lb />
+den i § 200, 2det St. omhandlede Angivelse. Undlader han dette, bliver Sagen<lb />
+at afvise, og der tilkendes den Sagsøgte,<lb />
+der har givet forgæves Møde, Procesomkostninger. Samme Virkning har Sagsøgerens Udeblivelse eller Undladelse af at<lb />
+foretage de til Sagens Fortsættelse hørende<lb />
+Skridt ved senere Retsmøder, såfremt Domsforhandling ikke er berammet, eller ved selve<lb />
+Domsforhandlingen.</p>
+<p>Sagsøgerens Udeblivelse forhindrer ikke,<lb />
+at der gives Sagsøgte Dom for de før Udeblivelsen tingfæstede Modkrav.</p>
+<wtitle>§ 204.</wtitle>
+<p>Udebliver den lovligt stævnede Sagfogte, afsiges   efter Sagsøgerens   Begæring</p>

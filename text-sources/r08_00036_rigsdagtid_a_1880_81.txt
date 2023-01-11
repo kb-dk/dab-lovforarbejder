@@ -1,0 +1,50 @@
+3435
+<pb n="36" />
+<h>
+<coll>3435</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3436</colr>
+</h>
+<wtitle>§ 4.</wtitle>
+<p>Imod søgsmaal, der i Henhold til § 2 Litr. a. ere anlagte ved Underretterne,<lb />
+kunne Modfordringer, naar Iøvrigt de almindelige Betingelser for disses Fremsættelse ere til-<lb />
+stede (§ 101), gjores gjældende. Selvstændig Dom for Modfordringen kan dog, hvis Mod-<lb />
+parten modsætter sig det, kun gives, forsaavidt Dommen ikke herved kommer ti! at lyde paa<lb />
+noget hoiere Belob end 400 Kr. (§ 2 Litr. a, jfr. § 3).</p>
+<p>Imod søgsmaal, der i Henhold til de andre Bestemmelser i § 2 ere anlagte ved<lb />
+Underretterne, kunne Modfordringer, naar Iøvrigt de almindelige Betingelser for deres Frem-<lb />
+sættelse ere tilstede (§ 101), gjores gjældende, dog ikkun forsaavidt de efter Lovgivningens<lb />
+Regler kunde forfølges ved Underretterne, dersom de gjordes gjældende under en selvstændig Sag.</p>
+<p>Imod søgsmaal, der svceve for Landsretterne, kunne Modfordringer fremføres uden<lb />
+Henfyn til, at de, i og for sig betragtede, vilde henhore under Underretterne.</p>
+<wtitle>§ 5.</wtitle>
+<p>Naar Sagen ifølge den oprindelige Paastand retteligen er begyndt ved Underretten,<lb />
+forbliver den ved denne, uagtet Retten under Prccessen maatte tillade at udvide eller for-<lb />
+hoie Paastanden (jfr. § 168). Ved flig Tilladelses meddelelse bliver der dog særligt at fe<lb />
+hen til, at Sagens værdi ikke imod Modpartens Protest i betydelig Gr^d foreges udover<lb />
+den i § 2 Litr. a bestemte Gramse.</p>
+<p>Er Underrettens Kompetence ikke begrundet ved Sagens værdi alene, men ved dens<lb />
+Beskaffenhed (jfr. § 2 Litr. b, e, 6 og s), kan en Udvidelse af Paastanden ikke uden Mod-<lb />
+partens Samtykke forcgaa faaledes, at Fordringer af anden Beskaffenhed inddrages under<lb />
+Sagen.</p>
+<wtitle>§ 6.</wtitle>
+<p>Henhører en Sag, hvorunder stere Fordringer indtales, ifolge den samlede Paa-<lb />
+stand under Landsretterne (§ 3), ophore disse ikke at være kompetente, fordi Fordringer eller<lb />
+spørgsmaal udstilles til færskilt Behandling og Paakjendelse i Henhold til § 102, selv om<lb />
+disse, for sig betragtede, vilde hore under Underretterne.</p>
+<wtitle>§ 7.</wtitle>
+<p>Gr Sagens værdi Afgjørende for Kompetencesporgsmaalet, maa den Part, som paa-<lb />
+staar den Høiere værdi, føre Bevis derfor.</p>
+<p>Iovrigt paahviler det Sagsogeren at oplyse, at Sagen horer under Underretterne.</p>
+<wtitle>§ 8.</wtitle>
+<p>Parterne kunne, naar de derom ere enige, retsgyldigen lade enhver Sag behandle ved<lb />
+Underretterne, selv om den ifolge de almindelige Regler ikke henhører under disse.</p>
+<wtitle>§ 9.</wtitle>
+<p>Lyder Paastanden ikke paa Penge, maa værdien af dens Gjenstand i Tilfælde af<lb />
+Tvist fastsættes ved skjøn, medmindre Retten uden dette kan Afgjøre Spørgsmaalet</p>
+<p>Indeholder Paastanden flere Alternativer, ftal det af disse, som bestaar i rede Penge<lb />
+eller dog uden særlig Skønsforretning kan ansættes hertil, være bestemmende, selv om det er<lb />
+nævnt som det subsidiere.</p>
+<wtitle>§ 10.</wtitle>
+<p>Dreier Sagen sig om Rettigheden til periodiske Ydelser eller Indtaster, bliver dens<lb />
+værdi at bestemme efter følgende Regler:</p>

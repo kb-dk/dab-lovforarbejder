@@ -1,0 +1,72 @@
+3795
+<pb n="78"/>
+<h>
+<coll>3795</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3796</colr>
+</h>
+<wtitle>§ 344.</wtitle>
+<p>
+Domsforhandlingen foregaar paa Grundlag af Skriftvekslingen og det Retsbogen<lb />
+tilførte. Naar en Part under Forhandlingen helt eller delvis frafalder Paastande, Be-<lb />
+nægtelser o. desl. eller gør Indrømmelser, er Modparten berettiget til at faa fornøden<lb />
+Tilførsel herom optaget i Retsbogen. Vil en Part fremsætte Paastande eller Anbrin-<lb />
+gender, paa hvilke Modparten ikke er bleven forberedt gennem det skriftlige Grundlag,<lb />
+bliver det efter Begæring ved Rettens Kendelse at nægte, saafremt deres Fremsættelse<lb />
+vilde medføre Forhandlingens Udsættelse, medmindre det skønnes at være undskylde-<lb />
+ligt, at de ikke tidligere ere meddelte. Tilstedes deres Fremsættelse, optages de i<lb />
+Retsbogen, og Forhandlingen bliver efter den deri interesserede Parts Begæring at<lb />
+udsætte ganske eller til Dels, for saa vidt det er nødvendigt til Varetagelse af<lb />
+hans Tarv.
+</p>
+<p>
+Tilsvarende Regler gælde om Fremførelse af Beviser, om hvis Fremkomst<lb />
+Modparten ikke har erholdt saa betimelig Meddelelse, at han har kunnet forberede sig<lb />
+tilstrækkelig.
+</p>
+<wtitle>§ 345.</wtitle>
+<p>
+Ved Domsforhandlingen gives i Reglen Ordet først til Sagsøgeren, men Rettens<lb />
+Formand kan gøre Afvigelse herfra.
+</p>
+<p>
+Ved Realitetsforhandlingens Begyndelse skulle Parterne oplæse og fremlægge<lb />
+deres skriftlig affattede Paastande.
+</p>
+<wtitle>§ 346.</wtitle>
+<p>
+Under Domsforhandlingen fremstiller den Part, der først faar Ordet, kortelig<lb />
+Sagens Hovedtræk; derefter lader han ved Retsskriveren oplæse de Dokumenter, som<lb />
+han vil paaberaabe sig, derunder Udskrifter af Tingsvidner og afgivne Partsforkla-<lb />
+ringer m. m. Modparten lader derpaa paa lignende Maade sJne Dokumenter læse.<lb />
+Derefter udvikler førstnævnte Part nærmere sin Opfattelse af hele Sagen, derunder<lb />
+Bevisførelsens Resultater og de vedkommende Retsspørgsmaal, hvorefter Modparten<lb />
+faar Ordet for en tilsvarende Udvikling.
+</p>
+<p>
+De paaberaabte Dokumenter, hvoraf efter Omstændighederne trykte eller skrevne<lb />
+Genparter omdeles til Dommerne, overgives efter Oplæsningen til Retten.
+</p>
+<wtitle>§ 347.</wtitle>
+<p>
+Retten kan paa ethvert Trin af Forhandlingerne efter Begæring bestemme, at<lb />
+tidligere afhørte Vidner, Syns- eller Skønsmænd og Parter skulle fremstilles til yder-<lb />
+ligere Afhøring under Domsforhandlingen, jfr. §§ 149 og 179 samt 279. Træffes<lb />
+saadan Bestemmelse, udsættes Sagen om fornødent, eventuelt til næste Retssession<lb />
+paa samme Tingsted eller til en tidligere Retssession, der afholdes paa et i Nær-<lb />
+heden værende Tingsted.
+</p>
+<p>
+Udgifterne ved de i denne Paragraf omhandlede Foranstaltninger udredes paa<lb />
+den i § 261 foreskrevne Maade.
+</p>
+<wtitle>§ 348.</wtitle>
+<p>
+Saafremt Vidneførsel o. desl. i Henhold til foregaaende Paragraf finder Sted<lb />
+under Domsforhandlingen, finde Reglerne i §§ 335—36 tilsvarende Anvendelse. Ind-<lb />
+kaldelse udstedes af Landsrettens Formand. Den Part, der har foranlediget et Vidne<lb />
+eller en Syns- eller Skønsmand indkaldt til Afgivelse af Forklaring under Domsfor-<lb />
+handling, kan, naar den Indkaldte har givet Møde, ikke uden Modpartens Samtykke<lb />
+frafalde Vedkommendes Afhørelse med den Virkning, at Modparten eller Retten af-<lb />
+skæres fra at stille Spørgsmaal til Vidnet eller Syns- eller Skønsmanden.
+</p>

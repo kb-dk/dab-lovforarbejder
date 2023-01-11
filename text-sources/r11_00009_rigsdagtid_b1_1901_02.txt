@@ -1,0 +1,94 @@
+2275
+<pb n="9" />
+<h>
+<coll>2275</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2276</colr>
+</h>
+<leftside>
+<wtitle>Til § 132.</wtitle>
+<p>Af Justitsministeren, tiltraadt af<lb />
+Udvalget:</p>
+<p>205) I sidste Stykke ændres „Proces-<lb />
+sens" til „Sagens".</p>
+<wtitle>Til § 137..</wtitle>
+<p>206) 1ste Stykke ændres til: „Justits-<lb />
+ministeriet skal i samme Omfang som hidtil<lb />
+være berettiget til at tilstaa fri Proces,<lb />
+saaledes at Virkningen er den i § 132,<lb />
+§ 134 og § 135 1ste Stykke angivne".</p>
+<wtitle>Til § 140.</wtitle>
+<p>Af Udvalget:</p>
+<p>207)	Paragraffen affattes saaledes:</p>
+<p>„I de Sager, i hvilke Forligsmægling<lb />
+hidtil har været at foretage af Retten, vil<lb />
+Mæglingen vedblivende være at foretage<lb />
+af Retten. I øvrigt foretages Forligsmæg-<lb />
+ling ved de af den bestaaende Lovgivning<lb />
+foreskrevne Kommissioner og Mæglere. I<lb />
+Henseende til disses Forretningsgang saavel<lb />
+som i Henseende til Kommissionernes Sam-<lb />
+mensætning har det sit Forblivende ved de<lb />
+nugældende Lovbestemmelser, kun at der i<lb />
+Forligskommissionen i Kjøbenhavn ind-<lb />
+træder en af Justitsministeriet udenfor<lb />
+Retterne beskikket Mand i Stedet for et<lb />
+Medlem af Hof- og Stadsretten, og at de<lb />
+hidtil for Møde ved Sø- og Handelsrettens<lb />
+Forligskommission gældende Regler udvides<lb />
+til alle Forligsmøder i Kjøbenhavn og paa<lb />
+Frederiksberg.</p>
+<p>Omraadet for Kommissionernes Virk-<lb />
+somhed forbliver ogsaa det samme, kun<lb />
+med den Udvidelse, som følger af § 139,<lb />
+og den Begrænsning, som følger af § 329".</p>
+<p>208)	I Stedet for §§ 141—143 indsæt-<lb />
+tes en ny Paragraf saalydende:</p>
+<p>„Er Forligsmægling ikke foranstaltet,<lb />
+bliver Sagen at afvise fra Retten, og der<lb />
+tilkendes sagsøgte, naar han møder og gør<lb />
+Paastand derpaa, Erstatning for forgæves<lb />
+Møde. Dog kan Retten i Stedet for Af-<lb />
+visning bestemme, at Sagen udsættes, for<lb />
+at Forligsmægling kan finde Sted.</p>
+</leftside>
+<rightside>
+<p>Forligsklagens Indhold er ikke til Hin-<lb />
+der for en senere Udvidelse eller Foran-<lb />
+dring af Søgsmaalsgrunde eller Paastande."</p>
+<pt>Andet Afsnit.</pt>
+<wtitle>Til § 147.</wtitle>
+<p>Af Justitsministeren, tiltraadt af U d-<lb />
+valget:</p>
+<p>209) I Slutningen af 1ste Stykke<lb />
+tilføjes: „uden at det senere har opnaaet<lb />
+Æresoprejsning".</p>
+<p>Af Justitsministeren:</p>
+<p>210) Næstsidste Stykke udgaar.</p>
+<p>Af Berg, Borgbjerg, Fogtmann, J.<lb />
+Jensen, Knop, H. Madsen og Sien-<lb />
+gerik:</p>
+<p>211) I 4de Stykkes 3die Linie om-<lb />
+byttes Ordet „beedige" med ,,bekræfte".</p>
+<p>Af Udvalget:</p>
+<p>212)	I Slutningen af 3die Stykke til-<lb />
+føjes følgende: „Ligeledes kan paa Bla-<lb />
+det navngiven Redaktør og Redaktions-<lb />
+sekretær ved et offentligt Blad nægte Vid-<lb />
+nesbyrd angaaende, hvem der er Hjemmels-<lb />
+mand til en i det paagældende Blad op-<lb />
+tagen ikke med Forfatterens Navn for-<lb />
+synet Artikel eller Meddelelse, medmindre<lb />
+Sagen angaar en Forbrydelse, der kan<lb />
+medføre højere Straf end simpelt Fængsel,<lb />
+eller den angaar Brud paa Tavshedspligt<lb />
+i Embedsforhold, begaaede af Embeds-<lb />
+eller Bestillingsmænd i Stat eller Kom-<lb />
+mune."</p>
+<wtitle>Til § 148.</wtitle>
+<p>213)	I L. 1 rettes „forbundet" til „for-<lb />
+pligtet".</p>
+<wtitle>Til § 153.</wtitle>
+<p>214)	Til Stk. 2 føjes: „Udgifterne der-<lb />
+ved afholdes som Delinkventomkostninger."</p>
+</rightside>

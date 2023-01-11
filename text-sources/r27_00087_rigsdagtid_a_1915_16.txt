@@ -1,0 +1,74 @@
+2813
+<pb n="87" />
+<h>
+<coll>
+2813
+</coll>
+<topmidle>
+F. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2814
+</colr>
+</h>
+<wtitle>§ 368.</wtitle>
+<p>
+Under Domsforhandlingen fremstiller den Part. der først faar Ordet, kortelig<lb />
+Sagens Hovedtræk; derefter lader han ved Retsskriveren oplæse de Dokumenter, som<lb />
+han vil paaberaabe sig, derunder Udskrifter af Tingsvidner og afgivne Partsforkla-<lb />
+ringer m. m. Modparten lader derpaa paa lignende Maade sine Dokumenter læse.<lb />
+Derefter udvikler førstnævnte Part nærmere sin Opfattelse af hele Sagen, derunder<lb />
+Bevisførelsens Resultater og de vedkommende Retsspørgsmaal, hvorefter Modparten<lb />
+faar Ordet for en tilsvarende Udvikling. Retten kan vedtage eller tillade saadanne<lb />
+Afvigelser fra den foreskrevne Forhandlingsgang, som maatte findes formaalstjenlige.
+</p>
+<p>
+De paaberaabte Dokumenter, hvoraf efter Omstændighederne trykte eller skrevne<lb />
+Grenparter omdeles til Dommerne, overgives efter Oplæsningen til Retten.
+</p>
+<wtitle>§ 369.</wtitle>
+<p>
+Hvis saadan Bestemmelse ikke allerede tidligere er truffet, jfr. § 360, kan<lb />
+Retten under Forhandlingerne efter Begæring bestemme, at tidligere afhørte Vidner,<lb />
+Syns- eller Skønsmænd og Parter skal fremstilles til yderligere Afhøring under<lb />
+Domsforhandlingen, jfr. §§ 171 og 172, 202 samt 302. Træffes saadan Bestemmelse,<lb />
+udsættes Sagen om fornødent, jfr. § 11.
+</p>
+<wtitle>§ 370.</wtitle>
+<p>
+Saafremt Vidneførsel o. desl. i Henhold til § 360 eller § 369 finder Sted<lb />
+under Domsforhandlingen, finder Reglerne i §§ 357—58 tilsvarende Anvendelse. Ind-<lb />
+kaldelse udstedes af Landsrettens Formand. Den Part, der har foranlediget et Vidne<lb />
+eller en Syns- eller Skønsmand indkaldt til Afgivelse af Forklaring under Domsfor-<lb />
+handling, kan, naar den Indkaldte har givet Møde, ikke uden Modpartens Samtykke<lb />
+frafalde vedkommendes Afhørelse med den Virkning, at Modparten eller Retten af-<lb />
+skæres fra at stille Spørgsmaal til Vidnet eller Syns- eller Skønsmanden.
+</p>
+<p>
+Retten kan paa Grund af et Vidnes eller en Syns- eller Skønsmands Udeblivelse<lb />
+eller Indsigelse imod at afgive Forklaring eller imod at møde udsætte Sagen, naar<lb />
+vedkommende Part begærer dette. Udsættelsen kan gives paa bestemt Tid eller<lb />
+indtil videre. I sidste Fald kan, naar Hindringen er hævet, enhver af Parterne frem-<lb />
+sætte Begæring for Retten om, at der berammes en Tid til Sagens Foretagelse og<lb />
+udstedes Indkaldelse til alle vedkommende.
+</p>
+<wtitle>§ 371.</wtitle>
+<p>
+Naar Sagen i det hele eller for et enkelt Punkt skønnes at være tilstrækkelig<lb />
+behandlet, sluttes Forhandlingerne (jfr. § 286), Sagen optages, og Dom afsiges (jfr. § 219).
+</p>
+<p>
+Domsforhandling i en ny Sag maa først paabegyndes, naar Dom i den sidst<lb />
+optagne Sag er vedtaget. Undtagelse herfra kan dog finde Sted, naar Sagen frem-<lb />
+byder særlige Vanskeligheder, men der skal ogsaa i dette Tilfælde, inden ny Doms-<lb />
+forhandling paabegyndes, afholdes Raadslagning om den optagne Sag, og den endelige<lb />
+Vedtagelse af Domsslutningen maa aldrig udsættes udover den tredie Søgnedag efter<lb />
+Domsforhandlingens Tilendebringelse.
+</p>
+<wtitle>§ 372.</wtitle>
+<p>
+Udebliver Sagsøgte ved Domsforhandlingen, og Sagsøgeren vil fremføre noget,<lb />
+som ikke indeholdes i det Sagsøgte meddelte, maa han begære Forhandlingen helt<lb />
+eller delvis udsat og meddele Sagsøgte Udsættelsen og det ny Anbringende med et af<lb />
+Retten bestemt Varsel.
+</p>

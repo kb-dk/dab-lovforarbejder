@@ -1,0 +1,118 @@
+2429
+<pb n="478" >
+<p rend="page">478</p>
+<h>
+<coll>2429</coll>
+<colr>2430</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 308.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Ni og fiirsindstyvende (93de) Møde<lb />
+(Den foreløbige Behandling af Grundloven § 60)<lb />
+</stitle>
+
+<p>
+<speaker>Ørsted:</speaker> Det har ogsaa været min Mening, at Bestemmelserne i udkastet være hensigtsmæssigere end de, der vare foreslaaede<lb />
+af det ærede udvalg; de Grunde, som af den høitagtede Justitsminister ere anførte, ere væsentlig de samme, som jeg vilde have tilladt<lb />
+mig. Jeg skal kun bemærke, at jeg anseer det for tvivlsomt, om man<lb />
+ikke burde tilstaae Landsthinget at vælge ogsaa andre Mænd end<lb />
+Landsthingets egne Medlemmer; man havde dog den behørige Garanti for, at disse Mønd, derv are udnøvnte af Landsthinget, ogsaa<lb />
+vare i Besiddelse af den fornødne Dygtighed, og disse Mænd vilde<lb />
+ogsaa være i Stand til at fungere, om ogsaa Landsthinget ophørte.<lb />
+Man burde naturligviis ikke indskrønke Landsthinget til blot at udnævne andre Mænd, det maatte ogsaa kunne udnævne Landsthingsmedlemmer, men disse vilde da ikke fungere i Rigsretten i Egenskab<lb />
+af Landsthingsmedlemmer, men ifølge deres særlige Valg; jeg troer<lb />
+det har sit Fortrin, at Rigsretten er en fast Ret, som ikke er sat<lb />
+blot for den enkelte Gang, og jeg antager det saameget mere nødvendigt, at den blev en vedvarende Ret, som jeg holder for, at de Sager, som omtales i § 63, nemlig Conflicter mellem Domstole og Øvrighed, ikke kunne høre under almindelig Ret, men under Rigsretten.<lb />
+Forsaavidt at Udvalget vil have, at der skulde udnævnes et større<lb />
+Antal Medlemmer end det, som behøves til at sætte Retten, for at<lb />
+der kan udskydes 2 af hver Classe, forekommer det mig, at denne Udskydelsesret, som finder Sted i Juryerne, og som der har sin Betydning, ikke er passende for Høiesteret eller for de Mænd, som matte<lb />
+være udnævnte af den ene Section af Forsamlingen. I Norge finder<lb />
+vel en saadan Udskydelsesret Sted med Hensyn til de Medlemmer,<lb />
+hvoraf Rigsretten er sammensat; men her er det at mærke, at det er<lb />
+det hele Lagthing og hele Høiesteret, som skal udgjøre Rigsretten, et langt større Personale, end der behøves, og derhos<lb />
+har man overladt Udskydelsesretten blot til den Anklagede. Der kan<lb />
+iøvrigt opstaae nogen Vanskelighed med Hensyn til, at Retten selv skal<lb />
+vælge sin Formand; dersom man tænkte sig, at der blev to lige talrige<lb />
+Meninger om, hvem der skulde være Formand, vilde der der opstaae Conflicter; det Samme vilde blive Tilfældet, dersom vilde der angaaende Sagen<lb />
+selv blev lige Stemmer for to Meninger, og det er derfor et Spørgsmaal, om der ikke hellere burde vælges en anden Maade, f. Ex. at<lb />
+der forud blev valgt en Opmand, som i Tilfælde af, at der skulde<lb />
+være lige Stemmer for Sagens Udfald, afgjorde den. Hvad Rettergangsmaaden angaaer, kunde det maaskee være ganske rigtigt at udsætte Bestemmelserne derom, indtil den kunde ordnes ved en ny Lov;<lb />
+imidlertid kunde der dog være Spørgsmaal, om der ikke saaledes<lb />
+som i den norske Grundlov burde foreskrives visse Hovedregler, som<lb />
+strax skulde være gjældende f. Ex. at Processormen i det Væsentlige<lb />
+skulde være den samme som for Høiesteret.<lb />
+</p>
+
+<p>
+<speaker>Tscherning:</speaker> Idet jeg ganske henholder mig til hvad den<lb />
+ærede foregaaende Taler har udtalt om Rettens Sammensætning,<lb />
+maa jeg yderligere gjøre et Spørgsmaal. Der staaer i Udvalgets<lb />
+Forslag: „Anklageren og den Anklagede udskyde hver <sup>1</sup>/<sub>6</sub> af begge Classer", det skal vil sige <sup>1</sup>/<sub>6</sub> af Retten, ligemange af hver Classe?<lb />
+</p>
+
+<p>
+<speaker>Ordføreren:</speaker> Det forekommer mig at være ganske klart hvad<lb />
+der staaer; da Retten bestaaer af 2 Elementer, og der siges, at der<lb />
+fra begge Sider kan udskydes <sup>1</sup>/<sub>6</sub> af hvert af disse Elementer, saa seer<lb />
+jeg ikke, hvorledes der kan være nogen Tvivl i denne Henseende.<lb />
+</p>
+</leftside>
+<rightside>
+
+<p>
+<speaker>Tscherning:</speaker> Da det hedder <sup>1</sup>/<sub>6</sub> af begge Classer, kunde det<lb />
+ogsaa forstaaes saaledes, som om det var <sup>1</sup>/<sub>12</sub> af Forsamlingsmedlemmerne, der skulde udskydes.<lb />
+</p>
+
+<p>
+<speaker>Ordføreren:</speaker> Det er ganske vist, at det hele Spørgsmaal er<lb />
+et meget vanskeligt Sporgsmaal; ja det er maaskee et af allervanskeligste Spørgsmaal, i en ny Forfatning at ordne en Rigsret,<lb />
+som indeholder hensigtsmæssige Garantier for Forfatningsspørgsmaals<lb />
+retlige Afgjørelse; det er altsaa meget naturligt, at der kan være<lb />
+forskjellige Meninger om Maaden, hvorpaa en saadan Opgave kan<lb />
+være at løse; de Tvivl, som Udvalget har havt, skal jeg ganske kort<lb />
+tillade mig at gjennemgaae, henstillende dem til Forsamlingens nærmere Overveielse. Vi have saaledes for det Første meent, at naar<lb />
+Udkastet gaaer ud fra, at Rigsrettens Medlemmer tildeels skulle være<lb />
+Landsthingets Medlemmer, savnedes der en Bestemmelse, og det en<lb />
+aldeles væsentlig Bestemmelse i Udkastet om hvorledes der skal forholdes, naar Landsthinget er opløst, uagtet Udkastet dog gik ud fra<lb />
+den Forudsætning, at der var en fast vedvarende Ret; thi det er klart,<lb />
+at da de kun som Landsthingsmedlemmer vare Medlemmer af Rigsretten, hørte de op at være Rigsretsmedlemmer, naar de ophørte at<lb />
+være Landsthingsmedlemmer, og dette kunde ikke forebygges ved en<lb />
+speciel Lov, fordi en speciel Lov, som sagde, at de alligevel skulde<lb />
+være Rigsretsmedlemmer, skjøndt de ikke vare Landsthingsmedlemmer,<lb />
+var en Forandring i Grundloven. Vi have dernæst troet, at det i det<lb />
+Hele taget vilde være ret hensigtsmæssigt, om man kunde indbringe<lb />
+en Udskydelsesret for Anklageren og den Anklagede i den hele Retsorganisation; netop den Indvending, som den ære Deputerede for<lb />
+Kjøbenhavns 3die District (Ørsted) gjorde gjældende, at den hele Ret<lb />
+derved faaer Noget af en Jurys Charakteer, forekommer os at være en<lb />
+Anbefaling. Det er nemlig ganske vist, at de Spørgsmaal, som her<lb />
+opstaae, ikke ere reent juridiske i den gammeldags Forstand; det er jo<lb />
+netop dette Hensyn, som har fremkaldt den eiendommelige Regel, hvorefter man har villet, at den hele Ret skulde være sammensat af Medlemmer fra Høiesteret, som man antager at afgive det mere juridiske<lb />
+Element, og fra Landsthinget, som skulde repræsentere det politiske<lb />
+Element. Naar man nu ved denne Forening af forskjellige Elementer indrømmede en Udskydelsedret, da kunde man fjerne de Elementer af Retten, som ere meget extreme, enten til den ene eller til<lb />
+den anden Side, og det maatte ligesaavel gjælde om Høiesterets<lb />
+Medlemmer som om Landsthingets. Hovedspørgsmaalet er imidlertid<lb />
+naturligviis, om man ønsker en permanent Ret eller en Ret, som kun<lb />
+træder i Virksomhed, naar der blev Leilighed til at benytte den. Nu<lb />
+er det ganske naturligt, at naar man vil benytte denne Rigsret paa<lb />
+en ganske anden Maade end Udkastet, saaledes som den ærede Rigsdagsmand for Kjøbenhavns 3die District (Ørsted) har meent, da kan<lb />
+man allerede af denne Grund ville en permanent Ret. Men dette<lb />
+Hensyn skal jeg foreløbig lade ligge; det hele Spørgsmaal om, hvorvidt det burde være denne Ret, der afgjorde Competencespørgsmaal<lb />
+mellem Øvrighed og Domstole, vil senere komme under Forhandling.<lb />
+Bliver man da staaende ved Udkastets Synspunkt, har det været Udvalget tvivlsomt, om ikke de Medlemmer, som saaledes blede designerede til, paa en vis Tid at udgjøre en Rigsret, vilde komme i en<lb />
+noget falsk, i en noget unaturlig Stilling, idet de saaledes bleve<lb />
+stemplede som Rigsretsdommere, uagtet de maaskee i deres hele Embedstid ikke sik en eneste Sag at paadømme. Udvalget har troet, at<lb />
+den rigtigere Fremgangsmaade var, at man dannede Retten, naar der<lb />
+fremkom Opfordring dertil, nemlig naar der var en Rigsrets Klage.<lb />
+Ministeriet har vel meent, at man derved udsatte sig for at faae en<lb />
+</p>
+</rightside>
+
+
+</pb>

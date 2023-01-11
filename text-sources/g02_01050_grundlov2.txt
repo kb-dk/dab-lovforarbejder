@@ -1,0 +1,154 @@
+3573
+<pb n="1050" >
+<p rend="page">1050</p>
+<h>
+<coll>3573</coll>
+<colr>3574</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 451.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede og Syv og Tyvende (131te) Møde.<lb />
+(Den foreløbige Behandling af Valgloven. §§ 74—79.)<lb />
+</stitle>
+<p>
+<speaker>Algreen-Ussing:</speaker> Hvad den ærede Taler saaledes har nævnt,<lb />
+har vvistnok sin gode Grund, og jag troer, at det maa være ved en<lb />
+Forglemmelse, at dette ikke er blevet optaget i de af Udvalget fremlagte Bestemmelser. Maaskee den ærede Ordfører vil nærmere yttre<lb />
+sig derom. Det er mig nemlig fuldkommen vitterligt, at vi havde<lb />
+foreslaaet en Bestemmelse om, Valgene til Folkethinget skulde foregaae sørend Valgene til Landsthinget, men i en anden Redaction,<lb />
+som nu ikke længere er tilstede, men Udvalget har ikke, saavidt jeg<lb />
+erindrer, taget nogen Bestemmelse om, at det, man saaledes havde<lb />
+villet bringe i Forslag, skulde tages tilbage.<lb />
+</p>
+<p>
+<speaker>Ordføreren:</speaker> Jeg troer ikke, at det ærede Medlem, som sidst<lb />
+talte, udtalte sig aldeles nøiagtigt; men iøvrigt skal jeg ikke modsige<lb />
+Rigtigheden af hvad den ærede Rigsdagsmand for Randers Amts<lb />
+6te District (Rée) anførte.<lb />
+</p>
+<p>
+<speaker>Tscherning:</speaker> Den ærede Rigsdagsmand, som talte sidst,<lb />
+talte tidligere om Valgenes Periodicitet, som om han meente, at<lb />
+Valgene altid skulde foregaae i October Maaned (Algreen Ussing: Nei, det sagde jeg ikke!); men saaledes er det ikke at forstaae.<lb />
+Men just fordi den Tid er mindre heldig at foretage Valgene paa,<lb />
+har jeg i sin Tid gjort opmærksom paa, hvor urigtig jeg fandt den<lb />
+Tid for Valgene, og har stillet et Forslag i saa Henseende. Det<lb />
+forekommer mig nemlig ikke, at den Forandring, som Comiteens<lb />
+Minoritet har foreslaaet, er heldig, da den let vil lede til store Vanskeligheder, naar man vælger paa en anden Tid af Aaret, og vil<lb />
+bringe Periodicitet til Veie, idet Rigsdagens Møder eller Samlinger jo<lb />
+ikke alene kunne afholdes i den sidste Deel af Aaret, men ogsaa godt, tidligere, og paa den Maade kunde en Rigsdagsmand komme til, naar<lb />
+der i Begyndelsen af den treaarige Saison, for hvilken han er valgt,<lb />
+holdes Møde, at tage Deel i 4 Rigsdagsseancer. Han kan jo nemlig strax efter at han er valgt saae Sæde i Rigsdagen og begynde<lb />
+med et Møde i en tidligere Tid af Aaret, og i Slutningen af samme<lb />
+Aar kan der da blive endnu et ordinairt Møde, altsaa i et Aar 2<lb />
+Samlinger, og paa denne Maade kan der, naar Tiden regnes fra<lb />
+October, blive 3 ordinaire og 1 extraordinair Rigsdag, og det kan<lb />
+dog ikke være Meningen med den treaarige Session.<lb />
+</p>
+<p>
+<speaker>Andræ:</speaker> Jeg vilde tillade mig at spørge den ærede Ordfører,<lb />
+om der ikke endnu er en Mengel i § 75 foruden den, der før er<lb />
+bleven omtalt. Det kan dog neppe være Meningen, naar Rigsdagen opløses og der foretages nye Valg til Landsthinget, at da disse<lb />
+skulle siges at giælde for 8 Aar; thi for den halve Deel af Landsthingets Medlemmer kunne de jo kun gjælde for 4 Aar.<lb />
+</p>
+<p>
+<speaker>Ordføreren:</speaker> Da jeg er i Minoriteten i denne Henseende,<lb />
+maatte jeg helst ønske, at et andet Medlem af Udvalget vilde svare;<lb />
+men det forekommer mig, at den Bemærkning, som den ærede Rigsdagsmand giorde, er velbegrundet.<lb />
+</p>
+<p>
+<speaker>Algreen-Ussing:</speaker> Udvalget har i denne Henseende ikke giort<lb />
+nogen Forandring i hvad der alleredeee stod i Udkastets § 61.<lb />
+</p>
+<p>
+<speaker>Andræ:</speaker> Jo, det har udeladt § 63, og deri bestaaer Forandringen.<lb />
+</p>
+<p>
+<speaker>Ordføreren:</speaker> Jeg troer rigtignok, at der ved Sammentrækningen af § 61 og 62 er indløben nogen Unøiagtighed.<lb />
+</p>
+<p>
+<speaker>Algreen-Ussing:</speaker> Det er vel ogsaa muligt. Forresten antager jeg, at der har været Opfordring for Ordføreren, ved Afsattelsen<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+af disse som de øvrige Paragrapher, til at være opmærksom paa<lb />
+de Unøiagtigheder, der kunde være indløbne, da han jo ligefuldt er Ordfører for det Hele, uagtet han selv har stillet et Ændringsforslag.<lb />
+Med Hensyn til hvad den ærede 28de kongevalgte Rigsdagsmand<lb />
+(Tscherning) bemærkede, da har jeg hverken meent eller sagt, at Valgene altid skulle foregaae i October Maaned; men Udkastet har vistnok tænst sig, at de foregik henimod denne Tid, idet der siges, at de<lb />
+skulle være tilendebregte inden den første Mandag i October Maaned.<lb />
+Hvad Udvalget har anseet hensigtsmæssigt, det er, at Valgene giælde<lb />
+for 3 eller 8 Aar fra en vis bestemt Tid at regne, nemlig<lb />
+fra den første Mandag i October Maaned, og for at opnaae dette<lb />
+har man troet at burde holde fast ved Udkastets Bestemmelse i § 61<lb />
+(den nye § 75).<lb />
+</p>
+<p>
+Da ingen Flere vilde yttre sig over de foreliggende Paragrapher,<lb />
+gik man over til de følgende, Udkastets §§ 64—67, Udvalgets<lb />
+§§ 76—79.<lb />
+</p>
+<p>
+<speaker>Ordføreren:</speaker> Udkastets § 64 lyder saaledes:<lb />
+„Bliver Valget af en enkelt Rigsdagsmand nødvendigt, enten<lb />
+fordi et Valg erklæres for ugyldigt, eller fordi den<lb />
+gyldigen Valgte senere mister sin Valgbarhed, eller<lb />
+fordi han frasiger sig sit Sæde eller afgaaer ved<lb />
+Døden, gjælder det nye Valg for saa lang Tid, som den, i hvis<lb />
+Sted den Nyvalgte indtræder, vilde have havt tilbage. “<lb />
+</p>
+<p>
+Da den Opregning af de enkelte Grunde, som kunne giøre Valget af en Rigsdagsmand nødvendigt, ikke turde være aldeles udtømmende og vel ikke heller er nødvendig, har Udvalget troet, at man<lb />
+gierne kunde undvære disse Antydninger, saa at § 76 kom til at lyde<lb />
+saaledes:<lb />
+</p>
+<p>
+„Bliver Valget af en enkelt Rigsdagsmand nødvendigt, gjælder<lb />
+det nye Valg for saa lang Tid, som den, i hvis Sted den Nyvalgte<lb />
+indtræder, vilde have havt tilbage."<lb />
+</p>
+<p>
+Udkastets § 65 lyder saaledes:<lb />
+„Ingen kan frasige sig sit Sæde for et enkelt Rigsdagsmøde eller<lb />
+en bestemt Tid. Hvorvidt et Forhold, der i længere eller kortere Tid<lb />
+forhindrer en Rigsdagsmand fra at indtage sit Sæde, skal have nyt<lb />
+Valg til Følge, afgiøres efter de oplyste Omstændigheder af det Thing,<lb />
+hvortil han horer."<lb />
+</p>
+<p>
+Det forekommer Udvalget, at en saaden Bestemmelse som denne<lb />
+ikke ganske hører hiemme i en Valglov; den synes mere at høre<lb />
+hiemme i Thingenes Forretningsorden. Den første Hovedsætning<lb />
+(at Ingen kan frasige sig sit Sæde for et enkelt Rigsdagsmøde eller<lb />
+en bestemt Tid) er vvistnok i sig selv saa klar, at det neppe vil salde<lb />
+Nogen ind at paastaae, at han skulde kunne frasige sig sit Sæde for<lb />
+en bestemt Tid eller et enkelt Rigsdagsmøde med Ret til at optage<lb />
+det siden efter. Udvalget foreslaaer derfor, at Paragraphen udgaaer.<lb />
+</p>
+<p>
+Udkastets § 66 lyder saaledes:<lb />
+„Skullt almindelige Valg foretages, enten fordi Valgtiden er udløben, eller fordi hele Rigsdagen eller eet af Thingene er oplost, vil<lb />
+derom udgaae et aabent Biev, hvori Kongen berammer Valgmødernes<lb />
+Afholdelse til en bestemt Dag over hele Riget.<lb />
+</p>
+<p>
+Skulle enkelte Valg skee i et Valgdistrict eller Amt<lb />
+(Kiøbenhavn), udgaaer Anordningen af samme fra vedkommende<lb />
+Minister."<lb />
+</p>
+<p>
+Udvalget foreslaaer i § 77 blot en Ordforandring, nemlig en<lb />
+„Valgkreds" istedetfor de udhævede Ord i § 66.<lb />
+Udkastets § 67 lyder saaledes:<lb />
+„Enhver, som vælges til Rigsdagsmand, erholder et Valgbrev,<lb />
+</p>
+</rightside>
+
+
+</pb>

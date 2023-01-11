@@ -1,0 +1,149 @@
+2727
+<pb n="7" />
+<h>
+<coll>2727</coll>
+<topmidle>
+Kommissionens Bem. t. Udk. t. L. om den borgerlige Retspleje.
+</topmidle>
+<colr>2728</colr>
+</h>
+<leftside>
+<p>
+kan søges ved dette Sted (men derimod<lb />
+ikke paa det, mulig tredie, Sted, hvor<lb />
+Regnskab for Forvaltningen skal aflægges),<lb />
+medens omvendt en Person, der skal af-<lb />
+lægge Regnskab uden for sit Hjem ting,<lb />
+f. Eks. paa Mandantens Bopæl for en af<lb />
+ham for denne foretagen enkelt Forretning<lb />
+kan søges, hvor Regnskabet skal aflæggés<lb />
+(men ej paa det derfra og fra Hjemtinget<lb />
+mulig forskellige Sted, hvor selve Forret-<lb />
+ningen er udført).<lb />
+</p>
+<wtitle>§ 21.</wtitle>
+<p>
+Paragrafen er — bortset fra, at der<lb />
+som Følge af de privat forfulgte Straffe-<lb />
+sagers Overførelse til Civilprocessen er til-<lb />
+føjet Ordet ,,Straf“ — overensstemmende<lb />
+med det tidligere Forslags § 26; den har<lb />
+kun Retskrænkelser uden for Kontrakts-<lb />
+forhold for Øje, hvilket fremgaar saavel<lb />
+af Reglens historiske Anledning (D. L. 1<lb />
+—2—19, 1ste Led) og af de brugte Ud-<lb />
+tryk, der f. Eks. ikke naturlig kunne om-<lb />
+fatte det ved Ikke-Opfyldelse af en Kon-<lb />
+trakt forvoldte Tab, som modsætningsvis<lb />
+af § 20, 1ste Stykke.<lb />
+</p>
+<title>
+Kapitel III.<lb />
+</title>
+<undertitle>
+Forening af flere Krav under samme<lb />
+Retssag.<lb />
+</undertitle>
+<p>
+Dette Kapitel er ganske stemmende<lb />
+med det tidligere Forslags 1ste Afsnit,<lb />
+Kapitel IV, bortset fra nogle Smaaæn-<lb />
+dringer, der enten ere rent redaktionelle<lb />
+eller i alt Fald blot tilsigte en Tydeliggø-<lb />
+relse af Meningen.<lb />
+</p>
+<p>
+I Kapitlet angives de almindelige<lb />
+Grundsætninger for Foreninng af flere<lb />
+Krav under samme Sag efter Initiativ af<lb />
+en af de oprindelige Parter eller af Tre-<lb />
+diemand, medens de nærmere Bestemmel-<lb />
+ser om Proceduren i saadanne Tilfælde<lb />
+gives i det følgende. — Den Forening af<lb />
+Krav, som Retten selv i Kraft af sin pro-<lb />
+cesledende Virksomhed iværksætter, om-<lb />
+handles i Kapitel IX, se særlig § 94.<lb />
+</p>
+<p>
+Om Kapitlets enkelte Paragrafer skal<lb />
+følgende bemærkes:<lb />
+</p>
+<wtitle>§ 26.</wtitle>
+<p>
+Naar denne Paragraf giver en Sagsø-<lb />
+ger fri Adgang til at samle alle de Krav,<lb />
+som han har paa en og samme Sagvolder,<lb />
+under een Proces (objektiv Kumulation),<lb />
+forudsat blot, at Retten er kompetent med<lb />
+Hensyn til dem alle og samme Procesart<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+anvendelig paa dem, er dette formentlig<lb />
+kun en konsekvent Gennemførelse af en<lb />
+Grundsætning, der allerede længe har været<lb />
+anerkendt i dansk Retspraksis. Naar man<lb />
+nemlig i Praksis giver en Sagsøger Ad-<lb />
+gang til at kumulere alle mulige Krav paa<lb />
+samme Sagvolder uden Hensyn til Krave-<lb />
+nes Oprindelse, naar de blot med Hensyn<lb />
+til deres Genstand frembyde en vis Ens-<lb />
+artethed, synes denne sidste Begrænsning<lb />
+vilkaarlig, og man maa da hellere gøre<lb />
+Skridtet helt ud. Mod den Mulighed at<lb />
+en Sagsøger skulde finde paa at sammen-<lb />
+koble saa mange eller i Oprindelse eller<lb />
+Genstand saa uensartede Krav, at det<lb />
+kunde blive til Skade og Besvær for Be-<lb />
+handlingen af hver enkelt Del, har man<lb />
+tilstrækkehgt Værn i Rettens Adskillelses-<lb />
+Beføjelse efter § 94.<lb />
+</p>
+<p>
+Som alt oven for antydet ved § 3, vil<lb />
+den Omstændighed, at en Sagsøger kumu-<lb />
+lerer flere Krav af den Art, med Hensyn<lb />
+til hvilke Værdien ifølge § 2 spiller en<lb />
+Rolle, og af hvilke hver enkelt er under<lb />
+400 Kr., medens den samlede Værdi naar<lb />
+op over 400 Kr., bevirke, at Sagen bliver<lb />
+Landsretssag i Stedet for Underretssag.<lb />
+Derimod vil en Kumulation af de øvrige i<lb />
+§ 2 nævnte Krav aldrig flytte Sagen fra<lb />
+Underretten.<lb />
+</p>
+<p>
+Om hvilken Adgang der er til under<lb />
+Sagens Gang at udvide Paastanden gennem<lb />
+Inddragen af flere Krav, se §§ 9, 210<lb />
+og 279.<lb />
+</p>
+<wtitle>§ 27.</wtitle>
+<p>
+Den her opstillede Regel angaaende<lb />
+Forening af flere Krav mellem forskellige<lb />
+Parter under en og samme Proces (sub-<lb />
+jektiv  Kulumation) er væsentlig afvigende<lb />
+fra den nugældende Ret, ifølge hvilken<lb />
+subjektiv Kumulation i Reglen er forbudt,<lb />
+og det endog er gjort Retten til Pligt ex<lb />
+officio at paase dette Forbuds Overhol-<lb />
+delse. At fastholde dette Forbud er der<lb />
+imidlertid ingen Grund til, da det i Til-<lb />
+fælde, hvor saavel det faktiske som det<lb />
+retlige Spørgsmaal stiller sig ens i flere<lb />
+Sager, netop vil kunne være det simpleste,<lb />
+naturligste og billigste, at de afgøres un-<lb />
+der een Proces, fremfor at der finder gen-<lb />
+tagen Procedure og Bevisførelse Sted an-<lb />
+gaaende ganske ensartede Spørgsmaal.<lb />
+Derimod maa der gives hver enkelt Sag-<lb />
+søgt Ret til at protestere mod, at et mod<lb />
+ham anlagt Søgsmaal angaaende et eller<lb />
+flere Krav, som Sagsøgeren har paa ham,<lb />
+vilkaarlig kombineres med Krav af anden<lb />
+Oprindelse (o: hvilende paa andet Rets-<lb />
+grundlag), som Sagsøgeren har paa Tredie-
+</p>
+</rightside>

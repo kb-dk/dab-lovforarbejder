@@ -1,0 +1,86 @@
+211
+<pb n="211" />
+<leftside>
+<p>Parterne   og. deres  Sagførere Lejlighed til<lb />
+at ytre sig derom".</p>
+<p>Foruden den almindelige Bemærkning,<lb />
+at nærværende Kapitel ikke angår Nævningernes Afstemning og Kendelser — Reglerne derom findes i §§' 28? ff. — skal med<lb />
+Hensyn til Kapitlets enkelte Paragraffer følgende bemærkes:</p>
+<wtitle>§ 94.</wtitle>
+<p>Ordene i Slutningen af 1ste Stk. „forsåvidt det Modsatte ikke særlig er bestemt"<lb />
+sigte til § 300.</p>
+<wtitle>§ 95.</wtitle>
+<p>Udkastet har nærmest holdt sig til den<lb />
+nugældende Terminologi, forsåvidt som<lb />
+det benytter „Dom" i Betydning af den Afgørelse, hvorved Sagen bringes til Ende i<lb />
+den pågældende Instans, medens „Ken«<lb />
+delse" i Reglen betegner en Afgørelse, efter<lb />
+hvis Afsigelse Proceduren fortsættes, jfr. dog<lb />
+§§ 228, 328. 360, 365, 2det Stykke, og 372.<lb />
+Som følge heraf vil der tun være Tale om<lb />
+dømme ved den dømmende Ret. derimod ikke<lb />
+ved Undersøgelsesretten (jfr. dog § 302). Udkastets Sondring mellem „Kendelser" og „Beslutninger" beror på, at de førstnævnte altid skulle ledsages af Grunde, de sidstnævnte<lb />
+kun. hvor sådant undtagelsesvis er foreskrevet<lb />
+(jfr. således § 157). I hvilke Tilfælde der<lb />
+er Grund til at forlange „Kendelse", kan ikke<lb />
+angives ved nogen almindelig Regel. Kun<lb />
+så meget kan siges i al Almindelighed, at<lb />
+der vil være Grund til at forlange Kendelse<lb />
+— altså en begrundet Beslutning — dels<lb />
+hvor der er Tale om afgørelse af opståede<lb />
+Tvistigheder, dels hvor der, selv uden saadan, er Tale om at anvende visse i private<lb />
+Personers Retsgoder væsentlig indgribende<lb />
+Midler til Opnåelse af Straffesagers Formål (s. Eks. Fængsling eller Ransagning).<lb />
+Dette stemmer baade med Forholdets Natur<lb />
+og den gældende Ret, og kræves tildels<lb />
+endog af grundlovmæssige Forskrifter.</p>
+<p>Bestemmelsen i Slutningen af Paragraffen er optaget efter Forbilledet i N.<lb />
+L. § 168, og det kan i Tilslutning til<lb />
+en Note i Getz og Hagerups Udgave af denne<lb />
+bemærkes, at en Kendelse i een Retning godt<lb />
+kan være at anse som procesledende og<lb />
+således falde ind under den her omtalte<lb />
+Regel, samtidig med, at den i en anden<lb />
+Retning har en anden og og videre Betydning, der ikke påvirkes af dens Om«<lb />
+gørelse. Dette gælder f. Eks. om en Kendelse, hvorved det pålægges Nogen trods<lb />
+fremsat Indsigelse at vidne. Bliver Ved«<lb />
+kommendes Vidnesbyrd senere overflødigt,<lb />
+f. Eks. på Grund  af Tiltaltes Tilståelse,</p>
+</leftside>
+<rightside>
+<p>må Retten kunne beslutte, at det ej af«<lb />
+kræves, skønt den usvækkede Kendelse endelig<lb />
+afgør Spørgsmålet om Vidnepligten og for<lb />
+så vidt ej kan forandres af samme Ret.<lb />
+Omgørelse af en Kendelse må selvfølgelig<lb />
+ske ved ny Kendelse.</p>
+<wtitle>§ 96.</wtitle>
+<p>Tilfælde af den Art, hvortil denne<lb />
+Paragraf sigter, findes i §§ 58, 59, 63,<lb />
+337,   345, 351, 363 og 365.</p>
+<wtitle>§ 97.</wtitle>
+<p>At Reglen om Berigtigelsers Tilblivelsesmåde og Forkyndelse i Slutningen af<lb />
+2det Stk. ikke angår de i Paragraffens Begyndelse ommeldte Skrivfejl og lignende, har<lb />
+man søgt at give et skarpere Udiryk ved at<lb />
+sætte den Del af Paragraffen, der begynder<lb />
+med Ordene „Fremdeles kan..." som et<lb />
+selvstændigt Stykke.</p>
+<title>Andet Afsnit.</title>
+<undertitle>Midler til Tagens Oplysning m. m.</undertitle>
+<p>Indledningsvis stal bemærkes, at Kommissionen dels har fundet det mest Praktisk<lb />
+at give førstagets Kapitler fortløbende Numre<lb />
+helt igennem, dels har ment at opnå en<lb />
+simplere og mere overskuelig Ordning af<lb />
+Stoffet i nærværende Afsnit ved nogen Ændring i det tidligere førstags Kapitel-Inddeling og Kapitel-Rækkefølge. Forholdet er<lb />
+i så Henseende det, at:</p>
+<p>nærværende Udkasts Kapitel XI. (Vidner)<lb />
+svarer til det tidligere førstags 2det<lb />
+Afsnit, Kapitel II.;</p>
+<p>Kapitel XII. (Besigtigelse, Syn og Skøn) til<lb />
+det tidligere førstags 2det Afsnit, Kapitel</p>
+<p>Kapitel XIII. (Beslaglæggelse) til det tidligere Forslags 2det Afsnit, Kapitel I.,<lb />
+2den og 3dje Afdeling;</p>
+<p>Kapitel XIV. (Ransagning) til det tidligere<lb />
+førstags 2det Afsnit, Kapitel I., 1ste Afdeling ;</p>
+<p>Kapitel XV. (Sigtedes Indkaldelse og Afhørelse for Retten) til det tidligere førstags 2det Afsnit, Kapitel IV., 1ste Afdeling, og Kapitel V.;</p>
+</rightside>

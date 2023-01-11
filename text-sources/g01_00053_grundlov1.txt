@@ -1,0 +1,154 @@
+37
+<pb n="53">
+<pagename>53</pagename>
+<h>
+<coll>37</coll>
+<colr>38</colr>
+<lb/>
+</h>
+<leftside>
+<p rend="continue">
+Gud på. den Måde, dem bedst tykkes, dog at Intet føretages, som<lb/>
+strider mod Sædeligheden eller den offentlige Orden.<lb/>
+<law n="66."/>§ 66.<lb/>
+Ingen er pligtig at yde personlige Bidrag til nogen anden Gudsdyrkelse end den, som er hans egen. Den, som ikke vil svare den<lb/>
+til den lutherske Kirke lovbefalede personlige Afgift enten til denne<lb/>
+eller til et andet anerkjendt kvirkeligt Samfund i Landet, betaler samme<lb/>
+til Skolevæsenet.<lb/>
+<law n="67."/>§ 67.<lb/>
+Enhver, der anholdes, skal inden 24 Timer stilles for en Dommer. Hvis den Anholdte ikke strax kan sætes på fri Fod, skal<lb/>
+Dommeren ved en af Grunde ledsaget Kjendelse afgjøre, at han skal<lb/>
+fængsles, og, hvis han kan løslades mod Sikkerhed, bestemme dennes<lb/>
+Art eller Størrelse.<lb/>
+</p>
+<p>
+Den Kjendelse, hvorved Nogen erklæres for fængslet, kan af<lb/>
+denne strax fordres beskreven og særskilt indankes for høiere Ret.<lb/>
+</p>
+<p>
+Ingen kan underkastes Varetægtsfængsel for en Forseelse, som<lb/>
+kun kan medføre Straf af Pengebod eller simpelt Fængsel.<lb/>
+<law n="68."/>§ 68.<lb/>
+Ingen kan tilpligtes at afståe sin Eiendom, uden hvor Almeenvellet kræver  det. Det kan kun skee ifølge Lov og mod tilsvarende<lb/>
+Erstatning.<lb/>
+<law n="69."/>§ 69.<lb/>
+Alle Indskrænkninger i den frie og lige Adgang til Arbeide, som<lb/>
+ikke ere begrundede i det almene Vel, skulle hæves ved Lov.<lb/>
+<law n="70."/>§ 70.<lb/>
+Den, som ikke ved sit Arbeide selv kan ernære sig og Sine, er<lb/>
+berettiget til at erholde Hjælp af det Offentlige, dog mod at underkaste sig de Forpligtelser, som Lovene herom påbyde.<lb/>
+<law n="71."/>§ 71.<lb/>
+Den, som ikke selv kan sørge for sine Børns Oplærelse, er berettiget til, at det Offentlige forskaffer dem fri Underviisning i Almueskolen.<lb/>
+<law n="72."/>§ 72.<lb/>
+Enhver er berettiget til ved Trykken at offentliggjøre sine Tanker, dog under Ansvar for Domstolene.<lb/>
+<law n="73."/>§ 73.<lb/>
+Borgerne have Ret til uden foregående Tilladelse at indgåe<lb/>
+Foreninger i ethvert lovligt Øiemed. Ingen Forening kan ophæves<lb/>
+uden ved Dom. Dog kunne Foreninger foreløbigen forbydes, men<lb/>
+der skal da strax anlægges Sag mod Foreningen til dens Ophævelse.<lb/>
+<law n="74."/>§ 74.<lb/>
+Borgerne have Ret til at samles ubevæbnede. Forsamlinger på<lb/>
+offentligt Sted har Politiet Ret til at oversære. Forsamlinger under<lb/>
+åben Himmel kunne forbydes, når der af samme kan befrygtes<lb/>
+Fare for den offentlige Fred.<lb/>
+<law n="75."/>§ 75.<lb/>
+Ved Opløb tør den væbnede Magt, når den ikke angribes, kun<lb/>
+anvendes, efterat Mængden 3 Gange i Kongens og Lovens Navn<lb/>
+forgjæves er opfordret til at adskilles.<lb/>
+<law n="76."/>§ 76.<lb/>
+Enhver våbenfør Mand er forpligtet til med sin Person at<lb/>
+bidrage til Fædrelandets Forsvar.<lb/>
+<law n="77."/>§ 77.<lb/>
+Borgerne ere berettigede til selv at bestyre deres reent communale Anliggender, dog under Statens Tilsyn.<lb/>
+<law n="78."/>§ 78.<lb/>
+Enhver i Lovgivningen til Adel, Titel og Rang knyttet Forret<lb/>
+er afskaffet.<lb/>
+<law n="79."/>§ 79.<lb/>
+Intet Lehn, Stamhuus eller Fideicommisgods kan for Fremtiden<lb/>
+oprettes; de nu bestående kunne med alle Berettigedes Samtykke<lb/>
+overgåe til fri Eiendom.<lb/>
+</p>
+<title>
+VIII.<lb/>
+</title>
+<p>
+<law n="80."/>§ 80.<lb/>
+Forslag til Forandring i eller Tillæg til nærværende Grundlov<lb/>
+fremsættes på en ordentlig Rigsdag. Vedtages den derom fattede<lb/>
+Beslutning i uforandret Skikketse af næste ordentlige Rigsdag, og bifaldes</p>
+</leftside>
+<rightside>
+<p>
+
+ den af Kongen, opløses begge Thingene, og almindelige Valg<lb/>
+foregåe både til Folkethinget og til Landsthinget. Vedtages Beslutningen tredie Gang af den nye Rigsdag på en ordentlig eller<lb/>
+overordentlig Samling, og stadfæstes den af Kongen, er den Grundlov.<lb/>
+</p>
+<p>
+<speaker>Justitsministeren:</speaker> Med nærværende Udkast følger tillige Udkast til en Valglov, der er udarbeidet i Overeensstemmelse med de<lb/>
+Grundsætninger, som udtales i det nys oplæste Udkast til Grundloven; jeg troer det derfor ikke nødvendigt her at oplæse også dette<lb/>
+Udkast til Valgloven.<lb/>
+</p>
+<p>
+Til Forsamlingens Medlemmer vare omdeelte Exemplarer såvel<lb/>
+af Udkastet til Grundloven som af Udkastet til Valgloven. Det sidste<lb/>
+lyder således:<lb/>
+</p>
+<middle>
+Valgret.<lb/>
+</middle>
+<p>
+<law n="1."/>§ 1.<lb/>
+Valgret, såvel til Folkethinget som til Landsthinget, tilkommer<lb/>
+enhver uberygtet Mand, som har Indfødsret, såsnart han har fyldt<lb/>
+sit tredivte År.<lb/>
+<law n="2."/>§ 2.<lb/>
+Indtil en ny Lov om Indfødsretten nærmere fastsættrer dennes<lb/>
+Betingelser skulle de Udlændinge, som i 10 År have opholdt sig i<lb/>
+de til den danske Stat henhørende Landsdele, og som ståe i personligt<lb/>
+undersåtligt Forhold til Kongen af Danmark, nyde samme Ret<lb/>
+som de, der overensstemmende med Fdgn, af 15de Januar 1776 have<lb/>
+dansk Indfødsret.<lb/>
+<law n="3."/>§ 3.<lb/>
+Ingen kan ansees som uberygtet, som ved Dom er funden skyldig<lb/>
+i en i den offentlige Mening vanærende Handling, eller som vitterligen er hengiven til sådanne Laster, eller beviisligen har udviist et<lb/>
+sådant Forhold, som må stemple ham som uværdig til enhver<lb/>
+ærekjær Mands Agtelse.<lb/>
+<law n="4."/>§ 4.<lb/>
+Ingen, som ståer i privat Tjenesteforhold, kan, sålænge han<lb/>
+forbliver i denne Stilling, udøve sin Valgret, medmindre han har<lb/>
+sin egen Huusstand.<lb/>
+<law n="5."/>§ 5.<lb/>
+Ingen kan udøve Valgret, som uyder Understøttelse af det almindelige Fattigvæsen, eller som, efter det fyldte attende År, har<lb/>
+modtaget nogen sådan Hjælp, medmindre den enten er tilbagebetalt,<lb/>
+eller Fattigvæsenet udtrykkeligen har estergivet sit derpå byggede<lb/>
+Krav.<lb/>
+<law n="6."/>§ 6.<lb/>
+Så kan Valgret eiheller udøves af den, som er ude af Rådigheden over sit Bo.<lb/>
+<law n="7."/>§ 7.<lb/>
+Endeligen kan kun den udøve sin Valgret, som i eet År har<lb/>
+haft fast Bopæl i det Valgdistrikt eller i den Commune, hvori han<lb/>
+opholderr sig på den Tid, Valget foregåer. Den, som har fast<lb/>
+Bopæl på flere Steder, kan således selv bestemme, på hvilket af<lb/>
+disse han vil gjøre sin Valgret gjældende.<lb/>
+<law n="8."/>§ 8.<lb/>
+Ethvert Spørgsmål om Valgberettigelse afgjøres foreløbigen af<lb/>
+Communalbestyrelsen på det Sted, hvorpå Vedkommende boer.<lb/>
+Dog kan den, hvem samme har frakjendt Valgret, fordre Spørgsmålet afgjorte ved Lov og Dom.<lb/>
+</p>
+<middle>
+Valgbarhed.<lb/>
+</middle>
+<p>
+<law n="9."/>§ 9.<lb/>
+Valgbar til Rigsdagsmand er enhver uberygtet (§ 3) Mand,<lb/>
+som har Indfødsret (§ 2), medmindre han befinder sig i et af de<lb/>
+Tilfældee, i hvilke efter §§ 4, 5 og 6 Valgret ikke kan udøves.<lb/>
+<law n="10."/>§ 10.<lb/>
+Valgbarheden til Folkethinget indtræder med det fyldte fem og<lb/>
+tyvende År. Den er uafhængig af Vedkommendes Opholdssted.<lb/>
+<law n="11."/>§ 11.<lb/>
+Valgbarheden til Landsthinget indtræder med det fyldte fyrre</p>
+</rightside>
+
+</pb>

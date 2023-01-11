@@ -1,0 +1,62 @@
+348
+<pb n="84" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>348</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 359.</wtitle>
+<p>
+Under Domsforhandlingen fremstiller den Part, der først får Ordet, kortelig<lb/>
+Sagens Hovedtræk; derefter lader han ved Retsskriveren oplæse de Dokumenter, som<lb/>
+han vil påberåbe sig, derunder Udskrifter af Tingsvidner og afgivne Partsforklaringer m. m. Modparten lader derpå på lignende Måde sine Dokumenter læse.<lb/>
+Derefter udvikler førstnævnte Part nærmere sin Opfattelse af hele Sagen, derunder<lb/>
+Bevisførelsens Resultater og de vedkommende Retsspørgsmål, hvorefter Modparten<lb/>
+får Ordet for en tilsvarende Udvikling. Retten kan vedtage eller tillade sådanne<lb/>
+Afvigelser fra den foreskrevne Forhandlingsgang, som måtte findes formålstjenlige.
+</p>
+<p>
+De påberåbte Dokumenter, hvoraf efter Omstændighederne trykte eller skrevne<lb/>
+Genparter omdeles til Dommerne, overgives efter Oplæsningen til Retten.
+</p>
+<wtitle>§ 360.</wtitle>
+<p>
+Hvis sådan Bestemmelse ikke allerede tidligere er truffen, jfr. § 351, kan<lb/>
+Retten under Forhandlingerne efter Begæring bestemme, at tidligere afhørte Vidner,<lb/>
+Syns- eller Skønsmænd og Parter skulle fremstilles til yderligere Afhøring under<lb/>
+Domsforhandlingen, jvf. §§ 162 og 163, 193 samt 293. Træffes sådan Bestemmelse,<lb/>
+udsættes Sagen om fornødent, jvf. § 11.
+</p>
+<wtitle>§ 361.</wtitle>
+<p>
+Såfremt Vidneførsel o. desl. i Henhold til § 351 eller § 360 finder Sted<lb/>
+under Domsforhandlingen, finde Reglerne i §§ 348—49 tilsvarende Anvendelse. Indkaldelse udstedes af Landsrettens Formand. Den Part, der har foranlediget et Vidne<lb/>
+eller en Syns- eller Skønsmand indkaldt til Afgivelse af Forklaring under Domsforhandling, kan. når den Indkaldte har givet Møde, ikke uden Modpartens Samtykke<lb/>
+frafalde vedkommendes Afhørelse med den Virkning, at Modparten eller Retten afskæres fra at stille Spørgsmål til Vidnet eller Syns- eller Skønsmanden.
+</p>
+<p>
+Retten kan på, Grund af et Vidnes, eller en Syns- eller Skønsmands Udeblivelse<lb/>
+eller Indsigelse imod at afgive Forklaring eller imod at møde udsætte Sagen, når<lb/>
+vedkommende Part begærer dette. Udsættelsen kan gives på bestemt Tid eller<lb/>
+indtil videre. I sidste Fald kan, når Hindringen er hævet, enhver af Parterne<lb/>
+fremsætte Begæring for Retten om, at der berammes en Tid til Sagens Foretagelse<lb/>
+og udstedes Indkaldelse til alle vedkommende.
+</p>
+<wtitle>§ 362.</wtitle>
+<p>
+Når Sagen i det hele eller for et enkelt Punkt skønnes at være tilstrækkelig behandlet, sluttes Forhandlingerne (jvf. § 277), Sagen optages, og Dom afsiges (jvf. § 210).
+</p>
+<p>
+Domsforhandling i en ny Sag må først påbegyndes, når Dom i den sidst<lb/>
+optagne Sag er vedtagen. Undtagelse herfra kan dog finde Sted, når Sagen frembyder særlige Vanskeligheder, men der skal også i dette Tilfælde, inden ny Domsforhandling påbegyndes, afholdes Rådslagning om den optagne Sag, og den endelige<lb/>
+Vedtagelse af Domsslutningen må aldrig udsættes udover den tredie Søgnedag efter<lb/>
+Domsforhandlingens Tilendebringelse.
+</p>
+<wtitle>§ 363.</wtitle>
+<p>
+Udebliver Sagsøgte ved Domsforhandlingen, og Sagsøgeren vil fremføre noget,<lb/>
+som ikke indeholdes i det Sagsøgte meddelte, må han begære Forhandlingen helt<lb/>
+eller delvis udsat og meddele Sagsøgte Udsættelsen og det ny Anbringende med et af<lb/>
+Retten bestemt Varsel.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

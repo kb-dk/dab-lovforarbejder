@@ -1,0 +1,80 @@
+2093
+<pb n="183" />
+<h>
+<coll>
+2093
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2094
+</colr>
+</h>
+<title>
+Kapitel 76.
+</title>
+<title>
+Anholdelse.
+</title>
+<wtitle>§   823.</wtitle>
+<p>
+Naar en mistænkt, som befinder sig paa fri Fod. er udebleven efter behørig<lb />
+Indkaldelse uden oplyst lovligt Forfald, kan Retten beslutte hans Anholdelse. I Politi-<lb />
+sager kan Anholdelse af denne Grund dog kun finde Sted, naar det i Tilsigelsen eller<lb />
+under Møde for Retten er betydet ham, at han maa møde personlig og i Udeblivelses-<lb />
+tilfælde maa vente at blive anholdt,
+</p>
+<wtitle>§  824.</wtitle>
+<p>
+Uden foregaaende Indkaldelse kan Retten beslutte en mistænkts Anholdelse,
+</p>
+<p>
+1)	naar den paagældende er en Person, der strejfer om uden Midler til lovligt<lb />
+Underhold, eller som ikke har Bolig eller dog varigere Opholdssted i Riget, eller er<lb />
+en ubekendt, om hvis Navn og Opholdssted ingen antagelige Oplysninger haves eller<lb />
+kunne fremskaffes, og
+</p>
+<p>
+2)	for saa vidt Mistanken angaar et Forhold, som det ifølge Luvens almindelige<lb />
+Regel tilkommer Overanklageren at forfølge, eller nogen af de i denne Lovs § 699<lb />
+under g, j, k og 1 eller i Straffelovens § 180 eller dens § 200, jvf. Lov Nr. 80 af 11te<lb />
+Maj 1897 § 1, eller dens § 296, 2det Punktum, eller i Sølov af 1ste April 1892 §§ 291,<lb />
+1ste Punktum, og 298, 1ste Stykke, nævnte Forbrydelser, naar det. om end Betingelserne<lb />
+for Afsigelse af Fængslingskendelse ikke fuldstændig maatte være til Stede, efter Om-<lb />
+stændighederne skønnes fornødent at sikre den paagældendes foreløbige Tilstedeblivelse<lb />
+eller Afsondring fra Samkvem med andre.
+</p>
+<wtitle>§  825.</wtitle>
+<p>
+Anholdelsesbeslutningen tilføres Retsbogen straks, eller saa snart ske kan, med<lb />
+en saa nøjagtig Betegnelse af den paagældende som muligt samt Angivelse af Sig-<lb />
+telsens Genstand, i det mindste i Almindelighed, og Grunden til Anholdelsen. Ud-<lb />
+skrift skal paa Forlangende meddeles den anholdte inden 24 Timer.
+</p>
+<p>
+Ved Paagribelsen, eller saa snart det kan ske, skal Beslutningen med tilhørende<lb />
+Begrundelse oplæses eller forevises for den anholdte.
+</p>
+<wtitle>§  826.</wtitle>
+<p>
+Er der Grund til at frygte for, at Øjemedet vilde forspildes ved Ophold for<lb />
+at fremskaffe Rettens forudgaaende Beslutning, kan Politiet uden saadan foretage An-<lb />
+holdelse af de i § 824 Nr. 1 betegnede Personer, naar de mistænkes for at have be-<lb />
+gaaet en Forbrydelse, der er offentlig Forfølgning undergiven, og af andre Personer,<lb />
+naar de træffes under Udførelsen af offentlig Forfølgning undergiven, strafbar Handling<lb />
+og ikke ville afstaa fra deres forbryderiske Virken, eller der er bestemte Grunde til<lb />
+at mistænke dem for nogen af de i § 824 Nr. 2 omtalte Forbrydelser.
+</p>
+<p>
+Samme Beføjelse har enhver anden, naar den paagældende træffes i Udførelsen<lb />
+af en Forbrydelse eller paa friske Spor.
+</p>
+<p>
+Finder Oprør eller den i Straffelovens § 103 ommeldte Forbrydelse Sted, eller<lb />
+  udøves den i Straffelovens § 87 ommeldte Forbrydelse af en samlet Mængde, eller er<lb />
+Drab eller betydeligere Legemsbeskadigelse paafulgt i Slagsmaal, i hvilket flere have<lb />
+deltaget, og Omstændighederne ikke umiskendelig udpege den eller de skyldige, kan<lb />
+Politiet anholde enhver, der træffes i den samlede Mængde eller indviklet i Slags-<lb />
+maalet, og som ikke straks formaar at rense sig for Mistanken om strafbar Deltagelse.
+</p>

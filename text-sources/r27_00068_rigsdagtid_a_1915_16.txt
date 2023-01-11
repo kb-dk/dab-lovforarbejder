@@ -1,0 +1,83 @@
+2775
+<pb n="68" />
+<h>
+<coll>
+2775
+</coll>
+<topmidle>
+F. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2776
+</colr>
+</h>
+<p>
+Saavel Rettens Formand som hvert enkelt af dens andre Medlemmer kan<lb />
+stille Spørgsmaal.
+</p>
+<p>
+Naar der ikke svares paa de stillede Spørgsmaal, eller Svaret ikke har til-<lb />
+strækkelig Bestemthed, eller en til Møde i saadan Anledning tilsagt Part udebliver<lb />
+uden oplyst lovligt Forfald, kan Retten fortolke Tavsheden, Ubestemtheden eller Ude-<lb />
+blivelsen paa den for Modparten gunstigste Maade og navnlig lægge dennes Fremstil-<lb />
+ling til Grund for Paakendelsen.
+</p>
+<wtitle>§ 283.</wtitle>
+<p>
+Retten kan opfordre en Part til at fremlægge Situationskort, Stamtavler,<lb />
+Grundrids, Tegninger og andre lignende Anskueligheden befordrende Midler eller til-<lb />
+vejebringe Syn eller Skøn, naar Sagen ikke uden dette kan bedømmes med tilstrække-<lb />
+lig Sikkerhed.
+</p>
+<p>
+Efterkommer en Part ikke denne Opfordring, kan Retten efter Omstændig-<lb />
+hederne bringe Regelen i § 282, sidste Stykke, til Anvendelse.
+</p>
+<wtitle>§ 284.</wtitle>
+<p>
+Dersom Retten, efter at Optagelse til Dom er sket, finder Grund til at stille<lb />
+Spørgsmaal af den i § 282 omhandlede Beskaffenhed til Parterne eller til, at der<lb />
+rettes yderligere Spørgsmaal til afhørte Parter, Vidner eller Syns- og Skønsmænd,<lb />
+eller til, at der indhentes Syn eller Skøn, kan den under Angivelse af Øjemedet ind-<lb />
+kalde Parterne til et Møde, i hvilket Spørgsmaalene begæres besvarede, eller Parterne<lb />
+opfordres til snarest muligt at foretage det fornødne til at fremskaffe Besvarelsen,<lb />
+Synet eller Skønnet.
+</p>
+<p>
+Udgifterne ved de i denne Paragraf omhandlede Foranstaltninger udredes for-<lb />
+skudsvis af det offentlige, indtil det ved den endelige Dom kan afgøres, hvilken af<lb />
+Parterne der skal bære dem.
+</p>
+<wtitle>§ 285.</wtitle>
+<p>
+Antager Retten, at der er Omstændigheder til Stede, som kan medføre Af-<lb />
+visning paa Embeds Vegne, kan den standse Forhandlingen og opfordre Parterne til<lb />
+at erklære sig over Afvisningsspørgsmaalet.
+</p>
+<p>
+Naar Afvisningsdom ikke afsiges, fortsættes Forhandlingen.
+</p>
+<wtitle>§ 286.</wtitle>
+<p>
+Retten kan bestemme, at flere for den svævende Retssager imellem de samme<lb />
+Parter skal forhandles i Forbindelse med hverandre. Samme Myndighed har Retten<lb />
+ogsaa med Hensyn til Retssager imellem forskellige Parter, naar Søgsmaalenes For-<lb />
+ening fra først af ikke vilde stride imod § 250.
+</p>
+<p>
+Er flere Krav forenede under een Retssag, kan Retten bestemme, at en Ad-<lb />
+skillelse skal finde Sted og et eller flere af Kravene forhandles og paadømmes særskilt.
+</p>
+<p>
+Frembyder Sagen flere Stridspunkter, kan Retten bestemme, at Forhandlingen<lb />
+foreløbig skal indskrænke sig til et eller nogle af disse; enkelte Søgsmaalsgrunde eller<lb />
+enkelte Indsigelser kan som en Følge heraf gøres til Genstand for særskilt Procedure.
+</p>
+<wtitle>§ 287.</wtitle>
+<p>
+Er et Retsforhold, hvis Fastsættelse vil faa Indflydelse paa Sagens Udfald,<lb />
+Genstand for en ved samme eller en anden Ret svævende Retstrætte. eller er det ind-<lb />
+bragt til Afgørelse ved administrativ Myndighed, kan Retten enten efter Paastand eller<lb />
+paa Embeds Vegne bestemme, at Sagens Forhandling i det hele eller til Dels skal ud-<lb />
+sættes, indtil hin Retstrætte er paadømt, eller den administrative Afgørelse er truffet.
+</p>

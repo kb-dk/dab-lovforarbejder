@@ -1,0 +1,20 @@
+0
+<pb n="6" />
+<title>Syvende Afsnit.</title>
+<undertitle>Om Behandlingen af Sager, der ikke forfølges af Statsanklageren eller Politiet....................  §§ 440 ~ 462.</undertitle>
+<p>Kapitel I.</p>
+<p>Om Sager, der påtales i Henhold til § 38 eller § 40.................................  §§ 440-445.</p>
+<p>Kapitel II.</p>
+<p>Om Sager, der påtales af Private i Henhold til § 39........................  §§ 446—455.</p>
+<p>Kapitel III.</p>
+<p>Om Påtale af borgerlige Retskrav i Forbindelse med Straffesagen........................  §3 456-462.</p>
+<title>Ottende Afsnit.</title>
+<p>Om Fuldbyrdelsen af dømme i Straffesager.......  §§463- 473.</p>
+<title>Niende Afsnit.</title>
+<undertitle>Om Omkostninger i Straffesager samt om Rettergangsbøder.. §§ 474 433.</undertitle>
+<p>Kapitel I.</p>
+<p>Om Omkostninger i Straffesager..................................................... §§ 474-484.</p>
+<p>Kapitel II.</p>
+<p>Om Rettergangsbøder..............................................................  §§ 485—488.</p>
+<title>Niende Afsnit.</title>
+<undertitle>Slutningsbestemmelser.............. §§ 439-492.</undertitle>

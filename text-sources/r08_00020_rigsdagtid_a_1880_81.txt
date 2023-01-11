@@ -1,0 +1,48 @@
+3403
+<pb n="20" />
+<h>
+<coll>3403</coll>
+<topmidle>Forsl. t. L. om Ordningen af Domsmagten, den offentlige Anklagemyndighed m. m.</topmidle>
+<colr>3404</colr>
+</h>
+<p>varet indkaldte og have opfyldt deres Pligter som Nævninger, om de gjsle Krav paa den<lb />
+dem ved § 64 Nr. 9 hjemlede Fritagelse. I bekræftende Fald gjøres Bemærkning derom paa<lb />
+Narslisten. Tillige udfardiges der de ovenmeldte Navninger paa Forlangende uden Betaling<lb />
+Vidnesbyrd af Rettens Skriver om, at de have givet bchsrigt møde i Samlingen.</p>
+<wtitle>§ 92.</wtitle>
+<p>Der tilkommer de Nævninger, som bo længere end 1 Mil fra det Sted, hvor Retten<lb />
+holdes, Godtgjørelse for Befordring frem og tilbage med IVZ Kr. for hver ledende Mil.</p>
+<wtitle>§ 93.</wtitle>
+<p>Aarslisten samt Samlingens Hovedliste og Hjælpeliste tilbagesendes efter Samlingens<lb />
+Slutning til Formanden for Udvalget til Narslistcns Dannelse.</p>
+<p>,     Udtagelse af nævninger til den enkelte Sag sker efter Reglerne i Lov om Strafferets-<lb />
+pleien.</p>
+<title>Tredie  Afsnit.</title>
+<undertitle>Om den offentlige Anklagemyndigheds Qrdning.</undertitle>
+<wtitle>§ 94.</wtitle>
+<p>De offentlige Anklagere ere Overstatsanklageren ved Høiesteret, Statsanklagerne ved<lb />
+Landsretterne samt de til disses Bistand beflittede Mand.</p>
+<p>De offentlige Anklagere virke i Retsplejen, og sarlig for forsølgning af Forbrydelser,<lb />
+efter de nærmere Regler i Lovene om Retspleien.</p>
+<wtitle>§ 95.</wtitle>
+<p>Overstatsanklageren beskikkes af Kongen. Til midlertidig at fungere som Overstats-<lb />
+anklager i Tilfælde af Embedsledighed eller Forfald kan Justitsministeren bestikke.</p>
+<p>Overstatsanklageren virker ved Høiesteret og fører Tilsynet med de offentlige Anklagere<lb />
+efter de narmere Regler i Lovene om Retspleien.</p>
+<p>Overstatsanklageren har Embedskontor i kjøbeuhavn.</p>
+<wtitle>§ 96.</wtitle>
+<p>Til Bistand ved Udfsrclsen af Overstatsanklagcrens Hverv beskikker Kongen en Stats-<lb />
+anklager.</p>
+<p>Justitsministeren kan efter Forhandling med Overstatsanklageren give ogsaa Andre<lb />
+Bemyndigelse til at optråde i en enkelt Sag for Hsicsteret som Overstatsanllagcr.</p>
+<wtitle>§ 97.</wtitle>
+<p>For hver af Rigets Landsretskredse bestikket Kongen en Statsanklager. Til midler-<lb />
+tidig at fungere som Statsanklager i Tilfælde af Embedsledlghed eller Forfald kan Justits-<lb />
+ministeren bestikke.</p>
+<p>Statsanklageren virker ved Landsretterne og Underretterne efter de narmere Regler i<lb />
+Lovene om Retspleien.</p>
+<p>Statsanklagerne have Embedskontor ved den Landsrets Hovedsade, for hvis Kreds<lb />
+de bestilles.</p>
+<wtitle>§ 98.</wtitle>
+<p>Til de dem paahvilende Hvervs Udførelse have Statsanklagerne Bistand af de be-<lb />
+flittede Hjalpe-Statsanklagcre og Anklagere ved Underretterne.</p>

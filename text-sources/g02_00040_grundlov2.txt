@@ -1,0 +1,103 @@
+1553
+<pb n="40" >
+<p rend="page">40</p>
+<h>
+<coll>1553</coll>
+<colr>1554</colr><lb />
+</h>
+<leftside>
+<btitle>
+A. Grundlovsudkastet.<lb />
+</btitle>
+<p>
+<law n="61" >§ 61.<lb /></law>
+Rigsretten paakjender de af Folkethinget<lb />
+mod Ministrene anlagte Sager.<lb />
+</p>
+<p>
+For Rigsretten kan Kongen lade ogsaa Andre tiltale for Forbrydelser, som han finder<lb />
+særdeles farlige for Staten, naar Folkethinget<lb />
+dertil giver sit Samtykke.<lb />
+<law n="63" >§ 63.<lb /></law>
+Domstolene ere berettigede til at paakjende<lb />
+ethvert Spørgsmaal om Øvrighedsmyndighedens Grændser. Dog kan den, der mener sig<lb />
+forurettet ved en Øvrighedsbefaling, ikke ved<lb />
+at bringe Sagen for Domstolene unddrage sig<lb />
+fra foreløbigen at efterkomme Befalingen.<lb />
+<law n="62" >§ 62.<lb /></law>
+Dommere kunne ikke afsættes uden ved Dom,<lb />
+ikke heller forflyttes mod deres Ønske. Dog<lb />
+kan den Dommer, der har fyldt sit 70de Aar,<lb />
+afskediges, men uden Tab af Indtægter.<lb />
+</p>
+<title>
+VIII.<lb />
+</title>
+<p>
+<law n="80" >§ 80.<lb /></law>
+Forslag til Forandring i, eller Lillæg til,<lb />
+nærværende Grundlov fremsættes paa en ordentlig Rigsdag. Vedtages den derom fattede<lb />
+Beslutning i uforandret Skikkelse af næste ordentlige Rigsdag og bifaldes den af Kongen,<lb />
+opløses begge Thingene, og almindelige Valg<lb />
+foregaae baade til Folkerhinget og til Landsthinget. Vedtages Beslutningen 3die Gang<lb />
+af den nye Rigsdag paa en ordentlig eller<lb />
+overordentlig Samling, og stadfæstes den af<lb />
+Kongen, er den Grundlov.<lb />
+</p>
+<btitle>
+Comiteens (Majoritets) Indstilling.<lb />
+</btitle>
+<p>
+<law n="61" >§ 61.<lb /></law>
+Som Udkastet.<lb />
+<law n="62" >§ 62.<lb /></law>
+Den dømmende Magts Udøvelse kan kun<lb />
+ordnes ved Lov.<lb />
+<law n="63" >§ 63.<lb /></law>
+Den med visse Eiendomme forbundne dømmende Myndighed er afskaffet.<lb />
+<law n="63 b" />§ 63 b.<lb />
+Retspleien bliver at adskille fra Forvaltningen efter de Regler, der fastsættes ved Lov.<lb />
+<law n="63 c" />§ 63 c.<lb />
+Domstolene ere berettigede til at paakjende<lb />
+ethvert Spørgmaal om Øvrighedsmyndighedens Grændser. Dog kan den, der vil reise<lb />
+saadant Spørgsmaal, ikke ved at bringe Sagen for Domstolene unddrage sig fra foreløbigen at efterkomme Øvrighedens Befaling.<lb />
+<law n="63 d" />§ 63 d.<lb />
+Dommerne have i deres Kald alene at<lb />
+rette sig efter Loven. De kunne ikke afsættes<lb />
+uden ved Dom, eiheller forflyttes mod deres<lb />
+Ønske udenfor de Tilfælde, hvor en Omordning af Domstolene finder Sted. Dog kan<lb />
+den Dommer, der har fyldt sit 65de Aar, afskediges, men uden Tab af Indtægter.<lb />
+<law n="63 e" />§ 63 e.<lb />
+I Misgjerningssager og i Sager, der<lb />
+reise sig af politiske Lovovertrædelser, skulle<lb />
+Nævninger indføres.<lb />
+</p>
+<title>
+VIII.<lb />
+</title>
+<p>
+<law n="80" >§ 80.<lb /></law>
+Som Udkastet.<lb />
+</p>
+</leftside>
+<rightside>
+<btitle>
+C Minoritetsindstillingerne.<lb />
+</btitle>
+<p>
+<law n="63 c" />§ 63 c.<lb />
+a) Domstolene ere berettigede til at paakjende ethvert Spørgsmaal om Øvrighedsmyndighedens Grændser, navnlig kan den, der<lb />
+troer sig krænket i sine borgerlige Rettigheder<lb />
+ved en Embedsmands lovstridige Handling,<lb />
+ved Domstolene søge Erstatning.<lb />
+</p>
+<p>
+b) Domstolene ere berettigede til at paakjende ethvert Spørgsmaal om Øvrighedsmyndighedens Grændser. (Resten udgaaer)<lb />
+<law n="63 d" />§ 63 d.<lb />
+</p>
+<p>
+Dog kan den Dommer, der har fyldt sit<lb />
+70de Aar o. s. v.<lb />
+</p>
+</rightside>
+</pb>

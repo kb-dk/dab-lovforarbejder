@@ -1,0 +1,147 @@
+1061
+<pb n="567">
+<pagename>567</pagename>
+<h>
+<coll>1061</coll>
+<colr>1062</colr>
+<lb/>
+
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No. 137.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Sex og fyrgetyvende (49de) Møde.<lb/>
+(Fortsat.)<lb/>
+</btitle>
+<p>
+Som Følge af de stedfundne Afstemninger, navnligen den under Nr. 3, bortfaldt det af Algreen-Ussing og I. E. Larsen oprindelig som principalt under 2 a stillede Forslag: <lb/>
+</p>
+<p>
+At der til § 1 i Forordningen af 23de September 1848 føies: <lb/>
+„De i Aarene 1823, 1824 og 1825 fødte Personer af den hidtil værnepligtige Stand, der i sin Tid enten ere udslettede af<lb/>
+Rullerne eller forbigaaede ved Udskrivningen, blive at medtage under nærværende Udskrivning lige med de i samme Aar<lb/>
+fødte Værnefrie, efter det i denne Anordning fastsatte Forhold.“<lb/>
+</p>
+<p>
+7) Det af de Samme paa Afstemningslisten under Nr. 2 Litr. d<lb/>
+stillede Forslag, med en af Formanden gjort Redactionsforandring: <lb/>
+</p>
+<p>
+Endelig foreslaaes følgende Tillæg til § 3 i Forordningen af<lb/>
+23de September 1848: „Endeligen ville Bestemmelserne i Udkastets §§ 6 og 7 (saaledes som de nærmere matte blive fastsatte) finde Anvendelse paa de i Forordningen af 23de Septbr.<lb/>
+1848 omhandlede Personer; “<lb/>
+blev antaget med 71 Stemmer mod 51.<lb/>
+</p>
+<p>
+8) Lethsog Tangs Forandring i Udvalgets Minoritets Forslag (5): <lb/>
+At til samme føies: „eller indtraadt i borgerlig Stilling ved<lb/>
+at nedsætte sig i en Kjøbstad, eller ved at have tiltraadt<lb/>
+Besiddelse af Gaard eller Huus paa Landet, eller ved at have<lb/>
+erholdt et offentligt Embede; “<lb/>
+blev forkastet med 81 Stemmer mod 49.<lb/>
+</p>
+<p>
+9) Bregendahls Forslag: Saafremt det af mig med flere af<lb/>
+Udvalgets Medlemmer stillede Minoritetsvotum om Ophævelse af<lb/>
+Anordningen af 23de Septbr. 1848 forastes, foreslaaes, at der<lb/>
+i Paragraphens 2den Linie efter Ordene „dog at de“ tilføies „i<lb/>
+Aarene 1824, og 1825 Fødte“, samt at der efter Paragraphens<lb/>
+Slutning skeer følgende Tilføining: „hvorimodd den i sidstnævnte<lb/>
+Anordning befalede Udskrivning af de i Aaret 1823 Fødte bortfalder; “<lb/>
+blev forkastet med 97 Stemmer mod 25.<lb/>
+</p>
+<p>
+10) Udvalgets Minoritets (Christensen, Hiort, Scavenius, <lb/>
+Ussing) Forslag: At der ved Paragraphens Slutning tilføies: <lb/>
+„Jøvrigt vil Bestemmelsen i det sidste Membrum af den foregaaende Paragraph, naar det der forudsatte Tilfælde er tilstede, <lb/>
+være at anvende ogsaa med Hensyn til dem, der udskrives efter<lb/>
+nysanmeldte Anordning; “<lb/>
+blev antaget med 69 Stemmer mod 61.<lb/>
+</p>
+<p>
+11) Udvalgets Minoritets (Bregendahl, van Dockum, Hiort, <lb/>
+Køster, Petersen, Scavenius, Stokfleth) Forslag: At Slutningen<lb/>
+af Paragraphen fra Ordene „dog at“ udgaaer, og at det istedetfor kommer til at hedde: „og vil som Følge heraf den ved Vor<lb/>
+Anordning af 23de Septbr. sidstleden paabudne extraordinaire<lb/>
+Udskrivning bortfalde; “<lb/>
+blev efter Forlangende af<lb/>
+</p>
+<reflist>
+J. A. Hansen.	P. Hansen.<lb/>
+Hækkerup.	M. Rasmussen.<lb/>
+Frølund.	I. Rasmussen.<lb/>
+Barfod.	Cornelius Petersen.<lb/>
+Andresen.	B. Christensen.<lb/>
+</reflist>
+</leftside>
+<rightside>
+<reflist>
+Black.	Jacobsen.<lb/>
+R. N. Møller.	Høier.<lb/>
+N. H. Nielsen.<lb/>
+</reflist>
+<p>
+sat under Afstemning ved Navneopraab og afgjorte saaledes: <lb/>
+Stemmegivende 135, absolut Stemmefleerhed 68.<lb/>
+Forslaget forkastet med 108 Stemmer mod 27.<lb/>
+</p>
+<indexlist>
+Nei.<lb/>
+Aagaard G. af Lolland.	F. Johannsen af Houby.<lb/>
+Aagaard af Thisted.	Jungersen.<lb/>
+Andresen.	Jørgensen.<lb/>
+Andræ.	Kayser.<lb/>
+Bagger.	Kirk.<lb/>
+Barfod.	Knuth.<lb/>
+Bergmann.	Krieger.<lb/>
+Bjerring.	Chr. Larsen af Dalby.<lb/>
+Black.	J. E. Larsen af Kjøbenhavn.<lb/>
+Bruun af Assens.	Leth.<lb/>
+M. P. Bruun af Bruunshaab.	Lorck.<lb/>
+Buntzen.	Lüttichan.<lb/>
+Balth. Christensen.	Madsen.<lb/>
+Georg Christensen.	Marckmann.<lb/>
+J. Christensen af Voldum.	Mundt.<lb/>
+H. Christensen af Veistrup.	Tage Müller.<lb/>
+la Cour.	Møller (R. N.) af Draaby.<lb/>
+Dahl.	Møller af Flakkeberg.<lb/>
+Dahlerup.	Neergaard.<lb/>
+David.	H. C. Nielsen af Tranberg.<lb/>
+Dinsen.	N. H. Nielsen af Løserup.<lb/>
+Drewsen af Kjøbenhavn.	Nørgaard.<lb/>
+Duntzfelt.	Olesen.<lb/>
+Eriksen.	Olrik.<lb/>
+Fibiger.	Ostermann.<lb/>
+Fløe.	Otterstrøm.<lb/>
+Frølund.	Oxholm.<lb/>
+Funder.	J. Pedersen af Sæding.<lb/>
+Hage.	P. Pedersen af Kjøbenhavn.<lb/>
+Hall.	Cornelius Petersen af Davinde.<lb/>
+Hammerich.	Pjetursson.<lb/>
+J. A. Hansen af Kjøbenhavn.	Ploug.<lb/>
+L. Hansen af Bjelkerup.	Pløyen.<lb/>
+Mørk Hansen.	H. Rasmussen af Egense.<lb/>
+N. Hansen af Eskelund.	J. Rasmussen af Svanninge.<lb/>
+P. Hasen af Abbetved.	M. Rasmussen af Herlufmagle.<lb/>
+Hasselbalch.	Scavenius.<lb/>
+v. Haven.	Schack.<lb/>
+Hermannsen.	Schiern.<lb/>
+Hunderup.	Schlegel.<lb/>
+Hvidt.	Schroll.<lb/>
+Hækkerup.	Schurmann.<lb/>
+Høier.	Schytte.<lb/>
+Jacobsen.	Brinck-Seidelin.<lb/>
+Jacobæus.	Sidenius.<lb/>
+C. M. Jespersen af Viborg.	Cederfeld de Simonsen.<lb/>
+F. Jespersen af Bogense.	Skeel.<lb/>
+H. C. Johansen af østrup.	Stender.<lb/>
+</indexlist>
+</rightside>
+
+</pb>

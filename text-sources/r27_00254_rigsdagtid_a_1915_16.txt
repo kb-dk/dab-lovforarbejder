@@ -1,0 +1,62 @@
+3147
+<pb n="254" />
+<h>
+<coll>
+3147
+</coll>
+<topmidle>
+F. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+3148
+</colr>
+</h>
+<p>
+50.	Sæby Købstad og Dronninglund Herred.
+</p>
+<p>
+51.	Frederikshavn Købstad og Horns Herred samt Skagen Købstad og Læsø Birk.
+</p>
+<p>
+52.	Hjørring Købstad og Vennebjerg Herred samt Børglum Herred.
+</p>
+<p>
+53.	Thisted Købstad og Hillerslev-Hundborg Herreder samt Øster og Vester Han<lb />
+Herreder.
+</p>
+<p>
+54.	Hassing-Refs Herreder.
+</p>
+<p>
+55.	Nykøbing M. Købstad og Morsø Herreder.
+</p>
+<p>
+56.	Skive Købstad og Sallinglands Herreder.
+</p>
+<p>
+57.	Viborg Købstad og Lysgaard og Hids samt en Del af Hovlbjerg Herred.
+</p>
+<p>
+58.	Fjends-Nørlyng og Middelsom-Sønderlyng Herreder.
+</p>
+<p>
+59.	Herning Købstad og Hammerum Herred.
+</p>
+<p>
+60.	Holstebro Købstad og Hjerm-Ginding Herreder.
+</p>
+<p>
+61.	Lemvig Købstad og Skodborg-Vandfuld Herreder.
+</p>
+<p>
+62.	Ringkøbing Købstad og Ulvborg-Hind Herreder samt Bølling-Nørre Herreder.
+</p>
+<p>
+63.	Varde Købstad og Landjurisdiktion samt Øster og Vester Herreder.
+</p>
+<p>
+64.	Esbjerg Købstad, Skads Herred og Fanø Birk.
+</p>
+<p>
+65.	Ribe Købstad, Ribe Herred og Gjørding-Malt Herreder.
+</p>

@@ -1,0 +1,67 @@
+3401
+<pb n="33">
+<h>
+<coll>
+3401
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3402
+</colr>
+</h>
+<lowtitle>§ 138.</lowtitle>
+<p>
+Kommer en Sagfører under Konkurs, har Justitsministeren at fratage ham<lb />
+Retten til at udøve Sagførervirksomhed og kan som Regel først tilbagegive ham den,<lb />
+naar han fremskaffer Erklæring fra samtlige de i Konkursboet anmeldte Kreditorer<lb />
+om, at han har fyldestgjort dem for deres Krav, eller at de have samtykket i Boets<lb />
+Ekstradition. Bliver en Sagfører umyndiggjort, har Justitsministeren ligeledes at fra-<lb />
+tage ham Retten til at udøve Sagførervirksomhed, saa længe Umyndiggørelsen vedvarer.
+</p>
+<title rend="chapter">Kapitel 15</title>
+<title rend="subtitle">Sagførersamfund og Sagførerraad.</title>
+<lowtitle>§ 139.</lowtitle>
+<p>
+Samtlige i en Landsretskreds boende Sagførere udgøre et Samfund, Højeste-<lb />
+retssagførerne ere Medlemmer af det til Østre Landsret hørende Sagførersamfund.
+</p>
+<lowtitle>§ 140.</lowtitle>
+<p>
+Ethvert Sagførersamfund skal have en Bestyrelse, der benævnes Sagførerraad.
+</p>
+<p>
+Sagførerraadet bestaar af en af Landsrettens Formand blandt Sagførerne i<lb />
+Kredsen valgt Formaud og et lige Antal Medlemmer, ikke under 4 og ikke over 8,<lb />
+Halvdelen valgt af og blandt Landsrets- og Højesteretssagførerne, Halvdelen af og<lb />
+blandt Underretssagførerne. Samtlige Valg gælde for 4 Aar; Genvalg kan finde Sted.
+</p>
+<lowtitle>§ 141.</lowtitle>
+<p>
+Til almindeligt Møde af Samfundets Medlemmer indbydes ved en offentlig Be-<lb />
+kendtgørelse i Statstidende med mindst 14 Dages Varsel.
+</p>
+<lowtitle>§ 142.</lowtitle>
+<p>
+Almindelige Møder sammenkaldes dels for at vælge Medlemmer af Sagfører-<lb />
+raadet dels for at afhandle andre Genstande vedkommende Sagførerstandens Forhold<lb />
+og Interesser.
+</p>
+<p>
+Sagførerraadet sammenkalder Møder,   saa  ofte dette findes nødvendigt; naar<lb />
+et Antal af   mindst  en Fjerdedel   af Medlemmerne af Sagførersamfundet, eller naar<lb />
+Landsrettens Formand forlanger det, er Sagførerraadet pligtigt at sammenkalde Møde.<lb />
+Første Gang efter, at denne Lov er traadt  i Kraft,  sammenkalder Landsret-<lb />
+tens Formand Møde til Valg af et Sagførerraad.
+</p>
+<lowtitle>§ 143.</lowtitle>
+<p>
+Sagførerraadet har ikke blot at paase, at de til Samfundet hørende Sagførere<lb />
+i deres Forhold som Sagførere holde sig Lovene efterrettelige, men ogsaa, at de i<lb />
+deres Sagførervirksomhed undgaa alt, hvad der ikke komme overens med den Hæder-<lb />
+lighed, Nøjagtighed og Paalidelighed, som en offentlig beskikket Sagfører altid maa<lb />
+udvise, ligesom det med bindende Virkning har Ret til at afgøre Tvistigheder an-<lb />
+gaaende Vederlag for den af dem i denne deres Egenskab ydede Tjeneste og Bistand<lb />
+til private, naar disse i denne Anledning henvende sig til det.
+</p>
+
+</pb>

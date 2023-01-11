@@ -1,0 +1,115 @@
+3605
+<pb n="1066" >
+<p rend="page">1066</p>
+<h>
+<coll>3605</coll>
+<colr>3606</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdogen.</topmidle>
+<topright>
+No. 455.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede og Otte og thvende (132te) Møde.<lb />
+(Den endelige Behandling af Valgloven. §§ 13—16.)<lb />
+</stitle>
+<p>
+<law n="1066" >§ 10.<lb /></law>
+Disse Protocoller lœgges til Grund for Valglisterne, som af<lb />
+Gommunalbestyrelsen skulle affattes i den sidste Halvdeel af Juni<lb />
+Maaned, og i forskiellige dertil indrettede Rœkker indeholde de<lb />
+fornødne Oplysninger om Vælgerne, hvis Ravne ordnes efter<lb />
+deres Bogstavfølge. De ved Listernes Affattelse opstaaede Tvivl<lb />
+skulle efter indhetede Oplysninger afgiøres af Communalbestyrelsen.<lb />
+<law n="13 (8)" />§ 13 (8).<lb />
+27) I. A. Hansens og Olesens Ændringer i F. Jespersens<lb />
+Forslag: Forud for Ordene „Efter 8 Dages forudgaaende Bekiendtgiørelse" sœttes “Ved den første Affattelse af Valglisterne følges<lb />
+følgende Fremgangsmaade“. Efter Ordene i 2den Passus<lb />
+„Enhver, der vil udove sin Valgret" føies „ved de førft forestaaende Valg".<lb />
+28) F. Jespersens Forslag: Over de i hver Commune bosatte<lb />
+Vœlgere skal der føres Valglister efter Foranstaltning af vedkommende Communalbestyrelse.<lb />
+Hvor et Landdistrict o. s. v. som Udkastet.<lb />
+Efter 8 Dages forudgaaende Bekiedtgiørelse paa den for<lb />
+ethvert Sted brugelige Maade skal Communalbestyrelsen ved to<lb />
+eller flere af sine Medlemmer vœre tilstede paa et beqvemt Sted<lb />
+i tre paa hinanden følgende Dage til nœrmere bestemt Tid paa<lb />
+Dagen for at indtegne Vœlgere. Enhver, der vil udøve sin<lb />
+Valgret, har i den bestemte Tid selv eller ved en Anden at begiere sig indført i Listen, at opgive sit fulde Ravn, Alder, Stilling og Bopœl og, forsaavidt det af de tilstedevœrende Communeforstandere findes fornødent, at godtgiøre, at han er i Besiddelse af de til Valgrettens Udøvelse fornødne Egenskaber.<lb />
+Anmœkn. Saafremt dette Forslag antages, ville enkelte af de følgende<lb />
+Pargrapher behøve nogen Forandring.<lb />
+29) Udkastet: Over de i hver Commune bosatte Valgberettigede<lb />
+skall der føres Valglister efter Foranstaltning af vedkommende<lb />
+Communalbestyrelse.<lb />
+</p>
+<p>
+Hvor et Landdistrict er henlagt under et Kiøbstadsogn<lb />
+uden at have sit eget Forstanderskab, henregnes det forsaavidt til<lb />
+Kiøbstaden.<lb />
+<law n="14(9)" />§ 14(9).<lb />
+30) Udvalgets Forslag: At efter „Ravn" tilføies „Alder".<lb />
+31) Udkastet: Valglisterne skulle i forskiellege dertil indrettede Rœkker indeholde Vœlgernes fulde Ravn, Livsstilling og Bopœl. Paa<lb />
+hver Valgliste ordnes Vœlgernes Navne efter deres Bogstavfølge.<lb />
+<law n="15 (10)" />§ 15 (10).<lb />
+32 Tschernings Forslag: At den sidste Deel bortfalder fra<lb />
+„eller inden . . . . Bopœl" og istedetfor tilsœttes „i den Valgkreds, hvortil Communen hører".<lb />
+33) Bregendahls Forslag: At der sœttes „April" istedetfor „August", og at der som Følge heraf sœttes i §11 „Februar" istedetfor „Juni", i §12 „Marts" istedetfor „Juli" og i § 17<lb />
+„April" istedetfor „August", samt „Marts" istedetfor „Juli".<lb />
+34) Barfods Forslag: “Inden den 1ste August" forandres til<lb />
+„inden Valgdagen. “<lb />
+35) Udvalgets Forslag: At i Slutingin for „have opnaaet<lb />
+Valgretsalderen eller bosat sig i Communen" sœttes „have op</p>
+</leftside>
+<rightside>
+<p>
+naaet Valgret eller inden 1ste August ville have opfyldt Betingelserne med Hensyn til Alder og Bopœl".<lb />
+36) Udkastet: Valglisterne skulle affattes en Gang hvert Aar.<lb />
+Til Grund derfor lœgges det foregaaende Aars Valglister med<lb />
+Udeladelse af de Vœlgere, som i Mellemtiden ere afgaaede ved<lb />
+Døden eller bortflyttede, eller som have tabt deres Valgberrettigelse (§§ 3, 4, 5 og 6), og med Tilføining af dem, som imitlertid have opnaaet Valgrets-Alderen eller bosat sig i<lb />
+Communen.<lb />
+<law n="16 (11)" />§ 16 (11).<lb />
+37) Udvalgets Forslag: For „Februar" sœttes „Juni".<lb />
+38) Udkastet: Denne Valglisternes Berigtigelse og Fuldstœndiggierelse skal foretages i de sidste fiorten Dage af Februar Maaned. De deved opstaaede Tvivl skulle efter indehentede Oplysninger afgiøres af den samlede Communalbestyrelse.<lb />
+</p>
+<p>
+Forslagene under Nr. 26, 28, 32, 33, 34 bleve paa den i Regulativet fastsatte Maade understøttede.<lb />
+</p>
+<p>
+<speaker>F Jesperfen:</speaker> Blandt de Indvendinger, som under den forelobige Behandling bleve giorte mod mit Forslag under Nr. 28, var<lb />
+ogsaa den, at man havde giort den Erfaring, at det var hensigtsmœsigere, at Communalbestyrelsen affattede disse Lister, end at Vedkommende selv skulde melde sig. Man har sigtet til, havd der ogsaa<lb />
+er unegteligt, at ved de sidste Valg blev en stor Mœnage Bœlgere<lb />
+ikke indtegnet, men meldte sig dog paa Valgdagen for at stemme,<lb />
+idet de troede, at deres Ret ikke var afskaaren, naar de kunde paaberaabe sig forskiellige Grunde, f. Er. Sygdom, Fravœrelse paa Indskrivningstiden eller noget Lingende. Jeg veed, at dette var Tilfœldet, men jeg troer alligevel, at denne Indvending ikke har Noget at<lb />
+sige. Grunden, hvorfor Vedkommende ikke være blevne indtegnede,<lb />
+var, at det Hele var noget Fremmed, noget Nyt; skjøndt der skete<lb />
+offentilige Bekiendtgiørelser, saa vidste man dog paa mange Steder<lb />
+ikke ret, hvad det havde at betyde. Men jeg troer ikke, at denne<lb />
+Grund kan giœlde mere fra denne Dag af; thi nu ere Grundloven<lb />
+og de boregerlige Rettigheder, som derved ere vundne, gaaede over i<lb />
+Folkets almindelige Kundskab, og jeg er overbeviist om, at Grundloven, naar den om saa Dage er udkommen, vil hœnge i hver<lb />
+Mands Stue, man vil lœre Børnere i Skolen, at de med deres 30te<lb />
+Aar blive valgberettigede i Danmark, og de ville ogsaa faae at vide,<lb />
+at til at blive Vœlger hører, at man selv skal mœlde sig, og jeg er<lb />
+vis paa, at ingen Vœlger, der vil giøre Brug af sin Valgret, vil i<lb />
+Fremtiden forsømme at lade sig indskrive. Jeg troer heller ikke paa<lb />
+nogen Maade, at dette er en Byrde, navnlig saaledes som jeg har<lb />
+stillet mit Forslag, at Enhver enten selv eller ved en Anden kan<lb />
+melde sig, uden at der skal vœre Spørgsmaal om, at han skal godtgiøre, at han har lovligt Forfald for selv at komme. Jeg erkiender<lb />
+derimod, at saaledes som § 3 idag er bleven forandret, er een af de<lb />
+Grunde, som jeg havde til at stille mit Forslag, bortfalden, og det<lb />
+skal slet ike befymre mig, om Forsamlingen nu erklœrer sig derimod;<lb />
+men jeg troer alligevel, at der er noget Sandt og Rigtigt i den Grundsœtning, at Enhver skal melde sig, og at man desuagtet bør holde fast<lb />
+derpaa. Jeg troer ikke, det var beføiet, naar man under den foreløbige Behandling indvendte, at det var en ny Betingelse, man nu<lb />
+tilføiede Valgrettens Udøvelse, og at den skulde staae i Strid med<lb />
+Grundloven; thi det er en Betingelse, som forekommer mig at ligge<lb />
+i Sagens Natur, at den, som vil giøre sin Valgret giœldende, maa<lb />
+iagttage de derfor foreskrevne Former. Ligesom det er nødvendigt, at<lb />
+han maa legitimere sig, dersom Valgbestyrelsen ikke veed, at han<lb />
+</p>
+</rightside>
+
+
+</pb>

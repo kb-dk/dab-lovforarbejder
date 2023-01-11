@@ -1,0 +1,82 @@
+3049
+<pb n="205" />
+<h>
+<coll>
+3049
+</coll>
+<topmidle>
+F. t. L. om  Retens Pleje.
+</topmidle>
+<colr>
+3050
+</colr>
+</h>
+<p>
+forklare sig om de Forhold, som Tiltalen angaar. Enhver af de andre Dommere, enhver<lb />
+af Nævningerne, Overanklageren og Forsvareren kan begære yderligere Spørgsmaal,<lb />
+der sigter til at tydeliggøre hans Forklaring, rettet til Tiltalte. Derpaa følger den øvrige<lb />
+Bevisførelse.
+</p>
+<p>
+Afgiver Tiltalte under Afhørelsen en fuldstændig Tilstaaelse, afgør Retten, om<lb />
+og i hvilken Udstrækning yderligere Bevisførelse skal finde Sted.
+</p>
+<wtitle>§ 869.</wtitle>
+<p>
+Opstaar der Spørgsmaal, om nogen Fejl foreligger, der hindrer Sagens Fremme,<lb />
+eller om Overanklageren har Paataleret, kan Forhandlingen begrænses til dette Punkt,<lb />
+indtil Spørgsmaalet har fundet sin Afgørelse.
+</p>
+<p>
+Det samme gælder, naar Spørgsmaal rejses, om et saadant Forhold, som er be-<lb />
+skrevet i Anklageskriftet, overhovedet er strafbart, eller om Straf er udelukket ved For-<lb />
+ældelse eller af anden lignende Grund. Er Rettens Dommere enige, kan Frifindelsesdom<lb />
+straks afsiges.
+</p>
+<p>
+Fejl, der hindrer Sagens Fremme, bør, hvor det kan ske, tilstedes afhjulpne, og<lb />
+den Udsættelse gives, som i saa Henseende maatte behøves. Skal Fejlen kun tages i Be-<lb />
+tragtning, naar den gøres gældende fra Tiltaltes Side, maa Indsigelse fremsættes, saa<lb />
+snart dertil er blevet Lejlighed; i Almindelighed maa det ske, førend Lodtrækning til<lb />
+Udtagelse af Nævninger begynder.
+</p>
+<p>
+Den Omstændighed, at Retten forinden Domsforhandlingens Begyndelse har<lb />
+nægtet at tage en Begæring om Sagens Afvisning til Følge (§ 842), er ikke til Hinder for,<lb />
+at det saaledes foreløbig rejste Spørgsmaal paa ny bringes frem under Domsforhandlingen.
+</p>
+<wtitle>§ 870.</wtitle>
+<p>
+Bevisførelsen foregaar først fra Overanklagerens og derefter fra Forsvarets Side;<lb />
+Beviser, hvis Førelse Retten af egen Drift beslutter, fremføres paa det Tidspunkt, For-<lb />
+manden bestemmer. Førend en Parts Beviser fremføres, kan den bevisførende i Korthed<lb />
+angive, hvad det er for Beviser, han vil føre, og hvad han dermed vil godtgøre.
+</p>
+<p>
+Efter ethvert enkelt Vidnes Afhørelse, saavel som efter Fremførelsen af ethvert<lb />
+andet Bevis, har Tiltalte Adgang til, hvis han ønsker det, at forklare sig, saa vidt Beviset<lb />
+dertil giver Anledning.
+</p>
+<wtitle>§ 871.</wtitle>
+<p>
+Om Slutning af Bevisførelsen enten i det hele eller om et enkelt Punkt, førend<lb />
+alle Beviserne er fremførte, samt om Genoptagelse af en sluttet Bevisførelse, tager Retten<lb />
+Beslutning.
+</p>
+<p>
+Omfatter Sagen flere Forbrydelser, kan Formanden lade Forhandlingen og Næv-<lb />
+ningernes Paakendelse foregaa særskilt for hver enkelt Forbrydelse.
+</p>
+<wtitle>§ 872.</wtitle>
+<p>
+Overanklageren afhører de af ham fremstillede Vidner. Vidner, som fremstilles<lb />
+fra Forsvarets Side, afhøres af Forsvareren eller af Tiltalte.
+</p>
+<p>
+Paa tilsvarende Maade forholdes med Afhørelse af Syns- og Skønsmænd.
+</p>
+<wtitle>§ 873.</wtitle>
+<p>
+Formanden er berettiget og forpligtet til, naar som helst han i Sandhedens Inter-<lb />
+esse finder Grund dertil, at rette Spørgsmaal til den, som afhøres. Bevisførelse sigtende
+</p>

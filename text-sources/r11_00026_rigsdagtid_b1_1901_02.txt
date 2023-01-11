@@ -1,0 +1,88 @@
+2309
+<pb n="26" />
+<h>
+<coll>2309</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2310</colr>
+</h>
+<leftside>
+<wtitle>Til § 447.</wtitle>
+<p>417) „Fogden" ændres til „Syssel-<lb />
+manden" (3 Steder) og „den civile Foged"<lb />
+ligeledes til „Sysselmanden".</p>
+<wtitle>Til § 448.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>418) I L. 3 ændres „Kendelse" til<lb />
+„Beslutning".</p>
+<p>Af Justitsministeren, tiltraadt af U d-<lb />
+valget undtagen Nanke:</p>
+<p>419)	„Fogden" ændres til „Sysselman-<lb />
+den"'. (4 Steder).</p>
+<p>420)	„Udpantningskendelse" ændres<lb />
+til „Udpantningsbeslutning".</p>
+<wtitle>Til § 449.</wtitle>
+<p>421)	„Gebyrerne" i 2den Linie æn-<lb />
+dres til „Afgifterne".</p>
+<p>422)	,,Fogden" ændres til ,,Sysselman-<lb />
+den"'. (3 Steder).</p>
+<p>423)	12det Stykke ændres „Protokol"<lb />
+til „Bog".</p>
+<wtitle>Til § 450.</wtitle>
+<p>424) I 1ste Stykke ændres „Fogden"<lb />
+til „Sysselmanden".</p>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>425) Stk. 2 ændres til: „Med den for<lb />
+Fogden foregaaende Forhandling forholdes<lb />
+efter de i Kapitel XXXII indeholdte<lb />
+Reoler".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>426) Underændringsforslag til Udval-<lb />
+gets Ændringsforslag Nr. 425: „Fogden"<lb />
+ændres til „Sysselmanden".</p>
+<p>427) Paragraffens sidste Punktum ud-<lb />
+gaar.</p>
+</leftside>
+<rightside>
+<wtitle>Til § 451.</wtitle>
+<p>428)	„Protokollen" ændres i Linie 4<lb />
+til „Udpantningsbogen" og i Linie 5 til<lb />
+„Bogen".</p>
+<p>429)	„Fogden" ændres til „Sysselman-<lb />
+den". (5 Steder).</p>
+<p>430)	„Fogedretten" i Linie 8 ændres<lb />
+til „ham".</p>
+<p>431)	„ved Kendelse" i Linie 10 udgaar.</p>
+<p>432)	Paragraffens sidste Punktum ud-<lb />
+gaar.</p>
+<wtitle>Til § 452.</wtitle>
+<p>433) I Linie 2 ændres .,4"' foran<lb />
+,,Uger" til „2".</p>
+<wtitle>Til § 453.</wtitle>
+<p>434) Paragraffen affattes saaledes:</p>
+<p>„Klager over en Sysselmands Handle-<lb />
+maade vedrørende Udpantning gøres gæl-<lb />
+dende ved Besværing til højere Øvrighed,<lb />
+Besværing til Retten eller Søgsmaal i første<lb />
+Instans overensstemmende med de i Kap.<lb />
+m. jfr. § 445 givne Regler, saaledes at<lb />
+det 'i § 449, 1ste Stykke, 3die Punktum,<lb />
+ommeldte Skøn i Lighed med det i § 339<lb />
+ommeldte er Genstand for Besværing til<lb />
+Retten.</p>
+<p>Spørgsmaalet om Forauktioneringens<lb />
+Udsættelse, naar Besværing er rejst eller<lb />
+Søgsmaal til Udpantningsforretningens Op-<lb />
+hævelse anlagt, afgøres efter Reglerne i<lb />
+§ 388."</p>
+<wtitle>Til § 454.</wtitle>
+<p>Af Udvalget undtagen Nanke:<lb />
+435) Paragraffen udgaar.</p>
+<wtitle>Til § 455.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>436) Ordene i Linie 2—3: 
+„under et<lb />
+i Medfør af § 453 eller § 454 anlagt Søgs-<lb />
+maal" udgaa. I Linie 5 ændres „alle" til</p>
+<p>„begge".</p>
+</rightside>

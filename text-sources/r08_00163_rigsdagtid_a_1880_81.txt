@@ -1,0 +1,53 @@
+3689
+<pb n="163" />
+<h>
+<coll>3689</coll>
+<topmidle>Forsl. t. L. om Strafferetspleien.</topmidle>
+<colr>3690</colr>
+</h>
+<wtitle>§ 10.</wtitle>
+<p>Alle under denne Lov horende Sager, som ikke ved ovenstaaende Regler ere henlagte<lb />
+til Underretterne, behandles og paakjendes af Landsretterne. Finder Forening af Straffesager<lb />
+Sted, sker Behandlingen og Paakjendelsen ved Landsretten, naar nogen af de forenede Sager<lb />
+ligger udenfor Underrettens Kompetence, og fremdeles, naar den samlede Straf for en Sigtet<lb />
+vilde overskride den ved § 7 dragne Grcmfe.</p>
+<wtitle>§ 11.</wtitle>
+<p>Ved Paakjendelse af de til Landsretten henlagte Sager skulle nævninger medvirke,<lb />
+naar Sagen angaar en Forbrydelse, for hvilken Straffebestemmelsen hjemler Livsstraf eller<lb />
+livsvarigt Strafarbeide, eller nogen af de i Straffelovens Kap. 9—11 omhandlede Forbrydelser.</p>
+<p>fremdeles skulle nævninger i Reglen medvirke i andre til Landsretten henlagte<lb />
+Sager, naar Strafarbeide findes at være forskyld:, medmindre den Sigtede eller, hvis han er<lb />
+personlig umyndig, hans værge vælger Paakjendelse uden nævninger. Er den, der sigtes for<lb />
+en af de i Straffelovens Kap. 23—27 omhandlede Forbrydelser, forhen for en faadan For-<lb />
+brydelse dømt til Strafarbeide, finder den her omtalte medvirkning kun Sted, saafremt Sig-<lb />
+telsen angaar en Forbrydelse, for hvilken Strafarbejde er den laveste Straf, naar den forste<lb />
+Gang begaas, eller der er forlovet 10 Aar efter udstaaelsen af den tidligere Straf, forend<lb />
+den Handling, som Sigtelsen angaar, blev begaaet.</p>
+<p>I de under Landsretten horende Sager, i hvilke de ovenfor forestrevne Betingelser<lb />
+for nævningers medvirkning mangle, kan Landsretten tage et af Anklageren eller den Sigtede<lb />
+fremsat Andragen-de om Sagens Henvisning til nævninger til Folge.</p>
+<wtitle>§ 12.</wtitle>
+<p>Finder Forening af flere Straffesager Sted, deltage nævningerne i Pacckjendelscn<lb />
+naar deres medvirkning udkræves til nogen af de forenede Sager, og fremdeles, naar det paa<lb />
+Grund af den samlede Straf for en Sigtet maatte blive Tilfældet, at Betingelserne i § 11<lb />
+ere tilstede. Dog bor Forening af Sager mod flere Sigtede, som adskilte vilde kræve Paa-<lb />
+kjendelse dels med dels uden nævninger, kun finde Sted, naar særegne Gmnde findes at gjøre<lb />
+Adskillelsen uhensigtsmæssig.</p>
+<wtitle>§ 13.</wtitle>
+<p>Retten prøver i Embeds medfør, om en foreliggende Sag efter foranstaaende Regler<lb />
+horer under dens Virkekreds, og om nævninger skulle medvirke ved Paakjendelsen. Dog<lb />
+bliver herved at iagttage:</p>
+<p>1)  Forsaavidt Afgjørelsen beror paa Etorrelsen af den i det givne Tilfælde forskyldte<lb />
+Straf  eller paa Beskaffenheden af den Sigtedes Forklaringer, har Retten forelsbig at følge<lb />
+Anklagerens skjøn (jfr,  dog § 197) og kan fsrst   efter  endt Hovedforhandling  afvise Sagen<lb />
+af saadan Grund.    Paaanke af Dommen, fordi Rettens skjøn  over de nævnte Omstændig-<lb />
+heder har været urigtigt, er udelukket.</p>
+<p>2)  Afvisning under Hovedforhandlingen kan ikke finde  Sted,   fordi den ved Lands-<lb />
+retten behandlede Sag findes at hore til Underrettens Virkekreds;   ei   heller,   naar   den   til<lb />
+nævninger henviste Sag sindes   at kunne  være paakjendt uden nævninger, medmindre Hen-<lb />
+visningen til nævninger er i Strid med den Sigiedes i medhold af Loven trufne Valg, og<lb />
+Indsigelse gjøres, forend Lodtrækning til Udtagelse af nævninger er begyndt.</p>
+<p>3)  Er ved upaaankelig Afgjørelse Paakjendelse  af en Sag ved Landsretten afstaaren<lb />
+fordi Sagen  er   antagen  at   hore   til Underrettens Virkekreds, er Underretten bunden herved<lb />
+Er ved Afgjørelse ifølge Paaanke en Sags Paakjendelse ved Underretten afstaaren, fordi den<lb />
+er antagen at hore til Landsrettens Virkekreds, er Landsretten bunden herved.</p>

@@ -1,0 +1,39 @@
+2051
+<pb n="10" />
+<h>
+<coll>
+2051
+</coll>
+<topmidle>Bilag til Bet. o. Lovf.om etten Pleje m. m.</topmidle>
+<colr>2052</colr>
+</h>
+<title>
+Bilag.<lb />
+1.
+</title>
+<p>
+Justitsministeriet.
+</p>
+<p>
+København, den 21. Marts 1916.
+</p>
+<p>
+Paa dertil given Foranledning skal man meddele, at Bestemmelserne i<lb />
+§ 8 i Lov om Adgang til Sagførervirksomhed, af 26. Maj 1868, jfr. ogsaa Lovens<lb />
+§ 10 in fine, efter Justitsministeriets Formening medfører, at Underretssagførere<lb />
+ikke har Ret til at have Kontor mere end eet Sted. De paagældende Sagførere<lb />
+er saaledes udelukkede fra baade at have flere Kontorer i samme Jurisdiktion og<lb />
+at have et Kontor i flere Jurisdiktioner. Derimod er de berettigede til at ind-<lb />
+finde sig til opgivne Tider paa Steder udenfor deres Kontor for der at modtage<lb />
+Kunder og yde Assistance.
+</p>
+<signatur>
+Zahle.
+</signatur>
+<signatur>
+V. Topsøe-Jensen.
+</signatur>
+<p>
+Til Landstingets Udvalg angaaende Forslag til Lov<lb />
+om Bettens Pleje.
+</p>

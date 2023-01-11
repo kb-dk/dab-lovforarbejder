@@ -1,0 +1,76 @@
+382
+<pb n="118" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>382</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 516.</wtitle>
+<p>
+I Fogedbogen, henholdsvis den i § 471 omhandlede Bog, optages:
+</p>
+<p>
+1)	Angivelse af Tid og Sted for Forretningen, Parternes Navne, Eksekutionsgrundlagets Beskaffenhed;
+</p>
+<p>
+2)	Betegnelse af Fogden og Vidnerne;
+</p>
+<p>
+3)	Beretning om Forretningens Gang i Almindelighed.
+</p>
+<p>
+I Tilfælde af Tvist optages i Fogedbogen en ordret Angivelse af de fremsatte Påstande. Når Fogden selv foretager Forretningen, eller Forhandling for<lb/>
+Fogedretten i Medfør af § 515, sidste Stykke, finder Sted, lader Fogden derhos i det<lb/>
+Omfang, som af ham skønnes hensigtsmæssigt, Parternes Erklæringer over Sagens<lb/>
+Sammenhæng tilføre Fogedbogen, dog ikke ordret, men kun efter deres væsentlige<lb/>
+Indhold. Det tilførte oplæses og vedkendes.
+</p>
+<wtitle>§ 517.</wtitle>
+<p>
+Udsættelse kan kun undtagelsesvis gives under Forretningen, når ikke Parterne ere enige derom.
+</p>
+<p>
+Derimod kan Fogden beslutte eller tilstå en Standsning i Forhandlingerne,<lb/>
+når Omstændighederne kræve det. Fogden har da ved Bevogtning eller på anden<lb/>
+Måde at træffe de fornødne Foranstaltninger for at opretholde den samme Tilstand,<lb/>
+indtil Forretningen atter fortsættes. Parterne skulle på behørig Måde underrettes<lb/>
+om Tiden herfor.
+</p>
+<p>
+Har Rekvirenten i Medfør af § 508 ikke givet Møde under Forretningen, og<lb/>
+kan han ikke uden Ophold skaffes til Stede, skal Fogden, når han finder, at en<lb/>
+fremsat Indsigelse ikke straks kan forkastes eller tages til Følge, udsætte Forretningen og underrette Parterne om, når den påny foretages, og Rekvirenten har da,<lb/>
+hvis han ønsker Forretningen fremmet, at give Møde til den således fastsatte Tid.<lb/>
+Når Udsættelse finder Sted i Henhold til denne Bestemmelse, kan Fogden træffe<lb/>
+sådan Foranstaltning som i 2det Stykke nævnt.
+</p>
+<p>
+Foretages Eksekutionen af Sognefogden, bliver den altid af ham at fremme<lb/>
+uden Hensyn til fremsatte Indsigelser.
+</p>
+<wtitle>§ 518.</wtitle>
+<p>
+I opstående Tvistigheder afsiger Fogden Kendelse umiddelbart efter Forhandlingernes Slutning eller dog snarest muligt. Er Forretningen foretagen af Sognefogden, træffer Fogden efter Forløbet af 14 Dage fra dens Afholdelse Beslutning om<lb/>
+mulig fremsatte Indsigelser. Finder Fogden en fremsat Indsigelse grundet, berigtiger<lb/>
+han selv eller ved Sognefogden Fejlen eller ophæver ved Kendelse den stedfundne<lb/>
+Forretning i det hele eller for en Del. Forkastes Indsigelsen, stadfæster Fogden Forretningen som endelig. Om Afgørelsen meddeles der Parterne Underretning.
+</p>
+<p>
+Fogdens Kendelser, der skulle være ledsagede af Grunde, indføres fuldstændigt<lb/>
+i Fogedbogen.
+</p>
+<p>
+Deres Fuldbyrdelse kan ikke hindres ved Anke eller Kære.
+</p>
+<p>
+Fogden kan pålægge den Part, der skønnes uden tilstrækkelig Grund at have<lb/>
+givet Anledning til eller unødig at have vidtløftiggjort Proceduren for Fogedretten,<lb/>
+at udrede Sagsomkostninger til Modparten, således at Fuldbyrdelsesfrist med Hensyn<lb/>
+hertil fastsættes i Kendelsen.
+</p>
+<wtitle>§ 519.</wtitle>
+<p>
+I Fogedbogen eller den i § 471 nævnte Bog optegnes nøjagtig alle de enkelte Genstande, hvori Udlæg gøres; ved hver enkelt Genstand tilføjes dens Værdi efter den<lb/>
+stedfundne Ansættelse.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

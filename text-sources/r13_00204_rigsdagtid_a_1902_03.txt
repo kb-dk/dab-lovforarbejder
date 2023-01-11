@@ -1,0 +1,80 @@
+2135
+<pb n="204" />
+<h>
+<coll>
+21
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+21
+</colr>
+</h>
+<p>
+Er en Tiltalt i Medfør af foranstaaende Bestemmelse aftraadt, skal, naar han<lb />
+atter er indladt i Retssalen, Forklaringen, for saa vidt den angaar ham, gentages,<lb />
+eller i alt Fald dens Indhold meddeles ham.
+</p>
+<wtitle>§  904.</wtitle>
+<p>
+Naar Tiltalte fjernes fra Retssalen i Henhold til § 739, kan Forhandlingen<lb />
+fortsættes, hvis Formanden ikke finder en Udsættelse nødvendig.
+</p>
+<p>
+Tiltalte bør i saa Fald, saa snart og saa vidt hans Adfærd gør det muligt, atter<lb />
+indføres i Retssalen og gøres bekendt med det under hans Fraværelse forefaldne; saa<lb />
+bør der og, for saa vidt det efter Forhandlingens Standpunkt endnu er muligt, gives<lb />
+ham Adgang til at fremkomme med, hvad han under almindelige Forhold vilde have<lb />
+haft Lejlighed til.
+</p>
+<wtitle>§  905.</wtitle>
+<p>
+Naar Domsforhandlingen er begyndt, fortsættes den saa vidt muligt uafbrudt,<lb />
+indtil endelig Afgørelse har fundet Sted.
+</p>
+<p>
+Har Forhandlingen været afbrudt, bestemmer Rettens Formand, om og i hvil-<lb />
+ket Omfang det allerede foretagne skal gentages, naar Sagen atter kommer for.
+</p>
+<wtitle>§ 906.</wtitle>
+<p>
+Om Udsættelsesgrunde, som indtræde paa en Tid, da Domsforhandlingen er<lb />
+udsat, paahviler det enhver vedkommende snarest muligt at underrette Rettens For-<lb />
+mand, for at Bestemmelse om Udsættelse om muligt kan tages og Meddelelse til alle<lb />
+vedkommende finde Sted, førend Sagen paa ny skulde have været for.
+</p>
+<wtitle>§  907.</wtitle>
+<p>
+Domsforhandlingen er mundtlig; Skrift anvendes kun i det Omfang, i hvilket<lb />
+Loven særlig bestemmer det.
+</p>
+<p>
+Ved de mundtlige Udtalelser benyttes frit Foredrag; Oplæsning tilstedes kun,<lb />
+for saa vidt Rettens Formand tillader det.
+</p>
+<wtitle>§  908.</wtitle>
+<p>
+Rettens Formand leder Domsforhandlingen. Han bestemmer Rækkefølgen af<lb />
+de enkelte Dele af Forhandlingen, for saa vidt Loven ikke indeholder Forskrifter<lb />
+derom. Ingen maa tage Ordet uden ifølge hans Tilladelse; han kan fratage den Part<lb />
+Ordet, som ikke vil rette sig efter hans Ledelse. Han drager Omsorg for, saa vidt<lb />
+muligt at fjerne alt, hvad der til Unytte trækker Forhandlingen i Langdrag, og slutter<lb />
+Forhandlingens enkelte Dele, naar han anser det foreliggende Emne for tilstrækkeligt<lb />
+behandlet.
+</p>
+<p>
+Om Slutning af Bevisførelsen enten i det hele eller om et enkelt Punkt, førend<lb />
+alle Beviserne ere fremførte, samt om Genoptagelse af en sluttet Bevisførelse, tager<lb />
+Retten Beslutning.
+</p>
+<p>
+Omfatter Sagen flere Forbrydelser, kan Formanden lade Forhandlingen og i<lb />
+Nævningesager Nævningernes Paakendelse foregaa særskilt for hver enkelt Forbrydelse.
+</p>
+<wtitle>§  909.</wtitle>
+<p>
+Opstaar der Spørgsmaal, om nogen Fejl foreligger, der hindrer Sagens Fremme,<lb />
+eller om Overanklageren har Paataleret, kan Forhandlingen begrænses til dette Punkt,<lb />
+indtil Spørgsmaalet har fundet sin Afgørelse.
+</p>

@@ -1,0 +1,130 @@
+2177
+<pb n="352" >
+<p rend="page">352</p>
+<h>
+<coll>2177</coll>
+<colr>2178</colr><lb />
+Oversigt over Grundlovsudkastet.<lb />
+</h>
+<leftside>
+<btitle>
+
+A. Grundlovsudkastet.<lb />
+</btitle>
+<p>
+<law n="68" >§ 68.<lb /></law>
+Ingen kan tilpligtes at afstaae sin Eiendom,<lb />
+uden hvor Almeenvellet kræver det. Det kan<lb />
+kun skee ifølge Lov og mod tilsvarende Erstatning.<lb />
+<law n="69" >§ 69.<lb /></law>
+Alle Indskrænkninger i den frie og lige Adgang til Arbeide, som ikke ere begrundede i<lb />
+det almene Vel, skulle hæves ved Lov.<lb />
+<law n="70" >§ 70.<lb /></law>
+Den, som ikke ved sit Arbeide selv kan ernære sig og Sine, er berettiget til at erholde<lb />
+Hjælp af det Offentlige, dog mod at underkaste sig de Forpligtelser, som Lovene herom<lb />
+paabyde.<lb />
+<law n="71" >§ 71.<lb /></law>
+Den, som ikke selv kan sørge for sine Børns<lb />
+Oplærelse, er berettiget til, at det Offentlige<lb />
+forskaffer dem fri Underviisning i Almueskolen.<lb />
+<law n="72" >§ 72.<lb /></law>
+Enhver er berettiget til ved Trykken at<lb />
+offentliggjøre sine Tanker, dog under Ansvar for<lb />
+Domstolene.<lb />
+<law n="73" >§ 73.<lb /></law>
+Borgerne have Ret til uden foregaaende<lb />
+Tilladelse at indgaae Foreninger i ethvert lovligt Øiemed. Ingen Forening kan ophæves<lb />
+uden ved Dom. Dog kunne Foreninger foreløbigen forbydes, men der skal da strax anlægges Sag mod Foreningen til den Ophævelse.<lb />
+<law n="74" >§ 74.<lb /></law>
+Borgerne have Ret til at samle ubevæbnede. Forsamlinger paa offentligt Sted har<lb />
+Politiet Ret til at overvære. Forsamlinger<lb />
+under aaben Himmel kunne forbydes, naar<lb />
+der af samme kan befrygtes Fare for den offentlige Fred.<lb />
+<law n="75" >§ 75.<lb /></law>
+Ved Opløb tør den væbnede Magt, naar<lb />
+den ikke angribes, kun anvendes, efterat<lb />
+Mængden 3 Gange i Kongens og Lovens Navn<lb />
+forgjæves er opfordret til at adskilles.<lb />
+<law n="76" >§ 76.<lb /></law>
+Enhver vaabenfør Mand er forpligtet til<lb />
+med sin Person at bidrage til Fædrelandets<lb />
+Forsvar.<lb />
+<law n="77" >§ 77.<lb /></law>
+Borgerne ere berettigede til selv at bestyre<lb />
+deres reent communale Anliggender, dog under<lb />
+Statens Tilsyn.<lb />
+<law n="78" >§ 78.<lb /></law>
+Enhver i Lovgivningen til Adel, Titel og<lb />
+Rang knyttet Forret er afskaffet.<lb />
+</p>
+<btitle>
+B. Comiteens (Majoritets) Indstilling.<lb />
+</btitle>
+<p>
+<law n="68" >§ 68.<lb /></law>
+Eiendomsretten er ukrænkelit. Ingen kan<lb />
+tilpligtes at afstaae sin Eiendom, uden hvor<lb />
+Almeenvellet kræver  det. Det kan kun skee<lb />
+ifølge Lov og mod fuldstændig Erftatning.<lb />
+<law n="69" >§ 69.<lb /></law>
+Alle Indskrænkninger i den frie og lige<lb />
+Adgang til Erhverv, som ikke ere begrundede i<lb />
+det almene Vel, skulle hæves ved Lov.<lb />
+<law n="70" >§ 70.<lb /></law>
+Den, som ikke selv kan ernære sig eller<lb />
+Sine, og hvis Forsørgelse ikke paaligger nogen<lb />
+Anden, er berettiget til o. s. v. som Udkastet.<lb />
+<law n="71" >§ 71.<lb /></law>
+De Børn, for hvis Oplærelse Forældrene<lb />
+ikke have Evne til at sørge, ville erholde fri<lb />
+Underviisning i Almueskolen.<lb />
+<law n="72" >§ 72.<lb /></law>
+Trykkefrihed er sikkret under Ansvar for<lb />
+Domstolene, uden nogensinde at kunne indskrænkes ved Censur eller andre præventive<lb />
+Forholdsregler.<lb />
+<law n="73" >§ 73.<lb /></law>
+Borgerne have Ret til uden foregaaende<lb />
+Tilladelse at indgaae Foreninger i ethvert lovligt Øiemed. Ingen Forening kan ophæves<lb />
+ved en Regjeringsforanstaltning. Dog kunne<lb />
+Foreninger foreløbigen forbydes, men der skal<lb />
+da strax anlægges Sag mod Foreningen til<lb />
+dens Ophævelse.<lb />
+<law n="74" >§ 74.<lb /></law>
+Borgerne have Ret til at samles ubevæbnede.<lb />
+Offentlige Forsamlinger har Politiet Ret til at<lb />
+overvære. Forsamlinger under aaben Himmel<lb />
+kunne forbydes, naar der af samme kan befrygtes Fare for den offentlige Fred.<lb />
+<law n="75" >§ 75.<lb /></law>
+Ved Opløb tør den væbnede Magt, naar<lb />
+den ikke angribes, kun indskride, efterat o. s. v.<lb />
+<law n="76" >§ 76.<lb /></law>
+Enhver vaabenfør Mand er forpligtet til<lb />
+med sin Person at bidrage til Fædrelandels<lb />
+Forsvar, efter de nærmere Bestemmelser, som<lb />
+Loven foreskriver.<lb />
+<law n="77" >§ 77.<lb /></law>
+Communernes Ret til, under Statens Tilsyn, selvstændig at styre deres Anliggender vil<lb />
+blive ordnet ved Lov.<lb />
+<law n="78" >§ 78.<lb /></law>
+Enhver i Lovgivningen til Adel, Titel og<lb />
+Rang knyttet Forret er afskaffet. Adel, Rang<lb />
+og Titel kunne fremtidig ikke meddeles Nogen.<lb />
+</p>
+</leftside>
+<rightside>
+<btitle>
+C. Minoritetsindstillinger.<lb />
+</btitle>
+<p>
+<law n="78" >§ 78.<lb /></law>
+a) Adel, Titel og Rang ere afskaffede.<lb />
+b) Enhver i Lovgivningen til Adel, Titel<lb />
+og Rang knyttet Forret er afskaffet. Adel,<lb />
+Rang og Titel kunne fremtidig ikke meddeles<lb />
+Nogen. Den nuværende Adel ophører med<lb />
+de nulevende Adelspersoners Død.<lb />
+</p>
+</rightside>
+
+
+</pb>

@@ -1,0 +1,50 @@
+3539
+<pb n="88" />
+<h>
+<coll>3539</coll>
+<topmidle>Forsl. t, L. om den borgerlige Retspleis.</topmidle>
+<colr>3540</colr>
+</h>
+<title>Kapitel V.</title>
+<undertitle>Om Udeblivelser.</undertitle>
+<wtitle>§ 284.</wtitle>
+<p>med Hensyn til Udeblivelser i de til Skriftvexlingens Ordning og Ledelse bestemte<lb />
+Retsmøder gjælder Reglen i § 164. Iovrigt komme nedenstaaende Regler om Udeblivelser<lb />
+til Anvendelse.</p>
+<wtitle>§ 285.</wtitle>
+<p>Udebliver Sagsogeren fra den mundlige Forhandling i det Retsmode, hvori denne skal begynde,<lb />
+bliver Sagen at afvise. Sagfogte, som har givet Mode, kan derhos efter<lb />
+Paastand faa sig tilkjendt Kost og Tcering, naar han godtgjør, at han i rette Tid har til-<lb />
+stillet Sagfogeren sin Sagsfremstilling.</p>
+<p>Har Sagsogeren forsomt i rette Tid at afgive sin Sagsfremstilling, kan Sagssgte,<lb />
+hvis Retten ikke finder Grund til at give Udsættelse ifolge § 170 i Slutningen, forlange, at<lb />
+han skal anses som udebleven, selv om han indfinder sig i Retsmodet.</p>
+<wtitle>§ 286.</wtitle>
+<p>møder Sagsogte ikke til den mundtlige Forhandling af Sagen i det Retsmode,<lb />
+hvori denne skal begynde, uagtet han fes paa behorig Maade at være kaldet til Modet, har<lb />
+Retten at anse de i Sagsogerens mundtlige Fremstilling og Udvikling af Sagen anforte<lb />
+Kjendsgjerninger for sande og afsige Dom i Overensstemmelse med den i hans Sagsfrem-<lb />
+stilling indeholdte Paastand, forsaavidt de ere i Stand til at begrunde denne og ikke ere i<lb />
+Strid med eller ligge helt udenfor hans strifllige Sagsfremstilling. Iovrigt kan Retten,<lb />
+hvor den dertil finder Anledning, i den udeblevne Sagfogtes Interesse opfordre Sagssgeren<lb />
+til at erklære sig noiere angaaende Sagens Sammenhæng.</p>
+<p>Har Sagsogte forfsmt i rette Tid at tilstille Sagssgeren sin Sagsfremstilling, kan<lb />
+denne, hvis Retten ikke sinder Grund til at give Udsættelse ifolge § 170 i Slutningen, for-<lb />
+lange, at han skal anses som udebleven,  selv om han indfinder sig i Retsmodet.</p>
+<wtitle>§ 287.</wtitle>
+<p>Dersom det fremgaar af Forkyndelsespaategningen paa Klagestriftet, at Sagssgte<lb />
+vcd dets Forkyndelse angaves at være fraværende paa længere Tid fra sin Bopæl, skal Ret-<lb />
+ten være bemyndiget til ikke strar at lade de i foregaaende Paragraf ommeldte følger as<lb />
+Sagsogtes Udeblivelse indtræde, men den kan udfætte Sagen, ligesom den ogsaa tillige efter<lb />
+Omstændighederne kan paalægge Sagssgeren at iværksætte en ny Forkyndelse af Klagestriftet<lb />
+med et af Retten nærmere bestemt Varsel.</p>
+<wtitle>§ 288.</wtitle>
+<p>Naar en Part udebliver i det i § 150 omhandlede Retsmode, hvis Hensigt er at<lb />
+forberede Bevisførelsen, anses han som den, der ikke onfker Vidner indkaldte, Synsmænd<lb />
+udmeldte eller Modparten afhort, medens han Paa den anden Side fortaber de Indsigelser,<lb />
+han kunde gjøre mod Modpartens Begjæringer i saa Henseende.</p>
+<p>Dog er han ikke udelukket fra senere at andrage paa at maatte fremføre nye Be-<lb />
+viser, hvor dette maatte finde Hjemmel i Grundsætningerne i § 182.</p>
+<p>Naar Beviser skulle optages udenfor den Ret, hvor Hovedsagen behandles, forhindrer<lb />
+Udeblivelse af den Bevisførendes Modpart ikke, at Bevishandlingen fremmes. Udebliver den<lb />
+Bevisforende, bortfalder Bevisets Forelse.</p>

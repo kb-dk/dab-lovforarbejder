@@ -1,0 +1,178 @@
+3359
+<pb n="75" />
+<h>
+<coll>3359</coll>
+<topmidle>Sagregister (henviser til §§ og Kap. i Udk. t. L. om Domsmagtens Ordning).</topmidle>
+<colr>3360</colr>
+</h>
+<p>
+Politistationer .,			 			90
+</p>
+<p>
+Prøver, Sagfører- — ...... .									 96
+</p>
+<p>
+Retsafgifter 			 3, 11, 18, 20
+</p>
+<p>
+Retsbude 	.	 41, 42
+</p>
+<p>
+Retsbøgers Autorisation og Indretning 								27
+</p>
+<p>
+Retsferie 			 13, 26
+</p>
+<p>
+Retsskrivere 							3, 11, 18, 20, 38—40
+</p>
+<p>
+Retterne 				 		 Kap. I
+</p>
+<p>
+Rigsanklager 			 76—78, 80—83
+</p>
+<p>
+Rigsret 					 ..................... 1
+</p>
+<p>
+Sagførere 		 Kap. IX-XI, jvf. 121 og 81-82
+</p>
+<p>
+Sagførerfuldmægtige 	 103 jvf. 101 og 102
+</p>
+<p>
+Sagførerprøve 								96
+</p>
+<p>
+Sagførervirksomhed uforenelig med visse Embedsstillinger 				 82
+</p>
+<p>
+Sessioner, Højesterets —												 4
+</p>
+<p>
+Sessionsretter ....... 				1
+</p>
+<p>
+Skibsrederes (kbhvnske) Konkursboer									17
+</p>
+<p>
+—	(ikke kbhvnske) — 						 21
+</p>
+<p>
+Skifteforvaltere, Skiftevæsen 	 17, 18, 20
+</p>
+<p>
+Skiftekoxnxnissarier 							25
+</p>
+<p>
+Skøde- og Panteprotokoller 	 18, 20, 115
+</p>
+<p>
+Sognefoged 							 			 20, 89
+</p>
+<p>
+Sparekasselovens § 8 								25
+</p>
+<p>
+Statskassen, Bøder m. m. tilfalde 		 53, 59, 69, 97
+</p>
+<p>
+Strafansvar for Dommere 			 33
+</p>
+<p>
+—	for Retsskrivere					40
+</p>
+<p>
+—	for Sagførere	 107—110
+</p>
+<p>
+Straffelovens § 144 		 109
+</p>
+<p>
+—	§§ 253, 254 	 111
+</p>
+<p>
+Straf for Forsømmelse m. H. t, Nævningelisters Tilvejebringelse 				59
+</p>
+<p>
+—	for Nævninger, der udeblive etc. .................................... 69—70
+</p>
+<p>
+Straffesager, Landsrets-Ting til Behandling af 						12
+</p>
+<p>
+Stævningsmænd 						42, 43
+</p>
+<p>
+Suppleanter til Nævningehvervet 								50, 57
+</p>
+<p>
+Suspension, Dommeres 													36
+</p>
+<p>
+Syns- og Skønsmænds Udmeldelse uden for Retsplejen 					 6, 16
+</p>
+<p>
+Sæde, Højesterets 								2
+</p>
+<p>
+—	, Landsretternes 	 5 jvf. 12
+</p>
+<p>
+Sættedommere 			 31
+</p>
+<p>
+Søforklaringer ved Landsret 						9
+</p>
+<p>
+Søkyndige Dommere ved Landsret 				 9
+</p>
+<p>
+—	— ved Kbhvn.s Stadsret 						17
+</p>
+<p>
+—	— ved Underret uden for Kbhvn		21
+</p>
+<p>
+Søndage 						26
+</p>
+<p>
+Søsager ved Landsret 								9
+</p>
+<p>
+—	ved Kbhvn.s Stadsret 								17
+</p>
+<p>
+—	ved Underret uden for Kbhvn.								21
+</p>
+<p>
+—	, almindelige Regler .... 							 9, 24
+</p>
+<p>
+Tiden for Højesterets Møder 										4
+</p>
+<p>
+—	for Landsrets Møder 								 12,	13
+</p>
+<p>
+—	for Kbhvn.s Stadsrets Møder 			,	 	 ....	19
+</p>
+<p>
+—	for By- og Herredsretters Møder 		23
+</p>
+<p>
+Tiendevederlags Berigtigelse 	 				 6,	16
+</p>
+<p>
+Ting 		 								12
+</p>
+<p>
+Tinglæsningsvæsen 			....,		 6, 16, 18 20,	22
+</p>
+<p>
+Tingsteder, Underretternes				22
+</p>
+<p>
+—	, Landsretternes 						12
+</p>

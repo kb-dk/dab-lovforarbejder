@@ -1,0 +1,72 @@
+2989
+<pb n="175" />
+<h>
+<coll>
+2989
+</coll>
+<topmidle>
+F. t. L.  Rettens Pleje.
+</topmidle>
+<colr>
+2990
+</colr>
+</h>
+<p>
+tilbageholde saadanne Forsendelser, indtil Rettens Afgørelse faas, dog ikke for et<lb />
+længere Tidsrum end tre Dage.
+</p>
+<p>
+Under Betingelser svarende til dem, som ovenfor er angivne, kan det paa-<lb />
+lægges Telegrafvæsenets Funktionærer henholdsvis at tilbageholde og meddele Retten<lb />
+eller foreløbig at tilbageholde Telegrammer.
+</p>
+<wtitle>§ 751.</wtitle>
+<p>
+Ting, som er tagne i Bevaring, skal snarest muligt nøjagtig optegnes og<lb />
+mærkes med Embedssegl eller paa anden fyldestgørende Maade. Saavel Sigtede som<lb />
+den, i hvis Værge Tingene var, kan vedføje yderligere Mærke, og der bør, saa vidt<lb />
+det er muligt og kan ske uden Skade for Undersøgelsen, gives dem Lejlighed til at<lb />
+overvære Mærkernes Aftagelse. Den, i hvis Værge Tingene var, kan kræve Mod-<lb />
+tagelsesbevis.
+</p>
+<wtitle>§ 752.</wtitle>
+<p>
+Det første Gennemsyn af Papirer, som beslaglægges, saavel som Aabning af<lb />
+Breve og andre lukkede Dokumenter skal, naar vedkommende ikke samtykker i Af-<lb />
+vigelse herfra, iværksættes af Retten. For saa vidt det er muligt og kan ske uden<lb />
+Skade for Undersøgelsen, skal der gives Sigtede og andre vedkommende Lejlighed til<lb />
+at være til Stede. Naar nogen af disse ønsker det, og ingen særlig Retsskriver er til<lb />
+Stede, skal Retsvidne tilkaldes.
+</p>
+<p>
+Kan som Følge heraf Gennemsyn af Papirer ikke finde Sted straks ved Be-<lb />
+slaglæggelsen, bliver de foreløbig at forvare i forseglet Omslag.
+</p>
+<wtitle>§ 753.</wtitle>
+<p>
+Retten drager Omsorg for, at de af Post- eller Telegrafvæsenet udleverede<lb />
+Forsendelser eller Telegrammer, hvis Aabning ikke findes nødvendig, eller hvis indhold<lb />
+viser sig at være uden Betydning for Sagen, eller den Del af Indholdet, som maatte<lb />
+være Sagen uvedkommende, befordres videre efter sin Bestemmelse, samt at Under-<lb />
+retning om, hvad cler holdes tilbage, meddeles vedkommende, saa snart det kan ske<lb />
+uden Skade for Undersøgelsen. Under samme Betingelse skal Underretning gives,<lb />
+naar private Dokumenter er udleverede i Medfør af § 749, 2det Stykke.
+</p>
+<wtitle>§ 754.</wtitle>
+<p>
+Ting, som er fravendte nogen ved en Forbrydelse eller er Udbyttet af saa-<lb />
+danne Ting, bliver, senest naar Sagen er endelig sluttet, at udlevere rette vedkom-<lb />
+mende. Andre Ting, som er beslaglagte for at tjene som Bevismidler, skal tilbage-<lb />
+gives, naar de ikke længere behøves. Den, som er interesseret i Tilbagegivelsen, kan<lb />
+derom æske Kendelse.
+</p>
+<title>Kapitel 69.</title>
+<undertitle>
+Ransagning.
+</undertitle>
+<wtitle>§ 755.</wtitle>
+<p>
+Ransagning af en Sigtets Bolig eller andre Rum, Gemmer eller Person for at<lb />
+søge efter Spor af Forbrydelsen eller efter Ting, som er Genstand for Beslaglæggelse,<lb />
+kan finde Sted, naar
+</p>

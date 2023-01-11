@@ -1,0 +1,78 @@
+2309
+<pb n="203" />
+<h>
+<coll>
+2309
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2310
+</colr>
+</h>
+<p>
+Vedrører Mangler kun Formen, maa Nævningerne intet forandre i Erklærin-<lb />
+gens Indhold; ligeledes skulle de Svar, hvis Berigtigelse eller Fuldstændiggørelse ikke<lb />
+fordres, forblive uforandrede. Utilstedelige Ændringer maa ikke tages i Betragtning<lb />
+af Retten.
+</p>
+<p>
+Berigtigelsen eller Fuldstændiggørelsen vedføjes saaledes, at det træder tyde-<lb />
+lig frem, hvorledes den oprindelige Erklæring har lydt.
+</p>
+<p>
+Den her omhandlede Forholdsregel kan træffes, saa længe Retten ikke har<lb />
+afsagt Dom.
+</p>
+<wtitle>§ 881.</wtitle>
+<p>
+Ogsaa udenfor de i det foregaaende særlig nævnte Tilfælde kan Retten, saa<lb />
+længe Dom ikke er afsagt, beslutte at forandre Spørgsmaal eller at stille ny Spørgs-<lb />
+maal; forinden saadan Bestemmelse træffes, maa der være givet Parterne Lejlighed<lb />
+til at ytre sig.
+</p>
+<wtitle>§ 882.</wtitle>
+<p>
+Have Nævningerne erklæret, at Tiltalte ikke er skyldig, afsiger Retten,<lb />
+for saa vidt Reglen i § 883 ikke finder Anvendelse, straks Frifindelsesdom. Hertil<lb />
+henregnes ogsaa det Tilfælde, at Nævningerne vel have besvaret Hovedspørgsmaalet<lb />
+bekræftende, men tillige have givet et for Tiltalte gunstigt Svar paa et Tillægsspørgs-<lb />
+maal om en Omstændighed, som udelukker Straf (§ 869).
+</p>
+<p>
+Retten kan ligeledes straks afsige Frifindelsesdom. naar den allerede da er<lb />
+paa det rene med. at Tiltalte ifølge Loven ikke kan straffes for et Forhold som det, i<lb />
+hvilket han ifølge den i Spørgsmaalene givne Beskrivelse af Gerningen og Nævningernes<lb />
+Svar paa disse er erklæret skyldig.
+</p>
+<wtitle>§ 883.</wtitle>
+<p>
+Hvor Nævningernes Erklæring gaar ud paa, at Tiltalte er skyldig, men Retten<lb />
+finder, at Sagens Bevisligheder ikke have afgivet tilstrækkeligt Grundlag for at fælde<lb />
+Tiltalte for den Forbrydelse, i hvilken Nævningerne have erklæret ham skyldig, eller<lb />
+er det omvendte Tilfældet, kan den ved Kendelse beslutte, at en ny Domsforhandling<lb />
+skal foregaa. Beslutningen træffes i Embeds Medfør, uden at Parterne have Adgang<lb />
+til derom at fremsætte Begæring, og kan træffes, saa længe Dom ikke er afsagt,
+</p>
+<wtitle>§ 884.</wtitle>
+<p>
+Ny Domsforhandling, som besluttes i Medfør af forrige Paragraf, bliver at<lb />
+foretage, enten paa samme eller paa et senere Ting, for andre Dommere og andre<lb />
+Nævninger. Indtil Nævningeerklæring under den ny Sag er afgiven, kan Rigsankla-<lb />
+geren beslutte at frafalde Tiltale, i hvilket Tilfælde Frifindelsesdom bliver at afsige.
+</p>
+<p>
+Erklære under den ny Domsforhandling Nævningerne atter, at den Tiltalte ikke<lb />
+skyldig, afsiger Retten Frifindelsesdom. Falder ogsaa den ny Domsforhandling ud<lb />
+til en fældende Nævningeerklæring, kan Retten, naar den finder, at Beviset er util-<lb />
+strækkeligt til at fælde Tiltalte for den Forbrydelse, i hvilken Nævningerne have er-<lb />
+klæret ham skyldig, afsige Frifindelsesdom eller, naar den finder det godtgjort, at Til-<lb />
+talte er skyldig i en mindre Forbrydelse end den, Nævningernes Erklæring lyder paa,<lb />
+afsige Dom i Overensstemmelse hermed; Bestemmelsen i sidste Punktum af § 886 finder<lb />
+herved tilsvarende Anvendelse.
+</p>
+<p>
+Under den ny Sag kan der ikke forelægges Nævningerne noget Spørgsmaal,<lb />
+som sigter paa en strængere Straf, end Tiltalte vilde have været hjemfalden til, saa-<lb />
+fremt den første Nævningeerklæring var bleven tagen for gyldig, medmindre Betingelser<lb />
+foreligge for Genoptagelse.
+</p>

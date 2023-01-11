@@ -1,0 +1,77 @@
+410
+<pb n="<span class="result">416</span>" />
+<leftside>
+<p>gjør en tilsvarende Undtagelse for civile Embedsog Bestillingsmænds Vedkommende.</p>
+<p>I § 469 omhandles det Spørgsmål, i<lb />
+hvilket Omfang der kan gjøres Exekution i Domfældtes Rettigheder og Fordringer på Andre.<lb />
+Det udtales først, at Erektion kun kan gjøres<lb />
+i Rettigheder, som på den Tid, Forretningen<lb />
+foretages, alt ere erhvervede, derimod ikke i<lb />
+fremtidige Erhvervelser, med Hensyn til hvilke<lb />
+dette ikke er Tilfældet, såsom ventendes Arv.<lb />
+Derefter fremhæves særligt, at Erekution kan<lb />
+iværksættes i Domfældtes Fordringer på Andre, selv om de ere betingede eller endnu<lb />
+ikke forfaldne, når de dog kunne angives og<lb />
+betegnes med tilstrækkelig Bestemthed. Dette<lb />
+stemmer med, hvad der antages at være gjældende Ret. Imidlertid er det en Selvfølge,<lb />
+at Skylderklæringen, selv når Talen er om<lb />
+Fordringer, der udspringe af rent ensidige Kontrakter eller af gjensidige Kontrakter, som ere<lb />
+opfyldte fra den ene Side, kan være af et<lb />
+sådant Indhold, at Exekution er udelukket.<lb />
+Udkastet, der forsåvidt må ansees for stEmmende med den gjældende Ret, hævder nemlig<lb />
+den almindelige Grundsætning, at Gods eller<lb />
+Rettigheder, som ellers ifølge deres Natur kunde<lb />
+være Gjenstand for Exekution, i Henhold til<lb />
+retsgyldige Bestemmelser af eller Retshandler med<lb />
+Trediemand kUnne være undtagne fra Kreditorers<lb />
+Forfølgning (§ 470). Det er herved forudfat,<lb />
+at det ikke fom almindelig Betingelse for slige<lb />
+Bestemmelsers Retsgyldighed kan fordres, at<lb />
+der er givet dem en særlig Stadfæstelse fra<lb />
+Statsmagtens Side. men at de indenfor visse<lb />
+Grænser må kunne retsgyldig træffes i Henhold til den almindelige Kontraksfrihed. Overhovedet må der i samme Udstrækning, hvori<lb />
+Afhændelse af en Gjenstand eller Rettighed<lb />
+kan forbydes, også retsgyldig kunne lægges<lb />
+det Bånd på den, at den skal være udelukket fra Kreditorers Forfølgning. I Overensstemmelse med denne Grundsætning vil der<lb />
+også kunne gives en Skylderklæring et sådant Indhold, at der ikke kan gjøres Udlæg i<lb />
+Fordringen. Særdeles hyppigt ville sådanne<lb />
+Skylderklæringer udgå fra offentlige Instituter, såsom Livrente- og Livsforsikringsanstalter, jfr. herved den i § 473 givne Bestemmelse om  Livrenter, Livsforsikringssummer</p>
+</leftside>
+<rightside>
+<p>og lignende Indtægter; men der er selvfølgelig<lb />
+i og for sig ikke Noget til Hinder for, at<lb />
+også et Retsforhold mellem to Privatmænd<lb />
+kan hvile på en således begrænset Skylderklæring, at pågjældende Fordring må ansees<lb />
+for retsgyldig undtagen fra Erekntion. I de<lb />
+to sidste Stykker af §469 omhandles særligt det<lb />
+Spørgsmål, hvorvidt Domhaveren kan gjøre<lb />
+Exekution i Rekuisiti Rettigheder ifølge sådanne gjensidig bebyrdende Retshandler, som<lb />
+endnn ikke fra dennes Side ere fuldstændig<lb />
+opfyldte. Udkastets Regler herom stemme<lb />
+ganske med Konkurslovens § 161.</p>
+<p>Det har hidtil været den almindelige<lb />
+Mening, at det Spørgsmål, om der kan<lb />
+gjøres Exekution i Embedsmænds Lønninger,<lb />
+må besvares på samme Måde som Spørgsmålet om Gxekution i Arbejderes og Tjenestefolks kontraktmæssig betingede Len. Endstjønt<lb />
+denne Opfattelse neppe kan ansees for rigtig,<lb />
+har Kommissionen dog troet, at der er Grund<lb />
+til ogfå at undtage ikke forfalden Embedsog Bestillingsløn fra Gxekution, se § 471,<lb />
+hvis Regel herom går noget videre end den<lb />
+gjældende Ret, navnlig forsåvidt den ikke<lb />
+blot omfatter Statens Embeds- og Bestillingsmænd, mm også dem, der stå i Kommuners Tjeneste. De Hensyn, på hvilke<lb />
+Reglen er bygget, må nemlia erkjendes i det<lb />
+Væsentlige at have samme Berettigelse for<lb />
+begge de nævnte Klassers Vedkommende.</p>
+<p>Når Udkastets § 471 ved Siden af Embeds- eller Bestillingsløn nævner „lignende<lb />
+Indtægter”, sigtes herved til Indtægter, som<lb />
+tilkomme private Bestillingsmænd, hvis Retsstilling i Henseende til deres Lønning må<lb />
+bestemmes efter lignende Regler som de, der<lb />
+gjælde om Embedsmænd, f. Ex. Direkteurer<lb />
+ved en Bank, Kontorchefer ved en Kreditforening. Om et vist Forhold bliver at henføre herunder, eller om det må ansees for et<lb />
+ligefremt gjenfidigt Kontraktsforhold, er et<lb />
+Spørgsmål, hvis Besvarelse vistnok kan frembyde Tvivl; men dette er forsåvidt uden<lb />
+Betydning, som Exekutionsfrihed også under<lb />
+sidstnævnte Forudsætning har Hjemmel i Udkastet, nemlig i § 469.</p>
+<p>Endelig er den om Gmbedslønninger givne<lb />
+Regel gjort anvendelig på Ventepenge, Pen-</p>
+</rightside>

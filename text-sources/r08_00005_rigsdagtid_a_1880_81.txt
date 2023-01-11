@@ -1,0 +1,52 @@
+3373
+<pb n="5" />
+<h>
+<coll>3373</coll>
+<topmidle>Forsl. t. L. om Ordningen af Domsmagicn, den offentlige Anklagemyndighed m. m.</topmidle>
+<colr>3374</colr>
+</h>
+<wtitle>§ 20.</wtitle>
+<p>Landsretternes særlige Afdelinger sammentræde dels i regelmæssig tilbagevendende<lb />
+Samlinger, dels i møder imellem Samlingerne.</p>
+<p>Den nordsjællandske Landsrets fsrste særlige Afdeling holder regelmcessige Samlinger<lb />
+i kjøbenhavn een Gang i Levet af hver Maaned.</p>
+<p>Den nordsjællandfle Landsrets anden særlige Afdeling holder regelmæssige Samlinger<lb />
+een Gang hver tredie Maaned paa de Steder i Afdelingskredsen, som fastsættes ved bekjendt«<lb />
+gjørelse af Institsministeren. Paa Bornholm finder dog. naar Forholdene lægge Hindringer<lb />
+i Peien. ingen Samling Sted i Vintermaanederne.</p>
+<p>De øvrige Landsretters særlige Afdelinger holde regelmæssige Samlinger een Gang<lb />
+hver tredie Maaned dels ved Rettens Hovedsæde. dels paa andre Steder i Landsretskredsen,<lb />
+som fastsættes ved Bekjendtgjørelse af Justitsministeren.</p>
+<p>Ved Bekjendtgjørelse af Justitsministeren fastsættes fremdeles Tiden for de nævnte<lb />
+Samlingers Begyndelse, følgeordenen mellem de Steder, hvor Samling skal holdes, samt de<lb />
+Dele af Kredsen, som henlægges til de forskjellige Samlingssteder.</p>
+<p>I de ovenmeldte Samlinger behandles Straffesager, som ere henviste til Hovedfor-<lb />
+handling med eller uden nævninger, eller i hvilke der ifølge Paaanke fra Underretten skal sinde<lb />
+Hovedforhandling med ny Bevisførelse Sted, fremdeles paa Bornholm de borgerlige Rets-<lb />
+trætter, som maatte være henviste til den nordsjællandske Landsrets anden særlige Afdeling, og<lb />
+i hvilke Bevisførelse er berammet. nævningesager vebandles fsrst; dog kunne andre Sager<lb />
+indskydes, naar det kan ske uden Forhaling for nævningesagerne.</p>
+<p>Ved Samlingerne udenfor Rettens Hovedsæde medfølger det fornødne Skriverpersonale<lb />
+fra Landsrettens Skriverkontor.</p>
+<wtitle>§ 21.</wtitle>
+<p>Ved de særlige Afdelingers Møde mellem Samlingerne blive nævningesager ikke be-<lb />
+handlede.    møderne holdes ved Rettens sæde og bestemmes paa den i § 19 angivne Maade.</p>
+<wtitle>§ 22.</wtitle>
+<p>Ferer et medlem af Landsretten Forundersøgelsen i en Straffesag, berammer han Tid<lb />
+og Sted for Retsmøders Afholdelse overensstemmende med Reglerne i Loven om Straffe«<lb />
+retspleien.</p>
+<title>III.</title>
+<undertitle>Underretter.</undertitle>
+<wtitle>§ 23.</wtitle>
+<p>kjøbenhavn med kjøbenhavns Amtsraadskreds (§ 2) henlægges under kjøbenhavns<lb />
+Siadsret.    Hver  af de andre i § 2 nævnte Kredse henlægges under en By- og Herredsret</p>
+<p>eller Herredsret.</p>
+<wtitle>§ 24.</wtitle>
+<p>Underrettens Virkekreds omsatter Behandling og Paakjendelse af Retssager samt Fore-<lb />
+tagelse af Retshandlinger i det Omfang, som bestemmes ved Lovene om den borgerlige Rets-</p>
+<p>pleie og Strafferetspleien.</p>
+<wtitle>§ 25.</wtitle>
+<p>Til Underretternes Virkekreds henhører fremdeles udenfor den egentlige Retspleie:<lb />
+a)   Thinglæsninasvæsenet;<lb />
+b)  Formandskabet i Landvcesenskommissioner  overensstemmende med Lov af 30te Decbr.</p>
+<p>1858 § 2;</p>

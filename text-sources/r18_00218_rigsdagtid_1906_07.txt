@@ -1,0 +1,66 @@
+4075
+<pb n="218"/>
+<h>
+<coll>4075</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>4076</colr>
+</h>
+<p>
+Vidner eller Tiltalte afhøres, sker Afhørelsen ved vedkommende Undersøgelsesret over-<lb />
+ensstemmende med Reglerne om retslig Forundersøgelse i Kapitel 71, medmindre<lb />
+Retten anser det nødvendigt til Sagens fuldstændige Oplysning selv at modtage de paa-<lb />
+gældende Forklaringer; Retten kan bestemme, at retslig Forundersøgelse skal finde Sted.
+</p>
+<p>
+Hvor Begæringen om Genoptagelse er støttet paa, at et saadant strafbart For-<lb />
+hold er begaaet, som nævnt i § 937 Nr. 2, jfr. § 938 Nr. 2, men en Straffesag, som<lb />
+derom er rejst, endnu ikke er afsluttet, bliver, om fornødent, Afgørelsen at udsætte,<lb />
+indtil saadan Straffesag er endt.
+</p>
+<p>
+Beslutninger vedrørende Forberedelsen af Forhandlingen af en Begæring om<lb />
+Genoptagelse kunne i lignende Omfang som bestemt for Ankesagers Vedkommende<lb />
+træffes af Landsrettens Formand eller Højesterets Justitiarius.
+</p>
+<wtitle>§ 943.</wtitle>
+<p>
+Retten afgør ved Kendelse, om Begæringen skal tages til Følge eller for-<lb />
+kastes ; tages den til Følge, gaar Kendelsen ud paa, at ny Domsforhandling skal finde<lb />
+Sted. Dog kan Retten efter Omstændighederne, naar den finder en Begæring om<lb />
+Genoptagelse til Fordel for Domfældte begrundet, og Paatalemyndigheden indvilliger deri,<lb />
+straks uden ny Domsforhandling afsige Frifindelsesdom eller Dom, hvorved en mildere<lb />
+Straffebestemmelse bringes i Anvendelse. Er Domfældte død. skal Retten altid uden<lb />
+ny Domsforhandling enten forkaste Begæringen om Genoptagelse eller afsige Dom,<lb />
+hvorved den ældre Dom ophæves.
+</p>
+<wtitle>§ 944.</wtitle>
+<p>
+Den ny Domsforhandling foregaar ved den Landsret, som tidligere har dømt<lb />
+i Sagen. Den forberedes og fremmes overensstemmende med de almindelige om Doms-<lb />
+forhandling for Landsret givne Regler; om Nævninger skulle medvirke, bestemmes<lb />
+efter Reglerne i § 665. Ingen Dommer eller Nævning, som har gjort Tjeneste under<lb />
+den tidligere Sag, maa medvirke ved den ny Domsforhandling.
+</p>
+<wtitle>§ 945.</wtitle>
+<p>
+Hvor Genoptagelse er tilstaaet alene efter Begæring af Domfældte eller nogen<lb />
+af de i § 902, 2det og 3die Punktum, nævnte Personer, maa den ny Dom ikke i noget<lb />
+Punkt afvige fra den tidligere Dom til Skade for ham. I andre Tilfælde maa saadan<lb />
+Afvigelse ikke ske for de Punkters Vedkommende, som ikke berøres af Genoptagelses-<lb />
+grunden.
+</p>
+<wtitle>§ 946.</wtitle>
+<p>
+Mod en Kendelse af en Landsret, hvorved Genoptagelse er tilstaaet eller nægtet<lb />
+af en Sag, der kun ifølge Anke har været paadømt ved Landsretten, kan Kæremaal<lb />
+ikke rejses, medmindre Højesteret eller Justitsministeren undtagelsesvis meddeler Til-<lb />
+ladelse hertil (§ 929, 3. Stk.).
+</p>
+<wtitle>§ 947.</wtitle>
+<p>
+Begæring om Genoptagelse medfører ikke Udsættelse eller Standsning af<lb />
+Dommens Fuldbyrdelse, medmindre Retten bestemmer det modsatte; det samme gælder<lb />
+om Beslutning om Genoptagelse, der træffes i Henhold til § 937. Er Genoptagelse<lb />
+besluttet i Henhold til § 938, bliver Fuldbyrdelsen altid at udsætte eller standse, hvis<lb />
+Domfældte begærer det.
+</p>

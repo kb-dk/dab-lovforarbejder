@@ -1,0 +1,67 @@
+2317
+<pb n="90" />
+<h>
+<coll>2317</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2318</colr>
+</h>
+<p>
+Sagen paa ny, naar ny Stævning indgives paa Rettens Kontor til Sagens Berammelse<lb/>
+inden 14 Dage fra det Retsmøde, hvor Sagen blev hævet eller afvist. Denne Ret kan<lb/>
+kun benyttes een Gang.
+</p>
+<wtitle>§ 391.</wtitle>
+<p>
+Paa den berammede Tægtedag skal Appellanten møde og fremlægge Anke-<lb/>
+stævningen. Undlader han dette, afvises Sagen, og der tilkendes den Indstævnte, der<lb/>
+har givet forgæves Møde, Sagsomkostninger. Samme Virkning har Appellantens Ude-<lb/>
+blivelse eller Undladelse af at foretage de til Sagens Fortsættelse hørende Skridt ved<lb/>
+senere Retsmøder, saafremt Domsforhandlingen ikke er berammet, eller ved selve<lb/>
+Domsforhandlingen.
+</p>
+<wtitle>§ 392.</wtitle>
+<p>
+Udebliver Indstævnte, skønt lovlig varslet, og Appellanten begærer Sagen<lb/>
+fremmet, udgaar den til skriftlig Behandling.
+</p>
+<p>
+Appellanten kan dog i Stedet herfor begære Sagen udsat og skal da lade for-<lb/>
+kynde en Udskrift af det i Retsmødet forefaldne for Modparten med et af Retten<lb/>
+fastsat Varsel.
+</p>
+<p>
+Ovenstaaende Bestemmelser komme ogsaa til Anvendelse, naar Indstævnte ude-<lb/>
+bliver i et senere Retsmøde, uden at have afgivet noget Svar i Sagen, eller udebliver<lb/>
+ved Domsforhandlingen, i hvilket sidste Tilfælde derhos det, som han allerede maatte have<lb/>
+fremført for Højesteret, lades ude af Betragtning. At Indstævnte, efter at have svaret<lb/>
+i Sagen, udebliver i andre Retsmøder end det, hvori Domsforhandlingen finder Sted,<lb/>
+berettiger ikke til at anvende Bestemmelsen i nærværende Paragrafs 1ste Stykke og<lb/>
+afskærer ikke Indstævnte fra senere at møde i Sagen.
+</p>
+<wtitle>§ 393.</wtitle>
+<p>
+Møder Indstævnte uden at rejse Indsigelse, optages Sagen efter Begæring til<lb/>
+Domsafsigelse.
+</p>
+<wtitle>§ 394.</wtitle>
+<p>
+Vil Indstævnte fremsætte Formalitetsindvendinger mod Ankesagen, eller ønsker<lb/>
+han, uden selv at paaanke, Dommen forandret eller ophævet, skal han i det nævnte<lb/>
+første Retsmøde fremlægge en skriftlig Angivelse af bemeldte Indvendinger eller af<lb/>
+sine Ankegrunde samt den Paastand, som han agter at nedlægge. Ønsker Indstævnte<lb/>
+blot Dommen stadfæstet, er det tilstrækkeligt, at han mundtlig erklærer dette.
+</p>
+<p>
+Naar Indstævnte har afgivet sit Svar, tager Retten efter Appellantens Begæring<lb/>
+Bestemmelse om Tiden for Domsforhandlingen — der dog ikke uden begge Parters<lb/>
+Samtykke maa ansættes tidligere end 4 Uger efter Retsmødet — for saa vidt der ikke<lb/>
+ifølge Sagens Beskaffenhed efter eller uden Opfordring fra Parternes Side findes An-<lb/>
+ledning til at bestemme, at den skal forhandles skriftlig.
+</p>
+<wtitle>§ 395.</wtitle>
+<p>
+Paastande eller Anbringender, der ligge udenfor den ved Landsretten sted-<lb/>
+fundne Procedure, kunne ikke fremsættes uden Modpartens Samtykke; dog kan Retten<lb/>
+tilstede deres Fremsættelse, naar det findes undskyldeligt, at de ikke tidligere ere<lb/>
+fremkomne, og deres Afskæreise vilde medføre et uforholdsmæssigt Tab for Parten.
+</p>

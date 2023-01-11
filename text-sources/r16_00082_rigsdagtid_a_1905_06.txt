@@ -1,0 +1,79 @@
+2067
+<pb n="82" />
+<h>
+<coll>
+2067
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2068
+</colr>
+</h>
+<p>
+om, at der berammes en Tid til Sagens Foretagelse og udstedes Indkaldelse til alle<lb />
+vedkommende.
+</p>
+<p>
+Retten kan paa ethvert Trin af Forhandlingen opfordre Parterne til at frem-<lb />
+stille tidligere førte Vidner til yderligere Afhøring eller Konfrontation med ny Vidner.
+</p>
+<p>
+Naar Sagen i det hele eller for et enkelt Punkt skønnes at være tilstrækkelig be-<lb />
+handlet, sluttes Forhandlingerne (jfr. § 273), Sagen optages, og Dom afsiges (jfr. § 206).
+</p>
+<p>
+Domsforhandling i en ny Sag maa først paabegyndes, naar Dom i den sidst<lb />
+optagne Sag er vedtagen.
+</p>
+<wtitle>§ 352.</wtitle>
+<p>
+Udebliver Sagsøgte ved Domsforhandlingen, og Sagsøgeren vil fremføre noget,<lb />
+som ikke indeholdes i det Sagsøgte meddelte, maa han begære Forhandlingen helt<lb />
+eller delvis udsat og meddele Sagsøgte Udsættelsen og det ny Anbringende med et af<lb />
+Retten bestemt Varsel.
+</p>
+<wtitle>§ 353.</wtitle>
+<p>
+Enhver, der er dømt som udebleven ved en Landsret som 1ste Instans, kan<lb />
+begære Sagen genoptaget og fortsat fra det Punkt, hvor Forhandlingen paa Grund af<lb />
+Udeblivelsen standsede for hans Vedkommende, naar han godtgør, at Udeblivelsen var<lb />
+ham utilregnelig. Den, der ønsker at benytte sig heraf, maa indgive en skriftlig be-<lb />
+grundet Begæring til Retten, ledsaget af de fornødne Bevisligheder. Finder Retten<lb />
+ikke Grund til straks at afvise Begæringen, berammes et Retsmøde, og Rettens For-<lb />
+mand fastsætter det Varsel, med hvilket Modparten skal indkaldes. Udebliver denne,<lb />
+anses de for Begæringen paaberaabte Grunde for beviste; møder Modparten og rejser<lb />
+Indsigelse, forhandles Spørgsmaalet om Genoptagelse mundtlig.
+</p>
+<p>
+Retten afgør ved Kendelse, om Sagen skal genoptages, og berammer i bekræf-<lb />
+tende Fald et Retsmøde samt fastsætter et Varsel, med hvilket Modparten dertil skal<lb />
+indkaldes. I dette Møde træffes de fornødne Bestemmelser om Sagens Fortsættelse<lb />
+overensstemmende med de almindelige Regler, for saa vidt Genoptagelsen ikke afvises,<lb />
+fordi Modparten ikke er behørig indkaldt.
+</p>
+<p>
+Samtidig med, at Sagen erklæres for genoptaget, saavel som paa ethvert senere<lb />
+Trin af Sagen kan Retten efter Begæring bestemme, at den afsagte Udeblivelsesdoms<lb />
+Virkninger skulle udsættes.
+</p>
+<p>
+Fører Genoptagelsen til samme Resultat som den afsagte Dom, bliver denne<lb />
+at stadfæste; i modsat Fald ophæves den, og ny Dom afsiges.
+</p>
+<wtitle>§ 354.</wtitle>
+<p>
+Begæring om den i § 353 omhandlede Genoptagelse maa fremsættes, saa snart<lb />
+det er muligt, og kan ikke fremføres efter et Aars Forløb fra Dommens Afsigelse.<lb />
+Er Sagen indanket til højere Ret, er Adgangen til Genoptagelse udelukket, indtil<lb />
+Anken frafaldes eller afvises. Naar Indkaldelse til det første i § 353 ommeldte Rets-<lb />
+møde er sket, ere begge Parter udelukkede fra at paaanke Udeblivelsesdommen, indtil<lb />
+Genoptagelsen bortfalder eller afvises. Adgang til Genoptagelse haves kun een Gang<lb />
+i samme Sag.
+</p>
+<wtitle>§ 355.</wtitle>
+<p>
+Den, der. uden at have afgivet noget Svar i Sagen, er dømt som udebleven<lb />
+ved en Landsret som 1ste Instans, kan endvidere begære Sagen genoptaget, naar han<lb />
+inden en Uge efter Dommens Afsigelse skriftlig begærer et Retsmøde berammet samt<lb />
+enten fremlægger Bevis for at have betalt de idømte Sagsomkostninger eller i Retten
+</p>

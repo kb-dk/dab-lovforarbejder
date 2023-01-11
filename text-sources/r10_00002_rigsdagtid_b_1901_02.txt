@@ -1,0 +1,112 @@
+2717
+<pb n="2" />
+<h>
+<coll>2717</coll>
+<colr>2718</colr>
+</h>
+<leftside>
+<p>
+I nærværende Udkast er Stoffet ordnet<lb />
+paa en fra det tidligere Forslag delvis af-<lb />
+vigende Maade. Dette er navnlig foran-<lb />
+lediget ved Hensynet til den i Udkastet<lb />
+hjemlede fuldstændige Appel til Højesteret<lb />
+saavel som til den i Straffeprocessen fulgte<lb />
+Ordning. Gangen i Udkastet er denne:<lb />
+</p>
+<p>
+Første Afsnit indeholder Regler om<lb />
+Afgrænsningen mellem Landsretternes og<lb />
+Underretternes Virkekreds, om Værneting,<lb />
+Kumulation og Inhabilitet hos Rettens Per-<lb />
+soner, almindelige Regler om Sagens Par-<lb />
+ter og Rettergangsfuldmægtige, om Rets-<lb />
+møder og Retsbøger, om Forkyndelser og<lb />
+Meddelelser, endvidere en Række for den<lb />
+hele Procesmaade fælles Regler (saaledes<lb />
+om Adgangen til at hæve en Sag og til at<lb />
+fremsætte Modfordringer, Procedurens<lb />
+Mundtlighed, Rettens Stilling med Hensyn<lb />
+til Sagens Oplysning osv.), fremdeles al-<lb />
+mindelige Regler om Votering, Domsved-<lb />
+tagelse og Domsafsigelse, om Procesomkost-<lb />
+ninger og Rettergangsbøder og om fri<lb />
+Proces samt endelig Regler om tvungen<lb />
+Forligsmægling.<lb />
+</p>
+<p>
+Andet Afsnit indeholder almindelige<lb />
+Regler om Bevismidlerne; Vidner, Syn og<lb />
+Skøn, Dokumenter, Afhøring af Parter og<lb />
+Parts Ed,<lb />
+</p>
+<p>
+I tredie Afsnit gives først en i det<lb />
+hele kronologisk ordnet Fremstilling af den<lb />
+almindelige mundtlige Landsretsforhand-<lb />
+ling, hvilken kan siges at udtrykke den ny<lb />
+Procesmaades Hovedtype; dertil slutte sig<lb />
+i de følgende Kapitler Regler om Inter-<lb />
+vention og Adcitation ved Landsret samt<lb />
+særlige Regler for saadanne Landsretssager,<lb />
+der paa Grund af deres Beskaffenhed ud-<lb />
+gå til skriftlig Behandling; saa følge Reg-<lb />
+1erne for Anke til Højesteret, Kære til<lb />
+Højesteret og hy Foretagelse ved Højeste-<lb />
+ret, fremdeles Reglerne om den almindelige<lb />
+Underetsprocedure samt om Anke og Kære<lb />
+med Hensyn til Underretssager og endelig<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+de særlige Regler, der skulle gælde hen-<lb />
+holdsvis for Veksel-, Check- og lignende<lb />
+Sager, for Skilsmissesager og Sager om<lb />
+Tilkendelse af en forsvunden Persons For-<lb />
+mue, for Umyndiggørelsessager og for Mor-<lb />
+tifikations- og Ejendomssager.<lb />
+</p>
+<p>
+Fjerde Afsnit omhandler Eksekutiou<lb />
+og Tvangsauktion, femte Afsnit Udpantning<lb />
+samt Ind- og Udsættelsesforretninger, sjette<lb />
+Afsnit Arrest og Forbud og syvende Af-<lb />
+snit Skifte og Konkurs. Endelig indeholder<lb />
+ottende Afsnit de fornødne Overgangsbe-<lb />
+stemmelser.<lb />
+</p>
+<p>
+Der er givet samtlige Kapitler fort-<lb />
+løbende Numre, og Antallet af Paragrafer<lb />
+er ved den stedfundne Revision indskrænket<lb />
+fra 652 til 538.<lb />
+</p>
+<title>
+Første Afsnit.<lb />
+</title>
+<undertitle>
+Almindelige Bestemmelser.<lb />
+</undertitle>
+<title>
+Kapitel I.<lb />
+</title>
+<undertitle>
+Retternes Virkekreds.<lb />
+</undertitle>
+<wtitle>§§ 1-2</wtitle>
+<p>
+Udkastet har ligesom det tidligere For-<lb />
+slag til Underret henlagt Sager angaaende<lb />
+private Formuerettigheder af ikke over 400<lb />
+Kroners Værdi, angaaende Skatter og lig-<lb />
+nende inden for samme Grænse, angaaende<lb />
+Servitutter og partielle Brugsrettigheder,<lb />
+angaaende Vekselkrav (hvortil nu komme<lb />
+Regreskrav efter en Check), og Krav efter<lb />
+Gældsbreve, hvori hurtig Retsforfølgning<lb />
+er vedtaget, samt angaaende Paterniteten<lb />
+til uægte Børn. Som fremstillet i Moti-<lb />
+verne til det ældre Udkast tilsigtes det
+</p>
+</rightside>

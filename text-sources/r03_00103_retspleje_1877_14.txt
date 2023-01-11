@@ -1,0 +1,37 @@
+97
+<pb n="103" />
+
+<p>tilstedes, samt om den er iværksat i rette Form<lb />
+og i rette Tid.</p>
+<p>Rejses der af Modparten Spørgsmål om<lb />
+Sagens Afvisning fra Højesteret, afgjøres dette<lb />
+ligeledes, førend Sagen selv forhandles.</p>
+<p>Der gives Parterne Lejlighed til at ytre<lb />
+sig om Afvisningsspørgsmålet.</p>
+<wtitle>§ 316.</wtitle>
+<p>Højesteret påkjender ikkun Landsrettens<lb />
+Dom, såvidt påanket er. Iøvrigt forbliver<lb />
+det ved den stedfundne Afgjørelse.</p>
+<p>Når Sagens Forhandling er tilende, afsiges Dom enten strax eller dog snarest muligt.<lb />
+Ingen ny Sag må foretages, forinden Dommen<lb />
+i den foregående Sag er vedtaget.</p>
+<p>z 317.</p>
+<p>I Domsafsigelsen deltage mindst ni Dommere. Iøvrigt komme de om Dommens Vedtagelse m. v. for Landsretterne givne Regler<lb />
+til Anvendelse.</p>
+<p>Dommen skal være forsynet med Grunde.</p>
+<wtitle>§ 318.</wtitle>
+<p>Når højesterets Dom går ud på<lb />
+Hjemvisning, må den heri interesserede Part<lb />
+henvende sig til Landsretten med skriftlig<lb />
+Begjæring om Sagens Foretagelse. Han har<lb />
+i Forbindelse hermed at forelægge en Udskrift<lb />
+af Højesteretsdommen for Landsrettens Formand, hvorefter denne tilsiger Modparten til<lb />
+Møde og erklærer Sagen for gjenoptaget.<lb />
+Herefter er det Parternes Sag at fremme<lb />
+Sagen i Overensstemmelse med de almindelige Regler.</p>
+<p>Landsretten er forpligtet til ved Sagens<lb />
+Behandling og Afgjørelse at følge de af Højesteret udtalte Retsanskuelser.</p>
+<wtitle>§ 319.</wtitle>
+<p>Udebliver den Ankende ved Højesteret i det i<lb />
+§ 312 ommeldte Møde eller ved den mundtlige<lb />
+Forhandling, ansees han for at frafalde Sagens Påanke. Retten hæner Sagen og tilkjender den mødende Modpart efter herom</p>

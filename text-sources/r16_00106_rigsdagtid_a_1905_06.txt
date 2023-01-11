@@ -1,0 +1,68 @@
+2115
+<pb n="106" />
+<h>
+<coll>
+2115
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2116
+</colr>
+</h>
+<wtitle>§ 467.</wtitle>
+<p>
+Kendelser, som bestemme noget, der skal fuldbyrdes, kunne eksekveres straks,<lb />
+saa snart de ere afsagte og givne beskrevne, medmindre andet fremgaar af Kendelsens<lb />
+eget Indhold.
+</p>
+<p>
+Fuldbyrdelse af de i § 166, jfr. §§ 193 og 287, omtalte Kendelser kan dog<lb />
+først finde Sted, naar Fristen til at fremsætte Begæring om Kendelsens Ophævelse i<lb />
+Henhold til § 166 er forløben, eller Retten har nægtet at efterkomme en saadan<lb />
+Begæring.
+</p>
+<wtitle>§ 468.</wtitle>
+<p>
+Eksekution efter Forlig kan foregaa, saa snart Tidspunktet for Forligets Op-<lb />
+fyldelse er indtraadt. Ved Pantebreve kan Panthaveren skride til Eksekution, naar<lb />
+der er forløbet en Tid af 14 Dage fra Forfaldstiden at regne, og der derhos, for saa<lb />
+vidt Skyldneren bor paa den pantsatte Ejendom, med 3 Dages Varsel er givet ham<lb />
+en i Overensstemmelse med Reglerne i Kapitel 16 forkyndt Meddelelse om Dagen, paa<lb />
+hvilken Forretningen vil blive foretagen.
+</p>
+<wtitle>§ 469.</wtitle>
+<p>
+Naar Fuldbyrdelsesfristen er udløben, kan Eksekutionen ikke hindres ved<lb />
+senere iværksat Anke, medmindre saadant bestemmes af den Ret, til hvilken Sagen<lb />
+er indanket.
+</p>
+<wtitle>§ 470.</wtitle>
+<p>
+De i det følgende om Domme givne Bestemmelser finde ogsaa Anvendelse paa<lb />
+Forlig og andre Eksekutionsgrundlag, dog med de Lempelser, som følge af For-<lb />
+holdets Natur.
+</p>
+<title>Kapitel 43.</title>
+<undertitle>Fuldbyrdelse af Domme, der ikke lyde paa Udredelse af Penge.</undertitle>
+<wtitle>§ 471.</wtitle>
+<p>
+Er der paalagt Domfældte en anden Ydelse end Penge, sker Dommens Ekse-<lb />
+kution, med de i §§ 472—474 nævnte Undtagelser, derved, at Domhaverens Interesse<lb />
+i Dommens Efterkommeise anslaas i Penge, og at Vederlagsbeløbet inddrives efter de<lb />
+i Kapitel 44 opstillede Regler, for saa vidt ikke en efter Dommens Afsigelse ind-<lb />
+traadt Umulighed eller andre lignende Omstændigheder efter den borgerlige Rets<lb />
+Grundsætninger have befriet Domfældte uden tillige at medføre Erstatningspligt<lb />
+for ham.
+</p>
+<p>
+Hvis der ikke i selve Dommen er fastsat et Pengevederlag, som træder i<lb />
+Stedet for den Ydelse, hvorpaa Dommen principalt gaar ud, kan Domhaveren under<lb />
+Fogedforretningen faa fastsat det Pengebeløb, hvortil hans Interesse maa anslaas <lb />
+Kan Ydelsen i og for sig ikke anslaas til Penge, kan Fogden i Stedet derfor sætte en<lb />
+Godtgørelse i Penge.
+</p>
+<p>
+I Reglen har Fogden med Vidnernes Bistand at foretage Ansættelsen (§ 458);<lb />
+hvis disse ikke ere tilstrækkelig sagkyndige, kan Fogden udmelde andre, som, efter at<lb />
+have afgivet en Forsikring som den i § 458 omtalte, yde den fornødne Bistand.
+</p>

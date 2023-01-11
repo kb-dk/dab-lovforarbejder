@@ -1,0 +1,96 @@
+227
+<pb n="227" />
+<leftside>
+<p>holdssteder. Til „Steder, der stå under<lb />
+Politiets særlige Tilsyn", høre først og<lb />
+fremmest Bordeller. — Hvad endelig angår<lb />
+den sidste Klasse Lokaler, der nævnes i<lb />
+Paragraffen, rammer Bestemmelsen kun selve<lb />
+de Rum, der ere tagne i Brug til Marskandiser-, Pantelåner- eller Klude- og Ben-Forretninger, men ikke vedkommende Indehavers derfra adskilte private værelser.</p>
+<p>Hvorvidt der i en Ransagning af de<lb />
+nævnte Lokaliteter ligger en Sigtelse mod<lb />
+nogen bestemt, må bero på Omstændighederne.</p>
+<wtitle>§ 145.</wtitle>
+<p>De i denne Paragraf indeholdte Regler<lb />
+ere i deres væsen ensartede med de for<lb />
+Beslaglæggelse givne. Naar det er fundet<lb />
+rettest som det normale Grundlag for en<lb />
+Ransagning at kræve en af Grunde ledsaget<lb />
+afgørelse af Retten, en „Kendelse", er<lb />
+Grunden hertil, at Ransagning ofte vil være<lb />
+et mere indgribende og betænkeligt Skridt<lb />
+end Beslaglæggelse, for hvilken sidste den<lb />
+hyppig er en Forudsætning.</p>
+<p>Naar der i 2det Stk. henvises til de i<lb />
+„§ 143, 1. og 2., a. og b." ommeldte Betingelser, er dette naturligvis at forstå i<lb />
+Overensstemmelse med Indholdet af § 143,<lb />
+altså: Betingelsen i Nr. 1 i Forbindelse<lb />
+med enten Betingelsen i Nr. 2. a. eller<lb />
+Betingelsen i Nr. 2. b.</p>
+<wtitle>§ 146.</wtitle>
+<p>I Reglen i 3dje Stk. om Pligten til at<lb />
+lade sig bruge som Vidne ved Ransagninger<lb />
+(derunder også ved de af Politiet foretagne)<lb />
+er indsat en stedlig Begrænsning, der ikke<lb />
+fandtes i det tidligere Forslag, men som<lb />
+formentlig er nødvendig.</p>
+<wtitle>§ 147.</wtitle>
+<p>Reglen   i  5te  Stk.   fandtes ikke  i det<lb />
+ældre førstag, men forklarer i øvrigt sig selv.</p>
+<title>Kapitel XV.</title>
+<undertitle>Sigtedes Indkaldelse og Afhørelse<lb />
+for Retten.</undertitle>
+<p>Reglerne i det tidligere førstags §§ 166<lb />
+—168 om Sigtedes Indkaldelse og i dets 2det<lb />
+Afsnits 5te Kapitel om Sigtedes Afhørelse ere<lb />
+her samlede i et Kapitel, som derhos formen-</p>
+</leftside>
+<rightside>
+
+<p>tes at have sin naturligste Plads foran Reglerne om Anholdelse og Fængsling. Naar<lb />
+Reglerne i det tidligere Forslags § 206 (om<lb />
+Afhørelse af en privat Anklager eller den<lb />
+Forurettede) ikke ere medoptagne, er Grunden dertil dels, at de private Straffesager<lb />
+ere udgåede af Udkastet, medens der angående den Private, der påtaler i Henhold<lb />
+til § 36, er givet en udtrykkelig Regel i<lb />
+§ 371, dels at den Erstatningssøgendes<lb />
+Brugbarhed som Vidne og Vidnepligt<lb />
+ligefrem følger af. at egen Interesse ikke<lb />
+længere er Fritagelsesgrund, og at Be<lb />
+dømmel sen af Vidneforklaringernes værd<lb />
+er fri.</p>
+<p>Med Hensyn til Kapitlets enkelte Pa«<lb />
+ragraffer skal følgende bemærkes:</p>
+<wtitle>§ 149.</wtitle>
+<p>Om hvad der er „lovlig Indkaldelse"<lb />
+jfr. § 151 sammenholdt med § 150.</p>
+<p>Ordene „og i øvrigt naar Loven kræver<lb />
+hans nærværelse" sigte til § 207 sidste Stk.<lb />
+(anteciperet Bevisførelse). § 233, jfr. § 234<lb />
+l Domsforhandling for Landsretten). § 303,<lb />
+3dje Stk. (Domsforhandling i almindelige<lb />
+Underretssager), § 316, (Domsforhandling i<lb />
+Politisager, jfr. dog § 312). - Jfr. med<lb />
+Hensyn til Spørgsmålet om Nødvendigheden af Sigtedes nærværelse under Appel<lb />
+af Landsretssager § 331 og af Underretssager § 340, 3dje Stk. og § 344,  2det Stk.</p>
+<wtitle>§ 150.</wtitle>
+<p>Sålænge Forundersøgelse ikke er indledet og ej heller Tiltale er rejst, vil Sigtede,<lb />
+naar han ønskes afhørt inden Retten, som<lb />
+Regel være at indkalde til Mode for Underretten på det Sted, hvor han bor eller<lb />
+opholder sig. se § 50. Forbeholdet i Paragraffens 4de Stykke sigter til § 226. jfr.<lb />
+§ 303, og § 310.</p>
+<wtitle>§ 151.</wtitle>
+<p>Angående Pålæg af Retten om nyt<lb />
+Mode, fe § 91. „Hvor ikke andet er bestemt"<lb />
+jfr. § 226.</p>
+<p>Ved Reglen i 2det Stykke (jfr. Ordene<lb />
+„angive, hvorpå Sigtelsen gaar ud") i Forbindelse med Reglerne i § 104 om Vidneindkaldelse (jfr. Ordene „Indkaldelsens Øje-<lb />
+med") udelukkes det at affatte Tilsigelser<lb />
+således, at den Tilsagte ikke ved, om han<lb />
+indkaldes som Vidne eller Sigtet.</p>
+<p>I Modsætning til de forudgående Neg«<lb />
+ler har Reglen i sidste Punktum af nærværende<lb />
+Paragraf også Hensyn til den Fængslede<lb />
+Sigtede, idet denne ifølge § 226 stal have<lb />
+særlig Tilsigelse til Domsforhandlingen.</p>
+</rightside>

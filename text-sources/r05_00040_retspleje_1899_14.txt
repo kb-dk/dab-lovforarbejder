@@ -1,0 +1,45 @@
+34
+<pb n="40" />
+<h>
+<topmidle>34        Kap. X. Rettens Rådsl. og Afg.</topmidle>
+</h>
+<p>stemmelser, hvortil der efter Sagens Beskaffenhed findes Anledning, selv om ingen<lb />
+udtrykkelig Påstand  herpå er nedlagt.</p>
+<p>Der må ved Afgørelsen ikke tages Hensyn<lb />
+til Søgsmålsgrunde eller Indsigelser, som<lb />
+ikke ere gjorte gældende af Parterne, om<lb />
+det end af Sagens Forhandling kan sees,<lb />
+at de kunde have været benyttede.</p>
+<wtitle>§ 106.</wtitle>
+<p>Ere flere Krav forenede under Sagen<lb />
+§§ 26 og 27), kan Retten, så snart noget<lb />
+af disse er mødent til Påkendelse, afsige<lb />
+Dom derom.</p>
+<wtitle>§ 107.</wtitle>
+<p>Retten kan afsige Dom angående enkelte<lb />
+af de fremsatte Søgsmålsgrunde eller Indsigelser såvel som angående Modfordringer,<lb />
+ikke blot hvor særskilt Forhandling af dem<lb />
+er anordnet (§ 94, sidste Stykke), men også<lb />
+hvor de, uden at dette er Tilfældet, ere<lb />
+modne til Påkendelse.</p>
+<p>Domme af den Art, som de i foregående<lb />
+Stykke omhandlede, ere dog kun at anse<lb />
+som Bestanddele af den endelige Dom, i<lb />
+hvilken de blive at lægge til Grund og<lb />
+såvidt fornødent at optage; en sådan<lb />
+Dom kan ikke særskilt fuldbyrdes, medmindre<lb />
+Retten særlig bestemmer, at den mod eller<lb />
+uden Sikkerhedsstillelse straks kan fuldbyrdes.</p>
+<wtitle>§ 108.</wtitle>
+<p>Domme og Kendelser skulle ledsages af<lb />
+Grunde. Andre Beslutninger as Retten eller<lb />
+Rettens Formand  behøve ikke at begrundes.</p>
+<p>Den i Rettens Afgørelse givne Fremstilling af Parternes mundtlige Angivelser<lb />
+og Ytringer under Sagens Behandling<lb />
+afgiver fuldt Bevis for disse, forsåvidt<lb />
+ikke Modbevis imod den føres.</p>
+<wtitle>§ 109.</wtitle>
+<p>Domme og Kendelser afsiges snarest<lb />
+muligt efter Forhandlingernes Slutning.<lb />
+Afsigelsen foregår ved, at Konklusionen oplæses i et Retsmøde. Dersom det ikke ved<lb />
+Optagelsen tilkendegives, når Dommen eller</p>

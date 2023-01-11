@@ -1,0 +1,60 @@
+486
+<pb n="222" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>486</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 946.</wtitle>
+<p>
+Hvor denne Lov ikke bestemmer andet, er Kæremålsfristen fjorten Dage,<lb/>
+regnede fra Afgivelsen af den Beslutning, hvorom Talen er. dog at Bestemmelserne<lb/>
+i § 926 finde tilsvarende Anvendelse.
+</p>
+<p>
+Kæremål medfører ikke Opsættelse af Beslutningens Udførelse, medmindre<lb/>
+det modsatte bestemmes enten af den Ret, som har afgivet Beslutningen, eller af den<lb/>
+Ret, for hvilken Kære rejses, jvf. også § 180.
+</p>
+<wtitle>§ 947.</wtitle>
+<p>
+Kæremål fremsættes skriftlig for den Ret, hvis Beslutning påklages, eller<lb/>
+erklæres mundtlig til dennes Retsbog. Rejses Kæremål fra Påtalemyndighedens<lb/>
+Side, lader denne uden Ophold samme forkynde for Sigtede og, når nogen anden<lb/>
+for det foreliggende Spørgsmåls Vedkommende er at betragte som Modpart, tillige<lb/>
+for sidstnævnte, medmindre Påtalemyndigheden i Retten i den pågældendes Overværelse har erklæret at ville rejse sådant Kæremål. Rejses Kæremål af Sigtede<lb/>
+eller af nogen, der ikke er Part i selve Sagen, foranstalter Retten under tilsvarende<lb/>
+Forudsætning Påtalemyndigheden såvel som den, der ellers måtte være at betragte<lb/>
+som Modpart, underrettet om Kæremålet,
+</p>
+<p>
+Er Sigtede fængslet, og er der ikke Lejlighed for ham til at rejse Kæremål<lb/>
+til Retsbogen overensstemmende med foregående Stykke, kan han fremsætte det til<lb/>
+den Undersøgelsesrets Retsbog, i hvis Kreds Fængslet ligger, eller til Fængselsbestyrerens Bog (§ 826); Udskrift af Tilførslen bliver da uopholdelig at tilstille den<lb/>
+Ret, hvis Beslutning påklages. Har Sigtede Forsvarer, er denne pligtig at bistå<lb/>
+ham, således som bestemt i § 918, 2det Stykke,
+</p>
+<wtitle>§ 948.</wtitle>
+<p>
+For så vidt den Ret, hvis Beslutning påkæres, ikke i Medfør af § 213, § 168<lb/>
+eller § 198 omgør Beslutningen således, at Øjemedet med Kæremålet dermed er<lb/>
+opnået, indsender den uden Ophold Kæremålet til den overordnede Ret, ledsaget<lb/>
+af de fornødne Udskrifter og andre Dokumenter, disse sidste i bekræftede Afskrifter,<lb/>
+for så vidt Originalerne ikke kunne undværes, samt efter Omstændighederne af de<lb/>
+Bemærkninger, hvortil der fra Rettens Side måtte findes Anledning.
+</p>
+<p>
+Såvel den, der har rejst Kæremål, som Modparten, kan indgive skriftlige<lb/>
+Udtalelser om Sagen til den overordnede Ret; herved gælder det samme, som i foregående Paragrafs to sidste Punktumer er bestemt om selve Kæremålet,
+</p>
+<wtitle>§ 949.</wtitle>
+<p>
+Den overordnede Ret er ikke bunden ved den Bedømmelse af de faktiske Omstændigheder, hvorpå den påklagede Beslutning er grundet. Finder den ny Oplysninger fornødne, giver den, for så vidt den ikke selv vil foranstalte samme indhentede, de i så Henseende fornødne Pålæg; Bestemmelserne i § 932 og § 942,<lb/>
+tredie Punktum, finde herved tilsvarende Anvendelse.
+</p>
+<p>
+Når særlige Grunde findes at tale derfor, kan den overordnede Ret undtagelsesvis på Begæring eller af egen Drift anordne mundtlig Forhandling; Anklager bliver i så Fald altid at beskikke og tillige Forsvarer, medmindre Sigtede<lb/>
+selv har antaget en Forsvarer, eller den Forsvarer, som allerede er beskikket for ham,<lb/>
+er beføjet til at møde for den overordnede Ret og erklærer sig villig hertil.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

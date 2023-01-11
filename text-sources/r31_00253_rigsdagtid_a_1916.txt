@@ -1,0 +1,112 @@
+669
+<pb n="253" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>669</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+Fyn.
+</p>
+<p>
+23.	Nyborg Købstad og Vinding Herred.
+</p>
+<p>
+24.	Svendborg Købstad og Thorseng Birk samt Sunds-Gudme Herreder.
+</p>
+<p>
+25.	Ærøskøbing Købstad og Ærø Herred samt Rudkøbing Købstad og Langelands<lb />
+Herreder.
+</p>
+<p>
+26.	Fåborg Købstad og Salling Herred samt Muckadell, Holstenshus og Brahetrolleborg Birker.
+</p>
+<p>
+27.	Odense Købstad og Odense Skt. Hans Sogns Landdistrikt af Odense Herred.
+</p>
+<p>
+28.	Odense Herred (undtagen Odense Skt. Hans Sogns Landdistrikt) og Nørre Søby,<lb />
+Nørre Lyndelse, Sønder Nærå og Højby Sogne af Åsum Herred.
+</p>
+<p>
+29.	Kerteminde Købstad og Hindsholm Herred samt Bjerge-Åsum Herreder (undtagen de 4 under Nr. 28 nævnte Sogne af Åsum Herred).
+</p>
+<p>
+30.	Bogense Købstad og Skovby Herred samt Lunde-Skam Herreder og Grevskabet<lb />
+Roepstorffs Birk.
+</p>
+<p>
+31.	Assens Købstad og Båg Herred samt Kerte, Barløse, Sandager og Tanderup<lb />
+Sogne af Wedellsborg Birk.
+</p>
+<p>
+32.	Middelfart Købstad og Vends Herred samt Resten af Wedellsborg Birk.
+</p>
+<p>
+Jylland.
+</p>
+<p>
+33.	Fredericia Købstad samt Elbo, Brusk og Holmans Herreder.
+</p>
+<p>
+34.	Kolding Købstad, Kolding Herred samt Jerlev, Andst og Slaugs Herreder.
+</p>
+<p>
+35.	Vejle Købstad og Nørvang-Tørrild Herreder.
+</p>
+<p>
+36.	Horsens Købstad samt Bjerre og Hatting Herreder.
+</p>
+<p>
+37.	Voer og Nim Herreder samt Stensballegård Birk og Tyrsting og Vrads<lb />
+Herreder.
+</p>
+<p>
+38.	Silkeborg Købstad og Birk og Hids Herred samt Skanderborg Købstad og<lb />
+Hjelmslev-Gjern Herreder.
+</p>
+<p>
+39.	Hasle, Vester Lisbjerg, Framlev og Sabro Herreder samt Frijsenborg-Faurskov Birk.
+</p>
+<p>
+40.	Ning Herred og Hads Herred.
+</p>
+<p>
+41.	Århus Købstad.
+</p>
+<p>
+42.	Grenå Købstad samt Nørre og en Del af Sønder Herred og Æbeltoft Købstad<lb />
+samt Mols Herred og en Del af Sønder Herred.
+</p>
+<p>
+43.	Rougsø og en Del af Sønderhald Herred samt Østerlisbjerg og en Del af Sønderhald Herred.
+</p>
+<p>
+44.	Randers Købstad samt Nørhald, Støvring og Galten Herreder.
+</p>
+<p>
+45.	Mariager Købstad og Gjerlev-Onsild Herreder (undtagen Glenstrup, Sønder-Onsild,<lb />
+Nørre-Onsild. Hvornum, Snæbum og Skjellerup Sogne) samt Hellum-Hindsted<lb />
+Herreder.
+</p>
+<p>
+46.	Hobro Købstad, Gislum og Rinds Herreder samt de 6 under Nr. 45 nævnte<lb />
+Sogne af Gjerlev-Onsild Herreder.
+</p>
+<p>
+47.	Løgstør Købstad og Års-Slet Herreder samt Nibe Købstad og Hornum Herred.
+</p>
+<p>
+48.	Ålborg Købstad samt Ålborg Birk og Fleskum Herred.
+</p>
+<p>
+49.	Nørresundby Købstad og Kjær Herred samt Hvetbo Herred.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

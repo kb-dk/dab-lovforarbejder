@@ -1,0 +1,173 @@
+2373
+<pb n="6" />
+<h>
+<coll>2373</coll>
+<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
+<colr>2374</colr>
+</h>
+<leftside>
+<wtitle>Til § 285.</wtitle>
+<p>
+1. Stk.. L. 2: „§ 201" 1. „§ 319".<lb/>
+3. Stk.. L. 3: „§ 202" 1. „§ 320".
+</p>
+<wtitle>Til § 286.</wtitle>
+<p>
+1.	Stk., L. 2: „§§ 250 og 263" 1. ,,§§ 368<lb/>
+og 381".
+</p>
+<p>
+2.	Stk., L. 1: ,,§§ 256 og 260" 1. „88 374<lb/>
+og 378".
+</p>
+<p>
+1. Stk., L. 2: ,,§§ 261 og 264" 1. „88 379<lb/>
+og 382".
+</p>
+<wtitle>Til § 287.</wtitle>
+<p>
+L. 4.: ,.§ 254" 1. „§ 372".
+</p>
+<wtitle>Til § 288.</wtitle>
+<p>
+1.	Stk., L. 4: ,.§ 218" 1. ,,§ 336".
+</p>
+<p>
+2.	Stk., L. 2: ,.§ 200" 1. „§ 318".
+</p>
+<p>
+2. Stk.. L. 4: ,.§§ 210 og 218" 1. ..§§ 328<lb/>
+og 336".
+</p>
+<wtitle>Til § 291.</wtitle>
+<p>
+2. Stk., L. 4 og 3. Stk. L. 1: ,.§ 290"<lb/>
+1. ,.§ 408".
+</p>
+<wtitle>Til § 292.</wtitle>
+<p>
+L. 1 og 4: „§ 290" 1. ,.§ 408".<lb/>
+L. 3: ,.§§ 20, 30, 42, 45 og 75" 1. ,.§§ 141.<lb/>
+151, 163, 166 og 195".
+</p>
+<wtitle>Til § 293.</wtitle>
+<p>
+L. 2: „Kap. XXIV." 1. „Kap. 37".
+</p>
+<wtitle>Til § 298.</wtitle>
+<p>
+L. 5: „§ 299" 1. ,.§ 417".
+</p>
+<wtitle>Til § 299.</wtitle>
+<p>
+L. 4: „§ 194" 1. „§ 312".
+</p>
+<wtitle>Til § 300.</wtitle>
+<p>
+L. 1: „§§ 297 og 298" 1. „§§ 415 og 416".
+</p>
+<wtitle>Til § 301.</wtitle>
+<p>
+L. 1: „Kap. XIX." 1. „Kap. 32".
+</p>
+<wtitle>Til § 302.</wtitle>
+<p>
+L. 3: „§ 296" 1. „§ 414".
+</p>
+<wtitle>Til § 308.</wtitle>
+<p>
+L. 2: „§§ 306 og 307" 1. „§§ 424 og 425".
+</p>
+<wtitle>Til § 309.</wtitle>
+<p>
+L. 2: „§ 306" 1. „§ 424".<lb/>
+L. 3: „Kap. XI." 1. „Kap. 24".
+</p>
+<wtitle>Til § 312.</wtitle>
+<p>
+1. Stk., L. 2: „§ 303" 1. „§ 421".
+</p>
+</leftside>
+<rightside>
+<wtitle>Til § 315.</wtitle>
+<p>
+L. 1: „§ 314" 1. „§ 432".
+</p>
+<wtitle>Til § 331.</wtitle>
+<p>
+L. 2: „§ 324" 1. „451".
+</p>
+<wtitle>Til § 332.</wtitle>
+<p>
+L. 3: „§ 325" 1. „§ 452".
+</p>
+<wtitle>Til § 333.</wtitle>
+<p>
+1. Stk. L. 3: „§ 109" 1. „§ 229".
+</p>
+<wtitle>Til § 334.</wtitle>
+<p>
+1.	Stk. L. 3: „§ 333" 1. „§ 460".
+</p>
+<wtitle>Til § 335.</wtitle>
+<p>
+2.	Stk.. L. 1: „§ 153, jfr. §§ 182 og 192"<lb/>
+1. „§' 271, jfr. §§ 300 og 310".
+</p>
+<p>
+2.	Stk., L. 2: ,.§ 153" 1. „§ 271".
+</p>
+<wtitle>Til § 336.</wtitle>
+<p>
+L. 5: „Kap. VIII." 1. Kap. 21".
+</p>
+<wtitle>Til § 339.</wtitle>
+<p>
+1. Stk., L. 2: „§§ 340—342" 1. „§§ 467—<lb/>
+469".
+</p>
+<p>
+1. Stk., L. 2: „Kap. XXXI." 1. „Kap. 45".
+</p>
+<p>
+3.	Stk., L. 1 og 3: „§ 326" 1. „§ 453".
+</p>
+<p>
+6. Stk., L. 2: „§ 345" 1. „§ 472„.
+</p>
+<wtitle>Til § 341.</wtitle>
+<p>
+L. 4: „§ 339" 1. „§ 466".
+</p>
+<wtitle>Til § 343.</wtitle>
+<p>
+L. 3: „339" 1. „§ 466".
+</p>
+<p>
+L. 4: „Kap. XXXI." 1. „Kap. 45".<lb/>
+L. 6: „§ 345" 1. „472".
+</p>
+<wtitle>Til § 344.</wtitle>
+<p>
+L. 3: „§§ 339—343" 1. „466—470".
+</p>
+<wtitle>Til § 345.</wtitle>
+<p>
+1. Stk., L. 4 og 11: „§§ 339—343" 1.<lb/>
+„§§ 466-470".
+</p>
+<wtitle>Til § 347.</wtitle>
+<p>
+1. Stk., L. 4: „§§ S84. 386 og 392" 1.<lb/>
+„§§ 514, 516 og 522".
+</p>
+<wtitle>Til § 349.</wtitle>
+<p>
+1. Stk., L. 4: „§§ 350, 403 og 404" 1. „§§ 477.<lb/>
+533 og 534".
+</p>
+<wtitle>Til § 351.</wtitle>
+<p>
+L. 4: „§ 403" 1. „§ 533".
+</p>
+</rightside>

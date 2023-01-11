@@ -1,0 +1,36 @@
+50
+<pb n="56" />
+<p>følgning er begyndt, afgives i Reglen for den<lb />
+Ret, ved hvilken Sagen er anhængig. Undtagelse herfra finder Sted:</p>
+<p>1)  naar Vidnet ifølge § 132 ikke er pligtigt at møde for den Ret, ved hvilken Sagen<lb />
+er anhængig, og ikke frivillig vil give sådant<lb />
+møde;</p>
+<p>2)  naar   Vidnet formedelst  Sygdom,   boj<lb />
+Alder   eller Legemssvaghed   ikke   kan   tåle   at<lb />
+rejse eller forlade sit Opholdssted,  og den Ret,<lb />
+ved hvilken Sagen svæver,  ikke kan sættes på<lb />
+det Sted,   som   sådanne Forhold   nødvendiggjøre;</p>
+<p>3)   naar  det   findes,   at Vidnets Fremstillelse for en Ret. der   sættes udenfor den Underretskreds, hvor Vidnet boer, vil medføre Udgifter og Ulemper,   som   ikke   stå   i    rimeligt<lb />
+Forhold til det Udbytte i Henseende til Sagens<lb />
+Oplysning,   der   kan   ventes  af   Vidnets Afhørelse for samme;</p>
+<p>4)  naar et Vidne skal afhøres for Hovedforhandlingen i en Sag, som er anhængiggjort<lb />
+ved   en   Landsret,    eller   under   en    ved   et<lb />
+Retsmiddel foranlediget Forhandling, ved hvilken   Vidners   Afhørelse   for vedkommende   Ret<lb />
+ikke finder Sted.</p>
+<p>I ovennævnte Tilfalde fores Vidnet for<lb />
+Undersøgelsesdommeren §§ 6 og 60).</p>
+<p>Kan et Vidne formedelst Sygdom, hej Alder eller Legemssvaghed ikke forlade sit Opholdssted, sættes retten til dets Afhørelse der.</p>
+<wtitle>§  134.</wtitle>
+<p>Militære af Hæren og Flåden ere pligtige<lb />
+at aflægge Vidnesbyrd i Stræffesager for de<lb />
+borgerlige Domstole overensstemmende med<lb />
+Reglerne i §§  132—133.</p>
+<wtitle>§   135.</wtitle>
+<p>Indkaldelse til at møde som Vidne udgår<lb />
+fra den Ret, for hvilken Vidnesbyrdet skal aflægges.</p>
+<p>Indkaldelsen skal indeholde:</p>
+<p>Vidnets Navn og Bopæl eller Opholdssted;</p>
+<p>en almindelig Angivelse af Undersøgelsens<lb />
+Gjenstand;</p>
+<p>Betegnelse af den Ret, for hvilken der skal vidnes, samt Tid og Sted, naar og hvor<lb />
+mødet skal foregå;</p>

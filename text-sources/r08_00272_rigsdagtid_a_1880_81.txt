@@ -1,0 +1,46 @@
+3907
+<pb n="272" />
+<h>
+<coll>3907</coll>
+<topmidle>Forsl. t. L. onl Retsafgifter.</topmidle>
+<colr>3908</colr>
+</h>
+<wtitle>§ 4.</wtitle>
+<p>Forsaavidt Retsafgifterne beregnes i Forhold til Gjenstandens værdi, ere Parterne<lb />
+pligtige skriftlig at opgive værdien saa noiagtig som muligt. Opgivelsen bliver efter<lb />
+Omftcrndighederne at berigtige under Sagens Drift. Alle Spørgsmaal om værdiberegningen<lb />
+afgjores overensstemmende n,ed § 2, hvorved i fornødent Fald Reglen i Lov om den bor-<lb />
+gerlige Retspleie § 9,  1ste Stykke, kommer til Anvendelse.</p>
+<p>Befindes Nogen mod bedre Vidende at have opgivet værdien urigtig til Skade fot<lb />
+Statskassen, erlægges Afgiften af den fordulgte værdi med det dobbelte Belob, foruden at<lb />
+Vedkommende ifalder den Straf, som den almindelige Straffelovgivning maatte medføre.</p>
+<wtitle>§ 5.</wtitle>
+<p>Retterne ere beføiede til, dog senest ved Sagens Afslutning, at lade saadanne Afgifter<lb />
+tilbagebetale, som uden Skyld fra Parternes Side ere foraarsageoe ved urigtig Behandling<lb />
+af Sagen for vedkommende Ret.</p>
+<title>Andet Afsnit.</title>
+<undertitle>Om Retsafgiftens i dcn boig^rlige Netspleie.</undertitle>
+<title>Første Kapitel.</title>
+<undertitle>Om Afgifterne i borgerlige Domssager.</undertitle>
+<title>I.</title>
+<undertitle>Tu, AfgifternesWeregning i fsrste Inftants.</undertitle>
+<wtitle>§ 6.</wtitle>
+<p>I Domssager, som angaa Penge esser Penges værd, er delt almindelige Retsafgift<lb />
+(Enkeltafgiften):</p>
+<p>1.  Naar Gjenstandens værdi ikke er</p>
+<p>over.............."..............................   40 Kr.      1 Kr.</p>
+<p>2.  Naar værdien er over</p>
+<p>40 Kr.   indtil   100 Kr. inkl..................................    2 —</p>
+<p>3      __    100—200................................... 4 —</p>
+<p>4.   —    200—300.................................. 6 —</p>
+<p>5.  —    300—400................................... 8 —</p>
+<p>6.   —    400—600..................................12 —</p>
+<p>7.  —    600—800...................................16 —</p>
+<p>8.   —    800—1000..................................20 —</p>
+<p>9.   —   1000—1500..................................25 —</p>
+<p>10.   —   1500—2000.................................30 —</p>
+<p>11.  —   2000—3000.................................40 —</p>
+<p>12.   —   3000—4000..................................50 —</p>
+<p>Er Gjenstandens værdi over 4000 Kr., fochoies Afgiften med et Tillæg af 5 ^w<lb />
+^Me af de fsrste 6000 Kr., hvormed værdien overstiger 4000 Kr., og af 2 pro Uiile<lb />
+af det Overskydende,</p>

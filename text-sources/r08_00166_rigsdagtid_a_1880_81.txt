@@ -1,0 +1,47 @@
+3695
+<pb n="166" />
+<h>
+<coll>3695</coll>
+<topmidle>Forsl. t. L. om Strafferetsplsien.</topmidle>
+<colr>3696</colr>
+</h>
+<title>Kapitel IV.</title>
+<undertitle>Om de offentlige Anklagere.</undertitle>
+<wtitle>§ 23.</wtitle>
+<p>De offentlige Anklagere virke for forfølgning af Forbrydelser dels ved umiddelbar<lb />
+Virksomhed dels ved Henvendelse til og udenfor kjøbenhavn Tilsyn med Politimyndighederne<lb />
+efter de ncrrmere Regler i nærværende Lov.</p>
+<p>Udenfor de offentlige Anklageres Virkekreds ere de Lovovertrædelser, som ved Lov-<lb />
+givningen ere henviste til Paatale af Private, samt de Lovovertrædelser, som ifolge<lb />
+nærværende Lov paatales af Politimyndighederne (H 35), forsaavidt ikke Reglerne om Straffesagers<lb />
+Forening medføre Undtagelser, eller der, hvad de sidstnævnte Lovovertrædelser angaar, sinder<lb />
+Paaanke Sted.</p>
+<wtitle>§ 24.</wtitle>
+<p>Det paahviler de offentlige Anklagere som Embedspligt at fremme enhver Sag med<lb />
+den Hurtighed, som Tilfældets Beskaffenhed tillader, og derved ikke blot have for Die, at<lb />
+strafskyldige Personer drages til Ansvar, men ogsaa, at forfølgning af Personer, som ikke ere<lb />
+strafskyldige ikke finder Sted. De ere pligtige at vise Retten skyldig Agtelse samt at efter-<lb />
+komme de af Retten i medfør af nærværende Lov givne Paalæg.</p>
+<wtitle>§ 25.</wtitle>
+<p>Justitsministeren kan give saadanne almindelige Forskrifter for Udssrelsen af de<lb />
+offentlige Anklageres Forretninger, som ved Siden af Loven findes fomodne, fremdeles med<lb />
+Hensyn til enkelte Sager paalægge vedkommende Anklager at begynde eller fortsætte, undlade<lb />
+eller standse forfølgning, at foretage bestemte forfølgningsskridt, at gjøre Retsmidler gjal-<lb />
+dende o. s. fr., samt afkrcere Indberetning om Straffesager ogsaa udenfor de lovbestemte Tilfælde.</p>
+<wtitle>§ 26.</wtitle>
+<p>Staar en offentlig Anklager i et Forhold, som vilde udelukke en Dommer fra at<lb />
+handle i Sagen, skal han gjere meddelelse herom til sin nærmefte Foresætte, for at denne<lb />
+kan træffe saadan Foranstaltning, som i den Anledning maatte findes fornøden.</p>
+<wtitle>§ 27.</wtitle>
+<p>Overstaisankla^eren varetager det fornødne i Anklagens Interesse med Hensyn til<lb />
+Straffesagers Forhandling for Høiestcret; han kan fremdeles efter Paalæg af Justitsministeren<lb />
+eller af egen Drift ganske eller tildels overtage det til de ved Landsretterne beskikkede Stats-<lb />
+anklageres Forretningskreds horende Hverv i en hmlkensomhelst Straffesag.</p>
+<p>Ouerstatsanklageren er de andre offentlige Anklagere overordnet og fører Tilsyn med<lb />
+deres Hvervs Udførelse, hvorved Reglerne i § 25 finde tilsvarende Anvendelse. Han gjør<lb />
+Indberetning aarlig til Justitsministeren om de i Aarets Lob afgjorte og endnu henstaaende<lb />
+Straffesager saa og ellers, naar Omstændighederne opfordre dertil, eller naar det fordres.</p>
+<wtitle>§ 28.</wtitle>
+<p>Den til Overstatsanklagerens Bistand beskikkede Statsanklagcr er befoiet til efter<lb />
+Paalæg af Overstatsanklageren eller i Tilfælde af dennes Forhindring uden Paalæg at fore-<lb />
+tage enhver Embedshandling, som horer under Overstatsanklagerens Virkekreds.</p>

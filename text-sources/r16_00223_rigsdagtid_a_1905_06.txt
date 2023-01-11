@@ -1,0 +1,77 @@
+2349
+<pb n="223" />
+<h>
+<coll>
+2349
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2350
+</colr>
+</h>
+<p>
+Hvor Sagsøgeren, uden først at begære retslig Forundersøgelse, til vedkommende<lb />
+Ret indgiver Begæring om Udfærdigelse af Anklageskrift, maa Udkast til dette ved-<lb />
+lægges. Bevisfortegnelse bør medfølge overensstemmende med Reglerne i Kapitel 73.
+</p>
+<p>
+Samtidig med at Sagsøgeren indbringer Sagen for Retten, skal han fore-<lb />
+lægge denne Oplysning om, at Paatalemyndigheden har nægtet at rejse Forfølgning,<lb />
+og at Grenpart af Begæringen er meddelt samme. I Mangel heraf bliver Sagen ved<lb />
+Kendelse at afvise.
+</p>
+<wtitle>§ 958.</wtitle>
+<p>
+Naar Begæring fremsættes om Forundersøgelse eller om enkeltstaaende Rets-<lb />
+handlinger, afgør Undersøgelsesretten, om der er Grund til at tage Begæringen til Følge.
+</p>
+<p>
+Naar Retten slutter en Forundersøgelse, som er indledet efter Sagsøgerens Be-<lb />
+gæring, afgør den ved Kendelse, hvor vidt Tiltale ved den dømmende Ret skal tilstedes.<lb />
+Tilladelse hertil bliver at nægte, naar de fremkomne Oplysninger ikke findes at afgive<lb />
+rimeligt Grundlag for Tiltale. Tilstedes Tiltale, skal Kendelsen indeholde de Angivel-<lb />
+ser, som ifølge § 806 skulle findes i et Anklageskrift, En Udskrift af Kendelsen kan<lb />
+benyttes som Anklageskrift,
+</p>
+<p>
+Fremsættes Begæring om Udfærdigelse af Anklageskrift (§ 957, 3die Stykke),<lb />
+har Retten paa Grundlag af de den med Begæringen forelagte Oplysninger samt, efter<lb />
+Omstændighederne, efter at have modtaget Forklaring af Sagsøgeren og Sigtede og<lb />
+mulig andre Personer i et dertil berammet, ikke offentligt Retsmøde, hvortil Tilsigelse<lb />
+kan gives med Aftens Varsel, ved Kendelse at afgøre, om Tiltale skal tilstedes; Reglen<lb />
+i foregaaende Stykkes andet Punktum bliver herved at iagttage. Tilstedes Tiltale, be-<lb />
+stemmes i Kendelsen, hvorledes Anklageskriftet bliver at affatte. Finder Retten, at<lb />
+retslig Forundersøgelse bør finde Sted, lader den Kendelsen gaa ud herpaa; Reglerne<lb />
+i foregaaende Stykke blive i saa Fald at anvende.
+</p>
+<p>
+Saavel Indledelse af Forundersøgelse og Tilstedelse af Tiltale som den videre<lb />
+Fremme af Sagen og Foretagelse af enkeltstaaende Retshandlinger kan betinges af,<lb />
+at Sagsøgeren stiller Sikkerhed i rede Penge efter Rettens nærmere Bestemmelse for<lb />
+de Omkostninger, som det efter Reglerne i § 988 kan blive ham paalagt at tilsvare<lb />
+det offentlige og Sigtede.
+</p>
+<wtitle>§ 959.</wtitle>
+<p>
+Skal Tiltale rejses ved Landsret, maa Sagsøgeren til Sagens Udførelse for<lb />
+Landsretten antage en til Møde sammesteds berettiget Sagfører, af hvem alt det bliver<lb />
+at foretage, som ellers under Domsforhandlingen og dennes Forberedelse paahviler<lb />
+Overanklageren, og til hvem ligeledes alle Meddelelser fra Tiltaltes Side blive at rette.<lb />
+Sagsøgeren kan kun gennem sin Sagfører optræde som Part i Sagen.
+</p>
+<p>
+Er Tiltale rejst ved Underret eller ved Sø- og Handelsretten, kunne alle Sagen<lb />
+vedrørende Meddelelser fra Tiltalte til Modparten gyldig afgives paa Rettens Kontor.
+</p>
+<wtitle>§ 960.</wtitle>
+<p>
+Den private Sagsøger kan, uanset denne sin Stilling, afhøres som Vidne i<lb />
+Sagen. Hans Afhørelse foretages ogsaa under Domsforhandlingen af Rettens Formand,<lb />
+der dog efter Omstændighederne kan overlade til Sagsøgerens Sagfører at stille Spørgs-<lb />
+maal til ham. Modafhøring fra Forsvarets Side sker efter de almindelige Regler.
+</p>
+<wtitle>§ 961.</wtitle>
+<p>
+Frafalder Sagsøgeren Forfølgningen, bliver Sagen ved Kendelse at hæve og<lb />
+kan ikke atter genoptages af ham. Det samme gælder, naar Sagsøgeren eller hans
+</p>

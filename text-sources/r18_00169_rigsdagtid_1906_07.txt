@@ -1,0 +1,76 @@
+3977
+<pb n="169"/>
+<h>
+<coll>3977</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3978</colr>
+</h>
+<wtitle>§ 741.</wtitle>
+<p>
+Ransagning af Hus for at eftersøge den, som skal anholdes, kan foretages,<lb />
+naar der er Grund til at antage, at han holder sig skjult der. i Andenmands Hus<lb />
+dog kun under Betingelser, svarende til de i § 724 angivne, medmindre der efter<lb />
+Husets Bestemmelse tilstedes enhver Adgang til det.
+</p>
+<p>
+Saadan Ransagning kan foretages af Politiet uden Retskendelse:
+</p>
+<p>
+1)	naar en Person eftersættes, der er truffen i Udførelsen af Forbrydelsen eller<lb />
+paa friske Spor, eller som er undvegen efter at være paagrehen;
+</p>
+<p>
+2)	og ellers, naar der er Grund til at antage, at Øjemedet vil forspildes, hvis<lb />
+Kendelse skal afventes, og navnlig, at en blot Bevogtning af Huset saa længe vil være<lb />
+utilstrækkelig.
+</p>
+<p>
+udenfor disse Tilfælde udkræves Retskendelse, medmindre den paagældende<lb />
+udtrykkelig frafalder Krav herpaa, I øvrigt finde ved disse Ransagninger Reglerne i<lb />
+§§ 726—29 Anvendelse.
+</p>
+<wtitle>§ 742.</wtitle>
+<p>
+Enhver, der anholdes, skal senest inden 24 Timer fra Paagribelsen at regne<lb />
+stilles for Retten, medmindre han forinden løslades. Klokkeslettet, da Paagribelsen<lb />
+og da Fremstillingen fandt Sted, skal anføres i Retsbogen. Kan han ikke straks føres<lb />
+for Retten, sørger Politiet for den fornødne midlertidige Bevogtning paa den muligst<lb />
+lempelige Maade. Er Anholdelsen iværksat af en privat, og den anholdte ikke straks<lb />
+kan føres for Retten, skal Anholderen uopholdelig foranstalte den anholdte afleveret<lb />
+til Politiet, som afkræver Anholderen nøjagtig Forklaring om det forefaldne og paa-<lb />
+lægger ham, hvis det ikke straks løslader den anholdte, at møde ved Fremstillingen<lb />
+for Retten.
+</p>
+<p>
+I Retsmødet skal den anholdte høres om Sigtelsen. For det Tilfælde, at den
+anholdte fremstilles for en anden Ret end den. som har taget Beslutning om Anhol-<lb />
+delsen, maa der af denne være sørget for, at de fornødne Oplysninger staa til den<lb />
+førstnævntes Raadighed, enten ved direkte Tilsendelse eller ved Overlevering med for-<lb />
+nødent Paalæg til den Politiembedsmand, som fik det Hverv at iværksætte Anholdelsen.
+</p>
+<wtitle>§ 743.</wtitle>
+<p>
+Har Anholdelse fundet. Sted for en Handling, for hvilken Fængsling er ude-<lb />
+lukket, skal den anholdte sættes paa fri Fod. naar det i § 742 ommeldte Rets-<lb />
+møde er sluttet,
+</p>
+<wtitle>§ 744.</wtitle>
+<p>
+Har Anholdelse fundet Sted for en Handling, for hvilken Fængsling ikke er<lb />
+udelukket, og findes anholdte ikke at kunne løslades straks, kan Retten enten ved<lb />
+Kendelse beslutte, at han skal fængsles, eller, naar der paa Grund af de foreliggende<lb />
+Oplysningers Utilstrækkelighed eller af anden Grund ikke findes Føje til straks at<lb />
+afsige Fængslingskendelse, eller Retten ifølge § 749 mangler Beføjelse hertil, beslutte,<lb />
+at han foreløbig skal forblive under Anholdelse. Det samme finder Anvendelse, hvor<lb />
+den paagældende er mødt uden foregaaende Anholdelse.
+</p>
+<p>
+Beslutningen tilføres Retsbogen under Iagttagelse af Reglerne i § 738; med<lb />
+Hensyn til Bevogtningen iagttages Reglen i § 742.
+</p>
+<wtitle>§ 745.</wtitle>
+<p>
+Senest inden 3 Gange 24 Timer efter Slutningen af det Retsmøde, hvori den<lb />
+i § 742 omhandlede Fremstilling fandt Sted, skal enten den under Anholdelse forblevne<lb />
+løslades, eller Kendelse afsiges om Fængsling eller anden endelig Forholdsregel.
+</p>

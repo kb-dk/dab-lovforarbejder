@@ -1,0 +1,67 @@
+409
+<pb n="<span class="result">145</span>" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>409</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 626.</wtitle>
+<p>
+Kommer Skyldneren, efter at Arrest er gjort, under Konkurs, eller dør han,<lb/>
+og offentligt Skifte uden Gælds Vedgåelse finder Sted efter ham, bortfalder Arrestrekvirentens Forpligtelse til at anlægge Retssag i Anledning af Fordringen eller<lb/>
+Arresten. Den af Rekvirenten i Anledning af Arresten stillede Sikkerhed løsgives dog<lb/>
+først, når 8 Uger ere gåede efter Arrestens Foretagelse eller, hvis Sag har været<lb/>
+anlagt og hæves, 8 Uger efter Ophævelsen, og der derhos ikke fra Boets Side er rejst<lb/>
+Sag om Erstatning. Er dette sket, må det endelige Udfald af Sagen afventes.
+</p>
+<wtitle>§ 627.</wtitle>
+<p>
+Under Arrestsagen påkendes det, om Arresten er lovlig gjort. Er Retssag<lb/>
+i Anledning af den pågældende Fordring svævende, og Arrestsagen ikke behandles<lb/>
+i Forbindelse med Hovedsagen, kunne Indsigelser mod Fordringens Rigtighed ikke<lb/>
+fremføres under Arrestsagen. I øvrigt kunne alle andre Indsigelser vedkommende Arrestens Lovlighed fremsættes og påkendes under Arrestsagen, uden Hensyn til, om<lb/>
+de tilforn have været undergivne Fogdens Afgørelse.
+</p>
+<p>
+Dersom Retten efter derom af Rekvisitus nedlagt Påstand skønner, at der<lb/>
+ikke i hans økonomiske Stilling eller Forhold i øvrigt på den Tid, da Arresten<lb/>
+begæredes, fandtes nogen rimelig Anledning for Arrestrekvirenten til at benytte det<lb/>
+nævnte Retsmiddel, bliver der ikke ved Dommen at tilkende Rekvirenten Erstatning<lb/>
+for de med Arrestens Foretagelse eller den særlige Retsforfølgning forbundne Udgifter.<lb/>
+Herimod stridende Overenskomster ere ugyldige.
+</p>
+<wtitle>§ 628.</wtitle>
+<p>
+Klager fra dens Side, hos hvem Arresten er gjort, sigtende til at bevirke Ophævelse af den foretagne Arrest som ulovlig gjort, kunne over for Arrestrekvirenten<lb/>
+alene fremføres henholdsvis under Arrestsagen eller den i Anledning af Fordringen<lb/>
+anlagte Retssag.
+</p>
+<wtitle>§ 629.</wtitle>
+<p>
+Arresten kan ophæves såvel ved Dommen i Arrestsagen som ved Dommen<lb/>
+i Hovedsagen.
+</p>
+<p>
+Arresten bortfalder først, når Ankefristen for den Dom, hvorved den kendes<lb/>
+ugyldig, er udløben, uden at Anke er iværksat, medmindre andet er bestemt i Dommen.
+</p>
+<wtitle>§ 630.</wtitle>
+<p>
+Forsømmer Arrestrekvirenten den ham ifølge det foregående påhvilende<lb/>
+Forpligtelse til inden de i § 625 ommeldte Frister at begynde Arrestsag eller Sag i<lb/>
+Anledning af Fordringen, eller afvises eller hæves nogen af disse Sager, kan Arresten<lb/>
+fordres ophævet, dog uden at Arrestrekvirenten af denne Grund er udelukket fra igen<lb/>
+at gøre Arrest for den samme Fordring.
+</p>
+<wtitle>§ 631.</wtitle>
+<p>
+En pålagt Arrest kan i det hele eller for en Del ophæves af Fogden på<lb/>
+Grund af Omstændigheder, som ere indtrufne efter Arrestens Foretagelse. På Grund<lb/>
+af formelle Fejl ved Forfølgningssagen kan Arresten kun fordres ophævet i Medfør<lb/>
+af § 630.
+</p>
+<p>
+Forinden Arresten ophæves, skal Fogden så vidt muligt give Arrestrekvirenten Lejlighed til at ytre sig, medmindre Grunden til Ophævelsen er Udeblivelse<lb/>
+med de anordnede Underholds- og Varetægtspenge.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.	54</pagename>

@@ -1,0 +1,73 @@
+1903
+<pb n="88" />
+<h>
+<coll>
+1903
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+1904
+</colr>
+</h>
+<p>
+søgte i Anledning af slige Indsigelser, naar han i sit Tilsvar har opgivet eller i det<lb />
+mindste forbeholdt dem, at anlægge et selvstændigt Erstatningssøgsmaal mod<lb />
+Sagsøgeren.
+</p>
+<p>
+Dette Erstatningssøgsmaal behandles i alle Henseender efter de almin-<lb />
+delige Regler.
+</p>
+<wtitle>§  414.</wtitle>
+<p>
+Imod de i § 412 Nr. 2 og 3 omhandlede Fordringer kunne Modfordringer kun<lb />
+gøres gældende, naar disse ere støttede paa, at der ved Forsømmelse med at give den<lb />
+i Veksellovens §§ 20, 30, 42, 45 og 75 omhandlede Underretning er forvoldt Sagsøgte<lb />
+Skade, og imod de i § 412 Nr. 1 omhandlede kun, for saa vidt Modfordringen selv<lb />
+gaar ind under samme Bestemmelse, eller den indrømmes.
+</p>
+<wtitle>§  415.</wtitle>
+<p>
+Sager, i hvilke den heromhandlede Retsforfølgning anvendes, behandles uden<lb />
+Hensyn til Genstandens Værdi ved Underret efter de oven for i Kap. 37 givne<lb />
+Regler, hvorved dog bliver at bemærke, at Dommeren er pligtig at drage særlig Om-<lb />
+sorg for, at Sagen fremmes med den størst mulige Hurtighed.
+</p>
+<wtitle>§  416.</wtitle>
+<p>
+Naar Sager af heromhandlede Beskaffenhed indankes for Landsret, er det en<lb />
+Selvfølge, at Proceduren for denne ikke kan omfatte andet, end det, som i Henhold<lb />
+til ovenstaaende Regler kunde gøres gældende for Underret,
+</p>
+<title>
+Kapitel 39.
+</title>
+<title>
+Ægteskabssager samt Sager, hvorunder Arvinger søge sig en bortebleven Persons<lb />
+Formue tilkendt.
+</title>
+<wtitle>§  417.</wtitle>
+<p>
+Sager angaaende et Ægteskabs Ugyldighed eller Opløsning blive at behandle efter<lb />
+de almindelige for Underretsproceduren gældende Regler med de neden for givne nær-<lb />
+mere Bestemmelser ved Underretten for det Sted, hvor Sagsøgte har Bopæl eller Op-<lb />
+holdssted, eller, dersom Sagsøgte har forladt Landet, eller det ikke vides, hvor Sagsøgte<lb />
+er, for det Sted, hvor denne sidst havde Bopæl eller Opholdssted her i Riget.
+</p>
+<wtitle>§  418.</wtitle>
+<p>
+Dersom Sagsøgte ikke under Sagen giver Møde ved antagen Sagfører, har Sag-<lb />
+søgeren at andrage paa, at der af Retten maa blive beskikket Sagsøgte en Forsvarer.<lb />
+Forsømmes dette, afvises Sagen.
+</p>
+<p>
+Salæret til den for Sagsøgte beskikkede Forsvarer paalægges det offentlige,<lb />
+hvor det ikke paalægges Sagsøgeren som tabende Part at udrede det.
+</p>
+<wtitle>§  419.</wtitle>
+<p>
+Retten kan uden Hensyn til, om Modparten begærer det, paalægge Sagsøgeren<lb />
+at fremstille sig til Afhørelse under Domsforhandlingen og der under Ed at besvare
+</p>

@@ -1,0 +1,80 @@
+0
+<pb n="34">
+<pagename>34</pagename>
+<col>33</col>
+<law n="31."/>§ 31.<lb/>
+<leftside>
+<p>
+Hage; Valgret til Folkethin<lb/>
+get har enhver uberygtet Mand,<lb/>
+som har Indfødsret, når han<lb/>
+har fyldt sit 30te År med mindre han:<lb/>
+a) uden at have egen Huusstand ståer i privat Tjenesteforhold,<lb/>
+</p>
+<p>
+Brun: Valgret til Folkethinget har enhver uberygtet fuldmyndig Mand, som har Indfødsret, og som enten eier skyldsat Jord,<lb/>
+eller er Borger i en Kjøbstad,<lb/>
+eller årlig betaler 5 Rbdlr. i<lb/>
+directe Skat til Staten eller Communen, med mindre han:<lb/>
+</p>
+<p>
+b) nyder eller har nydt Understøttelse af Fattigvæsenet, som<lb/>
+ikke er tilbagebetalt,<lb/>
+c) er ude af Rådigheden af<lb/>
+sit Bo,<lb/>
+d)	ikke har havt fast Bopæl i<lb/>
+eet År i det Valgdistrict eller<lb/>
+den Stad, hvori han opholder sig<lb/>
+på den Tid Valget foregåer.<lb/>
+</p>
+<law n="32."/>§ 32.<lb/>
+<p>
+Hage: Valgbar til Folkethinget er, med de i § 31 a, b og<lb/>
+c nævnte Undtagelser, enhver uberygtet fuldmyndig Mand som har<lb/>
+Indfødsret.<lb/>
+</p>
+<p>
+Brun: Valgbar til Folkethinget er med de i § 31 h og c<lb/>
+nævnte Undtagelser enhver uberygtet, fuldmyndig Mand, som<lb/>
+har Indfødsret.<lb/>
+</p>
+<p>
+<law n="33."/>§ 33.<lb/>
+Valgene til Folkethinget foregåe efter Districtet på omtrent<lb/>
+12000 Indvånere. Ethvert District vælger een blandt dem, der<lb/>
+have stillet sig til Valg.<lb/>
+<law n="34."/>§ 34.<lb/>
+Medlemmerne af Folkethinget vælges på 3 År. De erholde<lb/>
+et dagligt Vederlag.<lb/>
+<law n="35."/>§ 35.<lb/>
+Valgret til Landsthinget har Enhver, der ifølge § 31 har<lb/>
+Valgret til Folkethinget, og som eier skyldsat Jord eller er Borger i<lb/>
+en Kjøbstad eller årlig betaler 5 Rbd. i directe Skat til Staten<lb/>
+eller Communen.<lb/>
+<law n="36."/>§ 36.<lb/>
+De, der ifølge § 35 have Valgret til Landsthinget, vælge udaf<lb/>
+deres Midte Valgmænd, efter de nævnte Bestemmelser, som gives i<lb/>
+Valgloven.<lb/>
+<law n="37."/>§ 37.<lb/>
+Valgbar til Landsthinget er med de i § 31 a, b og c nævnte<lb/>
+Undtagelser, enhver uberygtet Mand, som har Indfødsret, når han<lb/>
+har fyldt sit 40de År.<lb/>
+<law n="38."/>§ 38.<lb/>
+Valgene til Landsthinget foregåe stiftsviis. Valgmændene i<lb/>
+hvert Stift træde sammen og stemme på så mange Mænd som<lb/>
+skulle vælges for Valgkredsen, i hvilken i det Mindste ¾ af de Valgte<lb/>
+skulle have havt fast Bopæl i det sidste År. Til et gyldigt Valg<lb/>
+udfordres mere end Halvdelen af de afgivne Stemmer.<lb/>
+<law n="39."/>§ 39.<lb/>
+Antallet af Landsthingets Medlemmer skal stedse være omtrent<lb/>
+½ Delen af Antallet af Folkethingets Medlemmer.<lb/>
+<law n="40."/>§ 40.<lb/>
+Medlemmerne af Landsthinget vælges på 8 År. Halvdelen<lb/>
+afgåer hvert 4de År. De erholde intet Vederlag.<lb/>
+<law n="41."/>§ 41.<lb/>
+Når en ny Communællov er givet, kan det ved lov bestemmes, at Valget af Landsthingets Medlemmer skal gåe over til<lb/>
+Communalbestyrelserne.<lb/>
+</p>
+</leftside>
+
+</pb>

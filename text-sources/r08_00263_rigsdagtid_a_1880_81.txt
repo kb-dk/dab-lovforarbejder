@@ -1,0 +1,52 @@
+3889
+<pb n="263" />
+<h>
+<coll>3889</coll>
+<topmidle>Forjl. t. L. om Strafferetspleien.</topmidle>
+<colr>3890</colr>
+</h>
+<p>stcrndigheder,   der  ere  af Vigtighed   for  hans Krav,   forsaavidt det kan ske uden vcefentlig<lb />
+Forhaling.</p>
+<wtitle>§ 458.</wtitle>
+<p>Klagen, hvorved det borgerlige Retskrav gjores gjældende, afsattes skriftlig; dog kan<lb />
+den, hvis den fremkommer under Hovedforhandlingen, sremfættes mundtlig til Retsbogen. Ved<lb />
+Underretten skal Dommeren paa Begjæring være behjælpelig med Klagens Afsattelse, naar<lb />
+Belobet ikke er over 40 Kr.</p>
+<p>Klagen skal indeholde Parternes Navne, Bopæle eller Opholdssteder (§ 441 Nr. 2),<lb />
+Henvisning til Anklagen samt nsiagtig Angivelse af Paastanden.</p>
+<wtitle>§ 459.</wtitle>
+<p>Den Forurettede, som uden selv at være Anklager forfølger et borgerligt Retskrav<lb />
+under Ttraffesagen, har Ret til at møde under Hovedforhandlingen, om hvilken meddelelse til<lb />
+ham sker. Han kan andrage paa, at Svorgsmaal stilles til den Sigtede, Vidner samt Syns-<lb />
+eller skjønsmænd. med Anklagerens Samtykke kan han selv udsporge Vidner, Syns-<lb />
+eller skjønsmænd efter samme Regler som hin. Giterat Bevisforelsen har fundet Sted og<lb />
+Anklageren har udtalt sig, har han Adgang til Ordet, i nævningesager, jfr. § 456, forft, efter<lb />
+at Nævningerne have erklæret den Sigtede skyldig og Anklageren har udtalt sig om Straffe-<lb />
+lovens Anvendelse.</p>
+<p>Udebliver den Forurettede, som ikke selv er Anklager, oplæses hans Paastand og tages<lb />
+paa forestreven Maade i Betragtning; men han maa finde sig i, at Ufuldstændigheder og<lb />
+Tvetydigheder i hans Paastand fortolkes til hans Ugunst.</p>
+<p>Indtil Bevisforelsen er begyndt, staar det ham frit for at tage fin Klage tilbage med<lb />
+Forbehold af at forsslge sit Krav i den borgerlige Netsvleies Former, senere kun med den<lb />
+Eigtedes Samtykke.</p>
+<wtitle>§ 460.</wtitle>
+<p>Retten kan saavel straz som senere under Sagens Gang ncegte det borgerlige Rets-<lb />
+kravs forsølgning i Forbindelse med Straffesagens Fremme, naar det findes, at den sidste<lb />
+derved vil lide væsentligt Ophold.</p>
+<p>Paakjendelse af Kravet finder ikke Sted:</p>
+<p>1)  naar Retten sinder, at det i Anledning af Ttlafspørgsmaalet Oplyste ikke   inde-<lb />
+holder tiistrackkelige Forudsætninger for Paadommelsen;</p>
+<p>2)  naar Frifindelse for eller Ioommelse af Straf ikke findes at føre en Afgjørelse af<lb />
+Kravet i samme Retning med sig.</p>
+<p>I alle Tilfælde, hvor Retten ikke har paakjendt Kravet, staar det den Paagjældende<lb />
+frit for at forsølge fit Krav i de-i borgerlige Retspleies Former.</p>
+<p>Har der under Sagens Forhandling været Strid, om en Skade er foraarsaget<lb />
+eller om Erstatningens Swrrelse, træffer Retten Afgjørelse efter frit skjøn over alle i Be-<lb />
+tragtning kommende Omstændigheder, forsaavidt Paakjendelsen ikke i medfør af foran-<lb />
+staaende Regler er udelukket. Tilkjendes Erstatning, anflaas den i Reglen til en rund<lb />
+Sum.</p>
+<wtitle>§ 461.</wtitle>
+<p>Mod Rettens Afgjørelser med Hensyn til det borgerlige Retskrav kunne ordentligvis<lb />
+Retsmidler ikke anvendes særskilt; dog kan Besværing finde Sted, naar Paakjendelse er sket,<lb />
+uagtet Kravet ikke er paatalt af den Forurettede, eller imod Reglen i § 460 Nr, 2, eller<lb />
+naar Anken alene angaar Siorrelsen af den fastsætte Erstatning.</p>

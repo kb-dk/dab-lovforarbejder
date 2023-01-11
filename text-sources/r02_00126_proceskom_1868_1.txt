@@ -1,0 +1,23 @@
+123
+<pb n="126" />
+<leftside>
+<p>i Henseende til Retten til at give Møde for<lb />
+Domstolene som i Henseende til andre Rettigheder og Pligter skulle finde Anvendelse med<lb />
+Hensyn til de mænd, der tidligere ere beskikkede<lb />
+i de Sagførerstillinger, som efter det gamle<lb />
+Systems Tredeling svare til hine.</p>
+</leftside>
+<rightside>
+<p>finder dette Medlem dog Anledning til at udtale, at ligesom han under Forhandlingerne på<lb />
+flere væsentlige Punkter, navnlig af Organisationsudkastet, ikke har kunnet følge Flertallet,<lb />
+men stillet særlige Ædringsførslag, der dog<lb />
+ikke have vundet Kommissionens Tilslutning,<lb />
+således må han forbeholde sig Frihed til<lb />
+under Lovgivningsværkets senere Gang efter<lb />
+den Lejlighed, der måtte gives ham, at forsøge på at gjøre sine afvigende Anskuelser<lb />
+gjældende på den Måde og i det Omfang,<lb />
+han måtte anse for rigtigt.</p>
+<note>Gndskjønt Kommissionens Medlem C. V.<lb />
+Nyholm af forstjellige Grunde har afholdt sig<lb />
+fra   at  indgive  noget   disfentierende Votum,</note>
+</rightside>

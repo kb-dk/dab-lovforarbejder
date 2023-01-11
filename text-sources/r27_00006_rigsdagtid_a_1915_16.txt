@@ -1,0 +1,88 @@
+2651
+<pb n="6" />
+<h>
+<coll>
+2651
+</coll>
+<topmidle>
+F. t. L.  Rettens Pleje.
+</topmidle>
+<colr>
+2652
+</colr>
+</h>
+<p>
+Til Forretningerne som Retsskriver henregnes:
+</p>
+<p>
+1)	Besørgelsen af de under Betten hørende Skriverforretninger og Udfærdigelser,<lb />
+derunder Udskrifter af Retsbøgerne;
+</p>
+<p>
+2)	Oppebørsel af Retsafgifter og Regnskabsaflæggelse herfor;
+</p>
+<p>
+3)	Ekspedition af Dokumenter, der tinglæses eller aflæses, og Førelse af Skøde- og<lb />
+Pantebøgerne og
+</p>
+<p>
+4)	Notarialforretninger.
+</p>
+<p>
+I Underretskredse, hvor Folketallet efter sidste Folketælling overstiger 40,000<lb />
+Indbyggere (jfr. dog angaaende Frederiksberg Birk Paragraffens 1ste Stykke), ansæt-<lb />
+tes en særlig Dommer, til hvilken henlægges de Dommeren og Skriveren ved Underret-<lb />
+terne paahvilende Forretninger vedrørende Strafferetsplejen og Skifteforvaltningen. Hvor<lb />
+Omstændighederne særlig taler derfor, kan Kongen dog bestemme, at en Underretskreds,<lb />
+hvis Folketal har naaet den nævnte Størrelse, skal deles i to Retskredse hver med en enkelt<lb />
+Dommer; Sammenlægning af paa denne Maade adskilte Retskredse kan kun ske ved Lov.<lb />
+Ligeledes kan det ved kongelig Anordning bestemmes, at Fordelingen af Forretningerne<lb />
+mellem to i samme Underretskreds ansatte Dommere skal være en anden end ovenfor<lb />
+nævnt. Saadan Bestemmelse kan dog kun træffes samtidig med Lovens Ikrafttræden<lb />
+samt ellers, naar der første Gang skal ansættes to Dommere i Retskredsen.
+</p>
+<p>
+Paa Underretsdommerens Begæring kan der af Landsrettens Formand med-<lb />
+deles dertil egnede Personer (§ 45) Bemyndigelse til paa Dommerens Ansvar at ud-<lb />
+føre Fogedforretninger, de til Skifteforvaltningen hørende Forretninger eller Dele af<lb />
+samme, Notarialforretninger samt de i § 1018, 1ste Stykke, omhandlede Forhør. Be-<lb />
+myndigelse til at udføre nogen Del af de egentlige Dommerforretninger kan kun med-<lb />
+deles af Justitsministeren.
+</p>
+<p>
+Med Hensyn til Udlægs og Udpantningers Foretagelse ved Politimesteren og<lb />
+Sognefogeden gælder Reglerne i 3die Bogs 3die Afsnit.
+</p>
+<wtitle>§ 18.</wtitle>
+<p>
+I Søsager samt i de Straffesager, der efter de hidtil gældende Regler har<lb />
+hørt under Søretterne, tiltrædes Underretten udenfor København af 2 søkyndige Mænd<lb />
+overensstemmende med Reglerne i Lov om Søretter af 12. April 1892 §§ 2, 3, 4 og<lb />
+5, og saaledes at Retten kan beklædes af Formanden alene i de i nævnte Lovs § 1,<lb />
+2det Stykke, 1ste og 2det Punktum, angivne Tilfælde.
+</p>
+<wtitle>§ 19.</wtitle>
+<p>
+Ved kongelig Anordning bestemmes Tingstederne for Underretterne udenfor<lb />
+København. Bortfalder et af de nuværende Hovedtingsteder, oprettes der paa det<lb />
+paagældende Sted et Bitingsted for Retskredsen.
+</p>
+<p>
+Tildeles der en Retskreds flere Tingsteder, fastsætter Anordningen de Dele af<lb />
+Kredsen, som med Hensyn til Rettens ordentlige Møder skal henhøre til ethvert<lb />
+af disse. Tinglæsning og Aflæsning af Dokumenter skal dog for hele Retskredsen<lb />
+foregaa ved det Tingsted, der i Anordningen betegnes som Hovedtingsted, men Dom-<lb />
+meren er pligtig ved de ordentlige Retsmøder paa ethvert Tingsted i Kredsen at<lb />
+modtage Dokumenter, som indleveres til Tinglæsning eller Aflæsning, samt efter For-<lb />
+udbegæring at udlevere tinglæste og aflæste Dokumenter.
+</p>
+<p>
+Dommeren skal have Bolig ved Kredsens Tingsted (Hovedtingsted). Dog kan<lb />
+Justitsministeren tilstede Afvigelse herfra.
+</p>
+<p>
+Skønnes det efter Omstændighederne fornødent, kan det ved kongelig Anord-<lb />
+ning bestemmes, at Dommeren paa et eller flere Steder i Retskredsen udenfor Hoved-<lb />
+tingstedet vil have at indrette en Afdeling af sit Embedskontor. Justitsministeren<lb />
+træffer Bestemmelse om Kontordagenes Antal og Kontortidens Længde.
+</p>

@@ -1,0 +1,50 @@
+3523
+<pb n="80" />
+<h>
+<coll>3523</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3524</colr>
+</h>
+<p>sværing   over de Kjendelser, hvorved Noget paalæggetz  dem,   forholdes   efter  de  om Vidner<lb />
+givne Regler.</p>
+<wtitle>§ 237.</wtitle>
+<p>De om Vidner givne Regler skulle med de Lempelser, der følge af Sagens Natur,<lb />
+anvendes paa Syns- og skjønsmænd, forsaavidt denne Lovs Forskrifter ikke ere til Hinder<lb />
+derfor.</p>
+<wtitle>§ 238.</wtitle>
+<p>Retten er ikke bunden ved Syns- eller Skønsforretningens Resultat og kan paabyde<lb />
+Foretagelse af ny Forretning enten af de samme eller andre Syns- eller skjønsmænd.</p>
+<wtitle>§ 239.</wtitle>
+<p>med Syns- eller Skønsforretnings Optagelse, forinden dette efter de almindelige<lb />
+Regler kan ske under Hovedforhandlmgen, forholdes efter Bestemmelserne i sjette Afsnit Ka-<lb />
+pitel I.</p>
+<title>Tredie Underafdeling.</title>
+<undertitle>Om Bevis ved Dokumenter.</undertitle>
+<wtitle>§ 240.</wtitle>
+<p>Dokumenter, som ere i Partens Besiddelse, eller som han uden Rettens medvirkning<lb />
+kan forskaffe sig, maa i Reglen forelægges Retten i det til den mundtlige Forhandlings Be-<lb />
+gyndelse bestemte Msoe, efterat de forud have været meddelte Modparten enten i Overens-<lb />
+stemmelse med Reglerne i §§ 159 og 162 eller, hvis ^dette ikke har kunnet ske, fenest 3<lb />
+Dage forud. Dog kunne de foreltegges senere under Sagen eller uden foregaaende meddelelse<lb />
+til Modparten, naar dette i Henhold til Grund sletningerne i s 168 tillades af Retten.</p>
+<p>-.;   ,         </p>
+<wtitle>§ 241.</wtitle>
+<p>Beraaber en Part sig paa Dokumenter, der ere i Modpartens værge eller under hans<lb />
+Raadighed, tan han opfordre denne til under Bevisforhandlingen at fremlægge dem for Retten<lb />
+ester 3 Dages forudgaaende meddelelse til Parten selv. Opfordringen maa ledsages af en<lb />
+Angivelse af de Kjenosgjerninger, som ved Dokumentet skulle bevises. Ubeføiet Vcegring ved<lb />
+at fremkomme med Originaldokumentet eller bekrceftet Gjenpart, hvor dette er tilstrækkeligt, kan<lb />
+Retten i saa Kald Tillægge Virkning i Overensstemmelse med Grundsætningerne i § 97.<lb />
+Det Samme gjælder ogsaa, naar Vedkommende for at hindre Dokumentets Fremlæggelse har<lb />
+sdelagt det eller uden Nødvendighed givet det fra sig.</p>
+<p>Paaftaar vedkommende Part, at der i Dokumentet tillige indeholdes Oplysninger,<lb />
+som ere denne Sag uvedkommende, og som han ikke snfker bekjendtgjorte, bestemmer Retten,<lb />
+paa hvilken Maade Dokumentet skal fremlægges.</p>
+<p>Ncrgter vedkommende Part at være i Besiddelse af det angivne Dokument, paahviler<lb />
+det den, som fordrer dets Fremlæggelse, at bevise hans Besiddelse deraf.</p>
+<p>De i denne Paragraf omhandlede Opfordringer til at fremlægge Dokumenter skulle i<lb />
+Reglen fremsættes i det i § 180 omhandlede Retsmode, i hvilket Forhandling finder Sted<lb />
+og fornøden Kjendelse afsiges.</p>
+<p>1</p>
+<wtitle>§ 242.</wtitle>
+<p>Tredjemand er pligtig tit faa Opfordring at fremkomme med Dokumenter, naar ved"</p>

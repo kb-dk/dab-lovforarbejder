@@ -1,0 +1,30 @@
+4
+<pb n="4" />
+<h>IV</h>
+<title>Andet Afsnit.</title>
+<undertitle>Midler til Sagens Oplysning m. m.</undertitle>
+<undertitle>(§§ 88-186).</undertitle>
+<p>Kapitel XI.</p>
+<p>Vidner (§§ 98—114)   .................................................    37-45.</p>
+<p>Kapitel XII.</p>
+<p>Besigtigelse, Syn og Skøn (§§ 115—131,.................................    45—51.</p>
+<p>Kapitel XIII.</p>
+<p>Beslaglæggelse (§§ 132—141...........................................    51 — 54.</p>
+<p>Kapitel XIV.</p>
+<p>Ransagning (§§ 142—148).............................................     54—57.</p>
+<p>Kapitel XV.</p>
+<p>Sigtedes Indkaldelse og Afhørelse for Retten (§§ 149—154)   .................    57—59.</p>
+<p>Kapitel XVI.</p>
+<p>Anholdelse (§§ 155—165)   .............................................    59—63.</p>
+<p>Kapitel XVII.</p>
+<p>Fængsling (§§ 166—179)    .............................................    63—70.</p>
+<p>Kapitel XVIII.</p>
+<p>Beslag paa Sigtedes Formue og Forbud mod Foreninger og Skrifter (§§ 180—186)    70—72.</p>
+<title>Tredie Afsnit.</title>
+<undertitle>Undersøgelse, førend Tiltale er rejst, i Sager, som forfølges af<lb />
+Overanklageren eller Politiet.</undertitle>
+<undertitle>(§§ 187-215).</undertitle>
+<p>Kapitel XIX.</p>
+<p>Efterforskning (§§  187—200)     ..........................................     73—78.</p>
+<p>Kapitel XX.</p>
+<p>Forundersøgelse ved Retten (§§ 201—215)  ................................    79 — 85.</p>

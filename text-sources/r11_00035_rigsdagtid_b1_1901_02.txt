@@ -1,0 +1,114 @@
+2327
+<pb n="35" />
+<h>
+<coll>2327</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2328</colr>
+</h>
+<leftside>
+<p>og dets Indhold i samme Omfang, hvori<lb />
+dette ved Tinglæsning hidtil er sket i Ju-<lb />
+stitsprotokollen.</p>
+<wtitle>Til § r.</wtitle>
+<p>Tinglysning foregaar hver Dag. Fore-<lb />
+tagelsen af Tinglysning afsluttes 2 Timer<lb />
+før Skøde- og Pantebogs-Bestyrerens Kon-<lb />
+tor regelmæssig lukkes. Naar der om det<lb />
+sidste indtil da indkomne Dokument er<lb />
+sket Tilførsel til Tinglysningsbogen, slutter<lb />
+han Tinglysningshandlingen for den Dag<lb />
+og underskriver det Tinglysningsbogen<lb />
+derom tilførte.</p>
+<p>Dokumenter, indkomne senere end 2<lb />
+Timer før Kontorets regelmæssige Luk-<lb />
+ning, maa ikke tinglyses samme Dag, men<lb />
+skulle tinglyses næste Dag.</p>
+<p>Alle paa een Dag tinglyste Doku-<lb />
+menter anses i Henseende til Tinglysnin-<lb />
+gens Retsvirkning som tinglyste samtidig,<lb />
+uden Hensyn til deres Følgeorden ved Ind-<lb />
+lever ingen eller ved Tilførslen til Tinglys-<lb />
+ningsbogen.</p>
+<p>Over de den foregaaende Dag ting-<lb />
+lyste Dokumenter tilstilles der hver Dag<lb />
+Rettens Kontor en Fortegnelse til Opslag,<lb />
+ligesom der hver Dag i Skøde- og Pante-<lb />
+bogs-Bestyrerens Kontor opslaas en For-<lb />
+tegnelse til offentligt Eftersyn i Kontor-<lb />
+tiden. Saadanne Fortegnelser skulle altid<lb />
+tindes opslaaede der for mindst de 6 sidste<lb />
+Kontordage.</p>
+<wtitle>Til § s.</wtitle>
+<p>Tinglyste Dokumenter, der vedrøre<lb />
+tinglige Rettigheder, blive at behandle til<lb />
+Skøde- og Pantebøgerne og til disses Re-<lb />
+gistre ganske paa samme Maade som et<lb />
+tinglæst Dokument,</p>
+<p>I samme Tilfælde, hvori der hidtil har<lb />
+skullet skaffes Retsskriveren Grenpart af<lb />
+et til Tinglæsning indleveret Dokument,<lb />
+skal der forskaffes Skøde- og Pantebogs-<lb />
+Bestyreren Genpart af et til Tinglysning<lb />
+indgivet Dokument.</p>
+<wtitle>Til § t.</wtitle>
+<p>Der gives det tinglyste Dokument<lb />
+Paategning om sket Tinglysning paa samme<lb />
+Maade, som Dokumenter hidtil ere blevee<lb />
+paategnede om sket Tinglæsning.</p>
+<p>I alle Tilfælde, hvori der hidtil har<lb />
+været at give et tinglæst Dokument Rets-<lb />
+anmærkning, gives der et indtegnet Doku-<lb />
+ment Tinglysningsanmærkning med samme<lb />
+Retsvirkning, som Retsanmærkning hidtil<lb />
+har medført.</p>
+</leftside>
+<rightside>
+<wtitle>Til § u.</wtitle>
+<p>Til Tinglæsning i rette Tid (D. L.<lb />
+5—3—29) og Tinglæsning første eller<lb />
+anden Retsdag (Fdg. 28. Juli 1841 § 1)<lb />
+skal svare Tinglysning senest Fjortende-<lb />
+dagen efter Dokumentets Udstedelse.</p>
+<wtitle>Til § v.</wtitle>
+<p>Reglerne om rette Tinglæsningssteds<lb />
+Bestemmelse ved fast Ejendoms Beliggen-<lb />
+hed eller ved Persons Bopæl forblive gæl-<lb />
+dende ogsaa ved Bestemmelse af rette<lb />
+Tinglysningssted, kun med den Forskel, at<lb />
+det er Beliggenhed eller Bopæl i Øvrig-<lb />
+hedskredsen og ikke i Retskredsen, som</p>
+<p>her bliver bestemmende.</p>
+<wtitle>Til § x.</wtitle>
+<p>Der paahviler med de Forandringer,<lb />
+som nærværende Kapitel medfører, Skøde-<lb />
+og Pantebogs-Bestyreren samme Pligter i<lb />
+Henseende til Tinglysning, som hidtil have<lb />
+paahvilet Retsskriveren i Henseende til<lb />
+Tinglæsning.</p>
+<p>Hvis nogen finder sig brøstholden ved<lb />
+en af en Bestyrer af Skøde- og Pante-<lb />
+bøger truffen Afgørelse vedrørende en<lb />
+Tinglysning, henvender han sig derom til<lb />
+den paagældende Embedsmand. Denne er,<lb />
+naar han finder Klagen begrundet, beret-<lb />
+tiget til paa sit Ansvar at træffe anden<lb />
+Afgørelse. Mener han ikke at burde dette,<lb />
+eller finder den klagende sig ikke tilfreds-<lb />
+stillet ved den ændrede Afgørelse, kan<lb />
+Klageren søge denne forandret ved Søgs-<lb />
+maal eller Besværing i Overensstemmelse<lb />
+med de i § 501 foreskrevne Regler."</p>
+<p>De følgende Paragraffers Tal rettes<lb />
+derefter, og Betegnelsen „Ottende Afsnit"<lb />
+(foran Lovforslagets § 530) ændres til<lb />
+„Femte Afsnit".</p>
+<pt>Over § 530.</pt>
+<p>Af Udvalget:</p>
+<p>528 a.) I Overskriften udgaar: „Lovens<lb />
+Træden i Kraft" og „m. m." Overskriften<lb />
+flyttes derhos op under Ordene: „Ottende<lb />
+Afsnit."</p>
+<wtitle>Til § 530.</wtitle>
+<p>Af Udvalget:</p>
+<p>528 b.) Paragraffen udgaar.</p>
+</rightside>

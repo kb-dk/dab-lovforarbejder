@@ -1,0 +1,70 @@
+3905
+<pb n="1216" >
+<p rend="page">1216</p>
+<h>
+<coll>3905</coll>
+<colr>3906</colr><lb />
+
+Slutningsmøde<lb />
+</h>
+<leftside>
+<stitle>
+Det 140de offentlige Møde.<lb />
+(Det 144de Møde i den hele Række.)<lb />
+</stitle>
+<subtitle>
+Tirsdagen den 5te Juni.<lb />
+</subtitle>
+<p>
+Slutningsmøde.<lb />
+</p>
+<p>
+Efterat Forsamlingens Medlemmer Kl. 12 Formiddag havde indtaget deres Pladser og Formanden sit Sæde, indfandt Hans<lb />
+Maiestæt Kongen sig i Forsamlingen, ledsaget af hans kongelige Høihed Arveprinds Frederik Ferdinand, Ministrene, Overhofmarschallen og øvrige af de fornemste Hofembedsmænd, samt den kongelige Adiutantstab.<lb />
+</p>
+<p>
+Forsamlingen reiste sig og modtog hans Maiestæt staaende,<lb />
+hvorefter Allerhøistsamme fra Thronstolen oplæste Følgende Tale:<lb />
+Danske Mænd!<lb />
+</p>
+<p>
+Det Hverv, som var Eder overdraget, have I nu fuldført. —<lb />
+Jeg har tiltraadt de Forandringer, Som I have Foreslaaet i det Udkast til en Forfatningslav, som jeg havde ladet Eder forelægge, og<lb />
+jeg har derfor idag vedtaget, underskrevet og til ubrødelig Efterlevelse<lb />
+ladet udgaae Danmarks Riges Grundlov.<lb />
+</p>
+<p>
+Dette Værk, der skal være Grundvolden for vort elskede Fødelands fremtidige Udvikling, er saaledes tilendebragt under det Sam<lb />
+
+</p>
+</leftside>
+<rightside>
+<p>
+drægtigheds Baand, som her saa lykkelig forener Konge og Folk; men<lb />
+endnu sukker Landet under den ligesaa uretfærdige som haarde Kamp,<lb />
+en overlegen Fjende har paaført det. Under disse Omstændigheder<lb />
+kan der indtræde Tilfældee, hvis Afgjørelse vil udfordre Medvirkning<lb />
+fra Folkets Side uden at kunne opsættes, indtil Rigsdagen grundlovmæssigen kan sammentræde. I saadanne Tilfældee forbeholdeer jeg mig<lb />
+derfor, idet jeg herved i Naade opløser nærværende Forsamling, igien<lb />
+at kunne lade Eder sammentræde som Repræsentanter for Folket<lb />
+</p>
+<p>
+Den Almægtige skjænke sin Velsignelse til det af os nu fuldendte<lb />
+Værk, at det maa blive til Danmarks Sande Vel!<lb />
+</p>
+<p>
+Efter denne Tale udbragte Rigsforsamlingens Formand et<lb />
+„Kongen leve! “, som fra Forsamlingen og Tilhørerne besvaredes med<lb />
+et ni Gange gjentaget Hurraraab.<lb />
+</p>
+<p>
+Hans Majestæt svarede: „Jeg takker dem Allesammen, Gud<lb />
+være med dem! “, og forlod derefter med sit Følge Salen, ledsaget af<lb />
+Forsamlingens og de tilstedeværende Tilhøreres gjentagne Jubelraab,<lb />
+hvorefter Forsamlingens Medlemmer adskiltes.<lb />
+Trykt og forlagt af Kgl. Hosbogtrykker Bianco Luno.<lb />
+</p>
+</rightside>
+
+
+</pb>

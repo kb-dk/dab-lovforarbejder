@@ -1,0 +1,51 @@
+3867
+<pb n="252" />
+<h>
+<coll>3867</coll>
+<topmidle>Forsl. t. k. om Strasseretspleien.</topmidle>
+<colr>3868</colr>
+</h>
+<p>med Dokumenter eller Lignende, maa Bewcenng iværksættes inden en Frist af 3 Dage.<lb />
+Samme Frist gjælder ogsaa for Besværing imod Kjendelser, ved hvilke Straf er paalagt.<lb />
+Besværing imod Kjendelser af sidstnævnte Art kan kun finde Sted under de Betingelser med<lb />
+Hensyn til Straffens Størrelse, som § 397 angiver.</p>
+<p>Opreisning mod Forsommel»'e ak Besværingsfristen kan gives efter Reglen i § 379.</p>
+<wtitle>§ 410.</wtitle>
+<p>Imod Kjendelser, som i Henhold til §§ 137 og 162 have paalagt et udeblevet<lb />
+Vidne eller Syns- eller Ekjonsmand Straf, kan Be'væring kun sinde Sted. naar Begjæring<lb />
+om Kjendelsens Ophævelse overensstemmende med § 138 forgjceves har været fremsat, og Fri-<lb />
+sten regnes fra Rettens Ncrgtelse at efterkomme Begjæringen. En lignende Regel gjælder<lb />
+med Hensyn til Kjendelser om Forbrydelse af Sikkerhedsstillelse (§ 193).</p>
+<wtitle>§ 411.</wtitle>
+<p>Besværingen iværkfcrttes ved Anmeldelse til Undersogelsesdommeren, skriftlig eller mundt-<lb />
+lig til Retsbogen, Om Besværingen underretter Dommeren den eller dem, fcm maattc bavc<lb />
+retlig Interesse i Kjendelsens eller Beslutningens Opretholdelse.</p>
+<wtitle>§ 412.</wtitle>
+<p>Besværing imod de i § 409 2det Etvkke ommeldte Besiutninger og Kjendelser hindrer<lb />
+deres Fuldbyrdelse, naar den finder Sted inden den foreskrevne Frist. I andre Tilrcrldc<lb />
+medkorer Besværing ikke Opsættelse af Beslutningens Udforelse; dog kan saavel Undersogelses-<lb />
+dommeren selv som den Ret, til hvilken Bksværingen sker. beslutte en saadan Opsættelse,</p>
+<wtitle>§ 413.</wtitle>
+<p>Er Besværing anmeldt, indsendes de fornødne Akter, eller, forsaavidt disse ikke kunne<lb />
+undværes, bekrceftede Asskrifter samt fornøden Udskrift af Retsbogen til den Ret, til hvilken<lb />
+Besværingen sker; om fornødent findes, lader Undersogelsesdommeren sin Erklæring medfolge.</p>
+<p>I løbet af en Uge fra Anmeldelsen eller fra meddelelsen om samme tit Modparten<lb />
+har den, som besværer sig, og Modparten Adgang til at indsende til den Ret, til hvilken<lb />
+Besværing er sket, stnftlige Udtalelser om spørgsmaalet. Senere indsendte Udtalelser kunne<lb />
+tages i Betragtning, naar Afgjørelse ikke har fundet Sted. Den Sigtede, som er fængstet,<lb />
+kan fremsætte sin erklæring mundtlig til Retsbogen for Underfsgelsesdommeren, som uophol-<lb />
+delig indsender fornøden Afskrift.</p>
+<p>Den Forsvarer, som maatte være bestikket, er Pligtig til paa Begjæring at være<lb />
+den Sigtede behjælpelig ved Fremsættelsen af de fornødne Anmeldelser og erklæringer.</p>
+<wtitle>§ 414.</wtitle>
+<p>førend Afgjørelse træffes, kan Retten efter sit skjøn indhente yderligere Oplys-<lb />
+ninger eller Erklæringer som og ved Undersogelsesdommeren eller et medlem af Landsretten<lb />
+lade afhøre Vidner m. V.</p>
+<p>Paa Grundlag af de indsendte Akter, indkomne Udtalelser og Erklæringer samt ind-<lb />
+hentede Oplysninger trasser Retten snarest mulig Afgjørelse ved Kjendelse. Naar særlige<lb />
+Grunde tale derfor, kan Retten paa Andragende eller i Embeds medfør anordne mundtlig<lb />
+Forhandling. Udebliver i saa Fald den, der besværer sig, betragtes Besværingen som fra-<lb />
+falden; udebliver Modparten, er dette ikke til Hinder for, at Sagen paakjendes, efterat den<lb />
+Klagendes mundtlige Fremstilling er hort.</p>
+<p>Retten er i sin Afgjørelse ikke bunden ved Undersogelsesdommerens skjøn om det<lb />
+faktiske Grundlag.</p>

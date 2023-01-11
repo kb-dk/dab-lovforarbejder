@@ -1,0 +1,99 @@
+3143
+<pb n="252" />
+<h>
+<coll>
+3143
+</coll>
+<topmidle>
+F. t. L. om  Retens Pleje.
+</topmidle>
+<colr>
+3144
+</colr>
+</h>
+<p>
+Tavle over Politikredsene,<lb />
+jfr. Lovens § 109.<lb />
+Sjælland og Møen.
+</p>
+<p>
+1.	Frederiksberg Birk.
+</p>
+<p>
+2.	Københavns Amts nordre Birk.
+</p>
+<p>
+3.	Københavns Amts søndre Birk og Amager Birk.
+</p>
+<p>
+4.	Roskilde Købstad, Ramsø-Tune Herreder og Lejre Herred.
+</p>
+<p>
+5.	KøgeKøbstad, Vallø Birk og Bjeverskov Herred samt Bregentved-Gisselfeld Birk.
+</p>
+<p>
+ti. Helsingør Købstad, Kronborg østre Birk og Hellebæk Birk samt Hørsholm Birk.
+</p>
+<p>
+7.	Hillerød Købstad. Frederiksborg Birk (undtagen Ølsted Sogn) og Kronborg<lb />
+vestre Birk.
+</p>
+<p>
+8.	Frederikssund Købstad og Horns Herred, Frederiksværk Købstad og Halsnæs Birk<lb />
+samt Ølsted Sogn af Frederiksborg Birk.
+</p>
+<p>
+9.	Holbæk Købstad, Merløse-Tudse Herreder samt Nykøbing S. Købstad og Drags-<lb />
+holm Birk.
+</p>
+<p>
+10.	Kalundborg Købstad, Arts-Skippinge Herreder og Samsø Birk.
+</p>
+<p>
+11.	Slagelse Købstad, Antvorskov Birk og Løve Herred.
+</p>
+<p>
+12.	Korsør Købstad og Landjurisdiktion, Skelskør Købstad og Vester Flakkebjerg Herred<lb />
+samt Holsteinborg Birk
+</p>
+<p>
+13.	Ringsted Købstad og Herred samt Skjoldnæsholm og Svenstrup Birker. Sorø Køb-<lb />
+stad og Birk samt Baroniet Holbergs Birk.
+</p>
+<p>
+14.	Næstved Købstad og Tybjerg Herred samt Øster Flakkebjerg Herred.
+</p>
+<p>
+15.	Storehedinge Købstad og Stevns-Fakse Herreder.
+</p>
+<p>
+10.	Præstø Købstad og Vordingborg nordre Birk.
+</p>
+<p>
+17.	Vordingborg Købstad og Vordingborg søndre Birk samt Stege Købstad og Moens<lb />
+Herred.
+</p>
+<p>
+Bornholm.
+</p>
+<p>
+18.	Rønne Købstad, Vester Herred, Hasle Købstad. Nordre Herred, Hammershus<lb />
+Birk, Svaneke Købstad. Øster Herred. Christiansø, Neksø Købstad. Sønder Herred<lb />
+samt Aakirkeby Købstad.
+</p>
+<p>
+Lolland-Falster.
+</p>
+<p>
+19.	Nykøbing F. Købstad og Herred, Stubbekøbing Købstad og Herred samt Falster<lb />
+Vester Herred.
+</p>
+<p>
+20.	Sakskøbing Købstad og Musse Herred samt Nysted Købstad og Birk.
+</p>
+<p>
+21.	Maribo Købstad og Birk, Rødby Købstad og Fuglse Herred samt Fejø Birk.
+</p>
+<p>
+22.	Nakskov Købstad og Lollands Nørre samt Sønder Herreder.
+</p>

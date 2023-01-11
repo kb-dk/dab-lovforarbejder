@@ -1,0 +1,65 @@
+1949
+<pb n="23" />
+<h>
+<coll>
+1949
+</coll>
+<topmidle>Forsl. t. L. om  Rettens Pleje.</topmidle>
+<colr>
+1950
+</colr>
+</h>
+<wtitle>§ 99.</wtitle>
+<p>
+Der tilkommer Nævninger 3 Kr. for hver Dag, de i Anledning af Nævninge-<lb />
+hvervet holdes borte fra Hjemmet, og endvidere, naar de give Møde over 3 Kilometer<lb />
+fra den By, hvori de bo. eller, naar de bo paa Landet, fra deres Hjem, Godtgørelse for<lb />
+Billet til Jernbane (III. Klasse) og Dampskib (II. Plads), hvor saadant kan benyttes,<lb />
+og i øvrigt for Befordring frem og tilbage med 20 Øre for hver Kilometer, dog<lb />
+mindst 1 Kr.
+</p>
+<wtitle>§ 100.</wtitle>
+<p>
+Aarslisten samt Tingets Hovedliste og Hjælpeliste tilbagesendes efter Tingets<lb />
+Slutning til Formanden for Udvalget til Aarslistens Dannelse.
+</p>
+<title>Tredie Afsnit.</title>
+<title>Anklagemyndigheden.</title>
+<title>Kapitel 10.</title>
+<wtitle>§ 101.</wtitle>
+<p>
+De offentlige Anklagere ere Rigsanklageren, Overanklagerae samt de til disses<lb />
+Bistand beskikkede Mænd.
+</p>
+<wtitle>§ 102.</wtitle>
+<p>
+Rigsanklageren beskikkes af Kongen. Til midlertidig at fungere som Rigs-<lb />
+anklager i Tilfælde af Embedsledighed eller Forfald kan Justitsministeren meddele<lb />
+Beskikkelse.
+</p>
+<p>
+Rigsanklageren virker ved Højesteret og fører Tilsynet med de offentlige An-<lb />
+klagere efter de nærmere Regler i nærværende Lov.
+</p>
+<p>
+Rigsanklageren har Embedskontor i København.
+</p>
+<wtitle>§ 103.</wtitle>
+<p>
+Til Bistand ved Udførelsen af Rigsanklagerens Hverv beskikker Kongen en<lb />
+Overanklager.
+</p>
+<p>
+Justitsministeren kan efter Forhandling med Rigsanklageren give ogsaa andre<lb />
+Bemyndigelse til at optræde i en enkelt Sag for Højesteret i Rigsanklagerens Sted.
+</p>
+<wtitle>§ 104.</wtitle>
+<p>
+For østre Landsretskreds beskikker Kongen 3, og for vestre Landsretskreds<lb />
+ligeledes 3 Overanklagere. Til midlertidig at fungere som Overanklager i Tilfælde af<lb />
+Embedsledighed eller Forfald kan Justitsministeren meddele Beskikkelse.
+</p>
+<p>
+Overanklagerne virke ved Landsretterne, Sø- og Handelsretten og Underretterne<lb />
+efter de derom i denne Lov givne Regler.
+</p>

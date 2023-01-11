@@ -1,0 +1,54 @@
+427
+<pb n="250">
+<pagename>250</pagename>
+<h>
+<coll>427</coll>
+<colr>428</colr>
+<lb/>
+</h>
+<leftside>
+<p rend="continue">
+grunde nogen Ret på denne Brøk, måtte det vel vœre en temmelig<lb/>
+stor Brøk.<lb/>
+</p>
+<p>
+<speaker>Barfod:</speaker> Jeg skal tillade mig at svare, at den lille Brøk<lb/>
+var Noget over en heel.<lb/>
+</p>
+<p>
+<speaker>Winther:</speaker> Ja, så må jeg endelig tillade mig at tilføie, at<lb/>
+jeg ikke indseer, hvorfor de kongevalgte Medlemmers Antals Fuldstændighed skulde være de Folkevalgte videre magtpåliggende; det bliver<lb/>
+jo Regjeringens Sag at holde sine Udvalgte så fuldtallige, som den<lb/>
+ønsker, og mig idetmindste er det aldeles ikke magtpåliggende at give<lb/>
+Ministeriet Magt til at vælge endnu Flere.<lb/>
+
+</p>
+</leftside>
+<rightside>
+<p>
+<speaker>Formanden:</speaker> Jeg veed ikke, om Forsamlingen ikke nu skulde<lb/>
+være tilbøielig til at skride til Afstemning. (Mange Stemmer: jo! jo!)<lb/>
+</p>
+<p>
+Ved den derpå foretagne Afstemning blev det med 72 mod 47<lb/>
+Stemmer besluttet, at Forslaget ikke skulde tages under Behandling.<lb/>
+</p>
+<p>
+Efterat Formanden dernæst med Hensyn til Dagsordenen for<lb/>
+næste Møde havde bemœrket, at han I det nærvœrende Møde ikke såe<lb/>
+sig istand til at angive denne, da der for Øjeblikket ikke stod nogen<lb/>
+Sag til Behandling, men at den såsnart som muligt skulde blive<lb/>
+meddeelt af ham i Afdelingerne og på Tavlen, blev Mødet hævet.<lb/>
+</p>
+<underpage1>
+Subscription på denne Tidende modtages I Kjøbenhavn hos Kgl. Hofbogtrykker Bianco Luno (Østergade Nr. 70), i Provindserne på<lb/>
+de kongelige Postcontoirer.<lb/>
+</underpage1>
+</rightside>
+<underpage>
+Trykt og forlagt af Kgl. Hosbogtrykker Bianco Luno.<lb/>
+ 
+</underpage>
+
+
+</pb>

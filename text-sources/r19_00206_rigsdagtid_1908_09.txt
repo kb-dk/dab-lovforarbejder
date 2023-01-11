@@ -1,0 +1,68 @@
+2549
+<pb n="206" />
+<h>
+<coll>2549</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2550</colr>
+</h>
+<wtitle>§ 885.</wtitle>
+<p>
+Domsforhandlingen afsluttes ved Rettens Dom i Sagen; dog betragtes Sagen<lb/>
+som tingfæstet ved Retten, indtil Dommens Fuldbyrdelse kan begynde, eller indtil i<lb/>
+Tilfælde af Anke Sagens Aktstykker ere indsendte til Højesteret (jvf. § 929).
+</p>
+<wtitle>§ 886.</wtitle>
+<p>
+Dommen skal, for saa vidt den ikke gaar ud paa Sagens Afvisning, enten<lb/>
+domfælde eller frifinde.
+</p>
+<p>
+Frifindelse finder Sted, naar vedkommende Paatalemyndighed ikke er paatale-<lb/>
+berettiget, naar Forfølgning frafaldes, naar Strafskylden er forældet, samt naar Til-<lb/>
+talte ikke findes skyldig.
+</p>
+<p>
+Retten kan ikke domfælde for noget Forhold, der ikke omfattes af Tiltalen.
+</p>
+<p>
+Derimod er Retten ikke udelukket fra at henføre det paatalte Forhold under<lb/>
+en anden Strafbestemmelse end den, Anklageren har paastaaet anvendt, eller fra<lb/>
+at afvige fra Tiltalen med Hensyn til de med Forbrydelsen forbundne Biomstændig-<lb/>
+heder (Tid, Sted o. desl.), alt under Betingelse af, at det med Sikkerhed skønnes, at<lb/>
+Tiltalte, ogsaa under Forudsætning af saadan Afvigelse fra Tiltalen, har haft fyldest-<lb/>
+gørende Adgang til Forsvar. Finder Retten, at dette ikke er Tilfældet, eller nærer<lb/>
+den Tvivl i saa Henseende, skal den, forinden dens afvigende Bedømmelse lægges til<lb/>
+Grund for Domfældelsen, give Parterne Lejlighed til at udtale sig og efter Omstæn-<lb/>
+dighederne tilstaa den til Varetagelse af Forsvaret fornødne Udsættelse.
+</p>
+<wtitle>§ 887.</wtitle>
+<p>
+Finder Retten, at Tiltalte ifølge Loven ikke kan straffes for et Forhold som<lb/>
+det, i hvilket han ifølge den i Spørgsmaalene givne Beskrivelse af Gerningen og Næv-<lb/>
+ningernes Svar paa disse er erklæret skyldig, afsiger den Frifindelsesdom. Finder den,<lb/>
+at et Forhold som det, hvori Tiltalte er erklæret skyldig, efter Loven kun kan hen-<lb/>
+føres under et mildere Straffebud, end Nævningernes Erklæring lyder paa, afsiger den<lb/>
+Dom i Overensstemmelse hermed. Hører der til Gerningsindholdet af den mindre<lb/>
+Forbrydelse, for hvilken der saaledes bliver Spørgsmaal om at domfælde Tiltalte, Om-<lb/>
+stændigheder, om hvis Tilstedeværelse Nævningeerklæringen intet har afgjort, blive de<lb/>
+til Afgørelse af dette Punkt fornødne Spørgsmaal først at forelægge Nævningerne.
+</p>
+<wtitle>§ 888.</wtitle>
+<p>
+I Sager angaaende Erstatning for uforskyldt Varetægtsfængsel eller for ufor-<lb/>
+skyldt Udstaaelse af Straf komme foranstaaende Regler til Anvendelse med de for-<lb/>
+nødne Lempelser. I Stedet for Spørgsmaal til Nævningerne om Tiltaltes Skyld rettes<lb/>
+Spørgsmaal paa, om Tiltalte efter det oplyste er berettiget til Erstatning. Kun hvis<lb/>
+mindst 8 Nævninger ere enige om, at der tilkommer Tiltalte Erstatning, vil der være<lb/>
+at tilkende ham Erstatning. Retten bestemmer Størrelsen af det Beløb, der vil være<lb/>
+at tilkende Tiltalte.
+</p>
+<wtitle>§ 889.</wtitle>
+<p>
+I det Omfang, hvori Dommen er grundet paa Nævningernes Erklæring, ind-<lb/>
+skrænke Domsgrundene sig til den fornødne Henvisning til denne. 1 øvrigt skulle,<lb/>
+saafremt Tiltalte frifindes, de Straffen betingende Omstændigheder, som antages at<lb/>
+mangle, eller de Straf udelukkende Omstændigheder, som antages at foreligge, angives,<lb/>
+og de anvendte Lovbestemmelser anføres. Domfældes Tiltalte, skulle de Strafbestem-<lb/>
+melser anføres, som bringes i Anvendelse.
+</p>

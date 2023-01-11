@@ -1,0 +1,71 @@
+602
+<pb n="186" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>602</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+påtagne Forpligtelse er opfyldt, eller når den, der er gået i Borgen, opsiger sit<lb />
+Forløfte ved at fremstille Sigtede for Betten eller under sådanne Forhold og med<lb />
+sâ langt Varsel, at dér er Lejlighed og god Tid til at fængsle ham.
+</p>
+<p>
+Indgâet Forløfte ophører ligeledes, når en afsagt Straffedom ikke fuldbyrdes,<lb />
+uagtet der hertil har været rigelig Tid og Opfordring.
+</p>
+<p>
+Bestemmelse om Ophør af Fængsling eller om Anvendelse eller Ophør af Forholdsregler. som træder i Stedet for Fængsling, eller om Forbrydelse af stillet Sikkerhed tages af den Ret, hvem det efter § 781 vilde tilkomme at afsige Fængslingskendelse.
+</p>
+<wtitle>§ 792.</wtitle>
+<p>
+Den, der har været underkastet Varetægtsfængsel og derefter frifindes eller<lb />
+løslades, uden at Sagen forfølges til Dom, har, når han inden et År efter at være<lb />
+kommet til Kundskab om de Omstændigheder, hvorpå han støtter sit Krav, fremsætter<lb />
+Begæring derom for Overanklageren, jfr. § 841 sammenholdt med § 926, Krav på<lb />
+en af Retten fastsat Erstatning for den Lidelse, den Tort og det Formuestab, der er<lb />
+tilføjet ham ved Frihedsberøvelsen, medmindre de fremkomne Oplysninger dog giver<lb />
+begrundet Formodning for, at han er skyldig i den Forbrydelse, hvorfor han var<lb />
+fængslet. Sådan Erstatning tilkommer ligeledes den, der har været underkastet<lb />
+Varetægtsfængsel i Tilfælde, hvor sådant ikke burde have været anvendt.
+</p>
+<p>
+Retten til Erstatning bortfalder, når den pågældende selv ved sit Forhold<lb />
+har givet Anledning til Fængslingen, medmindre det udviste urigtige Forhold må<lb />
+antages at være foranlediget af Frygt, Forvirring eller undskyldelig Misforståelse,<lb />
+endvidere når vedkommende frifindes på Grund af en Tilregnelighed udelukkende<lb />
+mangelfuld Sjælstilstand, eller når han forhen er straffet med Strafarbejde for nogen<lb />
+i den offentlige Mening vanærende Handling, og der ikke siden hans Løsladelse er<lb />
+hengået 3 År, herunder dog ikke det i 1ste Stykke, 2det Punktum, nævnte Tilfælde.
+</p>
+<p>
+Fordringen på Erstatning for Formuestabet tilkommer efter den pågældendes<lb />
+Død hans Ægtefælle og Livsarvinger.
+</p>
+<p>
+Erstatningen udredes af Statskassen, men denne har Regres til den vedkommende Dommer, for sâ vidt han har gjort sig skyldig i Misbrug af Embedsmyndighed, Skødesløshed eller andet uforsvarligt Forhold.
+</p>
+<wtitle>§ 793.</wtitle>
+<p>
+Til at føre Tilsyn med Varetægtsfangers Behandling og Forholdene i Varetægtsfængsler udvælger henholdsvis Københavns Borgerrepræsentation. Købstædernes<lb />
+Byråd og Amtsrådene efter Forholdstalsvalg 2 Medlemmer af deres Midte for 4 År<lb />
+ad Gangen. De sãledes udnævnte Mænd skal have Adgang til i Forening at besøge<lb />
+Fængslerne indenfor deres Område og overbevise sig om. at de for Fængslerne og<lb />
+Varetægtsfangernes Behandling gældende Bestemmelser overholdes. Angående Misbrug, som de måtte mene at have forefundet, afgiver de Beretning til pågældende<lb />
+Overøvrighed. Denne lader da de fremsatte Klager nærmere undersøge og gør Indberetning til Justitsministeren, som træffer fornøden Foranstaltning til Afhjælpning af<lb />
+de forefundne Misbrug og til Påtale af mulige Overtrædelser og Tilsidesættelser af<lb />
+pågældende Bestemmelser.
+</p>
+<p>
+Meddelelse til Private eller andre end de i 1ste Stykke, 3die og 4de Punktum,<lb />
+nævnte Myndigheder om, hvad der ved ovennævnte Besøg i Fængslerne er erfaret,<lb />
+straffes med Bøder fra 100 til 1,000 Kr.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

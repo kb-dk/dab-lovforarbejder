@@ -1,0 +1,77 @@
+2053
+<pb n="163" />
+<h>
+<coll>
+2053
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2054
+</colr>
+</h>
+<p>
+Falcl Henvisning er tilstrækkelig, samt Indsigelser, som fremsættes af Vidner, Syns-<lb />
+eller Skønsmænd. Rettens Afsigelse af Domme og Kendelser og dens øvrige Beslut-<lb />
+ninger optages i Retsbogen. Domme og Kendelser indføres fuldstændigt i Dombogen.
+</p>
+<p>
+Af de Personers Udsagn, som afhøres for Undersøgelsesret, skal det væsentlige<lb />
+Indhold gengives; vigtigere Erklæringer af Sigtede og navnlig Tilstaaelser skulle saa<lb />
+vidt muligt gengives med hans egne Ord; det samme gælder om Vidners og Syns- eller<lb />
+Skønsmænds Forklaringer, som maa ventes at skulle benyttes ved Oplæsning under<lb />
+Domsforhandlingen. Tilsvarende Regler gælde med Hensyn til Domsforhandling for<lb />
+Underret i Sager, der ikke ere undtagne fra Anke. Af Udsagn, der afgives under<lb />
+Afhørelse for Landsret, optages det væsentligste i en særskilt Bog; ere de paagæl-<lb />
+dende tidligere afhørte for en Ret, er dog Henvisning tilstrækkelig, og kun væsentlige<lb />
+Afvigelser eller Fuldstændiggørelser optegnes.
+</p>
+<p>
+Angaaende Besigtigelser, som Underretten foretager enten som Undersøgelsesret<lb />
+eller i Sager, der ikke ere undtagne fra Anke, skal Retsbogen indeholde saa meget,<lb />
+at den giver et fuldstændigt og tro Billede af det besigtigede.
+</p>
+<p>
+Af Udviklinger og Foredrag til Begrundelse af Paastande, Begæringer eller<lb />
+Indsigelser optages intet i Retsbogen; dog kan Formanden beslutte, at enkelte LTdta-<lb />
+lelser skulle optages. Fremdeles kan enhver af Parterne forlange, at særskilt paa-<lb />
+pegede Dele af Retsformandens Udvikling af de Retssætninger, som komme i Betragt-<lb />
+ning ved Nævningernes Afgørelse af de dem forelagte Spørgsmaal, gengives i Rets-<lb />
+bogen, jfr. §  952.
+</p>
+<p>
+Særlig Bemærkning gøres i Betsbogen om, hvorledes der er gaaet til Værks<lb />
+med Hensyn til Former, som efter Loven skulle iagttages, om, hvad der fremlægges i<lb />
+Retten, og hvilke Dokumenter der ere blevne oplæste.
+</p>
+<wtitle>§  742.</wtitle>
+<p>
+Oplæsning og Vedtagelse af Tilførsler til Retsbogen angaaende afhørte Personers<lb />
+Udsagn finder kun Sted ved Afhørelser for Undersøgelsesret og under Domsforhandling<lb />
+for Underret i Sager, som ikke ere undtagne fra Anke. Oplæsning og Vedtagelse kan<lb />
+dog ogsaa ske i andre Tilfælde, hvor Rettens Formand af særlige Grunde finder, at<lb />
+dette bør ske.
+</p>
+<wtitle>§  743.</wtitle>
+<p>
+Retsbogen underskrives ved hvert Retsmødes Slutning af Rettens Formand,<lb />
+fremdeles af de Personer, der maatte have fungeret som Retsskriver eller Retsvidner.<lb />
+Den afgiver Bevis for, hvad der er foregaaet under Retshandlingen, og særlig for,<lb />
+hvorledes der er gaaet til Værks med Hensyn til Former, som efter Loven skulle iagt-<lb />
+tages; Modbevis er ikke udelukket,
+</p>
+<wtitle>§  744.</wtitle>
+<p>
+Aktstykker og andre Dokumenter, som fremlægges i Retten, forsynes med<lb />
+Fremlæggelsespaategning.
+</p>
+<wtitle>§  745.</wtitle>
+<p>
+Parternes Processkrifter forblive i Rettens Arkiv. Af Dokumenter og Akt-<lb />
+stykker, der benyttes som Bevis, skulle, naar de forlanges tilbageleverede, bekræftede<lb />
+Genparter forblive hos Retten; dog undtages herfra Dokumenter, der ere Udskrift af<lb />
+Embedsprotokoller. Om og i hvilket Omfang Genpart skal tages af Handelsbøger,<lb />
+Regnskabsbøger eller andre saadanne Dokumenter af særdeles betydeligt Omfang, beror<lb />
+paa Formanden.
+</p>

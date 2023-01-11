@@ -1,0 +1,73 @@
+2223
+<pb n="43" />
+<h>
+<coll>2223</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2224</colr>
+</h>
+<p>
+lige Bemærkninger kunne udelades. Har Vidnet tidligere været afhørt, er Henvisning<lb/>
+tilstrækkelig, saa at kun Afvigelser eller Fuldstændiggørelser optegnes. Det Retsbogen<lb/>
+tilførte bliver efter endt Afhøring at oplæse for Vidnet, og Bemærkning, om Vidnet<lb/>
+godkender Forklaringen, optages i Retsbogen.
+</p>
+<p>
+Naar Vidner afhøres under Domsforhandling for Landsret i Ankesager, og der<lb/>
+ikke er særlig Grund til at antage, at Tilladelse til Anke til Højesteret vil blive søgt<lb/>
+eller tilstaaet, samt ved Vidneafhøring under Domsforhandling for Højesteret, beror<lb/>
+det paa Retten, om og hvor meget der skal optegnes af Vidners Forklaringer. Med<lb/>
+Hensyn til Oplæsning og Vedtagelse gælder Reglen i § 37.
+</p>
+<p>
+I Straffesager forholdes med Hensyn til Optegning, Oplæsning og Vedtagelse af<lb/>
+Vidneforklaringer efter Bestemmelserne i Bogen om Strafferetsplejen, sammenholdte<lb/>
+med § 36, 6te Stykke, og § 37.
+</p>
+<wtitle>§ 177.</wtitle>
+<p>
+I borgerlige Sager blive Vidneforklaringer at bekræfte med Ed eller anden<lb/>
+højtidelig Forsikring, jvf. § 178, naar nogen af Parterne forlanger det.
+</p>
+<p>
+I Straffesager skal saadan Bekræftelse ligeledes som Regel finde Sted, saavel<lb/>
+naar Vidneforklaringen afgives for en Undersøgelsesret som under Domsforhandlingen,<lb/>
+medmindre et for en Undersøgelsesret afhørt Vidne maa antages paa ny at skulle<lb/>
+afhøres under Domsforhandling (Nævningesager).
+</p>
+<p>
+Afgiver et forinden Domsforhandlingen edfæstet Vidne senere Forklaring under<lb/>
+Domsforhandlingen, skal Bekræftelse finde Sted efter de for denne givne Regler, med-<lb/>
+mindre Rettens Formand finder det tilstrækkeligt, at Afhørelsen sker i Henhold til<lb/>
+den tidligere aflagte Ed.
+</p>
+<p>
+Finder Retten i noget Tilfælde, at det, hvorom Vidnet er spurgt, allerede er<lb/>
+tilstrækkeligt bevist, eller at det er uden væsentlig Betydning for Sagens Afgørelse,<lb/>
+hvis det er en borgerlig Sag, eller ganske uden Betydning for Tiltaltes Frifindelse<lb/>
+eller Domfældelse, hvis det er en Straffesag, bortfalder Bekræftelsen.
+</p>
+<wtitle>§ 178.</wtitle>
+<p>
+I Stedet for Ed træder en efter en af Justitsministeren foreskreven Formular<lb/>
+afgiven højtidelig Forsikring, naar Vidnet hører til et Trossamfund, der ikke tillader<lb/>
+sine Medlemmer at aflægge Ed efter nogen af de paa det paagældende Tidspunkt gæl-<lb/>
+dende Edsformularer, eller der foreligger Erklæring fra Vidnet om, at Vidnet ifølge<lb/>
+sin religiøse Tro ikke kan aflægge Ed, eller om, at Vidnet ikke har nogen religiøs<lb/>
+Tro. Saadan Erklæring tages dog kun for gyldig, naar den er afgiven enten før den<lb/>
+Tid, da det, hvorom Vidnet spørges, skal have fundet Sted, eller mindst et Aar før<lb/>
+Vidneførslen, og Erklæringen ikke er to Aar gammel. Erklæringen afgives paa Rettens<lb/>
+Kontor i den Retskreds, hvor Vidnet har sit personlige Værneting. Bevis for dens<lb/>
+Afgivelse udstedes uden Betaling.
+</p>
+<p>
+Bekræftelsen sker efter Afhøringen og bør, naar Omstændighederne tale derfor,<lb/>
+udsættes, indtil alle Vidner, hvis Forklaringer angaa et og samme Forhold, ere af-<lb/>
+hørte. For saa vidt Omstændighederne give Anledning dertil, bør Dommeren først<lb/>
+paa ny minde Vidnerne om Bekræftelsens Betydning og om det Ansvar, som de paa-<lb/>
+drage sig ved at bekræfte en falsk Forklaring. Forinden han modtager et Vidnes<lb/>
+Bekræftelse, bør han give Vidnet fornøden Lejlighed til at berigtige sin Forklaring;<lb/>
+hvor han dertil finder Anledning, kan han foreholde Vidnet, hvad der af andre<lb/>
+Vidner er forklaret eller paa anden Maade er fremkommet i Modstrid med Vidnets<lb/>
+Forklaring. Vidnets Bekræftelse gaar ud paa, at det forsikrer, at det har talt Sandhed<lb/>
+og intet fortiet.
+</p>

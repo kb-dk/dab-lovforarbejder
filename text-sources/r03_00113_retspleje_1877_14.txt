@@ -1,0 +1,36 @@
+107
+<pb n="113" />
+
+<wtitle>§ 348.</wtitle>
+<p>Påstande kunne forandres, indtil den i<lb />
+§ 346 omhandlede Protokollation eller Fremlæggelse til Protokollen af dem er sket, men<lb />
+efter den Tid, forsåvidt Forandringen går<lb />
+ud på Andet end en Frafalden eller Indskrænkning, kun med Rettens Tilladelse.</p>
+<p>Finder Retten, at det ikke kan forlanges<lb />
+af Sagsøgte, at han strax skal svare på de<lb />
+forandrede Påstande, udsættes Sagen,</p>
+<p>Sagsøgte kan fremsætte Modfordringer<lb />
+efter de almindelige Regler (§ 101).</p>
+<wtitle>§ 349.</wtitle>
+<p>Dokumenter må, hvad enten de påberåbes i Klageskriftet eller ikke, fremlægges i<lb />
+Retsmødet; dog kan Retten, forsåvidt det<lb />
+findes, at der ikke har været tilstrækkelig Tid<lb />
+for den Sagsøgte til at fremskaffe et Dokument,<lb />
+eller at det fra den Sagsøgtes Side Fremkomne giver Sagsøgeren Anledning til at<lb />
+fremkomme med yderligere Dokumenter, udsætte<lb />
+Sagen herefter.</p>
+<p>Til at gjøre sig bekjendt med de fremlagte<lb />
+Dokumenter bør der i Reglen gives Modparten den fornødne Tid i selve Retsmødet.</p>
+<p>Finder Retten, at dette Sidste efter Omstændighederne og navnlig Dokumentets Beskaffenhed ikke vil være tilstrækkeligt, kan Sagen udsættes. Den, mod hvem Dokumentet<lb />
+fremlægges, må dersom det ikke med Producentens Samtykke kan udlånes ham, forsynes med en Gjenpart af samme og gives<lb />
+Adgang til på Retsskriverkontoret at undersøge Dokumentet.</p>
+<wtitle>§ 350.</wtitle>
+<p>Sagens mundtlige Forhandling skal såvidt<lb />
+muligt søges tilendebragt i eet Retsmøde eller<lb />
+dog i Reglen foregå uafbrudt om end i flere<lb />
+Retsmøder.</p>
+<p>Er Sagen moden til Påkjendelse, uden<lb />
+at videre Bevisførelse foregår, afsiges Dommen. I modsat Tilfælde bestemmes det ved<lb />
+Kjendelse, hvilke Omstændigheder der trænge<lb />
+til at bevises, hvorefter Parterne kunne foreslå deres Beviser, der føres under Slutningsforhandlingen (§§ 179—195). Retten<lb />
+anordner de fornødne Udsættelser.</p>

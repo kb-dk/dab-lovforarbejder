@@ -1,0 +1,37 @@
+12
+<pb n="18" />
+<title>Kapitel IV.</title>
+<undertitle>Om Forening af Søgsmål under samme<lb />
+Retssag.</undertitle>
+<wtitle>§  41.</wtitle>
+<p>Flere Søgsmål mellem de samme Parter<lb />
+kunne forenes under een Retssag, uagtet de<lb />
+hvile på forskjellige faktiske og retlige Grunde<lb />
+og ere af ulige Beskaffenhed, når Retten er<lb />
+competent med Hensyn til dem alle, og samme<lb />
+Procesart er anvendelig på dem (§ 3,<lb />
+jfr §  6).</p>
+<wtitle>§  42.</wtitle>
+<p>Flere Parter kunne sagsøge eller sagsøges<lb />
+i Forening under samme Retssag, dog udfordres hertil, forsåvidt Søgsmålene ikke<lb />
+have fælles Oprindelse, eller særlig Lovforskrift<lb />
+hjemler deres Forening, at ingen af Parterne<lb />
+gjør Indsigelse derimod.</p>
+<wtitle>§  43.</wtitle>
+<p>Enhver, der tror sig i det Hele eller for<lb />
+en Del berettiget til den Ting eller den<lb />
+Rettighed, som er Gjenstand for en Retstrætte i første Instants imellem Andre, kan<lb />
+under Iagttagelse af Reglerne i femte Afsnit<lb />
+indtræde i den begyndte Sag og gjøre sin<lb />
+Fordring gjældende ved et imod de oprindelige<lb />
+Parter rettet Søgsmål (Intervention).</p>
+<p>Intervention kan ikke finde Sted, når<lb />
+den Ret, for hvilken Sagen svæver, ikke ved<lb />
+Parternes Samtykke kunde gjøres kompetent<lb />
+til at påkjende Interventionssøgsmålet, dersom det anlagdes særskilt.</p>
+<wtitle>§  44.</wtitle>
+<p>Enhver, der har en retlig Interesse i, at<lb />
+en Part vinder en for Retten svævende Sag,<lb />
+kan indtræde i Sagen til denne Parts Understøttelse (Biintervention) og fåe Adgang til<lb />
+at ytre sig i Sagen i Overensstemmelse med<lb />
+de nærmere Regler i femte Afsnit.</p>

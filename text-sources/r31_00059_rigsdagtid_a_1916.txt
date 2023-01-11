@@ -1,0 +1,80 @@
+475
+<pb n="59" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>475</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+af 1. April 1892 § 10, Lov om Oplagsbeviser m. v. af 30. Marts 1894 § 18 og Patentlov<lb />
+af 13. April 1894 § 24, forbliver gældende.
+</p>
+<p>
+Retssager, der angående Forenings- eller Selskabsanliggender rejses af Foreningen eller Selskabet mod de enkelte Medlemmer eller opstår imellem disse som<lb />
+sådanne, kan anlægges ved Korporationens, Foreningens eller Selskabets Hjemting.
+</p>
+<wtitle>§ 239.</wtitle>
+<p>
+Sager imod Staten skal anlægges ved den Ret, i hvis Kreds den Embedsmand, som på Statens Vegne bliver at stævne, har sit Embedskontor eller i Mangel<lb />
+af sådant sin Bopæl.
+</p>
+<wtitle>§ 240.</wtitle>
+<p>
+Sager angående Rettigheder over urørlige Ting — være sig Ejendomsret,<lb />
+Panteret, Brugsrettigheder, Servitutrettigheder, Grundbyrderettigheder eller andre —<lb />
+skal anlægges ved den Ret, under hvilken Ejendommen er beliggende.
+</p>
+<p>
+Søgsmål, hvorved Fordringer, der er forbundne med Pant i fast Ejendom,<lb />
+eller hvorved enkelte forfaldne Grundbyrdeydelser indtales, kan anlægges på det<lb />
+Sted, hvor den behæftede eller bebyrdede Ejendom er beliggende.
+</p>
+<p>
+Ligger en fast Ejendom i flere Retskredse, anses den med Hensyn til Spørgsmålet om, hvor de i denne Paragraf omhandlede Sager skal eller kan anlægges,<lb />
+at være beliggende i den Retskreds, hvorunder Ejendommens Bygninger, navnlig Stuehuset, hører. Findes sådanne ikke, eller er Stuehuset beliggende i flere Retskredse,
+</p>
+<p>
+kan Sagen anlægges i hvilken som helst af disse.
+</p>
+<wtitle>§ 241.</wtitle>
+<p>
+Det har sit Forblivende ved Bestemmelserne i §§ 84 og 85 i Lov om Skifte<lb />
+af Dødsbo m. v. af 30. November 1874 samt i Lov Nr. 72 om Forfatterret m. m. af<lb />
+1. April 1912 § 6, 5te Stykke, således at i sidstnævnte Tilfælde Østre Landsret træder
+</p>
+<p>
+i Stedet for Hof- og Stadsretten i København.
+</p>
+<wtitle>§ 242.</wtitle>
+<p>
+Den, der i Medfør af offentligt eller privat Hverv har haft andres Midler<lb />
+under Forvaltning eller skal aflægge Regnskab for dem, kan sagsøges for sin Forvaltning eller sit Regnskab ved Retten på det Sted, hvorfra Forvaltningen er ført, eller<lb />
+hvor Regnskabet skulde aflægges.
+</p>
+<p>
+Sammesteds kan også anlægges Sager, som i Anledning af Forvaltningen<lb />
+eller Regnskabet rejses af den, der har ført samme, imod den, for hvem han har<lb />
+ført den eller det.
+</p>
+<wtitle>§ 243.</wtitle>
+<p>
+Søgsmål til Opfyldelse eller Ophævelse af en Retshandel eller i Anledning af<lb />
+dens Misligholdelse eller ikke behørige Opfyldelse kan anlægges ved Retten på det<lb />
+Sted, hvor Retshandelen ifølge Parternes udtrykkelige eller stiltiende Vedtagelse, ifølge<lb />
+Loven eller i øvrigt ifølge de foreliggende Omstændigheder skulde opfyldes, såfremt<lb />
+Sagsøgte ved Stævningens eller Forligsindkaldelsens Forkyndelse er til Stede i<lb />
+Retskredsen.
+</p>
+<p>
+Har nogen under et Ophold i en Retskreds pådraget sig en Forpligtelse, som<lb />
+skulde opfyldes dèr, inden han forlod Retskredsen, kan han endvidere i den Anledning sagsøges dèr, uagtet han ved Stævningens eller Forligsindkaldelsens Forkyndelse<lb />
+ikke er til Stede i Retskredsen.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

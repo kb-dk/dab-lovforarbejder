@@ -1,0 +1,137 @@
+3165
+<pb n="846" >
+<p rend="page">846</p>
+<h>
+<coll>3165</coll>
+<colr>3166</colr><lb />
+<topleft>1849.</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No-. 400.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede og femtende (119de) Møde.<lb />
+(Den endelige Behandling af Grundloven. § 30—36.)<lb />
+</stitle>
+<px>
+Ja.<lb />
+Aagaard af Thisted.	Paludan-Müller<lb />
+Bagger.	Mynster.<lb />
+Bergmann.	Neergaard.<lb />
+Bluhme.	Nielsen (H. C.).<lb />
+Brandt.	Nyholm.<lb />
+David.	Ostenfeldt.<lb />
+Duntzfelt.	Pløyen.<lb />
+Fibiger.	Ræder.<lb />
+Grundtvig.	Scavenius.<lb />
+Mørk Hansen.	Schiern.<lb />
+Hansen (N.).	Brinck-Seidelin.<lb />
+Hastrup.	Tang.<lb />
+von Haven.	Tobiesen.<lb />
+Holck.	Tvede.<lb />
+Johnsen.	Algreen-Ussing.<lb />
+Sehestedt-Juel.	Wegener.<lb />
+Kirk.	Visby.<lb />
+Larsen (I. E) af Kjøbenhavn.	Wulff.<lb />
+Lüttichau.	Zeuthen.<lb />
+Marckmann.	Ørsted.<lb />
+</px>
+<px>
+Fraværende.<lb />
+Eriksen.	Tage Müller (syg).<lb />
+Flor.	Schlegel.<lb />
+Gislason.	Stockfleth.<lb />
+Leth (syg).	Treschow.<lb />
+</px>
+<p>
+13) Nr. 28. Hermannsens, Jørgensens og Corn. Petersens Forslag til § 36: forandres saaledes: Efter Ordet<lb />
+„Communen“ sættes: „Det halve Antal Medlemmer 100 Rbd.<lb />
+eller godtgjør at have en aarlig Netto-Indtægt af 600 Rbd.<lb />
+og den anden halve Deel 300 Rbd. eller godtgjør at have<lb />
+havt en aarlig Netto-Indtægt af 1800 Rbd.““<lb />
+forkastedes med 82 Stemmer mod 28.<lb />
+14) Nr. 29 W. Ussings Hovedforslag til § 36: „At istedetfor<lb />
+de sidste Ord fra „og i det sidste Aar“ og indtil Slutningen sættes: „og han godtgjør enten at have en aarlig<lb />
+Nettoindtægt af mindst 1200 Rbd., eller at han har i Eie<lb />
+eller i livsvarig Besiddelse en Landeiendom paa mindst 15 Tdr.<lb />
+Hartkorn eller en Kjøbstadeiendom af en Assuranceværdi i Kjøbenhavn af mindst 12000 Rbd., i de andre Kjøbstæder af mindst<lb />
+5000 Rbd.““<lb />
+forkastedes med 99 Stemmer mod 21.<lb />
+15) Nr. 30. W Ussings Biforslag til § 36: „Og han godtgjør enten at have en aarlig Nettoindtægt af mindst 1200 Rbd.,<lb />
+eller at han besidder en Eiendom af en saadan Størrelse, som<lb />
+i Henhold til denne Indtægtsbestemmelse er fastsat i Valgloven.“<lb />
+forkastedes med 94 Stemmer mod 12.<lb />
+</p>
+<p>
+Forslaget under Nr. 31 var af Forslagsstilleren (Mundt)<lb />
+taget tilbage.<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+16) Nr. 32. P., Pedersens Forslag som Tillæg til § 36:<lb />
+„I de Valgkredse, hvor Antallet af Valgbare efter denne<lb />
+Regel ikke kommer til at opnaae det Forhold til Befolkningen,<lb />
+som vil blive at fastsætte i Valgloven, forøges Antallet af de<lb />
+Valgbare med de høiest Beskattede i Valgkredsen, indtil dette<lb />
+Forhold er naaet.“<lb />
+vedtoges med 112 Stemmer mod 13.<lb />
+17) Nr. 33. Ørsteds Forslag til § 36: „At „40 Aar“ forandres<lb />
+til „30 Aar“.“<lb />
+forkastedes med 92 Satemmer mod 11.<lb />
+18) Nr. 34. Bregendahls Forslag til § 36: „Det foreslaaes,<lb />
+at der istedetfor „40de Aar“ sættes „35te Aar“.“<lb />
+forkasteds med 85 Stemmer mod 27<lb />
+Forslaget under Nr. 35 frafaldtes af Forslagsstilleren<lb />
+(Ørsted).<lb />
+19) Nr. 35 b. Plougs Forslag til § 40: „Naar en ny Communallov er given, kunne Landsthingsvalgene ved Lov gaae<lb />
+over til de støre communale (Amts- eller Provinds-) Raad.“<lb />
+vedtoges med 90 stemmer mod 28.<lb />
+Endeligen blev:<lb />
+20) Hovedforslaget under Nr. 36 — modificeret i Henhold til de<lb />
+stedfundne Afstemninger, navnligen den 16de over Forslaget under<lb />
+Nr. 32 af P. Peersen og den 19de over Plougs Forslag under<lb />
+Nr. 35 b — saalydende:<lb />
+<law n="30" >§ 30.<lb /></law>
+Rigsdagen bestaaer af Folkethinget og Landsthinget.<lb />
+</p>
+<btitle>
+Folkethinget.<lb />
+</btitle>
+<p>
+<law n="31" >§ 31.<lb /></law>
+Valgret til Folkethinget har enhver uberygtet Mand, som<lb />
+har Indfødsret, naar han har syldt sit 30te Aar, medmindre han:<lb />
+a) uden at have egen Huusstand staaer i privat Tjenesteforhold;<lb />
+b) nyder eller har nydt Understøttelse af Fattigvæsenet, som ikke er<lb />
+enten eftergiven eller tilbagebetalt;<lb />
+
+c) er ude af Raadigheden over sit Bo;<lb />
+d) ikke har havt fast Bopæl i eet Aar i den Valgkreds eller den<lb />
+Stad, hvori han opholder sig paa Tid, Valget foregaar.<lb />
+<law n="32" >§ 32.<lb /></law>
+Valgbar til Folkethinget er, med de i § 31 a, b og c<lb />
+nævnte Undtagelser, enhver uberygtet Mand, som har Indfødsret, naar han har syldt sit 25de Aar.<lb />
+<law n="33" >§ 33.<lb /></law>
+Antallet af Folkethingets Medlemmer skal være efter det<lb />
+omtrentlige Forhold af 1 til 14000 Indvaanere. Valgene foregaae i Valgkredse, hvis Omfang bestmmes ved Valgloven.<lb />
+Enhver Valgkreds vælger Een blandt dem, der have stillet sig<lb />
+til Valg.<lb />
+<law n="34" >§ 34.<lb /></law>
+Medlemmerne af Folkethinget vælges pæ 3 Aar. De erholde et dagligt Vederlag.<lb />
+</p>
+<btitle>
+Landsthinget.<lb />
+</btitle>
+<p>
+<law n="35" >§ 35.<lb /></law>
+Valgret til Landsthinget har Enhver, der ifølge § 31<lb />
+har Valgret til Folkethinget. De Valgberettigede vælge udaf<lb />
+</p>
+</rightside>
+
+
+</pb>

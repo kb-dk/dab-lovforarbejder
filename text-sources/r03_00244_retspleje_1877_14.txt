@@ -1,0 +1,74 @@
+238
+<pb n="244" />
+<leftside>
+<title>Første Afsnit.</title>
+<undertitle>Almindelige Bestemmelser.</undertitle>
+<title>Kapitel I.</title>
+<undertitle>Om Retternes Virkekreds.</undertitle>
+<p>Lovforslagets Forudsætning, hvis nærmere<lb />
+Udvikling iøvrigt hører hjemme i Lovforslaget<lb />
+om Domsmagtens Ordning, er, at al Retspleje i første Instants såvel civil som kriminel<lb />
+i Reglen hviler hos Landsretterne. Under dem<lb />
+henhører altså enhver ikke særlig undtaget<lb />
+Sag. Men den praktiske Fornødenhed kræver<lb />
+på det civile ikke mindre end på det kriminelle Område, at der ved Siden af den som<lb />
+Regel gjældende ordinære Procesform åbnes<lb />
+Adgang til en billigere og simplere Behandling af Småsager, en Tanke, som derfor<lb />
+også har gjort sig gjældende i vor nubestående Ret (mindre Gjældssager, private<lb />
+Politisager). De Fordele, Underretsbehandlingen<lb />
+ifølge Lovforslaget skal frembyde med Hensyn til<lb />
+slige mindre Sager, bestå især deri, at Sagen<lb />
+kan afgjøres i Nærheden af Parterne, nemlig<lb />
+ved Underretskredsens egen Retsbetjent, hvorved<lb />
+Udgifter til Parters og Vidners Rejser spares,<lb />
+og at Procesformernes Simpelhed, navnlig<lb />
+den Omstændighed, at intet forudgående<lb />
+skriftligt Grundlag skal tilvejebringes af Parterne, i Forbindelse med Dommerens vidtgribende Vejledning, gjør det muligt for Parterne at undvære Sagførerhjælp, hvortil endelig som et mere akcessorisk Fortrin kan<lb />
+føjes, at Sagen netop på Grund af Parternes Nærhed og Procesformernes Simpelhed<lb />
+i Reglen vil kunne tilendebringes forholdsvis<lb />
+hurtigt.</p>
+<p>En sådan særlig for mindre Sager indrettet Procedure er i de nyere Tider indført<lb />
+næsten allevegne, skjønt under forskjellige<lb />
+Navne og på forskjellig Måde (i England<lb />
+County Courts, i Frankrig juges de paix, i Hannover Amtsgerichte, i Østerrig Bagatellgerichte),<lb />
+og det kan vistnok påståes, at man  overalt</p>
+</leftside>
+<rightside>
+<p>er tilfreds hermed, og snarere har været betænkt på at gå videre på denne Bane,<lb />
+end at standse eller gå tilbage. Vel har<lb />
+man undertiden fra et vist tilsyneladende strengt<lb />
+Principstandpunkt gjort Indsigelser imod disse<lb />
+simplere Procesformer, idet man har sagt, at<lb />
+Rettens Pleje burde omgives med lige så<lb />
+store og sikre Garantier i små Sager som i store,<lb />
+dels fordi Retten overhovedet er lige så hellig<lb />
+i det Små som i det Store, dels fordi en<lb />
+Sag af ringe Pengeværdi for den fattige Part<lb />
+kan være af endog mere indgribende Vigtighed<lb />
+end en Sag af større Pengeværdi for den<lb />
+velhavende Part. Imod denne Betragtningsmåde fortjener først og fremmest at fremhæves, at det overalt netop er bleven fordret<lb />
+og hævdet som en Fordel for de fattigere<lb />
+Samfundsklasser, at en særlig på Småsager<lb />
+beregnet Procedure haves, og Mangelen af en<lb />
+sådan er bleven betragtet som en Samfundets Uret mod eller Tilsidesættelse af deres<lb />
+Interesser, idet de derved bleve faktisk retløse i<lb />
+mange Tilfælde. Men dernæst er det også en<lb />
+Miskjendelse eller Overdrivelse af Statens<lb />
+Pligter med Hensyn til Retsplejen, på alle Punkter og til det Yderste at kræve Idealets<lb />
+Fordringer tilfredsstillede. Som en menneskelig Institution, der arbejder med begrænsede<lb />
+materielle og personelle Kræfter, kan Staten<lb />
+ligesålidt i Retsplejen som ved dens andre<lb />
+Opgaver, såsom Undervisningsvæsen, Hærvæsen, Sundhedsvæsen, Postvæsen o. s. v., påtage sig at realisere de ideale Fordringer uden<lb />
+Afkortning eller Beskjæring, men den må<lb />
+nøjes med at udføre disse således, som Forholdene tillade det. Det kan derfor hverken i<lb />
+civile eller kriminelle Sager forlanges af den, at<lb />
+enhver den ubetydeligste Sag skal behandles<lb />
+med samme Omstændelighed og med et ligeså<lb />
+stort Apparat af Dommere og Sagførere som<lb />
+de vigtigste og betydeligste Sager. En anden Sag er det naturligvis, at også den på<lb />
+de mindre Sager særligt beregnede Procedure<lb />
+bør indrettes så hensigtsmæssigt, som Bagatelprocessens særlige Øjemed gjør det muligt.</p>
+<p>I de fleste kontinentale Proceslove, såsom<lb />
+både den franske og den hannoveranske, er der<lb />
+iøvrigt en endnu skarpere Grænse mellem den ordinære Procesmåde og den såkaldte Bagatelproces</p>
+</rightside>

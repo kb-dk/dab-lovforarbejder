@@ -1,0 +1,50 @@
+3503
+<pb n="70" />
+<h>
+<coll>3503</coll>
+<topmidle>Forsl. t. L om den b orgerlige Retspleie.</topmidle>
+<colr>3504</colr>
+</h>
+<p>Slutningsforhandlingen (§ 195) knytter sig umiddelbart til Bevisforhandlingen.</p>
+<p>Forhandlingerne fortfættcs uafbrudt i det begyndte og de paafølgende Retsmøder, der<lb />
+saavidt muligt skulle holdes paa de umiddelbart efter følgende Dage, uden Hensyn til at<lb />
+disse ikke ere de for Retten bestemte almindelige Retsdage. Forhandlingen regnes ikke for<lb />
+afbrudt, fordi der indtræder en Standsning i den, saafom fordi en Kjendelse maa afsiges,<lb />
+eller et Vidnes Ankomst oppebies, naar Retten dog ikke strider til nogen anden Sags Fore-<lb />
+tagelse.</p>
+<wtitle>§ 189.</wtitle>
+<p>I Reglen gives Ordet fsrst til Sagssgeren og derpaa til Sagssgte, medmindre Ret-<lb />
+tens Formand finder Grund til at bestemme, at Parterne i en anden Orden skulle fremføre<lb />
+deres Beviser. Han bestemmer ligeledes, om Parternes Afhørelfc skal finde Sted, forinden<lb />
+Vidner og Syns- eller skjønsmænd afhores, eller efter disses Afhorelsc.</p>
+<wtitle>§ 190.</wtitle>
+<p>Parterne afhøre selv de af dem fremstillede Vidner. Saasnart et Vidne har besvaret<lb />
+et forelagt Spørgsmaal, kan Modparten ncrrmere udsporge det med Hensyn hertil. Dog kan<lb />
+den, der ferer Vidnet, modsætte sig Afbrydelsen, naar hans egen Tilsvorgfel om det vaa-<lb />
+gjaldende Punkt endnu ikke er tilendebragt. Naar et Vidnes Afhorclfe er fuldendt, kan<lb />
+Modparten, inden det aftræder, faa det underkastet en ny Afhørelse, hvortil den, som oprinde-<lb />
+lig har fort Vidnet, atter kan stille Modsporgsmaal.</p>
+<p>Retten kan stille spørgsmaal til Vidnet, faavel til ncrrmere Opklaring af Punkter,<lb />
+hvorom Parterne have spurgt Vidnet, som til felvstændig Oplysning om Sagen.</p>
+<p>I Reglen maa et Vidne ikke hore paa de foregaaende Vidners Forklaring, medmindre<lb />
+Retten bestemmer anderledes.</p>
+<wtitle>§ 191.</wtitle>
+<p>Rettens Formand vaager over, at Vidneforhorcne foregaa med Orden og Pcerdighed.<lb />
+Han kan overtage Vidnets Afhorelse og forbyde Parten umiddelbart at forhandle med Vidnet,<lb />
+naar denne ikke vil rette sig efter hans Paala?z og Irettesættelser; han kan gribe ind, naar<lb />
+Parten i Vidnets afhorelse gaar udenfor Sagen, og han kan slutte Vidneforhøret, naar<lb />
+det ffjonnes, at intet Videre til Sagens Oplysning kan ventes at ville fremkomme ved dets<lb />
+Fortsættelse.</p>
+<wtitle>§ 192.</wtitle>
+<p>Naar udmeldte Syns- eller skjønsma'nd have afgivet deres Forretning, knnne baade<lb />
+Parterne og Retten stille Sftorgsmaal til dem. Deres Afhørelse foregaar efter de om Vidner<lb />
+gjældende Regler. Dog kunne Syns- eller skjønsmændene i Reglen raadstaa om Svaret,<lb />
+medmindre Retten ifolge Paastand eller p,m Embedsvegne bestemmer, at de skulle afhores<lb />
+enkeltvis.</p>
+<wtitle>§ 193.</wtitle>>
+<p>Naar en Part har afgivet Forklaring af egen Drift, er Modparten berettiget til at<lb />
+stille yderligere spørgsmaal til ham i Overensstemmelse med de i § 96 givne Regler.</p>
+<wtitle>§ 194.</wtitle>
+<p>Tvistigheder, som opftaa under Bevisførelsen i Anledning af Indsigelser esser Forlan-<lb />
+gender af Parter, Vidner, Syns- esser skjønsmamd, paakjendes af Retten, efterat Vedkom-<lb />
+mende have yttret sig.   I Retsbogen maa optages en noiagtig Angivelse af Indsigelsens eller</p>

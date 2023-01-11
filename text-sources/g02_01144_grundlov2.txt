@@ -1,0 +1,64 @@
+3761
+<pb n="1144" >
+<p rend="page">1144</p>
+<h>
+<coll>3761</coll>
+<colr>3762</colr><lb />
+Den endlige Behandling of Valgoven. Regulativet.<lb />
+</h>
+<table>
+Amt.	Valgkredsene i yvert Amt.	Valgkredsenes Sammensætning.	Beboernes Antal i hver Valgkreds	Mødestedet.<lb />
+	4.	Østerbrønderslev, Hallund, Jerslev, Vesterbrønderslev, Taars,<lb />
+Uggilt, Vreilev, Hæstrup, Tolstrup, Stenum, Børglum, Veiby,<lb />
+Fureby, Vraa, Emb og Serriblev samt Wrendsted og thise.	15,000	Vreilev Kro og Mølle.<lb />
+	5.	Østerhan Herred; Hvetbo Herred med Undtagelse af Vefteraaby Sogn,<lb />
+der udgjør eet Sognedistrikt med det til Aalborg Amt hørende<lb />
+Aaby Sogn, og som derfor med en Folkemængde af 630 Indbyggere er henlagt til dette Amts 1ste Valgkreds, medens derimod den til Aalborg Amt hørende Deel af Jebmark Sogn er<lb />
+henlagt til nærværende Valgkreds. 	11,469	Halvrimme Skole i Broust Sogn<lb />
+XII. Thifted.	1.	Vester-Han-Herred; af Morsø Nørre Herred, Sognene: Seierslev, Eierslev, Jørsby, Flade og Sønder-Draaby; af Hillerslev<lb />
+Herred, Sognene: Hundstrup, Osterild, Hjardemaal, Hillerslev, Kaastrup, Ræhr, Hansted og Birø.	11,701	Vjergets Kro i Lild Sogn.<lb />
+	2.	Thisted Kjøbstad. Af Hillerslev Herred, Sognene: Sennels,<lb />
+Nors, Tved, Øster- og Vester — Vandet. Hundborg Herred.<lb />
+Af Hassing Herred, Sognene: Snedsted, Nørhaa, Harring,<lb />
+Stagstrup, Sønderbaa og Hørsted.	11,829	Thisted Kjøbstad.<lb />
+	3	Af Hassing Herred, Sognene: Hvidberg-Vestenaa, Ørum og<lb />
+Lodberg, Bedsted, Grurup, Hassing, Villerslev, Visby, Heltborg, Skyum og Hørdum. Refs Herred paa Jegindø nær.	11,559	Vestervig Tinghuus.<lb />
+	4	Nykjøbing Kjøbstad, Resten af Morsø, Nørre Herred, Morsø<lb />
+		Sønder Herred og Jegindø.	11,538	Nykjøbing Kjøbstad.<lb />
+XIII. Viborg.	1	Skive Kjøbstad: Nørre herred, Rørre herred, Rødding herred, harre herred<lb />
+og hindbørg herred.	14,235	Skive Kjebstad.<lb />
+	2	Viborg kjøbstad, Viborg landsogn og fjends herred.	9,474	Vibørg kjøbstad<lb />
+	3	Lysgaard herred. Hids herred. Af houlberg herred: Gulev<lb />
+og Sahal Sogne.	11,840	Levring by.<lb />
+	4	Houlberg herred med undtagelse af Gulev og sahl sogne.<lb />
+Middelsom herred. Af sonderlyng herred, sognene: hornbef, Bjerregrav, Aalum, Thaanum, Nørbef, sønderbef og<lb />
+læsten.	11,849	Sønder Vinge i Middel som Herred.<lb />
+	5.	Nørlyng herred med undtagelse af Vibørg landsøgn. Rinds<lb />
+		herred. af Sønderlyng jerred, sognene: Vorning, Qvor		ning, hammershøi, thiele, Vinge, Qrum Veirum og Visfum.	11,815	Løvel by i Nørlyng Herred.<lb />
+
+XIV. Aarhuus.	1.	Hads herred. af Ning herred, sognene: Aftrup, Tulstrup,<lb />
+Beder, Malling og Maarslet Famt Øen Thunø.	13,307	Ddder By i hads herred.<lb />
+	2.	Af Ning herred, sognene: Viby, Thisetm Holme, tranberg,<lb />
+Ormslev og Koldt. Aarhuus Kjøbset. Af hasle Herred,<lb />
+sognene: Veilby, hassle og Sfeby. Af Vesterliisberg herred det med hadle og Sfeiby Sogn snnefterede Liisberg Sogn.	13,346	Aarhuus Kjøbstad.<lb />
+	3.	Vesterliisberg herred, med zundtagelse af liisberg Sogn, Sabro<lb />
+herred, framlev Herred, hassle herred med undtagelfe af<lb />
+Veilby hassle og sfeiby sogne.	13,282	Sfjokdekev by i Sabro Herred.<lb />
+XV. Skanderborg.	1.	Horsens Kjøbstad. Sognene: Tamdrup, Nebel, Væhr, Hansted,<lb />
+Lindum, Gangsted, Søvind, Vedslet, Endelave, Hvirring,<lb />
+Hornborg, Kattrup, Ørriblev og Tolstrup.	15,274	Hor ns.<lb />
+	2.	Skanderborg Kjøbstab. Hjemlslev Herred og Gjern Herred.	14,746	Skanderborg.<lb />
+	3.	Thyrsting Herred (derunder indbefattet Voerladegaard Sogn),<lb />
+Vrads Herred, Samt Sognene: Yding, Østbirk, Underup,<lb />
+Nim, Ousted, Taaning og Hylke.	15,468	Bræstrup.<lb />
+XVI. Randers.	1.	Hobro kjøbstad, Mariager Kjøstes, gierlev herred: Onstld<lb />
+herred, Nørre hald herred af støvirng herred: sognene<lb />
+Mellerup, støvring og Raasted.	13,665	Mariager.<lb />
+	2.	Randers Kjøbstad. Af stsvring herred sognene: Gimminge,<lb />
+lem, Borup, albæf, harritslev, Randers st. Mortens ostre<lb />
+landsogn. Af galthen herred: Randers St. Mortens land	14,731	Randers<lb />
+
+</table>
+
+
+</pb>

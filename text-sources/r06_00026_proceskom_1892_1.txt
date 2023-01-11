@@ -1,0 +1,50 @@
+26
+<pb n="26" />
+<rightside>
+<pagename>24
+</pagename>
+<p>Den sidste Liste er Tingets Hovedliste,<lb />
+den første hjælpelisten. Begge Lifter underskrives af Udvalgets' Formand. De nævnte<lb />
+Lister gælde for hele det forestaaende Ting,<lb />
+om dette endog maatte fortsættes udover<lb />
+den 31te Maj.
+</p>
+<wtitle>§ 63.
+</wtitle>
+<p>Ved Lodtrækningen . til hjælpelisten<lb />
+blive de Personer, som have været opførte<lb />
+paa Hjælpelisten ved tidligere Ting i Nævningeaaret, men ikke have været indkaldte,<lb />
+ikke medtagne, forsaavidt der foruden dem<lb />
+paa Aarslisten findes opført et tilstrækkeligt Antal saadanne Personer, som komme<lb />
+i Betragtning til Hjælpelisten.
+</p>
+<wtitle>§ 64.
+</wtitle>
+<p>Genparter af Hovedliften og Hjælpelisten skulle mindst en Uge før Tingets Begyndelse tilstilles Landsretten og Overanklagerne. Tilsvarende Genparter tilstilles<lb />
+ved Foranstaltning af Formanden for det<lb />
+forestaaende Ting, mindst 6 Dage før Tinget eller Dagen, til hvilken Indstævning er<lb />
+sket, mulige private Sagsøgere samt hver af<lb />
+de Tiltalte og deres Forsvarere. Finder<lb />
+Indstævning med kortere Varsel Sted, afkortes denne Frist saaledes, at den bliver<lb />
+en Dag kortere end Varslet. Til de Tiltalte sker Meddelelsen paa den i Lov om<lb />
+Strafferetsplejen §§ 81 ff. foreskrevne Maade.
+</p>
+<wtitle>§ 65.
+</wtitle>
+<p>Udvalgets Formand drager Omsorg<lb />
+for, at de paa Hovedlisten opførte Personer<lb />
+paa den i Lov om Strafferetsplejen §§ 81 ff.<lb />
+foreskrevne Maade indkaldes med en Uges<lb />
+Varsel til at give møde i Netten ved en<lb />
+Tilsigelse, som angiver Tid og Sted for<lb />
+Rettens Holdelse og indeholder Paamindelse<lb />
+om Pligten til betimelig Angivelse af mulige<lb />
+Fritagelsesgrunde eller Forfald samt om<lb />
+Følgerne af Forsømmelse i denne Henseende    og    af   Udeblivelse    uden   lovligt
+</p>
+<p>Forfald.
+</p>
+<p>Paa  lignende   Maade   gives   der   de<lb />
+paa Hjælpelisten opførte Personer Tilsigelse
+</p>
+</rightside>

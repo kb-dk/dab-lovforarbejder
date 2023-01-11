@@ -1,0 +1,54 @@
+3801
+<pb n="219" />
+<h>
+<coll>3801</coll>
+<topmidle>Forsl. t. L, om Strafferetspleien.</topmidle>
+<colr>3802</colr>
+</h>
+<wtitle>§ 254.</wtitle>
+<p>Den Sigtede og den beskikkede Forsvarer have Adgang til, inden Udlobet af den i<lb />
+§ 253 ommeldte Frist,</p>
+<p>1)  at andrage paa, at  der, førend Sagen videre fremmes, foretages Forunderssgelse, hvis<lb />
+en saadan  ikke har  fundet Sted, eller   at en  stedfunden   Forundersøgelse   fuldstændig-<lb />
+gjøres, naar det angives,   at nærmere betegnede Oplysninger   derved  kunne fremskaffes,<lb />
+som ville fjerne Mistanken mod den Sigtede eller godtgjøre Grunde til Straffrihed;</p>
+<p>2)  at andrage paa,   at  Henvisning af Anklagen til  Hovedforhandling maa   blive ncegtet,<lb />
+naar det paastaas,   at enten nogen af de i § 251 nævnte Omstændigheder foreligger,<lb />
+eller at der ved de stedfundne Efterforskninger eller Forundersogelsen ikke er fremkommet<lb />
+rimelig Grund til Mistanke mod den Sigtede eller er oplyst Omstændigheder, som be-<lb />
+grunde hans Straffrihed;</p>
+<p>3)  at fremkomme med Andragender og Erklæringer om Sagens  Henvisning til nævninger<lb />
+eller til Landsretten uden nævninger;</p>
+<p>4! at indlevere enførtegnelse over Beviser, som agtes fremfsrte under Hovedforhandlingen,<lb />
+med Vemcerkning om. hvad der ved disse skal godtgjores, og i Forbindelse dermed at<lb />
+fremsætte Andragender til Retten, sigtende til Bevisførelsens Forberedelse.</p>
+<p>Ovennævnte Andragender indgives skriftlig til Rettens Formand tilligemed Gjenpart,<lb />
+som tilltilles Anklageren.</p>
+<p>Er den Sigtede fængflet, blive hans Andragender og Erklæringer paa Begjæring at<lb />
+modtage af Undev'ogelsesdommeren til Retsbogen; denne har ved Anklageskriftets meddelelse<lb />
+udtrykkelig at gjorc ham opmcrrksom paa den ham efter nærværende Paragraf tilkommende<lb />
+Ret. Udskrift af Retsbogen tilstilles snarest muligt Rettens Formand, som meddeler Ankla-<lb />
+geren, naar og hvor Adgang til Gjmnemsyn af samme staar ham aaben.</p>
+<p>Den beskikkede Forsvarer kan ikke mod den Sigtedes Villie andrage paa Ncegtelsc af<lb />
+Henvisning til Hovedforhandling af Grunde, som Retten ikke i Embeds medfør kan tage i<lb />
+Betragtning, ei heller paa Henvisning til nævninger, medmindre han antager den hjemlet<lb />
+ved § 11 Nr.  1.</p>
+<wtitle>§ 255.</wtitle>
+<p>Andre Andragender til Retten end de i § 254 ommeldte, hvortil der med Hensyn<lb />
+til den anhængiggjorte Sag findes Anledning for Hovedforhandlmgen, staa den Sigtede, den<lb />
+beskikkede Forsvarer eller andre Vedkommende aabne, faafnart meddelelse af Anklageskriftet<lb />
+har fundet Sted. De fremsættes skriftlig og tilstilles Rettens Formand; er den Sigtede<lb />
+fængslet, har han Ret til at fremsætte dem til Retsbogen for Undersogelsesdommeren, som<lb />
+snarest muligt tilstiller Rettens Formand fornøden Udskrift.</p>
+<wtitle>§ 256.</wtitle>
+<p>Efter Udlobet af den fastsætte Frist eller tidligere, hvis det begjoeres af den Sigtede<lb />
+og den beskikkede Forsvarer, træffes Afgjørelse, om Sagen skal henvises til Hovedforhandling,<lb />
+og i bekrceftende Fald, om den skal henvises til nævninger eller ikke, samt om Forening eller<lb />
+Adskillelse af søgsmaal. I Forbindelse hermed træffes Afgjørelse om Foranstaltninger sig-<lb />
+tende til Bevisforelsens Forberedelse eller iøvrigt til Opnaaelsen af Straffesagens Formaal;<lb />
+dog bsr forsaavidt Fristens Udlob ikke afventes, naar Forholdene ikke tilstede Opsættelse.</p>
+<p>Retten træffer Afgjørelsen:</p>
+<p>1)  angaaende de  i   § 254 Nr. 1 og 2 ommeldte  Andragender,   samt  naar Anklagen   i<lb />
+Embeds medfør ncegtes Fremme;</p>
+<p>2)  angaaende Andragende om Henvisning til nævninger udenfor Lovens almindelige Regler,<lb />
+samt naar Spørgsmaalet, om en Sag i Henhold til disse skal henvises til nævninger</p>

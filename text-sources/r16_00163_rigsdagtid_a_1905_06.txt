@@ -1,0 +1,78 @@
+2229
+<pb n="163" />
+<h>
+<coll>
+2229
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2230
+</colr>
+</h>
+<p>
+Udelukkede fra at vælges ere Personer, dér ere indkaldte til at afhøres som<lb />
+Vidner eller Syns- eller Skønsmænd, eller som ere begærte indkaldte i saadan Egen-<lb />
+skab, indtil Retten har truffet Afgørelse herom, eller hvis Optræden ifølge § 62 Nr. 3<lb />
+vilde medføre Inhabilitet hos Dommeren.
+</p>
+<wtitle>§ 708.</wtitle>
+<p>
+Offentlig Forsvarer bliver, for saa vidt Sigtede ikke selv har valgt en Forsvarer,<lb />
+eller den valgte Forsvarer udebliver, altid at beskikke, naar Tiltale er rejst for<lb />
+Landsret, dersom Nævninger skulle medvirke ved Paakendelsen, eller der opstaar<lb />
+Spørgsmaal om at lægge Beslag paa Sigtedes Formue i Henhold til § 770.
+</p>
+<p>
+I andre Landsretssager, saavel som naar Tiltale er rejst for Underretten eller<lb />
+Sø- og Handelsretten, kan fremdeles under den anførte Forudsætning en offentlig<lb />
+Forsvarer beskikkes, naar Retten ifølge Sagens Beskaffenhed anser saadant fornødent,
+</p>
+<p>
+Førend Tiltale er rejst, bliver under den samme Forudsætning offentlig For-<lb />
+svarer at beskikke, naar der skal afhøres Vidner, eller Besigtigelse skal ske eller<lb />
+Syn eller Skøn afgives til Brug under Domsforhandling, og Retten maa antage,<lb />
+at offentlig Forsvarer bliver at beskikke under denne, eller i øvrigt anser en For-<lb />
+svarers Medvirkning for ønskelig. Dog bliver Retshandlingen ikke af den Grund<lb />
+at udsætte, naar det maa befrygtes, at Beviset derved vilde kunne spildes.
+</p>
+<p>
+Offentlig Forsvarer bliver endelig at beskikke, naar Vidner eller Syns- eller<lb />
+Skønsmænds beedigede Forklaring begæres til Brug under en i Udlandet indledet<lb />
+Straffesag.
+</p>
+<p>
+Beslutninger, hvorefter Forsvarer er beskikket, kunne ikke paaklages for højere<lb />
+Ret, Imod Beslutninger, hvorved Beskikkelse af Forsvarer nægtes, kan Kære til<lb />
+højere Ret finde Sted.
+</p>
+<wtitle>§ 709.</wtitle>
+<p>
+Naar en Landsretsdom paaankes, og en Forsvarer ikke er antagen eller ikke<lb />
+møder, beskikkes altid en offentlig Forsvarer til at optræde under Forhandlingen<lb />
+for Højesteret,
+</p>
+<p>
+Naar en Underretsdom eller Sø- og Handelsretsdom paaankes, eller der i An-<lb />
+ledning af Begæring om Genoptagelse af en Sag skal finde mundtlig Forhandling Sted<lb />
+for Landsret, bliver med Hensyn til Beskikkelse af en offentlig Forsvarer til at<lb />
+optræde for denne Reglen i § 708, 2det Stykke, at følge. Naar der i Anledning af<lb />
+Kære undtagelsesvis skal linde mundtlig Forhandling Sted for Landsret eller Højesteret,<lb />
+gælder Reglen i § 939, 2det Stykke.
+</p>
+<wtitle>§ 710.</wtitle>
+<p>
+Til at beskikkes som offentlige Forsvarere antager Justitsministeren efter Over-<lb />
+enskomst et passende Antal af de til Møde for vedkommende Domstol berettigede Sag-<lb />
+førere eller, om fornødent, andre dertil egnede Mænd. I paatrængende Tilfælde kan<lb />
+dog ogsaa en Sagfører, der ikke er antagen af Justitsministeren, men dog berettiget
+</p>
+<p>
+til Møde for vedkommende Ret, beskikkes til Forsvarer.
+</p>
+<wtitle>§ 711.</wtitle>
+<p>
+Til offentlig Forsvarer maa ingen beskikkes, der selv er forurettet ved For-<lb />
+brydelsen eller staar i et saadant Forhold til den forurettede, som vilde udelukke en<lb />
+Dommer fra at handle i Sagen, eller der er kaldet til at forklare som Vidne, Syns-<lb />
+eller Skønsmand i Sagen eller har handlet i den som Anklager eller Rettergangs-
+</p>

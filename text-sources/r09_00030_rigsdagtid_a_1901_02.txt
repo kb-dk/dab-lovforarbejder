@@ -1,0 +1,73 @@
+2207
+<pb n="30" />
+<h>
+<coll>2207</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2208</colr>
+</h>
+<p>
+Foruden Vidnets Navn, og hvad der i øvrigt hører til dets nærmere Betegnelse,<lb/>
+Sagen og Indkaldelsens Øjemed, hvem der har begært Indkaldelsen, den Ret, for<lb/>
+hvilken der skal vidnes, samt Stedet og Tiden for Mødet skal der i Indkaldelsen nævnes<lb/>
+det Varsel, som skal gives den indkaldte, og gøres opmærksom paa, at Udeblivelse<lb/>
+medfører Strafansvar.
+</p>
+<p>
+Varslet er en Uge, men kan dog under særlige Omstændigheder afkortes efter<lb/>
+Beslutning af Rettens Formand.
+</p>
+<p>
+Skulle Vidner føres i Udlandet, kan paagældende Part forlange, at Retten skal<lb/>
+udstede de i saa Henseende fornødne Begæringer til de udenlandske Myndigheder.
+</p>
+<p>
+Til Vidneførsel uden for den dømmende Ret eller et eller to Medlemmer af<lb/>
+samme, skal Modparten tillige indkaldes med samme Varsel, som om han var Vidne.<lb/>
+Samtidig eller dog mindst 3 Dage før Vidneførslen skal der gives Modparten Med-<lb/>
+delelse om Vidnernes Navn, Stilling og Bopæl samt om, hvad der ved deres Forklaring<lb/>
+agtes bevist, for saa vidt han ikke allerede under Sagen har erholdt fornøden Kund-<lb/>
+skab herom. I paatrængende Tilfælde kan Indstævning af Modparten undlades. Naar<lb/>
+saadan Indstævning ikke har fundet Sted, kan Dommeren beskikke en i Retskredsen<lb/>
+bosat Sagfører til at varetage Modpartens Tarv mod et passende Salær, der udredes<lb/>
+af den Part, der har begært Indkaldelsen, under Forbehold af Godtgørelse ved Dommen<lb/>
+i Hovedsagen. Under denne afgøres det derhos, om der har været Føje til at undlade<lb/>
+at indstævne Modparten og, i benægtende Fald, om Tingsvidnet kan benyttes som<lb/>
+Bevis i Sagen.
+</p>
+<wtitle>§ 152.</wtitle>
+<p>
+Enhver, som er til Stede i et Retsmøde eller i umiddelbar Nærhed af Rets-<lb/>
+lokalet, kan det af Retten efter en Parts Begæring paalægges at fremstille sig straks<lb/>
+til Afgivelse af Vidnesbyrd. Tilstedeværende Vidner kan det paalægges at møde til<lb/>
+ny Tid.
+</p>
+<wtitle>§ 153.</wtitle>
+<p>
+Udebliver et lovmæssigt indkaldt Vidne uden lovligt Forfald eller uden at have<lb/>
+betimelig anmeldt sit Forfald, hvor dette var muligt, eller forlader det uden Tilladelse<lb/>
+Tingstedet før Mødets Slutning, skal Retten efter Partens Begæring ved Kendelse<lb/>
+idømme Vidnet en Bøde fra 10 til 200 Kr., tilpligte det at erstatte de Udgifter, som<lb/>
+maatte være foraarsagede ved Udeblivelsen, samt indkalde clet paa ny med et af Retten<lb/>
+fastsat Varsel efter Kendelsens Forkyndelse ved Partens Foranstaltning.
+</p>
+<p>
+Til Vidneførsel under Domsforhandling kan Retten efter Partens Begæring<lb/>
+lade et udeblevet Vidne afhente med Magt og, hvis Sagen udsættes, beslutte, at Vidnet<lb/>
+ved Politiets Foranstaltning skal tages i Forvaring, indtil dets Fremstillelse for Retten<lb/>
+til Afgivelse af Vidnesbyrd kan finde Sted; dog har Vidnet Adgang til Løsladelse mod<lb/>
+saadan Sikkerhed, som Retten finder tilstrækkelig, og i intet Tilfælde maa et Vidne i<lb/>
+samme Sag holdes i Forvaring ud over 6 Maaneder, uafbrudt eller sammenlagt. Saa-<lb/>
+dan Tvangsanvendelse kan ogsaa i andre Tilfælde finde Sted, naar Vidnet gentagende<lb/>
+udebliver.
+</p>
+<p>
+Kendelse, hvorved Bøde eller Erstatning er idømt et fraværende Vidne, kan<lb/>
+omgøres, naar Begæring derom fremsættes i det første Retsmøde, i hvilket Vidnet<lb/>
+derefter giver Møde eller fremstilles, eller, hvis clet ikke senere møder eller fremstilles,<lb/>
+inden 8 Dage, efter at Kendelsen er det forkyndt eller kommet til dets Kundskab.
+</p>
+<wtitle>§ 154.</wtitle>
+<p>
+Et Vidne, som anser sig for berettiget til i det hele eller for en Del at nægte<lb/>
+at vidne i den Sag, hvori, eller for den Ret, hvortil han er indkaldt, maa dog med
+</p>

@@ -1,0 +1,139 @@
+33
+<pb n="51">
+<pagename>51</pagename>
+<h>
+<coll>33</coll>
+<colr>34</colr>
+<lb/>
+
+<topleft>1848</topleft>
+<topmidle>
+Beretning om Forhandlingerne på Rigsdagen<lb/>
+</topmidle>
+<topright>
+No 5<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Andet Møde<lb/>
+(Fortsat.)<lb/>
+</btitle>
+<p>
+<law n="15."/>§15.<lb/>
+Kongens Civilliste bestemmes for hans Regjeringstid ved Lov.<lb/>
+Derved fastsættes tillige, hvilke Slotte og andre Statseiendele skulle<lb/>
+henhøre til Civillisten.<lb/>
+Om Civillisten for den nuregjerende Konge vil en allerhøieste Bestemmelse blive meddelt Rigsforsamlingen.<lb/>
+<law n="16."/>§ 16.<lb/>
+For Medlemmerne af det Kongelige Huus kan der bestemmes<lb/>
+Apanager ved Lov. Apanagerne kunne ikke uden Rigsdagens Samtykke nydes udenfor Landet, medmindre alt bestående Contracter<lb/>
+hjemle Sådant.<lb/>
+</p>
+<title>
+III.<lb/>
+</title>
+<p>
+<law n="17."/>§ 17.<lb/>
+Kongen er ansvarsfri hans Person er hellig og ukrænkelig.<lb/>
+<law n="18."/>§ 18.<lb/>
+Kongen udnævner og afskediger sine Ministre. Kongens Underskrift under de Lovgivningen og Regjeringen vedkommende Beslutninger giver disse Gyldighed, når den er ledsaget af en Ministers<lb/>
+Underskrift. Den Minister, som har underskrevet, er ansvarlig for<lb/>
+Beslutningen.<lb/>
+<law n="19."/>§ 19.<lb/>
+Ministrene kunne drages til Ansvar for de i deres Embede begåede Forbrydelser og for Handlinger, som ere åbenbart skadelige<lb/>
+for Stalen, Folkethinget anklager, Rigsretten dømmer.<lb/>
+<law n="20."/>§ 20.<lb/>
+Statsforretningerne fordeles efter Kongens Bestemmelse mellem<lb/>
+Ministrene, som i Forening udgjøre Statsrådet. Forsædet føres af<lb/>
+den, som af Kongen er udnævnt til Premierminister.<lb/>
+Alle Lovforslag og vigtigere Regjeringsforanstaltninger forelægges<lb/>
+Statsrådet.<lb/>
+<law n="21"/>§ 21<lb/>
+Kongen besætter alle Embeder i samme Omfang som hidtil.<lb/>
+Forandringer heri kunne skee ved Lov, Ingen kan beskikkes til Embedsmand, som ikke har Indfødsret.<lb/>
+Kongen kan afskedige de af ham ansatte Embedsmænd. Disses<lb/>
+Berettigelse til Pension vil blive bestemt ved Lov.<lb/>
+Kongen kan forflytte Embedsmænd uden deres Samtykke, dog<lb/>
+således, at de ikke derved tabe i Indtægter.<lb/>
+<law n="0"/>§ 22<lb/>
+Kongen har den høieste Myndighed over Land- og Sømagten.<lb/>
+Han erklærer Krig og slutter Fred samt indgåer og ophæver<lb/>
+Forbund og Handelstractater; dog kan han derved ikke uden Rigsdagens Samtykke afståe nogen Deel af Landet eller pådrage Staten<lb/>
+nogen bebyrdende Forpligtelse.<lb/>
+<law n="23."/>§ 23.<lb/>
+Kongen sammenkalder Rigsdagen senest til den 1ste Mandag i<lb/>
+October Måned hvert År. Uden Kongens Samtykke kan den ikke<lb/>
+forblive længere sammen end 2 Måneder.<lb/>
+Forandringer i disse Bestemmelser kunne skee ved Lov.<lb/>
+<law n="24."/>§ 24.<lb/>
+Kongen kan indkalde Rigsdagen til overordentlige Sammenkomster, hvis Varighed beroer på hans Bestemmelse.<lb/>
+<law n="25."/>§ 25.<lb/>
+Kongen kan hæve Rigsdagens ordentlige Sammenkomst, dog<lb/>
+</p>
+</leftside>
+<rightside>
+<p>
+uden Rigsdagens Samtykke ikke længere end på 2 Måneder og<lb/>
+ikke mere end een Gang i Året indtil dens næste ordentlige. Sammenkomst.<lb/>
+<law n="26."/>§ 26.<lb/>
+Kongen kan opløse enten hele Rigsdagen eller en af dens Afdelinger; opløses kun eet af Thingene, skal det andet hæves, indtil<lb/>
+hele Rigsdagen atter kan samles. Dette skal skee inden 2 Måneders<lb/>
+Forløb efter Opløsningen.<lb/>
+<law n="27."/>§ 27.<lb/>
+Kongen er berettiget til for Rigsdagen at lade fremsætte Forslag<lb/>
+til Love og andre Beslutninger.<lb/>
+<law n="0"/>§ 28<lb/>
+Når Kongen har givet sit Samtykke til en Lov, befaler han<lb/>
+dens Bekjendtjørelse og drager Omsorg for dens Fuldbyrdelse.<lb/>
+<law n="29."/>§ 29.<lb/>
+Kongen kan benåde og give Amnesti; Ministrene kan han kun<lb/>
+med Folkethingets Samtykke benåde for de dem af Rigsretten idømte<lb/>
+Straffe.<lb/>
+</p>
+<title>
+IV.<lb/>
+</title>
+<p>
+<law n="30."/>§ 30.<lb/>
+Rigsdagen beståer af Folkethinget og Landsthinget. Begge<lb/>
+fremgåe ved umiddelbare Valg af Folket.<lb/>
+<law n="0"/>§. 31.<lb/>
+Valgret til Rigsdagen har enhver uberygtet Mand, som har<lb/>
+Indfødsret, når han har fyldt sit 30te År, medmindre han<lb/>
+a. uden at have egen Huusstand ståer i privat Tjenesteforhold;<lb/>
+b. nyder eller har nydt Understøttelse af Fattigvæsenet, som ikke er<lb/>
+enten eftergiven eller tilbagebetalt;<lb/>
+c. er ude af Rådigheden over sit Bo;<lb/>
+d. ikke har havt fast Bopæl i eet År i det Valgdistrikt, hvori han<lb/>
+opholderr sig på den Tid, Valget foregåer. Omflytning i en<lb/>
+Stad, der har flere end et Valgdistrikt, er i så Henseende uden<lb/>
+Indflydelse.<lb/>
+<law n="32."/>§ 32.<lb/>
+Valgbar er, med de i § 31 Litr. a, b og c nævnte Undtagelser,<lb/>
+enhver uberygtet Mand, som har Indfødsret,<lb/>
+til Folkethinget når han har fyldt sit 25de År,<lb/>
+til Landsthinget, når han har fyldt sit 40de År og i det sidste<lb/>
+År før Valget har havt fast Bopæl i det Amt, hvori han<lb/>
+vælges.<lb/>
+<law n="33."/>§33.<lb/>
+Valgene til Folkethinget foregåe efter Distrikter på omtrent<lb/>
+12,000 Indpånere. Ethvert Distrikt vælger een blandt dem, der<lb/>
+have stillet sig til Valg.<lb/>
+</p>
+<p>
+Valgene til Landsthinget foregåe amtsviis. Hver Vælger stemmer<lb/>
+i sin Commune på så mange i Amtet bosatte Mænd, som skulle<lb/>
+vælges for dette. Hovedstaden vælger særskilt og blandt de deri bosatte Mænd. Omvalg finde Sted for deres Vedkommende, der ved<lb/>
+første Valg ikke have opnået mere end Halvdelen af de afgivne<lb/>
+Stemmer.<lb/>
+<law n="34."/>§ 34.<lb/>
+Antallet af Landsthingets Medlemmer skal stedse være omtrent<lb/>
+1/3 af Antallet af Folkethingets Medlemmer.<lb/>
+<law n="35."/>§ 35.<lb/>
+Medlemmerne af Folkethinget vælges på 4 År.<lb/>
+Medlemmerne af Landsthinget vælges på 8 År. Halvdelen<lb/>
+afgåer hvert 4de År. Hvilke der skulle afgåe første Gang, bestem</p>
+</rightside>
+
+</pb>

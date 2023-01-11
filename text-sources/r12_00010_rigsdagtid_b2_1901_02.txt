@@ -1,0 +1,170 @@
+2381
+<pb n="10" />
+<h>
+<coll>2381</coll>
+<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
+<colr>2382</colr>
+</h>
+<leftside>
+<wtitle>Til § 63.</wtitle>
+<p>
+2.	Stk., L. 3: „§ 61"" 1. ,.§ 725".
+</p>
+<p>
+3.	Stk., L. 5: „§ 96" 1. „§ 760".
+</p>
+<wtitle>Til § 64.</wtitle>
+<p>
+L. 1—2: „§§62 og 63" 1. „§§ 726 og 727"<lb/>
+L. 3: „§ 63" 1. „§ 727".
+</p>
+<wtitle>Til § 68.</wtitle>
+<p>
+2. Stk., L. 1 : „§ 12" 1. „§ 676".
+</p>
+<wtitle>Til § 73.</wtitle>
+<p>
+4. Stk., L. 6: „§ 284" 1. „§ 949".
+</p>
+<wtitle>Til § 77.</wtitle>
+<p>
+2. Stk., L. 3: ,.§§ 285 og 288—290" 1,<lb/>
+„§§ 950 og 953—955".
+</p>
+<wtitle>Til § 79.</wtitle>
+<p>
+4. Stk, L. 2: „§§ 12 og 14" 1. „§§ 676 og<lb/>
+678".
+</p>
+<wtitle>Til § 81.</wtitle>
+<p>
+1. Stk., L. 1: „§§87 og 88" 1. „§§751 og<lb/>
+752".
+</p>
+<p>
+1. Stk., L. 2: „§ 84" 1. „§ 748".<lb/>
+</p>
+<p>
+1. Stk., L. 5: „§ 323" 1. „§ 989".<lb/>
+</p>
+<p>
+1. Stk, L. 8: „'§ 106 jfr. § 113" 1. § 770<lb/>
+jfr. § 777".
+</p>
+<p>
+1. Stk, L. 10: „§ 373" 1. „§ 1039".
+</p>
+<wtitle>Til § 83.</wtitle>
+<p>
+1.	Stk, L. 1: ,,§ 81" 1. „§ 745".
+</p>
+<wtitle>Til § 85.</wtitle>
+<p>
+2.	Stk, L. 1 : „§ 84" 1. „§ 748".
+</p>
+<wtitle>Til § 87.</wtitle>
+<p>
+L. 2: „§ 84" 1. „§ 748".
+</p>
+<wtitle>Til § 88.</wtitle>
+<p>
+2. Stk, L. 2: „§ 87" 1. „§ 751".
+</p>
+<wtitle>Til § 102.</wtitle>
+<p>
+1. Stk, L. 1: ,§ 107" 1. „§ 765".
+</p>
+<p>
+1.	Stk, L. 2.: „§§ 330, 340, 344, 250 og<lb/>
+459" 1. „§§ 996, 1006, 1010, 1016 og<lb/>
+1025".
+</p>
+<p>
+2.	Stk, L. 4: „§ 50" 1. ,.§ 714".
+</p>
+<wtitle>Til § 111.</wtitle>
+<p>
+1. Stk., L. 5: „§ 68" 1. „§ 732".
+</p>
+<wtitle>Til § 112.</wtitle>
+<p>
+3.	Stk, L. 2: „§ 110"' 1. „§ 774".
+</p>
+</leftside>
+<rightside>
+<wtitle>Til § 113.</wtitle>
+<p>
+1. Stk, L. 6: „§ 106" 1. „§ 770".
+</p>
+<wtitle>Til § 114.</wtitle>
+<p>
+1.	Stk, L. 7: „§ 107" 1. „§ 765".
+</p>
+<wtitle>Til § 115.</wtitle>
+<p>
+2.	Stk, L. 6: „§§ 4 og 50" 1. „§§ 668 og<lb/>
+714"'.
+</p>
+<p>
+3.	Stk, L. 3: „§ 68" 1. „§ 732".
+</p>
+<wtitle>Til § 117.</wtitle>
+<p>
+L. 2 og 4: „§ 12" 1. „§ 676".
+</p>
+<wtitle>Til § 124.</wtitle>
+<p>
+3. Stk, L. 1—2: „§§ 101 og 103" 1. „SS<lb/>
+765 og 767".
+</p>
+<wtitle>Til § 125.</wtitle>
+<p>
+L. 2: ,,§ 110" 1. „§ 774".<lb/>
+L. 6: „§ 68" 1. „§ 732"'.
+</p>
+<wtitle>Til § 127.</wtitle>
+<p>
+L. 6: „§§ 106 og 113" 1. „§§ 770 og 777".
+</p>
+<wtitle>Til § 129.</wtitle>
+<p>
+L. 13: „§ 200" 1. „§ 865".
+</p>
+<wtitle>Til § 130.</wtitle>
+<p>
+2. Stk, L. 2: „§ 117" 1. „§ 781".
+</p>
+<wtitle>Til § 132.</wtitle>
+<p>
+2. Stk., L. 1: „§ 99" 1. „§ 763".
+</p>
+<wtitle>Til § 135.</wtitle>
+<p>
+L. 1: „§ 132" 1. „§ 796".<lb/>
+L. 4: „§ 134" 1. „§ 798".
+</p>
+<wtitle>Til § 136.</wtitle>
+<p>
+2. Stk, L. 1: „§ 99" 1. „§ 763".
+</p>
+<wtitle>Til § 137.</wtitle>
+<p>
+1. Stk, L. 7: „§ 46" 1. „§ 710".
+</p>
+<wtitle>Til § 139.</wtitle>
+<p>
+1.	Stk, L. 4: „§ 68" 1. „§ 732".
+</p>
+<wtitle>Til § 140.</wtitle>
+<p>
+L. 7: „§ 136" 1. „§ 800".
+</p>
+<wtitle>Til § 145.</wtitle>
+<p>
+2.	Stk, L. 4: „§ 143" 1. „§ 807".
+</p>
+<wtitle>Til § 147.</wtitle>
+<p>
+4. Stk, L. 3: „§ 139" 1. „803".
+</p>
+</rightside>

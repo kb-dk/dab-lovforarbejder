@@ -1,0 +1,75 @@
+538
+<pb n="122" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>538</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+Fogeden erklærer derefter til Fogedbogen, jfr. 1ste Stykke, de optegnede Genstande<lb />
+for udlagte til Domhaverens Fyldestgørelse og betyder Domfældte, at han fra nu af<lb />
+ikke uden at pådrage sig Strafansvar kan råde over dem på en Måde, som kommer<lb />
+i Strid med Udlægshaverens Ret. Er Domfældte ikke til Stede, gives der den eller dem,<lb />
+som i Henbold til § 517 tilkaldes på hans Vegne, Pålæg om at give Domfældte en sådan<lb />
+Betydning, og efter Omstændighederne kan lignende Betydning gives den Trediemand,<lb />
+i hvis Besiddelse det udlagte er.
+</p>
+<wtitle>§ 529.</wtitle>
+<p>
+Hvor der gives Udlæg i fast Ejendom, uden at der tillige gives Udlæg i dens<lb />
+Indtægter, forbliver den indtil Tvangsauktionen i Domfældtes Besiddelse, medmindre<lb />
+denne findes at ødelægge eller forringe Ejendommen, i hvilket Tilfælde den kan sættes<lb />
+under en af Fogeden valgt Mands Bestyrelse.
+</p>
+<p>
+Udlægsforretningen må for at kunne gøres gældende imod dem, der i god<lb />
+Tro ved Retshandler måtte erhverve Rettigheder over Ejendommen, tinglæses ved<lb />
+dennes Værneting.
+</p>
+<wtitle>§ 530.</wtitle>
+<p>
+Udlagt Løsøre må, når Udlægshaveren modsætter sig det, ikke forblive i<lb />
+Domfældtes Besiddelse, medmindre denne stiller antagelig Sikkerhed for dets Tilstedeblivelse i uforringet Stand; Udlægshaveren er selv berettiget til at tage udlagt Løsøre<lb />
+i sin Bevaring, dog, hvis det udlagtes Værdi betydeligt overstiger hans Fordring, eller<lb />
+Fogeden i øvrigt finder Grund til at forlange sådan, kun imod Sikkerhedsstillelse.
+</p>
+<p>
+Hvor udlagt Løsøre ikke lades tilbage i Domfældtes Besiddelse, og det heller<lb />
+ikke tages i Forvaring af Udlægshaveren, har Fogeden at træffe de fornødne Foranstaltninger til det udlagtes Bevaring på Domfældtes Bekostning.
+</p>
+<p>
+Har Rekvirenten i Medfør af § 517 ikke givet Møde under Forretningen, påhviler det den, der iværksætter denne, at bestemme, om det udlagte skal forblive hos<lb />
+Skyldneren, og i modsat Fald at drage Omsorg for, at det på passende Måde bevares.
+</p>
+<wtitle>§ 531.</wtitle>
+<p>
+Når Gældsbreve udlægges til Forauktionering, må de forsynes med en Påtegning om Udlæget, hvis dette skal kunne gøres gældende imod Trediemand, der<lb />
+senere i god Tro har fået Gældsbrevet overdraget til Ejendom eller Pant, eller imod<lb />
+Skyldneren, der senere i god Tro har ydet Betaling på Kapitalen til den, hos hvem<lb />
+Udlæget er sket, mod Kvittering på eller Udlevering af Gældsbrevet.
+</p>
+<p>
+Hvor der gøres Udlæg i Fordringer af anden Beskaffenhed, må der meddeles<lb />
+Skyldneren Underretning herom, da denne i Mangel heraf befries ved i god Tro at<lb />
+betale til den, hos hvem Udlæget er sket. Det samme gælder for Skyldneren efter et<lb />
+Gældsbrev for Rentebetalingers Vedkommende.
+</p>
+<p>
+Med Hensyn til Udlæg i registreringspligtige Skibe har det sit Forblivende ved<lb />
+Regelen i Skibsregistreringslov af 1. April 1892 § 49.
+</p>
+<wtitle>§ 532.</wtitle>
+<p>
+Kan den Ting, hvori Udlæg gøres, ikke overleveres til Udlægshaveren eller<lb />
+den Mand, som efter Fogedens Bestemmelse skal have den i Bevaring på Grund af<lb />
+Trediemands Ret til at besidde Tingen, bliver det efter Omstændighederne af Fogeden<lb />
+at tilkendegive vedkommende Trediemand, at Domfældte ikke er beføjet til at modtage Tingen, når Trediemands Ret til dens Besiddelse ophorer.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

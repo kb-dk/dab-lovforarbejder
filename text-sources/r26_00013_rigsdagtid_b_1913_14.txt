@@ -1,0 +1,173 @@
+2825
+<pb n="13" />
+<h>
+<coll>2825</coll>
+<topmidle>
+Bet. o. Lovf. om	Rettens Pleje m. m.
+</topmidle>
+<colr>2826</colr>
+</h>
+<leftside>
+<wtitle>
+Til § 146.
+</wtitle>
+<p>
+37)	I 2den Linie ændres Ordene „den
+paagældende Landsret	Retter" til:
+„en Landsret eller en Underret".
+</p>
+<p>
+38)	I 3die og 4de Linie ændres Ordene<lb />
+„Sagfører ved Landsretten eller i Lands-<lb />
+retskredsen" til: „Landsretssagfører eller<lb />
+Sagfører ved Underret".
+</p>
+<wtitle>
+Til § 147.
+</wtitle>
+<p>
+39) 1 lste Linie ændres Ordene „For<lb />
+ethvert Sagførersamfund" til: „For Sag-<lb />
+førersamfundet".
+</p>
+<wtitle>
+Til § 342.
+</wtitle>
+<p>
+40) I 3die Linie ændres „Underrets-<lb />
+dommer" til: „Ret".
+</p>
+<wtitle>
+Til § 472.
+</wtitle>
+<p>
+41)	1 lste Stykke, 3die Linie, sættes „."<lb />
+efter „Statstidenden", og Resten af Stykket<lb />
+udgaar.
+</p>
+<wtitle>
+Til § 544.
+</wtitle>
+<p>
+42)	Linie 3—4. I Stedet for „i den af<lb />
+Egnens . . . bestemmes" sættes: „i de<lb />
+mere udbredte stedlige Blade".
+</p>
+<wtitle>
+Til § 571.
+</wtitle>
+<p>
+43)	12det Stykke, 2den—3die Linie, ud-<lb />
+gaar Ordene: „samt udenfor .... stedlige<lb />
+Blad".
+</p>
+<p>
+44)	I 3die Stykke, 2den Linie, æn-<lb />
+dres „de nævnte indenlandske Blade" til:<lb />
+„de samme Blade, hvori Auktionen har<lb />
+været bekendtgjort".
+</p>
+<wtitle>
+Til § 577.
+</wtitle>
+<p>
+45)	lste Stykke, 2den Linie: „ide i §<lb />
+571 nævnte offentlige Blade" ændres til:<lb />
+„efter Reglerne i § 571".
+</p>
+<wtitle>
+Til § 599.
+</wtitle>
+<p>
+46)	2det Stykke, Linie 6—7: „i det<lb />
+af Justitsministeriet hertil bestemte sted-<lb />
+lige Blad" ændres til: „i et stedligt Blad<lb />
+efter Fogedens Bestemmelse".
+</p>
+<wtitle>
+Til § 689.
+</wtitle>
+<p>
+47) I Linie 1 udgaar Ordene: „(jfr.<lb />
+dog sidste Stykke)".
+</p>
+</leftside>
+<rightside>
+<wtitle>
+Til § 721.
+</wtitle>
+<p>
+48) Litra „s" udgaar.<lb />
+Herefter ændres de efterfølgende Litra.
+</p>
+<wtitle>
+Til § 742.
+</wtitle>
+<p>
+49)	I 3die Stykke, Linie 2, indskydes<lb />
+efter „Foretager den dømmende Ret":<lb />
+„ , hvor Loven giver Adgang hertil,".
+</p>
+<wtitle>
+Til § 779.
+</wtitle>
+<p>
+50)	2det Stykke, lste Punktum, affattes<lb />
+saaledes: „Børn under 14 Aar maa ikke<lb />
+undergives Varetægtsfængsel."
+</p>
+<wtitle>
+Til § 790.
+</wtitle>
+<p>
+51) I lste Stykke, Linie 7, indskydes<lb />
+efter „Overanklageren": „eller ved Anke<lb />
+til Højesteret af Rigsanklageren".
+</p>
+<wtitle>
+Til § 872.
+</wtitle>
+<p>
+52) I Linie 2 ændres „." til „,", og<lb />
+der tilføjes: „eller af Tiltalte".
+</p>
+<wtitle>
+Til § 914.
+</wtitle>
+<p>
+53) Paragraffen affattes saaledes:<lb />
+„Samtidig med Indleveringen af An-<lb />
+klageskriftet eller snarest muligt derefter<lb />
+skal Overanklageren paa Rettens Kontor<lb />
+indlevere Udskrifter af de i Sagen fore-<lb />
+tagne retslige Undersøgelses- og Bevishand-<lb />
+linger, ledsaget af Sagens øvrige Doku-<lb />
+menter og andre synlige Bevismidler. En<lb />
+af Overanklageren til Brug ved Oplæsning<lb />
+under Domsforhandlingen tilvejebragt trykt<lb />
+eller maskinskreven Ekstraktgenpart af<lb />
+nævnte Udskrifter og Dokumenter bliver<lb />
+derhos ved hans Foranstaltning uden Op-<lb />
+hold at meddele Forsvareren eller, saa-<lb />
+fremt der ingen Forsvarer er, Tiltalte.<lb />
+Selve Udskrifterne kan Forsvareren og<lb />
+eventuelt Tiltalte erholde udlaante. I øv-<lb />
+rigt gøres Sagens Dokumenter og andre<lb />
+synlige Bevismidler saa vidt muligt til-<lb />
+gængelige paa hensigtsmæssig og betryg-<lb />
+gende Maade, og passende Underretning<lb />
+derom meddeles.
+</p>
+<p>
+Ønsker Overanklageren at tilvejebringe<lb />
+yderligere Beviser, bliver der ogsaa med<lb />
+Hensyn til disse at forholde efter foran-<lb />
+staaende Regler.
+</p>
+<p>
+Finder Overanklageren det til Sagens<lb />
+fulde Oplysning nødvendigt, at tidligere af-<lb />
+hørte Vidner eller Syns- eller Skønsmænd<lb />
+indkaldes til personlig Afhøring for den
+</p>
+</rightside>

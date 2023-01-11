@@ -1,0 +1,71 @@
+2211
+<pb n="32" />
+<h>
+<coll>2211</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2212</colr>
+</h>
+<p>
+at clet bringes paa det rene, hvor vidt Vidnets Forklaring støtter sig til egen<lb/>
+Iagttagelse, og
+</p>
+<p>
+at Spørgsmaal, hvorved der foreholdes Vidnet Omstændigheder, som først<lb/>
+skulle godtgøres ved dets Svar, saa vidt muligt undgaas.
+</p>
+<p>
+Om nedskrevne Optegnelser maa benyttes ved Besvarelsen af de til Vidnet<lb/>
+rettede Spørgsmaal, afgøres af Retten, efter at det er opgivet, af hvem, naar og i<lb/>
+hvilket Øjemed de ere affattede.
+</p>
+<wtitle>§ 160.</wtitle>
+<p>
+Rettens Formand vaager over, at utilbørlige, navnlig forvirrende Spørgsmaal<lb/>
+ikke stilles ved Afhørelsen, og at denne foregaar i en passende Form. Sker Af-<lb/>
+hørelsen, trods Formandens Advarsel, paa utilbørlig Maade eller paa en Maade, som<lb/>
+ikke er egnet til at bringe Sandheden for Dagen, eller som gaar uden for Sagen, kan<lb/>
+han unddrage den paagældende Part Afhørelsen og selv overtage den. Skønner han,<lb/>
+at Afhørelsens Fortsættelse ikke kan bidrage til Sagens Oplysning, kan han slutte den.
+</p>
+<p>
+Retten kan stille Spørgsmaal til Vidnet saa vel til nærmere Opklaring af<lb/>
+Punkter, hvorom Parterne have spurgt Vidnet, som til selvstændig Oplysning af Sagen.
+</p>
+<wtitle>§ 161.</wtitle>
+<p>
+De afhørte Vidner ere pligtige at blive til Stede, indtil Retsmødet sluttes,<lb/>
+eller Formanden tillader dem at forlade Tingstedet. Hvor vidt de kunne eller skulle<lb/>
+blive til Stecle i Retssalen, beror paa Formandens Bestemmelse.
+</p>
+<p>
+Vidner samt Syns- eller Skønsmænd kunne andrage paa, at de selv eller et<lb/>
+andet Vidne eller en Part yderligere afhøres om angivne Punkter i det Øjemed at<lb/>
+fuldstændiggøre eller berigtige forudgaaende Udsagn.
+</p>
+<wtitle>§ 162.</wtitle>
+<p>
+Den Part, der har ladet et Vidne indkalde, kan, naar Vidnet har givet Møde,<lb/>
+ikke uden Modpartens Samtykke frafalde dets Afhørelse med den Virkning, at Mod-<lb/>
+parten eller Retten afskæres fra at stille Spørgsmaal til Vidnet.
+</p>
+<wtitle>§ 163.</wtitle>
+<p>
+Vidners Forklaringer optegnes i Retsbogen, saalecles at de vigtigste Udtalelser<lb/>
+gengives saa vidt muligt med Vidnets egne Ord, medens uvæsentlige Bemærkninger<lb/>
+kunne udelades. Har Vidnet tidligere været afhørt, er Henvisning tilstrækkelig, saa<lb/>
+at kun Afvigelser eller Fuldstændiggørelser optegnes. Det samme gælder ved Lands-<lb/>
+retter som anden Instans, naar der ikke er særlig Grund til at antage, at Tilladelse<lb/>
+til Anke vil blive søgt eller tilstaaet.
+</p>
+<p>
+Det Retsbogen tilførte bliver efter endt Afhøring at oplæse for Vidnet, og<lb/>
+Bemærkning, om Vidnet godkender Forklaringen, optages i Retsbogen.
+</p>
+<wtitle>§ 164.</wtitle>
+<p>
+Naar ikke begge Parter frafalde det, skulle Vidneforklaringer bekræftes med<lb/>
+Ed eller — hvis et Vidne ikke hører til et Trossamfund, for hvilket der haves en<lb/>
+lovbestemt Edsformular, eller erklærer, at det ifølge sin religiøse Tro ikke tør aflægge<lb/>
+Ed, eller at det overhovedet ikke har nogen religiøs Tro, — med en Forsikring „paa<lb/>
+Ære og Samvittighed", der træder i Eds Sted.
+</p>

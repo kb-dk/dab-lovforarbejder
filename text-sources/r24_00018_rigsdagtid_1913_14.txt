@@ -1,0 +1,83 @@
+3371
+<pb n="18">
+<h>
+<coll>
+3371
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3372
+</colr>
+</h>
+<title rend="part">Andet Afsnit.</title>
+<title>Nævningers Kaldelse.</title>
+<title rend="chapter">Kapitel 6</title>
+<title rend="subtitle">Almindelige Bestemmelser.</title>
+<lowtitle>§ 68.</lowtitle>
+<p>
+For hvert Aar, regnet fra 1. Juni til 31. Maj, vælges for hver Nævningekreds<lb />
+et Antal Mænd til at udføre Nævningehvervet. Blandt disse udtages Nævningerne for<lb />
+det enkelte Ting ved Lodtrækning, og blandt de saaledes udtagne atter Nævningerne<lb />
+for den enkelte Sag, ligeledes ved Lodtrækning.
+</p>
+<p>
+Ved Nævningekreds forstaas den Del af en Landsretskreds, som i Henhold til<lb />
+§ 11 er henlagt til samme Landsretstingsted.
+</p>
+<lowtitle>§ 69.</lowtitle>
+<p>
+Til Nævning kan med de af §§ 70 og 71 følgende Undtagelser kaldes enhver,<lb />
+som har Valgret til Folketinget, medmindre han paa Grund af legemlige Mangler eller<lb />
+utilstrækkeligt Kendskab til det danske Sprog er ude af Stand til at fyldestgøre en<lb />
+Nævnings Pligter. Den for Valgretten gældende Betingelse med Hensyn til Boligen<lb />
+bliver her at anvende saaledes, at den paagældende i det Aar, der gaar forud for<lb />
+Nævningeaarets Begyndelse, skal have haft Bopæl i Nævningekredsen.
+</p>
+<lowtitle>§ 70.</lowtitle>
+<p>
+Udelukkede fra at være Nævninger ere: Ministre, Departementschefer samt<lb />
+ligestillede Embedsmænd i Centraladministrationen, Medlemmer af Højesteret samt<lb />
+Dommere i Landsretterne og Underretterne, Formand og Næstformand i Sø- og Handels-<lb />
+retten, offentlige Anklagere, Overøvrigheder, Politiets Embeds- og Bestillingsmænd,<lb />
+Folkekirkens og de anerkendte Trossamfunds Gejstlige.
+</p>
+<lowtitle>§ 71.</lowtitle>
+<p>
+Følgende Personer kunne begære sig fritagne for Nævningehvervet:
+</p>
+<p>
+1)	Eigsdagsmænd, medens Eigsdagen er samlet,
+</p>
+<p>
+2)	Tjenstgørende Militærpersoner, dog derunder ikke indbefattet de ved Bornholms<lb />
+Væbning ansatte,
+</p>
+<p>
+3)	Told- og Postvæsenets Embeds- og Bestillingsmænd, faste Brandfolk, saavei som<lb />
+de ved Jernbaner og Telegrafer samt Telefoner ansatte Personer,
+</p>
+<p>
+4)	Læger, som ikke holde Hjælpelæge,
+</p>
+<p>
+5)	Apotekere, der drive deres Næring uden Hjælp af en farmaceutisk Kandidat,
+</p>
+<p>
+6)	Lodser,
+</p>
+<p>
+7)	eksaminerede Kedelpassere ved de det offentlige Tilsyn underkastede Dampkedler,
+</p>
+<p>
+8)	de, som inden Nævningeaarets Begyndelse fylde 65 Aar,
+</p>
+<p>
+9)	de, som paa Grund af deres Helbredstilstand eller Formue- eller Familieforhold<lb />
+ikke uden Fare for deres Velfærd kunne opfylde Nævningepligten,
+</p>
+<p>
+10)   de,  som,  efter at Grundlisten i Overensstemmelse med § 75 er berigtiget, have<lb />
+fæstet Bopæl i en anden Nævningekreds.
+</p>
+
+</pb>

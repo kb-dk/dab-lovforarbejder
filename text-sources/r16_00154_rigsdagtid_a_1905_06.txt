@@ -1,0 +1,72 @@
+2211
+<pb n="154" />
+<h>
+<coll>
+2211
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2212
+</colr>
+</h>
+<p>
+cl) i Sager, som uden at falde ind under a.. b. eller c. angaa Forbrydelser, hvorfor<lb />
+der efter Loven kan idømmes Strafarbejde eller Fortabelse af Embede, Bestilling<lb />
+eller Valgret. I disse Sager bortfalder dog Nævningernes Medvirkning, naar<lb />
+Sigtede forlanger Sagen paadømt uden Anvendelse af Nævninger. Ligeledes skal<lb />
+paa Begæring af Overanklageren Nævningers Medvirkning bortfalde i disse Sager,<lb />
+naar Sigtelsen alene angaar Vold paa Person, som ikke har haft betydelig Skade<lb />
+til Følge, eller naar den Sigtede forhen for Vold paa Person har været dømt til<lb />
+Fængsel paa Vand og Brød eller højere Straf, og der ikke er forløbet 10 Aar<lb />
+efter Udstaaelsen af denne Straf til Udøvelsen af den Handling, for hvilken han<lb />
+sigtes, endvidere, naar Sigtelsen alene angaar en af de i Straffelovens Kapitel<lb />
+23—27 omhandlede Forbrydelser, og Sigtede forhen har været dømt for en saa-<lb />
+dan Forbrydelse til Strafarbejde, og der ikke er forløbet 10 Aar efter Udstaaelsen<lb />
+af denne Straf til Udøvelsen af den Handling, for hvilken han sigtes.
+</p>
+<p>
+Ogsaa i andre Sager end de ovenfor nævnte kan Landsretten, naar Over-<lb />
+anklageren og Sigtede eller dennes Værge derom ere enige, bestemme, at Nævninger<lb />
+skulle medvirke.
+</p>
+<wtitle>§ 667.</wtitle>
+<p>
+Ved Anvendelsen af Reglerne i §§ 665 og 666 kommer, naar Sigtelsen angaar<lb />
+Forsøg eller Meddelagtighed, den Strafbestemmelse i Betragtning, som vilde være<lb />
+anvendelig, hvis Forbrydelsen var fuldbyrdet, eller Sigtede var Gerningsmand.
+</p>
+<wtitle>§ 668.</wtitle>
+<p>
+Finder Forening af flere Straffesager Sted, og nogen af dem hører under<lb />
+Landsret eller kræver Nævningers Medvirkning, blive de alle at behandle og paa-<lb />
+kende henholdsvis for Landsret og med Nævninger. Forening af Sager mod flere<lb />
+Sigtede, som adskilte vilde høre under Landsret uden og under Landsret med Næv-<lb />
+ninger, bør dog kun finde Sted, naar særegne Grunde tale derfor.
+</p>
+<wtitle>§ 669.</wtitle>
+<p>
+Retten prøver i Embeds Medfør, om en Sag hører under dens Virkekreds, og<lb />
+om Nævninger skulle medvirke ved Paakendelsen. Er Domsforhandling ved Landsret<lb />
+begyndt, skal det dog ikke være nødvendigt at afvise Sagen, fordi det findes, at den<lb />
+burde have været - anlagt ved Underret. Er Domsforhandling ved Nævninger be-<lb />
+gyndt. kan disses Medvirkning efter Rettens Bestemmelse vedblive, selv om det findes,<lb />
+at Sagen burde have været foretagen uden Nævninger.
+</p>
+<p>
+En Afgørelse af Underret, hvorved en Sigtets Begæring om Sagens Paakendelse<lb />
+ved Landsret afslaas, saavel som en Afgørelse af Landsret, hvorved Overanklagerens<lb />
+eller Sigtedes Begæring om Sagens Paakendelse under Medvirkning af Nævninger<lb />
+afslaas, kan paakæres.
+</p>
+<wtitle>§ 670.</wtitle>
+<p>
+Til Landsrettens Virkekreds høre endvidere Afgørelser i Anledning af Paaanke<lb />
+af eller Kæremaal mod Underrettens Domme, Kendelser og Beslutninger.
+</p>
+<wtitle>§ 671.</wtitle>
+<p>
+Under Højesteret høre alle Afgørelser i Anledning af Paaanke af eller Kære-<lb />
+maal mod Landsrettens Domme. Kendelser og Beslutninger, derunder indbefattet<lb />
+Handlinger af det Medlem af Landsretten, hvem det maatte være overdraget at handle<lb />
+som Undersøgelsesdommer.
+</p>

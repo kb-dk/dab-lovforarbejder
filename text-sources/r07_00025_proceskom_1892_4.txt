@@ -1,0 +1,61 @@
+3259
+<pb n="25" />
+<h>
+<coll>3259</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3260</colr>
+</h>
+<p>
+medføre Ulempe eller Bekostning, som ikke vilde staa i rimeligt Forhold til Sagens<lb />
+Genstand eller den Betydning, Vidnesbyrdet kan antages at have for Sagens Oplys-<lb />
+ning. I borgerlige Sager kunne derhos Parterne, naar de ere enige derom, altid be-<lb />
+stemme, at Vidnet skal føres ved déts eget Hjemting. I Tilfælde af Anke beror det<lb />
+for Straffesagers Vedkommende altid paa Højesteret eller vedkommende Landsret selv,<lb />
+om de i første Instans førte Vidner skulle føres paa ny for disse Retter, saavel som<lb />
+hvor eventuelle ny Vidner skulle føres. Derhos er der — for at sikre Højesteret<lb />
+mod Overbebyrdelse — givet denne Ret Beføjelse til ogsaa i borgerlige Sager at afslaa<lb />
+en Parts Begæring om at maatte føre Vidner umiddelbart for den, hvorimod der for<lb />
+Anke til Landsret i borgerlige Sager gælder de samme Regler som i første Instans.
+</p>
+<p>
+8. Andre Hovedprincip er. Ved Siden af Offentlighed, Mundtlighed og<lb />
+Umiddelbarhed maa som karakteristisk for den ny Retsplejeordning i dens Helhed<lb />
+fremhæves, at den fastslaar Bevisbedømmelsens Frihed. Retten er i at bedømme<lb />
+tilvejebragte Bevisers Værdi ikke bunden eller indskrænket ved Lovregler. Naar de<lb />
+foreliggende Beviser ere i Stand til hos Retten at fremkalde Overbevisning om, at<lb />
+noget forholder sig paa en vis Maade, og kun da, er tilstrækkeligt Bevis for Forholdet<lb />
+ført, medens Bevisernes Art og Tal i sig selv er ligegyldig. Der gøres herved et<lb />
+sidste Skridt paa en Vej, som fremmede Lovgivninger have anvist, og paa hvilken<lb />
+dansk Retsudvikling i Virkeligheden allerede er langt inde. Den eneste Undtagelse<lb />
+af Betydning, som i Udkastene gøres fra det nævnte Princip, er den, at de gældende<lb />
+Regler om Adgang til at forlange Benægtelsesed over for Haandskrift og Handelsbøger<lb />
+saavel som i Paternitetssager opretholdes. — Endvidere maa som et fremtrædende Træk<lb />
+ved den ny Ordning, saavel for den borgerlige Retsplejes som for Strafferetsplejens<lb />
+Vedkommende, nævnes, at der, i nødvendig Sammenhæng med Retsplejens Mundtlig-<lb />
+hed, er tillagt Retten en temmelig vidtgaaende procesledende Myndighed. Retten<lb />
+eller dennes Formand vaager over, at Forhandlingen foregaar med den tilbør-<lb />
+lige Orden og Værdighed, kan afbryde og tilrettevise Parter, Vidner eller andre, naar<lb />
+de tillade sig upassende Udtalelser eller utilbørlige personlige Angreb, kan eventuelt<lb />
+fratage den paagældende Ordet, skal saa vidt muligt hindre alt, hvad der til Unytte<lb />
+trækker Forhandlingerne i Langdrag, bestemmer i Reglen Rækkefølgen af de enkelte<lb />
+Dele af Forhandlingen, og slutter hver enkelt Del, naar den anser det paagældende<lb />
+Emne for tilstrækkelig behandlet, slutter Afhørelsen af et Vidne, naar den anser<lb />
+videre Afhøring for ørkesløs, har en betydelig Frihed til at samle, adskille og udstykke<lb />
+Sager, og saa fremdeles. Hvad særlig den borgerlige Retspleje angaar, maa end-<lb />
+videre fremhæves, at Forhandlingsmaksimen (d. v. s. Principet om, at det er<lb />
+Parternes egen Sag at sørge for Sagens Udvikling og Oplysning) vel i det hele be-<lb />
+vares, men dog modificeres noget dels ved den Dommeren i alle Underretssager paa-<lb />
+lagte Vejledningspligt, dels ved den Dommerne i alle Sager tillagte Spørgsmaalsret.<lb />
+Denne sidstnævnte Beføjelse for Retten, der staar i nær Sammenhæng med Proce-
+</p>
+<note rend="foot">
+<p>
+Maade, for at naa hen til Retten. For Landsret eller for Højesteret er ingen pligtig at<lb />
+møde som Vidne uden for den Landsretskreds, i hvilken han bor eller opholder sig, naar han<lb />
+vilde faa længere at rejse hen til Betten end 18 Mil paa Jærnbane eller Dampskib eller 6 Mile<lb />
+paa anden Maade eller en tilsvarende Vejlængde delvis paa Jærnbane eller Dampskib og paa<lb />
+anden Maade. Ved Beslutning af Retten eller dens Formand kan det dog paalægges et fjær-<lb />
+nere boende Vidne at give Møde for Landsret eller for Højesteret, naar det for Sagens Oplys-<lb />
+ning anses nødvendigt.
+</p>
+</note>

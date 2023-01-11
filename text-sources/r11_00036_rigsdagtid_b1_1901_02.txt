@@ -1,0 +1,55 @@
+2329
+<pb n="36" />
+<h>
+<coll>2329</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2330</colr>
+<topmidle> Tillæg B. (147).	Ordentl. Samling 1901—02. </topmidle>
+</h>
+<leftside>
+<wtitle>Til § 531.</wtitle>
+<p>Af Justitsministeren :</p>
+<p>529) Som nyt Stykke tilføjes:<lb />
+„I det Tidsrum, hvori nærværende<lb />
+Lov maatte være sat i Kraft for ikkun en<lb />
+Del af Landet, kan en Sag indbringes for<lb />
+Retten i denne Del af Landet, naar saa-<lb />
+dant hjemles ved de i nærværende Lov<lb />
+indeholdte Værnetingsregler, selv om Sagen<lb />
+efter de hidtil gældende Værnetingsregler<lb />
+ikke kunde indbringes der."</p>
+<wtitle>Til § 535.</wtitle>
+<p>Af Justits ministeren, tiltraadt af<lb />
+Udvalget undtagen Nanke:</p>
+<p>530) ..Retsmidler" ændres til „Sik-<lb />
+ringsmidler".</p>
+<wtitle>Til § 536.</wtitle>
+<p>531) „Fogdens" ændres til „Syssel-<lb />
+mandens".</p>
+</leftside>
+<rightside>
+<wtitle>Til § 537.</wtitle>
+<p>Af Udvalget:</p>
+<p>532)	Paragraffen udgaar.</p>
+<wtitle>Til § 538.</wtitle>
+<p>Af Udvalget:</p>
+<p>533)	Paragraffen udgaar.</p>
+<p>Af Udvalget:</p>
+<p>534)	Begyndelsesoverskriften: „Forslag<lb />
+til Lov om den borgerlige Retspleje"<lb />
+ændres til:</p>
+<pt>Anden Bog.</pt>
+<p>Den borgerlige Retspleje."</p>
+<p>Den første Paragraf faar som Num-<lb />
+mer det Tal, der i Talrækken følger nær-<lb />
+mest efter første Bogs sidste Paragrafs<lb />
+Nummer. De følgende Paragrafers Numre<lb />
+rettes derefter.</p>
+</rightside>
+<p>Berg. Borgbjerg.   Alfred Christensen.   Fogtmann. Oscar Hansen.</p>
+<p>Formand.	Sekretær.</p>
+<p>Svend Høgsbro.   J. Jensen (Kbhvn.s 10. V.). Knop. Krabbe.</p>
+<p>Ordfører.	Ordfører.</p>
+<p>N. J. Larsen.   H. Madsen. Nanke.  L. Rasmussen.   Ravn. Slengerik.</p>
+<p>Udvalgenes Betænkninger m. m.</p>
+<p>147</p>

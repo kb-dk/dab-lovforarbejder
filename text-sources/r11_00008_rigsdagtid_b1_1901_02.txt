@@ -1,0 +1,87 @@
+2273
+<pb n="8" />
+<h>
+<coll>2273</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2274</colr>
+</h>
+<leftside>
+<wtitle>Til § 103.</wtitle>
+<p>188) I 1ste Linie udgaar Ordet „endelig".</p>
+<wtitle>Til § 105.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget:</p>
+<p>189)	„Procesomkostninger" ændres til.<lb />
+„Sagsomkostninger".</p>
+<wtitle>Til § 107</wtitle>
+<p>Af Udvalget:</p>
+<p>190)	I Slutningen af 1ste Stykke til-<lb />
+føjes : „Ligeledes kan Retten, naar sagsøgte<lb />
+for en Del har erkendt Rigtigheden af et<lb />
+indtalt Beløb, straks give Sagsøgeren<lb />
+Dom for det af sagsøgte saaledes aner-<lb />
+kendte Beløb."</p>
+<wtitle>Til § 109.</wtitle>
+<p>191)	Pkt. 2 affattes saaledes:</p>
+<p>„Afsigelsen af en Dom foregaar ved,</p>
+<p>at Domsslutningen, efter at hele Dommen<lb />
+er skriftlig udarbejdet, oplæses i et Rets-<lb />
+møde."</p>
+<pt>Efter § 109.</pt>
+<p>192)	Her indsættes en ny Paragraf<lb />
+saalydende:</p>
+<p>„Stadfæstelse af en indanket Dom kan<lb />
+gives enten i Henhold til de i samme an-<lb />
+førte Grande eller i Henhold til ny Be-<lb />
+grundelse.</p>
+<p>I overordnet Rets Dom skal det altid<lb />
+anføres, ved hvilken Ret den indankede<lb />
+Dom er afsagt."</p>
+<wtitle>Til § 110.</wtitle>
+<p>193) 1ste Stykkes 2det og 3die<lb />
+Punktum gøres til et selvstændigt Stykke.</p>
+<p>Til Overskriften til Kap. XI.<lb />
+194) „Proces" ændres til: „Sags".</p>
+<wtitle>Til § 113.</wtitle>
+<p>195) I 1ste Stykke, L. 3, Ordene „i<lb />
+særlige Omstændigheder finder skellig<lb />
+Grund" ændres til: „finder særlig Grund".</p>
+</leftside>
+<rightside>
+<p>196) I 2det Stykke, ved Slutningen af<lb />
+L. 3, indsættes: „Udgift til Sagførersalær<lb />
+erstattes med et passende Beløb", og i Be-<lb />
+gyndelsen af L. 4 ændres de „virkelige"<lb />
+til „og øvrige".</p>
+<wtitle>Til § 114.</wtitle>
+<p>Af Justitsministeren, tiltraadt af<lb />
+Ud val get:</p>
+<p>197) „Procesomkostninger" ændres til<lb />
+„Sagsomkostninger".</p>
+<wtitle>Til § 115.</wtitle>
+<p>198) Samme Ændring.</p>
+<wtitle>Til § 116.</wtitle>
+<p>199) Samme Ændring.</p>
+<wtitle>Til § 117.</wtitle>
+<p>200)	„Processens" ændres til „Sa-<lb />
+gens".</p>
+<wtitle>Til § 124.</wtitle>
+<p>201)	„Procesomkostninger" ændres til<lb />
+„Sagsomkostninger".</p>
+<wtitle>Til § 126.</wtitle>
+<p>202)	I sidste Linie ændres: „ved Un-<lb />
+derretten" til „i Underretssager".</p>
+<wtitle>Til § 130.</wtitle>
+<p>Af Udva1get (undtagen Nanke), tiltraadt<lb />
+af Justitsministeren:</p>
+<p>203) Paragraffen udgaar.</p>
+<wtitle>Til § 131.</wtitle>
+<p>Af Nanke:</p>
+<p>204) Nr. 1 forandres til: „den paa-<lb />
+gældendes økonomiske Forfatning er en<lb />
+saadan, at han ikke skønnes selv at kunne<lb />
+afholde de med Sagens Førelse forbundne<lb />
+Omkostninger og andre Udgifter, hvorom<lb />
+paalidelige Attester, afgivne paa Tro og<lb />
+Love, skulle tilvejebringes."</p>
+</rightside>

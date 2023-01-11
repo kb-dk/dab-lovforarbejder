@@ -1,0 +1,78 @@
+624
+<pb n="208" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>624</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 883.</wtitle>
+<p>
+Efter at Bevisførelsen er sluttet, får først Overanklageren, dernæst Forsvareren og, såfremt Tiltalte begærer det, denne Ordet for at udtale sig om Bevisførelsens<lb />
+Resultat samt om Retsspørgsmålene i Sagen, dog så vidt muligt uden at omhandle<lb />
+sådanne Punkter, som ikke skal forelægges Nævningerne til Afgørelse.
+</p>
+<wtitle>§ 884.</wtitle>
+<p>
+Efter at Parterne har haft Ordet, skal Overanklageren overlevere Retten og<lb />
+Forsvareren Udkast til de Spørgsmål, som skal forelægges Nævningerne, hvorefter<lb />
+der gives Forsvareren og Tiltalte Lejlighed til at ytre sig og fremsætte Forslag til Ændringer i eller Tillæg til Spørgsmålene. Spørgsmålene fastsættes derefter af Retten og<lb />
+meddeles Parterne; hvor dette kræves af Reglerne i § 908, 4de Stykke, gives der disse<lb />
+fornyet Lejlighed til at ytre sig.
+</p>
+<p>
+Intet Spørgsmål kan forelægges Nævningerne, medmindre det har været udtrykkelig fremdraget under Forhandlingerne, og det således har været muligt for Parterne<lb />
+at ytre sig derom.
+</p>
+<wtitle>§ 885.</wtitle>
+<p>
+Ved Spørgsmålene til Nævningerne skal det forelægges dem til Afgørelse, om<lb />
+Tiltalte er skyldig i det Forhold, som Tiltalen angår; Tiltalens Angivelser kan fraviges indenfor de Grænser, som er betegnede i § 908. Som Følge heraf hører det under<lb />
+Nævningernes Afgørelse, om nogen Grund, som udelukker Straf, eller om sådanne i<lb />
+Straffeloven bestemt betegnede Omstændigheder, der hjemler Nedsættelse eller Forhøjelse<lb />
+af Straffen udenfor den almindelige Strafferamme, er til Stede.
+</p>
+<p>
+Undtagne fra Nævningernes Afgørelse er Spørgsmål om
+</p>
+<p>
+a)	Strafskyldens Forældelse,
+</p>
+<p>
+b)	de i Straffelovens §§ 7 og 58 ommeldte Omstændigheder,
+</p>
+<p>
+e) Straffens Forhøjelse på Grund af Gentagelse.
+</p>
+<p>
+For så vidt det imidlertid ved Anvendelsen af Reglerne om Strafskyldens Forældelse og Strafforhøjelse på Grund af Gentagelse kommer an på det Tidspunkt, da den<lb />
+påtalte Handling blev begået, afgøres dette Spørgsmål af Nævningerne efter den almindelige Regel.
+</p>
+<p>
+Om Overanklageren er påtaleberettiget, er ikke Genstand for Nævningernes<lb />
+Afgørelse.
+</p>
+<wtitle>§ 886.</wtitle>
+<p>
+Det tilkommer ikke Nævningerne at afgøre noget om Tilstedeværelsen af Omstændigheder, der kan komme i Betragtning ved Straffens Udmåling indenfor Lovens<lb />
+Strafferamme, og som Følge heraf heller ikke i de Tilfælde, hvor Loven på Grund af<lb />
+skærpende eller formildende Omstændigheder, men uden nærmere Betegnelse af disse<lb />
+eller blot med Angivelse af vejledende Eksempler, har udvidet Grænserne for Straffens<lb />
+Valg, at afgøre, om sådanne Omstændigheder foreligger.
+</p>
+<wtitle>§ 887.</wtitle>
+<p>
+Ethvert Spørgsmål til Nævningerne skal stilles således, at det kan besvares<lb />
+med »Ja« eller »Nej«.
+</p>
+<p>
+Ethvert enkelt Spørgsmål må alene angå een Tiltalt og, så vidt muligt, kun<lb />
+eet forbrydersk Forhold.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

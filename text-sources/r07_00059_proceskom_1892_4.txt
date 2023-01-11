@@ -1,0 +1,69 @@
+3327
+<pb n="59" />
+<h>
+<coll>3327</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3328</colr>
+</h>
+<p>
+første Instans. Dog dømmer Landsretten i disse fra Underret indankede Sager altid<lb />
+uden Nævningers Medvirken.
+</p>
+<p>
+44. Anke til Højesteret i Straffesager. Medens en ved Underret begyndt<lb />
+og derefter til Landsret paaanket Straffesag ikke uden særlig Tilladelse af Højesteret<lb />
+kan indankes for denne (Nr. 2), kan enhver Straffesag, der er paadømt ved Landsret<lb />
+som første Instans, altid indankes for Højesteret. Anken til Højesteret er dog i begge<lb />
+Tilfælde begrænset i Henseende til dens Genstand. Som en Konsekvens af Nævninge-<lb />
+institutet og den ved Domsforhandlingen for Landsretten gennemførte Bevisumiddel-<lb />
+barhed er det nemlig foreskrevet, at Højesteret altid og ubetinget er bunden ved, hvad<lb />
+der af Nævningerne eller Landsretten er anset for bevist med Hensyn til selve Skyld-<lb />
+spørgsmaalet, ligesom den aldrig til Skade for Tiltalte kan fravige Nævningernes Er-<lb />
+klæring med Hensyn til Spørgsmaalet om Henførelsen under Straffeloven. En anden<lb />
+Sag er, at Højesteret i Tilfælde af Rettergangsfejl, urigtig Spørgsmaalstillen eller<lb />
+Retsbelæring kan ophæve Behandlingen eller Nævningekendelsen og hjemvise Sagen til<lb />
+ny Behandling. Genstand for Højesterets Prøvelse bliver efter det anførte i det<lb />
+væsentlige kun, om der foreligger nogen processuel Fejl ved Behandlingen for Lands-<lb />
+ret, om der foreligger nogen Retsvildfarelse af nærmere angiven Art, samt om Straffen<lb />
+er rigtig udmaalt.
+</p>
+<p>
+I førstnævnte Henseende er Reglen den, at enhver Tilsidesættelse eller fejl-<lb />
+agtig Anvendelse af Rettergangsregler kan paaberaabes som Ankegrund, men at saa-<lb />
+dan formel Fejl kun skal bevirke Ophævelse, naar det antages, at den i det givne<lb />
+Tilfælde kan have medført et andet Udfald af Sagen, end denne vilde have faaet, om<lb />
+Fejlen ikke var begaaet. Der er derhos, for at hindre, at Højesteret skal belemres<lb />
+med øjensynlig urimelige Anker, givet denne Ret Adgang til gennem et særligt Ud-<lb />
+valg straks at afvise enhver Anke, der alene støttes paa en Ankegrund, som klarligen<lb />
+ikke kan føre til Dommens Ophævelse.
+</p>
+<p>
+Hvad mulige Retsvildfar eiser angaar, da kan Højesterets Afgørelse f. Eks.<lb />
+æskes med Hensyn til Spørgsmaal om Forældelse, Gentagelse og visse andre særlige<lb />
+Punkter, der udtrykkelig ere unddragne Nævningernes Afgørelse, eller med Hensyn<lb />
+til Spørgsmaalet om, hvor vidt der i Retsformandens vejledende Foredrag for Næv-<lb />
+ningerne eller i den Maade, hvorpaa Spørgsmaalene ere stillede til disse, maatte skjule<lb />
+sig en Retsvildfarelse af Betydning, eller — for saa vidt angaar Sager, der ere paa-<lb />
+kendte uden Nævninger, — med Hensyn til, om Straffeloven i det hele er rigtig an-<lb />
+vendt paa Tiltaltes Forhold.
+</p>
+<p>
+Hvad endelig Strafudmaalingen angaar, kan Højesteret kun undersøge, hvor-<lb />
+vidt en idømt Straf maatte ligge uden for de i Loven fastsatte Grænser eller staa i<lb />
+aabenbart Misforhold til Brøden.
+</p>
+<p>
+Yderligere er Højesterets Prøvelse til en vis Grad bunden ved, hvilke Anke-<lb />
+grunde Parterne paaberaabe sig; navnlig kan Højesteret, hvor Landsretsdommen kun<lb />
+paaankes som lidende af formelle Fejl, ikke til Skade for Tiltalte indlade sig paa<lb />
+nogen Prøvelse, der berører Realiteten, ligesom den, naar Sagen kun er indanket fra<lb />
+Tiltaltes Side, ikke kan idømme strængere Straf end ved Landsretsdommen bestemt.
+</p>
+<p>
+Hvis Højesteret kommer til det Resultat, at Landsretsdommen inden for de<lb />
+angivne Grænser lider af Fejl af Betydning, kan den, alt efter Fejlens Beskaffenhed,<lb />
+forandre Dommen eller ophæve den og eventuelt vise Sagen tilbage til ny Behandling.
+</p>
+<p>
+Om Ankefrist og Ankemeddelelse gælde lignende Regler som ved Anke til
+</p>

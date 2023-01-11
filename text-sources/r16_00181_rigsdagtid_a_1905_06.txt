@@ -1,0 +1,74 @@
+2265
+<pb n="181" />
+<h>
+<coll>
+2265
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2266
+</colr>
+</h>
+<p>
+Er en Lovovertrædelse, hvis offentlige Forfølgning er betinget af en privats<lb />
+Begæring, kommen til Politimesterens Kundskab, men der er Grund til at antage, at<lb />
+den er den paagældende private ubekendt, kan han gøre Meddelelse til denne,<lb />
+men foretager i øvrigt ingen Efterforskning, førend en udtrykkelig Begæring fra den<lb />
+private foreligger. Indeholder en af den private indgiven Anmeldelse om Forbry-<lb />
+delsen ingen saadan Begæring, skal han foranlediges til at give den fornødne Erklæring.
+</p>
+<p>
+Ovenstaaende Regler udelukke dog ikke, at uopsættelige Efterforskningsskridt<lb />
+foretages, førend Befalingen, Opfordringen eller Begæringen foreligger, saafremt Ger-<lb />
+ningen maa antages at være vedkommende ubekendt, og Omstændighederne gøre det<lb />
+rimeligt, at Paatale vil blive begært (jfr. § 701).
+</p>
+<wtitle>§ 781.</wtitle>
+<p>
+Finder Politimesteren, at der mangler Grund til at foretage videre Skridt i<lb />
+Anledning af en indgiven Anmeldelse eller en fremsat Begæring om Forfølgning, skal<lb />
+han paa Forlangende meddele en skriftlig Erklæring om sin Vægring, og om denne<lb />
+er grundet paa, at den formentlige Lovovertrædelse ikke antages at være Genstand<lb />
+for offentlig Forfølgning, eller paa Anmeldelsens utilstrækkelige Grundlag.
+</p>
+<p>
+Den, som har indgivet Anmeldelsen eller fremsat Begæringen, kan derefter<lb />
+henvende sig til den overordnede Myndighed med Andragende om, at det maa blive<lb />
+paalagt vedkommende at træde i Virksomhed.
+</p>
+<wtitle>§ 782.</wtitle>
+<p>
+Efterforskningen skal rettes paa at tilvejebringe saadanne Oplysninger, som<lb />
+ere tilstrækkelige til at bestemme, om Forfølgning skal indledes ved Retten ved Be-<lb />
+gæring om Forundersøgelse eller ved Iværksættelse af Tiltale.
+</p>
+<p>
+Saa bør og i øvrigt alle Oplysninger fremskaffes og Foranstaltninger træffes,<lb />
+som skønnes nødvendige eller tjenlige til at forberede Sagens Behandling ved Retten.
+</p>
+<p>
+Befrygtes et Bevis ellers at ville gaa tabt, bør Bevisførelse foranstaltes.
+</p>
+<wtitle>§ 783.</wtitle>
+<p>
+Til Opnaaelse af Efterforskningens Øjemed er Politimesteren berettiget til<lb />
+under de Betingelser og med de nærmere Bestemmelser, som herom i det foregaaende<lb />
+ere fastsatte, at foretage Ransagninger og Beslaglæggelser, fordre Oplysninger af<lb />
+offentlige Myndigheder, indkalde Vidner, foretage Besigtigelse, lade foretage Syn og<lb />
+Skøn, anholde mistænkte m. v.
+</p>
+<p>
+Kræver Loven i Anledning af en saaledes truffen Foranstaltning en efterføl-<lb />
+gende Henvendelse til Retten, paahviler det den paagældende Embedsmand at sørge<lb />
+for, at denne finder Sted paa lovbefalet Maade.
+</p>
+<p>
+Om de foretagne Efterforskningshandlinger optages skriftlige Beretninger.
+</p>
+<wtitle>§ 784.</wtitle>
+<p>
+Skønner Politimesteren enten straks eller i Løbet af Efterforskningen, at der<lb />
+blive Spørgsmaal om at undlade Paatale i Medfør af § 702, forelægger han de<lb />
+fremkomne Oplysninger for Overanklageren og standser alle ikke uopsættelige Efter-<lb />
+forskningsskridt, indtil Overanklagerens Beslutning foreligger.
+</p>

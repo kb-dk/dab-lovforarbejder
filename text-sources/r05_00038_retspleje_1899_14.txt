@@ -1,0 +1,36 @@
+32
+<pb n="38" />
+<h>
+<topmidle>32 Kap. IX. Procesinåden i Almindelighed.</topmidle>
+</h>
+<p>Parterne skal varsles til Forretningen, og<lb />
+i bekræftende Fald Varslets Længde. Anmodningen tilstilles Justitsministeriet til videre Foranstaltning.</p>
+<p>Skal Parts Ed aflægges ved fremmed<lb />
+Domstol, fremsattes Begæring om dens Aflæggelse for den Ret, der har afsagt Edsdommen.</p>
+<p>Anmodninger fra fremmede Retter om<lb />
+Bevisoptagelse eller andre retslige Handlinger<lb />
+blive alene at efterkomme, når de fremsendes<lb />
+gennem Justitsministeriet, jvfr. iøvrigt §§<lb />
+135  og  172.</p>
+<title>Kapitel X.</title>
+<undertitle>Rettens Rådslagninger og Afgørelser.</undertitle>
+<wtitle>§ 100.</wtitle>
+<p>Domme, Kendelser og andre Beslutninger af en Ret, der ikke beklædes af en enkelt<lb />
+Dommer, og som ikke høre til de Beslutninger, Rettens Formand kan træffe, vedtages ved Afstemning efter forudgående<lb />
+Rådslagning. Afstemningen foregår efter<lb />
+Tjenestealderen, således at det yngste Medlem stemmer først. Formanden stemmer<lb />
+altid sidst, han forestår Afstemningen og<lb />
+samler Stemmerne. Afstemningen sker<lb />
+mundtlig; de afgivne Stemmer indføres udtogsvis i en Stemmegivningsbog. Enhver<lb />
+Dommer har Ret til at påse, at hans<lb />
+Stemme gengives rigtigt.</p>
+<p>Dommernes Rådslagninger og Afstemninger må ikke overværes af Tilhørere,<lb />
+med Undtagelse af Retsskriveren.</p>
+<p>I  Afstemningen må kun de Dommere<lb />
+deltage, som have   overværet den mundtlige<lb />
+Forhandling og Bevisførelsen i Sagen.</p>
+<wtitle>§ 101.</wtitle>
+<p>I Dommens Vedtagelse deltage for<lb />
+Landsretternes Vedkommende mindst tre<lb />
+Medlemmer og for Højesterets Vedkommende<lb />
+mindst syv Medlemmer af Retten.   Samme</p>

@@ -1,0 +1,54 @@
+3337
+<pb n="1">
+<h>
+<coll>
+3337
+</coll>
+<colr>
+3338
+</colr>
+</h>
+<p>
+L.<lb />
+Forslag til Lov<lb />
+om<lb />
+Rettens Pleje.
+</p>
+<p>
+(Fremsat i Folketinget den 26. Januar 1914 af Justitsminister Zahle.)
+</p>
+<p>
+Første Bog.
+</p>
+<p>
+Domsmagten m. m.
+</p>
+<title rend="part">Første Afsnit.</title>
+<title>Domstolenes Ordning.</title>
+<title rend="chapter">Kapitel 1</title>
+<title rend="subtitle">
+Retterne.
+</title>
+<lowtitle>§ 1.</lowtitle>
+<p>
+De almindelige Domstole ere Højesteret, Landsretterne og Underretterne, samt<lb />
+Sø- og Handelsretten i København.
+</p>
+<p>
+Rigsretten, Sessionerne, de gejstlige og militære Retter omfattes ikke af denne<lb />
+Lov. Det samme gælder om de i Lov Nr. 35 af 15. Februar 1895 omhandlede Kon-<lb />
+sularretter, den ved Lov Nr. 225 af 14. April 1905 § 35 under Navn af Akkordretten<lb />
+oprettede Domstol, de i Lov Nr. 77 af 19. April 1907 §§ 11 og 12 og i Lov Nr. 134<lb />
+af 8. Juni 1912 omhandlede Voldgiftsretter samt den i sidstnævnte Lovs § 7 omhand-<lb />
+lede staaende Voldgiftsdomstol, for saa vidt der ved de nævnte Love er fastsat særlige<lb />
+Regler for disse Retter. Regeringen bemyndiges dog til ved kongelig Anordning at<lb />
+fastsætte saadanne Lempelser i disse Særregler, som denne Lov nødvendiggør.
+</p>
+<p>
+Det har sit Forblivende ved de Bestemmelser om Procesmaaden ved den faste<lb />
+Voldgiftsret, som indeholdes i Lov Nr. 81 af 12. April 1910, dog at Bestemmelserne<lb />
+i nærværende Lov komme til Anvendelse i Stedet for de tilsvarende Regler i Lov<lb />
+Nr. 53 om Rettens Pleje af 26. Marts 1909.
+</p>
+
+</pb>

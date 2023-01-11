@@ -1,0 +1,76 @@
+460
+<pb n="44" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>460</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+skabsbøger, Breve eller andre Optegnelser eller bese Genstande, hvortil de uden<lb />
+Omkostning eller Besvær har Adgang, o. desl., og denne Pligt kan af Retten særlig<lb />
+pålægges dem ved Indkaldelsen eller senere. Undlader Vidnet at efterkomme denne<lb />
+Pligt, behandles han efter Reglerne i § 177.
+</p>
+<wtitle>§ 180.</wtitle>
+<p>
+Forinden et Vidne afhøres om Sagen, stiller Dommeren de Spørgsmål til det,<lb />
+som findes fornødne for at forvisse sig om dets Identitet samt for at afgøre, om der<lb />
+er noget til Hinder for Vidnesbyrdets Modtagelse. Dommeren skal derefter alvorlig<lb />
+lægge Vidnet på Hjerte at følge Sandheden, idet han minder det om det Strafansvar,<lb />
+som det pådrager sig ved at afgive falsk Forklaring for Retten, og om, at det må<lb />
+være forberedt på at bekræfte sin Forklaring med Ed eller på anden højtidelig Måde.
+</p>
+<p>
+Skal flere Vidner afhøres, kan Dommeren lade denne Forberedelse til Afhørelse foregå under eet for flere eller samtlige indkaldte Vidner.
+</p>
+<wtitle>§ 181.</wtitle>
+<p>
+Ethvert Vidne afhøres for sig og bør i Regelen ikke påhøre Forklaringer af<lb />
+andre Vidner, af Syns- eller Skønsmænd eller, hvis det er i en Straffesag, af Sigtede.<lb />
+Vidner, hvis Udsagn står i Strid med hinanden, kan efter Parternes Begæring eller<lb />
+Rettens Beslutning stilles imod hinanden. Sådant bør dog ikke i Straffesager, ved<lb />
+hvis Pådømmelse Nævninger må antages at skulle medvirke, uden særlig Grund ske<lb />
+før Domsforhandlingen.
+</p>
+<wtitle>§ 182.</wtitle>
+<p>
+Når en Part selv afhører de af ham fremstillede Vidner, kan Modparten, hver<lb />
+Gang Afhørelsen af et Vidne er sluttet, rette Spørgsmål til det, og Parten kan derefter rette de Spørgsmål til Vidnet, hvortil Modafhøringen har givet Anledning. Rettens Formand kan tillade Fremsættelse af yderligere Spørgsmål.
+</p>
+<p>
+Retten kan, efter Begæring eller af egen Drift, lade et Vidne, der er aftrådt,<lb />
+fremstå på ny til yderligere Afhørelse; foranstående Regler finder herved tilsvarende<lb />
+Anvendelse.
+</p>
+<p>
+Vidner kan andrage på, at de selv eller et andet Vidne eller en Part (i<lb />
+Straffesager Tiltalte) yderligere afhøres om angivne Punkter i det Øjemed at fuldstændiggøre eller berigtige forudgående Udsagn.
+</p>
+<wtitle>§ 183.</wtitle>
+<p>
+Under et Vidnes Afhøring bør det iagttages:<lb />
+at Vidnet så vidt muligt foranlediges til at udtale sig i sammenhængende<lb />
+Orden om de Punkter, angående hvilke dets Forklaring æskes,
+at det bringes på det rene, hvorvidt Vidnets Forklaring støtter sig til egen<lb />
+Iagttagelse, og
+at Spørgsmål, hvorved der foreholdes Vidnet Omstændigheder, som først skal<lb />
+godtgøres ved dets Svar, så vidt muligt undgås.
+</p>
+<p>
+Om Vidnet må benytte nedskrevne Oplysninger ved Besvarelsen af de til det<lb />
+rettede Spørgsmål, afgøres af Retten, efter at det er opgivet, af hvem, når og i<lb />
+hvilket Øjemed de er affattede.
+</p>
+<wtitle>§ 184.</wtitle>
+<p>
+Når Vidner afhøres af andre end Rettens Formand, har denne at våge over,<lb />
+at utilbørlige, navnlig forvirrende Spørgsmål ikke stilles ved Afhørelsen. og at
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

@@ -1,0 +1,144 @@
+1549
+<pb n="38" >
+<p rend="page">38</p>
+<h>
+<coll>1549</coll>
+<colr>1550</colr><lb />
+</h>
+<leftside>
+<btitle>
+A. Grundlovsudkastet.<lb />
+</btitle>
+<p>
+<law n="45" >§ 45.<lb /></law>
+Landsthinget udvælger aarligen een og Folkethinget to lønnede Revisorer.<lb />
+</p>
+<p>
+Revisorerne gjennemgaae det aarlige Statsregnskab og paasee, at samtlige Statens Indtægter deri ere blevne opførte og at ingen Udgift udenfor Finantsloven har fundet Sted.<lb />
+De kunne fordre sig alle fornødne Oplysninger og Actstykker meddeelte.<lb />
+</p>
+<p>
+Statsregnskabet, med Revisorernes Bemærkninger, forelægges derefter Folkethinget, som<lb />
+med Hensyn til samme tager Beslutning.<lb />
+<law n="46" >§ 46.<lb /></law>
+Ingen Udlænding kan herefter erholde Indfødsret uden ved Lov.<lb />
+<law n="47" >§ 47.<lb /></law>
+Ethvert af Thingene afgjør selv Gyldigheden af sine Medlemmers Valg.<lb />
+<law n="48" >§ 48.<lb /></law>
+Ethvert nyt Medlem aflægger, saasnart Gyldigheden af hans Valg er anerkjendt, følgende<lb />
+Eed:<lb />
+</p>
+<p>
+„For den almægtige Guds Aasvn lover<lb />
+jeg at holde Grundloven for Kongeriget<lb />
+Danmark og Slesvig."<lb />
+<law n="49" >§ 49.<lb /></law>
+Kommer den gyldigen Valgte i et af de<lb />
+Tilfælde, hvorved Valgbarhed fortabes, mister<lb />
+han den af Valget flydende Ret. Dog skal Ingen tabe sit Sæde i Landsthinget, fordi han<lb />
+i Løbet af den Tid, for hvilken han er valgt,<lb />
+flytter til et andet Amt.<lb />
+<law n="50" >§ 50.<lb /></law>
+Ministrene have i Embeds Medfør Adgang<lb />
+til Rigsdagen og ere berettigede til at forlange<lb />
+Ordet naar de ville. Stemmeret udøve de kun<lb />
+naar de tillige ere Rigsdagsmænd.<lb />
+<law n="51" >§ 51.<lb /></law>
+Ethvert Thing vælger for hver ordentlig eller<lb />
+overordentlig Samling sin Formand og den,<lb />
+ser i hans Forfald skal føre Forsædet.<lb />
+<law n="52" >§ 52.<lb /></law>
+Intet af Thingene kan tage nogen Beslutning naar ikke idetmindste ⅓ af dets Medlemmer er tilstede og deeltager i Afstemningen.<lb />
+<law n="53" >§ 53.<lb /></law>
+Til enhver Beslutning saavelsom til Valget af Formændene udfordres Fleertallet af de<lb />
+givne Stemmer. Hvorledes der skal forholdes<lb />
+ved andre Valg, bestemmes ved hvert Things<lb />
+Forretningsordning.<lb />
+<law n="54" >§ 54.<lb /></law>
+Ethvert Lovforslag skal foretages 3 Gange,<lb />
+forinden Thinget derom kan tage nogen endelig Beslutning.<lb />
+<law n="55" >§ 55.<lb /></law>
+Enhver Rigsdagsmand kan i det Thing,<lb />
+hvortil han hører, med dettes Samtykke bringe<lb />
+ethvert offentligt Anliggende under Forhandling og derom æske Ministrenes Forklaring.<lb />
+</p>
+<btitle>
+B. Comiteens (Majoritets) Indstilling.<lb />
+</btitle>
+<p>
+<law n="45" >§ 45.<lb /></law>
+Hvert Thing udnævner to lønnede Revisorer. Disse gjennemgaae det aarlige Statsregnskab og paasee, at samtlige Statens Indtægter deri ere blevne opførte, og at ingen Udgift udenfor Finantsloven har fundet Sted.<lb />
+De kunne fordre sig alle fornødne Oplysninger og Aktstykker meddeelte.<lb />
+</p>
+<p>
+Det aarlige Statsregnskab, med Revisorernes Bemærkninger, forelægges derefter den forenede Rigsdag, som med Hensyn til samme<lb />
+tager Beslutning.<lb />
+<law n="46" >§ 46.<lb /></law>
+Som Udkastet.<lb />
+<law n="47" >§ 47.<lb /></law>
+Som Udkastet.<lb />
+<law n="48" >§ 48.<lb /></law>
+Ethvert nyt Medlem aflægger, saasnart<lb />
+Gyldigheden af hans Valg er anerkjendt, følgende Eed:<lb />
+</p>
+<p>
+„For den almægtige Guds Aasyn lover<lb />
+jeg at holde Danmarks Riges Grundlov".<lb />
+<law n="49" >§ 49.<lb /></law>
+Kommer den gyldigen Valgte i et af de<lb />
+Tilfælde, der udelukke fra Valgbarhed, mister<lb />
+han den af Valget flydende Ret. Dog skal<lb />
+Ingen tabe sit Sæde i Landsthinget, fordi<lb />
+han i Løbet af den Tid, for hvilken han er<lb />
+valgt, flytter til en anden Valgkreds.<lb />
+</p>
+<p>
+Det bliver nærmere ved Lov at bestemme,<lb />
+i hvilke Tilfælde en Rigsdagsmand, der<lb />
+befordres til et lønnet Statsembede, skal underkastes Gjenvalg.<lb />
+<law n="50" >§ 50.<lb /></law>
+Ministrene have i Embeds Medfør Udgang til Rigsdagen og ere berettigede til under Forhandlingerne at forlange Ordet saa ofte<lb />
+de ville, idet de iøvrigt iagttage Forretningsordenen. Stemmeret udøve de kun, naar de tillige ere Rigsdagsmænd.<lb />
+<law n="51" >§ 51.<lb /></law>
+Ethvert Thing vælger selv sin Formand<lb />
+og den eller dem, der i hans Forfald skal føre<lb />
+Forsædet.<lb />
+<law n="52" >§ 52.<lb /></law>
+Intet af Thingene kan tage nogen Beslutning, naar ikke over Halvdelen af dets Medlemmer er tilstede og deeltager-i Afstemningen.<lb />
+<law n="53" >§ 53.<lb /></law>
+(Udgaaer.)<lb />
+<law n="54" >§ 54.<lb /></law>
+Intet Lovforslag kan endelig antages, forinden det 3 Gange har været behandlet af<lb />
+Thinget<lb />
+<law n="55" >§ 55.<lb /></law>
+Som Udkastet.<lb />
+</p>
+</leftside>
+<rightside>
+<btitle>
+C. Minoritetsindstillingerne.<lb />
+</btitle>
+<p>
+<law n="45" >§ 45.<lb /></law>
+a) Som Udkastet.<lb />
+b) Det aarlige Statsregnskab bliver af en<lb />
+Regnskabsret, som organiseres ved Lov, med<lb />
+Rettens Bemærkninger at forelægge Folkethinget, det prøver samme ved et Udvalg af ders<lb />
+Midte, og derefter tager Beslutning med Hensyn til samme.<lb />
+<law n="49" >§ 49.<lb /></law>
+Kommer o. s. v.<lb />
+</p>
+<p>
+Et Medlem af et af Thingene, der af Regjeringen udnævnes til et lønnet Embede og<lb />
+modtager det, ophører at have Sæde i Thinget, men kan gjenvælges.<lb />
+<law n="50" >§ 50.<lb /></law>
+Efter „Rigsdagsmænd" tilføies:<lb />
+„Ethvert af Thingene kan forlange Ministrenes Nærværelse"<lb />
+<law n="52" >§ 52.<lb /></law>
+Som Udkastet.<lb />
+</p>
+</rightside>
+<underpage>
+Beretning om Forh, paa Rigsdagen. Nr. 198<lb />
+</underpage>
+</pb>

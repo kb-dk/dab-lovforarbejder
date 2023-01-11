@@ -1,0 +1,97 @@
+2313
+<pb n="28" />
+<h>
+<coll>2313</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2314</colr>
+<topmidle> Tillæg B. (146).	Ordentl. Samling 1901—02. </topmidle>
+</h>
+<leftside>
+<wtitle>Til § 480.</wtitle>
+<p>Af Udvalget:</p>
+<p>451)	I L. 5 udgaa Ordene: efter<lb />
+Straffelovens § 253".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>452)	..Fogden" ændres til ..Syssel-<lb />
+manden". (4 Steder).</p>
+<p>453)	„Fogedprotokollen" i 1ste og sid-<lb />
+ste Linie og „Protokollen" i 3die Linie<lb />
+ændres til „Fogedbogen".</p>
+<p>454)	„Arrestkendelsen" i femtesidste<lb />
+Linie ændres til „Dekretet".</p>
+<pt>Ny Paragraf.</pt>
+<p>455)	Mellem § 482 og § 483<lb />
+indsættes følgende ny Paragraf:</p>
+<p>,,Klager vedrørende Spørgsmaal om.<lb />
+hvorvidt de efter §§ 459, 460, 466 eller<lb />
+467, 1ste Stykke, fornødne Arrestbetingel-<lb />
+ser foreligge, om, hvem og hvad der kan<lb />
+være G-enstand for Arrest, om, hvorvidt<lb />
+Trediemands Ret er til Hinder for Arrest,<lb />
+om Anvendelse af Tvangsfængsel efter<lb />
+§ 366, 2det Stykke, jfr. § 479, om Arre-<lb />
+stens Foretagelse eller Afværgelse mod<lb />
+Sikkerhedsstillelse, om dennes Art og Stør-<lb />
+relse saavel som om dens Løsgivelse af-<lb />
+gøres af Retten og fremsættes, naar Arrest<lb />
+er foretagen, under Arrestsagen og, naar<lb />
+Arrest er nægtet, saavel som i de Tilfælde,<lb />
+hvor Arrestsag ej behøves (jfr. § 481, sidste<lb />
+Stykke, og § 482), ved Besværing til Ret-<lb />
+ten overensstemmende med Reglerne i<lb />
+Kap. XXXH. A. Klager over Sysselman-<lb />
+dens Handlemaade i øvrigt vedrørende en<lb />
+Arrest gøres gældende ved Besværing til<lb />
+højere Øvrighed, ligeledes overensstem-<lb />
+mende med nævnte Kapitel. En foretagen<lb />
+Arrest kan ikke ophæves af højere Øv-<lb />
+righed".</p>
+<wtitle>Til § 483.</wtitle>
+<p>456)	Efter 1ste Punktum indsættes:<lb />
+„Er der rejst Besværing til højere Øvrig-<lb />
+hed, udsættes, om fornødent. Arrestsagen,<lb />
+indtil højere Øvrigheds Afgørelse foreligger."</p>
+<p>457)	Sidste Punktum udgaar.</p>
+</leftside>
+<rightside>
+<wtitle>Til § 484.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>458)	Paragraffen udgaar.</p>
+<wtitle>Til § 485.</wtitle>
+<p>AfJustitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>459)	I 2 det Stykke tilføjes efter<lb />
+„Dom": „eller Kendelse", efter „Anke":<lb />
+„eller Besværing til højere Ret" og efter<lb />
+„Dommen" „eller Kendelsen".</p>
+<wtitle>Til § 487.</wtitle>
+<p>460)	I 1ste og 2det Stykke ændres<lb />
+„Fogden" til „Sysselmanden".</p>
+<p>461)	Paragraffens 3die Stykke affattes<lb />
+saaledes:</p>
+<p>„Imod Sysselmandens Beslutning kan<lb />
+der, hvad enten den gaar ud paa at op-<lb />
+hæve Arresten eller nægte dens Ophævelse,<lb />
+iværksættes Besværing til Retten i Over-<lb />
+ensstemmelse med Reglerne i Kap. m."</p>
+<p>462)	14de Stykke ændres „Anvendelse<lb />
+af Anke eller Kære" til: „Indbringelse af<lb />
+saadan Besværing".</p>
+<wtitle>Til § 489.</wtitle>
+<p>463)	I 3die Linie indsættes efter<lb />
+„Dom": „eller Kendelse".</p>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>464)	„Kendelse" i L. 4 ændres til<lb />
+„Beslutning".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>465)	Underændringsforslag til Udvalgets<lb />
+Ændringsforslag Nr. 464: Ændringsfor-<lb />
+slaget affattes saaledes: „ved Fogdens Ken-<lb />
+delse" ændres til: „ved Sysselmandens Be-<lb />
+slutning eller Rettens Kendelse".</p>
+<wtitle>Til § 490.</wtitle>
+<p>466)	Paragraffen udgaar.</p>
+<p>Udvalgenes Betænkninger m. m.	146</p>
+</rightside>

@@ -1,0 +1,78 @@
+1733
+<pb n="5" />
+<h>
+<coll>
+1733
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+1734
+</colr>
+</h>
+<p>
+som hver beklædes af en enkelt Dommer, der behandler og paakender de til Afde-<lb />
+lingen henlagte Sager. Forretningernes Fordeling mellem Afdelingerne bestemmes af<lb />
+Justitiarius med Justitsministerens Billigelse. Justitiarius fordeler, efter Forhandling<lb />
+med Rettens øvrige Medlemmer, Afdelingerne imellem Medlemmerne. Naar det gøres<lb />
+fornødent, kan Justitiarius overdrage til et Medlem af Retten midlertidig eller i<lb />
+enkelte Sager tillige at udføre Forretninger i en anden Afdeling end den ham tildelte.
+</p>
+<p>
+I Sø- og Handelssager, som høre under Kjøbenhavns Byting, tiltrædes den<lb />
+paagældende Afdeling af Bytinget af 2 sø- eller handelskyndige Medlemmer over-<lb />
+ensstemmende med de i § 9 givne Regler for den østre Landsret, saaledes at det
+</p>
+<p>
+Medlem af Bytinget, hvem Afdelingen er overdragen, er Formand.
+</p>
+<wtitle>§ 18</wtitle>
+<p>
+Til Kjøbenhavns Byting hører et Skriverkontor.
+</p>
+<p>
+Skriverkontoret, hvorunder Skriverforretningerne ved Bytingets forskellige<lb />
+Afdelinger samt Oppebørsel af og Regnskabsaflæggelse for Retsafgifter vedrørende<lb />
+Domssager høre, forestaas af en Justitssekretær; der ansættes indtil 17 Fuldmægtige<lb />
+foruden det i øvrigt fornødne Kontorpersonale.
+</p>
+<p>
+Fordelingen af de under Skriverkontoret hørende Forretninger fastsættes af<lb />
+Bytingets Justitiarius efter Forhandling med Justitssekretæren.
+</p>
+<wtitle>§ 19</wtitle>
+<p>
+Bestemmelse om Tiden for ordentlige Møder i de Afdelinger af Bytinget,<lb />
+der behandle Domssager, saavel som om Bekendtgørelsen heraf træffes af Bytingets<lb />
+Justitiarius med Justitsministerens Billigelse; overordentlige Møder kunne berammes<lb />
+af Dommeren i den paagældende Afdeling. Møder i andre Sager berammes af Dom-<lb />
+meren overensstemmende med Reglerne i 2den og 3die Bog.
+</p>
+<wtitle>§  20.</wtitle>
+<p>
+Udenfor Kjøbenhavn beklædes Underretterne hver af en Dommer. Denne<lb />
+besørger tillige de under Retten hørende Skriverforretninger og Udfærdigelser og<lb />
+meddeler Udskrifter af Retsbøgerne. Han oppebærer de befalede Retsafgifter og<lb />
+aflægger Regnskab derfor.
+</p>
+<p>
+I Underretskredse, hvor Folketallet efter sidste Folketælling overstiger 35,000<lb />
+Indbyggere, kan der ansættes en særlig Dommer, til hvilken henlægges de Dommeren<lb />
+ved Underretterne paahvilende Forretninger vedrørende Strafferetsplejen.
+</p>
+<wtitle>§  21.</wtitle>
+<p>
+I Søsager tiltrædes Underretten uden for Kjøbenhavn af 2 søkyndige Mænd<lb />
+overensstemmende med Reglerne i Lov om Søretter af 12te April 1892 §§ 2, 3, 4 og<lb />
+og saaledes at Retten kan beklædes af Formanden alene i de foran i § 9 angivne<lb />
+Tilfælde. For saa vidt handelskyndige Dommere skulle tiltræde en Landsret i Han-<lb />
+delssager, kan det, hvor Forholdene tilstede det, ved kgl. Anordning bestemmes, at<lb />
+Underretter udenfor Kjøbenhavn i vedkommende Landsretskreds i Handelssager skulle<lb />
+tiltrædes af handelskyndige Medlemmer.
+</p>
+<wtitle>§  22.</wtitle>
+<p>
+Ved kgl. Anordning bestemmes Tingstederne for Underretterne udenfor<lb />
+Kjøbenhavn.
+</p>

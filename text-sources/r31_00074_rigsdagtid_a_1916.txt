@@ -1,0 +1,64 @@
+490
+<pb n="74" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>490</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+det, hvor Forholdene lægger betydelige Hindringer i Vejen herfor, efter Begæring af<lb />
+den, hvem Ed er pålagt, tillades ham at aflægge Eden for Underretten på det Sted,<lb />
+hvor han bor eller opholder sig. Ret kan sættes på den pågældendes Bopæl, når<lb />
+han på Grund af Sygdom ikke kan forlade samme. Skal Eden aflægges for den<lb />
+Ret, der har afsagt Dommen, berammes et Retsmøde ikke senere end 14 Dage fra<lb />
+Dommens Afsigelse til Edens Aflæggelse. Skal Eden aflægges ved Underretten på det<lb />
+Sted, hvor den pâgældende bor eller opholder sig, bestemmer den Ret, der har afsagt<lb />
+Dommen, en Frist til Edens Aflæggelse, ikke længere end 4 Uger fra Dommens Afsigelse, og udsætter herefter Sagen. Den, hvem Ed er pålagt, har da at henvende sig<lb />
+til Underretten for at få et Møde berammet til Edens Aflæggelse inden den fastsatte Frist, hvorhos han med et Varsel af mindst en Uge har at kalde Modparten til<lb />
+dette Møde. Under særegne Omstændigheder, såsom når en af Parterne bor udenfor Riget, kan såvel de nævnte Frister for Edens Aflæggelse som Varselet til Modparten forlænges ved Beslutning af den Ret, der har afsagt Dommen.
+</p>
+<wtitle>§ 309.</wtitle>
+<p>
+I det til Edens Aflæggelse bestemte Retsmøde skal Eden aflægges, såfremt<lb />
+ikke Sagen udsættes pâ Grund af anmeldt lovligt Forfald for en af Parterne, uovervindelige Hindringer for Retten o. desl. Kan den, hvem Ed er pålagt, på Grund<lb />
+af Omstændigheder, der oplyses efter Edsdommens Afsigelse, ikke aflægge Eden, må<lb />
+dette oplyses for den Ret, for hvilken Eden skulde have været aflagt, eller for den<lb />
+Ret, der har afsagt Dommen.
+</p>
+<p>
+Dersom den, hvem Ed er pålagt, udebliver uden lovligt Forfald, anses han<lb />
+at have nægtet Edens Aflæggelse. Edssagen kan genoptages, når hans Udeblivelse<lb />
+skyldes lovligt Forfald, og han inden en Uge begærer det. Bestemmelserne i § 373<lb />
+finder derved Anvendelse med de fornødne Lempelser. Modpartens Udeblivelse er<lb />
+ingen Hindring for Edens Modtagelse.
+</p>
+<p>
+Forinden Eden aflægges, kan Retten gøre Parten passende Forestillinger og<lb />
+ved Spørgsmål forvisse sig om, at han tilfulde forstår Edstemaet. Finder Retten<lb />
+i Henhold hertil eller på Grund af den Måde, hvorpå Parten udtaler sig om<lb />
+Sagen, eller af andre Grunde Betænkelighed ved at modtage Eden, kan den udsætte<lb />
+Sagen til et følgende Retsmøde eller endog ved en Kendelse nægte at stede ham til<lb />
+Edsaflæggelse. Gøres der Indsigelse mod Edens Aflæggelse, og sådan Indsigelse forkastes ved Dommerens Kendelse, bliver det i denne at bestemme, om Kære skal have<lb />
+opsættende Virkning.
+</p>
+<p>
+De Erklæringer eller Udtalelser af Parten, som har fremkaldt Rettens Betænkelighed ved Edens Aflæggelse, tilføres Retsbogen.
+</p>
+<wtitle>§ 310.</wtitle>
+<p>
+Når Eden er aflagt, eller når den efter Bestemmelserne i § 309 ikke længer<lb />
+kan aflægges, sluttes Edssagen, og såfremt Edens Aflæggelse har været henlagt til<lb />
+Underretten på det Sted, hvor den edspligtige bor eller opholder sig, tilstiller vedkommende Part snarest muligt den Ret, der har afsagt Edsdommen, en Udskrift af<lb />
+Edssagen. Sidstnævnte Ret afgør da, efter, så vidt dertil findes Anledning, at have<lb />
+givet Parterne Lejlighed til at ytre sig, hvilket af de i Edsdommen nævnte Alternativer der skal stå ved Magt, eller om der, hvor den i Edsdommen som Alternativ<lb />
+bestemte Edsaflæggelse ikke kan finde Sted, skal gives en ny Dom. Denne Afgørelse<lb />
+er den endelige Dom i Sagen, og fra den regnes Fuldbyrdelsesfristen samt Ankefristen.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

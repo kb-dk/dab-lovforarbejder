@@ -1,0 +1,33 @@
+2483
+<pb n="18" />
+<h>
+<coll>2483</coll>
+<topmidle>Bilag til Bet. o. forsk. Lovf. vedr. Gennemførelsen af L. om Rettens Pleje.</topmidle>
+<colr>2458</colr>
+</h>
+<p>
+Bilag 1.<lb />
+</p>
+<p>
+Justitsministeriet.<lb />
+</p>
+<p>
+København, den 25 Marts 1913.<lb />
+</p>
+<p>
+Paa dertil given Anledning undlader man ikke at tilstille det ærede<lb />
+Udvalg en bekræftet Genpart af Justitsministeriets Skrivelse af 15. Februar 1909<lb />
+til Landstingets Udvalg angaaende Forslag til Lov om Politistyrken udenfor<lb />
+København m. v. vedrørende den Merudgift, der antagelig vil paaføres Statskassen<lb />
+ved Retsplejeloven og de til denne hørende Tillægslove.<lb />
+</p>
+<signatur>
+Bülow.<lb />
+</signatur>
+<signatur>
+Trolle.<lb />
+</signatur>
+<p>
+Til Folketingets Udvalg angaaende Retsplejelov-<lb />
+forslagene.
+</p>

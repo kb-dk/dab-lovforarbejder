@@ -1,0 +1,151 @@
+35
+<pb n="52">
+<pagename>52</pagename>
+<h>
+<coll>35</coll>
+<colr>36</colr>
+<lb/>
+</h>
+<leftside>
+<p rend="continue">
+mes ved Lodtrækning mellem de for hvert Amt og for Kjøbenhavn<lb/>
+Valgte.<lb/>
+<law n="36."/>§ 36.<lb/>
+Medlemmerne af Folkethinget erholde et dagligt Vederlag; Medlemmerne of Landsthinget derimod ikke.<lb/>
+<law n="37."/>§ 37.<lb/>
+Rigsdagen er ukrænkelig. Hvo der antaster dens Sikkerhed og<lb/>
+Frihed, hvo der udsteder eller adlyder nøgen dertil sigtende Befaling,<lb/>
+gjør sig skyldig i Høiforræderi.<lb/>
+<law n="38."/>§ 38.<lb/>
+Ingen Rigsdagsmand kan fængsles eller tiltales under Rigsdagens Samling, medmindre det Thing, hvortil han hører, dertil<lb/>
+giver sit Samtykke. For sine Yttringer på Rigsdagen kan intet af<lb/>
+dens Medlemmer uden Thingets Samtykke drages til Ansvar udenfor<lb/>
+samme.<lb/>
+<law n="39."/>§ 39.<lb/>
+Rigsdagsmændene ere ene bundne ved deres Overbeviisning og<lb/>
+ikke ved nogen Forskrift af deres Vælgere.<lb/>
+</p>
+<title>
+V.<lb/>
+</title>
+<p>
+<law n="40."/>§ 40.<lb/>
+Ethvert af Thingene er berettiget til at foreslåe og for sit Vedkommende at vedtage Love.<lb/>
+<law n="41."/>§ 41.<lb/>
+Ethvert af Tingene kan selvstændigen indgive Adresser til<lb/>
+Kongen.<lb/>
+<law n="42."/>§ 42.<lb/>
+Ethvert af Thingene kan til at undersøge almeenvigtige Gjenstande nedsætte Commissioner af sine Medlemmer. Disse ere berettigede til såvel af offentlige Myndigheder som af private Borgere at<lb/>
+fordre Oplysninger meddeelte mundtligen eller skriftligen.<lb/>
+<law n="43."/>§ 43.<lb/>
+Ingen Skat kan pålægges, intet Statslån optages og ingen<lb/>
+Staten tilhørende Domaine afhændes uden ved Lov.<lb/>
+<law n="44."/>§ 44.<lb/>
+På hver ordentlig Rigsdag, strax efterat samme er sat, fremlægges Forslag til Finantsloven for det følgende År, indeholdende<lb/>
+et Overslag over Statens Indtægter og Udgifter.<lb/>
+Finantsforslaget behandles først i Folkethinget.<lb/>
+</p>
+<p>
+Ingen Skat tør oppebæres, forinden dens Opkrævning er bevilget ved Finantsloven. Ingen Udgift tør afholdes, som ikke har<lb/>
+Hjemmel i samme.<lb/>
+</p>
+<p>
+Hvorledes der skal forholdes med de communale Afgifter, der<lb/>
+dog aldrig kunne pålægges ene af Kongen, vil blive vestemt ved<lb/>
+Communalloven.<lb/>
+<law n="45."/>§ 45.<lb/>
+Landsthinget udvælger årligen een og Folkethinget to lønnede<lb/>
+Revisorer.<lb/>
+</p>
+<p>
+Revisorerne gjennemgåe det årlige Statsregnskab og påsee, at<lb/>
+samtlige Statens Indtægter deri ere blevne opførte, og at ingen Udgift udenfor Finantsloven har fundet Sted. De kunne fordre sig alle<lb/>
+fornødne Oplysninger og Actstykker meddeelte.<lb/>
+</p>
+<p>
+Statsregnskabet, med Revisorernes Bemærkninger, forelægges<lb/>
+derefter Folkethinget, som med Hensyn til samme tager Beslutning.<lb/>
+<law n="46."/>§ 46.<lb/>
+Ingen Udlænding kan herefter erholde Indfødsret uden ved Lov.<lb/>
+<law n="47."/>§47.<lb/>
+Ethvert af Thingene afgjør selv Gyldigheden af sine Medlemmers Valg.<lb/>
+<law n="48."/>§ 48.<lb/>
+Ethvert nyt Medlem afægger, såsnart Gyldigheden af hans<lb/>
+Valg er anerkjendt, følgende Eed:<lb/>
+</p>
+<p>
+„For den almægtige Guds Åsyn lover jeg at holde Grundloven for Kongeriget Danmark og Slesvig.“<lb/>
+<law n="49."/>§ 49.<lb/>
+Kommer den gyldigen Valgte i et af de Tilfælde, hvorved Valgbarhed fortabes, mister han den af Valget flydende Ret. Dog skal<lb/>
+</p>
+</leftside>
+<rightside>
+<p>
+
+Ingen tabe sit Sæde i Landsthinget, fordi han i Løbet af den Tid,<lb/>
+for hvilken han er valgt, flytter til et andet Amt.<lb/>
+<law n="50."/>§ 50.<lb/>
+Ministrene have i Embeds Medfør Adgang til Rigsdagen og<lb/>
+ere berettigede til at forlange Ordet, når de ville. Stemmeret udøve<lb/>
+de kun, når de tillige ere Rigsdagsmænd.<lb/>
+<law n="51."/>§ 51.<lb/>
+Ethvert Thing vælger for hver ordentlig eller overordentlig Samling sin Formand og den, der i hans Forfald skal føre Forsædet.<lb/>
+<law n="52."/>§ 52.<lb/>
+Intet af Thingene kan tage nogen Beslutning, når ikke idetmindste ⅓ af dets Medlemmer er tilstede og deeltager i Afstemningen.<lb/>
+<law n="53."/>§ 53.<lb/>
+Til enhver Beslutning, såvelsom til Valget af Formændene, udfordres Fleertallet af de afgivne Stemmer. Hvorledes der skal forholdes ved andre Valg, bestemmes ved hvert Things Forretningsordning.<lb/>
+<law n="54."/>§ 54.<lb/>
+Ethvert Lovforslag skal foretages 3 Gange, forinden Thinget<lb/>
+derom kan tage nogen endelig Beslutning.<lb/>
+<law n="55."/>§ 55.<lb/>
+Enhver Rigsdagsmand kan i det Thing, Hvortil han hører, med<lb/>
+dettes Samtykke bringe ethvert offentligt Anliggende under Forhandling og derom æske Ministrenes Forklaring.<lb/>
+<law n="56."/>§ 56.<lb/>
+Intet Andragende må overgives til noget af Thingene uden<lb/>
+gjennem et af dets Medlemmer.<lb/>
+<law n="57."/>§ 57.<lb/>
+Finder Thinget ikke Anledning til, om et Andragende at fatte<lb/>
+Beslutning, kan det henvise det til Ministrene.<lb/>
+<law n="58."/>§ 58.<lb/>
+Thingenes Møder ere offentlige. Dog kan Formanden eller 5<lb/>
+Medlemmer forlange, at alle Uvedkommende fjernes, hvorpå Thinget<lb/>
+afgjør, om Sagen skal forhandles i offentligt eller hemmeligt Møde.<lb/>
+<law n="59."/>§ 59.<lb/>
+Ved sin Forretningsordning fastsætter ethvert af Thingene de nærmere Bestemmelser, som vedkomme Forretningsgangen og Ordens<lb/>
+Opretholdelse.<lb/>
+</p>
+<title>
+VI.<lb/>
+</title>
+<p>
+<law n="60."/>§ 60.<lb/>
+Rigsretten beståer af 16 Medlemmer, der vælges på 4 År,<lb/>
+Halvdelen af Landsthinget, Halvdelen af Landets øverste Domstol,<lb/>
+blandt disses egne Medlemmer. Den vælger selv sin Formand af sin<lb/>
+egen Midte.<lb/>
+<law n="61."/>§ 61.<lb/>
+Rigsretten påkjender de af Folkethinget mod Ministrene anlagte<lb/>
+Sager.<lb/>
+For Rigsretten kan Kongen lade også Andre tiltale for Forbrydelser, som han finder særdeles farlige for Staten, når Folkethinget dertil giver sit Samtykke.<lb/>
+<law n="62."/>§ 62.<lb/>
+Dommere kunne ikke afsættes uden ved Dom, ikke heller forflyttes mod deres Ønske. Dog kan den Dommer, der har fyldt sit 70de<lb/>
+År, afskediges, men uden Tab af Indtægter.<lb/>
+<law n="63."/>§ 63.<lb/>
+Domstolene ere berettigede til at påkjende ethvert Spørgsmål<lb/>
+om Øvrighedsmyndighedens Grændser. Dog kan den, der mener sig<lb/>
+forurettet ved en Øvrighedsbefaling, ikke ved at bringe Sagen for<lb/>
+Domstolene unddrage sig fra foreløbigen at efterkomme Befalingen.<lb/>
+</p>
+<title>
+VII.<lb/>
+</title>
+<p>
+<law n="64."/>§ 64.<lb/>
+Ingen kan på Grund af sin Troesbekjendelse berøves den fulde<lb/>
+Adgang til borgerlige og polittske Rettigheder.<lb/>
+<law n="0"/>§.65.<lb/>
+Borgerne have Ret til at forene sig i Samfund for at dyrke<lb/>
+</p>
+</rightside>
+
+</pb>

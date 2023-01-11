@@ -1,0 +1,43 @@
+10
+<pb n="16" />
+<h>
+<topmidle>10        Kap. IV.    Inhabilitet.</topmidle>
+</h>
+<p>4)  har aflagt Vidnesbyrd eller været Synseller Skønsmand i Sagen eller  handlet<lb />
+i den som Sagfører eller  iøvrigt   som<lb />
+Rettergangsfuldmægtig   for   nogen    af<lb />
+Parterne;</p>
+<p>5)  som Dommer har handlet i Sagen i den<lb />
+underordnede Instans.</p>
+<p>Den Omstændighed, at Dommeren, fordi<lb />
+flere Embedsvirksomheder ere forenede i hans<lb />
+Person, tidligere af den Grund har haft<lb />
+med Sagen at gøre, medfører ikke Inhabilitet, når der ikke efter de foreliggende<lb />
+Omstændigheder er Grund til at antage, at<lb />
+han har nogen særegen Interesse i Sagens<lb />
+Udfald.</p>
+<wtitle>§ 33.</wtitle>
+<p>I de i foregående Paragraf omhandlede Tilfælde er Dommeren, hvis han er<lb />
+Enkeltdommer, pligtig efter Kendelse, afsagt<lb />
+af ham selv, at vige sit Side. Beklæder han<lb />
+Retten i Forening med andre Dommere, er<lb />
+han pligtig at gøre Retten Meddelelse om<lb />
+de Omstændigheder, som i Følge foregående<lb />
+Paragraf formenes at medføre hans Inhabilitet, ligesom ethvert andet Medlem af<lb />
+Retten, der måtte være bekendt med sådanne Omstændigheder, er berettiget og forpligtet til at rejse Spørgsmål derom, hvorefter Afgørelse træffes ved Kendelse af<lb />
+Retten, uden at han selv er udelukket fra<lb />
+at deltage i Påkendelsen af Spørgsmålet.</p>
+<wtitle>§ 34.</wtitle>
+<p>Parterne kunne ikke blot fordre, at en<lb />
+Dommer stal vige sit sæde i de i § 32<lb />
+angivne Tilfælde, men enhver af dem kan<lb />
+fremsætte Indsigelse mod, at en Dommer<lb />
+beklæder Retten, når andre Omstændigheder<lb />
+foreligge, som ere egnede til at vække Tvivl<lb />
+om hans fuldstændige Upartiskhed. I Tilfælde af den sidstnævnte Beskaffenhed kan<lb />
+også Dommeren selv, når han frygter for,<lb />
+at Parterne ej kunne have fuld Tillid til<lb />
+ham, vige sit Sæde, selv om ingen Indsigelse mod ham fremsættes. Beklædes Retten af flere Dommere, kan enhver af disse<lb />
+rejse det Spørgsmål, om nogen af Rettens<lb />
+Medlemmer på Grund af Omstændigheder<lb />
+af heromhandlede Art bør fratræde.</p>

@@ -1,0 +1,38 @@
+111
+<pb n="117" />
+
+<wtitle>§ 360.</wtitle>
+<p>Besværing til Landsretten over Underrettens Handlinger finder Sted i de samme<lb />
+Tilfælde, i hvilke der over Landsrettens Handlinger kan iværksættes Besværing til Højesteret.</p>
+<p>Fremgangsmåden er med de af Forholdets<lb />
+Natur flydende Lempelser den samme, som<lb />
+benyttes ved Besværing over Landsrettens<lb />
+Handlinger.</p>
+<p>Besværing kan finde Sted uden Hensyn<lb />
+til Gjenstandens Værdi.</p>
+<p>Landsrettens Afgjørelse i Anledning af<lb />
+Besværingen er ikke Gjenstand for yderligere<lb />
+Besværing til Højesteret.</p>
+<wtitle>§ 361.</wtitle>
+<p>Det i tredie Afsnits andet Kapitel omhandlede Retsmiddel, ny Foretagelse af Sagen<lb />
+ved den samme Ret. kan ikke anvendes imod<lb />
+Underretternes Domme og Behandlinger.</p>
+<title>Femte Afsnit.</title>
+<undertitle>Om Fremgangsmåden ved Intervention og ved Tilstævning af Trediemand<lb />
+under den imellem Parterne begyndte<lb />
+Retssag.</undertitle>
+<wtitle>§ 362.</wtitle>
+<p>Interventionssøgsmål anlægges og fremmes efter de om et selvstændigt Søgsmål<lb />
+gjældende Regler, forsåvidt ikke Bestemmelserne<lb />
+i de følgende Paragrafer medføre Afvigelse</p>
+<p>herfra.</p>
+<wtitle>§ 363.</wtitle>
+<p>Intervenienten indtræder i Sagen derved,<lb />
+at han tilstiller hver især af de oprindelige<lb />
+Parter et Skrift, hvori han fremstiller Grundene til sit Gøgsmål og den Påstand, han<lb />
+vil nedlægge.</p>
+<p>Dette Skrift tilligemed Gjenparter af de<lb />
+Dokumenter, som agtes benyttede, må meddeles<lb />
+de oprindelige Parter senest 5 Dage forinden<lb />
+det af de til Hovedsagens Behandling bestemte<lb />
+Retsmøder, i hvilket Intervenienten vil optræde.</p>

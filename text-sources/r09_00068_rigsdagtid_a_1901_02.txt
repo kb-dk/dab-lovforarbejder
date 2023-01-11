@@ -1,0 +1,70 @@
+2283
+<pb n="68" />
+<h>
+<coll>2283</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2284</colr>
+</h>
+<p>
+Med Hensyn til Sverige har det sit Forblivende ved Lov 19de Februar 1861.
+</p>
+<p>
+Uden for de i denne Paragraf nævnte Tilfælde kan Eksekution ikke ske umid-<lb/>
+delbart paa Grundlag af en udenlandsk Dom eller Kendelse.
+</p>
+<wtitle>§ 326.</wtitle>
+<p>
+Eksekution foretages af Underretsdommeren, der i denne sin Virksomhed be-<lb/>
+nævnes Foged.
+</p>
+<p>
+Ved Eksekutionsforretningens Foretagelse har Fogden at sørge for, at tvende<lb/>
+gode Mænd ere til Stede som Vidner. Disse ere tillige uden anden særlig Bemyndi-<lb/>
+gelse kompetente til at foretage de under Forretningen forefaldende Vurderinger og<lb/>
+andre lignende Skøn. Skulde de ikke være i Stand til rettelig at anslaa de forekom-<lb/>
+mende Genstande, har Fogden at tilkalde andre Mænd, som hertil ere skikkede. Saavel<lb/>
+Vidnerne som de, der tilkaldes for at udføre Vurderinger, have i Fogedprotokollen at<lb/>
+underskrive en Forsikring paa Tro og Love om, at de ville udføre Vurderingen efter<lb/>
+deres bedste Overbevisning.
+</p>
+<p>
+Politiet er pligtigt paa Forlangende at understøtte Fogden, dersom han i sine<lb/>
+Forretningers Udførelse møder saadan Modstand, som han ikke ved egen og Vidnernes<lb/>
+Hjælp tror at kunne overvinde, eller han af andre Grunde begærer Politiets Bistand.
+</p>
+<wtitle>§ 327.</wtitle>
+<p>
+Ingen Foged kan foretage Eksekutionsforretninger uden for sin egen Retskreds,<lb/>
+medmindre disse blot ere at anse som Fortsættelse af en i Retskredsen paabegyndt<lb/>
+Eksekution, i hvilket Tilfælde han i tilstødende Retskredse er kompetent til at fore-<lb/>
+tage Eksekution i rørligt Gods. Dog er Fogden ikke pligtig at rejse længere end 2<lb/>
+Mile ud over Grænserne af sin Retskreds.
+</p>
+<wtitle>§ 328.</wtitle>
+<p>
+Den, der vil have en Eksekution foretaget, skal for Fogden fremsætte sin Be-<lb/>
+gæring herom, ledsaget af Udskrift af Dommen, Kendelsen eller Forliget eller af det<lb/>
+originale Pantebrev eller Bodmeribrev, ligesom han ogsaa ved samme Lejlighed har at<lb/>
+meddele alle de Oplysninger, som i øvrigt maatte være fornødne, for at Fogden kan<lb/>
+tage Bestemmelse om Forretningens Berammelse.
+</p>
+<p>
+Begæringen skal, hvis Fordringen, bortset fra Procesomkostninger og Renter,<lb/>
+der ere paaløbne siden Processens Begyndelse, overstiger 400 Kroners Værdi, være<lb/>
+skriftlig. I andet Fald kan den fremsættes mundtlig for Fogden, som da har at tage<lb/>
+den til Protokollen.
+</p>
+<p>
+Eksekution kan begæres under eet hos samme Skyldner efter forskellige Ekseku-<lb/>
+tionsgrundlag.
+</p>
+<wtitle>§ 329.</wtitle>
+<p>
+Dommen eller Kendelsen maa være udfærdiget i lovmæssig Form. Er dette<lb/>
+Tilfældet, vedkommer det ikke Fogden at undersøge eller afgøre, om Dommen eller<lb/>
+Kendelsen maatte lide af saadanne Fejl eller Mangler, som kunde medføre en anden<lb/>
+Afgørelse efter Anke eller Kære, Kun hvis Dommen eller Kendelsen ikke er udgaaet<lb/>
+fra en lovlig bestaaende Domstol eller nogen til at afsige eksigible Dekreter beføjet<lb/>
+Myndighed, eller den ikke ifølge sit Indhold kan fuldbyrdes, har Fogden at nægte<lb/>
+Eksekution.
+</p>

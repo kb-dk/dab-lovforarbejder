@@ -1,0 +1,88 @@
+3345
+<pb n="68" />
+<h>
+<coll>3345</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3346</colr>
+</h>
+<table>
+<row>
+	J n s t i t s s a g e r.	Politisager.
+	1892.	1893.	1892.	1893.
+</row>
+<row>
+1 sin Efterforskningsvirksomhed har
+Politiet benyttet Forhørsretten til Fore-<lb />
+tagelse af enkelte Rettergangsskridt i<lb />
+følgende Antal Tilfælde		4,928	5,161	463	622
+</row>
+<row>
+medens Politiet kun har begært retslig<lb />
+Forundersøgelse i følgende Antal Til-<lb />
+fælde 		520	386	22	2
+</row>
+</table>
+<table>
+<row>
+	Justitssager.	Politisager.
+	1892.	1893.	1892.	1893.
+</row>
+<row>
+Afsluttede Sager ved Meddonisret		1,642	1,522	905	1,028
+</row>
+<row>
+Deraf med fældende Resultat		1,388	1.258	634	640
+</row>
+<row>
+med frifindende Resultat		155	164	133	133
+</row>
+<row>
+med fældende Resultat for en eller flere<lb />
+Tiltalte og frifindende for den eller de<lb />
+andre						56	52	10	11
+</row>
+<row>
+Afviste, standsede o. lign		48	51	65	135
+</row>
+<row>
+Sluttede med Vedtagelse af Bøde inden<lb />
+Retten				3	1	72	118
+</row>
+</table>
+<p>				
+Ved Udgangen af 1892 henstode 197 Justitssager og 205 Politisager, ved Ud-<lb />
+gangen af 1893 167 Justitssager og 312 Politisager usluttede.
+</p>
+<table>
+<row>
+	1892.	1893.
+</row>
+<row>
+Afsluttede Lagmandsretssager (o: Nævningesager)		396	469
+</row>
+<row>
+Deraf behandlede ved Lagmandsretten som 1ste Instans		168	203
+</row>
+<row>
+indbragte til fornyet Behandling (o: paaankede fra Meddomsret<lb />
+eller Forhørsret til Lagmandsret)		228	266
+</row>
+<row>
+Af de samlede Antal...	396	469
+</row>
+<row>
+ere paadømte med fældende Resultat				294	318
+</row>
+<row>
+— — — frifindende Resultat	.		73	95
+— — — fældende Resultat for en eller flere Tiltalte,<lb />
+men med frifindende for den eller de andre Tiltalte		13	13
+</row>
+<row>
+Afviste, standsede o. lign							17	48
+</row>
+</table>
+<p>
+Ved Udgangen af 1892 henstod 74 Lagmandsretssager usluttede, ved Ud-<lb />
+gangen af 1893: 46.
+</p>

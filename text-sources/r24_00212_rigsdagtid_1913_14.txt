@@ -1,0 +1,74 @@
+3759
+<pb n="212">
+<h>
+<coll>
+3759
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3760
+</colr>
+</h>
+<p>
+ifølge den i Spørgsmaalene givne Beskrivelse af Gerningen og Nævningernes Svar paa disse<lb />
+er erklæret skyldig.
+</p>
+<lowtitle>§ 904.</lowtitle>
+<p>
+ Hvor Nævningernes Erklæring gaar ud paa, at Tiltalte er skyldig, men Retten<lb />
+finder, at Sagens Bevisligheder ikke have afgivet tilstrækkeligt Grundlag for at fælde<lb />
+Tiltalte for den Forbrydelse, i hvilken Nævningerne have erklæret ham skyldig, kan<lb />
+den ved Kendelse beslutte, at en ny Domsforhandling skal foregaa. Beslutningen træffes<lb />
+i Embeds Medfør, uden at Parterne have Adgang til derom at fremsætte Begæring, og kan<lb />
+træffes, saa længe Dom ikke er afsagt.
+</p>
+<lowtitle>§ 905.</lowtitle>
+<p>
+Ny Domsforhandling, som besluttes i Medfør af forrige Paragraf, bliver at foretage,<lb />
+enten paa samme eller paa et senere Ting, for andre Dommere og andre Nævninger. Indtil<lb />
+Nævningeerklæring under den ny Sag er afgiven, kan Rigsanklageren beslutte at frafalde<lb />
+Tiltale, i hvilket Tilfælde Frifindelsesdom bliver at afsige.	
+</p>
+<p>
+Falder ogsaa den ny Domsforhandling ud til en fældende Nævningeerklæring,<lb />
+kan Retten, naar den finder, at Beviset er utilstrækkeligt til at fælde Tiltalte for den<lb />
+Forbrydelse, i hvilken Nævningerne have erklæret ham skyldig, afsige Frifindelsesdom<lb />
+eller, naar den finder det godtgjort, at Tiltalte er skyldig i en mindre Forbrydelse end<lb />
+den, Nævningernes Erklæring lyder paa, afsige Dom i Overensstemmelse hermed; Bestem-<lb />
+melsen i sidste Punktum af § 909 finder herved tilsvarende Anvendelse.
+</p>
+<p>
+Under den ny Sag kan der ikke forelægges Nævningerne noget Spørgsmaal, som<lb />
+sigter paa en strengere Straf, end Tiltalte vilde have været hjemfalden til, saafremt den<lb />
+første Nævningeerklæring var bleven tagen for gyldig, medmindre Betingelser foreligge<lb />
+for Genoptagelse.
+</p>
+<lowtitle>§ 906.</lowtitle>
+<p>
+Naar Tiltalte af Nævningerne er erklæret skyldig, og Retten ikke straks i Hen-<lb />
+hold til § 903, 2det Stykke, eller § 905 afsiger Frifindelsesdom eller i Henhold til § 904<lb />
+beslutter, at ny Domsforhandling skal foregaa, faar først Overanklageren og derefter<lb />
+Forsvareren og Tiltalte Ordet for at udtale sig om Strafudmaalingen og andre Punkter,<lb />
+som ligge udenfor Nævningernes Afgørelse, og der gives dem Lejlighed til at fremkomme<lb />
+med de Bevisligheder, som herved maatte udkræves. Parternes Udtalelser og Bevisførelsen<lb />
+maa ikke gaa ud paa at rokke ved noget, som er afgjort ved Nævningernes Erklæring.<lb />
+Ved denne Forhandlings Slutning optages Sagen til Dom.
+</p>
+<p>
+Har Tiltalte ikke været til Stede under Afgivelsen af Nævningernes Erklæring,<lb />
+bliver denne, forinden Forhandlingen kan fortsættes paa Grundlag af samme, at oplæse<lb />
+for ham, efter at han atter er fremstillet.
+</p>
+<lowtitle>§ 907.</lowtitle>
+<p>
+Domsforhandlingen afsluttes ved Rettens Dom i Sagen; dog betragtes Sagen<lb />
+som tingfæstet ved Retten, indtil Dommens Fuldbyrdelse kan begynde, eller indtil i<lb />
+Tilfælde af Anke Sagens Aktstykker ere indsendte til Rigsanklageren (jvf. § 952).
+</p>
+<lowtitle>§ 908.</lowtitle>
+<p>
+Dommen skal, for saa vidt den ikke gaar ud paa Sagens Afvisning, enten dom-<lb />
+fælde eller frifinde.
+</p>
+
+</pb>

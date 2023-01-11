@@ -1,0 +1,41 @@
+96
+<pb n="102" />
+<p>indleveret; de fremsættes skriftlig og tilstilles<lb />
+Rettens Formand.</p>
+<wtitle>§  251.</wtitle>
+<p>
+Naar Rettens Formand finder,</p>
+<p>1)  at Anklageskriftet ikke tilfredsstiller Lovens<lb />
+Fordringer,</p>
+<p>2)  eller at den Forbrydelse, for hvilken Anklage er rejst, er udelukket fra Påkjendelse<lb />
+ved   Landsretten,    uden   at  dette   beror<lb />
+på Skjøn over Stræffens rimelige Størrelse, og  uden at Sammenhæng med en<lb />
+anden Stræffesag deri gjør Forandring,</p>
+<p>3)  eller   at Sagen ikke  er   indbragt  for ret<lb />
+Værnething,</p>
+<p>4)  eller at Anklageren ikke   er   påtaleberettiget,</p>
+<p>5)  eller at Handlinger af den Art, Anklagen<lb />
+angår, ikke ere Gjenstand for Straf,</p>
+<p>6)  eller at forfølgning er udelukket ved Forældelse,   uden   at   dette  beror på Skjøn<lb />
+over Stræffens rimelige størrelse, eller af<lb />
+lignende Grund er utilstedelig,</p>
+<p>og naar derhos, hvis Manglen kan afhjælpes,<lb />
+det fornødne i så Henseende ikke sker inden<lb />
+en af Formanden fastsat Frist, sammentræder<lb />
+han med tvende Medlemmer af Retten til Afgørelse af Spørgsmålet, om Henvisning af<lb />
+Anklagen til Hovedforhandling strax skal nægtes,<lb />
+uden at videre Foranstaltninger træffes i Anledning af samme. Anklageren gives der<lb />
+Lejlighed til for Afgjørelsen at udtale sig<lb />
+skriftlig eller mundtlig.</p>
+<p>Nægtes der Anklagen Fremme, afsiges<lb />
+Kjendelse herom.</p>
+<wtitle>§  252.</wtitle>
+<p>Finder Retten ikke strax i Embeds Medfør at burde nægte Anklagen Fremme, meddeler Rettens Formand den Sigtede Gjenpart<lb />
+af Anklageskriftet og Bevisfortegnelsen. Ved<lb />
+Meddelelsen affordres den Sigtede Erklæring, om han selv har valgt en Forsvarer;<lb />
+hvis dette ikke er Tilfældet, beskikker Formanden<lb />
+efter Omstændighederne Forsvarer, hvem ligeledes gjenparter Milles.</p>
+<p>Hensidder den Sigtede i fængsel på et<lb />
+andet Sted end Rettens sæde, og det er<lb />
+givet, at Hovedforhandlingen skal foregå her,<lb />
+kan Rettens Formand allerede på dette Tidspunkt foranstalte ham henbragt til samme.</p>

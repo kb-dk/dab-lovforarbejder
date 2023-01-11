@@ -1,0 +1,72 @@
+479
+<pb n="215" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>479</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+4. at Spørgsmålet om Erstatning for uforskyldt Varetægtsfængsel eller for uforskyldt Udståelse af Straf er urigtigt afgjort.
+</p>
+<p>
+En Anke, der er rettet mod Dommens Afgørelse af Sagens Realitet, betragtes<lb/>
+som omfattende også Beviserne for Tiltaltes Skyld, når ikke Ankemeddelelsen udtrykkelig går ud på det modsatte.
+</p>
+<wtitle>§ 922.</wtitle>
+<p>
+I en Nævningesag kan Anke foruden på de i § 920 anførte Ankegrunde kun<lb/>
+støttes på:
+</p>
+<p>
+1.	at Retten bar afgjort på urigtig Måde noget Spørgsmål, som ifølge §§ 863<lb/>
+eller 888 i Slutningen er unddraget fra Nævningernes Afgørelse, eller urigtig har domfældt i Overensstemmelse med en fældende Nævningeerklæring i et Tilfælde, hvor den<lb/>
+i Medfør af § 887 burde have frifundet eller ikkun domfældt for en mindre Forbrydelse,<lb/>
+end Erklæringen lyder på, eller omvendt med Urette har fraveget en fældende Nævningeerklæring i Henhold til § 887 eller frifundet i Henhold til § 847, 2det Stykke;
+</p>
+<p>
+2.	at Nævningernes Erklæring, hvorpå Dommen er grundet, er bleven fejlagtig<lb/>
+på Grund af urigtig i Retsmødet given Vejledning i Loven fra Rettens Formands<lb/>
+Side, eller fordi Spørgsmålene til Nævningerne lide af Fejl, der bero på en urigtig<lb/>
+Forståelse af Straffeloven;
+</p>
+<p>
+3.	at den Straf, Dommen har ikendt, ligger udenfor de i Loven fastsatte Grænser eller står i Åbenbart Misforhold til Brøden.
+</p>
+<p>
+Anke kan ikke grundes på, at Spørgsmålet, om Tiltalte skal domfældes, er<lb/>
+urigtigt afgjort som Følge af en fejlagtig Bedømmelse af Bevisernes Vægt, medmindre<lb/>
+Talen er om et Punkt, der ifølge § 863 i Nævningesager er unddraget Nævningernes<lb/>
+Afgørelse.
+</p>
+<wtitle>§ 923.</wtitle>
+<p>
+Tilsidesættelse eller fejlagtig Anvendelse af en Rettergangsregel skal ikke<lb/>
+bevirke Ophævelse af en påanket Dom. medmindre det findes antageligt, at Iagttagelse af den pågældende Regel kunde have medført et andet Udfald af Sagen.
+</p>
+<p>
+Ikke-Iagttagelse af Rettergangsregler, som udelukkende ere foreskrevne til<lb/>
+Betryggelse for Tiltalte, kan ikke føre til Forandring til hans Skade.
+</p>
+<wtitle>§ 924.</wtitle>
+<p>
+Vil det offentlige anke til Skade for Tiltalte, må der inden fjorten Dage<lb/>
+efter Dommens Afsigelse for Tiltalte forkyndes Meddelelse om, at Dommen påankes.<lb/>
+Anke til Fordel for Tiltalte kan det offentlige iværksætte også efter Udløbet af<lb/>
+den nævnte Frist; sådan Anke hindres heller ikke ved, at Tiltalte har givet Afkald<lb/>
+på Anke.
+</p>
+<p>
+I Sager om Erstatning for uforskyldt Varetægtsfængsel eller for uforskyldt Udståelse af Straf er Ankefristen for det offentlige altid 3 Måneder.
+</p>
+<p>
+Meddelelsen skal indeholde Tilkendegivelse om, at Sagen vil blive foretagen i<lb/>
+Højesteret, så snart dertil er Lejlighed, uden nogen yderligere Underretning til<lb/>
+Tiltalte. Genpart af Meddelelsen indleveres på Landsrettens Kontor.
+</p>
+<wtitle>§ 925.</wtitle>
+<p>
+Vil Tiltalte anke, må han afgive Meddelelse herom inden fjorten Dage<lb/>
+regnet fra Dommens Afsigelse eller, når han ikke har været til Stede ved Afsigelsen<lb/>
+af Dommen, og denne er fældende, fra den Dag, da Udskrift af Dommen er ham
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

@@ -1,0 +1,34 @@
+172
+<pb n="178" />
+<h>
+<topmidle>172         Kap   XI..    Arrest.</topmidle>
+</h>
+<title>Sjette Afsnit.</title>
+<undertitle>De foreløbige Retsmidler. </undertitle>
+<title>Kapitel XL. </title>
+<undertitle>Arrest.</undertitle>
+<wtitle>§ 459.</wtitle>
+<p>Til Sikkerhed for et Krav, der lyder<lb />
+på Penge eller Penges Værd, kan Arrest<lb />
+på Gods sinde Sted, når</p>
+<p>1)   Udlæg for Kravet ikke endnu kan<lb />
+gøres i Godset, og derhos</p>
+<p>2)   enten   Fordringen    er   forfalden,<lb />
+eller   der   er  Grund   til   at   befrygte,   at<lb />
+Skyldneren ellers ved at bortflytte eller forstikke sit Gods eller på anden Mande vilde<lb />
+umuliggøre eller dog væsentlig vanskeliggøre<lb />
+Adgangen til i sin Tid at opnå Dom og<lb />
+gøre Eksekution.</p>
+<p>Med Hensyn til Arrest for Bodmerigæld har det sit Forblivende ved Sølov 1.<lb />
+April 1892 §  185.</p>
+<wtitle>§ 460.</wtitle>
+<p>Arrest på Person som Sikkerhedsmiddel for Fordringer af den i § 459 ommeldte Beskaffenhed kan kun anvendes på<lb />
+Skyldnere, der stå i Begreb med at forlade Landet for bestandigt eller på ubestemt Tid, i Anledning af forfaldne Fordringer, for hvilke de i Følge denne Lovs<lb />
+Regler vilde kunne sagsøges ved danske<lb />
+Retter.</p>
+<wtitle>§ 461.</wtitle>
+<p>Arrest på Gods kan ikke foretages i<lb />
+Ting, hvori der ikke vilde kunne gøres Eksekution for den pågældende Fordring.</p>
+<p>Når et Skib er udklareret for en Rejse<lb />
+og iøvrigt sejlfærdigt, kan Skipperen og<lb />
+Skibsmandskabet ikke arresteres for gæld.</p>

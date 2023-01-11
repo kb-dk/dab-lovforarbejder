@@ -1,0 +1,36 @@
+26
+<pb n="32" />
+<h>
+<topmidle>26   Kap. VIII. Forkyndelser og Meddelelser.</topmidle>
+</h>
+<p>flydende Lempelser blive at forkynde efter<lb />
+de i dette Kapitel givne Regler, skulle tillige<lb />
+anmeldes for Afdelingschefen, som foranlediger Pågældendes Møde for Retten, hvor<lb />
+sådant gøres fornødent.</p>
+<title>Kapitel IX.</title>
+<undertitle>Procesmåden i Almindelighed.</undertitle>
+<wtitle>§ 84.</wtitle>
+<p>En Sag anses for anlagt, når Forligsklage eller Stævning er indleveret til<lb />
+Berammelse eller Sagen er anmeldt for<lb />
+Retten efter c 200, 2det Stykke.</p>
+<p>Ved Forkyndelsen af Stævningen eller<lb />
+Fremlæggelsen af den i § 200, 2 St. omhandlede Angivelse anses Sagen for tingfæstet; en Modfordring er at anse som<lb />
+tingfæstet ved Fremlæggelsen eller Meddelelsen af det Svarfkrift, hvori den fremsattes.</p>
+<p>I det i § 273, 3. St. nævnte Tilfælde er Sagen anlagt, når den er anmeldt<lb />
+for Retten, og tingfæstet, når den foretages i Retten.</p>
+<p>Indtil Sagsøgeren mundtlig har nedlagt<lb />
+sin Påstand under Domsforhandlingen,<lb />
+står det ham frit for at hæve Sagen, dog<lb />
+at Sagsøgeren ikke derved kan forhindre<lb />
+at, der gives Sagsøgte Dom for allerede<lb />
+tingfæstede Modfordringer. Efter det anførte Tidspunkt kan Sagsøgeren derimod ikke<lb />
+ensidig hæve Sagen, jfr. dog § 240.</p>
+<wtitle>§ 85.</wtitle>
+<p>Sagsøgte er berettiget til at fremsætte<lb />
+Modfordringer, forsåvidt som disse enten<lb />
+have Fælles Oprindelse med Hovedfordringen<lb />
+eller dog ere udjævnelige (komputable) med<lb />
+den. Der kan gives selvstændig Dom for<lb />
+Modfordringen.</p>
+<title>Under Proceduren behandles Modfordringen som en Bestanddel af Sagsøgtes<lb />
+Forsvar.    Den   fremsættes og forhandles i</title>

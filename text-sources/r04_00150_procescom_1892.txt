@@ -1,0 +1,39 @@
+150
+<pb n="150" />
+<h>142           Kap. XXX.   Genoptagelse.</h>
+<title>Kapitel XXX.</title>
+<undertitle>Genoptagelse.</undertitle>
+<wtitle>§ 353.</wtitle>
+<p>Naar en forfølgning, som ved linder'<lb />
+søgelsesret har været indledet mod en bestemt<lb />
+Sigtet, standses, G 211) eller naar, efter at<lb />
+Tiltale er rejst, Forfølgningen frafalden,<lb />
+uden at Dom bliver afsagt, kan, udenfor det<lb />
+i ^212 omhandlede Tilfælde, ny forfølgning ved Undersøgelsesret eller ny Tiltale kun rejses, naar nye Beviser as Vagt<lb />
+senere komme for Dagen, eller de i nedenstående § 354 angivne Betingelser ere til<lb />
+Stede. Derimod er den omstændighed,<lb />
+at Undersøgelsesretten i Henhold til § -^3<lb />
+har nægtet at tage en Begæring om<lb />
+Forundersøgelse til følge eller i Henhold<lb />
+til § 211 har standset en begyndt Forundersøgelse, ikke til Hinder for. at Tiltale<lb />
+rejses ved den dømmende Net.</p>
+<wtitle>§ 354.</wtitle>
+<p>Genoptagelse as en Sag, som — vare<lb />
+sig i første Instans eller ifølge Anke — er<lb />
+pådømt ved Landsret, og hvorunder Tiltalte er frifunden, kan finde Sted efter<lb />
+Overanklagerens begæring,</p>
+<p>1.      naar   det   ifølge   en   Tilståelse,<lb />
+Tiltalte senere har afgivet, eller andre Beviser, der senere ere komne for Dagen, må<lb />
+antages, at han har begået Forbrydelsen:</p>
+<p>2.     naar falske  Forklaringer eller Erklæringer ere afgivne under Sagen as Vidner<lb />
+eller Syns-  eller Skønsmænd,   eller   falske<lb />
+eller   forfalskede Dokumenter   ere   benyttede<lb />
+under samme, eller noget strafbart Forhold,<lb />
+sigtende til at påvirke eller bestemme Sagens Udfald, er udvist enten  af Tiltalte   eller af<lb />
+nogen,   der   i  medfør   af sit  Embede eller<lb />
+offentligt Hverv har medvirket ved Sagens<lb />
+Behandling, og der efter Omstændighederne<lb />
+er god Grund til at antage, at sådant har<lb />
+bevirket eller medvirket til, at  Tiltalte   har<lb />
+undgået Domfældelse.</p>
+<p>Under tilsvarende Betingelser kan Genoptagelse finde Sted, hvor Tiltalte påstås at have gjort sig skyldig i en væsentlig</p>

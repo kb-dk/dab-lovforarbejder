@@ -1,0 +1,78 @@
+2271
+<pb n="184" />
+<h>
+<coll>
+2271
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2272
+</colr>
+</h>
+<p>
+Ved Begæringens Indgivelse til Retten er Sagen tingfæstet. De Begæringen<lb />
+ledsagende Aktstykker fremlægges til Retsbogen, saa vidt og naar Dommeren finder<lb />
+det rigtigt.
+</p>
+<p>
+Forundersøgelsen begrænses i Reglen til de Sigtede og de Handlinger, som<lb />
+ere betegnede i Begæringen. Fremkommer der under Forundersøgelsen grundet Mis-<lb />
+tanke mod andre Personer eller om andre Forbrydelser end dem, der ere nævnte i<lb />
+Begæringen, bør Retten give Paatalemyndigheden fornøden Meddelelse; dog kan<lb />
+Retten, uden at afvente yderligere Begæring, foretage saadanne Skridt, som ikke uden<lb />
+Ulempe kunne opsættes.
+</p>
+<wtitle>§ 793.</wtitle>
+<p>
+Finder Retten, at Sagen ikke er indbragt for ret Værneting, eller at den, der<lb />
+paataler, ej er berettiget dertil, eller at Forundersøgelse er udelukket ved Reglerne i<lb />
+§ 791, eller at Handlinger af den Art, som Sigtelsen angaar, ikke ere Grenstand for<lb />
+Straf, eller at Strafskylden er forældet eller Forfølgning af andre lignende Grunde<lb />
+utilstedelig, afsiger den Kendelse om, at Begæringen om Forundersøgelse ikke kan<lb />
+tages til Følge.
+</p>
+<wtitle>§ 794.</wtitle>
+<p>
+Forundersøgelsens Øjemed er at tilvejebringe saadanne Oplysninger, som ud-<lb />
+fordres for at afgøre, om, for hvilken Forbrydelse og for hvilken Ret Tiltale skal<lb />
+rejses. Tillige blive saadanne Beviser at føre, som det maa anses for umuligt eller<lb />
+dog forbundet med særlig Ulempe at tilvejebringe under Domsforhandlingen.
+</p>
+<wtitle>§ 795.</wtitle>
+<p>
+Naar Begæring om Forundersøgelse er tagen til Følge, har Dommeren i<lb />
+Embeds Medfør, uden at yderligere Begæring udfordres, med størst mulige Hurtighed<lb />
+at foretage alle hensigtsmæssige Skridt til Opnaaelse af Forundersøgelsens Øjemed.
+</p>
+<p>
+Parterne ere berettigede — Anklageren og Forsvareren efter Omstændig-<lb />
+hederne forpligtede — til at rette Begæring til Dommeren om Foretagelse af enkelte<lb />
+Undersøgelseshandlinger. Retten bedømmer, hvor vidt den begærede Retshandling<lb />
+tjener til Fremme af Undersøgelsens Øjemed, og kan til den Ende, inden Afgørelse<lb />
+træffes, forlange opgivet, hvad derved tilsigtes oplyst; Afslag paa Begæringen sker<lb />
+ved Kendelse. Ogsaa udenfor de Undtagelsestilfælde, hvor Overanklageren paataler<lb />
+for Undersøgelsesretten, har han samme Ret og Pligt til at henvende saadanne Be-<lb />
+gæringer til den.
+</p>
+<p>
+Politimesteren skal uden Ophold give Dommeren Meddelelse om de Under-<lb />
+søgelseshandlinger. som han, efter at Forundersøgelse ved Retten er begyndt, foretager<lb />
+paa egen Haand.
+</p>
+<wtitle>§ 796.</wtitle>
+<p>
+Politiet er pligtigt at efterkomme de Paalæg, Dommeren giver i Forunder-<lb />
+søgelsens Interesse.
+</p>
+<p>
+Dommeren er berettiget til at henvende sig med Begæring om Retshandlingers<lb />
+Foretagelse i en anden Retskreds til Undersøgelsesdommeren i denne, jfr. § 664. Føres<lb />
+Forundersøgelsen af et Medlem af Landsretten, er dette fremdeles berettiget til at<lb />
+fordre enkelte Retshandlinger foretagne af Undersøgelsesdommeren i Retskredsen.
+</p>
+<p>
+I paatrængende Tilfælde kan en Undersøgelsesdommer, for hvem Sagen ikke<lb />
+er tingfæstet, uden at afvente Begæring, foretage enkelte Retshandlinger i Under-<lb />
+søgelsens Interesse, som han anser for uopsættelige. Han har i saa Fald uopholdelig<lb />
+at underrette den Dommer, for hvem Sagen er tingfæstet, om det foretagne.
+</p>

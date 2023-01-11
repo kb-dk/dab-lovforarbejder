@@ -1,0 +1,65 @@
+3735
+<pb n="48"/>
+<h>
+<coll>3735</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje</topmidle>
+<colr>3736</colr>
+</h>
+<p>
+Tredie Bog.<lb />
+Den borgerlige Retspleje.
+</p>
+<htitle>Første Afsnit.</htitle>
+<title>
+Almindelige Bestemmelser.
+</title>
+<title>Kapitel 18</title>
+<undertitle>
+Retternes Virkekreds.
+</undertitle>
+<wtitle>§ 201.</wtitle>
+<p>
+Enhver borgerlig Retstrætte behandles i første Instans ved Landsret, med-<lb />
+mindre den er henlagt til Underret eller den ved Overenskomst mellem Parterne<lb />
+indbringes for Underret, for saa vidt dette lovligt kan ske.
+</p>
+<wtitle>§ 202.</wtitle>
+<p>
+Til Underretterne henlægges
+</p>
+<p>
+1)	Søgsmaal angaaende private Formuerettigheder, naar Genstanden for samme i<lb />
+Penge eller Penges Værd ikke overstiger 300 Kr.
+</p>
+<p>
+2)	Sager angaaende Skatter, Afgifter og andre lignende Ydelser af offentligretlig<lb />
+Beskaffenhed til Stat, Kommune, Embeder og andre offentlige Indretninger, naar<lb />
+Genstanden for samme ikke overstiger 300 Kr.
+</p>
+<p>
+3)	Sager angaaende Servituter og partielle Brugsrettigheder.
+</p>
+<p>
+4)	Sager om Veksler og visse andre Gældsbreve (§ 424, jfr. § 421).
+</p>
+<p>
+5)	Ægteskabssager (§ 426).
+</p>
+<p>
+6)	Sager angaaende Mortifikation af Gældsbreve, ved hvilke der er givet Pant i<lb />
+fast Ejendom (§ 445), samt Mortifikation af Servituter, Brugsrettigheder og<lb />
+Grundbyrder (§ 454).
+</p>
+<p>
+7)	Sager, hvorved Faderskabet til uægte Børn søges oplyst, for at Underholdsbidrag<lb />
+kan paalægges Faderen.
+</p>
+<p>
+8)	Sager, anlagte i Medfør af Forordningen af 28. Marts 1845 § 17 til Hæftelses-<lb />
+breves Udslettelse.
+</p>
+<p>
+9)	Sager angaaende strafbare Handlinger, der ved Lovgivningen ere henviste til<lb />
+privat Forfølgning, jfr. § 694, for saa vidt der ikke paastaas højere Erstatning<lb />
+end 300 Kr.
+</p>

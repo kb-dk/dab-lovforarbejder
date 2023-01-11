@@ -1,0 +1,54 @@
+403
+<pb n="<span class="result">139</span>" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>403</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 597.</wtitle>
+<p>
+Den, som finder sig forurettet ved en Udpantning, kan, hvad enten Indsigelse<lb/>
+har været fremsat under Forretningen eller ikke, gøre sin Klage gældende henholdsvis<lb/>
+ved Anke eller Kære i Overensstemmelse med de i foregående Afsnit indeholdte<lb/>
+Regler om Retsmidler imod de til Dommes Fuldbyrdelse sigtende Fogedforretninger.<lb/>
+Ligeledes bliver der at forholde efter de der givne Regler med Hensyn til det Spørgsmål, om Forauktioneringen skal udsættes, når Anke eller Kære er rejst imod Udpantningsforretningen. Fristen til Anke eller Kære regnes fra Forretningens Dato<lb/>
+eller, for så vidt Indsigelse er fremsat i Henhold til § 595, dens Stadfæstelse; Oprejsning kan ikke gives efter 6 Måneder fra det nævnte Tidspunkt,
+</p>
+<wtitle>§ 598.</wtitle>
+<p>
+Har den, hvem Udpantning er overgået, andre Indsigelser at gøre gældende<lb/>
+mod denne end sådanne, der gå ud på, at Fordringen ikke ifølge Lovgivningen<lb/>
+kan inddrives ved Udpantning, eller at der ved dennes Foretagelse ikke er brugt den<lb/>
+rette Fremgangsmåde, kan ban, for så vidt han ikke vil gøre Ansvar mod Fogden<lb/>
+gældende, og ban ikke allerede har rejst Anke eller Kære imod Forretningen efter<lb/>
+§ 597, indbringe Spørgsmålet om disse Indsigelsers Gyldighed til Prøvelse i første<lb/>
+Instans.
+</p>
+<p>
+Dette Søgsmål, som i øvrigt bliver at behandle efter de almindelige Regler,<lb/>
+kan uden Hensyn til Rekvirentens Værneting anlægges i den Retskreds, hvor Udpantningen er gjort; men det må i det seneste anlægges inden 8 Uger fra Forretningens<lb/>
+Dato eller, for så vidt Indsigelse er fremsat i Henhold til § 595, dens Stadfæstelse.
+</p>
+<p>
+Når Sag er anlagt mod Rekvirenten af Udpantningsforretningen inden Udløbet<lb/>
+af de i § 596 ommeldte 4 Uger, kan Rekvisitus mod at stille Sikkerhed standse Rekvirentens Ret til at bortsælge det udpantede, så længe indtil det til Prøvelse af Udpantningsforretningen anlagte Søgsmål er afgjort ved endelig Dom; Påstanden kan<lb/>
+i så Fald rettes på Udpantningsforretningens Ophævelse. Er Rekvirentens Ret til<lb/>
+at skride til Realisation ikke på den anførte Måde standset, kan Påstanden rettes<lb/>
+på Udpantningsforretningens Ophævelse, for så vidt det udpantede ikke allerede<lb/>
+måtte være bortsolgt, men i modsat Fald kun på Skadesløsholdelse.
+</p>
+<wtitle>§ 599.</wtitle>
+<p>
+Ligesom Rekvirenten, derunder indbefattet Staten, Kommuner, andre Myndigheder eller juridiske Personer, når Udpantningen under et i Medfør af § 597 eller<lb/>
+§ 598 anlagt Søgsmål findes ulovlig foretagen, i Overensstemmelse med de hidtil gældende Regler har at erstatte Skyldneren al af Forretningen flydende Skade, således<lb/>
+vil han også have at godtgøre Skyldneren Sagens Omkostninger i alle Instanser, såfremt Fordringen ikke skyldtes eller ikke var forfalden, da Udpantningen foregik, og<lb/>
+det derhos ikke er Skyldneren, der har fremkaldt eller bestyrket den urigtige Opfattelse af Retsforholdet, som Rekvirenten har gjort gældende.
+</p>
+<title>Kapitel 54.</title>
+<undertitle>Indsættelses- og Udsættelsesforretninger.</undertitle>
+<wtitle>§ 600.</wtitle>
+<p>
+Det skal fremdeles i samme Tilfælde som hidtil stå vedkommende berettigede<lb/>
+åbent at fordre Fogdens Hjælp til at indsættes i eller udsætte andre af Besiddelsen
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

@@ -1,0 +1,37 @@
+133
+<pb n="139" />
+
+<p>forretninger udenfor sin egen Retskreds, medmindre disse blot ere at anse som Fortsættelse<lb />
+af en i Retskredsen påbegyndt Exekution, i<lb />
+hvilket Tilfælde han i tilstødende Retskredse<lb />
+er kompetent til at foretage Exekution i rørligt Gods. Dog er Fogden ikke pligtig at<lb />
+rejse længere end 2 Mile ud over Grænserne<lb />
+af hans Retskreds.</p>
+<wtitle>§ 439.</wtitle>
+<p>Den, der vil have en Exekution fore<lb />
+taget, skal for Fogden fremsætte sin Begjæring<lb />
+herom, ledsaget af Udskrift af Dommen, Kjendelsen eller Forliget eller af det originale<lb />
+Pantebrev, ligesom han også ved samme Lejlighed har at meddele alle de Oplysninger,<lb />
+som iøvrigt måtte være fornødne, for at<lb />
+Fogden kan tage Bestemmelse om Forretningens Berammelse.</p>
+<p>Begjæringen stal, hvis Fordringen, bortset<lb />
+fra Procesomkostninger og Renter, der ere<lb />
+påløbne siden Processens Begyndelse, overstiger 400 Kr.s Værdi, være skriftlig. I<lb />
+andet Fald kan den fremsættes mundtlig for<lb />
+Fogden, som da har at tage den til Protokollen.</p>
+<wtitle>§ 440.</wtitle>
+<p>Dommen eller Kjendelsen, som skal exekveres, må være udfærdiget i lovmæssig<lb />
+Form. Er dette Tilfældet, vedkommer det ikke<lb />
+Fogden at undersøge eller afgjøre, om Dommen eller Kjendelsen måtte lide af sådanne<lb />
+Fejl eller Mangler, som kunde medføre dens<lb />
+Annullation eller Forandring efter Retsmidlers<lb />
+Anvendelse.</p>
+<p>Kun hvis Dommen eller Kjendelsen ikke<lb />
+er udgået fra en lovlig bestående Domstol<lb />
+eller nogen til at afsige exigible Dekreter beføjet Myndighed, eller den ikke ifølge sit Indhold kan fuldbyrdes, har Fogden at nægte<lb />
+Exekution.</p>
+<wtitle>§ 441.</wtitle>
+<p>Under Exekutionen af Forlig, hvad enten<lb />
+de ere indgåede for Forligskommissioner,<lb />
+Retter eller Øvrigheder, har Fogden at påkjende alle Indsigelser mod Forligets Gyldighed, dog, hvad Retsforlig angår, kun, forsåvidt Fogdens Kjendelse ikke vilde indeholde<lb />
+en Bedømmelse af Rettens Handlinger.</p>

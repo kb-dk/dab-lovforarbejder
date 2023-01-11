@@ -1,0 +1,75 @@
+4043
+<pb n="202"/>
+<h>
+<coll>4043</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>4044</colr>
+</h>
+<title>Kapitel 75.</title>
+<undertitle>
+Bestemmelser om Domsforhandling uden Nævninger.
+</undertitle>
+<wtitle>§ 882.</wtitle>
+<p>
+Udebliver Anklageren enten ved Domsforhandlingens Begyndelse eller i Løbet<lb />
+af denne, udsættes Sagen. Det samme gælder, naar den beskikkede Forsvarer ude-<lb />
+bliver, eller naar den valgte Forsvarer ikke møder i Tilfælde, hvor dette vil gøre en<lb />
+Beskikkelse nødvendig, medmindre Omstændighederne maatte gøre det muligt for For-<lb />
+manden at beskikke en Forsvarer, som straks kan udføre Hvervet.
+</p>
+<p>
+Er Tiltalte ikke fængslet, har han Ret til at deltage i Retsmødet; er han<lb />
+fængslet, bliver han kun, naar han har fremsat Begæring derom, og Rettens Formand<lb />
+finder, at særlige Grunde tale for at tage denne tilfølge, at foranstalte henbragt<lb />
+til Mødet.
+</p>
+<p>
+Tiltaltes Udeblivelse hindrer ikke Sagens Fremme.
+</p>
+<wtitle>§ 883.</wtitle>
+<p>
+Efterat Anklageordren og Stævningen ere oplæste, faar Anklageren først Or-<lb />
+det, Han fremstiller kortelig Sagen og lader derefter ved Retsskriveren oplæse de<lb />
+Afsnit af Udskrifter vedrørende Forundersøgelsen og øvrige Dokumenter, som efter<lb />
+hans Skøn have Betydning for Sagen og af hvilke trykte eller maskinskrevne Gen-<lb />
+parter omdeles til Dommerne. Derefter fremstiller han sin Opfattelse af Sagen, der-<lb />
+under Bevisførelsens Resultater, og de vedkommende Retsspørgsmaal. Forsvareren<lb />
+eller Tiltalte faar derpaa Ordet for en tilsvarende Udvikling; han lader de Doku-<lb />
+menter m. v. oplæse, som han tillægger Betydning udover de af Anklageren fremdragne.
+</p>
+<p>
+Omfatter Sagen flere Forbrydelser, kan Formanden lade Forhandlingen fore-<lb />
+gaa særskilt for hver enkelt Forbrydelse.
+</p>
+<p>
+Formanden kan derhos bestemme, at Spørgsmaalet, om Tiltalte er skyldig,<lb />
+først skal forhandles og afgøres; i saa Fald finde Reglerne i Slutningssætningen af<lb />
+§ 846 og i § 869 tilsvarende Anvendelse.
+</p>
+<wtitle>§ 884.</wtitle>
+<p>
+Saafremt Tiltalte er tilstede ved Domsforhandlingen, kan Rettens Formand<lb />
+rette Spørgsmaal til ham, der sigte til at tydeliggøre den af ham under Forunder-<lb />
+søgelsen afgivne Forklaring. Reglen i § 792, 2det Stk. finder tilsvarende Anvendelse<lb />
+med Hensyn til Optagelse i Retsbogen af Tiltaltes Svar.
+</p>
+<p>
+Tiltalte har Ret til at faa Ordet efter Forsvareren.
+</p>
+<wtitle>§ 885.</wtitle>
+<p>
+Reglerne i §§ 817, 819, 832, 842, 843, 3die Stk. finde tilsvarende Anvendelse<lb />
+ved Domsforhandling uden Nævninger.
+</p>
+<p>
+Hvis Retten under Domsforhandlingen eller til et hvilket som helst Tidspunkt<lb />
+forinden finder det nødvendigt til Sagens fuldstændige Oplysning, at et Vidne eller en<lb />
+Syns- eller Skønsmand, der har afgivet Forklaring under Forundersøgelsen, afhøres<lb />
+personlig for den dømmende Ret (§§ 149 — 50 jfr. 179), kan den paalægge Anklageren<lb />
+at foranstalte den i saa Henseende fornødne Indkaldelse og eventuelt træffe Bestem-<lb />
+melse om Udsættelse af Domsforhandlingen om fornødent til et andet Ting.
+</p>
+<p>
+Om Afhørelsen af saadanne Vidner og Syns- eller Skønsmænd finde Reglerne<lb />
+i §§ 792, 2det Stk., 837—38 og 841, 1ste Stykke tilsvarende Anvendelse.
+</p>

@@ -1,0 +1,30 @@
+58
+<pb n="64" />
+<p>kunne kun uberygtede Personer vælges, der høre til et Troessamfund, for hvilket en anvendelig Edsformular forefindes, eller højtidelig Forsikkring i Eds Sted er hjemlet, og som<lb />
+ikke vilde Være udelukkede fra at edfæstes som<lb />
+Vidner.</p>
+<wtitle>§   551.</wtitle>
+<p>Enhver, der er Pligtig at vidne, er også<lb />
+pligtig at modtage Udmeldelse som Syns- eller<lb />
+Skjønsmand. Dog skulle de om Vidner givne<lb />
+Afstandsbestemmelser ikke Være til Hinder for<lb />
+en Udmeldelse, som Forholdene findes at gjøre<lb />
+nødvendig.</p>
+<p>statens Embeds- og Bestillingsmænd fritages for Udmeldelse, naar de ved Skrivelse<lb />
+fra de dem foresætte Myndigheder oplyse, at<lb />
+de ikke have Tid, eller at Forretningens Foretagelse iøvrigt kommer i Strid med deres offentlige Pligter.</p>
+<wtitle>§ 152.</wtitle>
+<p>Forsåvidt Personer ere beskikkede med almindelig Bemyndigelse til Foretagelsen af visse<lb />
+Syn eller skjøn, bør Andre kun udmeldes hertil, naar Henvendelse til hine vilde medføre<lb />
+en Forhaling, hvorvedøjemedet kunne forspildes, eller naar andre særegne Grunde gjøre<lb />
+det nødvendigt eller tilrådeligt.</p>
+<p>Til Forretninger, ved hvilke der udkræves<lb />
+særegne videnskabelige Kundskaber eller færdigheder, som forudsætte sådanne, bør i Reglen<lb />
+kun udmeldes mænd, der ifølge offentlig Stilling eller dog ifølge offentlig aflagte prøver må ansees for duelige hertil.</p>
+<p>Udkræves andre særegne Indsigter eller fagmæssige Færdigheder, bør i Reglen vælges<lb />
+mænd, som ifølge Livsstilling eller sædvanligt<lb />
+Erhverv ere kyndige i de omspurgte Retninger.</p>
+<p>Skal en Kvinde synes på Legeme, bør i alle Tilfælde, hvor det til Øjemedets Opnåelse er tilstrækkeligt, ærbare Kvinder dertil<lb />
+vælges; navnlig bor, hvor spørgsmål foreligger om Svangerskab eller Barnefødsel, istedenfor læger Iordemødre benyttes, naar disse<lb />
+må antages at have tilstrækkelig Indsigt til at<lb />
+afgive Erklæring om spørgsmålet.</p>

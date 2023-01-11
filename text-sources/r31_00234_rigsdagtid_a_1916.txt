@@ -1,0 +1,67 @@
+650
+<pb n="<span class="result">234</span>" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>650</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 988.</wtitle>
+<p>
+Har en Domfældt udstået Straf, der bortfalder, enten som Følge af Anke<lb />
+eller af Genoptagelse, har han Krav på Erstatning. De i § 792 for Sager angående<lb />
+Erstatning for Varetægtsfængsel givne Regler kommer i øvrigt til Anvendelse også<lb />
+på disse Sager.
+</p>
+<p>
+Når en Straffesag genoptages i Medfør af §§ 976 eller 977, og Forfølgningen<lb />
+eder til Domfældelse af Sigtede, bliver det, hvis denne har oppebåret Erstatning<lb />
+i Anledning af en tidligere i samme Sag stedfunden Anholdelse eller Fængsling, i<lb />
+Dommen at bestemme, at Erstatningen skal tilbagetales til Statskassen.
+</p>
+<title>Syvende Afsnit.</title>
+<title>
+Regler om Påtale af særlige Myndigheder og om Anke af visse<lb />
+private Straffesager samt om Forfølgning af borgerlige Krav
+under Straffesager.
+</title>
+<title>Kapitel 87.</title>
+<undertitle>
+Behandling af Sager, som påtales af en særlig offentlig Myndighed.
+</undertitle>
+<wtitle>§ 989.</wtitle>
+<p>
+Forinden en særlig offentlig Myndighed rejser Påtale i Henhold til § 724,<lb />
+skal den ved Henvendelse til Politimesteren forvisse sig om, at denne ikke agter at<lb />
+forfølge Sagen. Når Påtale herefter rejses af en særlig Myndighed, bliver Bestemmelserne i Kapitlerne 81 (med Undtagelse af § 931) og 82—83 og 85 at anvende.
+</p>
+<p>
+Anke fra Påtalens Side besluttes og iværksættes af Overanklageren, dog kun<lb />
+efter Begæring af den særlige Myndighed.
+</p>
+<p>
+Har Politimesteren indledet, men senere frafaldet Forfølgning, og er Sagen<lb />
+som Følge heraf blevet hævet, kan den særlige Myndighed rejse ny Forfølgning; dog<lb />
+må Anklageskrift i så Fald indgives inden fjorten Dage, efter at Sagen er hævet.
+</p>
+<title>Kapitel 88.</title>
+<undertitle>
+Regler om Anke af visse private Straffesager.
+</undertitle>
+<wtitle>§ 990.</wtitle>
+<p>
+Når nogen ved en Underrets Dom i en Sag, hvorunder en privat Sagsøger i<lb />
+den borgerlige Retsplejes Former har påtalt en Forbrydelse, som er undergivet privat<lb />
+Påtale, er dømt til Fængselsstraf, kan han rejse Anke overensstemmende med de<lb />
+Regler, som gælder i offentlige Sager. Overanklageren har da overensstemmende med<lb />
+Reglerne i Kapitel 83, jfr. Kapitel 82, at indbringe Sagen for Landsretten, hvor<lb />
+Ankesagen forberedes og behandles efter de for offentlige Sager gældende Regler.<lb />
+Overanklageren lader Meddelelse om Ankesagen forkynde for den private Sagsøger,
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

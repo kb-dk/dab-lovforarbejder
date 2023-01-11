@@ -1,0 +1,66 @@
+423
+<pb n="159" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>423</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+1)	de under de danske Domstoles Påkendelse hørende Forbrydelser, som begås udenfor Kongerigets Grænser,
+</p>
+<p>
+2)	de Forseelser, som det tilkommer Politimesteren at påtale (§ 704), uden<lb/>
+Hensyn til, om de påtales af ham eller af andre,
+</p>
+<p>
+3)	andre Forbrydelser, når der mangler sådanne Oplysninger, som betinge<lb/>
+Anvendelse af § 687.
+</p>
+<p>
+Danske i Udlandet ansatte Embedsmænd, der ikke ere det pågældende Lands<lb/>
+Domsmyndighed undergivne, og de til de danske Gesandtskaber i fremmede Stater<lb/>
+hørende Personer anses ved Anvendelsen af ovenstående Regel som havende Bolig i<lb/>
+København, for så vidt de ikke måtte have vedligeholdt Bolig noget andet Sted i<lb/>
+Riget. Det samme gælder om andre danske Undersåtter. som ikke kunne sagsøges i<lb/>
+det Land, hvor de have Bopæl.
+</p>
+<wtitle>§ 690.</wtitle>
+<p>
+I de i § 689 ommeldte Tilfælde kan Sagen også forfølges ved den Ret, i hvis<lb/>
+Kreds Sigtede er bleven pågreben.
+</p>
+<wtitle>§ 691.</wtitle>
+<p>
+Forbrydelser, hvis Påtale efter § 696 sker under een Sag, forfølges under eet ved en Ret, som er Værneting for den Forbrydelse, der nærmest har givet Anledning<lb/>
+til Forfølgningen. Hører nogen af de begåede Forbrydelser for Underret, medens en<lb/>
+eller flere andre høre under Landsrettens Påkendelse, træder med Hensyn til Domsforhandling i Underrettens Sted den Landsret, til hvis Kreds den hører.
+</p>
+<wtitle>§ 692.</wtitle>
+<p>
+Sag om Oprejsning for uforskyldt Anholdelse (§ 678 f) forfølges ved Retten i<lb/>
+den Retskreds, hvor Anholdelsen har fundet Sted. — Sag om Erstatning for uforskyldt<lb/>
+Varetægtsfængsel forfølges, dersom den skal behandles ved Underret (§ 678 g), ved den<lb/>
+Underret, som har ledet Forundersøgelsen af Sagen eller, i Mangel af en sådan, ved den Underret, som har besluttet Fængslingen, og, hvis den skal behandles ved Landsret, ved den Landsret, under hvilken nævnte Underret hører. — Sag om Erstatning for<lb/>
+uforskyldt Udståelse af Straf forfølges, når den skal afgøres ved Underret, ved den<lb/>
+Underret, som har dømt i Sagen, eller som, hvis Dommen er afsagt af Landsret, har<lb/>
+ledet Forundersøgelsen i den, eller i Mangel af en sådan, ved den Underret, i hvis<lb/>
+Retskreds den uskyldig straffede bor eller opholder sig, og, hvis Sagen skal afgøres<lb/>
+ved Landsret, ved den Landsret, som har dømt i den, eller under hvilken den Underret<lb/>
+hører, som har afsagt Dommen (jvf. dog § 937, 2det Stykke). Dersom den pågældende<lb/>
+Forbrydelse har været påtalt ved Sø- og Handelsretten i København eller udenfor<lb/>
+København ved en Underret i Medfør af § 18, komme foranstående Bestemmelser til<lb/>
+Anvendelse med de fornødne Lempelser, således at Sagen bliver at anlægge ved vedkommende Landsret eller ved den almindelige Underret i Retskredsen.
+</p>
+<p>
+Sager mod en Forening til dens Ophævelse i Medfør af Grundloven af 28.<lb/>
+Juli 1866 § 87 forfølges ved den Ret, i hvis Kreds Foreningen eller dens Bestyrelse<lb/>
+har sit Sæde, eller, når sådant ikke med Sikkerhed kan udfindes, hvor et af Bestyrelsens Medlemmer bor.
+</p>
+<p>
+Sag til Stadfæstelse af de i Lov af 3. Januar 1851 § 14, jvf. § 15, omhandlede Forbud forfølges ved den Ret, i hvis Kreds Forbudet er nedlagt.
+</p>
+<p>
+På Sager, hvorunder Påstand alene nedlægges om nogen af de øvrige i §675<lb/>
+omhandlede Følger, finde Reglerne i §§ 687—690 tilsvarende Anvendelse.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

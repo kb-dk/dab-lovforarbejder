@@ -1,0 +1,43 @@
+3933
+<pb n="285" />
+<h>
+<coll>3933</coll>
+<topmidle>Forsl. t. L. om Retsafgifter.</topmidle>
+<colr>3334</colr>
+</h>
+<wtitle>§ 71.</wtitle>
+<p>Udenfor det i § 62, 2det Stykke, ommeldte Tilfælde betales for Beskrivelse af<lb />
+Notarialforretninger, hvilken Beskrivelse, naar det begjæres, fkal udstedes og bekrcrftes som<lb />
+Akt, 40 Ø. for hvert halve Ark eller Del af famme, Beskrivelsen udgjør mere end I<lb />
+Ark,  hvilket   altid   leveres  uden   fceiskilt Betaling.</p>
+<p>For Genparter af Notarialakter, der allerede en Gang ere givne beskrevne, be-<lb />
+tales 40 Ø. for hvert halre Ark eller Del af famme, hvilken Betaling ogsaa erlægges<lb />
+for Bekræftelse af  Gjenparter   af   andre Dokumenter, der ere afsattede i det danske Sprog.</p>
+<title>Tredie Afsnit.</title>
+<undertitle>Om  Retsafgifterne i Straffesager.</undertitle>
+<title>I.</title>
+<undertitle>Om Afgifterne i straffesager, der paatalcs af Private i Henhold til Lou om Kttafferetspleien F 39.</undertitle>
+<wtitle>§ 72.</wtitle>
+<p>I Domsfager, der paatales i Henhold til Lov om Strafferetspleien § 39, har Anklageren<lb />
+at crlægge en Afgift af 2 Kr. for Anklagens Indgivelse til eller Fremsættelse for Retten<lb />
+samt   en lige Afgift  ved  Hovedforhandlingens Paabegyndelse.</p>
+<p>Reises der under en saadan Sag i Henhold til Lov om Strafferetspleien § 4 tillige<lb />
+Paastand paa Erstatning, erlægges de ovenanmeldte Afgifter efter den i § 6 fastsætte Maale-<lb />
+stok af Erstatningspåstandens Belsb, forsaavidt denne Beregning fører til en Høiere Afgift end<lb />
+den i foranstaaende Stykke foreskrevne.</p>
+<wtitle>§ 73.</wtitle>
+<p>For de i Lov om Strafferetsplelen § 449, 1ste og sidste Stykke, ommeldte Modfsgsmaal<lb />
+erlægges   Afgift   efter Reglerne  i henholdsvis §  13 og § 72.</p>
+<wtitle>§ 74.</wtitle>
+<p>I Tilfælde af Domssagens Paaanke til hoiere Ret bliver den i § 8 fastsætte Afgift<lb />
+at erlæggc af hver ankendc Part (jfr. dog § 77) ved Paaankens Anmeldelse eller det i<lb />
+Lov   om   Strafferetspleicn  §   379   ommeldte Andragendes Indgivelse.</p>
+<p>Samme Afgift erlægges for Berammelsen af Hovedforhandling.</p>
+<wtitle>§ 75.</wtitle>
+<p>For Anmeldelse og Behandling i det Hele af Befværing til Høierc Ret erlægges Afgift<lb />
+i Overensstemmelse med Reglen i § 24.</p>
+<wtitle>§ 76.</wtitle>
+<p>For Anhcrngiggjørelse og Behandling i det Hele af Andragender om ny Foretagelse af<lb />
+Domssagen ved samme Ret i Henhold til Reglerne i Lov om Straffcretspleien §§ 423—426<lb />
+jfr. § 455 erlæggcs under Et den i § 8 fastsætte Afgift. For selve Sagens fornyede Fore?<lb />
+tagelse erlægges ingen Afgift.</p>

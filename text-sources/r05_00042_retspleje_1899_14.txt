@@ -1,0 +1,44 @@
+36
+<pb n="42" />
+<h>
+<topmidle> 36 Kap. XI. Procesomk. og Rettergangsb.</topmidle>
+</h>
+<title>Kapitel XI.</title>
+<undertitle>Procesomkostninger og Rettergangsbøder.</undertitle>
+<wtitle>§ 112.</wtitle>
+<p>Enhver Part har at betale de Omkostninger, som foranlediges ved processuelle<lb />
+Skridt, der af ham begæres eller sættes i<lb />
+Bevægelse, dog med Forbehold af Ret til<lb />
+at fane dem erstattede af Modparten i Følge<lb />
+nedenstående Regler.</p>
+<p>Omkostningerne ved processuelle Skridt,<lb />
+som Retten anordner, kunne foreløbig kræves betalte enten af den Part, i hvis Interesse Retten anser det foretagne at være,<lb />
+eller af begge Parter i det Forhold, som<lb />
+Retten bestemmer.</p>
+<wtitle>§ 113.</wtitle>
+<p>Den tabende Part er pligtig at erstatte<lb />
+Modparten de ham ved Retssagen påførte<lb />
+Udgifter, forsåvidt ikke Parterne selv have<lb />
+truffet en anden Overenskomst, eller Retten<lb />
+i særlige Omstændigheder finder skellig Grund<lb />
+til at gøre Afvigelse fra denne Regel.</p>
+<p>Udgifter, der ikke have været hensigtsmæssige for Sagens forsvarlige Udførelse,<lb />
+erstattes ikke. Hvilke Udgifter der i det<lb />
+givne Tilfælde have været hensigtsmæssige,<lb />
+afgør Retten efter sit Skøn. Beløbet ansættes<lb />
+under Eet til en rund Sum, således at de<lb />
+virkelige Udgifter såvidt muligt erstattes<lb />
+fuldt ud.</p>
+<p>Den Omstændighed, at enkelte Søgsmålsgrunde eller Indsigelser forkastes eller<lb />
+enkelte Beviser anses ikke at oplyse Noget<lb />
+i Sagen, medfører ikke i og for sig, at de<lb />
+herpå anvendte Udgifter skulle som ikke<lb />
+fornødne udelukkes fra Erstatning.</p>
+<p>Når en Sag hæves, kan Retten efter<lb />
+Omstændighederne pålægge den ene Part<lb />
+helt eller delvis at erstatte Modparten<lb />
+dennes Sagsomkostninger eller bestemme, at<lb />
+hver af Parterne skal bære sine Omkostninger (Ophæve Omkostningerne).</p>
+<p>Har Sagsøgte lovlig tilbudt Sagsøgeren,<lb />
+hvad der kan tilkomme denne, bør Sagsøgeren erstatte Sagføgte Udgifterne ved den<lb />
+derefter følgende Del af Processen.</p>

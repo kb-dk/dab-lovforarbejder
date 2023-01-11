@@ -1,0 +1,64 @@
+506
+<pb n="90" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>506</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+vedkommende Underret de nærmere Bestemmelser om Måden, hvorpå den pågældende<lb />
+skal have Adgang til at ytre sig i Sagen og fremføre Beviser.
+</p>
+<wtitle>§ 383.</wtitle>
+<p>
+Tillader Retten, jfr. § 382, Sagsøgeren at tilstævne (adcitere) Trediemand for<lb />
+at få Dom over ham enten alternativt med eller tilsammen med Sagvolderen, udsættes Sagen så længe, som nødvendigt er, for at pågældende Trediemand på sædvanlig Måde kan stævnes til at svare som Sagvolder. De i §§ 377, 380 og 381 om<lb />
+Intervention givne Regler finder også Anvendelse med Hensyn til Tilstævning.
+</p>
+<wtitle>§ 384.</wtitle>
+<p>
+Nâr en Sag af vedkommende Underret er henvist til Domsbehandling for<lb />
+Landsret, kan Indtræden i Sagen eller Tilstævning kun finde Sted med Landsrettens<lb />
+Samtykke. Gives sådant Samtykke, kommer med Hensyn til den videre Behandling<lb />
+dette Kapitels Regler til Anvendelse.
+</p>
+<title>Kapitel 35.</title>
+<undertitle>
+Skriftlig Behandling af Sager ved Landsretterne i første Instans.
+</undertitle>
+<wtitle>§ 385.</wtitle>
+<p>
+I vidtløftige Regnskabssager og andre indviklede Retssager kan såvel den<lb />
+Underret, der leder Sagens Forberedelse, som Landsretten på ethvert Trin af Forhandlingerne for vedkommende Ret anordne skriftlig Behandling af Sagen. Når sådan Bestemmelse er truffet af Landsretten, kan den ikke påkæres eller påankes.<lb />
+Er Bestemmelsen taget af vedkommende Underret, kan Kære ske til Landsretten.
+</p>
+<wtitle>§ 386.</wtitle>
+<p>
+Hvor skriftlig Behandling er anordnet, iværksættes der under Ledelse af den<lb />
+Ret, for hvilken Sagen ved dens Overgang til skriftlig Behandling henstår, en Veksling imellem Parterne af Indlæg, ikke over to fra hver Side. En fortsat Skriftveksling tilstedes kun undtagelsesvis, hvor Sagens Beskaffenhed skønnes at gøre den nødvendig. Retten bestemmer Frister til Indlægenes Afgivelse, ligesom den og, hver Gang<lb />
+en Part har fremlagt Indlæg, bestemmer, om Modparten skal have Udsættelse til at<lb />
+svare derpå.
+</p>
+<p>
+Indlægene fremlægges i de dertil bestemte Retsmøder, men de skal 3 Dage<lb />
+forinden være Modparten meddelte, så at denne i Retsmødet kan udtale, om han vil<lb />
+svare yderligere.
+</p>
+<p>
+Til Afbenyttelse ved Udarbejdelsen af deres Processkrifter kan Parterne<lb />
+begære Udlån af det fremlagte; vil en af Parterne ikke tilstede, at Udlån i Original<lb />
+finder Sted, må han lade medfølge Genparter, som da bliver at bekræfte på Rettens<lb />
+Kontor, hvor der derhos bør gives Adgang til at efterse Originalerne.
+</p>
+<wtitle>§ 387.</wtitle>
+<p>
+I det Retsmøde, i hvilket det sidste Indlæg fremlægges, eller efter Omstændighederne i et senere berammet Retsmøde, tilstås der, for så vidt Bevisførelsen
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

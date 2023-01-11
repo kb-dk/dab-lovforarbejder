@@ -1,0 +1,50 @@
+129
+<pb n="132" />
+<leftside>
+<wtitle>§ 18.</wtitle>
+<p>I 4de Linie samme Forandring som i<lb />
+Forslag II.</p>
+<p>I 10de—12te Linie samme Forandring<lb />
+som i førstag II.</p>
+<wtitle>§ 20.</wtitle>
+<p>Paragrafen affattes således:</p>
+<p>Landsretternes.............</p>
+<p>(som i førstag I.)</p>
+<p>.............Samlingerne.</p>
+<p>Den.................</p>
+<p>(som i førstag II.)</p>
+<p>...............Vintermåne-</p>
+<p>derne.</p>
+<p>Fyens Landsrets særlige Afdeling holder<lb />
+Samlinger i Odense een Gang hver tredie<lb />
+Måned.</p>
+<p>De jydske Landsretters særlige Afdelinger<lb />
+holde Samlinger een Gang hver tredie Måned, dels ved Rettens Sæde, dels på andre<lb />
+Steder i Landsretskredsen, som fastsættes ved<lb />
+Bekjendtgjørelse af Justitsministeriet.</p>
+<p>Ved Bekjendtgjørelse af Justitsministeriet<lb />
+fastsættes Tiden for de Nævnte Samlingers<lb />
+Begyndelse, for den fjællandske Landsrets anden særlige Afdeling og de jydske Landsretters<lb />
+særlige Afdelinger tillige osv. som i førstag II.<lb />
+.... Samlingssteder.</p>
+<p>I de ovenmeldte Samlinger</p>
+<p>(som i Forflag II.)</p>
+<p>... fremdeles ved Samlinger udenfor Ret-</p>
+</leftside>
+<rightside>
+<wtitle>§ 18.</wtitle>
+<p>I   4de   Linie  samme   Forandring som i<lb />
+førstag II.</p>
+<p>2det Punktum affattes således:<lb />
+Foruden det iøvrigt fornødne Kontorpersonale ansættes ved den sjællandske Landsrets<lb />
+Retsskriverkontor 5 Fuldmægtige, af hvilke den<lb />
+ene særligt gjør Tjeneste ved Skriverkontoret<lb />
+for sø- og Handelssager, ved den jydske<lb />
+Landsret 2 og ved den fyenske 1 Fuldmægtig.</p>
+<wtitle>§ 20.</wtitle>
+<p>(som i førstag III.)</p>
+<p>Den jydske Landsrets særlige Afdeling holder Samling een Gang hver tredie Måned<lb />
+på de Steder i Landsretskredsen, som fastsættes ved Bekjendtgjørelse af Justitsministeren.</p>
+<p>...........den jydske Landsrets særlige Afdeling.................</p>
+<p>. . . . fremdeles for den  jydste Landsrets og</p>
+</rightside>

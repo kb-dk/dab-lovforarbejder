@@ -1,0 +1,42 @@
+64
+<pb n="70" />
+<h>
+<topmidle>64       Kap. XVI. Dokumenter.</topmidle>
+</h>
+<p>Dokumentet i et af Retten fastsat Retsmøde. Ubeføjet Undladelse heraf kan<lb />
+Retten i så Fald tillægge Virkning i<lb />
+Overensstemmelse med Grundsætningen i<lb />
+§ 90, sidste St. Det samme gælder også,<lb />
+når Vedkommende for at hindre Dokumentets Fremlæggelse har ødelagt det eller<lb />
+uden Nødvendighed givet det fra sig.</p>
+<p>Påstår vedkommende Part, at der i<lb />
+Dokumentet tillige indeholdes Oplysninger,<lb />
+som ere denne Sag uvedkommende, og som<lb />
+han ikke ønsker bekendtgjorte, bestemmer<lb />
+Retten, på hvilken Måde Dokumentet skal<lb />
+fremlægges.</p>
+<p>Nægter vedkommende Part at være i<lb />
+Besiddelse af det angivne Dokument, påhviler det den, som fordrer dets Fremlæggelse, at bevise hans Besiddelse deraf.</p>
+<wtitle>§ 191.</wtitle>
+<p>Tredjemand er pligtig til på Opfordring at fremkomme med Dokumenter,<lb />
+når vedkommende Part enten er Medejer<lb />
+af dem eller i øvrigt har en af Processen<lb />
+uashængig Ret til at benytte dem som Bevis<lb />
+for sine Rettigheder.</p>
+<p>Men selv hvor dette ikke er Tilfældet,<lb />
+skal Tredjemand være pligtig at bidrage til<lb />
+Sagens Oplysning ved at give Retten og<lb />
+Parterne Adgang til Benyttelse eller Besigtigelse af Dokumenter, der ere hans Rådighed undergivne, men dog kun, forsåvidt Dokumenternes Fremførelse ikke vilde<lb />
+kunne stade ham selv eller pådrage ham<lb />
+Udgifter eller betydelig Ulejlighed.</p>
+<wtitle>§ 192.</wtitle>
+<p>Den Part, der vil benytte et under<lb />
+Tredjemands Rådighed værende Dokument<lb />
+som Bevis, kan fremsætte Begæring om,<lb />
+at det må pålægges Tredjemand på<lb />
+Partens egen Bekostning at fremlægge Dokumentet. Sådan Begæring må indeholde<lb />
+en nøjagtig Opgivelse af de Fakta, der ved<lb />
+Dokumentet skulle bevises, samt nærmere<lb />
+Forklaring angående de Grunde, hvorfor<lb />
+Parten antager, at den opgivne Tredjemand er i Besiddelse af Dokumentet og<lb />
+pligtig at fremlægge det.</p>

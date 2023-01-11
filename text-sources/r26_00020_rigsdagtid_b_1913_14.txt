@@ -1,0 +1,111 @@
+2839
+<pb n="20" />
+<h>
+<coll>2839</coll>
+<topmidle>
+Bet. o. Lovf. om Rettens Pleje m. m.
+</topmidle>
+<colr>2840</colr>
+</h>
+<p>
+42.	Grenaa Købstad samt Nørre Herred og en Del af Sønder Herred med Æbeltoft<lb />
+Købstad samt Mols Herred og en Del af Sønder Herred.
+</p>
+<p>
+43.	Rougsø og en Del af Sønderhald Herred med Østerlisbjerg og en Del af Sønder-<lb />
+hald Herred.
+</p>
+<p>
+44.	Randers Købstad, Nørhald, Støvring og Galten Herreder.
+</p>
+<p>
+45.	Mariager Købstad, Gjerlev-Onsild Herreder (undtagen Glenstrup, Sønder-Onsild,<lb />
+Nørre-Onsild, Hvornum, Snæbum og Skjellerup Sogne) samt Hellum-Hindsted<lb />
+Herreder.
+</p>
+<p>
+46.	Hobro Købstad, Gislum og Rinds Herreder samt de 6 under Nr. 45 nævnte<lb />
+Sogne af Gjerlev-Onsild Herreder.
+</p>
+<p>
+47.	Løgstør Købstad, Aars-Slet Herreder, Nibe Købstad og Hornum Herred.
+</p>
+<p>
+48.	Aalborg Købstad, Aalborg Birk og Flesfeum Herred.
+</p>
+<p>
+49.	Nørresundby Købstad, Kjær Herred og Hvetbo Herred.
+</p>
+<p>
+50.	Sæby Købstad og Dronninglund Herred.
+</p>
+<p>
+51.	Frederikshavn Købstad, Horns Herred, Skagen Købstad og Læsø Birk.
+</p>
+<p>
+52.	Hjørring Købstad, Vennebjerg Herred og Børglum Herred.
+</p>
+<p>
+53.	Thisted Købstad, Hillerslev-Hundborg Herreder samt Øster og Vester Han<lb />
+Herreder.
+</p>
+<p>
+54.	Hassing-Refs Herreder.
+</p>
+<p>
+55.	Nykøbing M. Købstad, Morsø Herreder.
+</p>
+<p>
+56.	Skive Købstad og Sallinglands Herreder.
+</p>
+<p>
+57.	Viborg Købstad med Lysgaard og Hids samt en Del af Hovlbjerg Herred.
+</p>
+<p>
+58.	Fjends-Nørlyng og Middelsom-Sønderlyng Herreder.
+</p>
+<p>
+59.	Herning Købstad og Hammerum Herred.
+</p>
+<p>
+60.	Holstebro Købstad og Hjerm-Ginding Herreder.
+</p>
+<p>
+61.	Lemvig Købstad og Skodborg-Vandfuld Herreder.
+</p>
+<p>
+62.	Ringkøbing Købstad, Ulvborg-Hind Herreder og Bølling-Nørre Herreder.
+</p>
+<p>
+63.	Varde Købstad og Landjurisdiktion samt Øster og Vester Herreder.
+</p>
+<p>
+64.	Esbjerg Købstad, Skads Herred og Fanø Birk.
+</p>
+<p>
+65.	Ribe Købstad, Ribe Herred og Gjørding-Malt Herreder.
+</p>
+<title>
+[Redegørelse
+for
+Ændringer i Tavlen orer Politikredsene.*)
+</title>
+<p>
+Nr. 5. (Køge m. m) deles i a) Køge Købstad, Vallø Birk og Bjeverskov Herred med<lb />
+Bregentved-Gisselfeld Birk og b) Storeheddinge Købstad og Stevns-Fakse<lb />
+Herreder.
+</p>
+<p>
+Nr. 10. (Kalundborg m. m.) og
+</p>
+<p>
+Nr. 11. (Slagelse m. m.) deles i c) Kalundborg Købstad og Arts-Skippinge Herreder<lb />
+samt Samsø Birk, d) Slagelse Købstad med Antvorskov Birk og Løve Herred og<lb />
+e) Korsør Købstad og Landjurisdiktion, Skelskør Købstad, V. Flakkebjerg Herred<lb />
+og Holsteinborg Birk.
+</p>
+<underpage>
+<p>
+*) Numrene refererer sig til Tavlen efter Folketingets Vedtagelse.
+</p>
+</underpage>

@@ -1,0 +1,72 @@
+421
+<pb n="5" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>421</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+a.	Tinglæsningsvæsenet;
+</p>
+<p>
+b.	de Retsbetjentene ved Lov af 23. Januar 1862 angående Tiendevederlagets Berigtigelse påhvilende Forretninger;
+</p>
+<p>
+c. Udmeldelse af Syns- og Skønsmænd udenfor Retsplejen, for så vidt den ikke<lb />
+kan ske af Øvrigheden, jfr. § 213;
+</p>
+<p>
+d.	Formandsskabet i Landvæsenskommissioner overensstemmende med Lov af 30.<lb />
+December 1858 § 2,
+</p>
+<p>
+samt udenfor Københavns Byrets Område:
+</p>
+<p>
+e.	de ved Lov af 26. Maj 1868 om umyndiges Midlers Forvaltning § 7, jfr. Bekendtgørelse af 11. Maj 1869, og ved samme Lovs § 10 til Skifteretterne henlagte Forretninger, for så vidt Bogen om den borgerlige Retspleje ikke medfører Forandring heri;
+</p>
+<p>
+f.	Notarialforretninger.
+</p>
+<wtitle>§ 15.</wtitle>
+<p>
+Københavns Byret, som udgør Underret for København, består af en Formand og 20 andre Dommere. Af disse er to Fogder og to Skifteforvaltere. Byretten deles i 16 Afdelinger, som liver beklædes af en enkelt Dommer, der behandler<lb />
+og påkender de til Afdelingen henlagte Sager. Almindelige Regler om Forretningernes Fordeling mellem Afdelingerne fastsættes af Rettens Formand med Justitsministerens Billigelse. Indenfor de herved dragne Grænser foretages Fordelingen af<lb />
+Formanden, der tillige efter Forhandling med Rettens øvrige Medlemmer fordeler<lb />
+Afdelingerne mellem disse. Når det gøres fornødent, kan Formanden overdrage til<lb />
+et Medlem af Retten midlertidig eller i enkelte Sager tillige at udføre Forretninger<lb />
+i en anden Afdeling end den ham tildelte.
+</p>
+<wtitle>§ 16.</wtitle>
+<p>
+Til Københavns Byret hører et Skriverkontor samt et Pante- og Brevskriverkontor.
+</p>
+<p>
+Skriverkontoret, hvorunder Skriverforretningerne ved Byrettens forskellige Afdelinger samt Oppebørsel af og Regnskabsaflæggelse for Retsafgifter vedrørende<lb />
+Domssager og Skiftevæsenet hører, forestås af en Justitssekretær; der ansættes 21<lb />
+Fuldmægtige foruden det i øvrigt fornødne Kontorpersonale. Fogedforretninger og<lb />
+de til Skifteforvaltningen hørende Forretninger kan. for så vidt der ikke derved<lb />
+bliver Spørgsmål om Afgørelse af Tvistigheder, efter Dommerens Bestemmelse udføres af en Fuldmægtig eller en anden dertil af Byrettens Formand bemyndiget Person. To af Fuldmægtigene tillægges der under Benævnelsen Underfogder Bemyndigelse<lb />
+til på eget Ansvar at afsige de under Fogedforretninger forefaldende Kendelser, således at der med Hensyn til Påanke og Kære gælder de samme Regler som med<lb />
+Hensyn til vedkommende Dommere i Byretten, jfr. Kapitel 53.
+</p>
+<p>
+Pante- og Brevskriverkontoret, hvorunder Skøde- og Pantebøgernes Førelse<lb />
+hører, forestås af en Pante- og Brevskriver, og der ansættes 4 Fuldmægtige foruden<lb />
+det i øvrigt fornødne Kontorpersonale. Beslutninger vedkommende Bøgernes Førelse<lb />
+kan indenfor det af Pante- og Brevskriveren fastsatte Område tages af en Fuldmægtig på eget Ansvar. Tinglæsninger og Aflæsninger foregår ved de Afdelinger,<lb />
+som behandler borgerlige Domssager. Rettens Formand fastsætter Fordelingen med<lb />
+Justitsministerens Billigelse.
+</p>
+<p>
+Oppebørsel af og Regnskabsaflæggelse for Retsafgifter forestås for Fogedforretningernes Vedkommende af Fogderne og for Pante- og Brevskriverforretningernes<lb />
+Vedkommende af Pante- og Brevskriveren.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

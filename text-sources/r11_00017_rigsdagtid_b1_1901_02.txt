@@ -1,0 +1,84 @@
+2291
+<pb n="17" />
+<h>
+<coll>2291</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2292</colr>
+</h>
+<leftside>
+<wtitle>Til § 354.</wtitle>
+<p>297) ..Fogden" ændres til ..Syssel-<lb />
+manden." (6 Steder).</p>
+<wtitle>Til § 355.</wtitle>
+<p>Af Udvalget:</p>
+<p>298) „20 Kr." og „60 Kr." ændres til<lb />
+„25 Kr." og „75 Kr."</p>
+<wtitle>Til § 357.</wtitle>
+<p>Af Udvalget:</p>
+<p>299) Begyndelsesordene i 
+Stk. 3 „Ud-<lb />
+læg kan ikke gøres i det" ændres til:<lb />
+„Udlæg kan ikke gøres i ikke forfalden<lb />
+Tyende- eller Arbejdsløn og overhovedet<lb />
+ikke i det."</p>
+<wtitle>Til § 360.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>300) Under Nr. 1 ændres ..Lov 21de<lb />
+Marts 1874" til: „Lov af 21de Marts 1874."</p>
+<pt>Til Kap. XXXII.</pt>
+<p>301) I Overskriften ændres ..Proce-<lb />
+duren" til „Forhandlingen."</p>
+<wtitle>Til § 362.</wtitle>
+<p>302) „Fogden" ændres til „Syssel-<lb />
+manden." (2 Steder).</p>
+<wtitle>Til § 363.</wtitle>
+<p>303)	„Fogden" ændres til „Syssel-<lb />
+manden."</p>
+<wtitle>Til § 364.</wtitle>
+<p>304)	„Fogden" ændres til „Syssel-<lb />
+manden." (2 Steder).</p>
+<wtitle>Til § 365.</wtitle>
+<p>305)	„Fogden" ændres til „Syssel-<lb />
+manden." (3 Steder).</p>
+<p>306)	Sidste Punktum ændres til:<lb />
+„Om Foretagelsen af en saadan Under-<lb />
+søgelse skal altid gøres udtrykkelig Be-<lb />
+mærkning i Fogedbogen."</p>
+</leftside>
+<rightside>
+<wtitle>Til § 366.</wtitle>
+<p>307) „Fogden" ændres til „Syssel-<lb />
+manden." (2 Steder).</p>
+<wtitle>Til § 368.</wtitle>
+<p>308) „Fogden" ændres til „Syssel-<lb />
+manden."</p>
+<wtitle>Til § 369.</wtitle>
+<p>310)	„Fogden" ændres til „Syssel-<lb />
+manden."</p>
+<p>311)	„Protokollen" ændres til „Foged-<lb />
+bogen."</p>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>311) I L. 4 ændres „Kendelse" til<lb />
+„Afgørelse".</p>
+<wtitle>Til § 370.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>312)	Stk. 2 udgaar.</p>
+<wtitle>Til § 370.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>313)	I 1ste Stykke ændres „Fogden"<lb />
+til „Sysselmanden."</p>
+<p>Af Udvalget:</p>
+<p>314)	Stk. 3 affattes saaledes: „For<lb />
+saa vidt Parterne ikke møde ved eller med<lb />
+Sagførere, har Fogden at vejlede dem med<lb />
+Hensyn til, hvad de bør foretage til Vare-<lb />
+tagelse af deres Tarv under Forretningen."</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>Underændringsforslag til Udvalgets<lb />
+Ændringsforslag Nr. 314:</p>
+<p>315) „Fogden" ændres til „Syssel-<lb />
+manden."</p>
+</rightside>

@@ -1,0 +1,93 @@
+2215
+<pb n="64" />
+<p rend="page">64</p>
+<h>
+<coll>2215</coll>
+<colr>2216</colr><lb />
+<topmidle>Bilag til Bet. o. Lovf. om Rettens Pleje. </topmidle>
+</h>
+<title>
+Kapitel XXXII.<lb />
+</title>
+<undertitle>
+Eksekutionsforretningens Foretagelse og Proceduren under samme.<lb />
+</undertitle>
+<wtitle>
+§ 362.<lb />
+</wtitle>
+<p>
+Er det fornødne Eksekutionsgrundlag til Stede, og finder Fogden ikke i øvrigt<lb />
+noget til Hinder for at efterkomme Begæringen om Eksekution, berammer han en<lb />
+Tid til Forretningens Foretagelse, saa vidt muligt i Overensstemmelse med Dom-<lb />
+haverens Ønske.<lb />
+</p>
+<p>
+Eksekutionsforretningen skal i Reglen begynde paa Domfældtes Bopæl, med-<lb />
+mindre Fogden skønner, at der ifølge de foreliggende Omstændigheder er Anledning<lb />
+til Afvigelse herfra.<lb />
+</p>
+<p>
+Naar Dommen lyder paa Udlevering eller Afstaaelse af Ting, kan Eksekutions-<lb />
+forretningen begynde, hvor disse forefindes.<lb />
+</p>
+<p>
+Har Domfældte ingen Bopæl i Eiget, kan Eksekutionsforretningen begynde,<lb />
+hvor Domfældte antræffes, eller hvor Ting, som kunne tjene til Fyldestgørelse, forefindes.<lb />
+</p>
+<wtitle>
+§ 363.<lb />
+</wtitle>
+<p>
+Forretningen kan ikke fremmes, medmindre der under den gives behørigt<lb />
+Møde fra Domhaverens Side.<lb />
+</p>
+<p>
+Derimod kan den foregaa, selv om Domfældte ikke træffes til Stede. Dog<lb />
+skal i dette Tilfælde, hvis ingen anden fremtræder som befuldmægtiget til at give<lb />
+Møde for Domfældte, Fogden opfordre hans Hustru, Børn over 18 Aar, Tyende eller<lb />
+andre i hans Tjeneste staaende eller til Husstanden hørende voksne Personer, som<lb />
+ere til Stede, til at varetage hans Tarv under Forretningen. Ere saadanne ikke heller<lb />
+at antræffe, eller ere de uvillige til at optræde, rettes en lige Opfordring til hans<lb />
+Husvært, Principal, Husbonde, Læremester eller Arbejdsherre, for saa vidt nogen af<lb />
+disse er til Stede.<lb />
+</p>
+<wtitle>
+§ 364.<lb />
+</wtitle>
+<p>
+Forretningen begynder med, at Fogden opfordrer vedkommende til ved For-<lb />
+dringens Fyldestgørelse og de Domfældte til Last faldende Omkostningers Betaling at<lb />
+afværge Eksekutionens videre Fremgang. Sker dette ikke, skrider Fogden efter Dom-<lb />
+haverens nærmere Begæring til at foretage de fornødne Eksekutionshandlinger i Over-<lb />
+ensstemmelse med Kapitel XXXI.<lb />
+</p>
+<wtitle>
+§ 365.<lb />
+</wtitle>
+<p>
+Naar Domfældte ikke paaviser behørige Udlægsgenstande, er han efter Dom-<lb />
+haverens Begæring pligtig paa Fogdens Forlangende at aabne sine Værelser og Gem-<lb />
+mer, for at det kan ses, om heri indeholdes Genstande, som egne sig til Udlæg. I<lb />
+Vægringstilfælde, saavel som 'naar ingen træffes til Stede, der er i Stand til at efter-<lb />
+komme Forlangendet, kan Fogden skride til den fornødne Magts Anvendelse. I for-<lb />
+nødent Fald er Fogden ligeledes beføjet til at undersøge Domfældtes Person, hvis der<lb />
+er Grund til at antage, at han har skjult Værdigenstande paa sig. Dog kan en saa-<lb />
+dan Undersøgelse alene ske efter en af Grunde ledsaget Kendelse.<lb />
+</p>
+<wtitle>
+§ 366.<lb />
+</wtitle>
+<p>
+Skyldneren er pligtig under Eksekutionsforretningen paa Forlangende at op-<lb />
+give redelig og overensstemmende med Sandheden, hvad han ejer til Fyldestgørelse af<lb />
+Fordringen, samt i øvrigt at meddele alle i saa Henseende fornødne Oplysninger. Er<lb />
+Skyldneren ikke til Stede, kan Rekvirenten begære Forretningen udsat og med et af<lb />
+Fogden bestemt Varsel lade ham tilsige til Møde, hvilket af Rekvirenten kan forlanges<lb />
+afholdt paa Fogdens Kontor.<lb />
+</p>
+<p>
+Vægrer Skyldneren sig ved at fremkomme med Opgivelser og Oplysninger,<lb />
+eller undlader han uden lovligt Forfald at møde ved Forretningens Fortsættelse, kan<lb />
+Rekvirenten forlange ham hensat i simpelt Fængsel, indtil han opfylder sin Pligt i saa<lb />
+Henseende, dog ikke ud over 6 Maaneder.<lb />
+</p>

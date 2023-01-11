@@ -1,0 +1,171 @@
+2377
+<pb n="8" />
+<h>
+<coll>2377</coll>
+<topmidle>Tillæg B. (150).	Ordentl. Samling 1901-02. </topmidle>
+<colr>2378</colr>
+</h>
+<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
+<leftside>
+<wtitle>Til § 429.</wtitle>
+<p>
+1. Stk., L. 10: „§ 427" 1. „§ 557".
+</p>
+<wtitle>Til § 430.</wtitle>
+<p>
+L. 1: ,,§ 438" 1. „§ 568".
+</p>
+<wtitle>Til § 432.</wtitle>
+<p>
+1. Stk., L. 1: „Kap. XXXV." 1. „Kap. 50".
+</p>
+<wtitle>Til § 433.</wtitle>
+<p>
+L. 2: „§§ 368, 369 og 370" 1. „§§ 495,<lb/>
+496 og 497".
+</p>
+<wtitle>Til § 434.</wtitle>
+<p>
+1. Stk., L. 1: „§ 371" 1. „§ 498".
+</p>
+<wtitle>Til § 435.</wtitle>
+<p>
+L. 1: „§ 372" 1. „§ 499".
+</p>
+<wtitle>Til § 436.</wtitle>
+<p>
+L. 1: „§ 373" 1. „§ 500".
+</p>
+<wtitle>Til § 446.</wtitle>
+<p>
+1. Stk., L. 5: „Kap. VIII." 1. „Kap. 21".
+</p>
+<wtitle>Til § 449.</wtitle>
+<p>
+1. Stk., L. 5: ,,§ 446" 1. „§ 572".
+</p>
+<wtitle>Til § 450.</wtitle>
+<p>
+3. Stk., L. 2: „§ 445" 1. „§ 571".
+</p>
+<wtitle>Til § 452.</wtitle>
+<p>
+L. 2: „§ 451" 1. ,,§ 577".<lb/>
+L. 5: ,.§§ 453 og 454" 1. „§ 579".<lb/>
+L. 8: „Kap. XXXIII." 1. „Kap. 48".
+</p>
+<wtitle>Til § 460.</wtitle>
+<p>
+L. 1: „§ 459" 1. „§ 583".
+</p>
+<wtitle>Til § 472.</wtitle>
+<p>
+1.	Stk., L. 2: „§ 326" 1. „§ 453".
+</p>
+<p>
+2.	Stk., L. 1: „§ 326" 1. „§ 453".
+</p>
+<wtitle>Til § 473.</wtitle>
+<p>
+L. 2: „§ 327" 1. „§ 454".
+</p>
+<wtitle>Til § 474.</wtitle>
+<p>
+3.	Stk., L. 1: „§ 290" 1. „§ 408".
+</p>
+<p>
+3. Stk., L. 4: „Kap. XXV" 1. „Kap. 38".
+</p>
+<wtitle>Til § 476.</wtitle>
+<p>
+L. 1: „§ 363" 1. „§ 490".
+</p>
+<wtitle>Til § 479.</wtitle>
+<p>
+L. 2: „§§ 352 og 353" 1. „§§ 479 og 480".<lb/>
+L. 4: „§§ 365—373" 1. „§§ 492—500".
+</p>
+</leftside>
+<rightside>
+<wtitle>Til § 480.</wtitle>
+<p>
+L. 7: „§ 363" 1. „§ 490".
+</p>
+<wtitle>Til § 481.</wtitle>
+<p>
+1.	Stk., L. 6: „§ 94" 1. „§ 214".
+</p>
+<p>
+2.	Stk., L. 5: „§§ 94 og 95" 1. „§§ 214 og<lb/>
+215".
+</p>
+<p>
+3.	Stk., L. 4: „§ 95" 1. „§ 215".
+</p>
+<wtitle>Til § 486.</wtitle>
+<p>
+L. 2: „§ 481" 1. „§ 605".
+</p>
+<wtitle>Til § 487.</wtitle>
+<p>
+L. 4: „§ 486" 1. „§ 610".
+</p>
+<wtitle>Til § 489.</wtitle>
+<p>
+L. 4: „§ 487" 1. „§ 611".
+</p>
+<wtitle>Til § 499.</wtitle>
+<p>
+L. 2: „§§ 472—476" 1. „§§ 596—600".<lb/>
+L. 2—3:'§§ 480—481" 1. „§§ 604—608".<lb/>
+L. 3: „§§ 483—492" 1. „§§ 608—614".
+</p>
+<wtitle>Til § 500.</wtitle>
+<p>
+L. 3: „§ 459" 1. „§ 583".
+</p>
+<wtitle>Til § 505.</wtitle>
+<p>
+1. Stk., L. 1: „§ 503" 1. „§ 625".
+</p>
+<wtitle>Til § 506.</wtitle>
+<p>
+1. Stk., L. 1: „§ 503" 1. ,,§ 625".
+</p>
+<wtitle>Til § 507.</wtitle>
+<p>
+L. 3: „§§ 502 og 503" 1. „§§ 624 og 625".
+</p>
+<wtitle>Til § 509.</wtitle>
+<p>
+3. Stk., L. 2: „§ 508" 1. „§ 630".
+</p>
+<wtitle>Til § 517.</wtitle>
+<p>
+1. Stk., L. 1: „§ 575" 1. „§ 635".
+</p>
+<wtitle>Til § 518.</wtitle>
+<p>
+1. Stk., L. 1: „§ 515" 1. „§ 635".
+</p>
+<wtitle>Til § 519.</wtitle>
+<p>
+L. 2: „§ 515,, 1. „§ 635".
+</p>
+<wtitle>Til § 526.</wtitle>
+<p>
+L. 3: „Kap. XXXIII.—XXXVI." 1. „Kap.<lb/>
+48—51".
+</p>
+<wtitle>Til § 531.</wtitle>
+<p>
+L. 2: „§ 84" 1. „§ 204".
+</p>
+<wtitle>Til § 532.</wtitle>
+<p>
+L. 4: „Kap. XXV." 1. „Kap. 38".
+</p>
+</rightside>
+<signatur>
+Udvalgenes Betænkninger m. m.	150
+</signatur>

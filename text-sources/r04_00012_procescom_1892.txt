@@ -1,0 +1,41 @@
+12
+<pb n="12" />
+<h>4           Kap. II.   Retternes Virkekreds.</h>
+<p>førend den Handling, som Sigtelsen angår,<lb />
+blev forøvet.</p>
+<p>Ogsaa i andre Tilfælde end de ovenfor<lb />
+nævnte kan Landsretten, naar Overanklageren<lb />
+og Sigtede eller dennes værge derom ere</p>
+<p>enige, bestemme, at Nævninger skulle medvirke.</p>
+<wtitle>§ 7.</wtitle>
+<p>Ved Anvendelsen af Reglerne i §§ § og 6 kommer, naar Sigtelsen angår forsøg<lb />
+eller Meddelagtighed, den Straffebestemmelse<lb />
+i Betragtning, som vilde være anvendelig,<lb />
+hvis Forbrydelsen var fuldbyrdet, eller<lb />
+Sigtede var Gerningsmand.</p>
+<wtitle>§ 8.</wtitle>
+<p>Finder Forening af flere Straffesager<lb />
+Sted, og nogen af dem hører under Landøret eller kræver Nævningers Medvirkning,<lb />
+blive de alle at behandle og påkende henholdsvis for Landøret og med Nævninger.<lb />
+Forening af Sager mod flere Sigtede, som<lb />
+adskilte vilde høre under Landøret uden og<lb />
+under Landøret med Nævninger, bor dog<lb />
+kun finde Sted, naar særegne Grunde tale<lb />
+derfor.</p>
+<wtitle>§ 9.</wtitle>
+<p>Retten prøver i Embeds Medfør, om<lb />
+en Sag hører under dens Virkekreds, og<lb />
+om Nævninger skulle medvirke ved Påkendelsen. Er Domsforhandling ved Landøret begyndt, skal det dog ikke være nødvendigt at afvise Sagen, fordi det findes,<lb />
+at den burde have været anlagt ved Underret. Er Domsforhandling for Nævninger<lb />
+begyndt, kan disses Medvirkning efter Rettens<lb />
+Bestemmelse vedblive, selv om det findes, at<lb />
+Sagen burde have været foretagen uden<lb />
+Nævninger.</p>
+<wtitle>§ 10.</wtitle>
+<p>Til Landsrettens Virkekreds høre</p>
+<p>endvidere Afgørelser i Anledning af Påanke<lb />
+af eller Kæremål mod Underrettens Domme,<lb />
+Kendelser og Beslutninger.</p>
+<wtitle>§ 11.</wtitle>
+<p>Under højester et høre alle Afgørelser i Anledning af Påanke af eller<lb />
+Næremål mod Landsrettens Tomme, Kendel-</p>

@@ -1,0 +1,153 @@
+2819
+<pb n="53" />
+<h>
+<coll>2819</coll>
+<topmidle>
+Kommissionens Bem. t. Udk. t. L. om den borgerlige Retspleje.
+</topmidle>
+<colr>2820</colr>
+</h>
+<leftside>
+<p>
+selv foranledige Sagen udsat, indtil Kære-<lb />
+maalet er afgjort, hvorhos Hø]esteret kan<lb />
+tillægge Kæremaalet opsættende Virkning.<lb />
+Skulde det imidlertid hænde, at der alt var<lb />
+gaaet Dom i Sagen, inden Højesterets Af-<lb />
+gørelse faldt, og at denne sidste gik ud<lb />
+paa at tillade Interventionen, maatte Inter-<lb />
+venienten appellere Landsretsdommen til<lb />
+Annullation.<lb />
+</p>
+<p>
+Det tidligere Forslags § 372 afskar den<lb />
+egentlige Intervention og Tilstævning ube-<lb />
+tinget, saa snart mundtlig Realitetsprocedure<lb />
+var begyndt, medens den tillod Biinterven-<lb />
+tion paa ethvert Trin af Sagen. Nærvæ-<lb />
+rende Udkast gør heri den Forandring, at<lb />
+den som Regel afskærer al Intervention og<lb />
+Tilstævning fra det Øjeblik, Domsforhand-<lb />
+lingen er berammet, men paa den anden<lb />
+Side aabner Adgang til at intervenere senere,<lb />
+naar Retten dertil særlig giver sin Tilladelse.<lb />
+Man vil formentlig derved bedre fyldestgøre<lb />
+de Hensyn, der her maa være de bestem-<lb />
+mende, nemlig paa den ene Side, at hen-<lb />
+holdsvis begge Parter og Sagsøgte maa<lb />
+sikres imod det Besvær og den Forstyrrelse,<lb />
+det kan afstedkomme, at Interventionen<lb />
+eller Tilstævningen først kommer, efter at<lb />
+man er naaet saa vidt i Sagen, at Skrift-<lb />
+vekslingen er sluttet og Forberedelserne til<lb />
+Domsforhandlingen begyndte, og paa den<lb />
+anden Side, at det kan være undskyldeligt,<lb />
+at Intervenienten først optræder paa dette<lb />
+senere Stadium.<lb />
+</p>
+<p>
+Om de enkelte Paragrafer skal føl-<lb />
+gende bemærkes:<lb />
+</p>
+<wtitle>§ 226.</wtitle>
+<p>
+Om Betingelserne for Intervention jfr.<lb />
+§ 28. Det fremgaar deraf, at kun Rettens<lb />
+almindelige Kompetence er en Forudsætning<lb />
+for Interventionen, hvorimod denne ikke<lb />
+udelukkes derved, at vedkommende Ret<lb />
+hverken er Sagsøgerens eller Sagsøgtes<lb />
+Hjemting.<lb />
+</p>
+<p>
+Intervention kan kun finde Sted i første<lb />
+Instans. En anden Sag er, at den, der<lb />
+har interveneret i første Instans, kan an-<lb />
+vende Anke og Kære, jfr. § 230.<lb />
+</p>
+<wtitle>§ 229.</wtitle>
+<p>
+Naar det ikke her — som i det tid-<lb />
+ligere Forslag — udtrykkelig siges, at Par-<lb />
+terne ere berettigede til at forandre deres<lb />
+Paastande og Anbringender efter den An-<lb />
+ledning, som Interventionen giver, er Grun-<lb />
+den kun," at saadant er anset for selvfølgeligt.<lb />
+</p>
+<wtitle>§ 230.</wtitle>
+<p>
+Den Adgang til Anke og Kære, der her<lb />
+indrømmes, tilkommer kun den, der enten<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+uden Modsigelse eller i Kraft af Lands-<lb />
+rettens eller Højesterets Kendelse er accep-<lb />
+teret som Intervenient, ikke den, hvis<lb />
+Interventionsbegæring er blevet afvist ved<lb />
+en uomstødt Kendelse, saa lidt som nogen,<lb />
+der end ikke har forsøgt Intervention i<lb />
+første Instans (jfr. § 28).<lb />
+</p>
+<wtitle>§ 231.</wtitle>
+<p>
+Naar der her tales om den, der vil op-<lb />
+træde under Sagen for at „understøtte“ en<lb />
+af Parterne, tænkes der herved paa en<lb />
+Person, der ikke vil nedlægge nogen selv-<lb />
+stændig Paastand under Sagen, men er<lb />
+interesseret i, at Sagen mellem de to Parter<lb />
+faar et vist Udfald, eller at det i alt Fald<lb />
+konstateres, at det ikke beror paa Ikke-<lb />
+Opfyldelse af de ham paahvilende Forplig-<lb />
+telser, naar dette Udfald ikke naas. Retten,<lb />
+til hvis nærmere Afgørelse det er overladt,<lb />
+hvilken Adgang Biintervenienten skal have<lb />
+til at ytre sig og fremføre Beviser under<lb />
+Sagen, bør herved b. a. have for Øje, at<lb />
+det ikke er udelukket, at den Part, til<lb />
+hvis Understøttelse Biintervenienten op-<lb />
+træder, personlig kan være interesseret i<lb />
+at tabe Sagen, f. Eks. naar han som Ces-<lb />
+sionar derved kunde faa Regres over for<lb />
+den som Biintervenient optrædende solvente<lb />
+Cedent i Stedet for sit Krav paa den<lb />
+maaske insolvente Debitor (Sagsøgte).<lb />
+</p>
+<p>
+Biintervenienten er ikke berettiget til<lb />
+at anvende Anke eller Kære i Sagen ud<lb />
+over det, at han kan paakære en Kendelse,<lb />
+hvorved der nægtes ham Adgang til at<lb />
+ytre sig i Sagen eller føre Beviser.<lb />
+</p>
+<wtitle>§ 232.</wtitle>
+<p>
+For at saadan Adcitation kan finde<lb />
+Sted, er det en nødvendig Betingelse, at<lb />
+den Trediemand, der stævnes, er pligtig at<lb />
+svare for den Ret, ved hvilken Sagen verserer.<lb />
+</p>
+<wtitle>§ 233.</wtitle>
+<p>
+„Berammet“ vil sige „endelig beram-<lb />
+met“. Det vil derfor ikke udelukke Inter-<lb />
+vention eller Adcitation, at en Sag een<lb />
+Gang har været berammet, naar denne<lb />
+Berammelse under mellemkommende Rets-<lb />
+møder er opgivet, saa længe en ny Be-<lb />
+rammelse dog ikke har fundet Sted.<lb />
+</p>
+<p>
+Af de oven for under dette Kap. gjorte<lb />
+alm. Bemærkninger følger, at Retten kun<lb />
+bør give Tilladelse, hvor det baade er und-<lb />
+skyldeligt, at Interventionen eller Adcita-<lb />
+tionen ikke har fundet Sted tidligere, og<lb />
+dens Iværksættelse paa dette Stadium kan<lb />
+antages ikke at ville være til virkelig Ulempe<lb />
+for Retten og Parterne, noget, der kun<lb />
+undtagelsesvis vil være Tilfældet.
+</p>
+</rightside>

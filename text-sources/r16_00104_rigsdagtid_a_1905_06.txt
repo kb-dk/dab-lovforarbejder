@@ -1,0 +1,78 @@
+2111
+<pb n="104" />
+<h>
+<coll>
+2111
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2112
+</colr>
+</h>
+<p>
+Straf, Eksekutionskraft her i Riget, naar de ere forsynede med en af de i Anord-<lb />
+ningen angivne udenlandske Myndigheders Bevidnelse om at være udfærdigede i den<lb />
+Form, der fordres til Eksekution, samt om at have den Egenskab at give Adgang til<lb />
+Eksekution efter den udenlandske Lovgivning.
+</p>
+<p>
+Med Hensyn til Sverige har det sit Forblivende ved Lov af 19. Februar 1861.
+</p>
+<p>
+Udenfor de i denne Paragraf nævnte Tilfælde kan Eksekution ikke ske umid-<lb />
+delbart paa Grundlag af en udenlandsk Dom eller Kendelse.
+</p>
+<wtitle>§ 458.</wtitle>
+<p>
+Eksekution foretages af Underretsdommeren, der i denne sin Virksomhed be-<lb />
+nævnes Foged.
+</p>
+<p>
+Ved Eksekutionsforretningens Foretagelse har Fogden at sørge for, at tvende<lb />
+gode Mænd ere til Stede som Vidner. Disse ere tillige uden anden særlig Bemyn-<lb />
+digelse kompetente til at foretage de under Forretningen forefaldende Vurderinger og<lb />
+andre lignende Skøn. Skulde de ikke være i Stand til rettelig at anslaa de forekom-<lb />
+mende Genstande, har Fogden at tilkalde andre Mænd, som hertil ere skikkede. Saa-<lb />
+vel Vidnerne som de, der tilkaldes for at udføre Vurderinger, have i Fogedbogen<lb />
+at underskrive en Forsikring paa Tro og Love om, at de ville udføre Vurderingen<lb />
+efter deres bedste Overbevisning.
+</p>
+<p>
+Politiet er pligtigt paa Forlangende at understøtte Fogden, dersom han i sine<lb />
+Forretningers Udførelse møder saadan Modstand, som han ikke ved egen og Vid-<lb />
+nernes Hjælp tror at kunne overvinde, eller han af andre Grunde begærer Politiets<lb />
+Bistand.
+</p>
+<wtitle>§ 459.</wtitle>
+<p>
+Ingen Foged kan foretage Eksekutionsforretninger udenfor sin egen Rets-<lb />
+kreds, medmindre disse blot ere at anse som Fortsættelse af en i Retskredsen paa-<lb />
+begyndt Eksekution, i hvilket Tilfælde han i tilstødende Retskredse er kompetent til at<lb />
+foretage Eksekution i rørligt Gods. Dog er Fogden ikke pligtig at rejse længere end<lb />
+15 Kilometer ud over Grænserne af sin Retskreds.
+</p>
+<wtitle>§ 460.</wtitle>
+<p>
+Den, der vil have en Eksekution foretagen, skal for Fogden fremsætte sin Be-<lb />
+gæring herom, ledsaget af Udskrift af Dommen, Kendelsen eller Forliget eller af det<lb />
+originale Pantebrev eller Bodmeribrev, ligesom han ogsaa ved samme Lejlighed har<lb />
+at meddele alle de Oplysninger, som i øvrigt maatte være fornødne, for at Fogden<lb />
+kan tage Bestemmelse om Forretningens Berammelse.
+</p>
+<p>
+Begæringen skal, hvis Fordringen, bortset fra Sagsomkostninger og Renter,<lb />
+der ere paaløbne siden Sagens Begyndelse, overstiger 400 Kroners Værdi, være<lb />
+skriftlig. I andet Fald kan den fremsættes mundtlig for Fogden, som da har at tage<lb />
+den til Fogedbogen.
+</p>
+<p>
+Eksekution kan begæres under eet hos samme Skyldner efter forskellige Ekse-<lb />
+kutionsgrundlag.
+</p>
+<wtitle>§ 461.</wtitle>
+<p>
+Dommen eller Kendelsen maa være udfærdiget i lovmæssig Form. Er dette<lb />
+Tilfældet, vedkommer det ikke Fogden at undersøge eller afgøre, om Dommen eller<lb />
+Kendelsen maatte lide af saadanne Fejl eller Mangler, som kunde medføre en anden<lb />
+Afgørelse efter Anke eller Kære. Kun hvis Dommen eller Kendelsen ikke er udgaaet
+</p>

@@ -1,0 +1,42 @@
+50
+<pb n="56" />
+<h>
+<topmidle>50         Kap. XIV. Vidner.</topmidle>
+</h>
+<p>dog har Vidnet Adgang til Løsladelse mod<lb />
+sådan Sikkerhed, som Retten finder tilstrækkelig, og i intet Tilfælde må et Vidne<lb />
+i samme Sag holdes i Forvaring udover 6<lb />
+Måneder, uafbrudt eller sammenlagt. Sådan Tvangsanvendelse kan også i andre<lb />
+Tilfælde sinde Sted, når Vidnet gentagende<lb />
+udebliver.</p>
+<p>Kendelse, hvorved Bøde eller Erstatning<lb />
+er idømt et fraværende Vidne, kan omgøres,<lb />
+når Begæring derom fremsættes i det første<lb />
+Retsmøde, i hvilket Vidnet derefter giver<lb />
+Møde eller fremstilles, eller, hvis det ikke<lb />
+senere møder eller fremstilles, inden 8 Dage<lb />
+efter at Kendelsen er det forkyndt eller<lb />
+kommet til dets Kundskab.</p>
+<wtitle>§ 154.</wtitle>
+<p>Et Vidne, som anser sig for berettiget<lb />
+til i det Hele eller for en Del at nægte at<lb />
+vidne i den Sag, hvori eller for den Ret,<lb />
+hvortil han er indkaldt, må dog med den<lb />
+af § 153 flydende Indstrænkning møde efter<lb />
+Indkaldelsen og fremsætte sin Indsigelse til<lb />
+Påkendelse af Retten. Når det af Retten<lb />
+<title>sindes fornødent, må Vidnet oplyse Omstændigheder, af hvilke det kan ses, at Indsigelsen er grundet.</title></p>
+<wtitle>§ 155.</wtitle>
+<p>Vidner ere, om fornødent, pligtige til,<lb />
+forinden de møde i Retten, at styrte eller<lb />
+opfriske deres Kundskab om Vidneførslens<lb />
+Genstand ved at efterse deres Regnskabsbøger, Breve eller andre Optegnelser eller<lb />
+bese Genstande, hvortil de uden særlig Omkostning eller Besvær have Adgang, o. desl.,<lb />
+og denne Pligt kan af Retten særlig pålægges dem ved Indkaldelsen eller senere.</p>
+<wtitle>§ 156.</wtitle>
+<p>Forinden et Vidne afhøres om Sagen,<lb />
+stiller Dommeren de Spørgsmål til det,<lb />
+som findes fornødne for at forvisse sig om<lb />
+dets Identitet samt for at afgøre, om der<lb />
+er noget til Hinder for Vidnesbyrdets Modtagelse. Dommeren skal derefter alvorlig<lb />
+lægge Vidnet på Hjerte at følge Sandheden,   idet  han minder det om det Straf-</p>

@@ -1,0 +1,141 @@
+2879
+<pb n="40" />
+<h>
+<coll>2879</coll>
+<topmidle>Bilag til Bet. o. Lovf. om Rettens Pleje m. m.</topmidle>
+<colr>2880</colr>
+</h>
+<table>
+<tr>
+<td>
+Beregning<lb />
+1909.
+</td>
+<td>
+Beregning<lb />
+1912.
+</td>
+<td>
+Beregning<lb />
+1914.
+</td>
+<td>
+Bemærkninger.
+</td>
+</tr>
+<tr>
+<td>
+Overført...
+</td>
+<td>
+736,000<lb />
+</td>
+<td>
+745,500
+</td>
+<td>
+905,500
+</td>
+</tr>
+<tr>
+<td>
+14.	Udgifter til Politivæsenet (Statspoliti)
+</td>
+<td>
+650,000
+</td>
+<td>
+»
+</td>
+<td>
+297,700
+</td>
+<td>
+I de 297,700 Kr. er medregnet "en Udgiftsforøgelse af<lb />
+3,200 Kr. til Lønninger til Politidirektøren og Vice-<lb />
+politidirektøren i København samt en Udgiftsfor-<lb />
+mindskelse paa 5,500 Kr. i Anledning af Kystpoli-<lb />
+tiets Ophævelse (jfr. Lovforslagets § 117); der er<lb />
+saaledes regnet med en Udgiftsforøgelse af 300,000<lb />
+Kr. i Anledning af, at Statspolitiet tænkes udvidet<lb />
+med 102 Betjente til 150 Betjente. Udgifterne er i<lb />
+Øjeblikket ca. 155,000 Kr., jfr. Finansloven for Fi-<lb />
+nansaaret 1914—15 § 17 A. II. I., foruden Lønning<lb />
+til Politichefen. <lb />
+Saafremt Statspolitiet udvides til sin fulde Størrelse,<lb />
+200 Mand (jfr. Lovforslagets § 113), vil den samlede<lb />
+Udgift antagelig blive ca. 650,000 Kr., saaledes som<lb />
+paa Beregningerne af 1909 opført.
+</td>
+</tr>
+<tr>
+<td>
+15.	Tilskud til Københavns Politi........
+</td>
+<td>
+100,000
+</td>
+<td>
+»
+</td>
+<td>
+»
+</td>
+<td>
+16.	Delinkventomkostninger
+</td>
+<td>
+550,000	Kr.
+</td>
+<td>
+»
+</td>
+<td>
+»	
+</td>
+</tr>
+<tr>
+<td>
+I alt...
+</td>
+<td>
+2,036,000
+</td>
+<td>
+745,500
+</td>
+<td>
+1,203,200
+</td>
+</tr>
+<tr>
+<td>
+Herfra gaar Stigning af Retsafgifter .....
+</td>
+<td>
+»
+</td>
+<td>
+- 170,000
+</td>
+<td>
+- 170,000	
+</td>
+</tr>
+<tr>
+<td>
+I alt...
+</td>
+<td>
+2,036,000
+575,500
+</td>
+<td>
+1,033,200	
+</td>
+</tr>
+</table>
+<p>
+Omstaaende findes en paa Foranledning af Udvalgets Formand udarbejdet Oversigt over den aarlige Udgiftsforøgelse ved Proces-<lb />
+reformen efter Regeringsforslaget og efter Landstingsudvalgets Ændringsforslag.
+</p>

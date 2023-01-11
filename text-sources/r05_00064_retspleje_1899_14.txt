@@ -1,0 +1,46 @@
+58
+<pb n="64" />
+<h>
+<topmidle>58        Kap. XV. Syn og Skøn.</topmidle>
+</h>
+<p>Ting, der er Genstand for Forretningen, er<lb />
+udenfor Retskredsen.</p>
+<wtitle>§ 174.</wtitle>
+<p>Kun ubcrygtede Personer kunne udmeldes<lb />
+til Syns- eller Skønsmænd, hvorhos Personer, der ville være udelukkede fra at<lb />
+handle som Dommere i Sagen ifølge § 32<lb />
+Nr. 1 og 2, under ingen Omstændigheder<lb />
+må tilkaldes som Syns- eller Skønsmænd,<lb />
+og de øvrige i § 32 nævnte Personer kun<lb />
+forsåvidt det ikke er muligt at finde andre<lb />
+lige så gode.</p>
+<wtitle>§ 175.</wtitle>
+<p>Enhver, der er pligtig at vidne, er<lb />
+også pligtig at modtage Udmeldelse som<lb />
+Syns- eller Skønsmænd.</p>
+<p>Statens Embedsmænd og Bestillingsmænd fritages for Udmeldelse, når de ved<lb />
+Skrivelse fra de dem foresatte Myndigheder<lb />
+oplyse, at de ikke have den fornødne Tid,<lb />
+eller at Forretningens Foretagelse iøvrigt<lb />
+kommer i Strid med deres offentlige Pligter.<lb />
+Personer, for hvem Syns- eller Skønsforretningens Udførelse vilde medføre stort<lb />
+Besvær eller Ulempe, bør, forsåvidt Omstændighederne tillade det, forskånes for<lb />
+Udmeldelse.</p>
+<wtitle>§ 176.</wtitle>
+<p>Forsåvidt Personer ere beskikkede med<lb />
+almindelig Bemyndigelse til Foretagelsen af visse Syn eller Skøn, bør andre<lb />
+kun udmeldes hertil, når Henvendelse til<lb />
+hine vilde medføre en Forhaling, hvorved<lb />
+Øjmedet kunde forfpildes, eller når andre<lb />
+særegne Grunde gøre det tilrande ligt.</p>
+<p>Til Forretninger, ved hvilke der udkræves særegen Indsigt eller Færdighed,<lb />
+bør i Reglen kun udmeldes Mænd, der<lb />
+ifølge offentlig Stilling eller Livserhverv<lb />
+eller dog ifølge offentlig aflagte Prøver må<lb />
+anses for duelige hertil.</p>
+<wtitle>§ 177.</wtitle>
+<p>Enhver af Parterne kan gore Henstilling<lb />
+til Retten om Valget af Syns- eller Skøns<lb />
+mændene, men Retten er ikke bunden herved.</p>
+<p>Retten bør, forinden Udmeldelsesdekretet<lb />
+afsiges, meddele den eller de mødte Parter,</p>

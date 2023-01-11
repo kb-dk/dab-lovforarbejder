@@ -1,0 +1,73 @@
+649
+<pb n="233" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>649</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 982.</wtitle>
+<p>
+Retten afgør ved Kendelse, om Begæringen skal tages til Følge eller forkastes; tages den til Følge, går Kendelsen ud på, at ny Domsforhandling skal finde<lb />
+Sted. Dog kan Retten efter Omstændighederne, når den finder en Begæring om<lb />
+Genoptagelse til Fordel for Domfældte begrundet, og Overanklageren indvilliger deri,<lb />
+straks uden ny Domsforhandling afsige Frifindelsesdom eller Dom, hvorved en mildere<lb />
+Straffebestemmelse bringes i Anvendelse. Er Domfældte død, skal Retten altid uden<lb />
+ny Domsforhandling enten forkaste Begæringen om Genoptagelse eller afsige Dom.<lb />
+hvorved den ældre Dom ophæves.
+</p>
+<wtitle>§ 983.</wtitle>
+<p>
+Den nye Domsforhandling foregår ved den Landsret, som tidligere har dømt<lb />
+i Sagen. Den forberedes og fremmes overensstemmende med de almindelige om Domsforhandling for Landsret givne Regler; om Nævninger skal medvirke, bestemmes<lb />
+efter Reglerne i § 688. Ingen Dommer eller Nævning, som har gjort Tjeneste under<lb />
+den tidligere Sag, må medvirke ved den nye Domsforhandling.
+</p>
+<wtitle>§ 984.</wtitle>
+<p>
+Hvor Genoptagelse er tilstået alene efter Begæring af Domfældte eller nogen<lb />
+af de i § 941, 2det og 3die Punktum, nævnte Personer, må den nye Dom ikke i noget<lb />
+Punkt afvige fra den tidligere Dom til Skade for ham. I andre Tilfælde må sådan<lb />
+Afvigelse ikke ske for de Punkters Vedkommende, som ikke berøres af Genoptagelsesgrunden.
+</p>
+<wtitle>§ 985.</wtitle>
+<p>
+Mod en Kendelse af en Landsret, hvorved Genoptagelse er tilstået eller nægtet<lb />
+af en Sag, der kun ifølge Anke har været pådømt ved Landsretten, kan Kæremål ikke<lb />
+rejses, medmindre Justitsministeren undtagelsesvis meddeler Tilladelse hertil (§ 968,<lb />
+3die Stykke).
+</p>
+<wtitle>§ 986.</wtitle>
+<p>
+Begæring om Genoptagelse medfører ikke Udsættelse eller Standsning af<lb />
+Dommens Fuldbyrdelse, medmindre Retten bestemmer det modsatte; det samme gælder<lb />
+om Beslutning om Genoptagelse, der træffes i Henhold til § 976. Er Genoptagelse<lb />
+besluttet i Henhold til § 977, bliver Fuldbyrdelsen altid at udsætte eller standse, hvis<lb />
+Domfældte begærer det.
+</p>
+<wtitle>§ 987.</wtitle>
+<p>
+Er en udebleven Tiltalt blevet domfældt ved Landsretten i en Nævningesag<lb />
+uden overensstemmende med § 847 Nr. 3 at have samtykket i, at Sagen er blevet<lb />
+fremmet i hans Fraværelse, eller ved Underret, henholdsvis Sø- og Handelsretten, uden<lb />
+at Anke overensstemmende med Reglerne i Kapitel 83 står ham åben, kan han<lb />
+begære Sagen genoptaget til ny Forhandling, når han godtgør, at han har haft lovligt Forfald og ved ham utilregnelige Omstændigheder har været forhindret fra i Tide<lb />
+at anmelde dette, eller at Stævningen ikke betimelig er kommet til hans Kundskab.<lb />
+Begæringen må fremsættes inden sådan Frist som bestemt i § 948, jfr. § 949.<lb />
+Reglerne i §§ 979—982 og 985 finder herved tilsvarende Anvendelse.
+</p>
+<p>
+Udebliver Domfældte under den nye Domsforhandling, hæver Retten ved Kendelse Sagen, og den afsagte Dom bliver stående ved Magt.
+</p>
+<p>
+Under tilsvarende Betingelser, som i denne Paragrafs første Stykke angivet, kan<lb />
+Tiltalte begære Genoptagelse af en af ham rejst Ankesag, som er afvist på Grund af<lb />
+hans Udeblivelse.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.	86
+</title>

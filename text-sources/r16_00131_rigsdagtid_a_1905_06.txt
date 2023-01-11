@@ -1,0 +1,70 @@
+2165
+<pb n="131" />
+<h>
+<coll>
+2165
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2166
+</colr>
+</h>
+<wtitle>§ 568.</wtitle>
+<p>
+I opstaaede Tvistigheder forholdes der med Kendelses Afsigelse efter § 505.
+</p>
+<wtitle>§ 569.</wtitle>
+<p>
+Imod en sluttet Auktionsforretning kan der rejses Anke eller Kære overens-<lb />
+stemmende med de nærmere Bestemmelser herom i det følgende Kapitel.
+</p>
+<p>
+Kendelser, der afsiges under Auktionen eller Forberedelserne til denne, kunne<lb />
+først paaankes eller paakæres, efter at hele Auktionsforretningen er sluttet, jfr.<lb />
+dog § 551.
+</p>
+<wtitle>§ 570.</wtitle>
+<p>
+Anke eller Kære over Auktionsforretningen maa i Reglen rejses inden 4 Uger,<lb />
+efter at Auktionsforretningen er sluttet, eller, for saa vidt foregaaende Retshandlinger<lb />
+ere paaklagede for højere Ret, 4 Uger, efter at disse ere ophævede eller forandrede.
+</p>
+<p>
+Dog kan Anke eller Kære inden Forløbet af et Aar tillades paa samme<lb />
+Maade, som i § 515, 2det Stykke, er bestemt om Udlæg.
+</p>
+<title>Kapitel 50.</title>
+<undertitle>Retsmidlerne imod de til Dommes tvungne Fuldbyrdelse henhørende<lb />
+Fogedforretninger m. m.</undertitle>
+<wtitle>§ 571.</wtitle>
+<p>
+Klager over Fogedforretninger, som vedrøre selve den Fordring eller Ret, om<lb />
+hvis Fuldbyrdelse der er Spørgsmaal, gøres gældende ved Anke til den Landsret,<lb />
+under hvilken Fogden staar. Har den, der vil rejse saadan Anke, tillige Klager af<lb />
+den i denne Paragrafs 2det Stykke angivne Beskaffenhed, blive disse at inddrage<lb />
+under Anken.
+</p>
+<p>
+Klager, der alene angaa de processuelle Betingelser for Fogedforretningen eller<lb />
+den ved samme brugte Fremgangsmaade, gøres gældende ved Kære til den Landsret,<lb />
+under hvilken Fogden staar.
+</p>
+<wtitle>§ 572.</wtitle>
+<p>
+Under Ankesagen eller Kæremaalet er den for Fogden stedfundne Procedure<lb />
+ikke bindende, og der er endog intet til Hinder for. at ny Paastande fremsættes. Dog<lb />
+kunne Parterne ikke tilbagekalde de af dem for Fogden afgivne, Fogedbogen eller<lb />
+Auktionsbogen tilførte, Erklæringer med Hensyn til Sagens Sammenhæng.
+</p>
+<p>
+I øvrigt gælde de om Anke og Kære fra Underret til Landsret givne Regler<lb />
+med de Lempelser, der følge af Forholdets Natur.
+</p>
+<wtitle>§ 573.</wtitle>
+<p>
+Anke fra Landsret til Højesteret i de her omhandlede Tilfælde linder kun<lb />
+Sted, naar den Fordring, i Anledning af hvilken Eksekution er sket, har været Glen-<lb />
+stand for Landsrettens Afgørelse i første Instans eller dog ifølge sin Beskaffenhed i<lb />
+Tilfælde af Retstvist vilde henhøre under samme. Dog kan, om end Fordringen ikke<lb />
+er af den anførte Beskaffenhed, Højesterets Justitiarius i Forening med to af ham
+</p>

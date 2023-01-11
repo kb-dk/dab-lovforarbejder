@@ -1,0 +1,49 @@
+3823
+<pb n="230" />
+<h>
+<coll>3823</coll>
+<topmidle>Forsl. t. L. om Strafferetspleien.</topmidle>
+<colr>3824</colr>
+</h>
+<p>Er den Sigtede domfældt, bliver Udskrift af Dommen at forkynde ham, hvis han ikke<lb />
+var tilstede ved Afsigelsen; i andre Tilfælde meddeles der ham Udskrift paa Begjæring. af<lb />
+alle Domme tilftilles der Statsanklageren Udskrift.</p>
+<wtitle>§ 306.</wtitle>
+<p>Dommen skal, forsaavidt den ikke gaar ud paa Sagens Afvisning, enten domfælde<lb />
+eller frifinde.</p>
+<p>Frifindelse finder Sted, naar Anklageren ikke er paataleberettiget, naar Anklage fra-<lb />
+faldes, samt naar den Sigtede ikke findes skyldig.</p>
+<wtitle>§ 307.</wtitle>
+<p>Ved afgjørelsen af, om Noget er bevist eller ikke, har Retten, henholdsvis næv-<lb />
+ningerne, alene at tage Hensyn til de Beviser, som ere fremforte under Hovedforhandlingen;<lb />
+Aktstykker og andre Dokumenter kunne kun tages i Betragtning som Bevismidler, naar de ere<lb />
+blevne oplæste under denne.</p>
+<p>Iøvrigt er Argjørelsen ikke bunden ved Lovregler, men træffes ester fri, paa samvittig-<lb />
+hedsfuld prøvelse ar det Fremførte beroende Overbevisning.</p>
+<wtitle>§ 308.</wtitle>
+<p>Rettm kan lun omnfæloe for den eller de Forbrydelser, for hvilke Anklage paa lovlig<lb />
+Maade er reist. Denne Regel gjældcr ikke blot, forsaaridt Talen er om en anden Handling<lb />
+end den, der ligger til Grund for Auklagm. men ogsaa, med de i § 309 nævnte Und-<lb />
+tagelser, i Henseende til Anklagens Angivelse af de nærmcre Omstændigheder ved Handlingen<lb />
+og den i samme indeholdte Betegnelse af Forbrydelsens retlige Karakter.</p>
+<wtitle>§ 309.</wtitle>
+<p>Undtagelser fra de i § 308 ommeldte Begrænsninger for Domfældelsen finde Sted:</p>
+<p>1)  naar det eller de Lovbud,   som i Anklagen nævncs   til Hjemmel   for Paastanden<lb />
+om  Straf,   eller de den Sigtede betimelig meddelte Aktstykker   tydelig   vise,   at   den Maade,<lb />
+hvorpaa Anklagen er stilet, ikke udtrykker Anklagerens virkelige Mening;</p>
+<p>2)  ogsaa ellers, naar den Adgang   til Forsvar,   som den  Sigtede   har havt, uanset<lb />
+Afvigelsen fra Anklagen,  under   de   foreliggende Omstændigheder maa  betragtes som  fyldest-<lb />
+gjørende.    I Henhold hertil kan der   i Domfældelsen   afviges   fra   Anklagens   Betegnelse af<lb />
+Forbrydelsens retlige Karakter:</p>
+<p>a) naar Anklagen gaar videre end Domfældelsen, idet alle de begrebsmcessige Be-<lb />
+standdele af den Forbrydelse, paa hvilken Dommen lyder, indeboldes i den Forbrydelses Begreb,<lb />
+paa hvilken Anklagen lyder;</p>
+<p>b) naar der er saa nært Slægtskab mellem de Forbrydelser, paa hvilke Anklagen og<lb />
+Dommen lyder, at Afvigelsen i og for sig ikke kan medføre Forandring i Forsvarets Forud-<lb />
+sætninger, og der Iøvrigt ikke i det enkelte Tilfælde er Noget, som efter det angivne Syns-<lb />
+punkt udelukker Afvigelsen.</p>
+<title>Kapitel IV.</title>
+<undertitle>slrrlige Bestemmelser om Hovedforhmldlingeu for Nsstnmiger.</undertitle>
+<wtitle>§ 310.</wtitle>
+<p>Eflerat Donilneren, Anklageren og den Sigtedes beskikkede Forsvarer ere komne tilstede,<lb />
+lader Rettens Formand den Sigtede fore ind i Retssalen, angiver i Korthed den Sag, som</p>

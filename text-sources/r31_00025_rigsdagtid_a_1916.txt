@@ -1,0 +1,85 @@
+441
+<pb n="25" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>441</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<title>Tredie Afsnit.</title>
+<title>
+Anklagemyndigheden.
+</title>
+<title>Kapitel 10.</title>
+<wtitle>§ 99.</wtitle>
+<p>
+De offentlige Anklagere er Rigsanklageren, Overanklagerne samt de til disses<lb />
+Bistand beskikkede Mænd.
+</p>
+<wtitle>§ 100.</wtitle>
+<p>
+Rigsanklageren beskikkes af Kongen. Til midlertidig at fungere som Rigsanklager i Tilfælde af Embedsledighed eller Forfald kan Justitsministeren meddele<lb />
+Beskikkelse.
+</p>
+<p>
+Rigsanklageren virker ved Højesteret og fører Tilsynet med de offentlige Anklagere efter de nærmere Regler i nærværende Lov.
+</p>
+<p>
+Rigsanklageren har Embedskontor i København.
+</p>
+<wtitle>§ 101.</wtitle>
+<p>
+Til Bistand ved Udførelsen af Rigsanklagerens Hverv beskikker Kongen en<lb />
+Overanklager.
+</p>
+<p>
+Justitsministeren kan efter Forhandling med Rigsanklageren give også andre<lb />
+Bemyndigelse til at optræde i en enkelt Sag for Højesteret i Rigsanklagerens Sted.
+</p>
+<wtitle>§ 102.</wtitle>
+<p>
+For Østre Landsretskreds beskikker Kongen 3 og for Vestre Landsretskreds<lb />
+ligeledes 3 Overanklagere. Til midlertidig at fungere som Overanklager i Tilfælde af<lb />
+Embedsledighed eller Forfald kan Justitsministeren meddele Beskikkelse.
+</p>
+<p>
+Overanklagerne virker ved Landsretterne, Sø- og Handelsretten og Underretterne<lb />
+efter de derom i denne Lov givne Regler.
+</p>
+<p>
+Fordelingen af Forretningerne mellem Overanklagerne i hver Landsretskreds<lb />
+såvel som Stedet for deres Embedskontor bestemmes af Justitsministeren.
+</p>
+<p>
+Bemyndigelse til i en enkelt Sag at optræde for Landsretten i Stedet for eller<lb />
+sammen med Overanklageren kan efter Forhandling med denne gives af Justitsministeren.
+</p>
+<wtitle>§ 103.</wtitle>
+<p>
+Justitsministeren beskikker de fornødne Medhjælpere for Overanklageren.
+</p>
+<p>
+Rigsanklageren beskikker efter Forslag af Overanklageren Anklagere ved Sø-
+og Handelsretten og Underretterne, een eller efter Omstændighederne flere ved hver<lb />
+Underretskreds, til efter Pålæg af Overanklageren at udføre Tiltale for de nævnte<lb />
+Retter. Sådan Beskikkelse kan meddeles samme Mand for flere Underretskredse.
+</p>
+<p>
+Bemyndigelse til i en enkelt Sag at udføre Tiltale for Underretten eller Søog Handelsretten kan efter Forhandling med Overanklageren gives af Rigsanklageren.
+</p>
+<wtitle>§ 104.</wtitle>
+<p>
+Kun uberygtede, vederhæftige Mænd kan beskikkes til eller handle som<lb />
+offentlige Anklagere.
+</p>
+<p>
+Den, der beskikkes til Rigsanklager eller Overanklager, eller som bemyndiges<lb />
+til at optræde for Højesteret eller Landsretten i en enkelt Sag, skal fyldestgøre de
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.	60
+</title>

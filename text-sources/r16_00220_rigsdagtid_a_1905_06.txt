@@ -1,0 +1,69 @@
+2343
+<pb n="220" />
+<h>
+<coll>
+2343
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2344
+</colr>
+</h>
+<p>
+søgelsesrettens Retsbog eller Fængselsbestyrerens Bog. Er Begæringen støttet paa<lb />
+nogen saadan Grund som nævnt i § 943 Nr. 2, jfr. § 944 Nr. 2, maa den saa vidt<lb />
+muligt være ledsaget af Udskrift af en over den paagældende afsagt Straffedom. Ud-<lb />
+skrift af den tidligere Dom bør medfølge.
+</p>
+<wtitle>§ 947.</wtitle>
+<p>
+Findes i Begæringen ingen Grund opgivet, som efter Loven kan bevirke Gen-<lb />
+optagelse, eller findes de paaberaabte Omstændigheder eller Bevisligheder aabenbart<lb />
+betydningsløse, kan Retten straks ved Kendelse afvise Begæringen.
+</p>
+<p>
+Finder Retten ikke Anledning til saadan Afvisning, giver den, for saa vidt<lb />
+der ikke allerede med Begæringen er forelagt, den en Erklæring fra Modparten, som<lb />
+efter Omstændighederne skønnes fyldestgørende, denne Lejlighed til at udtale sig<lb />
+skriftlig eller mundtlig.
+</p>
+<wtitle>§ 948.</wtitle>
+<p>
+Finder Retten, at yderligere Oplysninger bør tilvejebringes, inden Afgørelse<lb />
+træffes om, hvor vidt Genoptagelse bør finde Sted, giver den, for saa vidt den ikke<lb />
+selv vil foranstalte disse tilvejebragte, de i saa Henseende fornødne Paalæg. Skulle<lb />
+Vidner eller Tiltalte afhøres, og vil Retten ikke selv modtage disses Forklaringer, sker<lb />
+Afhørelsen ved vedkommende Undersøgelsesret overensstemmende med Reglerne om<lb />
+retslig Forundersøgelse i Kapitel 72; Retten kan bestemme, at retslig Forundersøgelse<lb />
+skal finde Sted.
+</p>
+<p>
+Hvor Begæringen om Genoptagelse er støttet paa, at et saadant strafbart For-<lb />
+hold er begaaet, som nævnt i § 943 Nr. 2, jfr. § 944 Nr. 2, men en Straffesag, som<lb />
+derom er rejst, endnu ikke er afsluttet, bliver, om fornødent, Afgørelsen at udsætte,<lb />
+indtil saadan Straffesag er endt.
+</p>
+<p>
+Beslutninger vedrørende Forberedelsen af Forhandlingen af en Begæring om<lb />
+Genoptagelse kunne i lignende Omfang som bestemt for Ankesagers Vedkommende<lb />
+træffes af Landsrettens Formand.
+</p>
+<wtitle>§ 949.</wtitle>
+<p>
+Retten afgør ved Kendelse, om Begæringen skal tages til Følge eller for-<lb />
+kastes; tages den til Følge, gaar Kendelsen ud paa, at ny Domsforhandling skal finde<lb />
+Sted. Dog kan Retten efter Omstændighederne, naar den finder en Begæring om<lb />
+Genoptagelse til Fordel for Domfældte begrundet, og Overanklageren indvilliger den,<lb />
+straks uden ny Domsforhandling afsige Frifindelsesdom eller Dom, hvorved en mildere<lb />
+Straffebestemmelse bringes i Anvendelse, Er Domfældte død, skal Retten altid uden<lb />
+ny Domsforhandling enten forkaste Begæringen om Genoptagelse eller afsige Dom,<lb />
+hvorved den ældre Dom ophæves.
+</p>
+<wtitle>§ 950.</wtitle>
+<p>
+Den ny Domsforhandling foregaar ved den Landsret, som tidligere har dømt<lb />
+i Sagen. Den forberedes og fremmes overensstemmende med de almindelige om Doms-<lb />
+forhandling for Landsret givne Regler; om Nævninger skulle medvirke, bestemmes<lb />
+efter Reglerne i § 666. Ingen Dommer eller Nævning, som har gjort Tjeneste under<lb />
+den tidligere Sag, maa medvirke ved den ny Domsforhandling.
+</p>

@@ -1,0 +1,65 @@
+454
+<pb n="190" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>454</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 809.</wtitle>
+<p>
+Fremkommer der under Forundersøgelsen Oplysning om Omstændigheder, ifølge<lb/>
+hvilke Undersøgelsesdommeren skønner, at der vil blive Spørgsmål om at undlade<lb/>
+Påtale i Medfør af § 706, meddeler han Påtalemyndigheden Underretning herom,<lb/>
+ledsaget af fornøden Udskrift af Undersøgelsen. Indtil dens Beslutning indtræffer,<lb/>
+foretages der kun sådanne Undersøgelseshandlinger, som ikke tåle Ophold.
+</p>
+<p>
+Påtalemyndighedens Beslutning om Frafald af Forfølgning binder ikke den<lb/>
+overordnede Myndighed; dog må Forfølgningens Fortsættelse efter den overordnede<lb/>
+Myndigheds Beslutning finde Sted inden Udløbet af to Måneder, medmindre Betingelserne for Sagens Genoptagelse efter § 952 ere til Stede.
+</p>
+<wtitle>§ 810.</wtitle>
+<p>
+Er Forundersøgelse under een Sag iværksat mod flere Sigtede eller for flere<lb/>
+Forbrydelser, kan Betten, naar den finder, at Undersøgelsen for enkelte, men ikke alle<lb/>
+Sigtedes eller Forbrydelsers Vedkommende er fremmet i det Omfang, som Øjemedet<lb/>
+udkræver, for så vidt slutte Forundersøgelsen.
+</p>
+<p>
+Sluttes Forundersøgelsen for en eller nogle af de Forbrydelser, for hvilke den<lb/>
+samme Person er sigtet, kan Undersøgelsen af de andre Forbrydelser midlertidig<lb/>
+hvile, indtil Afgørelse for den eller de førstnævnte Forbrydelsers Vedkommende har<lb/>
+fundet Sted. når Påtalemyndigheden forlanger det og Sigtede ikke fordrer Fortsættelse.
+</p>
+<wtitle>§ 811.</wtitle>
+<p>
+Samtidig med at Tiltale rejses i en Sag, i hvilken Forundersøgelse har fundet<lb/>
+Sted, skal Påtalemyndigheden tilstille Undersøgelsesretten Meddelelse herom og om<lb/>
+ved hvilken Ret Tiltale er rejst.
+</p>
+<p>
+Er Sigtede fængslet, bør Undersøgelsesretten ved Forundersøgelsens Slutning<lb/>
+opgive Påtalemyndigheden en vis Frist, ved hvis Udløb Fængslingen vil blive hævet,<lb/>
+såfremt ikke inden den Tid enten Tiltale rejses, eller Oplysninger meddeles, som<lb/>
+findes at burde begrunde en Forlængelse af Fristen. På lignende Måde kan forholdes, hvor Spørgsmål opstår om Ophør af andre vedvarende Foranstaltninger.
+</p>
+<wtitle>§ 812.</wtitle>
+<p>
+I Sager om Oprejsning for uforskyldt Anholdelse eller om Erstatning for<lb/>
+uforskyldt Varetægtsfængsel eller Udståelse af uforskyldt Straf (jvf. § 965) tilvejebringer Undersøgelsesretten i Overensstemmelse med Reglerne i dette Kapitel de fornødne nye Oplysninger. Den, der kræver Erstatning eller anden Oprejsning, har Ret<lb/>
+til at forlange, at der skal foretages Afhøring af ham selv eller andre opgivne Personer.
+</p>
+<title>Fjerde Afsnit.</title>
+<title>
+Tiltale og Domsforhandling ved Landsret.
+</title>
+<title>Kapitel 74.</title>
+<undertitle>
+Iværksættelse af Tiltale og Forberedelse af Domsforhandling for Landsret i<lb/>
+Sager, ved hvis Pådømmelse Nævninger skulle medvirke.
+</undertitle>
+<wtitle>§ 813.</wtitle>
+<p>
+Tiltale rejses ved, at Amtmanden (i København Politidirektøren) under Indsendelse til Landsretten af en Udskrift af de i Sagen foretagne retslige Undersøgelser
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

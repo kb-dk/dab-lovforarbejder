@@ -1,0 +1,44 @@
+18
+<pb n="24" />
+<h>
+<topmidle>18    Kap. VII.    Retsmøder og Retsbøger.</topmidle>
+</h>
+<wtitle>§ 60.</wtitle>
+<p>Rettens Formand våger over, at Forhandlingen foregår med den tilbørlige<lb />
+Orden og Værdighed. Han er til den Ende<lb />
+berettiget til at afbryde og tilrettevise Parter, Vidner eller Andre, når de tillade sig<lb />
+upassende Udtalelser eller utilbørlige personlige Angreb. Vedbliver en Part hermed<lb />
+trods Tilrettevisning, kan Ordet fratages<lb />
+ham. Personer, der ved støjende eller anden<lb />
+utilbørlig Adfærd forstyrre Forhandlingerne<lb />
+eller tilsidesætte den Agtelse, som skyldes<lb />
+Retten, kunne udvises af Retssalen. Bliver<lb />
+Ordet frataget en Part eller bortfjernes<lb />
+han, kan Forhandlingen fortsættes, hvis<lb />
+Retten ikke finder en Udsættelse nødvendig.<lb />
+For Fornærmelser mod Retten eller<lb />
+nogen af de for samme Mødende, Uorden,<lb />
+hvorved Forhandlingerne førstyrres, eller<lb />
+Ulydighed mod Formandens Befalinger kan<lb />
+Retten (herunder også Fogedret og Skifteret) ved en Kendelse, der afsiges straks,<lb />
+pålægge Straf af Bøder indtil 40 Kr. eller<lb />
+simpelt Fængsel indtil 8 Dage.</p>
+<p>De Straffe, som pålægges i Henhold<lb />
+til denne Paragraf, medføre ingen Indskrænkning i Adgangen til at drage den<lb />
+skyldige til Ansvar efter Straffelovens almindelige Regler, hvor disse iøvrigt ere<lb />
+anvendelige.</p>
+<p>Politiet er forpligtet til uvægerlig og<lb />
+øjeblikkelig at yde Retten Bistand til Udførelse af denne Paragrafs Forskrifter.</p>
+<wtitle>§ 61.</wtitle>
+<p>De Forretninger, som i Følge denne<lb />
+Lov påhvile Rettens Formand, udføres,<lb />
+når Retten beklædes af en Enkeltdommer,<lb />
+af denne.</p>
+<wtitle>§ 62.</wtitle>
+<p>Angående alle Retshandlinger optages<lb />
+Beretning i Retsbogen.</p>
+<p>I Retsbogen indføres først Angivelse af:</p>
+<p>1)  Tiden og Stedet for Retsmødet,</p>
+<p>2)  Navnene på de Personer, der fungere<lb />
+som Dommere og Retsskriver,</p>
+<p>3)  Sagens Nummer med Parternes Navne,</p>

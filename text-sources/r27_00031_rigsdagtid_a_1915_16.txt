@@ -1,0 +1,70 @@
+2701
+<pb n="31" />
+<h>
+<coll>
+2701
+</coll>
+<topmidle>
+F. t. L.  Rettens Pleje.
+</topmidle>
+<colr>
+2702
+</colr>
+</h>
+<wtitle>§ 130.</wtitle>
+<p>
+Enhver Sagfører er berettiget til at have en autoriseret Fuldmægtig, der skal<lb />
+være en uberygtet Person, som har underkastet sig i det mindste den juridiske Fælles-<lb />
+prøve eller den tidligere eller nuværende juridiske Eksamen for ustuderede. Autorisa-<lb />
+tionen meddeles for Fuldmægtige hos Højesteretssagførere af Højesterets Formand,<lb />
+for Fuldmægtige hos Landsretssagførere af Formanden i vedkommende Landsret, for<lb />
+Fuldmægtige hos de Sagførere ved Underret, der har Kontor i København, af Formanden<lb />
+i Københavns Byret og for Fuldmægtige hos andre Sagførere ved Underret af Dommeren<lb />
+i den Retskreds, i hvilken vedkommende Sagfører har Kontor. De autoriserede Fuld-<lb />
+mægtige skal, saa længe de vil benytte Fuldmagten, have Bopæl i eller ved den Stad<lb />
+eller i den Retskreds, hvor deres Principal har Kontor.
+</p>
+<title>Kapitel 13.</title>
+<undertitle>
+Sagføreres Rettigheder og Pligter.
+</undertitle>
+<wtitle>§ 131.</wtitle>
+<p>
+Sagførerne er paa den Maade og med de Begrænsninger som i denne Lov<lb />
+bestemt eneberettigede til at udføre Retssager for andre. En Bemyndigelse<lb />
+til i eget Navn at indtale en Fordring eller anden Rettighed („Mandatarfuldmagt'')<lb />
+kan ikke give den, hvem Bemyndigelsen er givet, Ret til selv at møde i Sagen, naar<lb />
+han ikke vilde være berettiget til at give Møde som Sagfører for vedkommende Dom-<lb />
+stol i den paagældende Sag.
+</p>
+<p>
+Indgreb i Sagførernes Eneret, derunder indbefattet, at nogen uberettiget<lb />
+offentlig betegner sig som Sagfører, anses med Bøder fra 50 til 200 Kr., hvilken<lb />
+Straf, naar Forseelsen er sket gennem Proformaretshandler, ved hvilke det er givet<lb />
+Udseende af, at vedkommende optræder som Transporthaver, kan stige til 500 Kr.<lb />
+Overenskomster om, at Transportgiveren skal betale Bøden, er ugyldige, og det i<lb />
+Tilfælde af saadant Proformaværk tilsagte Vederlag for Udførelse af Sager kan ikke<lb />
+søges betalt samt kan, hvis det er erlagt, søges tilbage.
+</p>
+<wtitle>§ 132.</wtitle>
+<p>
+Ingen Sagfører er, bortset fra de Tilfælde, hvor han hertil kan beordres, plig-<lb />
+tig at paatage sig Udførelsen af en Retssag.
+</p>
+<wtitle>§ 133.</wtitle>
+<p>
+Sagførere er pligtige med Flid og Troskab at udføre de dem betroede For-<lb />
+retninger. De er pligtige at fremme de dem betroede Retssager med den Hurtighed,<lb />
+som Tilfældets Beskaffenhed tillader. De maa som en Følge heraf ikke forhale Sa-<lb />
+gerne ved unødvendige Udsættelser, grundløse Formalitetsindsigelser eller andre Ud-<lb />
+flugter. De skal afholde sig fra usømmelig Tale og Skrivemaade for Retten og efter-<lb />
+komme de Paalæg, som særlig gives dem af Retten i Medfør af denne Lov.
+</p>
+<wtitle>§ 134.</wtitle>
+<p>
+Ingen Sagfører maa kræve højere Betaling, end der skønnes billigt, for den<lb />
+Bistand og Tjeneste, han i saadan Egenskab yder ved Udførelse af Retssager.
+</p>
+<p>
+For øvrigt er det ikke forbudt at betinge sig højere Betaling for det Tilfælde
+</p>

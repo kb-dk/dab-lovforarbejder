@@ -1,0 +1,103 @@
+2835
+<pb n="18" />
+<h>
+<coll>2807</coll>
+<topmidle>
+Bet. o. Lovf. om	Rettens Pleje m. m.
+</topmidle>
+<colr>2808</colr>
+</h>
+<p>
+Nr. 7. (Hillerød m. m.) deles i: c) Hillerød Købstad med Frederiksborg Birk (undt.
+Ølsted Sogn), 21,369 Indb., og d) Kronborg vestre Birk, 14,620 Indb.<lb />
+</p>
+<p>
+Nr. 20. (Vordingborg m. m.) deles i: e) Vordingborg Købstad og Vordingborg søndre<lb />
+Birk, 19,113 Indb., samt f) Præstø Købstad og Vordingborg nordre Birk,<lb />
+12,600 Indb.
+</p>
+<p>
+Nr. 31. (Svendborg m. m.) deles i: g) Svendborg Købstad og Thorseng Birk, 16,505
+Indb., samt h) Ærøskøbing Købstad og Ærø Herred, 12,163 Indb.<lb />
+</p>
+<p>
+Nr. 47. (Silkeborg m. m.) deles i: i) Silkeborg Købstad og Silkeborg Birk, 17,989 Indb.
+samt j) Lysgaard m. fl. Herreder, 24,896 Indb.<lb />
+</p>
+<p>
+Nr. 67. (Læsø Birk) sammenlægges med Nr. 66. (Frederikshavn Købstad m. m.),<lb />
+30.805 Indb.
+</p>
+<p>
+Resultat: Forøgelse med 4 Retskredse og 3 Dommere samt en 3die Dommer paa<lb />
+Frederiksberg.]
+</p>
+<p>
+67) Den Lovforslaget vedføjede Tavle over Politikredsene affattes som neden-<lb />
+for angivet.
+</p>
+<title>
+Tavle over Politikredsene,
+jfr. Lovens § 109.<lb />
+</title>
+<title>
+Sjælland og Møen.
+</title>
+<p>
+1.	Frederiksberg Birk.
+</p>
+<p>
+2.	Københavns Amts nordre Birk.
+</p>
+<p>
+3.	Københavns Amts søndre Birk med Amager Birk.
+</p>
+<p>
+4.	Roskilde Købstad med Ramsø-Tune Herreder samt Lejre Herred.
+</p>
+<p>
+5.	KøgeKøbstad, Vallø Birk og Bjeverskov Herred med Bregentved-Gisselfeld Birk.
+</p>
+<p>
+6.	Helsingør Købstad med Kronborg østre Birk og Hellebæk Birk samt Hørsholm<lb />
+Birk.
+</p>
+<p>
+7.	Hillerød Købstad med Frederiksborg Birk (undtagen Ølsted Sogn) og Kronborg<lb />
+vestre Birk.		
+</p>
+<p>
+8.	Frederikssund Købstad og Horns Herred med Frederiksværk Købstad og Halsnæs<lb />
+Birk.
+</p>
+<p>
+9.	Holbæk Købstad og Merløse-Tudse Herreder samt Nykøbing S. Købstad og Drags-<lb />
+holm Birk.
+</p>
+<p>
+10. Kalundborg Købstad og Arts-Skippinge Herreder med Samsø Birk.
+</p>
+<p>
+11. Slagelse Købstad med Antvorskov Birk og Løve Herred.
+</p>
+<p>
+12.	Korsør Købstad og Landjurisdiktion, Skelskør Købstad, Vester Flakkebjerg Herred<lb />
+og Holsteinborg Birk.
+</p>
+<p>
+13.	Ringsted Købstad, Skjoldnæsholm og Svenstrup Birker, Sorø Købstad, Sorø Birk<lb />
+og Baroniet Holbergs Birk.
+</p>
+<p>
+14.	Næstved Købstad og Tybjerg Herred med Øster Flakkebjerg Herred.
+</p>
+<p>
+15.	Storehedinge Købstad og Stevns-Fakse Herreder.
+</p>
+<p>
+16.	Præstø Købstad og Vordingborg nordre Birk.
+</p>
+<p>
+17.	Vordingborg Købstad og Vordingborg søndre Birk med Stege Købstad og Møens<lb />
+Herred.
+</p>

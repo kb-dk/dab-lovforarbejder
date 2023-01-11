@@ -1,0 +1,47 @@
+3505
+<pb n="71" />
+<h>
+<coll>3505</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3506</colr>
+</h>
+<p>Forlangendets Indhold samt af Modpartens Paastand i denne Anledning. Den naermere<lb />
+Begrundelse og Udvikling foregaar mundtligt.</p>
+<p>I Reglen afsiges Kjendelse strax; men dersom det findes nodvendigt, kan Sagen ud-<lb />
+soettes, for at Retten kan raadslaa. Saadan Udsættelse bor dog altid være saa kort som<lb />
+mulig og ikke uden storfte Nodvendighed vare længere end til Næste Dag.</p>
+<p>Foregaar Bevishandlingen for en anden Ret end den, ved hrilken Sagen iøvrigt<lb />
+behandles, afgjores opstaaede Tvistigheder af hin.</p>
+<p>Iovrigt komme de i Kapitlet om Bevis givne normere Regler til Anvendelse.</p>
+<wtitle>§ 195.</wtitle>
+<p>Naar Bevisforelsen er endt, udtale Parterne sig endelig over Bevisførelsens Resultat<lb />
+samt over Sagen i det Hele, derunder ogiaa over Retsfpørgsmaalene i samme.</p>
+<p>Rettens Formand slutter Forhandlingerne saavel over Sagen i det Hele som over<lb />
+enkelte Punker, naar disse skjønnes at være tilstrækkeligt behandlede.</p>
+<p>Naar Parterne have udtalt sig, eller Formanden flutter Forhandlingerne, optages<lb />
+Sagen til Dom.</p>
+<title>Kapitel HI.</title>
+<undertitle>Om Nevis og Vevisførelse.</undertitle>
+<wtitle>§ 196.</wtitle>
+<p>Bevis kan fores baade direkte og indirekte. Alt, hvad der efter sin Natur er istand<lb />
+til at bidrage til Sagens Oplysning, kan benyttes som Bevis. Undtagelse helfra finder kun<lb />
+Sted, hvor Loven hjemler det.</p>
+<wtitle>§ 197.</wtitle>
+<p>Om Noget er bevist eller ikke, Afgjøres af Retten, uden at denne i sit skjøn herover<lb />
+er bunden eller begrcrnset ved andre Regler end dem. som Loven hjemler.</p>
+<wtitle>§ 198.</wtitle>
+<p>spørgsmaal om Bevisbyrden afgjores efter den hidtil gjældende Ret. Parterne<lb />
+kunne ikke fordre nogen forelobig eller soerskilt forudgaaende Bestemmelse af Retten om Ve«<lb />
+visbyrdens Fordeling, men maa felv Afgjøre, hvilke af de Omstændigheder, for hvilke Retten<lb />
+har fordret Bevis, det tilkommer dem at bevise, og i Overensstemmelse hermed begjane Ad-<lb />
+gang til at fore Bevis.</p>
+<wtitle>§ 199.</wtitle>
+<p>Er der imellem Parterne Strid, om en Skade er foraarsaget, eller hvilken Erstatning<lb />
+der skal gives, har Retten, naar den ifølge de Oplysninger, som foreligge eller indhentes<lb />
+(§ 264), maa anscs for at være istand hertil, at Afgjøre disse spørgsmaal efter et frit<lb />
+skjøn over alle i Betragtning kommende Omstændigheder. Erstatningen anstaas i Reglen<lb />
+til en rund Sum.</p>
+<wtitle>§ 200.</wtitle>
+<p>Retten har efter frit skjøn at afgjore, om og hvorvidt Domme, der i Straffesager<lb />
+ere ovelgaaede nogen af Sagens Parter, i den foreliggende Sag skulle anses for at afgive<lb />
+Bevis.</p>

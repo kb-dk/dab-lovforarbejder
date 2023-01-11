@@ -1,0 +1,62 @@
+502
+<pb n="<span class="result">238</span>" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>502</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+Borgerlige Retssager, som på den Dag, denne Lov træder i Kraft, svæve ved<lb/>
+en Underret udenfor København, blive at behandle til Ende og at påkende ved den<lb/>
+pågældende Underret uden Hensyn til Sagens Beskaffenhed eller Sagsgenstandens<lb/>
+Værdi. Borgerlige Sager, som til den angivne Tid svæve ved Hof- og Stadsretten, herunder Rettens Skiftekommission, eller Københavns Kriminal- og Politiret, gå efter<lb/>
+Reglerne i §§ 215—219 over enten til Østre Landsret eller Københavns Byret. Sager,<lb/>
+som svæve ved Landsoverretten i København eller Viborg, gå over henholdsvis til<lb/>
+Østre eller Vestre Landsret.
+</p>
+<wtitle>§ 1007.</wtitle>
+<p>
+Søgsmål efter Gældsbreve, med Hensyn til hvilke den i Forordningen af 25.<lb/>
+Januar 1828 hjemlede hurtige Retsforfølgning gyldig er vedtagen, blive, for så vidt<lb/>
+de ikke ifølge foregående Paragraf skulle behandles efter de hidtil gældende Regler,<lb/>
+at behandle efter de i Kapitel 40 givne Regler, som om disse vare påberåbte i<lb/>
+Gældsbrevet.
+</p>
+<wtitle>§ 1008.</wtitle>
+<p>
+I alle Tilfælde, hvor Behandlingen af en borgerlig Sag er foregået eller ifølge<lb/>
+§ 1006 skal foregå efter de hidtil gældende Regler, bliver der også med Hensyn til<lb/>
+Appel at forholde efter disse.
+</p>
+<p>
+Dog skal Appellen, for så vidt ikke Appelfristen udløber tidligere i Medfør af<lb/>
+den hidtil gældende Ret, iværksættes i det seneste inden 8 Uger at regne fra Dommens<lb/>
+Afsigelse eller, hvis Dommen er afsagt forinden Lovens Træden i Kraft, fra dette<lb/>
+Tidspunkt. Oprejsning kan dog bevilges overensstemmende med de hidtil gældende<lb/>
+Regler.
+</p>
+<wtitle>§ 1009.</wtitle>
+<p>
+På Fuldbyrdelsen af Domme i borgerlige Sager, som ere afsagte inden Lovens<lb/>
+Træden i Kraft, eller i Sager, hvis Behandling i Medfør af § 1006 er foregået efter<lb/>
+den hidtil bestående Ret, blive Reglerne i denne Lov at anvende med de af Forholdets Natur flydende Lempelser.
+</p>
+<p>
+Med Hensyn til Eksekution efter tinglæste Pantebreve med Pant i faste Ejendomme, der ere oprettede forinden Lovens Ikrafttræden, forholdes efter Lov om Udpantning m. m. af 29. Marts 1873 § 15, 1ste Stykke.
+</p>
+<wtitle>§ 1010.</wtitle>
+<p>
+Med Hensyn til foreløbige Sikringsmidler, som først bringes i Anvendelse efter<lb/>
+Lovens Træden i Kraft, blive dennes Regler i det hele at følge.
+</p>
+<wtitle>§ 1011.</wtitle>
+<p>
+Enhver, der forinden denne Lovs Træden i Kraft er belagt med Arrest på<lb/>
+Person, bør sættes i Frihed, for så vidt og så snart han ifølge nærværende Lovs<lb/>
+Bestemmelser ikke vilde kunne holdes i Gældsfængsel. Ligeledes bliver den Forhøjelse<lb/>
+af Underholdspenge, som fastsættes i § 614, efter Lovens Træden i Kraft at anvende<lb/>
+med Hensyn til allerede arresterede Skyldnere, dog at overfor disse den Virkning,<lb/>
+som er forbunden med Udeblivelse af de befalede Underholdspenges Betaling, ikke<lb/>
+skal indtræde førend en Uge, efter at vedkommende Arrestrekvirent ved Fogdens Foranstaltning er bleven underrettet om Forhøjelsen.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

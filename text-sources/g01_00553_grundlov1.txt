@@ -1,0 +1,151 @@
+1033
+<pb n="553">
+<pagename>553</pagename>
+<h>
+<coll>1033</coll>
+<colr>1034</colr>
+<lb/>
+</h>
+<leftside>
+<indexlist>
+Nei.<lb/>
+Christensen (Georg) af Kjøbenhavn.	Mynster.<lb/>
+Colding.	Neergaard.<lb/>
+la Cour.	Nielsen(H.C) af Tranberg.<lb/>
+David.	Nyholm.<lb/>
+van Dockum.	Olrik.<lb/>
+Eriksen.	Ostermann.<lb/>
+Flor.	Pape.<lb/>
+Funder.	Pedersen (P.) af Kjøbenhavn.<lb/>
+Gislason.	Petersen (B.) af Kjøbenhavn.<lb/>
+Gudmundsson.	Petersen (C.N.) af Hjørring.<lb/>
+Hage.	Pjetursson.<lb/>
+Hall.	Ploug.<lb/>
+Hemmerich.	Rasmussen (M.) af Herlusmagle.<lb/>
+Hensen (H.P.) af Kjøbenhavn.	Ræder.<lb/>
+Hensen (J.A.) af Kjøbenhaven.	Scavenius.<lb/>
+Mørk Hansen.	Schack.<lb/>
+Hansen (N.) af Eskelund.	Schiern.<lb/>
+Hastrup.	Schurmann<lb/>
+Hunderup.	Schytte.<lb/>
+Jacobsen.	Brinck-Seidelin.<lb/>
+Jespersen (C.M.) af Viborg.	Sidenius.<lb/>
+Johnsen.	Sigurdsson.<lb/>
+Kayser.	Cederfeld de Simonsen.<lb/>
+Krieger.	Skeel.<lb/>
+Larsen (J.E.) af Kjøbenhaven. Stockfleth.<lb/>
+Leth.	Tang.<lb/>
+Lüttichan.	Tobiesen.<lb/>
+Lützhöft.	Tvede.<lb/>
+Madsen.	Algreen-Ussing.<lb/>
+Mundt.	Ussing af Viborg.<lb/>
+Tage Müller.	Wegener.<lb/>
+Paluden-Müller.	Wulff.<lb/>
+Ja<lb/>
+Aagaard (G.) af Lolland.	Sehestedt-Juel.<lb/>
+Andresen.	Jungersen.<lb/>
+Andræ.	Jørgensen.<lb/>
+Vlack.	Kirk.<lb/>
+Bruun (M.P.) af Bruunshaab.	Køster.<lb/>
+Buntzen.	Larsen(C.) af Dalby.<lb/>
+Boisen.	Linnemann.<lb/>
+Christensen(Balthazar).	Lorck.<lb/>
+Christensen (J.) af Voldum.	Marckmann.<lb/>
+Christensen (H.) af Veistrup.	Møller (R.N.) af Draaby.<lb/>
+Dahl.	Møller af Flakkeberg.<lb/>
+Dahlerup.	Nielsen (N.R.) af Løserup.<lb/>
+Dinsen.	Nørgaard.<lb/>
+Dremsen af Kjøbenhaven.	Olesen.<lb/>
+Duntzfelt.	Ostenfeldt.<lb/>
+Fibiger.	Otterstrøm<lb/>
+Fløe.	Oxholm.<lb/>
+Frølund.	Petersen (C.) af Davinde.<lb/>
+Gram.	Pedersen (J.) af Sæding.<lb/>
+Grundtvig.	Pløyen.<lb/>
+Hansen (L.) af Bjelkerup.	Rasmussen (H.) af Egense.<lb/>
+Hansen (P.) af Abbetved.	Rasmusken (J.) af Svanninge.<lb/>
+Hasselbalch.	Schlegel.<lb/>
+Hermannsen.	Schroll.<lb/>
+Hiort.	Stender.<lb/>
+Hækkerup.	Thalditzer.<lb/>
+Høier.	Theilmann.<lb/>
+Jacobæus.	Tuxen.<lb/>
+Jespersen (F.) af Bogense.	Westergaard.<lb/>
+Johannsen (H.C.) af Østrup.	Winther.<lb/>
+Johannsen (F.) af Houby.	With.<lb/>
+Johansen (H.) af Knordrup.<lb/>
+
+</indexlist>
+</leftside>
+<rightside>
+<middle>
+Fraværende.<lb/>
+</middle>
+<indexlist>
+Bruun (P.D.) af Kjøbenhavn.	Jespersen af Grønnebjerggaard.<lb/>
+Buchvaldt.	Knuth.<lb/>
+Dremsen af Silkeborg.	Rée.<lb/>
+Gleerup.	Treschom.<lb/>
+Gregersen.	Tscherning.<lb/>
+von Haven.	Visby.<lb/>
+Holch.	Zeuthen.<lb/>
+Hvidt.	Ørsted.<lb/>
+</indexlist>
+<p>
+<speaker>Formanden:</speaker> Da der nu kun er 8 tilbage, som ønske at tale, <lb/>
+har jeg meent, at vi i et Aftenmøde kunne bringe Forhandlingerne<lb/>
+af Paragraphen tilende (Flere Stemmer: Ja! Ja! ) og jeg skal derfor anmode Forsamlingen om at møde i Aften Kl. 7.<lb/>
+</p>
+<signature>
+Mødet hævet.<lb/>
+</signature>
+<btitle>
+Sex og Fyrgetydende offentlige Møde.<lb/>
+(Det 49de Møde i den hele Række.)<lb/>
+Aftenmøde.<lb/>
+</btitle>
+<notedate>
+Løverdagen den 20de Januar.<lb/>
+</notedate>
+<p>
+Viceformanden Hvidt. indtog i Formandens og Viceformanden, Bruuns Fraværelse, Forfædet.<lb/>
+</p>
+<p>
+Forhandlingsprotocollen for forringe Møde (Formiddagsmødet) blev<lb/>
+oplæst.<lb/>
+</p>
+<p>
+<speaker>Pape:</speaker> Jeg skal efter Løfte fatte mig aldeles kort, idet jeg<lb/>
+blot andefaler det af mig efter Rigsdagsmanden for Maribo Amts<lb/>
+1 ste District (B. Christensen) optagne Forslag, der er stiller under<lb/>
+Nr. 9; ved at hevise til hvad der tidligere idag er yttret af de<lb/>
+ærde Rigsdagsmænd, for Præstø Amts 7de District (Barsod) og Skanderborg Amts 2det District (Schytte), som i det Hele have udtalt, <lb/>
+hvad jeg kunde have at sige. Jeg har nemlig optaget dette Forslag, <lb/>
+hovedsagelig fordi jeg torede ikke at burde komme ind paa, have man<lb/>
+kalder Realiteten af Forordningen af 23de Septbr og fordi jeg<lb/>
+troede, at naar man uden Bemærkning antager eller forkaster § 5, <lb/>
+saa vil man baade i og udenfor Salen blive antaget at stemme for<lb/>
+eller imod Forordningen af 23de Septbr. 1848; men paa den Maade, <lb/>
+hvorpaa den er kommen frem, har jeg ikke kunnet indlade mig paa<lb/>
+nogen af Delene og netop derfor har jeg maatter forbeholde mig det<lb/>
+Forslag, at Forordningen af 23de Septbr. udgaaer af Loven om almindelig Værnepligt. At saavel Comiteen som enkelite Rigsbagsmænd<lb/>
+her have stillet Forandringsforslag til enkelte af Paragrapherne i<lb/>
+Forordningen af 23de Septbr. 1848, det har jeg antaget, at Comiteen har været aldeles uberettiget til at gjøre, da den ikke har været<lb/>
+henviist fra Afdelingerne eller fra Forsamlingen til den, saaledes som<lb/>
+Tilfældet har været med alle andre Forslag; ja den har ikke engang<lb/>
+været henlagt paa Pladserne i Rigsdagssalen, Comiteen har saaledes, i det Hele taget, neppe dertil været berettiget; hvad de enkelte<lb/>
+Rigsdagsmænd derimod have gjort, maa vel blive deres egen Sag.<lb/>
+Forøvrigt har jeg kun at tilføie, at den høitagtede Justitsminister, <lb/>
+navnlig idag, har erklæret, at der ikke kan være Noget iveien for, at<lb/>
+tage Forordningen i dens specielle Dele under Behandling, og saaledes, som skeet er, at stille Forandringsforslag. Dette kan jeg ikke være<lb/>
+enig med ham i: at der Kan blive Spørgsmaal om at gaae ind paa<lb/>
+Forordningens Specialiteter, naar man ikke har den for sig; thi det<lb/>
+kunde dog vel ikke være Meningen, at man skulde gaae hen og kjobe<lb/>
+den i Bogladen, for at læse den her paa vore Pladser; da vi faae de<lb/>
+øvrige Sager, som behandles, saa skulde man vel ogsaa have faaet<lb/>
+den. Cultusministeren har vel med Kraft og Fynd sagt, at man<lb/>
+skulde kjende den, da den var offentlig kundgjort; dette er vel ogsaa<lb/>
+</p>
+</rightside>
+
+</pb>

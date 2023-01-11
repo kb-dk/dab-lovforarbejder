@@ -1,0 +1,56 @@
+3239
+<pb n="15" />
+<h>
+<coll>3239</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3240</colr>
+</h>
+<title>
+Hovedindholdet af de af Proceskommissionen<lb />
+af 1892 udarbejdede Lovudkast.*)
+</title>
+<p>
+1. Retterne. Højesteret foreslaas som hidtil beklædt med en Justitiarius og<lb />
+12 andre ordentlige Dommere. Desuden kan der udnævnes indtil 12 (ulønnede) over-<lb />
+ordentlige Dommere, der af Justitiarius kunne tilkaldes, naar der i en Sag ikke haves<lb />
+det fornødne Antal af de ordentlige Dommere til Raadighed. Antallet af de til Paa-<lb />
+kendelse af den enkelte Sag nødvendige Dommere skal være mindst 7 i Stedet for som<lb />
+nu mindst 9.
+</p>
+<p>
+Riget inddeles i 2 LandsretsJcredse, den ene omfattende Sjælland med Kjøben-<lb />
+havn, Lolland-Falster og Bornholm, den anden Jylland og Fyn. Landsretten for først-<lb />
+nævnte Kreds har sit faste Sæde i Kjøbenliavn og bestaar af en Justitiarius og 15<lb />
+andre Dommere; den jydsk-fynske Landsret har sit faste Sæde i Aarhus og bestaar af<lb />
+en Justitiarius og 12 andre Dommere. Begge Landsretter skulle have en eller flere<lb />
+rejsende Afdelinger, navnlig til Behandling af Straffesager, og disse Afdelinger skulle
+</p>
+<note rend="foot">
+<p>
+*) Den ker givne Oversigt angaar kun selve Udkastene, men ikke de i Bemærkningerne til Ud-<lb />
+kastene indeholdte Mindretalsforslag. Af saadanne findes navnlig følgende :<lb />
+af Klein (om den jydske Landsrets Henlæggelse til Viborg i Stedet for til Aarhus) se alin. Be-
+</p>
+<p>
+mærkn. til Udkast til Lov om Domsmagtens Ordning under 1.<lb />
+af Samme (om Ansættelse af særlige Retsskrivere) se samme Sted under 2.<lb />
+af Samme saavel som af Thomsen, af Nyholm og Oct. Hansen (om yderligere Begrænsning af
+</p>
+<p>
+Underretskredsenes Antal) se samme Sted under 3.<lb />
+af Oct. Hansen og Nyholm (om Højesterets Stilling med Hensyn til Udnævnelse af Højeste-<lb />
+rets- og Landsretsmedlemmer) se samme Sted, Bemærkn. til Kap. 2, under 1.<lb />
+af Ihomsen (om successiv Gennemførelse af den hele Reform) se samme Sted, Slutnings-<lb />
+bemærkningerne.
+</p>
+<p>
+af Oct. Hansen, N. J. Larsen og Nyholm (om en videregaaende Beskikkelse af Forsvarere og
+</p>
+<p>
+om disses Stilling) se Bemærkn. til Udkast til Lov om Strafferetsplejen ad § 48.<lb />
+af de samme (om Begrænsning af Varetægtsfængslets Anvendelighed) se samme Sted alm. Be-<lb />
+mærkn. til Kap. XVII ad 2.<lb />
+af de samme og Klein (om en videre Gennemførelse af Anklageprincipet for Forundersøgelsens<lb />
+Vedkommende) se samme Sted alm. Bemærkn. til 3die Afsnit.
+</p>
+</note>

@@ -1,0 +1,175 @@
+2365
+<pb n="2" />
+<h>
+<coll>2365</coll>
+<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
+<colr>2366</colr>
+</h>
+<leftside>
+<wtitle>Til § 60.</wtitle>
+<p>
+1. Stk., L. 2: ,,§ 55"1. „§ 56".
+</p>
+<p>
+1.	Stk., L. 6: „§ 48" 1. „§ 49".
+</p>
+<p>
+2.	Stk., L. 3: „§ 73" 1. „§ 74".
+</p>
+<wtitle>Til § 61.</wtitle>
+<p>
+L. 3: „§ 57" 1. „§ 58".
+</p>
+<wtitle>Til § 65.</wtitle>
+<p>
+1. Stk. L. 2: „§§ 81 ff." 1. „§§ 745 ff.".
+</p>
+<wtitle>Til § 67.</wtitle>
+<p>
+1. Stk., L. 3: „§ 54" 1. „§ 55".
+</p>
+<p>
+1.	Stk., L. 6: „§§ 60—63" 1. „§§ 61—64".
+</p>
+<p>
+2.	Stk., L. 2: „§§ 64 og 65" 1. „§§ 65 og 66".
+</p>
+<p>
+3.	Stk., L. 3: „§ 65" 1. „§ 66".
+</p>
+<wtitle>Til § 68.</wtitle>
+<p>
+L. 4: „§ 54" 1. „§ 55".
+</p>
+<wtitle>Til § 70.</wtitle>
+<p>
+L. 2: „§ 66" 1. „§ 67".
+</p>
+<wtitle>Til § 72.</wtitle>
+<p>
+L. 2: ,,§ 261" 1. „§ 926".<lb/>
+L. 5: „§ 63" 1. „§ 64".<lb/>
+L. 8: „§ 65" 1. „§ 66".
+</p>
+<wtitle>Til § 74.</wtitle>
+<p>
+L. 4: „§ 48 Nr. 6" 1. ,,§ 49 Nr. 6".
+</p>
+<wtitle>Til § 81.</wtitle>
+<p>
+2.	Stk., L. 3: „§ 93" 1. „§ 94".
+</p>
+<p>
+3.	Stk., L. 3: „§ 95" 1. „§ 96".
+</p>
+<wtitle>Til § 88.</wtitle>
+<p>
+L. 4: ,,§ 86, 3die Stykke" 1. ,,§ 87, 3die<lb/>
+Stykke".
+</p>
+<wtitle>Til § 93.</wtitle>
+<p>
+L. 7: „§ 96" 1. „§ 97".
+</p>
+<wtitle>Til § 104.</wtitle>
+<p>
+1. Stk., L. 2: „§§ 94, 99, 100 og 104" 1.<lb/>
+„§§ 95, 100, 101 og 104".
+</p>
+<p>
+1.	Stk., L. 5: „§ 100" 1. „§ 101".
+</p>
+<wtitle>Til § 113.</wtitle>
+<p>
+2.	Stk., L. 4: „Kapitel IV og V" 1. „Ka-<lb/>
+pitel 5 og 6".
+</p>
+</leftside>
+<rightside>
+<undertitle>
+Ændringsforslag
+til
+</undertitle>
+<p>
+2den Behandling af Forslag til Lov om<lb/>
+den borgerlige Retspleje.
+</p>
+<wtitle>Til § 2.</wtitle>
+<p>
+I Nr. 4 ændres: „§ 293, jfr. § 290" til<lb/>
+„§ 411, jfr. 408".'
+</p>
+<p>
+I Nr. 5 ændres: ,,§ 295" til „§ 413".
+</p>
+<p>
+I Nr. 6 ændres: „§ 314" til „§ 432".
+</p>
+<p>
+I Nr. 9 ændres: „§ 35" til ,,§ 699".
+</p>
+<wtitle>Til § 4.</wtitle>
+<p>
+I Nr. 1 ændres: „§ 84" til „§ 204".
+</p>
+<wtitle>Til § 8.</wtitle>
+<p>
+1. Stk., L. 1: .,§ 2", 1. ,,§ 123".<lb/>
+1. Stk., L. 3: ,,§ 85", 1. „§ 205".<lb/>
+1. Stk., L. 6: „§ 2, jfr. §§ 3, 4 og 5",<lb/>
+1. „§ 123, jfr. §§ 124, 125 og 126".
+</p>
+<wtitle>Til § 9.</wtitle>
+<p>
+1.	Stk., L. 4: „§ 2", 1. „§ 123".
+</p>
+<p>
+2.	Stk., L. 2: ,.§ 2", 1. „§ 123".
+</p>
+<wtitle>Til § 11.</wtitle>
+<p>
+L. 3: ,.Kap. XXVII, og XXVIII", 1. ,.Kap.<lb/>
+40 og 41".
+</p>
+<p>
+L. 3: „§§ 504 og 516", 1. ,.§§ 626 og 636".
+</p>
+<wtitle>Til § 28.</wtitle>
+<p>
+1. Stk., L. 3: ..Kap. XIX.", 1. „Kap. 32".
+</p>
+<wtitle>Til § 29.</wtitle>
+<p>
+L. 3: „Kap. XIX.", 1. „Kap. 32".
+</p>
+<wtitle>Til § 30.</wtitle>
+<p>
+L. 5: „Kap. XIX.", 1. „Kap. 32".
+</p>
+<wtitle>Til § 31.</wtitle>
+<p>
+L. 2: „§ 94", 1. „§ 214".
+</p>
+<wtitle>Til § 34.</wtitle>
+<p>
+1.	Stk., L. 1: „§ 32" 1. „§ 153".
+</p>
+<p>
+2.	Stk., L. 2: „§ 33" 1. „§ 154" og ,,§ 32"
+</p>
+<p>
+3.	1. „153".
+</p>
+<wtitle>Til § 48.</wtitle>
+<p>
+L. 1: „§ 44" 1. „§ 165".
+</p>
+<wtitle>Til § 69.</wtitle>
+<p>
+L. 3: „§ 72" 1. „§ 192".
+</p>
+<wtitle>Til § 71.</wtitle>
+<p>
+L. 1: „§ 69" 1. „§ 189".
+</p>
+</rightside>

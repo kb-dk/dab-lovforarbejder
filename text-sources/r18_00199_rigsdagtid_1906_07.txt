@@ -1,0 +1,64 @@
+4037
+<pb n="199"/>
+<h>
+<coll>4037</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>4038</colr>
+</h>
+<wtitle>§ 871.</wtitle>
+<p>
+Dommen skal, for saa vidt den ikke gaar ud paa Sagens Afvisning, enten<lb />
+domfælde eller frifinde.
+</p>
+<p>
+Frifindelse finder Sted, naar vedkommende Paatalemyndighed ikke er paatale-<lb />
+berettiget, naar Forfølgning frafaldes, naar Strafskylden er forældet, samt naar Til-<lb />
+talte ikke findes skyldig.
+</p>
+<p>
+Retten kan ikke domfælde for noget Forbold, der ikke omfattes af Tiltalen.
+</p>
+<p>
+Derimod er Retten ikke udelukket fra at benføre det paatalte Forbold under<lb />
+en anden Strafbestemmelse end den, Anklageren bar paastaaet anvendt, eller fra<lb />
+at afvige fra Tiltalen med Hensyn til de med Forbrydelsen forbundne Biomstændig-<lb />
+heder (Tid, Sted o. desl.), alt under Betingelse af, at det med Sikkerhed skønnes, at<lb />
+Tiltalte, ogsaa under Forudsætning af saadan Afvigelse fra Tiltalen, har haft fyldest-<lb />
+gørende Adgang til Forsvar. Finder Retten, at dette ikke er Tilfældet, eller nærer<lb />
+den Tvivl i saa Henseende, skal den, forinden dens afvigende Bedømmelse lægges til<lb />
+Grund for Domfældelsen, give Parterne Lejlighed til at udtale sig og efter Omstæn-<lb />
+dighederne tilstaa den til Varetagelse af Forsvaret fornødne Udsættelse.
+</p>
+<wtitle>§ 872.</wtitle>
+<p>
+Finder Retten, at Tiltalte ifølge Loven ikke kan straffes for et Forhold som<lb />
+det, i hvilket han ifølge den i Spørgsmaalene givne Beskrivelse af Gerningen og Næv-<lb />
+ningernes Svar paa disse er erklæret skyldig, afsiger den Frifindelsesdom. Finder den,<lb />
+at et Forhold som det, hvori Tiltalte er erklæret skyldig, efter Loven kun kan hen-<lb />
+føres under et mildere Straffebud, end Nævningernes Erklæring lyder paa, afsiger den<lb />
+Dom i Overensstemmelse hermed. Hører der til Gerningsindholdet af den mindre<lb />
+Forbrydelse, for hvilken der saaledes bliver Spørgsmaal om at domfælde Tiltalte, Om-<lb />
+stændigheder, om hvis Tilstedeværelse Nævningeerklæringen intet har afgjort, blive de<lb />
+til Afgørelse af dette Punkt fornødne Spørgsmaal først at forelægge Nævningerne.
+</p>
+<wtitle>§ 873.</wtitle>
+<p>
+I Sager angaaende Erstatning for uforskyldt Varetægtsarrest eller for ufor-<lb />
+skyldt Udstaaelse af Straf kommer foranstaaende Regler til Anvendelse med de for-<lb />
+nødne Lempelser. I Stedet for Spørgsmaal til Nævningerne om Tiltaltes Skyld, rettes<lb />
+Spørgsmaal paa, om Tiltalte efter det oplyste er berettiget til Erstatning, og paa,<lb />
+hvor stor denne bør være. Kun hvis mindst 8 Nævninger ere enige om, at der tilkommer<lb />
+Tiltalte Erstatning, vil der være at tilkende ham Erstatning. Denne tilkendes ham da<lb />
+med det største Beløb, hvorom mindst 8 Nævninger ere enige, saaledes at den Næv-<lb />
+ning, der stemmer for et større Beløb, ogsaa anses enig i det mindre Beløb, hvortil<lb />
+andre Nævninger have ansat Erstatningen.
+</p>
+<wtitle>§ 874.</wtitle>
+<p>
+I det Omfang, hvori Dommen er grundet paa Nævningernes Erklæring, ind-<lb />
+skrænke Domsgrundene sig til den fornødne Henvisning til denne. I øvrigt skulle,<lb />
+saafremt Tiltalte frifindes, de Straffen betingende Omstændigheder, som antages at<lb />
+mangle, eller de Straf udelukkende Omstændigheder, som antages at foreligge, angives,<lb />
+og de anvendte Lovbestemmelser anføres. Domfældes Tiltalte, skulle de Strafbestem-<lb />
+melser anføres, som bringes i Anvendelse.
+</p>

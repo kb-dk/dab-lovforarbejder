@@ -1,0 +1,51 @@
+3585
+<pb n="111" />
+<h>
+<coll>3585</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3586</colr>
+</h>
+<p>har han ikke bekjendt Bopæl eller Opholdssted, da til Underdommeren paa   det Sted,   hvor<lb />
+hans sidste bekjendte Bopæl eller Opholdssted er beliggende.</p>
+<p>Skriftlige Beviser for de Omstændigheder, ved hvilke Umyndiggørelsen skal begrundes,<lb />
+stulle saavidt muligt ledsage Andragendet. skjønnes yderligere Oplysninger fornødne, kan<lb />
+Nnderdommeren gjøre Vedkommende opmcerksom herpaa og opfordre ham til at tilveie-<lb />
+bringe dem, ligesom Underdommeren kan indkalde den, der søges umyndiggjort, til at møde for ham.</p>
+<wtitle>§ 411.</wtitle>
+<p>Er Andragendet udgaaet fra den, om hvis Umyndiggørelse der er Spørgsmaal,<lb />
+eller indvender han ikke Noget imod det, efterat han af Underdommeren er opfordret til<lb />
+at møde og erklære sig over det, Tilfælder det Underdommeren ifolge de foreliggende Oplysninger<lb />
+at afgjore, om der er tilstrækkelig Grund til Umyndiggørelsen, og i bekræftende Fald har<lb />
+han da at afsige endeligt Umyndighedsdekret, som ikke kan paaankes.</p>
+<p>I alle andre Tilfælde har Underdommeren at indsende Andragendet og de samme<lb />
+ledsagende Beviser i Forbindelse med saadan skriftlig erklæring, hvortil han maatte finde<lb />
+Grund, til Formanden for den Landsret, under hvilken han staar.</p>
+<p>Dersom Umyndiggjørelsesgrundene findes at være sandsynliggjorte ved de fremlagte<lb />
+Beviser, og der kan antages at være Fare forbunden med Opsættelse, kan Nnderdommeren<lb />
+strax forinden Indsendelsen til Landsretten afsige et forelobigt Umyndiggjørelsesdekret, der, da<lb />
+det strax træder i Kraft, bliver at thinglæse og Iøvrigt offentliggjore paa den Maade og med<lb />
+de Retsvirkninger, som Pl. 10de April 1841 bestemmer. Samtidig med Dekretets Afsigelse<lb />
+beskikker Underdommeren en forelobig værge.</p>
+<wtitle>§ 412.</wtitle>
+<p>Landsrettens Formand beskikker en Sagfører til at varetage dens Tarv, som søges<lb />
+umyndiggjort, hvis ikke en Sagfører anmelder sig som antagen af denne, og beramwer derefter<lb />
+mundtlig Forhandling af Sagen i et Retsmode, til hvilket begge Parter indkaldes ved For-<lb />
+anstaltning af Landsrettens Formand og med et af ham bestemt Varsel.</p>
+<wtitle>§ 413.</wtitle>
+<p>I Retsmodet bliver det, efterat Parterne have ytret sig, ved Rettens frie skjøn<lb />
+at afgjore, om endeligt Umyndiggjørelsesdekret skal afsiges paa Grundlag af de foreliggende<lb />
+skriftlige Beviser og Erklæringer, eller om en yderligere Bevisforelse behsves.</p>
+<p>Findes Andragendet om Umyndiggjørelse allerede efter de foreliggende Oplysninger at<lb />
+burde afvises som ugrundet, ophcever Landsretten det forelsbige Umyndiggjørelsesdekret, dersom<lb />
+et saadant maatte være afsagt af Underdommeren.</p>
+<wtitle>§ 414.</wtitle>
+<p>Skal yderligere Bevisforelse  foregaa,   berammer Landsretten  et senere møde hertil<lb />
+I dette maa Parterne  da fremstille de Vidner og skjønsmamd og fremkomme med</p>
+<p>de andre Beviser, som de formene at kunne benytte og  forskaffe.    Retten kan  indkalde den,</p>
+<p>der søges umyndiggjort, til personlig at møde for den.</p>
+<p>Derefter afgjor Retten efter et frit skjøn,   om   endeligt Umyndiggjørelsesdekret   skal</p>
+<p>afsiges, eller om Andragendet herom skal afvises.</p>
+<wtitle>§ 415.</wtitle>
+<p>Udebliver den, der andrager paa Nogens Umyndiggjørelse, i d? i §§ 413 og 414<lb />
+omhandlede Moder, afvises Sagen, dersom ikke Retten i Omstændighederne finder Grund til<lb />
+at udsætte den.</p>

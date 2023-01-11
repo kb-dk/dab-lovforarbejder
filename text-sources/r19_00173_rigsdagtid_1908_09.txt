@@ -1,0 +1,84 @@
+2483
+<pb n="173" />
+<h>
+<coll>2483</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2484</colr>
+</h>
+<p>
+Eftersøges bestemte Ting, bør, forinden Ransagning paabegyndes, vedkommende<lb/>
+opfordres til at udlevere eller paavise samme.
+</p>
+<p>
+Forefindes ved Ransagningen Ting, som skønnes at burde beslaglægges, for-<lb/>
+holdes med dem, som bestemt i foregaaende Kapitel. Med Hensyn til Papirer iagt-<lb/>
+tages Reglerne i § 735.
+</p>
+<p>
+Om Ransagning, der ikke iværksættes af Retten og tilføres Retsbogen, affattes<lb/>
+en Beretning, der medunderskrives af Vidnerne.
+</p>
+<p>
+Bliver Ransagningen uden Resultat, skal skriftlig Bevidnelse herom paa For-<lb/>
+langende meddeles den paagældende.
+</p>
+<wtitle>§ 744.</wtitle>
+<p>
+Ved Ransagnings Iværksættelse blive endvidere følgende Regler at iagttage:
+</p>
+<p>
+Al den Skaansel og Varsomhed, som Øjemedet tilsteder, skal udvises.
+</p>
+<p>
+Ved Nattetid bør Ransagning kun foretages, naar Øjemedets Opnaaelse af-<lb/>
+hænger deraf.
+</p>
+<p>
+Aabning med Magt af lukkede Adgange eller Gemmer bør kun finde Sted,<lb/>
+naar en Opfordring om at aabne har vist sig frugtesløs, eller der ingen er til Stede,<lb/>
+til hvem den kan rettes.
+</p>
+<p>
+Personlig Ransagning af en Kvinde skal ske ved ærbare Kvinder og ikke i Over-<lb/>
+værelse af Mænd, jvf. § 190.
+</p>
+<title>Kapitel 68.</title>
+<undertitle>
+Sigtedes Indkaldelse og Afhørelse for Retten.
+</undertitle>
+<wtitle>§ 745.</wtitle>
+<p>
+Den Sigtede, som befinder sig paa fri Fod, er pligtig efter lovlig Indkaldelse<lb/>
+personlig at møde for Retten til Afhørelse og i øvrigt, naar Loven kræver hans Nær-<lb/>
+værelse. Udeblivelse uden oplyst lovligt Forfald kan efter de nærmere i Loven givne<lb/>
+Regler medføre Anholdelse, Fængsling, Beslaglæggelse af Formuen eller Sagens Paa-<lb/>
+dømmelse i Sigtedes Fraværelse.
+</p>
+<wtitle>§ 746.</wtitle>
+<p>
+Sigtede er ordentligvis pligtig at møde for den Ret, ved hvilken Tiltale er<lb/>
+rejst eller Forundersøgelse indledet,
+</p>
+<p>
+Foregaar Forundersøgelse eller er Tiltale i en Politisag rejst i en anden Un-<lb/>
+derretskreds end den, i hvilken Sigtede bor eller opholder sig, kan dog Retten, naar<lb/>
+Sigtede begærer det eller udebliver, bestemme, at han skal møde til Afhørelse ved<lb/>
+Undersøgelsesretten (§ 677) i den Kreds, hvor han bor eller opholder sig.
+</p>
+<p>
+Hvor Sigtedes Helbredstilstand gør dette nødvendigt, bliver Retten at sætte paa<lb/>
+saadant Sted, som Omstændighederne udkræve.
+</p>
+<p>
+Retten bestemmer Indkaldelsesvarslet, hvor Loven ikke indeholder Forskrift herom.
+</p>
+<wtitle>§ 747.</wtitle>
+<p>
+For saa vidt Sigtede ikke under Møde for Retten af denne har faaet Paalæg<lb/>
+om yderligere Møde til bestemt Tid og Sted, bliver han at indkalde til Retsmøde ved<lb/>
+en efter Reglerne i Kapitel 16 forkyndt skriftlig Tilsigelse, der, hvor ikke andet er be-<lb/>
+stemt, udgaar fra den Ret, for hvilken Mødet skal finde Sted.
+</p>
+<p>
+Foruden Sigtedes Navn, og hvad der i øvrigt hører til hans nøjagtige Beteg-
+</p>

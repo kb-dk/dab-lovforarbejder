@@ -1,0 +1,65 @@
+494
+<pb n="230" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>494</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 977.</wtitle>
+<p>
+Ingen Dødsdom må fuldbyrdes, førend den af Justitsministeren har været<lb/>
+Kongen forelagt, og Kongen har besluttet ikke at benytte sin Benådningsret.
+</p>
+<p>
+Den Landsret, som har afsagt Dødsdommen, og Højesteret, når Dommen har<lb/>
+været påanket, skulle afgive Erklæring, hvorvidt der findes Grund til at anbefale<lb/>
+den domfældte til Benådning. Erklæringen indgives til Justitsministeren, når Ankefristen er udløben, eller Dommen er stadfæstet af Højesteret.
+</p>
+<p>
+I alle andre Straffesager, der have været behandlede ved Landsret, kan såvel Retten som Nævningerne, der have medvirket ved Sagens Behandling, gøre Indstilling til Justitsministeren om Domfældtes Benådning. De nærmere Regler om<lb/>
+Fremgangsmåden ved Udøvelsen af Nævningernes Adgang til at indstille til Benådning gives ved kgl. Anordning.
+</p>
+<wtitle>§ 978.</wtitle>
+<p>
+Fuldbyrdelsen af en Straffedom bliver at udsætte, når en svanger Kvinde er<lb/>
+dømt til Døden, eller når den, som skal udstå Livsstraf, Frihedsstraf eller legemlig<lb/>
+Straf, bliver afsindig eller overfaldes af en heftig Sygdom.
+</p>
+<p>
+Når en umiddelbar Udståelse af Straffen vilde medføre uforholdsmæssige,<lb/>
+uden for Straffens Øjemed liggende Følger for den pågældendes Velfærd eller væsentlige Ulemper for det Offentlige, kan Justitsministeren tilstede Udsættelse.
+</p>
+<p>
+Når den Ret, som har fældet Dommen, finder Grund til at indstille den<lb/>
+domfældte til fuldstændig Benådning eller til at benådes med at lide Straf af en<lb/>
+mildere Art, udsættes Straffens Fuldbyrdelse; det samme gælder, når Ansøgning<lb/>
+herom indgives af den domfældte, for så vidt ikke allerede tidligere en Ansøgning<lb/>
+er afslået. Hvorvidt en alt begyndt Fuldbyrdelse af Straffen skal standses på<lb/>
+Grund af Ansøgning om Benådning, afgør Justitsministeren.
+</p>
+<p>
+Med Hensyn til Udsættelse af Straffuldbyrdelsen ifølge Dom forbliver det ved<lb/>
+Reglerne i midlertidig Lov af 1. April 1905 om nogle Ændringer i Straffelovgivningen,<lb/>
+Kapitel 3, hvilke skulle gælde også ud over den ved bemeldte Lovs § 25 fastsatte Tidsgrænse. Dog skal den i Lovens § 20 i Slutningen ommeldte Kendelse med den<lb/>
+domfældtes Samtykke kunne afsiges af Underretten i den Retskreds, i hvilken han<lb/>
+bor eller opholder sig. Denne Kendelse afsiges efter foregående Undersøgelse, men<lb/>
+uden formelig Stævning eller Rettergang og kan ikke påkæres.
+</p>
+<wtitle>§ 979.</wtitle>
+<p>
+Hvorvidt en domfældt, der ikke tidligere er bleven fængslet, bør hensættes i<lb/>
+Varetægtsfængsel i det Tidsrum, som forløber, førend Straffen kan fuldbyrdes, eller<lb/>
+når Fuldbyrdelsen udsættes eller standses, afgøres af Stedets Underret, for så vidt<lb/>
+Forholdene ikke tilstede at afvente Beslutning af den Ret, der har afsagt Dom i<lb/>
+Sagen i første Instans; herved finde da Reglerne i andet Afsnit om Fængsling Anvendelse med fornøden Lempelse. På lignende Måde finde Reglerne i Kapitel 71<lb/>
+Anvendelse med Hensyn til Beslaglæggelse på Gods for Omkostninger og Erstatning,<lb/>
+efter at Dom er gået.
+</p>
+<p>
+Har den, som er dømt til Statsfængsel i over 2 År eller til Strafarbejde,<lb/>
+unddraget sig Straffens Fuldbyrdelse, kan Beslaglæggelse på hans Formue her i Riget<lb/>
+anordnes efter Reglerne om denne Forholdsregel i Kapitel 71. Er der efter Afsigelsen af Straffedommen hengået 10 År, kan Begæring til Retten herom kun fremsættes efter Justitsministerens Befaling. Foruden i de i § 779 Nr. 1 og 2 nævnte<lb/>
+Tilfælde bortfalder Beslaglæggelsen, når Benådning finder Sted; fremdeles bortfalder<lb/>
+den, når 10 År ere hengåede efter Straffedommens Afsigelse, medmindre Justitsministeren begærer den vedligeholdt.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

@@ -1,0 +1,31 @@
+0
+<pb n="3" />
+<title>Oversigt over Lovforslagets Ordning.</title>
+<title>Første Afsnit</title>
+<undertitle>Almindelige Bestemmelser.....................   §§ 1-109.</undertitle>
+<p>Kapitel I.</p>
+<p>Om Louens Virkekreds..............................................................        z§ 1—5.</p>
+<p>Kapitel II,</p>
+<p>Om Retternes Virkekreds............................................................ §§ 6-14.</p>
+<p>Kapitel III,</p>
+<p>Om de Tilfælde, hvor Rettens Personer som inhabile skulle eller kunne udelukkes fra eller fritages</p>
+<p>for at handle i Sagen.....................................................    §§ 15—22,</p>
+<p>Kapitel IV.</p>
+<p>Om de offentlige Anklagere..........................................................    §§ 23-30.</p>
+<p>Kapitel V.</p>
+<p>Om Påtalen....................................................................    §§ 31-42.</p>
+<p>Kapitel VI.</p>
+<p>Om den Sigtedes Forsvar...........................................................    §§ 43—59.</p>
+<p>Kapitel VII.</p>
+<p>Om Barnething,   Straffesagers  Forening   og   stedlige Grænser for Embedshandlinger i Straffe-</p>
+<p>retsplejen........................  .........................................    §§ 60-78.</p>
+<p>Enkelte Banething.........................................    §§ 60—69.</p>
+<p>Forening af Straffesager.....................................    §§ 70—75.</p>
+<p>III.<lb />
+Stedlige Grænser for Embedshandlinger i Strafferetsplejen........    §§ 76—78.</p>
+<p>Kapitel VIII.</p>
+<p>Om Retsmøder og Retsbøger.......................................................      §§ 79—92.</p>
+<p>Kapitel IX.</p>
+<p>Om Forkyndelser og andre fra Retten udgående Meddelelser..............................    §§ 93—104.</p>
+<p>Kapitel X.</p>
+<p>Om Rettens dømme, Kjendelser og andre Beslutninger.................................. §§ 105—109.</p>

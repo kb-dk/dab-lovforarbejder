@@ -1,0 +1,47 @@
+3583
+<pb n="110" />
+<h>
+<coll>3583</coll>
+<topmidle>Forsl. t.L. om den borgerlige Retspleie.</topmidle>
+<colr>3584</colr>
+</h>
+<wtitle>§ 404.</wtitle>
+<p>Indrsmmende ProceZerklæringer have ikke Virkning som bindende Grundlag for<lb />
+Stridssporgsmaalets Indhold og Omfang, men der kan alene Tillægges dem Betydning som<lb />
+Bevismidler.</p>
+<p>Udeblivelse, Tavshed eller ubestemte Erklæringer i de i § 97 omhandlede Tilfælde<lb />
+kunne tages i Betragtning som Bevismidler imod Paagjældende, men der kan iøvrigt ikke i<lb />
+og for sig Tillægges dem den i ommeldte Paragraf angivne Retsvirkning.</p>
+<wtitle>§ 405.</wtitle>
+<p>Parts Ed finder, affet fra de i §§ 402 og 403^rmhandlede Tilfælde, ikke Anven-<lb />
+delse i Wgtejkabssager.</p>
+<wtitle>§ 406.</wtitle>
+<p>Dom, grundet paa Sagsogtes Udeblivelse i Henhold til § 286, maa ikke afsiges i<lb />
+Wgteskabssager, men Sagsogtes Udeblivelse har til Folge, at Sagen udsættes, indtil der ved<lb />
+en af det Offentlige paa Sagfogerens Begjæring bestikket Sagfører gives møde for<lb />
+Sagsogte.</p>
+<wtitle>§ 407.</wtitle>
+<p>Hvor Annullation af et Zægtejkab flal finde Sted i offentlig Interesse uden Hensyn<lb />
+til Wgtefællemes eller Trediemands Paastand, er Anklageren kompetent til at optræde som<lb />
+Sagsoger paa det Offentliges Vegne.</p>
+<wtitle>§ 408.</wtitle>
+<p>I Sager, hvorunder en bortebleven Persons Arvinger ifolge Frd. 11te Septbr. 1839<lb />
+foge sig hans Formue tilkjendt enten til Frugtnydelse eller til Giendom, have Sagsogerne i<lb />
+Overensstemmelse med Grundsætningerne i §§ 401 og 406 at drage Omsorg for, at et<lb />
+Forsvar for den Borteblevne moder, ligesom de ere Pligtige til efter Rettens Anordning at<lb />
+fremstille sig for at afgive edelig Forklaring angaaende de Omstændigheder, paa hvilke Sagens<lb />
+Afgjørelse beror.</p>
+<title>Kapitel V.</title>
+<undertitle>Om den Fremgangsmaade, som ftal iagttages, naar Nogen ffal nmyndiggjøres<lb />
+eller Enke ssal slettes under fast Lavvmgemaal.</undertitle>
+<wtitle>§ 409.</wtitle>
+<p>Andragende om Umyndiggørelse kan fremfættes af Paagjældendes Wgtefælle, Slægt«<lb />
+ninge, værge, Kurator eller Lavværge.</p>
+<p>Derhos er i alle Tilfælde øvrigheden berettiget til gjennem Anklageren at andrage<lb />
+paa Nogens Umyndiggørelse, naar dette efter de Oplysninger, som enten fra Vedkommende<lb />
+selv, hans Sltrgt eller Venner eller paa anden Maade ere komne øvrigheden i Hcende, maa<lb />
+anses for rigtigt.</p>
+<p>Endelig kan Enhver selv andrage paa at blive umyndiggjort.</p>
+<wtitle>§ 410.</wtitle>
+<p>Andragende om Umyndiggjørelse indleveres'skriftlig til Underdommeren paa det Sted,<lb />
+hvor den Paagjældende, om hvis Umyndiggjørelse der er spørgsmaal, bor eller opholder sig;</p>

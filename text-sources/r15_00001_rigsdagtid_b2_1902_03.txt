@@ -1,0 +1,83 @@
+2089
+<pb n="1" />
+<p rend="page">1</p>
+<h>
+<coll>2089</coll><lb />
+<colr>2090</colr><lb />
+</h>
+<title>
+LXXXI.<lb />
+Betænkning<lb />
+</title>
+<undertitle>
+over<lb />
+Forslag til Lov om Rettens Pleje.<lb />
+(Afgiven af Landstingets Udvalg den 11. Maj 1903.)<lb />
+</undertitle>
+<leftside>
+<p>
+1ste Bog.<lb />
+</p>
+<p>
+I Anledning af et fra Handelsstanden<lb />
+i Kjøbenhavn fremkommet Ønske om at<lb />
+bevare Sø- og Handelsretten i Kjøbenhavn<lb />
+som en selvstændig Domstol, men med<lb />
+den Forandring i Rettergangsmaaden, som<lb />
+den ny Ordning indfører, har Udvalget<lb />
+taget under Overvejelse, om dette maatte<lb />
+kunne lade sig gøre uden væsentligt Brud<lb />
+paa de Grundsætninger, hvorpaa Lovfor-<lb />
+slaget om Rettens Pleje hviler. Eesultatet<lb />
+af disse Overvejelser er blevet, at Udvalget<lb />
+har troet at burde stille Ændringsforslag<lb />
+i den angivne Retning. Disse gaa ud<lb />
+paa, at Sø- og Handelsretten deles i to<lb />
+Afdelinger, af hvilke den første behandler<lb />
+de Sager, der ellers vilde være Landsrets-<lb />
+sager, altsaa væsentlig Sager, der dreje sig<lb />
+om Pengebeløb over 400 Kr., og ved denne<lb />
+Afdeling skulle de for Landsretterne gæl-<lb />
+dende Regler saavel om Proceduren som<lb />
+om Paaanke og Kære til Højesteret gælde;<lb />
+den anden Afdeling skal behandle de<lb />
+Sager, som ellers vilde være Underrets-<lb />
+sager, altsaa Sager under 400 Kr.s Værdi,<lb />
+og ved den skulle de for Underretsproce-<lb />
+duren gældende Regler med de simplere<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+og lettere Procesformer og med Domme-<lb />
+rens Vejledning gælde, og hvad angaar<lb />
+Paaanke og Kære med Hensyn til denne<lb />
+Afdelings Domme, har Udvalget ment, at<lb />
+Konsekvens maa kræve, at Reglerne om<lb />
+Underretsproceduren blive at anvende,<lb />
+saaledes altsaa, at Paaanke og Kære maa<lb />
+ske til Østre Landsret ligesom fra de<lb />
+andre Underretter i Kredsen, hvorimod<lb />
+man har troet, at det vilde passe mindre<lb />
+vel ind i Lovforslagets System, om Paa-<lb />
+anke og Kære rettedes til Sø- og Handels-<lb />
+rettens første Afdeling.<lb />
+</p>
+<p>
+Med Hensyn til Besættelsen af disse<lb />
+to Afdelinger har man for 1ste Afdelings<lb />
+Vedkommende foreslaaet omtrent den<lb />
+samme Fremgangsmaade i Henseende til<lb />
+Valget og Tilkaldelsen af sø- og handels-<lb />
+kyndige Dommere som nu, saa at der i<lb />
+de større Sager benyttes fire saadanne og<lb />
+i de mindre to. Til Formand for 1ste<lb />
+Afdeling foreslaas valgt en af Østre Lands-<lb />
+rets Dommere og til Formand for 2den<lb />
+Afdeling en af Kjøbenhavns Byrets Dom-<lb />
+mere, begge valgte af Kongen og uden<lb />
+Begrænsning i Henseende til Tid, da man<lb />
+gaar ud fra, at det er en af de Ting ved<lb />
+den nuværende Sø- og Handelsret, som<lb />
+</p>
+</rightside>

@@ -1,0 +1,80 @@
+2045
+<pb n="159" />
+<h>
+<coll>
+2045
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2046
+</colr>
+</h>
+<p>
+1)	de under de danske Domstoles Paakendelse hørende Forbrydelser, som be-<lb />
+gaas uden for Kongerigets Grænser, 
+</p>
+<p>
+2)	de Forseelser, som det tilkommer Politimesteren at paatale (§ 699), uden<lb />
+Hensyn til, om de paatales af ham eller af andre,
+</p>
+<p>
+3)	andre Forbrydelser, naar der mangler saadanne Oplysninger, som betinge<lb />
+Anvendelse af §  720.
+</p>
+<p>
+Danske i Udlandet ansatte Embedsmænd, der ikke ere det paagældende Lands<lb />
+Domsmyndighed undergivne, og de til de danske Gesandtskaber i fremmede Stater<lb />
+hørende Personer anses ved Anvendelsen af ovenstaaende Regel som havende Bolig i<lb />
+Kjøbenhavn, for saa vidt de ikke maatte have vedligeholdt Bolig noget andet Sted i<lb />
+Riget. Det samme gælder om andre danske Undersaatter, som ikke kunne sagsøges i<lb />
+det Land, hvor de have Bopæl.
+</p>
+<wtitle>§  723.</wtitle>
+<p>
+I de i § 722 ommeldte Tilfælde kan Sagen ogsaa forfølges ved den Ret, i hvis<lb />
+Kreds Sigtede er bleven paagreben.
+</p>
+<wtitle>§  724.</wtitle>
+<p>
+Forbrydelser, hvis Paatale efter § 729 kan ske under een Sag, kunne under eet<lb />
+forfølges ved enhver Ret, som er Værneting for nogen af de paagældende Forbrydelser.<lb />
+Hører nogen af de Forbrydelser, mellem hvis Værneting Valg haves, for Underretten,<lb />
+medens en eller flere andre høre under Landsrettens Paakendelse, træder i Under-<lb />
+rettens Sted den Landsret, til hvis Kreds den hører.
+</p>
+<wtitle>§  725.</wtitle>
+<p>
+Sager mod en Forening til dens Ophævelse i Medfør af Grundloven af 28de<lb />
+Juli 1866 § 87 forfølges ved den Ret, i hvis Kreds Foreningen eller dens Bestyrelse<lb />
+har sit Sæde, eller, naar saadant ikke med Sikkerhed kan udfindes, hvor et af Be-<lb />
+styrelsens Medlemmer bor.
+</p>
+<p>
+Sag til Stadfæstelse af de i Lov af 3die Januar 1851 § 14, jfr. § 15, omhand-<lb />
+lede Forbud forfølges ved den Ret, i hvis Kreds Forbudet er nedlagt.
+</p>
+<p>
+Paa Sager, hvorunder Paastand alene nedlægges om nogen af de øvrige i § 670<lb />
+omhandlede Følger, finde Reglerne i §§ 720—723 tilsvarende Anvendelse.
+</p>
+<wtitle>§  726.</wtitle>
+<p>
+Afvigelse fra Reglerne om Værneting kan, saa længe Domsforhandling endnu<lb />
+ikke er begyndt, paa Begæring, naar særegne Grunde findes at tale derfor, besluttes<lb />
+af Landsretten, dersom Spørgsmaalet angaar Underretter i samme Landsretskreds, og<lb />
+i andre Tilfælde af Højesteret (§  764).
+</p>
+<p>
+Sager, der skulle forhandles for Nævningeret, kunne af Sigtede begæres fore-<lb />
+tagne paa det Sted, hvor Landsretten har sit Hovedsæde — eller undtagelsesvis for<lb />
+den først forestaaende Nævningeret i Landsretskredsen — naar Varetægtsfængslet derved<lb />
+efter Landsrettens Skøn vil blive væsentlig afkortet, uden at Bekostningen for det<lb />
+offentlige vil blive forhøjet i nogen uforholdsmæssig Grad.
+</p>
+<wtitle>§  727.</wtitle>
+<p>
+Efter Begæring kan Retten meddele Tilladelse til, at en begyndt Forfølgning<lb />
+overflyttes til en anden Ret, som efter foranstaaende Regler er lovligt Værneting, naar
+</p>

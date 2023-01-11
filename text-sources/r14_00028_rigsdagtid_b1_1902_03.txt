@@ -1,0 +1,289 @@
+75
+<pb n="28" >
+<p rend="page">28</p>
+<h>
+<coll>75</coll>
+<colr>76</colr><lb />
+Bilag- til Bet. o. Lovf. om Rettens Pleje.<lb />
+</h>
+<table><tr>
+<td rowspan="2">Retskredsen.</td>
+<td colspan="6">Personale.</td>
+<td colspan="2">Befordring.</td>
+<td rowspan="2">Kv.-Mil omtrent.</td>
+<td rowspan="2">Indbyggertal.</td>
+<td rowspan="2">Sogne.</td>
+<td rowspan="2" >Sognefogeder.</td>
+</tr>
+<tr>
+<td>Assistenter og Overbetjente.</td>
+<td>Betjente.</td>
+<td>Reserve-betjente.</td>
+<td>Vægtere.</td>
+<td>Reserve-vægtere.</td>
+<td>I alt</td>
+<td>Hest.</td>
+<td>Cykel.</td>
+</tr>
+<tr>
+  <td>Overført</td>
+  <td>113</td>
+  <td>1218</td>
+  <td>75</td>
+  <td>52</td>
+  <td>10</td>
+  <td>1468</td>
+  <td>72</td>
+  <td>115</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+<tr>
+  <td>Gjørding og Malt Herreder</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>1</td>
+  <td>81/2</td>
+  <td>15,260</td>
+  <td>11</td>
+  <td>13</td>
+</tr>
+<tr>
+  <td>Ringkøbing  Købstad,   Ulfborg og Hind Herreder</td>
+  <td>»</td>
+  <td>2</td>
+  <td>1</td>
+  <td>1</td>
+  <td>1</td>
+  <td>5</td>
+  <td>»</td>
+  <td>1</td>
+  <td>131/2</td>
+  <td>18,522</td>
+  <td>20</td>
+  <td>21</td>
+</tr>
+<tr>
+  <td>Holstebro Købstad,  Hjerm og Grindmg Herreder</td>
+  <td>»</td>
+  <td>3</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>3</td>
+  <td>»</td>
+  <td>1</td>
+  <td>19</td>
+  <td>31,244</td>
+  <td>32</td>
+  <td>34</td>
+</tr>
+<tr>
+  <td>Lemvig Købstad. Skodsborg og Vandfald Herreder</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>1</td>
+  <td>91/6</td>
+  <td>20,513</td>
+  <td>25</td>
+  <td>25</td>
+</tr>
+<tr>
+  <td>Hammerum Herred</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>23</td>
+  <td>24,293</td>
+  <td>20</td>
+  <td>21</td>
+</tr>
+<tr>
+  <td>Bølling og Nørre Herred</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>2</td>
+  <td>15</td>
+  <td>16,902</td>
+  <td>21</td>
+  <td>20</td>
+</tr>
+<tr>
+  <td>Vejle Købstad</td>
+  <td>1</td>
+  <td>14</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>17</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>14,592</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+<tr>
+  <td>Nørvang   og Tørrild  Herreder</td>
+  <td>»</td>
+  <td>4</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>4</td>
+  <td>»</td>
+  <td>2</td>
+  <td>201/2</td>
+  <td>32,040</td>
+  <td>27</td>
+  <td>27</td>
+</tr>
+<tr>
+  <td>Fredericia Købstad</td>
+  <td>1</td>
+  <td>10</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>12</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>12,714</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+<tr>
+  <td>Kolding Købstad</td>
+  <td>1</td>
+  <td>10</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>12</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>13,333</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+<tr>
+  <td>Holmans og Elbo Herreder og en Del af Brusk Herred</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>1</td>
+  <td>5</td>
+  <td>12,956</td>
+  <td>13</td>
+  <td>17</td>
+</tr>
+<tr>
+  <td>Jerlev,    Anst    og    Slaugs Herreder</td>
+  <td>»</td>
+  <td>3</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>3</td>
+  <td>»</td>
+  <td>1</td>
+  <td>14</td>
+  <td>20,128</td>
+  <td>16</td>
+  <td>18</td>
+</tr>
+<tr>
+  <td>Bjerge Herred</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>2</td>
+  <td>4</td>
+  <td>11,252</td>
+  <td>12</td>
+  <td>17</td>
+</tr>
+<tr>
+  <td>Hatting Herred</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>1</td>
+  <td>31/8</td>
+  <td>9,462</td>
+  <td>14</td>
+  <td>15</td>
+</tr>
+<tr>
+  <td>Kolding Herred</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>1</td>
+  <td>6</td>
+  <td>15,767</td>
+  <td>15</td>
+  <td>17</td>
+</tr>
+<tr>
+  <td>I alt</td>
+  <td>116</td>
+  <td>1277</td>
+  <td>80</td>
+  <td>53</td>
+  <td>11</td>
+  <td>1537</td>
+  <td>72</td>
+  <td>133</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+</table>
+<p>o: i Kjøbenliavn os, Frederiksberg (l1^ Kv.-Mil, 454,466 Indbyggere) Politistyrke 802,
+i 72 Retskredse, bestaaende helt eller til Dels af Købstad (c 290 Kv.-Mil, 1,139,185 Indb.)
+605, i 55 Landkredse (385 Kv.-Mil, 861,136 Indb.) 130. I 110 Retskredse med 1,692
+Sogne fandtes tilsammen 1,819 Sognefogeder, som dog ikke alle udføre Politiforretninger.
+</p>
+</pb>

@@ -1,0 +1,77 @@
+1935
+<pb n="104" />
+<h>
+<coll>
+1935
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+1936
+</colr>
+</h>
+<wtitle>§  492.</wtitle>
+<p>
+Livrenter, Overlevelsesrenter, LivsForsikringssummer og lignende mod Veder-<lb />
+lag erhvervede Indtægter ere, for saa vidt ikke andet ved Retsforholdets Stiftelse rets-<lb />
+gyldig er bestemt, ikke undtagne fra Eksekution, medmindre særlig Lovhjemmel<lb />
+derfor haves.
+</p>
+<title>
+Kapitel 46.
+</title>
+<title>
+Eksekutionsforretningens Foretagelse og Forhandlingen under samme.
+</title>
+<wtitle>§  493.</wtitle>
+<p>
+Er det fornødne Eksekutionsgrundlag til Stede, og finder Sysselmanden ikke<lb />
+i øvrigt noget til Hinder for at efterkomme Begæringen om Eksekution, berammer<lb />
+han en Tid til Forretningens Foretagelse, saa vidt muligt i Overensstemmelse med<lb />
+Domhaverens Ønske.
+</p>
+<p>
+Eksekutionsforretningen skal i Reglen begynde paa Domfældtes Bopæl, med-<lb />
+mindre Sysselmanden skønner, at der ifølge de foreliggende Omstændigheder er Anled-<lb />
+ning til Afvigelse herfra.
+</p>
+<p>
+Naar Dommen lyder paa Udlevering eller Afstaaelse af Ting, kan Eksekutions-<lb />
+forretningen begynde, hvor disse forefindes.
+</p>
+<p>
+Har Domfældte ingen Bopæl i Riget, kan Eksekutionsforretningen begynde,<lb />
+hvor Domfældte antræffes, eller hvor Ting, som kunne tjene til Fyldestgørelse, forefindes.
+</p>
+<wtitle>§  494.</wtitle>
+<p>
+Forretningen kan ikke fremmes, medmindre der under den gives behørigt Møde<lb />
+fra Domhaverens Side.
+</p>
+<p>
+Derimod kan den foregaa, selv om Domfældte ikke træffes til Stede. Dog skal<lb />
+i dette Tilfælde, hvis ingen anden fremtræder som befuldmægtiget til at give Møde<lb />
+for Domfældte, Sysselmanden opfordre hans Hustru, Børn over 18 Aar, Tyende eller<lb />
+andre i hans Tjeneste staaende eller til Husstanden hørende voksne Personer, som<lb />
+ere til Stede, til at varetage hans Tarv under Forretningen. Ere saadanne ikke heller at<lb />
+antræffe, eller ere de uvillige til at optræde, rettes en lige Opfordring til hans Hus-<lb />
+vært, Principal, Husbonde, Læremester eller Arbejdsherre, for saa vidt nogen af disse<lb />
+er til Stede.
+</p>
+<wtitle>§  495.</wtitle>
+<p>
+Forretningen begynder med, at Sysselmanden opfordrer vedkommende til ved<lb />
+Fordringens Fyldestgørelse og de Domfældte til Last faldende Omkostningers Betaling<lb />
+at afværge Eksekutionens videre Fremgang. Sker dette ikke, skrider Sysselmanden<lb />
+efter Domhaverens nærmere Begæring til at foretage de fornødne Eksekutionshandlinger<lb />
+i Overensstemmelse med Kapitel 45.
+</p>
+<wtitle>§  496.</wtitle>
+<p>
+Naar Domfældte ikke paaviser behørige Udlægsgenstande, er han efter Dom-<lb />
+haverens Begæring pligtig paa Sysselmandens Forlangende at aabne sine Værelser og<lb />
+Gemmer, for at det kan ses, om heri indeholdes Genstande, som egne sig til Udlæg.<lb />
+I Vægringstilfælde, saavel som naar ingen træffes til Stede, der er i Stand til at efter-<lb />
+komme Forlangendet, kan Sysselmanden skride til den fornødne Magts Anvendelse.
+</p>

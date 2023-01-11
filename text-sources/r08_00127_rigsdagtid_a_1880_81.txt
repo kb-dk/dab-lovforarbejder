@@ -1,0 +1,49 @@
+3617
+<pb n="127" />
+<h>
+<coll>3617</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3618</colr>
+</h>
+<p>af andre Kreditorer iværksat Udlæg, ligesom Skyldneren ei heller ved senere Retshandler<lb />
+gyldigen kan overdrage Trediemand nogen mod Udlcrgshaverens Ret stridende Rettighed over<lb />
+det Udlagte.</p>
+<p>Dog taber Udlægshaveren i Lsssre, som er forblevet i Skyldnerens Besiddelse, fin<lb />
+af Udlæget flydende Sikkerhedsret overfor Skyldnerens Kreditorer i Tilfælde af Konkurs eller<lb />
+senere Udlæg, naar han ikke inden 12 Uger efter Udlægsforretningens Slutning strider til<lb />
+Tvangsauktion, eller under en Gjenoptagelse af Fogedforretningen faar det Udlagte bragt ud<lb />
+af Skyldnerens Besiddelse, medmindre han ved Retsmidlers Anvendelse eller Trediemands<lb />
+Ret har været hindret i at fremme Tvangssalget.</p>
+<wtitle>§ 492.</wtitle>
+<p>Viser den stedfundne Tvangsauktion, at Udlægshaveren ikke bliver fyldestgjort af det<lb />
+Udlagte, eller kan en Udlægshaver, der ikke har faaet tilstrækkcligt Udlæg til at bakke hans<lb />
+Fordring senere paavise Gods, hvori der kan gjores Grekution, er han berettiget til at for-<lb />
+lange Exekutionsforretningen gjenoptagen og fortsat efter de ovenfor givne Regler. Omvendt<lb />
+er den, hos hvem Udlæget er sket, berettiget til at begjære Forretningen gjenoptagen, og det<lb />
+skete Udlæg i det Hele eller for en Del hcevet, naar den Fordring, hvorfor det er gjort, i det<lb />
+Hele eller for en Del maatte være bleven betalt, efterat Udlæget er sket.</p>
+<p>Ligeledes kan Fogden efter Domhaverens Begjæring gjenoptage Exekutionsforretningen<lb />
+og træffe ny Bestemmelse om Bevaringen og Administrationen af det Udlagte, naar Tiden,<lb />
+som vil hengaa forinden Auktionen, betydeligt vil blive forlænget paa Grund af Retsmidlers<lb />
+Anvendelse imod Udlægsforretningen, eller naar Domfældtes Forhold med Henfyn til udlagt<lb />
+Gods, som er forblevet i hans Besiddelse, giver Anledning dertil, eller naar Bekosteligheden<lb />
+ved det Udlagies Bevaring eller lignende Grunde opfordre dertil.</p>
+<wtitle>§ 493.</wtitle>
+<p>Ogsaa i andre Tilfælde end de i § 492, jfr. § 491 2det Stykke, nævnte kan<lb />
+Exekutionsforretningen gjenoptages efter Begjæring af Trediemand eller en af Parterne<lb />
+naar alle Vedkommende famtykke deri.</p>
+<wtitle>§ 494.</wtitle>
+<p>Imod den sluttede exekutionsforretning kan der anvendes Retsmidler i Henhold til<lb />
+de ncrrmere Bestemmelser herom i dette Afsnits Kapitel V.</p>
+<p>Imod Kjendelser, der afsiges af Fogden, kan der forst anvendes Retsmidler, efterat<lb />
+hele exekutionsforretningen er sluttet.</p>
+<wtitle>§ 495.</wtitle>
+<p>Retsmidler imod exekutionsforretningen maa i Reglen anvendes inden 4 Uger, efterat<lb />
+Exekutionsforretningen er endelig sluttet. Efter Udlebet af denne Frist kan exekutionsforret-<lb />
+ningen ikke fvcekkes, undtagen hvor den i det Hele eller for en Del kan bringes til at bort-<lb />
+falde som en følge af, at Exekutionsgrundlaget paa lovlig Maade tilintetgjores eller<lb />
+forandres.</p>
+<p>Dog kan Landsrettens Formand efter et fra vedkommende Part indgivet skriftligt<lb />
+Andragende, hvormed de fornødne Oplysninger maa folge, tillade, at Gzekutionsforretningen<lb />
+angribes ved Retsmidler inden et Aars Forlob, naar ganske særegne Omstændigheder retfær-<lb />
+diggjere, at Parten ikke i rette Tid har gjort Retsmidler gjældende.</p>

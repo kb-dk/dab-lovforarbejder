@@ -1,0 +1,75 @@
+2257
+<pb n="55" />
+<h>
+<coll>2257</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2258</colr>
+</h>
+<p>
+Klager over Behandlingen ved Landsretten, som efter Sagens Stilling ved<lb/>
+Højesteret ere uden nogen reel Betydning for vedkommende Part, kunne af Højesteret<lb/>
+lades ude af Betragtning.
+</p>
+<wtitle>§ 262.</wtitle>
+<p>
+Naar Sagens Forhandling er afsluttet, afsiges Dom snarest muligt. Domsfor-<lb/>
+handling i en ny Sag maa ikke finde Sted, forinden Dommen i den optagne Sag er<lb/>
+vedtagen.
+</p>
+<wtitle>§ 263.</wtitle>
+<p>
+Naar skriftlig Behandling finder Sted paa Grund af Sagens Beskaffenhed, jfr.<lb/>
+§ 252, forhandles Sagen ved skriftlige Indlæg, ikke over to fra hver Side,, som veksles<lb/>
+mellem Parterne og afgives til Retten i Forbindelse med Sagens Dokumenter inden<lb/>
+de Frister, som Justitiarius bestemmer.
+</p>
+<p>
+Har Bevisførelse fundet Sted, kan enhver af Parterne i dertil berammede<lb/>
+Retsmøder fremlægge et skriftligt Indlæg.
+</p>
+<p>
+Udgaar en Sag til skriftlig Behandling paa Grund af Indstævntes Udeblivelse,<lb/>
+har Appellanten inden en fastsat Frist at aflevere et skriftligt Indlæg tilligemed<lb/>
+Sagens Dokumenter, derunder fuldstændig Beskrivelse af det for Landsretten passerede.<lb/>
+Oplyses det, inden Sagen er paakendt, at Indstævntes Udeblivelse ikke kan lægges<lb/>
+ham til Last som en Forsømmelse, kan Højesteret reassumere Sagen.
+</p>
+<p>
+Mundtlig Domsforhandling finder ikke Sted i disse Sager.
+</p>
+<p>
+Hvis Appellanten har stævnet Vidner til Førelse for Højesteret, og de have<lb/>
+givet Møde, kan Højesteret bestemme, at de, inden Sagen udgaar til skriftlig Behand-<lb/>
+ling, skulle afhøres, efter at Apellanten har fremstillet Sagens Omstændigheder. I<lb/>
+øvrigt sker Vidners Førelse, Syns- eller Skønsforretningers Optagelse og Parters Af-<lb/>
+høring for Underret, medmindre Højesteret bestemmer, at den skal ske for et af<lb/>
+Rettens Medlemmer.
+</p>
+<p>
+Ved skriftlig Behandling finde i øvrigt de almindelige Regler om Højesterets-<lb/>
+proceduren Anvendelse med de fornødne Lempelser.
+</p>
+<wtitle>§ 264.</wtitle>
+<p>
+Naar Højesterets Dom gaar ud paa Hjemvisning, kan enhver af Parterne hen-<lb/>
+vende sig til Landsretten med en Udskrift af Dommen og begære et Retsmøde be-<lb/>
+rammet, hvortil han da har at indkalde Modparten med et af Rettens Justitiarius<lb/>
+fastsat Varsel. Sagen fremmes derefter i Overensstemmelse med de almindelige Regler.
+</p>
+<title>Kapitel XXII.</title>
+<undertitle>
+Kære til Højesteret.
+</undertitle>
+<wtitle>§ 265.</wtitle>
+<p>
+Over for Kendelser og andre Beslutninger af en Landsret, som ikke — eller<lb/>
+dog ikke for Tiden — kunne gøres til Genstand for Anke i Medfør af Bestemmelserne<lb/>
+i § 243, kan, for saa vidt det modsatte ikke særlig er bestemt, enhver, over for hvem<lb/>
+Beslutningen indeholder en Afgørelse, rejse Kæremaal til Højesteret overensstemmende<lb/>
+med de nedenstaaende Regler. Over for Domme kan Kæremaal kun rejses i det i § 6<lb/>
+nævnte Tilfælde.
+</p>
+<p>
+Er en Beslutning bleven paakendt ifølge Kæremaal, kan den ikke senere paa-<lb/>
+ankes, og saa længe Kære over en Beslutning er svævende, kan denne ikke paaankes.
+</p>

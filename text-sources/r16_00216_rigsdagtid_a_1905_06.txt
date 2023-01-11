@@ -1,0 +1,74 @@
+2335
+<pb n="216" />
+<h>
+<coll>
+2335
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2336
+</colr>
+</h>
+<p>
+Er Sagen kun indanket af Tiltalte, kan der ikke idømmes strængere Straf end<lb />
+bestemt af den underordnede Ret.
+</p>
+<wtitle>§ 931.</wtitle>
+<p>
+Anklageskrift udfærdiges uden Ophold af Overanklageren; foruden de An-<lb />
+givelser, der ere foreskrevne i § 806, skal det indeholde en Henvisning til den ind-<lb />
+ankede Dom.
+</p>
+<p>
+Forkyndes Anklageskrift inden Udløbet af den i § 911 fastsatte Frist, er anden<lb />
+Ankemeddelelse fra Overanklagerens Side unødvendig.
+</p>
+<wtitle>§ 932.</wtitle>
+<p>
+Foruden de i § 809, 1ste Punktum, og § 810, 2det Punktum, ommeldte Akt-<lb />
+stykker bliver endvidere Udskrift af den indankede Dom samt af Domsforhandlingen<lb />
+for den underordnede Ret at indlevere paa Landsrettens Kontor og at meddele For-<lb />
+svareren eller, hvis der ingen Forsvarer er, Tiltalte.
+</p>
+<p>
+Hvor en frifindende Dom er paaanket af Overanklageren, kan Afvisning fra<lb />
+Landsretten ske overensstemmende med § 818, naar det findes, at Overanklageren<lb />
+mangler Paataleret, eller at det paatalte Forhold ikke er strafbart, eller at Straf er<lb />
+udelukket ved Forældelse.
+</p>
+<wtitle>§ 933.</wtitle>
+<p>
+De for den underordnede Ret afhørte Vidner og Syns- eller Skønsmænd, hvis<lb />
+Forklaringer skulle benyttes som Bevis under Ankesagen, blive at afhøre paa ny for<lb />
+Landsretten, medmindre Sagen findes at kunne tilstrækkelig oplyses ved Oplæsning af<lb />
+de Forklaringer, som de paagældende tidligere have afgivet.
+</p>
+<p>
+Udebliver Tiltalte uden oplyst lovligt Forfald i et Tilfælde, hvor Anken er<lb />
+rejst af ham og omfatter Bevisbedømmelsen, kan Retten ved Kendelse afvise hans<lb />
+Anke, naar den finder, at Forhandlingen ikke med Nytte kan fremmes i hans Fra-<lb />
+værelse, og navnlig at Oplæsning af hans tidligere Forklaring ikke kan træde i Stedet<lb />
+for ny Afhøring (jfr. § 836).
+</p>
+<wtitle>§ 934.</wtitle>
+<p>
+Landsrettens Dom i en fra en Underret, henholdsvis Sø- og Handelsretten,<lb />
+indanket Sag kan i Reglen ikke yderligere paaankes. Dog kan Højesteret (§ 210)<lb />
+undtagelsesvis tillade, at Sagen indbringes for samme, naar særlig Grund hertil fore-<lb />
+ligger, navnlig naar Sagen skønnes at have almindelig Interesse eller videregaaende<lb />
+betydelige Følger for vedkommende. Andragende herom maa fremsættes inden saadan<lb />
+Frist, som bestemt i § 926, 2det Stykke, og finde i Henseende til Virkningen af saa-<lb />
+dant Andragendes Indgivelse og Tilfølgetagelse Reglerne i sidste Stykke af § 926 og<lb />
+i § 927 Nr. 4 tilsvarende Anvendelse.
+</p>
+<p>
+Reglerne i Kapitel 79 blive med de fornødne Lempelser at anvende paa Anke,<lb />
+som iværksættes i Henhold til nærværende Paragraf.
+</p>
+<title>Kapitel 81.</title>
+<undertitle>Kære til højere Ret.</undertitle>
+<wtitle>§ 935.</wtitle>
+<p>
+Over for Kendelser og andre Beslutninger af en Landsret, Sø- og Handels-<lb />
+retten eller en Underret (disse sidste ogsaa som Undersøgelsesret), som ikke —
+</p>

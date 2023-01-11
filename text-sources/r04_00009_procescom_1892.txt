@@ -1,0 +1,32 @@
+9
+<pb n="9" />
+<h>Kap. I.   Lovens Virkekreds.               1</h>
+<title>Første Afsnit.</title>
+<undertitle>Almindelige Bestemmelser.</undertitle>
+<title>Kapitel I.</title>
+<undertitle>Lovens Virkekreds.</undertitle>
+<wtitle>§ 1.</wtitle>
+<p>Alle Spørgsmål om Straf, som ikke<lb />
+i medfør af særlig Hjemmel i Lovgivningen<lb />
+afgøres uden særlig Straffesag eller behandles i den borgerlige Retsplejes Former eller<lb />
+henhøre under særlige Domstole, behandles<lb />
+efter  de  i denne Lov fastsatte Regler.</p>
+<wtitle>§ 2.</wtitle>
+<p>Efter denne Lovs Regler behandles<lb />
+endvidere, uden Hensyn til, om der samtidig<lb />
+nedlægges Påstand om Straf eller ikke:</p>
+<p>1)  Sager, der anlægges af det Offentlige<lb />
+for Overtrædelse   af Love om Politivæsnet, Bygningsvæsnet, Landbovæsnet<lb />
+og lignende; fremdeles Sager, hvorunder<lb />
+det Offentlige nedlægger Påstand om:</p>
+<p>2)   Ophævelse as en Forening;</p>
+<p>3)   Stadfæstelse   af   Forbud   mod Udbredelse af et fremmed Skrift;</p>
+<p>4)  Anvendelse af Straffelovens § 299;</p>
+<p>5)   Sikkerhedsforanstaltninger   i   Henhold<lb />
+til  Straffelovens § 38, 2det Stykke;</p>
+<p>6)  Udvisning    af   Riget   i   Henhold   til<lb />
+Straffelovens § 16;</p>
+<p>7)   Forbrydelse af Penge eller Gods;</p>
+<p>8)  Forbrydelse af Embede, Bestilling, Rang,<lb />
+Titel, Orden eller Hæderstegn:</p>
+<p>1</p>

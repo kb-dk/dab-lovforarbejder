@@ -1,0 +1,142 @@
+1537
+<pb n="32" >
+<p rend="page">32</p>
+<h>
+<coll>1537</coll>
+<colr>1538</colr><lb />
+</h>
+<leftside>
+<btitle>
+A. Grundlovsudkastet.<lb />
+</btitle>
+<p>
+<law n="15" >§ 15.<lb /></law>
+Kongens Civilliste bestemmes for hans Regjeringstid ved Lov. Derved fastsættes tillige,<lb />
+hvilke Slotte og andre Statseindele skulle henhøre til Civillisten.<lb />
+Om Civillisten for den nuregjerende Konge<lb />
+vil en allerhøieste Bestemmelse blive meddeelt Rigsforsamlingen.<lb />
+<law n="16" >§ 16.<lb /></law>
+For Medlemmerne af det Kongelige Huus<lb />
+kan der bestemmes Apanager ved Lov. Apanagerne kunne ikke uden Rigsdagens Samtykke<lb />
+nydes udenfor Landet, medmindre alt bestaaende<lb />
+Contracter hjemle Saadant.<lb />
+</p>
+<title>
+III.<lb />
+</title>
+<p>
+<law n="17" >§ 17.<lb /></law>
+Kongen er ansvarsfri; hans Person er<lb />
+hellig og ukrænkelig.<lb />
+<law n="18" >§ 18.<lb /></law>
+Kongen udnædner og afskediger sine Ministre. Kongens Underskrift under de Lovgivningen og Regjeringen vedkommende Beslutninger giver disse Gyldighed, naar den er ledsaget af en Ministers Underskrift. Den Minister, som har underskrevet, er absvarlig for<lb />
+Beslutningen.<lb />
+<law n="19" >§ 19.<lb /></law>
+Ministrene kunne drags til Ansvar for de<lb />
+i deres Embeder begaaede Forbrydelser og for<lb />
+Handlinger, som ere aabenbart skadelige for<lb />
+Staten. Folkethinget anklager, Rigsretten<lb />
+dømmer.<lb />
+<law n="20" >§ 20.<lb /></law>
+Statsforretningerne fordeles efter Kongens<lb />
+Bestemmelse mellem Ministrene, som i Forening<lb />
+udgjøre Statsraadet. Forsædet føres af den, som af Kongen er udnævnt til Primierminister.<lb />
+</p>
+<p>
+Alle Lovforslag og vigtigere Regjeringsforanstaltninger forelægges Statsraadet.<lb />
+<law n="21" >§ 21.<lb /></law>
+Kongen besætter alle Embeder i samme Omfang som hidtil. Forandringer heri kunne skee<lb />
+ved Lov. Ingen kan beskikkes til Embedsmand,<lb />
+som ikke har Indfødsret.<lb />
+</p>
+<p>
+Kongen kan afskedige de af ham ansatte<lb />
+Embedsmænd. Disses Berettigelse til Pension<lb />
+vil blive bestemt ved Lov.<lb />
+</p>
+<p>
+Kongen kan forfkytte Embedsmænd uden<lb />
+deres Samtykke, dog saaledes, at de ikke derved tabe i Indtægter.<lb />
+<law n="22" >§ 22.<lb /></law>
+Kongen har den høieste Myndighed over<lb />
+Land- og Sømagten.<lb />
+</p>
+<p>
+Han erklærer Krig og slutter Fred, samt<lb />
+indgaaer og ophæver Forbund og Handelstractater; dog kan han derved ikke uden Rigsdagens Samtykke afstaae nogen Deel af Landet eller Paadrage Staten nogen bebyrdende<lb />
+Forpligtelse.<lb />
+</p>
+<btitle>
+B. Comiteens (Majoritets) Indstilling.<lb />
+</btitle>
+<p>
+<law n="15" >§ 15.<lb /></law>
+Kongens Civilliste bestemmes for hans Regjeringstid ved Lov. Derved fastsættes tillige,<lb />
+hvilke Slotte og andre Statseiendele skulle henhøre til Civillisten.<lb />
+Civillisten kan ikke behæftes med Gjæld.<lb />
+<law n="16" >§ 16.<lb /></law>
+For Medlemmerne af det kongelige Huus<lb />
+kan der bestemmes Apanager ved Lov. Apanagerne kunne ikke uden Rigsdagens Samtykke<lb />
+nydes udenfor Riget.<lb />
+III.<lb />
+<law n="17" >§ 17.<lb /></law>
+Kongen er ansvarsfri; hans Person er<lb />
+hellig og ukrænkelig. Ministrene ere ansvar<lb />
+for Regjeringens Førelse.<lb />
+<law n="18" >§ 18.<lb /></law>
+Som Udkastet.<lb />
+<law n="19" >§ 19.<lb /></law>
+Som Udkastet.<lb />
+<law n="20" >§ 20.<lb /></law>
+Ministrene i Forening udgjøre Ministerraadet, hvori Forsædet føres af den, som af<lb />
+Kongen er udnævnt til Premierminister.<lb />
+</p>
+<p>
+Alle Lovforslag og vigtigere Regjeringsforanstaltninger forelægges ministerraadet. Dettes Ordning, saavel som Statsforretningernes<lb />
+Fordeling mellem Ministerierne, samt Ministeransvarligheden bestemmes ved Lov.<lb />
+<law n="21" >§ 21.<lb /></law>
+Kongen besætter alle Embeder i samme<lb />
+Omfang som hidtil. Forandringer heri kunne<lb />
+skee ved Lov. Ingen kan beskikkes til Embedsmand, som ikke har Indfødsret.<lb />
+</p>
+<p>
+Kongen kan efter Ministerraadets Indstilling afskedige de af ham ansatte Embedsmænd. Disses Pension fastsættes i Overeensstemmelse med Pensionsloven.<lb />
+</p>
+<p>
+Kongen kan forflytte Embedsmænd uden<lb />
+deres Samtykke, dog saaledes, at de ikke derved tabe i Indtægter.<lb />
+</p>
+<p>
+Undtagelser for visse Klasser af Embedsmænd, foruden den i § 62 (63 d) fastsatte,<lb />
+bestemmes ved Lov.<lb />
+<law n="22" >§ 22.<lb /></law>
+Kongen har den høieste Myndighed over<lb />
+Land- og Sømagten.<lb />
+</p>
+<p>
+Han erklærer Krig og slutter Fred, samt<lb />
+indgaaer og ophæver Forbund og Handelstraktater; dog kan han derved ikke uden Rigsdagens Samtykke afstaae nogen Deel af Landet,<lb />
+raade over nogen Statsindtægt eller paadrage<lb />
+Staten nogen anden bebyrdende Forpligtelse.<lb />
+</p>
+</leftside>
+<rightside>
+<btitle>
+C. Minoritetsindstillingerne.<lb />
+</btitle>
+<p>
+<law n="18" >§ 18.<lb /></law>
+Kongen udnævner og afskediger sine Ministre. Kongens Underskrift under de Lovgivningen og Regjeringen vedkommende Beslutninger har kun Gyldighed, naar o. s. v.<lb />
+<law n="19" >§ 19.<lb /></law>
+Ministrene kunne tiltales for Embedsforseelser. Folkethinget anklager, Rigsretten dømmer.<lb />
+<law n="21" >§ 21.<lb /></law>
+a) Det bestemmes ved Lov, hvilke Klasser<lb />
+af Embedsmænd der kunne afskediges uden<lb />
+Dom.<lb />
+</p>
+<p>
+b) (Undtagelserne indskrænkes til Forflytteligheden, saa at 4de Punktum i § 21 knyttes<lb />
+umiddelbart til 3die.)<lb />
+</p>
+</rightside>
+</pb>

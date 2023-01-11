@@ -1,0 +1,71 @@
+3955
+<pb n="158"/>
+<h>
+<coll>3955</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3956</colr>
+</h>
+<p>
+Naar en Handling, der udgør en Lovovertrædelse af ovennævnte Art, tillige<lb />
+indeholder en Lovovertrædelse, som er offentlig Paatale undergivet, kan vedkommende<lb />
+Paatalemyndighed efter Begæring af den private paataleberettigede forfølge begge Lov-<lb />
+overtrædelser under eet. Den private paataleberettigede kan i saadanne Tilfælde paa<lb />
+ethvert Trin standse den efter hans Begæring begyndte Forfølgning.
+</p>
+<p>
+Fremdeles kan Paatalemyndigheden, naar den finder, at en offentlig Interesse<lb />
+kræver, at en Handling af fornævnte Art gøres til Genstand for offentlig Forfølgning,<lb />
+paatale samme overensstemmende med de Regler, som gælde for Behandlingen af de<lb />
+andre Sager, der ere undergivne dens Paatale; anser den Retshandlinger ved en<lb />
+Undersøgelsesret nødvendige, kan den foranstalte de i saa Henseende fornødne Skridt<lb />
+foretagne.
+</p>
+<p>
+Naar Paatalemyndigheden i Henhold til foregaaende Stykke har indledet For-<lb />
+følgning, ophører vedkommende privates Ret til selv at paatale. Naar han straks<lb />
+afgiver Erklæring herom, har han dog Adgang til at slutte 'sig til Paatalemyndighedens<lb />
+Forfølgning. Dog kan han i saa Fald ikke udøve Udskydelsesret ved Udtagelsen af<lb />
+Nævninger; ejheller kan han i noget Tilfælde gøre Krav paa Udsættelse af Sagen, og<lb />
+det paahviler ikke Tiltalte eller Forsvareren at afgive foreskrevne Meddelelser til<lb />
+ham. Retten kan derhos udelukke ham fra Deltagelse, naar den finder dette nødvendigt,<lb />
+Reglen i Straffelovens § 212, 2det Punktum, bliver staaende ved Magt.
+</p>
+<wtitle>§ 695.</wtitle>
+<p>
+De Lovbestemmelser, som særlig hjemle private Beføjelse til at paatale Lov-<lb />
+overtrædelser, der ogsaa kunne forfølges af det offentlige, blive staaende ved Magt.
+</p>
+<wtitle>§ 696.</wtitle>
+<p>
+Retten prøver i Embeds Medfør, om den der forfølger efter foranstaaende<lb />
+Regler, er berettiget til Paatale.
+</p>
+<wtitle>§ 697.</wtitle>
+<p>
+Forfølgning kan frafaldes, saa længe ikke Dom er afsagt eller henholdsvis<lb />
+Nævningernes Erklæring afgiven. Frafaldes Paatale, efter at Domsforhandling er<lb />
+begyndt, afsiger Retten Frifindelsesdom. Naar ellers en begyndt Forfølgning frafaldes,<lb />
+udsteder Retten paa Forlangende et skriftligt Vidnesbyrd herom.
+</p>
+<wtitle>§ 698.</wtitle>
+<p>
+Justitsministeren antager et passende Antal af de til Møde for den paagæl-<lb />
+dende Domstol berettigede Sagførere til at beskikkes til som offentlige Anklagere at<lb />
+udføre de af vedkommende Paatalemyndighed besluttede Anklager
+</p>
+<p>
+1.	for Højesteret,
+</p>
+<p>
+2.	for Landsretterne ved Behandling af Ankesager,
+</p>
+<p>
+3.	for Landsretterne ved Behandling af Nævningesager,
+</p>
+<p>
+4.	for Landsretterne ved Behandling af de Sager i 1ste Instans, ved hvis Paadørn-<lb />
+melse Nævninger ikke medvirke,
+</p>
+<p>
+5.	for Underretterne (i København tillige for Sø- og Handelsretten).
+</p>

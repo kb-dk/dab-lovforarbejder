@@ -1,0 +1,68 @@
+495
+<pb n="79" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>495</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+Når Retshandlinger skal foretages efter Begæring af udenlandsk Myndighed,<lb />
+forholdes der efter de derom gældende Lovbestemmelser og Traktater.
+</p>
+<wtitle>§ 335.</wtitle>
+<p>
+Udenfor det i § 330 nævnte Tilfælde skal Justitsministeren i samme Omfang<lb />
+som hidtil være berettiget til at tilstå fri Proces, således at Virkningen er den i<lb />
+§ 331, § 333 og § 334, 1ste Stykke, angivne.
+</p>
+<p>
+Fri Proces tilkommer i de i § 454 og § 457, jfr. § 466, ommeldte Sager henholdsvis Overanklageren og Øvrigheden.
+</p>
+<wtitle>§ 336.</wtitle>
+<p>
+Bestemmelserne i Lov om Sagførersalær m. m. af 24. Maj 1879 forbliver gældende i borgerlige Sager.
+</p>
+<title>Andet Afsnit.</title>
+<title>
+Rettergangsmåden.
+</title>
+<title>Kapitel 32.</title>
+<undertitle>
+Forberedelse af Domsforhandling i Sager, der i første Instans henhører
+under Landsretterne.
+</undertitle>
+<wtitle>§ 337.</wtitle>
+<p>
+Processen indledes med Stævning. I denne skal begge Parter være betegnede med Navn og Stilling og deres Bopæl eller Opholdssted være angivet, hvorhos<lb />
+den skal indeholde Sagsøgerens Påstand, en kort Fremstilling af de Kendsgerninger,<lb />
+hvorpå Påstanden støttes, og en Angivelse af de Dokumenter, han agter at påberåbe sig, samt en Opfordring til Sagsøgte om at møde og fremkomme med sit Svar<lb />
+på Sagens første Tægtedag (jfr. endvidere § 349).
+</p>
+<p>
+Parterne kan dog, når de efter Overenskomst begge møder for Retten (jfr.<lb />
+§ 340), og Sagen er anmeldt for denne senest Dagen før Retsmødet, uden Stævning begære Sagen foretaget. Sagsøgeren har i så Fald at fremlægge en skriftlig Angivelse<lb />
+af sin Påstand og af de Kendsgerninger, hvorpå den støttes.
+</p>
+<wtitle>§ 338.</wtitle>
+<p>
+Efter at i fornødent Fald Varselet er fastsat (jfr. § 339), bliver Stævningen,<lb />
+der udtages til den Underret, under hvilken Sagens Pådømmelse vilde høre, såfremt<lb />
+Landsretsbehandling ej var anvendelig, med Angivelse af den tidligste Tid for Sagens<lb />
+første Tægtedag, at indlevere på den nævnte Underrets Kontor til Påtegning om<lb />
+Dag og Tid, da Sagen falder i Rette, hvorefter den tilbagegives Sagsøgeren til<lb />
+videre Foranstaltning.
+</p>
+<p>
+Hvis Sagen, såfremt Landsretsbehandling ej var anvendelig, skulde behandles<lb />
+ved en Underret, som har Tingsted i den Retskreds, hvor Landsretten har sit Sæde,<lb />
+i hvilken Henseende Underretten i Frederiksberg Birk skal anses at have Tingsted i<lb />
+København, bliver Stævning at udtage til Landsretten, og Sagens Forberedelse foregår
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

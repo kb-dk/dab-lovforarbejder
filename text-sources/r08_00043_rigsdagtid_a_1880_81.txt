@@ -1,0 +1,48 @@
+3449
+<pb n="43" />
+<h>
+<coll>2449</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3450</colr>
+</h>
+<wtitle>§ 48.</wtitle>
+<p>Ligeledes afgjores det efter Lovgivningens almindelige Regler, om det ifolge Rets-<lb />
+forholdets Beskaffenhed er nodvendigt, at flere Personer maa optræde som ProcesfEller for<lb />
+at udgjore ret Sagsoger eller Sagvolder.</p>
+<wtitle>§ 49.</wtitle>
+<p>Hvor et nodvendigt Procesfællesfkab mellem flere Personer finder Sted, anjes, naar<lb />
+i et Retsmode en eller flere af disse udeblive, medens en eller flere af dem give Mode,<lb />
+den eller de, der mode, for at reprcesentere de Udeblivmde.</p>
+<wtitle>§ 50.</wtitle>
+<p>Myndig til som Sagsoger at raade over Retstrcetier angaaende Formueretsforhold er<lb />
+den, som ifolge den borgerlige Rets Regler vilde kunne paa egen Haand eftergive det i Paa-<lb />
+standen indeholdte Retskrav. Myndig til som Sagvolder at raade over Retssager angaaende<lb />
+Formueretsforhold er den, som ifolge den borgerlige Nets Regler paa egen Haand kunde<lb />
+ved Overenskomst paatage sig det, hvorpaa Paastanden gaar ud. I Sager, som ikke an-<lb />
+gaa Fornmerettigheder, er i Almindelighed den, som er ret Sagfoger eller Sagvolder,<lb />
+ogsaa raadig over Sagen, forsaavidt han er personlig myndig.</p>
+<p>Ved Anvendelsen af foranstaaende Regler tages der dog kun Hensyn til Retssagens<lb />
+oprindelige Gjenstand, ikke til Rettergangs omkostninger eller Rettergangsboder.</p>
+<wtitle>§ 51.</wtitle>
+<p>Hvo der, naar en Part ikke er myndig til at raade over Retssagen, skal optræde<lb />
+for eller med ham eller hende, for at Retssagen gyldigen kan udfores, Afgjøres efter den<lb />
+borgerlige Rets Regler.</p>
+<wtitle>§ 52.</wtitle>
+<p>Retten har i Reglen ikke paa embeds Vegne af egen Drift at afkræve Parterne<lb />
+Bevis for, at de ere myndige til at raade over Processen. Afvisning paa Grund af Sag-<lb />
+søgerens eller Sagvolderens Mangel paa Myndighed til at raade over Retssagen, finder<lb />
+derfor ordentligvis kun Sted efter Paastand.</p>
+<p>Parterne ere udelukkede fra at fremkomme med Indsigelser angaaende manglende<lb />
+Myndighed til at raade over Retssagen, naar Forhandlingen as Sagens Realitet er begyndt,<lb />
+jfr. § 176 sammenholdt med § 174.</p>
+<wtitle>§ 53.</wtitle>
+<p>Er der ifolge den Maade, hvorpaa Parterne i Processkrifterne betegnes, eller iøvrigt<lb />
+ifolge de foreliggende Oplysninger Grund til at antage, at Nogen af dem mangler Myn-<lb />
+dighed til at raade over Retssagen, kan Retten dog paa embedsvegne afvise Sagen enten<lb />
+strax eller naar Sagsogeren ikke fremskaffer de fornødne Oplysninger om hans egen og Mod-<lb />
+partens Myndighed til at raade over Sagen, efterat dette af Retten er ham paalagt, jfr.<lb />
+§ 175 sidste Stykke.</p>
+<wtitle>§ 54.</wtitle>
+<p>Enhver   kan   baade   som Sagsoger   og   som Sagvolder   gaa i Rette   for sig selv.</p>
+<p>Han   kan baade  udfore sin Sag under den  mundtlige Forhandling   og   afsatte de fornødne<lb />
+Processkrifter.</p>

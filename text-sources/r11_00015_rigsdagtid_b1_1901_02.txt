@@ -1,0 +1,98 @@
+2287
+<pb n="15" />
+<h>
+<coll>2287</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2288</colr>
+</h>
+<leftside>
+<p>2271	Bet. o. Lovf. om cleri</p>
+<pt>Til fjerde Afsnit (§ 324 fgd.)</pt>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>266) Som Overskrift for Afsnittet<lb />
+sættes:</p>
+<p>„Øvrighedsforretninger, der hidtil have<lb />
+været Rets forretninger."</p>
+<p>Den nuværende Overskrift „Ekseku-<lb />
+tion og Auktion" bliver Undertitel, og for-<lb />
+an den sættes „A".</p>
+<p>Betegnelsen ,,Femte Afsnit" (foran<lb />
+§ 443) ændres til „B".</p>
+<p>Betegnelsen „Sjette Afsnit, De fore-<lb />
+løbige Retsmidler" (foran § 459) ændres<lb />
+til „C. De foreløbige Sikkerhedsmidler".</p>
+<p>Betegnelsen „Syvende Afsnit" (foran<lb />
+§ 501) ændres til „D".</p>
+<pt>Ny §.</pt>
+<p>Af Udvalget undtagen Nanjke:</p>
+<p>267) Som første Paragraf i fjerde<lb />
+Afsnit indsættes: „De i nærværende Af-<lb />
+snit omhandlede Forretninger (Eksekution<lb />
+og Tvangsauktion, Udpantning samt Ind-<lb />
+og Udsættelsesforretninger, Arrest og For-<lb />
+bud, Skifte og Konkurs) udføres af Syssel-<lb />
+mændene og for Kjøbenhavns Vedkom-<lb />
+mende henholdsvis af Fogedmyndighederne<lb />
+og Skifteforvalteren i Kjøbenhavn. Naar<lb />
+der i nærværende Afsnit tales om „Syssel",<lb />
+indbefattes derunder ogsaa Kjøbenhavns<lb />
+Øvrighedskreds, og naar der er Tale om<lb />
+„Sysselmænd", indbefattes derunder ogsaa<lb />
+henholdsvis Fogedmyndighederne og Skifte-<lb />
+forvalteren i Kjøbenhavn".</p>
+<wtitle>Til § 324.</wtitle>
+<p>268)	I Slutningen ændres „femte Af-<lb />
+snit" til „Underafsnit B.".</p>
+<wtitle>Til § 325.</wtitle>
+<p>Af Justitsministeren, tiltraadt af U d-<lb />
+valget:</p>
+<p>269)	I 2det Stykke ændres „Lov 19de<lb />
+Februar 1861" til „Lov af 19de Februar<lb />
+1861".</p>
+<p>borgerl
+ige 
+Retsple
+je.	2272</p>
+</leftside>
+<rightside>
+<wtitle>Til § 326.</wtitle>
+<p>Af Udvalget undtagen Nanke:<lb />
+270) Stk. 1 udgaar.<lb />
+Til § 326.<lb />
+Af Udvalget undtagen Nanke:</p>
+<p>271)	Stk. 1 udgaar.</p>
+<p>Af samme:</p>
+<p>272)	De første Ord i Stk. 3 „Politiet<lb />
+er" ændres til: „Ligesom Sysselmanden<lb />
+efter Fornødenhed herved kan benytte<lb />
+Medhjælp af det ham undergivne Politi-<lb />
+personale, saaledes er Politiet, hvor dette<lb />
+er undergivet en anden Øvrighedsperson".</p>
+<p>Af Justitsministeren, tiltraadt af U d-<lb />
+valget undtagen Nanke:</p>
+<p>272) 1 2det og 3die Stykke ændres<lb />
+„Fogden" til „Sysselmanden" (3 Steder) og<lb />
+„Fogedprotokollen" til „Fogedbogen".</p>
+<p>Af Justitsministeren, tiltraadt af U d-<lb />
+valget undtagen Nanke:</p>
+<wtitle>Til § 327.</wtitle>
+<p>2/3) „Fogden" ændres til „Syssel-<lb />
+manden" (2 Steder), „sin egen Retskreds"<lb />
+til „sit eget Syssel", „Retskredsen" til<lb />
+„Syslet", „Retskredse" til „Sysler" og „sin<lb />
+Retskreds" til „sit Syssel".</p>
+<wtitle>Til § 328.</wtitle>
+<p>274) „Fogden" ændres til „Sysselman-<lb />
+den (3 Steder), „Procesomkostninger" til<lb />
+„Sagsomkostninger" og „Protokollen" til<lb />
+„Fogedbogen".</p>
+<wtitle>Til § 329.</wtitle>
+<p>275) „Fogden" ændres til „Syssel-<lb />
+manden" (2 Steder).</p>
+<wtitle>Til § 330.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>276)	I Stk. 1 ændres „paakende" og<lb />
+„Kendelse" til „afgøre" og „Afgørelse".</p>
+<p>277)	„Fogden"' ændres til „Syssel-<lb />
+manden" (2 Steder).</p>
+</rightside>

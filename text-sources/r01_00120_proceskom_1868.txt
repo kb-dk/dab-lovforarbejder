@@ -1,0 +1,36 @@
+114
+<pb n="<span class="result">120</span>" />
+<p>133 Nr. 1—3, jfr. § 160, angivne Grunde,<lb />
+eller når den nu afgivne Forklaring afviger<lb />
+fra den tidligere, eller når et Vidne vægrer<lb />
+sig ved at afgive Forklaring uden Hjemmel i<lb />
+§ 131, og de foreskrevne Tvangsmidler forgjæves ere blevne anvendte.</p>
+<p>5) Erklæringer og Vidnesbyrd, udstedte i<lb />
+medfør af et offentligt Hverv, derunder Udskrifter af tidligere den Sigtede overgåede Straffedomme.</p>
+<p>Hvad der er tilført Retsbøger om Retshandlinger under Efterforskningen, kan dog kun<lb />
+benyttes som Bevis, når Opsættelse af Retshandlingen, indtil Sag mod den Sigtede kunde<lb />
+anhængiggjøres, vilde have medført Fare for<lb />
+Tab af Bevismidler, eller den Sigtede har<lb />
+indvilget eller indvilger i Benyttelsen.</p>
+<wtitle>§ 299.</wtitle>
+<p>Oplæsning af Tilførsler til Retsbøger angående Udsagn af den Sigtede, Vidner eller<lb />
+Syns- eller Skjønsmænd på Grund af de<lb />
+nu afgivne Forklaringers Uoverensstemmelse<lb />
+med de tidligere afgivne bør kun finde Sted,<lb />
+efterat der på foreskreven Måde er givet de<lb />
+Pågjældende Lejlighed til sammenhængende<lb />
+Udtalelser om Gjenstanden for Afhørelsen, og<lb />
+de yderligere Spørgsmål, hvortil denne Udtalelse opfordrer, ere stillede.</p>
+<p>Når Oplæsning af de i § 298 Nr. 3<lb />
+og 4 ommeldte Aktstykker finder Sted, skal<lb />
+Grunden meddeles af Rettens Formand og tilføres Retsbogen; så bør det og bemærkes,<lb />
+om Vidnets eller Syns- og Skjønsmandens<lb />
+Forklaring er beediget eller ikke, og i sidste<lb />
+Fald, af hvilken Grund.</p>
+<wtitle>§ 300.</wtitle>
+<p>Når Beviser i medfør af § 273 skulle<lb />
+færes, om hvilke Meddelelse til vedkommende<lb />
+Part ikke er sket mindst 4 Dage før Hovedforhandlingens Begyndelse, bliver Sagen at<lb />
+udsætte, medmindre Parten har givet Afkald<lb />
+herpå.</p>
+<p>Formanden træffer fornøden Foranstaltning</p>

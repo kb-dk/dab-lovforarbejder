@@ -1,0 +1,42 @@
+116
+<pb n="122" />
+<p>at der ikke er givet tilstrækkelig Lejlighed til<lb />
+at gjøre sig bekjendt med Sagens Aktstykker,<lb />
+eller at der uden Hjemmel er givet kortere<lb />
+Varsel end en Uge, skulle fremsættes før Oplæsningen af Anklageskriftet, eller i Nævningesager førend Lodtrækning til Udtagelse af<lb />
+Nævninger begynder, jfr. endvidere §§ 13, 18,<lb />
+68, 312, 314, 318, 322 samt Lov om<lb />
+Domsmagtens Ordning m. m. § 81.</p>
+<wtitle>§ 305.</wtitle>
+<p>Hovedforhandlingen afsluttes ved Rettens<lb />
+Dom i Sagen; dog betragtes Sagen som anhængig ved Retten, indtil Dommens Fuldbyrdelse kan begynde, eller indtil i Tilfælde af<lb />
+Påanke Sagens Aktstykker ere indsendte til<lb />
+Højesteret.</p>
+<p>Den vedtagne Afgjørelse føres i Pennen<lb />
+af Rettens Formand eller den af de i Afgjørelsen deltagende Dommere, hvem dette Hverv<lb />
+af Formanden overdrages. Stemmetallet må<lb />
+ikke optages i Rettens Afgjørelser eller iøvrigt<lb />
+gjøres bekjendt.</p>
+<p>Efter at være affattet, underskrives Afgjørelsen af Rettens Formand og Retsfkriveren.<lb />
+Dens Afsigelse foregår derved, at den oplæses<lb />
+i et Retsmøde. Er den Sigtede fængslet, bør ban bringes tilstede ved Dommens Afsigelse.</p>
+<p>Rettens Afgjørelser træffes snarest mulig,<lb />
+efterat den pågjældende Forhandling er tilende.<lb />
+Kan Afsigelsen ikke finde Sted samme Dag,<lb />
+skulle Kjendelser afsiges senest Dagen efter,<lb />
+Dommen senest inden 8 Dage.</p>
+<p>Er den Sigtede domfældt, bliver Udskrift<lb />
+af Dommen at forkynde ham, hvis han ikke<lb />
+var tilstede ved Afsigelsen; i andre Tilfælde meddeles der ham Udskrift på Begjæring. Af alle<lb />
+Domme tilstilles der Statsanklageren Udskrift.</p>
+<wtitle>§ 306.</wtitle>
+<p>Dommen skal, forfåvidt den ikke går<lb />
+ud på Sagens Afvisning, enten domfælde<lb />
+eller frifinde.</p>
+<p>Frifindelse finder Sted, når Anklageren<lb />
+ikke er påtaleberettiget, når Anklage frafaldes,<lb />
+samt når den Sigtede ikke findes skyldig.</p>
+<wtitle>§ 307.</wtitle>
+<p>Ved Afgjørelsen af, om Noget er bevist<lb />
+eller ikke, har Retten, henholdsvis Nævningerne,<lb />
+alene at tage Hensyn til de Beviser, som ere</p>

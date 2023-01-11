@@ -1,0 +1,65 @@
+3731
+<pb n="1129" >
+<p rend="page">1129</p>
+<h>
+<coll>3731</coll>
+<colr>3732</colr><lb />
+
+
+Den endelige Behandling af Valgloven. Regulativet.<lb />
+
+</h>
+<leftside>
+<p>
+9) Paludan-Müllers og Coldings Froslag:<lb />
+</p>
+<table>
+Valgkredsens Nummer.	Valgkredsenes Sammensætning i Odense og Svendborg Amter.	Beboernes Antal i hver Valgkreds.	Mødestedet.<lb />
+1.	Odense med Landsogne, Dalum og Sanderum, Steenløse og Fangel.	14,520	Odense.<lb />
+2.	Drigstrup, Dalby og Stubberup, Mesinge, Viby, Munkebo, Kjølstrup og Agedrup,<lb />
+	Seden og Aasum, Marslev og Birkende, Fraugde, Rønninge og Rolfsted, Allerup<lb />
+	og Davinde, Sønder-Næraa og Aarslev, Skjellerup og Ellinge.	13,792	Munkebo.<lb />
+3.	Nyborg med Landsogn, Kjerteminde, Rynkeby og Revning, Aunslev og Bovense, Flød	strup og Ullerslev, Kullerup og Refsvindinge, Frørup, Ørbek, Vindinge. 	14,341	Nyborg.<lb />
+4.	Steenstrup og Lunde, Skaarup, Tvede, Veistrup og Oure, Gudbjerg, Gudme og Brud	ager, Hesselager, Qværndrup, Langaa og Øxendrup, Svindinge, Gislev og Ell	ested, Ggense. 	14,611	Qværndrup.<lb />
+5.	Svendborg, Faaborg med Landsogn, Rudkjøbing, Thurø, Taasinge, Dreiø, Strynø,<lb />
+	St. Jørgens og Sørup. 	15,284	Svendborg.<lb />
+6.	Langeland uden Rudkjøbing	14,891	Rudkjøbing.<lb />
+7.	Diernsse, Svaninge, Vesteraaby og Aastrup, Vesterskjerninge og Ulbølle, Brahetrolle	borg og Krarup, Østerskjerninge og Hundstrip, Østerhæsinge og Hillerslev, Vester	hæsinge og Sandholts-Lyndelse, Herringe og Gjestelve, Espe og Vantinge, Kirkeby<lb />
+	og Ollerup. 	14,529	Brahetrolleborg.<lb />
+8.	Assens, Assens udenbyes Sogn, Kjærum, Sæby og Turup, Dreslette, Helnæs, Con	derby, Haarby, Jordløse og Haastrup, Horne, Avernakø, Lyø. 	13,096	Assens.<lb />
+9.	Gamtoste, Gøllested og Vedtoste, Sandager og holevad, Barløse, Kjerte, Tanderup,<lb />
+	Kjøng, Flemløse, Skydebjerg og Orte, Husby, Ørsted, Vissenbjerg. 	13,634	Ørsted.<lb />
+10.	Middelfart med Landsogn, Kanslunde, Nørre-Aaby, og Indslev, Veilby, Gambrog,<lb />
+	Udby, Føns og Ørslev, Balslev og Eiby, Asperup og Roerslev, Fjeldsted og Har	rendrup, Gjelsted og Rørup. 	13,670	Middelfart.<lb />
+11.	Bogense, Skovby, Guldbjerg og Sandager, Eilby og Melby, Haarslev, Brænderup<lb />
+	og Ore Særslev, Veflinge, Viggerslev, Klinte og Grindeløse. 	12,790	Bogense.<lb />
+12.	Skamby, Nørrenæraa og Bederslev, Krogsbølle, Uggerslev og Nørre-Høirup, Skeby<lb />
+	og Otterup, Norup, Østerup og Hjadstrup, Lunde, Allesø og Næsbyhoved-Broby,<lb />
+	Lumby, Ubberud og Korup, Cøndersø, Paarup. 	13,183	Lunde.<lb />
+13.	Allersted og Veile, Søby og Heden, Nørre-Broby, Sønder-Broby, Ringe, Ryslinge,<lb />
+	Nørre-Lyndelse og Høiby, Sønder-Høirup, Søllinge og Hellerup, Herrested, Ver	ninge, Tommerup og Brylle, Brendekilde og Bellinge. 	14,413	Norre-Søby.<lb />
+	10) Paludan Müllers og Coldings første Biforslag.<lb />
+	Den 1ste, 2den, 3die, 6te, 7de, 11te, 12te, 13de, Valgkreds som ovenfor<lb />
+	Den 4de Valgkreds, uden Egense.	13,762	Qværndrup.<lb />
+	Den 5te Valgkreds uden Faaborg, men med Egense.	13,880	Svendborg.<lb />
+	Den 8de Valgkreds med Faaborg og Landsognet, men uden Kjærum, Søby og Turup	13,242	Faaborg.<lb />
+	Den 9de Valgkreds med Kjærum, Søby og Turup, men uden Husby	14,880	Ørsted.<lb />
+	Den 10de Valgkreds med Husby	14,531	Middelfart.<lb />
+	11) Paludan Müllers og Coldings andet Biforslag.<lb />
+	Den 1ste, 2den, 3die, 4de, 7de, 8de, 9de, 10de 11te, 12te og 13de Valgkreds som<lb />
+	ovenfor i Hovedforslaget.<lb />
+	Den 5te Valgkreds uden Rudkjøbing	13,095	Svendborg.<lb />
+	Den 6te Valgkreds med Rudkjøbing	17,080	Rudkjøbing.<lb />
+</table>
+<morenext>
+(Fortsættes.)<lb />
+</morenext>
+</leftside>
+<underpage>
+Trykt og forlagt af Kgl. Hofbogtrykker Bianco Lunc.<lb />
+
+</underpage>
+
+
+
+</pb>

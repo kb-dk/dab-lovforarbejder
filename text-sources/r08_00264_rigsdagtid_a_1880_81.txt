@@ -1,0 +1,49 @@
+3891
+<pb n="264" />
+<h>
+<coll>3891</coll>
+<topmidle>Forsl. t. L. om Strafferetspleiett.</topmidle>
+<colr>3892</colr>
+</h>
+<p>Gjores der Brug af Retsmidler mod Afgjørelsen af Siraffpørgsmaalet, indbesattes<lb />
+Afgjørelsen af det borgerlige Retskrav herunder, naar ikke det Modsætte udtrykkelig er<lb />
+udtalt.</p>
+<p>Har Retten ikke taget Kravet under Paakjendelse, er den Forurettede udelukkende hen-<lb />
+vist til at gjøre dette gjældende ved en borgerlig Retssag, medmindre som følge af et Rets-<lb />
+middels Anvendelse en ny Hovedforhandling skal finde Sted.</p>
+<wtitle>§ 462.</wtitle>
+<p>Ting, der ere unddragne Nogen ved en strafbar Handling eller ere Udbyttet af saa-<lb />
+danne Ting, og som i Anledning af Straffesagen ere komne i Rettens værge, har Retten i<lb />
+Embeds medfør at udlevere den Forurettede, naar Sagen er endt ved upaaankelig Dom, selv<lb />
+om han ikke har paatalt sit Krav under Sagen, medmindre enten Trediemand gjør paa For-<lb />
+dring paa Tingen, eller Straffelovens § 34 finder Anvendelse.</p>
+<p>Udlerering for det nævnte Tidspunkt eller naar Sagen ender uden Dom, kan under<lb />
+tilsvarende Betingelser finde Sted, medmindre den Sigtede modsætter sig det.</p>
+<p>Kjendes den Berettigede ikke, oplyses Tingen efter de hidtil gjældende Regler.</p>
+<title>Ottende Afsnit.</title>
+<undertitle>Om Fuldbyrdelsen af Domme i Straffesager.</undertitle>
+<wtitle>§ 463.</wtitle>
+<p>Politimesteren drager Omsorg for Straffedommes Fuldbyrdelse. Han staar herred<lb />
+under Statsanklagerens Overtilsyn, forsaavidt Tagen horer under dennes Virkekreds.</p>
+<p>Boder, som ere tillagte den Forurettede, cg Erstatning, der under Straffesagen er til-<lb />
+kendt ham, inddrives efter de i Lov om den borgerlige Retspleie foreskrevne Regler. med<lb />
+Hensyn til Afsoning af den Del af nysnævnte Boder, som ikke betales eller indkommer ved<lb />
+Ezekution, har den Forurettede at henvende sig til vedkommende Politimester.</p>
+<wtitle>§ 464.</wtitle>
+<p>Opstaar der med Hensyn til Dommens Fortolkning, Beregningen af Frihedsstraffe,<lb />
+som ere idømte eller træde istedetfor idømt Straf, eller andre Indsigelser af den Domfældte<lb />
+Strid mellem denne og Statsanklageren eller Politimesteren, bliver spørgsmaalet paa den<lb />
+Domfældtes Vegjæring at forelægge den Ret, som har afsagt Dom i Sagen i forste In-<lb />
+stants eller ifølge Paaanke i Henhold til § 490 ff., men uden at den af Statsanklageren<lb />
+eller Politimesteren anordnede Fuldbyrdelse af den Grund bchsver at udsættes, medmindre<lb />
+Retten beslutter det. Mod Afgjørelsen, der træffes efter Reglerne i § 257, kan Besværing<lb />
+finde Sted.</p>
+<p>Angaar spørgsmaalet Identiteten af en undvegen Domfældt og en fenere paagreben<lb />
+Person, skal mundtlig Forhandling og Bevisforelse finde Sted i et offentligt Retsmode i den<lb />
+Paagrebnes nærværelse; Paaanke til Hoiesteret kan i dette Tilfælde ske paa Grund af væsent-<lb />
+lige Formfeil og medfører Hjemvisning, medens der ved Paaanke til Landsretten maa finde<lb />
+ny Bevisforelse Sted; endvidere kan Andragende om Gjmoptagelse finde Sted, hvorved<lb />
+Grundsætningerne i sjette Afsnit Kap. IV komme til Anvendelse.</p>
+<wtitle>§ 465.</wtitle>
+<p>Ingen Straffedom kan fuldbyrdes for Udlobet af den Frist, i hvilken Paaanke i<lb />
+medfør af Loven ftaar aaben, medmindre Afkald paa Paaanke forinden er givet.</p>

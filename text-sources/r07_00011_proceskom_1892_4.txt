@@ -1,0 +1,74 @@
+3231
+<pb n="11" />
+<h>
+<coll>3231</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3232</colr>
+</h>
+<p>
+Sager). Endelig har Østerrig ved Love af 1ste August 1895, der ere traadte i Kraft<lb />
+1ste Januar 1898, indført en helt ny, i Hovedsagen mundtlig Civilproces.
+</p>
+<p>
+Medens de fleste af de Lande, der endnu have en i det væsentlige skriftlig<lb />
+Procedure, arbejde paa Reformer i Retning af Mundtlighed*), forlyder der intet om,<lb />
+at noget af de Lande, der have indført mundtlig Procedure, tænke paa at gaa tilbage<lb />
+til skriftlig Procedure. De nyere Lovændringer paa Civilprocessens Omraade i disse<lb />
+sidste Lande tilsigte i det hele kun at gøre Proceduren simplere, hurtigere eller bil-<lb />
+ligere uden Opgivelse af Mundtlighedsprincipet**).
+</p>
+<p>
+Om den oven nævnte tyske Rigslov af 1877 skal særlig fremhæves, at et blandt<lb />
+dens Forarbejder værende Kommissionsudkast af 1872 — der maa antages at have<lb />
+haft væsentlig Indflydelse paa det af den forrige danske Proceskommission udarbejdede<lb />
+Civilprocesudkast — havde gennemført Bevisumiddelbarheden med megen Skarphed<lb />
+og i Sammenhæng dermed begrænset Appel af Landsretsdomme saaledes, at den kun<lb />
+kunde angaa Retsspørgsmaal, ikke Bevisspørgsmaal; men at dette, der af den paa-<lb />
+gældende Kommission kun var vedtaget med 6 Stemmer mod 5, ved Udkastets paa-<lb />
+følgende Behandling i „Bundesrath" blev forandret derhen, at der aabnedes Adgang<lb />
+til fuldstændig Appel ogsaa med Hensyn til Landsretsdomme, hvilket ogsaa blev selve<lb />
+Lovens Regel.
+</p>
+<p>
+Med denne tyske Rigslovs Virken i Praksis synes der***) i Tyskland i det<lb />
+hele at herske Tilfredshed. Bevisumiddelbarheden er vel ikke i Praksis gennemført<lb />
+i samme Grad som maaske egentlig paatænkt, men er dog af væsentlig Betydning;<lb />
+den Hurtighed, hvormed Sagerne behandles, er ikke særlig stor, men dog i det hele<lb />
+ret respektabel, og navnlig antages hele den ved Loven af 1877 tilvejebragte Ordning<lb />
+at tjene den materielle Rets Tarv bedre end de forhen gældende Proeesmaader.<lb />
+Mundtligheden letter hele Procesforholdet og Procesformerne, bl. a. ved at bringe<lb />
+intetsigende Formalitetsindsigelser til at forsvinde. Det mundtlige Foredrag giver<lb />
+Lejlighed til Udvikling og Belysning af Sagen, til Fjernelse af Misforstaaelser o. desl.<lb />
+paa en langt lettere Maade, end hvis alt skulde affattes skriftlig. Fremdeles gør den
+</p>
+<note rend="foot">
+<p>
+*) I Norge blev saaledes i 1891 nedsat en kgl. Kommission til Udarbejdelse af Forslag til en ny<lb />
+Civilproceslov, grundet paa Mundtlighedsprincipet. — I 1884 har „Nya lagberedningen" afgivet<lb />
+Forslag til en Reform af den svenske Civilproces, hvorefter denne vilde blive i det væsentlige<lb />
+mundtlig.
+</p>
+<p>
+I Finland forberedes en Reform af Retsplejen af en Kommission, der nu er ved Afslut-<lb />
+ningen af sine Arbejder og alt har afgivet et foreløbigt Udkast til Lov om „råttegången i tviste-<lb />
+mål", hvorefter Proceduren vil blive i det væsentlige mundtlig.
+</p>
+<p>
+I Spanien, hvis Civilproces er reformeret ved en Lov af 1887, er Procesmaaden ved-<lb />
+varende overvejende skriftlig, undtagen i Smaasager; man er imidlertid der misfornøjet med<lb />
+nævnte Lovs Resultater og arbejder paa en Reform i Retning af mundtlig Procedure. (Den<lb />
+gældende almindelige portugisiske Proceslov af 1876 kender kun mundtlig Procedure i enkelte<lb />
+særlige Arter af Sager.)
+</p>
+<p>
+**) Saaledes tilstræbe de engelske „Rules of the Supreme Court" af 1893 og 1897 at begrænse den<lb />
+Skriftforberedelse, der indleder den mundtlige Procedure; den engelske County Courts Aet 1888<lb />
+udvider Grevskabsretternes Kompetence; en fransk Lov af 26de Januar 1892 gør forskellige<lb />
+Procesakter simplere og billigere; en hollandsk Lov af 7de Juli 1896 indeholder en stor Række<lb />
+simplificerende Ændringer i den hollandske Civilproceslov o. s. fr.
+</p>
+<p>
+***) Prof. Deuntzers Beretning til den danske Proceskommission om de af ham gjorte Iagttagelser<lb />
+under en Rejse i Tyskland, som han i Efteraaret 1892 foretog efter Kommissionens Ønske.
+</p>
+</note>

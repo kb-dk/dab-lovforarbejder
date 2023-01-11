@@ -1,0 +1,76 @@
+578
+<pb n="162" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>578</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 698.</wtitle>
+<p>
+Ved den Ret, i hvis Kreds Sigtede bor eller, hvis han ikke har Bolig i Riget,<lb />
+ved Forfølgningens Begyndelse opholder sig, eller, hvis han ikke findes i Riget-, ved<lb />
+den Ret, i hvis Kreds han sidst havde Bolig eller opholdt sig, kan forfølges:
+</p>
+<p>
+1)	de under de danske Domstoles Påkendelse hørende Forbrydelser, som begås udenfor Kongerigets Grænser,
+</p>
+<p>
+2)	de Forseelser, som det tilkommer Politimesteren at påtale (§ 721), uden<lb />
+Hensyn til, om de påtales af ham eller andre,
+</p>
+<p>
+3)	andre Forbrydelser, naar der mangler sådanne Oplysninger, som betinger<lb />
+Anvendelse af § 696.
+</p>
+<p>
+Danske i Udlandet ansatte Embedsmænd, der ikke er det pågældende Lands<lb />
+Domsmyndighed undergivne, og de til de danske Gesandtskaber i fremmede Stater<lb />
+hørende Personer anses ved Anvendelsen af ovenstående Regel som havende Bolig i<lb />
+København, for så vidt de ikke måtte have vedligeholdt Bolig noget andet Sted i<lb />
+Riget. Det samme gælder om andre danske Undersåtter, som ikke kan sagsøges i<lb />
+det Land, hvor de har Bopæl.
+</p>
+<wtitle>§ 699.</wtitle>
+<p>
+I de i § 698 ommeldte Tilfælde kan Sagen også forfølges ved den Ret, i<lb />
+hvis Kreds Sigtede er blevet pågrebet.
+</p>
+<wtitle>§ 700.</wtitle>
+<p>
+Forbrydelser, hvis Påtale efter § 705 sker under een Sag, forfølges under eet<lb />
+ved en Ret, som er Værneting for den Forbrydelse, der nærmest har givet Anledning<lb />
+til Forfølgningen. Hører nogen af de begåede Forbrydelser for Underret, medens en<lb />
+eller flere andre hører under Landsrettens Påkendelse, træder med Hensyn til Domsforhandling i Underrettens Sted den Landsret, til hvis Kreds den hører.
+</p>
+<wtitle>§ 701.</wtitle>
+<p>
+Sag om Oprejsning for uforskyldt Anholdelse (§ 687 f) forfølges ved Retten i<lb />
+den Retskreds, hvor Anholdelsen har fundet Sted. — Sag om Erstatning for uforskyldt<lb />
+Varetægtsfængsel forfølges, dersom den skal behandles ved Underret (§ 687 g), ved den<lb />
+Underret, for hvilken Forundersøgelsen af Sagen er foretaget, eller, i Mangel af en<lb />
+sådan, ved den Underret, som har besluttet Fængslingen, og, hvis den skal behandles ved Landsret, ved den Landsret, under hvilken nævnte Underret hører. — Sag om<lb />
+Erstatning for uforskyldt Udståelse af Straf forfølges, når den skal afgøres ved<lb />
+Underret, ved den Underret, som har dømt i Sagen, eller, hvis Dommen er afsagt af<lb />
+Landsret, ved den Underret, for hvilken Forundersøgelsen i Sagen er foretaget, eller, i<lb />
+Mangel af en sådan, ved den Underret, i hvis Retskreds den uskyldig straffede bor eller<lb />
+opholder sig, og, hvis Sagen skal afgøres ved Landsret, ved den Landsret, som har<lb />
+dømt i den, eller under hvilken den Underret hører, som har afsagt Dommen (jfr. dog<lb />
+§ 960, 2det Stykke). Dersom den pågældende Forbrydelse har været påtalt ved<lb />
+Sø- og Handelsretten i København eller udenfor København ved en Underret i Medfør<lb />
+af § 18, kommer foranstående Bestemmelser til Anvendelse med de fornødne Lempelser, således at Sagen bliver at anlægge ved vedkommende Landsret eller ved den<lb />
+almindelige Underret i Retskredsen.
+</p>
+<p>
+Sager mod en Forening til dens Ophævelse i Medfør af Grundloven af 28.<lb />
+Juli 1866 § 87 og Grundloven af 5. Juni 1915 § 85 forfølges ved den Ret, i hvis<lb />
+Kreds Foreningen eller dens Bestyrelse har sit Sæde, eller, når sådant ikke med<lb />
+Sikkerhed kan udfindes, hvor et af Bestyrelsens Medlemmer bor.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

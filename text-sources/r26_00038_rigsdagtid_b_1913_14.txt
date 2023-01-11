@@ -1,0 +1,119 @@
+2875
+<pb n="38" />
+<h>
+<coll>2875</coll>
+<topmidle>Bilag til Bet. o. Lovf. om Rettens Pleje m. m.</topmidle>
+<colr>2876</colr>
+</h>
+<p>
+Underbilag I,
+</p>
+<p>
+Oversigt
+over
+</p>
+<p>
+den aarlige Udgiftsforøgelse, som Procesreformens Gennemførelse kan antages at ville medføre paa Justitsministeriets<lb />
+Budget efter Beregningerne af 1909 (se Rigsdagstidende 1912—13, Tillæg B. Sp. 2486 fg.), 1912 (se Rigsdagstidende 1912—13,<lb />
+Tillæg A. Sp. 3075 fg.) og Regeringsforslaget af 1914 (se Bemærkningerne til Forslag til Lov om Udgifterne i
+Strafferetsplejen).
+</p>
+<table>
+<tr>
+<td width="483"></td>
+<td width="60">
+1909.	Beregning<lb /></td>
+<td width="88">
+1912.	Beregning<lb /></td>
+<td width="261">
+1914.	Bemærkninger.</td>
+<td width="640">
+	Beregninger.<lb /></td>
+</tr>
+<tr>
+<td></td>
+<td>Kr. </td>
+<td>Kr.</td>
+<td>Kr.</td>
+<td></td>
+</tr>
+<tr>
+<td>1.	Lønninger og Kontorudgifter til de
+  <lb />
+kollegiale Retter	 ........</td>
+<td>
+130,000</td>
+<td>
+227,500</td>
+<td>
+208,500</td>
+<td>Stigningen af Merudgiften skyldes den foreslaaede For-
+  <lb />
+højelse af Dommernes Lønninger. Det nu frem-
+<lb />
+satte Bygningslovforslag medfører en Besparelse af
+<lb />
+Leje til forskellige Kontorer paa 19,000 Kr.</td>
+</tr>
+<tr>
+<td height="40">2.	Retsbetjente med fast Lønning (Løn-
+  <lb />
+ning og Kontorhold) </td>
+<td>135,000</td>
+<td>
+125,000<lb /></td>
+<td rowspan="2">
+}278,000</td>
+<td rowspan="2">Efter Retsplejeloven af 1909, der laa til Grund for
+  <lb />
+Beregningerne af 1909 og 1912, skete der ikke nogen
+<lb />
+Forandring i Retsbetjentenes Antal, medens der vilde
+<lb />
+være at ansætte 4 nye Politimestre (jfr. Lovens § 22).<lb />
+Efter det nye Retsplejelovforslag, der ligger til Grund
+  <lb />
+for Beregningerne af 1914, vilde der blive 82 Dom-
+<lb />
+mere og 70 Politimestre. Af Merudgiften, 278,000 Kr.,
+<lb />
+er de 158,000 Kr. regnede at medgaa til Lønninger
+<lb />
+og 120,000 Kr. til Kontorhold.</td>
+</tr>
+<tr>
+<td>3.	Politimestre (Lønning og Kontorhold)</td>
+<td>36,000</td>
+<td>50,000</td>
+</tr>
+<tr>
+<td>4.	Erstatning for uforskyldt Varetægts-
+  <lb />
+fængsel</td>
+<td>-</td>
+<td>4,000</td>
+<td>10,000
+  <lb /></td>
+<td></td>
+</tr>
+<tr>
+<td>5.	Kontorhold til Forligskommissionen i
+  <lb />
+København</td>
+<td>-</td>
+<td>4,000
+  <lb /></td>
+<td>4,000</td>
+<td></td>
+</tr>
+<tr>
+<td>
+At overføre...</td>
+<td>
+301,000</td>
+<td>
+410,500</td>
+<td>
+500,500</td>
+</tr>
+</table>

@@ -1,0 +1,72 @@
+318
+<pb n="324" />
+<leftside>
+<p>gerne til Besvarelse, kan det i intet Tilfælde<lb />
+opnåes, at Sagens hele faktiske Grundlag<lb />
+forelægges dem, når de skulle Være udelukkede<lb />
+fra Lovens Anvendelse på Kjendsgjerningerne. Denne Betragtning forer over til<lb />
+den egentlige, principielle Indvending mod<lb />
+at indskrænke Nævningernes Kompetence til<lb />
+Bevisførelsen. I nævningernes Medvirkning skal ligge en Garanti for den Sigtede,<lb />
+og Tanken i Institutionen kan kun udtrykkes<lb />
+således, at Ingen skal kunne domfældes, om<lb />
+hvis Skraffkyld ikke et tilstrækkeligt Antal retsindige og forstandige mænd af Folket kunne<lb />
+overbevises. Heraf følger ligefrem, at det, hvorom Nævningerne skulle afgive Erklæring, må<lb />
+være, om de finde den Sigtede skyldig eller<lb />
+ikke, hvilket betyder, at de ikke blot have at<lb />
+faftsætte Kjendsgjerninger, men også at<lb />
+træffe Afgjørelse om deres Henførelse under Loven. Dømmerne kan der ikke tilkomme en Beføjelse til at erklære den Sigtede skyldig til Straf mod Nævningernes Overbevisning; men dertil have de Magt, når hine<lb />
+udelukkes fra Subsumtionen, selv om det var<lb />
+muligt at forelægge dem det faktiske Grundlag i fin Helhed, og endnu mere, når det, der<lb />
+forelægges dem, kun er et spørgsmål om en<lb />
+Del af det faktiske Grundlag, enkelte, isolerede<lb />
+Kjendsgjerninger, som Dommerne udvælge, og<lb />
+hvis Betydning for Tagens Afgjørelse i det<lb />
+Hele ikke behøver at Være og ofte ikke vil være<lb />
+klar for Nævningerne. Skal nævningeinstitutionen ikke miste den væsentligste Del af fin<lb />
+Betydning, må Henførelsen af Kjendsgjerniugerne under Loven derfor i intet Tilfælde kunne unddrages nævningernes Komtence, selv hvor den beror på vanskelige<lb />
+Retsspørgsmål. Det er heller ikke mere forunderligt, at Lægmænd således kaldes til Afgjørelsen af Retsspørgsmål, end at de kaldes<lb />
+til Afgjørelsen af Bevisspørgsmål. Det er<lb />
+en Urimelighed at mene, at den retskyndige<lb />
+dømmer, der daglig har med Retssager og<lb />
+Bevisførelser at gjøre, skulde være uskikket til<lb />
+en rigtig Afgjørelse af Bevisspørgsmålet eller<lb />
+endog blot mindre skikket end Lægmanden;<lb />
+hans Virksomhed vil tvertimod ordentligvis<lb />
+give ham et skarpereøje og en rigere Erfaring,<lb />
+end denne kan have.   Det  kan kun erkjendes,</p>
+</leftside>
+<rightside>
+<p>at Dømmerkaldet kan udvikle en Tilbøjelighed til<lb />
+at dømme efter almindelige Regler, 0,1 ikke<lb />
+lade det enkelte Tilsældes Ejendømmelighed<lb />
+komme til sin fulde Ret. Grunden til at henlægge Bevisprøvelsen til nævninger kan derfor<lb />
+ikke være den, at den derved i og for sig kan<lb />
+ventes bedre afgjort, men kun den, at de vigtige<lb />
+Interesser, der stå på Spil, kræve en Garanti<lb />
+for, at Hensynet til det enkelte Tilsældes Omstændigheder ikke fortrænges af abstrakte Regler<lb />
+for Bevisbedømmelsen. Ganske på lignende<lb />
+Måde er Nævningernes Kompetence til Afgjørelsen af Retsspørgsmål at betragte som Garanti<lb />
+mod den ikke sandsynlige, men mulige Fare,<lb />
+at Afgjørelsen sker efter en sofistisk juridisk<lb />
+Doktrin, om hvis Rigtighed almindelig sund<lb />
+Forstand ikke kan overbevises. Begge Ting<lb />
+ligge i lige Grad i den almindelige sætning: Ingen skal domfældes, om hvis Skyld<lb />
+forstandige Lægmænd ikke kunne overbevises.<lb />
+At deraf ikke omvendt følger, at Domfæl«<lb />
+delse nu også nødvendigvis skal finde Sted,<lb />
+når Nawningerne erklære skyldig, at Tanken<lb />
+ikke kan være at bortkaste den i Dommernes<lb />
+Retskyndighed og Erfaring liggende Garant,<lb />
+men netop må være at forene begge Garantierne, er noget ganske Andet. Det nærmere<lb />
+herom skal berøres ved det andet Hovedspørgsmål i dette Emne, nemlig om Dommernes<lb />
+Medvirkning ved Afgjørelsen af Skyldspørgsmålet. Men en sådan Medvirkning bør indenfor visse Grænser finde Sted ikke mindre ved Bevisspørgsmålet end ved Retsspørgsmålet.</p>
+<p>Det Resultat, hvortil således en almindelig Betragtning fører. stadfæstes nu også fuldstændig ved en Betragtning af den gjældende Ret i<lb />
+England, Institutionens Hjem. Den engelske Rets<lb />
+bekjendte, ofte misforståede sætning, „de retskyndige dømmere afgjøre ikke faktiske Spørgsmål Nævningerne afgjøre ikke Retsspørgsmål"<lb />
+(sicnt ad quæstionem facti non respondent judices, ita ad quæstionem juris non respondent<lb />
+juratores), har end ikke i civile Sager, hvor<lb />
+dog kun enkelte Stridsspørgsmål, ikke Sagen<lb />
+i sin Helhed, forelægges Nævningerne, Hensyn<lb />
+til den her omhandlede Sondring, hvad allerede fremgår deraf, at der også for Bevisprøvelsen gjælder Retsregler (law of evidence).</p>
+</rightside>

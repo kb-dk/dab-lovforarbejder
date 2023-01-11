@@ -1,0 +1,52 @@
+3697
+<pb n="167" />
+<h>
+<coll>3697</coll>
+<topmidle>Forsl. t. L. om Strafferetspleien.</topmidle>
+<colr>3698</colr>
+</h>
+<wtitle>§ 29.</wtitle>
+<p>De for Landsretskredsene beflittede Statsanklagere virke for forsølgning af alle,<lb />
+ikke ifølge § 23 undtagne Forbrydelser, hvad enten disses Paadommelse i fsrfte Instants<lb />
+ster ved Landsretten eller ved Underretterne i Landsretskredsen; endvidere varetage de An-<lb />
+klagens Interesser ved Forhandling for Landsretten af de under Politiets Anklagemyndighed<lb />
+herende Sager, der ere paaankede.</p>
+<p>Overstatsanklageren kan paalægge en Statsanklager at overtage i det Hele eller for<lb />
+en Del det offentlige Anklagerhverv i en Sag, som hører under en anden Statsanklagers<lb />
+Forretningskreds.</p>
+<p>Det paahviler Statsanklagerne at gjøre Indberetning maanedlig til Overstatsanklageren<lb />
+om afgjorte og henftaaende Straffesager, i hvilke de have handlet som offentlige Anklagere,<lb />
+endvidere naar tvivlsomme eller særdeles vigtige Spørgsmaal opstaa i de Sager, som de be-<lb />
+handle, saa og ellers, naar det fordres.</p>
+<wtitle>§ 30.</wtitle>
+<p>Hjcrlpe-Statsanklagerne ere befoiede til efter Paalæg af Statsanklageren eller i Tilfælde<lb />
+af dennes Forhindring uden Paalæg at foretage enhver Embedshandling, som hører<lb />
+under Statsanklagerens Virkekreds.</p>
+<p>De beskikkede Anklagere ved Underretten have efter Paalæg af Statsanklageren at<lb />
+udfore Anklager for Underretten.</p>
+<title>Kapitel V.</title>
+<undertitle>Om Paatalen.</undertitle>
+<wtitle>§ 31.</wtitle>
+<p>Retterne træde i de under denne Lov horende Sager kun i Virksomhed ifolge Be-<lb />
+gæring af den til Paatale Berettigede, forsaavidt ikke Undtagelse er hjemlet ved færlig<lb />
+Bestemmelse.</p>
+<wtitle>§ 32.</wtitle>
+<p>Rettens Virksomhed standser, naar den til Paatale Berettigede frafalder forfølgning.<lb />
+Denne kan frafaldes, faalænge ikke Dom er afsagt eller henholdsvis Nævningernes Erklæring<lb />
+afgiven (jfr> dog § 350). Frafaldes Paatale, efterår Hovedforhandlingen er begyndt, afsiger<lb />
+Retten Fnfindelsesdom; naar ellers den begyndte forsølgning frafaldes, udsteder Retten paa<lb />
+Forlangende et skriftligt Vidnesbyrd herom.</p>
+<wtitle>§ 33.</wtitle>
+<p>Paatalen tilkommer efter de nedenstaaende Regler Statsanklageren, Politimesteren,<lb />
+særlige Forvaltningsmyndigheder og Private.</p>
+<wtitle>§ 34.</wtitle>
+<p>I alle Sager, hvis forfølgning ikke er henvist til Politimesteren eller Private<lb />
+(§§ 35 og 39), tilkommer det Statsanklageren at paatale for den dommende Ret, Politi-<lb />
+mesteren for Undersogelsesdommeren. Om Statsanklagerens Adgang til at paatale for Un-<lb />
+dersogelsesdommeren gjælde de nærmere Negler i tredie Afsnit. Politimesteren kan i disse<lb />
+Sager kun frafalde forfølgning med Statsanklagerens Samtykke.</p>
+<wtitle>§ 35.</wtitle>
+<p>Politimesteren tilkommer det at paatale i de nedenfor nævnte, til Underrettens Kom-<lb />
+petence horende Tilfælde, forsaavidt disse ikke ere henviste til Paatale  af Private, nemlig i:<lb />
+I)   Sager angaaende Handlinger, som staa under en Straffebestemmelse,   der  ikke hjemler<lb />
+anden Straf end Formuestraf, simpelt  Fcrngsel, Tvangsarbejde, Ris eller Fortabelse af</p>

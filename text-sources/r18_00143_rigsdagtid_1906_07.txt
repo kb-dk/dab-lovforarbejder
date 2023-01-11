@@ -1,0 +1,75 @@
+3925
+<pb n="143"/>
+<h>
+<coll>3925</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3926</colr>
+</h>
+<wtitle>§ 635.</wtitle>
+<p>
+Boet er i de i § 633, første Stykke, omhandlede Tilfælde selv at anse som<lb />
+Modpart, hvorfor Stævningen lyder paa det og forkyndes for Skifteretten paa Boets<lb />
+Vegne.
+</p>
+<p>
+Det paahviler Skifteretten at sørge for, at Boet under Retssagen repræsenteres<lb />
+paa behørig Maade.
+</p>
+<wtitle>§ 636.</wtitle>
+<p>
+Dommen i en i Henhold til § 633 anlagt Sag kan ikke, medmindre paagæl-<lb />
+dende Parter frafalde Anke imod Dommen, eller den kun kan paaankes efter særlig<lb />
+Tilladelse, lægges til Grund for Boets videre Behandling, førend den almindelige Anke-<lb />
+frist er udløben ubenyttet.
+</p>
+<p>
+Skulde Dommen blive forandret eller annulleret ifølge senere Paaanke, tages<lb />
+behørigt Hensyn hertil ved Boets videre Behandling, i fornødent Fald ved Omgørelse<lb />
+af det foretagne, hvis Skifte ikke endnu er sluttet, men efter den Tid maa enhver<lb />
+Forandring søges iværksat ved Paaanke af Repartitionen.
+</p>
+<wtitle>§ 637.</wtitle>
+<p>
+Spørgsmaal om Boets Overtagelse, Bestyrelse — derunder Fastsættelse af de<lb />
+i Skifteloven af 30. November 1874 § 31, 2det Stykke, og § 33, 2det Stykke, omhandlede<lb />
+Vederlag — Udlevering og, med de af §§ 632 og 633 flydende Begrænsninger, ogsaa<lb />
+om dets Opgørelse paakendes af Skifteretten. Tvistigheder angaaende disse Spørgs-<lb />
+maal behandles efter de for Underretssager foreskrevne Regler. Forligsmægling fore-<lb />
+gaar ved Skifteretten.
+</p>
+<wtitle>§ 638.</wtitle>
+<p>
+Kendelser eller Beslutninger af Skifteretten, der forefalde under Boets Behand-<lb />
+ling, kunne, for saa vidt der overhovedet er Adgang til at indbringe dem til højere<lb />
+Rets Prøvelse (jfr. § 640), paakæres til den Landsret, under hvilken Skifteretten staar.<lb />
+Boets Behandling bliver ikke desto mindre at fortsætte, men Skifteretten har i saa<lb />
+Fald at drage Omsorg for, at den ankendes Ret ikke foregribes ved Behandlingen,<lb />
+medens Kæremaalet staar paa.
+</p>
+<p>
+Kæremaalet maa iværksættes inden 2 Uger, efter at paagældende Beslutning<lb />
+er tagen, eller Kendelse afsagt.
+</p>
+<p>
+Dog kan Landsrettens Justitiarius eller Justitsministeren efter et af ved-<lb />
+kommende Part indgivet skriftligt Andragende, hvormed de fornødne Oplysninger maa<lb />
+følge, undtagelsesvis indtil 6 Maaneder, efter at Beslutningen er tagen eller Ken-<lb />
+delsen afsagt, tilstede Kæres Iværksættelse, naar ganske særegne Omstændigheder<lb />
+retfærdiggøre, at Parten ikke i rette Tid har iværksat Kære.
+</p>
+<wtitle>§ 639.</wtitle>
+<p>
+Den tilendebragte Skiftebehandling og i Forbindelse hermed de under samme<lb />
+afsagte Kendelser og tagne Beslutninger, for saa vidt som disse ikke have været gjorte<lb />
+til Genstand for Kære, kunne paaankes til den Landsret, under hvilken Skifteretten<lb />
+staar.
+</p>
+<p>
+Anke maa iværksættes inden 4 Uger, efter at Skiftet i Henhold til Reglen i<lb />
+Lov af 30. November 1874 § 50 anses som sluttet.
+</p>
+<p>
+Dog kan Oprejsning imod Undladelse af at iværksætte Anke inden den fore-<lb />
+skrevne Tid i øvrigt i Overensstemmelse med Reglen i § 638, sidste Stykke, gives indtil<lb />
+1 Aar efter Skiftets Slutning.
+</p>

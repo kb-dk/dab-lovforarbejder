@@ -1,0 +1,116 @@
+667
+<pb n="251" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>667</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+56.	Frijsenborg-Fa urskov Birk, 17,139 Indb.
+</p>
+<p>
+57.	Grenå Købstad samt Nørre og en Del af Sønder Herred, 20,164 Indb.
+</p>
+<p>
+58.	Æbeltoft Købstad samt Mols Herred og en Del af Sønder Herred. 13 519 Indb.
+</p>
+<p>
+59.	Rougsø og en Del af Sønderhald Herred, 20,969 Indb.
+</p>
+<p>
+60.	Øster Lisbjerg med en Del af Sønderhald Herred, 13,048 Indb.
+</p>
+<p>
+61.	Randers Købstad med Nørhald, Støvring og Galten Herreder, 43.682 Indb.
+</p>
+<p>
+62.	Mariager Købstad og Gjerlev-Onsild Herreder (undtagen Glenstrup, Sønder-Onsild, Nørre-Onsild. Hvornum, Snæbum og Skjellerup Sogne), 12,989 Indb.
+</p>
+<p>
+63.	Hobro Købstad, Gislum og Rinds Herreder med de 6 under Nr. 61 nævnte Sogne<lb />
+af Gjerlev-Onsild Herreder, 29,689 Indb.
+</p>
+<p>
+64.	Hellum-Hindsted Herreder, 23,984 Indb.
+</p>
+<p>
+65.	Løgstør Købstad og Års-Slet Herreder, 18,282 Indb.
+</p>
+<p>
+66.	Nibe Købstad og Hornum Herred, 16,336 Indb.
+</p>
+<p>
+67.	Ålborg Købstad. 33.449 Indb.
+</p>
+<p>
+68.	Ålborg Birk og Fleskum Herred, 16,829 Indb.
+</p>
+<p>
+69.	Nørresundby Købstad og Kjær Herred med Hvetbo Herred, 34,536 Indb.
+</p>
+<p>
+70.	Sæby Købstad og Dronninglund Herred. 26,990 Indb.
+</p>
+<p>
+71.	Frederikshavn Købstad og Horns Herred med Skagen Købstad og Læsø Birk,<lb />
+30,805 Indb.
+</p>
+<p>
+72.	Hjørring Købstad og Vennebjerg Herred med Børglum Herred, 52,780 Indb.
+</p>
+<p>
+73.	Øster og Vester Han Herreder, 19,000 Indb.
+</p>
+<p>
+74.	Thisted Købstad og Hillerslev-Hundborg Herreder, 24,516 Indb.
+</p>
+<p>
+75.	Hassing-Refs Herreder, 18,702 Indb.
+</p>
+<p>
+76.	Nykøbing M. Købstad og Morsø Herreder. 24,270 Indb.
+</p>
+<p>
+77.	Skive Købstad og Sallinglands Herreder, 29,566 Indb.
+</p>
+<p>
+78.	Viborg Købstad med Fjends-Nørlyng og Middelsom-Sønderlyng Herreder. 46,716 Indb.
+</p>
+<p>
+79.	Lysgård samt en Del af Hovlbjerg Herred, 16,416 Indb.
+</p>
+<p>
+80.	Herning Købstad og Hammerum Herred. 31,601 Indb.
+</p>
+<p>
+81.	Holstebro Købstad og Hjerm-Ginding Herreder, 36,813 Indb.
+</p>
+<p>
+82.	Lemvig Købstad og Skodborg- Vandfuld Herreder. 22,938 Indb.
+</p>
+<p>
+83.	Ringkøbing Købstad og Ulvborg-Hind Herreder, 21,060 Indb.
+</p>
+<p>
+84.	Bølling-Nørre Herreder. 18.447 Indb.
+</p>
+<p>
+85.	Varde Købstad og Landjurisdiktion med Øster og Vester Herreder, 32,240 Indb.
+</p>
+<p>
+86.	Esbjerg Købstad, Skads Herred samt Fanø Birk. 29,150 Indb.
+</p>
+<p>
+87.	Ribe Købstad med Ribe Herred, 14,152 Indb.
+</p>
+<p>
+88.	Gjørding-Malt Herreder, 18,385 Indb.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

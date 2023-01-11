@@ -1,0 +1,80 @@
+3651
+<pb n="158">
+<h>
+<coll>
+3651
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3652
+</colr>
+</h>
+<p>
+Fjerde Bog.
+</p>
+<title>
+Strafferetsplejen.
+</title>
+<title rend="part">Første Afsnit.</title>
+<title>Almindelige Bestemmelser.</title>
+<title rend="chapter">Kapitel 61</title>
+<title rend="subtitle">Strafferetslejens Omraade.</title>
+<lowtitle>§ 683.</lowtitle>
+<p>
+Alle Spørgsmaal om Straf, som ikke i Medfør af særlig Hjemmel i Lovgiv<lb />
+ningen afgøres uden særlig Straffesag eller behandles i den borgerlige Retsplejes<lb />
+Former eller henhøre under særlige Domstole, behandles efter de i denne Bog fast-<lb />
+satte Regler. Det samme gælder Ærefornærmelser i navnløse eller med urigtigt eller<lb />
+opdigtet Navn forsynede Skrivelser, for saa vidt den fornærmede forlanger offentlig<lb />
+Paatale, samt Sager om Oprejsning for uforskyldt Anholdelse eller Erstatning for<lb />
+uforskyldt Varetægtsfængsel eller for uforskyldt Udstaaelse af Straf.
+</p>
+<lowtitle>§ 684.</lowtitle>
+<p>
+Efter denne Bogs Regler behandles endvidere, uden Hensyn til, om der samtidig<lb />
+nedlægges Paastand om Straf, Sager, hvorunder det offentlige nedlægger Paastand om:
+</p>
+<p>
+1)	Særlige Følger, der til Fyldestgørelse for det almene ere fastsatte for Overtrædelser<lb />
+af  Love   om   Politivæsenet,   Bygningsvæsenet.   Landbovæsenet,   Skattevæsenet og<lb />
+lignende Love;
+</p>
+<p>
+2)	Ophævelse af en Forening;
+</p>
+<p>
+3)	Stadfæstelse af Forbud mod Udbredelse af et fremmed Skrift;
+</p>
+<p>
+4)	Anvendelse af Sikkerhedsforanstaltninger mod Undsigende (nu Straffelovens § 299);
+</p>
+<p>
+5)	Sikkerhedsforanstaltninger paa Grund af Forbryderes Utilregnelighed (nu Straffe-<lb />
+lovens § 38, 2det Stykke);
+</p>
+<p>
+6)	Udbringelse   af Riget   (nu   Straffelovens § 16   og midlertidig Lov om nogle Æn-<lb />
+dringer i Straffelovgivningen af 1. April 1911 §§ 7 og 8);
+</p>
+<p>
+7)	Meddelelse   af   Afholdspaalæg  til  Drankere  (nu  midlertidig Lov om nogle Æn-<lb />
+dringer i Straffelovgivningen af 1. April 1911 § 6);
+</p>
+<p>
+8)	Opholdspaalæg til Forbrydere (nu midlertidig Lov om nogle Ændringer i Straffe-<lb />
+lovgivningen af 1. April 1911 § 8);
+</p>
+<p>
+9)	Inddragelse af Penge eller Gods;
+</p>
+<p>
+10)	Fortabelse af Embede, Bestilling, Rang, Titel, Orden eller Hæderstegn;
+</p>
+<p>
+11)	Fortabelse af eller Indskrænkning i Næringsadkomst;
+</p>
+<p>
+12)	Fortabelse af Arveret;
+</p>
+
+</pb>

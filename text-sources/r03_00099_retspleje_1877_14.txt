@@ -1,0 +1,42 @@
+93
+<pb n="99" />
+
+<wtitle>§ 304.</wtitle>
+<p>Den Part, som i Henhold til foregående<lb />
+Paragraf vil påanke en Dom efter Udløbet<lb />
+af den i § 302 fastsatte Tid, har at indgive<lb />
+et skriftligt Andragende herom til Højesterets<lb />
+Formand, hvri han må anføre de Omstændigheder, som formentlig berettige ham til<lb />
+Sagens Påanke. Højesterets Formand har<lb />
+derefter i Forening med to Medlemmer af<lb />
+Retten at afgjøre, om Påanke kan tilstedes.<lb />
+Modparten kan opfordres til at erklære sig over<lb />
+Andragendet, ligesom den Part, der vil påanke, på Opfordring af Højesterets Formand,<lb />
+har at tilvejebringe de fornødne Beviser.<lb />
+Såvidt muligt stal i sådant Tilfælde Beviset<lb />
+føres ved Dokumenter. Er Vidneførsel uundgåelig, foregår denne ikke ved Højesteret, men<lb />
+Vidnerne føres ved Underretten på del Sted,<lb />
+hvor de bo eller opholde sig, i de Former<lb />
+og på den Måde, som når Vidner afhøres<lb />
+førend Hovedforhandlingen, og Udskrift af det<lb />
+Stedfundne fremlægges i Overensstemmelse<lb />
+med Reglerne i § 224. Tilstedes Påanken,<lb />
+erholder vedkommende Part en Udfærdigelse<lb />
+herom, der må meddeles Modparten i Forbindelse med den i § 306 omhandlede Underretning om Påanken.</p>
+<wtitle>§ 305.</wtitle>
+<p>Pånke er udelukket:</p>
+<p>a) Når Ankefristen er udløbet, og Sagens<lb />
+Fremme ikke tilstedes i Henhold til foregående<lb />
+Paragraf.</p>
+<p>b) Når Parten udtrykkeligt eller stiltiende<lb />
+har givet Afkald på Påanke, Sådant Afkald<lb />
+på Påanke kan ikke gyldigen gives, førend<lb />
+efterat den Retsafgjørelse, om hvis Påanke<lb />
+der er Tale, er truffen.</p>
+<wtitle>§ 306.</wtitle>
+<p>Påanke iværksættes derved, at Parten på<lb />
+den i §§ 108—119 foreskrevne Måde meddeler Modparten en skriftlig Underretning om,<lb />
+at han agter at påanke, i Forbindelse med en<lb />
+summarisk Angivelse af Ankens Gjenstand og<lb />
+Hensigt. Enhver af Parterne kan iværkjætte<lb />
+selvstændig Påanke   under Iagttagelse   af de</p>

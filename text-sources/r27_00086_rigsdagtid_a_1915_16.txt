@@ -1,0 +1,78 @@
+2811
+<pb n="86" />
+<h>
+<coll>
+2811
+</coll>
+<topmidle>
+F. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2812
+</colr>
+</h>
+<title>Kapitel 33.</title>
+<undertitle>
+Domsforhandling for Landsret i 1ste Instans.
+</undertitle>
+<wtitle>§ 363.</wtitle>
+<p>
+Udebliver Sagsøgeren ved Domsforhandlingen, afviser Landsretten Sagen og<lb />
+tilkender den Sagsøgte, der har givet forgæves Møde, Sagsomkostninger, for saa vidt<lb />
+han ikke frafalder Paastand derom. Sagsøgerens Udeblivelse udelukker ikke, at der<lb />
+gives Sagsøgte Dom for af ham tingfæstede Modkrav.
+</p>
+<p>
+Udebliver Sagsøgte ved Domsforhandlingen, finder de i § 341 givne Regler til-<lb />
+svarende Anvendelse.
+</p>
+<wtitle>§ 364.</wtitle>
+<p>
+Naar Domsforhandlingen er begyndt, kan den udenfor de i §§ 366, 369 og<lb />
+370 nævnte Tilfælde ikke uden tvingende Nødvendighed udsættes, men fortsættes uaf-<lb />
+brudt i det begyndte og de paafølgende Møder, der saa vidt muligt skal holdes de<lb />
+umiddelbart efterfølgende Dage.
+</p>
+<wtitle>§ 365.</wtitle>
+<p>
+Ved Domsforhandlingen skal Formalitetsindsigelser behandles før Realiteten<lb />
+og paakendes særskilt, medmindre Retten bestemmer, at de alle eller nogle af dem<lb />
+skal forhandles i Forbindelse med Realiteten.
+</p>
+<p>
+Naar Formaliteten er indladt, er alle de Indsigelser vedrørende Formaliteten<lb />
+indtil dette Tidspunkt, som kan frafaldes, udelukkede fra at komme i Betragtning.
+</p>
+<p>
+I Tilfælde af, at Sagen ikke i det hele afvises, skal Retten ved Formalitets-<lb />
+kendelsens Afsigelse beramme ny Domsforhandling. Udebliver Sagsøgte da ved denne<lb />
+Domsforhandling, finder de i § 341 indeholdte Regler tilsvarende Anvendelse.
+</p>
+<wtitle>§ 366.</wtitle>
+<p>
+Domsforhandlingen foregaar paa Grundlag af Skriftvekslingen og det Retsbogen<lb />
+tilførte. Naar en Part under Forhandlingen helt eller delvis frafalder Paastande, Be-<lb />
+nægtelser o. desl. eller gør Indrømmelser, er Modparten berettiget til at faa fornøden<lb />
+Tilførsel herom optaget i Retsbogen. Vil en Part fremsætte Paastande eller Anbrin-<lb />
+gender, paa hvilke Modparten ikke er blevet forberedt gennem det skriftlige Grundlag,<lb />
+bliver det efter Begæring ved Rettens Kendelse at nægte, saafremt deres Fremsættelse<lb />
+vilde medføre Forhandlingens Udsættelse, medmindre det skønnes at være undskylde-<lb />
+ligt, at de ikke tidligere er meddelte. Tilstedes deres Fremsættelse, optages de i<lb />
+Retsbogen, og Forhandlingen bliver efter den deri interesserede Parts Begæring at<lb />
+udsætte ganske eller til Dels, for saa vidt det er nødvendigt til Varetagelse af<lb />
+hans Tarv.
+</p>
+<p>
+Tilsvarende Regler gælder om Fremførelse af Beviser, om hvis Fremkomst<lb />
+Modparten ikke har erholdt saa betimelig Meddelelse, at han har kunnet forberede<lb />
+sig tilstrækkelig.
+</p>
+<wtitle>§ 367.</wtitle>
+<p>
+Ved Domsforhandlingen gives i Regelen Ordet først til Sagsøgeren, men Rettens<lb />
+Formand kan gøre Afvigelse herfra.
+</p>
+<p>
+Ved Realitetsforhandlingens Begyndelse skal Parterne oplæse og fremlægge<lb />
+deres skriftlig affattede Paastande.
+</p>

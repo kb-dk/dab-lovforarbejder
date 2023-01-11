@@ -1,0 +1,36 @@
+45
+<pb n="51" />
+<title>Andet Afsnit.</title>
+<undertitle>Om Procesmåden ved Landsretterne.</undertitle>
+<title>Kapitel I.</title>
+<undertitle>Om de Skrifter, som vexles mellem Patterne<lb />
+og om de Skrifter, som skulle forelægges<lb />
+Retten forinden den mundtlige Forhandlings Begyndelse.</undertitle>
+<wtitle>§  159.</wtitle>
+<p>Processen indledes med Sagsøgerens Klageskrift.    Dette skal indeholde:</p>
+<p>a)    Sagsøgerens   Navn   og  Bopæl   samt<lb />
+den af ham antagne Sagførers Navn og Bopæl eller en Erklæring om, at ingen Sagfører<lb />
+agtes benyttet;    Sagsøgtes Navn  og  derhos<lb />
+hans Bopæl eller Opholdssted,  forsåvidt   den<lb />
+eller det  vides.     Fremdeles   skal   nævnes   en<lb />
+Person,  boende  på det  Sted,   hvor  Søgen<lb />
+anlægges, til hvem alle processuelle Meddelelser kunne gjøres  med   samme  Virkning,   som<lb />
+om de vare gjorte til Sagsøgeren selv.    Undladelse af dette bevirker,   at sådanne Meddelelser  gyldigen    kunne   afgives   på   Rettens<lb />
+Skriverkontor.</p>
+<p>b)   Angivelse  af  den Påstand,   Sagsøgeren agter at nedlægge, i Forbindelse med  en<lb />
+tilstrækkelig og tydelig Fremstilling af de faktiske Omstændigheder, hvorpå Sagsøgeren støtter den.</p>
+<p>e) Opfordring til Sagsøgte til at møde<lb />
+for den i Klageskriftet benævnte Ret på den<lb />
+Dag, som Rettens Formand ved Påtegning<lb />
+på Klageskriftet bestemmer. — Sagsøgeren<lb />
+må drage Omsorg for, at Forkyndelsen iværksættes så betimeligt, at Sagsøgte får den<lb />
+fulde Varselsfrist (§   161).</p>
+<p>Med Klageskriftet må følge bekræftet<lb />
+Gjenpart af de Dokumenter, ved hvilke Sagsøgeren vil bevise sin Påstand, samt Tilbud<lb />
+om at forevise Sagsøgte Originalerne, der til<lb />
+denne Hensigt må henlægges på Rettens<lb />
+Skriverkontor i en nærmere angivet Tid af<lb />
+mindst 8 Dage umiddelbart efter Klageskriftets<lb />
+Meddelelse. Ved Dokumenter af betydeligere<lb />
+Omfang, såvelsom hvor det iøvrigt er<lb />
+forbundet med særegen Vanskelighed eller Bekostning at tage Gjenpart,  bortfalder Forplig-</p>

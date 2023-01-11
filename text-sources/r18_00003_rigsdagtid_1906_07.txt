@@ -1,0 +1,79 @@
+3645
+<pb n="3"/>
+<h>
+<coll>3645</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3646</colr>
+</h>
+<p>
+De sø- og handelskyndige Medlemmer vælges paa den i Lov af 19. Februar<lb />
+1861 § 3 angivne Maade og skulle have de i samme Lovs § 4 nævnte Egenskaber,<lb />
+ligesom Bestemmelserne i Lovens §§ 6 og 7 skulle gælde om dem.
+</p>
+<p>
+Til at sætte Retten udkræves i Sager, der i Medfør af §§ 201—02 vilde høre<lb />
+under Landsretterne, Tilstedeværelsen af Formanden og 4 sø- eller handelskyndige<lb />
+Dommere. I Sager, der ifølge de nævnte Paragraffer vilde høre under Underretterne,<lb />
+beklædes Retten af Formanden og 2 sø- eller handelskyndige Dommere. Dog kan<lb />
+Retten beklædes af Formanden alene, naar der ikke er Spørgsmaal om Vidneførsel,<lb />
+Syn og Skøn, Afhøring af Parter, Parts Ed, Kendelse om omtvistede Punkter eller<lb />
+Domsforhandling. Ved Behandling af Straffesager samt, naar Søforklaringer eller<lb />
+Søforhør skulle optages, dannes Retten af Formanden og 2 søkyndige Medlemmer;<lb />
+dog kan Retten i Straffesager udenfor Domsbehandling beklædes af Formanden alene,<lb />
+for saa vidt der ikke til Brug under denne skal afhøres Vidner, ske Besigtigelse eller<lb />
+afgives Syn eller Skøn.
+</p>
+<p>
+Ved Sø- og Handelssager forstaas i denne Lov de borgerlige Sager, i hvilke<lb />
+Fagkundskab til Søforhold eller til Handelsforhold skønnes at være af Betydning; og<lb />
+ved Afgørelsen heraf vil der være at tage særligt Hensyn til, om begge Parter ønske<lb />
+Sagen behandlet som Sø- og Handelssag.
+</p>
+<p>
+I København blive Handlendes, Fabrikanters og Skibsrederes Konkursboer<lb />
+derhos at behandle af Sø- og Handelsretten under Ledelse af en af Kongen blandt<lb />
+Byrettens Medlemmer valgt Næstformand, som beskikkes til tillige at fungere i denne<lb />
+Egenskab. I hvert enkelt Bos Behandling deltager Næstformanden og 2 af de sø-<lb />
+eller handelskyndige Medlemmer.
+</p>
+<p>
+Retten bestemmer selv den Omgang, hvorefter de sø- og handelskyndige<lb />
+Medlemmer skulle deltage i Rettens Møder og Boernes Behandling.
+</p>
+<p>
+I Formandens Forfald træder i fornødent Fald Næstformanden i hans Sted.<lb />
+I Næstformandens Forfald træder Formanden i dennes Sted.
+</p>
+<wtitle>§ 10.</wtitle>
+<p>
+Oppebørsel af og Regnskabsaflæggelse for Retsafgifter forestaas ved hver<lb />
+Landsret af en Justitssekretær, der tillige er. Retsskriver. Desuden ansættes der ved<lb />
+Landsretterne, foruden det i øvrigt fornødne Kontorpersonale, ved Østre Landsret 6,<lb />
+ved Vestre Landsret 3 Fuldmægtige. Landsrettens Justitiarius træffer Bestemmelse<lb />
+om Forretningernes Fordeling.
+</p>
+<p>
+Ved Sø- og Handelsretten indrettes et af Formanden ledet Skriverkontor, hvor-<lb />
+ved ansættes en Justitssekretær samt to Fuldmægtige foruden det øvrige fornødne<lb />
+Kontorpersonale.
+</p>
+<wtitle>§ 11.</wtitle>
+<p>
+Domsbehandling af alle Landsretssager i 1ste Instans, saavel borgerlige Sager<lb />
+som Straffesager, foregaar dels paa det Sted, hvor Landsretten har sit Sæde, dels paa<lb />
+andre ved kongelig Anordning dertil fastsatte Steder i Landsretskredsen. I Anord-<lb />
+ningen bestemmes, hvilke Dele af Landsretskredsen, der skal henlægges til hvert af<lb />
+disse Tingsteder.
+</p>
+<wtitle>§ 12.</wtitle>
+<p>
+Landsretskredsene inddeles i Underretskredse. Disses Tal og Omraade forbliver
+</p>
+<p>
+som hidtil. Forandring i Omraadet kan ske ved kongelig Anordning.
+</p>
+<wtitle>§ 13.</wtitle>
+<p>
+Underrettens Virkekreds omfatter Behandling og Paakendelse af Retssager og<lb />
+Foretagelse af Retshandlinger i det Omfang, som bestemmes ved Reglerne i denne Lov
+</p>

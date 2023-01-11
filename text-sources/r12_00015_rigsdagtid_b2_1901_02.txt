@@ -1,0 +1,142 @@
+2391
+<pb n="15" />
+<h>
+<coll>2391</coll>
+<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
+<colr>2392</colr>
+</h>
+<leftside>
+<wtitle>Til § 373.</wtitle>
+<p>
+1. Stk., L. 1: „§§ 341 ff." 1. „§ 1007 ff.".
+</p>
+<p>
+1. Stk., L. 3: „§ 337" 1. „§ 1003".
+</p>
+<p>
+3. Stk., L. 2: „Kap. XXVII, og XXVIII."<lb/>
+1. „Kap. 88. og 89".
+</p>
+<wtitle>Til § 374.</wtitle>
+<p>
+1. Stk, L. 2: „S 36" 1. „§ 700".
+</p>
+<wtitle>Til § 375.</wtitle>
+<p>
+1.	og 2. Stk, L. 2: „§ 36" 1. „§ 700".
+</p>
+<p>
+2.	Stk, L. 4: „§ 373" 1. „§ 1039".<lb/>
+2. Stk, L. 6: „§ 354" 1. „§ 1020".
+</p>
+<wtitle>Til § 376.</wtitle>
+<p>
+1. Stk, L. 5: Kap. XXVIII, jfr. Kap.<lb/>
+XXVII." 1. „Kap. 89 jfr. Kap. 88".
+</p>
+<p>
+1.	Stk, L. 9: „§ 374" 1. „§ 1040".
+</p>
+<p>
+2.	Stk, L. 3: ,,§ 283" 1. „§ 401-'; „§ 345"<lb/>
+1. „§ 1011". '
+</p>
+<p>
+3.	Stk, L. 2: „§ 371" 1. „§ 1037".
+</p>
+<wtitle>Til § 377.</wtitle>
+<p>
+1.	Stk., L. 1: „§ 302" 1. „§ 967".
+</p>
+<p>
+3. Stk.. L. 3: ,.§§ 219 og 221" 1. „§§ 884<lb/>
+og 886".
+</p>
+<wtitle>Til § 378.</wtitle>
+<p>
+2.	Stk, L. 2: „§ 377" 1. „§ 1043".
+</p>
+<wtitle>Til § 382.</wtitle>
+<p>
+2. Stk, L. 2: „§ 378" 1. „§ 1044".
+</p>
+<p>
+2. Stk., L. 3: „§ 379" 1. „§ 1045".
+</p>
+<wtitle>Til § 385.</wtitle>
+<p>
+1. Stk, L. 7: „§§ 341 ff." 1. „§§ 1007 ff.".
+</p>
+</leftside>
+<rightside>
+<wtitle>Til § 386.</wtitle>
+<p>
+2. Stk, L. 2: „§ 323" 1. ,,§ 989".
+</p>
+<wtitle>Til § 389.</wtitle>
+<p>
+1. Stk, L. 5: „§§ 341 ff." 1. „§§ 1007 ff.".
+</p>
+<p>
+1.	Stk, L. 7: „Kap. XVIII" 1. „Kap. 78".
+</p>
+<p>
+2.	Stk, L. 3: „Kap. XVIII" 1. „Kap. 78".
+</p>
+<p>
+2. Stk, L. 5: „§ 182" 1. ,,§ 847".
+</p>
+<wtitle>Til § 393.</wtitle>
+<p>
+2. Stk, L. 1: „§ 106 jfr. § 127" 1. „8 770<lb/>
+jfr. § 791".
+</p>
+<p>
+2.	Stk, L. 3: „§ 106" 1. „§ 770".
+</p>
+<p>
+3.	Stk, L. 1: „§ 129" 1. ,,§ 793".
+</p>
+<wtitle>Til § 395.</wtitle>
+<p>
+2.	Stk, L. 3: „§ 397" 1. „§ 1063".
+</p>
+<p>
+3.	Stk, L. 5: „§ 318" 1. „§ 984".
+</p>
+<wtitle>Til § 398.</wtitle>
+<p>
+1. Stk, L. 3: „§ 106" 1. „§ 770".
+</p>
+<wtitle>Til § 399.</wtitle>
+<p>
+1. Stk, L. 1: „§ 36" 1. „§ 700".
+</p>
+<p>
+1. Stk, L. 2: „§ 394" 1. „§ 1060".
+</p>
+<wtitle>Til § 402.</wtitle>
+<p>
+L. 3: „Kap. XII" 1. „Kap. 72".
+</p>
+<wtitle>Til § 410.</wtitle>
+<p>
+L. 2: „§ 409" 1. „§ 1073".<lb/>
+L. 3: „§ 318" 1. „§ 984".<lb/>
+L. 5: „Kap. XXX" 1. „Kap. 91".
+</p>
+</rightside>
+<signatur>
+<p>
+Rettelser.
+</p>
+<p>
+Sp. 2198, Linie 5 f. o, „Nr. 36" ændres til: „Nr. 45".
+</p>
+<p>
+—	2333, 3die Stk, Linie 1, „Ændringsforslaget til § 2" ændres til: „Ændringsforslaget under Nr. 536".
+</p>
+<p>
+—	2360, over Ændringsforslag Nr. 655 til § 410 skal staa: „Af Udvalgets Flertal".
+</p>
+</signatur>

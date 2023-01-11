@@ -1,0 +1,80 @@
+2441
+<pb n="152" />
+<h>
+<coll>2441</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2442</colr>
+</h>
+<p>
+under Landsret, ved den Landsret (jvf. § 329), under hvilken vedkommende Skifte-<lb/>
+ret staar.
+</p>
+<p>
+Dog skal det altid staa den, hvis Fordring eller nedlagte Paastand bestrides<lb/>
+af Boet, frit for at anlægge Sagen ved Underret uden Hensyn til dens Genstand.
+</p>
+<wtitle>§ 661.</wtitle>
+<p>
+Boet er i de i § 659, 1ste Stykke, omhandlede Tilfælde selv at anse som<lb/>
+Modpart, hvorfor Stævningen lyder paa det og forkyndes for Kurator paa Boets Vegne.
+</p>
+<p>
+Det paahviler Kurator at sørge for, at Boet under Retssagen repræsenteres<lb/>
+paa behørig Maade.
+</p>
+<wtitle>§ 662.</wtitle>
+<p>
+Dommen i en i Henhold til § 659 anlagt Sag kan ikke, medmindre paagæl-<lb/>
+dende Parter frafalde Anke mod Dommen, eller den kun kan paaankes efter særlig<lb/>
+Tilladelse, lægges til Grund for Boets videre Behandling, førend den almindelige Anke-<lb/>
+frist er udløben ubenyttet.
+</p>
+<p>
+Skulde Dommen blive forandret eller annuleret ifølge en senere Paaanke, tages<lb/>
+behørigt Hensyn hertil ved Boets videre Behandling, i fornødent Fald ved Omgørelse<lb/>
+af det foretagne, hvis Konkursbehandlingen ikke endnu er sluttet, men efter den Tid<lb/>
+maa enhver Forandring søges iværksat ved Paaanke af Udlodningen.
+</p>
+<wtitle>§ 663.</wtitle>
+<p>
+Spørgsmaal om Boets Overtagelse, Bestyrelse — derunder Fastsættelse af de<lb/>
+i Konkurslovens § 69 omhandlede Vederlag — Udlevering og, med de af § 659 flydende<lb/>
+Begrænsninger, ogsaa om dets Opgørelse paakendes af Skifteretten. Tvistigheder an-<lb/>
+gaaende disse Spørgsmaal behandles efter de for Underretssager foreskrevne Regler.<lb/>
+Forligsmægling foregaar ved Skifteretten.
+</p>
+<wtitle>§ 664.</wtitle>
+<p>
+Imod Kendelser eller Beslutninger af Skifteretten, som forefalde under Boets<lb/>
+Behandling, kan der udenfor de i Konkurslovens § 137 angivne Tilfælde finde Kære<lb/>
+Sted til den Landsret, under hvilken vedkommende Skifteret staar. Ligeledes er den<lb/>
+i Konkurslovens § 48, 2det Stykke, omhandlede Beslutning Genstand for Kære til<lb/>
+Landsretten. Med Hensyn til Kære imod den Beslutning af Skifteretten, hvorved en<lb/>
+antagen Akkord forkastes, blive de i Konkurslovens § 138 fastsatte Begrænsninger at<lb/>
+iagttage.
+</p>
+<p>
+Den sluttede Konkursbehandling og i Forbindelse hermed de under samme<lb/>
+afsagte Kendelser og tagne Beslutninger, for saa vidt som disse ikke have været gjorte<lb/>
+til Genstand for Kære, kunne paaankes til den Landsret, under hvilken Skifteretten<lb/>
+staar. Den Beslutning af Skifteretten, hvorved en antagen Akkord er stadfæstet, kan<lb/>
+dog kun i de i Konkurslovens § 139 nævnte Tilfælde indbringes til Prøvelse af Lands-<lb/>
+retten; dette sker ved Kære.
+</p>
+<wtitle>§ 665.</wtitle>
+<p>
+Ankefristen er 4 Uger.
+</p>
+<p>
+Dog kan Justitsministeren undtagelsesvis indtil 1 Aar efter Konkursbehand-<lb/>
+lingens Slutning tilstede Anke, naar ganske særegne Omstændigheder retfærdiggøre, at<lb/>
+Parten ikke i rette Tid har iværksat Anke.
+</p>
+<wtitle>§ 666.</wtitle>
+<p>
+Kærefristen er 2 Uger.
+</p>
+<p>
+Naar en Kendelse eller Beslutning, der forefalder under Konkursbehandlingen,<lb/>
+er paakæret, bliver Boets Behandling ikke desto mindre at fortsætte, men Skifteretten
+</p>

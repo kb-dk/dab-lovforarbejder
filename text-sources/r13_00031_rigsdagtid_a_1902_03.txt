@@ -1,0 +1,74 @@
+1789
+<pb n="31" />
+<h>
+<coll>
+1789
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+1790
+</colr>
+</h>
+<wtitle>§  148.</wtitle>
+<p>
+Enhver, der tror sig i det hele eller for en Del berettiget til den Ting eller<lb />
+den Rettighed, som er Genstand for en Retstrætte i første Instans imellem andre,<lb />
+kan under Iagttagelse af Reglerne i Kapitel 32 indtræde som Intervenient i den<lb />
+begyndte Sag.
+</p>
+<p>
+Intervention kan ikke finde Sted, naar den Ret, for hvilken Sagen svæver,<lb />
+ikke ved Parternes Samtykke kunde gøres kompetent til at paakende Interventions-<lb />
+søgsmaalet, dersom det anlagdes særskilt.
+</p>
+<wtitle>§  149.</wtitle>
+<p>
+Enhver, der har en retlig Interesse i, at en Part vinder en for Retten svæ-<lb />
+vende Sag, kan indtræde i Sagen til denne Parts Understøttelse og faa Adgang til at<lb />
+ytre sig i Sagen i Overensstemmelse med de nærmere Regler i Kapitel 32.
+</p>
+<wtitle>§  150.</wtitle>
+<p>
+Sagsøgeren kan andrage paa at maatte tilstævne (adcitere) Trediemand for at<lb />
+faa Dom over ham enten alternativt eller tilsammen med Sagvolderen. Saadant An-<lb />
+dragende kan dog ikke tages til Følge, naar det maa tilregnes Sagsøgeren som en<lb />
+Forsømmelse, at den paagældende Trediemand ikke fra Begyndelsen af er bleven ind-<lb />
+draget under Søgsmaalet. I øvrigt blive de i Kapitel 32 givne Regler at iagttage.
+</p>
+<wtitle>§  151.</wtitle>
+<p>
+Ved Anvendelsen af de i dette Kapitel indeholdte Regler forbeholdes der dog<lb />
+Retten den Myndighed, som er tillagt den i §  213.
+</p>
+<title>
+Kapitel 17.
+</title>
+<title>
+Tilfælde, hvor Rettens Personer skulle eller kunne vige deres Sæde.
+</title>
+<wtitle>§  152.</wtitle>
+<p>
+Ingen Dommer maa handle i en Sag, naar han
+</p>
+<p>
+1)	selv er Part i Sagen eller er interesseret i dens Udfald;
+</p>
+<p>
+2)	er beslægtet eller besvogret med nogen af Parterne i op- eller nedstigende Linie<lb />
+eller i Sidelinien saa nær som Søskendebørn, eller er en af Parternes Ægte-<lb />
+fælle, Værge, Kurator, Adoptiv- eller Plejefader, Adoptiv- eller Plejesøn;
+</p>
+<p>
+3)	er gift med eller beslægtet eller besvogret i op- eller nedstigende Linie eller<lb />
+beslægtet i Sidelinien saa nær som Søskende med nogen i Sagen optrædende Sag-<lb />
+fører eller anden Rettergangsfuldmægtig for nogen af Parterne;
+</p>
+<p>
+4)	har aflagt Vidnesbyrd eller været Syns- eller Skønsmand i Sagen eller handlet i<lb />
+den som Sagfører eller i øvrigt som Rettergangsfuldmægtig for nogen af Parterne;
+</p>
+<p>
+5)	som Dommer har handlet i Sagen i den underordnede Instans.
+</p>

@@ -1,0 +1,77 @@
+3339
+<pb n="2">
+<h>
+<coll>
+3339
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3340
+</colr>
+</h>
+<lowtitle>§ 2.</lowtitle>
+<p>
+Højesteret er øverste Domstol for hele Riget. Den har sit Sæde i København<lb />
+og bestaar af en Formand og 12 andre Højesteretsdommere. I Formandens Sted<lb />
+træder i fornødent Fald den efter Embedsalder ældste af Rettens tilstedeværende<lb />
+Dommere.
+</p>
+<p>
+I hver Sags Afgørelse ved Højesteret deltage, for saa vidt ikke andet særlig<lb />
+er bestemt, mindst 9 Dommere. Haves i nogen Sag ikke det fornødne Antal af Høje-<lb />
+steretsdommere til Raadighed, kalder Formanden en eller flere Landsdommere til at<lb />
+deltage i Sagens Behandling.
+</p>
+<lowtitle>§ 3.</lowtitle>
+<p>
+Skriverforretningerne ved Højesteret samt Oppebørsel af og Regnskabsaflæggelse<lb />
+for Retsafgifter forestaas af en Justitssekretær. Ved Skriverkontoret ansættes 3 Fuld-<lb />
+mægtige og det øvrige fornødne Kontorpersonale. Højesterets Formand træffer Be-<lb />
+stemmelse om Forretningernes Fordeling.
+</p>
+<lowtitle>§ 4.</lowtitle>
+<p>
+Der skal være 2 Landsretter: Østre Landsret og Vestre Landsret, hver med<lb />
+samme Landomraade, som henholdsvis Landsoverretten i København og Landsover-<lb />
+retten i Viborg hidtil har haft.
+</p>
+<p>
+Østre Landsret, der har sit Sæde i København, bestaar af en Formand og<lb />
+17 andre Landsdommere; Vestre Landsret, der har sit Sæde i Viborg, bestaar af en<lb />
+Formand og 12 andre Landsdommere.
+</p>
+<p>
+I Formandens Forfald træder i fornødent Fald det efter Embedsalder ældste<lb />
+tilstedeværende Medlem af Retten i hans Sted.
+</p>
+<lowtitle>§ 5.</lowtitle>
+<p>
+Landsretternes Domsmyndighed omfatter dels Behandling og Paakendelse i<lb />
+første Instans af Retssager i det Omfang, som bestemmes ved Reglerne i denne Lov,<lb />
+dels Prøvelse i anden Instans af Underretternes Behandlinger og Afgørelser overens-<lb />
+stemmende med de nævnte Regler. Endvidere kan Kære rejses for Landsretten over<lb />
+Underrettens Afgørelser vedrørende de i § 14 a—c ommeldte Forhold.
+</p>
+<lowtitle>§ 6.</lowtitle>
+<p>
+Hvor ikke andet er særlig bestemt i denne Lov, deltage i de enkelte Lands-<lb />
+retssagers Behandling mindst 3 af Rettens Dommere. Sagernes Fordeling mellem<lb />
+Dommerne bestemmes af Formanden efter Forhandling med Rettens Medlemmer.
+</p>
+<lowtitle>§ 7.</lowtitle>
+<p>
+I de Straffesager,  ved hvis Paadømmelse Nævninger  medvirke,  samt  i andre<lb />
+Sager, naar de i Medfør af § 11 behandles ved et Ting (jvf. § 23) udenfor Rettens<lb />
+Sæde. kan Landsrettens Formand overdrage til en anden af Rettens Dommere at<lb />
+beklæde Formandspladsen. Ved hver Landsret kan, om fornødent, saadant Hverv<lb />
+overdrages til 3 af Rettens Dommere. Overdragelsen sker for et Aar ad Gangen og<lb />
+kan fornyes.
+</p>
+<lowtitle>§ 8.</lowtitle>
+<p>
+I andre Sager end de i § 7 nævnte beklædes Formandspladsen af Rettens<lb />
+Formand eller, naar han ikke deltager i Behandlingen, af den efter Embedsalder<lb />
+ældste af de Dommere, af hvem Retten dannes.
+</p>
+
+</pb>

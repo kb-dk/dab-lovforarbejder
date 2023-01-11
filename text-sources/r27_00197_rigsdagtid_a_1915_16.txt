@@ -1,0 +1,78 @@
+3033
+<pb n="197" />
+<h>
+<coll>
+3033
+</coll>
+<topmidle>
+F. t. L. om  Retens Pleje.
+</topmidle>
+<colr>
+3034
+</colr>
+</h>
+<p>
+foregaa, for Nævninger. Det bør iagttages, at det tidligste Ting vælges, som Omstæn-<lb />
+dighederne tillader.
+</p>
+<wtitle>§ 832.</wtitle>
+<p>
+Anklageskriftet indleveres paa Landsrettens Kontor; ved dets Indlevering er<lb />
+Sagen tingfæstet.
+</p>
+<p>
+Overanklageren foranstalter uden Ophold en Genpart af Anklageskriftet for-<lb />
+kyndt for Tiltalte. Ved Forkyndelsen afæskes der ham Erklæring, om han har an-<lb />
+taget en Forsvarer. Saa snart Forkyndelsen er sket, skal Overanklageren, saafremt<lb />
+Tiltalte ikke har antaget Forsvarer, gøre fornøden Henstilling til Retten om Beskik-<lb />
+kelse af en saadan.
+</p>
+<p>
+Om Beskikkelsen af Forsvarer meddeles Underretning til Overanklageren og<lb />
+Tiltalte. Overanklageren meddeler Forsvareren Genpart af Anklageskriftet,
+</p>
+<wtitle>§ 833.</wtitle>
+<p>
+Vil Overanklageren inden Domsforhandlingen enten udvide Tiltalen til andre<lb />
+strafbare Forhold end de i Anklageskriftet nævnte eller berigtige Angivelser i An-<lb />
+klageskriftet, maa dette ske ved Indlevering og Forkyndelse af yderligere eller nyt<lb />
+Anklageskrift.
+</p>
+<p>
+Under Domsforhandlingen kan Udvidelse af Tiltalen til andre strafbare For-<lb />
+hold ske med Rettens Samtykke, naar Tiltalte indvilger deri, saa og naar det For-<lb />
+hold, som der er Spørgsmaal om at inddrage, er begaaet under selve Domsforhand-<lb />
+lingen. Udvidelsen sker efter Rettens Bestemmelse ved Tilføjelse paa Anklageskriftet<lb />
+eller Tilførsel i Retsbogen: det samme gælder om Berigtigelser, som Overanklageren<lb />
+under Domsforhandlingen foretager i Anklageskriftets Angivelser.
+</p>
+<p>
+Hvis Tiltalte ikke indvilger i Tiltalens Udvidelse, maa der imod ham rejses<lb />
+ny Sag, under hvilken Straffelovens § 64 da kommer til analogisk Anvendelse.
+</p>
+<wtitle>§ 834.</wtitle>
+<p>
+Samtidig med Indleveringen af Anklageskriftet eller snarest muligt derefter<lb />
+skal Overanklageren paa Rettens Kontor indlevere en Udskrift af de i Sagen fore-<lb />
+tagne retslige Undersøgelses- og Bevishandlinger, ledsaget af Sagens øvrige Dokumenter<lb />
+og andre synlige Bevismidler, samt en Fortegnelse over de Beviser, som agtes frem-<lb />
+førte, med kort Angivelse af, hvad dermed agtes godtgjort. Vidner og Syns- eller<lb />
+Skønsmænd skal betegnes med Navn, og hvad der i øvrigt maatte udkræves til de-<lb />
+res nøjagtige Betegnelse, under Opgivende af, om de agtes afhørte under Domsforhand-<lb />
+lingen eller ved en Undersøgelsesret, eller om allerede afgivne Forklaringer agtes be-<lb />
+nyttede. Ønskes noget Vidnes Mødepligt udvidet (§ 171), eller ønskes Syns- eller<lb />
+Skønsmænd udmeldte, fremsættes fornøden Begæring herom til Retten.
+</p>
+<p>
+Det bør iagttages, at ikke flere Vidner end fornødent indkaldes, hvorved særlig<lb />
+bliver at tage Hensyn til, om Tiltalte for Retten har afgivet en fuldstændig og tro-<lb />
+værdig Tilstaaelse.
+</p>
+<wtitle>§ 835.</wtitle>
+<p>
+En Genpart af Bevisfortegnelsen foranstaltes af Overanklageren uden Ophold<lb />
+meddelt Forsvareren tillige med en Udskrift af de i Sagen foretagne Undersøgelses-<lb />
+og Bevishandlinger. I øvrigt gøres Sagens Dokumenter og andre synlige Bevismidler<lb />
+saa vidt muligt tilgængelige paa hensigtsmæssig og betryggende Maade, og fornøden<lb />
+Underretning herom meddeles.
+</p>

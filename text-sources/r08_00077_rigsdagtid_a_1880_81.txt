@@ -1,0 +1,48 @@
+3517
+<pb n="77" />
+<h>
+<coll>3517</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>3518</colr>
+</h>
+<p>Vidner, hvis Udsagn ftaa i Strid med hinanden, kunne efter Parternes Begæring<lb />
+eller Rettens Beslutning stilles imod hinanden.</p>
+<p>Forlader et Vidne ubcfsiet Retslokalet, eller overtræder det rormandens Paalæg om<lb />
+at blive tilstede i Noecheden, kan det behandles paa den Maade, som i § 221 er bestemt om<lb />
+det Vidne, der ubefoiet ncrgtev at svare.</p>
+<wtitle>§ 223.</wtitle>
+<p>De i det foregaaende omhandlede Tvangsmidler imod Bidnet bringes til Anvendelse<lb />
+af den Ret, for hvilken Vidnet er indkaldt til at mode.</p>
+<wtitle>§ 224.</wtitle>
+<p>Afhores et Vidne ikke under Bevisforhandlingen, men for en Underret, enten i Hen-<lb />
+hold til Rettens Bestemmelse ifølge §181, jfr. § 203, eller fordi Vidnet er afhort for-<lb />
+inden Bevisforhandlingen, jfr. § 373, skal dets Udsagn fuldstændigt nedstrivcs, oplæscs for Vid-<lb />
+net og tiltroedes af dette, i Overensstemmelse med de hidtil gjældende Regler.</p>
+<p>Den Part, som vil benytie Vidneforklaringen, kan da under Bevishandlingen frem-<lb />
+lægge og lade oploese en Udskrift af den ovZagne Protokol.</p>
+<title>Anden Underafdeling.</title>
+<undertitle>Om Bevis ved Syu eller skjøn.</undertitle>
+<wtitle>§ 225.</wtitle>
+<p>Fremfættes Vegjæring om Optagelse af Syn eller skjøn, udmelder Retten, hvor den<lb />
+tager Begjæringen til Folge, jfr. § 181, en eller flere Syns- eller skjønsmænd. Antallet<lb />
+bestemmer Retten, forsaavidt ingen særlig Forskrift herom er given.</p>
+<p>Findes der ikke sagkyndige Personer, som kunne benyttes, indenfor Retskredsen, eller<lb />
+er den Ting, som fkal være Gjenstand for Forretningen, udenfor Retskredsen, kan Retten udmelde<lb />
+mænd af andre Retskredse, saafremt det oplyses, at disse ere villige til at efterkomme Ud-<lb />
+meldelsen. I modsat Tilfælde har Retten at begjære de fornødne Sagkyndige udmeldt af<lb />
+den Landsret eller af den Underret, i hvis Kreds saadanne formenes at bo. Disse ere da<lb />
+pligtige at foretage Syns- eller Skønsforretningen, ligesaafuldt som om de boede i den<lb />
+Reiskreds, hvor Hovedsagen fores.</p>
+<wtitle>§ 226.</wtitle>
+<p>Enhver af Parterne kan gjøre Henstilling til Retten om Valget af Syns- eller<lb />
+Skjensmoendene, men Retten er ikke bunden herved.</p>
+<p>personer, der paa Grund af deres Forhold til Parterne eller Sagen vilde være inha-<lb />
+bile som Dommere, maa ikke udmeldes.</p>
+<p>Udmeldes kunne ikkun uberygtede Personer, som hore til et Trossamfund, for hvilket<lb />
+en anvendelig Edsformular er foreskrevet eller hsitidelig Forsikkring i Eds Sted hjemlet, og<lb />
+som ikke viide være udelukkede fra at edfcestcs som Vidner.</p>
+<wtitle>§ 227.</wtitle>
+<p>Retten bor, forinden Udmeldelsesdekretet afsiges, meddele Parterne, hvilke personer der<lb />
+agtes udmeldte, og give dem Adgang til at fremkomme med deres Indsigelser imod disse.<lb />
+Indsigelser, der ikke gjores gjældende strax ved Udmeldelsen, kunne ikkun tages i Betragtning,<lb />
+naar Parten oplyser, at han uden Brode fra sin Side har roeret ude af Stand til at frem-</p>

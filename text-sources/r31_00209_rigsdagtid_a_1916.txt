@@ -1,0 +1,70 @@
+625
+<pb n="209" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>625</topmidle>
+<colr>
+l5de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 888.</wtitle>
+<p>
+Når undtages sådanne Tillægsspørgsmål, som omhandles i §§ 889 og 890,<lb />
+skal ethvert Spørgsmål begynde med Ordene »Er Tiltalte (Tiltalte N. N.) skyldig?« I<lb />
+Spørgsmålet skal Forbrydelsens Art betegnes ved dens i Loven hjemlede Navn eller ved<lb />
+en Henvisning til den pågældende Strafbestemmelse; tillige skal Forbrydelsens i Loven<lb />
+beskrevne Kendemærker optages i Spørgsmålet; Gerningen skal beskrives ved sådan<lb />
+Angivelse af Tid og Sted, Genstand, Udførelsesmåde og andre nærmere Omstændigheder,<lb />
+som måtte udkræves til dens tilstrækkelige Betegnelse.
+</p>
+<wtitle>§ 889.</wtitle>
+<p>
+Når der under Forhandlingen er fremkommet bestemte Bevisdata til Støtte<lb />
+for, at der foreligger en Omstændighed, som vil udelukke Straf, eller som der efter Rettens<lb />
+Skøn mulig kan blive tillagt en sådan Virkning, kan der, om fornødent, stilles et særskilt Spørgsmål om Tilstedeværelsen af samme som Tillæg til Hovedspørgsmålet, for at<lb />
+fremkalde en udtrykkelig Udtalelse af Nævningerne herom.
+</p>
+<p>
+I den Måde, hvorpå Hovedspørgsmålet bliver at fremsætte, sker der i sådanne Tilfælde ingen Forandring.
+</p>
+<wtitle>§ 890.</wtitle>
+<p>
+Skal der spørges om Tilstedeværelsen af Omstændigheder, der ifølge Loven hjemler<lb />
+Forhøjelse eller Nedsættelse af Straffen, kan dette, om fornødent, ske i Form af særskilte<lb />
+Tillægsspørgsmål, der kun bliver at besvare, såfremt det Hovedspørgsmål. hvortil de<lb />
+slutter sig, besvares bekræftende. Er der under Bevisførelsen fremkommet noget Datum<lb />
+til Støtte for, at en Strafnedsættelsesgrund foreligger, kan Tillægsspørgsmål herom ikke<lb />
+nægtes stillet, når dette er begært af Forsvareren eller Tiltalte.
+</p>
+<wtitle>§ 891.</wtitle>
+<p>
+Angår flere Hovedspørgsmål (med tilhørende Tillægsspørgsmål) det samme<lb />
+Forholds Henførelse under forskellige Strafbestemmelser med forskellig Strafferamme,<lb />
+stilles det Spørgsmål først, hvis Bekræftelse medfører den strengeste Strafferamme.
+</p>
+<wtitle>§ 892.</wtitle>
+<p>
+Når et Spørgsmål kun skal besvares under Forudsætning af en bestemt Besvarelse af et forudgående Spørgsmål, bør dette udtrykkelig bemærkes i den skriftlige<lb />
+Udfærdigelse.
+</p>
+<p>
+Ligeledes anføres ved hvert Spørgsmål, at der udkræves otte Stemmer til det<lb />
+Svar — »Ja« eller »Nej« —, som er ugunstigst for Tiltalte.
+</p>
+<wtitle>§ 893.</wtitle>
+<p>
+Etter at Spørgsmålene er fastsatte, gennemgår Formanden i Korthed Sagen<lb />
+og dens Bevisligheder og forklarer så vidt fornødent Spørgsmålene og de Retssætninger,<lb />
+der skal lægges til Grund for deres Besvarelse. Når Formanden finder dette fornødent,<lb />
+overgives Afskrifter af Spørgsmålene til Nævningerne, forinden han begynder sit Foredrag.
+</p>
+<p>
+Enhver af Parterne kan, efter at Formanden har sluttet sit Foredrag, og forinden Nævningerne trækker sig tilbage til Rådslagning, forlange, at særlig påpegede<lb />
+Dele af Formandens Udvikling af Retssætninger gengives i Retsbogen.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje	83
+</title>

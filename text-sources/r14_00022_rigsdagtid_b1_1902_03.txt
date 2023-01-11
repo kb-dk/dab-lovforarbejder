@@ -1,0 +1,331 @@
+63
+<pb n="22" >
+<p rend="page">22</p>
+<h>
+<coll>63</coll>
+<colr>64</colr><lb />
+Bet. o. Lovf. om Rettens Pleje.<lb />
+</h>
+
+<table><tr>
+<td rowspan="2">Retskredsen.</td>
+<td colspan="6">Personale.</td>
+<td colspan="2">Befordring.</td>
+<td rowspan="2">Kv.-Mil omtrent.</td>
+<td rowspan="2">Indbyggertal.</td>
+<td rowspan="2">Sogne.</td>
+<td rowspan="2" >Sognefogeder.</td>
+</tr>
+<tr>
+<td>Assistenter og Overbetjente.</td>
+<td>Betjente.</td>
+<td>Reserve-betjente.</td>
+<td>Vægtere.</td>
+<td>Reserve-vægtere.</td>
+<td>I alt</td>
+<td>Hest.</td>
+<td>Cykel.</td>
+</tr>
+<tr>
+  <td>Overfør</td>
+  <td>74</td>
+  <td>792</td>
+  <td>3</td>
+  <td>16</td>
+  <td>2</td>
+  <td>887</td>
+  <td>23</td>
+  <td>30</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+<tr>
+  <td>Frederikssund Købstad, Horns Herred</td>
+  <td>»</td>
+  <td>3</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>3</td>
+  <td>1</td>
+  <td>»</td>
+  <td>31/5</td>
+  <td>15,486</td>
+  <td>19</td>
+  <td>20</td>
+</tr>
+<tr>
+  <td>Hørsholm Birk</td>
+  <td>»</td>
+  <td>3</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>4</td>
+  <td>1</td>
+  <td>1</td>
+  <td>2</td>
+  <td>9,925</td>
+  <td>4</td>
+  <td>6</td>
+</tr>
+<tr>
+  <td>Kronborg østre Birk, Hellebæk Birk</td>
+  <td>»</td>
+  <td>3</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>3</td>
+  <td>1</td>
+  <td>2</td>
+  <td>31/5</td>
+  <td>12,609</td>
+  <td>5</td>
+  <td>8</td>
+</tr>
+<tr>
+  <td>Kronborg vestre Birk</td>
+  <td>»</td>
+  <td>2</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>31)</td>
+  <td>2</td>
+  <td>»</td>
+  <td>5</td>
+  <td>13,374</td>
+  <td>11</td>
+  <td>11</td>
+</tr>
+<tr>
+  <td>Halsnæs og Frederiksværk Birker</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>1</td>
+  <td>»</td>
+  <td>12/5</td>
+  <td>5,791</td>
+  <td>4</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td>Holbæk Købstad</td>
+  <td>1</td>
+  <td>6</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>9</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>4574</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+<tr>
+  <td>Kalundborg Købstad</td>
+  <td>»</td>
+  <td>5</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>5</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>4,322</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+<tr>
+  <td>Nykøbing Sj. Købstad, Dragsholm Brik</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>2</td>
+  <td>1</td>
+  <td>»</td>
+  <td>61/5</td>
+  <td>19,149</td>
+  <td>11</td>
+  <td>12</td>
+</tr>
+<tr>
+  <td>Løve Herred</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>1</td>
+  <td>»</td>
+  <td>4</td>
+  <td>13,843</td>
+  <td>14</td>
+  <td>14</td>
+</tr>
+<tr>
+  <td>Arts og Skippinge Herreder</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>1</td>
+  <td>»</td>
+  <td>63/4</td>
+  <td>19,019</td>
+  <td>20</td>
+  <td>21</td>
+</tr>
+<tr>
+  <td>Merløse og Tudse Herreder</td>
+  <td>1</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>3</td>
+  <td>1</td>
+  <td>2</td>
+  <td>9</td>
+  <td>27,162</td>
+  <td>29</td>
+  <td>28</td>
+</tr>
+<tr>
+  <td>Samsø Birk</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>1</td>
+  <td>2</td>
+  <td>7,173</td>
+  <td>6</td>
+  <td>6</td>
+</tr>
+<tr>
+  <td>Sorø Købstad, Sorø Birk og Baroniet Holbergs Birk</td>
+  <td>»</td>
+  <td>3</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>4</td>
+  <td>1</td>
+  <td>»</td>
+  <td>5</td>
+  <td>17,400</td>
+  <td>16</td>
+  <td>16</td>
+</tr>
+<tr>
+  <td>Ringsted   By   og   Herred samt Skjoldnæsholni   og Svenstrup Birk</td>
+  <td>»</td>
+  <td>6</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>7</td>
+  <td>»</td>
+  <td>»</td>
+  <td>53/5</td>
+  <td>16,408</td>
+  <td>20</td>
+  <td>20</td>
+</tr>
+<tr>
+  <td>Skelskør   Købstad.   Vester Flakkebjerg Herred</td>
+  <td>»</td>
+  <td>3</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>3</td>
+  <td>»</td>
+  <td>1</td>
+  <td>21/5</td>
+  <td>8,995</td>
+  <td>7</td>
+  <td>7</td>
+</tr>
+<tr>
+  <td>Korsør Købstad</td>
+  <td>1</td>
+  <td>6</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>9</td>
+  <td>»</td>
+  <td>1</td>
+  <td>1</td>
+  <td>9,785</td>
+  <td>3</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>Slagelse Købstad</td>
+  <td>1</td>
+  <td>8</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>9</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>8,895</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+<tr>
+  <td>Øster Flakkebjerg Herred</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>1</td>
+  <td>43/4</td>
+  <td>8,403</td>
+  <td>10</td>
+  <td>10</td>
+</tr>
+<tr>
+  <td>At overføre</td>
+  <td>81</td>
+  <td>846</td>
+  <td>11</td>
+  <td>16</td>
+  <td>2</td>
+  <td>956</td>
+  <td>34</td>
+  <td>39</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+</table>
+
+</pb>

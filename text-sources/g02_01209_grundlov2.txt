@@ -1,0 +1,140 @@
+3891
+<pb n="1209" >
+<p rend="page">1209</p>
+<h>
+<coll>3891</coll>
+<colr>3892</colr><lb />
+
+Valglovens tredie Læsning.<lb />
+</h>
+<leftside>
+<p>
+Første inden den 1ste Marts at tilstille Valgbestyrelsens Formand<lb />
+en Fortegnelse etc."; dertil slutter sig da i § 57: „Fremdeles skal<lb />
+hvert Steds Communalbestyrelse etc." Udtrykket „for det Første"<lb />
+falder ikke godt; vi have troet, at det vilde falde noget bedre, naar<lb />
+man istedetfor satte: „Som det ene Grundlag har Communalbestyrelsen<lb />
+paa ethvert Sted inden den 1ste Marts etc."<lb />
+</p>
+<p>
+Ved den derpaa følgende Afstemning vedtoges Forslaget med<lb />
+90 Stemmer mod 1.<lb />
+Man gik derpaa over til Udvalgets Forslag til § 73.<lb />
+</p>
+<p>
+<speaker>Ordføreren:</speaker> De sidste Ord i § 73: „hvorefter Forelig<lb />
+Valgbrev af Valgbestyrelsen bliver at udfærdige og meddele ham",<lb />
+kunne uden Tvivl udgaae, da § 77 indeholder den almindelige Regel<lb />
+herom, baade for Landsthinget og Folkethinget.<lb />
+</p>
+<p>
+Ved den derpaa ftedfindende Afstemning blev Forslaget eenstemmig vedtaget med 96 Stemmer.<lb />
+</p>
+<p>
+Udvalgets Forslag om at forandre Titlen til „Lov angaaende<lb />
+Valgene til Rigsdagen" blev uden Discussion vedtaget med 94<lb />
+mod 2 Stemmer.<lb />
+</p>
+<p>
+Man gik derefter over til Behandlingen af Udvalgets Forslag<lb />
+til Overskrifter, saaledes:<lb />
+</p>
+<p>
+Overskrister: Foran § 1 sættes: „Valgret og Valgbarhed."<lb />
+Foran § 7 udgaaer: „Valgbarahed."<lb />
+Foran § 8 sættes: „Valglister."<lb />
+Foran § 18 sættes: „Valgkredse og Valgbestyrelser."<lb />
+Foran § 27 sættes: „Valgmøder."<lb />
+Foran § 30 sættes: „Kaaring."<lb />
+Foran § 32 sættes: „Navnlig Afstemning."<lb />
+Foran § 38 sættes: „Valgmænd."<lb />
+Foran § 50 sættes: „Valgbarhed."<lb />
+Foran § 51 sættes: „Valgbestyrelser."<lb />
+Foran § 53 sættes: „Valgbarhedslister."<lb />
+Foran § 65 sættes: „Valghandling."<lb />
+</p>
+<p>
+<speaker>Ordføreren:</speaker> Ligesom der i Udkastet sandtes Overskrister,<lb />
+saaledes blev der og under den foreløbige Behandling udtalt det<lb />
+Ønske, at der maatte blive foreslaaet Overskrister nogenlunde passende til Loven i den Form, hvori den vedtoges. Vi have saaledes<lb />
+troet, at man passende kunde betegne af det 1ste Afsnit, angaaende<lb />
+Følkethingsvalgene, §§ 1—7 som handlende om Valgret og Valgbarhed, §§ 8—17 som handlende om Valglisterne, §§ 18—26 om Valgkredse og Valgbestyrelser, §§ 27—29 om Valgmøder, §§ 30 og 31 om<lb />
+Kaaring, §§ 32—36 om navnlig Afstemning. Det 2det Afsnit handler da om Landsthinget, og § 37 om Landsthingskredsene, §§ 38—49<lb />
+om Valgmænd, § 50 om Vlgbarhed, §§ 51 og 52 om Valgbestyrlser, §§ 53—64 om Valgbarhedslister, og §§ 65—74 om Valghandlingen. Endelig indeholde da § 74 og de følgende Paragrapher<lb />
+nogle almindelige Bestemmelser.<lb />
+</p>
+<p>
+Da Ingen ønskede at yttre sig herover, skred man til Afstemning, ved hvilken samtlige de af Udvalget i Forslag bragte Overskrifter bleve eenstemmig vedtagne med 101 Stemmer.<lb />
+</p>
+<p>
+Man gik derefter over til den tredie Læsning af Valgloven, der<lb />
+oplæstes af En af Secretairerne, saaledes som den endelig var bleven<lb />
+emenderet af Forsamlingen; paa Oplæsningen af det i dens § 18<lb />
+Ommeldte Regulativ over Valgkredsene til Folkethinget renoncerede<lb />
+Forsamlingen.<lb />
+
+</p>
+</leftside>
+<rightside>
+<p>
+Valgloven lyder saaledes:<lb />
+</p>
+<stitle>
+Lov angaaende Valgene til Rigsdagen.<lb />
+</stitle>
+<undertitle>
+I. Folkethinget.<lb />
+</undertitle>
+<p>
+Valgret og Valgbarhed.<lb />
+<law n="1209" >§ 1.<lb /></law>
+Valgret til Folkethinget tilkommer, med de i de følgende Paragrapher indeholdte Indskrænkninger, enhver uberygtet Mand, som har<lb />
+Indfødsret, naar han har fyldt sit tredivte Aar.<lb />
+<law n="1209" >§ 2.<lb /></law>
+Ingen kan ansees som uberygtet, der ved Dom er funden skyldig<lb />
+i en i den offentlige Mening vanærende Handling.<lb />
+<law n="1209" >§ 3.<lb /></law>
+Ingen, som staaer i privat Tjenesteforhold, kan udøve Valgret,<lb />
+medmindre han har sin egen Huusstand.<lb />
+<law n="1209" >§ 4.<lb /></law>
+Ingen kan udøve Valgret, som nyder Understøttelse af det almindelige Fattigvæsen, eller som har modtaget nogen saadan Hjælp,<lb />
+medmindre den enten er tilbagebetalt eller eftergiven.<lb />
+<law n="1209" >§ 5.<lb /></law>
+Saa kan Valgret ei heller udøves af den, som er sat under<lb />
+Værgemaal, eller hvis Bo er under Opbuds- eller Fallitbehandling.<lb />
+<law n="1209" >§ 6.<lb /></law>
+Endelig kan kun den udøve sin Valgret, som i eet Aar har havt<lb />
+fast Bopæl i den Valgkreds eller den Stad, hvori han opholderr sig<lb />
+paa den Tid, Valget foregaaer. Den, som har fast Bopæl paa flere<lb />
+Steder, kan selv bestemme, paa hvilket af disse han vil gjøre sin<lb />
+Valgret gjældende.<lb />
+<law n="1209" >§ 7.<lb /></law>
+Valgbar til Folkethinget er, med de i §§ 3, 4 og 5 nævnte<lb />
+Undtagelser, enhver uberygtet Mand, som har Indfødsret, naar<lb />
+han har fyldt sit 25de Aar.<lb />
+</p>
+<btitle>
+Valglister.<lb />
+</btitle>
+<p>
+<law n="1209" >§ 8.<lb /></law>
+Over de i hver Commune bosatte Valgberettigede skal der føres<lb />
+Valglitster efter Foranstaltning af vedkommende Communalbestyrelse.<lb />
+Hvor et Landdistrict er henlagt under et Kjøbstadsogn uden<lb />
+at have sit eget Forstanderskab, henregnes det forsaavidt til Kjøbstaden.<lb />
+<law n="1209" >§ 9.<lb /></law>
+Valglisterne skulle i forskjelligee dertil indrettede Rækker indeholde<lb />
+Vælgernes fulde Navn, Alder, Livsstilling og Bopæl. Paa hver<lb />
+Valgliste ordnes Vælgernes Navne efter deres Bogstavfølge.<lb />
+</p>
+<morenext>
+(Fortsættes.)<lb />
+</morenext>
+</rightside>
+<underpage>
+Trykt og forlagt af Kgl. Hofbogtrykker Bianco Luno.<lb />
+</underpage>
+
+
+
+</pb>

@@ -1,0 +1,69 @@
+3973
+<pb n="167"/>
+<h>
+<coll>3973</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3974</colr>
+</h>
+<wtitle>§ 732.</wtitle>
+<p>
+For saa vidt Sigtede ikke under Møde for Retten af denne har faaet Paalæg<lb />
+om yderligere Møde til bestemt Tid og Sted, bliver han at indkalde til Retsmøde ved<lb />
+en efter Reglerne i Kapitel 14 forkyndt skriftlig Tilsigelse, der, hvor ikke andet er be-<lb />
+stemt, udgaar fra den Ret, for hvilken Mødet skal finde Sted.
+</p>
+<p>
+Foruden Sigtedes Navn, og hvad der i øvrigt hører til hans nøjagtige Beteg-<lb />
+nelse, Sted og Tid for Mødet, det Varsel, som skal gives, samt Bemærkning om Føl-<lb />
+gerne af Udeblivelse uden oplyst Forfald, skal Tilsigelsen, første Gang Sigtede ind-<lb />
+kaldes i en Sag, angive, hvorpaa Sigtelsen gaar ud.
+</p>
+<wtitle>§ 733.</wtitle>
+<p>
+Sigtede, som møder eller fremstilles for Retten til Afhørelse, adspørges først<lb />
+om Navn, Alder, Stilling samt Bopæl og andet, som findes fornødent til Oplysning<lb />
+om hans Identitet.
+</p>
+<p>
+Efter dernæst at have gjort Sigtede bekendt med den imod ham rettede Sig-<lb />
+teise, spørger Dommeren ham, hvor vidt han erkender dens Rigtighed. Dommeren<lb />
+skal derefter afhøre ham om de Forhold, som Sigtelsen angaar, og om de ved Vidne-<lb />
+forklaringer eller paa anden Maade imod ham fremkomne Bevisligheder.
+</p>
+<wtitle>§ 734.</wtitle>
+<p>
+Sigtede fremstilles i Retten fri for Baand.
+</p>
+<p>
+Ingen Tvang maa anvendes imod en Sigtet, der vægrer sig ved at svare i det<lb />
+hele eller paa enkelte Spørgsmaal. eller som hindrer Afhørelsen ved forstilt Afsindighed<lb />
+eller paa lignende Maade. Kan saadant Forhold medføre Sagens Forhaling eller van-<lb />
+skeliggøre Forsvaret, bør Dommeren gøre ham opmærksom derpaa.
+</p>
+<wtitle>§ 735.</wtitle>
+<p>
+Under Afhørelsen skal Dommeren tiltale Sigtede med Ro og Værdighed. Spørgs-<lb />
+maalene til ham bør være bestemte, tydelige og saaledes stillede, at det er ham klart,<lb />
+hvad han bekræfter eller benægter ved sine Svar, og intet Spørgsmaal maa fremsættes<lb />
+saaledes, at noget, der er benægtet eller ikke vedgaaet, forudsættes som tilstaaet.
+</p>
+<p>
+Løfter, urigtige Foregivender eller Trusler maa ikke anvendes. Ej heller maa<lb />
+Afhøringen forlænges i det Øjemed at fremskaffe en Tilstaaelse.
+</p>
+<p>
+Det. er ikke Sigtede tilladt at raadføre sig med en Forsvarer angaaende den<lb />
+umiddelbare Besvarelse af de ham gjorte Spørgsmaal.
+</p>
+<title>Kapitel 67</title>
+<undertitle>
+Anholdelse.
+</undertitle>
+<wtitle>§ 736.</wtitle>
+<p>
+Naar en mistænkt, som befinder sig paa fri Fod, er udebleven efter behørig<lb />
+Indkaldelse uden oplyst lovligt Forfald, kan Retten beslutte hans Anholdelse. I Politi-<lb />
+sager kan Anholdelse af denne Grund dog kun finde Sted, naar det i Tilsigelsen eller<lb />
+under Møde for Retten er betydet ham, at han maa møde personlig og i Udeblivelses-<lb />
+tilfælde maa vente at blive anholdt.
+</p>

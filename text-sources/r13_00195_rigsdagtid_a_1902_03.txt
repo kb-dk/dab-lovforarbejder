@@ -1,0 +1,77 @@
+2117
+<pb n="195" />
+<h>
+<coll>
+2117
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2118
+</colr>
+</h>
+<p>
+Forundersøgelse ved Retten foretages kun efter Begæring af Politimesteren<lb />
+eller af Overanklageren, hvor denne optræder i Politimesterens Sted, og skal være<lb />
+rettet mod en bestemt Person som sigtet,
+</p>
+<wtitle>§  870.</wtitle>
+<p>
+Begæring om Forundersøgelse fremsættes skriftlig eller mundtlig til Retsbogen;<lb />
+den skal betegne den eller de Personer, mod hvem, og den eller de Handlinger, med<lb />
+Hensyn til hvilke Undersøgelse begæres, og skal ledsages af Sagens Aktstykker, der-<lb />
+under de skriftlige Beretninger, som ere optagne under Efterforskningen, samt, saa vidt<lb />
+gørligt, af forhaandenværende synlige Bevismidler.
+</p>
+<p>
+Ved Begæringens Indgivelse til Retten er Sagen tingfæstet. De Begæringen<lb />
+ledsagende Aktstykker fremlægges til Retsbogen, saa vidt og naar Dommeren finder<lb />
+det rigtigt.
+</p>
+<p>
+Forundersøgelsen begrænses i Reglen til de Sigtede og de Handlinger, som<lb />
+ere betegnede i Begæringen. Fremkommer der under Forundersøgelsen grundet Mis-<lb />
+tanke mod andre Personer eller om andre Forbrydelser end dem, der ere nævnte i<lb />
+Begæringen, bør Retten give Paatalemyndigheden fornøden Meddelelse; dog kan<lb />
+Retten, uden at afvente yderligere Begæring, foretage saadanne Skridt, som ikke uden<lb />
+Ulempe kunne opsættes.
+</p>
+<wtitle>§  871.</wtitle>
+<p>
+Finder Retten, at Sagen ikke er indbragt for ret Værneting, eller at den, der<lb />
+paataler. ej er berettiget dertil, eller at Forundersøgelse er udelukket ved Reglerne i<lb />
+§ 869, eller at Handlinger af den Art, som Sigtelsen angaar, ikke ere Genstand for<lb />
+Straf, eller at Strafskylden er forældet eller Forfølgning af andre lignende Grunde<lb />
+utilstedelig, afsiger den Kendelse om, at Begæringen om Forundersøgelse ikke kan<lb />
+ages til Følge.
+</p>
+<wtitle>§  872.</wtitle>
+<p>
+Forundersøgelsens Øjemed er at tilvejebringe saadanne Oplysninger, som ud-<lb />
+fordres for at afgøre, om, for hvilken Forbrydelse og for hvilken Ret Tiltale skal<lb />
+rejses. Tillige blive saadanne Beviser at føre, som det maa anses for umuligt eller<lb />
+dog forbundet med særlig Ulempe at tilvejebringe under Domsforhandlingen.
+</p>
+<wtitle>§  873.</wtitle>
+<p>
+Om de Retshandlinger, der skulle foretages til Opnaaelse af Forundersøgelsens<lb />
+Øjemed, tager Dommeren Beslutning i Henhold til Begæring fra Parterne. Det paa-<lb />
+hviler som Følge heraf Politimesteren at ledsage sin Begæring om Forundersøgelse<lb />
+med de fornødne nærmere Begæringer om Indkaldelse af Vidner m. v. samt, efter-<lb />
+haanden som Forundersøgelsen skrider frem, at fremkomme med yderligere Begæringer<lb />
+i saa Henseende, for saa vidt det fremkomne giver Anledning dertil. Tilsvarende<lb />
+Pligt paahviler Forsvareren i Sigtedes Interesse. Ogsaa uden for de Undtagelses-<lb />
+tilfælde, hvor Overanklageren paataler for Undersøgelsesretten, er han berettiget til at<lb />
+henvende saadanne Begæringer til den.
+</p>
+<p>
+Retshandlinger, som Parterne ikke have begæret, kunne dog besluttes af Dom-<lb />
+meren af egen Drift, naar han finder dem fornødne for Øjemedet, navnlig i Sigtedes<lb />
+Interesse. Derhos bør Dommeren vaage over, at Undersøgelsen fremmes med størst<lb />
+mulige Hurtighed og kan i den Anledning rette Opfordring til Politimesteren samt<lb />
+efter Omstændighederne ved Kendelse ophæve en Fængsling, der utilbørlig forlænges.
+</p>
+<p>
+Findes en Begæring ikke at kunne tages til Følge, afsiges Kendelse.
+</p>

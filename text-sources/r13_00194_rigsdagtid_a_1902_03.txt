@@ -1,0 +1,76 @@
+2115
+<pb n="194" />
+<h>
+<coll>
+2115
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2116
+</colr>
+</h>
+<wtitle>§  866.</wtitle>
+<p>
+Fincles Efterforskningens Øjemed at være opnaaet, tager vedkommende Em-<lb />
+bedsmand Beslutning om Sagens Forfølgning ved Retten i Overensstemmelse med de<lb />
+i det følgende givne Regler eller om Efterforskningens Afslutning ved Sagens Hen-<lb />
+læggelse. Henlægges Sagen, vedtegnes Grunden.
+</p>
+<p>
+Er Politimesteren paataleberettiget i Henhold til § 699, tilkommer det ham at<lb />
+tage de ovennævnte Beslutninger. Hører Sagen under Overanklagerens Virkekreds,<lb />
+har Politimesteren at begære retslig Forundersøgelse, naar han ifølge Efterforsk-<lb />
+ningens Resultat finder Anledning dertil, og gør derom Indberetning til Overanklageren;<lb />
+ellers indsender han Sagen til Overanklageren, der tager fornøden Beslutning om<lb />
+yderligere Efterforskning, Begæring om Forundersøgelse, Tiltale eller Sagens Hen-<lb />
+læggelse.
+</p>
+<wtitle>§  867.</wtitle>
+<p>
+Faar Politimesteren, efter at Tiltale er rejst i en under Overanklagerens<lb />
+Virkekreds hørende Sag, Kundskab om Omstændigheder, der opfordre til yderligere<lb />
+Efterforskning, og Forholdene ikke tilstede at indhente Overanklagerens nærmere<lb />
+Bestemmelse, foretager han paa egen Haand de Efterforskningshandlinger, han skønner<lb />
+fornødne, og gør derefter uopholdelig Indberetning til Overanklageren om det fore-<lb />
+tagne. Under en saadan genoptagen Efterforskning kan Politimesteren, om fornødent,<lb />
+overensstemmende med § 863 rette Begæringer til en anden Undersøgelsesret om<lb />
+Foretagelse af enkeltstaaende Retshandlinger (jfr. § 874, 3die Stykke).
+</p>
+<wtitle>§  868.</wtitle>
+<p>
+Klage over formentligt Myndighedsmisbrug fra Politiets Side under Efter-<lb />
+forskning kan fremsættes for Undersøgelsesretten i den Kreds, hvor den paaklagede<lb />
+Handling har fundet Sted, eller for den Ret, hvis Virksomhed paakaldes mod Klageren,<lb />
+eller ved hvilken Sag om den Lovovertrædelse, der var Genstand for Efterforskning,<lb />
+tingfæstes.
+</p>
+<p>
+Undlader Politiet i de i denne Lovs §§ 801 og 813, jfr. § 828, §§ 829 og 838<lb />
+omhandlede Tilfælde at forelægge Sagen for Retten inden de foreskrevne Frister, skal<lb />
+Underretsdommeren paa det Sted, hvor Beslaglæggelsen, Ransagningen, Anholdelsen<lb />
+eller Fængslingen er sket, naar det ved Klage fra den forurettede eller paa anden<lb />
+Maade kommer til hans Kundskab, indkalde Politimesteren til at afgive nærmere For-<lb />
+klaring og kan efter Omstændighederne ophæve den trufne Foranstaltning. Undlader<lb />
+Politimesteren at give Møde uden oplyst lovligt Forfald, ophæves Foranstaltningen<lb />
+straks ved Kendelse.
+</p>
+<p>
+Paalæg af Bøder i Henhold til § 797 kan ophæves af Underretskredsens<lb />
+Dommer eller af den Ret, ved hvilken Sag om den Lovovertrædelse, der var Genstand<lb />
+for Efterforskningen, tingfæstes.
+</p>
+<title>
+Kapitel 80.
+</title>
+<title>
+Forundersøgelse ved Retten.
+</title>
+<wtitle>§  869.</wtitle>
+<p>
+Forundersøgelse ved Retten finder ikke Sted i Sager angaaende Lovovertræ-<lb />
+delser, som det efter § 699 tilkommer Politimesteren at paatale, ej heller i Sager an-<lb />
+gaaende de i Lov af 3. Januar 1851 § 14, jfr. § 15, omhandlede Forbud. Finder<lb />
+Fængsling Sted, kan dog Forundersøgelse begæres.
+</p>

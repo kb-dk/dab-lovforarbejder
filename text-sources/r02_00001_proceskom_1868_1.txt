@@ -1,0 +1,10 @@
+0
+<pb n="1" />
+<title>Udkast</title>
+<undertitle>til</undertitle>
+<title>Lov om Domsmagtens, den offentlige Anklagemyndigheds, politimyndighedens samt Sagførervæsenets Ordning.</title>
+<undertitle>(Udarbejdet af den ved allerhøjeste Reskript af 28de Februar 1868 nedsatte Proceskommission.)</undertitle>
+<undertitle>Februar 1876.</undertitle>
+<undertitle>Kjøbenhavn.</undertitle>
+<undertitle>Trykt hos I. H. Schultz.<lb />
+1876.</undertitle>

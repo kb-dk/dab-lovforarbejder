@@ -1,0 +1,51 @@
+3439
+<pb n="38" />
+<h>
+<coll>3439</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3440</colr>
+</h>
+<wtitle>§ 16.</wtitle>
+<p>Stiftelser, Kommuner, Korporationer saavelsom Selskaber og Foreninger, være sig<lb />
+med politiske eller sociale eller med rent formueretlige Formaal, have, forsaavidt ikke Andet<lb />
+retsgyldigen er fastsat i de for dem gjældende Bestemmelser, Hjemthing i den Retskreds, hvor<lb />
+deres Bestyrelse har sit sæde. Firmaer, Selskaber og Foreninger, der ifolge Lov af 23de Ja-<lb />
+nuar 1862 § 2 Nr. 1 og § 6 Nr. 1 ere Pligtige at opgive et Hjemsted, have Hjemthing<lb />
+ved dette Steds Ret.</p>
+<p>Retssager, der angaaende Forenings- eller Selskabsanliggender reises af Foreningen<lb />
+eller Selskabet mod de enkelte medlemmer eller opstaa mellem disse indbyrdes, kunne anlægges<lb />
+ved Korporationens, Foreningens eller Selskabets Hjemthing.</p>
+<wtitle>§ 17.</wtitle>
+<p>Sager imod Staten kunne anlægges ved den Ret, i hvis Kreds den Embedsmand,<lb />
+som paa Statens Vegne bliver at stævne, har sit Embedskontor, eller hvor Middelpunktet for<lb />
+hans Embedsvirksomhed er.</p>
+<wtitle>§ 18.</wtitle>
+<p>Naar Nogen for at udove Handel, Fabriksvirksomhed, Befordring af Gods eller<lb />
+personer, Assurance eller anden næringsvei holder Etablissement eller fast Agentur, hvorfra<lb />
+Retshandler afsluttes umiddelbart med Trediemand, kunne Retssager i Anledning af de fra<lb />
+Etablissementet eller Agenturen afsluttede Retshandler anlægges mod ham ved den Ret, under<lb />
+hvilken paagjældende Etablissement eller Agentur har sit sæde, selv om han ikke der har<lb />
+Hjemthing.</p>
+<wtitle>§ 19.</wtitle>
+<p>Den, ber ved Forvalter eller paa anden Maade ved egne Folk lader drive en Kjeb-<lb />
+stad- eller Landeiendom som selvstcrndig Bedrift, kan i Sager hidrorende fra denne Bedrift<lb />
+sagsoges paa det Sted, hvor Giendommen er beliggende.</p>
+<wtitle>§ 20.</wtitle>
+<p>Personer, der som Tyende, Fabrikarbeidere, Haandværkere, Lcrrlinge, Studerende, eller<lb />
+af anden Grund for længere Tid opholde sig udenfor deres Hjem, kunne sagsoges paa dette<lb />
+deres Opholdssted i Anledning af der paadragne Forpligtelser.</p>
+<p>Det Anforte skal ogsaa gjælde om Militærpersoner, der aftjene deres værnepligt,<lb />
+Straffanger og Varetægtsarrestanter, Sindssyge og andre Personer, som have et ikke i deres<lb />
+egen fri Beslutning grundet Ophold for længere Tid udenfor deres Hjem.</p>
+<wtitle>§ 21.</wtitle>
+<p>Sager angaaende Rettigheder over urørlige Ting — være sig Giendomsret, Panteret,<lb />
+Brugsrettigheder, Servitutrettigheder, Grundbyrderettigheder eller andre — skulle anlægges<lb />
+ved den Ret, under hvilken Giendommen er beliggende.</p>
+<p>Sogsmaal, hvorved Fordringer, der ere forbundne med Pant i fast Giendom, eller<lb />
+hvorved enkelte forfaldne Grundbyrdeyoelser indtales, kunne anlægges paa det Sted, hvor den<lb />
+behcrftede eller bebyrdede Giendom er beliggende.</p>
+<p>Ligger en fast Eiendom i flere Retskredse, anses den med Hensyn til Spørgsmaalet<lb />
+om, hvor de i denne Paragraf omhandlede Sager skulle eller kunne anlægges, for at være<lb />
+beliggende i den Retskreds, hvorunder Giendommens Bygninger, navnlig Stuehuset, hore.<lb />
+Findes saadanne ikke eller er Stuehuset beliggende i flere Retskredse, kan Sagen efter Sag-<lb />
+søgerens Valg anlægges i enhver af disse.</p>

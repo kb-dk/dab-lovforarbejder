@@ -1,0 +1,68 @@
+4039
+<pb n="200"/>
+<h>
+<coll>4039</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>4040</colr>
+</h>
+<title>Kapitel 74.</title>
+<undertitle>
+Bestemmelser om Iværksættelse af Tiltale og Forberedelse af Domsforhandling<lb />
+for Landsret i Sager, hvori Nævninger ikke medvirke.
+</undertitle>
+<wtitle>§ 875.</wtitle>
+<p>
+Tiltale rejses ved en af Amtmanden (i Købenbavn Politidirektøren) udfærdiget<lb />
+Anklageordre, der kan tegnes paa Forbørsudskriften og under Benyttelse af For-<lb />
+brydelsens i Loven hjemlede Navn skal angive det Forhold, for hvilket Tiltale rejses,<lb />
+og den Landsret, ved hvilken Sagen anlægges, samt indeholde Bemærkning om, at<lb />
+Domsbehandlingen ikke skal foregaa for Nævninger.
+</p>
+<p>
+Samtidig med Anklageordrens Udfærdigelse beskikker Paatalernyndigkeden<lb />
+blandt de i § 698 omhandlede Sagførere en i Nærheden af det Tingsted, hvorunder<lb />
+Undersøgelsesretten hører, bosat Sagfører til som offentlig Anklager at føre Anklagen<lb />
+mod Tiltalte.
+</p>
+<wtitle>§ 876.</wtitle>
+<p>
+Anklageordren indleveres paa vedkommende Undersøgelsesrets Kontor, og<lb />
+samtidig tilbageleveres den indsendte Udskrift af de foretagne Undersøgelseshandlinger<lb />
+samt Sagens øvrige Dokumenter. Ved Anklageordrens Indlevering er Sagen tingfæstet.
+</p>
+<p>
+Anklageren foranstalter, efter at have erholdt Sagens Dokumenter tilstillede<lb />
+fra Undersøgelsesdommeren, uden Ophold en Genpart af Anklageordren forkyndt for<lb />
+Tiltalte. Ved Forkyndelsen afæskes der ham Erklæring, om han har antaget eller<lb />
+begærer beskikket en Forsvarer. Saa snart Forkyndelsen er sket, skal Anklageren,<lb />
+saafremt Beskikkelse af Forsvarer er paabudt i Loven eller er begært af Tiltalte eller<lb />
+af Anklageren antages at burde finde Sted, gøre fornøden Henstilling herom til Lands-<lb />
+rettens Justitiarius.
+</p>
+<p>
+Om Beskikkelsen af Forsvarer meddeles Underretning til Anklageren og Tiltalte.
+</p>
+<wtitle>§ 877.</wtitle>
+<p>
+Inden Udløbet af en af vedkommende Undersøgelsesdommer ved Fremsendelsen<lb />
+af Sagens Aktstykker opgiven Frist, der paa Begæring kan forlænges, skal Anklageren<lb />
+tilstille Forsvareren eller Tiltalte, saafremt han ikke har nogen Forsvarer, en paa hans<lb />
+Foranstaltning til Brug ved Oplæsning under Domsforhandlingen trykt eller maskin-<lb />
+skrevet Extraktgenpart af Forhørsudskriften og de øvrige Dokumenter samt eventuelt<lb />
+en skriftlig Angivelse af de Punkter, med Hensyn til hvilke han vil gøre Henstilling<lb />
+til Landsretten om Indhentelse af nye Oplysninger. Naar Forsvarer er beskikket,<lb />
+erholder denne tillige Sagens Dokumenter udlaante; iøvrigt gøres disse og andre<lb />
+synlige Bevismidler saavidt muligt tilgængelige paa hensigtsmæssig og betryggende<lb />
+Maade, og passende Underretning derom meddeles.
+</p>
+<wtitle>§ 878.</wtitle>
+<p>
+Inden Udløbet af en af Undersøgelsesdommeren ligeledes opgiven Frist,<lb />
+der paa Begæring kan forlænges, skal Forsvareren eller, hvor der ingen Forsvarer er,<lb />
+Tiltalte meddele Anklageren, om han for sit Vedkommende vil begære, at Sagen bliver<lb />
+behandlet for Nævninger, eller gøre Henstilling til Landsretten om Indhentelse af nye<lb />
+Oplysninger og i bekræftende Fald med Hensyn til hvilke Punkter, og eventuelt til-<lb />
+stille Anklageren en trykt eller maskinskrevet Ekstraktgenpart af saadanne Dokumenter,<lb />
+som han vil lade oplæse under Domsforhandlingen udover de i Anklagerens Ekstrakt-<lb />
+genpart optagne.
+</p>

@@ -1,0 +1,71 @@
+2905
+<pb n="133" />
+<h>
+<coll>
+2905
+</coll>
+<topmidle>
+F. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2906
+</colr>
+</h>
+<wtitle>§ 572.</wtitle>
+<p>
+Bekendtgørelsen skal indeholde en nøjagtig Betegnelse af Ejendommen og Ejerens<lb />
+Navn, dens Størrelse, Beliggenhed og andre Forhold, som kan antages at have væsentlig<lb />
+Indflydelse paa Værdien, naar og hvorledes Ejendommen kan tages i Øjesyn, samt derhos<lb />
+en tydelig Angivelse af Tid og Sted for Auktionens Afholdelse.
+</p>
+<p>
+Tillige skal Bekendtgørelsen indeholde Oplysning om, hvor Auktionsvilkaarene<lb />
+og Vurderingsforretningen, for saa vidt en saadan er optaget, henligger til Eftersyn for<lb />
+lysthavende.
+</p>
+<wtitle>§ 573.</wtitle>
+<p>
+Paa Auktionsdagen kan der vel modtages Erklæringer om Lempelser i Ud-<lb />
+betalinger, i Betalingsfrister, i Sikkerhedsstillelse o. s. v. og af Fogeden gøres Bemærkninger<lb />
+vedkommende Ejendommens Tilstand eller om andre faktiske Forhold eller derved nød-<lb />
+vendiggjorte Tillæg til eller Forandringer i Auktionsvilkaarene, men ikke fremsættes<lb />
+Indsigelse imod disse, saaledes som de er fastsatte i Henhold til § 567, undtagen for<lb />
+saa vidt der klages over, at Fogeden ikke herved har iagttaget, hvad der paaligger ham<lb />
+at paase efter den nævnte Paragrafs første Stykke. Fremsættes saadan Klage, skal Fogeden<lb />
+for saa vidt det rejste Spørgsmaal ikke i Medfør af § 568 udskydes til senere Afgørelse<lb />
+afgive sin Kendelse for, hvorvidt han anser Klagen beføjet, og hvorledes i bekræftende<lb />
+Fald Auktionsvilkaarene vil være at ændre. Heller ikke kan det formenes dem, der vil<lb />
+fremkomme med de i § 566, 2det Punktum, ommeldte Paastande, at fremsætte saadanne,<lb />
+der da kan imødegaas af andre vedkommende, dog uden at der kan afsiges Kendelse<lb />
+om andet end om, hvorvidt Auktionen desuagtet kan fremmes eller ikke. Saadanne<lb />
+Paastande kan dog efter Omstændighederne give Hjemmel for Fogeden til efter ved-<lb />
+kommendes Begæring eller af egen Drift at udsætte Auktionen. Afsiges Fogedens Kendelse<lb />
+i de ovenommeldte Tilfælde ikke straks under Auktionen, bliver de paagældende af ham<lb />
+med Aftens Varsel at indkalde til at paahøre Kendelsen, og for saa vidt Auktionen derefter<lb />
+skal fremmes, berammes samtidig, medmindre Anke eller Kære paa Stedet erklæres og<lb />
+paa Forlangende Sikkerhed stilles for det ved Auktionens Udsættelse forvoldte Tab,<lb />
+Tiden og Stedet, da Auktionen atter skal afholdes. Bekendtgørelse herom sker med en<lb />
+Uges Varsel i de i § 571 nævnte indenlandske Blade.
+</p>
+<p>
+Ved Auktionens Begyndelse oplæses Auktionsvilkaarene, Panteattesten og saa<lb />
+meget af tidligere Tilførsler til Auktionsbogen eller af andre Dokumenter, som Fogeden<lb />
+finder fornødent at meddele de lysthavende, medens de øvrige Salget vedkommende<lb />
+Dokumenter bør være til Stede og til lysthavendes Eftersyn.
+</p>
+<wtitle>§ 574.</wtitle>
+<p>
+Ejendommen opraabes derefter enten delvis eller samlet og enten med eller uden<lb />
+Alternativer, efter som Vilkaarene giver Anledning til. Budene optegnes, efterhaanden<lb />
+som de gøres, enten i Auktionsbogen eller paa et særskilt Ark med Tilføjelse af de bydendes<lb />
+Navne. Hvis Størrelsen af det mindste Overbud ikke er fastsat i Auktionsvilkaarene,<lb />
+staar det til Fogeden at fordre, at Overbud skal have en i Forhold til Genstandens Betyden-<lb />
+hed passende mindste Størrelse, ligesom Fogeden i det hele har at lede Auktionen og sørge<lb />
+for, at denne fremmes med Ro og Orden og uden unødvendigt Ophold. Naar ingen efter<lb />
+derom 3 Gange gentagen Opfordring gør Overbud, standses Opraabet, og Resultatet ind-<lb />
+føres i Auktionsbogen. Der gives vedkommende Lejlighed til at gøre de Bemærkninger<lb />
+med Hensyn til Sikkerhedsstillelse, ny Auktion, Auktionens Hævelse og deslige, hvortil<lb />
+der maatte være Anledning, og Fogeden afgør derefter det fornødne, dersom det behøves,<lb />
+ved en Kendelse. Hvis Salg skal finde Sted, bekræftes det vedkommende Bud ved<lb />
+Hammerslag.
+</p>

@@ -1,0 +1,43 @@
+30
+<pb n="30" />
+<h>82           Kap. VII.    værneting m. ni</h>
+<p>i Embeds medfør, om Sagen er indbragt<lb />
+for rot Værneting. Indsigelse er udelukket,<lb />
+naar Sigtede, førend Domsforhandlingen<lb />
+er begyndt, har haft Adgang til at fremsætte<lb />
+den, uden at dette er sket.</p>
+<p>At Forundersøgelse eller enkeltstående<lb />
+Retshandlinger udenfor Domsforhandling<lb />
+ikke ere foregåede ved rette Værneting,<lb />
+berøver dem ikke deres Gyldighed.</p>
+<p>Er der Strid mellem flere Retters Afgørelser af et Værnetingsspørgsmål, kan det<lb />
+af Påtalemyndigheden indbringes til Afgørelse for Landsretten, hvis Retterne hyre<lb />
+til samme Landsretskreds, og i andre Tilfælde for højesteret. Herved finde i øvrigt<lb />
+Reglerne i Kapitlerne XXVII til XXIX,<lb />
+Anvendelse, således at der ved Fristernes<lb />
+Beregning tages Hensyn til den sidste Afgørelse.</p>
+<wtitle>§ 61.</wtitle>
+<p>Skal Forfølgning, enten ved Under<lb />
+søgelsesret eller ved den dømmende Ret, samtidig finde Sted mod samme Sigtede for<lb />
+flere Forbrydelser eller mod flere Sigtede<lb />
+som delagtige i een Forbrydelse, bor dette<lb />
+ske under een Sag, forsåvidt sådant lader<lb />
+sig gøre uden væsentlig Forhaling eller<lb />
+Vanskelighed.</p>
+<wtitle>§ 62.</wtitle>
+<p>Retten kan på Begæring eller i<lb />
+Embeds medfør beslutte Adskillelse af de<lb />
+Straffefager, som ere forenede i Henhold<lb />
+til i> ^1. Det beror på Retten, om de<lb />
+Sager, som kun på Grund af Foreningen<lb />
+forfølges for den, efter Adskillelsen fremdeles<lb />
+skulle behandles ved den eller ikke: samme<lb />
+Regel gælder, naar Foreningen ophører af<lb />
+anden Grund, såsom Frafald af forfølgning.</p>
+<wtitle>§ 63.</wtitle>
+<p>Retten kan med Hensyn til flere selvstændige Sager, der samtidig henstå for<lb />
+Undersøgelsesretten eller samtidig for den<lb />
+dømmende Ret, beslutte, at de skulle forbindes til een Sag, dog, naar Søgsmålene<lb />
+ikke stå i det i § 61 forudsatte Forhold<lb />
+til hinanden, kun, naar ingen af Parterne<lb />
+gør Indsigelse derimod.</p>

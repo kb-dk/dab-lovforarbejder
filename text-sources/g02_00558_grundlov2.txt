@@ -1,0 +1,119 @@
+2589
+<pb n="558" >
+<p rend="page">558</p>
+<h>
+<coll>2589</coll>
+<colr>2590</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 328.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Fire og Halvfemsindstyvende (98de) Møde.<lb />
+(Den foreløbige Behandling af Grundlovsudkastet. § 67.)<lb />
+</stitle>
+
+<p>
+<speaker>Ørsted:</speaker> Det var blot den 1ste Passus af Paragraphen, med<lb />
+Hensyn til hvilken jeg bemærkede, at der skulde findes, som det forekommer mig, fuldstændige og nøiagtige Bestemmelser i Forordningen<lb />
+af 1796. Derimod har jeg aldeles ikke overseet, at der i 2den Passus findes noget ganske Nyt, angaaende Kjendelser, og at disse kunne<lb />
+appelleres, Forøvrigt er dette noget, som der er gjort Indvendinger<lb />
+mod, og til disse skal jeg henholde mig, thi jeg troer virkelig, man<lb />
+kommer kun ind i Forviklinger og Fortrædeligheder ved det, som er<lb />
+foreskrevet, uden at jeg seer, at der udrettes noget. Skal der ved Lov<lb />
+søges en Betryggelse mob unødvendig Arrest, saa maatte dette være<lb />
+en omstændelig Lov, som gik nærmere ind paa Betingelserne for Arrest; men ligesom dette er Noget, der ialtfald er meget vanskeligt,<lb />
+som den ærede Ordfører udtyste sig, saaledes er det ogsaa Noget,<lb />
+der ikke bør skee i en Grundlov, men ved en særskilt Lov om denne Gjenstand, og jeg vilde derfor finde det mere anbefaleligt, om Grundloven<lb />
+indeholdt den Regel, at der ved en nærmere Lov skulde bestemmes<lb />
+Betingelserne for arrest, end at henkaste disse enkelte fragmentariske<lb />
+Sætninger, der ikke i og for sig kunne give Borgerne nogen Btryggelse. Jeg troer ogsaa, hvad Betingelserne for Arrest angaaer, at<lb />
+Paragraphen snarere vilde kunne lede til en større Udvidelse af Arrestationer end de, der forhen fandt Sted, thi det er vist, som ogsaa den<lb />
+ærede Ordfører har anmærket, at naar Arrestationer foretages og<lb />
+vedligeholdes i de Tilfælde, hvor Sagen ikke kan afgjøres ved en<lb />
+Pengebod eller simpelt Fængsel, altsaa i alle de Tilfælde, hvor der er<lb />
+Anledning til at gjøre Paastand paa endog blot en saa høi Straf<lb />
+som Fængsel paa Vand og Brød, saa er der jo en stor Leilighed til<lb />
+at arrestere endog for mindre Forseelser, og da derhos Betingelserne for, hvorledes man ved Sikkerhedsstillelse kan frie sig derfra,<lb />
+saaledes som Lovene efterhaanden i Praxis ere blevne bragte i Udøvelse,<lb />
+ere meget ubestemte, saa synes mig, at naar man virkelig skulde gjøre noget<lb />
+for at betrygge den personlige Frihed mod utilbørlig Arrest, hvorfor<lb />
+der forøvrigt ikke er den Fare, som Mange mene, saa burde det<lb />
+skee paa en anden Maade end ved disse Bestemmelser. Den ærede<lb />
+Ordfører har antaget, at det skulde være en Følge af § 67, at Politidiricteuren ikke længere kunde arrestere, og det har jeg ogsaa bemærket kune blive Tilfælder. Dette vilde jeg imidlertid ansee for yderst<lb />
+fordærveligt, idet jeg troer, at den almindelige Sikkerhed vilde lide<lb />
+meget derved. Politidirecteuren har en ganske anden Leilighed til<lb />
+at drage Omhu for den offenelige Sikkerhed; han har en ganske<lb />
+anden Leilighed til at dedømme, hvorvidt der er Grund til at anholde<lb />
+saadanne Personer, der have begaaet Forbrydelser, hvorvidt de for<lb />
+den almindelige Sikkerheds Skyld kunne og bør arresteres, end de enkelte Dommere. Disse, som kun optage Forhør i enkelte Sager, kunne<lb />
+jo ikke have den Oversigt som Politidirecteuren. Dersom man troer,<lb />
+at man behøvede Betryggelse mod Politidirecteuren, hvilket jeg troede,<lb />
+at man med Hensyn til den nuværende Politidirecteurs Personlighed allermindst skulde have Anledning til, saa maatte han ikke blot<lb />
+miste Ret til at arrestere, men ogsaa den Ret, han har, til at henvise en Sag til hvilken Politidommer, han vil skat behandle den.<lb />
+skal an beholde denne Rettighed, som han nu har, og som er høist<lb />
+vigtig for den offentlige Sikkerhed, saa troer jeg heller ikke, der bør<lb />
+betages ham Ret, deels til selv at anstille Undersøgelser om Sagen,<lb />
+før han afgier den til Politiretten, deels til at decretere Arrest.<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+Da ingen Flere begjerede Ordet, gik man over til den af Comiteen foreslaaede § 67 b, hvorom Comiteebetænkningen indeholder<lb />
+Følgende:<lb />
+</p>
+<p>
+„Ligesom der ved § 67 er givet et Værn for den personlige Frihed,<lb />
+saaledes vil det formeentlig ogsaa være passende her at optage en<lb />
+Bestemmelse til Betryggelse mod den Krænkelse og øvrige Ulempe,<lb />
+som en Indtrængen i Borgernes Bolig eller Undersøgelse af deres<lb />
+Breve og andre Papirer altid maa medføre. Vi foreslaae derfor, i<lb />
+Lighed med hvad der ogsaa i andre Forfatningslove er skeet, at en ny<lb />
+Paragraph (67 b) optages af følgende Indhold:<lb />
+</p>
+<p>
+Boligen er ukrænkelig. Huusundersogelse, Beslaglæggelse og Undersøgelse af Breve og andre<lb />
+Papirer maa, hvor ingen Lov hjemler en særegen<lb />
+Undtagelse, alene skee efter en Retskjendelse</p>
+<p>
+<speaker>Justitsministeren:</speaker> Skulde dog ikke denne Paragraph, og<lb />
+navnlig den første Sætning „Boligen er ukrænkelig", hvor smuk og,<lb />
+om jeg saa tør sige, høitklingende den er, dog ikke henhøre blandt<lb />
+dem, som den ærede Ordfører for Udvalget omtalte som saadanne,<lb />
+for hvilke Udvatget havde vogtet sig, nemlig saadanne, som vanskeligen kunde saae nogen praktisk Betydning, fordi de enten sige formeget eller forlidet. Dersom man vil tage Sætningen „Boligen er<lb />
+ukrænkelig" i sin fulde Udstrækning, og i samme Betydning, hvori den<lb />
+rimeligviis nærmest har foresvævet Comiteen, nemlig som den Sætning, ifølge hvilken Engelskmanden anseer sit Huus som sin Borg,<lb />
+skulde den da ikke næsten udelukke den Bestemmelse, som Paragraphens Slutning indeholder? Paragraphens Slutning indeholder udtrykkelig, at Huusundersøgelser maae skee efter en Retskjendelse, men<lb />
+ellers ikke, undtagen hvor Lov hjemler en særegen Undtagelse. Dersom Sætningen var i sin fulde Almindelighed gjældende, saa kunde<lb />
+ikke en saadan Undersøgelse finde Sted, som Slutningen hjemler;<lb />
+men jeg maa dog bemærke, at jeg anseer det for en Selvfølge,<lb />
+at Loven maatte være beføiet til at fastsætte de nærmere Regler<lb />
+for denne almindelige Bestemmelse, hvorved imidlertid den almindelige Sætning vilde tabe meget af sit smukke Udseende. Men jeg<lb />
+skal derhos tillade mig at bemærke, at der findes ikke saa Tilfælde i<lb />
+det daglige Liv, hvor det dog vilde være vanskeligt at udfordre en<lb />
+Retskjendelse, skjøndt der ikke havdes nogen udtrykkelig Lovhjemmel til<lb />
+Huusundersøgelse. Der er nemlig Forbrydelser af en saa særegen<lb />
+Natur, at man i Almindelighed kun kan vente at opdage dem<lb />
+ved en hurtig Undersøgelse, strax efterat Politiet er kommen paa<lb />
+det første Spor. Jeg vil kun nævne Fabrication af falske Sedler. Naar Politiet har fundet det første Spor derved, at det er<lb />
+kommen i Besiddelse af en falsk Seddet, saa gjælder det, øieblikkelig at<lb />
+følge dette Spor; skulde først Rettens Kjendelse derover erhverves,<lb />
+vil Sporet næsten altid tabes. Der kan tænkes andre Forbrydelser,<lb />
+der foregaae indeni Husene, hvor endog den almindelige Borgerpligt vilde kalde Naboer eller det Offentlige til Hjælp, men som dog<lb />
+neppe kunne saaledes undtages ved en speciel Lov, medens man dog<lb />
+ikke kunde ansees derved at overtræde hverken den naturlige eller den<lb />
+borgerlige Ret, fordi det Offentlige kom til Hjælp og skred ind i<lb />
+Huset. Jeg troer saaledes, at med Hensyn hertil vilde Reglen, udtalt i sin Almindelighed, gaae langt videre, end det egentlig kan antages at være tilsigtet, og jeg troer ikke, at der findes en saadan<lb />
+særegen Trang til en saadan Udtalelse her i Landet. Det vilde<lb />
+dog vel her gjætde, hvad der flere Gange oftere er nævnt, at det<lb />
+maatte ansees rettere at lade Forholdene udvikle Lovene end at lade<lb />
+Lovene uddanne Forholdene. Dersom der fandtes en særdeles Tranag.<lb />
+</p>
+</rightside>
+
+
+</pb>

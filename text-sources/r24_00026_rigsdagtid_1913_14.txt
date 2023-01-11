@@ -1,0 +1,72 @@
+3387
+<pb n="26">
+<h>
+<coll>
+3387
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3388
+</colr>
+</h>
+<p>
+Den, der beskikkes til Rigsanklager eller Overanklager, eller som bemyndiges<lb />
+til at optræde for Højesteret eller Landsretten i en enkelt Sag, skal fyldestgøre de<lb />
+Betingelser, der ifølge § 120 udkræves for at blive Højesteretssagfører, dog at den i<lb />
+§ 123 nævnte Prøve ikke kræves.
+</p>
+<p>
+Den, der beskikkes til Medhjælper for en Overanklager eller til Anklager ved<lb />
+Sø- og Handelsretten og Underretterne eller bemyndiges til i en enkelt Sag at udføre<lb />
+en Tiltale for nogen af de nævnte Retter, skal fyldestgøre de Betingelser, som ifølge<lb />
+§ 122 udkræves for at blive Sagfører ved Underretterne.
+</p>
+<lowtitle>§ 105.</lowtitle>
+<p>
+Udøvelse af Sagførervirksomhed er uforenelig med Stillingen som Rigsanklager<lb />
+eller Overanklager. Dog skal den Anklager, der har Beskikkelse som Sagfører, med<lb />
+sine Foresattes Tilladelse kunne overtage Udførelsen af enkelte borgerlige Retssager.
+</p>
+<p>
+Virksomhed som Sagfører udelukker ikke fra Beskikkelse som Medhjælper for<lb />
+en Overanklager eller som Anklager ved Sø- og Handelsretten og Underretten, ej<lb />
+heller fra Bemyndigelse til ellers at optræde som Anklager i en enkelt Sag.
+</p>
+<lowtitle>§ 106.</lowtitle>
+<p>
+De offentlige Anklagere ere Justitsministeren underordnede og staa med Hen-<lb />
+syn til deres Hvervs Udførelse under dennes Tilsyn.
+</p>
+<lowtitle>§ 107.</lowtitle>
+<p>
+Anklagere ved Sø- og Handelsretten og Underretterne samt de Mænd, der<lb />
+bemyndiges til at optræde som Anklagere i en enkelt Sag, erholde Vederlag af det<lb />
+offentlige for den enkelte Sag. Retten fastsætter i Dommen eller, hvis Sagen afsluttes<lb />
+uden Dom, ved Kendelse Vederlaget efter Arbejdets Betydning og Omfang.
+</p>
+<title rend="part">Fjerde Afsnit.</title>
+<title>Politimyndigheden.</title>
+<title rend="chapter">Kapitel 11.</title>
+<lowtitle>§ 108.</lowtitle>
+<p>
+Med Hensyn til Politiets Ordning og Virksomhed i København forbliver det<lb />
+ved de nugældende Bestemmelser. Det forbeholdes at underkaste Bestemmelserne om<lb />
+Statens Tilskud til Københavns Politi et Gennemsyn.
+</p>
+<lowtitle>§ 109.</lowtitle>
+<p>
+I øvrigt deles Riget i Politikredse, der hver for sig forestaas af en Politimester.<lb />
+Enhver Underretskreds udenfor København udgør en Politikreds.
+</p>
+<p>
+Politimesteren skal have Bolig ved Kredsens Tingsted (Hovedtingsted). Dog<lb />
+kan Justitsministeren tilstede Afvigelse herfra.
+</p>
+<p>
+Politimestrene, der beskikkes af Kongen, maa være fuldmyndige, uberygtede,<lb />
+vederhæftige Mænd, som have underkastet sig den fuldstændige juridiske Eksamen<lb />
+med i det mindste Karakteren haud illaudabilis efter denne Eksamens tidligere Ord-<lb />
+ning eller haud illaudabilis lmi gradus efter den nuværende Ordning.
+</p>
+
+</pb>

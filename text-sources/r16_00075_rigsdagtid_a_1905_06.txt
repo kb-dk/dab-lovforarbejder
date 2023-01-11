@@ -1,0 +1,70 @@
+2053
+<pb n="75" />
+<h>
+<coll>
+2053
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2054
+</colr>
+</h>
+<title>Andet Afsnit.</title>
+<title>Rettergangsmaaden.</title>
+<title>Kapitel 31.</title>
+<undertitle>
+Behandlingen af Sager, der i første Instans paakendes af Landsretterne (Køben-<lb />
+havns Sø- og Handelsrets 1ste Afdeling, jfr. § 9, 4de Stykke).
+</undertitle>
+<wtitle>§ 323.</wtitle>
+<p>
+Processen indledes med Stævning. I denne skulle begge Parter være beteg-<lb />
+nede med Navn og Stilling og deres Bopæl eller Opholdssted være angivet, hvorhos<lb />
+den skal indeholde Sagsøgerens Paastand og en kort Fremstilling af de Kendsgerninger,<lb />
+hvorpaa Paastanden støttes, samt en Opfordring til Sagsøgte om at møde og frem-<lb />
+komme med sit Svar paa Sagens første Tægtedag (jfr. endvidere § 334).
+</p>
+<p>
+Parterne kunne dog, naar de efter Overenskomst begge møde for Retten, og<lb />
+Sagen er anmeldt for denne senest Dagen før Retsmødet, uden Stævning begære Sagen<lb />
+foretagen. Sagsøgeren har i saa Fald at fremlægge en skriftlig Angivelse af sin Paa-<lb />
+stand og af de Kendsgerninger, hvorpaa den støttes.
+</p>
+<wtitle>§ 324.</wtitle>
+<p>
+Efter at i fornødent Fald Varslet er fastsat (jfr. § 325), bliver Stævningen,<lb />
+med Angivelse af den tidligste Tid for Sagens første Tægtedag, at indlevere paa<lb />
+Rettens Kontor til Paategning om Dag og Tid, da Sagen falder i Rette, hvorefter<lb />
+den tilbagegives Sagsøgeren til videre Foranstaltning.
+</p>
+<wtitle>§ 325.</wtitle>
+<p>
+Har Sagsøgte Bopæl i den Underretskreds, hvor Landsrettens Sæde befinder<lb />
+sig, skal Sagsøgeren lade Stævningen forkynde med 14 Dages Varsel. Bor Sagsøgte<lb />
+udenfor nævnte Kreds, er Varslet 3 Uger, medmindre han har Bopæl paa Færøerne,<lb />
+Island, Grønland, de vestindiske Øer eller i Udlandet, i hvilket Tilfælde, saavel som<lb />
+naar det ikke vides, hvor Sagsøgtes Bopæl er, Varslet bestemmes af Rettens Justitiarius.
+</p>
+<p>
+Maa det antages, at Sagsøgte ikke har nogen Bopæl, træder hans Opholdssted<lb />
+i Stedet for Bopæl i Henseende til Stævnevarslet.
+</p>
+<p>
+Under særlige Omstændigheder kan det lovbestemte Varsel af Rettens Justi-<lb />
+tiarius forkortes efter Sagsøgerens Begæring.
+</p>
+<p>
+Forinden Rettens Justitiarius fastsætter et Varsel, hvilket sker ved Paategning<lb />
+paa Stævningen, kan han afkræve Sagsøgeren nærmere mundtlige eller skriftlige Op-<lb />
+lysninger.
+</p>
+<wtitle>§ 326.</wtitle>
+<p>
+Paa Sagens første Tægtedag skal Sagsøgeren møde og fremlægge Stævning<lb />
+eller den i § 323, 2det Stykke, omhandlede Angivelse. Undlader han dette, bliver Sagen<lb />
+at afvise, og der tilkendes den Sagsøgte, der har givet forgæves Møde, Sagsomkost-<lb />
+ninger, for saa vidt han ikke frafalder Paastand derom. Samme Virkning har Sag-<lb />
+søgerens Udeblivelse eller Undladelse af at foretage de til Sagens Fortsættelse hørende<lb />
+Skridt ved senere Retsmøder, saafremt Domsforhandling ikke er berammet, eller ved<lb />
+selve Domsforhandlingen.
+</p>

@@ -1,0 +1,78 @@
+347
+<pb n="353" />
+<leftside>
+<p>ikke at lade Afsigelsen af en for den Sigtede<lb />
+gunstigere Realitetsdom ved Højesteret Være<lb />
+afhængig af hans Begjæring; det kommer altså ved § 391 Nr. 2 heller ikke an på,<lb />
+hvem der har påanket. Den videregående<lb />
+Regel i § 391 Nr. I begrundes ved Straffens særegne Karakter.</p>
+<p>Anmeldelse og Begrundelse af Påanken<lb />
+er efter det Bemærkede en nødvendig Betingelse for, at Prøvelse ved Højesteret kan finde<lb />
+Sted. Forskjellige Hensyn, nemlig Parternes<lb />
+og Aktstykkernes Nærværelse og Fremgangsmåden ved Dommens Fuldbyrdelse, gjøre det<lb />
+hensigtsmæssigt, hvad også efter alle Love er<lb />
+Tilfældet, at denne Forberedelse af Påanken,<lb />
+med hvad dertil slutter sig, foregår ved den<lb />
+Landsret, som har afsagt Dommen, så at<lb />
+der i Påankens processuelle Behandling bliver at skjelne mellem to Trin. Selvfølgelig må der fastsættes en Frist, inden hvilken<lb />
+Påanken skal anmeldes og begrundes. Særdeles lang behøver den ikke at være, da Ankegrundens Angivelse ikke kan kræve megen<lb />
+Tid, og en nærmere Udvikling om den vel<lb />
+ikke er udelukket (§ 381), men dog på<lb />
+Grund af den mundtlige Forhandling ved<lb />
+Højesteret ingenlunde nødvendig. For at ikke<lb />
+Fuldbyrdelsen af en Dom, der har pålagt<lb />
+Straf, unødig skal forhales (se § 465), er<lb />
+der imidlertid Grund til, som Lovene i Almindelighed gjøre, at opløse den nødvendige<lb />
+Frist i to, den ene for Anmeldelsen, den anden for Begrundelsen. Den Første kan være<lb />
+ganske kort; den anden, som altså kun finder<lb />
+Sted, når Påanken er anmeldt inden hin<lb />
+Frist, må være noget rummeligere. I Overensstemmelse hermed giver § 378 førft Regel<lb />
+om Fristen og Formen for Anmeldelse af<lb />
+Påanke; med det Første Stykke jævnføres<lb />
+§ 305 sidste Stykke. Udtrykkene ere valgte<lb />
+med særligt Hensyn til, at Fristen kan begynde<lb />
+at løbe samtidig for begge Parterne. Er Påanke anmeldt inden Udløbet af den nævnte<lb />
+Frist, kan en Straffedom ikke fuldbyrdes, forend Sagen er afgjort (se § 380 første<lb />
+Stykke*).    Dette   gjælder,  selv   om   det kun</p>
+<note rend="foot">*)  Om Fuldbyrdelse   af   en Frifindelsesdom   bliver</note>
+</leftside>
+<rightside>
+<p>er Statsanklageren, der påanker en Straffedom. Adgang til at påanke efter Udløbet af<lb />
+Anmeldelsesfristen hjemler § 379 under visse<lb />
+Betingelser, som Forholdets Natur tilsiger; Afgjørelsen af et Andragende herom sker ved Højesteret overensstemmende med Reglerne i § 108.<lb />
+Om et sådant Andragendes suspensive Virkning<lb />
+se § 380 2 det Stykke; det kan efter Forholdets Natur ikke have sådan Virkning<lb />
+uden videre. I § 381 omhandles dernærst<lb />
+Fristen og Formen for Påankens Begrundelse,<lb />
+hvorved atter jævnføres § 305 sidste Stykke,<lb />
+se endvidere § 383 2det Stykke om Fristens Forlængelse.</p>
+<p>Grundsætningen er, at de ommeldte Frisker ere præklusive. Modpåanke er der ikke<lb />
+Grund til at indrømme, uden i det særegne<lb />
+Tilfælde, som § 382 2det Stykke ommelder.<lb />
+Det erindres imidlertid, hvad den Sigtede<lb />
+angår, at en Modpåanke ifølge Loven selv<lb />
+indenfor visse Grænser kan siges at være hjemlet<lb />
+ved § 391 Nr. 2. Med Hensyn dernæst til<lb />
+Fremsættelse af andre Ankegrunde end de i<lb />
+Påankens Begrundelse angivne, fastholdes den<lb />
+i § 381 givne Frists præklusive Karakter<lb />
+overfor Statsanklageren, dog med Hjemmel<lb />
+for Højesteret til af særegne Grunde at gjøre<lb />
+Undtagelse, se § 389. Den Sigtede er der<lb />
+derimod ved § 389 tillagt Ret til for Højesteret at fremsætte andre Ankegrunde end de<lb />
+for Landsretten angivne, når det sker senest<lb />
+umiddelbart efter, at Realitetsforhandlingen er<lb />
+indledet, se § 388 i Begyndelsen, senere derimod<lb />
+kun under samme Betingelse, som gjælder for<lb />
+Statsanklageren. For denne Regel, som får<lb />
+Betydning med Hensyn til de Ankegrunde,<lb />
+på hvilke § 391 Nr. 2 ej finder Anvendelse, taler særligt Hensynet til, at det Forsvar, som ifølge § 50 1ste Stykke beskikkes<lb />
+den Sigtede i større Udstrækning ved Højesteret end ved Landsretten, først bliver ham<lb />
+til Del, efter at Sagens Akter ere indsendte<lb />
+til Højesteret, jfr. den württembergske Lov §<lb />
+455.     Det næste  Skridt,    efterat Påanken</p>
+<note rend="foot">der ikke Tale. At den Sigtede, der har været<lb />
+fængslet, løslades, er ikke Fuldbyrdelse af<lb />
+Dommen, men følger af § 189. Påanke<lb />
+af Statsanklageren kan ikke hindre Løsladelsen.</note>
+</rightside>

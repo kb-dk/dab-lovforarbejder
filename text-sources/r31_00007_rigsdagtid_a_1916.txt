@@ -1,0 +1,74 @@
+423
+<pb n="7" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>423</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+Der tilkommer Underretterne den samme Myndiglied til at bestemme, at<lb />
+Domsforhandlingen skal foregå udenfor Rettens Sæde. som ved §11, 2det Stykke,<lb />
+1ste Punktum, er tillagt Landsretten.
+</p>
+<wtitle>§ 20.</wtitle>
+<p>
+Sø- og Handelssager kan behandles ved de for almindelige borgerlige Retssager dannede Retter, når begge Parter er enige herom.
+</p>
+<p>
+Begæring om, at en Sag skal behandles som Sø- eller Handelssag, eller Indsigelse derimod skal fremsættes senest på den første Tægtedag. Rettens Afgørelse<lb />
+af Spørgsmål derom kan ikke medføre Afvisning af Sagen, men kun Henvisning af<lb />
+dens videre Behandling til den rette Domstol. Kærefristen er 3 Dage.
+</p>
+<p>
+Sø- og Handelssager, der ellers vilde være at behandle udenfor København,<lb />
+kan, når Parterne er enige herom, indbringes for Sø- og Handelsretten i København
+</p>
+<wtitle>§ 21.</wtitle>
+<p>
+Regeringens Ret til at anordne ekstraordinære Retter vedbliver indtil videre<lb />
+i sit nuværende Omfang. Sådanne Retter vil i alle Henseender i Sager, der falder<lb />
+under nærværende Lov, have i deres Fremgangsmåde at anvende denne Lovs Regler<lb />
+uden dog at være bundne ved Bestemmelsen om Retskredsenes Grænser.
+</p>
+<p>
+For så vidt Straffesager angår, kan dog de ekstraordinære Retters Virksomhed ikke udstrækkes ud over Sagernes Undersøgelse, i hvilken Henseende Bestemmelserne i 4de Bog, 2det og 3die Afsnit, bliver at iagttage, hvorimod Sagernes Pådømmelse skal ske ved de ordinære Domstole.
+</p>
+<p>
+De ekstraordinære Retter står i alle Afgørelser under Kære og Anke umiddelbart til Højesteret.
+</p>
+<p>
+Ligeledes kan Kongen dels i Sager, i hvilke der foreligger Sigtelse for Overtrædelse af den borgerlige Lovgivning, og tillige for Forhold, der vedrører Sigtedes<lb />
+Stilling som gejstlig Embedsmand, bestemme, at Sagen i sin Helhed skal undersøges<lb />
+og påkendes enten ved gejstlig eller ved borgerlig Ret, dels i Sager, hvorunder Personer, af hvilke nogle henhører under militære, andre under borgerlige Retter, sigtes<lb />
+for Delagtighed i samme forbryderske Forhold, bestemme, at Sagen i sin Helhed<lb />
+skal undersøges og påkendes ved borgerlig Ret. 1 disse Tilfælde kan Kongen tilforordne de borgerlige Retter, til hvilke Sagens Undersøgelse og Påkendelse henvises,<lb />
+samt de borgerlige Domstole, hvem Påkendelsen i Tilfælde af Anke tilkommer, hver<lb />
+tvende henholdsvis gejstlige eller militære Medlemmer som Dommere.
+</p>
+<title>Kapitel 2.</title>
+<undertitle>
+Retsmøder.
+</undertitle>
+<wtitle>§ 22.</wtitle>
+<p>
+Højesteret holder Møde til de samme Tider, som hidtil har været brugeligt,<lb />
+men Retten kan bestemme sådanne Forandringer heri, som den måtte anse for hensigtsmæssige, hvorom det fornødne bliver at bekendtgøre i Lovtidenden.
+</p>
+<p>
+Beslutninger af Retten, som går ud på i Henhold til Reglerne i denne Lov<lb />
+at tilstede Afvigelser fra de almindelige processuelle Regler, er ikke bundne til de<lb />
+foreskrevne eller vedtagne Mødetider.
+</p>
+<wtitle>§ 23.</wtitle>
+<p>
+Til Domsbehandling af Sager, i hvilke Nævninger skal medvirke, afholdes<lb />
+regelmæssigt Ting af Østre Landsret i Løbet af hver Måned i København og i Øvrigt
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

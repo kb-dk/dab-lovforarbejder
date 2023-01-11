@@ -1,0 +1,36 @@
+11
+<pb n="17" />
+<h>
+<topmidle>Kap. IV.    Inhabilitet.        11</topmidle>
+</h>
+<p>De Spøgsmål, som måtte opstå i<lb />
+Henhold til nærværende Paragraf, afgøres<lb />
+på samme Måde, som i § 33 er bestemt<lb />
+med Hensyn til de i § 32 omhandlede Tilfælde.</p>
+<wtitle>§ 35.</wtitle>
+<p>Spørgsmålet om en Dommers Fratræden bor såvidt muligt rejses for den<lb />
+mundtlige Forhandlings Begyndelse. Det<lb />
+kan afgøres, uden at Parterne have haft<lb />
+Adgang til at ytre sig derom.</p>
+<wtitle>§ 36.</wtitle>
+<p>Indsigelse fra Parternes Side mod en<lb />
+Dommers Habilitet behandles i processuel<lb />
+Henseende som andre Formalitetsindsigelser.</p>
+<wtitle>§ 37.</wtitle>
+<p>Kendelser, hvorved en Enkeltdommer<lb />
+erklærer at ville vige sit sæde, eller hvorved<lb />
+det pålægges en Dommer i en Kollegialret<lb />
+at vige sit Sæde, ere ikke Genstand for<lb />
+Anke eller Kære. Imod Kendelser, hvorved<lb />
+Indsigelser mod en Dommers Habilitet forkastes, kan Kæremål rejses. Når det straks<lb />
+forlanges, kan i denne Anledning en kort<lb />
+Udsættelse af Sagen tilstås.</p>
+<wtitle>§ 38.</wtitle>
+<p>Fra det Øjeblik, da Retskendelse for,<lb />
+at en Dommer skal vige sit Sæde, er afsagt,<lb />
+er denne Dommer kun berettiget til at foretage sådanne Handlinger i Sagen som ej<lb />
+kunne opsættes.</p>
+<wtitle>§ 39.</wtitle>
+<p>De om Dommere givne Forskrifter, sinde<lb />
+også Anvendelse på Retsstrivere. Afgørelsen af Habilitetsspørgsmålet træffes<lb />
+af Retten.</p>

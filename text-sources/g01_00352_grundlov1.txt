@@ -1,0 +1,151 @@
+631
+<pb n="352">
+<pagename>352</pagename>
+<h>
+<coll>631</coll>
+<colr>632</colr>
+<lb/>
+</h>
+<leftside>
+<p>
+H. P. Hansen hver 1 Stemme. Een Stemme var ugyldig. Ved<lb/>
+Valget på Forsamlingens Secretairer faldt af 82 Stemmer de 80<lb/>
+på Cederfeld de Simonsen, 80 på Pjetursson, 80 på<lb/>
+W. Ussing, 77 på Vestergård, og bleve således samtlige 4<lb/>
+ældre Secretairer gjenvalgte.<lb/>
+</p>
+<p>
+Formanden henstillede derefter ligeledes, i Overeensstemmelse med<lb/>
+Forretningsregulativet, til Forsamlingen, om ny Fordeling af Medlemmerne til Afdelingerne skulde foretages, hvilket Spørgsmål, efterat<lb/>
+den Deputerede for Præstø Amts 7de District (Barfod) med få<lb/>
+Ord havde anbefalet dets bekræftende Besvarelse, blev ved Navneopråb, som her måtte anvendes, da der ved den af Secretairerne foretagne Optælling af Stemmerne havde viist sig kun at være<lb/>
+afgivet 76 Stemmer, nemlig 36 Ja og 40 Nei, medens der udfordres<lb/>
+idetmindste 77 Stemmer, for at Forsamlingen kan være fuldtallig,<lb/>
+— besvaret bekræftende, med 45 Ja mod 42 Nei.<lb/>
+87 voterende, 64 fraværende.<lb/>
+</p>
+<middle>
+Afstemning efter Navneopråb.<lb/>
+</middle>
+<indexlist>
+Ja.<lb/>
+Ågård af Thisted.	Marckmann.<lb/>
+Andræ.	Mundt.<lb/>
+Barfod.	Paludan-Müller.<lb/>
+Bjerring.	Nielsen (H. C.) af Tranberg.<lb/>
+Bruun (M. P.) af Bruunshåb.	Olesen.<lb/>
+Buntzen.	Ostermann.<lb/>
+Christensen (Georg) af Kjøbenhavn.	Oxholm.<lb/>
+David.	Pedersen (P.) af Kjøbenhavn.<lb/>
+Dinsen.	Pjetursson.<lb/>
+van Dockum.	Ræder.<lb/>
+Drewsen af Kjøbenhavn.	Scavenius.<lb/>
+Duntzfelt.	Schack.<lb/>
+Fibiger.	Schiern.<lb/>
+Flor.	Schlegel.<lb/>
+Gislason.	Schurmann.<lb/>
+Hasselbalch.	Sigurdsson.<lb/>
+Holck.	Stender.<lb/>
+Hunderup.	Tscherning.<lb/>
+Hvidt.	Tuxen.<lb/>
+Johnsen.	Westergård.<lb/>
+Sehestedt-Juul.	Winther.<lb/>
+Krieger.	Visby.<lb/>
+Larsen (J. E.) af Kjøbenhavn.<lb/>
+Nei.<lb/>
+Andreasen.	Knuth.<lb/>
+Bregendahl.	Linnemann.<lb/>
+Bruun (P. D.) af Kjøbenhavn.	Lüttichau.<lb/>
+Christensen (Balthazar).	Neergård.<lb/>
+Christensen (J.) af Voldum.	Nielsen (N. H.) af Løserup.<lb/>
+Dahl.	Olrik.<lb/>
+Dahlerup.	Pedersen (J.) af Sæding.<lb/>
+Frølund.	Petersen (B.) af Kjøbenhavn.<lb/>
+Gleerup.	Petersen (C. R.) af Hjørring.<lb/>
+Gregersen.	Rasmussen (H.) af Egense.<lb/>
+Gudmundsson.	Rasmussen (M.) af Herlufmagle.<lb/>
+Hage.	Brinck-Seidelin.<lb/>
+Hansen (H. P.) af Kjøbenhavn.	Cederfeld de Simonsen.<lb/>
+Hansen (J. A.) af Kjøbenhavn.	Stockfleth.<lb/>
+Hansen (P.) af Abbetved.	Tang.<lb/>
+von Haven.	Theilmann.<lb/>
+Jespersen (F.) af Bogense.	Tvede.<lb/>
+Johansen (H. C.) af Østrup.	Algreen-Ussing.<lb/>
+Jungersen.	Ussing af Viborg.<lb/>
+Kayser.	Wegener.<lb/>
+Kirk.	Ørsted.<lb/>
+
+</indexlist>
+</leftside>
+<rightside>
+<middle>
+Fraværende.<lb/>
+</middle>
+<indexlist>
+Ågård (G.) af Lolland.	Johansen (H.) af Knardrup.<lb/>
+Bagger.	Jørgensen.<lb/>
+Bergmann.	Køster.<lb/>
+Vlack.	Larsen (C.) af Dalby.<lb/>
+Brandt.	Leth.<lb/>
+Bruun af Assens.	Lorck.<lb/>
+Buchvaldt.	Lützhöft.<lb/>
+Boisen.	Madsen.<lb/>
+Christensen (H.) af Veistrup.	Tage Müller.<lb/>
+Colding.	Mynster.<lb/>
+la Cour.	Møller (R. R.) af Dråby.<lb/>
+Drewsen af Silkeborg.	Møller af Flakkeberg.<lb/>
+Cricksen.	Nyholm.<lb/>
+Flø’e.	Nørgård.<lb/>
+Funder.	Ostenfeldt.<lb/>
+
+Gram.	Otterstrøm.<lb/>
+Grundtvig.	Pape.<lb/>
+Hall.	Petersen (C.) af Davinde.<lb/>
+Hammerich.	Ploug.<lb/>
+Hansen (L.) af Bjelkerup.	Pløyen.<lb/>
+Mørk Hansen.	Rasmussen (J,) af Svanninge.<lb/>
+Hansen (N.) af Eskelund.	Rée.<lb/>
+Hastrup.	Schroll.<lb/>
+Hermannsen.	Schytte.<lb/>
+Hiort.	Sidenius.<lb/>
+Hælkerup.	Skeel.<lb/>
+Høier.	Thalbitzer.<lb/>
+Jacobsen.	Tobiesen.<lb/>
+Jacobæus.	Treschow.<lb/>
+Jespersen af Grønnebjerggård.	With.<lb/>
+Jespersen (C. M.) af Viborg.	Wulff.<lb/>
+Johannsen (F.) af Houby.	Zeuthen.<lb/>
+</indexlist>
+<p>
+Efter Dagsordenen gik man derefter over til den fortsatte foreløbige Behandling af Værnepligtssagen, navnlig af Udkastets § 7.<lb/>
+</p>
+<p>
+<speaker>Bregendahl:</speaker> Jeg skal tillade mig at oplæse § 7. Den lyder<lb/>
+således: „Alle de, som ere dømte på Æren eller have lidt Straf<lb/>
+af offentligt Arbeide, ville, som uværdige til at tjene i Vor Armee<lb/>
+eller på Vor Flåde, være at udelukke af samme, dog uden at de<lb/>
+derfor fritages for i fornødent Fald at anvendes ved særlige Arbeidscommandoer og deslige, i hvilket Øiemed de forblive stående i Rullen,<lb/>
+indtil de opnåe den Alder, med hvilken Værnepligten i Almindelighed ophører.”<lb/>
+</p>
+<p>
+Ved denne Paragraph har Udvalget ikke fundet Anledning til at foreslåe<lb/>
+nogen Forandring. Hovedbestemmelsen i Paragraphen gåer ud på<lb/>
+at knytte Udelukkelse fra Krigstjenesten til Straffen, medens den<lb/>
+begåede Handling, da det ikke er Straffen, der vanærer, men Handlingen; men det vilde have sine temmelig store practiske Vanskeligheder at<lb/>
+afgjøre, hvorvidt en Handling er vanærende og hvorvidt den skal medføre Udelukkelse fra Krigstjenesten, og når Straffelovgivningen er<lb/>
+ordnet således, som den bør, så bliver Straffen også en Målestok<lb/>
+for det meer eller mindre Forbryderske i Handlingen, og man vinder<lb/>
+derved er meer fast Datum at knytte Afgjørelsen til. De i den her<lb/>
+omhandlede Paragraph indeholdte Bestemmelser afvige forøvrigt i<lb/>
+tvende Henseender fra den bestående Lovgivning. Den første<lb/>
+Henseende er deri, at den bestående Lovgivning kun knytter<lb/>
+Udelukkelsen til den Dom, hvorved Nogen er fradømt Æren eller<lb/>
+dømt til Tugthuus-, Fæstnings- eller Rasphuusarbeide, hvorimod<lb/>
+Udkastet knytter den også til Forbedringshuusarbeide. Udvalget har<lb/>
+troet at kunne billige, at Udelukkelsen også er knyttet til Forbedringshuusarbeide; thi vel er der sådanne Jrregulariteter i den bestående<lb/>
+Lovgivning, at Forbedringshuusarbeide også kan blive idømt for<lb/>
+Handlinger, der ikke have noget særdeles Banærende ved sig, men<lb/>
+Reglen må dog være dem, at den, der er idømt Forbedringshuusarbeide er således stemplet, at det ikke kan være ønskeligt, at han ind-</p>
+</rightside>
+
+</pb>

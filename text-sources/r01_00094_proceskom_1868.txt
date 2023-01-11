@@ -1,0 +1,54 @@
+88
+<pb n="94" />
+<leftside>
+<p>efter Loven tilladte Midler anvendes; videre,<lb />
+end disse Øjemed udkræve, må Forundersøgelsen<lb />
+ikke udstrækkes.</p>
+<wtitle>§ 231.</wtitle>
+<p>Naar Andragende om Forunderføgelse er<lb />
+taget til følge, har dømmeren i Embeds Medfør, uden at yderligere Andragende udfordres,<lb />
+med størst mulig Hurtighed at foretage alle<lb />
+hensigtsmæssige Skridt og benytte alle efter<lb />
+Loven tilladte Midler til Ovnåelse af Forundersøgelsens Øjemed.</p>
+<p>Parterne (jfr. § 227) ere berettigede til<lb />
+at rette Andragende til dømmeren om Foretagelse af enkelte Undersøgelseshandlinger. Angående sådanne Andragender må dømmeren<lb />
+træffe Afgjørelse; findes det, at Andragendet<lb />
+ikke kan tages til følge, afsiges Kjendelse.</p>
+<p>Ogsaa udenfor de Undtagelsestilfælde,<lb />
+hvor Statsanklageren påtaler for Undersøgelsesdømmeren, er han berettiget til at rette de<lb />
+ovennævnte Andragender til denne.</p>
+<wtitle>§ 232.</wtitle>
+<p>Politiet er pligtigt at efterkomme de Pålæg,<lb />
+dømmeren giver i Forundersøgelsens Interesse.<lb />
+Om Udførelsen afgives skriftlig Beretning til<lb />
+dømmeren.</p>
+<p>dømmeren er berettiget til at henvende<lb />
+sig med Begjæring om Retshandlingers Foretagelse i en anden Retskreds til Undersøgelsesdømmeren i denne (jfr. § 76). Ledes Forundersøgelsen af et Medlem af Landsretten,<lb />
+er dette fremdeles berettiget til at fordre enkelte Retshandlinger foretagne af undersøgelsesdømmeren i Retskredsen.</p>
+<p>Om Efterforskninger, som foretages i Henhold til § 225, skal dømmeren snarest mulig<lb />
+underrettes.</p>
+<wtitle>§ 233.</wtitle>
+<p>Fremstilles en Person som anholdt for retten eller møder en Sigtet frivillig uden<lb />
+Rettens Tilsigelse fammen med den, der påtaler, bliver Sagen strax at foretage til Forundersøgelse. Blive yderligere Retshandlinger<lb />
+nødvendige, beslutter Retten det fornødne<lb />
+og berammer et nyt møde.</p>
+</leftside>
+<rightside>
+<title>Mindretalsforslag:</title>
+<p>§ 231  affattes således:</p>
+<p>Om de Retshandlinger, der skulle foretages<lb />
+til Opnåelse af Forundersøgelsens Øjemed, tager<lb />
+dømmeren Beslutning, ordentligvis ifølge Andragende af Parterne, jfr. § 227. Det påhviler<lb />
+som følge heraf Politimesteren at ledsage sin<lb />
+Begjæring om Forundersøgelse med de fornødne nærmere Andragender om Indkaldelse<lb />
+af Vidner m. v. Ogsaa udenfor de Undtagelsestilfælde, hvor Statsanklageren påtaler for<lb />
+Undersøgelsesdømmeren, er han berettiget til at<lb />
+rette sådanne Andragender til denne.</p>
+<p>Retshandlinger, om hvis Foretagelse Parterne ikke have andraget, kunne besluttes af<lb />
+dømmeren på Gmbedsvegne, naar han finder<lb />
+dem fornødne forøjemedet, navnlig i den<lb />
+Sigtedes Interesse.</p>
+<p>Findes det, at et Andragende ikke kan<lb />
+tages til følge, afsiges Kjendelse.</p>
+
+</rightside>

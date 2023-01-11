@@ -1,0 +1,63 @@
+384
+<pb n="120" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>384</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 524.</wtitle>
+<p>
+Når de i de foregående Paragraffer givne Bestemmelser ere iagttagne, bortfalder den Ret til efter lovlig Omgang at fyldestgøres af det udlagte, som Udlæget<lb/>
+giver, ikke ved Skyldnerens påfølgende Død eller Konkurs, jvf. dog Konkurslovens<lb/>
+§ 23 (Lov Nr. 30 af 20. Marts 1901 § 2), eller ved senere af andre Kreditorer<lb/>
+iværksat Udlæg, ligesom Skyldneren ej heller ved senere Retshandler gyldig kan overdrage Trediemand nogen mod Udlægshaverens Ret stridende Rettighed over det udlagte.
+</p>
+<p>
+Dog taber Udlægshaveren i Løsøre, som er forblevet i Skyldnerens Besiddelse,<lb/>
+sin af Udlæget flydende Sikkerhedsret over for Skyldnerens Kreditorer i Tilfælde af<lb/>
+Konkurs eller senere Udlæg, når han ikke inden 12 Uger efter Udlægsforretningens<lb/>
+Slutning skrider til Tvangsauktion eller får det udlagte bragt ud af Skyldnerens Besiddelse, medmindre han ved Anke eller Kære eller Trediemands Ret har været hindret i at fremme Tvangssalget, eller Trediemands Ret er til Hinder for at betage<lb/>
+Skyldneren Besiddelsen.
+</p>
+<wtitle>§ 525.</wtitle>
+<p>
+Viser den stedfundne Tvangsauktion, at Udlægshaveren ikke bliver fyldestgjort<lb/>
+af det udlagte, eller kan en Udlægshaver, der ikke har fået tilstrækkeligt Udlæg til<lb/>
+at dække sin Fordring, senere påvise Gods, hvori der kan gøres Eksekution, er han<lb/>
+berettiget til at forlange Eksekutionsforretningen genoptagen og fortsat efter de ovenfor givne Regler. Omvendt er den, hos hvem Udlæget er sket, berettiget til at begære Forretningen genoptagen og det skete Udlæg i det hele eller for en Del hævet,<lb/>
+når den Fordring, hvorfor det er gjort, i det hele eller for en Del er bortfalden,<lb/>
+efter at Udlæget er sket.
+</p>
+<p>
+Ligeledes kan Fogden efter Domhaverens Begæring genoptage Eksekutionsforretningen og træffe ny Bestemmelse om Bevaringen og Administrationen af<lb/>
+det udlagte, når Tiden, som vil hengå forinden Auktionen, betydeligt vil blive forlænget ved, at Anke eller Kære er rejst imod Udlægsforretningen, eller når Domfældtes Forhold med Hensyn til udlagt Gods, som er forblevet i hans Besiddelse, giver<lb/>
+Anledning dertil, eller når Bekosteligheden ved det udlagtes Bevaring eller lignende<lb/>
+Grunde opfordrer dertil.
+</p>
+<wtitle>§ 526.</wtitle>
+<p>
+Også i andre Tilfælde end de i § 525, jvf. § 524, 2det Stykke, nævnte kan<lb/>
+Eksekutionsforretningen genoptages efter Begæring af Trediemand eller en af Parterne,<lb/>
+når alle vedkommende samtykke deri.
+</p>
+<wtitle>§ 527.</wtitle>
+<p>
+En sluttet Eksekutionsforretning kan påankes eller påkæres overensstemmende med Reglerne i Kapitel 52.
+</p>
+<p>
+Kendelser, der afsiges af Fogden, kunne først gøres til Genstand for Anke<lb/>
+eller Kære, efter at hele Eksekutionsforretningen er sluttet,
+</p>
+<wtitle>§ 528.</wtitle>
+<p>
+Anke eller Kære imod Eksekutionsforretningen må i Reglen rejses inden 4<lb/>
+Uger, efter at Eksekutionsforretningen er endelig sluttet eller stadfæstet, jvf. § 518,<lb/>
+eller, for så vidt Eksekutionsgrundlaget på lovlig Måde ophæves eller forandres,<lb/>
+4 Uger, efter at dette er sket.
+</p>
+<p>
+Dog kan Justitsministeren indtil 1 År efter Eksekutionsforretningens Slutning<lb/>
+eller Stadfæstelse tillade Anke eller Kære, når ganske særegne Omstændigheder tale<lb/>
+herfor.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

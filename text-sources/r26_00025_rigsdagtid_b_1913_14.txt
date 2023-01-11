@@ -1,0 +1,138 @@
+2849
+<pb n="25" />
+<h>
+<coll>2849</coll>
+<topmidle>Tillæg B. (179).	Ordentlig Samling 1910—14.<lb />
+Bet. o. Lovf. om Rettens Pleje m. m.</topmidle>
+<colr>2850</colr>
+</h>
+
+<title>
+Jylland.
+</title>
+<p>
+27.	Dommeren i Fredericia Købstad m. m.
+</p>
+<p>
+28.	—	i Kolding Købstad m. m. (borgerlige Sager).
+</p>
+<p>
+29.	—	i Kolding Købstad m. m. (Straffesager).
+</p>
+<p>
+30.	—	i Vejle Købstad m. m. (borgerlige Sager).
+</p>
+<p>
+31.	—	i Vejle Købstad m. m. (Straffesager).
+</p>
+<p>
+32.	—	i Horsens Købstad.
+</p>
+<p>
+33.	—	i Aarhus Købstad (borgerlige Sager).
+</p>
+<p>
+34.	—	i Aarhus Købstad (Straffesager).
+</p>
+<p>
+35.	—i Ning Herred m. m.
+</p>
+<p>
+36.	—	i Rougsø m. fl. Herreder.
+</p>
+<p>
+37.	—	i Randers Købstad m. m. (borgerlige Sager).
+</p>
+<p>
+38.	—	i Randers Købstad m. m. (Straffesager).
+</p>
+<p>
+39.	—	i Hobro Købstad m. m.
+</p>
+<p>
+40.	—	i Aalborg Købstad.
+</p>
+<p>
+41.	—	i Nørresundby Købstad m. m.
+</p>
+<p>
+42.	—	i Sæby Købstad m. m.
+</p>
+<p>
+43.	— i Frederikshavn Købstad m. m.
+</p>
+<p>
+44.	—	i Hjørring Købstad m. m. (borgerlige Sager).
+</p>
+<p>
+45.	—	i Hjørring Købstad m. m. (Straffesager).
+</p>
+<p>
+46.	—	i Øster og Vester Han Herreder.
+</p>
+<p>
+47.	—	i Thisted Købstad m. m.
+</p>
+<p>
+48.	—	i Nykøbing M. Købstad m. m.
+</p>
+<p>
+49.	—	i Skive Købstad m. m.
+</p>
+<p>
+50.	—	i Viborg Købstad m. m. (borgerlige Sager).
+</p>
+<p>
+51.	—	i Viborg Købstad m. m. (Straffesager).
+</p>
+<p>
+52.	—	i Lysgaard m. fl. Herreder.
+</p>
+<p>
+53.	—	i Herning Købstad m. m.
+</p>
+<p>
+54.	—	i Holstebro Købstad m. m.
+</p>
+<p>
+55.	—	i Ringkøbing Købstad m. m.
+</p>
+<p>
+56.	—	i Varde Købstad m. m.
+</p>
+<p>
+57.	—	i Esbjerg Købstad m. m.
+</p>
+<title>
+Tavle B.
+(Dommere i 2den Lønningsklasse).
+</title>
+<title>
+Sjælland og Møen.
+</title>
+<p>
+1. Dommeren i Roskilde Købstad m. m. (Straffesager).
+</p>
+<p>
+2. — i Køge Købstad m. m.<lb />
+3. — i Hørsholm Birk.
+</p>
+<p>
+4.	— i Kronborg vestre Birk.
+</p>
+<p>
+5.	— i Nykøbing S. Købstad m. m.<lb />
+6. — i Løve Herred.
+</p>
+<p>
+7.	— i Bregentved-Gisselfeld Birk.
+</p>
+<p>
+8.	— i Ringsted Købstad m. m.<lb />
+9. — i Sorø Købstad m. m.
+</p>
+<underpage>
+<p>
+Udvalgenes Betænkninger m m.	179
+</p>
+</underpage>

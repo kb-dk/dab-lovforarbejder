@@ -1,0 +1,70 @@
+419
+<pb n="155" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>419</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<title>Fjerde Bog.</title>
+<undertitle>
+Strafferetsplejen.
+</undertitle>
+<title>Første Afsnit.</title>
+<title>
+Almindelige Bestemmelser.
+</title>
+<title>Kapitel 60.</title>
+<undertitle>
+Strafferetsplejens Område.
+</undertitle>
+<wtitle>§ 674.</wtitle>
+<p>
+Alle Spørgsmål om Straf, som ikke i Medfør af særlig Hjemmel i Lovgivningen afgøres uden særlig Straffesag eller behandles i den borgerlige Retsplejes Former eller henhøre under særlige Domstole, behandles efter de i denne Bog fastsatte Regler. Det samme gælder Ærefornærmelser i navnløse eller med urigtigt eller<lb/>
+opdigtet Navn forsynede Skrivelser, for så vidt den fornærmede forlanger offentlig<lb/>
+Påtale, samt Sager om Oprejsning for uforskyldt Anholdelse eller Erstatning for<lb/>
+uforskyldt Varetægtsfængsel eller for uforskyldt Udståelse af Straf.
+</p>
+<wtitle>§ 675.</wtitle>
+<p>
+Efter denne Bogs Regler behandles endvidere, uden Hensyn til, om der samtidig<lb/>
+nedlægges Påstand om Straf, Sager, hvorunder det offentlige nedlægger Påstand om:
+</p>
+<p>
+1)	Særlige Følger, der til Fyldestgørelse for det almene ere fastsatte for Overtrædelser<lb/>
+af Love om Politivæsenet, Bygningsvæsenet, Landbovæsenet og lignende Love;
+</p>
+<p>
+2)	Ophævelse af en Forening;
+</p>
+<p>
+3)	Stadfæstelse af Forbud mod Udbredelse af et fremmed Skrift;
+</p>
+<p>
+4)	Anvendelse af Sikkerhedsforanstaltninger mod Undsigende (nu Straffelovens § 299);
+</p>
+<p>
+5)	Sikkerhedsforanstaltninger på Grund af Forbryderes Utilregnelighed (nu<lb/>
+Straffelovens § 38, 2det Stykke):
+</p>
+<p>
+6)	Udbringeise af Riget (nu Straffelovens § 16 og midlertidig Lov om nogle Ændringer i Straffelovgivningen af 1, April 1905 §§ 7 og 8);
+</p>
+<p>
+7)	Meddelelse af Afholdspålæg til Drankere (nu midlertidig Lov om nogle Ændringer i Straffelovgivningen af 1. April 1905 § 6);
+</p>
+<p>
+8)	Opholdspålæg til Forbrydere (nu midlertidig Lov om nogle Ændringer i Straffelovgivningen af 1. April 1905 § 8);
+</p>
+<p>
+9)	Inddragelse af Penge eller Gods;
+</p>
+<p>
+10)	Fortabelse af Embede, Bestilling, Rang, Titel, Orden eller Hæderstegn:
+</p>
+<p>
+11)	Fortabelse af Næringsadkomst;
+</p>
+<p>
+12)	Fortabelse af Arveret;
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

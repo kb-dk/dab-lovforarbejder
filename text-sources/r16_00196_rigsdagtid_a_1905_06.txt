@@ -1,0 +1,73 @@
+2295
+<pb n="196" />
+<h>
+<coll>
+2295
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2296
+</colr>
+</h>
+<wtitle>§ 843.</wtitle>
+<p>
+Dommen skal, for saa vidt den ikke gaar ud paa Sagens Afvisning, enten<lb />
+domfælde eller frifinde.
+</p>
+<p>
+Frifindelse finder Sted, naar Overanklageren ikkS er paataleberettiget, naar<lb />
+Forfølgning frafaldes, naar Strafskylden er forældet, samt naar Tiltalte ikke findes<lb />
+skyldig.
+</p>
+<wtitle>§ 844.</wtitle>
+<p>
+Ved Afgørelsen af, om noget er bevist eller ikke, tages alene Hensyn til de<lb />
+Beviser, som ere fremførte under Domsforhandlingen. Bedømmelsen af Bevisernes<lb />
+Vægt er ikke bunden ved Lovregler.
+</p>
+<wtitle>§ 845.</wtitle>
+<p>
+Betten kan ikke domfælde for noget Forhold, der ikke omfattes af Tiltalen.
+</p>
+<p>
+Derimod er Retten ikke udelukket fra at henføre det paatalte Forhold under<lb />
+en anden Strafbestemmelse end den, Overanklageren har paastaaet anvendt, eller fra<lb />
+at afvige fra Tiltalen med Hensyn til de med Forbrydelsen forbundne Biomstændig-<lb />
+heder (Tid, Sted o. desl.), alt under Betingelse af, at det med Sikkerhed skønnes, at<lb />
+Tiltalte, ogsaa under Forudsætning af saadan Afvigelse fra Tiltalen, har haft fyldest-<lb />
+gørende Adgang til Forsvar. Finder Retten, at dette ikke er Tilfældet, eller nærer<lb />
+den Tvivl i saa Henseende, skal den, forinden dens afvigende Bedømmelse lægges til<lb />
+Grund for Domfældelsen, give Parterne Lejlighed til at udtale sig og efter Omstæn-<lb />
+dighederne tilstaa den til Varetagelse af Forsvaret fornødne Udsættelse.
+</p>
+<title>Kapitel 75.</title>
+<undertitle>Særlige Bestemmelser om Domsforhandling for Nævninger.</undertitle>
+<wtitle>§ 846.</wtitle>
+<p>
+Naar Retten er sat til Sagens Behandling, lader Rettens Formand Sagen paa-<lb />
+raabe og Tiltalte føre ind i Retssalen samt saa vidt fornødent Vidner og Syns- og<lb />
+Skønsmænd paaraabe, hvorhos han giver de Paalæg og træffer de Foranstaltninger,<lb />
+som maatte findes fornødne for at sikre disses Tilstedeblivelse og hindre indbyrdes<lb />
+Meddelelse.
+</p>
+<p>
+Derefter skrides, for saa vidt der ikke opstaar Spørgsmaal om Udsættelse,<lb />
+Afvisning eller desl., som findes forinden at burde afgøres, til Udtagelse af Næv-<lb />
+ninger, jfr. dog § 856.
+</p>
+<wtitle>§ 847.</wtitle>
+<p>
+I enhver Nævningesag skulle 12 Nævninger udtages til at deltage i Afgørelsen.
+</p>
+<p>
+Kan det forudses, at en Sags Forhandling vil medtage et længere Tidsrum,<lb />
+kan Rettens Formand, førend Lodtrækningen begynder, beslutte, at endvidere en eller<lb />
+flere Nævninger skulle udtages som Suppleanter. Saafremt da nogen af Nævningerne<lb />
+maatte blive forhindret i at overvære den hele Forhandling, indtil Nævningernes Er-<lb />
+klæring er afgiven, indtræder en Suppleant i lians Sted efter den Rækkefølge, i hvilken<lb />
+Navnene ere udtrukne.
+</p>
+<p>
+Suppleanterne overvære Forhandlingen, men deltage ikke i Nævningernes Raad-<lb />
+slagninger og Afstemninger, saa længe de ikke ere indtraadte i en Nævnings Sted.
+</p>

@@ -1,0 +1,60 @@
+3261
+<pb n="26" />
+<h>
+<coll>3261</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3262</colr>
+</h>
+<p>
+durens Mundtlighed og Bevisumiddelbarheden, gaar navnlig ud paa følgende: Retten<lb />
+kan ved dertil egnede Spørgsmaal søge at fjærne, hvad der maatte være af Uklarhed<lb />
+i Parternes Erklæringer saavel som, hvad der, efter de af Parterne selv afstukne<lb />
+Rammer for deres Fremstilling, maa betegnes som Ufuldstændighed i denne. Den<lb />
+kan, om den finder det fornødent, opfordre Parterne til at fremlægge Kort eller lig-<lb />
+nende Anskuelsesmidler eller til at tilvejebringe Syn eller Skøn. Den kan under Bevis-<lb />
+førelsen om fornødent gribe ind i denne, for at bevirke, at de Spørgsmaal, der stilles,<lb />
+og de Svar, der gives, saa vidt muligt bringes i saadan Form, at Misforstaaelse und-<lb />
+gaas, ligesom den endelig til Sagens yderligere Oplysning kan rette selvstændige Spørgs-<lb />
+maal til Parter, der afhøres personlig*), til Vidner og Syns- og Skønsmænd. — I den<lb />
+nuværende Civilproces gælder den saakaldte Eventualmaksime (d. v. s. Principet<lb />
+om, at Parterne straks ved første Lejlighed skulle fremsætte alle de Angrebs- og For-<lb />
+svarsgrunde, hvoraf de ville betjene sig, selv om nogle af disse kun ere subsidiære, da<lb />
+der ellers ikke mod Modpartens Protest kan tages Hensyn dertil). Denne Maksimes<lb />
+Opgave er særlig at modvirke den skriftlige Procedures Tendens til Langsomhed. Den<lb />
+Skriftveksling, der skal indlede Behandlingen ved Landsret, kan imidlertid ikke uden<lb />
+særlig Tilladelse af Retten strækkes videre end til Duplik; Sagens mundtlige Forhand-<lb />
+ling koncentreres ved alle Retter i en enkelt Domsforhandling, hvis Afslutning beror<lb />
+paa Retten, og Rettens Samtykke kræves til, at en Sag udstykkes. Under disse Om-<lb />
+stændigheder er der ingen Adgang for Parterne til en Forhaling af den Art, mod<lb />
+hvilken særlig Eventualmaksimen skal danne Værnet; den opstilles derfor ikke i den<lb />
+ny Proces, undtagen for saa vidt, som det ordentligvis nægtes en Part mod Mod-<lb />
+partens Protest under den mundtlige Domsforhandling at fremsætte Paastande eller<lb />
+Anbringender, paa hvilke Modparten ikke er bleven forberedt gennem det skriftlige<lb />
+Grundlag. Mod Forhalingstilbøjeligheder i øvrigt ligger Værnet i Reglerne om Sags-<lb />
+omkostninger og Rettergangsbøder. — I den nuværende Civilproces hænder det jævn-<lb />
+lig, at en, maaske endog langvarig, Realitetsprocedure spildes derved, at der, naar<lb />
+Sagen er optaget til Dom, befindes at foreligge Formalitetsfejl, som efter de gæl-<lb />
+dende Regler maa bevirke Afvisning eller Annullation, ex officio eller efter Sagsøgtes<lb />
+Paastand. I nærværende Udkast er der lagt Vægt paa, i videst muligt Omfang at<lb />
+undgaa alt saadant. I saa Henseende kan særlig fremhæves, at alle Formalitets-<lb />
+indsigelser forlanges fremsatte straks, at saadanne, naar Retten ikke netop bestemmer<lb />
+anderledes, skulle behandles og paakendes særskilt forinden Realiteten, at urigtig For-<lb />
+kyndelse af Stævning eller for kort Stævnevarsel, naar Sagsøgte dog møder, kun giver<lb />
+ham Ret til Udsættelse, ikke til Afvisning, og endelig at Klager over en Sags Behand-<lb />
+ling ved underordnet Ret, som efter Sagens Stilling i Appelinstansen ere uden reel<lb />
+Betydning for vedkommende Part, af den overordnede Ret kunne lades ude af Betragt-<lb />
+ning. — Endnu skal med Hensyn til den borgerlige Retspleje fremhæves, at det som<lb />
+almindeligt Princip er gennemført, at en paaankelig Afgørelse først bliver<lb />
+retskraftig og som saadan tjenlig som Grundlag for videre Skridt, naar Anke-<lb />
+fristen er udløben; Ankefristerne ere i Forhold til de nugældende korte, og Ad-<lb />
+gang til Afvigelse fra nævnte Princip er forbeholdt for saadanne Tilfælde, hvor sær-<lb />
+lige Omstændigheder gøre Afvigelse nødvendig. — Hvad dernæst særlig Strafferets-<lb />
+plejen angaar, da bygger Udkastet derom paa Anklageprincipet (det akkusato-<lb />
+riske Princip) i Modsætning til den nugældende Ret, der i Hovedsagen gennemfører<lb />
+Forhørsprincipet (det inkvisitoriske Princip). Den Sigtede skal altsaa ikke længere
+</p>
+<note rend="foot">
+<p>
+*) Om Parternes personlige Afhøring se Nr. 15.
+</p>
+</note>

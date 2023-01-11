@@ -1,0 +1,64 @@
+352
+<pb n="88" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>352</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+ikke er afsluttet før Sagens Overgang til skriftlig Behandling, efter Begæring og efter<lb/>
+foregående mundtlig Forhandling, jvf. § 342, den fornødne Udsættelse til at tilvejebringe Bevis samt træffes de fornødne Bestemmelser om Bevisoptagelsen, jvf. § 343.
+</p>
+<p>
+Skal ingen Bevisførelse finde Sted, kan Sagen begæres optagen til Påkendelse.
+</p>
+<wtitle>§ 379.</wtitle>
+<p>
+Har Bevisoptagelse fundet Sted, kan hver af Parterne efter dens Tilendebringelse<lb/>
+i dertil berammede Retsmøder fremlægge et skriftligt Indlæg.
+</p>
+<wtitle>§ 380.</wtitle>
+<p>
+Med de af det foregående følgende Lempelser komme i øvrigt denne Lovs<lb/>
+almindelige Regler for Proceduren til Anvendelse, også når skriftlig Behandling<lb/>
+finder Sted.
+</p>
+<p>
+Sagens Optagelse sker, for så vidt Indlægsvekslingen har fundet Sted for<lb/>
+Underretten, af denne, der snarest muligt derefter indsender Dokumenterne til Landsretten tilligemed Udskrift af, hvad der vedrørende Sagen er tilført Retsbogen.
+</p>
+<p>
+Dersom Landsretten efter Sagens Optagelse til Dom finder det af særlig Betydning<lb/>
+for Sagens Oplysning, at der rettes yderligere Spørgsmål til tidligere afhørte Parter,<lb/>
+Vidner, Syns- eller Skønsmænd, kan den træffe Bestemmelse herom, samt om sådan<lb/>
+Afhøring skal ske for et Medlem af Landsretten eller for Underretten, jvf. §§ 162 og<lb/>
+163, 193 samt 293. Med Udgifterne ved sådanne Foranstaltninger forholdes på<lb/>
+den i § 275 foreskrevne Måde.
+</p>
+<wtitle>§ 381.</wtitle>
+<p>
+Dom afsiges på Grundlag af de fremlagte Indlæg og skriftlige Beviser. Påstande, Søgsmålsgrunde, Indsigelser såvel som overhovedet faktiske Anbringender<lb/>
+kunne ikkun komme i Betragtning, for så vidt de enten indeholdes i de skriftlige<lb/>
+Indlæg eller ere optagne i Retsbogen.
+</p>
+<wtitle>§ 382.</wtitle>
+<p>
+Udebliver nogen af Parterne i et Retsmøde, bliver Sagen efter den mødende<lb/>
+Parts Begæring at optage til Påkendelse på Grundlag af alle de imellem Parterne<lb/>
+indtil da vekslede Indlæg m. m. Er det Sagsøgeren, der udebliver, kan Sagsøgte dog<lb/>
+også begære Sagen afvist.
+</p>
+<p>
+Sagsøgeren kan hæve Sagen, så længe den ikke er optagen til Påkendelse;<lb/>
+dog kan han ikke derved afskære Modparten fra at få Dom for tingfæstede Modkrav.
+</p>
+<wtitle>§ 383.</wtitle>
+<p>
+Dommens Vedtagelse og Afsigelse foregår efter de almindelige Regler. Dog<lb/>
+kan Rettens Formand, når Omstændighederne tale derfor, anordne, at skriftlig Stemmegiven skal. finde Sted.
+</p>
+<wtitle>§ 384.</wtitle>
+<p>
+Med Hensyn til Anke og Kære forholdes der efter de almindelige Regler.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

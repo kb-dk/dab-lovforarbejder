@@ -1,0 +1,70 @@
+2189
+<pb n="21" />
+<h>
+<coll>2189</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2190</colr>
+</h>
+<wtitle>§ 104.</wtitle>
+<p>
+Afgørelsen træffes paa Grundlag af den mundtlige Forhandling og Bevis-<lb/>
+førelsen, jfr. dog §§ 239, 263 og 286. Hvorledes Sagens faktiske Sammenhæng skal<lb/>
+antages at være, afgør Retten i Henhold til det samlede Indhold af Forhandlingerne<lb/>
+og den stedfundne Bevisførelse.
+</p>
+<p>
+Særlig har Retten, naar der mellem Parterne er Strid, om en Skade er for-<lb/>
+aarsaget, eller hvilken Erstatning der skal gives, og den ifølge de Oplysninger, som<lb/>
+foreligge eller indhentes (§ 92), anser sig for at være i Stand hertil, at afgøre disse<lb/>
+Spørgsmaal efter et Skøn over alle i Betragtning kommende Omstændigheder.
+</p>
+<wtitle>§ 105.</wtitle>
+<p>
+Retten kan ikke tilkende en Part mere, end han har paastaaet. Om Proces-<lb/>
+omkostninger og Rettergangsbøder træffes de Bestemmelser, hvortil der efter Sagens<lb/>
+Beskaffenhed findes Anledning, selv om ingen udtrykkelig Paastand herpaa er nedlagt.
+</p>
+<p>
+Der maa ved Afgørelsen ikke tages Hensyn til Søgsmaalsgrunde eller Ind-<lb/>
+sigelser, som ikke ere gjorte gældende af Parterne, om det end af Sagens Forhand-<lb/>
+ling kan ses, at de kunde have været benyttede.
+</p>
+<wtitle>§ 106.</wtitle>
+<p>
+Ere flere Krav forenede under Sagen (§§ 26 og 27), kan Retten, saa snart<lb/>
+noget af disse er modent til Paakendelse, afsige Dom derom.
+</p>
+<wtitle>§ 107.</wtitle>
+<p>
+Retten kan afsige Dom angaaende enkelte af de fremsatte Søgsmaalsgrunde<lb/>
+eller Indsigelser saavel som angaaende Modfordringer, ikke blot hvor særskilt For-<lb/>
+handling af dem er anordnet (§ 94, sidste Stykke), men ogsaa hvor de, uden at dette<lb/>
+er Tilfældet, ere modne til Paakendelse.
+</p>
+<p>
+Domme af den Art, som de i foregaaende Stykke omhandlede, ere dog kun<lb/>
+at anse som Bestanddele af den endelige Dom, i hvilken de blive at lægge til Grund<lb/>
+og saa vidt fornødent at optage; en saadan Dom kan ikke særskilt fuldbyrdes, med-<lb/>
+mindre Retten særlig bestemmer, at den mod eller uden Sikkerhedsstillelse straks kan<lb/>
+fuldbyrdes.
+</p>
+<wtitle>§ 108.</wtitle>
+<p>
+Domme og Kendelser skulle ledsages af Grunde. Andre Beslutninger af Retten<lb/>
+eller Rettens Formand behøve ikke at begrundes.
+</p>
+<p>
+Den i Rettens Afgørelse givne Fremstilling af Parternes mundtlige Angivelser<lb/>
+og Ytringer under Sagens Behandling afgiver fuldt Bevis for disse, for saa vidt ikke<lb/>
+Modbevis imod den føres.
+</p>
+<wtitle>§ 109.</wtitle>
+<p>
+Domme og Kendelser afsiges snarest muligt efter Forhandlingernes Slutning.<lb/>
+Afsigelsen foregaar ved, at Konklusionen oplæses i et Retsmøde. Dersom det ikke<lb/>
+ved Optagelsen tilkendegives, naar Dommen eller Kendelsen vil blive afsagt, skulle<lb/>
+Parterne og efter Omstændighederne Vidner og Syns- eller Skønsmænd tilsiges til at<lb/>
+høre den afsagt. Er den paagældende ikke saaledes sat i Kendskab om Afsigelses-<lb/>
+tiden, regnes for hans Vedkommende de ellers fra Afsigelsen løbende processuelle<lb/>
+Frister først fra Dommens eller Kendelsens Forkyndelse for ham.
+</p>

@@ -1,0 +1,111 @@
+1943
+<pb n="18" />
+<h>
+<coll>1943</coll>
+<topmidle>Bet. o. Lovf. om Rettens Pleje m. m.</topmidle>
+<colr>1944</colr>
+</h>
+<p>
+61.	Nibe Købstad og Hornum Herred, 16,336 Indb.
+</p>
+<p>
+62.	Aalborg Købstad, 33,449 Indb.
+</p>
+<p>
+63.	Aalborg Birk og Fieskum Herred, 16,829 Indb.
+</p>
+<p>
+64.	Nørresundby Købstad og Kjær Herred med Hvetbo Herred, 34,536 Indb.
+</p>
+<p>
+65.	Sæby Købstad og Dronninglund Herred, 26,990 Indb.
+</p>
+<p>
+66.	Frederikshavn Købstad og Horns Herred med Skagen Købstad, 27,896 Indb.
+</p>
+<p>
+67.	Læsø Birk, 2,909 Indb.
+</p>
+<p>
+68.	Hjørring Købstad og Vennebjerg Herred med Børglum Herred. 52,780 Indb.
+</p>
+<p>
+69.	Øster og Vester Han Herreder, 19,000 Indb.
+</p>
+<p>
+70.	Thisted Købstad og Hillerslev-Hundborg Herreder, 24,516 Indb.
+</p>
+<p>
+71.	Hassing-Refs Herreder, 18,702 Indb.
+</p>
+<p>
+72.	Nykøbing M. Købstad og Morsø Herreder. 24,270 Indb.
+</p>
+<p>
+73.	Skive Købstad og Sallinglands Herreder, 29,566 Indb.
+</p>
+<p>
+74.	Viborg Købstad med Fjends-Nørlyng og Middelsom-Sønderlyng Herreder, 46,716 Indb.
+</p>
+<p>
+75.	Herning Købstad og Hammerum Herred, 31,601 Indb.
+</p>
+<p>
+76.	Holstebro Købstad samt Hjerm-Ginding Herreder, 36,813 Indb.
+</p>
+<p>
+77.	Lemvig Købstad samt Skodborg-Vandfuld Herreder, 22,938 Indb.
+</p>
+<p>
+78.	Ringkøbing Købstad samt Ulvborg-Hind Herreder, 21,060 Indb.
+</p>
+<p>
+79.	Bølling-Nørre Herreder, 18,447 Indb.
+</p>
+<p>
+80.	Varde Købstad og Landjurisdiktion med Øster og Vester Herreder, 32,240 Indb.
+</p>
+<p>
+81.	Esbjerg Købstad, Skads Herred samt Fanø Birk, 29,150 Indb.
+</p>
+<p>
+82.	Ribe Købstad med Ribe Herred, 14,152 Indb.
+</p>
+<p>
+83.	Gjørding-Malt Herreder, 18,385 Indb.
+</p>
+<p>
+Af Flertallet under Nr. 2:
+</p>
+<p>
+40) Der vedføjes Loven en Tavle over Politikredsene, som nedenfor angivet.
+</p>
+<title>
+Tavle over Politikredsene,
+</title>
+<p>
+jfr. Lovens § 109.<lb/>
+</p>
+<place>
+Sjælland og Møen.
+</place>
+<p>
+1.	Frederiksberg Birk.
+</p>
+<p>
+2.	Københavns Amts nordre Birk.
+</p>
+<p>
+3.	Københavns Amts søndre Birk med Amager Birk.
+</p>
+<p>
+4.	Roskilde Købstad med Ramsø-Tune Herreder samt Lejre Herred.
+</p>
+<p>
+5.	Køge Købstad, Vallø Birk og Bjeverskov Herred med Bregentved-Gisselfeld Birk<lb/>
+samt Storehedinge Købstad og Stevns-Fakse Herreder.
+</p>
+<p>
+6.	Helsingør Købstad med Kronborg østre Birk og Hellebæk Birk samt Hørsholm<lb/>
+Birk.
+</p>

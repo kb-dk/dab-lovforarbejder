@@ -1,0 +1,37 @@
+4
+<pb n="10" />
+<h>
+<topmidle>4      Kap. I.    Retternes Virkekreds.</topmidle>
+</h>
+<p>forbliver den ved denne, uagtet Påstanden<lb />
+senere udvides eller forhøjes, når dog derved Sagens Værdi ikke imod Modpartens<lb />
+Protest i betydelig Grad forøges ud over<lb />
+den i § 2 bestemte Grænse af 400 Kr.</p>
+<p>En Udvidelse af Påstanden kan dog ikke<lb />
+uden Modpartens Samtykke foregå således,<lb />
+at Fordringer af forskellige af de i § 2<lb />
+nævnte Klasser inddrages under Sagen.</p>
+<wtitle>§ 10.</wtitle>
+<p>Henhører en Sag under Landsret, ophører denne ikke at være kompetent, fordi<lb />
+enkelte Fordringer eller Spørgsmål udskilles til særskilt Behandling og Påkendelse i Henhold til § 94, selv om disse, for<lb />
+sig betragtede, vilde høre under Underret.</p>
+<wtitle>§ 11.</wtitle>
+<p>Parterne   kunne  retsgyldig  vedtage  at</p>
+<p>lade en Sag behandle ved Underret, selv<lb />
+om den i Følge de almindelige Regler ikke<lb />
+henhører under denne, dog med Undtagelse<lb />
+af de i Kap. XXVII og XXVIII nævnte<lb />
+Sager (jfr. endvidere §§ 504 og 516).</p>
+<title>Kapitel II.</title>
+<undertitle>Værneting.</undertitle>
+<wtitle>§ 12.</wtitle>
+<p>Retssager skulle, hvor denne Lov ikke<lb />
+hjemler Undtagelse, anlægges ved den Ret,<lb />
+i hvis Kreds Sagsøgte har Bopæl (Hjemting).</p>
+<wtitle>§ 13.</wtitle>
+<p>Dersom Sagsøgte har Bopæl i flere<lb />
+Retskredse, anses han at have Hjemting i<lb />
+enhver af dem.</p>
+<p>Indlænding, som ikke har Bopæl nogetsteds i Riget, kan sagsøges ved Retten på<lb />
+det Sted, hvor han opholder sig ved Sagens<lb />
+Berammelse, eller, dersom hans Opholdssted</p>

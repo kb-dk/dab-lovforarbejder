@@ -1,0 +1,78 @@
+2199
+<pb n="236" />
+<h>
+<coll>
+2199
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2200
+</colr>
+</h>
+<p>
+Saa vel Indledelse af Forundersøgelse og Tilstedelse af Tiltale som den videre<lb />
+Fremme af Sagen og Foretagelse af enkeltstaaende Retshandlinger kan betinges af,<lb />
+at Sagsøgeren stiller Sikkerhed i rede Penge efter Pettens nærmere Bestemmelse for<lb />
+de Omkostninger, som det efter Reglerne i § 1068 kan blive ham paalagt at tilsvare<lb />
+det offentlige og Sigtede.
+</p>
+<wtitle>§  1039.</wtitle>
+<p>
+Skal Tiltale rejses ved Landsret, maa Sagsøgeren til Sagens Udførelse for<lb />
+Landsretten antage en til Møde sammesteds berettiget Sagfører, af hvem alt det bliver<lb />
+at foretage, som ellers under Domsforhandlingen og dennes Forberedelse paahviler<lb />
+Overanklageren, og til hvem ligeledes alle Meddelelser fra Tiltaltes Side blive at rette.<lb />
+Sagsøgeren kan kun gennem sin Sagfører optræde som Part i Sagen.
+</p>
+<p>
+Er Tiltale rejst ved Underret, kunne alle Sagen vedrørende Meddelelser fra<lb />
+Tiltalte til Modparten gyldig afgives paa Rettens Kontor.
+</p>
+<wtitle>§  1040.</wtitle>
+<p>
+Den private Sagsøger kan, uanset denne sin Stilling, afhøres som Vidne i<lb />
+Sagen. Hans Afhørelse foretages ogsaa under Domsforhandlingen af Rettens Formand,<lb />
+der dog efter Omstændighederne kan overlade til Sagsøgerens Sagfører at stille Spørgs-<lb />
+maal til ham. Modafhøring fra Forsvarets Side sker efter de almindelige Regler.
+</p>
+<wtitle>§  1041.</wtitle>
+<p>
+Frafalder Sagsøgeren Forfølgningen, bliver Sagen ved Kendelse at hæve og<lb />
+kan ikke atter genoptages af ham. Det samme gælder, naar Sagsøgeren eller hans<lb />
+Rettergangsfuldmægtig uden oplyst lovlig Forhindring undlader at møde, hvor saadant<lb />
+Møde findes nødvendigt, for at Sagen kan fremmes, og Retten ikke efter Omstændig-<lb />
+hederne finder at burde udsætte Sagen.
+</p>
+<wtitle>§  1042.</wtitle>
+<p>
+Anke til Landsret, som omfatter Bevisbedømmelsen (§§ 1010 ff.), kan den pri-<lb />
+vate Sagsøger kun iværksætte efter Tilladelse af Landsretten; Andragende derom<lb />
+fremsættes og afgøres overensstemmende med Reglerne i §  1006.
+</p>
+<p>
+Til Udførelsen af en Ankesag henholdsvis for Landsretten og for Højesteret<lb />
+maa Sagsøgeren antage en til Møde ved paagældende Ret berettiget Sagfører.
+</p>
+<p>
+Anke fra Tiltaltes Side iværksættes efter de for offentlige Straffesager i<lb />
+Kapitlerne 88 og 89 givne Regler. Overanklageren lader Meddelelse om Ankesagen<lb />
+forkynde for den private Sagsøger; denne har Adgang til at slutte sig til Forfølg-<lb />
+ningen overensstemmende med Bestemmelserne i næste Paragraf.
+</p>
+<wtitle>§  1043.</wtitle>
+<p>
+Vedkommende Paatalemyndighed har Ret til paa ethvert som helst Trin at<lb />
+optræde under en Sag, som er anlagt i Henhold til § 704, og kan naar som helst selv<lb />
+overtage Forfølgningen. Er der gaaet Dom i Sagen, kan Paatalemyndigheden rejse<lb />
+Anke saa vel til Skade som til Fordel for Tiltalte, og kan ligeledes begære Genoptagelse,<lb />
+alt overensstemmende med de Begler, som gælde i offentlige Sager.
+</p>
+<p>
+I Tilfælde, hvor Paatalemyndigheden saaledes overtager Forfølgningen, beholder<lb />
+dog Sagsøgeren, naar han straks afgiver Erklæring om at ville slutte sig til Paatale-<lb />
+myndighedens Forfølgning, sin Ret til at optræde som Part i Sagen. Dog kan han<lb />
+ikke udøve Udskydelsesret ved Udtagelsen af Nævninger; ej heller kan han i noget<lb />
+Tilfælde gøre Krav paa Udsættelse af Sagen, og det paahviler ikke Tiltalte eller For-
+</p>

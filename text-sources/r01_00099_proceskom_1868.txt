@@ -1,0 +1,36 @@
+93
+<pb n="99" />
+<p>nogle af de Forbrydelser, for hvilke den samme<lb />
+Person er sigtet, kan Undersøgelsen af de<lb />
+andre Forbrydelser midlertidig hvile, indtil Afgjørelse for den eller de førstnævnte Forbrydelsers Vedkommende har fundet Sted, naar<lb />
+Statsanklageren forlanger det, og den Sigtede ikke fordrer Fortsættelse.</p>
+<wtitle>§ 245.</wtitle>
+<p>Inden Udløbet af 14 Dage efter modtagen Meddelelse om Forundersøgelsens Slutning skal Statsanklageren indlevere sit Anklageskrift til den dømmende Ret; sker dette<lb />
+ikke, ansees Forfølgningen for frafalden. Underretning om, at Anklageskriftet er indleveret,<lb />
+meddeles uopholdelig Undersøgelsesdommeren.</p>
+<p>Kan der på Grund af en for en anden<lb />
+Forbrydelse rejst Anklage blive spørgsmål om<lb />
+at undlade Påtale i Henhold til §37 Nr. 2,<lb />
+er det tilstrækkeligt, at Statsanklageren inden den<lb />
+nævnte Frist meddeler Undersøgelsesdommeren,<lb />
+at han forbeholder sig Beslutning, indtil Afgjørelse af hin Anklage har fundet Sted.<lb />
+Fristen regnes i så Fald fra Udløbet af Påankefristen eller den endelige Dom. Fra dette<lb />
+Tidspunkt regnes også Fristen, naar den<lb />
+rejste Anklage afvises, fordi den hører for en<lb />
+anden Ret; skal Anklagen bringes for en anden Ret, fordi forenede Sager adskilles, regnes<lb />
+Fristen fra Rettens Beslutning herom. Finder<lb />
+Statsanklageren det nødvendigt at andrage<lb />
+på yderligere Undersøgelseshandlinger, inden<lb />
+Beslutning om Anklage tages, eller vil han<lb />
+indstille spørgsmålet, om An! lage skal finde<lb />
+Sted, til Overstatsanklageren, eller finder han<lb />
+Grund til at andrage på en Afvigelse fra<lb />
+Værnethingsreglerne, er det tilstrækkeligt, at<lb />
+han inden den nævnte Frist gjør de fornødne<lb />
+Skridt hos vedkommende Myndighed eller<lb />
+Domstol samt meddeler dømmeren dette. Forsåvidt da Sagens videre Fremme beror på<lb />
+Overstatsanklageren, forlænges Fristen en Uge;<lb />
+forsåvidt den beror på en Rets Afgjørelse<lb />
+eller Virksomhed, finder en Ugesfrist Sted, fra<lb />
+Meddelelsen om Afgjørelsen eller Virksomhedens Slutning at regne.</p>
+<p>Undersøgelsesdommeren kan på Andragende af særegne Grunde indrømme Forlængelse af de ovenfor nævnte Frisker.</p>

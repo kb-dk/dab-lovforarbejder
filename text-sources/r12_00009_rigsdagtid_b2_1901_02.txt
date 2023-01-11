@@ -1,0 +1,151 @@
+2379
+<pb n="9" />
+<h>
+<coll>2379</coll>
+<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
+<colr>2380</colr>
+</h>
+<leftside>
+<wtitle>Til § 533.</wtitle>
+<p>
+L. 1: „§ 531" 1. „§ 659".
+</p>
+<wtitle>Til § 534.</wtitle>
+<p>
+1. Stk., L. 2: „§ 531" 1. „§ 659".
+</p>
+<wtitle>Til § 536.</wtitle>
+<p>
+L. 4: „§ 470" 1. „§ 594".
+</p>
+<undertitle>
+Ændringsforslag
+til
+</undertitle>
+<p>
+2den Behandling af Forslag til Lov om<lb/>
+Strafferetsplejen.
+</p>
+<wtitle>Til § 3.</wtitle>
+<p>
+L. 2: „Kap. XXXII." 1. „Kap. 93".
+</p>
+<wtitle>Til § 5.</wtitle>
+<p>
+Stk. d., L. 3: „§ 2" 1. „§ 666".
+</p>
+<wtitle>Til § 6.</wtitle>
+<p>
+1.	Stk., L. 2: „§ 5" 1. „§ 669".
+</p>
+<wtitle>Til § 7.</wtitle>
+<p>
+L. 1: „§§ 5 og 6" 1. §§ 669 og 670".
+</p>
+<wtitle>Til § 14.</wtitle>
+<p>
+2.	Stk., L. 2: „§ 13" 1. „§ 677" og „§ 12"<lb/>
+1. „§ 676".
+</p>
+<wtitle>Til § 23.</wtitle>
+<p>
+2. Stk., L. 2: „§ 21" 1. „§ 685".
+</p>
+<wtitle>Til § 25.</wtitle>
+<p>
+1.	Stk., L. 3: ,,§ 31" 1. „§ 695".
+</p>
+<wtitle>Til § 27.</wtitle>
+<p>
+L. 3: „§§ 195 og 206" 1. „§§ 860 og 871".
+</p>
+<wtitle>Til § 30.</wtitle>
+<p>
+L. 2: „§§ 31 og 35" 1. ,,§§ 695 og 699".
+</p>
+<p>
+L. 5: „Kapitlerne XIX. og XX." 1. „Ka-<lb/>
+pitlerne 79 og 80".
+</p>
+<wtitle>Til § 31.</wtitle>
+<p>
+2.	Stk., L. 3: „§ 30" 1. ,,§ 694".
+</p>
+</leftside>
+<rightside>
+<wtitle>Til § 34.</wtitle>
+<p>
+L. 1: „§ 31" 1. „§ 695".	„
+</p>
+<p>
+L. 4: „§ 366" 1. „§ 1032".
+</p>
+<wtitle>Til § 35.</wtitle>
+<p>
+1. Stk., L. 3: „§ 376" 1. „§ 1042".
+</p>
+<p>
+4. Stk., L. 4: .,§ 374" 1. „§ 1040" og<lb/>
+„§ 375" 1. „§ 1041".
+</p>
+<wtitle>Til § 36.</wtitle>
+<p>
+1. Stk., L. 2: „§ 33" 1. „§ 697".
+</p>
+<p>
+1. Stk., L. 5: „Kapitel XXXI." 1. „Kapitel<lb/>
+92".
+</p>
+<wtitle>Til § 38.</wtitle>
+<p>
+3. Stk., L. 3: „§ 12" 1. „§ 676".
+</p>
+<wtitle>Til § 42.</wtitle>
+<p>
+1. Stk., L. 7: „§ 12"' 1. „§ 676".
+</p>
+<wtitle>Til § 45.</wtitle>
+<p>
+1. Stk., L. 2: „§ 66" 1. „§ 730".<lb/>
+1. Stk., L. 3: „§ 207" 1. „§ 872".
+</p>
+<wtitle>Til § 47.</wtitle>
+<p>
+L. 3: „§ 144" 1. „§ 808".
+</p>
+<wtitle>Til § 54.</wtitle>
+<p>
+Stk. 2, L. 1: „§ 31" 1. „§ 695".<lb/>
+Stk. 3, L. 2: „§ 52" 1. „§ 716".
+</p>
+<wtitle>Til § 55.</wtitle>
+<p>
+L. 1: „§ 54" 1. „§ 718".
+</p>
+<wtitle>Til § 56.</wtitle>
+<p>
+L. 1: „§ 61" 1. „§ 725".
+</p>
+<wtitle>Til § 57.</wtitle>
+<p>
+3. Stk., L. 1: „§ 2" 1. „§ 666".<lb/>
+3. Stk., L. 2: „§§52—55" 1. „§§ 716—719".
+</p>
+<wtitle>Til § 58.</wtitle>
+<p>
+L. 4: „§ 96" 1. „§ 760".
+</p>
+<wtitle>Til § 59.</wtitle>
+<p>
+L. 6: „§ 96" 1. „§ 760".
+</p>
+<wtitle>Til § 60.</wtitle>
+<p>
+3. Stk., L. 4: „Kapitlerne XXVII—XXIX"<lb/>
+1. „Kapitlerne 88—90".
+</p>
+<wtitle>Til § 62.</wtitle>
+<p>
+L. 2: „§ 61" 1. „§ 725".
+</p>
+</rightside>

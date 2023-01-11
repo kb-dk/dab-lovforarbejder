@@ -1,0 +1,60 @@
+2071
+<pb n="84" />
+<h>
+<coll>
+2071
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2072
+</colr>
+</h>
+<p>
+I Overensstemmelse med § 273 kan Retten udskille Interventionen til særskilt<lb />
+Forhandling før eller efter Hovedsagen, saaledes at den enten paakendes i Forbin-<lb />
+delse med Hovedsagen eller særskilt.
+</p>
+<wtitle>§ 361.</wtitle>
+<p>
+Intervenienten er berettiget til at benytte Anke og Kære over for den sted-<lb />
+fundne Behandling og den afsagte Dom ligesom enhver af de oprindelige Parter.
+</p>
+<wtitle>§ 362.</wtitle>
+<p>
+Den, der blot vil optræde under Sagen for at understøtte en af Parterne, jfr.<lb />
+§ 239, skal til Retten indgive en skriftlig Begæring om at faa Adgang til at ytre sig<lb />
+i Sagen. Denne Begæring meddeles Parterne. Modsætter en af disse sig Begæringen,<lb />
+bliver Spørgsmaalet at afgøre ved Rettens Kendelse. Indrømmes Begæringen, træffer<lb />
+Retten de nærmere Bestemmelser om Maaden, hvorpaa den paagældende skal have<lb />
+Adgang til at ytre sig i Sagen og fremføre Beviser.
+</p>
+<wtitle>§ 363.</wtitle>
+<p>
+Tillader Retten Sagsøgeren at tilstævne (adcitere) Trediemand for at faa Dom<lb />
+over ham enten alternativt med eller tilsammen med Sagvolderen, udsættes Sagen saa<lb />
+længe, som nødvendigt er, for at paagældende Trediemand paa sædvanlig Maade kan<lb />
+stævnes til at svare som Sagvolder. De i §§ 357, 360 og 361 om Intervention givne<lb />
+Regler finde ogsaa Anvendelse med Hensyn til Tilstævning.
+</p>
+<wtitle>§ 364.</wtitle>
+<p>
+Naar Domsforhandling er berammet, kan Indtræden i Sagen eller Tilstævning<lb />
+efter dette Kapitel kun finde Sted med Rettens Samtykke.
+</p>
+<title>Kapitel 33.</title>
+<undertitle>Skriftlig Behandling af Sager ved Landsretterne i første Instans og ved Sø- og<lb />Handelsrettens 1ste Afdeling.</undertitle>
+<wtitle>§ 365.</wtitle>
+<p>
+I vidtløftige Regnskabssager og andre indviklede Retssager kan Retten paa<lb />
+ethvert Trin af Forhandlingerne anordne skriftlig Behandling af Sagen. Saadan Be-<lb />
+stemmelse kan ikke paakæres eller paaankes.
+</p>
+<wtitle>§ 366.</wtitle>
+<p>
+Hvor skriftlig Behandling er anordnet, iværksættes der under Rettens Ledelse<lb />
+en Indlægsveksling imellem Parterne, som kan strække sig til Duplik. En fortsat<lb />
+Skriftveksling tilstedes kun undtagelsesvis, hvor Sagens Beskaffenhed skønnes at gøre<lb />
+den nødvendig. Retten bestemmer Frister til Indlægenes Afgivelse, ligesom den og,<lb />
+hver Gang en Part har fremlagt Indlæg, bestemmer, om Modparten skal have Udsæt-<lb />
+telse til at svare derpaa.
+</p>

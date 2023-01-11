@@ -1,0 +1,37 @@
+65
+<pb n="71" />
+<p>delse, skjønt den Sigtede er udebleven ved<lb />
+Hovedforhandlingen, kan Anholdelse af denne<lb />
+Grund dog kun finde Sted, naar det i en efter<lb />
+Reglerne i § 95 ff. forkyndt Indkaldelse udtrykkelig er bemærket, at hans personlige nærværelse<lb />
+findes nødvendig.</p>
+<wtitle>§ 170.</wtitle>
+<p>Uden  foregående   Indkaldelse kan Retten<lb />
+beslutte en Mistænkts Anholdelse:</p>
+<p>1)   naar den Pågjældende er en Person,  der<lb />
+strejfer  om uden Midler til lovligt Underhold,   eller som  ikke har Bolig eller  dog<lb />
+varigere Ophold i Riget, eller er en Ubekjendt,  om hvis Navn og Opholdssted ingen   antagelige   Oplysninger   haves    eller<lb />
+kunne fremskaffes;</p>
+<p>og, forsåvidt Mistanken angår et Forhold,<lb />
+som det ifølge Lovens almindelige Regel tilkommer Statsanklageren at forfølge,</p>
+<p>2)  naar det,  skjønt  Betingelserne for Afsigelse<lb />
+af Fængslingskjendelse   ikke fuldstændig  ere<lb />
+tilstede,    efter   Omstændighederne   skjønnes<lb />
+fornøden:   at   sikre   en   Persons foreløbige<lb />
+Tilstedeblivelse og Afsondring fra Samkvem<lb />
+med Andre.</p>
+<wtitle>§ 171.</wtitle>
+<p>Finder Oprør eller den i Stræffelovens<lb />
+§ 168 ommeldte Forbrydelse Sted, eller udøves den i Stræffelovens § 87 ommeldte Forbrydelse af en samlet Mængde, eller er Drab<lb />
+eller betydeligere Legemsbeskadigelse påfulgt i<lb />
+Slagsmål, i hvilket Flere have deltaget, og<lb />
+Omstændighederne ikke umiskjendelig udpege den<lb />
+eller de Skyldige, kan Enhver, der træffes i<lb />
+den samlede Mængde eller indviklet i Slagsmålet, og som ikke strax formår at rense sig<lb />
+for Mistanken om strafbar Deltagelse, anholdes.</p>
+<wtitle>§ 172.</wtitle>
+<p>Anholdelsesbeslutningen tilføres Retsbogen<lb />
+strax eller, så snart ske kan, med en så nøjagtig Betegnelse af den Pågjældende som<lb />
+mulig samt Angivelse af Sigtelsens Gjenstand,<lb />
+i det Mindste i Almindelighed, og Grunden<lb />
+til Anholdelsen. Udskrift skal på Forlangende meddeles den Anholdte inden 24 Timer.</p>

@@ -1,0 +1,59 @@
+316
+<pb n="<span class="result">52</span>" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>316</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+ikke til Stede ved Afsigelsen, bliver Udskrift af Dommen at forkynde for ham; i<lb/>
+andre Tilfælde meddeles der ham på Begæring Udskrift uden Betaling. Af alle<lb/>
+Domme tilstilles der Tiltalemyndigheden Udskrift, Ved Afsigelsen eller Forkyndelsen<lb/>
+af en fældende Dom bliver det at betyde Domfældte, inden hvilken Frist og på<lb/>
+hvilken Måde han kan fremsætte Meddelelse om Anke.
+</p>
+<wtitle>§ 211.</wtitle>
+<p>
+Stadfæstelse af en indanket Dom kan gives enten i Henhold til de i samme<lb/>
+anførte Grunde eller i Henhold til ny Begrundelse.
+</p>
+<p>
+I overordnet Rets Dom skal det altid anføres, ved hvilken Ret den indankede<lb/>
+Dom er afsagt,
+</p>
+<wtitle>§ 212.</wtitle>
+<p>
+Retten kan til enhver Tid i Embeds Medfør eller ifølge Begæring berigtige<lb/>
+Skrivefejl, som ere indløbne i Henseende til Ord, Navne eller Tal, blotte Regnefejl<lb/>
+samt sådanne Fejl og Forglemmelser, som alene vedrøre Udfærdigelsens Form.
+</p>
+<p>
+Fremdeles kan den også, når Begæring derom fremkommer inden Ankefristens Udløb, og efter at der er givet Parterne og i Straffesager tillige Forsvareren<lb/>
+Lejlighed til at ytre sig derom, berigtige den i Afgørelsen af en borgerlig Sag indeholdte Fremstilling af Parternes mundtlige Angivelser og Ytringer eller den i Afgørelsen af en Straffesag indeholdte Fremstilling af Sagens faktiske Sammenhæng, for<lb/>
+så vidt Fremstillingen erkendes at lide af Fejl, bestående i Forbigåelser, Uklarheder eller Modsigelser, men derimod ikke i øvrigt foretage Forandringer enten<lb/>
+i Begrundelsen eller Resultatet. Beslutning angående slige Berigtigelser træffes, og<lb/>
+Meddelelse om dem sker efter de samme Regler, som gælde for den oprindelige<lb/>
+Afgørelse.
+</p>
+<p>
+Den i Henhold til Rettens Beslutning berigtigede Afgørelse træder i alle Henseender i Stedet for den oprindelige, Beslutningen angående Berigtigelse er ikke<lb/>
+Genstand for Anke eller Kære.
+</p>
+<wtitle>§ 213.</wtitle>
+<p>
+Beslutninger af Retten eller dens Formand, der ikke behøve at begrundes,<lb/>
+såvel som Kendelser af blot procesledende Beskaffenhed kunne omgøres, når ny Oplysninger foreligge.
+</p>
+<wtitle>§ 214.</wtitle>
+<p>
+I de Tilfælde, hvor en efter Loven tilstedelig Afvigelse fra de almindelige<lb/>
+Regler om Straffesagers Behandling betinges af en forudgående Beslutning af en Ret.<lb/>
+ved hvilken den Sag, med Hensyn til hvilken Spørgsmålet opstår, ej er tingfæstet,<lb/>
+bliver Spørgsmålet skriftlig at forelægge Retten. Er denne Højesteret eller en<lb/>
+Landsret, træffes Afgørelsen af Formanden med to Medlemmer af Retten eller, hvor<lb/>
+sådant særlig er bestemt, af Formanden. Retten tager Beslutning på Grundlag af<lb/>
+det forelagte samt de yderligere Oplysninger og Erklæringer, som måtte være indhentede; findes det nødvendigt, at Vidner afhøres, sker dette ved en Undersøgelsesret.<lb/>
+Mundtlig Forhandling finder ikke Sted, medmindre Formanden af særegne Grunde<lb/>
+finder Anledning til at beslutte en sådan; dog er Retsmødet i så Fald ikke offentligt. De i denne Paragraf ommeldte Afgørelser kunne ikke påklages for højere Ret.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

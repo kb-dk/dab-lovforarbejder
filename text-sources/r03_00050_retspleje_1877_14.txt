@@ -1,0 +1,34 @@
+44
+<pb n="50" />
+<title>Kapitel XIII.</title>
+<undertitle>Om den tvungne Forlisgsprøve</undertitle>
+<wtitle>§  154.</wtitle>
+<p>Gjenstand for tvungen Forligsmægling ere<lb />
+alle borgerlige Domssager i første Instants.<lb />
+Dog er Forligsprøve ej fornøden:</p>
+<p>a)  når Sagsøgte   ikke   har Bopæl   her   i<lb />
+Landet;</p>
+<p>b)   når Modfordringer gjøres gjældende, om<lb />
+endog selvstændig Dom for dem påståes;</p>
+<p>c)   når Exekutivproces anvendes, jfr, §382.</p>
+<wtitle>§  155.</wtitle>
+<p>I Underretssager foregår Forligsmæglingen ved Retten på den Måde, som hidtil<lb />
+har været gjældende med Hensyn til private<lb />
+Politisager.</p>
+<wtitle>§  156.</wtitle>
+<p>I Landsretssager foregår Forligsmæglingen ved Forligskommissionen under Iagttagelse<lb />
+af de hidtil herom gjældende Regler.</p>
+<wtitle>§ 157.</wtitle>
+<p>Selv om der ikke fremsættes Formalitetsindsigelser hentede fra Mangler ved Forligsmæglingen, har Retten ved Begyndelsen af<lb />
+den mundtlige Forhandling og forinden Realitetsproceduren af egen Drift at undersøge,<lb />
+om behørig Forligsmægling har fundet Sted.<lb />
+Befindes dette ikke at være Tilfældet, bliver<lb />
+Sagen at afvise eller efter Rettens nærmere<lb />
+Bestemmelse at udsætte, for at behørig Forligsmægling kan finde Sted.</p>
+<p>Når overhovedet Forlig har været forsøgt i Anledning af Sagen, er Forligsklagens Indhold ikke til Hinder for en senere<lb />
+Udvidelse eller Forandring af Søgsmålsgrunde eller Påstande.</p>
+<wtitle>§  158.</wtitle>
+<p>De lovbefalede Følger af Indstævntes<lb />
+Udeblivelse fra Forligsmæglingen eller af<lb />
+Mangel af personligt Møde ved den gjøres<lb />
+først gjældende ved den endelige Dom.</p>

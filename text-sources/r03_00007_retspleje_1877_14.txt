@@ -1,0 +1,35 @@
+1
+<pb n="7" />
+<title>Første Afsnit.</title>
+<undertitle>Almindelige Bestemmelser</undertitle>
+<title>Kapitel I.</title>
+<undertitle>Om Retternes Virkekreds.</undertitle>
+<wtitle>§  1.</wtitle>
+<p>
+Enhver borgerlig Retstrætte, som ikke ved</p>
+<p>særlig Lovforskrift er henlagt til eller ifølge<lb />
+Parternes Overenskomst (jfr. § 8) indbringes<lb />
+for Underretterne, behandles og påkjendes i<lb />
+første Instants af Landsretterne.</p>
+<wtitle>§  2.</wtitle>
+<p>
+Til Underretterne henlægges:</p>
+<p>a)   Søgsmål   angående private Formuerettigheder,  når Ejenstanden   for  samme   i<lb />
+Penge   eller Penges  Værd   ikke  overstiger<lb />
+400 Kr.</p>
+<p>b)   Sager   angående   Skatter,   Afgifter   og<lb />
+andre  lignende   Ydelser  af   offentligretlig<lb />
+Beskaffenhed til Stat, Kommune, Embeder<lb />
+og andre offentlige Indretninger, når Ejenstanden for samme ikke overstiger 400 Kr.</p>
+<p>c)  Sager  angående  Servituter   og  mindre<lb />
+omfattende (partielle) Brugsrettigheder uden<lb />
+Hensyn til Værdien.</p>
+<p>d) Sager, hvorved Paterniteten til uægte Børn<lb />
+søges oplyst, for at Underholdningsbidrag<lb />
+kan pålægges Faderen.</p>
+<p>e) Sager, i hvilke Exekutivproces anvendes<lb />
+(§ 385,  jfr. § 381.)</p>
+<wtitle>§  3.</wtitle>
+<p>
+Sagens Værdi bestemmes efter Påstanden.</p>
+<p></p>

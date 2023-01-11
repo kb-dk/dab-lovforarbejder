@@ -1,0 +1,72 @@
+2159
+<pb n="6" />
+<h>
+<coll>2159</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2160</colr>
+</h>
+<wtitle>§ 28.</wtitle>
+<p>
+Enhver, der tror sig i det hele eller for en Del berettiget til den Ting eller<lb/>
+den Rettighed, som er Genstand for en Retstrætte i første Instans imellem andre,<lb/>
+kan under Iagttagelse af Reglerne i Kapitel XIX indtræde som Intervenient i den<lb/>
+begyndte Sag.
+</p>
+<p>
+Intervention kan ikke finde Sted, naar den Ret, for hvilken Sagen svæver,<lb/>
+ikke ved Parternes Samtykke kunde gøres kompetent til at paakende Interventions-<lb/>
+søgsmaalet, dersom det anlagdes særskilt.
+</p>
+<wtitle>§ 29.</wtitle>
+<p>
+Enhver, der har en retlig Interesse i, at en Part vinder en for Retten svæ-<lb/>
+vende Sag, kan indtræde i Sagen til denne Parts Understøttelse og faa Adgang til at<lb/>
+ytre sig i Sagen i Overensstemmelse med de nærmere Regler i Kapitel XIX.
+</p>
+<wtitle>§ 30.</wtitle>
+<p>
+Sagsøgeren kan andrage paa at maatte tilstævne (adcitere) Trediemand for at<lb/>
+faa Dom over ham enten alternativt ellet tilsammen med Sagvolderen. Saadant An-<lb/>
+dragende kan dog ikke tages til Følge, naar det maa tilregnes Sagsøgeren som en<lb/>
+Forsømmelse, at den paagældende Trediemand ikke fra Begyndelsen af er bleven ind-<lb/>
+draget under Søgsmaalet, I øvrigt blive de i Kapitel XIX givne Regler at iagttage.
+</p>
+<wtitle>§ 31.</wtitle>
+<p>
+Ved Anvendelsen af de i dette Kapitel indeholdte Regler forbeholdes der dog<lb/>
+Retten den samme ved § 94 tillagte Myndighed.
+</p>
+<title>Kapitel IV.</title>
+<undertitle>
+Tilfælde, hvor Rettens Personer skulle eller kunne vige deres Sæde.
+</undertitle>
+<wtitle>§ 32.</wtitle>
+<p>
+Ingen Dommer maa handle i en Sag, naar han
+</p>
+<p>
+1)	selv er Part i Sagen eller er interesseret i dens Udfald;
+</p>
+<p>
+2)	er beslægtet eller besvogret med nogen af Parterne i op- eller nedstigende Linie<lb/>
+eller i Sidelinien saa nær som Søskendebørn, eller er en af Parternes Ægte-<lb/>
+fælle, Værge, Kurator, Adoptiv- eller Plejefader, Adoptiv- eller Plejesøn;
+</p>
+<p>
+3)	er beslægtet eller besvogret i op- eller nedstigende Linie eller beslægtet i Side-<lb/>
+linien saa nær som Søskende med nogen i Sagen optrædende Sagfører eller anden<lb/>
+Rettergangsfuldmægtig for nogen af Parterne;
+</p>
+<p>
+4)	har aflagt Vidnesbyrd eller været Syns- eller Skønsmand i Sagen eller handlet i<lb/>
+den som Sagfører eller i øvrigt som Rettergangsfuldmægtig for nogen af Parterne;
+</p>
+<p>
+5)	som Dommer har handlet i Sagen i den underordnede Instans.
+</p>
+<p>
+Den Omstændighed, at Dommeren, fordi flere Embedsvirksomheder ere forenede<lb/>
+i hans Person, tidligere af den Grund har haft med Sagen at gøre, medfører ikke<lb/>
+Inhabilitet, naar der ikke efter de foreliggende Omstændigheder er Grund til at antage,<lb/>
+at han har nogen særegen Interesse i Sagens Udfald.
+</p>

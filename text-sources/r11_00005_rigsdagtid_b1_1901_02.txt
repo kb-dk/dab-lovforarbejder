@@ -1,0 +1,86 @@
+2267
+<pb n="5" />
+<h>
+<coll>2267</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2268</colr>
+<topmidle> Tillæg B. (148).	Ordentl. Samling 1901—02. </topmidle>
+</h>
+<leftside>
+<p>I Henseende til Klager over de Ting-<lb />
+lysning vedrørende Embedshandlinger og<lb />
+Embedsmandens Ansvar derfor foreslaas<lb />
+lignende Regler som ved Skifte- og Foged-<lb />
+væsenet (Ændringsforslag Nr. 527).</p>
+<p>Et Mindretal (Borgbjerg og J. Jen-<lb />
+sen, Kjøbenhavns 10de Valgkreds), stiller<lb />
+et Ændringsforslag under Nr. 186 til §100,<lb />
+sigtende til at indføre offentlig Afstemning<lb />
+ved Domsafsigelse, hvilket maa anses for<lb />
+en nødvendig Følge af Princippet om fuld<lb />
+Offentlighed i Retsplejen.</p>
+<p>I Henhold til foranstaaende stilles føl-<lb />
+gende Ændringsforslag:</p>
+<wtitle>Til § 1.</wtitle>
+<p>Af Udvalget:</p>
+<p>143)	Paragraffen affattes saaledes:</p>
+<p>„Enhver borgerlig Retstrætte behand-<lb />
+les i 1ste Instans ved Landsret, med-<lb />
+mindre den er henlagt til By- eller Her-<lb />
+redsting eller Kommunedommer, eller den<lb />
+ved Overenskomst mellem Parterne ind-<lb />
+bringes for Underret for saa vidt dette<lb />
+lovligt kan ske."</p>
+<wtitle>Til § 2.</wtitle>
+<p>144)	I Nr. 3 udgaa Ordene „mindre<lb />
+omfattende" og Parentesen om „partielle".</p>
+<p>145)	Nr. 8 affattes saaledes:</p>
+<p>„Sager anlagte i Medfør af Forord-<lb />
+ningen af 28de Marts 1845 § 17 til Hæf-<lb />
+telsesbreves Udslettelse."</p>
+<p>146)	Til Nr. 9 føjes: „og Sagen ikke<lb />
+rejser sig af en politisk Lovovertrædelse".</p>
+<wtitle>Til § 3.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget:</p>
+<p>147)	I 2det Stykke ændres „Proces<lb />
+omkostninger" til: „Sagsomkostninger".</p>
+</leftside>
+<rightside>
+<wtitle>Til § 9.</wtitle>
+<p>Af Udvalget:</p>
+<p>148) I L. 3: „derved Sagens Værdi<lb />
+ikke", 1.: „Sagens Værdi ikke derved".</p>
+<wtitle>Til § 10.</wtitle>
+<p>Af Justitsministeren, tiltraadt af U d-<lb />
+valget:</p>
+<p>149) Paragraffen affattes saaledes:<lb />
+„Henhører en Sag under Landsret, op-<lb />
+hører denne ikke at være kompetent, fordi<lb />
+enkelte Fordringer, Spørgsmaal eller Dele<lb />
+udskilles til særskilt Behandling eller Paa-<lb />
+kendelse i Henhold til § 94, § 106 eller<lb />
+§ 107, selv om disse eller Resten af Sagen,<lb />
+for sig betragtet, vilde høre under? Under-<lb />
+ret".</p>
+<wtitle>Til § 14.</wtitle>
+<p>Af Udvalget:</p>
+<p>150) Første Linie affattes saaledes:<lb />
+„Danske i Udlandet ansatte Embedsmænd,<lb />
+der ikke ere det paagældende Lands Doms-<lb />
+myndighed undergivne".</p>
+<wtitle>Til § 15.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget:</p>
+<p>151) I Slutningen af Linie 2 er udfal-<lb />
+det „i", som indføres.</p>
+<wtitle>Til § 16.</wtitle>
+<p>Af Udvalget:</p>
+<p>152) Ordene: „eller hvor Midtpunktet<lb />
+for hans Embedsvirksomhed er" forandres<lb />
+til: „eller i Mangel af saadant sin Bopæl".</p>
+<wtitle>Til § 17.</wtitle>
+<p>153) I sidste Linie ændres „enhver" til<lb />
+„hvilken som helst".</p>
+<p>(Trykfejl: § 30, L. 2, „ellet" til „eller".</p>
+</rightside>

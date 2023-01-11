@@ -1,0 +1,86 @@
+1911
+<pb n="4" />
+<h>
+<coll>
+1911
+</coll>
+<topmidle>Forsl. t. L. om  Rettens Pleje.</topmidle>
+<colr>
+1912
+</colr>
+</h>
+<wtitle>§ 13.</wtitle>
+<p>
+Underrettens Virkekreds omfatter Behandling og Paakendelse af Retssager samt<lb />
+Foretagelse af Retshandlinger i det Omfang, som bestemmes ved Reglerne i denne Lov.
+</p>
+<wtitle>§ 14.</wtitle>
+<p>
+Til Underretternes Virkekreds henhører fremdeles udenfor den egentlige<lb />
+Retspleje:
+</p>
+<p>
+a.	Tinglæsningsvæsenet;
+</p>
+<p>
+b.	Formandskabet i Landvæsenskommissioner overensstemmende med Lov af 30.<lb />
+December 1858 § 2;
+</p>
+<p>
+c.	de Retsbetjentene ved Lov af 23. Januar 1862 angaaende Tiendevederlagets Be-<lb />
+rigtigelse paahvilende Forretninger;
+</p>
+<p>
+d.	Udmeldelse af Syns- og Skønsmænd udenfor Retsplejen, for saa vidt den<lb />
+ikke kan ske af Øvrigheden;
+</p>
+<p>
+samt udenfor Københavns Byrets Omraade:
+</p>
+<p>
+e.	de ved Lov af 26. Maj 1868 om umyndiges Midlers Forvaltning § 7, jfr. Bekendt-<lb />
+gørelse af 11. Maj 1869, og ved samme Lovs § 10 til Skifteretterne henlagte<lb />
+Forretninger, for saa vidt Bogen om den borgerlige Retspleje ikke medfører<lb />
+Forandring heri;
+</p>
+<p>
+f.	Notarialforretninger.
+</p>
+<p>
+Notarialvæsenets Ordning i København fastsættes ved særlig Lov.
+</p>
+<wtitle>§ 15.</wtitle>
+<p>
+Københavns Byret, som udgør Underret for København, bestaar af en Ju-<lb />
+stitiarius og indtil 20 andre Dommere. Af disse ere to Fogder og to Skiftefor-<lb />
+valtere. Byretten deles i indtil 16 Afdelinger, som hver beklædes af en enkelt<lb />
+Dommer, der behandler og paakender de til Afdelingen henlagte Sager. Forret-<lb />
+ningernes Fordeling mellem Afdelingerne bestemmes af Justitiarius med Justitsmini-<lb />
+sterens Billigelse. Justitiarius fordeler, efter Forhandling med Rettens øvrige Med-<lb />
+lemmer, Afdelingerne imellem Medlemmerne. Naar det gøres fornødent, kan Justitiarius<lb />
+overdrage til et Medlem af Retten midlertidig eller i enkelte Sager tillige at<lb />
+udføre Forretninger i en anden Afdeling end den ham tildelte.
+</p>
+<wtitle>§ 16.</wtitle>
+<p>
+Til Københavns Byret hører et Skriverkontor samt et Pante- og Brev-<lb />
+skriverkontor.
+</p>
+<p>
+Skriverkontoret, hvorunder Skriverforretningerne ved Byrettens forskellige Af-<lb />
+delinger samt Oppebørsel af og Regnskabsaflæggelse for Retsafgifter vedrørende<lb />
+Domssager og Skiftevæsenet høre, forestaas af en Justitssekretær; der ansættes indtil<lb />
+21 Fuldmægtige foruden det i øvrigt fornødne kontorpersonale. Fogedforretninger<lb />
+og de til Skifteforvaltningen hørende Forretninger kunne, for saa vidt der ikke der-<lb />
+ved bliver Spørgsmaal om Afgørelse af Tvistigheder, efter Dommerens Bestemmelse<lb />
+udføres af en Fuldmægtig eller en anden dertil af Byrettens Justitiarius bemyndiget<lb />
+Person.
+</p>
+<p>
+Pante- og Brevskriverkontoret, hvorunder Skøde- og Pantebøgernes Førelse<lb />
+hører, forestaas af en Pante- og Brevskriver, og der ansættes 4 Fuldmægtige<lb />
+foruden det i øvrigt fornødne Kontorpersonale. Beslutninger vedkommende Bøgernes<lb />
+Førelse kunne tages af Pante- og Brevskriveren eller en Fuldmægtig. Tinglæsninger<lb />
+og Aflæsninger foregaa ved de Afdelinger, som behandle borgerlige Domssager;<lb />
+Rettens Justitiarius fastsætter Fordelingen med Justitsministerens Billigelse.
+</p>

@@ -1,0 +1,41 @@
+94
+<pb n="100" />
+<h>
+<topmidle>94         Kap. XXII. Kære til Højesteret.</topmidle>
+</h>
+<title>Kapitel XXII.</title>
+<undertitle>Kære til Højesteret</undertitle>
+<wtitle>§ 265.</wtitle>
+<p>Overfor Kendelser og andre Beslutninger<lb />
+af en Landsret, som ikke — eller dog ikke<lb />
+for Tiden — kunne gøres til Genstand for<lb />
+Anke i Medfør af Bestemmelserne i § 243.<lb />
+kan, forsåvidt det modsatte ikte særlig er<lb />
+bestemt, Enhver, overfor hvem Beslutningen<lb />
+indeholder en Afgørelse, rejse Kæremål til<lb />
+Højesteret overensstemmende med de nedenstående Regler. Overfor Domme kan Kæremål kun rejses i det i § 6 nævnte Tilfælde.</p>
+<p>Er en Beslutning bleven påkendt ifølge<lb />
+Kæremål, kan den ikke senere påankes, og<lb />
+sålænge Kære over en Beslutning er<lb />
+svævende, kan denne ikke påankes.</p>
+<wtitle>§ 266.</wtitle>
+<p>Kære iværksættes ved til den Landsret,<lb />
+hvis Handling eller Afgørelse man vil påkære, at indgive en skriftlig Fremstilling af<lb />
+Kæregrunden og den Påstand, som i den<lb />
+Anledning gøres. Af Fremstillingen skal<lb />
+Genpart meddeles Modparten. Vidner,<lb />
+Syns- og Skønsmænd samt Tredjemand,<lb />
+hvem Fremlæggelsen af et Dokument er pålagt, kunne fremsætte deres Kære mundtlig<lb />
+til Retsbogen.</p>
+<p>Kæremålet kan støttes på nye faktiske<lb />
+Anbringender og Beviser.</p>
+<wtitle>§ 267.</wtitle>
+<p>Forsåvidt Landsretten ikke i Medfør<lb />
+af § 111, § 153 eller § 183 forandrer sin<lb />
+Afgørelse, indsender den inden udløbet af<lb />
+en Uge Kæreskriftet eller Udskrift af Retsbogen samt af den påklagede Kendelse og<lb />
+øvrige fornødne Aktstykker til Højesteret,<lb />
+hvorhos Retten kan vedføje sin egen Erklæring. Om den stedfundne Indsendelse gives<lb />
+der straks begge Parter Meddelelse.</p>
+<wtitle>§ 268.</wtitle>
+<p>I Løbet af en Uge fra denne Meddelelse  have  begge Parter   Adgang   til  at</p>

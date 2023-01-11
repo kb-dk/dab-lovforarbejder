@@ -1,0 +1,69 @@
+612
+<pb n="196" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>612</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 829.</wtitle>
+<p>
+Samtidig med. at Tiltale rejses i en Sag, i hvilken Forundersøgelse har fundet<lb />
+Sted, skal Påtalemyndigheden tilstille Undersøgelsesretten Meddelelse herom og om,<lb />
+ved hvilken Ret Tiltale er rejst.
+</p>
+<p>
+Er Sigtede fængslet, bør Undersøgelsesretten ved Forundersøgelsens Slutning<lb />
+opgive Påtalemyndigheden en vis Frist, ved hvis Udløb Fængslingen vil blive hævet,<lb />
+såfremt ikke inden den Tid enten Tiltale rejses, eller Oplysninger meddeles, som<lb />
+findes at burde begrunde en Forlængelse af Fristen. På lignende Måde kan forholdes, hvor Spørgsmål opstår om Ophør af andre vedvarende Foranstaltninger.
+</p>
+<wtitle>§ 830.</wtitle>
+<p>
+I Sager om Oprejsning for uforskyldt Anholdelse eller om Erstatning for<lb />
+uforskyldt Varetægtsfængsel eller Udståelse af uforskyldt Straf (jfr. § 988) tilvejebringes de fornødne nye Oplysninger i Overensstemmelse med Reglerne i dette Kapitel.<lb />
+Den, der kræver Erstatning eller anden Oprejsning, har Ret til at forlange, at der<lb />
+skal foretages Afhøring af ham selv eller andre opgivne Personer.
+</p>
+<title>Fjerde Afsnit.</title>
+<title>
+Tiltale og Domsforhandling ved Landsret.
+</title>
+<title>Kapitel 76.</title>
+<undertitle>
+Iværksættelse af Tiltale og Forberedelse af Domsforhandling for Landsret i<lb />
+Sager, ved hvis Pådømmelse Nævninger skal medvirke.
+</undertitle>
+<wtitle>§ 831.</wtitle>
+<p>
+Tiltale rejses ved et af Overanklageren udfærdiget og underskrevet Anklageskrift, som skal indeholde:
+</p>
+<p>
+1.	Angivelse af den Domstol, ved hvilken Sagen anlægges;
+</p>
+<p>
+2.	Tiltaltes Navn, og hvad der ellers måtte udkræves til hans nøjagtige Betegnelse:
+</p>
+<p>
+3.	under Benyttelse af Forbrydelsens i Loven hjemlede Navn og under Fremhævelse af dens i Loven beskrevne Kendemærker og, om fornødent, med Tilføjelse af Strafforhøjelses- eller Strafnedsættelsesgrunde, en kort Angivelse af det<lb />
+Forhold, for hvilket Tiltale rejses, med sådan Angivelse af Tid, Sted, Genstand,<lb />
+Udførelsesmåde samt andre nærmere Omstændigheder, som udkræves til dets<lb />
+tilstrækkelige og tydelige Betegnelse; det eller de Lovbud, i Henhold til hvilke<lb />
+Påstand om Straf agtes nedlagt, bør angives. Alternativ — herunder principal<lb />
+og subsidiær — Angivelse er tilladt.
+</p>
+<p>
+Hverken Angivelser af Beviser eller Udviklinger af Retsspørgsmål må findes<lb />
+i Anklageskriftet.
+</p>
+<p>
+I en Påtegning på Anklageskriftet skal derhos angives det Ting (Samling<lb />
+og Tingsted), på hvilket Domsforhandlingen ventes foretaget, og at denne skal
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

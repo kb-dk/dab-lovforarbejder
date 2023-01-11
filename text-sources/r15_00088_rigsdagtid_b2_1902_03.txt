@@ -1,0 +1,98 @@
+2263
+<pb n="88" />
+<p rend="page">88</p>
+<h>
+<coll>2263</coll>
+<colr>2264</colr><lb />
+<topmidle>Bilag til Bet. o. Lovf. om Rettens Pleje. </topmidle>
+</h>
+<wtitle>
+§ 47.<lb />
+</wtitle>
+<p>
+Arrestforretningen begynder paa Skyldnerens Bopæl eller i Mangel af en saa-<lb />
+dan paa hans sædvanlige Opholdssted, men kan dog efter Omstændighederne, navnlig<lb />
+naar der er Fare ved Opsættelse, eller naar Skyldneren ikke har Bopæl i Riget eller<lb />
+staar i Begreb med at forlade dette, begynde paa det Sted, hvor Personen eller For-<lb />
+retningens Genstand forefindes.<lb />
+</p>
+<wtitle>
+§ 47.<lb />
+</wtitle>
+<p>
+Med Hensyn til Parternes Møde under Forretningen m. m. gælde de i § 363<lb />
+</p>
+<p>
+givne Regler.<lb />
+</p>
+<wtitle>
+§ 47.<lb />
+</wtitle>
+<p>
+Arrestforretningen begynder med, at Fogden opfordrer paagældende til ved<lb />
+</p>
+<p>
+Sikkerhedsstillelse eller Betaling at tilfredsstille Rekvirenten, hvorpaa han, naar dette<lb />
+ikke straks sker, efter Afgørelse af mulige Indsigelser skrider til Arrestens Udførelse.<lb />
+</p>
+<wtitle>
+§ 47.<lb />
+</wtitle>
+<p>
+Arresten kan kun udstrækkes til saa meget af Skyldnerens Gods, som i Hen-<lb />
+hold til den under Forretningen foretagne Vurdering behøves til at sikre Rekvirentens<lb />
+Fordring i Forbindelse med de sandsynlige Udgifter ved Arresten.<lb />
+</p>
+<wtitle>
+§ 479.<lb />
+</wtitle>
+<p>
+Med Hensyn til Valget af de Genstande, hvori Arresten gøres, forholdes der<lb />
+efter de i §§ 352 og 353 givne Forskrifter, ligesom der i øvrigt ved Arrestforretningers<lb />
+Foretagelse, med de af Forholdets Natur følgende Lempelser, gaas frem efter de om<lb />
+Eksekutionsforretninger i §§ 365—373 givne Regler.<lb />
+</p>
+<wtitle>
+§ 480.<lb />
+</wtitle>
+<p>
+I Fogedprotokollen optegnes nøjagtigt alle de enkelte Genstande, hvori Arrest<lb />
+gøres, og ved hver enkelt Genstand tilføjes dens Værdi efter den stedfundne Ansættelse.<lb />
+</p>
+<p>
+Fogden erklærer derefter til Protokollen de optegnede Genstande for belagte<lb />
+med Arrest til Arrestrekvirentens Sikkerhed. Det betydes Skyldneren, at han fra nu<lb />
+af ikke uden at udsætte sig for Strafansvar efter Straffelovens § 253 kan raade over<lb />
+dem paa en Maade, som kommer i Strid med Arrestrekvirentens Ret. Er Skyldneren<lb />
+ikke til Stede, gives der den eller dem, som i Henhold til § 363 tilkaldes paa hans<lb />
+Vegne, Paalæg om at give ham en saadan Betydning. Efter Omstændighederne kan<lb />
+et lignende Paalæg gives den Trediemand, i hvis Besiddelse det arresterede er.<lb />
+</p>
+<p>
+Er Arrest paa Person paalagt, tilkendegives det af Fogden Skyldneren, hvis<lb />
+han er til Stede, at han er belagt -med Gældsfængsel, hvorefter Fogden beordrer ham<lb />
+straks henbragt til Gældsfængslet. I modsat Tilfælde er det Rekvirentens egen Sag<lb />
+at drage Omsorg for Udførelsen af Arrestkendelsen ved Skyldnerens Indsættelse i<lb />
+Gældsfængsel, og han kan hertil fordre Politiets Bistand. Saa snart Indsættelsen i<lb />
+Gældsfængslet er sket, har Rekvirenten øjeblikkelig at meddele Fogden Underretning<lb />
+herom; denne gør, efter at have hørt Arrestforvarerens Forklaring, fornøden Be-<lb />
+mærkning i Fogedprotokollen om Tiden og Klokkeslettet for Indsættelsen.<lb />
+</p>
+<wtitle>
+§ 48.<lb />
+</wtitle>
+<p>
+Hvis der ikke allerede er anlagt Retssag i Anledning af den Fordring, for<lb />
+</p>
+<p>
+hvilken Arrest er gjort, skal Rekvirenten, naar Skyldneren ikke under eller efter For-<lb />
+retningen har frafaldet Forfølgning, inden en Uge efter Arresten anlægge saadan Sag,<lb />
+under hvilken han tillige skal nedlægge særskilt Paastand paa, at Arrestens Fore-<lb />
+tagelse stadfæstes. Retten kan bestemme, at Spørgsmaal vedrørende Arrestens Stad-<lb />
+fæstelse forhandles særskilt, jfr. § 94.<lb />
+</p>
+<p>
+Er Retssag i Anledning af paagældende Fordring svævende ved første Instans,<lb />
+bliver der inden fornævnte Frist at anlægge en særskilt Arrestsag ved den samme<lb />
+Ret, ved hvilken hin Sag behandles. Det er Retten forbeholdt at bestemme, at Arrest-<lb />
+</p>

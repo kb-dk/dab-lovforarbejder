@@ -1,0 +1,162 @@
+2747
+<pb n="17" />
+<h>
+<coll>2747</coll>
+<topmidle>
+Kommissionens Bem. t. Udk. t. L. om den borgerlige Retspleje.
+</topmidle>
+<colr>2748</colr>
+</h>
+<leftside>
+<p>
+I Erkendelse af, at den i den gæl-<lb />
+dende Ret fordrede Kontrasøgsmaalsform<lb />
+som oftest kun er en tidsspildende Forma-<lb />
+litet, opstiller Udkastet den Regel, at en<lb />
+Modfordring i processuel Henseende betrag-<lb />
+tes og behandles som en Del af Forsvaret,<lb />
+og det selv om selvstændig Dom for samme<lb />
+ønskes. Der behøves saaledes hverken For-<lb />
+ligsmægling (§ 139) eller Stævning i An-<lb />
+ledning af Modfordringen. Angaaende Ret-<lb />
+tens Kompetence til saaledes at give selv-<lb />
+stændig Dom, jfr, § 8.<lb />
+</p>
+<wtitle>§ 86.</wtitle>
+<p>
+Den egentlige Betydning af den her<lb />
+givne almindelige Regel om Retsplejens<lb />
+Mundtlighed er den, at overalt, hvor der<lb />
+i Udkastet tales om, at Parter, Vidner<lb />
+eller andre ytre sig, forklare, begære osv.<lb />
+uden nærmere direkte eller indirekte An-<lb />
+givelse af Formen derfor, betyder det, at<lb />
+saadanne Ytringer, Forklaringer, Begærin-<lb />
+ger etc. fremsættes mundtlig. I nær Sam-<lb />
+menhæng hermed foreskrives i § 104, at<lb />
+Rettens Afgørelse træffes paa Gnindlag af<lb />
+den mundthge Forhandling og Bevisførelse.<lb />
+</p>
+<p>
+At dog en vis Benyttelse af Skrift maa<lb />
+træde hjælpende til, er under Nutidens For-<lb />
+hold selvfølgeligt. I saa Henseende kan<lb />
+særlig fremhæves,<lb />
+</p>
+<p>
+at Stævning og andet, der skal være Gen-<lb />
+stand for en egentlig Forkyndelse, maa<lb />
+foreligge i skriftlig Form (§71) ligesom<lb />
+den sfaiftlige Form ordentligvis vil være<lb />
+at benytte ved Meddelelser efter §§80<lb />
+eller 81,<lb />
+</p>
+<p>
+at Proceduren for Landsret understøttes<lb />
+ved et skriftligt Grundlag (jfr. navnlig<lb />
+Reglerne om Skriftveksling i §§ 203—<lb />
+10	og 219 in fine),<lb />
+</p>
+<p>
+at der navnlig af Hensyn til Appelmulig-<lb />
+heden finder en temmelig omfattende<lb />
+Protokollation Sted angaaende, hvad<lb />
+der foregaar for underordnet Ret (jfr.<lb />
+Bemærkningerne til §§ 62—64),<lb />
+</p>
+<p>
+at et skriftligt Grundlag kræves ved Inter-<lb />
+vention, § 227,<lb />
+</p>
+<p>
+at Kære i Reglen er helt skriftlig, § 269,<lb />
+jfr. § 289,<lb />
+</p>
+<p>
+at den, der ønsker en Sag genoptaget ved<lb />
+Landsret, saavel som den, der ønsker<lb />
+en ekstraordinær Vidneførsel foretaget,<lb />
+maa indgive skriftlig Begæring til Ret-<lb />
+ten, § 222 og § 171,<lb />
+</p>
+<p>
+at Indstævnte i visse Tilfælde maa frem-<lb />
+lægge en skriftlig Erklæring for Højeste-<lb />
+ret, § 252, 1ste Stykke,<lb />
+</p>
+<p>
+at en Sag saavel ved Underret og Lands-<lb />
+ret som ved Højesteret undtagelsesvis<lb />
+kan udgaa til helt skriftlig Behandling,<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+§§ 234-42, jfr. § 282, og §§ 250 og<lb />
+263, samt<lb />
+</p>
+<p>
+at alle Domme, Kendelser og øvrige Be-<lb />
+slutninger skulle bringes i sknftlig Form,<lb />
+§ 64 og 102, 3die Stykke.<lb />
+</p>
+<p>
+Derhos maa nævnes, at Udkastet vel<lb />
+i det hele gennemfører den vigtige Hoved-<lb />
+regel, at Bevisførelsen foregaar umiddel-<lb />
+bart og altsaa mundtlig for de dømmende,<lb />
+men at heller ikke denne Regel kan gen-<lb />
+nemføres helt ud, f. Eks. fordi vedkom-<lb />
+mende Vidne ej er pligtigt at møde saa<lb />
+langt fra sit Hjemsted, eller saadantMøde<lb />
+vilde medføre Ulempe eller Bekostning, der<lb />
+ikke vilde staa i rimeligt Forhold til Sa-<lb />
+gens Genstand eller den Betydning, Vid-<lb />
+nesbyrdet kan antages at have for Sagens<lb />
+Oplysning (§ 149), ligesom man ogsaa saa<lb />
+vidt muligt søger at midgaa fornyet Vidne-<lb />
+afhøring i Appellen. I saadanne Tilfælde<lb />
+maa følgelig Vidneforklaringerne etc. brin-<lb />
+ges i skriftlig Form, for senere at kunne<lb />
+oplæses.<lb />
+</p>
+<wtitle>§ 88.</wtitle>
+<p>
+Den store Myndighed, der her er ind-<lb />
+rømmet Rettens Formand (eller vedkom-<lb />
+mende Enkeltdommer, jfr. § 61) er uund-<lb />
+værlig under en mundtlig Procedure, naar<lb />
+denne ikke skal ende i Forvirring eller<lb />
+urimelig Vidtløftighed. Saadan Myndighed<lb />
+er derfor ogsaa tillagt Rettens Formand<lb />
+overalt, hvor mundtlig Procedure anvendes.<lb />
+En Garanti mod dens Misbrug ligger saa-<lb />
+vel i Retsmødernes Offentlighed som i den<lb />
+overordnede Rets Censur (jfr. §§ 123, 243<lb />
+og 265).<lb />
+</p>
+<wtitle>§ 89.</wtitle>
+<p>
+Medens Paragrafens 1ste Stykke kun<lb />
+foreskriver, hvad der allerede i den nu-<lb />
+værende Proces opstilles som Pligt for Par-<lb />
+terne, nemlig at erklære sig bestemt og<lb />
+utvetydig, indeholder dens 2det Stykke en<lb />
+Regel, der i nær Sammenhæng med den<lb />
+af Udkastet opstillede fri Bevisbedømmelse<lb />
+udtrykkelig tager Sigte paa at komme bort<lb />
+fra overdrevne Krav paa Benægtelsernes<lb />
+Specificeren og Læren om, at Ufuldstæn-<lb />
+dighed og Utydelighed ubetinget giver Mod-<lb />
+parten en Ret til at fordre det paagæl-<lb />
+dende Punkt anset for indrømmet. Be-<lb />
+stemmelsens Hensigt er saaledes at med-<lb />
+virke til at udløse Processen af den For-<lb />
+malisme, hvori bl. a. de nævnte Omstæn-<lb />
+digheder have ført den ind, og gøre den<lb />
+fri og naturlig, idet Meningen sættes over<lb />
+Ordene, og den Ubestemthed i Formen,<lb />
+der aabenbart skyldes beregnet Tilbage-<lb />
+holdenhed, bedømmes strengere end den,
+</p>
+</rightside>

@@ -1,0 +1,23 @@
+1
+<pb n="7" />
+<title>Første Afsnit.</title>
+<undertitle>Almindelige Bestemmelser.</undertitle>
+<title>Kapitel I.</title>
+<undertitle>Om Lovens Virkekreds.</undertitle>
+<wtitle>§ 1.</wtitle>
+<p>Alle Spørgsmål om Straf, som ikke t<lb />
+medfør af Lovgivningen afgjøres uden særlig<lb />
+Straffesag eller henhore under de bestående<lb />
+særlige Domstole, behandles og afgjøres efter<lb />
+de Regler, som denne Lov anordner.</p>
+<wtitle>§   2.</wtitle>
+<p>Efter denne Lovs Regler behandles og afgjøres endvidere:</p>
+<p>1)    Sager,   som   i medfør   af  Grundlov<lb />
+af 28de  Juli 1866 § 87   anlægges  mod   en<lb />
+Forening til dens Ophævelse;</p>
+<p>2)   Sager angående de i Lov af 3die Januar 1851 § 14, jfr. § 15, omhandlede Forbud<lb />
+mod Udbredelse af fremmede Skrifter; samt</p>
+<p>3)  Sager angående Anvendelse af Straffeovens § 299.</p>
+<wtitle>§ 3.</wtitle>
+<p>I Forbindelse med Straffesagen og efter<lb />
+de for samme gjældende Regler afgjøres fremdeles efter Anklagerens Påstand Spørgsmål om:</p>

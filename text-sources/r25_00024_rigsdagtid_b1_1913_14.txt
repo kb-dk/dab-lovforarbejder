@@ -1,0 +1,108 @@
+1955
+<pb n="24" />
+<h>
+<coll>1955</coll>
+<topmidle>Bet. o. Lovf. om Rettens Pleje m. m.</topmidle>
+<colr>1956</colr>
+</h>
+<leftside>
+<wtitle>
+Til § 20.
+</wtitle>
+<p>
+Af Flertallet under Nr. 2 og subsidiært af<lb/>
+Mindretallet under Nr. 1:
+</p>
+<p>
+5) 2det Stykke affattes saaledes:<lb/>
+„Ingen af de i §§ 1 og 5 nævnte
+</p>
+</leftside>
+<rightside>
+<p>
+Embedsmænd kan indehave nogen ind-<lb/>
+tægtgivende fast Virksomhed udenfor deres<lb/>
+egentlige Embede uden Tilladelse af et af<lb/>
+de fem Retsformænd dannet Raad, og dette<lb/>
+giver Justitsministeriet Indberetning om<lb/>
+saadanne Tilladelser."
+</p>
+</rightside>
+<p>
+Af Flertallet under Nr. 2 og subsidiært af Mindretallet under Nr. 1:
+</p>
+<p>
+7) De Loven vedføjede Tavler A.—D. affattes som nedenfor angivet:
+</p>
+<title>
+Tavle A.
+</title>
+<p>
+(Dommere i 1ste Lønningsklasse).<lb/>
+</p>
+<place>
+Sjælland.
+</place>
+<p>
+1.	Dommeren	i Frederiksberg Birk (borgerlige Sager).
+</p>
+<p>
+2.	—	i Frederiksberg Birk (Straffesager).
+</p>
+<p>
+3.	—	i Københavns Amts nordre Birk (borgerlige Sager).
+</p>
+<p>
+4.	—	i Københavns Amts nordre Birk (Straffesager).
+</p>
+<p>
+5.	—	i Københavns Amts søndre Birk m. m.
+</p>
+<p>
+6.	—	i Roskilde Købstad m. m. (borgerlige Sager).
+</p>
+<p>
+7.	—	i Helsingør Købstad m. m.
+</p>
+<p>
+8.	—	i Hillerød Købstad m. m.
+</p>
+<p>
+9.	—	i Frederikssund Købstad m. m.
+</p>
+<p>
+10.	—	i Holbæk Købstad m. m.
+</p>
+<p>
+11.	—	i Kalundborg Købstad m. m.
+</p>
+<p>
+12.	—	i Slagelse Købstad m. m.
+</p>
+<p>
+13.	—-	i Korsør Købstad m. m.
+</p>
+<p>
+14.	—	i Næstved Købstad m. m.
+</p>
+<p>
+15.	—	i Vordingborg Købstad m. m.
+</p>
+<place>
+Bornholm.
+</place>
+<p>
+16. Dommeren i Rønne Købstad m. m.
+</p>
+<place>
+Lolland—Falster.
+</place>
+<p>
+17.	Dommeren i Nykøbing F. Købstad m. m.
+</p>
+<p>
+18.	— i Maribo Købstad m. m.
+</p>
+<p>
+19.	— i Nakskov Købstad m. m.
+</p>

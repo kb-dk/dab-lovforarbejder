@@ -1,0 +1,123 @@
+121
+<pb n="97">
+<pagename>97</pagename>
+<h>
+<coll>121</coll>
+<colr>122</colr>
+<lb/>
+
+<topleft>1848</topleft>
+<topmidle>
+Beretning om Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 17.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Syvende Møde.<lb/>
+(Fortsat.)<lb/>
+</btitle>
+<p>
+<speaker>Ørsted:</speaker> Af de ikke betydelige Bemærkninger, jeg kunde have<lb/>
+at gjøre ved de oplæste Paragrapher, skal jeg blot tillade mig at fremsætte<lb/>
+nogle enkelte. Jeg har egentlig kun een Hovedbemærkning at gjøre,<lb/>
+den nemlig, at §§ 18 og 19, ved i det der omhandlede Tilfælde at<lb/>
+forbyde al Forhandling, uden Tvivl ville foranledige, at Beslutning<lb/>
+undertiden tages, inden Forsamlingen tilstrækkelig er sat ind i Sagen. Hvor der nemlig er Spørgsmål om, hvorvidt et Forslag bør<lb/>
+afvises, kan dette være af den Beskaffenhed, at der behøves en udførlig Udvikling for at afgjøre, om Sagen fortjener at komme under<lb/>
+Overveielse eller ikke. I Stænderne har det ofte været Tilfældet, at<lb/>
+Propositioner, som der ere blevne indgivne, have foranlediget vidtløftige foreløbige Forhandlinger, og at disses Resultat har været, at<lb/>
+Propositionen er bleven afviist, fordi man ikke fandt tilstrækkelig<lb/>
+Grund til at gåe ind på den; men at afvise uden Forhandling<lb/>
+forekommer mig i mange Tilfælde at ville føre til urigtige Resultater. Jeg indseer imidlertid, at der kan være væsentlige Grunde,<lb/>
+hvorfor man bør kunne standse en sådan Behandling noget hurtigt;<lb/>
+men jeg troer, at Øiemedet vil kunne opnåes, når man, istedetfor<lb/>
+at forbyde al Forhandling, blot tilkjendegav, at Præsidenten skulde<lb/>
+sørge for, at Forhandlingen blev kort og indskrænkede sig til hvad<lb/>
+Sagen krævede. Hvad de Discussioner angåer, som her ere førte<lb/>
+om forskjellige Gjenstande, om en Tribune, om Ordets Henvendelse<lb/>
+til Præsidenten eller Forsamlingen og om Navns Nævnelse, da<lb/>
+kan jeg med Hensyn til den første Gjenstand ikke nægte, at en<lb/>
+Tribune kan være hensigtsmæssig for de Tilfælde, hvor Forsamlingen måtte frygte, at hvad der blev talt, ikke tilstrækkeligt kunde<lb/>
+høres. Man har ikke anseet det passende, at Talen altid skal henvendes til Præsidenten; men dette har ikke hidtil medført nogen Gene<lb/>
+ved Forhandlingerne i Stænderne, og når der ikke her er en Regel<lb/>
+i så Henseende, så kan der let tænkes Tilfælde, hvor Talen vil<lb/>
+blive henvendt imod de Individer, hvis Mening ved samme angribes,<lb/>
+hvilket neppe er ønskeligt. At Talerne ikke måe nævne Medlemmer<lb/>
+ved Navn er en Regel, som jeg aldrig har sat videre Priis<lb/>
+på; men om Sagen er af den Vigtighed, at man derom bør stille<lb/>
+Amendement, skal jeg lade være uafgjort; forsåvidt der imidlertid af<lb/>
+Andre skulde blive stillet Amendements om de af mig berørte Punkter, forbeholder jeg mig at erklære mig enig i dem.<lb/>
+</p>
+<p>
+<speaker>Bang:</speaker> Jeg skal tillade mig at rette det Spørgsmål til den<lb/>
+ærede Ordfører, om det er Meningen af § 18, at det Medlem, som<lb/>
+forlanger Afviisning, er berettiget til at begrunde dette sit Forlangende<lb/>
+ved et Foredrag. Jeg troer ikke, at dette er sædvanligt, og det vilde<lb/>
+ei heller være så ganske ligeligt, om han var berettiget til et sådant Foredrag, da Ingen er berettiget til at svare, men Spørgsmålet strax skal afgjøres uden videre Forhandling.<lb/>
+</p>
+<p>
+<speaker>Pløyen:</speaker> Ved Slutningen af § 23 er der forbeholdet Formanden Ret til midlertidig at afbryde Mødet eller, om nødvendigt, aldeles at hæve det. Det var måskee rettest, om Formanden her som<lb/>
+andre Steder blev sat istand til at udtrykke denne sin Hensigt ved eet<lb/>
+eller andet synligt Tegn.<lb/>
+</p>
+<p>
+<speaker>Rée:</speaker> I Anledning af hvad den Deputerede for Randers (Linnemann) har anført, skal jeg tillade mig at bemærke, at jeg ikke troer,<lb/>
+at det af ham berørte Hensyn til Rummet vil være af nogen Vægt<lb/>
+ved det Forslag, som her er gjort, når der ikke pålægges Medlemmerne, som ønske at tale, nogen Tvang til at bestige Tribunen. Det<lb/>
+</p>
+</leftside>
+<rightside>
+<p>
+hændes så ofte ved den offentlige Optræden, at man fåer Skinnet<lb/>
+imod sig, men det bør aldrig afholde fra at gjøre, hvad man anseer<lb/>
+for Ret. Jeg seer heller ikke, at det vil kunne genere noget Medlem,<lb/>
+at han skal vælge, enten at tale fra sin Plads eller at gåe op på<lb/>
+Talerstolen, og jeg anseer det derfor ønskeligt, at Forsamlingen, når<lb/>
+den ikke kan høre en Taler, kan forlange, at han skal benytte Tribunen.<lb/>
+</p>
+<p>
+<speaker>Gram:</speaker> Jeg skal kun tillade mig en ganske kort Bemærkning<lb/>
+med Hensyn til det Spørgsmål, som her er reist af Rigsdagsmanden for Veile Amts 6te Distrikt (With), angående hvor Talerstolen skulde anbringes; han har nemlig omtalt, at den skulde sættes<lb/>
+bag ved Præsidenten. Dette vilde være aldeles upassende; jeg mener<lb/>
+derimod, at Talerstolen kunde anbringes ved Siden af Præsidenten,<lb/>
+således at Secretairerne erholde deres Plads på Præsidentens anden Side. Iøvrigt skal jeg ikke indlade mig på Spørgsmålet om<lb/>
+Ønskeligheden af en Talerstol, men kun bemærke, at jeg agter at<lb/>
+stemme for en sådan, når der overlades Enhver frit Valg til at<lb/>
+benytte den eller ikke.<lb/>
+</p>
+<p>
+<speaker>Algreen-Ussing:</speaker> Forsamlingen vil vistnok ikke antage, at det<lb/>
+Spørgsmål, hvorom de seneste Forhandlinger væsenligst have dreiet<lb/>
+sig, nemlig om Talerne skulle holdes fra en Talerstol eller ikke, skulde<lb/>
+være undgået Comiteens Opmærksomhed. Det har tvertimod været<lb/>
+Gjenstand for en omhyggelig Overveielse i Comiteen, men man er<lb/>
+kommen til det Resultat, som indeholdes i Udkastet, at Enhver helst<lb/>
+bør tale fra sin Plads. Besvarelsen af det Spørgsmål, om Talerne i store Forsamlinger bør tale fra en særegen, dertil bestemt<lb/>
+Plads, afhænger væsentlig af Forsamlingens Størrelse og andre<lb/>
+locale Omstændigheder. Det har ganske vist i talrige Forsamlinger<lb/>
+sine Fordele, at der tales fra et ophøiet Sted, omtrent midt i Salen,<lb/>
+idet det derved bliver lettere at følge Forhandlingerne, når Medlemmerne ikke trættes ved formeget at skulle anspænde deres Kræfter for<lb/>
+at høre, hvad der siges fra forskjellige Sider af Salen, — hvilket navnlig for dem, der høre mindre godt, af hvilke der altid i store Forsamlinger ville være flere, ikke er noget uvæsentligt —, og de Talere<lb/>
+som have svage Stemmer, ikke skulle nødsages til at anstrenge sig<lb/>
+altfor meget for at blive hørte, hvilket for ældre Mænd, hvoraf der<lb/>
+naturligviis ville være endeel i enhver Forsamling, ei er uvigtigt.<lb/>
+Ordenen kan dernæst også lettere overholdes fra Præsidentens Side,<lb/>
+og utilbørlige Afbrydelser, som ellers let finde Sted fra Pladserne,<lb/>
+forhindres, og Nødvendigheden af at skulle bestige en Talerstol vil<lb/>
+vel også bidrage Sit til at forhindre dem, der kunde være fristede<lb/>
+til at fremsætte intetsigende og overslødige Bemærkninger, fra at<lb/>
+fremkomme med disse; thi, som en Forfatter med Føie har sagt, det<lb/>
+bliver latterligt at drage Opmærksomheden hen på sig, når man<lb/>
+Intet har at sige, der er Opmærksomhed værd. Hvad den Indvending angåer, at en Talerstol vilde foranledige Tidsspilde, når man,<lb/>
+hvor man blot havde at give et ubetydeligt Svar eller en kort Erklæring, skulde være nødsaget til at bestige denne, da er dette Noget, der er fjernet i alle Forsamlingers Forretningsreglementer derved, at Præsidenten kan tillade et Medlem at tale fra sin Plads.<lb/>
+Forsamlingen må dog ikke troe, at jeg, ved hvad jeg har fremført, har til Hensigt at tale for Anbringelsen af en Tribune; det er<lb/>
+tvertimod min Overbeviisning, at det Rigtigste er, at ethvert Medlem<lb/>
+taler fra sin Plads, således som det finder Sted i det engelske<lb/>
+Underhuus, således som det skeer i Norge og også hidtil har<lb/>
+været Tilfældet hos os, og som det i sig er det Simpleste og Naturligste. Det er ikke usandsynligt, at den Omstændighed, at man be-</p>
+</rightside>
+
+</pb>

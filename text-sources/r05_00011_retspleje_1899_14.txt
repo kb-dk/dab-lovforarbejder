@@ -1,0 +1,38 @@
+5
+<pb n="11" />
+<h>
+<topmidle>Kap. II.    Værneting.         5</topmidle>
+</h>
+<p>ikke vides,   ved Retten på det Sted,   hvor<lb />
+han vides sidst at have boet eller opholdt sig.</p>
+<wtitle>§ 14.</wtitle>
+<p>Danske i Udlandet ansatte, med Exterritorialitetsret forsynede Embedsmænd og de<lb />
+til de danske Gesandtskaber i fremmede Stater<lb />
+hørende Personer, anses at have Hjemting<lb />
+i Kjøbenhavn, sorsåvidt de ikke vedligeholde<lb />
+Bopæl på noget andet Sted i Riget. Det<lb />
+Samme gælder om andre danske Undersåtter, som ikke kunne sagsøges i det Land,<lb />
+hvor de have Bopæl.</p>
+<wtitle>§ 15.</wtitle>
+<p>Stiftelser, Kommuner, Korporationer såvel som Selskaber og Foreninger, være sig<lb />
+med politiske eller sociale eller med rent<lb />
+formueretlige Formål, have Hjemting i den<lb />
+Retskreds, hvor deres Hoved-Forretningslokale er, eller, når sådant ikke med<lb />
+Sikkerhed kan udfindes, hvor et af Bestyrelsens Medlemmer boer. De Værnetingsbestemmelser, der indeholdes i Firmalov<lb />
+1. Marts 1889 § 34, Sølov 1. April 1892<lb />
+§ 10, L. om Oplagsbeviser m. v. 30. Marts<lb />
+1894 § 18 og Patentlov 13. April 1894<lb />
+§ 24,   forblive Gældende.</p>
+<p>Retssager, der angående Foreningseller Selskabsanliggender rejses af Foreningen</p>
+<p>eller Selskabet mod de enkelte Medlemmer<lb />
+eller opstå imellem disse som sådanne,<lb />
+kunne anlægges ved Korporationens, Foreningens eller Selskabets Hjemting. ^</p>
+<wtitle>§ 16.</wtitle>
+<p>Sager imod Staten skulle anlægges ved<lb />
+den Ret, i hvis Kreds den Embedsmand,<lb />
+som på Statens Vegne bliver at stævne,<lb />
+har sit Embedskontor, eller hvor Midtpunktet for hans Embedsvirksomhed er. Værnetingsbestemmelserne i L. om Erstatning for<lb />
+uforskyldt Varetægtsfængsel m. v. 5. April<lb />
+1888 §§   3 og 5 forblive gældende.</p>
+<wtitle>§ 17.</wtitle>
+<p>Sager angående Rettigheder over urørlige Ting — være sig Ejendomsret, Panteret,</p>

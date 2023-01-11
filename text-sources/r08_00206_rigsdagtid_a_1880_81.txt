@@ -1,0 +1,50 @@
+3775
+<pb n="206" />
+<h>
+<coll>3775</coll>
+<topmidle>Forsl. t. L. om Strafferetspleien.</topmidle>
+<colr>3776</colr>
+</h>
+<wtitle>§ 196.</wtitle>
+<p>Afgjørelser og Foranstaltninger med Hensyn til Forholdsregler, som troede iftedetfor<lb />
+Famgsling, trcesses af den Ret, der efter §§ 184 og 189 tager Beslutning om Famgslmg<lb />
+og dens Ophsr.</p>
+<title>IV.</title>
+<undertitle>Om Beslaglæggelse paa  dens Formue,   som unddrager sig forfølgning,  samt<lb />
+om Sagens Paadommelse i den Sigtedes Fraværelse.</undertitle>
+<wtitle>§ 197.</wtitle>
+<p>Naar der i en under Landsretten horende Sag er reift Anklage, som af Retten er<lb />
+bleven henvist til Hovedforhandling, men den Sigtede har unddraget sig Sagens videre for<lb />
+følgning, kan Retten paa Anklagerens Begjæring og, efterat Forsvareren er hsrt, ved Kjendelse<lb />
+bestemme, at der skal lægges Beslag paa den Formue, som han maatte besidde eller erhverve<lb />
+i Riget.   Kjendelsen forkyndes overensstemmende med Reglerne i § 102.</p>
+<p>Beror Afgjørelsen af, om Sagen skulde paadommes ved Landsretten, paa Størrelsen<lb />
+af den i det givne Tilfælde forskyldte Straf, kan Retten kun træffe en saadan Bestemmelse,<lb />
+naar den finder Anklagerens skjøn om Straffen hjemlet ved det Foreliggende.</p>
+<p>Oplyses det senere, at det var den Sigtede umuligt at msde, kan Retten ophceve<lb />
+Besiaglæggelsen for et bestemt med Hensyn til den oplyste Undstyldningsgrund afpasset Tidsrum.</p>
+<wtitle>§ 198.</wtitle>
+<p>Retten drager Omsorg for, at der beskikkes en værge til at bestyre den beslaglagte<lb />
+Formue efter de Regler, som gjælde om borteblevne Personers Formue. værgen har at<lb />
+afgive Lofts om ikke at lade den Sigtede tilflyde nogen Indtægt af Formuen. Om Mgte-<lb />
+fælles og børns Underholdning af Formuen gjælde den almindelige Lovgivnings Regler.</p>
+<p>Den Sigtede bliver fra det Dieblik, Kjendelsen er afsagt, uberettiget til at forflytte<lb />
+eller ved Retshandler at raade over nogen Del af den beslaglagte Formue, sidste Villiesbe-<lb />
+stemmelser dog derunder ikke indbesattede. For at denne Virkning af Beslaglæggelsen skal<lb />
+kunne gjores gjældende overfor en godtroende Trediemand, saaledes at de foretagne Retshandler<lb />
+tabe Gyldighed, bliver at iagttage, hvad der i Loven om den borgerlige Retspleie er fore-<lb />
+skrevet med Hensyn til Arrest paa Gods.</p>
+<wtitle>§ 199.</wtitle>
+<p>Bestaglce.igelsen ophorer:</p>
+<p>1)  naar den Sigtede fremstiller sig for Retten eller paagribes;</p>
+<p>2)  naar Formuen paa Grund af den Sigtedes Dod eller ifolge de i Fog. 11. Sept.<lb />
+1839 forestrevne Regler Tilfælder hans Arvinger;</p>
+<p>3)  naar Anklagen frafaldes, eller Sagen ved Rettens Kjendelse hceves.</p>
+<p>Den Ret, som har besluttet Beslaglæggelsen, tager Beslutning om Ophoret i de foran-<lb />
+nævnte Tilfælde; Formuen med de under Beslaglæggelsen vundne Indtægter og efter Fradrag<lb />
+af de havte Udgifter udleveres derefter til den Sigtede eller henholdsvis Arvingerne.</p>
+<wtitle>§ 200.</wtitle>
+<p>I den Sigtedes Fraværelse kan ordentligvis ingen Hovedforhandling finde Sted.<lb />
+Kan den Sigtede ikke skaffes tilstede, kan Anklagen vel henvises til Hovedforh.indling, men<lb />
+uden at denne berammes; er dette alt sket, udsættes Sagen; dog bsr Sagens Fremme mod<lb />
+medsigtede derved intet Ophold lide.    Opstaar der Fare for,  at Beviser ved  Hovedforhand-</p>

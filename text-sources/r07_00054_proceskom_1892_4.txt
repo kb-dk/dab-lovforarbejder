@@ -1,0 +1,65 @@
+3317
+<pb n="54" />
+<h>
+<coll>3317</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3318</colr>
+</h>
+<p>
+terne have med visse bestemte Undtagelser Ret til at være til Stede under disse.<lb />
+Parterne have endvidere i Almindelighed Ret til at blive bekendte med, hvad der til-<lb />
+føres Retsbogen, saavel som med de til denne fremlagte Aktstykker; kun naar der er<lb />
+Grund til at befrygte Modvirken af Undersøgelsen paa lovstridig Maade, kan der —<lb />
+ved Kendelse, der kan paakæres, — foreløbig nægtes Sigtede saavel som hans valgte<lb />
+Forsvarer Adgang hertil, og saadan Adgang skal i hvert Fald gives inden Forunder-<lb />
+søgelsens Slutning. Forundersøgelsen sluttes, naar Retten finder, at dens Øjemed er<lb />
+naaet, eller naar Paatalemyndigheden begærer det og oplyser, at Tiltale er rejst. Ud-<lb />
+skrift af Sagen tilligemed dennes Aktstykker tilstilles snarest muligt Paatalemyndig-<lb />
+heden. Underretning om Slutningen meddeles Sigtede.
+</p>
+<p>
+39. Behandling af Politisager. *) Nærmest efter det Forbillede, der haves<lb />
+i norsk Lovgivnings saakaldte Forelæg, er der givet Politimesteren Beføjelse til, naar<lb />
+Forseelsen efter hans Skøn ikke egner sig til højere Straf end en Bøde af ikke over<lb />
+40 Kr., at foreslaa den Sigtede, at afgøre Sagen ved udenretslig Vedtagelse af en af<lb />
+Politimesteren opgiven Bøde. Formaalet hermed er dels at spare Publikum Tidsspildet<lb />
+og Ubehagelighederne ved Møde i offentlig Ret i Anledning af rene Ubetydeligheder,<lb />
+dels at befri Retten for en Del af disse mangfoldige Smaasager, hvor Forseelsen er<lb />
+klar, og hele Rettens Virksomhed indskrænker sig til at diktere den for Tilfælde af<lb />
+paagældende Art sædvanlige Bøde. Da det imidlertid er af Vigtighed at hindre en<lb />
+Udvikling i den Retning, at Folk, blot for at undgaa Mødet i Politiretten, underkaste<lb />
+sig den af Politimesteren foreslaaede Bøde, skønt de i Virkeligheden ikke anse sig<lb />
+skyldige, eller i alt Fald finde Bøden for høj, er Reglen givet saaledes, at ingen ved<lb />
+sin blotte Passivitet underkastes den af Politimesteren forelagte Bøde; der er krævet<lb />
+en udtrykkelig Erklæring om Vedtagelsen, idet man er gaaet ud fra, at Folk, der i<lb />
+Virkeligheden anse Politimesterens Forslag for ugrundet, ville betænke sig mere paa<lb />
+udtrykkelig at erklære sig enig deri, end paa at underkaste sig det gennem deres<lb />
+Passivitet, Svarer vedkommende Nej, eller svarer han ikke inden en opgiven Frist,<lb />
+henvises Sagen til Retten.
+</p>
+<p>
+En Politisags Behandling ved Retten indledes i Almindelighed med et af<lb />
+Politimesteren udfærdiget Anklageskrift, hvori Sigtede og dennes formentlige Forseelse<lb />
+tydelig betegnes med Anførelse af de Bestemmelser i Lov, Anordning eller Vedtægt,<lb />
+som antages at være overtraadte. Naar saadant Anklageskrift er indleveret, berammer<lb />
+Dommeren snarest muligt Tid og Sted for Sagens Foretagelse og lader Tiltalte tilsige<lb />
+Under den derefter stedfindende offentlige Domsforhandling, der i det hele følger<lb />
+Reglerne for Domsforhandling ved Underret i egentlige kriminelle Sager, finder om<lb />
+fornødent Bevisførelse Sted.
+</p>
+<p>
+Den Simplifikation af Behandlingen, der ordentligvis er nødvendig og forsvarlig<lb />
+ved de her omhandlede Smaasager, søges navnlig opnaaet ved, at Forkyndelse af selve<lb />
+Anklageskriftet er erklæret for unødvendig, at Meddelelse af Bevisfortegnelse ikke<lb />
+finder Sted, at Tilsigelse af Tiltalte kan ske med Aftens Varsel, at Politimesteren<lb />
+ikke behøver at møde eller lade møde under Sagen, medens Tiltalte kan lade møde<lb />
+ved Fuldmægtig, hvorhos Tiltaltes Udeblivelse eller Nægtelse af at give Forklaring af<lb />
+Dommeren efter Omstændighederne kan behandles som Vedgaaelse, For saa vidt
+</p>
+<note rend="foot">
+<p>
+*) Ved „Politisager" forstaas under det ny System: offentlige Politisager. Det nuværende Systems<lb />
+„private Politisager" bortfalde nemlig som særlig Klasse, jfr. Nr. 2, Note. Om, hvilke Sager<lb />
+der ere Politisager i Udkastets Forstand, jfr. Nr. 9, Note.
+</p>
+</note>

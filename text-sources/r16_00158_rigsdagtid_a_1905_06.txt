@@ -1,0 +1,66 @@
+2219
+<pb n="158" />
+<h>
+<coll>
+2219
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2220
+</colr>
+</h>
+<title>Kapitel 61.</title>
+<undertitle>Den offentlige Anklagemyndigked.</undertitle>
+<wtitle>§ 688.</wtitle>
+<p>
+De offentlige Anklagere virke for Forfølgning af Forbrydelser i Forbindelse<lb />
+med Politiet efter de i denne Lov givne Regler.
+</p>
+<wtitle>§ 689.</wtitle>
+<p>
+Det paahviler de offentlige Anklagere som Embedspligt at fremme enhver Sag<lb />
+med den Hurtighed, som Tilfældets Beskaffenhed tillader, og derved ikke blot have for<lb />
+Øje, at strafskyldige Personer drages til Ansvar, men ogsaa, at Forfølgning af Per-<lb />
+soner, som ikke ere strafskyldige, ikke finder Sted. De ere pligtige at efterkomme de<lb />
+af Retten i Medfør af nærværende Lov givne Paalæg.
+</p>
+<wtitle>§ 690.</wtitle>
+<p>
+Ved Anordning kan der gives saadanne almindelige Forskrifter for Udførelsen<lb />
+af de offentlige Anklageres Forretninger, som ved Siden af Loven findes fornødne.<lb />
+Justitsministeren kan i Overensstemmelse med de hidtil gældende Regler med Hensyn<lb />
+til enkelte Sager paalægge vedkommende Anklager at begynde eller fortsætte, undlade
+eller standse Forfølgning, at gøre Retsmidler gældende o. s. fr.
+</p>
+<wtitle>§ 691.</wtitle>
+<p>
+Staar en offentlig Anklager i et Forhold, som vilde udelukke en Dommer fra<lb />
+at handle i Sagen, skal han gøre Meddelelse herom til sin nærmeste Foresatte, for at<lb />
+denne kan træffe saadan Foranstaltning, som i den Anledning maatte findes fornøden,
+</p>
+<wtitle>§ 692.</wtitle>
+<p>
+Rigsanklageren varetager Udførelsen af Straffesager for Højesteret; han kan<lb />
+fremdeles efter Paalæg af Justitsministeren eller af egen Drift ganske eller til Dels<lb />
+overtage det til de -ved Landsretterne beskikkede Overanklageres Forretningskreds<lb />
+hørende Hverv i en hvilken som helst Straffesag.
+</p>
+<p>
+Rigsanklageren er de andre offentlige Anklagere overordnet og fører Tilsyn<lb />
+med deres Hvervs Udførelse, hvorved Reglerne i § 690 finde tilsvarende Anvendelse.
+</p>
+<wtitle>§ 693.</wtitle>
+<p>
+Den til Rigsanklagerens Bistand beskikkede Overanklager er beføjet til efter<lb />
+Paalæg af Rigsanklageren eller, i Tilfælde af dennes Forhindring, uden Paalæg at<lb />
+foretage enhver Embedshandling, som hører under Rigsanklagerens Virkekreds.
+</p>
+<wtitle>§ 694.</wtitle>
+<p>
+De for Landsretskredsene beskikkede Overanklagere virke for Forfølgning af<lb />
+alle Forbrydelser, der ikke ere henviste til Paatale af private eller af Politimyndig-<lb />
+hederne (§ 700), hvad enten Paadømmelsen i første Instans sker ved Landsret, ved Sø-<lb />
+og Handelsretten eller ved en Underret i Landsretskredsen; endvidere varetage de<lb />
+det offentliges Tarv i Henseende til Paaanke af Sø- og Handelsrettens samt Under-<lb />
+retternes Domme i Politisager.
+</p>

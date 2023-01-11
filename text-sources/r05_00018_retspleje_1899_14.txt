@@ -1,0 +1,38 @@
+12
+<pb n="18" />
+<h>
+<topmidle>12          Kap. V.   Parterne.</topmidle>
+</h>
+<title>Kapitel V.</title>
+<undertitle>Sagens Parter.</undertitle>
+<wtitle>§ 40.</wtitle>
+<p>Hvo der er ret Sagsøger eller Sagvolder, afgøres efter Lovgivningens almindelige<lb />
+Regler.</p>
+<p>Ligeledes afgøres det efter Lovgivningens<lb />
+almindelige Regler, om det i Følge Retsforholdets Beskaffenhed er nødvendigt, at flere<lb />
+Personer optræde som Procesfæller for at<lb />
+udgøre ret Sagsøger eller Sagvolder.</p>
+<wtitle>§ 41.</wtitle>
+<p>Hvor et nødvendigt Procesfællesskab<lb />
+mellem flere Personer finder Sted, og i et<lb />
+Retsmøde en eller flere af disse udeblive,<lb />
+medens en eller flere af dem give Møde,<lb />
+repræsenterer den eller de, der møde, de<lb />
+Udeblevne.</p>
+<wtitle>§ 42.</wtitle>
+<p>Myndigheden til at råde over Retstrætter som Part afgøres efter den borgerlige Rets Regler: dog tages kun Hensyn<lb />
+til Sagens egentlige Genstand, men ikke til<lb />
+Procesomkostninger.</p>
+<wtitle>§ 43.</wtitle>
+<p>Retten har ikke på Embeds Vegne at<lb />
+afkræve Parterne Bevis for, at de ere<lb />
+myndige til at råde over Processen. Afvisning på Grund af Sagsøgerens eller<lb />
+Sagvolderens Mangel på Myndighed til<lb />
+at råde over Sagen, finder derfor kun<lb />
+Sted efter Påstand.</p>
+<p>Dog kan Retten på Embeds Vegne<lb />
+afvise Sagen enten strax, eller når de fornødne Oplysninger ikke fremskaffes, når<lb />
+der ifølge den Mande, hvorpå Parterne i<lb />
+Processkrifterne betegnes, eller iøvrigt ifølge<lb />
+de foreliggende Oplysninger er Grund til<lb />
+at antage, at Nogen af dem mangler Myndighed til at råde over Sagen.</p>

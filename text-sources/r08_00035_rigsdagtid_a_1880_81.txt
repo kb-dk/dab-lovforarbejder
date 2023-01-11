@@ -1,0 +1,38 @@
+3433
+<pb n="35" />
+<h>
+<coll>3433</coll>
+<topmidle></topmidle>
+<colr>3434</colr>
+</h>
+<title>KXXII.</title>
+<title>Forslag til Lov</title>
+<undertitle>om<lb />
+den borgerlige Retspleie.</undertitle>
+<undertitle>(Fremsat i Folkethinget den 17de December 1880 af Justitsminister Nellemann).</undertitle>
+<title>Fsrste Afsnit.</title>
+<undertitle>Almindelige Bestemmelser.</undertitle>
+<title>Kapitel I.</title>
+<undertitle>Om Retternes Birkekreds.</undertitle>
+<wtitle>§ 1.</wtitle>
+<p>Enhver borgerlig Retstrætte, som ikke ved færlig Lovforskrift er henlagt til eller ifolge<lb />
+Parternes Overenskomst (jfr. § 8) indbringes for Underretterne, behandles og paakjendes i<lb />
+fsrste Instants af Landsretterne.</p>
+<wtitle>§ 2.</wtitle>
+<p>
+Til Underretterne henlægges:</p>
+<p>a) søgsmaal angaaende private Formuerettigheder, naar Gjenstanden for famme i Penge<lb />
+eller Penges værd ikke overstiger 400 Kr.</p>
+<p>d) Sager angaaende Skatter, Afgifter og andre lignende Vdelser af offentligretlig Beskaf-<lb />
+fenhed til Stat, Kommune, Embeder og andre offentlige Indretninger, naar Gjenstanden<lb />
+for samme ikke overstiger 400 Kr.</p>
+<p>o) ^ager angaaende Servituter og mindre omsattende (partielle) Brugsrettigheder uden<lb />
+Hensyn til værdien.</p>
+<p>6) Sager, hvorved Paterniteten til uægte Born søges oplyst, for at Underholdningsbidrag<lb />
+kan paalægges Faderen.</p>
+<p>6) Sager, i hvilke Gzekutivproces anvendes (§ 385, jfr. § 381.)</p>
+<wtitle>§ 3.</wtitle>
+<p>Sagens værdi bestemmes efter Paastanden. bestaar søgsmaalet af flere Poster eller<lb />
+Fordringer, sammenlægges disse.</p>
+<p>Der tages intet Hensyn til Procesomkostninger og de ved Klageskristets Dato endnu<lb />
+ikke forfaldne Renter, ei heller til senere Afslag i eller Nedsættelse af Paastanden.</p>

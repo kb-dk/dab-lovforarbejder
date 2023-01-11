@@ -1,0 +1,37 @@
+85
+<pb n="91" />
+<h>
+<topmidle>Kap. XX. Skriftl. Beh. ved Landsretterne. 85</topmidle>
+</h>
+<p>Når Bevisofttagelsen er tilendebragt,<lb />
+kan hver af Parterne i dertil berammede<lb />
+Retsmøder   fremlægge  et  skriftligt Indlæg.</p>
+<wtitle>§ 238.</wtitle>
+<p>Med de af det foregående følgende<lb />
+Lempelser komme i øvrigt denne Lovs almindelige Regler for Proceduren til Anvendelse, også når skriftlig Behandling<lb />
+sinder Sted.</p>
+<wtitle>§ 239.</wtitle>
+<p>Dom afsiges på Grundlag af de fremlagte Indlæg og skriftlige Beviser. Påstande,<lb />
+Søgsmålsgrunde, Indsigelser såvel som<lb />
+overhovedet faktiske Anbringender kunne ikkun<lb />
+komme i Betragtning, forsåvidt de enten<lb />
+indeholdes i de skriftlige Indlæg eller ere<lb />
+optagne i Retsbogen.</p>
+<wtitle>§ 240.</wtitle>
+<p>Udebliver nogen af Parterne i et Retsmøde, bliver Sagen efter den mødende<lb />
+Parts Begæring at optage til Påkendelse<lb />
+på Grundlag af alle de imellem Parterne<lb />
+indtil da vekslede Indlæg m. m. Er det<lb />
+Sagsøgeren, der udebliver, kan Sagsøgte dog<lb />
+også begære Sagen afvist.</p>
+<p>Sagsøgeren kan hæve Sagen, så længe<lb />
+den ikke er optagen til Påkendelse; dog<lb />
+kan han ikke derved afskære Modparten fra<lb />
+at få Dom for tingsæstede Modkrav.</p>
+<wtitle>§ 241.</wtitle>
+<p>Dommens Vedtagelse og Afsigelse foregår efter de almindelige Regler. Dog kan<lb />
+Rettens Formand, når Omstændighederne<lb />
+tale derfor, anordne, at skriftlig Stemmegiven skal finde Sted.</p>
+<wtitle>§ 242.</wtitle>
+<p>Med Hensyn til Anke og Kære forholdes<lb />
+der efter de almindelige Regler.</p>

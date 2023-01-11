@@ -1,0 +1,73 @@
+2029
+<pb n="63" />
+<h>
+<coll>
+2029
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2030
+</colr>
+</h>
+<p>
+Naar en Sag ifølge denne Paragraf overføres paa Retslisten for en følgende<lb />
+Retsdag, lader Rettens Formand, for at forebygge forgæves Møder, alle vedkommende<lb />
+saa hurtigt som muligt underrette derom.
+</p>
+<wtitle>§ 265.</wtitle>
+<p>
+Naar et Retsmøde ophører til fastsat Klokkeslet eller ifølge Rettens Bestem-<lb />
+melse, fortsættes afbrudte Forhandlinger i det næste Retsmøde, medmindre Rettens<lb />
+Formand bestemmer anderledes. Afsiges eller udsættes et berammet Retsmøde, over-<lb />
+gaa Sagerne til det næste Retsmøde, der holdes, medmindre særlig Bestemmelse træffes<lb />
+om en anden Tid til deres Foretagelse.
+</p>
+<wtitle>§ 266.</wtitle>
+<p>
+En Sag anses for anlagt, naar Forligsindkaldelse eller Stævning er indleveret til<lb />
+Berammelse eller Sagen er anmeldt for Retten efter § 323, 2det Stykke, eller § 405,<lb />
+3die Stykke.
+</p>
+<p>
+Ved Forkyndelsen af Stævningen eller Fremlæggelsen af den i § 323, 2det<lb />
+Stykke omhandlede Angivelse anses Sagen for tingfæstet; en Modfordring er at anse<lb />
+som tingfæstet ved Fremlæggelsen eller Meddelelsen af det Svarskrift, hvori den<lb />
+fremsættes. I det i § 405, 3die Stykke nævnte Tilfælde er Sagen tingfæstet, naar<lb />
+den foretages i Retten.
+</p>
+<p>
+indtil Sagsøgeren mundtlig har nedlagt sin Paastand under Domsforhandlingen,<lb />
+staar det ham frit for at hæve Sagen, dog at Sagsøgeren ikke derved kan forhindre,<lb />
+at der gives Sagsøgte Dom for allerede tingfæstede Modfordringer. Efter det anførte<lb />
+Tidspunkt kan Sagsøgeren derimod ikke ensidig hæve Sagen, jfr. dog § 371.
+</p>
+<wtitle>§ 267.</wtitle>
+<p>
+Sagsøgte er berettiget til at fremsætte Modfordringer, for saa vidt som disse<lb />
+enten have fælles Oprindelse med Hovedfordringen eller dog ere udjævnelige (kompu-<lb />
+table) med den. Der kan gives selvstændig Dom for Modfordringen.
+</p>
+<p>
+Under Proceduren behandles Modfordringen som en Bestanddel af Sagsøgtes<lb />
+Forsvar. Den fremsættes og forhandles i Forbindelse med hans Indsigelser paa samme<lb />
+Maade som disse. Dog kan den Retten ved § 273 tillagte Myndighed udøves ogsaa<lb />
+med Hensyn til Modfordringer.
+</p>
+<wtitle>§ 268.</wtitle>
+<p>
+Enhver af Parterne er pligtig bestemt og utvetydigt at angive de Kendsgernin-<lb />
+ger, paa hvilke han støtter sine Paastande, saavel som bestemt og utvetydigt at er-<lb />
+klære sig over de af Modparten anførte Kendsgerninger og de af denne til ham stillede<lb />
+Opfordringer.
+</p>
+<p>
+Om en ikke særskilt og udtrykkeligt benægtet Kendsgerning skal anses ind-<lb />
+rømmet eller bestridt, og hvilken Virkning Undladelse af behørig at besvare en Op-<lb />
+fordring medfører, afgør Retten efter et Skøn over Forhandlingerne i det hele.
+</p>
+<wtitle>§ 269.</wtitle>
+<p>
+Retten bør ved hensigtsmæssige Spørgsmaal til Parterne søge at fjerne Uklar-<lb />
+hed, Tvetydighed eller Ufuldstændighed i Fremstillingen af Sagen og i andre afgivne<lb />
+Erklæringer.
+</p>

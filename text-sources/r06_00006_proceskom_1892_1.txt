@@ -1,0 +1,44 @@
+6
+<pb n="6" />
+<rightside>
+<p>Ved So- og Handelssager forstaas i<lb />
+denne Lov de borgerlige Sager, i hvilke<lb />
+Fagkendstab henholdsvis til Søforhold og<lb />
+til Handelsforhold skønnes at være af Betydning; og ved Afgørelsen heraf vil der<lb />
+være at tage særligt Hensyn til, om begge<lb />
+Parter ønske Behandling af Sagen som Sveller Handelssag.
+</p>
+<p>Ved kgl. Anordning kan det bestemmes,<lb />
+at den jydsk-fynske Landsret i Handels- og<lb />
+Søsager dannes paa samme Maade som<lb />
+ovenfor bestemt med Hensyn til den sjællandske Ret.
+</p>
+<wtitle>§ 10.
+</wtitle>
+<p>Er Formanden forhindret fra at fungere<lb />
+i nogen af de i de to foregaaende Paragraffer<lb />
+omhandlede Sager, kan Landsrettens Iustitiarius enten selv overtage dennes Hverv eller<lb />
+overdrage det til en anden af Rettens Dommere. I andre Sager beklædes Formands-pladsen af Nettens Iustitiarius eller, naar<lb />
+han ikke deltager i Behandlingen, af den<lb />
+efter Tjenestealder ældste af de 3 Dommere,<lb />
+af hvem Retten dannes.
+</p>
+<wtitle>§ 11.
+</wtitle>
+<p>Oppebørsel af og Regnskabsaflæggelse<lb />
+for Retsafgifter forestaas ved hver Landsret af en Justitssekretær, der tillige er Retsskriver. Desuden ansættes der ved Landsretterne, foruden det i øvrigt fornødne<lb />
+Kontorpersonale, i Kjøbenhavn 6 og i<lb />
+Aarhus 3 Fuldmægtige. Landsrettens<lb />
+Iustitiarius træffer Bestemmelse om Forretningernes Fordeling.
+</p>
+<wtitle>§ 12.
+</wtitle>
+<p>Domsbehandling af Straffesager, i<lb />
+hvilke Bevisførelse skal finde Sted for Landsretten, foregaar dels paa det Sted, hvor<lb />
+Landsretten har sit Sæde, dels paa andre af<lb />
+Justitsministeren ved Anordning dertil fastsatte Steder i Landsretskredsen. I Anordningen bestemmes, hvilke Dele af Landsretskredsen der skulle henlægges til hvert af<lb />
+disse Tingsteder. Til Behandling af de her<lb />
+omhandlede Sager afholdes regelmæssigt Ting<lb />
+af den sjællandske Landsret i Løbet af hver
+</p>
+</rightside>

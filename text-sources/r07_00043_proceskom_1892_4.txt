@@ -1,0 +1,68 @@
+3295
+<pb n="43" />
+<h>
+<coll>3295</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3296</colr>
+</h>
+<p>
+Retten deponerer Beløbet, dels overhovedet naar den udeblevne snarest muligt og inden<lb />
+et Aar godtgør, at Udeblivelsen var ham utilregnelig, dels endelig undtagelsesvis i Kraft<lb />
+af særlig Bestemmelse af Højesteret.
+</p>
+<p>
+En ved Højesteret paakendt Sag kan kun genoptages i Kraft af særlig Til-<lb />
+ladelse fra Højesterets Side, en Tilladelse, der er tænkt som noget ganske ekstraordi-<lb />
+nært, som noget Højesteret ikke uden tvingende Grunde bør give, og noget, som der<lb />
+derfor i en lang Aarrække maaske slet ikke eller kun en ganske enkelt Gang kan<lb />
+blive Brug for.
+</p>
+<p>
+Uden for de nævnte Betingelser kan Genoptagelse af en borgerlig Sag ikke<lb />
+finde Sted ved nogen Ret.
+</p>
+<p>
+24.	Forening af flere Krav under samme Sag (Kumulation); Trediemands<lb />
+frivillige Indtræden i Processen (Intervention); Trediemands Tilstævning under<lb />
+Processen (Adcitation). Der tillægges en Sagsøger fri Adgang til at samle alle de<lb />
+Krav, som han har paa en og samme Sagvolder, under een Proces (objektiv Kumula-<lb />
+tion), forudsat blot, at Retten er kompetent med Hensyn til dem alle og samme<lb />
+Procesart anvendelig paa dem. Det kan deraf blive Følgen, at Krav, der særskilte<lb />
+vilde høre for Underret, nu komme ind for Landsret.
+</p>
+<p>
+Derimod kan en Sagvolder protestere imod, at Sagsøgeren slaar sit Krav paa<lb />
+ham sammen med Krav, som Sagsøgeren har paa andre, eller med Krav, som andre<lb />
+have paa Sagvolderen, under en og samme Proces (subjektiv Kumulation), medmindre<lb />
+Kravene have fælles Oprindelse, eller der foreligger en speciel Lovhjemmel for<lb />
+Kumulation.
+</p>
+<p>
+Enhver, der tror sig i det hele eller for en Del berettiget til den Ting eller<lb />
+den Rettighed, som er Genstand for en Retstrætte i første Instans imellem andre, kan<lb />
+indtræde som Intervenient i den begyndte Sag, for saa vidt vedkommende Domstol er<lb />
+eller ved Parternes Samtykke kunde gøres kompetent til at paakende Inferventions-<lb />
+søgsmaalet, dersom det anlagdes særskilt; naar Domsforhandling er berammet, kræves<lb />
+dog Rettens Samtykke til Interventionen. Hvis Interventionssøgsmaalet ikke afvises<lb />
+paa Grund af, at den angivne Betingelse mangler, procederes det i Forening med<lb />
+Hovedsøgsmaalet. Denne Frihed til at intervenere indrømmes, fordi Intervention<lb />
+jævnlig vil være det simpleste, virksomste og billigste Middel til Opnaaelse af en saa-<lb />
+vel for Trediemand som for de oprindelige Parter betryggende Afgørelse. — Frem-<lb />
+deles kan enhver, der har en retlig Interesse i, at en Part vinder en for Retten<lb />
+svævende Sag, indtræde i Sagen til denne Parts Understøttelse (som saakaldt ,, Bi-<lb />
+intervenient") og faa Adgang til at ytre sig i Sagen efter Rettens nærmere Be-<lb />
+stemmelse.
+</p>
+<p>
+Retten kan efter Omstændighederne tillade en Sagsøger uanset Sagvolderens<lb />
+Protest under Sagen at tilstævne (adcitere) en Trediemand, for at faa Dom over ham<lb />
+enten alternativt eller sammen med Sagvolderen, for saa vidt den paagældende Tredie-<lb />
+mand kunde have været indstævnet under Sagen fra først af, og det ikke kan tilregnes<lb />
+Sagsøgeren som en Forsømmelse, at han ikke har gjort dette.
+</p>
+<p>
+25.	Skriftlig Behandling af borgerlige Sager. Naar i Tilfælde af Anke til<lb />
+Landsret eller Højesteret Indstævnte udebliver, udgaar Sagen til skriftlig Behandling,<lb />
+under hvilken Appellanten indleverer et skriftligt Indlæg og fuldstændig Beskrivelse<lb />
+af det i Underinstansen passerede. Men selv om Sagsøgte giver Møde, kan Retten
+</p>

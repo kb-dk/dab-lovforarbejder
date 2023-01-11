@@ -1,0 +1,123 @@
+3637
+<pb n="1082" >
+<p rend="page">1082</p>
+<h>
+<coll>3637</coll>
+<colr>3638</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 459.
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede og Tredivte (134te) Møde.<lb />
+Grundloven tredie Læsning.<lb />
+</stitle>
+<p>
+<speaker>Formanden:</speaker> Jeg har alleredeee bemærket, at jeg har modtaget<lb />
+tre Breve fra trende ærede Rigsdagsmænd, nemlig fra den 11te Kongevalgte (David) og fra Rigsdagsmændene for Kjøbenhavns 3die og<lb />
+4de Valgkreds (Ørsted og Algreen-Ussing). Disse tre Breve gaae<lb />
+ud paa det Samme, som det, jeg tidligere har modtaget fra 7 andre<lb />
+ærede Rigsdagsmænd, nemlig paa, at de ikke kunde stemme for<lb />
+Grundloven ved den 3die Læsning. De ansøre deres Grunde, og er<lb />
+der tillige yttret Ønske om, Skrivelserne maae tilsøres Protocollen;<lb />
+men efter hvad der er vedtaget med Hensyn til de tidligre indleverede Skrivelser, antager jeg det overflødigt at sætte det gjorte Forlangende under Forsamlingens Afstemning. Den ene af disse Rigsdagsmænd (Algreen-Ussing) har fremsat Ønste om, at hans Skrivelse maatte blive fremlagt paa Forsamlingens Bord, hvorfor, der<lb />
+naturligviis Intet er til Hinder.<lb />
+</p>
+<p>
+Jeg vil dernæst tillade mig at udsætte Mødet et Qvarteer, for<lb />
+at de vedagne Redactionsforandringer kunne blive optagne i Grundloven, forinden den oplæses.<lb />
+</p>
+<p>
+Efter Mødet var blevet udsat 1/4 Time, for at de ved de foregaaende Afstemninger fremkomme Redactionsforandringer kunde blive<lb />
+foretagne i Udkastet, aabnede Formanden de atter med at anmode<lb />
+en af Secretairerne om at oplæse Grundloven, saaledes som den nu<lb />
+var affattet.<lb />
+Den lyder saaledes:<lb />
+</p>
+<btitle>
+Danmarks Riges Grundlov.<lb />
+</btitle>
+<title>
+I.<lb />
+</title>
+<p>
+<law n="1082" >§ 1.<lb /></law>
+Regjeringsformen er indskrænket-monarkisk. Rongemagten er<lb />
+arvelig.<lb />
+<law n="1082" >§ 2.<lb /></law>
+Den lovgivende Magt er hos Kongen og Rigsdagen i Forening. Den udøvende Magt er hos Kongen. Den dømmende Magt<lb />
+er hos Domstolene.<lb />
+<law n="1082" >§ 3.<lb /></law>
+Den evangelisk-lutherske Kirke er den danske Folkekirke og understøttes som saaden af Staten.<lb />
+</p>
+<title>
+II.<lb />
+</title>
+<p>
+<law n="1082" >§ 4.<lb /></law>
+Den i Kongeloven fastsatte Arvefølge er fremdeles gjældende.<lb />
+Den kan kun forandres efter Forslag fra Kongen og med den forenede Rigsdags Samthkke, hvortil udfordres tre Fjerdedele afgivne Stemmer.<lb />
+<law n="1082" >§ 5.<lb /></law>
+Kongen kan, uden Rigsdagens Samtykke, ikke være Regent i<lb />
+andre Lande end dem, der høre til det danske Monarki.<lb />
+<law n="1082" >§ 6.<lb /></law>
+Kongen skal høre til den evangelisk-lutherske Kirke.<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+<law n="1082" >§ 7.<lb /></law>
+Kongen er myndig, naar han har fyldt sit 18de Aar.<lb />
+<law n="1082" >§ 8.<lb /></law>
+Forinden Kongen tiltræder Regjeringen, aflægger han for den<lb />
+forenede Rigsdag følgende Eed:<lb />
+</p>
+<p>
+„Jeg lover og sværger at holde Danmarks Riges Grundlov;<lb />
+Er Rigsdagen ikke samlet ved Thronskiftet, nedlægges Eden<lb />
+skriftlig i Statsraadet og gjentages siden for den forenede Rigsdag.<lb />
+<law n="1082" >§ 9.<lb /></law>
+Saafremt Kongen, enten formedelst Bortreise eller Svaghed,<lb />
+finder, at der bør udnævnes en Rigsforstander, sammenkalder han<lb />
+Rigsdagen og forelægger den et Lovforslag herom.<lb />
+<law n="1082" >§ 10.<lb /></law>
+Bliver Kongen ude af Stand til at regiere, sammenkalder Statsraadet Rigsdagen. Naar da den forenede Rigsdag med tre Fjerdedele<lb />
+af de afgivne Stemmer erkjender Nødvendigheden, udnævner den en<lb />
+Rigsforstander og anordner, om fornødent gjøres, et Formynderstab.<lb />
+<law n="1082" >§ 11.<lb /></law>
+Er der Andedning til at frygte for, at Thronfølgeren ved Kongens Død vil være umyndig eller af anden Grund ude af Stand til<lb />
+selv at regjere, bestemmes ved en Rigsforstander, og et Formynderstab anordnes af Kongen. Rigsforstanderen kan ikke deeltage<lb />
+i Formynderstabet.<lb />
+<law n="1082" >§ 12.<lb /></law>
+Rigsforstanderen aflægger den for Kongen forestrevne Eed og<lb />
+udøver, saalænge Rigsforstanderskabet varer, i Kongens Navn alle<lb />
+dennes Rettigheder; dog kan han ikke foreslaae Forandring af Arvesølgen.<lb />
+<law n="1082" >§ 13.<lb /></law>
+Naar Kongen er død, sammentræder 14de Dagen derefter uden<lb />
+Sammenfaldelse den stdstvalgte Rigsdag.<lb />
+<law n="1082" >§ 14.<lb /></law>
+Er der ingen Thronfølger, eller kan Thronfølgeren eller Rigsforstanderen ikke strax tiltræde Regjeringen, føres den af Statsraadet, indtil fornøden Bestemmelse er tagen af Rigsdagen.<lb />
+<law n="1082" >§ 15.<lb /></law>
+Er thronfølgeren eller Rigsforstanderen fraværende, bestemmer<lb />
+den forenede Rigsdag, inden hvilken Tid han har at vende tilbage.<lb />
+Er Thronfølgeren umyndig, eller af anden Grund ikke i Stand til<lb />
+at regjere, uden at Rigsforstander og Formynderskab er bestemt, udnævner den forenede Rigsdag Rigsforstanderen og bestikker Formynderskabet. Er der ingen Thronfølger, vælger den forenede Rigsdag<lb />
+en Konge og fastsætter den fremtidige Arvefølge.<lb />
+<law n="1082" >§ 16.<lb /></law>
+Kongen Civilliste bestemmes for hans Regjeringstrid ved Lov.<lb />
+Derved fastsættes tillige, hvilke Slotte og andre Statseiendele skulle<lb />
+henhøre til Civillisten.<lb />
+Civillisten kan ikke behæstes med Gjæld.<lb />
+<law n="1082" >§ 17.<lb /></law>
+For Medlemmerne af det kongelige Guus kan der bestemmes<lb />
+Apanager ved Lov. Apanagerne kunne ikke uden Rigsdagens Samtykke<lb />
+nydes udenfor Riget.<lb />
+</p>
+</rightside>
+
+
+</pb>

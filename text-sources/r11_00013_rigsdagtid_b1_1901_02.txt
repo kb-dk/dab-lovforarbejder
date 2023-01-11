@@ -1,0 +1,96 @@
+2283
+<pb n="13" />
+<h>
+<coll>2283</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2284</colr>
+</h>
+<leftside>
+<p>paadømt Sag uden Andragerens Pejl har<lb />
+foreligget urigtigt oplyst, og for at der nu<lb />
+haves Oplysninger, som ville medføre et<lb />
+væsentligt forskelligt Resultat, samt naar<lb />
+samtlige Omstændigheder i høj Grad tale<lb />
+for Bevilgelsen af Andragendet, derunder<lb />
+ogsaa, at det maa anses for givet at An-<lb />
+drageren kun ad denne Vej vil kunne<lb />
+undgaa eller oprette et for ham indgribende<lb />
+Tab, kan det ifølge derom gennem Justits-<lb />
+ministeriet indgivet Andragende til Kongen<lb />
+ved en af Kongen i Statsraadet fattet Be-<lb />
+slutning tillades, at Sagen paa ny foretages<lb />
+ved Højesteret.</p>
+<wtitle>Til § 276.</wtitle>
+<p>Af Udvalget:</p>
+<p>253) Første Punktum affattes saaledes:<lb />
+„Dommeren kan, naar som helst han inden<lb />
+Sagens Optagelse finder Grund dertil,<lb />
+mægle Forlig mellem Parterne."</p>
+<wtitle>Til § 277.</wtitle>
+<p>254) I Stk. 3 rettes „protokolleres fuld-<lb />
+stændigt" til „indføres fuldstændigt i Rets-<lb />
+bogen", og „Protokollen" rettes til „denne".</p>
+<wtitle>Til § 280.</wtitle>
+<p>255) I sidste Linie ændres „Retsskri-<lb />
+verkontoret" til „Dommerens Kontor".</p>
+<wtitle>Til § 281.</wtitle>
+<p>Af Justitsministeren, tiltraadt af U d-<lb />
+valget:</p>
+<p>256) I Slutningen af 1ste Stykke staar<lb />
+„Domforhandling" læs „Domsforhandling".</p>
+<wtitle>Til § 283.</wtitle>
+<p>257) Begyndelsen af 2det Stykkes 2det<lb />
+Punktum affattes saaledes: ..Dog kan<lb />
+saavel det i § 243 omhandlede Højesterets-<lb />
+udvalg som Justitsministeriet undtagelses-<lb />
+vis osv."</p>
+<p>Slutningen af 2det Stykke affattes<lb />
+saaledes: „Andragende herom kan dog<lb />
+kun bevilges indtil 1 Aar fra Dommens<lb />
+Afsigelse. For saa vidt det indgives til<lb />
+Retten, maa det fremsættes paa den Maade</p>
+</leftside>
+<rightside>
+<p>som bestemt i § 246 og behandles som der<lb />
+foreskrevet".</p>
+<p>Slutningen af 3die Stykke, 1ste Punk-<lb />
+tum, affattes saaledes: „med Tilladelse<lb />
+enten af det ovennævnte Højesteretsudvalg<lb />
+eller af Justitsministeriet", og samme Styk-<lb />
+kes 2det Punktum affattes saaledes: „An-<lb />
+dragende herom kan dog kun bevilges ind-<lb />
+til 6 Maaneder, efter at den paagældende<lb />
+Afgørelse er truffen".</p>
+<p>Som nyt Stykke tilføjes:<lb />
+..I de i 2det og 3die Stykke ommeldte<lb />
+Tilfælde finder Reglen i § 246. 3die Stykke,<lb />
+Anvendelse."</p>
+<wtitle>Til § 284.</wtitle>
+<p>258) Begyndelsen af 2det Punktum af-<lb />
+fattes saaledes: „For saa vidt den i be-<lb />
+meldte Paragraf omhandlede Bestemmelse<lb />
+om Ankens Tilstedelighed ikke træffes af<lb />
+Justitsministeriet, afgives den, i øvrigt<lb />
+Overensstemmelse osv."</p>
+<wtitle>Til § 289.</wtitle>
+<p>259) I Slutningen af 1ste Linie er<lb />
+udfaldet „i".</p>
+<p>260) Mellem næstsidste og sidste Stykke<lb />
+indsættes et nyt Stykke, saalydende: „Med<lb />
+Hensyn til Kæremaalsfristen gælder Reglen<lb />
+i § 270, saaledes at Tilladelse til Kære<lb />
+efter Fristens Udløb kan meddeles dels af<lb />
+Justitsministeriet, dels af Landsrettens Ju-<lb />
+stitiarius."</p>
+<wtitle>Til § 295.</wtitle>
+<p>Af Udvalget:</p>
+<p>261) I sidste L. foran „hvor" sættes:<lb />
+„for det Sted".</p>
+<wtitle>Til § 303.</wtitle>
+<p>262) 1ste Stykke, „Slægtninge" æn-<lb />
+dres til „Slægtninge i op- eller nedstigende<lb />
+Linie eller 1ste Sidelinie."</p>
+<wtitle>Til § 305.</wtitle>
+<p>263) I 3die Stykke ændres „tinglæse"<lb />
+til „tinglyse".</p>
+</rightside>

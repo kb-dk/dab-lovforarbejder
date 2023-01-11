@@ -1,0 +1,70 @@
+3651
+<pb n="6"/>
+<h>
+<coll>3651</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3652</colr>
+</h>
+<p>
+Personer, af hvilke nogle henhøre under militære, andre under borgerlige Retter,<lb />
+sigtes for Delagtighed i samme forbryderske Forhold, bestemme, at Sagen i sin Helhed<lb />
+skal undersøges og paakendes ved borgerlig Ret. I disse Tilfælde kan Kongen tilfor-<lb />
+ordne de borgerlige Retter, til hvilke Sagens Undersøgelse og Paakendelse henvises,<lb />
+samt de borgerlige Domstole, hvem Paakendelsen i Tilfælde af Anke tilkommer, hver<lb />
+tvende henholdsvis gejstlige eller militære Medlemmer som Dommere.
+</p>
+<wtitle>§ 22.</wtitle>
+<p>
+Underretsdommerne udenfor København vedblive, indtil! anden Bestemmelse<lb />
+træffes ved Lov, foruden deres Dommergerning at varetage samtlige de til Retsbe-<lb />
+tjentene efter den hidtil værende Ordning henlagte administrative Forretninger.
+</p>
+<p>
+I Underretskredse, hvor Folketallet efter sidste Folketælling overstiger 40,000<lb />
+Indbyggere, ansættes dog en særlig Dommer, til hvilken henlægges de Dommeren og<lb />
+Skriveren ved Underretterne paahvilende Forretninger vedrørende Strafferetsplejen og<lb />
+den borgerlige Retspleje, og en særlig Politimester, til hvilken de nævnte administra-<lb />
+tive Forretninger henlægges. I Underretskredse, hvor Folketallet efter sidste Folke-<lb />
+tælling overstiger 70,000 Indbyggere, ansættes 2 særlige Dommere foruden en Politi-<lb />
+mester; Forretningernes Fordeling mellem Dommerne fastsættes ved kongelig Anordning.
+</p>
+<title>Kapitel 2.</title>
+<undertitle>Retsmøder.</undertitle>
+<wtitle>§ 23.</wtitle>
+<p>
+Højesteret holder Møde til de samme Tider, som hidtil har været brugeligt,<lb />
+men Retten kan bestemme saadanne Forandringer heri, som den maatte anse for hen-<lb />
+sigtsmæssige, hvorom det fornødne bliver at bekendtgøre i Lovtidenden.
+</p>
+<p>
+Beslutninger af Retten, som gaa. ud paa i Henhold til Reglerne i denne Lov<lb />
+at tilstede Afvigelser fra de almindelige processuelle Regler, ere ikke bundne til de<lb />
+foreskrevne eller vedtagne Mødetider.
+</p>
+<wtitle>§ 24.</wtitle>
+<p>
+Til Domsbehandling af Retssager i 1ste Instans, 3aavel borgerlige Sager som<lb />
+Straffesager, afholdes regelmæssigt Ting af Østre Landsret i Løbet af hver Maaned i<lb />
+København, og i øvrigt af hver Landsret mindst en Gang i Løbet af hver 3 Maaneder<lb />
+paa hvert af Tingstederne udenfor København.
+</p>
+<p>
+Tiden for de ovennævnte regelmæssige Tings Begyndelse bestemmes for hvert<lb />
+Fjerdingaar af Landsrettens Justitiarius og bringes til almindelig Kundskab.
+</p>
+<p>
+Over de Sager, som skulle foretages paa et Ting, forfatter Landsrettens Kontor<lb />
+en Fortegnelse, i hvilken Sagerne — borgerlige Sager for sig, Nævningesager for sig<lb />
+og andre Straffesager for sig — opføres i den Orden, i hvilken de formenes at burde<lb />
+foretages, med Angivelse af den Tid, paa hvilken hver Sag paaregnes at ville kunne<lb />
+komme for. Denne Fortegnelse forelægges betimeligt Rettens Formand til Godken-<lb />
+delse. Naar Fortegnelsen, efter Omstændighederne med de Ændringer, som Formanden<lb />
+maatte have bestemt, er godkendt af ham, bekendtgør Retsskriveren ved Opslag paa<lb />
+Tingstedet en overensstemmende hermed affattet Retsliste. Senere Forandringer eller<lb />
+Tillæg indføres paa Retslisten, saa snart de ere godkendte af Formanden.
+</p>
+<p>
+Overordentlige Ting til Domsbehandling af Straffesager, under hvilke Sigtede<lb />
+er fængslet, afholdes saavel paa Rettens Hovedtingsted som paa dens andre Tingsteder<lb />
+efter de af Justitsministeren ved Anordning fastsatte Regler.
+</p>

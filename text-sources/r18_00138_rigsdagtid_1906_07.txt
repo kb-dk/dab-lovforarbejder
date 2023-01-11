@@ -1,0 +1,73 @@
+3915
+<pb n="138"/>
+<h>
+<coll>3915</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3916</colr>
+</h>
+<p>
+kommer i Strid med Arrestrekvirentens Ret. Er Skyldneren ikke til Stede, gives der<lb />
+den eller dem, som i Henhold til § 494 tilkaldes paa hans Vegne, Paalæg om at give<lb />
+ham en saadan Betydning. Efter Omstændighederne kan et lignende Paalæg gives<lb />
+den Trediemand, i hvis Besiddelse det arresterede er.
+</p>
+<p>
+Er Arrest paa Person paalagt, tilkendegives det af Fogden Skyldneren, hvis<lb />
+han er til Stede, at han er belagt med Gældsfængsel, hvorefter Fogden beordrer ham<lb />
+straks henbragt til Gældsfængslet. I modsat Tilfælde er det Rekvirentens egen Sag<lb />
+at drage Omsorg for Udførelsen af Arrestkendelsen ved Skyldnerens Indsættelse i<lb />
+Gældsfængsel, og han kan hertil fordre Politiets Bistand. Saa snart Indsættelsen i<lb />
+Gældsfængslet er sket, har Rekvirenten øjeblikkelig at meddele Fogden Underretning<lb />
+herom; denne gør, efter at have hørt Arrestforvarerens Forklaring, fornøden Be-<lb />
+mærkning i Fogedbogen om Tiden og Klokkeslettet for Indsættelsen.
+</p>
+<wtitle>§ 611.</wtitle>
+<p>
+Hvis der ikke allerede er anlagt Retssag i Anledning af den Fordring, for<lb />
+hvilken Arrest er gjort, skal Rekvirenten, naar Skyldneren ikke under eller efter For-<lb />
+retningen har frafaldet Forfølgning, inden en Uge efter Arresten anlægge saadan Sag.<lb />
+under hvilken han tillige skal nedlægge særskilt Paastand paa, at Arrestens Foretagelse<lb />
+stadfæstes. Retten kan bestemme, at Spørgsmaal vedrørende Arrestens Stadfæstelse<lb />
+forhandles særskilt, jfr. § 2R3. Skal Sagen begynde med Mægling ved Forligskommis-<lb />
+sionen, skal. hvis Forlig ej opnaas, Sagen indstævnes for Retten hurtigst muligt efter<lb />
+Mæglingens Slutning.
+</p>
+<p>
+Er Retssag i Anledning af paagældende Fordring svævende ved første Instans,<lb />
+bliver der inden fornævnte Frist at anlægge en særskilt Arrestsag ved den samme<lb />
+Ret, ved hvilken hin Sag behandles. Det er Retten forbeholdt at bestemme, at Ar-<lb />
+restsagen skal sættes i Forbindelse med Hovedsagen, saavel som at den ene af disse<lb />
+Sager skal udsættes, indtil den anden er paakendt, jfr. §§ 263 og 264.
+</p>
+<p>
+Er Dom falden i første Instans i Retssagen, hvorunder den Fordring er ind-<lb />
+talt, for hvilken Arresten er gjort, anlægges Arrestsagen ved den Ret, af hvilken hin<lb />
+Sag er bleven paakendt. Retten kan i Tilfælde af Anke udsætte Arrestsagens For-<lb />
+handling i det hele eller for en Del. jfr. § 264.
+</p>
+<p>
+Naar Arrestforfølgning finder Sted som særskilt Sag, er Forligsmægling<lb />
+unødvendig.
+</p>
+<p>
+Reglerne om Arrestens og Fordringens Forfølgning blive med de fornødne<lb />
+Lempelser at anvende, naar Arrest er afværget ved Sikkerhedsstillelse.
+</p>
+<p>
+Arrest for Bodmerigæld behøver ikke at forfølges til Stadfæstelse.
+</p>
+<wtitle>§ 612.</wtitle>
+<p>
+Kommer Skyldneren, efter at Arrest er gjort, under Konkurs, eller dør han.<lb />
+og offentligt Skifte uden Gælds Vedgaaelse finder Sted efter ham. bortfalder Arrest-<lb />
+rekvirentens Forpligtelse til at anlægge Retssag i Anledning af Fordringen eller<lb />
+Arresten. Den af Rekvirenten i Anledning af Arresten stillede Sikkerhed løsgives dog<lb />
+først, naar 8 Uger ere gaaede efter Arrestens Foretagelse eller, hvis Sag har været<lb />
+anlagt og hæves, 8 Uger efter Ophævelsen, og der derhos ikke fra Boets Side er rejst
+Sag om Erstatning. Er dette sket, maa det endelige Udfald af Sagen afventes.
+</p>
+<title>§ 613.</title>
+<p>
+Under Arrestsagen paakendes det, om Arresten er lovlig gjort. Er Retssag<lb />
+i Anledning af den paagældende Fordring svævende, og Arrestsagen ikke behandles
+</p>

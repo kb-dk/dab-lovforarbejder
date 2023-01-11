@@ -1,0 +1,50 @@
+3595
+<pb n="116" />
+<h>
+<coll>3595</coll>
+<topmidle>Forsl. t. L. om den l nrgerNge Retspleie.</topmidle>
+<colr>3596</colr>
+</h>
+<p>mænd ere tilstede som Vidner. Disse ere tillige uden anden særlig Bemyndigelse kompetente<lb />
+til at foretage de nnder Forretningen forefaldende Vurderinger og andre lignende skjøn.<lb />
+Skulde de ikke være i Stand til retteligen at anslaa de forekommende Gjenstande, har Fogden<lb />
+at tilkalde andre mænd, som hertil cre stikkede. Saavel Vidnerne som de, der tilkaldes for<lb />
+at udfore Vurderinger, have i Fogedprotokollen at underskrive en Forsikring paa Tro og<lb />
+Love om, at de ville udfore Vurderingen efter deres bedste Overbevisning.</p>
+<p>Det udsvendc Politi er pligtigt paa Forlangende at underststle Fogden, dersom han<lb />
+i sine Forretningers Udførelse møder saadan Modstand, som han ikkc ved egen og Vid-<lb />
+nernes Hjalp tror at kunne overvinde, eller han af andre Gnmde begjærer Politiets Bistand.</p>
+<wtitle>§ 438.</wtitle>
+<p>Ingen Foged kan foretage Exekutionsforretninger udenfor sin egen Retskreds, med-<lb />
+mindre disse blot ere at anse som Fortsættelse af en i Retskredsen paabegyndt exekution, i<lb />
+hvilket Tilfælde han i tilstodende Retskredse er kompetent til at foretage Exekution i rorligt<lb />
+Gods. Dog er Fogden ikke pligtig at rcise længere end 2 Mile ud over Grænserne af<lb />
+sin Retskreds.</p>
+<wtitle>§ 439.</wtitle>
+<p>Den, der vil have en exekution foretagen, skal for Fogden fremsætte sin Begjæring<lb />
+derom, ledsaget af Udskrift af Dommen, Kjendelsen eller Forliget eller af det originale Pante-<lb />
+brev, ligesom han ogsaa ved samme Leilighed har at meddele alle de Oplysninger, som Iøv-<lb />
+rigt maatte være fornødne, for at Fogden kan tage Bestemmelse om Forretningens Bc-<lb />
+rammelse.</p>
+<p>Begjæringen skal, hvis Fordringen, bortset fra Procesomkostninger og Renter, der erc<lb />
+vaalobne siden Processens Begyndelse, overstiger 400 Kr.s værdi, være skriftlig. I andet<lb />
+Fald kin den fremsættes mundtligt for Fogden, som da har at tage den til Protokollen.</p>
+<wtitle>§ 440.</wtitle>
+<p>Dommen eller Kjendelsen, som skal exekveres, maa være udfærdiget i lovmcessig<lb />
+Form. Gr dette Tilfældet, vedkommer det ikke Fogden at underfsge eller afgjere, om Dom-<lb />
+men eller Kjendelsen maatte lide af faadanne Fei! eller Mangler, som kunde medføre dens<lb />
+Annullation eller Forandring efter Retsmidlers Anvendelse.</p>
+<p>Kun hvis Dommen eller Kjendelsen ikke er udgaaet fra cu lovlig bestaaende Dom-<lb />
+stol eller nogen til at afsige exigible Dekreter beføiet Myndighed, eller den ikke ifolge sit Ind-<lb />
+hold kan fuldbyrdes, har Fogden at ncægte Exekution.</p>
+<wtitle>§ 441.</wtitle>
+<p>Under exekutionen af Forlig hvad enten de ere indgaaedc for Forligskommissioner,<lb />
+Rette'- eller øvrigheder, har Fogden at paakjende alle Indsigelser mod Forligets Gyldighed,<lb />
+dog, hvad Retsforlig angaar, kun, forsaavidt Fogdens Kjendelse ikke vilde indeholde en Bc-<lb />
+dommelse af Rettens Handlinger.</p>
+<p>Gr den ved Forliget hjemlede Fordring knyttet til en Betingelse eller en Tidsfrist,<lb />
+eller stottes den paa en gjensidig bebyrdende Retshandel, maa det ved Forligeis eget Indhold<lb />
+rller ved andre offentlige Dokumenter eller ved Skyldnerens egen Indrommelse være givet, at<lb />
+Betingelsen er indtraadt eller Tidsfristen uhløben, eller at Forligshaveren fra sin Side har<lb />
+opfyldt Retshandlen, forsaavidt ikke lovligt Tilbud hercm fremkommer under selve Forretningen<lb />
+og da endnu kan betimelig fremsættes.</p>

@@ -1,0 +1,93 @@
+2301
+<pb n="22" />
+<h>
+<coll>2301</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2302</colr>
+</h>
+<leftside>
+<p>forretningen, bliver det Udlagtes Salg at<lb />
+stille i Bero, indtil det rejste Spørgsniaal<lb />
+har fundet en Afgørelse, der enten er den<lb />
+endelige eller dog maa betragtes som saa-<lb />
+dan, fordi den almindelige Frist for Iværk-<lb />
+sættelse af yderligere Klage derefter er<lb />
+udløbet ubenyttet."</p>
+<wtitle>Til § 389.</wtitle>
+<p>343)	„Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<p>344)	„Gebyrer" ændres til „Afgifter"</p>
+<wtitle>Til § 390.</wtitle>
+<p>345)	I 1ste Linie ændres „8 Dage"<lb />
+til „en Uge".</p>
+<wtitle>Til § 392.</wtitle>
+<p>346)	„Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 393.</wtitle>
+<p>347)	„Fogden" ændres til „Syssel-<lb />
+manden" (2 Steder).</p>
+<wtitle>Til § 394.</wtitle>
+<p>347) „Fogden"' ændres til „Syssel-<lb />
+manden" (2 Steder).</p>
+<p>(„Iuteresse" læs „Interesse".)</p>
+<wtitle>Til § 396.</wtitle>
+<p>348)	„Fogden"' ændres til „Syssel-<lb />
+manden" (2 Steder).</p>
+<p>349)	„Protokollen" ændres til „Auk-<lb />
+tionsbogen".</p>
+<wtitle>Til § 399.</wtitle>
+<p>350)	„Fogden" ændres til „Syssel-<lb />
+manden" (2 Steder).</p>
+<wtitle>Til § 400.</wtitle>
+<p>351)	I 1ste Stykke ændres „hvis<lb />
+Bestyrer Fogden har at afkræve Attest i<lb />
+saa Henseende" til „hvorfra Attest i saa<lb />
+Henseende skal tilvejebringes«.</p>
+<p>352)	„Fogden" ændres til „Syssel<lb />
+manden" (4 Steder).</p>
+<wtitle>Til § 401.</wtitle>
+<p>353) „Fogden" ændres til „Syssel-<lb />
+manden" (5 Steder).</p>
+</leftside>
+<rightside>
+<wtitle>Til § 402.</wtitle>
+<p>354)	„Fogden'' ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 403.</wtitle>
+<p>355)	„Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 404.</wtitle>
+<p>356)	„Fogden" ændres til „Syssel-<lb />
+manden"' (4 Steder).</p>
+<wtitle>Til § 405.</wtitle>
+<p>357) „Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 406.</wtitle>
+<p>358) „Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<p>Af Udvalget:</p>
+<p>359)	I Slutningen af Paragraffens 1ste<lb />
+Stykke ændres „skal Eetsskriveren levere<lb />
+inden 5 Dage" til „skal leveres inden en<lb />
+Uge".</p>
+<wtitle>Til § 407.</wtitle>
+<p>Af Justitsministeren, tiltraadt af<lb />
+Udvalget undtagen Nanke:</p>
+<p>360)	„Fogden ændres til „Syssel-<lb />
+manden" (5 Steder).</p>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>361)	I Slutningen af 1ste Stykke udgaa<lb />
+Ordene „eller Tingstedet".</p>
+<wtitle>Til § 408.</wtitle>
+<p>Af Udvalget:</p>
+<p>359)	I første Stykkes sidste Linie<lb />
+ændres „8 Dage" til „en Uge".</p>
+<wtitle>Til § 408.</wtitle>
+<p>360)	I 3die Stykke ændres „Auktions-<lb />
+protokollen" til „Auktionsbogen".</p>
+<wtitle>Til § 409.</wtitle>
+<p>Af Justitsministeren, tiltraadt af<lb />
+Udvalget undtagen Nanke:</p>
+<p>361)	I 1ste Stykkes sidste Linie sæt-<lb />
+tes Komma efter „Approbation".</p>
+</rightside>

@@ -1,0 +1,140 @@
+1157
+<pb n="615">
+<p rend="page">615</p>
+<h>
+<coll>1157</coll>
+<colr>1158</colr>
+<lb/>
+<topleft>1849.</topleft>
+<topmidle>
+Beretning Om Forhandlingerne paa Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No149.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Ni og fyrgetyvende (52de) Møde.<lb/>
+(Fortsat.)<lb/>
+</btitle>
+<p>
+Man gik derefter over ti Afstemning. Hviiken gav følgende<lb/>
+Resultat:<lb/>
+</p>
+<p>
+1) Olriks Forslag:<lb/>
+At sidste Passus udelades, og at første redigeres saaledes:<lb/>
+„Det udskrevne Mandskab har saavel I Fredstid som I Krigstid<lb/>
+At forrette den Tjeneste, som Armeeroganisationen og de gjældende Anordninger hjemle“,<lb/>
+blev forkastet med 106 Stemmer mod 23.<lb/>
+</p>
+<p>
+2) Algreen- Ussings og I. E. Larsens Forslag, der vel af<lb/>
+Stillerne var tagen tilbage men optagen af Krieger.<lb/>
+At sidste Punctum forandres saaledes: „I Krigstid udfører<lb/>
+Mandskabet den militaire Tjeneste, som paalægges det“,<lb/>
+Blev forkastet med 82 Stemmer mod 47.<lb/>
+</p>
+<p>
+3) Stockfleths Forslag:<lb/>
+At der ved Slutningen af Paragraphen tilføies: „Ingen<lb/>
+kan mod sin Villie udtages til Officersoppasser“,<lb/>
+blev efter Forlangende af:<lb/>
+</p>
+<reflist>
+Jacobæus.	I.E. Larsen.<lb/>
+N.F. Jespersen.	Algreen-Ussing.<lb/>
+Stockfleth.	C.M.Jespersen.<lb/>
+Schiern.	Rée.<lb/>
+Schytte.	Hunderup.<lb/>
+C. Dahlerup.	Linnemann.<lb/>
+Bruun af Assens.	Lützhöft.<lb/>
+Hækkerup.<lb/>
+</reflist>
+<p>
+sat under Afstemning ved Navneopraab, og afgjorte saaledes:<lb/>
+Stemmegivende 140, absolute Stemmefleerhed 71.<lb/>
+Forslaget vedtaget med 78 Ja mod 62 Nei.<lb/>
+</p>
+<indexlist>
+Ja.<lb/>
+Aagaard af Thisted.	Gudmundsson.<lb/>
+Bagger.	Hansen (H.P.) af kjøbenhavn.<lb/>
+Brandt.	Hansen (J. A.) af kjøbenhavn.<lb/>
+Bruun af Assens.	Mørk Hansen.<lb/>
+Bruun (M.P.) af Bruunshaab.	Hansen (N.) af Eskelund.<lb/>
+Bruun (P.D.) af kjøbenhavn.	Hasselbalch,<lb/>
+Boisen.	Hestrup.<lb/>
+Christensen (Georg) af Kjøbenhavn.	Hermansen.<lb/>
+la Cour.	Hiort.<lb/>
+Dahl.	Holck.<lb/>
+Dehlerup.	Hunderup.<lb/>
+David.	Hækkerup.<lb/>
+Dinsen.	Jacobæus.<lb/>
+Eriksen.		Jespersen af Grønnebjerggaard.<lb/>
+Fløe.	Jespersen (Jespersen (C.M.) af Viborg.<lb/>
+Funder.	Johnsen.<lb/>
+Gislason.	Jørgensen.<lb/>
+Gram.	Kayser.<lb/>
+Grundtvig.	Larsen (I. E.) af Kjøbenhaven.<lb/>
+</indexlist>
+</leftside>
+<rightside>
+<indexlist>
+Ja<lb/>
+Linnemann.	Ræder.<lb/>
+Lorck.	Schack.<lb/>
+Lüttichan.	Schiern.<lb/>
+Lützhöft.	Schroll.<lb/>
+Marckmann.	Schytte.<lb/>
+Mundt.	Brinck-Seielin.<lb/>
+Lage Müller.	Sidenius.<lb/>
+Mynster.	Skeel.<lb/>
+Møller.	Stockfleth.<lb/>
+Nielsen (H.C.) af Tranberg.	Tang.<lb/>
+Nyholm.	Thalbitzer.<lb/>
+Olesen.	Thelmann.<lb/>
+Ostenfeldt.	Tobiesen.<lb/>
+Otterstrøm.	Tvede.<lb/>
+Pape.	Algreen-Ussing.<lb/>
+Petersen(B.) af Kjøbenhavn.	Wegener.<lb/>
+Petersen (C.N.) af Hjørring.	Visby.<lb/>
+Pløyen.	With.<lb/>
+Rasmussen (I.) af Svanninge.	Wulff.<lb/>
+Rée.	Ørsted.<lb/>
+Nei.<lb/>
+Aagaard (G.) af Lolland.	Jungersen.<lb/>
+Andresen, 	Kirk.<lb/>
+Andræ.	Knuth.<lb/>
+Barfod.	Krieger.<lb/>
+Bergmann.	Køster.<lb/>
+Bjerring.	Larsen (C.) af Dalby.<lb/>
+Vlack.	Leth.<lb/>
+Bregendahl.	Madsen.<lb/>
+Buntzen.	Møkker (R.N.) af Draaby.<lb/>
+Christensen (Balthazar).		Neergaard.<lb/>
+Christensen(I.) af Voldum.	Nielsen (N.H.) af Løserup.<lb/>
+Christensen (H.) af Veistrup.	Nørgaard.<lb/>
+Van Dockum.	Olrik.<lb/>
+Dremsen af Kjøbenhaven.	Ostermann.<lb/>
+Dremsen af Silkeborg.	Oxholm.<lb/>
+Fibiger.	Petersen (C.) af Davinde.<lb/>
+Frølund.	Pedersen (I.) af Sæding.<lb/>
+Gleerup.	Pedersen (P.) af Kjøbenhavn.<lb/>
+Gregersen.	Pjetursson.<lb/>
+Hage.	Ploug.<lb/>
+Hall.	Resmussen (H.)af Egense.<lb/>
+Hammerich.	Rasmussen (M.) af Herlufmagle.<lb/>
+Hansen (L.) af Bjekerup.	Schlegel.<lb/>
+Von Haven.	Schurmann.<lb/>
+Hvidt.	Cederfeld de Simonsen.<lb/>
+Høier.	Tscherning.<lb/>
+Jacobsen.	Tuxen.<lb/>
+Jespersen (F.)af Brgense.	Ussing af Viborg.<lb/>
+Johansen (H.C.) af Østrup.	Westergaard.<lb/>
+Johansen (H.) af Knardrup.	Winther.<lb/>
+Swhestedt- Juel.	Zeuthen.<lb/>
+</indexlist>
+</rightside>
+</pb>

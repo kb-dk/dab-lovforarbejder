@@ -1,0 +1,109 @@
+1947
+<pb n="20" />
+<h>
+<coll>1947</coll>
+<topmidle>Bet. o. Lovf. om Rettens Pleje m. m.</topmidle>
+<colr>1948</colr>
+</h>
+<place>
+Jylland.
+</place>
+<p>
+26.	Fredericia Købstad, Elbo, Brusk og Holmans Herreder.
+</p>
+<p>
+27.	Kolding Købstad, Kolding Herred, Jerlev, Andst og Slaugs Herreder.
+</p>
+<p>
+28.	Vejle Købstad med Nørvang-Tørrild Herreder.
+</p>
+<p>
+29.	Horsens Købstad, Hatting og Bjerre Herreder.
+</p>
+<p>
+30.	Voer og Nim Herreder samt Stensballegaard Birk med Tyrsting og Vrads<lb/>
+Herreder.
+</p>
+<p>
+31.	Silkeborg Købstad. Silkeborg Birk, Lysgaard og Hids samt en Del af Hovlbjerg<lb/>
+Herred, Skanderborg Købstad og Hjelmslev-Gjern Herreder.
+</p>
+<p>
+32.	Hasle, Vester Lisbjerg, Framlev og Sabro Herreder, Frijsenborg-Faurskov Birk,<lb/>
+Ning Herred og Hads Herred.
+</p>
+<p>
+33.	Aarhus Købstad.
+</p>
+<p>
+34.	Grenaa Købstad samt Nørre Herred og en Del af Sønder Herred med Ebeltoft<lb/>
+Købstad samt Mols Herred og en Del af Sønder Herred.^
+</p>
+<p>
+35.	Rougsø og en Del af Sønderhald Herred med Øster Lisbjerg og en Del af Sønder-<lb/>
+hald Herred.
+</p>
+<p>
+36.	Randers Købstad, Nørhald, Støvring og Galten Herreder.
+</p>
+<p>
+37.	Mariager Købstad, Gjerlev-Onsild Herreder (undtagen Vester-Tørslev, Glenstrup,<lb/>
+Sønder-Onsild, Nørre-Onsild, Hvornum, Snæbum og Skjellerup Sogne) samt Hel-<lb/>
+lum-Hindsted Herreder.
+</p>
+<p>
+38.	Hobro Købstad, Gislum og Rinds Herreder samt de 7 under Nr. 37 nævnte<lb/>
+Sogne af Gjerlev-Onsild Herreder.
+</p>
+<p>
+39.	Løgstør Købstad, Aars-Slet Herreder, Nibe Købstad og Hornum Herred.
+</p>
+<p>
+40.	Aalborg Købstad, Aalborg Birk og Fieskum Herred.
+</p>
+<p>
+41.	Nørresundby Købstad, Kjær Herred og Hvetbo Herred.
+</p>
+<p>
+42.	Sæby Købstad og Dronninglund Herred.
+</p>
+<p>
+43.	Frederikshavn Købstad, Horns Herred, Skagen Købstad og Læsø Birk.
+</p>
+<p>
+44.	Hjørring Købstad, Vennebjerg Herred og Børglum Herred.
+</p>
+<p>
+45.	Thisted Købstad, Hillerslev-Hundborg Herreder, samt Øster og Vester Han<lb/>
+Herreder.
+</p>
+<p>
+46.	Hassing-Refs Herreder.
+</p>
+<p>
+47.	Nykøbing M. Købstad, Morsø Herreder, Skive Købstad og Sallinglands Herreder.
+</p>
+<p>
+48.	Viborg Købstad, Fjends-Nørlyng og Middelsom-Sønderlyng Herreder.
+</p>
+<p>
+49.	Herning Købstad og Hammerum Herred.
+</p>
+<p>
+50.	Holstebro Købstad og Hjerm-Ginding Herreder.
+</p>
+<p>
+51.	Lemvig Købstad og Skodborg-Vandfuld Herreder.
+</p>
+<p>
+52.	Ringkøbing Købstad, Ulvborg-Hind Herreder og Bølling-Nørre Herreder.
+</p>
+<p>
+53.	Varde Købstad og Landjurisdiktion samt Øster og Vester Herreder.
+</p>
+<p>
+54.	Esbjerg Købstad, Skads Herred og Fanø Birk.
+</p>
+<p>
+55.	Ribe Købstad, Ribe Herred og Gjørding-Malt Herreder.
+</p>

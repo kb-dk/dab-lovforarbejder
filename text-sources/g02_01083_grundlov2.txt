@@ -1,0 +1,152 @@
+3639
+<pb n="1083" >
+<p rend="page">1083</p>
+<h>
+<coll>3639</coll>
+<colr>3640</colr><lb />
+Grundlovens tredie Læsning.<lb />
+3639<lb />
+</h>
+<leftside>
+<title>
+III.<lb />
+</title>
+<p>
+<law n="1083" >§ 18.<lb /></law>
+Kongen er ansvarsfri; hans Person er hellig og ukrænkelig.<lb />
+Ministrene ere ansvarlige for Regjeringens Ferelse.<lb />
+<law n="1083" >§ 19.<lb /></law>
+Kongen udnævner og afskediger sine Ministre. Kongens Underskrist under de Lovgivningen og Regjerringen vedkommende Beslutninger giver disse Gyldighed, naar den er ledsaget af en Ministers<lb />
+Underskrift. Den Minister som har enderstrevet, er ansvarlig for<lb />
+Besluningen.<lb />
+<law n="1083" >§ 20.<lb /></law>
+Ministrene kunne tiltales for deres Embedsførelse. Folkethinget<lb />
+anklager, Rigsretten dømmer.<lb />
+<law n="1083" >§ 21.<lb /></law>
+Ministrene i Forening udgjøre Statsraadet; Forsædet føres af<lb />
+den, som af Kongen er udnævnt til Premierminister.<lb />
+Alle Lovforslag og vigtigere Regjeringsforanstaltninger forelægges<lb />
+Statsraadet. Dettes Ordning samt Ministeransvarligheden bestemmes<lb />
+ved Lov.<lb />
+<law n="1083" >§ 22.<lb /></law>
+Kongen besætter alle Embeder i samme Omfang som hidtil. Forandringer heri kunne skee ved Lov. Ingen kan beskikkes til Embedsmand, som ikke har Indfødsret.<lb />
+</p>
+<p>
+Kongen kan afskedige de af ham ansatte Embedsmænd. Disses<lb />
+Pension fastsættes i Overeensstemmelse med Pensionloven.<lb />
+Kongen kan forflytte Embedsmænd uden deres Samtykke, dog<lb />
+saaledes at de ikke derved tabe i Embedsindtægter, og at der gives<lb />
+dem Valget mellem saaden Forflyttelse og Afsted med Pension efter<lb />
+de almindelige Regler.<lb />
+</p>
+<p>
+Undtagelser for visse Klasser af Embedsmænd, foruden den i<lb />
+§ 78 fastsatte, bestemmes ved Lov.<lb />
+<law n="1083" >§ 23.<lb /></law>
+Kongen har den høieste Myndighed over Land- og Sømagten.<lb />
+Han erklærer Krig og slutter Fred, samt indgaaer og ophæver<lb />
+Forbund og Handelstraktater; dog kan han derved ikke uden Rigsdagens Samtykke afstaae nogen Deel af Landet, raade over nogen<lb />
+Statsindtægt eller paadrage Staten nogen anden bebyrdende Forpligtelse.<lb />
+<law n="1083" >§ 24.<lb /></law>
+Kongen sammenkalder en ordentlig Rigsdag hvert Aar. Uden<lb />
+Kongens Samtykke kan den ikke forblive længere sammen end 2<lb />
+Maaneder.<lb />
+Forandringer i disse Bestemmelser kunne skee ved Lov.<lb />
+<law n="1083" >§ 25.<lb /></law>
+Kongen kan indkalde Rigsdagen til overordentlige Sammenkomster,<lb />
+hvis Varighed beroer paa hans Bestemmelse.<lb />
+<law n="1083" >§ 26.<lb /></law>
+Kongen kan udsætte den ordentlige Rigsdags Møder paa bestemt<lb />
+Tid, dog uden Rigsdagens Samtykke ikke længere end paa 2 Maaneder og ikke mere end een Gang i Aaret indtil dens næste ordentlige Sammenkomst.<lb />
+<law n="1083" >§ 27.<lb /></law>
+Kongen kan opløse enten hele Rigsdagen eller een af dens Afdelinger; opløses kun eet af Thingene, skal det andet Things Møder<lb />
+udsættes, indtil hele Rigsdagen atter kan samles. Dette skal skee<lb />
+inden 2 Maaneders Forløb efter Opløsningen.<lb />
+<law n="1083" >§ 28.<lb /></law>
+Kongen kan for Rigsdagen lade fremsætte Forslag til Love og<lb />
+andre Beslutninger.<lb />
+<law n="1083" >§ 29.<lb /></law>
+Kongens Samtykke udfordres til at give en Rigsdagsbeslutning<lb />
+Lovskrast. Kongen befaler Lovens Bekjendtgjørelse og dragger Omforg<lb />
+for dens Fuldbyrdelse.<lb />
+<law n="1083" >§ 30.<lb /></law>
+I sårdeles paatrængende Tilfældee kan Kongen, naar Rigsdagen ikke er samlet, udstede foreløbige Love, der dog ikke maae stride<lb />
+mod Grundloven, og altid bør forelægges den følgende Rigsdag.<lb />
+3640<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+<law n="1083" >§ 31.<lb /></law>
+Kongen kan benaade og give Amnesti; Ministrene kan han kun<lb />
+med Folkethingets Samtykke benaade for de dem af Rigsretten idømte<lb />
+Straffe.<lb />
+<law n="1083" >§ 32.<lb /></law>
+Kongen meddeler, deels umiddelbart, deels gjennem vedkommende<lb />
+Regjeringsmyndigheder, saadanne Bevillinger og Undtagelser fra de<lb />
+nugjældende Love, som ifølge hidtil gjældende Regler have været<lb />
+i Brug.<lb />
+<law n="1083" >§ 33.<lb /></law>
+Kongen har Ret til at lade slaae Mynt i Henhold til Loven<lb />
+</p>
+<title>
+IV.<lb />
+</title>
+<p>
+<law n="1083" >§ 34.<lb /></law>
+Rigsdagen bestaaer af Folkethinget og Landsthinget.<lb />
+<law n="1083" >§ 35.<lb /></law>
+Valgret til Folkethinget har enhver uberygtet Mand, som har<lb />
+Indfødsret, naar han har fyldt sit 30te Aar, medmindre han:<lb />
+a) uden at have egen Huusstand staaer i privat Tjenesteforhold;<lb />
+b) nyder eller har nydt Understøttelse af Fattigvæsenet, som ikke er<lb />
+enten eftergiven eller tilbagebetalt;<lb />
+c) er ude af Raadigheden over sit Bo;<lb />
+d) ikke har havt fast Bopæl i eet Aar i den Valgkreds eller den<lb />
+Stad, hvori han opholderr sig paa den Tid, Valget foregaaer.<lb />
+<law n="1083" >§ 36.<lb /></law>
+Valgbar til Folkethinget er, med de i § 35 a, b, og c nævnte<lb />
+Undtagelser, enhver uberygtel Mand, som har Indfødsret, naar han<lb />
+har fyldt sit 25de Aar.<lb />
+<law n="1083" >§ 37.<lb /></law>
+Antallet af Folkthingets Medlemmer skal omtrent være efter<lb />
+Forholdet af 1 til 14000 Indvaanere. Valgene foregaae i Valgkredse, hvis Omfang bestemmes ved Valgloven. Enhver Valgkreds<lb />
+vælger Een blandt dem, der have stillet sig til Valg.<lb />
+<law n="1083" >§ 38.<lb /></law>
+Medlemmerne af Folkethinget vælges paa 3 Aar. De erholde<lb />
+et dagligt Vederlag.<lb />
+<law n="1083" >§ 39.<lb /></law>
+Valgret til Landsthinget har Enhver, der ifølge § 35 har<lb />
+Valgret til Folkethinget. De Valgberettigede vælge af deres Midte<lb />
+Valgmænd efter de Bestemmelser, som gives i Valgloven.<lb />
+<law n="1083" >§ 40.<lb /></law>
+Valgbar til Landsthinget er enhver uberygtet Mand, som har<lb />
+Indfødsret, og hvis Bo ei er under Opbuds- eller Fallitbehandling,<lb />
+naar han fyldt sit 40de Aar og i det sidste Aar enten har<lb />
+svaret i directe Skat til Staten eller Communen 200 Rbd., eller<lb />
+godtgjør at have havt en reen aarlig Indtægt af 1200 Rbd.<lb />
+</p>
+<p>
+I de Valgkredse, hvor Antallet af Valgbare efter denne Regel<lb />
+ikke naaer det Forhold til Befolkingen, som fastsættes i Valglloven, forøges Antallet af de Valgbare med de høiest Beskttede i<lb />
+Valgkredsen, indtil dette Forhold er naaet.<lb />
+<law n="1083" >§ 41.<lb /></law>
+Valgene til Landsthinget foregaae i store Valgkedse, der ordnes<lb />
+ved Valgloven. Valgmændene i hver saadan større Valgkreds træde<lb />
+sammen og stemme paa saamange Mænd, som skulle vælges for Valgkedsen, i hvilkn idetmindste tre Fjerdedele af de Valgte skulle have<lb />
+havt fast Bopæl i det sidste Aar før Valget. Til et gyldigt Valg<lb />
+udfordres meer end Halvdelen af de afgivne Stemmer.<lb />
+<law n="1083" >§ 42.<lb /></law>
+Antallet af Landsthingets Medlemmer skal stedse være omtrent<lb />
+Halvdelen af Antallet af Folkethingets Medlemmer.<lb />
+<law n="1083" >§ 43.<lb /></law>
+Medlemmerne af Landsthinget vælges paa 8 Aar. Halvdelen<lb />
+afgaaer hvert 4de Aar. De erholde samme daglige Vederlag som<lb />
+Folkethingets Medlemmer.<lb />
+<law n="1083" >§ 44.<lb /></law>
+Naar en ny Communallov er given, kunne Landsthingsvalgene<lb />
+</p>
+</rightside>
+
+
+</pb>

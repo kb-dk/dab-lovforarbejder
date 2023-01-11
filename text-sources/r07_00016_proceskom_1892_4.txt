@@ -1,0 +1,72 @@
+3241
+<pb n="16" />
+<h>
+<coll>3241</coll>
+<topmidle>Tillæg A. (204).	Ordentlig Samling 1901.</topmidle>
+<colr>3242</colr>
+<topmidle>
+Kommissienens Sekretærs Oversigt over Retsreformen.
+</topmidle>
+</h>
+<p>
+mindst en Gang hver 3die Maaned holde Ret i en Række af Justitsministeren fast-<lb />
+satte Steder inden for Landsretskredsen. I December, Januar og Februar afholdes<lb />
+dog intet Ting paa Bornholm. Landsoverretterne i Kjøbenhavn og Viborg bortfalde.<lb />
+Antallet af de til Paakendelse af den enkelte Landsretssag nødvendige retskyndige<lb />
+Dommere er mindst 3. Naar Ting holdes uden for Rettens egentlige Sæde, kan en<lb />
+Underretsdommer træde i Stedet for en af Landsdommerne. Indtil 3 af Dommerne i<lb />
+hver Landsret gives der særlig Beskikkelse som Afdelingsformænd under Straffesagers<lb />
+Behandling; de ville som saadanne komme til at præsidere i Nævningeretterne.
+</p>
+<p>
+Underretterne bestaar af Kjøbenhavns Stadsret samt By- og Herredsretter.<lb />
+Kjøbenhavns Stadsret beklædes med en Justitiarius og indtil 20 andre Dommere, Af<lb />
+disse beskikkes to til Fogder og to til Skifteforvaltere, medens de øvrige hver for sig<lb />
+behandle og paakende de til deres respektive Afdelinger henviste Sager, borgerlige<lb />
+eller kriminelle. Al Behandling og Paakendelse ved Kjøbenhavns Stadsret sker ved<lb />
+Enkeltdommer. Til Stadsretten hører et særligt Pante- og Brevskriverkontor. Hof-<lb />
+og Stadsretten saavel som Kjøbenhavns Kriminal- og Politiret bortfalder. — By- og<lb />
+Herredsretterne, af hvilke der oprettes en i hver af de 103 Kredse, hvori Landet uden<lb />
+for Kjøbenhavn tænkes delt*), beklædes hver især af en enkelt Dommer, der tillige er<lb />
+Foged, Skifteforvalter, Retsskriver og Notarius. I Kredse med over 35,000 Indbyggere<lb />
+ansættes dog 2 Dommere, af hvilke den ene overtager de Underretsdommeren paa-<lb />
+hvilende Forretninger vedrørende Strafferetsplejen, den anden de øvrige Forretninger.
+</p>
+<p>
+Den Regeringen hidtil tilkommende almindelige Beføjelse til at ordne ekstra-<lb />
+ordinære Retter (Kommissioner) bortfalder.
+</p>
+<p>
+2. Instanserne og de forskellige Retters Virksomhedsomraade. Værneting.
+</p>
+<p>
+Medens efter nugældende Ret enhver Sag af en vis Betydning, der paabegyndes uden<lb />
+for Kjøbenhavn, kan føres gennem 3 Instanser: Underret, Overret og Højesteret, er<lb />
+det Udkastenes Princip, at som Regel enhver Sag kun skal kunne føres gennem to Instanser.<lb />
+Ordningen er derfor i Hovedsagen den, at de større Sager begynde ved Landsret og<lb />
+kunne paaankes til Højesteret, medens de mindre Sager begynde ved Underret og<lb />
+kunne paaankes til Landsret, men ikke videre. Dog kan et Udvalg af Højesteret, be-<lb />
+staaende af denne Rets Justitiarius og 2 af dens Medlemmer, undtagelsesvis tillade,<lb />
+at en ved Underret begyndt og derefter til Landsret paaanket Sag, paaankes videre<lb />
+til Højesteret, naar Sagen skønnes at have almindelig Interesse eller videregaaende<lb />
+betydelige Følger for den paagældende, og for kriminelle Sagers Vedkommende ogsaa,<lb />
+naar anden særlig Grund foreligger.
+</p>
+<p>
+Grænsen mellem Landsretssager og Underretssager er for borgerlige Sagers<lb />
+Vedkommende dragen saaledes, at der til Underret henlægges Sager angaaende private<lb />
+Formuerettigheder eller offentlige Afgifter, naar Sagens Genstand ikke overstiger<lb />
+400 Kr., og fremdeles uden Hensyn til Værdien: Sager angaaende Servituter og parti-<lb />
+elle Brugsrettigheder, Sager efter Veksel eller lignende klart Skyldgrundlag, Skilsmisse-<lb />
+sager, Sager til Mortifikation af Panteobligationer med Pant i fast Ejendom, Pater-
+</p>
+<note rend="foot">
+<p>
+*) Begrænsningen af Underretskredsenes Antal vil dog i det kele blive lidet følelig, da den for<lb />
+største Del tænkes iværksat ved, at Herreder og Birker, der allerede nu have deres Tingsted i<lb />
+en Købstad, slaas sammen med de Købstæder, hvori deres Tingsteder ere.
+</p>
+</note>
+<p>
+Forelagte Lovforslag m. m.	204
+</p>

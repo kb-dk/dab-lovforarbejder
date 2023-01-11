@@ -1,0 +1,54 @@
+3525
+<pb n="81" />
+<h>
+<coll>3525</coll>
+<topmidle>Tilla-g A. (166),          Ordentl. Samling 1880.<lb />
+Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3526</colr>
+</h>
+<p>kommende Part enten er medeier af dem eller Iøvrigt paa Grund af Retsforholdets Bestaf«<lb />
+fenhed har en af Processen uafhængig Ret til at benytte dem som Bevis for sine Rettigheder.<lb />
+Men selv hvor dette ikke er Tilfældet, flal Trediemand være pligtig at bidrage til<lb />
+Sagens Oplysning ved at give Retten og Parterne Adgang til Benyttelse eller Vesigtelse<lb />
+af Dokumenter, der ere hans Raadighed undergivne, men dog kun, forsaauidt Dokumenternes<lb />
+Fremforelse ikke vilde kunne skade ham selv eller paadrage ham Udgifter eller betydelig Ulej-<lb />
+lighed.</p>
+<wtitle>§ 243.</wtitle>
+<p>Den Part, der vil benytte et under Trediemands Raadighed værende Dokument som Bevis har i<lb />
+Reglen i det i § 180 omtalte Retsmode at fremsætte Begjæring om, at det<lb />
+maa paalægges Trediemand paa Partens egen Bekostning under Bevisforhandlingen at frem-<lb />
+lægge Dokumentet efter 3 Dage forudgaaet meddelelse til Parterne Saadan Vegjæring maa<lb />
+indeholde en noiagtig Opgivelse af de Fakta, der red Dokumentet skulde bevises, samt nær-<lb />
+mere Forklaring angaaende de Grunde, hvorfor Parten antager, at den opgivne Trediemand<lb />
+er i Besiddelse af Dokumentet og pligtig at fremlægge det.</p>
+<p>Retten kan derefter ved Kjendelse paalægge Trediemand at fremkomme med Doku-<lb />
+mentet uden Henfyn til, om han bor i Retskredsen eller ikke. Vedkommende Part har at<lb />
+drage Omsorg for denne Kjendelses ufortovede Forkyndelse for Trediemand; Forssmmelse her-<lb />
+med anfes som Frafaldelse af Begjærmgen om Dokumentets Fremførelse. Trediemand kan<lb />
+enten møde eller lade møde eller i behorig Tid oversende det forlangte Dokument til Rettens<lb />
+Formand, som derefter besørger det meddelt Modparten og fremlagt.</p>
+<p>Under Bevisforhandlingen maa enten Dokumentet efter behørig forudgaaet meddelelse<lb />
+fremlægges eller de Indsigelser fremsættes, vedkommende Trediemand tror at kunne gjore.<lb />
+Disse forhandles og paakjendes efter de om Vidner givne Regler i §§ 215 og 216, ligesom<lb />
+de paa samme Maade ere Gjenstand for Besværing til hoiere Ret.</p>
+<p>Imod den Trediemand, der ubeføiet udebliver eller undlader at efterkomme Rettens<lb />
+Paalæg, anvendes de for Vidner foreskrevne Tvangsmidler, jfr. §§ 218—219.</p>
+<p>med Bevisforhandlmgens Udslettelse i Anledning af Trediemands Indsigelser eller<lb />
+Vcegring forholdes efter Neglerne i § 187, jfr § 217.</p>
+<wtitle>§ 244.</wtitle>
+<p>Om offentlige Dokumenter afgive fuldt Bevis for det, som efter deres Indhold skal<lb />
+have fundet Sted, afgjores efter de hidtil gjældende Regler.<lb />
+Modbevis er ikke udelukket.</p>
+<wtitle>§ 245.</wtitle>
+<p>Bekrceftede Gjenparter af offentlige Dokumenter have famme Beviskraft med Hensyn<lb />
+til Indholdet som Originalen, naar Bekrceftelsen tilfredsstiller Fordringerne til et offentligt<lb />
+Dokument.</p>
+<wtitle>§ 246.</wtitle>
+<p>Privatdokumenters Beviskraft bedømmes efter de hidtil gjældende Regler, forsaavidt<lb />
+denne Lov ikke bestemmer anderledes.</p>
+<wtitle>§ 247.</wtitle>
+<p>Hvorvidt et Dokuments Beviskraft svcrkkes eller ophceves ved Makulering, Ssnderriv-<lb />
+ning. Udstregning og desl., afgjores ved Rettens skjøn.</p>
+<p>Ligeledes afgjor Retten efter sit skjøn, hvilken Betydning der skal Tillægges Mangler<lb />
+eller Uregelmæssigheder ved dets Udstedelse.</p>
+<p>Forelagte Lovforslag m. m.            166</p>

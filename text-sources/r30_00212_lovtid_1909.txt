@@ -1,0 +1,63 @@
+476
+<pb n="212" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>476</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+som Sagen udkræver, gør det uhensigtsmæssigt, berammer Dommeren, for så vidt han<lb/>
+ikke finder, at Sagen straks må afvises (§ 824), ufortøvet Tid og Sted til Sagens<lb/>
+Foretagelse; i andre Tilfælde foregår Berammelsen, så snart ske kan. Hvor Sagen<lb/>
+straks er bleven berammet, kan Stævning forkyndes samtidig med Anklageordren.
+</p>
+<wtitle>§ 907.</wtitle>
+<p>
+Er Tiltalte uden Forsvarer, skal Dommeren, foruden selv at undersøge, hvorvidt Oplysninger bør søges tilvejebragte i Forsvarets Interesse, give Tiltalte Lejlighed<lb/>
+til for ham at fremkomme med sine mulige Begæringer vedrørende Sagens Forberedelse<lb/>
+eller Fremme.
+</p>
+<title>Kapitel 79.</title>
+<undertitle>
+Tiltale og Domsforhandling for Underret henholdsvis So- og Handelsretten
+i offentlige Politisager.
+</undertitle>
+<wtitle>§ 908.</wtitle>
+<p>
+Offentlige Politisager henvises til Behandling ved Retten af Politimesteren (i<lb/>
+København Politidirektøren), se dog § 709. Offentlig Anklager beskikkes ikke.
+</p>
+<wtitle>§ 909.</wtitle>
+<p>
+Antager Politimesteren, at Forseelsen ikke egner sig til højere Straf end en<lb/>
+Bøde af ikke over 40 Kroner, kan han, i Stedet for straks at henvise Sagen til<lb/>
+Retten, lade en Tilsigelse forkynde for Sigtede med en af ham given Påtegning om.<lb/>
+at Sigtede, såfremt han vedgår at have gjort sig skyldig i den Forseelse, hvorfor<lb/>
+han sigtes, og ønsker sådan Afgørelse, kan erklære sig rede til, uden retslig Forfølgning, indenfor en nærmere angiven Frist, der efter Omstændighederne af Politimesteren efter Begæring kan forlænges, at erlægge den af Politimesteren for dette<lb/>
+Tilfælde angivne Bøde. Sådan Erklæring afgives enten ved Tilsigelsens Forkyndelse til den, som iværksætter denne, i hvilket Fald derom gøres Bemærkning<lb/>
+på Tilsigelsen, eller inden en Uge ved Meddelelse på Politikontoret. På<lb/>
+dette føres en særegen Bog, hvori de i Medfør af det ovenanførte udfærdigede Tilsigelser og de i Anledning af dem afgivne Erklæringer indføres.
+</p>
+<p>
+Erlægges den vedtagne Bøde i rette Tid, eller afsones den, bortfalder videre<lb/>
+Forfølgning, og sådan Afgørelse har da i Tilfælde af Forseelsens Gentagelse lige<lb/>
+Virkning med en Dom.
+</p>
+<p>
+Går Sigtedes Erklæring ud på, at han ikke vil afgøre Sagen på den anførte Måde, eller hvis han overhovedet ikke afgiver nogen Erklæring, bliver Sagen at<lb/>
+henvise til Retten ligesom Sager, hvori Politimesteren ikke finder Grund til Anvendelse af denne Paragraf.
+</p>
+<wtitle>§ 910.</wtitle>
+<p>
+Når Sagen er henvist til eller indbragt for Retten, berammer Dommeren,<lb/>
+for så vidt han ikke finder, at den straks må afvises (§ 824, jvf. § 968 og § 904),<lb/>
+snarest muligt Tid og Sted for Sagens Foretagelse og lader Tiltalte tilsige med<lb/>
+mindst Aftens Varsel. Tilsigelsen affattes i Overensstemmelse med Bestemmelserne i<lb/>
+§ 747, Stykke 2, og skal særlig indeholde Bemærkning om, at Udeblivelse uden oplyst<lb/>
+lovligt Forfald kan bevirke, at Tiltalte anses at vedgå Forseelsen, eller efter Omstændighederne, at han vil blive anholdt.
+</p>
+<wtitle>§ 911.</wtitle>
+<p>
+Udebliver Tiltalte uden oplyst lovligt Forfald, eller nægter han at afgive Forklaring, kan Retten, når der ikke under Sagen er Spørgsmål om højere Straf end
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

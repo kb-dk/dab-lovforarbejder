@@ -1,0 +1,57 @@
+21
+<pb n="21" />
+<leftside>
+<pagename>19
+</pagename>
+<p>Stemmelighed Lodtrækning gør Udslaget —<lb />
+udvælge aarlig blandt de Personer, der ere<lb />
+opførte paa Folketingsvalglisten og opfylde de<lb />
+øvrige i §§ 46 og 47 forefkrevne Betingelser,<lb />
+mænd, der anses for særlig egnede og værdige<lb />
+til Nævningehvervet, nemlig i Kjøbenhavn<lb />
+1200 og 200 Suppleanter, paa Landet i hver<lb />
+Sogneraadskreds 5 (paa Bornholm dog 6)<lb />
+og, 2 Suppleanter, og i Købstæderne samt<lb />
+i Handelspladserne 1 for hvert fulde<lb />
+Antal af 250 Indbyggere og 1 Suppleant<lb />
+for hvert fulde Antal af 500 Indbyggere.
+</p>
+<p>De Landdistrikter, som med Hensyn til	X
+</p>
+<p>Fattig- eller Skolevæsen have kommunal Bestyrelse fælles med en Købstad (Lov om<lb />
+Landkommunernes Styrelse af 6. Juli 1867<lb />
+§ 4, Lov om Købstadkommunernes Styrelse<lb />
+af 26. Maj 1868 § 15), henregnes i den her<lb />
+omtalte Henseende til Købstaden.
+</p>
+<wtitle>§ 51.
+</wtitle>
+<p>Fortegnelse over de ifølge § 50<lb />
+valgte mænd (Grundlisten) skal fremlægges<lb />
+til almindeligt Eftersyn i Overensstemmelse<lb />
+med de i Lov 12. Juli 1867 § 12 for Valglisterne til Folketinget foreskrevne Negler.
+</p>
+<p>Indsigelser mod Listen eller Begæringer<lb />
+om Fritagelse for Nævningehvervet skulle<lb />
+fremsættes skriftlig for Kommunalbestyrelsen<lb />
+under Angivelse af Grunden, hvorpaa de<lb />
+støttes, inden 3 Dage fra Udløbet af den<lb />
+Tid, i hvilken Listen ligger fremme.
+</p>
+<p>Indsigelse kan fremsattes af Enhver,<lb />
+som anser sig uden føje optagen paa Listen,<lb />
+eller som efter § 48 mener at have Krav<lb />
+paa Fritagelse, saavelsom af enhver til Folketinget valgbar Beboer af Kommunen, som<lb />
+formener, at Nogen uberettiget er optagen<lb />
+paa Listen.
+</p>
+<p>De fremkomne Indsigelser paakendes af<lb />
+Kommunalbestyrelsen, i Kjøbenhavn af det i<lb />
+§ 50 nævnte Udvalg, under Iagttagelse af<lb />
+de i Lov om Valgene til Rigsdagen af 12.<lb />
+Juli 1867 § 14 foreskrevne Regler. Kendelsen kan af den, hvem den gaar imod,<lb />
+indankes til Udvalget for Aarslistens Dannelse. Meddelelse om, at Anke vil finde<lb />
+Sted, skal inden 3 Dage efter Kendelsens<lb />
+Afsigelse gøres til Kommunalbestyrelsen.
+</p>
+</leftside>

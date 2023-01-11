@@ -1,0 +1,71 @@
+4059
+<pb n="210"/>
+<h>
+<coll>4059</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>4060</colr>
+</h>
+<wtitle>§ 914.</wtitle>
+<p>
+Højesteret kan straks, efter Begæring eller i Embeds Medfør, ved Kendelse<lb />
+afvise Anken, naar det findes, at de foreskrevne Frister og Former ikke ere iagttagne,<lb />
+eller at den ankende mangler Beføjelse til at anke, eller at den paaberaabte Anke-<lb />
+grund klarligen ikke kan føre til Dommens Ophævelse. Saadan Afgørelse kan træffes<lb />
+af et Udvalg, bestaaende af tre af Højesterets Medlemmer, i et ikke offentligt Rets-<lb />
+møde, efter at der. saa vidt dertil findes Anledning, er givet Parterne Lejlighed til at<lb />
+ytre sig mundtlig eller skriftlig.
+</p>
+<wtitle>§ 915.</wtitle>
+<p>
+Findes ikke Grund til straks at afvise Anken, beskikker Højesterets Justitiarius<lb />
+blandt de af Justitsministeren efter Overenskomst hertil antagne Højesteretssagførere<lb />
+en offentlig Anklager i Sagen, jfr. § 698, samt Forsvarer for Tiltalte, for saa vidt denne<lb />
+ikke selv har valgt en saadan, og foranstalter Sagens Aktstykker oversendte til An-<lb />
+klageren eller Forsvareren, eftersom hin eller denne først skal have Ordet (jfr. § 918),<lb />
+med Paalæg om inden en fastsat Frist — der af Justitiarius kan forlænges — at til-<lb />
+stille Modparten samme og anmelde Sagen til Foretagelse.
+</p>
+<p>
+Andre Beslutninger end de i § 914 nævnte, som blive at tage af Højesteret<lb />
+inden Domsforhandlingen, kunne træffes af det i § 914 ommeldte Udvalg eller af<lb />
+Højesterets Justitiarius. De Retsmøder, som afholdes inden Domsforhandlingen, ere<lb />
+ikke offentlige. Begæringer til Retten, som ikke fremsættes mundtlig i et Retsmøde,<lb />
+stiles skriftlig til Retten.
+</p>
+<wtitle>§ 916.</wtitle>
+<p>
+Ny Beviser kunne forelægges Højesteret angaaende saadanne Omstændigheder,<lb />
+som i den paagældende Sag ere undergivne denne Rets Bedømmelse. Skulle saadanne<lb />
+Beviser tilvejebringes, paahviler det henholdsvis Anklageren eller Forsvareren efter<lb />
+forudgaaende Meddelelse til den anden Side at foretage de hertil fornødne Skridt.<lb />
+Er der Uenighed om, hvor vidt eller paa hvilken Maade nogen Oplysning skal til-<lb />
+vejebringes, eller vil dens Tilvejebringelse gøre Udsættelse af Sagen nødvendig, bliver<lb />
+Rettens Beslutning at indhente. Beslutter Retten af egen Drift, at ny Oplysninger<lb />
+skulle tilvejebringes, giver den herom fornødent Paalæg til Anklageren.
+</p>
+<p>
+Skulle Vidner afhøres, kan Højesteret, naar saadant findes nødvendigt til<lb />
+Sagens fuldstændige Oplysning, bestemme, at deres Afhørelse skal ske for Højesteret<lb />
+jfr. §§ 149 og 150. Ellers sker Afhørelse af Vidner ved vedkommende Undersøgel-<lb />
+sesret overensstemmende med Reglerne i Kapitel 71.
+</p>
+<p>
+Højesteret kan ligeledes, saafremt det findes nødvendigt til Sagens fuldstæn-<lb />
+dige Oplysning, bestemme, at Vidner og Syns- eller Skønsmænd, der have været af-<lb />
+hørte tidligere, indkaldes til personlig Afhøring under Domsforhandlingen for Højesteret.
+</p>
+<p>
+Naar dertil findes Anledning, kan Højesteret forlange Erklæring af Lands-<lb />
+retten til yderligere Oplysning om. hvad der er foregaaet under Domsforhandlingen<lb />
+for samme.
+</p>
+<wtitle>§ 917.</wtitle>
+<p>
+Er Tiltalte ikke fængslet, har han Ret til at deltage i Retsmødet; er han<lb />
+fængslet, bliver han kun, naar han har fremsat Begæring derom, og Højesterets<lb />
+Justitiarius finder, at særlige Grunde tale for at tage denne til Følge, at foranstalte<lb />
+henbragt til Mødet.
+</p>
+<p>
+Tiltaltes Udeblivelse hindrer ikke Sagens Fremme, naar en Forsvarer er mødt.
+</p>

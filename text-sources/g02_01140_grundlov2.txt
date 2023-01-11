@@ -1,0 +1,60 @@
+3753
+<pb n="1140" >
+<p rend="page">1140</p>
+<h>
+<coll>3753</coll>
+<colr>3754</colr><lb />
+</h>
+<p>
+Det saaledes forandrede og vedtagne Regulativ saalydende:<lb />
+</p>
+<maintitle>
+Regulativ for Kongerigets Inddeling i Valgkredse.<lb />
+</maintitle>
+<placename>
+A. Kjøbenhavn.<lb />
+</placename>
+<table>
+Beboernes Antal.<lb />
+1.	Valgkreds	Vester-Qvarteer, Udenbyes Vester-Qvarteer og Snarens-Qvarteer, med Undtagelse af Matr, Nr. 1 til 37 incl.	13,600<lb />
+2. —	Af Snarens-Qvarteer fra Matr. Nr. 1 til 37 inclusive, Strand-Qvarteer, Øster-Qvarteer, samt af Kjøbmager-Qvarteer Matr. 49 til 78 invlusive og af Frimands-Qvarteer Matr. Nr. 1 til 25 inclusive. .	13,316<lb />
+3. —	Nørre-Qvarteer og Klædebo-Qvarteer	14,351<lb />
+4. —	Kjøbmager-Qvarteer med Undtagelse af Matr. Nr. 49 til 78 inclustve og Frimands-Qvarteer med Undtagelse<lb />
+af Matr. 1 til 25 inclusive	13,822<lb />
+5. —	Rosenborg-Qvarteer med Udenbyes Klædebo-Qvarteer	13,631<lb />
+6. —	St. Anna Øster-Qvarteer og af St. Anna Vester-Qvarteer Matr. Nr. 31 til 72 inclusive	13,583<lb />
+7. —	St. Anna Vester-Qvarteer fra Nr. 1 til 408 med Undtagelse af Matr. Nr. 31 til 72 inclusive	14,202<lb />
+8. —	Resten af St. Anna Vester-Qvarteer og Nyboder	15,571<lb />
+9. —	Christianshavn med Amagerbro	14,363<lb />
+</table>
+<placename>
+B. Amterne.<lb />
+</placename>
+<table>
+Amt.	Valgkredsenei bvert Amt.	Valgkredsencs Sammensætning.	Beboernes Antal i hver Valgkreds	Mødestedet.<lb />
+I. Kjøbenhavns	1.	Magleby, Taarnby, Frederiksberg og Hvido ure, Rødovre og Brøndshøi, Glostrup, Brøndbyøster og Brøndhyvester.	14,759	Frederiksberg<lb />
+	2.	Gladsare og Herløv, Gjentofte, Lyngby, Søllerød, Kirkeværløse, Ballerup og Maaløv.	14,293	Lyngby.<lb />
+	3.	Roeskilde Kjøbstad, Frue Sogn, St. Jørgensbjerg og Bidstrupgaard, Himmeløv, Lidø og Smørum, Sengeløse. Vallensbæk, Høie-Tostrup, Herstedøster og Herstedvester, Jyllinge og<lb />
+Gunsømagle, Hvedstrup og Flyng, Aagerup og Kirkerup.	14,796	Roeskilde Kjøbstad.<lb />
+	4.	Kjøge kjøbstad og gamle Kjøge, Ølsømagle, Høielse, Eiby og<lb />
+Dalby, Borup og Kimmersløv, Ørsted og Daastrup, Ereve<lb />
+og kildebrønde, Snoldeløv og Thune, Carlslunde og Carlsstrup, Haudrup og Sollerød, Reersløv og Vindinge, Jerste<lb />
+og Kirkeskjensved, Thorslunde og Ishøi.	13,868	Kjøge Kjøbstad.<lb />
+	5.	Kornerup og Svogerslev, Herslev og Gjevninge, Kirkesaaby<lb />
+Kiserup, Ousted og Allersløv, Sæby og Gjerdshøi, Kirkehvalsø og Særløse, Kirkehyllinge og Lyndby, Rye og Sonnerup, Roerup og Glim, Gadstrup og Syv.	11,567	Blæsenborg Kro.<lb />
+II. Frederiksborg.	1.	Helsingør Kjøbstad, Tikjøb, Hornbek og Hellebek.	14,303	Helsingør Kjøbstad.<lb />
+	2.	Fredensborg. Asminderød og Grønholt, Søborg og Gilleleie,<lb />
+Græsted og Maarum, Esbønderup og Nøddebo, Karlebo,<lb />
+Hirschholm	14,673	Fredensborg.<lb />
+	3.	Hillerød Kjøbstad, Slotssognet og Herløv, Gandløse og Slagslunde, lynge og Uggeløse, Bloustrød og Lillerød, Birkerød,<lb />
+Tjæreby og Alsynderup, Farum.	15,080	Hillerød Kjøbstad.<lb />
+	4.	Helstnge og Baldby, Beiby og Tibirke, Ramløse og Annisse,<lb />
+Blidstrup, Thvrup, Melby kregome og Binderød, Lille<lb />
+lyngby og Ølsted, Skjævinge og Gjørløse, Strø.	14,351	Frederiksværk.<lb />
+	5.	Frederikssund, Ude- og Oppesundby, Slangerup og Uvelse,<lb />
+Hjørlunde, Græse og Sigersløv, Snodstrup, Ølstykke, Steenløse og Berø, Skuldeløv og Selsø, Fersløv og Vellerup,<lb />
+Skibby, Kyndby og Krogstrup, Gjerløv og Draaby, Ourø.	15,692	Frederikssund<lb />
+</table>
+
+
+</pb>

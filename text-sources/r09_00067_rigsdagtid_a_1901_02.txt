@@ -1,0 +1,71 @@
+2281
+<pb n="67" />
+<h>
+<coll>2281</coll>
+<topmidle>Tillæg A. (144).	Ordentlig Samling 1901.</topmidle>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2282</colr>
+</h>
+<wtitle>§ 323.</wtitle>
+<p>
+De oven for givne Regler om Fremgangsmaaden ved Mortifikationsdoms Er-<lb/>
+hvervelse komme med de af Forholdets Natur flydende Lempelser til Anvendelse, naar<lb/>
+nogen vil søge Ejendomsdom efter foregaaende offentlig Indkaldelse.
+</p>
+<p>
+Det har sit Forblivende ved den gældende Rets Regler om Adgangen til at<lb/>
+søge saadan Ejendomsdom saavel som om Retsvirkningerne af den.
+</p>
+<title>Fjerde Afsnit.</title>
+<title>
+Eksekution og Tvangsauktion.
+</title>
+<title>Kapitel XXIX.</title>
+<undertitle>
+Almindelige Betingelser for Eksekution.
+</undertitle>
+<wtitle>§ 324.</wtitle>
+<p>
+Eksekution kan ske paa Grundlag af:
+</p>
+<p>
+1)	Domme og Kendelser, afsagte af Domstole eller af andre Myndigheder, der efter<lb/>
+Lovene ere beføjede til at afsige eksigible Kendelser.
+</p>
+<p>
+2)	Forlig, indgaaede for Forligskommissioner, Retter eller Overøvrigheder, for de<lb/>
+sidstnævntes Vedkommende dog kun i saadanne Sager, hvor det ved Lovgivningen<lb/>
+er paalagt dem at mægle Forlig, saavel som for Landvæsenskommissioner og<lb/>
+andre Myndigheder, om hvilke Lovene bestemme, at de for dem afsluttede Forlig<lb/>
+skulle kunne eksekveres.
+</p>
+<p>
+3)	Tinglæste Pantebreve, hvorved der for en bestemt angiven Pengesum gives Pant<lb/>
+i fast Ejendom, naar de ere oprettede eller Vedkendte for Notarius publicus eller<lb/>
+for to Vitterlighedsvidner; Udlæget, som kan ske ikke blot for Kapitalen eller<lb/>
+Afdrag paa samme, men ogsaa særskilt for Renter, kan dog ikke udstrækkes til<lb/>
+andet end Pantet.
+</p>
+<p>
+4)	Bodmeribreve efter Reglerne i Sølov 1ste April 1892 § 185.
+</p>
+<p>
+5)	Forlig, indgaaede for, og Domme, afsagte af danske Konsuler i de i Lov om<lb/>
+danske Konsulers Doms- og Øvrighedsmyndighed m. m. af 15de Februar 1895<lb/>
+nævnte Tilfælde.
+</p>
+<p>
+Udpantning samt Udsættelses- og Indsættelsesforretninger uden foregaaende<lb/>
+Lovmaal og Dom kunne finde Sted under de i femte Afsnit angivne Betingelser.
+</p>
+<wtitle>§ 325.</wtitle>
+<p>
+I Henhold til Traktat, indgaaet paa Betingelse af Gensidighed, kan der ved<lb/>
+Anordning tillægges Domme og Kendelser, afsagte af udenlandske Retter eller Myn-<lb/>
+digheder, samt udenlandske offentlige Forlig, for saa vidt de bestemme andet end<lb/>
+Straf, Eksekutionskraft her i Riget, naar de ere forsynede med en af de i Anord-<lb/>
+ningen angivne udenlandske Myndigheders Bevidnelse om at være udfærdigede i den<lb/>
+Form, der fordres til Eksekution, samt om at have den Egenskab at give Adgang til<lb/>
+Eksekution efter den udenlandske Lovgivning.
+</p>
+<signatur>Forelagte Lovforslag m. m.	144</signatur>

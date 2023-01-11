@@ -1,0 +1,71 @@
+324
+<pb n="60" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>324</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+Retten har på Embeds Vegne at afvise Personer, der ikke ere berettigede til<lb/>
+for den at give Møde for andre, og at tilbagevise Processkrifter, der ere underskrevne<lb/>
+af andre end Parten og de foran nævnte mødeberettigede Personer.
+</p>
+<wtitle>§ 253.</wtitle>
+<p>
+Det, der i § 250 er bestemt om Rettens Myndighed til at tilbagevise en Parts<lb/>
+Processkrifter eller til at udelukke Parten selv fra den mundtlige Forhandling, skal under<lb/>
+lige Betingelser gælde med Hensyn til Rettergangsfuldmægtige, der ikke ere Sagførere.
+</p>
+<wtitle>§ 254.</wtitle>
+<p>
+En Rettergangsfuldmægtigs Handlinger eller Undladelser ere, for så vidt som<lb/>
+de falde indenfor Bemyndigelsens Grænser, ligeså bindende for Parten, som om de<lb/>
+vare foretagne af denne selv.
+</p>
+<p>
+Dog kunne Tilståelser eller andre Erklæringer om det faktiske i Sagen, som<lb/>
+fremkomme under de mundtlige Forhandlinger, tilbagekaldes eller berigtiges af Parten<lb/>
+selv, når dette sker straks og umiddelbart efter, at Partens Rettergangsfuldmægtig<lb/>
+har talt.
+</p>
+<wtitle>§ 255.</wtitle>
+<p>
+Rettergangsfuldmægtigens Bemyndigelse til at handle for en Part ophæves i<lb/>
+Forhold til Modparten ikke derved, at Parten er død, kommen under Konkurs eller<lb/>
+har mistet sin Myndighed til at råde over Sagen, ej heller derved, at Parten er<lb/>
+bleven myndig til selv at råde over Processen, men kun ved en Tilkendegivelse til<lb/>
+Modparten om Befuldmægtigelsens Ophør.
+</p>
+<wtitle>§ 256.</wtitle>
+<p>
+Retten påser på Embeds Vegne, at den. der møder som Rettergangsfuld-<lb/>
+mægtig for en Part. er befuldmægtiget hertil.
+</p>
+<p>
+Dog afkræves der ikke på Embeds Vegne Sagførere Bevis for, at de ere<lb/>
+befuldmægtigede for Parten, og, når deres Befuldmægtigelse benægtes af Modparten,<lb/>
+kunne de forlange Udsættelse for at tilvejebringe det fornødne Bevis.
+</p>
+<p>
+Andre Rettergangsfuldmægtige end Sagførere må være i Stand til straks for<lb/>
+Retten og Modparten at føre Bevis for Befuldmægtigelsen, da de ellers straks kunne<lb/>
+afvises.
+</p>
+<wtitle>§ 257.</wtitle>
+<p>
+Når en i øvrigt til at møde for en Part berettiget Person erklærer at ville<lb/>
+varetage Partens Sag og forpligte sig til at tilvejebringe dennes Billigelse, og ingen<lb/>
+anden giver Møde for Parten, kan han, når sådant kan ske uden væsentlig Ulempe,<lb/>
+af Retten stedes hertil enten mod eller uden Sikkerhedsstillelse. Den pågældende<lb/>
+har da inden næste Retsmøde eller dog inden en anden af Retten bestemt Frist at<lb/>
+tilvejebringe Partens Godkendelse af hans Handlinger; i modsat Fald afvises han og<lb/>
+har at tilsvare Modparten de ved Retsmøderne foranledigede Omkostninger såvel som<lb/>
+muligt Tab ved Sagens Forhaling.
+</p>
+<wtitle>§ 258.</wtitle>
+<p>
+Om end en Part i øvrigt lader sin Sag udføre ved en Rettergangsfuldmægtig,<lb/>
+er han dog ikke udelukket fra selv at ytre sig under den mundtlige Forhandling,<lb/>
+umiddelbart efter at hans Rettergangsfuldmægtig har talt,
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

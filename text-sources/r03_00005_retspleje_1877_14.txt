@@ -1,0 +1,30 @@
+0
+<pb n="5" />
+<p>Første Underafdeling.</p>
+<p>Om Fuldbyrdelsen af Domme, der ikke lyde på Udredelsen af Penge §§ 451 — 457.</p>
+<p>Anden Underafdeling.</p>
+<p>Om Fuldbyrdelsen af Domme, der lyde på Udredelsen af Penge §§ 458 - 473.</p>
+<p>Kapitel III</p>
+<p>Om Exekutionsforretningens Foretagelse og om Proceduren under samme........'.........    §§ 474 -495.</p>
+<p>Kapitel IV.</p>
+<p>Om Tvangsauktion..............................................................    §§ 496 -548.</p>
+<p>Første Underafdeling.</p>
+<p>Almindelige Bestemmelser..............................  §§ 496-501.</p>
+<p>Anden Underafdeling.</p>
+<p>Om tvungen Auktion over Løsøre...................... §§ 502—517.</p>
+<p>Tredie Underafdeling.</p>
+<p>Om tvungen Auktion over fast Ejendom.................. §§ 518—54!.</p>
+<p>Fjerde Underafdeling.</p>
+<p>Om Proceduren af Tvistigheder, der opstå under Tvangsauktionen §§  542—548,</p>
+<p>Kapitel V.</p>
+<p>Om Retsmidlerne imod de til Dommes  tvungne Fuldbyrdelse henhørende Fogedforretninger...  §§ 543—555,</p>
+<title>Anden Hovedafdeling.</title>
+<p>Om Udpantning samt om Indscettelses- og Udsættelsesforretninger  §§ 556-571.</p>
+<p>I.   Om Udpantning................................................. §§ 556—568.</p>
+<p>II.   Om Indsættelses- og Udsættelsesforretninger......................... §§ 569—571.</p>
+<title>Ottende Afsnit.</title>
+<p>Om de foreløbige Retsmidler.................    §§ 572 -615.</p>
+<p>Kapitel I.</p>
+<p>Arrest..........................................................................     §§ 572-605.</p>
+<p>Kapitel II.</p>
+<p>Forbud.......................................................................      §§ 606-615.</p>

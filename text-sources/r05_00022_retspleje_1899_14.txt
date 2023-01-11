@@ -1,0 +1,36 @@
+16
+<pb n="22" />
+<h>
+<topmidle>16    Kap. VII.    Retsmøder og Retsbøger.</topmidle>
+</h>
+<title>Kapitel VII.</title>
+<undertitle>Retsmøder og Retsbøger.</undertitle>
+<wtitle>§ 54.</wtitle>
+<p>Over de til Retten indkomne Sager<lb />
+føres en Sagliste. For de enkelte Retsdage affattes derhos Retslister, på hvilke de<lb />
+Sager, som skulle komme for, optages. De<lb />
+nærmere Regler for Affattelsen og Bekendtgørelsen af Retslisterne fastsættes af Justitsministeriet.</p>
+<p>Rettens Formand afgør, i hvilken<lb />
+Orden de Sager, der ere ansatte til Forhandling på samme Retsdag, skulle foretages. Sager, som ikke nå at komme til<lb />
+Forhandling, overgå uden videre på Retslisten for næste Retsdag, medmindre Formanden bestemmer anderledes.</p>
+<p>Retten eller dens Formand er bemyndiget til at lade en Sag udgå af Retslisten og overføre den på Retslisten for<lb />
+en af de påfølgende Retsdage, når der<lb />
+er Grund til at antage, at Sagen enten af<lb />
+Hensyn til Rettens Forretninger, Retspersonalet eller andre Årsager, såsom Forhindringer for Sagførere,Parter, Vidner, Synsmænd eller desl., ikke vil kunne forhandles på<lb />
+den oprindelig fastsatte Tid. Oplysninger i<lb />
+denne Henseende kunne både mundtligt og<lb />
+skriftligt meddeles Rettens Formand, såvel<lb />
+under Retsmøder som udenfor disse.</p>
+<p>Når en Sag i Følge denne Paragraf<lb />
+overføres på Retslisten for en følgende<lb />
+Retsdag, lader Rettens Formand, for at<lb />
+forebygge forgæves Møder, alle Vedkommende så hurtigt som muligt underrette<lb />
+derom.</p>
+<wtitle>§ 55.</wtitle>
+<p>Når Hensyn til Retspersonalet eller<lb />
+Rettens øvrige Forretninger kræver det, kan<lb />
+Formanden afbryde begyndte Retsmøder<lb />
+eller afsige eller udsætte berammede Retsmøder, hvorom da Underretning snarest<lb />
+muligt bliver at give alle Vedkommende.</p>
+<p>Når et Retsmøde ophører til fastsat<lb />
+Klokkeslet   eller   i Følge   Rettens  Bestem-</p>

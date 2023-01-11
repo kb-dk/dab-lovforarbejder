@@ -1,0 +1,76 @@
+2181
+<pb n="17" />
+<h>
+<coll>2181</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2182</colr>
+</h>
+<wtitle>§ 85.</wtitle>
+<p>
+Sagsøgte er berettiget til at fremsætte Modfordringer, for saa vidt som disse<lb/>
+enten have fælles Oprindelse med Hovedfordringen eller dog ere ud jævnelige (kompu-<lb/>
+table) med den. Der kan gives selvstændig Dom for Modfordringen.
+</p>
+<p>
+Under Proceduren behandles Modfordringen som en Bestanddel af Sagsøgtes<lb/>
+Forsvar. Den fremsættes og forhandles i Forbindelse med hans Indsigelser paa samme<lb/>
+Maade som disse. Dog kan Retten udøve den samme ved § 94 tillagte Myndighed<lb/>
+ogsaa med Hensyn til Modfordringer.
+</p>
+<wtitle>§ 86.</wtitle>
+<p>
+Retssager forhandles mundtlig. Skrift anvendes kun i det Omfang, i hvilket<lb/>
+Loven særlig bestemmer det.
+</p>
+<p>
+Ved den mundtlige Forhandling benyttes frit Foredrag. Oplæsning tilstedes<lb/>
+kun, for saa vidt Rettens Formand tillader det.
+</p>
+<p>
+Naar Oplæsning skal finde Sted, foregaar den enten ved Parten selv eller ved<lb/>
+Retsskriveren efter Formandens Bestemmelse.
+</p>
+<wtitle>§ 87.</wtitle>
+<p>
+Retssproget er dansk. Afhørelse af Personer, der ikke ere det danske Sprog<lb/>
+mægtige, foregaar ved Hjælp af en edsvoren Tolk; dog kan ved Underret Tilkaldelse<lb/>
+af Tolk undlades, naar Parterne ikke gøre Fordring herpaa, og Retten tiltror sig for-<lb/>
+nødent Kendskab til det fremmede Sprog.
+</p>
+<p>
+Dokumenter, der ere affattede i fremmede Sprog, skulle ledsages af en Over-<lb/>
+sættelse, der, naar Retten eller Modparten forlanger det, skal autoriseres af en offentlig<lb/>
+ansat Translatør.
+</p>
+<p>
+Afhørelse af døve, stumme og døvstumme foregaar enten ved Hjælp af Per-<lb/>
+soner, der ere kyndige i Tegnsproget eller Talemetoden, og som forud tages i Ed,<lb/>
+eller ved skriftlige Spørgsmaal og Svar.
+</p>
+<p>
+Til at bistaa som Tolk eller Tegnsprogkyndig maa ingen tilkaldes, der ifølge<lb/>
+§§ 32 og 34 vilde være udelukket fra at handle som Dommer i Sagen. I øvrigt blive<lb/>
+de om Vidner gældende Regler at anvende paa de nævnte Personer med de Lempelser,<lb/>
+der følge af Forholdets Natur, og for saa vidt ikke noget andet særlig er foreskrevet.
+</p>
+<wtitle>§ 88.</wtitle>
+<p>
+Rettens Formand leder Forhandlingen. Han bestemmer Rækkefølgen af de<lb/>
+enkelte Dele af Forhandlingen, for saavidt Loven ikke indeholder Forskrifter derom.<lb/>
+Ingen maa tage Ordet uden ifølge hans Tilladelse; han kan fratage den Part Ordet,<lb/>
+som ikke vil rette sig efter hans Ledelse. Han drager Omsorg for saa vidt muligt at<lb/>
+fjærne alt, hvad der til Unytte trækker Forhandlingen i Langdrag, og slutter Forhand-<lb/>
+lingens enkelte Dele, naar han anser det foreliggende Emne for tilstrækkeligt behandlet.
+</p>
+<wtitle>§ 89.</wtitle>
+<p>
+Enhver af Parterne er pligtig bestemt og utvetydigt at angive de Kendsgernin-<lb/>
+ger, paa hvilke han støtter sine Paastande, saavel som bestemt og utvetydigt at er-<lb/>
+klære sig over de af Modparten anførte Kendsgerninger og de af denne til ham stillede<lb/>
+Opfordringer.
+</p>
+<p>
+Om en ikke særskilt og udtrykkeligt benægtet Kendsgerning skal anses ind-<lb/>
+rømmet eller bestridt, og hvilken Virkning Undladelse af behørig at besvare en Op-<lb/>
+fordring medfører, afgør Retten efter et Skøn over Forhandlingerne i det hele.
+</p>

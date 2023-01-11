@@ -1,0 +1,49 @@
+3511
+<pb n="74" />
+<h>
+<coll>3511</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3512</colr>
+</h>
+<p>dog kan Vidnesbyrd ikke ncægtes angaaende Retshandler, ved hvilke Vidnet har ladet sig<lb />
+bruge som Vitterlighedsvidne, eller hvor det som Hjemmelsmand, Borgen eller Fuld-<lb />
+mægtig af Henfyn til Parten naturligen maa anfes for pligtig til at give Oplysning<lb />
+om Forholdet.</p>
+<p>3) De i § 207  omhandlede Personer kunne ncægte deres Vidnesbyrd,  dersom Retten ikke<lb />
+paa Embeds Vegne har vcegret sig ved at modtage det.</p>
+<wtitle>§ 209.</wtitle>
+<p>Bom under  15 Aar maa ikke edfcestes.</p>
+<p>Gi heller kan den edfcestes, som er tiltalt for eller funden skyldig i Mened, eller den som<lb />
+ikke kan antages at Tillægge Eden den Betydning, samme efter sit Begreb skal have.</p>
+<p>Gi heller maa edfcestes Personer, som lide af væsentlig Forstands- eller Hukommelses-<lb />
+svcekkelse.</p>
+<p>De i denne Paragraf omhandlede Personer ere undergivne den almindelige Forplig-<lb />
+telse til at møde og forklare uden Ed som Vidner.</p>
+<p>Dog bor Afhorelsen af Afsindige eller andre Personer, som ei ere istand til at af-<lb />
+give en fornuftig Forklaring, ikke tilstedes.</p>
+<wtitle>§ 210.</wtitle>
+<p>I Reglen skal enhver Vidneforklaring brediges. jfr. dog § 212, 1ste Stykke. Af«<lb />
+horelse uden Ed finder kun Sted, naar Vedkommende ikke maa edfcestes (§ 209), eller naar<lb />
+der mangler en for det Trossamfund,  hvortil han horer, anvendelig Edsformular.</p>
+<p>En hoitidelig Forsikkring i Eds Sted og med samme Virkning som denne, tillades<lb />
+kun, hvor særlig Lov hjemler det for visfe Trossamfund.</p>
+<wtitle>§ 211.</wtitle>
+<p>Efterat Vidnet er paaraabt, stiller Rettens Formand de spørgsmaal til det, som ere<lb />
+nødvendige for at forvisse sig om dets Identitet, samt om fornødent, for at afgjore, om<lb />
+der er Noget til Hinder for Vidnesbyrdets Modtagelse eller Vidnets Edfcestelse.</p>
+<wtitle>§ 212.</wtitle>
+<p>Derefter edfcestes Vidnet, medmindre Parterne vedtage, at dets Forklaring skal gjælde<lb />
+uden Ed.</p>
+<p>Den, der uden stjcellig Grund ncægter at gjøre Gd, anses som den, der vcegrer sig<lb />
+ved at svare.</p>
+<p>Ved Edens Aflæggelse lover og sværger Vidnet, at det vil udsige den rene Sandhed<lb />
+og i sine Svar paa spørgsmaalene Intet fordolge, som kan tjene til Sagens Oplysning.<lb />
+Forinden Eden aflægges, skal Nettens Formand indskcerpe Vidnet Edens Hellighed og betyde<lb />
+det Straffen for Mened. Det beror paa Formanden at lade denne Forberedelse af Vidne-<lb />
+afhøringen foregaa enkeltvis for hvert Vidne eller under Et for flere eller samtlige Vidner<lb />
+i Sagen.</p>
+<wtitle>§ 213.</wtitle>
+<p>Efter Edfcestelsen foregaar Vidnets Afhøretse</p>
+<p>Det kan i Henhold til den aflagde Gd udsporges saavel om Sagen selv som an-<lb />
+gaaende alle Omstændigheder, der kunne have Indflydelse paa dets Forpligtelse til at vidne<lb />
+eller paa dets Troværdighed.</p>

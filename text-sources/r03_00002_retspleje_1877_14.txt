@@ -1,0 +1,31 @@
+0
+<pb n="2" />
+<title>Første Afsnit.</title>
+<p>Almindelige Bestemmelser....................    §§ 1-158.</p>
+<p>Kapitel l.</p>
+<p>Om Retternes Virkekreds..........................................................        §§ 1-11.</p>
+<p>Kapitel ll.</p>
+<p>Om Værnething.................................................................      §§ 12-32.</p>
+<p>Kapitel III.</p>
+<p>Om de Tilfælde, hvor Rettens Personer som inhabile skulle eller kunne udelukkes fra eller fritages</p>
+<p>for at handle i Sagen....................................................      §§ 33—40.</p>
+<p>Kapitel IV.</p>
+<p>Om Forening af Søgsmål under samme Retssag.....................................      §§ 41—46.</p>
+<p>Kapitel V.</p>
+<p>Om Sagens Parter..............................................................      §§ 47—56.</p>
+<p>Kapitel VI.</p>
+<p>Om Rettergangsfuldmægtige........................................................      §§ 57-75.</p>
+<p>Kapitel VII.</p>
+<p>Om Retsmøder og Retsbøger......................................................      §§ 76—89.</p>
+<p>Kapitel VIII.</p>
+<p>Om Procesmåden i Almindelighed.............................................      §§ 99—107.</p>
+<p>Kapitel IX.</p>
+<p>Om Forkyndelser og andre processuelle Meddelelser.....................................    §§ 108-124.</p>
+<p>Kapitel X.</p>
+<p>Om Procesomkostninger...........................................................    §§ 125-138.</p>
+<p>Kapitel XI.</p>
+<p>Om Meddelelse af fri Proces......................................................    §§ 139-145.</p>
+<p>Kapitel XII.</p>
+<p>Om Rettergangsbøder.............................................................    §§ 146—153.</p>
+<p>Kapitel Xlll.</p>
+<p>Om den tvungne Forligsprøve......................................................    §§ 154—158.</p>

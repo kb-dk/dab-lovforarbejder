@@ -1,0 +1,69 @@
+346
+<pb n="<span class="result"><span class="result">352</span></span>" />
+<leftside>
+<p>Kjendsgjerninger, eller af Retsgrunde.     Reglerne i Nr. 4   og   5   angå  Afgjørelsen af<lb />
+Strafspørgsmålet.    Den   første af   disse behøver ingen Forklaring;  med Hensyn   til den<lb />
+sidste bemærkes  Følgende.    Medens der   efter<lb />
+den Opfattelse, der mente trods Mundtlighedsprincipet   at kunne bibeholde Påanken   i sin<lb />
+hele   tidligere   Udstrækning,   altså   indbefattende   Bevisspørgsmålet, ingen  Tvivl   kunde<lb />
+være om, at også Strafudmålingen var Gjenstand for Påanke, kan det omtvistes, om ikke<lb />
+Indskrænkningen af Påankens Gjenstand   til<lb />
+Retsspørgsmålene  må   udelukke dette.    Det<lb />
+er nemlig, som tidligere omtalt, urigtigt, med<lb />
+den franske   Theori    om  Kompetenceforholdet<lb />
+mellem  retskyndige   Dommere  og   Nævninger<lb />
+at betragte Strafudmålingen som et blot Retsspørgsmål.   Det er klart, at Udmålingen indeholder både Fastsættelsen af Kjendsgjerninger<lb />
+og disses Henførelse under Loven.   Mod at gjøre<lb />
+Udmålingen til Gjenstand for Påanke taler<lb />
+altså   det  Hensyn;   at den  Ret,   for  hvilken<lb />
+Bevisførelsen er foregået, bedre kjender Gjerningen  og de faktiske Momenter, på   hvilke<lb />
+det ved Udmålingen kommer   an,   end Højesteret,   der   kun  har  Akter  og   Retssager   at<lb />
+øse sin  Kundskab  af.   På  den   anden Side<lb />
+kommer det imidlertid i Betragtning, at  Udelukkelsen af Påanke med Hensyn til Udmålingen medfører  Fare for en i de  forskjellige<lb />
+Retskredse høist  uoverensstemmende Praxis   i<lb />
+Anvendelsen af de Retsgrundsætninger, der bestemme Udmålingen.    Denne Fare   er nu i<lb />
+Særdeleshed af Betydning, når Straffegrænserne ere satte så vide,   som Tilfældet  er   i<lb />
+alle nyere   Straffelove,   og    således også i<lb />
+vor,   jfr. navnlig   Bar  i Gerichtssål XIX,<lb />
+S.  468   o.  ff.    Denne   Betragtning   synes<lb />
+der at måtte tillægges  størst Vægt; Udkastet<lb />
+har  derfor i denne   Henseende fulgt den sachfiske Nævningelov, der har en lignende Regel,<lb />
+rigtignok    kun   til Gunst for    den   Sigtede.<lb />
+Selvfølgeligt   er   det imidlertid,   at Hensynet<lb />
+til den  fyldigere   Kjendskab   til   Gjerningens<lb />
+faktiske Momenter, som Landsretten har havt,<lb />
+vil anbefale Højesteret en vis Tilbageholdenhed<lb />
+på  dette  Punkt,   navnlig  hvor   det   gjælder<lb />
+mindre  betydelige Forskjelligheder.    Hertil har<lb />
+Udkastets    Udtryk    taget    Hensyn   jfr.   Bar</p>
+</leftside>
+<rightside>
+<p>l. e. Det skal endnu bemærkes, at den Betragtning, der skal føre til at udelukke Muligheden af Påanke i Henseende til Strafudmålingen, også må føre til at indskrænke<lb />
+den Beføjelse til at afsige Realitetsdom uden<lb />
+Hjemvisning, som § 393 har hjemlet i Overensstemmelse med Flertallet af de Love, der<lb />
+ikke indskrænke Højesterets Opgave til Kassation (jfr. derimod det nye tyske Udkast § 316.)<lb />
+Enhver Strafudmåling må da medføre<lb />
+Hjemvisning efter Omstændighederne med fuldstændig Gjentagelse af Hovedforhandlingen.</p>
+<p>Den samme Betragtning, der fører til<lb />
+at betinge Prøvelsen af Dommen ved højesteret af, at Parten gjør Krav derpå, begrunder endvidere som almindelig Regel, at Prøvelsens Omfang, når Påanke finder Sted,<lb />
+betinges og begrænses ved den Påankendes<lb />
+Andragender, dels således, at kun de Dele<lb />
+af Dommen, mod hvilke Påanke er rejst,<lb />
+undergives Prøvelse, hvad der har Betydning,<lb />
+når Dommen angår flere strafbare Handlinger, dels således, at kun de Ankegrunde, der<lb />
+ere gjort gjældende, tages i Betragtning, jfr.<lb />
+§ 391 1ste Stykke. I denne sidste Sætning<lb />
+ligger for det Første, at en Påanke af processuelle<lb />
+Hensyn ikke kan føre til Dommens Ophævelse<lb />
+af de i § 377 nævnte Grunde eller omvendt. Men fremdeles må Ankegrunden (den<lb />
+eller de påståede Retskrænkelser) specielt angives og, når Krænkelsen ikke ligger i Dommens Indhold, med fornøden Betegnelse af<lb />
+Kjendsgjerningen, og Højesteret går i Prøvelsen ikke ud over de således angivne Ankegrunde. Denne almindelige Regel fastholder<lb />
+Udkastet dog kun for Statsanklagerens Vedkommende uden Indskrænkning*). Med Hensyn til den Sigtede indrømmes i Lighed<lb />
+med flere fremmede Love (se navnlig württb.<lb />
+Lov §§ 466 og 467) nogle Lempelser, se<lb />
+§ 391, ved hvis Bestemmelse i Nr. 2 jævnføres § 393. I Almindelighed bør en Hjemvisning, hvis Udfald er usikkert, kun finde<lb />
+Sted, når den Sigtede har begjært den,<lb />
+hvorimod uafviselige Retfærdighedshensyn byde</p>
+
+*) En følge heraf er, at Dommen ej kan forandres til den Sigtedes Skade, når han alene har påanket. 
+</rightside>

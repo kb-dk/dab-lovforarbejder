@@ -1,0 +1,86 @@
+2287
+<pb n="192" />
+<h>
+<coll>
+2287
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2288
+</colr>
+</h>
+<p>
+dog er herved ikke udelukket, at forskellige Personer udføre Overanklagerens eller<lb />
+den beskikkede Forsvarers Hverv i Sagen.
+</p>
+<p>
+Udebliver Overanklageren enten ved Domsforhandlingens Begyndelse eller i<lb />
+Løbet af denne, udsættes Sagen. Det samme gælder, naar den beskikkede Forsvarer<lb />
+udebliver, eller naar den valgte Forsvarer ikke møder i Tilfælde, hvor dette vil gøre<lb />
+en Beskikkelse nødvendig, medmindre Omstændighederne maatte gøre det muligt for<lb />
+Formanden at beskikke en Forsvarer, som straks kan udføre Hvervet.
+</p>
+<wtitle>§ 822.</wtitle>
+<p>
+Tiltalte skal, saa vidt Loven ikke hjemler Undtagelse, personlig være til Stede<lb />
+under hele Domsforhandlingen, saa længe han har Adgang til at udtale sig; dog kan<lb />
+Rettens Formand, efter at hans Afhørelse er sluttet, tillade ham at fjerne sig.
+</p>
+<wtitle>§ 823.</wtitle>
+<p>
+Udebliver Tiltalte ved Begyndelsen eller i Løbet af Domsforhandlingen, og kan<lb />
+han ikke straks bringes til Stede, udsættes Sagen.
+</p>
+<p>
+I efternævnte Tilfælde kan dog en Domsforhandling fremmes i Tiltaltes Fra-<lb />
+værelse, saafremt Retten ikke finder hans Nærværelse nødvendig:
+</p>
+<p>
+1.	naar han er undveget, efter at Anklageskriftet er ham forkyndt;
+</p>
+<p>
+2.	naar han, efter at være mødt ved Sagens Paaraab, har forladt Tingstedet uden<lb />
+Rettens Tilladelse;
+</p>
+<p>
+3.	naar det skønnes,
+</p>
+<p>
+a)	at der ikke vil blive Spørgsmaal om højere Straf end Fængsel, og Tiltalte<lb />
+derhos har samtykket i Sagens Fremme, eller
+</p>
+<p>
+b)	at Forhandlingen utvivlsomt vil føre til hans Frifindelse.
+</p>
+<wtitle>§ 824.</wtitle>
+<p>
+Formanden kan beslutte, at Tiltalte skal forlade Retssalen, medens et Vidne<lb />
+eller en Medtiltalt afhøres, naar særegne Grunde tale for. at en uforbeholden Forkla-<lb />
+ring ellers ikke kan opnaas.
+</p>
+<p>
+Er en Tiltalt i Medfør af foranstaaende Bestemmelse aftraadt, skal, naar han<lb />
+atter er indladt i Retssalen, Forklaringen, for saa vidt den angaar ham, gentages,<lb />
+eller i alt Fald dens Indhold meddeles ham.
+</p>
+<wtitle>§ 825.</wtitle>
+<p>
+Naar Tiltalte fjernes fra Retssalen i Henhold til § 140, kan Forhandlingen<lb />
+fortsættes, hvis Formanden ikke finder en Udsættelse nødvendig.
+</p>
+<p>
+Tiltalte bør i saa Fald, saa snart og saa vidt hans Adfærd gør det muligt, atter<lb />
+indføres i Retssalen og gøres bekendt med det under hans Fraværelse forefaldne; saa<lb />
+bør der og, for saa vidt det efter Forhandlingens Standpunkt endnu er muligt, gives<lb />
+ham Adgang til at fremkomme med, hvad han under almindelige Forhold vilde have<lb />
+haft Lejlighed til.
+</p>
+<wtitle>§ 826.</wtitle>
+<p>
+Naar Domsforhandlingen er begyndt, fortsættes den saa vidt muligt uafbrudt,<lb />
+indtil endelig Afgørelse har fundet Sted.
+</p>
+<p>
+Har Forhandlingen været afbrudt, bestemmer Rettens Formand, om og i hvilket<lb />
+Omfang det allerede foretagne skal gentages, naar Sagen atter kommer for.
+</p>

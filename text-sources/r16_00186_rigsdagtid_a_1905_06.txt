@@ -1,0 +1,75 @@
+2275
+<pb n="186" />
+<h>
+<coll>
+2275
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2276
+</colr>
+</h>
+<p>
+Forsvarer, naar der er Grund til at befrygte Modvirken af Undersøgelsen ved Fjernelse<lb />
+af Gerningens Spor, Paavirken af Medsigtede eller Vidner til Afgivelse af urigtig For-<lb />
+klaring eller paa anden lignende Maade, dog at den i ethvert Tilfælde maa tilstedes<lb />
+inden Forundersøgelsens Slutning.
+</p>
+<wtitle>§ 800.</wtitle>
+<p>
+Afhørelse af Sigtede saavel som af Vidner og Syns- og Skønsmænd sker ved<lb />
+Dommeren. Saavel Paatalemyndigheden som, hvor Vidner eller Syns- eller Skønsmænd<lb />
+afhøres, Sigtede og Forsvareren kan begære yderligere Spørgsmaal stillede. Dommeren<lb />
+kan overlade til den paagældende selv at stille disse.
+</p>
+<p>
+Af de Personers Udsagn, som afhøres, skal det væsentlige Indhold gengives i<lb />
+Retsbogen; vigtigere Erklæringer af Sigtede og navnlig Tilstaaelser skulle saa vidt<lb />
+muligt gengives med lians egne Ord; det samme gælder om Vidners og Syns- eller<lb />
+Skønsmænds Forklaringer, som maa ventes at skulle benyttes ved Oplæsning under<lb />
+Domsforhandlingen. Naar Afhørelsen er endt, oplæses og vedtages det Retsbogen<lb />
+tilførte.
+</p>
+<p>
+Efter Oplæsningen ere Paatalemyndigheden, Sigtede og Forsvareren berettigede<lb />
+til at fremføre Bemærkninger med Hensyn til den skete Tilførsel. Saadanne Bemærk-<lb />
+ninger indføres i Korthed i Retsbogen.
+</p>
+<p>
+Afslag paa Begæring om yderligere Spørgsmaal saavel som Afgørelse af Tviste-<lb />
+punkter. der opstaa under Forundersøgelsen, sker ved Kendelse.
+</p>
+<wtitle>§ 801.</wtitle>
+<p>
+Frafaldes Forfølgningen, eller finder Retten, at Lovens Betingelser for dens<lb />
+Virksomhed ikke ere til Stede, standses Forundersøgelsen, og fornøden Underretning<lb />
+meddeles Paatalemyndigheden og Sigtede.
+</p>
+<p>
+Forundersøgelsen sluttes, naar Retten finder, at Undersøgelsen er fremmet saa<lb />
+vidt, som Øjemedet udkræver, saa og naar Paatalemyndigheden begærer det eller op-<lb />
+lyser. at Tiltale er rejst. Udskrift af Sagen tilligemed dennes Aktstykker tilstilles<lb />
+snarest muligt Paatalemyndigheden. Underretning om Slutningen meddeles Sigtede.
+</p>
+<p>
+En sluttet Forundersøgelse kan genoptages efter Begæring af Paatalemyndig-<lb />
+heden eller Sigtede. Indtil Tiltale er rejst, kan Retten ogsaa af egen Drift genoptage<lb />
+Forundersøgelsen for at træffe Bestemmelse om Ophør af Fængsling eller anden ved-<lb />
+varende Foranstaltning.
+</p>
+<wtitle>§ 802.</wtitle>
+<p>
+Overanklagerens Beslutning om Frafald af Forfølgning binder ikke den over-<lb />
+ordnede Myndighed; dog maa Forfølgningens Fortsættelse efter den overordnede<lb />
+Myndiglieds Beslutning finde Sted inden Udløbet af to Maaneder, medmindre Be-<lb />
+tingelserne for Sagens Genoptagelse efter § 942 ere til Stede.
+</p>
+<wtitle>§ 803.</wtitle>
+<p>
+Fremkommer der under Forundersøgelsen Oplysning om Omstændigheder, ifølge<lb />
+hvilke Politimesteren skønner, at der vil blive Spørgsmaal om at undlade Paatale i<lb />
+Medfør af § 702. og som maa antages at være Overanklageren ubekendte, meddeler han<lb />
+ham Underretning herom, ledsaget af fornøden Udskrift af Undersøgelsen. Indtil hans<lb />
+Beslutning inden en af Retten fastsat Frist indtræffer, foretages der kun saadanne<lb />
+Undersøgelseshandlinger, som ikke taale Ophold.
+</p>

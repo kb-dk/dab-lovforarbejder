@@ -1,0 +1,45 @@
+483
+<pb n="278">
+<pagename>278</pagename>
+<h>
+<coll>483</coll>
+<colr>484</colr>
+<lb/>
+</h>
+<leftside>
+<p>
+<speaker>Formanden:</speaker> Jdag er intet Bidere at gjøre end at fastsætte<lb/>
+Dagsordenen for næste Møde, som vil finde Sted på Mandag, og<lb/>
+vil da Værnepligtssagen blive foretaget til foreløbig Behandling.<lb/>
+Med Hensyn til Klokkeslette for Mødet havde jeg tænkt at bestemme<lb/>
+det til Kl. 11, men da der på Mandag er en Høitidelighed, hvor<lb/>
+man vist nødig vil savne adskillige af de Herrer, som her ere tilstede,<lb/>
+vil jeg spørge, om man har Noget imod at ansætte Forhandlingerne<lb/>
+Klokken 9—1; men hvis der reiser sig nogen Stemme derimod, vil<lb/>
+jeg sætte Mødet til Kl. 11.<lb/>
+
+</p>
+</leftside>
+<rightside>
+<p>
+<speaker>Balthazar Christensen:</speaker> Jeg vil tillade mig at bemærke,<lb/>
+at den Høitidelighed, som Formanden sigter til, dog ikke er af nogen<lb/>
+meget almindelig Interesse, og at det dermiod vistnok vil være forbunden med stor Gêne, da Forsamlingens Medlemmer ere vante til<lb/>
+at samles senere her i Huset, på Mandag at komme her et Par<lb/>
+Timer tidligere.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Så skal jeg tillade mig at bestemme Mødet til<lb/>
+Kl. 11.<lb/>
+</p>
+<signature>
+Mødet hævet.<lb/>
+</signature>
+</rightside>
+<underpage>
+Trykt og forlagt af Kgl. Hofbogtrykker Bianco Lnuo.<lb/>
+ 
+</underpage>
+
+
+</pb>

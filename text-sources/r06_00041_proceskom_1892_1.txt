@@ -1,0 +1,48 @@
+41
+<pb n="41" />
+<leftside>
+<pagename>39
+</pagename>
+<wtitle>§108.
+</wtitle>
+<p>Hvad enten Overenskomst om Vederlag<lb />
+er sluttet i Forvejen eller ikke, maa ingen<lb />
+Sagfører kræve højere Betaling, end der<lb />
+skønnes billigt, for den Bistand og Tjeneste,<lb />
+han i saadan Egenskab yder, være sig i<lb />
+Udførelsen af Retssager eller ved Meddelelsen af Raad og Vejledning i andre juridiske Anliggender.
+</p>
+<p>Forøvrigt er det ikke forbudt at betinge<lb />
+sig højere Betaling for det Tilfælde, at<lb />
+Sagen vindes, end for det Tilfælde, at den<lb />
+i det Hele eller for en Del tabes, ligesaalidt som det er forbudt at betinge sig en<lb />
+vis Andel i Sagens Genstand, naar dog det<lb />
+Vederlag, som saaledes tilflyder Sagføreren,<lb />
+ikke i det Hele skønnes at være ubilligt.
+</p>
+<wtitle>§ 109.
+</wtitle>
+<p>Sagførere, som overtræde de i nærværende Lov givne Forskrifter eller iøvrigt<lb />
+forse sig i deres Virksomhed som Sagførere,<lb />
+anses med de i Straffelovens § 144 omhandlede Straffe.
+</p>
+<wtitle>§ 110.
+</wtitle>
+<p>Naar den Straf, som skal paalægges<lb />
+en Sagfører, ikke er højere end Boder, og<lb />
+ingen særlig Bevisførelse udfordres for at<lb />
+oplyse det strafbare Forhold, kan Straffen<lb />
+paalægges under den Sag, med Hensyn til<lb />
+hvilken Forseelsen er begaaet, enten ved en<lb />
+særskilt Kendelse eller ved den endelige Dom.
+</p>
+<title>Kap. XI.
+</title>
+<undertitle>Ophør af Retten til Sagførervirksomhed.
+</undertitle>
+<wtitle>§ 111.
+</wtitle>
+<p>Den Sagfører, som ved Dom findes<lb />
+skyldig i en i den offentlige Mening vanærende Handling, stal ved samme Dom frakendes Retten til at udøve Sagførervirksomhed.
+</p>
+</leftside>

@@ -1,0 +1,66 @@
+497
+<pb n="233" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>497</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 989.</wtitle>
+<p>
+Om Erstatning af Omkostninger træffer Retten Afgørelse ved Dommen eller,<lb/>
+når Sagen endes uden Dom, ved Kendelse.
+</p>
+<p>
+Er Spørgsmålet om Erstatning af Omkostninger ved enkelte Retshandlinger<lb/>
+eller Afsnit i Sagens Behandling uafhængigt af Sagens Udfald, kan der straks derom<lb/>
+træffes Afgørelse ved Kendelse.
+</p>
+<p>
+Trediemand, hvem det pålægges at erstatte Omkostningerne, bør der forinden<lb/>
+være givet Lejlighed til at udtale sig herom, for så vidt ikke særegne Forskrifter ere<lb/>
+givne, såsom med Hensyn til udeblevne Vidner.
+</p>
+<wtitle>§ 990.</wtitle>
+<p>
+Når en Dom er påanket, prøver den overordnede Ret Omkostningsspørgsmålet, for så vidt dettes Afgørelse afhænger af Ankens Udfald, eller det særlig er<lb/>
+inddraget under Anken. En tilsvarende Regel gælder, når Kæremål rejses mod en<lb/>
+Kendelse, der har pålagt Erstatning af Omkostninger i Forbindelse med Straf eller<lb/>
+lignende Følger. I andre Tilfælde kan Kæremål rejses mod Rettens Afgørelse af<lb/>
+Omkostningsspørgsmål, når Afgørelsen er uafhængig af Sagens Udfald, og de pålagte Omkostningers Beløb kan antages at ville overstige 40 Kr.
+</p>
+<p>
+Foranstående Regler gælde også med Hensyn til Fastsættelse af Vederlag<lb/>
+til offentlige Anklagere og til beskikkede Forsvarere.
+</p>
+<p>
+Omkostninger, som det er pålagt at erstatte, inddrives efter de i Bogen om den<lb/>
+borgerlige Retspleje foreskrevne Regler.
+</p>
+<wtitle>§ 991.</wtitle>
+<p>
+For saa vidt der i Straffesager bliver Spørgsmaal om Afgifter til Statskassen, kan<lb/>
+fri Proces meddeles overensstemmende med Reglerne i Kapitel 30.
+</p>
+<title>Kapitel 90.</title>
+<undertitle>
+Rettergangsbøder m. m.
+</undertitle>
+<wtitle>§ 992.</wtitle>
+<p>
+Naar en offentlig Anklager eller en Forsvarer eller Rettergangsfuldmægtig for<lb/>
+en privat Sagsøger gør sig skyldig i skødesløs eller forsømmelig Adfærd i Sagen, kan<lb/>
+han ved Dommen eller efter Omstændighederne ved Kendelse anses med en Bøde fra<lb/>
+20 til 400 Kr.
+</p>
+<p>
+For andre Pligtovertrædelser under Sagen kunne de nævnte Personer paa lignende Maade straffes, naar Sagen findes klar, og højere Straf end Bøder ikke findes<lb/>
+at være forskyldt.
+</p>
+<wtitle>§ 993.</wtitle>
+<p>
+Mod Rettens Bestemmelser om Strafs Paalæg ifølge foranstaaende Paragraf<lb/>
+eller §§ 48, 49 og 55 kan Kæremaal rejses; paaankes Dommen, kan Kæremaal behandles<lb/>
+i Forbindelse med Ankesagen efter Rettens Bestemmelse; ogsaa uden saadant Kæremaal kan den overordnede Ret under Ankesagen prøve Ansvarsspørgsmaalet, for saa<lb/>
+vidt dette kan ske paa Grundlag af de Oplysninger, der ere forelagte Retten i Anledning af Anken.
+</p>
+<pat>Nr. 53. Lov af 26. Marts om Rettens Pleje.	65</pat>

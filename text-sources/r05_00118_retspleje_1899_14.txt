@@ -1,0 +1,35 @@
+112
+<pb n="118" />
+<h>
+<topmidle>112     Kap. XXVIII. Mortifikationsdmn.</topmidle>
+</h>
+<p>Møder Nogen og fremsætter Indsigelse<lb />
+mod Mortifikation, bliver Spørgsmålet,<lb />
+om denne kan gives eller ej, at afgøre ved<lb />
+Rettens Dom.</p>
+<wtitle>§ 321.</wtitle>
+<p>Mortifikationsdomme kunne kun påankes,<lb />
+forsåvidt der under Sagen er fremsat Indsigelse mod Mortifikationen eller på Grund<lb />
+af Fejl eller Mangler ved den brugte Fremgangsmåde eller på Grund af, at Tilfældet ikke egner sig til Mortifikation.</p>
+<wtitle>§ 322.</wtitle>
+<p>Det har sit Forblivende ved den gældende Rets Regler om, hvem der kan søge<lb />
+Mortifikation, og hvilke Dokumenter der<lb />
+kunne mortificeres, såvelsom angående<lb />
+Retsvirkningerne af Mortifikation.</p>
+<p>Om Udlevering og Salg af Varer efter<lb />
+Konnossementer m. m. mod Sikkerhedsstillelse har det sit Forblivende ved Sølov<lb />
+1. April 1892 § 167, Lov om Oplagshuse<lb />
+23. Februar 1866 § 9 og Lov om Oplagsbeviser m. m. i Københavns Frihavn 30.<lb />
+Marts 1894 § 15. Ligeledes gælde fremdeles Reglerne i Vexelloven 7. Maj 1880<lb />
+§ 74.</p>
+<p>Bestemmelserne i Frd. 28. Marts 1845<lb />
+§ 17 berøres ikke af denne Lov; Sagen<lb />
+bliver at anlægge ved vedkommende Underret.</p>
+<wtitle>§ 323.</wtitle>
+<p>De ovenfor givne Regler om Fremgangsmåden ved Mortisikationsdoms Erhvervelse<lb />
+komme med de af Forholdets Natur flydende<lb />
+Lempelser til Anvendelse, når Nogen vil<lb />
+søge Ejendomsdom efter foregående offentlig<lb />
+Indkaldelse.</p>
+<p>Det har sit Forblivende ved den gældende<lb />
+Rets Regler om Adgangen til at søge sådan Ejendomsdom såvelsom om Retsvirkningerne af den.</p>

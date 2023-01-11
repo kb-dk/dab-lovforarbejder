@@ -1,0 +1,50 @@
+4097
+<pb n="366" />
+<h>
+<coll>4097</coll>
+<topmidle>Bil. t. Lovs. om Retsafgifter m. m.</topmidle>
+<colr>4098</colr>
+</h>
+<title>Fjerde Afsnit.</title>
+<undertitle>Om Udskrifter og Attester.</undertitle>
+<wtitle>§ 82.</wtitle>
+<p>For simple Udskrifter af Retsprotokoller eller af Skjøde- og Panteprotokoller erlægges 40</p>
+<p>Øre for hvert halve Ark eller Del af samme.</p>
+<p>For Attester til Oplysning om de en fast Eiendom vedrørende Adkomster og Be-<lb />
+hæftelser (Panteatteft) erlægges 3 Kr. for hver Eiendom, der har eget Folio i Registret til<lb />
+Skjøde- og Panteprotokollerne, forsaavidt Attesten ikke udgjør over 3 Ark; for hvert<lb />
+Halvark eller Del af samme, hvormed Attesten overstiger 3 Ark, erlægges 50 Øre.<lb />
+Dog har det sit Forblivende ved Reglerne i Lou angaaende Nedsættelse af Gebyret for<lb />
+Attester af Skjøds og PantebFgerne til Brug for Brandforsikkringsforemnger for urørlige<lb />
+Eiendomme paa Landet og Fritagelse for Brug af stemplet Papir for saadanne Foreninger<lb />
+af 8de Marts 1856, Lov om Brandvæsenet i Kjøbenhavn af 15de Mai 1868 § 44 og Lov om<lb />
+Brandforsikringer af kjøbstadbygninger af 14de Mai 1870 § 6 om Betalingen for de der om-<lb />
+meldte Attester.</p>
+<p>For færskilr Attest af Registrene til Skjøde- og Panteprotokollerne om den en Eiendom paa-<lb />
+hvilende Tiende, forsaavidt Tienden er noteret paa den i Lov om Tiendevederlagets Berigtigelse af<lb />
+22de Januar 1862 § 5 ommeldte Maade, erlægges en Betaling af 25 Øre.</p>
+<p>For andre Udskrifter eller Attester, der kræve Koncipering eller Extrahering erlægges 50<lb />
+Øre for hvert Halvark elier Del af samme.</p>
+<wtitle>§ 83.</wtitle>
+<p>Forsaavidt Udskriften eller Attesten udgjør over 3 Ark, skal der, foruden Betaling efter §<lb />
+82, erlægges Vederlag for Papir, 2 Øre pr. Ark, samt, hvor saadant er forlangt, for Indbinding<lb />
+eller Indhæstning efter Regning.</p>
+<wtitle>§ 84.</wtitle>
+<p>For at attestere en Auktionsregning erlægaes 1/5 af Betalingen for en tilsvarende Udskrift<lb />
+efter § 82, sidste Stykke.</p>
+<wtitle>§ 85.</wtitle>
+<p>I enhver Udskrift eller Attest, for hvilken Betaling erlægges efter § 82, skal der paa hver<lb />
+Side sindes mindst 28 Linier og i hver Linie mindst 32 Bogstaver.</p>
+<wtitle>§ 86.</wtitle>
+<p>Naar en Udskrift eller Attest bestilles,  er Retsskriveren   berettiget  til   at   forlange Forud-<lb />
+etaling af indtil ^/ af, hvad Betalingen skjønnes at ville udgjøre.</p>
+<wtitle>§ 87.</wtitle>
+<p>Betaling efter §§ 82 og 83 erlægges ikke for Udskrifter og Attester, som begjæres af Stats-<lb />
+myndigheder eller maatte behøves i benesicerede Sager.</p>
+<title>Femte Afsnit</title>
+<undertitle>Om Betaling for Forkyndelser og Oplæsning ved Kirkestævne, samt til Vidner ved<lb />
+Retshandlinger, Syns- og skjønsmænd.</undertitle>
+<wtitle>§ 88.</wtitle>
+<p>For Forkyndelse af en Indkaldelse til Forligskommissionen eller for mæglerne i Tyende-<lb />
+saaer betales for hver Person, til hvem Forkyndelsen sker, 40 Øre til lige Deling mellem stæv-<lb />
+ningsmændene.</p>

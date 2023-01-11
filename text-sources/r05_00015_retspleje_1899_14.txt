@@ -1,0 +1,40 @@
+9
+<pb n="15" />
+<h>
+<topmidle>Kap. III.    Forening af Krav.      9</topmidle>
+</h>
+<p>Sag, kan indtæede i Sagen til denne Parts<lb />
+Understøttelse og få Adgang til at ytre<lb />
+sig i Sagen i Overensstemmelse med de<lb />
+nærmere Regler i Kap. XIX.</p>
+<wtitle>§ 30.</wtitle>
+<p>Sagsøgeren kan andrage på at måtte<lb />
+tilstævne (adcitere) Tredjemand for at få Dom<lb />
+over ham enten alternativt eller tilsammen<lb />
+med Sagvolderen. Sådant Andragende<lb />
+kan dog ikke tages til Følge, når det må<lb />
+tilregnes Sagsøgeren som en Forsømmelse,<lb />
+at den pågældende Tredjemand ikke fra<lb />
+Begyndelsen af er bleven inddraget under<lb />
+Søgsmålet. I øvrigt blive de i Kap. XIX.<lb />
+givne Regler at iagttage.</p>
+<wtitle>§ 31.</wtitle>
+<p>Ved Anvendelsen af de i dette Kapitel<lb />
+indeholdte Regler forbeholdes der dog Retten<lb />
+den samme ved § 94 tillagte Myndighed.</p>
+<title>Kapitel IV.</title>
+<undertitle>Tilfælde hvor Rettens Personer skulle eller<lb />
+kunne vige deres Sæde.</undertitle>
+<wtitle>§ 32.</wtitle>
+<p>Ingen Dommer må handle i en  Sag,<lb />
+når han</p>
+<p>1)  selv er Part i Sagen eller er interesseret i dens Udfald;</p>
+<p>2)  er  beslægtet eller besvogret med  nogen<lb />
+af Parterne i op- eller nedstigende Linie<lb />
+eller  i   Sidelinien  så  nær  som Søskendebørn,   eller  er    en  af   Parternes<lb />
+Ægtefælle,   Værge,   Kurator,   Adoptiveller Plejefader, Adoptiv- eller Plejesøn;</p>
+<p>3)  er beslægtet eller  besvogret i op-  eller<lb />
+nedstigende Linie eller beslægtet i Sidelinien   så   nær   som    Søskende   med<lb />
+nogen   i   Sagen  optrædende   Sagfører<lb />
+eller  anden  Rettergangsfuldmægtig  for<lb />
+nogen af Parterne;</p>

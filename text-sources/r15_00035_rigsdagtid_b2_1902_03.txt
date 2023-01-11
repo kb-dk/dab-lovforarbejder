@@ -1,0 +1,188 @@
+2157
+<pb n="35" />
+<p rend="page">35</p>
+<h>
+<coll>2157</coll>
+<colr>2158</colr><lb />
+<topmidle>Bet. o. Lovf. om Rettens Pleje.</topmidle>
+</h>
+<leftside>
+<p>
+Af Flertallet under Nr. 6:<lb />
+</p>
+<stitle>
+Til§ 13.<lb />
+</stitle>
+<p>
+9) I 6te og 7de Linie udgaa Ordene<lb />
+„og Besværing til Retten".<lb />
+</p>
+<stitle>
+Til§ 16.<lb />
+</stitle>
+<p>
+10) Paragraffen affattes saaledes:<lb />
+„Til Underretternes Virkekreds lien-<lb />
+hører fremdeles uden for den egentlige<lb />
+Retspleje:<lb />
+</p>
+<p>
+a. Tinglæsningsvæsenet;<lb />
+</p>
+<p>
+b. formandsskabet i Landvæsenskommis-<lb />
+sioner overensstemmende med Lov af<lb />
+30. December 1858, § 2;<lb />
+</p>
+<p>
+c. de Retsbetjentene ved Lov af 23. Ja-<lb />
+nuar 1862 angaaende Tiendevederlagets<lb />
+Berigtigelse paahvilende Forretninger;<lb />
+</p>
+<p>
+d. Udmeldelse af Syns- og Skønsmænd<lb />
+uden for Retsplejen for saa vidt den<lb />
+ikke kan ske af Øvrigheden;<lb />
+</p>
+<p>
+samt uden for Kjøbenhavns Stadsrets Om-<lb />
+raade:<lb />
+</p>
+<p>
+e. De ved Lov af 26. Maj 1868 om Umyn-<lb />
+diges Midlers Forvaltning, § 7, jfr. Be-<lb />
+kendtgørelse af 11. Maj 1869, og ved<lb />
+samme Lovs § 10 til Skifteretterne hen-<lb />
+lagte Forretninger, for saa vidt Bogen<lb />
+om den borgerlige Retspleje ikke med-<lb />
+fører Forandring heri;<lb />
+</p>
+<p>
+f. Notarialforretninger.<lb />
+</p>
+<p>
+Notarialvæsenets Ordning i Kjøben-<lb />
+havn fastsættes ved særlig Lov.''<lb />
+</p>
+<p>
+Af Udvalget:<lb />
+</p>
+<stitle>
+Til§ 17.<lb />
+</stitle>
+<p>
+11) Stk. 1, Linie 1: „Byting" ændres<lb />
+til: „Byret".<lb />
+</p>
+<p>
+(Samme Ændring paa vedkommende<lb />
+Steder i Loven).<lb />
+</p>
+<p>
+Af Flertallet under Nr. 6:<lb />
+</p>
+<p>
+12) I 1ste Punktum rettes ,.16" til:<lb />
+„20".<lb />
+</p>
+<p>
+13) Efter 1ste Punktum tilføjes som<lb />
+et nyt Punktum: „Af disse ere to Foge-<lb />
+der og to Skifteforvaltere."<lb />
+</p>
+<p>
+Af Udvalget:<lb />
+</p>
+<p>
+14) Sidste Stykke udgaar.<lb />
+</p>
+<p>
+Af Flertallet under Nr. 6:<lb />
+</p>
+<stitle>
+Til§ 18.<lb />
+</stitle>
+<p>
+15) Paragraffen affattes saaledes:<lb />
+„Til Kjøbenhavns Byret hører et Skriver-<lb />
+kontor samt et Pante- og Brevskriverkontor.<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+Skriverkontoret, hvorunder Skriverfor-<lb />
+retningerne ved Byrettens forskellige Af-<lb />
+delinger samt Oppebørsel af og Regn-<lb />
+skabsaflæggelse for Retsafgifter vedrørende<lb />
+Domssager og Skiftevæsnet høre, forestaas<lb />
+af en Justitssekretær; der ansættes indtil<lb />
+21 Fuldmægtige foruden det i øvrigt for-<lb />
+nødne Kontorpersonale. Fogedforretninger<lb />
+og de til Skifteforvaltningen hørende For-<lb />
+retninger kunne, for saa vidt der ikke der-<lb />
+ved bliver Spørgsmaal om Afgørelse af<lb />
+Tvistigheder, efter Dommerens Bestemmelse<lb />
+udføres af en Fuldmægtig eller en anden<lb />
+dertil af Byrettens Justitiarius bemyndi-<lb />
+get Person.<lb />
+</p>
+<p>
+Pante- og Brevskriverkontoret, hvor-<lb />
+under Skøde- og Pantebøgernes Førelse<lb />
+hører, forestaas af en Pante- og Brev-<lb />
+skriver, og der ansættes 4 Fuldmægtige<lb />
+foruden det i øvrigt fornødne Kontorper-<lb />
+sonale. Beslutninger vedkommende Bøger-<lb />
+nes Førelse kunne tages af Pante- og Brev-<lb />
+skriveren eller en Fuldmægtig. Tinglæs-<lb />
+ninger og Aflæsninger foregaa ved de<lb />
+Afdelinger, som behandle borgerlige Doms-<lb />
+sager ; Rettens Justitiarius fastsætter For-<lb />
+delingen med Justitsministerens Billigelse.<lb />
+</p>
+<p>
+Fordelingen af de under Skriver-,<lb />
+Pante- og Brevskriver-Kontorerne hørende<lb />
+Forretninger fastsættes af Byrettens Justi-<lb />
+tiarius efter Forhandling med henholds-<lb />
+vis Justitssekretæren og Pante- og Brev-<lb />
+skriveren.<lb />
+</p>
+<p>
+Oppebørsel af og Regnskabsaflæggelse<lb />
+for Retsafgifter forestaas for Fogedforret-<lb />
+ningernes Vedkommende af Fogderne og<lb />
+for Pante- og Brevskriverforretningernes<lb />
+Vedkommende af Pante- og Brevskriveren."<lb />
+</p>
+<stitle>
+Til§ 20.<lb />
+</stitle>
+<p>
+16) Paragraffen affattes saaledes:<lb />
+</p>
+<p>
+„By- og Herredsretterne bestaa hver<lb />
+af en Dommer, der tillige er Retsskriver.<lb />
+</p>
+<p>
+Som Retsskriver har han at meddele<lb />
+Udskrifter af Retsbøgerne og besørge alle<lb />
+de under Retten hørende Skriverforret-<lb />
+ninger og Udfærdigelser. Han oppebærer<lb />
+de befalede Retsafgifter og aflægger Regn-<lb />
+skab derfor; han forestaar og foretager de<lb />
+Tinglæsning og Aflæsning af Dokumenter<lb />
+vedkommende Forretninger samt fører<lb />
+Skøde- og Pantebøgerne. Endvidere fore-<lb />
+staar han Notarialforretningerne.<lb />
+</p>
+<p>
+I Underretskredse, hvor Folketallet<lb />
+efter sidste Folketælling overstiger 35,000<lb />
+Indbyggere, ansættes en særlig Dommer,<lb />
+til hvilken henlægges de Dommeren og<lb />
+Skriveren ved Underretterne paahvilende<lb />
+Forretninger vedrørende Strafferetsplejen.<lb />
+</p>
+</rightside>

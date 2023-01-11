@@ -1,0 +1,56 @@
+128
+<pb n="131" />
+<leftside>
+<wtitle>§ 18.</wtitle>
+<p>I 10de—12te Linie forandres „ved den<lb />
+.... Fuldmægtige" til „ved den nordsjællandske Landsrets almindelige Skriverkontor 3<lb />
+Fuldmægtige".</p>
+<wtitle>§ 20.</wtitle>
+<p>Paragrafen affattes således:</p>
+<p>Landsretternes særlige Afdelinger sammentræde dels i regelmæssig tilbagevendende Samlinger dels i Møder imellem Samlingerne.</p>
+<p>Den nordsjællandske Landsrets særlige Afdelinger holder regelmæssige Samlinger i Kjøbenhavn een Gang i løbet af hver Måned.<lb />
+Hver tredie Måned holder den tillige Samling på Bornholm, dog i Vintermånederne<lb />
+kun, forsåvidt Forholdene ikke lægge Hindringer i Vejen; Stedet fastsættes ved Bekjendtgjørelse af Justitsministeren.</p>
+<p>De øvrige Landsretters særlige Afdelinger<lb />
+holde de regelmæssige Samlinger een Gang<lb />
+hver tredie Måned ved Rettens Såede.</p>
+<p>I   de   ovenmeldte  Samlinger   behandles<lb />
+Straffesager,   som   ere  henviste  til Hovedforhandling   med eller  uden Rævninger,   eller i<lb />
+hvilke  der  ifølge Påanke fra Underretten skal<lb />
+, finde  Hovedforhandling  med   ny Bevisførelse<lb />
+Sted,   fremdeles i Sorø,   Præstø, Maribo og</p>
+</leftside>
+<rightside>
+<wtitle>§ 18.</wtitle>
+<p>I 4de Linie forandres „nordsjællandsk"<lb />
+til „sjællandfk".</p>
+<p>I 10de—12te Linie forandres „ved den<lb />
+. . . . Fuldmægtige" til „ved den sjællandske<lb />
+Landsrets almindelige Skriverkontor 5 Fuldmægtige".</p>
+<wtitle>§ 20.</wtitle>
+<p>Paragrafen affattes således:</p>
+<p>Landsretternes..............</p>
+<p>(som i førstag I.)<lb />
+...............Samlingerne.</p>
+<p>Den sjællandske Landsrets førfte særlige Afdeling holder regelmæssige Samlinger i Kjøbeuhavn een Gang i løbet af hver Måned.</p>
+<p>Den sjællandske Landsrets anden særlige Af<lb />
+deling holder regelmæssige Samlinger een<lb />
+Gang hver tredie Måned på de Steder i<lb />
+Afdelingskredsen, som fastsættes Ved Bekjendtgjørelse af Justitsministeriet. På Bornholm<lb />
+finder dog, naar Forholdene lægge Hindringer<lb />
+i Vejen, ingen Samling Sted i Vintermånederne.</p>
+<p>De øvrige Landsretters særlige Afdelinger<lb />
+holde regelmæssige Samlinger een Gang hver<lb />
+tredie Måned ved Rettens Sæde.</p>
+<p>Ved Bekjendtgjørelse af Justitsministeriet<lb />
+fastsættes Tiden for de nævnte Samlingers<lb />
+Begyndelse, for den sjællandske Landsrets anden<lb />
+særlige Afdeling tillige følgeordenen mellem de<lb />
+Steder, hvor Samling stal holdes, samt de<lb />
+Dele af Kredsen, som henlægges til de forskjellige Samlingssteder.</p>
+<p>I de ovenmeldte Samlinger behandles<lb />
+Straffesager, som ere henviste til Hovedforhandling med eller uden Nævninger, eller i<lb />
+hvilke der ifølge Pånke fra Underretten skal<lb />
+finde Hovedforhandling med ny Bevisførelse<lb />
+Sted,   fremdeles på Bornholm de borgerlige</p>
+</rightside>

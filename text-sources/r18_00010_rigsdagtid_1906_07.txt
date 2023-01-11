@@ -1,0 +1,74 @@
+3659
+<pb n="10"/>
+<h>
+<coll>3659</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3660</colr>
+</h>
+<p>
+have retlig Interesse — de sidstnævnte i Straffesager dog først, naar Sagen er endt —<lb />
+hos Retsskriveren eller, hvor ingen saadan er ansat, hos Dommeren forlange Udskrift<lb />
+af Retsbøgerne, derunder dog ikke Stemmegivningsbogen, samt af de øvrige hos Retten<lb />
+beroende til en Sag hørende, fremlagte Dokumenter.
+</p>
+<title>Kapitel 4</title>
+<undertitle>
+Dommere, Retsskrivere, Retsvidner og Retsfoude m. m.
+</undertitle>
+<wtitle>§ 43.</wtitle>
+<p>
+Faste Dommere ved Rigets almindelige Domstole beskikkes af Kongen. Under-<lb />
+retsdommere, som tillige have administrative Forretninger, beskikkes under de hidtil<lb />
+brugte Betegnelser, dog med Udeladelse af Betegnelsen som Skriver.
+</p>
+<p>
+Kun fuldmyndige, uberygtede, vederhæftige Mænd, som have underkastet sig
+</p>
+<p>
+den fuldstændige juridiske Eksamen med bedste Karakter, kunne beskikkes.
+</p>
+<wtitle>§ 44.</wtitle>
+<p>
+Til Højesteretsdommer kan i Reglen kun beskikkes en Mand, der i 3 Aar har<lb />
+været Landsdommer, Justitiarius, Formand i Sø- og Handelsretten, Overretsassessor,<lb />
+Kriminal- og Politiretsassessor, Højesteretsadvokat eller Højesteretssagfører.
+</p>
+<p>
+Til Landsdommer kan i Reglen kun beskikkes en Mand, der i 3 Aar har været<lb />
+Underretsdommer, Højesteretsadvokat, Højesteretssagfører, Overretsprokurator, Over-<lb />
+retssagfører eller Landsretssagfører.
+</p>
+<p>
+Til Udbringeise af de i foranstaaende Bestemmelser ommeldte 3 Aar kan<lb />
+Virksomhed i forskellige af de nævnte Stillinger sammenlægges. For Sagførere med-<lb />
+regnes kun den Tid, hvori de have givet jævnligt Møde for Retten ved Forundersøgelse<lb />
+i Straffesager, Vidneafhøring og Domsforhandling.
+</p>
+<wtitle>§ 45.</wtitle>
+<p>
+Til midlertidig at beklæde et Dommerembede, naar det paa Grund af Em-<lb />
+bedsledighed eller en fast Dommers Forfald maatte være nødvendigt, meddeler Ju-<lb />
+stitsministeren Beskikkelse.
+</p>
+<p>
+I paatrængende Tilfælde, samt naar den faste Dommers Forfald skønnes at<lb />
+ville blive kortvarigt, kan Landsrettens Justitiarius bemyndige til midlertidig at fore-<lb />
+staa Dommerembedet ved en Underret udenfor København. Herom skal Meddelelse<lb />
+straks ske til Justitsministeren, som træffer endelig Bestemmelse.
+</p>
+<p>
+Den, som beskikkes til midlertidig at beklæde et Dommerembede, maa være<lb />
+i Besiddelse af de samme Egenskaber, som udkræves til at beklæde Embedet som fast<lb />
+Dommer. Dog er det ved Underretterne udenfor København med Hensyn til<lb />
+Eksamensfordringen tilstrækkeligt, at den paagældende har underkastet sig den fuld-<lb />
+stændige juridiske Eksamen med Karakteren baud illaudabilis eller har opnaaet<lb />
+Karakteren „Bekvem" eller „Første Karakter" enten ved den juridiske Fællesprøve
+</p>
+<p>
+eller ved den tidligere eller nuværende juridiske Eksamen for ustuderede.
+</p>
+<wtitle>§ 46.</wtitle>
+<p>
+Den Bemyndigelse, som i Henhold til §17 kan gives til paa en Underretsdom-<lb />
+mers Ansvar at udføre visse denne paahvilende Embedsforretninger, kan kun meddeles
+</p>

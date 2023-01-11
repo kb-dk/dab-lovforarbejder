@@ -1,0 +1,67 @@
+2345
+<pb n="99" />
+<h>
+<coll>2345</coll>
+<topmidle>Tillæg A. (148).	Ordentlig Samling 1901.</topmidle>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2346</colr>
+</h>
+<wtitle>§ 452.</wtitle>
+<p>
+Rekvirenten maa ikke skride til Realisation af det udpantede førend efter<lb/>
+Forløbet af 4 Uger efter Udpantningen eller, for saa vidt Indsigelse efter § 451 er<lb/>
+fremsat, dens Stadfæstelse, medmindre de udpantede Genstande øjensynlig ere udsatte<lb/>
+for Fordærvelse eller væsentlig Værdiforringelse ved at henligge saa længe (jfr. dog<lb/>
+§§ 453 og 454). Realisationen foregaar i øvrigt, naar enten Udpantningens Genstand<lb/>
+er fast Ejendom eller Udpantningen har omfattet Løsøre til Værdi af mindst 100<lb/>
+Kroner, i Overensstemmelse med de almindelige Regler om Tvangsauktion i Kapitel<lb/>
+XXXIII; i modsat Fald bortsælges det udpantede mod kontant Betaling ved offentlig<lb/>
+Auktion, som afholdes paa Landet af Sognefogden og i Købstæderne af Politiet, efter<lb/>
+at der mindst 3 Dage forud har fundet een Bekendtgørelse Sted henholdsvis ved<lb/>
+Kirkestævne eller ved Indrykkelse i det Blad, i hvilket Bekendtgørelser fra Politiet<lb/>
+pleje at offentliggøres.
+</p>
+<wtitle>§ 453.</wtitle>
+<p>
+Den, som finder sig forurettet ved en Udpantning, kan, hvad enten Indsigelse<lb/>
+har været fremsat under Forretningen eller ikke, gøre sin Klage gældende henholdsvis<lb/>
+ved Anke eller Kære i Overensstemmelse med de i foregaaende Afsnit indeholdte<lb/>
+Regier om Retsmidler imod de til Dommes Fuldbyrdelse sigtende Fogedforretninger.<lb/>
+Ligeledes bliver der at forholde efter de der givne Regler med Hensyn til det Spørgs-<lb/>
+maal, om Forauktioneringen skal udsættes, naar Anke eller Kære er rejst imod Ud-<lb/>
+pantningsforretningen. Fristen til Anke eller Kære regnes fra Forretningens Dato<lb/>
+eller, for saa vidt Indsigelse er fremsat i Henhold til § 451, dens Stadfæstelse; Op-<lb/>
+rejsning kan ikke gives efter 6 Maaneder fra det nævnte Tidspunkt.
+</p>
+<wtitle>§ 454.</wtitle>
+<p>
+Har den, hvem Udpantning er overgaaet, andre Indsigelser at gøre gældende<lb/>
+mod denne end saadanne, som gaa ud paa, at Fordringen ikke ifølge Lovgivningen<lb/>
+kan inddrives ved Udpantning, eller at der ved dennes Foretagelse ikke er brugt den<lb/>
+rette Fremgangsmaade, kan han, for saa vidt han ikke vil gøre Ansvar mod Fogden<lb/>
+gældende, og han ikke allerede har rejst Anke eller Kære imod Forretningen efter<lb/>
+§ 453, indbringe Spørgsmaalet om disse Indsigelsers Gyldighed til Prøvelse i første Instans.
+</p>
+<p>
+Dette Søgsmaal, som i øvrigt bliver at behandle efter de almindelige Regler,<lb/>
+kan uden Hensyn til Rekvirentens Værneting anlægges i den Retskreds, hvor Udpant-<lb/>
+ningen er gjort; men det maa i det seneste anlægges inden 8 Uger fra Forretningens<lb/>
+Dato eller, for saa vidt Indsigelse er fremsat i Henhold til § 451, dens Stadfæstelse,
+</p>
+<p>
+Naar Sag er anlagt mod Rekvirenten af Udpantningsforretningen inden Ud-<lb/>
+løbet af de i § 452 ommeldte 4 Uger, kan Rekvisitus mod at stille Sikkerhed standse<lb/>
+Rekvirentens Ret til at bortsælge det udpantede, saa længe indtil det til Prøvelse af<lb/>
+Udpantningsforretningen anlagte Søgsmaal er afgjort ved endelig Dom; Paastanden<lb/>
+kan i saa Fald rettes paa Udpantningsforretningens Ophævelse. Er Rekvirentens Ret<lb/>
+til at skride til Realisation ikke paa den anførte Maade standset, kan Paastanden<lb/>
+rettes paa Udpantningsforretningens Ophævelse, for saa vidt det udpantede ikke alle-<lb/>
+rede maatte være bortsolgt, men i modsat Fald kun paa Skadesløsholdelse.
+</p>
+<wtitle>§ 455.</wtitle>
+<p>
+Ligesom Rekvirenten, derunder indbefattet Staten, Kommuner, andre Myndig-<lb/>
+heder eller juridiske Personer, naar Udpantningen under et i Medfør af § 453 eller<lb/>
+§ 454 anlagt Søgsmaal findes ulovlig foretagen, i Overensstemmelse med de hidtil gæl-
+</p>
+<signatur>Forelagte Lovforslag m. m.	148</signatur>

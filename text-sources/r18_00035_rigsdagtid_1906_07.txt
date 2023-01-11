@@ -1,0 +1,75 @@
+3709
+<pb n="35"/>
+<h>
+<coll>3709</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3710</colr>
+</h>
+<p>
+I Straffesager afgives Vidnesbyrd i Reglen for vedkommende Undersøgelsesret<lb />
+eller, for saa vidt Vidnet enten ikke er pligtigt at give Møde for denne, eller et saa-<lb />
+dant Møde af vedkommende Undersøgelsesdommer skønnes at ville medføre væsentlig<lb />
+større Besvær for Vidnet end Møde for Underretten paa det Sted, hvor Vidnet bor<lb />
+eller opholder sig, for denne sidste Ret. Dog have Vidner, hvis Forklaring skal be-<lb />
+nyttes som Bevis under Domsforhandling for Landsret i Nævningesager, at møde under<lb />
+denne og der at aflægge Forklaring, medmindre Regierne i § 149 eller Vidnets Hel-<lb />
+bredstilstand er til Hinder derfor, eller dette efter Rettens Skøn vilde medføre Vidt-<lb />
+løftiggørelse af Forhandlingerne, Ulemper for Vidnet eller Bekostning, som ikke vilde<lb />
+staa i rimeligt Forhold til Sagens Genstand eller den Betydning, Vidnesbyrdet kan<lb />
+antages at have for Sagens Oplysning.
+</p>
+<p>
+Landsret eller Højesteret kan derhos, for saa vidt ikke Vidnets Helbredstilstand<lb />
+er til Hinder derfor, saavel i borgerlige Sager som i Straffesager bestemme, at Vidnes-<lb />
+byrd, der maa antages at være af særlig Betydning for Sagens Oplysning aflægges<lb />
+under Domsforhandling for Retten.
+</p>
+<p>
+Er et Vidnes Helbredstilstand til Hinder for, at det møder paa det sædvanlige<lb />
+Tingsted, kan Retten til dets Af hørelse sættes paa saadant Sted, som Omstændig-<lb />
+hederne udkræve.
+</p>
+<wtitle>§ 151.</wtitle>
+<p>
+Militære af Hæren og Flaaden ere pligtige til at aflægge Vidnesbyrd for de
+borgerlige Domstole overensstemmende med Regierne i denne Lov.
+</p>
+<wtitle>§ 152.</wtitle>
+<p>
+Indkaldelse til at møde som Vidne udgaar, hvor ikke andet er bestemt, fra<lb />
+den Ret, for hvilken Vidnesbyrdet skal aflægges, I borgerlige Sager udstedes Indkal-<lb />
+delsen efter vedkommende Parts Begæring og overgives ham til Forkyndelse. Skal<lb />
+et Vidne indkaldes for en Underret ifølge en anden Rets Beslutning, maa en Udskrift<lb />
+af denne forelægges Underretten.
+</p>
+<p>
+Foruden Vidnets Navn, og hvad der i øvrigt hører til dets nærmere Betegnelse,<lb />
+Sagen og Indkaldelsens Øjemed, hvem der har begært Indkaldelsen, den Ret, for<lb />
+hvilken der skal vidnes, samt Stedet og Tiden for Mødet skal der i Indkaldelsen nævnes<lb />
+det Varsel, som skal gives den indkaldte, og gøres opmærksom paa, at Udeblivelse<lb />
+medfører Strafansvar.
+</p>
+<p>
+Varslet er i borgerlige Sager en Uge, men kan dog under særlige Omstændig-<lb />
+heder afkortes efter Beslutning af Rettens Formand. I Straffesager tilkommer der<lb />
+Vidnet Aftens Varsel, hvortil lægges to Døgn, saafremt det skal møde udenfor den<lb />
+Underretskreds, hvor det bor eller opholder sig, og Afstanden til Tingstedet er over<lb />
+15 Kilometer; dog kan Retten eller dens Formand fastsætte andet Varsel eller paa-<lb />
+lægge uopholdeligt Møde.
+</p>
+<p>
+Skulle Vidner føres i Udlandet, udsteder Retten — i borgerlige Sager efter<lb />
+vedkommende Parts Forlangende — de i saa Henseende fornødne Begæringer til de<lb />
+udenlandske Myndigheder.
+</p>
+<wtitle>§ 153.</wtitle>
+<p>
+Enhver, som er til Stede i et Retsmøde eller i umiddelbar Nærhed af Rets-<lb />
+lokalet, kan det af Retten paalægges at fremstille sig straks til Afgivelse af Vidnes-<lb />
+byrd. Tilstedeværende Vidner kan det paalægges at møde til ny Tid.
+</p>
+<p>
+Naar nogen anholdes under Udførelsen af en Forbrydelse eller paa friske<lb />
+Spor, kan Politiet paa Stedet tilsige enhver tilstedeværende til det Retsmøde, hvor<lb />
+den anholdte skal fremstilles.
+</p>

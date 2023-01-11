@@ -1,0 +1,69 @@
+430
+<pb n="14" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>430</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+selvstændig Straffesag. I andet Fald. eller når Dommen i Straffesagen ikke lyder<lb />
+på Embedsfortabelse, afgøres Spørgsmålet ifølge Justitsministerens nærmere Bestemmelse under en af det offentlige mod Dommeren anlagt Sag. Sagen behandles<lb />
+efter de for Landsretsproceduren for borgerlige Sager i 1ste Instans gældende Regler.
+</p>
+<p>
+I Overensstemmelse hermed bliver det fremdeles at afgøre, hvorvidt en Dommer<lb />
+bør ved Dom afsættes på Grund af vedvarende Ånds- eller Legemssvaghed.
+</p>
+<wtitle>§ 50.</wtitle>
+<p>
+Når Straffesag er rejst mod en Dommer, eller når han må antages at have<lb />
+gjort sig skyldig i sådant utilbørligt Forhold, som omhandles i § 49, såvel som<lb />
+når han er blevet uvederhæftig eller åndssvag, kan han suspenderes. Afgørelse<lb />
+herom træffes, når Talen er om en Dommer ved Underret, af Landsrettens Formand og<lb />
+to af Rettens Medlemmer, og når Talen er om en Højesterets- eller Landsdommer<lb />
+eller om Formanden eller Næstformanden for Sø- og Handelsretten, af Højesterets<lb />
+Formand og to af Rettens Medlemmer.
+</p>
+<wtitle>§ 51.</wtitle>
+<p>
+Beslutning om Ophør af midlertidig Beskikkelse til at beklæde et Dommerembede (§ 44) eller af Bemyndigelse til at udføre Dommergerning efter § 17, 4de<lb />
+Stykke, kan tages af den Myndighed, der har meddelt den, dog, for så vidt det er<lb />
+Landsrettens Formand, med Ret for den pågældende til at forelægge Spørgsmålet<lb />
+for Justitsministeren.
+</p>
+<wtitle>§ 52.</wtitle>
+<p>
+Justitssekretærer ved Højesteret, Landsretterne, Københavns Sø- og Handelsret<lb />
+og Københavns Byret, Pante- og Brevskriveren ved sidstnævnte Ret og samtlige Fuldmægtige ved de nævnte Retter beskikkes af Kongen.
+</p>
+<p>
+Til midlertidig at beklæde et af de nævnte Embeder, når det på Grund af<lb />
+Embedsledighed eller Forfald måtte være nødvendigt, meddeler Justitsministeren Beskikkelse. I påtrængende Tilfælde, samt når Forfaldet skønnes at ville blive kortvarigt, kan vedkommende Rets Formand give den midlertidige Bemyndigelse. Herom<lb />
+skal Meddelelse straks ske til Justitsministeren, som træffer endelig Bestemmelse.
+</p>
+<p>
+Til fast eller midlertidig at beklæde de i denne Paragraf nævnte Embeder<lb />
+udkræves, at vedkommende er en fuldmyndig, uberygtet og vederhæftig Mand, samt at<lb />
+han har underkastet sig den fuldstændige juridiske Eksamen i det mindste med Karakteren haud illaudabilis eller har opnået Karakteren „Bekvem“ eller „Første Karakter“<lb />
+ved den juridiske Fællesprøve eller ved den tidligere eller nuværende juridiske Eksamen<lb />
+for ustuderede.
+</p>
+<wtitle>§ 53.</wtitle>
+<p>
+Når nogen af de i § 52 nævnte Embedsmænd på Grund af Inhabilitet er<lb />
+udelukket, beskikker vedkommende Rets Formand i fornødent Fald en Mand, som har
+de i § 52, 3die Stykke, angivne Egenskaber, til at fungere i Sagen.
+</p>
+<wtitle>§ 54.</wtitle>
+<p>
+Klage over en Justitssekretærs og i København over Pante- og Brevskriverens Afgørelser fremsættes inden 6 Måneder for den Ret, ved hvilken han er ansat. Efter at<lb />
+have modtaget den pågældende Embedsmands Erklæring afgør Retten, for Københavns
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

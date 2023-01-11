@@ -1,0 +1,65 @@
+319
+<pb n="55" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>319</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 223.</wtitle>
+<p>
+Når Sagen ifølge den oprindelige Påstand rettelig er begyndt ved Underret,<lb/>
+forbliver den ved denne, uagtet Påstanden senere udvides eller forhøjes, når dog<lb/>
+Sagens Værdi ikke derved imod Modpartens Protest i betydelig Grad forøges ud over<lb/>
+den i § 210 bestemte Grænse af 300 Kr.
+</p>
+<p>
+En Udvidelse af Påstanden kan dog ikke uden Modpartens Samtykke foregå<lb/>
+således, at Fordringer af forskellige af de i § 210 nævnte Klasser inddrages under<lb/>
+Sagen.
+</p>
+<wtitle>§ 224.</wtitle>
+<p>
+Henhører en Sag under Landsret, ophører denne ikke at være kompetent,<lb/>
+fordi enkelte Fordringer, Spørgsmål eller Dele udskilles til særskilt Behandling eller<lb/>
+Påkendelse i Henhold til § 277, § 285 eller § 286, selv om disse eller Resten af<lb/>
+Sagen, for sig betragtet, vilde høre under Underret.
+</p>
+<wtitle>§ 225.</wtitle>
+<p>
+Parterne kunne retsgyldig vedtage at lade en Sag behandle ved Underret,<lb/>
+selv om den ifølge de almindelige Regler ikke henhører under denne, dog med Undtagelse af de i Kapitel 42 og 43 nævnte Sager (jvf. endvidere §§ 048 og 000).
+</p>
+<title>Kapitel 21.</title>
+<undertitle>
+Værneting.
+</undertitle>
+<wtitle>§ 226.</wtitle>
+<p>
+Retssager skulle, hvor denne Lov ikke hjemler Undtagelse, anlægges ved den<lb/>
+Ret, i hvis Kreds Sagsøgte har Bopæl (Hjemting).
+</p>
+<wtitle>§ 227.</wtitle>
+<p>
+Dersom Sagsøgte har Bopæl i flere Retskredse, anses han at have Hjemting i<lb/>
+enhver af dem.
+</p>
+<p>
+Indlænding, som ikke har Bopæl nogetsteds i Riget, kan sagsøges ved Retten<lb/>
+på det Sted, hvor han opholder sig ved Sagens Berammelse, eller, dersom hans Opholdssted ikke vides, ved Retten på det Sted. hvor han vides sidst at have boet eller<lb/>
+opholdt sig.
+</p>
+<wtitle>§ 228.</wtitle>
+<p>
+Danske i Udlandet ansatte Embedsmænd, der ikke ere det pågældende Lands<lb/>
+Domsmyndighed undergivne, og de til de danske Gesandtskaber i fremmede Stater<lb/>
+hørende Personer anses at have Hjemting i København, for så vidt de ikke vedligeholde Bopæl på noget andet Sted i Riget. Det samme gælder om andre danske<lb/>
+Undersåtter, som ikke kunne sagsøges i det Land. hvor de have Bopæl.
+</p>
+<wtitle>§ 229.</wtitle>
+<p>
+Stiftelser, Kommuner, Korporationer såvel som Selskaber og Foreninger, være<lb/>
+sig med politiske eller sociale eller med rent formueretlige Formål, have Hjemting i<lb/>
+den Retskreds, hvor deres Hoved-Forretningslokale er, eller, når sådant ikke kendes<lb/>
+og ikke erfares ved Henvendelse til Politiet, hvor et af Bestyrelsens Medlemmer bor.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

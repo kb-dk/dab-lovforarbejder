@@ -1,0 +1,72 @@
+484
+<pb n="68" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>484</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+Såvel Rettens Formand som hvert enkelt af dens andre Medlemmer kan<lb />
+stille Spørgsål.
+</p>
+<p>
+Når der ikke svares på de stillede Spørgsmål, eller Svaret ikke har tilstrækkelig Bestemthed, eller en til Møde i sådan Anledning tilsagt Part udebliver<lb />
+uden oplyst lovligt Forfald, kan Retten fortolke Tavsheden, Ubestemtheden eller Udeblivelsen på den for Modparten gunstigste Måde og navnlig lægge dennes Fremstillin g til Grund for Påkendelsen.
+</p>
+<wtitle>§ 283.</wtitle>
+<p>
+Retten kan opfordre en Part til at fremlægge Situationskort, Stamtavler,<lb />
+Grundrids, Tegninger og andre lignende Anskueligheden befordrende Midler eller tilvejebringe Syn eller Skøn, når Sagen ikke uden dette kan bedømmes med tilstrækkelig Sikkerhed.
+</p>
+<p>
+Efterkommer en Part ikke denne Opfordring, kan Retten efter Omstændighederne bringe Regelen i § 282, sidste Stykke, til Anvendelse.
+</p>
+<wtitle>§ 284.</wtitle>
+<p>
+Dersom Retten, efter at Optagelse til Dom er sket, tinder Grund til at stille<lb />
+Spørgsmål af den i § 282 omhandlede Beskaffenhed til Parterne eller til, at der<lb />
+rettes yderligere Spørgsmål til afhørte Parter, Vidner eller Syns- og Skønsmænd,<lb />
+eller til, at der indhentes Syn eller Skøn, kan den under Angivelse af Øjemedet indkalde Parterne til et Møde, i hvilket Spørgsmålene begæres besvarede, eller Parterne<lb />
+opfordres til snarest muligt at foretage det fornødne til at fremskaffe Besvarelsen,<lb />
+Synet eller Skønnet.
+</p>
+<p>
+Udgifterne ved de i denne Paragraf omhandlede Foranstaltninger udredes forskudsvis af det offentlige, indtil det ved den endelige Dom kan afgøres, hvilken af<lb />
+Parterne der skal bære dem.
+</p>
+<wtitle>§ 285.</wtitle>
+<p>
+Antager Retten, at der er Omstændigheder til Stede, som kan medføre Afvisning på Embeds Vegne, kan den standse Forhandlingen og opfordre Parterne til<lb />
+at erklære sig over Afvisningsspørgsmålet.
+</p>
+<p>
+Når Afvisningsdom ikke afsiges, fortsættes Forhandlingen.
+</p>
+<wtitle>§ 286.</wtitle>
+<p>
+Retten kan bestemme, at flere for den svævende Retssager imellem de samme<lb />
+Parter skal forhandles i Forbindelse med hverandre. Samme Myndighed har Retten<lb />
+også med Hensyn til Retssager imellem forskellige Parter, når Søgsmålenes Forening fra først af ikke vilde stride imod § 250.
+</p>
+<p>
+Er flere Krav forenede under een Retssag, kan Retten bestemme, at en Adskillelse skal finde Sted og et eller flere af Kravene forhandles og pådømmes særskilt.
+</p>
+<p>
+Frembyder Sagen flere Stridspunkter, kan Retten bestemme, at Forhandlingen<lb />
+foreløbig skal indskrænke sig til et eller nogle af disse; enkelte Søgsmâlsgrunde eller<lb />
+enkelte Indsigelser kan som en Følge heraf gøres til Genstand for særskilt Procedure.
+</p>
+<wtitle>§ 287.</wtitle>
+<p>
+Er et Retsforhold, hvis Fastsættelse vil få Indflydelse på Sagens Udfald,<lb />
+Genstand for en ved samme eller en anden Ret svævende Retstrætte, eller er det indbragt til Afgørelse ved administrativ Myndighed, kan Retten enten efter Påstand eller<lb />
+på Embeds Vegne bestemme, at Sagens Forhandling i det hele eller til Dels skal udsættes, indtil hin Retstrætte er pådømt, eller den administrative Afgørelse er truffet.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

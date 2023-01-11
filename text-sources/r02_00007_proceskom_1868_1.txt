@@ -1,0 +1,38 @@
+4
+<pb n="7" />
+<p>Den sydsjællandske Landsret har Sæde i<lb />
+Vordingborg.</p>
+<p>Den fyenste Landsret har Sæde i Odense.</p>
+<p>Den nordjydske Landsret har Sæde i<lb />
+Aalborg.</p>
+<p>Den mellemjydske Landsret har Sæde i<lb />
+Viborg.</p>
+<p>Den sydjydske Landsret har Sæde i Vejle.</p>
+<wtitle>§ 11.</wtitle>
+<p>Landsretternes Domsmyndighed omfatter<lb />
+dels Behandling og Paaljendelfe i første Instants af Retsfager i det Omfang, som bestemmes ved Lovene om den borgerlige Retspleje og Strafferetsplejen, dels Prøvelse i anden<lb />
+Instants af Underretternes Behandlinger og<lb />
+Afgørelse overensstemmende med de nævnte<lb />
+Love. Endvidere kan der til Landsretten finde<lb />
+Besværing Sted over Underrettens Handlinger<lb />
+i de i § 25 a, c og e ømmeldte Forhold,<lb />
+hvorved Loven om den borgerlige Retspleje<lb />
+§ 360 finder Anvendelse.</p>
+<wtitle>§ 12.</wtitle>
+<p>Den nordsjællandske Landsret bestaar af<lb />
+en Formand og 15 andre Medlemmer. De<lb />
+øvrige Landsretter bestaa hver af en Formand<lb />
+og 8 andre Medlemmer.</p>
+<p>Medlemmer af Højesteret kunne beskikkes<lb />
+til at virke ved en Landsret paa den i § 5<lb />
+forestrevne Maade.</p>
+<p>Justitsministeren kan beskikke en eller flere<lb />
+af de i Landsretskredsen ansatte Underretsdommere eller, naar Forholdene gjøre det ønsteligt,<lb />
+andre Mænd, der ere i Besiddelse af de foreskrevne Egenskaber, til at tiltræde Landsretternes særlige Afdelinger, naar de i Medfør af<lb />
+§ 20 holde Møde udenfor Rettens Sæde; dog<lb />
+maa mindst 3 Dommere høre til de i denne<lb />
+Paragrafs lfte og 2det Stykke nævnte Personer. Bestikkelsen gjælder kun for en enkelt<lb />
+Samling.</p>
+<wtitle>§ 13.</wtitle>
+<p>I Sø- og Handelssager (Lov 19. Febr.<lb />
+1861 §§ 12 og 13) tiltrædes den nordsjællandske Landsret af 4 so- og handclskyndige</p>

@@ -1,0 +1,71 @@
+2601
+<pb n="232" />
+<h>
+<coll>2601</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2602</colr>
+</h>
+<wtitle>§ 985.</wtitle>
+<p>
+Findes Sigtede skyldig, eller kendes han ved Dom uberettiget til Oprejsning<lb/>
+for uforskyldt Anholdelse eller Erstatning for uforskyldt Varetægtsfængsel eller Straf-<lb/>
+udstaaelse, er han pligtig at erstatte det offentlige de nødvendige Udgifter, som ere<lb/>
+medgaaede til Sagens Behandling.
+</p>
+<p>
+Har Undersøgelsen været rettet paa en anden Forbrydelse end den, eller paa<lb/>
+andre Forbrydelser foruden den, for hvilken Tiltalte dømmes, er han ikke pligtig til<lb/>
+at erstatte de derved foranledigede yderligere Omkostninger (jvf. dog § 987); kan en<lb/>
+Sondring ikke ske, bestemmer Retten, om og hvor stort et Afdrag der bør gøres.
+</p>
+<p>
+Udgifter, der ere foranledigede ved Anke, Kære eller Begæring om en Gen-<lb/>
+optagelse, blive ikkun da at udrede af Tiltalte, naar disse Skridt enten have ført til<lb/>
+et for ham ugunstigere Udfald eller ere iværksatte af ham selv og ikke have ført til<lb/>
+Forandring til hans Fordel. Er Anke rejst eller Genoptagelse begært af nogen af de<lb/>
+i § 918, 3die Punktum, nævnte Personer, er den paagældende under tilsvarende Be-<lb/>
+tingelser pligtig at erstatte de derved forvoldte Udgifter.
+</p>
+<p>
+Omkostninger, som ere foraarsagede ved andres Fejl eller Forsømmelser, bør<lb/>
+ikke falde Domfældte til Last. Retten kan ogsaa i Dommen begrænse Omkostnings-<lb/>
+ansvaret, naar den finder, at dette ellers vilde komme til at staa i aabenbart Misfor-<lb/>
+hold til Domfældtes Skyld og Vilkaar.
+</p>
+<p>
+Rejsegodtgørelser og Dagpenge til Landsrettens Personale i Anledning af Ret-<lb/>
+tens Møder udenfor dens Hovedsæde, Rejsegodtgørelser og Dagpenge til Nævninger,<lb/>
+falde ikke Domfældte til Last.
+</p>
+<wtitle>§ 986.</wtitle>
+<p>
+Dømmes flere Tiltalte som meddelagtige i den samme Handling, har enhver<lb/>
+især af dem at erstatte de Udgifter, som hidrøre fra Forhold, der alene vedrøre ham.<lb/>
+Med Hensyn til andre Omkostninger paalægger Retten de enkelte Deltagere at udrede<lb/>
+en i Forhold til Graden af deres Deltagelse bestemt Andel og kan tillige bestemme,<lb/>
+at alle eller enkelte Deltagere skulle hæfte solidarisk.
+</p>
+<wtitle>§ 987.</wtitle>
+<p>
+Frifindes Tiltalte, eller endes Sagen i øvrigt uden at have ført til Sigtedes<lb/>
+Domfældelse, paahviler der ham ingen Pligt til at udrede Omkostninger, undtagen for<lb/>
+saa vidt disse maatte være foraarsagede ved hans tilregnelige og retsstridige Handlinger<lb/>
+eller Undladelser.
+</p>
+<wtitle>§ 988.</wtitle>
+<p>
+Er Straffesagen foranlediget ved tilregnelige og retsstridige Handlinger af<lb/>
+andre end Sigtede, eller ere særegne Udgifter foraarsagede ved saadanne Handlinger<lb/>
+eller Undladelser (jvf. § 168), paahviler der den paagældende Erstatningspligt for de<lb/>
+Omkostninger, hans Forhold har medført.
+</p>
+<p>
+Overensstemmende hermed kan det af den overordnede Ret, til hvilken Anke<lb/>
+har fundet Sted, paalægges en Dommer at bære Omkostninger, efter at der er givet<lb/>
+ham Lejlighed til at fremføre sit Forsvar.
+</p>
+<p>
+Bortfalder en Straffesag, hvis offentlige Forfølgning er betinget af den for-<lb/>
+urettedes Begæring, fordi denne tager sin Begæring tilbage, kan han efter Paatale-<lb/>
+myndighedens Paastand tilpligtes at erstatte det offentlige de dette paaførte Udgifter.
+</p>

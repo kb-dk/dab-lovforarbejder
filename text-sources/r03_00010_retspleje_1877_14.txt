@@ -1,0 +1,38 @@
+4
+<pb n="10" />
+<p>telse levende Personers Livstid eller iøvrigt på ubestemt Tid, sættes Rettighedens<lb />
+Værdi lig med det 5 dobbelte af et Års<lb />
+Beløb.</p>
+<p>e) Kunne Ydelser eller Indtægter ikkun oppebæres   et  bestemt  Antal   Gange,   sættes<lb />
+Rettighedens   Værdi   lig   med   en   enkelt<lb />
+Ydelses Beløb   taget dette Antal  Gange,<lb />
+dog ingensinde over 25.<lb />
+Ved Anvendelsen   af de   i  Litr. a  og b<lb />
+indeholdte   Forskrifter sees  der alene  hen  til,<lb />
+hvad Ydelserne   eller   Indtægterne   tilsammentægne udgjøre for et År.</p>
+<p>Er Beløbet af årlige Ydelser eller Indtægter ikke lige stort de forskjellige År, tages<lb />
+Ejennemsnitsbeløbet som Enhed.</p>
+<wtitle>§  11.</wtitle>
+<p>I de i de tvende foregående Paragrafer<lb />
+omhandlede Tilfælde er Rettens Afgjørelse,<lb />
+forsåvidt den går ud på at erklære sig<lb />
+kompetent til at påkjende Sagen, ikke Gjenstand for Påanke; nægter Retten at antage<lb />
+Sagen, er dens Afgjørelse Gjenstand for Besværing til højere Ret.</p>
+<title>Kapitel II.</title>
+<undertitle>Om Værnething.</undertitle>
+<wtitle>§  12.</wtitle>
+<p>Ifølge de i dette Kapitel indeholdte Forskrifter i Forbindelse med §§ 399, 410, jfr.<lb />
+§§ 411, 417, 419, 421, 567, 620 og 635<lb />
+afgjøres det, ved hvilken af flere Retter i første<lb />
+Instants af samme Art (Underretter eller<lb />
+Landsretter) en Sag skal anlægges.</p>
+<wtitle>§ 13.</wtitle>
+<p>Retssager skulle anlægges ved Sagsøgtes<lb />
+Hjemthing, medmindre Loven hjemler Undtagelse herfra.</p>
+<wtitle>§ 14.</wtitle>
+<p>Hjemthinget er den Ret, i hvis Kreds Sagsøgte boer. Dersom Sagsøgte har Bopæl i<lb />
+flere forskjellige Retskredse, ansees han for at<lb />
+have Hjemthing i dem alle.</p>
+<p>Indlænding, som ikke har Bopæl nogetsteds i Riget, kan sagsøges ved Retten på det<lb />
+Sted, hvor han opholder sig ved Sagens<lb />
+Anlæg, eller, dersom han ikke nogetsteds i Ri-</p>

@@ -1,0 +1,40 @@
+88
+<pb n="88" />
+<h>80   Kap. XX.   Forundersøgelse ved Retten.</h>
+<p>der påtaler, ej er berettiget dertil, eller<lb />
+at Forundersøgelse er udelukket ved Reglerne<lb />
+i § 201, eller at Handlinger af den Art,<lb />
+som Sigtelsen angår, ikke ere Genstand<lb />
+for Straf, eller at Strafskylden er forældet<lb />
+eller Forfølgning af andre lignende Grunde<lb />
+utilstedelig, afsiger den Kendelse om, at<lb />
+begæringen om Forundersøgelse ikke kan<lb />
+tages til følge.</p>
+<wtitle>§ 204.</wtitle>
+<p>Forundersøgelsens øjemed er at tilvejebringe sådanne Oplysninger, som udfordres<lb />
+for at afgøre, om, for hvilten Forbrydelse<lb />
+og for hvilken Ret Tiltale stal rejses.<lb />
+Tillige blive sådanne Beviser at fore, som<lb />
+det må anses for umuligt eller dog forbundet med særlig Ulempe at tilvejebringe<lb />
+under domsforhandlingen. Udover disse<lb />
+øjemed må Forundersøgelsen ikke udstrækkes.</p>
+<wtitle>§ 205.</wtitle>
+<p>Naar Begæring om Forundersøgelse er<lb />
+tagen til følge, har dømmeren i Embeds<lb />
+medfør, uden at yderligere Begæring udfordres, med størst mulige Hurtighed at foretage alle hensigtsmæssige Skridt til Opnåelse af Forundersøgelsens øjemed.</p>
+<p>Parterne ere berettigede til at rette<lb />
+Begæring til dømmeren om Foretagelse<lb />
+af enkelte Undersøgelseshandlinger. Retten<lb />
+bedømmer, hvorvidt den begærte Retshandling kan tjene til Fremme af undersøgelsens Øjemed, og kan til den Ende,<lb />
+inden Afgørelse træffes, forlange opgivet,<lb />
+hvad derved tilsigtes oplyst: Afslag på<lb />
+begæringen sker ved Kendelse.</p>
+<p>Også hvor Forundersøgelsen er indledet efter Politimesterens Begæring, er<lb />
+Overanklageren berettiget til at rette de<lb />
+ovennævnte Begæringer til dømmeren.</p>
+<wtitle>§ 206.</wtitle>
+<p>Politiet er pligtigt at efterkomme de<lb />
+Pålæg, dømmeren giver i Forundersøgelsens Interesse.</p>
+<p>dømmeren er berettiget til at henvende<lb />
+sig med begæring om Retshandlingers<lb />
+Foretagelse i en anden Retskreds til Under-</p>

@@ -1,0 +1,67 @@
+2189
+<pb n="143" />
+<h>
+<coll>
+2189
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2190
+</colr>
+</h>
+<p>
+gjort, det særlige Tab og den særlige Kreditspilde, som maatte være en Følge at, at<lb />
+der er blevet givet Arresten en for stor Udstrækning.
+</p>
+<p>
+Bortfalder eller ophæves en gjort Arrest paa Grund af efterfølgende Om-<lb />
+stændigheder, tilkommer der den, hos hvem Arresten er gjort, Erstatning for Tab,<lb />
+Tort og Kreditspilde, naar det maa antages, at Arresten, om den var bleven behørig<lb />
+forfulgt og holdt ved Magt, vilde have medført saadant Ansvar.
+</p>
+<wtitle>§ 620.</wtitle>
+<p>
+Krav paa Erstatning i Anledning af Arresten kan gøres gældende mod Arrest-<lb />
+rekvirenten enten som Modkrav under Arrestsagen eller under et selvstændigt Søgs-<lb />
+maal i første Instans, hvilket sidste dog først kan anlægges, naar Arresten enten ved<lb />
+Dom er kendt ugyldig eller ved Fogdens Kendelse (§ 618) ophævet; saadant selvstæn-<lb />
+digt Søgsmaal maa i saa Fald anlægges inden 12 Uger.
+</p>
+<wtitle>§ 621.</wtitle>
+<p>
+Ophæves Arresten af overordnet Bet, for hvilken Fogdens Nægtelse (§ 618) af<lb />
+at ophæve Arresten er indbragt, kan der ved samme Dom tillægges den, hos hvem<lb />
+Arresten er gjort, den ham tilkommende Erstatning hos Arrestrekvirenten.
+</p>
+<wtitle>§ 622.</wtitle>
+<p>
+Vil nogen drage Fogden til personligt Ansvar i Anledning af hans Embeds-<lb />
+forhold med Hensyn til Arrestens Foretagelse eller Nægtelse, maa dette ske ved<lb />
+Anke.
+</p>
+<wtitle>§ 623.</wtitle>
+<p>
+Fogdens Nægtelse af Arrest er Genstand for Kære efter Reglerne i Ka-<lb />
+pitel 50.
+</p>
+<title>Kapitel 54.</title>
+<undertitle>Forbud.</undertitle>
+<wtitle>§ 624.</wtitle>
+<p>
+Ved Forbud, foretaget af Fogden, kan cler gives en eller flere bestemte private<lb />
+Personer saavel som Repræsentanter for Stat eller Kommune i disses Egenskab som<lb />
+Ejere af faste Ejendomme eller som Medkontrahenter i Kontraktsforhold Paalæg om<lb />
+at undlade Handlinger eller Foretagender, som stride imod Forbudsrekvirentens Ret,<lb />
+og som de paagældende paa Grund heraf, selv uden Forbudet, vilde være uberettigede<lb />
+til at foretage.
+</p>
+<p>
+Forbud mod Ægteskab kan finde Sted ligesom hidtil.
+</p>
+<wtitle>§ 625.</wtitle>
+<p>
+Forbud kan gøres, uagtet det ikke for Fogden bevises, at de Handlinger, der<lb />
+skulde forbydes, ere stridende mod Forbudsrekvirentens Ret; men denne maa i saa<lb />
+Fald stille Sikkerhed for den Skade og Ulempe, som ved Forbudet kan foraarsages<lb />
+den paagældende.
+</p>

@@ -1,0 +1,100 @@
+1963
+<pb n="28" />
+<h>
+<coll>1963</coll>
+<topmidle>Bet. o. Lovf. om Rettens Pleje m. m.</topmidle>
+<colr>1964</colr>
+</h>
+<place>
+Jylland.
+</place>
+<p>
+21.	Politimesteren i Kolding Købstad m. m.
+</p>
+<p>
+22.	—	i Vejle Købstad m. m.
+</p>
+<p>
+23.	—	i Horsens Købstad m. m.
+</p>
+<p>
+24.	—	i Voer og Nim Herreder m. m.
+</p>
+<p>
+25.	—	i Silkeborg Købstad m. m.
+</p>
+<p>
+26.	—	i Hasle m. fl. Herreder m. m.
+</p>
+<p>
+27.	—	i Aarhus Købstad.
+</p>
+<p>
+28.	—	i Randers Købstad m. m.
+</p>
+<p>
+29.	—	i Mariager Købstad m. m.
+</p>
+<p>
+30.	—	i Løgstør Købstad m. m.
+</p>
+<p>
+31.	—	i Aalborg Købstad m. m.
+</p>
+<p>
+32.	—	i Nørresundby Købstad m. m.
+</p>
+<p>
+33.	—	i Frederikshavn Købstad m. m.
+</p>
+<p>
+34.	—	i Hjørring Købstad m. m.
+</p>
+<p>
+35.	—	i Thisted Købstad m. m.
+</p>
+<p>
+36.	—	i Nykøbing M. Købstad m. m.
+</p>
+<p>
+37.	—	i Viborg Købstad m. m.
+</p>
+<p>
+38.	—	i Holstebro Købstad m. m.
+</p>
+<p>
+39.	—	i Ringkøbing Købstad m. m.
+</p>
+<p>
+40.	—	i Esbjerg Købstad m. m.
+</p>
+<p>
+41.	—	i Ribe Købstad m. m.
+</p>
+<title>
+Tavle D.
+</title>
+<p>
+(Politimestre i 2den Lønningsklasse).
+</p>
+<place>
+Sjælland.
+</place>
+<p>
+1.	Politimesteren i Københavns Amts søndre Birk m. m.
+</p>
+<p>
+2.	—	i Frederikssund Købstad m. m.
+</p>
+<p>
+3.	—	i Næstved Købstad m. m.
+</p>
+<place>
+Fyn.
+</place>
+<p>
+4.	Politimesteren i Sunds-Gudme Herreder.
+</p>
+<p>
+5.	— i Faaborg Købstad m. m.
+</p>

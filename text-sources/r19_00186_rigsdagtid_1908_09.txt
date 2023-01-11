@@ -1,0 +1,72 @@
+2509
+<pb n="186" />
+<h>
+<coll>2509</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2510</colr>
+</h>
+<p>
+i det følgende givne Regler eller om Efterforskningens Afslutning ved Sagens Hen-<lb/>
+læggelse, Henlægges Sagen, vedtegnes Grunden.
+</p>
+<p>
+Er udenfor København Politimesteren paataleberettiget i Henhold til § 704,<lb/>
+tilkommer det ham at tage de ovennævnte Beslutninger. I modsat Fald har Politi-<lb/>
+mesteren at foranledige retslig Forundersøgelse, naar han ifølge Efterforskningens<lb/>
+Resultat finder Anledning dertil; ellers indsender han Sagen til Amtmanden, der<lb/>
+tager fornøden Beslutning om yderligere Efterforskning, Begæring om Forunder-<lb/>
+søgelse, Tiltale eller Sagens Henlæggelse.
+</p>
+<p>
+I København tilkommer det Politidirektøren at tage de nævnte Beslutninger.
+</p>
+<wtitle>§ 796.</wtitle>
+<p>
+Faar Politimesteren, efter at Forundersøgelse er begyndt, eller efter at Tiltale<lb/>
+er rejst i en under Amtmandens Paatalemyndighed hørende Sag, Kundskab om Om-<lb/>
+stændigheder, der opfordre til yderligere Efterforskning, og Forholdene ikke tilstede at<lb/>
+indhente henholdsvis Undersøgelsesrettens eller Amtmandens nærmere Bestemmelse,<lb/>
+foretager han paa egen Haand de Efterforskningshandlinger, han skønner fornødne, og<lb/>
+gør derefter uopholdelig Indberetning til Undersøgelsesretten eller Amtmanden om<lb/>
+det foretagne, Under en saadan genoptagen Efterforskning kan Politimesteren, om for-<lb/>
+nødent, overensstemmende med § 792 rette Begæringer til en anden Undersøgelsesret<lb/>
+om Foretagelse af enkeltstaaende Retshandlinger (jvf. § 803, 3die Stykke).
+</p>
+<p>
+Ovenstaaende Regler gælde ogsaa for København med de Lempelser, der følge<lb/>
+af, at Politidirektøren er Paatalemyndighed i alle Sager
+</p>
+<wtitle>§ 797.</wtitle>
+<p>
+Klage over formentligt Myndighedsmisbrug fra Politiets Side under Efter-<lb/>
+forskning kan fremsættes for Undersøgelsesretten i den Kreds, hvor den paaklagede<lb/>
+Handling har fundet Sted, eller for den Ret, hvis Virksomhed paakaldes mod Klageren,<lb/>
+eller ved hvilken Sag om den Lovovertrædelse, der var Genstand for Efterforskning,<lb/>
+tingfæstes.
+</p>
+<p>
+Undlader Politiet i de i denne Lovs §§ 729 og 741, jvf. 756, §§ 757 og 766<lb/>
+omhandlede Tilfælde at forelægge Sagen for Retten inden de foreskrevne Frister, skal<lb/>
+Underretsdommeren paa det Sted. hvor Beslaglæggelsen. Ransagningen, Anholdelsen<lb/>
+eller Fængslingen er sket, naar det ved Klage fra den forurettede eller paa anden<lb/>
+Maade kommer til hans Kundskab, afæske Politiet nærmere Forklaring og kan efter<lb/>
+Omstændighederne ophæve den trufne Foranstaltning. Undlader Politiet at svare, op-<lb/>
+hæves Foranstaltningen straks ved Kendelse. Skyldes Undladelsen en Politimester,<lb/>
+der tillige er Underretsdommer, træder i forannævnte Henseende vedkommende Landsret<lb/>
+i Underrettens Sted.
+</p>
+<p>
+Paalæg af Bøder i Henhold til §§ 185 og 203 kan ophæves af Underretskredsens<lb/>
+Dommer eller af den Ret. ved hvilken Sag om den Lovovertrædelse, der var Genstand<lb/>
+for Efterforskningen, tingfæstes.
+</p>
+<title>Kapitel 73.</title>
+<undertitle>
+Forundersøgelse ved Retten.
+</undertitle>
+<wtitle>§ 798.</wtitle>
+<p>
+Forundersøgelse ved Retten foretages i de Tilfælde, hvor Undersøgelsesdommeren<lb/>
+ikke tillige er Politimester, kun efter Begæring af Politiet, Begæringen fremsættes<lb/>
+skriftlig eller mundtlig til Retsbogen. I Underretskredse, hvor Dommeren tillige er
+</p>

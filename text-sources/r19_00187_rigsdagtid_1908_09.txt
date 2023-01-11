@@ -1,0 +1,77 @@
+2511
+<pb n="187" />
+<h>
+<coll>2511</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2512</colr>
+</h>
+<p>
+Politimester, træder i Stedet for saadan Begæring en Tilførsel til Retsbogen om. at<lb/>
+Forundersøgelsen er foranlediget af Dommeren i hans Egenskab af Politimester.
+</p>
+<p>
+Om Genoptagelsen af en sluttet Forundersøgelse gælder Reglen i § 808, 3die<lb/>
+Stykke, se endvidere § 812 sammenholdt med §§ 761 og 775.
+</p>
+<wtitle>§ 799.</wtitle>
+<p>
+Begæring, henholdsvis Tilførsel, til Retsbogen om Forundersøgelse skal betegne<lb/>
+den eller de Personer, mod hvem. og den eller de Handlinger, med Hensyn til hvilke<lb/>
+Undersøgelse begæres, og skal ledsages af Sagens Aktstykker, derunder de skriftlige<lb/>
+Beretninger, som ere optagne under Efterforskningen, samt, saa vidt gørligt, af forhaan-<lb/>
+denværende synlige Bevismidler m. v.
+</p>
+<p>
+Ved Begæringens Indgivelse til Retten, henholdsvis Tilførselens Indførelse i Rets-<lb/>
+bogen, er Sagen tingfæstet. De Begæringen, henholdsvis Tilførselen, ledsagende Akt-<lb/>
+stykker fremlægges til Retsbogen, saa vidt og naar Dommeren finder det rigtigt.
+</p>
+<p>
+Fremkommer der under Forundersøgelsen grundet Mistanke mod andre Per-<lb/>
+soner eller om andre Forbrydelser end de oprindelig i Begæringen eller Tilførselen<lb/>
+betegnede, udvider Retten Forundersøgelsen til disse, dog hvor Dommeren ikke til-<lb/>
+lige er Politimester, kun hvis Politiet derom fremkommer med Begæring. Retten bør i<lb/>
+sidstnævnte Tilfælde give Politiet fornøden Meddelelse; dog kan den uden at afvente<lb/>
+saadan yderligere Begæring, foretage saadanne Skridt, som ikke uden Ulempe kunne<lb/>
+udsættes.
+</p>
+<wtitle>§ 800.</wtitle>
+<p>
+Finder Retten, at Sagen ikke er indbragt for ret Værneting, eller at den, der<lb/>
+paataler, ej er berettiget dertil, eller at Forundersøgelse er udelukket ved Reglerne i<lb/>
+denne Lov, eller at Handlinger af den Art, som Sigtelsen angaar, ikke ere Genstand for<lb/>
+Straf, eller at Strafskylden er forældet eller Forfølgning af andre lignende Grunde<lb/>
+utilstedelig, afsiger den Kendelse om, at Begæringen om Forundersøgelse ikke kan<lb/>
+tages til Følge.
+</p>
+<wtitle>§ 801.</wtitle>
+<p>
+Forundersøgelsens Øjemed er at tilvejebringe saadanne Oplysninger, som ud-<lb/>
+fordres for at afgøre, om, for hvilken Forbrydelse og for hvilken Ret Tiltale skal<lb/>
+rejses, samt at tilvejebringe Bevismaterialet til Brug ved Oplæsning for den dømmende<lb/>
+Ret. Maa Domsforhandlingen i Sagen antages at skulle foregaa under Medvirkning<lb/>
+af Nævninger, blive dog kun saadanne Beviser at føre, som det maa anses for umu-<lb/>
+ligt eller dog forbundet med særlig Ulempe at tilvejebringe under Domsforhandlingen.
+</p>
+<p>
+• For saa vidt det vil bero paa Sigtedes Begæring, om Domsforhandling, hvis Til-<lb/>
+tale rejses, skal foregaa for Landsret under Medvirkning af Nævninger eller ikke, jvf.<lb/>
+§§ 678 b og c samt 679 e, afæsker Undersøgelsesdommeren under Forundersøgelsen<lb/>
+ham Erklæring om, hvorvidt han for det Tilfælde, at Tiltale rejses, begærer Sagen<lb/>
+paadømt under Medvirkning af Nævninger. Til Afgivelse af saadan Erklæring bør<lb/>
+der gives Sigtede passende Betænkningstid og eventuelt Lejlighed til at raadspørge sin<lb/>
+Forsvarer.
+</p>
+<wtitle>§ 802.</wtitle>
+<p>
+Naar Forundersøgelse er indledet, har Dommeren i Embeds Medfør, uden at<lb/>
+yderligere Begæring udfordres, med størst mulige Hurtighed at foretage alle hensigts-<lb/>
+mæssige Skridt til Opnaaelse af Forundersøgelsens Øjemed.
+</p>
+<p>
+Retter den sigtede eller hans Forsvarer Begæring til Dommeren om Foretagelse<lb/>
+af enkelte Undersøgelseshandlinger, bedømmer Dommeren, hvorvidt den begærede Rets-<lb/>
+handling tjener til Fremme af Undersøgelsens Øjemed, og kan til den Ende, førend<lb/>
+Afgørelse træffes, forlange opgivet, hvad derved tilsigtes oplyst. Afslag paa Begæringen<lb/>
+sker ved Kendelse.
+</p>

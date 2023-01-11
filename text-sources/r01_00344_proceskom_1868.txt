@@ -1,0 +1,84 @@
+338
+@@@@@<pb n="344" />
+<leftside>
+<title>Sjette Afsnit.</title>
+<undertitle>Om Retsmidlerne.</undertitle>
+<p>Spørgsmålet om Ordningen af Retsmidlerne i den nye Straffeproces er måske det,<lb />
+der har været Gjeustand for mest Forhandling af alle de Sporgsmål, som Omordningen har fremkaldt. først i den nyeste<lb />
+Tid har Videnskaben bragt Klarhed tilveje i dette Emne og navnlig påvist den<lb />
+for Besvarelsen afgjørende, indre Forbindelse<lb />
+mellem Principet for Retsmidlernes Ordning<lb />
+og Mundtligheds- eller Umiddelbarhedsprincipet,<lb />
+og forst i de nyeste Love og Udkast er den<lb />
+rigtige Opfattelse trængt igjennem. også nu<lb />
+i det nye tvske Udkast, hvorimod endnu det<lb />
+preussiske Udkast af 1865 med udførlig Motivering Værgede sig mod denne, der heller ikke<lb />
+godkjendtes af Loven af 1867 for de nyerhvervede preussiske Landsdele. Samtidig<lb />
+med, at den følgerigtige Ordning af Retsmidlerne således er på Veje med at trænge igjennem i Straffeprocessen, er det erkjendt,<lb />
+at de samme Grundsætninger også må Være<lb />
+gyldige for den civile Proces, idet det her<lb />
+gjælder Konsekvenserne af et for begge Dele<lb />
+af Retsplejen fælles Princip. Man vil derfor<lb />
+også finde, at det foreliggende Udkast til en<lb />
+Straffeproces, hvis Ordning er i Overensstemmelse med hint Princip, på dette Område<lb />
+har Grundtræk tilfælles med Udkastet om den<lb />
+borgerlige Retspleje, med hvilket det Samme er<lb />
+Tilfældet. Det har i det Hele været en Opgave<lb />
+at tilvejebringe en så stor Ensartethed på<lb />
+dette Punkt med det civilprocessuelle Udkast,<lb />
+som Forholdenes Forskjellighed i andre Henseender tillod.</p>
+<p>Ved Overførelsen af den nye Straffeproces i Fastlandets Lovgivninger havde man<lb />
+fra først af ingen Klarhed over, hvilke Konsekventser<lb />
+dennes Principer måtte medføre med<lb />
+Hensyn til Retsmidlernes Ordning, Man<lb />
+kunde på den ene Side ikke tænke på at bringe<lb />
+det engelske Retsmiddelsystem til Anvendelse;<lb />
+dertil var dette dels for lidet kjendt, dels også<lb />
+i sig selv altfor indviklet samt præget af<lb />
+ejendommelige engelske Forhold navnlig i Henseende til Retsorganisationen.   På den anden</p>
+</leftside>
+<rightside>
+<p>Side havde den nedarvede Opfattelse, at Appellen<lb />
+i den   Skikkelse,   som   den  ældre   Ret  kjendte<lb />
+den, indbefattende en Prøvelse af Bevisspørgsmålet,    er   uundværlig    til   den   Sigtedes<lb />
+Betryggelse,   en   sådan   Magt,   at  man   ikke<lb />
+blev dens Uforenelighed med   de nye Principer<lb />
+i det Hele vaer.   men kun  opgav den   ved en<lb />
+Del   Straffesager,   hvor   Sagsbehandlingen   i<lb />
+første   Instants  på   en   ejendommelig Måde<lb />
+afveg fra den tidligere Ret.    Hvad nemlig de<lb />
+Sager   angik,    i   hvis   Afgjørelse   Nævninger<lb />
+skulde medvirke,   fulgte  det   af   den Opfattelse,<lb />
+som herskede    i Frankrig  ved Nævningeinstitutionens Indførelse,   at   man   ikke   kunde tænke<lb />
+på at lade retskyndige Dømmere i anden Instants prøve Bevisspørgsmålet, og man overså.   at når der   ingen   anden  Hindring var<lb />
+for Appel i overleveret Forstand i Nævningesager,<lb />
+kunde man og måtte konsekvent lade Appellen<lb />
+gå til en højere Nævningeret.     Ved   alle de<lb />
+Straffesager,   som våkjendtes i første Instants<lb />
+uden Nævninger, altså navnlig også ved Mellemklassen  (délit8), fastholdt derimod  code d'instr.<lb />
+crim.   Appellen   i   samme   Udstrækning,   som<lb />
+efter den   tidligere Ret.     Den Uklarhed,   som<lb />
+hvilede over Bestemmelserne i den franske Lov,<lb />
+om Prøvelsen af Bevisspørgsmålet   skulde  ske<lb />
+på   Grundlag   af   skriftlige   Optegnelser   om<lb />
+Bevisførelsen,   eller   om   der skulde   finde   en<lb />
+Gjentagelse af Bevisførelsen Sted,    blev i den<lb />
+senere Praxis løst således.   at   det Første var<lb />
+Reglen, omend ny Bevisførelse, fuldstændig eller<lb />
+delvis, kan anordnes på Andragende eller<lb />
+i Embeds   medfør.    Denne   Grundsætning  er<lb />
+trods de  Betænkeligheder,   som vægtige Stemmer   i   Frankrig   have   udtalt,    siden   bleven<lb />
+videre udviklet ved en Lov af 13   Juni  1856,<lb />
+under   hvis   Behandling   det   af   Regjeringen<lb />
+udtaltes,    at Skriftlighedsprincipet   ligger    til<lb />
+Grund    for    Behandlingen    i     anden    Instants*).      I  Tyskland   optog   de   fleste Love<lb />
+ligefrem   den   i Frankrig  gjældende   Ret   med<lb />
+Hensyn   til   Appel.      Først   de   nyeste    Love<lb />
+(Baden.    Würtemberg.   Sachsen**),   have   og-</p>
+<p>*) „Le  législateur   a   voulu,   en   thèse  générale,<lb />
+que les appels en matière correctionelle fussent<lb/>
+jugés sur pièces.‟</p>
+<p>**) Den brunsvigste Lov as 1849 stod dog allerede<lb/>
+i denne som i mange andre Retninger på et<lb/>
+mere konsekvent Standpunkt.</p>
+</rightside>

@@ -1,0 +1,79 @@
+3101
+<pb n="231" />
+<h>
+<coll>
+3101
+</coll>
+<topmidle>
+F. t. L. om  Retens Pleje.
+</topmidle>
+<colr>
+3102
+</colr>
+</h>
+<wtitle>§ 974.</wtitle>
+<p>
+Beslutninger vedrørende Forberedelsen af et Kæremaals Forhandling kan i<lb />
+lignende Omfang som bestemt for Ankesagers Vedkommende træffes henholdsvis af<lb />
+Landsrettens eller af Højesterets Formand.
+</p>
+<title>Kapitel 86.</title>
+<undertitle>
+Genoptagelse.
+</undertitle>
+<wtitle>§ 975.</wtitle>
+<p>
+Naar en Forfølgning, som ved Undersøgelsesret har været indledet mod en<lb />
+bestemt Sigtet, standses (§ 825), eller naar, efter at Tiltale er rejst, Forfølgningen<lb />
+frafaldes, uden at Dom bliver afsagt, kan, udenfor det i § 826 omhandlede Tilfælde,<lb />
+ny Forfølgning ved Undersøgelsesret eller ny Tiltale kun rejses, naar nye Beviser af<lb />
+Vægt senere kommer for Dagen, eller de i nedenstaaende § 976 angivne Betingelser<lb />
+er til Stede. Derimod er den Omstændighed, at Undersøgelsesretten i Henhold til<lb />
+§817 har nægtet at tage en Begæring om Forundersøgelse til Følge eller i Henhold<lb />
+til § 825 har standset en begyndt Forundersøgelse, ikke til Hinder for, at Tiltale<lb />
+rejses ved den dømmende Ret.
+</p>
+<wtitle>§ 976.</wtitle>
+<p>
+Genoptagelse af en Sag, som er paadømt ved Højesteret eller ved Landsret<lb />
+under Medvirkning af Nævninger eller ifølge Anke, og hvorunder Tiltalte er frifundet,<lb />
+kan finde Sted efter Rigsanklagerens Begæring:
+</p>
+<p>
+1.	naar det ifølge en Tilstaaelse, Tiltalte senere har afgivet, eller andre<lb />
+Beviser, der senere er kommet for Dagen, maa antages, at han har begaaet For-<lb />
+brydelsen ;
+</p>
+<p>
+2.	naar falske Forklaringer eller Erklæringer er afgivne under Sagen af Vidner<lb />
+eller Syns- eller Skønsmænd, eller falske eller forfalskede Dokumenter er benyttede<lb />
+under samme, eller noget strafbart Forhold, sigtende til at paavirke eller bestemme<lb />
+Sagens Udfald, er udvist enten af Tiltalte eller af nogen, der i Medfør af sit Embede<lb />
+eller offentligt Hverv har medvirket ved Sagens Behandling, og der efter Omstændig-<lb />
+hederne er god Grund til at antage, at saadant har bevirket eller medvirket til, at<lb />
+Tiltalte har undgaaet Domfældelse.
+</p>
+<p>
+Under tilsvarende Betingelser kan Genoptagelse finde Sted, hvor Tiltalte paa-<lb />
+staas at have gjort sig skyldig i en væsentlig større Forbrydelse end den, hvorfor han<lb />
+er domfældt.
+</p>
+<wtitle>§ 977.</wtitle>
+<p>
+Paa Begæring af en Domfældt kan Genoptagelse af en ved Højesteret eller<lb />
+ved en Landsret under Medvirkning af Nævninger eller ifølge Anke paadømt Sag<lb />
+finde Sted:
+</p>
+<p>
+1.	naar nye Oplysninger tilvejebringes, og det skønnes antageligt, at disse, om de<lb />
+havde foreligget under Sagen, kunde have bevirket Frifindelse eller Anvendelse af en<lb />
+væsentlig mildere Strafbestemmelse;
+</p>
+<p>
+2.	naar noget saadant Forhold oplyses som ommeldt i § 976 Nr. 2, og det<lb />
+skønnes antageligt, at saadant kan have bevirket eller medvirket til Domfældelsen.
+</p>
+<p>
+Bestemmelserne i § 941, 2det og 3die Punktum, finder her tilsvarende An-<lb />
+vendelse.
+</p>

@@ -1,0 +1,33 @@
+34
+<pb n="37" />
+<title>Tredie Afsnit.</title>
+<undertitle>Om den offentlige Anklagemyndigheds<lb />
+Ordning.</undertitle>
+<wtitle>§ 94.</wtitle>
+<p>De offentlige Anklagere ere Overstatsanllageren ved Højesteret, Statsanklagerne ved<lb />
+Landsretterne samt de til disses Bistand beskikkede Mænd.</p>
+<p>De offentlige Anklagere virke i Retsplejen,<lb />
+og særlig for Forfølgning af Forbrydelfer, efter de nærmere Regler i Lovene om Retsplejen.</p>
+<wtitle>§ 95.</wtitle>
+<p>Overstatsanklageren beskikkes af Kongen.<lb />
+Til midlertidig at fungere som Overstatsanklager i Tilsælde af Embedsledighed eller Forfald<lb />
+kan Institsministeren beskikke.</p>
+<p>Overstatsanklageren virker ved Højesteret<lb />
+og fører Tilsynet med de offentlige Anklagere<lb />
+efter de nærmere Regler i Lovene om Retsplejen.</p>
+<p>Overstatsanklageren har Embedskontor i<lb />
+Kjøbenhavn.</p>
+<wtitle>§ 96.</wtitle>
+<p>Til Bistand ved Udførelsen af Overstatsanklagerens Hverv beskikker Kongen en Statsanklager.</p>
+<p>Justitsministeren kan efter Forhandling med<lb />
+Overstatsanklageren give også Andre Bemyndigelse til at optræde i en enkelt Sag for Højesteret som Overstatsanklager.</p>
+<wtitle>§ 97.</wtitle>
+<p>For hver af Rigets Landsretskredse beskikker Kongen en Statsanklager. Til midlertidig<lb />
+at fungere som Statsanklager i Tilfælde af<lb />
+Embedsledighed eller Forfald kan Institsministeren beskikke.</p>
+<p>Statsanklageren virker ved Landsretterne<lb />
+og Underretterne efter de nærmere Regler i Lo«<lb />
+vene om Retsplejen.</p>
+<p>Statsanklagerne have Embedskontor ved<lb />
+den Landsrets Hovedsæde, for hvis Kreds de<lb />
+beskilles.</p>

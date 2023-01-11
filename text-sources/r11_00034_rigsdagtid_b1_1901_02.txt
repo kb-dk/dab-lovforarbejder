@@ -1,0 +1,96 @@
+2325
+<pb n="34" />
+<h>
+<coll>2325</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2326</colr>
+</h>
+<leftside>
+<p>Af Justitsministeren, 
+tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>518)	Underændringsforslag til Udval-<lb />
+gets Ændringsforslag:</p>
+<p>„Skifteretten" ændres til „Sysselman-<lb />
+den."</p>
+<wtitle>Til § 525.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>519)	„Anke og Kære" ændres til<lb />
+„saadanne Søgsmaal", og §§ ,,511—513"<lb />
+ændres til „§ 511, 2det Stykke".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>520) Underændringsforslag til Udval-<lb />
+gets Ændringsforslag:</p>
+<p>Ændringsforslaget ændres til, at Para-<lb />
+graffen udgaar.</p>
+<wtitle>Til § 526.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>521) I L. 2 ændres „Skifteretten" til<lb />
+„Skifteforvalteren ".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>522) Underændringsforslag til Udval-<lb />
+gets Ændringsforslag Nr. 521:</p>
+<p>„Skifteforvalteren ændres til „Syssel-<lb />
+manden" (i Kjøbenhavn Skifteforvalteren)."</p>
+<p>(I Paragraffens 6te Linie staar: „nær-<lb />
+væreude" læs „nærværende".</p>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>523)	I L. 7 efter „Kurator i Boet"<lb />
+indsættes „om saadan findes, og ellers<lb />
+Skifteforvalteren".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>524)	Underændringsforslag til Udval-<lb />
+gets Ændringsforslag Nr. 523:</p>
+<p>„Skifteforvalteren" ændres til „Syssel-<lb />
+manden".</p>
+</leftside>
+<rightside>
+<wtitle>Til § 529.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>525) I L. 2 ændres „Skifterettens"<lb />
+til „Skifteforvalterens".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>526)	Underændringsforslag til Udval-<lb />
+gets Ændringsforslag Nr. 525:</p>
+<p>Ændringsforslaget ændres til, at Para-<lb />
+graffen udgaar.</p>
+<pt>Efter § 529.</pt>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>527)	Her indsættes:</p>
+<p>„E. Tinglysning.<lb />
+§ n.</p>
+<p>I alle Tilfælde, hvori den bestaaende<lb />
+Lovgivning foreskriver eller omhandler<lb />
+Tinglæsning, træder Tinglysning efter neden-<lb />
+fastsatte Regler i Tinglæsnings Sted.</p>
+<p>I Stedet for den saakaldte Læsning<lb />
+til Udslettelse eller Aflæsning af et Doku-<lb />
+ment træder Tinglysning til Udslettelse.<lb />
+§ o.</p>
+<p>Tinglysning foretages af den Øvrighed,<lb />
+der efter Loven om Domsmagtens og nogle<lb />
+dermed forbundne Forholds Ordning be-<lb />
+styrer Skøde- og Pantebøgerne.</p>
+<p>Den sker ved Indtegning i en Tinglys-<lb />
+ningsbog, der autoriseres af samme Myn-<lb />
+diglied. som autoriserer Skøde- og Pante-<lb />
+bøgerne og ved offentligt Opslag paa den<lb />
+i det efterfølgende foreskrevne Maade.</p>
+<p>Tinglysningens Retsvirkning indtræder<lb />
+ved Indtegningen.</p>
+<wtitle>Til § p.</wtitle>
+<p>I Henseende til, i hvilke Tilfælde denne<lb />
+Øvrighed bør foretage eller bør nægte Ting-<lb />
+lysning af et Dokument, skulle samme<lb />
+Regler gælde, som nu gælde for, i hvilke<lb />
+Tilfælde Retten bør foretage eller nægte<lb />
+Tinglæsning af et saadant Dokument,</p>
+<wtitle>Til § q.</wtitle>
+<p>Indtegning i Tinglysningsbogen be-<lb />
+staar i, at der i Tinglysningsbogen fore-<lb />
+tages en Tilførsel angaaende Dokumentet</p>
+</rightside>

@@ -1,0 +1,68 @@
+2179
+<pb n="16" />
+<h>
+<coll>2179</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2180</colr>
+</h>
+<wtitle>§ 80.</wtitle>
+<p>
+Benytte begge Parter Sagførere til at udføre Processen, kunne Meddelelser til<lb/>
+Sagførerne under Sagens Gang ske umiddelbart fra den ene Sagfører til den anden<lb/>
+uden Stævningsmænds Mellemkomst, blot imod simpelt Modtagelsesbevis.
+</p>
+<p>
+Meddelelsen kan gyldigt afleveres paa Sagførerens Kontor til enhver Tid, dette<lb/>
+er aabent, og Modtagelsesbeviset kan udstedes af Sagførerens der tilstedeværende<lb/>
+Fuldmægtige eller andre Kontorbetjente.
+</p>
+<wtitle>§ 81.</wtitle>
+<p>
+De fra Retten udgaaende Meddelelser ske paa den Maade, som Rettens For-<lb/>
+mand i hvert enkelt Tilfælde finder hensigtsmæssigst, og uden at lians Beslutninger<lb/>
+herom ere Genstand for Kære. Det er tilladt at tilstille Meddelelsen med Posten.
+</p>
+<wtitle>§ 82.</wtitle>
+<p>
+Naar der af Retten i et behørig afholdt Møde træffes Beslutning om Tids-<lb/>
+punktet for et nyt Møde eller for en Retshandlings Iværksættelse, anses de Personer,<lb/>
+der ere til Stede og paahøre Beslutningen, for at have faaet tilstrækkelig Underret-<lb/>
+ning derom. Personer, som have været lovlig tilsagte til Mødet, men som enten ere<lb/>
+udeblevne eller have forladt Mødet, forinden Beslutningen der toges, have intet Krav<lb/>
+paa særlig Forkyndelse eller Meddelelse om det nye Møde eller om Tidspunktet for<lb/>
+de besluttede Retshandlingers Iværksættelse. Dog bør Retten ikke undlade ved Bud-<lb/>
+sendelse eller med Posten at give dem Meddelelse om Beslutningen, for saa vidt denne<lb/>
+antages at være af Interesse for dem.
+</p>
+<wtitle>§ 83.</wtitle>
+<p>
+Indkaldelser og Meddelelser til militære, hvilke med de af Forholdets Natur<lb/>
+flydende Lempelser blive at forkynde efter de i dette Kapitel givne Regler, skulle til-<lb/>
+lige anmeldes for Afdelingschefen, som foranlediger paagældendes Møde for Retten,<lb/>
+hvor saadant gøres fornødent.
+</p>
+<title>Kapitel IX.</title>
+<undertitle>
+Procesmaaden i Almindelighed.
+</undertitle>
+<wtitle>§ 84.</wtitle>
+<p>
+En Sag anses for anlagt, naar Forligsklage eller Stævning er indleveret til<lb/>
+Berammelse eller Sagen er anmeldt for Retten efter § 200, 2det Stykke.
+</p>
+<p>
+Ved Forkyndelsen af Stævningen eller Fremlæggelsen af den i § 200, 2det<lb/>
+Stykke omhandlede Angivelse anses Sagen for tingfæstet; en Modfordring er at anse<lb/>
+som tingfæstet ved Fremlæggelsen eller Meddelelsen af det Svarskrift, hvori den<lb/>
+fremsættes.
+</p>
+<p>
+I det i § 273, 3die Stykke nævnte Tilfælde er Sagen anlagt, naar den er an-<lb/>
+meldt for Retten, og tingfæstet, naar den foretages i Retten.
+</p>
+<p>
+Indtil Sagsøgeren mundtlig har nedlagt sin Paastand under Domsforhandlingen,<lb/>
+staar det ham frit for at hæve Sagen, dog at Sagsøgeren ikke derved kan forhindre,<lb/>
+at der gives sagsøgte Dom for allerede tingfæstede Modfordringer. Efter det anførte<lb/>
+Tidspunkt kan Sagsøgeren derimod ikke ensidig hæve Sagen, jfr. dog § 240.
+</p>

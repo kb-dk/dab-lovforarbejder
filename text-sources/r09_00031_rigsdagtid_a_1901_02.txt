@@ -1,0 +1,67 @@
+2209
+<pb n="31" />
+<h>
+<coll>2209</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2210</colr>
+</h>
+<p>
+»clen af § 153 flydende Indskrænkning møde effer Indkaldelsen og fremsætte sin Ind-<lb/>
+sigelse til Paakendelse af Retten. Naar det af Retten findes fornødent, maa Vidnet<lb/>
+oplyse Omstændigheder, af hvilke det kan ses, at Indsigelsen er grundet.
+</p>
+<wtitle>§ 155.</wtitle>
+<p>
+Vidner ere, om fornødent, pligtige til, forinden de møde i Retten, at styrke<lb/>
+eller opfriske deres Kundskab om Vidneførslens Genstand ved at efterse deres Regn-<lb/>
+skabsbøger, Breve eller andre Optegnelser eller bese Genstande, hvortil de uden særlig<lb/>
+Omkostning eller Besvær have Adgang, o. desl., og denne Pligt kan af Retten særlig<lb/>
+paalægges dem ved Indkaldelsen eller senere.
+</p>
+<wtitle>§ 156.</wtitle>
+<p>
+Forinden et Vidne afhøres om Sagen, stiller Dommeren de Spørgsmaal til det,<lb/>
+som findes fornødne for at forvisse sig om dets Identitet samt for at afgøre, om der <lb/>
+er noget til Hinder for Vidnesbyrdets Modtagelse. Dommeren skal derefter alvorlig<lb/>
+lægge Vidnet paa Hjærte at følge Sandheden, idet han minder det om det Strafansvar,<lb/>
+som det paadrager sig ved at afgive falsk Forklaring for Retten, og om at det maa<lb/>
+være forberedt paa at bekræfte sin Forklaring med Ed eller paa anden højtidelig<lb/>
+Maade.
+</p>
+<p>
+Skulle flere Vidner afhøres, kan Dommeren lade denne Forberedelse til Af-<lb/>
+hørelse foregaa under et for flere eller samtlige indkaldte Vidner.
+</p>
+<wtitle>§ 157.</wtitle>
+<p>
+Ethvert Vidne afhøres for sig og bør i Reglen ikke, forinden dets Afhøring<lb/>
+under Domsforhandlingen er afsluttet, paahøre Forklaringer af andre Vidner, af Syns-<lb/>
+eller Skønsmænd eller af Sigtede. Vidner, hvis Udsagn staa i Strid med hinanden,<lb/>
+kunne efter Parternes Begæring eller Rettens Beslutning stilles imod hinanden.
+</p>
+<wtitle>§ 158.</wtitle>
+<p>
+Enhver Part afhører de af ham fremstillede Vidner. Naar han har sluttet sin<lb/>
+Afhørelse af et Vidne, kan Modparten rette Spørgsmaal til det, og Parten kan der-<lb/>
+efter rette de Spørgsmaal til Vidnet, hvortil Modafhøringen har givet Anledning. Ret-<lb/>
+tens Formand kan tillade Fremsættelse af yderligere Spørgsmaal.
+</p>
+<p>
+Naar Vidnets Helbredstilstand kræver Afhørelse paa et særligt Sted, saavel<lb/>
+som overhovedet i Underretssager, skal Rettens Formand afhøre Vidnet, hvis dette<lb/>
+eller nogen af Parterne paa Forespørgsel begærer det. Der skal i saa Fald gives<lb/>
+Parterne Lejlighed til gennem Retten at stille Spørgsmaal til Vidnet. Samme Regel<lb/>
+gælder ved Landsret og Højesteret for den Parts Vedkommende, der ikke selv er<lb/>
+Sagfører eller møder ved Sagfører.
+</p>
+<p>
+Retten kan, efter Begæring eller af egen Drift, lade et Vidne, der er aftraadt,<lb/>
+fremstaa paa ny til yderligere Afhørelse; foranstaaende Regler finde herved tilsvarende<lb/>
+Anvendelse.
+</p>
+<wtitle>§ 159.</wtitle>
+<p>
+Under et Vidnets Afhøring bør det iagttages:<lb/>
+at Vidnet saa vidt muligt foranlediges til at udtale sig i sammenhængende<lb/>
+Orden om de Punkter, angaaende hvilke dets Forklaring æskes,
+</p>

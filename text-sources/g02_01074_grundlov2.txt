@@ -1,0 +1,155 @@
+3621
+<pb n="1074" >
+<p rend="page">1074</p>
+<h>
+<coll>3621</coll>
+<colr>3622</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No-. 457.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede og Ni og Tyvende (133te) Møde.<lb />
+(Grundlovens 3die Læsning.)<lb />
+</stitle>
+<p>
+IV. Forslag til Redactionsforandringer i Grundloven:<lb />
+<law n="1074" >§ 26.<lb /></law>
+„Udsætte den ordentlige Rigsdags Møder paa bestemt Tid“ forandres til „hæve den ordentlige Rigsdag“.<lb />
+<law n="1074" >§ 27.<lb /></law>
+„skal det andet Things Møder udsættes“ forandres til „skal det<lb />
+andet hæves“.<lb />
+</p>
+<p>
+M. Hammerich. W. Ussing. Olrik. Mundt.<lb />
+Frederik Barfod. F. E. Boisen. C. C. Møller.<lb />
+</p>
+<p>
+M. Mørf Hansen. N. L. Westergaard.<lb />
+Cederfeld de Simonsen. G. Winther. Bernhard Rée.<lb />
+F. M. Knuth. Lorck A. F. Tscherning. P. Pedersen.<lb />
+</p>
+<p>
+V) Forslag til Redctionsforandringer i Grundloven:<lb />
+<law n="1074" >§ 32.<lb /></law>
+„gjennem de Regjeringsmyndigheder, som det er overladt, de Bevillinger“ forandres til „gjennem vedsommende Regjeringsmyndigheder saadanne Bevillinger“.<lb />
+<law n="1074" >§ 44.<lb /></law>
+„større communale (Amts- eller Brovinds-) Raad“ forandred til<lb />
+„større communale Raad, for Amter eller Provindser“.<lb />
+<law n="1074" >§ 56.<lb /></law>
+Ordene „Ed paa Grundloven“ sættes Umiddelbart efter „aflægger“.<lb />
+<law n="1074" >§ 82.<lb /></law>
+„dog skal Enhver“ foradres til „Enhver“, og „til Skolevæfenet“<lb />
+forandres til „skal til Skolevæsenet“.<lb />
+<law n="1074" >§ 90.<lb /></law>
+„for hvis Oplærelse forældrene ikke have Evne til at førge“ forandres til „havis Forældre ikke have Evne til at sørge for deres<lb />
+Oplærelse“.<lb />
+<law n="1074" >§ 94.<lb /></law>
+„indskride“ forandres til „skride ind“.<lb />
+<law n="98 (jfr" />§ 98 (jfr. <law n="98 (jfr" />§ 44.)<lb />
+„overgaae“ forandres til „gaae over“.<lb />
+<law n="1074" >§ 100.<lb /></law>
+Ordene „eller Tillæg til" undelades.<lb />
+M. Hammerch. Andræ. C. Ploug. C. Paludan-Műller.<lb />
+Olrik. C. H. Wegener. Frederif Barsod. Mørk Hansen.<lb />
+F. C. Boisen. C. C. Møller. Colding. G. Winther.<lb />
+Cederseld de Simonsen. Bernhard Rée. P. Pedersen.<lb />
+</p>
+<p>
+VI) Forslag til Redactionsforandring i Grundloven:<lb />
+<law n="1074" >§ 86.<lb /></law>
+„Beslaglæggelse og Undersøgelse“ forandres til „Ransagning og<lb />
+Beslaglægning“.<lb />
+</p>
+<p>
+M. Hammerich. Lack. Andræ. Carl Ploug.<lb />
+C. H. Wegener. Mundt. Frederik Barfod. Mørk Hansen.<lb />
+F. C. Boisen. C. C. Møller. N. L. Westergaard.<lb />
+Cederseld de Simonsen. G. Winther.<lb />
+Ch. La Cour. F. M. Knuth.<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+Formanden bemærkede, at efter § 17 i Regulativet vilde det<lb />
+først være med 2/3 Stemmer uden Discussion at afgjøre om de enkelte<lb />
+Forslag kunde komme til Forhandling og Afstermning, hvilket da i bektæftende Fald først kunde skee i et følgende Møde. Han satte dersfter først, med Hensyn til de af Udvalget gjøorte Forslag til Redactionsforandringer, hvert for sig, under Afstemning, hvorvidt de maatte<lb />
+komme til Forhandling og Afstemning, og blev Resultatet følgende:<lb />
+</p>
+<p>
+1) ad § 13:<lb />
+„Er Kongen død“ forandres til „Naar Kongen er død“,<lb />
+blev med 105 Ja mod 13 Nei tilstedet at komme under<lb />
+Behandling.<lb />
+</p>
+<p>
+2) ad § 15:<lb />
+„udvælger“ forandres til „vælger“,<lb />
+blev eenstemmig med 111 Stemmer tilstedet at komme under Forhandling.<lb />
+</p>
+<p>
+3) ad § 21:<lb />
+Begyndelsen forandres saaledes: „Ministrene i Forening udgjøre Statsraadet; Forsædet føres o. s. v.“,<lb />
+blev eenstemmig med 107 Stemmer tilstedet at komme under<lb />
+Forhandling.<lb />
+</p>
+<p>
+4) ad § 37:<lb />
+„skal være efter det omtrentlige Forhold“ forandres til „skal<lb />
+omtrent være efter Forholdet“,<lb />
+blev eenstemmig med 114 Stemmer tilstedet at komme under<lb />
+Forhandling.<lb />
+</p>
+<p>
+5) ad § 40:<lb />
+„aarlig Nettoindtægt“ forandres til „reen aarlig Indtægt“,<lb />
+og „som vil blive at fastsætte“ forandres til „som fastsættes“,<lb />
+blev eenstemmig med 114 Stemmer tilstedet at komme under<lb />
+Forhandling.<lb />
+</p>
+<p>
+6) ad § 56:<lb />
+„saasnart“ forandres til „naar“,<lb />
+blev eenstemming med 111 Stemmer tilstedet at komme under<lb />
+Forhandling.<lb />
+</p>
+<p>
+7) ad § 69:<lb />
+„forinden har sammenkaldt den“ forandres til „har indkaldt<lb />
+den til at møde forinden“,<lb />
+blev eenstemmig med 117 Stemmer tilstedet at komme under<lb />
+Forhandling.<lb />
+</p>
+<p>
+8) ad § 70:<lb />
+Begyndelsen forandres saaledes: „Regjeringens Sæde er<lb />
+Rigsdagens Forsmlingssted“,<lb />
+blev eenstemmig med 118 Stemmer tilstedet at komme under<lb />
+Forhandling.<lb />
+</p>
+<p>
+9) §§ 45—47 flyttes til Afsnit V, hvor da §§ 45—71 sættes i<lb />
+følgende Orden: 69, 70, 45, 48, 49, 50, 51, 52, 53, 54, 61,<lb />
+67, 68, 55, 56, 47, 46, 57, 58, 59, 60, 62, 63, 64, 65,<lb />
+66, 71,<lb />
+blev eenstemmig med 118 Stemmer tilstedet at komme under<lb />
+Forhandling.<lb />
+</p>
+<p>
+10) ad § 94:<lb />
+„tør“ forandres til “maa“,<lb />
+blev eenstemmig med 116 Stemmer tilstedet at komme under<lb />
+Forhandling.<lb />
+</p>
+<p>
+11) ad § 3 i de mindlertidige Bestemmelser:<lb />
+Begyndelsen forandres saaledes: „Den i § 78 indeholdte<lb />
+</p>
+</rightside>
+
+
+</pb>

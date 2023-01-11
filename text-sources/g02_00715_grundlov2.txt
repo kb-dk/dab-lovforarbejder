@@ -1,0 +1,137 @@
+2903
+<pb n="715" >
+<p rend="page">715</p>
+<h>
+<coll>2903</coll>
+<colr>2904</colr><lb />
+Den endelige Behandling af Grundlovsudkastet. §§ 30—36.<lb />
+</h>
+<leftside>
+<p>
+
+Pape.	Brinck-Seidelin.<lb />
+Pedersen (J.) af Sæding.	Sidenius.<lb />
+Pedersen (P.) af Kjøbenhavn.	Sigurdsson.<lb />
+Petersen (B.) af Kjøbenhan.	Stender.<lb />
+Petersen (C.) af Davinde.	Lang.<lb />
+Pjetursson.	Thalbitzer.<lb />
+Ploug.	Theilmann.<lb />
+Rasmussen (J.) af Svanninge.	Tobiesen.<lb />
+Rasmussen (H.)	Tscherning.<lb />
+Ragsmussen (M.).	Tuxen.<lb />
+Schack.	Ussing af Viborg.<lb />
+Schiern.	Westergaard.<lb />
+Schroll.	Visby.<lb />
+Schurmann.	Winther.<lb />
+Schytte.	With.<lb />
+</p>
+<p>
+Fraværende.<lb />
+Buntzen.	Køster.<lb />
+Colding.	Leth.<lb />
+Duntzfelt.	Marckmann.<lb />
+Eriksen.	Schlegel.<lb />
+Gislason.	Skeel.<lb />
+Gram.	Stockfleth.<lb />
+Grundtvig.	Treschow.<lb />
+</p>
+<p>
+4) Nr. 149. Schierns Ændring til det subsidiaire Hovedforslag:<lb />
+„istedetfor „50" sættes „48". "<lb />
+forkastedes med 53 Stemmer mod 46.<lb />
+5) Nr. 150. Det subsidiaire Hovedforslag:<lb />
+„Det samme Forslag med den Forandring, at § 36 kommer<lb />
+til at lyde saaledes: Landsthinget bestaaer af 50 Medlemmer,<lb />
+der fungere paa Livstid. Af det hele Antal vælger Kongen ⅓,<lb />
+Folkethinget ⅓ og Landets øverste Domstol ⅓. "<lb />
+forkastedes med 95 Stemmer mod 28.<lb />
+</p>
+<p>
+<speaker>Formanden:</speaker> Jeg skal give Ordet til den ærede Rigsdagsmand for Kjøbenhavns 2det District (H. P. Hansen), der har stillet<lb />
+et Forslag, der paa Afstemningslisten findes anført under Litr. E,<lb />
+hvilket han nok ønsker at tilbagetage.<lb />
+</p>
+<p>
+<speaker>H. P. Hansen:</speaker> Jeg skal tillade mig at bemærke, at det<lb />
+ikke er, som den høitagtede Formand har yttret, at jeg agter at tage<lb />
+Forslaget tilbage, men jeg har kun villet henstille til ham, om det<lb />
+ikke maaskee kunde behandles under Eet med det følgende under F,<lb />
+navnlig af det Hensyn, jeg tager til Forsamlingens Tid, og fordi<lb />
+jeg beredvillig erkjender, at vi bør stræbe efter at fuldende vor Gjerning. Da dette Forslag gaaer ud fra det samme Princip, som det,<lb />
+der ligger til Grund for Forslaget under F, og da de forskjellige<lb />
+Punkter, som det indeholder, ogsaa ere stillede som Amendements til<lb />
+F, ligesom ogsaa de forskjellige Amendements, som fra Forsamlingens<lb />
+Side ere fremkomme til Eetkamret, ere opstillede til Forslaget under<lb />
+F, maaskee af den Grund, at mit Forslag er kommet noget senere, har<lb />
+jeg udbedet mig Ordet for at henstille til den høitagtede Formand,<lb />
+om ikke disse Forslag kunde behandles under Eet.<lb />
+</p>
+<p>
+<speaker>Formanden:</speaker> Det forekommer mig dog ikke, at disse 2 Forslag godt kunne behandles under Eet; det Samme kan meget let opnaaes ved, at den ærede Rigsdagsmand med Hensyn til de Punkter,<lb />
+hvori han er afvigende, stiller Amendements til Litra F.<lb />
+</p>
+<p>
+<speaker>H. P. Hansen:</speaker> Jeg skal tillade mig at bemærke, at de allerede ere stillede som Amendments til næste Forslag, og det er just<lb />
+Grunden, hvorfor jeg troer ikke at behøve at opholde Forsamlingens<lb />
+Tid ved mit Forslag.<lb />
+Som Følge heraf kom Forslaget under Litra E, der er saalydende:<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+
+9de Hovedforslag<lb />
+af Comiteens Minoritet (Hansen).<lb />
+<law n="30" >§ 30.<lb /></law>
+Rigsdagen fremgaaer ved umiddelbare Valg af Folket og<lb />
+danner en af tvende Afdelinger bestaaende Eenhed.<lb />
+<law n="31" >§ 31.<lb /></law>
+Rigsdagen skal bestaae af et saa stort Antal Medlemmer, at<lb />
+det svarer til Befolkningen efter Forholdet af eet Medlem for<lb />
+omtrent 10,000 Indvaanere. Den ene Halvdeel vælges ved<lb />
+almindelige, den anden Halvdeel ved betingede Valg. Ved de<lb />
+almindelige Valg finder ingen Adskillelse Sted imellem Kiøbstæderne og Landet. Hovedstaden vælger særskilt. Ved de betingede<lb />
+Valg vælges ½ af Kjøbenhavn og Kjøbstæderne og ⅔ af Landdistricterne.<lb />
+</p>
+<p>
+De betingede Valg foregaae stedse sidst. Valgene finde Sted<lb />
+efter de Districtsinddelinger og paa den Maade, der nærmere<lb />
+bestemmes i Valgloven.<lb />
+<law n="32" >§ 32.<lb /></law>
+Valgret til de almindelige Valg har enhver uberygtet Mand,<lb />
+der har Indfødsret og har fyldt sit 25de Aar, naar han ikke<lb />
+nyder Understøttelse af Fattigvæsenet eller er ude af Raadighed<lb />
+over sit Bo.<lb />
+<law n="33" >§ 33.<lb /></law>
+Valgret til de betingede Valg har Enhver, som, foruden at<lb />
+besidde de i § 32 nævnte personlige Egenskaber, enten:<lb />
+a) er Eier, Fæster eller Beneficiarius af mindst 4 Td. Hartkorn, eller<lb />
+b) eier Arealskat undergivne Bygninger af en Assuranceværdi<lb />
+i Kjøbenhavn mindst 4000 Rbd., og udenfor Kjøbenhavn<lb />
+1000 Rbd., eller<lb />
+c) betaler i aarlig Leie af sin Beboelsesleilighed, i Kjøbenhavn<lb />
+mindst 200 Rbd., og udenfor Kjøbenhavn 100 Rbd., eller<lb />
+som Embedsbolig beboer en Leilighed, der kan ansættes til<lb />
+saadan Leie, eller<lb />
+d) betaler i Forpagtningsafgift af Jorder eller et industrielt Etablissement mindst 500 Rbd. aarlig.<lb />
+<law n="34" >§ 34.<lb /></law>
+Valgbar til alle Valgene er Enhver, der er valgberettiget<lb />
+ved de almindelige Valg.<lb />
+<law n="35" >§ 35.<lb /></law>
+Rigsdagsmændene vælges paa 4 Aar og erholde et bagligt<lb />
+Vederlag i den Tid, de ere samlede.<lb />
+<law n="36" >§ 36.<lb /></law>
+Hvergang Rigsdagen, efterat nye Valg over hele Landet<lb />
+have fundet Sted, er sammentraadt, udvælger den for ligesaa<lb />
+lang Tid en Trediedeel af sine Medlemmer, som skulle udgjøre<lb />
+Rigsdagens anden Afdeling, de øvrige to Trediedele danne<lb />
+dens første Afdeling.<lb />
+</p>
+<p>
+ikke under særskilt Forhandling. Efterat derpaa næste Møde var berammet til den følgende Dags Eftermiddag Kl. 6, hvor da det af<lb />
+Andræ under Litra F stillede Forslag skulde komme under Forhandling, blev Mødet hævet.<lb />
+</p>
+</rightside>
+
+
+</pb>

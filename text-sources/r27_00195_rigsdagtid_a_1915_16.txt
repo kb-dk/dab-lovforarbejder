@@ -1,0 +1,77 @@
+3029
+<pb n="195" />
+<h>
+<coll>
+3029
+</coll>
+<topmidle>
+F. t. L. om  Retens Pleje.
+</topmidle>
+<colr>
+3030
+</colr>
+</h>
+<p>
+Af de Personers Udsagn, som afhøres, skal det væsentlige Indhold gengives i<lb />
+Retsbogen; vigtigere Erklæringer af Sigtede og navnlig Tilstaaelser skal saa vidt<lb />
+muligt gengives med hans egne Ord; det samme gælder om Forklaringer, der af-<lb />
+gives af Vidner og Syns- eller Skønsmænd, medmindre de maa antages at skulle af-<lb />
+høres paa ny under Domsforhandlingen (Nævningesager). Naar Afhørelsen er endt, op-<lb />
+læses og vedtages det Retsbogen tilførte.
+</p>
+<p>
+Efter Oplæsningen er Paatalemyndigheden, Sigtede og Forsvareren berettigede<lb />
+til at fremføre Bemærkninger med Hensyn til den skete Tilførsel. Saadanne Be-<lb />
+mærkninger indføres i Korthed i Retsbogen.
+</p>
+<p>
+Afslag paa Begæring om yderligere Spørgsmaal saavel som Afgørelse af Tviste-<lb />
+punkter. der opstaar under Forundersøgelsen, sker ved Kendelse.
+</p>
+<wtitle>§ 825.</wtitle>
+<p>
+Frafaldes Forfølgningen, eller finder Retten, at Lovens Betingelser for dens<lb />
+Virksomhed ikke er til Stede, standses Forundersøgelsen, og fornøden Underretning<lb />
+meddeles Paatalemyndigheden og Sigtede.
+</p>
+<p>
+Forundersøgelsen sluttes, naar Retten finder, at Undersøgelsen er fremmet saa<lb />
+vidt, som Øjemedet udkræver, saa og naar Paatalemyndigheden begærer det og op-<lb />
+lyser, at Tiltale er rejst. Udskrift af Sagen tilligemed dennes Aktstykker tilstilles<lb />
+snarest muligt Paatalemyndigheden. Underretning om Slutningen meddeles Sigtede.
+</p>
+<p>
+En sluttet Forundersøgelse kan genoptages efter Begæring af Paatalemyndig-<lb />
+heden eller Sigtede. Indtil Tiltale er rejst, kan Retten ogsaa af egen Drift genoptage<lb />
+Forundersøgelsen for at træffe Bestemmelse om Ophør af Fængsling eller anden ved-<lb />
+varende Foranstaltning.
+</p>
+<wtitle>§ 826.</wtitle>
+<p>
+Overanklagerens Beslutning om Frafald af Forfølgning binder ikke den over-<lb />
+ordnede Myndighed; dog maa Forfølgningens Fortsættelse efter den overordnede<lb />
+Myndigheds Beslutning linde Sted inden Udløbet af to Maaneder, medmindre Be-<lb />
+tingelserne for Sagens Genoptagelse efter § 975 er til Stede.
+</p>
+<wtitle>§ 827.</wtitle>
+<p>
+Fremkommer der under Forundersøgelsen Oplysning om Omstændigheder, ifølge<lb />
+hvilke Politimesteren skønner, at der vil blive Spørgsmaal om at undlade Paatale i<lb />
+Medfør af § 723, og som maa antages at være Overanklageren ubekendte, meddeler<lb />
+han ham Underretning herom, ledsaget af fornøden Udskrift af Undersøgelsen. Indtil<lb />
+hans Beslutning inden en af Retten fastsat Frist indtræffer, foretages der kun saa-<lb />
+danne Undersøgelseshandlinger, som ikke taaler Ophold.
+</p>
+<wtitle>§ 828.</wtitle>
+<p>
+Er Forundersøgelse under een Sag iværksat mod flere Sigtede eller for flere<lb />
+Forbrydelser, kan Retten, naar den finder, at Undersøgelsen for enkelte, men ikke alle<lb />
+Sigtedes eller Forbrydelsers Vedkommende er fremmet i det Omfang, som Øjemedet<lb />
+udkræver, for saa vidt slutte Forundersøgelsen.
+</p>
+<p>
+Sluttes Forundersøgelsen for en eller nogle af de Forbrydelser, for hvilke den<lb />
+samme Person er sigtet, kan Undersøgelsen af de andre Forbrydelser midlertidig<lb />
+hvile, indtil Afgørelse for den eller de førstnævnte Forbrydelsers Vedkommende har<lb />
+fundet Sted, naar Overanklageren forlanger det og Sigtede ikke fordrer Fortsættelse.
+</p>

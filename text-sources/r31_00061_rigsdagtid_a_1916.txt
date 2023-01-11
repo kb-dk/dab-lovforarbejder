@@ -1,0 +1,65 @@
+477
+<pb n="61" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>477</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 251.</wtitle>
+<p>
+Enhver, der tror sig i det hele eller for en Del berettiget til den Ting eller<lb />
+den Rettighed, som er Genstand for en Retstrætte i første Instans imellem andre,<lb />
+kan under Iagttagelse af Reglerne i Kapitel 34 indtræde som Intervenient i den<lb />
+begyndte Sag.
+</p>
+<p>
+Intervention kan ikke finde Sted, når den Ret, for hvilken Sagen svæver,<lb />
+ikke ved Parternes Samtykke kunde gøres kompetent til at påkende Interventionssøgsmålet, dersom det anlagdes særskilt.
+</p>
+<wtitle>§ 252.</wtitle>
+<p>
+Enhver, der har en retlig Interesse i, at en Part vinder en for Retten svævende Sag, kan indtræde i Sagen til denne Parts Understøttelse og få Adgang til at<lb />
+ytre sig i Sagen i Overensstemmelse med de nærmere Regler i Kapitel 34.
+</p>
+<wtitle>§ 253.</wtitle>
+<p>
+Sagsøgeren kan andrage på at måtte tilstævne (adcitere) Trediemand for at<lb />
+få Dom over ham enten alternativt eller tilsammen med Sagvolderen. Sådant Andragende kan dog ikke tages til Følge, når det må tilregnes Sagsøgeren som en<lb />
+Forsømmelse, at den pågældende Trediemand ikke fra Begyndelsen af er blevet inddraget under Søgsmålet. I øvrigt bliver de i Kapitel 34 givne Regler at iagttage.
+</p>
+<wtitle>§ 254.</wtitle>
+<p>
+Ved Anvendelsen af de i dette Kapitel indeholdte Regler forbeholdes der dog<lb />
+Retten den Myndighed, som er tillagt den i § 286.
+</p>
+<title>Kapitel 24.</title>
+<undertitle>
+Sagens Parter.
+</undertitle>
+<wtitle>§ 255.</wtitle>
+<p>
+Hvo der er ret Sagsøger eller Sagvolder, afgøres efter Lovgivningens almindelige Regler.
+</p>
+<p>
+Ligeledes afgøres det efter Lovgivningens almindelige Regler, om det ifølge<lb />
+Retsforholdets Beskaffenhed er nødvendigt, at flere Personer optræder som Procesfæller for at udgøre ret Sagsøger eller Sagvolder.
+</p>
+<wtitle>§ 256.</wtitle>
+<p>
+Hvor et nødvendigt Procesfællesskab mellem flere Personer finder Sted, og i<lb />
+et Retsmøde en eller flere af disse udebliver, medens en eller flere af dem giver Møde,<lb />
+repræsenterer den eller de, der møder, de udeblevne.
+</p>
+<wtitle>§ 257.</wtitle>
+<p>
+Myndigheden til at råde over Retstrætter som Part afgøres efter den borgerlige Rets Regler; dog tages kun Hensyn til Sagens egentlige Genstand, men ikke til<lb />
+Sagsomkostninger.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

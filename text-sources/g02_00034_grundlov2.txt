@@ -1,0 +1,149 @@
+1541
+<pb n="34" >
+<p rend="page">34</p>
+<h>
+<coll>1541</coll>
+<colr>1542</colr><lb />
+</h>
+<leftside>
+<btitle>
+A. Grundlovsudkastet.<lb />
+</btitle>
+<title>
+IV.<lb />
+</title>
+<p>
+<law n="30" >§ 30.<lb /></law>
+Rigsdagen bestaaer af Folkethinget og Landsthinget Begge fremgaae ved umiddelbar Valg<lb />
+af Folket.<lb />
+<law n="31" >§ 31.<lb /></law>
+Valgret til Rigsdagen har enhver uberygtet Mand, som har Infødsret, naar han har<lb />
+fyldt sit 30te Aar, medmindre han:<lb />
+a) uden at have egen Huusstand staaer i<lb />
+privat Tjenesteforhold;<lb />
+b) nyder eller har nydt Understøttelse af<lb />
+Fattigvæsenet, som ikke er enten eftergiven<lb />
+eller tilbagebetalt;<lb />
+c) er ude af Raadigheden over sit Bo;<lb />
+d) ikke har havt fast Bopæl i eet Aar i<lb />
+det Valgdistrikt, hvori han opholder sig paa<lb />
+den Tid, Valget foregaaer. Omflytning i en<lb />
+Stad, der har flere end eet Valgdistrikt, er<lb />
+i saa Henseende uden Indflydelse.<lb />
+<law n="32">§ 32<lb /></law>
+Valgbar er, med de i § 31 Litr. a, b og c<lb />
+nævnte Undtagelser, enhver uberygtet Mand,<lb />
+som har Indfødsret,<lb />
+</p>
+<p>
+til Folkethinget, naar han har fyldt sit<lb />
+25de Aar,<lb />
+til Landsthinget, naar han har fyldt sit<lb />
+40de Aar og i det sidste Aar før Valget har<lb />
+havt fast Bopæl i det Amr, hvori han vælges.<lb />
+<law n="33" >§ 33.<lb /></law>
+Valgene tit Folkethinget foregaae efter Distrikter paa omtrent 12, 000 Indvaanere. Ethvert Distrikt vælger een blandt dem, der have<lb />
+stillet sig til Valg.<lb />
+</p>
+<p>
+Valgene til Landsthinget foregaae amtsviis. Hver Vælger stemmer i sin Commune paa<lb />
+saa mange i Amtet bosatte Mænd, som skulle<lb />
+vælges for dette. Hovedstaden vælger særskilt<lb />
+og blandt de deri bosatte Mænd. Omvalg<lb />
+finde Sted for deres Vedkommende, der ved<lb />
+første Valg ikke have opnaaet mere end Halvdelen af de afgivne Stemmer.<lb />
+<law n="34" >§ 34.<lb /></law>
+Antallet af Landsthingets Medlemmer skal<lb />
+stedse være omtrent ⅓ af Antallet af Folkethingets Medlemmer.<lb />
+<law n="35" >§ 35.<lb /></law>
+Medlemmerne af Folkethinget vælges paa<lb />
+4 Aar.<lb />
+</p>
+<p>
+Medlemmerne af Landsthinget vælges paa<lb />
+8 Aar. Halvdelen afgaaer hvert 4de Aar.<lb />
+Hvilke der skulle afgaae første Gang, bestemmes ved Lodtrækning mellem de for hvert Amt<lb />
+og for Kjøbenhavn Valgte.<lb />
+<law n="36" >§ 36.<lb /></law>
+Medlemmerne af Folkethinget erholde et<lb />
+dagligt Vederlag; Medlemmerne af Landsthinget derimod ikke.<lb />
+</p>
+</leftside>
+<rightside>
+<btitle>
+C. Minoritetsindstillingerne.<lb />
+</btitle>
+<title>
+IV.<lb />
+</title>
+<stitle>
+1 ste Minoritet.<lb />
+</stitle>
+<p>
+<law n="30" />§ 30. Rigsdagen dannes af Folkets Repræsentanter, samlede i eet Kammer. Den fremgaaer ved umiddelbare Valg af Folket.<lb />
+<law n="31" />§ 31, som Udkastet.<lb />
+<law n="32" />§§ 32 og 33, som Udkastet, med Bortskærelse af sidste Passus (om Landsthinget).<lb />
+<law n="34" />§ 34 udgaaer aldeles.<lb />
+<law n="35" />§§ 35 og 36, som Udkastet, med Bortskærelse af det sidste Stykke (om Landsthinget).<lb />
+</p>
+<stitle>
+2 den Minoritet.<lb />
+</stitle>
+<p>
+A. For det egentlige Danmarks Vedkommende sammensættes Rigsdagen omtrent saaledes:<lb />
+I. ved betingede Valg:<lb />
+1) Kjøbenhavn vælger 10.<lb />
+2) a. Østifternes Kjøbstæder efter de ældre Valgdistrikter 11.<lb />
+b. Iyllands Kjøbstæder ligeledes 11.<lb />
+3) a. de mindre Landeiendomsbesidderes Valgdistrikter i Østifterne 20.<lb />
+b. ligeledes i Iylland 22.<lb />
+4) De større Landeiendomsbesiddere efter nærmere Fordeling 16.<lb />
+II. ved almindelige Valg:<lb />
+af 50 Distrikter paa omtrent 26, 000 Indbyggere, Land og Kjøbstæder i Almindelighed forenede, vælges 50.<lb />
+III. Endelig tiltræde 10.<lb />
+som enten vælges saaledes:<lb />
+a) af Geistligheden 4.<lb />
+b) af Universitetet, polytechnisk Læreanstalt og den militære Høiskole i Forening 2.<lb />
+c) Høiesteret 2.<lb />
+d) Landsoverretterne 2.<lb />
+eller hvis Valg overlades til Kongen. 150.<lb />
+</p>
+<p>
+B. Om Valgret og Valgbarhed.<lb />
+I. Valgret til de under I. ommeldte Valg betinges af:<lb />
+1) I Kjøbenhavn: Eiendomsret over Huse eller Gaarde, der ere ansatte til en Assuranceværdi af idetmindste 4000 Rbd. (Fdg. 15 Mai 1834 § 13).<lb />
+2) 3 Kjøbstæderne: saadan Eiendomsret til en Værdi af 1000 Rbd. og paa Bornholm<lb />
+det Halve (Fdg. 1834 § 14).<lb />
+3) I de mindre Landeiendomsbestdderes Valgdistrikter: Eiendomsret eller Fæsteret over 2<lb />
+Tdr. Hartkorn Ager og Eng eller 4 Tdr. Hartkorn Skov og Mølleskyld, eller Eiendomsret over Bygninger, der ere undergivne Arealskat og have en Assuranceværdi<lb />
+af 2000 Rbd.<lb />
+I samtlige disse Valgdistrikter (1—3) kunne forskjellige Eiendomme sammenlægges<lb />
+for at begrunde Valgretten paa den i Fdg. 15 Mai 1834 §§ 10, 13, 14 og 19 bestemte Maade.<lb />
+Fremdeles deeltager i samtlige disse Distrikter i Valgretten, enhver i det vedkommende Distrikt bosat Mand, som i det sidste Aar har svaret i directe kongelige eller communale Skatter og Asgifter 40 Rbd. De Skatter og Afgifter, som ifølge Lovgivningen<lb />
+falde paa Brugeren eller Leietageren, men ifølge privat Overeenskomst ere udredede<lb />
+af Eieren, betragtes som om de være erlagte af Brugeren selv.<lb />
+4) For de større Landeiendomsbesiddere: en Eiendom med idetmindste 20 Tdr. Hartkorn<lb />
+Ager og Eng.<lb />
+</p>
+<p>
+Som personlige Egenskaber fordres hos Enhver, der skal udøve den ovenmeldte Valgret,<lb />
+at han er fuldmyndig og uberygtet, at han har Indfødsret, og at hans Bo ikke er taget under Opbuds- eller Fallitbehandling.<lb />
+</p>
+<p>
+Til Valgbarhed i de ovenmeldte Valgcorporationer fordres ikkun de nysnævnte personlige Egenskaber.<lb />
+</p>
+<p>
+II. Valgret og Valgbarhed ved de almindelige Valg tilkommer enhver fuldmyndig<lb />
+og uberygtet Mand, som har Indfødsret, og ikke staaer under Fattigforsørgelse, dog at til<lb />
+Valgret tillige udfordres, at han har havt fast Bopæl i et halvt Aar i det Valgdistrikt, hvori<lb />
+han opholder sig, paa den Tid han indtegnes som Vælger.<lb />
+</p>
+<p>
+For Island udvælges 5 Medlemmer og for Færøerne 1 Medlem. De nærmere Bestemmelser<lb />
+herom forbeholdes, saavelsom om det Antal Medlemmer, der skal vælges af Slesvig.<lb />
+</p>
+</rightside>
+<underpage>
+Beretning om Forh. paa. Rigsdagen. Nr. 197.<lb />
+</underpage>
+</pb>

@@ -1,0 +1,108 @@
+2283
+<pb n="98" />
+<p rend="page">98</p>
+<h>
+<coll>2283</coll>
+<colr>2284</colr><lb />
+<topmidle>Bilag til Bet. o. Lovf. om Rettens Pleje.. </topmidle>
+</h>
+
+<p>
+Bilag 2.<lb />
+</p>
+<title>
+Foreløbigt Ændringsforslag<lb />
+af<lb />
+Flertallet under Nr. 6<lb />
+til<lb />
+en forandret Paragraffølge og delvis Sammendragning af Bestemmelserne<lb />
+i<lb />
+Lovforslaget om Rettens Pleje.<lb />
+</title>
+<undertitle>
+Anm. Hvor der i dette Ændringsforslag er henvist til Paragraffer efter den her foreslaaede ny Para-<lb />
+graffølge, ere Tallene satte i Parentes.<lb />
+</undertitle>
+<leftside>
+<p>
+Første Bog.<lb />
+</p>
+<p>
+Første Afsnit.<lb />
+</p>
+<p>
+holdes udenfor Landsrettens Hovedtingsted."<lb />
+Kapitel 1.<lb />
+</p>
+<p>
+§§ 12—16 = Forslagets §§ 14—18.<lb />
+Retterne.<lb />
+</p>
+<p>
+88 17—19 = Forslagets 88 20—22.<lb />
+§§ 1_3 = Forslagets §§ 1-3,<lb />
+</p>
+<p>
+§ 20, jfr. Forslagets § 178.<lb />
+</p>
+<p>
+§§ 4—10 = Forslagets §§ 5—11. -<lb />
+</p>
+<p>
+§ 11, jfr. Forslagets § 12, l.-Stk., 1. og 2.<lb />
+</p>
+<p>
+Pkt. og 2. Stk. samt § 178.<lb />
+„Domsbehandling af Straffesager, i hvilke<lb />
+Bevisførelse skal finde Sted for Landsret-<lb />
+ten, foregaar dels paa det Sted, hvor<lb />
+Landsretten har sit Sæde, dels paa andre<lb />
+af Justitsministeren ved Anordning dertil<lb />
+fastsatte Steder i Landsretskredsen. I An-<lb />
+ordningen bestemmes, hvilke Dele af Lands-<lb />
+retskredsen der skal henlægges til hvert<lb />
+af disse Tingsteder.<lb />
+</p>
+<p>
+I borgerlige Sager kan Landsretten<lb />
+bestemme, at Domsforhandlingen helt eller<lb />
+delvis skal foregaa udenfor Rettens Sæde,<lb />
+naar saadant af Hensyn til Bevisførelsen<lb />
+skønnes hensigtsmæssigt. Sager, i hvilke<lb />
+saadan Bestemmelse er truffen, kunne<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+henvises til Behandling og Paakendelse<lb />
+paa de Ting, der i Henhold til Reglen i<lb />
+nærværende Paragrafs første Stykke af-<lb />
+</p>
+<p>
+Der tilkommer Underretterne den<lb />
+samme Myndighed til at bestemme, at<lb />
+Domsforhandlingen skal foregaa udenfor<lb />
+Rettens. Sæde, som ved § (11, 2det Stykke,<lb />
+1ste Punktum) er tillagt Landsretterne."<lb />
+</p>
+<p>
+§§ 21—22 — Forslagets §§ 24—25.<lb />
+</p>
+<title>
+Kapitel 2.<lb />
+</title>
+<undertitle>
+Retsmøder.<lb />
+</undertitle>
+<p>
+§ 23 = Forslagets § 4.<lb />
+</p>
+<p>
+§ 24, jfr. Forslagets § 12, 1. Stk., sidste<lb />
+</p>
+<p>
+Pkt. og 3. og 4. Stk.<lb />
+„Til Domsbehandling af Straffesager,<lb />
+i hvilke Bevisførelse skal finde Sted for<lb />
+</p>
+</rightside>

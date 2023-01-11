@@ -1,0 +1,35 @@
+122
+<pb n="128" />
+<p>Afgiver den Sigtede ved Afhørelsen en<lb />
+fuldstændig og ubetinget Tilståelse, kan Rettens<lb />
+Formand, såfremt ingen af Dommerne eller<lb />
+Nævningerne erklærer sig derimod, bestemme,<lb />
+at Bevisførelse skal bortfalde.</p>
+<wtitle>§  325.</wtitle>
+<p>Ved Bevisførelsen fremføres først de af<lb />
+Anklageren, dernæst de af eller for den Sigtede anmeldte Beviser, endelig de, hvis førelse<lb />
+er besluttet af Retten i Embeds medfør.<lb />
+Afvigelser herfra kan Formanden beslutte.</p>
+<p>Førend hvert enkelt Bevis fremføres, angiver vedkommende Part, henholdsvis Rettens<lb />
+Formand, i Korthed dets væsentlige Gjenstand.</p>
+<p>Ester de enkelte Bevisers Fremførelse finder afhørelse af den Sigtede Sled overensstemmende med § 203.</p>
+<wtitle>§  326.</wtitle>
+<p>Efterat Bevisførelsen er sluttet, får først Anklageren, dernæst Forsvareren og den Sigtede Ordet for at udtale sig om Bevisførelsens Resultat samt om Retsspørgsmålene i<lb />
+Sagen, dog såvidt mulig uden at omhandle<lb />
+sådanne Punkter, som ikke skulle forelægges<lb />
+Nævningerne til Afgjørelse.</p>
+<wtitle>§ 327.</wtitle>
+<p>Ved Slutningen af sit Foredrag skal Anklageren overlevere Formanden et skriftligt Udkast til de Spørgsmål, som han foreslår<lb />
+stillede til Nævningerne.</p>
+<p>Udkastet meddeles strax den beskikkede Forsvarer og den Anklagede, som derefter, når<lb />
+de have fået Ordet, kunne fremsætte Indsigelser mod de foreslåede Spørgsmål samt<lb />
+skriftlige Forstag til Ændringer eller Tillæg.</p>
+<wtitle>§  328.</wtitle>
+<p>Efterat Forhandlingen mellem Parterne<lb />
+er sluttet, fastsætter Retten Spørgsmålene<lb />
+til Nævningerne; dog oplæses de først, når<lb />
+Formandens Foredrag er endt, og kunne forinden undergives fornyet Prøvelse af Retten.<lb />
+I de Tilfælde, hvor Spørgsmålenes Fastsættelse viser sig i særlig Grad tvivlsom, sker denne<lb />
+ved Kjendelse.</p>
+<p>Efter at Spørgsmålene ere fastsatte, tager Rettens Formand Ordet. Han sammenstiller<lb />
+Forhandlingens   Hovedpunkter   og udvikler  de</p>

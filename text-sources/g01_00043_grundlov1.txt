@@ -1,0 +1,132 @@
+17
+<pb n="43">
+<pagename>43</pagename>
+<h>
+<coll>17</coll>
+<colr>18</colr>
+<lb/>
+
+<topleft>1848</topleft>
+<topmidle>
+Beretning om Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 3.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Andet Møde.<lb/>
+(Fortsat).<lb/>
+</btitle>
+<p>
+<speaker>Pastor Bagger:</speaker> Efter min Formening synes Jespersens<lb/>
+Valg i enhver Henseende at være legalt; det kan ikke bebreides<lb/>
+Valgbestyrelsen, at den et har oppebiet Vælgerne fra Samsø, thi<lb/>
+disse ere bekjendte med alle de Farer, der kunne stille sig i Veien<lb/>
+for deres Reise. Med Hensyn til hvad der af den foregående Taler<lb/>
+er anført om, at Stedet for Valghandlingen burbe have været Samsø,<lb/>
+da kan jeg ikke begribe dette, da Samsingerne, som bekjendt, alle ere<lb/>
+Søfarende, og dersom der skulde tages Hensyn til de Forhindringer,<lb/>
+som kunde stille sig iveien for Vælgerne fra Samsø, der alle ere Søfarende, var der såmeget mere Grund til at tage et lignende Hensyn<lb/>
+til Vælgerne, der komme fra Omegnen; og havde disse forladt<lb/>
+Mødet, vilde Valghandlingen været lige så umulig, og Valgbestyrelsen har viist den Opmærksomhed, at udsætte Valget 1½ Time for<lb/>
+at oppebie dem fra Samsø. Der siges, at 600 Vælgere ere indskrevne, men hvo siger, at disse ville indfinde sig, da man ofte seer,<lb/>
+at der er antegnet et langt større Antal Vælgere, end der indfinder sig<lb/>
+på selve Valgdagen. Jeg indseer således ingen Grund til, at<lb/>
+Valget i Overeensstemmelse med hvad der er yttret, skulde være illegalt, da ehver Form er iagttaget. Efter min Mening kan der<lb/>
+ingen Grund være til at nægte, at Jespersen er valgt således som<lb/>
+han bør, og at han således har fuldkommen Ret til at tage Sæde<lb/>
+i denne Rigsforsamling.<lb/>
+</p>
+<p>
+<speaker>Capitain Jespersen:</speaker> Jeg skal kun tillade mig, da det er mig<lb/>
+Valget angåer, at fremkomme med nogle Oplysninger i Anledning<lb/>
+af hvad der af en foregående Taler er yttret, at det var den største<lb/>
+Deel af Vælgerne, som havde beklaget sig over, at de ei havde fået<lb/>
+Leilighed til at deeltage i Valget; thi det er klart, at der kun er<lb/>
+250 Medlemmer, der have klaget herover, men at i Valghandlingen<lb/>
+have deeltaget 560. En langt større Deel har altså deeltaget i Valget end de
+, som var nægtet Adgang. Hvad det angåer, at Samsingerne udgjøre den største Deel af Valgdistriktet, skal jeg gjøre opmærksom på, at Samsø kun har 5000 Indvånere, men den øvrige<lb/>
+Deel af Distriktet har over 12,000, så at Samsø altså ikke er<lb/>
+den største Deel. Dette er, hvad jeg troer at burde anføre.<lb/>
+</p>
+<p>
+<speaker>Pastor v Haven:</speaker> Det forekommer mig, at det væsentligen her kommer an på, om Regjeringen har communiceret Samsingerne, at Dampskibet Mercurius vilde komme for at hente dem;<lb/>
+thi hvis ikke en sådan Communication er meddeelt dem, må Valghandlingen ansees at være gyldig.<lb/>
+</p>
+<p>
+<speaker>Justitsministeren:</speaker> Jeg finder mig, i Anledning af hvad<lb/>
+der af den sidste Taler er yttret, foranlediget til at bemærke,<lb/>
+at der ei forud er skeet nogen Meddelelse til Samsingerne i Anledning af Dampskibets Komme. Der har nemlig overhovedet<lb/>
+ikke fra Regjeringens Side været draget nogen Omsorg i den Retning, og ligesålidt har det været Bestemmelsen at træffe en sådan<lb/>
+Foranstaltning med Hensyn til Samfingerne, skjøndt et langt større<lb/>
+Antal Vælgere rimeligviis vilde indfinde sig derfra end fra de fleste<lb/>
+andre Ødistrikter. Jeg skal derhos tilføie, at forsåvidt som det er<lb/>
+bemærket, at Stedet for Valghandlingen burde have været henlagt til<lb/>
+Samsø, så forholder det sig dermed således, at et større Antal Beboere er bosat på Sjælland, medens det mindre er bosat på<lb/>
+Samsø, og når dette Forhold var tilstede, kunde det ikke forud,<lb/>
+førend Indtegningen var foregået, afgjøres, hvor det største Antal<lb/>
+Vælgere vilde findes.<lb/>
+</p>
+</leftside>
+<rightside>
+<p>
+<speaker>Procurator Tvede:</speaker> Det forekommer mig at være nok, at der<lb/>
+er omgået aldeles lovligt ved Valget, og at der altså måtte være<lb/>
+en positiv Ret, hvorefter Valget kunde kasseres; men den mangler i<lb/>
+dette Tilfælde.<lb/>
+</p>
+<p>
+<speaker>Redacteur Rée:</speaker> Turde jeg måskee udbede mig Oplysning<lb/>
+meddeelt, om Nogen af Samsingerne har været Medlem af Valgbestyrelsen ?<lb/>
+</p>
+<p>
+<speaker>Etatsråd Algreen-Ussing:</speaker> Jeg vil bede bemærket, hvad der<lb/>
+også følger af Valglovens Bestemmelse, at der var Medlemmer fra<lb/>
+Samsø i Valgbestyrelsen; men om de vare tilstede ved Valghandlingen, veed jeg ikke. Det er sandsynligt, at de have været med<lb/>
+blandt dem, der ere ankomne, dog fremgåer det ikke af Sagens<lb/>
+Acter. Det må endnu kun være mig tilladt at tilføie, at nærværende Forsamling må være meget betænksom med at cassere et Valg,<lb/>
+der ikke kan nægtes at være foregået i en fuldkommen legal Form,<lb/>
+fordi der har været en uheldig Omstændighed, som har forhindret en<lb/>
+Deel Vælgere fra at være tilstede. Det er allerede releveret og siges<lb/>
+i selve Ansøgningen, at en stor Deel af Samfingerne, ligetil et Antal<lb/>
+af ⅔ af samtlige Vælgere, ikke vilde indfinde sig, men havde ladet<lb/>
+sig afskrække fra vat deeltage i Valget ved den lange Søreise i en<lb/>
+ublid Årstid. Da altså mange Vælgere havde undslået sig for at<lb/>
+foretage Reisen til Kallundborg, var der vistnok nogen Grund for<lb/>
+Valgbestyrelsen til at antage, at de
+ Vedkommende måskee slet ikke<lb/>
+vilde ankomme. Da denne Sag giver Anledning til forskjellige Bemærkninger, finder jeg det ikke ubetimeligt, at jeg tillige meddeler en i<lb/>
+denne Anledning afgiven Søforklaring, da det deraf vil fremgåe,<lb/>
+med hvormegen Vanskelighed Samfingernes Ankomst var forbunden,<lb/>
+og hvorledes det var en Følge af uheldige Omstændigheder, at de ikke<lb/>
+kom, førend forsildig.<lb/>
+</p>
+<p>
+I den ommeldte Søforklaring hedder det:<lb/>
+„Fremstod Føreren af Dampskibet Mercurius, Skipper Jespersen,<lb/>
+som på Anledning forklarede, at fornævnte af ham førende Dampskib er stationeret ved Korsør, og at han igår Morges igjennem<lb/>
+Opsynsmand Dyrhauge modtog Generalpostdirecteurens Ordre om at<lb/>
+begive sig til Samsø, for sammesteds fra at overføre de af Beboerne,<lb/>
+der vare indtegnede som Vælgere, til Valghandlingen idag i Kallundborg. Efter fornævnte Ordres Modtagelse blev der indtaget Kul<lb/>
+i Fartøiet, og begav man sig igår Formiddags, da Klokken var<lb/>
+omtrent 11, på Veien til Samsø, efterat have anløbet Nyborg, for<lb/>
+sammesteds at tage Lods. Henimod Aften nærmede Fartøiet sig<lb/>
+Samsø; men da Veiret var uroligt, Vinden pålands og Mørket<lb/>
+faldt på, var man ikke istand til at forblive ved Samsø, men<lb/>
+måtte søge ind til Kallundborg Fjord, hvor man forblev Natten<lb/>
+over, medens Veiret var stormende, og Luften medførte Regn og Tykning. Denne Luftens Beskaffenhed vedblev også imorges således,<lb/>
+at man fra Dampskidet ikke kunde see synderlig vidt. Imidlertid blev<lb/>
+der lettet, da Klokken var 5, og man begav sig ad Langøre til, hvorhen Ordren lød. Da Klokken var 8, antraf man imidlertid i Søen<lb/>
+en Jagt, der havde adskillige Vælgere fra Samsø ombord og som<lb/>
+på Grund af Modvind og Strøm var i Begreb med at gåe tilbage til Samsø. Dampskibet gik derpå med denne Jagt til Kyholm,<lb/>
+hvor Passagererne fra Jagten gik ombord i Dampskibet, hvilket derefter atter gik ud, for at begive sig til Kallundborg. Klokken var<lb/>
+på den Tid omtrent 9, og da Klokken var 10, antraf Dampskibet i<lb/>
+Søen en Jagt, der ligeledes havde Vælgere fra Samsø ombord; og<lb/>
+tog da Dampskibet denne Jagt på Slæbetong, men ankom først<lb/>
+dermed til Kallundborg, da Klokken var 2¼.“<lb/>
+</p>
+</rightside>
+
+</pb>

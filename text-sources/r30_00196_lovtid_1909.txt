@@ -1,0 +1,61 @@
+460
+<pb n="196" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>460</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 832.</wtitle>
+<p>
+Når Domsforhandlingen er begyndt, fortsættes den så vidt muligt uafbrudt,<lb/>
+indtil endelig Afgørelse har fundet Sted.
+</p>
+<p>
+Har Forhandlingen været afbrudt, bestemmer Rettens Formand, om og i hvilke<lb/>
+Omfang det allerede foretagne skal gentages, når Sagen atter kommer for.
+</p>
+<wtitle>§ 833.</wtitle>
+<p>
+Hvor der findes Grund til at antage, at offentlig Gengivelse af Forhandlinger<lb/>
+under Hovedforhandlingen vil kunne have skadelig Indflydelse på Sagens Oplysning<lb/>
+eller Pådømmelse, kan Retten ved Kendelse bestemme, at sådan Gengivelse af Forhandlingerne eller visse Dele af samme ikke må finde Sted, forinden Dom er afsagt.<lb/>
+Kendelsen ophæves, så snart Grundene for samme ikke længere antages at være<lb/>
+tilstede. Overtrædelse straffes med Bøder fra 100 til 1000 Kr.
+</p>
+<wtitle>§ 834.</wtitle>
+<p>
+Om Udsættelsesgrunde, som indtræde på en Tid, da Domsforhandlingen er<lb/>
+udsat, påhviler det enhver vedkommende snarest muligt at underrette Rettens Formand, for at Bestemmelse om Udsættelse om muligt kan tages og Meddelelse til alle<lb/>
+vedkommende finde Sted, førend Sagen på ny skulde have været for.
+</p>
+<wtitle>§ 835.</wtitle>
+<p>
+Når Retten er sat til Sagens Behandling, lader Rettens Formand Sagen påråbe og Tiltalte føre ind i Retssalen samt så vidt fornødent Vidner og Syns- og<lb/>
+Skønsmænd påråbe, hvorhos han giver de Pålæg og træffer de Foranstaltninger,<lb/>
+som måtte findes fornødne for at sikre disses Tilstedeblivelse og hindre indbyrdes<lb/>
+Meddelelse.
+</p>
+<wtitle>§ 836.</wtitle>
+<p>
+Ingen må medvirke som Nævning i en Straffesag, når han befinder sig i<lb/>
+noget af de i § 61 Nr. 1—4 nævnte Tilfælde, i hvilke Dommeren i en sådan Sag<lb/>
+skal vige sit Sæde, eller han har handlet som Dommer i Sagen.
+</p>
+<wtitle>§ 837.</wtitle>
+<p>
+Efter at de indkaldte Nævninger ere påråbte, stiller Rettens Formand Spørgsmål til Anklageren, den eller de Tiltalte og disses Forsvarere, til Dommerne og<lb/>
+Nævningerne, om der med Hensyn til nogen af de indkaldte (§ 97) tilstedeværende Nævninger måtte være dem nogen Omstændighed bekendt, som efter § 836 eller i Medfør<lb/>
+af Reglerne i Kapitel 6 udelukker fra at være Nævning i den foreliggende Sag eller i<lb/>
+det hele. De herefter opstående Spørgsmål afgøres af Retten. Kendelse, hvorved<lb/>
+en Nævning udelukkes, kan ikke indbringes for højere Ret, Imod Kendelser, hvorved<lb/>
+Indsigelse mod en Nævnings Habilitet forkastes, kan Kæremål rejses. Når det<lb/>
+straks forlanges, kan i denne Anledning en kort Udsættelse af Sagen tilstås.
+</p>
+<wtitle>§ 838.</wtitle>
+<p>
+Ere flere end 12 eller, hvis Suppleanter skulle tiltræde, det tilsvarende større<lb/>
+Antal Nævninger mødte, og Nævningernes Tal ikke ved Rettens Afgørelser synker ned<lb/>
+til det nævnte laveste Tal, benyttes de ved Lodtrækningen sidst udtrukne ikke<lb/>
+under Sagen.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

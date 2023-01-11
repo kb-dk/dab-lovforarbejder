@@ -1,0 +1,166 @@
+2383
+<pb n="11" />
+<h>
+<coll>2365</coll>
+<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
+<colr>2366</colr>
+</h>
+<leftside>
+<wtitle>Til § 151.</wtitle>
+<p>
+1.	Stk., L. 3: „Kapitel IX" 1. „Kapitel 69".
+</p>
+<wtitle>Til § 156.</wtitle>
+<p>
+2.	Stk., L. 2: „§ 31" 1. „§ 695".
+</p>
+<wtitle>Til § 158.</wtitle>
+<p>
+1. Stk., L. 3 og 7: „§ 156" 1. „§ 820".
+</p>
+<wtitle>Til § 160.</wtitle>
+<p>
+1. Stk., L. 3: „§ 143" 1. „§ 807".
+</p>
+<p>
+3.	Stk., L. 3: „88 145—148" 1. „88 809<lb/>
+—812".
+</p>
+<wtitle>Til § 164.</wtitle>
+<p>
+1.	Stk., L. 5: „§ 168" 1. „§ 832".
+</p>
+<p>
+2.	Stk., L. 1: „§ 157" 1. „§ 821".<lb/>
+2. Stk., L. 2: ,.§ 151" 1. „§ 825".
+</p>
+<wtitle>Til § 165.</wtitle>
+<p>
+1.	Stk.. L. 2: „§ 161" 1. „§ 825".<lb/>
+3. Stk.. L. 1: „§ 164" 1. „§ 828".
+</p>
+<p>
+3. Stk., L. 2: „§§ 172 fL" 1. „§§ 836 ff.".
+</p>
+<wtitle>Til § 168.</wtitle>
+<p>
+L. 3: „§ 254" 1. „§ 919".
+</p>
+<wtitle>Til § 169.</wtitle>
+<p>
+2.	Stk.. L. 3: ,.§§ 157, 159 og 160" 1. „§§<lb/>
+821, 823 og 824".
+</p>
+<wtitle>Til § 170.</wtitle>
+<p>
+1. Stk., L. 4: „§ 162" 1. „§ 826".
+</p>
+<wtitle>Til § 171.</wtitle>
+<p>
+1. Stk., L. 5 og 12: „§ 46" 1. „§ 710".
+</p>
+<p>
+3.	Stk., L. 2: „§ 200" l. „§ 865".
+</p>
+<wtitle>Til § 172.</wtitle>
+<p>
+1. Stk.. L. 7: „§§ 173 og 174" 1. „§§ 837<lb/>
+og 838".
+</p>
+<wtitle>Til § 173.</wtitle>
+<p>
+1.	—3.	Stk., L. 1: ,,§167-' 1. ,,§ 831«.
+</p>
+<wtitle>Til § 177.</wtitle>
+<p>
+3. Stk., L. 1: „§ 167« 1. „§ 831".
+</p>
+<wtitle>Til § 178.</wtitle>
+<p>
+2.	Stk., L. 3: „§ 173" 1. „§ 837".
+</p>
+<wtitle>Til § 179.</wtitle>
+<p>
+L. 3.: „§ 168" 1. „§ 832".
+</p>
+</leftside>
+<rightside>
+<wtitle>Til § 180.</wtitle>
+<p>
+1. Stk., L. 5: „§ 88" 1. „§ 752".
+</p>
+<wtitle>Til § 189.</wtitle>
+<p>
+3. Stk., L. 3: „§ 195" 1. „§ 860".
+</p>
+<wtitle>Til § 190.</wtitle>
+<p>
+1. Stk., L. 2: „§ 32" 1. „§ 696«.<lb/>
+3. Stk., L. 4: „§ 32'' 1. „§ 696".
+</p>
+<wtitle>Til § 194.</wtitle>
+<p>
+L. 2: „§ 33" 1. ,,§ 697".
+</p>
+<wtitle>Til § 195.</wtitle>
+<p>
+1. Stk., L. 1: ,.§§ 187 og 188'' 1. ,.§§ 852<lb/>
+og 853''.
+</p>
+<p>
+1.	Stk., L. 2: ,,Kap. 11—17'' 1. ,.Kap. 71<lb/>
+—77''.
+</p>
+<p>
+2.	Stk., L. 2: ,,§ 203" 1. „§ 868".
+</p>
+<wtitle>Til § 196.</wtitle>
+<p>
+1.	Stk.. L. 3: „§§ 207—210" 1. ,.§§ 872—<lb/>
+875".
+</p>
+<wtitle>Til § 198.</wtitle>
+<p>
+2.	Stk., L. 1: „§ 31" 1. ,.§ 695".
+</p>
+<wtitle>Til § 199.</wtitle>
+<p>
+L. 8: „§ 195" 1. „§ 860".<lb/>
+L. 9: „§ 206" 1. ,,§ 871".
+</p>
+<wtitle>Til § 200.</wtitle>
+<p>
+2.	Stk., L. 1: ..§§ 133 og 145, jfr. § 160,<lb/>
+§§ 161 og 170'' 1. „§§ 797 og 809, jfr.<lb/>
+§ 824, §§ 825 og 834".
+</p>
+<p>
+3.	Stk., L. 1: „§ 129" 1. „§ 793".
+</p>
+<wtitle>Til § 201.</wtitle>
+<p>
+1. Stk., L. 2: „§ 31" 1. „§ 695".
+</p>
+<wtitle>Til § 203.</wtitle>
+<p>
+L. 3: „§ 201'' 1. „§ 866".
+</p>
+<wtitle>Til § 207.</wtitle>
+<p>
+1.	Stk., L. 4: „§ 45'' 1. „§ 709''.
+</p>
+<p>
+2.	Stk., L. 2: „§ 71" 1. „§ 735".
+</p>
+<wtitle>Til § 208.</wtitle>
+<p>
+1. Stk., L. 3: „§ 151" 1. „§ 815".
+</p>
+<p>
+4.	Stk., L. 1: „§ 207" 1. „§ 872".
+</p>
+<wtitle>Til § 212.</wtitle>
+<p>
+L. 4: „§ 353" 1. „§ 1019".
+</p>
+</rightside>

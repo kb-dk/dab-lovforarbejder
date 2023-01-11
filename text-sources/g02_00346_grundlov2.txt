@@ -1,0 +1,118 @@
+2165
+<pb n="346" >
+<p rend="page">346</p>
+<h>
+<coll>2165</coll>
+<colr>2166</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 275.<lb />
+</topright>
+</h>
+<leftside>
+<maintitle>
+Af Grundlovsudvalget er nu afgivet nedenstaaende<lb />
+Comiteebetænkning<lb />
+over<lb />
+7de Afsnit af Udkast til en Grundlov for Kongeriget Danmark og Slesvig.<lb />
+</maintitle>
+<p>
+Comiteen har herved den Ære at afgive den sidste Deel af sin Betænkning over Udkastet til en Grundlov for Kongeriget Danmark<lb />
+og Slesvig.<lb />
+</p>
+<p>
+Forsaavidt det ved Rigsforsamlingens Beslutning af 26de f. M. er<lb />
+vedtaget, at § 2 i Udkastet skal behandles i Forbindelse med de Første 3 Paragrapher af 7de Afsnit, maa Udvalget henholde sig til sin tidligere<lb />
+over denne Paragraph afgivne Betænkning og skal blot tilføie, at<lb />
+dersom Forsamlingen maatte bifalde Udvalgets efterfølgende Indstilling<lb />
+om, at de nævnte Paragrapher af 7de Afsnit i Forbindelse med<lb />
+nogle Tillægsparagrapher samles i et særegent Afsnit om de kirkelige<lb />
+Forhold i Almindelighed, burde saa meget mere § 2 Udkastet<lb />
+rettest bytte Plads med § 3, da saaledes den samme Orden blev<lb />
+iagttagen i Udkastets 3 Indledningsparagrapher, som i de følgende<lb />
+Afsnit er fulgt ved Gjennemførelsen af de nævnte Paragraphers<lb />
+Grundsætninger.<lb />
+</p>
+<title>
+VII.<lb />
+</title>
+<p>
+Der har i Udvalget ikke været nogen Meningsforskjelligehed i Henseende til det Religionfrihedens Princip, der er udtalt i Udkastets §§ 64—66. Ihvorvel det nemlig vistnok ogsaa i politisk<lb />
+Henseende maa betragtes som en Lykke for en Stat, naar der er<lb />
+Eenhed i Borgernes religiøse Bekjendelse, saa er det dog klart, at Eenheden kun da i Sandhed er en Lykke, naar den er grundet paa Frihed, og at Staten derfor ikke gjør Ret i — enten i sin egen eller i<lb />
+en priviligeret Kirkes Interesse — at ville sikkre Eenheden ved Lovens<lb />
+Tvang, hvorved den ikke kan undgaae at besvære Manges Samvittighed og at krænke en Ret, som for Enhver maa regnes til de helligste<lb />
+blandt alle. Men naar Grundloven saaledes hævder Religionsfrihedens Grundsætning, medføret den en Forandring i den hidtilværende<lb />
+Statskirkes hele retlige Stilling i Statssamfundet, der paa den ene<lb />
+Side skænkede denne Kirke Statens høieste Beskjærmelse og Forsorg,<lb />
+men paa dne anden Side ogsaa gav den øverste Statsmagt en saagodtsom uindskrænket Magt og Myndighed over dens indre og ydre Anliggender. Om end derfor den hidtilværende Statskirke i Grundloven kaldes<lb />
+og i Virkeligheden bliver den danske Folkekirke, og om end<lb />
+Staten just paa Grund deraf maa ansee sig særlig forpligtet<lb />
+imod den, saa formener Udvalget dog, at det er nødvendigt,<lb />
+at dens fremtidige Forfatning bliver ordner ved en særegen Kirkelov,<lb />
+der navnlig maatte gaae ud paa at bestemme Formerne og Grændserne for den Medvirkning, som Kirkesamfundet selv bør have ved<lb />
+sammes Bestyrelse, saavelsom ved Afgjørelsen af kirkelige Sager, ved<lb />
+Sidne af den forholdsviis større Myndighed, som Statsmagten forøvrigt forudsættes at ville komme til at udøve over denne Kirke<lb />
+fremfor over de øvrige Religionssamfund i Landet Det ansees derhos<lb />
+for at være i sin Orden, at en saadan kirkelig Forfatningslov ikke<lb />
+endeligt vedtages, forinden der er givet Kirken Leilighed til at yttre<lb />
+sig derom, hvilket formenes hensigtsmæssigst at kunne skee gjennem et<lb />
+Kirkemøde, bestaaende saavel at geistlige som af ikke= gistlige Medlimmer, der af Kongen maatte anordnes i dette Øiemed, Udvalget<lb />
+foreslaaer derfor følgende nye Paragraph:<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+<law n="64" >§ 64.<lb /></law>
+Folkekirkens Forfatning ordnes ved Lov, efterat Betænkning er afgiven af et af Kongen anordnet Kirkemøde.<lb />
+</p>
+<p>
+En Minoritet (Christensen og Gleerup) foreslaaer Optagelsen af en ny Paragraph af følgende Indhold:<lb />
+Ethvert Medlem af Folkekirken kan i alle ministerielle Handlinger henvende sig til hvilken Præst i<lb />
+denne Kirke, han vil. De nærmere Bestemmelser i<lb />
+denne Henseende fastsættes ved Lov.<lb />
+</p>
+<p>
+Mod Realiteten af denne Paragraph antager Minoriteten, at man<lb />
+ikke vil have Noget at indvende, da Friheden udenfor Folkekirken dog i<lb />
+ethvert Tilfælde gjør en tilsvarende Frihed i Folkekirken nødvendig;<lb />
+men vi troe heller ikke, der kan gjøres grundede Indsigelser derimod fra Formens Side, da denne § ikke indeholder Bestemmelser<lb />
+i det Enkelte, som vilde henhøre under det foreslaaede Kirkemødes<lb />
+Overveielse, men kun udtaler det Frihedsprincip i Almindelighed,<lb />
+som ønskes overholdt i Folkekirken.<lb />
+</p>
+<p>
+Udvalgets Fleerhed (med 11 Stemmer mod 4) kan ikke tiltræde<lb />
+dette Forslag, da vi antage det for uhensigtsmæssigt i selve Grundloven at optage en saadan enkeltstaaende Regel, der maatte erholde<lb />
+sin rette Plads og mogtage de fornødne nærmere Bestemmelser i den<lb />
+Kirkelov, der ifølge den foreslaaede § 64 snart maa forventes.<lb />
+<law n="65" >§ 65.<lb /></law>
+I Henhold til det ovenfor Yttrede tiltræder Udvalget denne<lb />
+Paragraph, der hjemler Landets Borgere Ret til at forene sig i<lb />
+religiøse Samfund. Vi foreslaae blot som en Redactionsforandring<lb />
+de Ord „dem bedst tykkes" forandrede til „stemmer med deres<lb />
+Overbeviisning" samt Tilføielsen af Ordene„læres eller"foran<lb />
+„foretages". Naar nemlig Staten selvfølgelig maa forbeholde sig sin<lb />
+Net til at føre Tilsyn med de religjøse Samfund saavelsom med alle<lb />
+andre Samfund, der fremstaae i dens Skjød, saa maa den vistnok være<lb />
+fuldkommen berettiget til at udstrække dette Tilsyn ogsaa til den Lære,<lb />
+som deslige Samfund vedkjende sig, og som kunde være af den Beskaffenhed, at Statsmagten maatte have fuld Føie og Forpligtelse til at<lb />
+skride ind.<lb />
+<law n="66" >§ 66.<lb /></law>
+Udvalget maa billige Hovedsætningen i denne Paragraph, „at<lb />
+Ingen er pligtig at give personlige Bidrag til nogen anden Gudsdyrkelse end den, som er hans egen", der maa ansees som en ligefrem Følge<lb />
+af det i foregaaende Paragraph udtalte Religionsfriheds „princip.<lb />
+Forsaavidt Paragraphen dernæst bestemmer, at den, der ikke vil svare den<lb />
+til den lutherske Kirke befalede personlige Afgift til denne eller til et<lb />
+andet anerkjendt kirkeligt Samfund i Landet, betaler samme til<lb />
+Skolevæsenet, da maa man vel i Almindeliged bifalde den herfor til<lb />
+Grund liggende Tanke, at der ikke for Nogen aabnes Udsigt<lb />
+til en pecuniær Fordeel ved at skille sig fra de i Landet værende<lb />
+Troessamfund. Men Udvalget skjønner dog ikke, at der er nogen<lb />
+</p>
+</rightside>
+
+
+</pb>

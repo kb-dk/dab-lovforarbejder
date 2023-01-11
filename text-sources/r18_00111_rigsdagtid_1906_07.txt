@@ -1,0 +1,84 @@
+3861
+<pb n="111"/>
+<h>
+<coll>3861</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3862</colr>
+</h>
+<wtitle>§ 499.</wtitle>
+<p>
+Fra Domfældtes Side kan der med den i § 460 givne Begrænsning fremsættes<lb />
+indsigelser imod Eksekutionens Fremme enten i det hele eller for en Del eller paa<lb />
+den paastaaede Maade.
+</p>
+<p>
+I Anledning af de fremsatte Indsigelser kan Domhaveren ytre sig.
+</p>
+<p>
+Om nogen yderligere Ordveksling skal finde Sted, beror paa Fogdens Tilladelse.
+</p>
+<wtitle>§ 500.</wtitle>
+<p>
+Trediemand kan fremsætte Indsigelser imod Eksekutionen, naar dennes Fore-<lb />
+tagelse paa den paastaaede Maade vilde stride imod hans Ret, Han har i saa Fald<lb />
+blot at møde under Forretningen, fremsætte sin Indsigelse til Fogedbogen og æske<lb />
+Fogdens Kendelse, hvorefter den indtrædende Trediemand er at anse som Part i<lb />
+Forretningen.
+</p>
+<wtitle>§ 501.</wtitle>
+<p>
+Forhandlingerne for Fogden foregaa mundtlig.
+</p>
+<p>
+Under Forhandlingerne for Fogden kan Bevisførelse ved Vidner, Syn og Skøn<lb />
+eller personlig Afhørelse af Parterne ikke finde Sted, medmindre Fogden mener und-<lb />
+tagelsesvis at burde tilstede det. Finder en saadan Bevisførelse Sted, foretages den<lb />
+efter de for Underretssager gældende Regler.
+</p>
+<p>
+Henhører Hovedsagen under Underret, har Fogden at yde Parterne Vejledning<lb />
+i Overensstemmelse med Grundsætningerne i § 407.
+</p>
+<wtitle>§ 502.</wtitle>
+<p>
+I Fogedbogen optages:
+</p>
+<p>
+1)	Angivelse af Tid og Sted for Forretningen, Parternes Navne, Eksekutionsgrund-<lb />
+lagets Beskaffenhed;
+</p>
+<p>
+2)	Betegnelse af Fogden og Vidnerne;
+</p>
+<p>
+3)	Beretning om Forretningens Gang i Almindelighed.
+</p>
+<p>
+I Tilfælde af Tvist optages i Fogedbogen en ordret Angivelse af de frem-<lb />
+satte Paastande. Derhos lader Fogden i det Omfang, som af ham skønnes hensigts-<lb />
+mæssigt, Parternes Erklæringer over Sagens Sammenhæng tilføre Fogedbogen, dog ikke<lb />
+ordret, men kun efter deres væsentlige Indhold. Det tilførte oplæses og vedkendes.
+</p>
+<wtitle>§ 503.</wtitle>
+<p>
+Udsættelse kan kun undtagelsesvis gives under Forretningen, naar ikke Par-<lb />
+terne ere enige derom,
+</p>
+<p>
+Derimod kan Fogden beslutte eller tilstaa en Standsning i Forhandlingerne,<lb />
+naar Omstændighederne kræve det. Fogden har da paa Domhaverens Forlangende<lb />
+ved Bevogtning eller paa anden Maade at træffe de fornødne Foranstaltninger for at<lb />
+opretholde den samme Tilstand, indtil Forretningen atter fortsættes. Parterne skulle<lb />
+paa behørig Maade underrettes om Tiden herfor.
+</p>
+<wtitle>§ 504.</wtitle>
+<p>
+I opstaaende Tvistigheder afsiger Fogden Kendelse umiddelbart efter For-<lb />
+handlingernes Slutning eller dog snarest muligt.
+</p>
+<p>
+Kendelsen, der skal være ledsaget af Grunde, indføres fuldstændigt i Fogedbogen.
+</p>
+<p>
+Dens Fuldbyrdelse kan ikke hindres ved Anke eller Kære.
+</p>

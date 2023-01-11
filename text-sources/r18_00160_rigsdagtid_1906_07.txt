@@ -1,0 +1,69 @@
+3959
+<pb n="160"/>
+<h>
+<coll>3959</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3960</colr>
+</h>
+<p>
+fornødent, og Sigtede ikke selv har valgt en Forsvarer, eller denne udebliver; jfr.<lb />
+derhos § 888.
+</p>
+<p>
+Beslutninger, hvorefter Forsvarer skal beskikkes, kunne ikke paaklages for højere<lb />
+Ret; imod Beslutninger, hvorved Beskikkelse af Forsvarer nægtes, kan Kære til højere<lb />
+Ret finde Sted.
+</p>
+<wtitle>§ 702.</wtitle>
+<p>
+Til at beskikkes som offentlige Forsvarere antager Justitsministeren efter Over-<lb />
+enskomst et passende Antal af de til Møde for vedkommende Domstol berettigede Sag-<lb />
+førere eller, om fornødent, andre dertil egnede Mænd. I paatrængende Tilfælde kan<lb />
+dog ogsaa en Sagfører, der ikke er antagen af Justitsministeren, men dog berettiget<lb />
+til Møde for vedkommende Ret, beskikkes til Forsvarer.
+</p>
+<wtitle>§ 703.</wtitle>
+<p>
+Til offentlig Forsvarer maa ingen beskikkes, der selv er forurettet ved For-<lb />
+brydelsen eller staar i et saadant Forhold til den forurettede, som vilde udelukke en<lb />
+Dommer fra at handle i Sagen, eller der er kaldet til at forklare som Vidne, Syns-<lb />
+eller Skønsmand i Sagen eller har handlet i den som Anklager eller Rettergangs-<lb />
+fuldmægtig for den forurettede eller som Politiembedsmand eller som Dommer eller<lb />
+i en anden Straffesag har været Forsvarer for en Sigtet, med hvis Interesse i Sagen<lb />
+den nu Sigtedes staar i Strid, eller hvis Beskikkelse ifølge § 61 Nr. 3 vilde medføre<lb />
+Inhabilitet hos Dommeren.
+</p>
+<p>
+Ere flere Personer sigtede under samme Sag, kan Forsvaret kun udfores af<lb />
+den samme Person, naar de Sigtedes Interesser under Sagen ikke ere modstridende.
+</p>
+<wtitle>§ 704.</wtitle>
+<p>
+Beskikkelse af Forsvarer ved Undersøgelsesret samt ved Domsforhandling for<lb />
+Underret foretages af den Overøvrighed (i København Politidirektøren), i hvis Kreds den<lb />
+paagældende Underret er beliggende. Beskikkelse af Forsvarer for Landsret eller<lb />
+Højesteret foretages af henholdsvis Landsrettens eller Højesterets Justitiarius. Sagerne<lb />
+bør saa vidt muligt fordeles mellem de antagne Forsvarere efter Omgang; ønsker<lb />
+Sigtede en bestemt Person beskikket og oplyser, at denne er villig, bør han i Reglen<lb />
+beskikkes uden Hensyn til den regelmæssige Omgang, forudsat at ingen lovlig Hindring<lb />
+er forhaanden.
+</p>
+<wtitle>§ 705.</wtitle>
+<p>
+Beskikkelsen kan tilbagekaldes, naar det findes nødvendigt i Forsvarets Inter-<lb />
+esse, samt, for saa vidt Sagen ikke derved forhales, efter Begæring af Sigtede, naar<lb />
+han har truffet Overenskomst om Forsvarets Udførelse uden Udgift for det offentlige.
+</p>
+<wtitle>§ 706.</wtitle>
+<p>
+Forsvareren er berettiget til at overvære alle Retsmøder, selv om disse holdes<lb />
+for lukkede Døre (§ 30), den valgte Forsvarer dog kun. for saa vidt han ikke er ude-<lb />
+lukket fra Tilstedeværelse i Medfør af § 7b9 Nr. 3. I de Retsmøder, der afholdes,<lb />
+forinden Tiltale er rejst, er Forsvareren berettiget til at tage Ordet og til i Korthed<lb />
+at faa sine Bemærkninger tilførte Protokollen; men Dommeren bestemmer, paa hvilket<lb />
+Tidspunkt af Retsmødet dette kan ske.
+</p>
+<p>
+Under Domsforhandlingen i Landsretssager kan det af Landsrettens Formand<lb />
+tillades, at flere valgte Forsvarere optræde for samme Sigtede, dog kun een for hver
+</p>

@@ -1,0 +1,56 @@
+125
+<pb n="128" />
+<title>som subsidiært henstilles til Overvejelse.</title>
+<leftside>
+<title>Forslag III.</title>
+<p>Organisation med 4 Landsretter, med rejsende Dommere ved den sjællandske Landsret<lb />
+for Sorø osv. samt ved de to Landsretter i<lb />
+Jylland.</p>
+<wtitle>§ 1.</wtitle>
+<p>Riget inddeles i 4 Landsretskredse, nemlig:</p>
+<p>1.    Den sjællandske osv. som i Forslag II.</p>
+<p>2.    Fyens osv. som Udkastets Nr. 3.</p>
+<p>3.    Den  nordjydske   Landsretskreds,   omfattende Ålborg,   Hjørring,   Thisted,   Viborg<lb />
+og Randers Amter.</p>
+<p>4.    Den sydjydske Landsretskreds,  omfattende Aarhus,   Vejle,   Ringkjøbing   og   Ribe<lb />
+Amter.</p>
+<wtitle>§ 10.</wtitle>
+<p>I Stedet for Udkastets 2det og 3 die<lb />
+Stykke træder det i Forflag II. Angivne.</p>
+<p>Udkastets 6te Stykke udgår.</p>
+<p>I Udkastets 7de Stykke fættes „Aarhus"<lb />
+(Fredericia) i Stedet for „Veile".</p>
+<wtitle>§ 12.</wtitle>
+<p>Paragrafens  1ste Stykke affattes fåledes:<lb />
+„Sjællands Landsret består af en Formand og 18 andre Medlemmer, Fyens Landsret af en Formand og  5 andre Medlemmer,<lb />
+den nordjydske og den fydjydske Landsret hver<lb />
+af en Formand og 10 andre Medlemmer".<lb />
+Tredie Stykke udgår.</p>
+<wtitle>§ 13.</wtitle>
+<p>Som i Forslag II.</p>
+</leftside>
+<rightside>
+<title>Forslag IV.</title>
+<p>Organisation med 3 Landsretter med rejsende Dommere ved den sjællandske Landsret for<lb />
+Sorø o. s. v. samt ved den jydske Landsret.</p>
+<wtitle>§ 1.</wtitle>
+<p>Riget inddeles i 3 Landsretskredse, nemlig:</p>
+<p>1.    Den sjællandske ofv. som i Forslag II.</p>
+<p>2.    Fyens osv. som Udkastets Nr. 3."</p>
+<p>3.    Den jydske Landsretskreds, omfattende<lb />
+de jydste Amter.</p>
+<wtitle>§ 10.</wtitle>
+<p>Hver af de i § 1 nævnte Kredse henlægges under en Landsret.</p>
+<p>Den fjællandske Landsret har sit Sæde i<lb />
+Kjøbenhavn, Fyens Landsret i Odense og den<lb />
+jydske Landsret i Viborg.</p>
+<wtitle>§ 12.</wtitle>
+<p>Paragrafens 1ste Stykke affattes fåledes:<lb />
+Den  sjællandske Landsret   består  af en<lb />
+Formand   og   18   andre Medlemmer,   Fyens<lb />
+Landsret af en   Formand   og 5  andre Medlemmer,   den  jydske Landsret af en Formand<lb />
+og 12 andre Medlemmer.<lb />
+Tredie Stykke udgår.</p>
+<wtitle>§ 13.</wtitle>
+<p>Som i førstag II.</p>
+</rightside>

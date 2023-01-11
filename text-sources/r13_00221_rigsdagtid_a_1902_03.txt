@@ -1,0 +1,65 @@
+2169
+<pb n="221" />
+<h>
+<coll>
+21
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+210
+</colr>
+</h>
+<p>
+Hjemmet, kan Dommeren, naar han fincler, at Omstændighederne tale derfor, afgøre<lb />
+Sagen i Henhold hertil uden at afsige Dom. Dommeren kan betinge Sagens Afgørelse<lb />
+paa denne Maade af, at Revselsen tildeles under Tilsyn af en ved Politiet ansat.
+</p>
+<p>
+Er Politimestéren eller nogen paa hans Vegne nærværende, maa der forinden<lb />
+være givet ham Lejlighed til at udtale sig om Sagens Afgørelse paa denne Maade.
+</p>
+<p>
+Om den stedfundne Afgørelse tilføres det fornødne Retsbogen.
+</p>
+<wtitle>§  983.</wtitle>
+<p>
+Naar Dommeren fincler, at Tiltalte er skyldig, men at Sagen efter Brødens<lb />
+Beskaffenhed, saasom navnlig i Tilfælde af første Gang begaaet ringe Forseelse, egner<lb />
+sig til Afgørelse ved en Advarsel, er han berettiget til i Stedet for at afsige Dom at<lb />
+tildele Tiltalte en saadan Advarsel. Denne Afgørelsesmaade kan dog ikke finde Sted,<lb />
+saafremt Sigtede erklærer sig derimod og forlanger Dom i Sagen, og Dommen kan<lb />
+da ikke gaa ud paa Advarsel.
+</p>
+<p>
+Om den trufne Afgørelse tilføres det fornødne Retsbogen.
+</p>
+<wtitle>§  984.</wtitle>
+<p>
+Bøder paa 20 Kr. og derunder, som idømmes eller vedtages i de Sager, der<lb />
+omhandles i dette Kapitel, tilfalde uden for Kjøbenhavn Retskredsens Politikasse, og i<lb />
+Kjøbenhavn Fattigkassen for Stadsrettens Afdelinger for Straffesager.
+</p>
+<p>
+For saa vidt ikke andet foran er bestemt eller følger af Forholdets Natur, skulle<lb />
+de Regler, der ifølge foregaaende Kapitel, særlig §§ 974 og 975, gælde for andre<lb />
+Underretssager, ogsaa komme til Anvendelse i de Sager, der omhandles i nærværende<lb />
+Kapitel.
+</p>
+<title>
+Kapitel 87.
+</title>
+<title>
+Behandlingen af Smaasager for Kommunedommer paa Landet.
+</title>
+<wtitle>§  985.</wtitle>
+<p>
+De under Strafferetsplejen henhørende Sager, der efter § 45 indbringes for<lb />
+Kommunedommere paa Landet, foretages, behandles og paakendes efter de i § 446—<lb />
+§ 453 givne Regler. Tiltale kan iværksættes af Sysselmanden eller af en under ham<lb />
+hørende Politimand eller af Sognefogeden i det Sogn, hvori Forseelsen er begaaet,<lb />
+Naar der i de sidst anførte Bestemmelser tales om Sagens Parter, forstaas ved disse<lb />
+Bestemmelsers Anvendelse her Tiltalemyndigheden paa den ene Side og Tiltalte paa<lb />
+den anden Side.
+</p>

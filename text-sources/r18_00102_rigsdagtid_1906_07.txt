@@ -1,0 +1,74 @@
+3843
+<pb n="102"/>
+<h>
+<coll>3843</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3844</colr>
+</h>
+<p>
+Begæringen skal, hvis Fordringen, bortset fra Sagsomkostninger og Renter,<lb />
+der ere paaløbne siden Sagens Begyndelse, overstiger 300 Kroners Værdi, være<lb />
+skriftlig. I andet Fald kan den fremsættes mundtlig for Fogden, som da har at tage<lb />
+den til Fogedbogen.
+</p>
+<p>
+Eksekution kan begæres under eet hos samme Skyldner efter forskellige Ekseku-<lb />
+tionsgrundlag.
+</p>
+<wtitle>§ 460.</wtitle>
+<p>
+Dommen eller Kendelsen maa være udfærdiget i lovmæssig Form. Er dette Til-<lb />
+fældet, vedkommer det ikke Fogden at undersøge eller afgøre, om Dommen eller<lb />
+Kendelsen maatte lide af saadanne Fejl eller Mangler, som kunde medføre en anden<lb />
+Afgørelse efter Anke eller Kære. Kun hvis Dommen eller Kendelsen ikke er udgaaet<lb />
+fra en lovlig bestaaende Domstol eller nogen til at afsige eksigible Dekreter beføjet<lb />
+Myndighed, eller den ikke ifølge sit Indhold kan fuldbyrdes, har Fogden at nægte<lb />
+Eksekution.
+</p>
+<wtitle>§ 461.</wtitle>
+<p>
+Under Eksekutionen af Forlig har Fogden at paakende alle Indsigelser mod<lb />
+Forligets Gyldighed, dog, hvad Retsforlig angaar, kun. for saa vidt Fogdens Kendelse<lb />
+ikke vilde indeholde en Bedømmelse af Rettens Handlinger.
+</p>
+<p>
+Er den ved Forliget hjemlede Fordring knyttet til en Betingelse eller en Tids-<lb />
+frist eller afhængig af Erlæggelse af en Modydelse, maa det ved Forligets eget Ind-<lb />
+hold eller ved andre offentlige Dokumenter eller ved Skyldnerens egen Indrømmelse<lb />
+være givet, at Betingelsen er indtraadt eller Tidsfristen udløben, eller at Forligshaveren<lb />
+fra sin Side har erlagt Modydelsen, for saa vidt ikke lovligt Tilbud herom fremkommer<lb />
+under selve Forretningen og da endnu kan betimelig fremsættes.
+</p>
+<wtitle>§ 462.</wtitle>
+<p>
+De i foregaaende Paragraf med Hensyn til Forlig opstillede Grundsætninger<lb />
+finde ogsaa Anvendelse paa de i § 455 Nr. 3 nævnte Pantebreve og de i § 455 Nr. 4<lb />
+nævnte Bodmeribreve.
+</p>
+<wtitle>§ 463.</wtitle>
+<p>
+Den, der forlanger Eksekution efter en udenlandsk Dom eller Kendelse, maa<lb />
+samtidig med Begæringen herom forelægge Fogden de Oplysninger, som udkræves<lb />
+efter § 456.
+</p>
+<wtitle>§ 464.</wtitle>
+<p>
+Domme kunne fuldbyrdes, naar Fuldbyrdelsesfristen er udløben, uden at lovlig<lb />
+Anke er bleven iværksat ved Ankestævnings Indlevering til Berammelse inden denne<lb />
+Frists Udløb. Fuldbyrdelsesfristen. der regnes fra Dommens Afsigelse eller, jfr. § 196,<lb />
+3die Stykke, fra dens Forkyndelse, er ved alle Retter 4 Uger, naar der ikke i Dom-<lb />
+men er fastsat en særlig Fuldbyrdelsesfrist.
+</p>
+<p>
+Ved Domme, der paabyde en Handlings Foretagelse, kan Retten forlænge den<lb />
+nævnte Tidsfrist, hvis Domfældte findes at behøve længere Tid til at efterkomme<lb />
+Dommen.
+</p>
+<p>
+Ansvar for Overtrædelse af en Dom, som paalægger at undlade noget, ifaldes<lb />
+ikke før den almindelige Fuldbyrdelsesfrists Udløb.
+</p>
+<p>
+Domme, hvorved der tilkendes nogen en Ret, kunne ikke før Udløbet af den<lb />
+almindelige Eksekutionsfrist afgive Hjemmel til Udøvelse af saadan Ret.
+</p>

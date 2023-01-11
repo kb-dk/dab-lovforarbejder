@@ -1,0 +1,33 @@
+75
+<pb n="81" />
+<p>Påstår vedkommende Part, at der i<lb />
+Dokumentet tillige indeholdes Oplysninger,<lb />
+som ere denne Sag uvedkommende, og som<lb />
+han ikke onsker bekjendtgjorte, bestemmer Retten,<lb />
+på hvilken Måde Dokumentet skal fremlægges.</p>
+<p>Nægter vedkommende Part at være i Besiddelse af det angivne Dokument, påhviler<lb />
+det den, som fordrer dets Fremlæggelse, at bevise hans Besiddelse deraf.</p>
+<p>De i denne Paragraf omhandlede Opfordringer til at fremlægge Dokumenter skulle<lb />
+i Reglen fremsættes i det i § 180 omhandlede Retsmøde, i hvilket Forhandling finder<lb />
+Sted og fornøden Kjendelse afsiges.</p>
+<wtitle>§  242.</wtitle>
+<p>Trediemand er pligtig til på Opfordring<lb />
+at fremkomme med Dokumenter, når vedkommende Part enten er Medejer af dem eller<lb />
+iøvrigt på Grund af Retsforholdets Beskaffenhed har en af Processen uafhængig Ret til<lb />
+at benytte dem som Bevis for sine Rettigheder.</p>
+<p>Men selv hvor dette ikke er Tilfældet, skal<lb />
+Trediemand være pligtig at bidrage til Sagens<lb />
+Oplysning ved at give Retten og Parterne<lb />
+Adgang til Benyttelse eller Besigtelse af Dokumenter, der ere hans Rådighed undergivne,<lb />
+men dog kun, forsåvidt Dokumenternes Fremførelse ikke vilde kunne skade ham selv eller<lb />
+pådrage ham Udgifter eller betydelig Ulejlighed.</p>
+<wtitle>§  243.</wtitle>
+<p>Den Part, der vil benytte et under Trediemands Rådighed værende Dokument som<lb />
+Bevis, har i Reglen i det i § 180 omtalte Retsmøde at fremsætte Begjæring om, at det må<lb />
+pålægges Trediemand på Partens egen Bekostning under Bevisforhandlingen at fremlægge<lb />
+Dokumentet efter 3 Dage forudgået Meddelelse<lb />
+til Parterne. Sådan Begjæring må indeholde<lb />
+en nøjagtig Opgivelse af de Fakta, der ved<lb />
+Dokumentet skulde bevises, samt nærmere Forklaring angående de Grunde, hvorfor Parten<lb />
+antager, at den opgivne Trediemand er i Besiddelse af Dokumentet og pligtig at fremlægge det.</p>
+<p>Retten kan derefter ved Kjendelse pålægge</p>

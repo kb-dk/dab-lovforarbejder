@@ -1,0 +1,79 @@
+2143
+<pb n="208" />
+<h>
+<coll>
+2143
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2144
+</colr>
+</h>
+<p>
+Rettens Afgørelser træffes snarest muligt, efter at den paagældende Forhand-<lb />
+ling er til Ende. Kan Afsigelsen ikke finde Sted samme Dag, skulle Domme i Næv-<lb />
+ningesager og Kendelser afsiges senest Dagen efter, Domme i andre Sager senest<lb />
+inden en Uge.
+</p>
+<p>
+Er Tiltalte domfældt, bliver Udskrift af Dommen at forkynde ham, hvis han<lb />
+ikke var til Stede ved Afsigelsen; i andre Tilfælde meddeles der ham paa Begæring<lb />
+Udskrift uden Betaling. Af alle Domme tilstilles der Overanklageren Udskrift.
+</p>
+<p>
+Ved Afsigelsen eller Forkyndelsen af en fældende Dom bliver det at betyde<lb />
+Domfældte, inden hvilken Frist og paa hvilken Maade han kan fremsætte Meddelelse<lb />
+om Anke.
+</p>
+<wtitle>§  923.</wtitle>
+<p>
+Dommen skal, for saa vidt den ikke gaar ud paa Sagens Afvisning, enten<lb />
+domfælde eller frifinde.
+</p>
+<p>
+Frifindelse finder Sted, naar Overanklageren ikke er paataleberettiget, naar<lb />
+Forfølgning frafaldes, naar Strafskylden er forældet, samt naar Tiltalte ikke findes<lb />
+skyldig.
+</p>
+<wtitle>§  924.</wtitle>
+<p>
+Ved Afgørelsen af, om noget er bevist eller ikke, tages alene Hensyn til de<lb />
+Beviser, som ere fremførte under Domsforhandlingen. Bedømmelsen af Bevisernes<lb />
+Vægt er ikke bunden ved Lovregler.
+</p>
+<wtitle>§  925.</wtitle>
+<p>
+Retten kan ikke domfælde for noget Forhold, der ikke omfattes af Tiltalen.
+</p>
+<p>
+Derimod er Retten ikke udelukket fra at henføre det paatalte Forhold under<lb />
+en anden Strafbestemmelse end den, Overanklageren har paastaaet anvendt, eller fra<lb />
+at afvige fra Tiltalen med Hensyn til de med Forbrydelsen forbundne Biomstændig-<lb />
+heder (Tid, Sted o. desl.), alt under Betingelse af, at det med Sikkerhed skønnes, at<lb />
+Tiltalte, ogsaa under Forudsætning af saadan Afvigelse fra Tiltalen, har haft fyldest-<lb />
+gørende Adgang til Forsvar. Finder Retten, at dette ikke er Tilfældet, eller nærer<lb />
+den Tvivl i saa Henseende, skal den, forinden dens afvigende Bedømmelse lægges til<lb />
+Grund for Domfældelsen, give Parterne Lejlighed til at udtale sig og efter Omstæn-<lb />
+dighederne tilstaa den til Varetagelse af Forsvaret fornødne Udsættelse.
+</p>
+<title>
+Kapitel 83.
+</title>
+<title>
+Særlige Bestemmelser om Domsforhandling for Nævninger.
+</title>
+<wtitle>§  926.</wtitle>
+<p>
+Naar Retten er sat til Sagens Behandling, lader Rettens Formand Sagen paa-<lb />
+raabe og Tiltalte føre ind i Retssalen samt saa vidt fornødent Vidner og Syns- og<lb />
+Skønsmænd paaraabe, hvorhos han giver (le Paalæg og træffer de Foranstaltninger,<lb />
+som maatte findes fornødne for at sikre disses Tilstedeblivelse og hindre indbyrdes<lb />
+Meddelelse.
+</p>
+<p>
+Derefter skrides, for saa vidt der ikke opstaar Spørgsmaal om Udsættelse,<lb />
+Afvisning eller desl., som findes forinden at burde afgøres, til Udtagelse af Næv-<lb />
+ninger. jfr. dog §  935.
+</p>

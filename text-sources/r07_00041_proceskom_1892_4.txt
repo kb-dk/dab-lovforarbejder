@@ -1,0 +1,58 @@
+3291
+<pb n="41" />
+<h>
+<coll>3291</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3292</colr>
+</h>
+<p>
+hele maa holde sig inden for de ved Underretsproceduren afstukne Grænser. For-<lb />
+malitetsfejl, begaaede ved Underretten, der efter Sagens Stilling ved Landsretten er<lb />
+uden virkelig Betydning for vedkommende Part, kunne dog ikke med Nytte paa-<lb />
+beraabes som Annullationsgrund, hvorhos Hjemvisning ikke kan finde Sted, fordi<lb />
+Underretsdommeren ikke behørig har vejledet en Part. Fremdeles maa med Hensyn<lb />
+til Procedurens Begrænsning ved Underretsproceduren mærkes, at ny Paastande dog<lb />
+kunne fremsættes, naar Retten tillader saadant, fordi det findes undskyldeligt, at de<lb />
+ikke tidligere ere fremkomne, og for saa vidt selve Sagens Hovedgenstand ikke derved for-<lb />
+andres. Derimod er der en ubegrænset Adgang til under Appellen at fremkomme<lb />
+med ny Anbringender (Søgsmaalsgrunde, Benægtelser og Indsigelser), naar de blot<lb />
+anføres straks i Stævningen eller under den øvrige Skriftveksling. Ligeledes er Ad-<lb />
+gangen til at fremføre ny Beviser for Landsretten fri, naar det blot i Forvejen med-<lb />
+deles Modparten, af hvilken Art det ny Bevis er, og hvad dermed forventes bevist.<lb />
+— De alt ved Underretten førte Vidner m. v. skulle føres paa ny, medmindre begge<lb />
+Parter frafalde det (f. Eks. fordi de ville nøjes med Oplæsning af Underretsprotokol-<lb />
+latet), eller der i øvrigt er Hjemmel for Opgivelse af Umiddelbarheden (jfr. Nr. 7).<lb />
+Protokollation af Forklaringerne behøver i Reglen ikke at finde Sted, medmindre<lb />
+Retten selv ønsker saadan.
+</p>
+<p>
+21. Anke til Højesteret i borgerlige Sager. Enhver borgerlig Sag, der er<lb />
+paakendt ved Landsret som første Instans, kan undergives en fuldstændig Appel til<lb />
+Højesteret; derimod kunne Domme, afsagte af en Landsret som anden Instans, kun<lb />
+undtagelsesvis og i Kraft af en særlig Tilladelse fra Højesteret paaankes til denne.<lb />
+Der kan ikke forud gyldig gives Afkald paa Anke. Der kan ikke ankes til Stad-<lb />
+fæstelse, men kun til Forandring, Ophævelse eller Hjemvisning, og ligesom ved Anke<lb />
+til Landsret gælder, at Klager over Behandlingen ved Underinstansen, som efter Sa-<lb />
+gens Stilling ved Højesteret ere uden reel Betydning for vedkommende Part, kunne<lb />
+lades ude af Betragtning. Den almindelige Anke- og Fuldbyrdelsesfrist for Landsrets-<lb />
+domme er 8 Uger. Bevilling til at appellere efter Udløbet af den almindelige Anke-<lb />
+frist (Oprejsningsbevilling) og Bevillinger til uden Modpartens Samtykke at fremsætte<lb />
+ny Paastande, Anbringender eller Beviser, hvilke Bevillinger nu for Tiden gives af<lb />
+Administrationen, skulle ligesom de enkelte andre specielle Tilladelser, hvorom der<lb />
+efter Udkastet kan blive Spørgsmaal, søges hos Højesteret selv. Ny Beviser kunne<lb />
+dog fremsættes uden særlig Tilladelse, naar der er givet Modparten betimelig skriftlig<lb />
+Meddelelse derom. Ankestævning indleveres paa Rettens Kontor til Berammelse.<lb />
+Stævnevarslet er i Almindelighed 4 Uger, aldrig kortere.
+</p>
+<p>
+Om Skriftforberedelse ved Højesteret gælder følgende: For saa vidt kun Appel-<lb />
+lanten ønsker Dommen forandret, kan hele Skriftforberedelsen i Reglen indskrænkes<lb />
+til Ankestævningen. Ønsker ogsaa Modparten Dommen forandret, eller har han For-<lb />
+malitetsindsigelser mod Ankesagen, maa han fremlægge en skriftlig Angivelse af sine<lb />
+Ankegrunde eller Formalitetsindsigelser samt af sin Paastand. Ønsker Indstævnte blot<lb />
+Dommen stadfæstet, er det tilstrækkeligt, at han mundtlig erklærer dette. Videre be-<lb />
+høves ikke, da Parterne alt kende hinandens Stilling, og Retten i Landsretsdommen<lb />
+har et skriftligt Grundlag til Orientering. Kun hvor Højesteret tillader Fremsættelse<lb />
+af ny Paastande eller Anbringender, bliver der Spørgsmaal om en yderligere Skrift-<lb />
+forberedelse, og denne foregaar da efter de samme Regler, som gælde ved Landsretten.
+</p>

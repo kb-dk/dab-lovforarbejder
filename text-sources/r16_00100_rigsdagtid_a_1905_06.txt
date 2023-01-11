@@ -1,0 +1,73 @@
+2103
+<pb n="100" />
+<h>
+<coll>
+2103
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2104
+</colr>
+</h>
+<p>
+i Statstidenden eller ved Kirkestævne med de Retsvirkninger, som Plakat af 10. April<lb />
+1841 bestemmer. Samtidig med Dekretets Afgivelse beskikker Underretsdommeren en<lb />
+foreløbig Værge.
+</p>
+<wtitle>§ 438.</wtitle>
+<p>
+Landsrettens Justitiarius beskikker en Sagfører til at varetage dens Tarv, som<lb />
+søges umyndiggjort, hvis ikke en Sagfører anmelder sig som antagen af denne, og be-<lb />
+rammer derefter mundtlig Forhandling af Sagen i et Retsmøde, til hvilket begge<lb />
+Parter indkaldes ved Foranstaltning af Landsrettens Justitiarius og med et af ham<lb />
+bestemt Varsel.
+</p>
+<wtitle>§ 439.</wtitle>
+<p>
+Efter at Parterne have ytret sig, afgør Retten paa Grundlag af de foreliggende<lb />
+skriftlige Beviser og Erklæringer samt den Bevisførelse, der yderligere maatte have<lb />
+fundet Sted, om endeligt Umyndiggørelsesdekret skal afgives, eller om Begæringen<lb />
+herom skal nægtes.
+</p>
+<wtitle>§ 440.</wtitle>
+<p>
+Udebliver den, der andrager paa nogens Umyndiggørelse, i noget af de i §§<lb />
+438 og 439 omhandlede Møder, afvises Sagen, dersom ikke Retten i Omstændighederne<lb />
+tinder Grund til at udsætte den.
+</p>
+<wtitle>§ 441.</wtitle>
+<p>
+Med Hensyn til Paalæg af Omkostningerne ved heromhandlede Fremgangs-<lb />
+maade, derunder indbefattet Salær til den ifølge § 438 beskikkede Sagfører, komme<lb />
+Reglerne i Kap. 29 til Anvendelse, saaledes at den, der umyndiggøres, betragtes som<lb />
+tabende.
+</p>
+<wtitle>§ 442.</wtitle>
+<p>
+Den ovenangivne Fremgangsmaade bliver ogsaa at anvende, naar der af andre<lb />
+fremsættes Begæring om, at Enke maa sættes under fast Lavværgemaal.
+</p>
+<p>
+Naar en Enke selv begærer at blive sat under fast Lavværgemaal, har Under-<lb />
+retsdommeren uden videre Undersøgelse at tage Begæringen til Følge.
+</p>
+<wtitle>§ 443.</wtitle>
+<p>
+Naar ondeligt Umyndiggørelsesdekret er afgivet, eller naar det er besluttet, at<lb />
+en Enke skal sættes under fast Værgemaal, paahviler det vedkommende Ret straks at<lb />
+give den til Værges eller Lavværges Udnævnelse kompetente Myndighed Under-<lb />
+retning herom.
+</p>
+<wtitle>§ 444.</wtitle>
+<p>
+Naar enten Øvrigheden eller den Person, der er erklæret umyndig eller sat<lb />
+under fast Lavværgemaal, eller nogen af de i § 435, 1ste Stykke, angivne Personer for<lb />
+Landsretten tror at kunne oplyse, at der ikke længere er Grund til denne Foran-<lb />
+staltnings Vedbliven, har paagældende at indgive et Andragende til Landsretten i den<lb />
+Kreds, hvor den umyndiggjorte bor, om at maatte blive stedet til i et Retsmøde at<lb />
+begrunde eller lade begrunde en Begæring om Umyndiggørelsens Ophævelse. Er Sinds-<lb />
+svaghed Umyndiggørelsesgrunden, kan der dog i Reglen ikke tages Hensyn til et af<lb />
+den umyndiggjorte eller af andre paa hans Vegne indgivet Andragende, medmindre<lb />
+det er ledsaget af Anbefaling fra en Embedslæge eller fra Overlægen paa den Hel-<lb />
+bredelsesanstalt, paa hvilken den umyndiggjorte maatte være anbragt.
+</p>

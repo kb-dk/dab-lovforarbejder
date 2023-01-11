@@ -1,0 +1,79 @@
+2171
+<pb n="222" />
+<h>
+<coll>
+2171
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2172
+</colr>
+</h>
+<title>
+Sjette Afsnit.
+</title>
+<undertitle>
+Retsmidler mod trufne Afgørelser.
+</undertitle>
+<title>
+Kapitel 88.
+</title>
+<title>
+Paaanke af Domme, afsagte af Landsretterne i første Instans.
+</title>
+<wtitle>§  986.</wtitle>
+<p>
+Domme, afsagte i første Instans af en Landsret med eller uden Nævninger,<lb />
+kunne overensstemmende med nedenstaaende Regler af Parterne paaankes til Højeste-<lb />
+ret. I Forbindelse med Dommen kan Anken omfatte den forudgaaende Behandling<lb />
+og de under denne faldne Afgørelser.
+</p>
+<p>
+Lige med Domme staa i Henseende til Anke saadanne Beslutninger, som om-<lb />
+handles i §  962.
+</p>
+<wtitle>§  987.</wtitle>
+<p>
+Overanklageren kan anke saavel til Fordel som til Skade for Tiltalte. Anke<lb />
+til Fordel for Tiltalte kan endvidere iværksættes af ham selv og, dersom han ikke er<lb />
+personlig myndig, af hans Værge. Er Tiltalte død. og er han ved Dommen funden<lb />
+skyldig i en i den offentlige Mening vanærende Handling, kan hans Ægtefælle saavel<lb />
+som enhver af hans Slægtninge i op- og nedstigende Linie og hans Søskende anke i<lb />
+hans Sted. Ogsaa Overanklageren kan i dette Tilfælde paaanke en fældende Dom.
+</p>
+<p>
+Tiltaltes Forsvarer ved Landsretten er pligtig til paa Forlangende at bistaa<lb />
+ham med Raad om, hvor vidt han bør paaanke Dommen, saavel som med Affattelsen<lb />
+og Indgivelsen af Ankemeddelelsen og dens Begrundelse.
+</p>
+<wtitle>§  988.</wtitle>
+<p>
+Afkald paa Anke kan tinde Sted. efter at Dommen er afsagt. En rejst Anke<lb />
+kan frafaldes, saa længe Dom ikke er afsagt af Højesteret. Frafaldes Anke, efter at<lb />
+Domsforhandling for Højesteret er begyndt, kan derved dog ikke Prøvelse af saadanne<lb />
+Ankegrunde unddrages Højesteret, som tages i Betragtning i Embeds Medfør (§  1003).
+</p>
+<wtitle>§  989.</wtitle>
+<p>
+Anke kan støttes paa:
+</p>
+<p>
+1.	at Rettergangsregler ere tilsidesatte eller fejlagtig anvendte; dog kan Til-<lb />
+sidesættelse eller fejlagtig Anvendelse af Rettergangsregler, hvis Overholdelse Retten<lb />
+ikke af egen Drift paaser, kun benyttes som Ankegrund, naar Indsigelse betimelig er<lb />
+fremsat for den underordnede Ret;
+</p>
+<p>
+2.	at Retten i en Nævningesag har afgjort paa urigtig Maade noget Spørgsmaal,<lb />
+som ifølge § 944 er unddraget fra Nævningernes Afgørelse, eller urigtig har domfældt<lb />
+i Overensstemmelse med en fældende Nævningserklæring i et Tilfælde, hvor den i<lb />
+Medfør af § 965 burde have frifundet eller ikkun domfældt for en mindre Forbrydelse,<lb />
+end Erklæringen lyder paa, eller omvendt med Urette har fraveget en fældende<lb />
+Nævningeerklæring i Henhold til § 965 eller frifundet i Henhold til § 909, andet Stykke;
+</p>
+<p>
+3.	at i en Nævningesag Nævningernes Erklæring, hvorpaa Dommen er grundet,<lb />
+er bleven fejlagtig paa Grund af urigtig Vejledning i Loven fra Rettens Formands
+</p>

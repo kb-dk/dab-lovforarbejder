@@ -1,0 +1,76 @@
+3667
+<pb n="14"/>
+<h>
+<coll>3667</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3668</colr>
+</h>
+<title>Kapitel 5.</title>
+<undertitle>
+Tilfælde, hvor Rettens Personer skulle eller kunne vige deres Sæde.
+</undertitle>
+<wtitle>§ 61.</wtitle>
+<p>
+Ingen maa handle som Dommer i en Sag, naar han
+</p>
+<p>
+1)	selv er Part i Sagen eller er interesseret i dens Udfald eller, hvis det er en<lb />
+Straffesag, er forurettet ved Forbrydelsen;
+</p>
+<p>
+2)	er beslægtet eller besvogret med nogen af Parterne i en borgerlig Sag eller med<lb />
+Sigtede i en Straffesag i op- eller nedstigende Linie eller i Sidelinien saa nær<lb />
+som Søskendebørn, eller er en af Parternes eller Sigtedes Ægtefælle, Værge,<lb />
+Kurator, Adoptiv- eller Plejefader, Adoptiv- eller Plejesøn;
+</p>
+<p>
+3)	er gift med eller beslægtet eller besvogret i op- eller nedstigende Linie eller<lb />
+beslægtet i Sidelinien saa nær som Søskende med nogen i en borgerlig Sag op-<lb />
+trædende Sagfører eller anden Rettergangsfuldmægtig for en af Parterne eller<lb />
+med den forurettede i en Straffesag eller dennes Rettergangsfuldmægtig eller<lb />
+med nogen i en saadan Sag optrædende Anklager eller Politiembedsmand eller<lb />
+Forsvarer for Sigtede;
+</p>
+<p>
+4)	har aflagt Vidnesbyrd eller været Syns- eller Skønsmand i Sagen eller har hand-<lb />
+let i den, hvis det er en borgerlig Sag, som Sagfører eller i øvrigt som Retter-<lb />
+gangsfuldmægtig for nogen af Parterne, og hvis det er en Straffesag, som Politi-<lb />
+embedsmand, Anklager, Forsvarer eller Rettergangsfuldmægtig for den forurettede;
+</p>
+<p>
+5)	har handlet i Sagen i den underordnede Instans som Dommer eller, hvis det er<lb />
+en Straffesag, som Nævning.
+</p>
+<p>
+Den Omstændighed, at Dommeren, fordi flere Embedsvirksomheder ere for-<lb />
+enede i hans Person, tidligere af den Grund har haft med Sagen at gøre, medfører<lb />
+ikke Inhabilitet, naar der ikke efter de foreliggende Omstændigheder er Grund til at<lb />
+antage, at han har nogen særegen Interesse i Sagens Udfald.
+</p>
+<wtitle>§ 62.</wtitle>
+<p>
+I de i foregaaende Paragraf omhandlede Tilfælde er Dommeren, hvis han er<lb />
+Enkeltdommer, pligtig efter Kendelse, afsagt af ham selv, at vige sit Sæde. Beklæder<lb />
+han Retten i Forening med andre Dommere, er han pligtig at gøre Retten Meddelelse<lb />
+om de Omstændigheder, som ifølge foregaaende Paragraf formenes at medføre hans<lb />
+Inhabilitet, ligesom ethvert andet Medlem af Retten, der maatte være bekendt med<lb />
+saadanne Omstændigheder, er berettiget og forpligtet til at rejse Spørgsmaal derom,<lb />
+hvorefter Afgørelse træffes ved Kendelse af Retten, uden at han selv er udelukket<lb />
+fra at deltage i Paakendelsen af Spørgsmaalet.
+</p>
+<wtitle>§ 63.</wtitle>
+<p>
+Parterne kunne ikke blot fordre, at en Dommer skal vige sit Sæde i de i § 61<lb />
+angivne Tilfælde, men enhver af dem kan fremsætte Indsigelse mod, at en Dommer be-<lb />
+klæder Retten, naar andre Omstændigheder foreligge, som ere egnede til at vække Tvivl<lb />
+om hans fuldstændige Upartiskhed. I Tilfælde af den sidstnævnte Beskaffenhed kan<lb />
+ogsaa Dommeren selv, naar han frygter for, at Parterne ej kunne have fuld Tillid til<lb />
+ham, vige sit Sæde, selv om ingen Indsigelse mod ham fremsættes. Beklædes Retten af<lb />
+flere Dommere, kan enhver af disse rejse det Spørgsmaal, om nogen af Rettens Med-<lb />
+lemmer paa Grund af Omstændigheder af  heromhandlede Art bør fratræde.
+</p>
+<p>
+De Spørgsmaal, som maatte opstaa i Henhold til nærværende Paragraf, afgøres<lb />
+paa samme Maade, som i § 62 er bestemt med Hensyn til de i § 61 omhandlede<lb />
+Tilfælde.
+</p>

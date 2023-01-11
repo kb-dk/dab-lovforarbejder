@@ -1,0 +1,63 @@
+422
+<pb n="158" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>422</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+gyndt, kan disses Medvirkning efter Rettens Bestemmelse vedblive, selv om det findes<lb/>
+at Sagen burde have været foretagen uden Nævninger.
+</p>
+<p>
+En Afgørelse af Underret, hvorved en Sigtets Begæring om Sagens Påkendelse<lb/>
+ved Landsret afslås, såvel som en Afgørelse af Landsret, hvorved Påtalemyndighedens eller Sigtedes Begæring om Sagens Påkendelse under Medvirkning af Nævninger afslås, kan påkæres.
+</p>
+<wtitle>§ 683.</wtitle>
+<p>
+Til Landsrettens Virkekreds høre endvidere Afgørelser i Anledning af Påanke<lb/>
+af eller Kæremål mod Underrettens Lomme, Kendelser og Beslutninger.
+</p>
+<wtitle>§ 684.</wtitle>
+<p>
+Under Højesteret høre alle Afgørelser i Anledning af Påanke af eller Kæremål mod Landsrettens Domme, Kendelser og Beslutninger, derunder indbefattet<lb/>
+Handlinger af det Medlem af Landsretten, hvem det måtte være overdraget at handle<lb/>
+som Undersøgelsesdommer.
+</p>
+<title>Kapitel 62.</title>
+<undertitle>
+Værneting og Forening af Straffesager.
+</undertitle>
+<wtitle>§ 685.</wtitle>
+<p>
+Enkeltstående Retshandlinger foretages i Reglen ved Undersøgelsesretten (§677)<lb/>
+i den Retskreds, hvor den Person, som skal afhøres, bor eller opholder sig, eller hvor<lb/>
+den Ting findes eller antages at være, til hvilken Retshandlingen har Hensyn.
+</p>
+<wtitle>§ 686.</wtitle>
+<p>
+Straffesager forfølges ved de nedenfor anførte Værneting. Reglerne herom<lb/>
+finde Anvendelse såvel med Hensyn til Forundersøgelsen som med Hensyn til Behandlingen ved den dømmende Ret.
+</p>
+<wtitle>§ 687.</wtitle>
+<p>
+Alle i Kongeriget begåede Forbrydelser forfølges i Reglen ved den Ret, i hvis<lb/>
+Kreds Handlingen er foretagen. Udkræves flere Handlinger til Forbrydelsens Begreb,<lb/>
+er den Ret Værneting, i hvis Kreds den sidste af dem er foretagen. Udgøre flere i<lb/>
+forskellige Retskredse foretagne strafbare Handlinger, som hver især vilde begrunde<lb/>
+Værneting efter foranstående Regler, tilsammen een Forbrydelse, eller er en Forbrydelse begået på Grænsen af flere Retskredse, eller er det uvist, i hvilken af<lb/>
+flere bestemte Retskredse en Forbrydelse er begået, kan Forfølgning ske ved en hvilken som helst af de Retter, om hvilke der på Grund af de angivne Omstændigheder<lb/>
+opstår Spørgsmål.
+</p>
+<wtitle>§ 688.</wtitle>
+<p>
+Som Gerningsstedets Værneting ved Forbrydelser, der begås udenfor Kongerigets Søterritorium om Bord på dansk Skib eller af Personer, som høre til sådant<lb/>
+Skib, anses den Ret, til hvis Kreds Skibet ved sin Hjemkomst til Kongeriget ankommer for at losse eller lade.
+</p>
+<wtitle>§ 689.</wtitle>
+<p>
+Ved den Ret, i hvis Kreds Sigtede bor eller, hvis han ikke har Bolig i Riget,<lb/>
+ved Forfølgningens Begyndelse opholder sig, eller, hvis han ikke findes i Riget, ved<lb/>
+den Ret, i hvis Kreds han sidst havde Bolig eller opholdt sig, kunne forfølges:
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

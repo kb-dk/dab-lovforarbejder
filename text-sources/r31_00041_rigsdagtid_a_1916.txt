@@ -1,0 +1,85 @@
+457
+<pb n="41" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>457</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+anden hermed i Klasse stående Skade, samt når Spørgsmålet angår Meddelelser,<lb />
+som Vidnets Ægtefælle under Ægteskabet har gjort Vidnet, for så vidt Vidnet selv<lb />
+eller dets Ægtefælle herved kan skades.
+</p>
+<p>
+I Straffesager kan Vidnesbyrd kun nægtes (jfr. dog 4de og 5te Stykke), når<lb />
+Besvarelsen af det stillede Spørgsmål må forudsættes at ville udsætte Vidnet selv<lb />
+for Tab af borgerlig Agtelse eller Velfærd.
+</p>
+<p>
+Et Vidne kan ingen Sinde undslå sig for at besvare det Spørgsmål, om der er<lb />
+overgået Vidnet en Straffedom.
+</p>
+<p>
+Den, hvem Ansvaret for et trykt Skrifts Indhold i Medfør af Lov af 3. Januar<lb />
+1851 § 3 kan komme til at påhvile, kan nægte Vidnesbyrd angående Betingelserne<lb />
+for en Forgængers Ansvar, når han enten selv vil overtage Ansvaret, eller Opfordringen til ham ikke er sket inden 3 Måneder, efter at Bekendtgørelse om Skriftets<lb />
+Udgivelse første Gang var indrykket i et offentligt Blad.
+</p>
+<p>
+Ligeledes kan på Bladet navngiven Redaktør og Redaktionssekretær ved et<lb />
+offentligt Blad nægte Vidnesbyrd angående, hvem der er Hjemmelsmand til en i det<lb />
+pågældende Blad optagen, ikke med Forfatterens Navn forsynet Artikel eller Meddelelse,<lb />
+medmindre Sagen angår en Forbrydelse, der kan medføre højere Straf end simpelt Fængsel, eller den angår Brud på Tavshedspligt, som påhviler nogen i offentligt Hverv.
+</p>
+<p>
+At nogen i de nævnte Tilfælde har fundet sig i at afgive en Forklaring, som<lb />
+han var berettiget til at nægte, udelukker ham ikke fra senere at undslå sig for at<lb />
+bekræfte den eller for at afgive videre Forklaring.
+</p>
+<p>
+I ethvert Tilfælde, hvor det er klart, at Betingelserne for Fritagelsen er til Stede,
+</p>
+<p>
+skal Retten før Afhørelsen gøre pågældende opmærksom på hans Ret til at undslå sig.
+</p>
+<wtitle>§ 171.</wtitle>
+<p>
+I borgerlige Sager er i Regelen ingen pligtig at møde som Vidne udenfor den<lb />
+Underretskreds, i hvilken han bor eller opholder sig. Når Landsretssager forberedes<lb />
+ved Landsretten selv, er dog Personer, som bor eller opholder sig i en Underretskreds,<lb />
+der har Tingsted i den Retskreds, hvor Landsretten har sit Sæde, jfr. § 338, 2det Stykke,<lb />
+pligtige til under Sagens Forberedelse at møde som Vidner for vedkommende Landsret.
+</p>
+<p>
+I Straffesager er i Regelen ingen pligtig at møde som Vidne udenfor den<lb />
+Underretskreds, i hvilken han bor eller opholder sig, når han vilde komme til at rejse<lb />
+mere end 70 Kilometer på Jernbane eller Dampskib eller 25 Kilometer på anden Måde<lb />
+eller en tilsvarende Vejlængde delvis på Jernbane eller Dampskib og på anden Måde<lb />
+for at nå hen til vedkommende Ret. Til Domsforhandling for Landsret i Sager, ved<lb />
+hvis Pådømmelse Nævninger medvirker, er dog enhver, hvis Helbredstilstand ikke er til<lb />
+Hinder derfor, pligtig at møde som Vidne indenfor den Landsretskreds, i hvilken han bor<lb />
+eller opholder sig, samt i øvrigt, når han ikke vilde få længere at rejse hen til Retten<lb />
+end 140 Kilometer på Jernbane eller Dampskib eller 50 Kilometer på anden Måde<lb />
+eller en tilsvarende Vejlængde delvis på Jernbane eller Dampskib og på anden Måde.
+</p>
+<p>
+Ved Beslutning af Retten eller dens Formand, der bliver at påberåbe i Indkaldelsen, kan det såvel i borgerlige Sager som i Straffesager pålægges et fjernere<lb />
+boende Vidne at give Møde for Landsret eller Højesteret, når dets Afhøring må<lb />
+antages at være af særlig Betydning for Sagens Oplysning. Det samme gælder med<lb />
+Hensyn til borgerlige Sager, der behandles skriftlig for Landsret eller Højesteret, når<lb />
+Afhøring i Medfør af §§ 389, 415 og 438 bestemmes at skulle ske for et Medlem af<lb />
+Landsretten eller Højesteret.
+</p>
+<wtitle>§ 172.</wtitle>
+<p>
+I borgerlige Sager afgives Vidnesbyrd som Regel for Underretten på det<lb />
+Sted, hvor Vidnet bor eller opholder sig. Når Forberedelsen af en Landsretssag
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.	62
+</title>

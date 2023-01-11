@@ -1,0 +1,63 @@
+1725
+<pb n="1" />
+<h>
+<coll>
+1725
+</coll>
+<colr>
+1726
+</colr>
+</h>
+<title>
+IV.<lb />
+Forslag til Lov<lb />
+om<lb />
+Rettens Pleje.
+</title>
+<undertitle>
+(Fremsat i Folketinget den 7. Oktober 1902 af Justitsminister Albertl)
+</undertitle>
+<title>
+Første Bog.
+</title>
+<undertitle>
+Domsmagten m. m.
+</undertitle>
+<title>
+Første Afsnit.
+</title>
+<undertitle>
+Domstolenes Ordning.
+</undertitle>
+<title>
+Kapitel 1.
+</title>
+<title>
+Retterne.
+</title>
+<wtitle>§ 1.</wtitle>
+<p>
+De almindelige Domstole ere Højesteret, Landsretterne og Underretterne.
+</p>
+<p>
+Rigsretten, Sessionerne, de gejstlige og militære Retter omfattes ikke af denne Lov.
+</p>
+<wtitle>§  2.</wtitle>
+<p>
+Højesteret er øverste Domstol for liele Riget. Den har sit Sæde i Kjøben-<lb />
+havn og bestaar af en Justitiarius og 12 andre Højesteretsdommere. Til at træde i<lb />
+Justitiarii Sted i paakommende Tilfælde beskikker Kongen en af Rettens ordentlige<lb />
+Dommere.
+</p>
+<p>
+1 hver Sags Afgørelse ved Højesteret deltage, for saa vidt ikke andet særlig<lb />
+er bestemt, mindst 7 Dommere. Haves i nogen Sag ikke det fornødne Antal af Ret-<lb />
+tens ordentlige Dommere til Raadighed, kalder Justitiarius en eller flere Lands-<lb />
+dommere til at deltage i Sagens Behandling.
+</p>
+<p>
+I Sø- og Handelssager kan Justitiarius efter Rettens Beslutning tilkalde 2 Sø-<lb />
+kyndige eller 2 Handelskyndige eller 2 Søkyndige og 2 Handelskyndige blandt et Antal<lb />
+af 10 Handelskyndige og 5 Søkyndige, valgte paa den i Lov om en Sø- og Handelsret<lb />
+af 19. Februar 1861 §3 angivne Maade og udenfor det Antal af Sø- og Handelskyndige
+</p>

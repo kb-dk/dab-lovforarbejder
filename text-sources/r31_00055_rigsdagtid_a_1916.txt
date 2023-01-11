@@ -1,0 +1,27 @@
+471
+<pb n="55" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>471</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 223.</wtitle>
+<p>
+I de Tilfælde, hvor en efter Loven tilstedelig Afvigelse fra de almindelige<lb />
+Regler om Straffesagers Behandling betinges af en forudgående Beslutning af en Ret,<lb />
+ved hvilken den Sag, med Hensyn til hvilken Spørgsmålet opstår, ej er tingfæstet,<lb />
+bliver Spørgsmålet skriftlig at forelægge Retten. Er denne Højesteret eller en<lb />
+Landsret, træffes Afgørelsen af Formanden med to Medlemmer af Retten eller, hvor<lb />
+sådant særlig er bestemt, af Formanden. Retten tager Beslutning på Grundlag af<lb />
+det forelagte samt de yderligere Oplysninger og Erklæringer, som måtte være indhentede; findes det nødvendigt, at Vidner afhøres, sker dette ved en Undersøgelsesret<lb />
+Mundtlig Forhandling finder ikke Sted, medmindre Formanden af særegne Grunde<lb />
+finder Anledning til at beslutte en sådan; dog er Retsmødet i så Fald ikke offentligt. De i denne Paragraf ommeldte Afgørelser kan ikke påklages for højere Ret.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

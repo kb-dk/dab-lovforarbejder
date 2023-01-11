@@ -1,0 +1,74 @@
+251
+<pb n="<span class="result">257</span>" />
+<leftside>
+<p>visse Tilfælde stilles særegne Fordringer til<lb />
+Begrundelsen, navnlig til Fremstillingen af den<lb />
+antagne faktiske Sammenhæng. Der bliver<lb />
+iøvrigt atter her Forskjel mellem Domme i<lb />
+Nævningesager og andre Domme, se §§ 355,<lb />
+358  og 359.</p>
+<p>For Beslutninger, der skulle tages af flere<lb />
+Dommere i Forening, indeholde §§ 105 og<lb />
+106 Regler. Den første angår de formelle<lb />
+Regler med Hensyn til Vedtagelsen; disse behøve ingen nærmere Begrundelse, idet det kun<lb />
+skal bemærkes, at det her ligeså lidt som i<lb />
+det civile Udkast er fundet rigtigt at bestemme,<lb />
+at Dommernes Rådslagninger og Afstemninger skulle være offentlige. I § 106 udtales først den Regel, at der må være Stemmeflerhed for enhver Afgjørelses Resultat, hvorimod der ikke tillige udkræves Stemmeflerhed<lb />
+for Grundene. Med Hensyn til denne Regel<lb />
+henvises til de Betragtninger, som sindes i<lb />
+Motiverne til det civile Udkast. En Undtagelse<lb />
+fra Reglen findes i Udkastets § 350; Forklaringen heraf vil blive givet i det følgende.<lb />
+Ligesom i borgerlige Retstrætter kan der i<lb />
+Straffesager forekomme fukcessive Afstemninger<lb />
+over enkelte Momenter i Sagen, idet en Sammenregning af forskjellige Vota ikke kan finde<lb />
+Sted (således Vota med Hensyn til Formalitet, Påtaleret og Skyldspørgsmålet). særlig må det mærkes, at Udkastet i Landsretssager, der påkjendes uden Nævninger, fordrer Adskillelse mellem dette Spørgsmål, om<lb />
+den Sigtede er skyldig, og Spørgsmålet om<lb />
+Straffens Størrelse (se § 357). I sådanne<lb />
+Tilfælde må da den samme Regel gjælde<lb />
+som i civile Sager, at de Dommere, som ere<lb />
+blevne i Mindretal ved de foregående Afstemninger, ere pligtige at deltage i de senere<lb />
+Afstemninger. Det ligger selvfølgelig heri, at<lb />
+det er de pågjældende Dommeres Pligt at<lb />
+betragte det ved de foregående Afstemninger<lb />
+fastslåede Resultat som bindende for sig, også i de Tilfælde, hvor det i og for sig er<lb />
+muligt at lade den overvundne Opfattelse fåe<lb />
+en vis Indflydelse på den senere Afstemning,<lb />
+således f. Ex. når den, der har stemt for<lb />
+Frifindelse, nu skal stemme over Straffen, og<lb />
+denne, som i Reglen, er relativt bestemt. At<lb />
+Skyldspørgsmålet   og  Strafspørgsmålet bør</p>
+</leftside>
+<rightside>
+<p>sondres på denne Måde fra hinanden, og<lb />
+de frifindende Vota ikke sammenregnes med dem,<lb />
+der stemme for den laveste Straf, er navnlig<lb />
+blevet klart ved Nævningeinstitutionen. Skyldspørgsmålet afgjøres i Nævningesager af nævningerne, Strafspørgsmålet af de retskyndige<lb />
+Dommere, uden at et frifindende Mindretal<lb />
+af Nævningerne kommer den for skyldig Erklærede til Gode ved Straffens Fastsættelse.<lb />
+En herfra grundforskjellig Regel kan ikke uden<lb />
+Vilkårlighed opstilles ved andre Straffesager,<lb />
+Og lige så lidt som man nogetsteds har havt<lb />
+mindste Betænkelighed ved at pålægge de retskyndige Dommere i Nævningesager ved Valget<lb />
+af Straffen at tage Nævningernes Afgjørelse<lb />
+til Udgangspunkt uden Hensyn til mulige<lb />
+Tvivl om dens Rigtighed (se § 355) —<lb />
+forudsat at denne Tvivl ikke fører til Anvendelse af Beføjelsen efter § 350 —, lige så<lb />
+lidt kan der i Pligten til subsidiær Votering<lb />
+med hin Forpligtelse til at tage den fastslåede<lb />
+Afgjørelse om Skyldspørgsmålet til Udgangspunkt erkjendes at ligge en uberettiget Samvittighedstvang. Forpligtelsen går ud på at<lb />
+votere på samme Måde, som om Skyldspørgsmålet var afgjort ved Nævninger. Den<lb />
+samme Nødvendigbed for at dømme til Straf<lb />
+på et af Andre afgjort Skyldspørgsmål kan også komme frem i Påanketilfælde. Med<lb />
+Rette er det også bemærket, at en modsat<lb />
+Regel indirekte fører tilbage til Mistankestraffe,<lb />
+se Bar: Recht und Beweis im Geschworenengericht Note 185 (S. 247 ss) — Derimod<lb />
+må det i Straffesager fastholdes, at Spørgsmålet, om den Sigtede er skyldig i den Forbrydelse, for hvilken han sigtes, ikke på den<lb />
+angivne Måde kan deles i flere Spørgsmål<lb />
+og gjøres til Gjenstand for subsidiær Votering,<lb />
+jfr. også her Reglen i Nævningesager § 332<lb />
+og Forudsætningen i § 357. Når denne<lb />
+Sætning, der nu må siges at stå fast i Videnskaben, og som også i Reglen udtrykkelig udtales i Lovene (nemlig i Reglerne om Affattelsen af Spørgsmålene til Nævningerne),<lb />
+afviger fra, hvad der jævnlig vil sinde Sted i<lb />
+Civilprocessen, hvor en Udstykning af Gjenstanden i enkelte Angrebs- og Forsvarsmomenter<lb />
+hyppig er nødvendig, forklares dette ved Forskjellen mellem de civilretlige og de  strafferet-</p>
+</rightside>

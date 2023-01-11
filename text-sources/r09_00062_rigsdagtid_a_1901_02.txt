@@ -1,0 +1,63 @@
+2271
+<pb n="62" />
+<h>
+<coll>2271</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2272</colr>
+</h>
+<wtitle>§ 293.</wtitle>
+<p>
+Sager, i hvilke den heromhandlede Retsforfølgning anvendes, behandles uden<lb/>
+Hensyn til Genstandens Værdi ved Underret efter de oven for i Kap. XXIV givne<lb/>
+Regler, hvorved dog bliver at bemærke, at Dommeren er pligtig at drage særlig Om-<lb/>
+sorg for, at Sagen fremmes med den størst mulige Hurtighed.
+</p>
+<wtitle>§ 294.</wtitle>
+<p>
+Naar Sager af heromhandlede Beskaffenhed indankes for Landsret, er det en<lb/>
+Selvfølge, at Proceduren for denne ikke kan omfatte andet, end det, som i Henhold<lb/>
+til ovenstaaende Regler kunde gøres gældende for Underret,
+</p>
+<title>Kapitel XXVI.</title>
+<undertitle>
+Ægteskabssager samt Sager, hvorunder Arvinger søge sig en bortebleven<lb/>
+Persons Formue tilkendt.
+</undertitle>
+<wtitle>§ 295.</wtitle>
+<p>
+Sager angaaende et Ægteskabs Ugyldighed og Opløsning blive at behandle efter<lb/>
+de almindelige for Underretsproceduren gældende Regler med de neden for givne nær-<lb/>
+mere Bestemmelser ved Underretten for det Sted, hvor Sagsøgte har Bopæl eller Op-<lb/>
+holdssted, eller, dersom Sagsøgte har forladt Landet, eller det ikke vides, hvor Sagsøgte<lb/>
+er, hvor denne sidst havde Bopæl eller Opholdssted her i Riget,
+</p>
+<wtitle>§ 296.</wtitle>
+<p>
+Dersom Sagsøgte ikke under Sagen giver Møde ved antagen Sagfører, har Sag-<lb/>
+søgeren at andrage paa, at der af Retten maa blive beskikket Sagsøgte en Forsvarer.<lb/>
+Forsømmes dette, afvises Sagen.
+</p>
+<p>
+Salæret til den for Sagsøgte beskikkede Forsvarer paalægges det offentlige,<lb/>
+hvor det ikke paalægges Sagsøgeren som tabende Part at udrede det,
+</p>
+<wtitle>§ 297.</wtitle>
+<p>
+Retten kan uden Hensyn til, om Modparten begærer det, paalægge Sagsøgeren<lb/>
+at fremstille sig til Afhørelse under Domsforhandlingen og der under Ed at besvare<lb/>
+de Spørgsmaal angaaende Sagens Genstand, som Retten maatte gøre. Ugrundet Und-<lb/>
+ladelse heraf eller Vægring herved har til Følge, at Sagen afvises.
+</p>
+<wtitle>§ 298.</wtitle>
+<p>
+Ligeledes kan Retten, hvis Sagsøgte bor eller opholder sig i Riget, paalægge<lb/>
+denne at fremstille sig til Afhørelse under Domsforhandlingen og der under Ed be-<lb/>
+svare de Spørgsmaal angaaende Sagens Genstand, som gøres af Retten. Ugrundet<lb/>
+Undladelse af at møde eller Vægring ved at svare medfører dog kun Virkning efter<lb/>
+§ 299, 2det Punktum.
+</p>
+<wtitle>§ 299.</wtitle>
+<p>
+Indrømmende Proceserklæringer fra Sagsøgtes Side have ikke Virkning som<lb/>
+bindende Grundlag for Stridsspørgsmaalets Indhold og Omfang, men der kan alene
+</p>

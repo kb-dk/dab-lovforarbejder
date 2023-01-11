@@ -1,0 +1,129 @@
+2881
+<pb n="41" />
+<h>
+<coll>2881</coll>
+<topmidle>Tillæg B. (181).	Ordentlig Samling 1913 -14.<lb />
+Bilag til Bet. o. Lovf. om Rettens Pleje m. m.</topmidle>
+<colr>2882</colr>
+</h>
+
+<p>
+Oversigt
+over
+den aarlige Udgiftsforøgelse ved Procesreformen efter Regeringsforslaget<lb />
+og Landstingsudvalgets Ændringsforslag.
+</p>
+<table>
+<tr>
+<td>
+Regerings-<lb />
+forslaget.
+</td>
+<td>
+Landstings-<lb />
+udvalgets<lb />
+Ændrings-<lb />
+forslag.	
+</td>
+</tr>
+<tr>
+<td>
+Kr.
+</td>
+<td>
+Kr.	
+</td>
+</tr>
+<tr>
+<td>
+1. Lønninger og Kontorudgif-<lb />
+ter til de kollegiale Retter
+</td>
+<td>
+208,500
+</td>
+<td>
+209,500
+</td>
+<td>
+Stigningen af Merudgiften med<lb />
+1,000 Kr. skyldes Ændrings-<lb />
+forslag Nr. 1 til Lønningslov-<lb />
+forslaget om, at Næstforman-<lb />
+den i Sø- og Handelsretten<lb />
+skal oppebære samme Lønning<lb />
+som Landsdommere.
+</td>
+</tr>
+<tr>
+<td>
+2. Retsbetjente med fast Løn-<lb />
+ning og Politimestre (Løn-<lb />
+ning og Kontorhold) ......
+</td>
+<td>
+278,000
+</td>
+<td>
+351,600	
+</td>
+<td>
+<p>
+Af de 278,000 Kr. er 158,000<lb />
+Kr. regnet at medgaa til Løn-<lb />
+ninger og 120.000 Kr. til<lb />
+Kontorhold, og af de 351,600<lb />
+Kr. er 216,600 Kr. regnet at<lb />
+medgaa til Lønninger og<lb />
+145,000 Kr. til Kontorhold.
+</p>
+<p>
+Efter Regeringsforslaget vilde<lb />
+der være 82 Dommere (62 i<lb />
+lste Lønningsklasse og 20 i<lb />
+2den Lønningsklasse); efter<lb />
+Landstingets Ændringsforslag<lb />
+vil der blive 98 Dommere (57<lb />
+i lste Lønningsklasse og 41 i<lb />
+2den Lønningsklasse).
+</p>
+<p>
+Efter Regeringsforslaget vilde<lb />
+der være 70 Politimestre (46<lb />
+i lste Lønningsklasse og 24 i<lb />
+2den Lønningsklasse); efter<lb />
+Landstingets Ændringsforslag<lb />
+vil der blive 65 Politimestre<lb />
+(34 i lste Lønningsklasse, 22<lb />
+i 2den Lønningsklasse og 9 i<lb />
+3die Lønningsklasse).
+</p>
+<p>
+Efter Regeringsforslaget er der<lb />
+regnet med en gennemsnitlig<lb />
+Kontorholdsgodtgørelse af ca.<lb />
+5,400 Kr. pr. Embede; efter<lb />
+Landstingets Ændringsforslag<lb />
+med en gennemsnitlig Kontor-<lb />
+holdsgodtgørelse af ca. 5,200<lb />
+Kr. pr. Embede.
+</p>
+</td>
+</tr>
+<tr>
+<td>
+At overføre...
+</td>
+<td>
+486,500	
+</td>
+<td>
+561,100	
+</td>
+</tr>
+</table>
+<underpage>
+<p>
+Udvalgenes Betænkninger m. m.	181
+</p>
+</underpage>

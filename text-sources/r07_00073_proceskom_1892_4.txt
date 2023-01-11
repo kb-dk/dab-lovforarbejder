@@ -1,0 +1,173 @@
+3355
+<pb n="73" />
+<h>
+<coll>3355</coll>
+<topmidle>Sagregister (henviser til §§ og Kap. i Udk. t. L. om Domsmagtens Ordning).</topmidle>
+<colr>3356</colr>
+</h>
+<p>
+Erstatningsansvar, Dommeres 				 .... ........ 33
+</p>
+<p>
+—	, Retskriveres .... . .			 40
+</p>
+<p>
+Fabrikanters (kjøbenliavnske) Konkursboer 		 		 			17
+</p>
+<p>
+Fabrikanters (ikke kjøbenliavnske) Konkursboer	 .....	21
+</p>
+<p>
+Feriesager ved Landsret 				...................	13
+</p>
+<p>
+Flytning, Sagførers — af Kontor skal anmeldes . 						99
+</p>
+<p>
+Foged, Fogedforretning ................ 				 17, 18,	20
+</p>
+<p>
+Formand, Landrets — i Straffesager ...						 . 					 8 jfr.	10
+</p>
+<p>
+—	— __ i Sø- og Handelssager 						9 jfr.	10
+</p>
+<p>
+—	— — i andre Sager ... 						10
+</p>
+<p>
+Fritagelse, Begæring om — for Nævningehvervet 48, 49, 51, 56, 60, 66, se ogsaa 71 og	73
+</p>
+<p>
+Fuldmægtige ved Højesteret 				 					 3,	38
+</p>
+<p>
+—	ved Landsretterne						 				11, 38
+</p>
+<p>
+—	ved Kbhvn.s Stadsret 							18, 38
+</p>
+<p>
+—	ved Underretterne, i øvrigt					. .. 20, 32, 37
+</p>
+<p>
+—	hos Politimestre 						................ . 88
+</p>
+<p>
+—	hos Sagførere 			 103, jvf. 101 og 102
+</p>
+<p>
+Færøerne 				... 113
+</p>
+<p>
+Gejstlige Retter 		 . 1 jvf. 25
+</p>
+<p>
+Grundlister 	 49, Kap. IY
+</p>
+<p>
+Handelskyndige Dommere ved Landsret 						 			9
+</p>
+<p>
+—	— ved Kbhvn.s Stadsret ................................	17
+</p>
+<p>
+—	— ved Underret udf. Kbhvn. 								21
+</p>
+<p>
+Handelssager ved Landsret ..................................................	9
+</p>
+<p>
+—	ved Kbhvn.s Stadsret 							17
+</p>
+<p>
+—	ved Underret udf. Kbhvn. ....................................... 21
+</p>
+<p>
+—	almindelige Regler 			9, 24
+</p>
+<p>
+Handlendes (kjøbenliavnske) Konkursboer 					 17
+</p>
+<p>
+—	(ikke kjøbenhavnske) Konkursboer ..................................	21
+</p>
+<p>
+Helligdage 				26
+</p>
+<p>
+Herredsretter	 1, 14—16, 20—23,	27
+</p>
+<p>
+Hjælpeliste, Hjælpenævninger .................................. 62, 63—68, 72,	75
+</p>
+<p>
+Hovedliste, Hovednævninger 				.... 62, 64—68,	75
+</p>
+<p>
+Højesteret				 1—4, 28,	29
+</p>
+<p>
+Højesteretssagfører, Betingelser 				92,	93
+</p>
+<p>
+—	, Beføjelser 				 100
+</p>
+<p>
+—	, nuværende 							104
+</p>
+<p>
+Højesterets-Udvalg 						36
+</p>
+<p>
+Ikrafttræden, Lovens ......							 113
+</p>
+<p>
+Indenrigsministeriet 						114, 118
+</p>
+<p>
+Indkaldelse, Nævningers 						65
+</p>
+<p>
+Indsigelse mod Grundlisten 				 51, 54, 56, 57
+</p>
+<p>
+—	mod Aarslisten 				61 jvf. 60
+</p>
+<p>
+Inhabilitet, Sættedommer-Beskikkelse 						 31
+</p>
+<p>
+—	Retsskriver-Beskikkelse, i Tilfælde af			 39
+</p>
+<p>
+—	Sagføreres 				100
+</p>
+<p>
+Justitiarius i Højesteret	 2, 3, 27, 34, 35, 103
+</p>
+<p>
+—	i Landsret 5, 7, 10, 11, 12, 27, 30, 31, 34, 35, 37, 38, 39, 41, 42, 44, 55, 103
+</p>
+<p>
+—	i Kbhvn.s Stadsret 	 17, 18, 19, 27, 34, 35, 38, 39, 40, 41, 42, 44
+</p>
+<p>
+Justitsminister, Beføjelser vedrørende Retsplejen 5, 12, 17, 18, 19, 22, 23, 27, 30,31, 35,
+</p>
+<p>
+37, 38, 42, 53, 55, 56, 58, 60, 77, 78, 79, 80, 83, 89, 91, 92, 96, 104, 111,	112,<lb />
+114, 118.
+</p>
+<p>
+Justitssekretærer . 										38
+</p>
+<p>
+Justitssekretæren ved Højesteret 			 ................. .	3
+</p>
+<p>
+—	ved Landsretten 						11
+</p>
+<p>
+-— ved Kbhvn.s Stadsret  			 . .	18
+</p>

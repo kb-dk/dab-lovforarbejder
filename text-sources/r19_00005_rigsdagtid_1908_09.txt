@@ -1,0 +1,87 @@
+2147
+<pb n="5" />
+<h>
+<coll>2147</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2148</colr>
+</h>
+
+<wtitle>§ 16.</wtitle>
+<p>
+Til Københavns Byret hører et Skriverkontor samt et Pante- og Brev-<lb/>
+skriverkontor.
+</p>
+<p>
+Skriverkontoret, hvorunder Skriverforretningerne ved Byrettens forskellige Af-<lb/>
+delinger samt Oppebørsel af og Regnskabsaflæggelse for Retsafgifter vedrørende<lb/>
+Domssager og Skiftevæsenet høre, forestaas af en Justitssekretær; der ansættes 21<lb/>
+Fuldmægtige foruden det i øvrigt fornødne Kontorpersonale. Fogedforretninger<lb/>
+og de til Skifteforvaltningen hørende Forretninger kunne, for saa vidt der ikke der-<lb/>
+ved bliver Spørgsmaal om Afgørelse af Tvistigheder, efter Dommerens Bestemmelse<lb/>
+udføres af en Fuldmægtig eller en anden dertil af Byrettens Formand bemyndiget<lb/>
+Person. To af Fuldmægtigene tillægges der under Benævnelsen Underfogder Bemyn-<lb/>
+digelse til paa eget Ansvar at afsige de under Fogedforretninger forefaldende Ken-<lb/>
+delser, saaledes at der med Hensyn til Paaanke og Kære gælder de samme Regler som<lb/>
+med Hensyn til vedkommende Dommere i Byretten, jvf. Kapitel 52.
+</p>
+<p>
+Pante- og Brevskriverkontoret, hvorunder Skøde- og Pantebøgernes Førelse<lb/>
+hører, forestaas af en Pante- og Brevskriver, og der ansættes 4 Fuldmægtige<lb/>
+foruden det i øvrigt fornødne Kontorpersonale. Beslutninger vedkommende Bøgernes<lb/>
+Førelse kunne indenfor det af Pante- og Brevskriveren fastsatte Omraade tages af<lb/>
+en Fuldmægtig paa eget Ansvar. Tinglæsninger og Aflæsninger foregaa ved de Af-<lb/>
+delinger. som behandle borgerlige Domssager. Rettens Formand fastsætter For-<lb/>
+delingen med Justitsministerens Billigelse.
+</p>
+<p>
+Oppebørsel af og Regnskabsaflæggelse for Retsafgifter forestaas for Fogedforret-<lb/>
+ningernes Vedkommende af Fogderne og for Pante- og Brevskriverforretningernes
+</p>
+<p>
+Vedkommende af Pante- og Brevskriveren.
+</p>
+<wtitle>§ 17.</wtitle>
+<p>
+Udenfor København bestaa Underretterne hver af en Dommer, der tillige er Rets-<lb/>
+skriver. De nuværende særskilte Retsskriverembeder forblive dog bestaaende indtil videre.
+</p>
+<p>
+Til Forretningerne som Retsskriver henregnes:
+</p>
+<p>
+1)	Besørgelsen af de under Retten hørende Skriverforretninger og Udfærdigelser,<lb/>
+derunder Udskrifter af Retsbøgerne;
+</p>
+<p>
+2)	Oppebørsel af Retsafgifter og Regnskabsaflæggelse herfor;
+</p>
+<p>
+3)	Ekspedition af Dokumenter, der tinglæses eller aflæses, og Førelse af Skøde- og<lb/>
+Pantebøgerne; og
+</p>
+<p>
+4)	Notarialforretninger.
+</p>
+<p>
+Paa Underretsdommerens Begæring kan der af Landsrettens Formand med-<lb/>
+deles dertil egnede Personer (§ 46) Bemyndigelse til paa Dommerens Ansvar at udføre<lb/>
+Fogedforretninger, de til Skifteforvaltningen hørende Forretninger eller Dele af samme,<lb/>
+Notarialforretninger samt de i § 995, 1ste Stykke, omhandlede Forhør. Bemyndigelse<lb/>
+til at udføre nogen Del af de egentlige Dommerforretninger kan kun meddeles af<lb/>
+J ustitsministeren.
+</p>
+<p>
+Med Hensyn til Udlægs og Udpantningers Foretagelse ved Sognefogden gælde<lb/>
+Reglerne i 3die Bogs 3die Afsnit.
+</p>
+<p>
+Den i Lov Nr. 97 om Foranstaltninger mod smitsomme Sygdommes Indførelse<lb/>
+i Riget af 2. Juli 1880 § 11, jvf. Lov Nr. 39 af 16. Marts 1900, indeholdte Regel<lb/>
+forbliver ved Magt.
+</p>
+<wtitle>§ 18.</wtitle>
+<p>
+I Søsager samt i de Straffesager, der efter de hidtil gældende Regler have<lb/>
+hørt under Søretterne, tiltrædes Underretten udenfor København af 2 søkyndige Mænd<lb/>
+overensstemmende med Reglerne i Lov om Søretter af 12. April 1892 §§ 2, 3. 4 og
+</p>

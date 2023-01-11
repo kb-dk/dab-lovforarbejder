@@ -1,0 +1,78 @@
+4055
+<pb n="208"/>
+<h>
+<coll>4055</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>4056</colr>
+</h>
+<p>
+4. at Spørgsmaalet om Erstatning for uforskyldt Varetægtsarrest eller for ufor-<lb />
+skyldt Udstaaelse af Straf er urigtigtigt afgjort.
+</p>
+<p>
+En Anke, der er rettet mod Dommens Afgørelse af Sagens Realitet, betragtes<lb />
+som omfattende ogsaa Beviserne for Tiltaltes Skyld, naar ikke Ankemeddelelsen ud-<lb />
+trykkelig gaar ud paa det modsatte.
+</p>
+<wtitle>§ 906.</wtitle>
+<p>
+I en Nævningesag kan Anke foruden paa de i § 904 anførte Ankegrunde kun<lb />
+støttes paa:
+</p>
+<p>
+1.	at Retten har afgjort paa urigtig Maade noget Spørgsmaal, som ifølge § 848<lb />
+er unddraget fra Nævningernes Afgørelse, eller urigtig har domfældt i Overensstem-<lb />
+melse med en fældende Nævningeerklæring i et Tilfælde, hvor den i Medfør af § 873<lb />
+burde have frifundet eller ikkun domfældt for en mindre Forbrydelse, end Erklæringen<lb />
+lyder paa, eller omvendt med Urette har fraveget en fældende Nævningeerklæring i<lb />
+Henhold til § 873 eller frifundet i Henhold til § 832, 2det Stykke;
+</p>
+<p>
+2.	at Nævningernes Erklæring, hvorpaa Dommen er grundet, er bleven fejlagtig<lb />
+paa Grund af urigtig i Retsmødet given Vejledning i Loven fra Rettens Formands<lb />
+Side, eller fordi Spørgsmaalene til Nævningerne lide af Fejl, der bero paa en urigtig<lb />
+Forstaaelse af Straffeloven;
+</p>
+<p>
+3.	at den Straf, Dommen har ikendt, ligger udenfor de i Loven fastsatte Græn-<lb />
+ser eller staar i aabenbart Misforhold til Brøden.
+</p>
+<p>
+Anke kan ikke grundes paa, at Spørgsmaalet, om Tiltalte skal domfældes, er<lb />
+urigtig afgjort som Følge af en fejlagtig Bedømmelse af Bevisernes Vægt, medmindre<lb />
+Talen er om et Punkt, der ifølge § 848 i Nævningesager er unddraget Nævningernes<lb />
+Afgørelse.
+</p>
+<wtitle>§ 907.</wtitle>
+<p>
+Tilsidesættelse eller fejlagtig Anvendelse af en Rettergangsregel skal ikke<lb />
+bevirke Ophævelse af en paaanket Dom, medmindre det findes antageligt, at Iagt-<lb />
+tagelse af den paagældende Regel kunde have medført et andet Udfald af Sagen.
+</p>
+<p>
+Ikke-iagttagelse af Rettergangsregler, som udelukkende ere foreskrevne til<lb />
+Betryggelse for Tiltalte, kan ikke føre til Forandring til hans Skade.
+</p>
+<wtitle>§ 908.</wtitle>
+<p>
+Vil det offentlige anke til Skade for Tiltalte, maa der inden fjorten Dage<lb />
+efter Dommens Afsigelse for Tiltalte forkyndes Meddelelse om, at Dommen paaankes.<lb />
+Anke til Fordel for Tiltalte kan det offentlige iværksætte ogsaa efter Udløbet af<lb />
+den nævnte Frist; saadan Anke hindres heller ikke ved, at Tiltalte har givet Afkald<lb />
+paa Anke.
+</p>
+<p>
+I Sager om Erstatning for uforskyldt Varetægtsarrest eller for uforskyldt Ud-<lb />
+staaelse af Straf er Ankefristen for det offentlige altid 3 Maaneder.
+</p>
+<p>
+Meddelelsen skal indeholde Tilkendegivelse om, at Sagen vil blive foretagen i<lb />
+Højesteret, saa snart dertil er Lejlighed, uden nogen yderligere Underretning til<lb />
+Tiltalte. Genpart af Meddelelsen indleveres paa Landsrettens Kontor.
+</p>
+<wtitle>§ 909.</wtitle>
+<p>
+Vil Tiltalte anke, maa han afgive Meddelelse herom inden fjorten Dage
+regnet fra Dommens Afsigelse eller, naar han ikke har været til Stede ved Afsigelsen
+af Dommen, og denne er fældende, fra den Dag, da Udskrift af Dommen er ham
+</p>

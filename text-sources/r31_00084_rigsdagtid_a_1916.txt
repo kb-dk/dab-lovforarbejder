@@ -1,0 +1,82 @@
+500
+<pb n="84" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>500</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+udenfor et Retsmøde Bestemmelse, om Vidneførselen kan tilstedes. Nægtes dette, kan<lb />
+Parten inden en Uge iværksætte Kære herover til højere Ret.
+</p>
+<wtitle>§ 354.</wtitle>
+<p>
+Udmeldelse af Syns- eller Skønsmænd sker ved Underretten på det Sted.<lb />
+hvor Genstanden for Syns- eller Skønsforretningen befinder sig. Angår Syns- eller<lb />
+Skønsforretningen ikke nogen legemlig Genstand, sker Udmeldelsen ved den i § 338<lb />
+omhandlede Underret eller, for så vidt Sag endnu ikke er tingfæstet, ved Underretten på Modpartens Hjemsted.
+</p>
+<p>
+De i foregående Paragraf indeholdte Regler finder i øvrigt tilsvarende Anvendelse med Hensyn til Syn og Skøn.
+</p>
+<wtitle>§ 355.</wtitle>
+<p>
+Skal personlig Afhøring af Parterne finde Sted i Henhold til § 302, foregår<lb />
+denne for den i § 338 omhandlede Underret (jfr. dog § 302, 7de Stykke) i et dertil<lb />
+berammet Retsmøde.
+</p>
+<p>
+Når Sagens Forberedelse foregår ved Landsretten, sker Afhøringen for denne<lb />
+Ret, medmindre Regelen i § 302, 3die Stykke, er til Hinder derfor.
+</p>
+<wtitle>§ 356.</wtitle>
+<p>
+Til Vidneførsel o. desl. skal Modparten indkaldes med samme Varsel, som om<lb />
+han var Vidne, se dog § 166. Samtidig eller dog mindst 3 Dage før Vidneførselen skal<lb />
+der derhos gives Modparten sådan Meddelelse om Vidnernes Navn, Stilling og Bopæl<lb />
+samt om, hvad der ved dem agtes bevist, for så vidt han ikke allerede under Sagen<lb />
+har erholdt fornøden Kundskab herom. I påtrængende Tilfælde kan Indstævning af<lb />
+Modparten undlades. Når sådan Indstævning ikke har fundet Sted, kan Dommeren<lb />
+beskikke en i Retskredsen bosat Sagfører til at varetage Modpartens Tarv mod et<lb />
+passende Salær, der udredes af den Part, der har begært Indkaldelsen, under Forbehold af Godtgørelse ved Dommen i Hovedsagen. Under denne afgøres det derhos,<lb />
+om der har været Føje til at undlade at indstævne Modparten, og. i benægtende Fald,<lb />
+om Tingsvidnet kan benyttes som Bevis i Sagen.
+</p>
+<wtitle>§ 357.</wtitle>
+<p>
+Under Vidneførsel afhører enhver Part de af ham fremstillede Vidner.
+</p>
+<p>
+Retten kan stille Spørgsmål til Vidnet såvel til nærmere Opklaring af Punkter,<lb />
+hvorom Parterne har spurgt Vidnet, som til selvstændig Oplysning af Sagen.
+</p>
+<p>
+Når Vidnets. Helbredstilstand kræver Afhøring på et særligt Sted, skal<lb />
+Dommeren afhøre Vidnet, hvis dette eller nogen af Parterne begærer det. Der<lb />
+skal i så Fald gives Parterne Lejlighed til gennem Retten at stille Spørgsmål til<lb />
+Vidnet, Ret til at begære Afhøring ved Dommeren tilkommer også den Part. der<lb />
+ikke selv er Sagfører eller møder ved Sagfører.
+</p>
+<p>
+Den Part, der har ladet et Vidne indkalde, kan, når Vidnet har givet<lb />
+Møde, ikke uden Modpartens Samtykke frafalde dets Afhørelse med den Virkning, at<lb />
+Modparten eller Retten afskæres fra at stille Spørgsmål til Vidnet.
+</p>
+<wtitle>§ 358.</wtitle>
+<p>
+Reglerne i § 357 finder med de fornødne Lempelser Anvendelse, også når<lb />
+Parter eller Syns- eller Skønsmænd skal afhøres.
+</p>
+<wtitle>§ 359.</wtitle>
+<p>
+Den, der under Domsforhandlingen vil påberåbe sig Dokumenter, der ikke<lb />
+allerede er Modparten bekendte, skal mindst en Uge forud afgive dem til denne i
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

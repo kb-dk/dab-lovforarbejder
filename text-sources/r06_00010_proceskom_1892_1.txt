@@ -1,0 +1,47 @@
+10
+<pb n="10" />
+<rightside>
+<p>en Fuldmægtig eller en anden dertil af<lb />
+Stadsrettens Iustitiarius bemyndiget Person.<lb />
+Pante- og Brevskriverkontoret, hvorunder Skøde- og Pantebøgernes Førelse<lb />
+hører, forestaas af en Pante- og Brevskriver, og der ansættes 4 Fuldmægtige<lb />
+foruden det i øvrigt fornødne Kontorpersonale. Beslutninger vedkommende Bøgernes Førelse kunne tages af Pante- og<lb />
+Brevskriveren eller en Fuldmægtig. Tinglæsninger og Aflæsninger foregaa ved de Afdelinger, som behandle borgerlige Domssager;<lb />
+Rettens Iustitiarius fastsætter Fordelingen<lb />
+med Justitsministerens Billigelse.
+</p>
+<p>Fordelingen af de under Skriver-,<lb />
+Pante- og Brevskriver-Kontorerne hørende<lb />
+Forretninger fastsættes af Stadsrettens<lb />
+Iustitiarius efter Forhandling med henholdsvis Justitssekretæren og Pante- og Brevskriveren.
+</p>
+<p>Oppebørsel af og Regnskabsaflæggelse<lb />
+for Retsafgifter forestaas for Fogedforretningers Vedkommende af Fogderne og for<lb />
+Pante- og Brevfkriverforretningernes Vedkommende af Pante- og Brevskriveren.
+</p>
+<wtitle>§ 19.
+</wtitle>
+<p>Bestemmelse om Tiden for ordentlige<lb />
+Moder i de Afdelinger af Stadsretten, der<lb />
+behandle Domssager, saavelsom om Bekendtgørelsen heraf træffes af Stadsrettens<lb />
+Iustitiarius med Justitsministerens Billigelse;<lb />
+overordentlige Møder kunne berammes af<lb />
+Dommeren i den paagældende Afdeling.<lb />
+Møder i andre Sager berammes af Dommeren overensstemmende med Lovene om<lb />
+Retsplejen.
+</p>
+<wtitle>§ 20.
+</wtitle>
+<p>By- og Herredsretterne bestaa hver<lb />
+af en Dommer, der tillige er Retsskriver.
+</p>
+<p>Som Retsskriver har han at meddele<lb />
+Udskrifter af Retsbøgerne og besørge alle de<lb />
+under Retten hørende Skriverforretninger og<lb />
+Udfærdigelser. Han oppebærer de befalede<lb />
+Retsafgifter og aflægger Regnskab derfor;<lb />
+han forestaar og foretager de Tinglæsning<lb />
+og Aflæsning af Dokumenter vedkommende<lb />
+Forretninger, samt fører Skode- og Pante-
+</p>
+</rightside>

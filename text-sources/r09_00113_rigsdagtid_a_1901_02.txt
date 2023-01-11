@@ -1,0 +1,65 @@
+2373
+<pb n="113" />
+<h>
+<coll>2373</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2374</colr>
+</h>
+<wtitle>§ 521.</wtitle>
+<p>
+Ankefristen er 4 Uger.
+</p>
+<p>
+Dog kan Landsrettens Justitiarius efter et af vedkommende Part indgivet skrift-<lb/>
+ligt Andragende, hvormed de fornødne Oplysninger maa følge, undtagelsesvis indtil 1<lb/>
+Aar efter Konkursbehandlingens Slutning, tilstede Anke, naar ganske særegne Om-<lb/>
+stændigheder retfærdiggøre, at Parten ikke i rette Tid har iværksat Anke.
+</p>
+<wtitle>§ 522.</wtitle>
+<p>
+Kærefristen er 2 Uger.
+</p>
+<p>
+Naar en Kendelse eller Beslutning, der forefalder under Konkursbehandlingen,<lb/>
+er paakæret, bliver Boets Behandling ikke desto mindre at fortsætte, men Skifteretten<lb/>
+har i saa Fald at drage Omsorg for, at den kærendes Ret ikke foregribes ved Be-<lb/>
+handlingen, medens Kæremaalet staar paa, Er der iværksat Kære imod den Beslut-<lb/>
+ning, hvorved en Akkord stadfæstes, maa Boet ikke forinden Spørgsmaalets endelige<lb/>
+Afgørelse udleveres til Skyldneren, medmindre der drages Omsorg for at sikre den<lb/>
+kærende. Et Kæreskrift, der ikke paaberaaber sig nogen af de i Konkurslovens § 139<lb/>
+ommeldte Ankegrunde, hindrer ikke Boets Udlevering til Skyldneren.
+</p>
+<p>
+Oprejsning imod Oversiddelse af Kærefristen kan gives efter Reglen i § 521,<lb/>
+sidste Stykke, dog ikke længere end i 6 Maaneder.
+</p>
+<wtitle>§ 523.</wtitle>
+<p>
+Ankestævning forkyndes for Kurator, hvem det paahviler paa Boets Bekost-<lb/>
+ning at drage Omsorg for, at der i fornødent Fald tages til Genmæle.
+</p>
+<wtitle>§ 524.</wtitle>
+<p>
+Med Hensyn til alt, hvad der efter Bestemmelserne i dette Kapitel skal iagt-<lb/>
+tages af eller over for Boets Kurator, træder i Boer, hvor ingen Kurator er beskikket,<lb/>
+Skifteretten i dennes Sted (jfr. Konkurslovens § 80).
+</p>
+<wtitle>§ 525.</wtitle>
+<p>
+I øvrigt finde med Hensyn til Anke og Kære i de oven for omhandlede Til-<lb/>
+fælde Reglerne i §§ 511—513 tilsvarende Anvendelse.
+</p>
+<title>Kapitel XLIV.</title>
+<undertitle>
+Auktioner i Dødsboer m. m. og i Konkursboer.
+</undertitle>
+<wtitle>§ 526.</wtitle>
+<p>
+Naar pantsatte Genstande skulle bortsælges ved Tvangsauktion fra et Arv- og<lb/>
+Gældsfragaaelsesbo eller et Konkursbo, skal Auktionen foretages af Skifteretten under<lb/>
+Iagttagelse af de i Kap. XXXIII—XXXVI indeholdte Regler og i øvrigt med de<lb/>
+Lempelser, som følge af Konkurslov 25de Marts 1872 og Skiftelov 30te November<lb/>
+1874, saaledes som disse Love og Loven om en forandret Affattelse af visse Para-<lb/>
+grafer i Konkursloven af 15de April 1887 forandres ved de i nærværeude Lov inde-<lb/>
+holdte Bestemmelser. Kurator i Boet har at udføre, hvad der paaligger Rekvirenten
+</p>

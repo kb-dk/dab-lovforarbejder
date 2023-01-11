@@ -1,0 +1,67 @@
+2047
+<pb n="72" />
+<h>
+<coll>
+2047
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2048.
+</colr>
+</h>
+<wtitle>§ 304.</wtitle>
+<p>
+Den Part, som ved tilregnelig Fejl eller Forsømmelse har foranlediget spildte<lb />
+Møder, ufornødne Udsættelser, unyttig Bevisførelse eller andre overflødige og hensigts-<lb />
+løse processuelle Skridt, er, selv om han i øvrigt vinder Sagen, pligtig at erstatte Mod-<lb />
+parten de denne derved foraarsagede Udgifter.
+</p>
+<wtitle>§ 305.</wtitle>
+<p>
+Angaaende Omkostningerne ved enkelte Proceshandlinger eller Procesafsnit<lb />
+kan der straks træffes Afgørelse af Retten ved Kendelse, naar saadan Afgørelse, saa-<lb />
+som i de i foregaaende Paragraf omhandlede Tilfælde, er uafhængig af Hovedsagens<lb />
+Udfald. Er særskilt Afgørelse ikke tilforn truffet, gøres der i den endelige Dom for-<lb />
+nøden Bemærkning i Henseende til saadanne enkelte Proceshandlinger og Procesafsnit.
+</p>
+<wtitle>§ 306.</wtitle>
+<p>
+Sagførere og andre Rettergangsfuldmægtige kunne ifølge Modpartens Paastand<lb />
+under Sagen dømmes til at hære de Omkostninger, som de ved pligtstridig Opførsel<lb />
+have foraarsaget. Den, der nedlægger saadan Paastand, skal drage Omsorg for, at<lb />
+der gives Sagføreren eller Rettergangsfuldmægtigen fornøden Lejlighed til at udtale<lb />
+sig om den.
+</p>
+<wtitle>§ 307.</wtitle>
+<p>
+Bestemmelsen i foregaaende Paragraf er ogsaa anvendelig paa Dommere i<lb />
+underordnede Instanser, naar Sagen indbringes for højere Ret, dog saaledes at den<lb />
+Dommer, over hvem Paastanden agtes nedlagt, skal underrettes herom, samtidig med<lb />
+at Ankestævning forkyndes for Modparten. Dommeren er da berettiget til at give<lb />
+Møde for den højere Ret og fremføre sit Forsvar. I Tilfælde af Kære er det til-<lb />
+strækkeligt, at Paastanden over Dommeren optages i Kæreskriftet eller i den Tilførsel<lb />
+til Retsbogen, der træder i Stedet for denne.
+</p>
+<wtitle>§ 308.</wtitle>
+<p>
+En Udlænding er, naar han optræder som Sagsøger, og der af Sagsøgte frem-<lb />
+sættes Forlangende derom paa Sagens første Tægtedag, pligtig til inden en af Retten<lb />
+bestemt Frist at stille en efter dens Skøn passende Sikkerhed for de Sagsomkost-<lb />
+ninger, som det kan blive paalagt ham at tilsvare Sagsøgte, medmindre Danske i ved-<lb />
+kommende fremmede Stat ere fritagne for saadan Sikkerhedsstillelse. Stilles den<lb />
+forlangte Sikkerhed ikke, bliver Sagen at afvise.
+</p>
+<wtitle>§ 309.</wtitle>
+<p>
+Skønnes det, at en Part uden nogen rimelig Grund har anlagt Retssag eller<lb />
+rejst Anke eller Kære eller sat sin Modpart i den Nødvendighed at anlægge Sag eller<lb />
+indbringe Sagen for højere Ret, bliver han herfor ved Dommen at anse med Bøder<lb />
+fra 20 til 400 Kr.
+</p>
+<wtitle>§ 310.</wtitle>
+<p>
+Samme Straf idømmes for at have brugt opdigtede Udsættelsesgrunde eller<lb />
+andre Udflugter til at forhale Sagen eller at skille Modparten ved hans Ret, saavel<lb />
+som for ikke at have givet behørigt Møde ved den befalede Forligsmægling, dog at<lb />
+Bøden for det sidstnævnte Forhold kan gaa ned til 4 Kr. eller, i Underretssager, til 2 Kr.
+</p>

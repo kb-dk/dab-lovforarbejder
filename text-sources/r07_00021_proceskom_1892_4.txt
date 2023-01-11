@@ -1,0 +1,61 @@
+3251
+<pb n="21" />
+<h>
+<coll>3251</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3252</colr>
+</h>
+<p>
+opfylde Nævningepligten, om dem, som udelukkende eller væsentligst ernære sig ved<lb />
+deres Hænders Gerning, samt om dem, der efter Nævningelistens Berigtigelse have<lb />
+taget Bopæl i en anden Nævningekreds. Enhver af disse Personer kan derfor, om<lb />
+han vil, begære sig slettet af Grundlisten, hvis han er optagen paa denne.
+</p>
+<p>
+Af de ovennævnte Lodtrækninger gaar den første ud paa at reducere Antallet<lb />
+af de paa Grundlisterne opførte til 600 for den kjøbenhavnske Nævningekreds, 120<lb />
+for Bornholm og 200 for hver af de øvrige Nævningekredse. Listen over de saaledes<lb />
+udtagne kaldes Nævningekredsens Aarsliste. Ved ny Lodtrækning mellem de paa Aars-<lb />
+listen opførte udtages kort forinden hvert Ting*) 30 Hovednævninger og 10 Hjælpe-<lb />
+nævninger. Blandt disse udtages ved yderligere Lodtrækning Nævninger for hver en-<lb />
+kelt Sag, der kommer frem til Domsbehandling paa vedkommende Ting. Under sidst-<lb />
+nævnte Lodtrækning kan Anklagemyndigheden og Tiltalte hver uden Angivelse af<lb />
+Grand forkaste 4 af de udtrukne. Til Sagens Paakendelse kræves 12 Nævninger, og<lb />
+da Nævninger kun medvirke i Landsretssager, kommer en Nævningeret altsaa til at<lb />
+bestaa af 3 retskyndige Dommere, hvoraf den ene er Formand, og 12 Nævninger.<lb />
+Alle 12 Nævninger skulle paahøre Domsforhandlingen fra først til sidst. Er der Ud-<lb />
+sigt til en lang Forhandling, kan der fra først af udtages en eller to Nævninger som<lb />
+Reserve, hvilke da ligeledes skulle overvære Forhandlingerne for at kunne træde til,<lb />
+hvis nogen af de 12 Nævninger skulde faa Forfald. Skulle flere Sager foretages paa<lb />
+een Dag, kan Udtagelsen af Nævninger til dem alle ske ved Mødets Begyndelse (se<lb />
+herom nærmere Udkast til Lov om Strafferetsplejen § 267). — Naar de til den paa-<lb />
+gældende Sag udtagne Nævninger have indtaget deres Sæde, oplæses Anklageskriftet,<lb />
+og Tiltalte spørges, om han erkender sig skyldig i det der omhandlede Forhold. Er-<lb />
+kender Tiltalte sig skyldig, kan med hans Samtykke efter Rettens Bestemmelse Næv-<lb />
+ningernes Medvirkning bortfalde. I modsat Fald paaminder Rettens Formand Næv-<lb />
+ningerne om, at de, indtil deres endelige Kendelse er afgiven, ikke angaaende Sagen<lb />
+maa have Samtale eller Forbindelse med nogen anden end Retten gennem dens For-<lb />
+mand. og tager dem derpaa i Ed. Umiddelbart efter Edfæstelsen vælge Nævningerne<lb />
+en af deres Midte til deres Ordfører. Naar Bevisførelsen har fundet Sted, og Parterne<lb />
+have haft Ordet, fastsætter Retten det eller de Spørgsmaal, der skulle rettes til Næv-<lb />
+ningerne. Hvad der skal forelægges Nævningerne til Afgørelse er ikke blot, hvor vidt<lb />
+der er tilstrækkeligt Bevis for, at Tiltalte har udvist det Forhold, der lægges ham til<lb />
+Last, men ogsaa, om dette kan henføres under noget af de Straffebud, hvorom der<lb />
+efter Anklagen kan være Spørgsmaal. Kan der efter Sagens Beskaffenhed være Spørgs-<lb />
+maal om, at der foreligger en eller anden særlig Strafudelukkelsesgrund (f. Eks. Util-<lb />
+regnelighed eller Nødværge), eller at der foreligger særlige Omstændigheder, der bringe<lb />
+Forholdet ind under en højere eller lavere Strafferamme end den almindelige, vil det<lb />
+i Reglen være nødvendigt at stille flere, indbyrdes afhængige, Spørgsmaal til Nævnin-<lb />
+gerne, for at de forskellige Muligheder kunne komme til at staa klart for dem. Et-<lb />
+hvert Spørgsmaal skal stilles saaledes, at det kan besvares med „Ja" eller „Nej".<lb />
+Straffens Udmaaling inden for den enkelte Strafferamme er Nævningerne uvedkommende.<lb />
+Efter at Spørgsmaalene ere fastsatte, gennemgaar Rettens Formand i Korthed Sagen<lb />
+og dens Bevisligheder og forklarer saa vidt fornødent Spørgsmaalene og de Retssæt-
+</p>
+<note rend="foot">
+<p>
+*) »Ting« til Nævningesager skal i Kjøbenhavn holdes mindst een Gang hver Maaned, paa Landets<lb />
+øvrige Tingsteder mindst een Gang hver 3die Maaned; paa Bornholm holdes dog intet Ting i<lb />
+December, Januar og Februar.
+</p>
+</note>

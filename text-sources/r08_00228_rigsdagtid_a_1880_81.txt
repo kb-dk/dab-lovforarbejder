@@ -1,0 +1,55 @@
+3819
+<pb n="228" />
+<h>
+<coll>3819</coll>
+<topmidle>Forsl. t. L. om Strafferetspleien.</topmidle>
+<colr>3820</colr>
+</h>
+<p>Formanden kan paa Begscrring af en Part eller i Embeds medfør bestemme, at et<lb />
+Vidne midlertidig skal forlade Retssalen, naar en uforbeholden Forklaring af et andet Vidne<lb />
+ellers ikke kan ventes.</p>
+<p>Vidnerne lamt Syns- eller skjønsmænd maa ikke forelægge den Sigtede eller hver-<lb />
+andre spørgsmaal, men de kunne andrage paa, at de selv eller et andet Vidne eller den<lb />
+Sigtede yderligere afhøres om angivne Punkier i det øiemed at fuldstændiggjore eller be-<lb />
+rigtige fmudgaaende Udsagn.</p>
+<p>Syns- eller skjønsmænd kunne i Henhold til § 157 2det Stykke ogsaa under<lb />
+Hovedforhandlingen fordre Epørgsmaal forelagte den Sigtede eller Vidner angaaende Punkter,<lb />
+som ere af Vigtighed for deres Svar.</p>
+<wtitle>§ 298.</wtitle>
+<p>Dokumenter, der paastaas at være tagne eller frembragte ved Forbrydelsen eller at<lb />
+have været brugte eller bestemte til dens Udforelse, eller som yde umiddelbar Oplysning om<lb />
+Gerningen eller den Sigtedes Forhold til denne, blive at oplade, naar Bevisforelsen krævcr det.</p>
+<p>Dokumenter og Aktstykker, som indeholde Erklæringer eller Vidnesburd, maa ordent-<lb />
+ligvis ikke benvttes som Bevismidler.    Herfra undtages:</p>
+<p>1) Tilsorfler i retsboger om Ransagninger. Beslaglæggelser, Besigtigelser, Syns-<lb />
+eller skjønsforretningcr, foretagne udenfor Hovedforbandlingen;</p>
+<p>3) Erklæringer til Retten, afgivne af Syns- eller skjønsmænd-</p>
+<p>3)  Tilforfler til Retsboger om   de   af den Sigtede under Ashorelsen   om   Sigtelsen<lb />
+afgivne Erklæringer, naar den Sigtede enten nu vcegrer sig ved at svare, eller den nu afgivne<lb />
+Foi klaring afviger fra den tidligere;</p>
+<p>4)  Tilforfler til Retsboger angaaende de af Vidner, Syns- eller skjønsma'nd under<lb />
+Afborclse afgivne Forklaringer,   naar  disse   Personer   enten   ere   dode   eller af anden Grund<lb />
+ikke kunne afbsres paany,  eller deres Fremstilling for Retten ikke finder Sted af de i § 133<lb />
+Nr.  I — 3, ffr. § 160. angivne Grunde,  eller naar den nu afgivne Forklaring   afviger   fra<lb />
+den tidligere, eller naar et Vidne vcegrer sig ved at afgive Forklaring uden Hjemmel i § 131,<lb />
+og de foreskrevne Tvangsmidler forgjceves ere blevne anvendte.</p>
+<p>5)  Erklæringer og Vidnesbyrd,   udstedte  i  medfør af et   offentligt Hverv, derunder<lb />
+Udskrifter af tidligere den Sigtede overgaaede Straffedomme.</p>
+<p>Hvad der er tilfort Retsboger om Netehandlinger under Efterforskningen, kan dog<lb />
+kun benvttes som B?viZ, naar Opsættelse af Retshandlingen, indtil Sag mod den Sigtede<lb />
+lunde anhængiggjores. vilde haoe medwrt Fare for Tab af Bevismidler, eller den Sigtede<lb />
+har indvilget eller indvilger i Benyttelsen.</p>
+<wtitle>§ 299.</wtitle>
+<p>Oplæsning af Tilfsrster til Nctsboger angaaende Udsagn af den Sigtede, Vidner<lb />
+eller Syns- eller Sljonsmænd paa Grund af de nu afgivne Forklaringers Uoverensstemmelse<lb />
+med de tidligere c^givn? bor kun finde Sted, efterat der paa forefkreven Maade er givet de<lb />
+Paagjældende Leilighed til sammenhængende Udtalelser om Gjenstanden for Afhørelsm, og de<lb />
+yderligere Spørgsmaal. hvortil  denne Udtalelse opfordrer, ere stillede.</p>
+<p>Naar Oplæsning af de i § 298 Nr. 3 og 4 ommeldte Aktstykker finder Sted, skal<lb />
+Grunden meddeles af Rettens Formand og tilfores Retsbogen; saa bor det og bemcrrkes, om<lb />
+Vidnets eller Syns- og skjønsmandens Forklaring er beediget eller ikke, og i sidste Fald,<lb />
+af hvilken Grund.</p>
+<wtitle>§ 300.</wtitle>
+<p>Naar Beviser i medfør af s 273 skulle fores, om hvilke meddelelse ti! vedkom-<lb />
+mende Part ikke er jkct mindst 4 Dage fer Hovedforhandlingens Begyndelse, bliver Sagen at<lb />
+udsætte, medmindre Parten har givet Afkald herpaa.</p>

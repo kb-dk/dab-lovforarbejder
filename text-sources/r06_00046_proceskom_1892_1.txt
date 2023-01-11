@@ -1,0 +1,89 @@
+46
+<pb n="46" />
+<rightside>
+<pagename>44
+</pagename>
+<p>
+</p>
+<p>12.    Frederiksværk   med  Halsnæs  Birk c.<lb />
+5,000.
+</p>
+<p>13.    Frederikssund    og   Horns   Herred   c.<lb />
+15,500.
+</p>
+<p>14.    Nykjøbing   med   Dragsholm   Birk   c.<lb />
+18,000.
+</p>
+<p>15.    Holbæk og Merløse-Tudse Herred c.<lb />
+30,000.
+</p>
+<p>16.    Løve Herred c. 13,500.
+</p>
+<p>17.    Sorø med Birk c.  17,000.
+</p>
+<p>18.    Kallundborg  med   Arts-Skippinge<lb />
+Herred c. 22,800.
+</p>
+<p>19.    Samsø c. 7,000.
+</p>
+<p>20.    Korfør med Landdistrikt c. 8,500.
+</p>
+<p>21.    Slagelse   med   Antvorskov   Birk   c.<lb />
+19,500.
+</p>
+<p>22.    Skjelskør, Besterflakkebjerg   Herred  og<lb />
+Holsteinborg Birk c. 15,000.
+</p>
+<p>23.    Ringsted med Herred c.  15,500.
+</p>
+<p>24.    Bregentved-Gisselfeld   Birk   c. 18,500.
+</p>
+<p>25.	Nestved og Tybjerg Herred samt Øster<lb />
+    Flakkebjerg Herred c. 25,500.
+</p>
+<p>26.    Storehedinge    og    Faxe    Herred    c.<lb />
+18,000.
+</p>
+<p>27.    Præstø  og Vordingborg  nordre  Birk<lb />
+c.  12,500.
+</p>
+<p>28.    Vordingborg  og   Vordingborg   søndre<lb />
+Birk c.  17,000.
+</p>
+<p>29.    Møen c. 14,000.
+</p>
+<title>Bornholm:</title>
+<p></p>
+<p>30.    Rønne med Vestre Herred c. 13,500.
+</p>
+<p>31.    Hasle med Nordre Herred c. 9,400.
+</p>
+<p>32.    Nexø med Søndre Herred og Svaneke<lb />
+med Østre Herred c. 17,000.
+</p>
+<p>(Egen Politimester i Svaneke).
+</p>
+<title>Lolland-Falster:</title>
+<p></p>
+<p>33.    Nykjøbing med   Nykjøbing  Herred og<lb />
+Vestre Herred c. 23,000.
+</p>
+<p>34.    Stubbekjøbing med  Herred c. 12,000.
+</p>
+<p>35.    Sarkjøbing    med   Musse   Herred   c.<lb />
+12,000.
+</p>
+<p>36.    Nysted med Birk c. 7,000.
+</p>
+<p>37.    Maribo med Maribo Birk.
+</p>
+<p>
+</p>
+<p>38.    Rødby med Fuglse Herred  c. 10,000.
+</p>
+<p>39.    Nakskov    med    Søndre   Herred   c.
+</p>
+<p>17,300.<lb />
+40.    Nordre Herred   med Fejø   c. 13,000.
+</p>
+</rightside>

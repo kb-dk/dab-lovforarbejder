@@ -1,0 +1,75 @@
+306
+<pb n="42" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>306</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+lægge Vidnet på Hjerte at følge Sandheden, idet han minder det om det Strafansvar,<lb/>
+som det pådrager sig ved at afgive falsk Forklaring for Retten, og om, at det må<lb/>
+være forberedt på at bekræfte sin Forklaring med Ed eller på anden højtidelig Måde.
+</p>
+<p>
+Skulle flere Vidner afhøres, kan Dommeren lade denne Forberedelse til Afhørelse foregå under eet for flere eller samtlige indkaldte Vidner.
+</p>
+<wtitle>§ 172.</wtitle>
+<p>
+Ethvert Vidne afhøres for sig og bør i Reglen ikke påhøre Forklaringer af<lb/>
+andre Vidner, af Syns- eller Skønsmænd eller, hvis det er i en Straffesag, af Sigtede.<lb/>
+Vidner, hvis Udsagn stå i Strid med hinanden, kunne efter Parternes Begæring eller<lb/>
+Rettens Beslutning stilles imod hinanden. Sådant bør dog ikke i Straffesager, ved<lb/>
+hvis Pådømmelse Nævninger må antages at skulle medvirke, uden særlig Grund ske<lb/>
+før Domsforhandlingen.
+</p>
+<wtitle>§ 173.</wtitle>
+<p>
+Når en Part selv afhører de af ham fremstillede Vidner, kan Modparten, hver<lb/>
+Gang Afhørelsen af et Vidne er sluttet, rette Spørgsmål til det, og Parten kan derefter rette de Spørgsmål til Vidnet, hvortil Modafhøringen har givet Anledning. Rettens Formand kan tillade Fremsættelse af yderligere Spørgsmål.
+</p>
+<p>
+Retten kan, efter Begæring eller af egen Drift, lade et Vidne, der er aftrådt,<lb/>
+fremstå på ny til yderligere Afhøreise; foranstående Regler finde herved tilsvarende<lb/>
+Anvendelse.
+</p>
+<p>
+Vidner kunne andrage på, at de selv eller et andet Vidne eller en Part (i<lb/>
+Straffesager Tiltalte) yderligere afhøres om angivne Punkter i det Øjemed at fuldstændiggøre eller berigtige forudgående Udsagn.
+</p>
+<wtitle>§ 174.</wtitle>
+<p>
+Under et Vidnes Afhøring bør det iagttages:<lb/>
+</p>
+<p>
+at Vidnet så vidt muligt foranlediges til at udtale sig i sammenhængende<lb/>
+Orden om de Punkter, angående hvilke dets Forklaring æskes,
+</p>
+<p>
+at det bringes på det rene, hvorvidt Vidnets Forklaring støtter sig til egen<lb/>
+Iagttagelse, og
+</p>
+<p>
+at Spørgsmål, hvorved der foreholdes Vidnet Omstændigheder, som først<lb/>
+skulle godtgøres ved dets Svar, så vidt muligt undgås.
+</p>
+<p>
+Om Vidnet må benytte nedskrevne Oplysninger ved Besvarelsen af de til det<lb/>
+rettede Spørgsmål. afgøres af Retten, efter at det er opgivet, af hvem, når og i<lb/>
+hvilket Øjemed de ere affattede.
+</p>
+<wtitle>§ 175.</wtitle>
+<p>
+Når Vidner afhøres af andre end Rettens Formand, har denne at våge over,<lb/>
+at utilbørlige, navnlig forvirrende Spørgsmål ikke stilles ved Afhørelsen, og at<lb/>
+denne foregår i en passende Form. Sker Afhørelsen, trods Formandens Advarsel,<lb/>
+på utilbørlig Måde eller på en Måde, som ikke er egnet til at bringe Sandheden<lb/>
+for Dagen, eller som går udenfor Sagen, kan han unddrage den pågældende Part<lb/>
+Afhørelsen og selv overtage den. Skønner han. at Afhørelsens Fortsættelse ikke kan<lb/>
+bidrage til Sagens Oplysning, kan han slutte den.
+</p>
+<wtitle>§ 176.</wtitle>
+<p>
+Vidners Forklaringer optegnes i borgerlige Sager i Retsbogen, således at de<lb/>
+vigtigste Udtalelser gengives så vidt muligt med Vidnets egne Ord, medens uvæsent-
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

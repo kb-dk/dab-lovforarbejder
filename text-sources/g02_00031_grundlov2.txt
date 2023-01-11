@@ -1,0 +1,116 @@
+1535
+<pb n="31" >
+<p rend="page">31</p>
+<h>
+<coll>1535</coll>
+<colr>1536</colr><lb />
+</h>
+<leftside>
+<btitle>
+A. Grundlovsudkastet.<lb />
+</btitle>
+<p>
+<law n="8" >§ 8.<lb /></law>
+Kongen kan ikke tiltræde Regjeringen, forinden han i den forenede Rigsdag har aflagt<lb />
+følgende Eed:<lb />
+</p>
+<p>
+„For den almægtige Guds Aasyn lover<lb />
+jeg at holde Grundloven for Kongeriget<lb />
+Danmark og Slesvig".<lb />
+</p>
+<p>
+Dog kan denne Eed alt aflægges of Thronfølgeren, naar han har fyldt sit 18de Aar.<lb />
+<law n="9" >§ 9.<lb /></law>
+Bliver Kongen ude af Stand til at regjere,<lb />
+sammenkalder Statsraadet Rigsdagen. Begge<lb />
+dens Afdelinger træde sammen, og naar den<lb />
+saaledes forenede Rigsdag med ¾ af de afgivne<lb />
+Stemmer anerkjender Nødvendigheden, udnævner den en Regent.<lb />
+<law n="10" >§ 10.<lb /></law>
+Er der Anledning til at frygte for, at<lb />
+Thronfølgeren ved Kongens Død vil være<lb />
+umyndig eller af anden Grund ude af Stand<lb />
+til selv at regjere, bestemmes ved Lov en Regent, og et Formynderskab anordnes af Kongen. Regenten kan ikke deeltage i Formynderskabet.<lb />
+<law n="11" >§ 11.<lb /></law>
+Regenten aflægger den for Kongen foreskrevne Eed og udøver, saalænge Regentskabet varer,<lb />
+i Kongens Navn alle dennes Rettigheder; dog<lb />
+kan han ikke foreslaae Forandring af Arvefølgen.<lb />
+<law n="12" >§ 12.<lb /></law>
+Er Kongen død og er Thronfølgeren fraværende, eller har han, skjøndt myndig, ikke<lb />
+aflagt Eed paa Grundloven, eller er han<lb />
+umyndig, uden at Regenten er udnævnt og har<lb />
+aflagt Eed, eller uden at Formynderskabet er<lb />
+ordnet, eller er der ingen Thronfølger, sammentræder Rigsdagen uden Sammenkaldelse 14<lb />
+Dage efter Kongens Død. I Mellemtiden<lb />
+føres Regjeringen af Statsraadet.<lb />
+<law n="13" >§ 13.<lb /></law>
+Er Kongen umyndig, uden at Regent og<lb />
+Formynderskab er bestemt, udnævner den forenede Rigsdag Regenten og beskikker Formynderskabet.<lb />
+<law n="14" >§ 14.<lb /></law>
+Er der ingen Thronfølger, udvælger den<lb />
+forenede Rigsdag en Konge og fastsætter den<lb />
+fremtidige Arvefølge.<lb />
+</p>
+<btitle>
+B. Comiteens (Mojoritets Indstilling.<lb />
+</btitle>
+<p>
+<law n="8" >§ 8.<lb /></law>
+Kongen kan ikke tiltræde Regjeringen, forinden han i den forende Rigsdag har aflagt<lb />
+følgende Eed:<lb />
+„For den almægtige Guds Aasyn lover<lb />
+jeg at holde Danmarks Riges Grundlov".<lb />
+</p>
+<p>
+Dog kan denne Eed alt aflægges af Thronfølgeren, naar han har fyldt sit 18de Aar,<lb />
+men bør da stadsæstes af ham for den første<lb />
+Rigsdag efter Regjeringens Tiltrædelse.<lb />
+<law n="9" >§ 9.<lb /></law>
+Bliver Kongen ude af Stand til at regjere,<lb />
+sammenkalder Ministerraadet Rigsdagen. Naar<lb />
+da den forenede Rigsdag med ¾ af de afgivne<lb />
+Stemmer erkjender Nødvendigheden, udnævner<lb />
+den en Regent og anordner, om fornødent gjøres, et Formynderskab.<lb />
+<law n="10" >§ 10.<lb /></law>
+Som Udkastet.<lb />
+<law n="11" >§ 11.<lb /></law>
+Som Udkastet.<lb />
+<law n="12" >§ 12.<lb /></law>
+Er Kongen død, sammentræder 14de Dagen<lb />
+derefter uden Sammenkaldelse den sidstvalgte<lb />
+Rigsdag.<lb />
+<law n="13" >§ 13.<lb /></law>
+Er Thronfølgeren fraværende, eller har han,<lb />
+skjøndt umyndig. ikke aflagt Eed paa Grundloven, eller er han ude af Stand til at regjere,<lb />
+eller er der ingen Thronfølger, føres Regjeringen af Ministerraadet, indtil Bestemmelse er<lb />
+tagen af Rigsdagen.<lb />
+<law n="14" >§ 14.<lb /></law>
+Er Thronfølgeren eller Regenten fraværende, bestemmer den forenede Rigsdag, inden<lb />
+hvilken Tid han har at vende tilbage. Er<lb />
+Thronfølgeren umyndig, uden at Regent og<lb />
+Formynderskab er bestemt, udnævner den forenede Rigsdag Negenten og beskikker formynderskabet. Er der ingen Thronfølger, udnævner<lb />
+den forenede Rigsdag en Konge og fastsætter<lb />
+den fremtidige Arvefølge.<lb />
+</p>
+</leftside>
+<rightside>
+<btitle>
+C. Minoritetsindstillingerne.<lb />
+</btitle>
+<p>
+a) „Jeg lover og sværger . . .<lb />
+saa sandt hjælpe mig Gud og hans hellige<lb />
+Ord."<lb />
+b) Forinden Kongen tiltræder Regjeringen,<lb />
+aflægger han i den forende Rigsdag følgende<lb />
+Eed — — — — —<lb />
+</p>
+<p>
+Er Rigsdagen ikke samlet ved Thronskiftet, nedlægges Eden skriftlig i Ministerraadet og gjentages siden for den forende Rigsdag.<lb />
+<law n="8 b" />§ 8 b.<lb />
+Kongens Kroning skeer, efterat han er bleven myndig, i Landets Hovedkirke med de<lb />
+Ceremonier, han selv fastsætter.<lb />
+</p>
+</rightside>
+</pb>

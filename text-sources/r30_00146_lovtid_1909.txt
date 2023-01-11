@@ -1,0 +1,64 @@
+410
+<pb n="146" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>410</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+Imod Fogdens Kendelse kan der, hvad enten den går ud på at ophæve<lb/>
+Arresten eller nægte dens Ophævelse, iværksættes Anke eller Kære i Overensstemmelse<lb/>
+med Reglerne om Anke eller Kære imod de til Dommes Fuldbyrdelse sigtende Fogedforretninger, jvf. navnlig §§ 584 ff.
+</p>
+<p>
+Fogdens Ophævelsesdekret kan ikke hindres fra at træde i Virksomhed ved<lb/>
+Anvendelse af Anke eller Kære.
+</p>
+<wtitle>§ 632.</wtitle>
+<p>
+Befindes en Arrest i det hele ulovlig, enten fordi den Fordring, for hvilken<lb/>
+den er iværksat, ikke ved endelig Dom befindes grundet hverken i det hele eller for<lb/>
+en Del, eller fordi Arresten selv, bortset fra Fordringens Rigtighed, lider af Mangler,<lb/>
+som medføre dens Ugyldighed, og som kunde have været undgåede af Arrestrekvirenten ved fornøden Agtpågivenhed, er Arrestrekvirenten pligtig at yde den, hos hvem Arresten<lb/>
+er gjort, Erstatning for Tab, Tort og Kreditspilde. Befindes Arresten ulovlig for en<lb/>
+Del, er Arrestrekvirenten pligtig at erstatte den, hos hvem Arresten er gjort, det særlige<lb/>
+Tab og den særlige Kreditspilde, som måtte være en Følge af, at der er blevet givet<lb/>
+Arresten en for stor Udstrækning.
+</p>
+<p>
+Bortfalder eller ophæves en gjort Arrest på Grund af efterfølgende Omstændigheder, tilkommer der den, hos hvem Arresten er gjort, Erstatning for Tab, Tort og<lb/>
+Kreditspilde, når det må antages, at Arresten, om den var bleven behørig forfulgt<lb/>
+og holdt ved Magt, vilde have medført sådant Ansvar.
+</p>
+<wtitle>§ 633.</wtitle>
+<p>
+Krav på Erstatning i Anledning af Arresten kan gøres gældende mod Arrestrekvirenten enten som Modkrav under Arrestsagen eller under et selvstændigt Søgsmål<lb/>
+i første Instans, hvilket sidste dog først kan anlægges, når Arresten enten ved Dom<lb/>
+er kendt ugyldig eller ved Fogdens Kendelse (§ 631) ophævet; sådant selvstændigt<lb/>
+Søgsmål må i så Fald anlægges inden 12 Uger.
+</p>
+<wtitle>§ 634.</wtitle>
+<p>
+Ophæves Arresten af overordnet Ret, for hvilken Fogdens Nægtelse (§ 631) af<lb/>
+at ophæve Arresten er indbragt, kan der ved samme Dom tillægges den, hos hvem<lb/>
+Arresten er gjort, den ham tilkommende Erstatning hos Arrestrekvirenten.
+</p>
+<wtitle>§ 635.</wtitle>
+<p>
+Vil nogen drage Fogden til personligt Ansvar i Anledning af hans Embedsforhold med Hensyn til Arrestens Foretagelse eller Nægtelse, må dette ske<lb/>
+ved Anke.
+</p>
+<wtitle>§ 636.</wtitle>
+<p>
+Fogdens Nægtelse af Arrest er Genstand for Kære efter Reglerne i Kapitel 52.
+</p>
+<title>Kapitel 56.</title>
+<undertitle>
+Forbud.
+</undertitle>
+<wtitle>§ 637.</wtitle>
+<p>
+Ved Forbud, foretaget af Fogden, kan der gives en eller flere bestemte<lb/>
+private Personer såvel som Repræsentanter for Stat eller Kommune i disses Egenskab
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

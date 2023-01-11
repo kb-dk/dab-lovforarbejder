@@ -1,0 +1,74 @@
+560
+<pb n="144" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>560</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 613.</wtitle>
+<p>
+Arrest på Person som Sikkerhedsmiddel for Fordringer af den i i § 612 ommeldte Beskaffenhed kan kun anvendes på Skyldnere, der står i Begreb med at forlade Landet for bestandigt eller på ubestemt Tid, i Anledning af forfaldne Fordringer,<lb />
+for hvilke de ifølge denne Lovs Regler vilde kunne sagsøges ved danske Retter.
+</p>
+<wtitle>§ 614.</wtitle>
+<p>
+Arrest på Gods kan ikke foretages i Ting, hvori der ikke vilde kunne gøres<lb />
+Eksekution for den pågældende Fordring.
+</p>
+<p>
+Når et Skib er udklareret for en Rejse og i øvrigt sejlfærdigt, kan Skipperen<lb />
+og Skibsmandskabet ikke arresteres for Gæld.
+</p>
+<p>
+I Overensstemmelse med de gældende Regler kan der tilstås Fritagelse for<lb />
+Arrest for de i Låne- og Sparekasser samt andre lignende Institutioner indsatte<lb />
+Summer og disses Renter, så længe de indestår sammesteds.
+</p>
+<wtitle>§ 615.</wtitle>
+<p>
+Arrest kan afværges, og foretagen Arrest fås ophævet, når Skyldneren stiller<lb />
+fornøden Sikkerhed for den Fordring med Renter og Omkostninger, i Anledning af<lb />
+hvilken Arrest søges.
+</p>
+<p>
+Om den tilbudte Sikkerhed ifølge Størrelse og Beskaffenhed er fyldestgørende,<lb />
+bedømmes af Fogeden efter et Skøn.
+</p>
+<wtitle>@§ 616.</wtitle>
+<p>
+Arrest på Gods medfører, at Skyldneren fra det Øjeblik, Arrestdekretet er<lb />
+afsagt, bliver uberettiget til at forflytte, forbruge, tilintetgøre eller ved Retshandler<lb />
+råde over de arresterede Genstande, derunder oppebære arresterede Fordringer.
+</p>
+<p>
+For at Arrestens Retsvirkning skal kunne gøres gældende overfor en godtroende Trediemand, således at de foretagne Retshandler taber Gyldighed, er det nødvendigt, at Tinglæsning af Arrestdekretet har fundet Sted ved Skyldnerens personlige<lb />
+Værneting eller, hvis Arresten er gjort i fast Ejendom, ved dennes Værneting. Er<lb />
+Arrest foretaget i Gældsbrev, udfordres derhos, at der på dette er gjort en Påtegning herom, og når Arrest er gjort i Fordringer, der ikke grundes på Gældsbrev,<lb />
+må der gives Skyldneren efter Fordringen Underretning om Arresten, hvilket ligeledes bliver at iagttage overfor Skyldneren efter et Gældsbrev for Rentebetalingens<lb />
+Vedkommende.
+</p>
+<p>
+Med Hensyn til Arrest i registreringspligtige Skibe har det sit Forblivende ved<lb />
+Skibsregistreringslov af 1. April 1892 § 49.
+</p>
+<wtitle>§ 617.</wtitle>
+<p>
+Arrestrekvirenten er i Regelen ikke berettiget til at lade de arresterede Genstande tage fra Skyldneren. Dog kan Fogeden ved rørligt Gods, naar de arresterede<lb />
+Genstandes Beskaffenhed eller Skyldnerens Person og Forhold opfordrer dertil, bestemme,<lb />
+at de arresterede Genstande skal tages under Bevogtning af ham selv eller af nogen,<lb />
+der hertil af ham beskikkes på Skyldnerens Bekostning.
+</p>
+<wtitle>§ 618.</wtitle>
+<p>
+Arrest på Person sker ved Hensættelse i Gældsfængsel ved Fogedens Foranstaltning. Hvis Skyldneren ved Henførelsen til eller Opholdet i Gældsfængslet vilde<lb />
+lide Skade på Helbred, kan Gældsfængsel ikke anvendes eller kun med sådanne<lb />
+Lempelser, som Fogeden skønner fornødne.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

@@ -1,0 +1,47 @@
+3451
+<pb n="44" />
+<h>
+<coll>3451</coll>
+<topmidle>Forsl. t. L. om den borgerligs Retspleie.</topmidle>
+<colr>3452</colr>
+</h>
+<wtitle>§ 55.</wtitle>
+<p>Dog kan den, som gjør en ham efter Angivende tiltransporteret Fordring gjældende,<lb />
+afvises af Retten ved en Beslutning, som ikke er Gjenstand for Paaanke, naar Retten fkjsn-<lb />
+ner, at Transporten i Virkeligheden kun er udfærdiget for at sætte ham istand til at udfore<lb />
+Sagen for Cedenten.</p>
+<wtitle>§ 56.</wtitle>
+<p>Ved Domsfagers Udfsrclse for Landsretterne kan Retten, naar de af Parten selv<lb />
+afsattede Processkrifter findes uforstaaelige, tilbagevise disse og tilkendegive Parten, at han<lb />
+maa lade sin Sag udfore for sig af en Sagfører; ligeledes kan en Part, der selv udfører<lb />
+sin Sag, afvises under de mundtlige Forhandlinger og henvises til at lade en Sagførei møde<lb />
+for sig, naar det viser sig, at han ikke med den fornødne Klarhed og Rolighed kan<lb />
+fremstille Sagen. Retten træffer i de anforte Tilfælde de fornødne Bestemmelser med Hen-<lb />
+fyn til Sagens Udfcrttelse. Efterkommes ovenomhandlede af Retten givne Paalæg, som ei<lb />
+ere Gjenstand for Paaanke, ikke, anses Parten som den, der ikke har indgivet de paagjældende<lb />
+Processkrifter, og som den, der udebliver under paagjældende mundtlige Forhandling,</p>
+<title>Kapitel VI.</title>
+<undertitle>Om Rettergangsfuldmlrgtige.</undertitle>
+<wtitle>§ 57.</wtitle>
+<p>Den, der ikke i egen Person vil udfore sin Retssag, er i Domssager pligtig at be-<lb />
+nytte som Fuldmægtig en til møde for pacigjældende Domstol berettiget Sagfører.</p>
+<p>Ingen anden Fuldmægtig end en saadan stedes til at give møde for Parten under<lb />
+den mundtlige Forhandling, eller til at afsatte Processkrifter for ham.</p>
+<p>Retten har paa Embeosvegne at afvise personer, der ikke ere berettigede til for den<lb />
+at give møde for Andre, og at tilbagevise Processkrifter, som ere underskrevne af saadanne.</p>
+<wtitle>§ 58.</wtitle>
+<p>Dog skal det være tilladt at benytte som Fuldmægtig ved Domssagers Udførelse Per-<lb />
+soner, der ere beslægtede eller besvogrede med Parten i den op- eller nedstigende Linie eller<lb />
+i Sidelinien saa nær som Soskendebam, Partens Mgtefælle, værge, Kurator, Adopiiv-<lb />
+eller Pleieforceldre, Adoptiv- eller Pleiebsrn og Personer, der staa i fast Tjeneste hos Parten.</p>
+<p>Den, der foregiver at staa i et af de ovennævnte Forhold til Parten, maa være<lb />
+rede til at fore Bevis herfor, naar det af Retten eller Modparten forlanges; dog kan<lb />
+Retten undtagelsesvis tilstaa en passende Udslettelse hertil.</p>
+<wtitle>§ 59.</wtitle>
+<p>Under Skiftebehandlinger er det tilladt at lade møde for sig ogsaa ved Andre end<lb />
+de i de tvende foregaaende Paragrafer omhandlede Personer, og det samme gjælder under<lb />
+Fogedforretninger for dens Vedkommende, imod hvem Retshandlingen er rettet.</p>
+<wtitle>§ 60.</wtitle>
+<p>Den, der ifølge de tvende foregaaende Paragrafer møder som Fuldmægtig for Par-<lb />
+ten, maa være personlig myndig og uberygtet.</p>
+<p>Naar i nævnle Tilfælde den Msdende, stjsndt ikke Sagfører,  maa »utages at søg</p>

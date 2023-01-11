@@ -1,0 +1,73 @@
+2475
+<pb n="169" />
+<h>
+<coll>2475</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2476</colr>
+</h>
+<p>
+Retten kan foretage Besigtigelse af Personer, Genstande og Lokaliteter, naar<lb/>
+saadant findes nødvendigt eller hensigtsmæssigt for Sagens Oplysning. Vilde det med-<lb/>
+føre uforholdsmæssige Udgifter eller Ulemper, at Besigtigelse foretages af den Ret,<lb/>
+ved hvilken Sagen er tingfæstet, eller skal Besigtigelsen foretages før Domsforhand-<lb/>
+lingen i en Sag, som er tingfæstet ved Landsretten, foretages den af vedkommende<lb/>
+Undersøgelsesret (§§ 677 og 685).
+</p>
+<p>
+Ved Besigtigelser, som foretages af en Undersøgelsesret, bliver Reglen i § 56<lb/>
+at iagttage.
+</p>
+<p>
+Angaaende Besigtigelser, som Underretten, henholdsvis Sø- og Handelsretten,<lb/>
+foretager enten som Undersøgelsesret eller i Sager, der ikke ere undtagne fra Anke,<lb/>
+skal Retsbogen indeholde saa meget, at den giver et fuldstændigt og tro Billede af<lb/>
+det besigtigede.
+</p>
+<p>
+Forudsætter Adgangen til Besigtigelse en Ransagning, skulle de nedenfor for
+denne foreskrevne Betingelser og Regler iagttages.
+</p>
+<wtitle>§ 726.</wtitle>
+<p>
+Kræves der til en Besigtigelse eller i øvrigt til en Undersøgelse eller Bedøm-<lb/>
+melse af et faktisk Forhold, til hvilken Sagen findes at give Anledning, Indsigt, som<lb/>
+ikke kan forudsættes hos Retten, kan denne tilkalde Syns- eller Skønsmænd overens-<lb/>
+stemmende med Kapitel 18.
+</p>
+<wtitle>§ 727.</wtitle>
+<p>
+Er der Tvivl om en Sigtets Tilregnelighed, kan Retten ved Kendelse bestemme,<lb/>
+at han skal indlægges paa et Sygehus eller en Sindssygeanstalt til nærmere Under-<lb/>
+søgelse, naar lægekyndige — efter Omstændighederne vedkommende overordnede Sund-<lb/>
+hedsmyndighed — erklære sig derfor.
+</p>
+<title>Kapital 66.</title>
+<undertitle>
+Beslaglæggelse.
+</undertitle>
+<wtitle>§ 728.</wtitle>
+<p>
+Ting, der antages at være af Betydning som Bevismidler eller at burde kon-<lb/>
+fiskeres, eller som ved Forbrydelsen ere fravendte nogen, af hvem de kunne kræves<lb/>
+tilbage, tages i Bevaring, hvor dette skønnes fornødent Udleveres saadanne Ting<lb/>
+ikke frivillig af den, i hvis Besiddelse de ere, eller kræves de tilbage af nogen, der<lb/>
+frivillig nar udleveret dem. kunne de beslaglægges overensstemmende med neden-<lb/>
+staaende Regler.
+</p>
+<p>
+Skriftlige Meddelelser mellem Sigtede og de i § 160 nævnte Personer ere ikke<lb/>
+Genstand for Beslaglæggelse, saa længe de ere i de sidstnævnte Personers Besiddelse<lb/>
+og disse ikke sigtes for Delagtighed i Forbrydelsen.
+</p>
+<wtitle>§ 729.</wtitle>
+<p>
+Beslutning om Beslaglæggelse tages af Retten. Politiet kan dog, hvor saadan<lb/>
+Beslutning ikke uden Fare kan afventes, foretage en foreløbig Beslaglæggelse, men<lb/>
+Beretning om denne maa da uden Ophold og senest inden 24 Timer forelægges for<lb/>
+Retten, der afgør, om Beslaglæggelsen skal opretholdes. Samme Beføjelse som Politiet<lb/>
+har enhver anden, naar den paagældende træffes i Udførelsen af en Forbrydelse eller<lb/>
+paa friske Spor. Kan i dette Tilfælde Forelæggelse for Retten ikke straks finde Sted,<lb/>
+skal det beslaglagte uopholdelig afleveres til Politiet, som afkræver nøjagtig Forklaring<lb/>
+om det forefaldne og paalægger vedkommende private, hvis Beslaglæggelsen ikke straks<lb/>
+hæves, at møde for Retten, der træffer Afgørelse.
+</p>

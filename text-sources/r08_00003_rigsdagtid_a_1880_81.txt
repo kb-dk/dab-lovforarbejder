@@ -1,0 +1,50 @@
+3369
+<pb n="3" />
+<h>
+<coll>3369</coll>
+<topmidle>Forsl. t. 8. om Ordningen af Domsmagten, den offentlige Anklagemyndighed m. m.</topmidle>
+<colr>3370</colr>
+</h>
+<title>II.</title>
+<undertitle>Landsretter.</undertitle>
+<wtitle>§ 10.</wtitle>
+<p>Den nordsjællandske Landsret har Scede i kjøbenhavn.<lb />
+Den sydsjællandske Landsret har Scede i Vordingborg.<lb />
+Den fyenske Landsret har Scede i Odense.<lb />
+Den nordjydske Landsret har Scede i Aalborg.<lb />
+Den mellemjydske Landsret har Scede i Viborg.<lb />
+Den sydjydske Landsret har Scede i Veile.</p>
+<wtitle>§ 11.</wtitle>
+<p>Landsretternes Domsmyndighed omsatter dels Behandling og Paakjendelse i fsrste<lb />
+Instants af Retssager i det Omfang, som bestemmes ved Lovene om den borgerlige Retspleie<lb />
+og Etrafferetspltien, dels prøvelse i anden Instants af Underretternes Behandlinger og Af-<lb />
+gjørelser overensstemmende med de noevnte Love. Endvidere kan der til Landsretten sinde Ve«<lb />
+sværing Sted over Underrettens Handlinger i de i § 25 a, o og s ommeldte Forhold, hvor«<lb />
+ved Loven om den borgerlige Retspleie § 360 finder Anvendelse.</p>
+<wtitle>§ 12.</wtitle>
+<p>Den nordsjællandske Landsret bestaar af en Formand og 15 andre medlemmer. Det<lb />
+øvrige Landsretter bestaa hver af en Formand og 8 andre medlemmer.</p>
+<p>medlemmer af Høiesteret kunne beskikkes til at virke ved en Landsret paa den i § 5<lb />
+foreskrevne Maade.</p>
+<p>Justitsministeren kan beskikke en eller flere af de i Landsretskredsen ansatte Underrets-<lb />
+dommere eller, naar Forholdene gjøre det ønskeligt, andre Moend, der ere i Besiddelse af de<lb />
+foreskrevne Egenskaber, til at tiltroede Landsretternes særlige Afdelinger, naar de i medfør af<lb />
+§ 20 holde mede udenfor Rettens Sæde; dog maa mindst 3 Dommere høre til de i denne<lb />
+Paragrafs 1ste og 2det Stykke nævnte Personer. Bestikkelsen gjælder kun for en enkelt<lb />
+Samling.</p>
+<wtitle>§ 13.</wtitle>
+<p>I sø- og Handelssager (Lov 19. Fevr. 1861 §§ 12 og 13) tiltroedes den nordsjæl-<lb />
+land ske Landsret af 4 sø- og handelskyndige Dommere. I Henseende til denne Tiltrædelse<lb />
+forbliver det ved Reglerne i Loven af 19de Febr. 1861; dog kan der ved Kongelig Anordning<lb />
+fastsættes faadanne ændringer i Sammensætningen af den i Lovens § 3 ommeldte Valgfor-<lb />
+samling, der gaa ud paa at give Byraadenc udenfor kjøbenhavn og Kommunalbestyrelsen for<lb />
+Frederiksberg Ret til at vælge et forholdsmæssigt Antal medlemmer af samme. Fremdeles<lb />
+kan det ved Kongelig Anordning fastsættes, at ogsaa andre Landsretter i sø- og Handels-<lb />
+sager skulle tiltrædes af ss« og handelskyndige Dommere, hvorved Reglerne i Lov af 19de Fe-<lb />
+bruar 1861 gjøres anvendelige med de ved Forholdene paabudte Lempelser.</p>
+<wtitle>§ 14.</wtitle>
+<p>Til Sagernes Behandling bestaar der ved hver Landsret dels en Hovedafdeling, dels<lb />
+en særlig Afdeling; ved den nordsjællandske Landsret bestaar der to soerlige Afdelinger, den<lb />
+fsrste for kjøbenhavn med kjøbenhavns Amtsraadskreds (§ 2), den anden for Roeskilde<lb />
+Amtsraadskreds, Frederiksborg. Holbæk og Bornholms Amter.</p>
+<p>Ved Landsretternes Hovedafdelinger behandles alle Sager,  som i Henhold til Loven</p>

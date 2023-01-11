@@ -1,0 +1,98 @@
+2259
+<pb n="86" />
+<p rend="page">86</p>
+<h>
+<coll>2259</coll>
+<colr>2260</colr><lb />
+<topmidle>Bilag til Bet. o. Lovf. om Rettens Pleje. </topmidle>
+</h>
+<wtitle>
+§462.<lb />
+</wtitle>
+<p>
+Arrest kan afværges, og foretagen Arrest faas ophævet, naar Skyldneren stiller<lb />
+fornøden Sikkerhed for den Fordring med Renter og Omkostninger, i Anledning af<lb />
+hvilken Arrest søges.<lb />
+</p>
+<p>
+Om den tilbudne Sikkerhed ifølge Størrelse og Beskaffenhed er fyldestgørende,<lb />
+bedømmes af Fogden efter et Skøn.<lb />
+</p>
+<wtitle>
+§ 463.<lb />
+</wtitle>
+<p>
+Arrest paa Gods medfører, at Skyldneren fra det Øjeblik, Arrestdekretet er<lb />
+afsagt, bliver uberettiget til at forflytte, forbruge, tilintetgøre eller ved Retshandler<lb />
+raade over de arresterede Genstande, derunder oppebære arresterede Fordringer.<lb />
+</p>
+<p>
+For at Arrestens Retsvirkning skal kunne gøres gældende over for en god-<lb />
+troende Trediemand, saaledes at de foretagne Retshandler tabe Gyldighed, er det nød-<lb />
+vendigt, at Tinglæsning af Arrestdekretet har fundet Sted ved Skyldnerens personlige<lb />
+Værneting eller, hvis Arresten er gjort i fast Ejendom, ved dennes Værneting. Er<lb />
+Arrest foretagen i Gældsbrev, udfordres derhos, at der paa dette er gjort en Paateg-<lb />
+ning herom, og naar Arrest er gjort i Fordringer, der ikke grundes paa Gældsbrev,<lb />
+maa der gives Skyldneren efter Fordringen Underretning om Arresten, hvilket lige-<lb />
+ledes bliver at iagttage over for Skyldneren efter et Gældsbrev for Rentebetalingens<lb />
+Vedkommende.<lb />
+</p>
+<p>
+Med Hensyn til Arrest i registreringspligtige Skibe har det sit Forblivende<lb />
+ved Skibsregistreringslov L. April 1892 § 49.<lb />
+</p>
+<wtitle>
+§ 464.<lb />
+</wtitle>
+<p>
+Arrestrekvirenten er i Reglen ikke berettiget til at lade de arresterede Gen-<lb />
+stande tage fra Skyldneren. Dog kan Fogden ved rørligt Gods, naar de arresterede<lb />
+Genstandes Beskaffenhed eller Skyldnerens Person og Forhold opfordre dertil, be-<lb />
+stemme, at de arresterede Genstande skulle tages under Bevogtning af ham selv eller<lb />
+af nogen, der hertil af ham beskikkes paa Skyldnerens Bekostning.<lb />
+</p>
+<wtitle>
+§ 465.<lb />
+</wtitle>
+<p>
+Arrest paa Person sker ved Hensættelse i Gældsfængsel ved Fogdens Foran-<lb />
+staltning. Hvis Skyldneren ved Henførelsen til eller Opholdet i Gældsfængslet vilde<lb />
+lide Skade paa Helbred, kan Gældsfængsel ikke anvendes eller kun med saadanne<lb />
+Lempelser, som Fogden skønner fornødne.<lb />
+</p>
+<p>
+I Gældsfængslet maa der ikke paalægges Skyldneren anden Indskrænkning i<lb />
+Henseende til hans Levevis, end Fængslets Orden med Nødvendighed kræver.<lb />
+</p>
+<wtitle>
+§ 466.<lb />
+</wtitle>
+<p>
+Gældsfængsel kan ikke anvendes, naar en til Fordringens Størrelse svarende<lb />
+Sikkerhed kan faas ved Arrest paa Gods.<lb />
+</p>
+<wtitle>
+§ 46.<lb />
+</wtitle>
+<p>
+Arrest paa Person kan ikke anvendes for Fordringer, der ere mindre<lb />
+end 100 Kr.<lb />
+</p>
+<p>
+For Fordringer under 200 Kr. maa Fængslingens Varighed ikke overstige 4<lb />
+Uger, for Fordringer under 400 Kr. 8 Uger, for Fordringer under 1,000 Kr. 12 Uger,<lb />
+for Fordringer under 2,000 Kr. 16 Uger, for Fordringer under 4,000 Kr. 20 Uger, for<lb />
+større Fordringer 24 Uger.<lb />
+</p>
+<wtitle>
+§ 468.<lb />
+</wtitle>
+<p>
+Selv om de i foregaaende Paragraf angivne Tider ikke ere forløbne, ophører<lb />
+Skyldnerens Fængsling i alle Tilfælde:<lb />
+</p>
+<p>
+1) saa snart Eksekution kan gøres for den Fordring, til Sikkerhed for hvilken Ar-<lb />
+resten er foretaget, enten ifølge en under Arrestforfølgningssagen eller paa anden<lb />
+Maade erhvervet Dom eller ifølge et offentligt Forlig;<lb />
+</p>

@@ -1,0 +1,90 @@
+3311
+<pb n="51" />
+<h>
+<coll>3311</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3312</colr>
+</h>
+<p>
+saa Henseende en Tarif*), der skal danne Grundnormen for Afgiftsberegningen ikke<lb />
+blot i borgerlige Domssager, men ogsaa ved Eksekution og Tvangsauktion, Udpantning<lb />
+og Arrest, idet nemlig den derved fastsatte Afgift — med visse Undtagelser — op-<lb />
+kvæves med sit fulde Beløb i borgerlige Domssager, medens der af de øvrige nævnte<lb />
+Retshandlinger i Reglen svares visse nærmere bestemte Tiendedele deraf. Hvad Af-<lb />
+giftens Størrelse angaar, da er den fastsat saaledes, at den for borgerlige Domssagers<lb />
+Vedkommende medfører en ikke uvæsentlig Nedsættelse for de fleste Smaasager,<lb />
+men paa den anden Side en ikke uvæsenlig Forhøjelse for Sager, der dreje sig om<lb />
+store Værdier. Afgiften er den samme, hvad enten Sagen behandles ved Underret<lb />
+eller Landsret som første Instans. Stempelafgiften af saadanne Dokumenter, der ikke<lb />
+have anden Betydning end som Aktstykker i Retsplejen, bortfalder. For Ankesager<lb />
+gælde de samme Afgiftsregler som i første Instans, dog at Afgiften i Tilfælde af Anke<lb />
+til Højesteret forhøjes med 50 pCt., medens paa den anden Side Afgiften, hvis Anken<lb />
+ikke omfatter hele Sagen, saavel ved Landsret som ved Højesteret, kun beregnes efter<lb />
+Værdien af den paaankede Del. For Kæremaal svares Halvdelen af den almindelige<lb />
+Retsafgift, dog i intet Tilfælde mere end 15 Ivr. For Fuldførelse af en Eksekution<lb />
+svares 2/5 af den almindelige Retsafgift, hvortil imidlertid føjes den vigtige Regel, at<lb />
+Afgift kun bliver at betale, for saa vidt den kaa faas hos Rekvisitus, efter at Rekvirenten<lb />
+er fyldestgjort, og de med Eksekutionens Foretagelse i øvrigt nødvendig forbundne<lb />
+Udgifter ere dækkede. Retsafgiften ved Eksekution vil altsaa aldrig falde paa Rekvi-<lb />
+renten. For Tvangsauktion **) skal Retsafgiften som Regel være 1/5 af den alminde-<lb />
+lige Retsafgift, hvad der i det Hele betegner en betydelig Nedsættelse i Forhold til<lb />
+den nuværende Afgift. Den skal afholdes af Købesummen, for saa vidt den ikke i Med-<lb />
+før af Auktionsvilkaarene bliver særskilt at erlægge af Køberen. Naar en Pant- eller<lb />
+Udlægshaver i en fast Ejendom lader sig denne udlægge for det højeste Auktionsbud,<lb />
+svares ingen Retsafgift for Tvangsauktionen. — For Udpantning gælde samme Afgifts-<lb />
+regler som for Eksekution, dog at Afgiften, naar det Beløb, for hvilket der udpantes,
+</p>
+<note rend="foot">
+<p>
+*) I Domssager, som angaa Penge eller Penges Værdi, er den almindelige Retsafgift:
+</p>
+<p>
+1.	Naar Genstandens Værdi ikke er over 50 Kr.				 		2	Kr.
+</p>
+<p>
+2.	Naar Værdien er over	50 Kr. indtil 100 Kr. inkl. 					4	—
+</p>
+<p>
+3.	—	—	100 — — 200 — — 		8	—
+</p>
+<p>
+4.	—	—	200 — — 300 — — 			16	—
+</p>
+<p>
+5.	-	—	300 — — 400 — — 		24	—
+</p>
+<p>
+6.	—	—	400 — — 600 — — 		36	—
+</p>
+<p>
+7.	—	—	600 — — 800 — — 	 		48	—
+</p>
+<p>
+8.	—	—	800 — — 1,000 — — ... 		60	—
+</p>
+<p>
+9.	— —	1,000 — — 1,500 — — 		75	—
+</p>
+<p>
+10.	—	—	1,500 — — 2,000 — — 		90	—
+</p>
+<p>
+11.	—	—	2,000 — - 3,000 — — 		120	—
+</p>
+<p>
+12.	-	—	3,000 — — 4,000 — — 		150	—
+</p>
+<p>
+Er Genstandens Værdi over 4,000 Kr., forhøjes Afgiften med et Tillæg af 15 pro mille af<lb />
+de første 6,000 Kr., hvormed Værdien overstiger 4,000 Kr., og af 6 pro mille af det over-<lb />
+skydende. Ved Udregningen af dette Tillæg afrundes Værdien til hele Tusinder, saaledes at<lb />
+det, der er under 500 Kr., ikke kommer i Betragtning, medens 500 Kr. eller derover regnes<lb />
+for 1,000 Kr. — I borgerlige Domssager, hvis Genstand ikke er Penge eller Penges Værd, er<lb />
+den almindelige Retsafgift 30 Kr.
+</p>
+<p>
+**) Hvad andre Auktioner angaar, er det Kommissionens Tanke, at Afgiften af saadanne til det<lb />
+offentlige helt skal bortfalde, saa at der kun bliver at svare det under Nr. 31 omtalte Vederlag<lb />
+til »Auktionsbestyreren«.
+</p>
+</note>

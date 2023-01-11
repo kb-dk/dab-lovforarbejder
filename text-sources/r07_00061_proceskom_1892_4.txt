@@ -1,0 +1,66 @@
+3331
+<pb n="61" />
+<h>
+<coll>3331</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3332</colr>
+</h>
+<p>
+afsagt, skal efter Udkastet saadan Genoptagelse kun kunne finde Sted, naar ny Be-<lb />
+viser af Vægt senere komme frem, eller de Betingelser, der kræves for Genoptagelse<lb />
+af en ved Dom afsluttet Sag, ere til Stede.
+</p>
+<p>
+Hvad angaar Genoptagelse af en ved Dom afsluttet Straffesag, da haves i nu-<lb />
+gældende Praksis Eksempel paa, at en ved Højesteretsdom afgjort Straffesag er gen-<lb />
+optagen til Fordel for Tiltalte; derimod kendes ikke nogen saadan Genoptagelse til<lb />
+Skade for Tiltalte. Enhver Straffesag, der kun er bleven paadømt ved Underret eller<lb />
+Overret, kan ifølge nugældende Begler paaankes, saavel til Skacle som til Fordel for<lb />
+Tiltalte, uden at saadan Anke er bunden til nogen Ankefrist, hvorimod „Genoptagelse"<lb />
+ikke kan finde Sted.
+</p>
+<p>
+I Modsætning hertil aabnes der efter Udkastet en — om end selvfølgelig til<lb />
+ret strænge Betingelser knyttet — Adgang til Genoptagelse af en ved Dom afsluttet<lb />
+Straffesag, nemlig til fornyet Prøvelse af Spørgsmaalet om Beviset for Tiltaltes Skyld.<lb />
+Saadan Genoptagelse kan ske saavel til Skade som til Fordel for Tiltalte, men kan<lb />
+kun anvendes med Hensyn til de ved Landsret stedfundne Paadømmelser. Forholdet<lb />
+er nemlig det, at Underretsdomme altid kunne paaankes til Landsret, i alt Fald i<lb />
+Kraft af en særlig Tilladelse fra Landsrettens Side, og Adgang til Genoptagelse med<lb />
+Hensyn til disse behøves derfor ikke. Fremdeles kan Bedømmelsen af Beviserne for<lb />
+Tiltaltes Skyld efter Udkastets Ordning ikke bringes frem for Højesteret, og der kan<lb />
+følgelig ikke blive Spørgsmaal om Genoptagelse af fornævnte Art med Hensyn til en<lb />
+ved Højesteret foregaaet Paadømmelse. Paa den anden Side gør netop den Omstæn-<lb />
+dighed, at Nævningernes eller Landsrettens Bedømmelse af Beviserne for Tiltaltes<lb />
+Skyld ikke kan undergives Højesterets Prøvelse, det naturligt for saa vidt at aabne<lb />
+en vis Adgang til fornyet Prøvelse af Landsretsdomme. Det ligger i det fremstillede,<lb />
+at denne Genoptagelsesadgang ikke afskæres ved, at Landsrettens Dom i øvrigt har<lb />
+været paaanket til Højesteret, og dér enten er blevet stadfæstet eller af Retsgrunde<lb />
+forandret. Betingelserne for den her omhandlede Genoptagelse ere i Hovedsagen<lb />
+følgende :
+</p>
+<p>
+En Sag, som, være sig i første Instans eller ifølge Anke, er paadømt ved<lb />
+Landsret, og under hvilken Tiltalte er frifunden, eller under hvilken hans Forhold<lb />
+kun er antaget for at udgøre en væsentlig mindre Forbrydelse end nu antaget (f. Eks.<lb />
+uagtsomt Manddrab i Stedet for forsætligt), kan genoptages efter Overanklagerens Be-<lb />
+gæring, naar der enten efter Dommen er fremkommet en egen Tilstaaelse fra den<lb />
+Sigtede eller andre. afgørende Beviser mod ham, eller det oplyses, at der under Sagen<lb />
+er afgivet falske Forklaringer af Vidner eller andre, eller er benyttet falske Doku-<lb />
+menter eller udvist strafbart Forhold af Tiltalte eller af nogen, der i offentligt Hvervs<lb />
+Medfør har medvirket ved Sagens Behandling, og der er god Grund til at antage, at<lb />
+saadant har medvirket til den for Tiltalte gunstige Dom.
+</p>
+<p>
+En ved Landsret paadømt Sag, ved hvilken Tiltalte er domfældt, kan paa<lb />
+Begæring af denne genoptages, naar enten ny Oplysninger tilvejebringes, der skønnes<lb />
+at kunne have bevirket Frifindelse eller Anvendelse af en væsentlig mildere Straffe-<lb />
+bestemmelse, eller det oplyses, at noget saadant ulovligt Forhold som ovennævnt har<lb />
+fundet Sted under Sagen, og det skønnes antageligt, at dette kan have medvirket til<lb />
+Domfældelsen.
+</p>
+<p>
+Genoptagelsesbegæringen fremsættes for Landsretten enten skriftlig, eller, hvis<lb />
+den hidrører fra en fængslet, til vedkommende Undersøgelsesrets Retsbog eller<lb />
+Fængselsbestyrerens Bog. Findes Begæringen aabenbart grundløs, kan Landsretten
+</p>

@@ -1,0 +1,81 @@
+1817
+<pb n="45" />
+<h>
+<coll>
+1817
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+1818
+</colr>
+</h>
+<p>
+taget, hvorhos den skal oplyse, hvor vidt nogen af Parterne skal varsles til Forretningen.<lb />
+0g i bekræftende Fald Varslets Længde. Anmodningen tilstilles Justitsministeriet til<lb />
+videre Foranstaltning.
+</p>
+<p>
+Skal Parts Ed aflægges ved fremmed Domstol, fremsættes Begæring om dens<lb />
+Aflæggelse for den Ret, der har afsagt Edsdommen.
+</p>
+<p>
+Anmodninger fra fremmede Retter om Bevisoptagelse eller andre retslige Hand-<lb />
+linger blive alene at efterkomme, naar de fremsendes gennem Justitsministeriet, jfr.<lb />
+i øvrigt §§ 254 og 294.
+</p>
+<title>
+Kapitel 23.
+</title>
+<title>
+Rettens Raadslagninger og Afgørelser.
+</title>
+<wtitle>§  219.</wtitle>
+<p>
+Domme, Kendelser og andre Beslutninger af en Ret, der ikke beklædes af en<lb />
+enkelt Dommer, og som ikke høre til de Beslutninger, Rettens Formand kan træffe,<lb />
+vedtages ved Afstemning efter forudgaaende Raadslagning. Afstemningsordenen<lb />
+bestemmes ved Lodtrækning for hver enkelt Sag, umiddelbart før Raadslagningen be-<lb />
+gynder. Formanden stemmer dog altid sidst; han forestaar Afstemningen og samler<lb />
+Stemmerne. Afstemningen sker mundtlig; de afgivne Stemmer indføres udtogsvis i en<lb />
+Stemmegivningsbog. Enhver Dommer har Ret til at paase, at hans Stemme gengives<lb />
+rigtigt.
+</p>
+<p>
+Dommernes Raadslagninger og Afstemninger maa ikke overværes af Tilhørere,<lb />
+med Undtagelse af Retsskriveren.
+</p>
+<p>
+I Afstemningen maa kun de Dommere deltage, som have overværet den mundt-<lb />
+lige Forhandling og Bevisførelsen i Sagen.
+</p>
+<wtitle>§  220.</wtitle>
+<p>
+I Dommens Vedtagelse deltage for Landsretternes Vedkommende mindst tre<lb />
+Medlemmer og for Højesterets Vedkommende mindst syv Medlemmer af Retten. Samme<lb />
+Regler gælde ogsaa for Vedtagelse af Kendelser, medmindre andet er bestemt.
+</p>
+<wtitle>§  221.</wtitle>
+<p>
+For enhver Afgørelse i en Ret, der beklædes af flere Dommere, skal der være<lb />
+Stemmeflerhed. Kræver Afgørelsen Afstemning over flere Punkter, ere de Dommere,<lb />
+som have befundet sig i Mindretal, pligtige at deltage i de senere Afstemninger.
+</p>
+<p>
+Opstaar der Meningsforskel om, hvorledes Spørgsmaalene skulle stilles, eller<lb />
+om Afstemningens Resultat, bliver der afstemt særskilt herom.
+</p>
+<p>
+Den vedtagne Afgørelse føres i Pennen af Rettens Formand eller af den af<lb />
+de i Afgørelsen deltagende Dommere, hvem dette Hverv af Formanden overdrages.
+</p>
+<wtitle>§  222.</wtitle>
+<p>
+Ved Dommen skal Sagen paakendes uden anden Henvisning til paafølgende<lb />
+Proceshandlinger end den, der hjemles ved §  319.
+</p>
+<p>
+Bevis ved Syn eller Skøn kan ikke henskydes til Optagelse efter Dommens<lb />
+Afsigelse.
+</p>

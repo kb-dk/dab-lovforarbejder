@@ -1,0 +1,75 @@
+224
+<pb n="230" />
+<leftside>
+<p>diskretioner Beføjelse til at skjønne, om ikke<lb />
+andre Hensyn end Straffelovens Håndhævelse<lb />
+gjøre Forfølgning utilrådelig, er ikke tillagt<lb />
+ham (Legalitetsvrincipet). Omvendt kan det<lb />
+selvfølgelig ikke være Pligt for Statsanklageren at påtale, når han stjønner, Være sig<lb />
+af faktiske eller retlige Grunde, at Undersøgelsen ikke kan føre til, at en Person findes<lb />
+skyldig; det er hans Embedspligt ikke blot at<lb />
+agte på, at strafskyldige Personer drages til<lb />
+Ansvar, men også på, at Forfølgning af<lb />
+Personer, som ikke ere strafskyldige, ikke finder<lb />
+Sted, se § 24. Dette gjælder navnlig også om de i § 36 Nr. 2 og 3 berørte Tilfælde;<lb />
+Opfordringen eller Begjæringen kan ikke i og<lb />
+for sig forpligte ham til Påtale. Derimod<lb />
+følger det af Statsanklagerens Underordnelsesforhold til Justitsministeren (og Overstatsanklageren), at en Befaling fra denne om at<lb />
+påtale er forbindende uden Hensyn til eget<lb />
+Skjøn, se §§ 25  og 27.</p>
+<p>Idet Udkastet opstiller Legalitetsprincipet<lb />
+som Norm for Statsanklageren, går det ikke<lb />
+ud fra, at Straffelovens Håndhævelse er et<lb />
+så ubetinget og ufravigeligt Krav, at der ikke<lb />
+kan være Spørgsmål om i noget Tilfælde at<lb />
+lade dette Hensyn vige for andre modstridende<lb />
+Samfundsinteresser, en Grundsætning, som i<lb />
+denne Strenghed hverken har Hjemmel i Forholdets Natur eller i Staternes virkelige Praxis,<lb />
+andetsteds lige så lidt som hos os, hvad der blandt<lb />
+Andet fremgår af den forfatningsmæssig hjemlede Benådningsret. Men Udkastet er gået<lb />
+ud fra, at den Afvejelse af Hensynet til Straffelovens Håndhævelse og andre Samfundsinteresser, som efter Omstændighederne kan<lb />
+gjøre Undladelse af forfølgning forsvarlig,<lb />
+ikke kan ligge indenfor en Myndigheds Kompetence, som særlig er beskikket til at virke for<lb />
+Straffelovens Håndhævelse (jfr. også Straffelovens § 131), men kun kan tilkomme Myndigheder, hvis offentlige Hverv er Varetagelsen<lb />
+af Samfundsinteresser i større Almindelighed,<lb />
+hvorved Straffelovens Håndhævelse kun bliver<lb />
+et enkelt, om end ofte overvejende Hensyn.<lb />
+Ved de Forbrydelser, som høre under Statsanklagerens Virkekreds, vil denne Myndighed<lb />
+regelmæssig være Justitsministeren. Derfor<lb />
+hedder   det   i   §   37, at   kun ifølge   Pålæg</p>
+</leftside>
+<rightside>
+<p>af denne kan Statsanklageren undlade Forfølgning, jfr. § 25. Når iøvrigt et sådant<lb />
+Pålæg måtte være i Realiteten forsvarligt,<lb />
+er et Spørgsmål, som ligger udenfor Grænserne af de Undersøgelser, der vedkomme Loven<lb />
+om Stræfferetsplejen. Er Talen om Overtrædelser af Love, der vedkomme særlige Forvaltningsmyndigheder, må Afgjørelsen efter<lb />
+Forholdets Natur tilfalde denne, hvis fulde<lb />
+Frihed i så Henseende er væretaget ved Reglen i § 36 Nr. 2.</p>
+<p>Det står selvfølgelig altid i Statsanklagerens Magt at foranledige en Afgjørelse<lb />
+af Justitsministeren, om Påtale skal finde<lb />
+Sted, når han finder, at særegne Hensyn<lb />
+kunde begrunde dens Bortfald, og i visse Tilfælde skal han forelægge Sagen til Ministerens Afgjørelse, se § 37 i Slutn. Men<lb />
+der gives fremdeles Tilsælde, hvor det undtagelsesvis bør være overladt Statsanklageren<lb />
+selv at undlade en forfølgning, hvortil han<lb />
+efter de almindelige Regler vilde være forpligtet. Disse Undtagelser opregnes i § 37<lb />
+Nr. 1—3. Tilfælde af den under Nr. 1<lb />
+nævnte Art findes f. Ex. i Straffelovens §§<lb />
+203, 256 og 257. Det er netop Meningen<lb />
+med disse Lovbud at lægge Spørgsmålet i<lb />
+den almindelige Anklagemyndigheds Hånd;<lb />
+hvor en Påtale undlades i Henhold til disse<lb />
+Bestemmelser, er det klart, at Straffelovens<lb />
+§ 131 er uanvendelig. Det under Nr. 3<lb />
+omtalte Tilfælde er allerede ovenfor berørt;<lb />
+Reglen herom ligger også i Konsekventsen af<lb />
+Reglen under Nr. 1. Hvad endelig det under Nr. 2 nævnte Tilfælde angår, er Forholdet det, at det vel må siges, at den Pågjældende er „skyldig“, selv om der på Grund<lb />
+af Reglerne i Straffelovens §§ 7 og 64 ikke<lb />
+idømmes nogen Straf (det vilde ikke være rigtigt<lb />
+at lade Domskonklusionen lyde på Frifindelse), men at det dog efter Straffeprocessens Øjemed og selve den Tanke, der ligger til Grund for<lb />
+de pågjældende Bestemmelser, ordentligvis ikke<lb />
+er naturligt, at en Straffesag skal finde Sted<lb />
+i sådanne Tilfælde. Det bør derfor heller<lb />
+ikke i dem være en Pligt for Statsanklageren<lb />
+at påtale. At en ved Forbrydelsen forurettet<lb />
+Privat kunde have Interesse af Sagens Anlæg,   kan   ikke komme i  Betragtning,   da det</p>
+</rightside>

@@ -1,0 +1,32 @@
+94
+<pb n="100" />
+<p>Indtil Anklage er rejst, eller de nævnte Frisker ere udløbne, ansees Sagen for anhængig for UndersøgelsesdOmmeren.</p>
+<wtitle>§ 246.</wtitle>
+<p>Indgives efter Forundersøgelsens Slutning<lb />
+Andragende om yderligere Undersøgelseshandlinger, skulle disse nøjagtig betegnes i Andragendet. Tages dette til følge, finde med<lb />
+Hensyn til den derved foranledigede Gjenoptagelse af Forundersøgelsen de ovenfor givne<lb />
+Regler Anvendelse.</p>
+<title>Fjerde Afsnit.</title>
+<undertitle>Dm Anklage for og Sagens Behandling ved Landsretten.</undertitle>
+<title>Kapitel I.</title>
+<undertitle>Om Anklagen samt om Henvisning til og Forberedelse af Hovedforhandlingen.</undertitle>
+<wtitle>§  247.</wtitle>
+<p>Statsanklageren indbringer Sagen for<lb />
+Landsretten red en skriftlig affattet Anklage,<lb />
+som indleveres til Rettens Formand.</p>
+<p>Ved Anklageskriftets Indlevering er Sagen<lb />
+anhængiggjort.</p>
+<wtitle>§ 248.</wtitle>
+<p>Anklageskriftet skal indeholde:</p>
+<p>a) Statsanklagerens Navn.</p>
+<p>b) Den Sigtedes Navn og hvad der ellers<lb />
+måtte udkræves til hans nøjagtige Betegnelse, hans Bopæl eller Opholdssted,<lb />
+forsåvidt det er bekjendt, med Angivelse<lb />
+af, om han er anholdt eller fængslet.</p>
+<p>c) Angivelse af den Forbrydelse, for hvilken<lb />
+Anklage rejses, ved Hjælp af dens lovbestemte Kjendemærker eller dens i Loven<lb />
+hjemlede Betegnelse i Forbindelse med mulige Strafforhøjelses- og Strafnedsættelses-grunde, samt med Tilføjelse af sådanne<lb />
+særlige Omstændigheder i Henseende til<lb />
+Sted, Tid, Gjenstand, Udførelsesmåde osv.,<lb />
+som efter de i ethvert Tilfælde foreliggende<lb />
+Forhold   udkræves   til   dens   tilstrækkelige</p>

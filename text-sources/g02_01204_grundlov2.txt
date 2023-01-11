@@ -1,0 +1,164 @@
+3881
+<pb n="1204" >
+<p rend="page">1204</p>
+<h>
+<coll>3881</coll>
+<colr>3882</colr><lb />
+
+Den endelige Behandling af Valgloven. Udvalgets § 80.<lb />
+</h>
+<leftside>
+<px>
+Nei.<lb />
+U. Aagaard.	Knuth.<lb />
+Andresen.	Leth.<lb />
+Andræ.	Lorck.<lb />
+Bagger.	Lü‡höft.<lb />
+Barfod.	Madsen.<lb />
+Bergmann.	Marckmann.<lb />
+Bjerring.	Mundt.<lb />
+Vlack.	Mynster.<lb />
+Bluhme.	C. C. Møller.<lb />
+H. B. Bruun.	R. N. Møller.<lb />
+Bun‡en.	Neergaard.<lb />
+Balthazar Christensen.	N. H. Nielsen af Løserup.<lb />
+Georg Christensen.	Ostenfeldt.<lb />
+H. Christensen.	Ostermann.<lb />
+H. Christensen.	Oxholm.<lb />
+Dahl.	Pape.<lb />
+David.	Cornelius Petersen.<lb />
+Dinsen.	P. Pedersen af Kjøbenhavn.<lb />
+J. C. Drewsen af Kjøbenhavn.	B. Petersen af Kjøbenhavn.<lb />
+Dun‡felt.	C. N. Petersen af Hjørring.<lb />
+Flor.	Pjetursson.<lb />
+Frolund.	Ploug.<lb />
+Gleerup.	Pløyen.<lb />
+Gram.	J. Rasmussen af Svanninge.<lb />
+Gregersen.	H. Rasmussen af Egense.<lb />
+J. A. Hansen af Kjøbenhavn.	M. Rasmussen af Herlufmagle.<lb />
+L. Hansen.	Scavenius.<lb />
+Mork Hansen.	Stender.<lb />
+P. Hansen.	Tang.<lb />
+Hastrup. Theilmann.<lb />
+v. Haven.	Tscherning.<lb />
+Hunderup.	Tuxen.<lb />
+Jacobsen.	W. Ussing af Viborg.<lb />
+F. Jespersen af Bogense.	Westergaard.<lb />
+F. Johannsen af Houby.	Zeuthen.<lb />
+H. Johansen af Knardrup.	Ørsted.<lb />
+Sehestedt-Juel.<lb />
+</px>
+<px>
+Ja.<lb />
+G. Aagaard.	Kayser.<lb />
+Brandt.	Kirk.<lb />
+Bregendahl.	Krieger.<lb />
+P. D. Bruun.	Køster.<lb />
+Cederfeld de Simonsen.	Chr. Larsen.<lb />
+la Cour.	J. E. Larsen.<lb />
+Funder.	Lüttichan.<lb />
+Hage.	Paludan-Müller.<lb />
+Hall.	H. C. Nielsen af Tranberg.<lb />
+Hammerich.	Nyholm.<lb />
+H. P. Hansen.	Nørgaard.<lb />
+N. Hansen.	Olrik.<lb />
+Hasselbalch.	J. Pedersen af Sæding.<lb />
+Hermannsen.	Rée.<lb />
+Hækkerup.	Schack.<lb />
+Hoier.	Schiern.<lb />
+Jacobæus.	Tobiesen.<lb />
+N. F. Jespersen.	Tvede.<lb />
+H. C. Johansen af Østrup.	Winther.<lb />
+Jungersen.	Wulff.<lb />
+Jørgensen.<lb />
+</px>
+<px>
+Fraværende.<lb />
+M. P. Bruun.	Colding.<lb />
+Buchwaldt.	Dahlerup.<lb />
+Boisen.	M. Drewsen af Silkeborg.<lb />
+
+</px>
+</leftside>
+<rightside>
+<px>
+Eriksen.	Ræder.<lb />
+Fibiger.	Schlegel.<lb />
+Fløe.	Schroll.<lb />
+Gislason.	Schurmann.<lb />
+Grundtvig.	Schytte.<lb />
+Gudmundsson.	Brinck-Seidelin.<lb />
+Hiort.	Sidenius.<lb />
+Holck.	Sigurdsson.<lb />
+Hvidt (syg).	Stockfleth.<lb />
+C. M. Jespersen.	Thalbi‡er.<lb />
+Johnsen.	Treschow.<lb />
+Linnemann.	Algreen-Ussing.<lb />
+Tage Müller (syg).	Wegener.<lb />
+Olesen.	With.<lb />
+Otterstrøm.<lb />
+</px>
+<p>
+2) Nr. 225. Udvalgets Mindretals (B. Christensens)<lb />
+Forslag: “Istedetfor “2 Rbd." Sættes “4 Rbd."."<lb />
+blev ved Navneopraab, der var forlangt af:<lb />
+</p>
+<px>
+N. F. Jespersen.	Funder.<lb />
+Stender.	Lüttichan.<lb />
+Hunderup.	Tobiesen.<lb />
+Jacobæus.	Brandt.<lb />
+J. E. Larsen.	Tvede.<lb />
+H. B. Bruun.	N. Hansen.<lb />
+H. P. Hansen.	Bergmann.<lb />
+Lü‡höft.	v. Haven.<lb />
+Dahlerup.	Mundt.<lb />
+C. N. Petersen.	U. Aagaard.<lb />
+Barfod.	Jørgensen.<lb />
+Ostenfeldt.	Wulff.<lb />
+Wulff.	Neergaard.<lb />
+Sehestedt-Juel.	Pape.<lb />
+Olrik.<lb />
+</px>
+<p>
+forkastet med 76 Nei mod 39 Ja — 35 Fraværende.<lb />
+</p>
+<px>
+Nei.<lb />
+Aagaard (U.)	Sehestedt-Juel.<lb />
+Bagger.	Jørgensen.<lb />
+Bergmann.	Kayser.<lb />
+Bjerring.	Kirk.<lb />
+Bluhme.	Knuth.<lb />
+Brandt.	Krieger.<lb />
+Bruun (H. B.).	Køster.<lb />
+Bruun (P. D.) af Kjøbenhavn.	Larsen (C.) af Dalby.<lb />
+Bun‡en.	Larsen (J. E.) af Kjøbenhavn.<lb />
+Cederfeld de Simonsen.	Lorck.<lb />
+Dahl.	Lüttichan.<lb />
+David.	Lü‡höft.<lb />
+Drewsen (J. C.).	Marckmann.<lb />
+Dun‡felt.	Mundt.<lb />
+Flor.	Paludan-Müller.<lb />
+Funder.	Mynster.<lb />
+Gram.	Møller (C. C.).<lb />
+Hage.	Neergaard.<lb />
+Hall.	Nielsen (H. C.).<lb />
+Hammerich.	Nyholm.<lb />
+Hansen (H. P.).	Nørgaard.<lb />
+Mørk Hansen.	Olrik.<lb />
+Hansen (N.).	Ostenfeldt.<lb />
+Hasselbalch.	Ostermann.<lb />
+Hastrup.	Oxholm.<lb />
+Hermannsen.	Pape.<lb />
+Hunderup.	Petersen (C.) af Davinde.<lb />
+Jacobæus.	Pedersen (J.) a Sæding.<lb />
+Jespersen (N. F.) af Bogense.	Pedersen (P.) af Kjøbenhavn.<lb />
+Johannsen (F.).	Petersen (B.) af Kjøbenhavn.<lb />
+Johansen (H.) af Knardrup.	Petersen (C. N.) af Hjørring.<lb />
+ 
+</px>
+</rightside>
+
+
+</pb>

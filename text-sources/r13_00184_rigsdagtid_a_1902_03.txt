@@ -1,0 +1,78 @@
+2095
+<pb n="184" />
+<h>
+<coll>
+2095
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2096
+</colr>
+</h>
+<wtitle>§  827.</wtitle>
+<p>
+Ved en Anholdelses Iværksættelse skal der gaas frem med saa megen Skaansel<lb />
+mod den paagældende, som Øjemedet tillader.
+</p>
+<p>
+Den formodede Forbrydelses Frugter samt Genstande, som kunne benyttes<lb />
+til Vold eller Undvigelse, kunne fratages den paagrebne, og personlig Ransagning kan<lb />
+finde Sted, naar der er Grund til at formode, at han har saadanne Genstande hos sig.
+</p>
+<wtitle>§  828.</wtitle>
+<p>
+Ransagning af Hus for at eftersøge den, som skal anholdes, kan foretages,<lb />
+naar der er Grund til at antage, at han holder sig skjult der, i Andenmands Hus<lb />
+dog kun under Betingelser, svarende til de i § 811 angivne, medmindre der efter<lb />
+Husets Bestemmelse tilstedes enhver Adgang til det.
+</p>
+<p>
+Saadan Ransagning kan foretages af Politiet uden Retskendelse:
+</p>
+<p>
+1)	naar en Person eftersættes, der er truffen i Udførelsen af Forbrydelsen eller<lb />
+paa friske Spor, eller som er undvegen efter at være paagreben;
+</p>
+<p>
+2)	og ellers, naar der er Grund til at antage, at Øjemedet vil forspildes, hvis<lb />
+Kendelse skal afventes, og navnlig, at en blot Bevogtning af Huset saa længe vil være<lb />
+utilstrækkelig.
+</p>
+<p>
+Uden for disse Tilfælde udkræves Retskendelse, medmindre den paagældende<lb />
+udtrykkelig frafalder Krav herpaa. I øvrigt finde ved disse Ransagninger Reglerne i<lb />
+§§ 813—816 Anvendelse.
+</p>
+<wtitle>§  829.</wtitle>
+<p>
+Enhver, der anholdes, skal senest inden 24 Timer fra Paagribelsen at regne<lb />
+stilles for Retten, medmindre han forinden løslades. Klokkeslettet, da Paagribelsen<lb />
+og da Fremstillingen fandt Sted, skal anføres i Retsbogen. Kan han ikke straks føres<lb />
+for Retten, sørger Politiet for den fornødne midlertidige Bevogtning paa den muligst<lb />
+lempelige Maade, Er Anholdelsen iværksat af en privat, og den anholdte ikke straks<lb />
+kan føres for Retten, skal Anholderen uopholdelig foranstalte den anholdte afleveret<lb />
+til Politiet, som afkræver Anholderen nøjagtig Forklaring om det forefaldne og paa-<lb />
+lægger ham, hvis det ikke straks løslader den anholdte, at møde ved Fremstillingen<lb />
+for Retten.
+</p>
+<p>
+Naar en anholdt løslades inden 24 Timer og ikke stilles for en Dommer, skal<lb />
+der dog uden Ophold afgives Beretning til vedkommende Overanklager om den skete<lb />
+Anholdelse, dens Grund og de dermed forbundne Omstændigheder.
+</p>
+<wtitle>§  830.</wtitle>
+<p>
+I Retsmødet skal den anholdte høres om Sigtelsen. For det Tilfælde, at den<lb />
+anholdte fremstilles for en anden Ret end den, som har taget Beslutning om Anhol-<lb />
+delsen, maa der af denne være sørget for, at de fornødne Oplysninger staa til den<lb />
+førstnævntes Raadighed, enten ved direkte Tilsendelse eller ved Overlevering med for-<lb />
+nødent Paalæg til den Politiembedsmand, som fik det Hverv at iværksætte Anholdelsen.
+</p>
+<wtitle>§  831.</wtitle>
+<p>
+Har Anholdelse fundet Sted for en Handling, for hvilken Fængsling er ude-<lb />
+lukket, skal den anholdte sættes paa fri Fod. naar det i §§ 829 og 830 ommeldte<lb />
+Retsmøde er sluttet.
+</p>

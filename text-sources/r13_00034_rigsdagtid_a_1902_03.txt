@@ -1,0 +1,73 @@
+1795
+<pb n="34" />
+<h>
+<coll>
+1795
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+1796
+</colr>
+</h>
+<p>
+Kapitel 19.<lb />
+Rettergangsfuldmægtige.
+</p>
+<wtitle>§  165.</wtitle>
+<p>
+Sagførere ere eneberettigede til at møde i Retten som Fuldmægtige for Par-<lb />
+terne; dog kan der mødes af Værger for umyndige og umyndiggjorte, af Kuratorer<lb />
+for mindreaarige, af faste Lavværger for Enker, ved Ægtefælle, beslægtede og besvog-<lb />
+rede i anden Grad af Sidelinien eller nærmere samt ved Personer, der staa i fast<lb />
+Tjenesteforhold til Parten, saaledes at de ere antagne af ham for ikke kortere Tid<lb />
+end en Maanecl og ikke med det særlige Hverv for Øje at møde for Retten.
+</p>
+<p>
+Den, der foregiver at staa i et af de ovennævnte Forhold til Parten, maa<lb />
+være rede til at føre Bevis herfor, naar det af Retten eller Modparten forlanges; dog<lb />
+kan Retten undtagelsesvis tilstaa en passende Udsættelse hertil.
+</p>
+<wtitle>§  166.</wtitle>
+<p>
+Den, der uden at være Sagfører møder som Fuldmægtig for Parten, maa være<lb />
+personlig myndig og ikke ved Dom funden skyldig i en i den offentlige Mening van-<lb />
+ærende Handling.
+</p>
+<p>
+Retten har paa Embeds Vegne at afvise Personer, der ikke ere berettigede til<lb />
+for den at give Møde for andre, og at tilbagevise Processkrifter, der ere underskrevne<lb />
+af andre end Parten og de foran nævnte mødeberettigede Personer.
+</p>
+<wtitle>§  167.</wtitle>
+<p>
+Det, der i § 164 er bestemt om Rettens Myndighed til at tilbagevise en Parts<lb />
+Processkrifter eller til at udelukke Parten selv fra den mundtlige Forhandling, skal under<lb />
+lige Betingelser gælde med Hensyn til Rettergangsfuldmægtige, der ikke ere Sagførere.
+</p>
+<wtitle>§  168.</wtitle>
+<p>
+En Rettergangsfuldmægtigs Handlinger eller Undladelser ere, for saa vidt som<lb />
+de falde inden for Bemyndigelsens Grænser, lige saa bindende for Parten, som om de<lb />
+vare foretagne af denne selv.
+</p>
+<p>
+Dog kunne Tilstaaelser eller andre Erklæringer om det faktiske i Sagen, som<lb />
+fremkomme under de mundtlige Forhandlinger, tilbagekaldes eller berigtiges af Parten<lb />
+selv, naar dette sker straks og umiddelbart efter, at Partens Rettergangsfuldmægtig<lb />
+har talt.
+</p>
+<wtitle>§  169.</wtitle>
+<p>
+Rettergangsfuldmægtigens Bemyndigelse til at handle for en Part ophæves i<lb />
+Forhold til Modparten ikke derved, at Parten er død, kommen under Konkurs eller<lb />
+har mistet sin Myndighed til at raade over Sagen, ej heller derved, at Parten er<lb />
+bleven myndig til selv at raade over Processen, men kun ved en Tilkendegivelse til<lb />
+Modparten om Befuldmægtigelsens Ophør.
+</p>
+<wtitle>§  170.</wtitle>
+<p>
+Retten paaser paa Embeds Vegne, at den, der møder som Rettergangsfuld-<lb />
+mægtig for en Part, er befuldmægtiget hertil.
+</p>

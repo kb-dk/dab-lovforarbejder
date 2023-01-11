@@ -1,0 +1,25 @@
+0
+<pb n="13">
+<leftside>
+<pagename>13</pagename>
+<p rend="continue">
+<col>12</col>
+at en almindelig Abolitionsret (Ret til at nedslåe en begyndt Justitssag) ved Grundloven blev tillagt Kongen.<lb/>
+</p>
+<p>
+Derimod tillader man sig at foreslåe en Tillægsparagraph<lb/>
+(29, b) af følgende Indhold:<lb/>
+</p>
+<p>
+Kongen har Ret til at lade slåe Mynt i Henhold<lb/>
+til Loven.<lb/>
+</p>
+<p>
+Den hele Myntningsrets Udøvelse er så vigrig, at man har<lb/>
+anseet det hensigtsmæssigt, at Grundloven udtalte, at det var Regjeringen, der lod Mynten slåe i Henhold til de Bestemmelser om<lb/>
+Myntfod, Myntpræget o. s. v., som Loven indeholdt.<lb/>
+</p>
+
+
+</leftside>
+</pb>

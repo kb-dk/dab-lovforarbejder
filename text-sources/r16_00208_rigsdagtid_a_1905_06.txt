@@ -1,0 +1,78 @@
+2319
+<pb n="208" />
+<h>
+<coll>
+2319
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2320
+</colr>
+</h>
+<p>
+nelse finder ikke Sted. Under Tiltaltes Møde i Retten gives der ham fornøden Lejlig-<lb />
+hed til at opgive de Beviser, han paa sin Side maatte ønske førte.
+</p>
+<wtitle>§ 900.</wtitle>
+<p>
+Det er ikke til Hinder for Sagens Fremme, at ingen giver Møde paa Politi-<lb />
+mesterens Vegne; Dommeren afhører i dette Tilfælde dennes Vidner.
+</p>
+<wtitle>§ 901.</wtitle>
+<p>
+Udebliver Tiltalte uden oplyst lovligt Forfald, eller nægter han at afgive For-<lb />
+klaring, kan Retten, naar der ikke under Sagen er Spørgsmaal om højere Straf end<lb />
+Bøder, og Omstændighederne ikke findes at tale herimod, anse ham som vedgaaende<lb />
+Forseelsen og paakende Sagen uden videre Bevisførelse.
+</p>
+<p>
+Naar der i en Sag, hvorunder der ikke er Spørgsmaal om højere Straf end<lb />
+Bøder, i Tiltaltes Sted møder en Person, der er forsynet med skriftlig Fuldmagt fra<lb />
+Tiltalte og er beredt paa at meddele de fornødne Oplysninger, kan Retten modtage<lb />
+den saaledes mødtes Forklaringer og Erklæringer og lægge dem til Grund, som om<lb />
+de vare afgivne af Tiltalte selv.
+</p>
+<p>
+Skal der i et Tilfælde, hvor hverken Tiltalte eller en Forsvarer er mødt, af-<lb />
+høres Vidner, som ere indkaldte efter hans Begæring, foretages Afhørelsen af Dommeren.
+</p>
+<wtitle>§ 902.</wtitle>
+<p>
+Angaar Sagen en Lovovertrædelse, for hvilken der i Loven er hjemlet Straf<lb />
+af Bøde eller Konfiskation, kan Dommeren, naar han ikke finder Grund til at be-<lb />
+tvivle Tiltaltes Skyld, give Tiltalte Adgang til at se Sagen afgjort ved, at han vedtager<lb />
+at erlægge en nærmere bestemt Bøde eller at underkaste sig Konfiskation; Lovens<lb />
+Fastsættelse af Bødens Størrelse er herved ikke bindende. Vedtager Tiltalte den til-<lb />
+budte Afgørelse, tilføres det fornødne herom Retsbogen. Saadan Afgørelse har i Hen-<lb />
+seende til Fuldbyrdelse og Gentagelsesvirkning samme Virkning som en Dom.
+</p>
+<p>
+Er Politimesteren eller nogen paa hans Vegne mødt, skal der. inden der gives<lb />
+Tiltalte Adgang til at vedtage Straf, gives den saaledes mødte Lejlighed til at udtale<lb />
+sig om Straffens Størrelse.
+</p>
+<wtitle>§ 903.</wtitle>
+<p>
+Findes et Barn under 15 Aar skyldigt, men Forældrene eller de, som træde<lb />
+Barnet i deres Sted, erklære sig villige til at tildele Barnet en legemlig Revselse i<lb />
+Hjemmet, kan Dommeren, naar han finder, at Omstændighederne tale derfor, afgøre<lb />
+Sagen i Henhold hertil uden at afsige Dom. Dommeren kan betinge Sagens Afgørelse<lb />
+paa denne Maade af, at Revselsen tildeles under Tilsyn af en ved Politiet ansat.
+</p>
+<p>
+Er Politimesteren eller nogen paa hans Vegne nærværende, maa der forinden<lb />
+være givet ham Lejlighed til at udtale sig om Sagens Afgørelse paa denne Maade.
+</p>
+<p>
+Om den stedfundne Afgørelse tilføres det fornødne Retsbogen.
+</p>
+<wtitle>§ 904.</wtitle>
+<p>
+Naar Dommeren finder, at Tiltalte er skyldig, men at Sagen efter Brødens<lb />
+Beskaffenhed, saasom navnlig i Tilfælde af første Gang begaaet ringe Forseelse, egner<lb />
+sig til Afgørelse ved en Advarsel, er han berettiget til i Stedet for at afsige Dom<lb />
+tildele Tiltalte en saadan Advarsel.
+</p>
+<p>
+Om den trufne Afgørelse tilføres det fornødne Retsbogen.
+</p>

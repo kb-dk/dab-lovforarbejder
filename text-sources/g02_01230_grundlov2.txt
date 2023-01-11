@@ -1,0 +1,244 @@
+3933
+<pb n="1230" >
+<p rend="page">1230</p>
+<h>
+<coll>3927</coll>
+<colr>3928</colr><lb />
+#XXV<lb />
+</h>
+<leftside>
+<p>
+3die Læsning Pag. 1459. Med Hensyn til Udkastets § 5, de efter<lb />
+Forordn. 23de Septbr. 1848 Udskrevne, see Pag. 986, Forslag 2 d,<lb />
+Pag. 1020, Afstemning under Nr. 7 Pag. 1061.<lb />
+</p>
+<p>
+Arbeidsstraf, Straf af offentligt Arbeide, dens Indflydelse paa Værnepligtens udførelse, see Arbeidscommandoer.<lb />
+</p>
+<p>
+Armeen, Tak til den, Forslag af Duntzfeldt, Oversigten B Nr. 7.<lb />
+</p>
+<p>
+Arrest, Arrestdecret, see Person.<lb />
+</p>
+<p>
+Arvefølge, med Hensyn til Thronen og Forandring i den, see Grundlovudkastets § 4 Pag. 32, Comiteens Betænkning Pag. 1482, 1ste<lb />
+Behandling Pag. 1576—1589, 2den Behandling Pag. 2742—2750,<lb />
+den endelig vedtagne Lovs § 4 Pag. 3637. Arvefølgeforandring<lb />
+under et Regentskab, see Rigsforstander; Arvefølgens Fastsættelse naar<lb />
+der ingen Thronfølger er, see Kongevalg.<lb />
+</p>
+<p>
+Associationsret, see Grundlovudkastets § 73, Pag. 37, Comiteens Betænkuing Pag. 2170, 1ste Behandling Pag. 2625—26, 2den Behandling Pag. 3325—26, den endelige Lovs § 92 Pag. 3644.<lb />
+</p>
+<p>
+Augustenborg, de augustenborgske Prindsers Arveret til den danske Throne,<lb />
+see Arvefølge, specielt 1ste Behandling Pag. 1578, 1579, 1580,<lb />
+2den Behandling Pag. 2742 Forslag 8, Pag. 2743—44, 2746.<lb />
+</p>
+<p>
+Avancement, i Hæren paa Grund af udmærket Forhold, see Forfremmelse.<lb />
+</p>
+<morenext>
+B.<lb />
+</morenext>
+<p>
+Begunstigelser, med Hensyn til Værnepligtens Opfyldelse, see Dispensationer.<lb />
+</p>
+<p>
+Behandlingsmaaden, af Lovforslag, Regulativet, Udkast, §§ 11—15<lb />
+Pag. 79; 1ste Behandling Pag. 105—114, 2den Behandling Pag.<lb />
+142, Pag. 157—165. 1ste Behandling see foreløbig, 2den Behandling see endelig, 3die Behandling see Læsning.<lb />
+</p>
+<p>
+Behandling, Behandlingsmaade, af Lovforslag i hvert enkelt Thing see<lb />
+Grundlovsudkastets § 54 Pag. 36, Comiteens Betænkning Pag.<lb />
+1521—22, 1ste Behandling Pag. 2407—9. 2den Behandling Pag.<lb />
+3311, den endelige Lovs § 55 Pag. 3641, jevnfør 3622 Nr. 9,<lb />
+3629—31. See forkastet.<lb />
+</p>
+<p>
+Benaadningsret, Kongens, see Grundlovsudkastets § 29 Pag. 34, Comiteens Betænkning Pag. 1492; 1ste Behandling Pag. 1771—1786,<lb />
+2den Behandling Pag. 2853—2862; den endelige Lov § 31 Pag.<lb />
+3640. Med Hensyn til Benaadning for Høiforræderi efter Udkastets<lb />
+§ 37 (Angreb paa Rigsdagen) in specie ved 1ste Behandling Pag.<lb />
+1775, 1781—82, 1784; ved 2den Behandling Pag. 2854, Forslag<lb />
+135, Pag. 2861.<lb />
+</p>
+<p>
+Benyttelse, af det udskrevne Mandskab, udkastet til Værnepligtsloven<lb />
+§ 19 Pag. 270, 1ste Behandling Pag. 665—682, 2den Behandling<lb />
+Pag. 1122—24, 3die Læsning § 21, Pag. 1461; — § 24, Pag. 271,<lb />
+1ste Behandling Pag. 682—94, 2den Behandling 1142—1159; af<lb />
+Forstærkningen, Udkastets § 29 Pag. 273; see Organisationsplan,<lb />
+Officiersoppassere, Forstærkning; Udkastets § 32 see Undermaalige.<lb />
+</p>
+<p>
+Beretning, om Forhandlingerne paa Rigsdagen, see Tidende.<lb />
+</p>
+<p>
+Besiddelse, af Huus eller Gaard, dens Indflydelse paa Fritagelse fra udskrivning efter Forordningen af 23 Septbr. 1848, see Fritagelse;<lb />
+in specie, 1ste Behandling Pag. 614, 2den Behandling Forslag 4<lb />
+Pag. 986, Pag. 1023, 1028—1029, 1052, Afstemning under Nr. 8<lb />
+Pag. 1061.<lb />
+</p>
+<p>
+Beslutning, Beslutningsdygtighed, om det til en Beslutnings Tagelse<lb />
+fornødne Antal Medlemmer see Regulativet, Udkastets § 25 Pag. 80.<lb />
+Med Hensyn til de kommende Rigsdage, see under Forrentningsorden.<lb />
+</p>
+<p>
+Besættelsesret, til Embeder, see Embeder.<lb />
+</p>
+<p>
+Betænkning, see Comiteebetænkning.<lb />
+</p>
+<p>
+Bevillinger, med Hensyn til Værnepligtens Opfyldelse, see Dispensationer.<lb />
+</p>
+<p>
+Bevillingsret, med Hensyn til de hidtil, før Grundloven, gjældende Love,<lb />
+see Forslag af Ørsted Nr. 138 Pag. 2864. behandlet Pag.<lb />
+2864—2870, den endelige Grundlovs § 32 Pag. 3640, jsr. Pag.<lb />
+3623 Nr. 6, Pag. 3634.<lb />
+</p>
+<p>
+Bibliothek, Rigsforsamlingens vedkommende, Pag. 76—77.<lb />
+</p>
+<p>
+Bibliothek, Stænderforsamlingernes, deres Flytning til Rigsforsamlingen<lb />
+Pag. 76—77; Pag. 1478.<lb />
+</p>
+<p>
+Bibliothekcomitee, (Hage og Hammerick), Pag. 76—77.<lb />
+</p>
+<p>
+Bifald, Yttringer af Bifald, af Medlemmerne, see Regulativet, Udkast<lb />
+§ 24 Pag. 80; af Tilhørerne see Tilhører.<lb />
+</p>
+<p>
+Birkeret, see Kaldsret.<lb />
+</p>
+<p>
+Bispeembeder, om deres Inddragelse, see Skolevæsen.<lb />
+</p>
+<p>
+Blocade, Interpellation derom af Dahlerup anmeldt, see Oversigten B.<lb />
+Nr. 19. ??.<lb />
+</p>
+<p>
+Bogsamling, Rigsforsamlingens, Fortegnelse derover, Pag. 1478.<lb />
+</p>
+<p>
+Boligen, dens Utrænkelighed, see Huusundersøgelse.<lb />
+</p>
+<p>
+Bopæl, fast Bopæl, i vedkommende District for at være valgberettiget,<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+see Grundlovsudkastets § 31 Pag. 34; see Rigsdagen, dens<lb />
+Sammensætning; under den første Behandling af Afsnittet §§ 30—36<lb />
+i udkastet in specie Pag. 2112, 2198—99; ved den anden Behandling forstjellige Forslag, fornemmelig til 2den Afstemning over<lb />
+Hovedforslaget G (P. D. Bruun og C. M. Jespersen), Pag. 3122<lb />
+Nr. 8, Afstemning Pag. 3159 Nr. 5; den endelige Lovs § 35<lb />
+jfr. § 39, Pag. 3640—41.<lb />
+</p>
+<p>
+Valglovsudkastets § 7 Pag. 38, 1ste Behandling (see<lb />
+Valgret) Pag. 3404—3411, 2den Behandling Pag. 3601—3603,<lb />
+den endelige Lovs § 6 Pag. 3892. Med Hensyn til Bopælens Indflydelse paa Valgbarhed, see Valgbarhed.<lb />
+</p>
+<p>
+Borgercorps, Borgervæbning, deres Stilling efter Værnepligtsloven,<lb />
+see udkast § 38 Pag. 274—75, Comiteens Betænkning Pag. 489—90,<lb />
+1ste Behandling Pag. 752—760, 2den Behandling Pag. 1293—1305,<lb />
+3die Læsning Pag. 1465—66 § 40. Med Hensyn til Borgervæbningsmandskabets Forpligtelse til at tjene i Forstærkningen og i Trainkudskeclassen, see Forstærkning og Legemskeil.<lb />
+</p>
+<p>
+Borgerlig Stilling, dens Indflydelse paa Fritagelse for udskrivning efter<lb />
+Forordningen 23 Septbr. 1848, see Fritagelse; in specie 1ste<lb />
+Behandling Pag. 614; 2den Behandling Forslag 4 Pag. 986,<lb />
+Afstemning under Nr. 8 Pag. 1061; 1023, 1028—29, 1052.<lb />
+Hensyn til huslig og borgerlig Stilling ved Indkaldelsen af Forstærkningsmandskabet efter Udkastet til Værnepligtsloven § 30 Pag. 739<lb />
+Forslag 2 Pag. 1251, Pag. 1252—57; ved Avenvendelsen af Mandskabet i Trainkudskeclassen etc. Udkastets § 32, Pag. 743, Forslag<lb />
+1 Pag. 1257, Pag. 1258, 1259.<lb />
+</p>
+<p>
+Borgerskab, dets Indflydelse paa Fritagelse for Udskrivning efter Forordningen 23 Septbr. 1848, see Fritagelse; in specie 1ste Behandling<lb />
+Pag. 613—614, 2den Behandling Forslag 2 c. 2, Pag. 986, Aftemning under Nr. 4 Pag. 1060.<lb />
+</p>
+<p>
+Borgerskab, Værnepligtens Indflydelse derpaa, see Udkastet til Værnepligtsloven § 37 Pag. 274, 1ste Behandling i Forbindelse med Udkastets<lb />
+§ 38. Pag. 752—60, 2den Behandling Pag. 1293; 3die Læsning<lb />
+Pag. 1465 § 39.<lb />
+</p>
+<p>
+Bornholm, dens Værnepligt betræffende, see udkast til Værnepligtsloven<lb />
+§ 3 Pag. 268, 1ste Behandling Pag. 491—533, 2den Behandling<lb />
+Pag. 915—927; 3die Lasning Pag. 1458.<lb />
+</p>
+<p>
+Borteværelse, om Medlemmernes Borteværelse fra Rigsforsamlingen,<lb />
+Forslag af Rée og Stockfleth, Oversigten B Nr. 9 og 10.<lb />
+</p>
+<p>
+Brandcorps, deres Værnepligt see Borgercorps.<lb />
+Breve, og deslige Papirer, deres Undersøgelse, see Huusundersøgelse.<lb />
+</p>
+<p>
+Biireau, Büreausystem, see Afdelinger.<lb />
+</p>
+<p>
+Bøisen, om hans Valgs Gyldighed, Pag. 30—31, Pag. 139, 196—198,<lb />
+252—253.<lb />
+</p>
+<p>
+Børneunderviisning, see Underviisning.<lb />
+</p>
+<morenext>
+C.<lb />
+</morenext>
+<p>
+Censur, see Trykkefrihed.<lb />
+</p>
+<p>
+Census, Valgrettens Betingelse af en vis Formuesbesiddelse, see Grundlovomiteens Betænkning ad Udkastets §§ 30—36, 2den Minoritet Pag.<lb />
+1495—1498, 3die Minoritet Pag. 1498 99, 4de Minoritet a) Pag.<lb />
+1499—1502, b) Pag. 1502—1504, 5te Minoritet Pag. 1504—1507;<lb />
+see Rigsdagen, dens Sammensætning. Om Census see under 1ste<lb />
+Behandling af §§ 30—36 fornemmelig Forhandlingerne om 1ste Minoritetsvotum Pag. 1808—1914, 2det Pag. 1915—2048, 3die og<lb />
+4de Pag. 2048—2116; fremdeles Pag. 2120—24, 2127—28,<lb />
+2136—38, 2141, 2143, 2145—46, 2162—64, 2191—92,<lb />
+2208—9, 2217—18, 2223—41 (Andræ’s Forslag); under Afsnittets<lb />
+2den Behandling see Pag. 2880—81 (Ørsted’s Forslag), Pag. 2889<lb />
+(Neergaard og Scaveniu’s Forslag); Pag. 2907, 2910 (Andræ’s Forslag), Behandlingen Heraf Pag. 2905—2943; Pag. 2946 (det principale, frasaldne men af David optagne, Hovedforslag G); 2den Afstemning over Hovedforslaget G see Forslagene Pag. 3124, Afstemning<lb />
+Pag. 3160—61, Behandlingen Pag. 3129—59. Med Hensyn til<lb />
+Valgbarhedscensus see Valgbar.<lb />
+</p>
+<p>
+Civillisten, Kongens, dens Bestemmelse efter Grundloven, see Udkaftet til<lb />
+denne § 15 Pag. 33, Comiteens Betænkning Pag. 1485—86, 1ste<lb />
+Behandling Pag. 1631—42, 2den Behandling Pag. 2791—94; den<lb />
+endelige Lovs § 16 Pag. 3638.<lb />
+</p>
+<p>
+Civillisten, den nuværende Konges, see Note til § 15 i Udkastet, Comiteens Betænkning og 1ste Behandling Pag. 1635—36, 1636—37<lb />
+(Justitsm.), jsr. Comiteens Betænkning Pag. 2172, 1ste Behandliag Pag. 2720, 2den Behandling Pag. 3386. See selve Civillisten<lb />
+Pag. 3765—67.<lb />
+</p>
+<p>
+Classevalg see Klassevalg.<lb />
+</p>
+<p>
+Colonier, de vestindiske, see Vestindien.<lb />
+</p>
+<p>
+Colonierne, beres Forhold med Hensyn til Værnepligten, see Udkast til<lb />
+Værnepligtsloven § 2 Pag. 268, Comiteens Betænkning Pag. 485—86,<lb />
+</p>
+</rightside>
+
+
+</pb>

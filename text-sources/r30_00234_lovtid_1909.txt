@@ -1,0 +1,30 @@
+498
+<pb n="234" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>498</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 994.</wtitle>
+<p>
+Den som i Tale eller Skrift, beregnet på at virke i en videre Kreds, giver vildledende Meddelelser om en Straffesag, der endnu ikke er endelig afgjort eller bortfaldet, eller som på nævnte Måde gør en sådan Sag til Genstand for Drøftelse, når<lb/>
+denne efter sin Karakter er egnet til at vanskeliggøre Sagens Oplysning eller til at<lb/>
+lægge Hindringer i Vejen for en uhildet Afgørelse af den, straffes med Bøder fra<lb/>
+100 til 1,000 Kr. eller med simpelt Fængsel.
+</p>
+<title>Tiende Afsnit.</title>
+<title>Kapitel 91.</title>
+<undertitle>
+Særlige Bestemmelser om nogle Forhor m. m.
+</undertitle>
+<wtitle>§ 995.</wtitle>
+<p>
+Med Hensyn til Søforhør har det sit Forblivende ved de hidtil gældende Regler.<lb/>
+Ligeledes kan Optagelse af Forhør ved Undersøgelsesret finde Sted i samme Omfang<lb/>
+som hidtil dels angående stedfundne Ildebrande, Ulykkestilfælde, dødfundne Personer<lb/>
+o. desl., dels efter Begæring af Myndigheder til Oplysning om trængendes Forsørgelseshjem og Undersøgelse af personlige Forhold af retlig Betydning.
+</p>
+<p>
+For så vidt der udenfor Strafferetsplejen er Hjemmel for Anvendelse af sådanne Forholdsregler, som de i 4de Bog, 2det Afsnit, omhandlede, for andre offentlige Formåls Skyld, berøres de derom gældende Regler ikke af denne Lov.
+</p>
+<pagename>Nr. 53. Lov af  26. Marts om Rettens Pleje.</pagename>

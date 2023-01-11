@@ -1,0 +1,32 @@
+10
+<pb n="10" />
+<h>2             Kap. I.   Lovens Virkekreds.</h>
+<p>9) Forbrydelse af Næringsadkomst;</p>
+<p>10)   Forbrydelse af Arveret eller</p>
+<p>11)  Omstødelse  af ægteskab,   som er indgået trods et Slægtskabs- eller Svogerskabsforhold, der er ubetinget Ægteskabshindring,  eller trods et endnu bestående Ægteskab.</p>
+<wtitle>§ 3.</wtitle>
+<p>Borgerlige Retskrav på den Sigtede,<lb />
+som følge as strafbare Handlinger, kunne<lb />
+forfølges i Forbindelse med Straffesagen,<lb />
+overensstemmende med de i Kapitel XXXII<lb />
+givne nærmere Regler.</p>
+<title>Kapitel II.</title>
+<undertitle>Retternes Virkekreds.</undertitle>
+<wtitle>§ 4.</wtitle>
+<p>Forundersøgelse og enkeltstående Retshandlinger foretages ved Underretten fom<lb />
+Undersøgelsesret. Dog kan det i Sager,<lb />
+som henhore under Landeret, eller ere<lb />
+indankede for Landøret eller for højesteret.<lb />
+undtagelsesvis af Landsrettens eller højesterets Iustitiarius overdrages til et Medlem af<lb />
+Landsretten at handle som Undersøgelsesdommer.</p>
+<wtitle>§ 5.</wtitle>
+<p>Ved   Underretterne   behandles   og</p>
+<p>påkendes i første Instans Sager angående</p>
+<p>Lovovertrædelser,</p>
+<p>a) for hvilke Straffen ikke kan overstige<lb />
+fængsel:</p>
+<p>h) eller som falde under en Straffebestemmelse, der alternativt med andre<lb />
+Straffearter hjemler Anvendelse af Formuestraf, simpelt fængsel, Tvangsarbejde, Ris eller Fortabelse af næringsret, dog at Sigtede eller, hvis han er<lb />
+umyndig, hans værge kan begære Påkendelse ved Landsretten, naar Straffen<lb />
+kan stige til Strafarbejde eller Embeds<lb />
+eller Bestillings Fortabelse.</p>

@@ -1,0 +1,77 @@
+2149
+<pb n="6" />
+<h>
+<coll>2149</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2150</colr>
+</h>
+<p>
+5, og saaledes at Retten kan beklædes af Formanden alene i de i nævnte Lovs § 1,<lb/>
+2det Stykke, 1ste og 2det Punktum, angivne Tilfælde.
+</p>
+<wtitle>§ 19.</wtitle>
+<p>
+De hidtilværende Tingsteder for Underretterne udenfor København bevares<lb/>
+indtil videre. Forandring heri kan træffes ved kongelig Anordning.
+</p>
+<p>
+Dommeren skal have Bolig ved Kredsens Tingsted (Hovedtingsted). Dog kan<lb/>
+Justitsministeren tilstede Afvigelse herfra,
+</p>
+<p>
+Der tilkommer Underretterne den samme Myndighed til at bestemme, at Doms-<lb/>
+forhandlingen skal foregaa udenfor Rettens Sæde, som ved § 11, 2det Stykke, 1ste<lb/>
+Punktum, er tillagt Landsretten.
+</p>
+<wtitle>§ 20.</wtitle>
+<p>
+Sø- og Handelssager kunne behandles ved de for almindelige borgerlige Rets-<lb/>
+sager dannede Retter, naar begge Parter ere enige herom.
+</p>
+<p>
+Begæring om, at en Sag skal behandles som Sø- eller Handelssag, eller Ind-<lb/>
+sigelse derimod skal fremsættes senest paa den første Tægtedag. Rettens Afgørelse<lb/>
+af Spørgsmaal derom kan ikke medføre Afvisning af Sagen, men kun Henvisning af<lb/>
+dens videre Behandling til den rette Domstol. Kærefristen er 3 Dage.
+</p>
+<p>
+Sø- og Handelssager, der ellers vilde være at behandle udenfor København,<lb/>
+kunne, naar Parterne ere enige herom, indbringes for Sø- og Handelsretten i Kø-<lb/>
+benhavn.
+</p>
+<wtitle>§ 21.</wtitle>
+<p>
+Regeringens Ret til at anordne ekstraordinære Retter vedbliver indtil videre<lb/>
+i sit nuværende Omfang. Saadanne Retter ville dog i alle Henseender i Sager, der<lb/>
+falde under nærværende Lov, have i deres Fremgangsmaade at anvende denne Lovs<lb/>
+Regler, saaledes at de uden dog at være bundne ved Bestemmelserne om Retskred-<lb/>
+senes Grænser fungere som Underret og Landsret og i alle Afgørelser staa under<lb/>
+Kære og Anke umiddelbart til Højesteret.
+</p>
+<p>
+Ligeledes kan Kongen dels i Sager, i hvilke der foreligger Sigtelse for Over-<lb/>
+trædelse af den borgerlige Lovgivning, og tillige for Forhold, der vedrøre Sigtedes<lb/>
+Stilling som gejstlig Embedsmand, bestemme, at Sagen i sin Helhed skal under-<lb/>
+søges og paakendes enten ved gejstlig eller ved borgerlig Ret, dels i Sager, hvorunder<lb/>
+Personer, af hvilke nogle henhøre under militære, andre under borgerlige Retter,<lb/>
+sigtes for Delagtighed i samme forbryderske Forhold, bestemme, at Sagen i sin Helhed<lb/>
+skal undersøges og paakendes ved borgerlig Ret. I disse Tilfælde kan Kongen tilfor-<lb/>
+ordne de borgerlige Retter, til hvilke Sagens Undersøgelse og Paakendelse henvises,<lb/>
+samt de borgerlige Domstole, hvem Paakendelsen i Tilfælde af Anke tilkommer, hver
+tvende henholdsvis gejstlige eller militære Medlemmer som Dommere.
+</p>
+<wtitle>§ 22.</wtitle>
+<p>
+Underretsdommerne udenfor København vedblive, indtil anden Bestemmelse<lb/>
+træffes ved Lov, foruden deres Dommergerning at varetage samtlige de til Retsbe-<lb/>
+tjentene efter den hidtil værende Ordning henlagte administrative Forretninger.
+</p>
+<p>
+I Underretskredse, hvor Folketallet efter sidste Folketælling overstiger 40,000<lb/>
+Indbyggere, ansættes dog en særlig Dommer, til hvilken henlægges de Dommeren og<lb/>
+Skriveren ved Underretterne paahvilende Forretninger vedrørende Strafferetsplejen og<lb/>
+den borgerlige Retspleje, og en særlig Politimester, til hvilken de nævnte administra-<lb/>
+tive Forretninger henlægges. I Underretskredse, hvor Folketallet efter sidste Folke-<lb/>
+tælling overstiger 70,000 Indbyggere, ansættes 2 særlige Dommere foruden en Politi-<lb/>
+mester ; Forretningernes Fordeling mellem Dommerne fastsættes ved kongelig Anordning.
+</p>

@@ -1,0 +1,79 @@
+2323
+<pb n="210" />
+<h>
+<coll>
+2323
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2324
+</colr>
+</h>
+<p>
+ikke af egen Drift paaser, kun benyttes som Ankegrund, naar Indsigelse betimelig er<lb />
+fremsat for den underordnede Ret;
+</p>
+<p>
+2.	at Retten i en Nævningesag har afgjort paa urigtig Maade noget Spørgsmaal,<lb />
+som ifølge § 865 er unddraget fra Nævningernes Afgørelse, eller urigtig har domfældt<lb />
+i Overensstemmelse med en fældende Nævningeerklæring i et Tilfælde, hvor den i<lb />
+Medfør af § 886 burde have frifundet eller ikkun domfældt for en mindre Forbrydelse,<lb />
+end Erklæringen lyder paa, eller omvendt med Urette har fraveget en fældende<lb />
+Nævningeerklæring i Henhold til § 886 eller frifundet i Henhold til § 829, 2det Stykke;
+</p>
+<p>
+3.	at i en Nævningesag Nævningernes Erklæring, hvorpaa Dommen er grundet,<lb />
+er bleven fejlagtig paa Grund af urigtig, i Retsmødet given, Vejledning i Loven fra<lb />
+Rettens Formands Side, eller fordi Spørgsmaalene til Nævningerne lide af Fejl, der<lb />
+bero paa en urigtig Forstaaelse af Straffeloven;
+</p>
+<p>
+4.	at Retten i en Sag, der er paakendt uden Nævninger, har afgjort paa urigtig<lb />
+Maade noget Spørgsmaal, som i en Nævningesag ifølge § 865 vilde være unddraget fra<lb />
+Nævningernes Afgørelse, eller i øvrigt ved Afgørelsen af, om Tiltalte skal domfældes,<lb />
+har anvendt Straffeloven urigtig;
+</p>
+<p>
+5.	at den Straf, Dommen har ikendt, ligger udenfor de i Loven fastsatte Græn-<lb />
+ser eller staar i aabenbart Misforhold til Brøden.
+</p>
+<p>
+Anke kan ikke grundes paa, at Spørgsmaalet, om Tiltalte skal domfældes, er<lb />
+urigtig afgjort som Følge af en fejlagtig Bedømmelse af Bevisernes Vægt, medmindre<lb />
+Talen er om et Punkt, der ifølge § 865 i Nævningesager er unddraget Nævningernes<lb />
+Afgørelse.
+</p>
+<wtitle>§ 910.</wtitle>
+<p>
+Tilsidesættelse eller fejlagtig Anvendelse af en Rettergangsregel skal ikke<lb />
+bevirke Ophævelse af en paaanket Dom, medmindre det findes antageligt, at Iagt-<lb />
+tagelse af den paagældende Regel kunde have medført et andet Udfald af Sagen.
+</p>
+<p>
+Ikke-Iagttagelse af Rettergangsregler, som udelukkende ere foreskrevne til<lb />
+Betryggelse for Tiltalte, kan ikke føre til Forandring til hans Skade.
+</p>
+<wtitle>§ 911.</wtitle>
+<p>
+Vil Overanklageren anke til Skade for Tiltalte, maa han inden fjorten Dage<lb />
+efter Dommens Afsigelse for Tiltalte lade forkynde Meddelelse om, at han paaanker<lb />
+Dommen. Anke til Fordel for Tiltalte kan Overanklageren iværksætte ogsaa efter<lb />
+Udløbet af den nævnte Frist; saadan Anke hindres heller ikke ved, at Tiltalte har<lb />
+givet Afkald paa Anke.
+</p>
+<p>
+Meddelelsen skal indeholde Tilkendegivelse om, at Sagen vil blive foretagen i<lb />
+Højesteret, saa snart dertil er Lejlighed, uden nogen yderligere Underretning til<lb />
+Tiltalte. Genpart af Meddelelsen indleveres paa Landsrettens Kontor.
+</p>
+<wtitle>§ 912.</wtitle>
+<p>
+Vil Tiltalte anke. maa han afgive Meddelelse herom inden fjorten Dage<lb />
+regnet fra Dommens Afsigelse eller, naar han ikke har været til Stede ved Afsigelsen<lb />
+af Dommen, og denne er fældende, fra den Dag, da Udskrift af Dommen er ham<lb />
+forkyndt, Meddelelsen kan, naar den foregaar straks ved Dommens Afsigelse eller<lb />
+Forkyndelse, fremsættes mundtlig henholdsvis til Retsbogen eller til den. som iværk-<lb />
+sætter Forkyndelsen, og som i saa Fald har at optage fornøden Bemærkning i For-<lb />
+kyndelsespaategningen. Ellers indgives Meddelelsen skriftlig, underskreven af Tiltalte,<lb />
+paa Overanklagerens eller Landsrettens Kontor: er Tiltalte fængslet, kan den dog
+</p>

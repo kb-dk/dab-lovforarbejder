@@ -1,0 +1,159 @@
+3167
+<pb n="847" >
+<p rend="page">847</p>
+<h>
+<coll>3167</coll>
+<colr>3168</colr><lb />
+
+Den endelige Behandling af Grundlovsudkastet. § 30—36.<lb />
+</h>
+<leftside>
+<p>
+deres Midte Valgmænd efter de Bestemmelser, som gives i Valgloven.<lb />
+<law n="36" />§36.<lb />
+Valgbar til Landsthinget er enhver uberygtet Mand, som<lb />
+har Indfødsret, og hvis Bo ei er under Opbuds- eller Fallitbehandling, naar han har fyldt sit 40de Aar og i det sidste Aar<lb />
+enten har sværet i directe Skat til Staten eller Conmmnen<lb />
+200 Rbd. eller godtgjør at have havt en aarlig Netto-Indtægt<lb />
+af 1200 Rbd.<lb />
+</p>
+<p>
+I de Valgkredse, hvor Antallet af Valgbare efter denne Regel<lb />
+ikke kommer til at opnaae det Forhold til Befolkningen, som vil<lb />
+blive at fastsætte i Valgloven, forøges Antallet af de Valgbare<lb />
+med de høiest Beskattede i Valgkredsen, indtil dette Forhold<lb />
+er naaet.<lb />
+<law n="37" >§ 37.<lb /></law>
+Valgene til Landsthinget foregaae i støre Valgkredse, der<lb />
+ørdnes ved Valgloven. Valgmændene i hver saadan større<lb />
+Valgkreds træde sammen og stemme paa saamange Mænd,<lb />
+som skulle vælges for Valgkredsen, i hvilken idetmindste ¾ af<lb />
+de Valgte skulle have havt fast Bopæl i det sidste Aar før<lb />
+Valget. Til et gyldigt Valg udfordres mere end Halvdelen<lb />
+af de afgivne Stemmer.<lb />
+<law n="38" >§ 38.<lb /></law>
+Antallet af Landsthingets Medlemmer skal stedse være omtreni ½ af Antallet af Folkethingets Medlemmer.<lb />
+<law n="39" >§ 39.<lb /></law>
+Medlemmerne af Landsthinget vælges paa 8 Aar. Halvdelen afgaaer hvert 4de Aar. De erholde samme daglige Vederlag som Folkethingets Medlemmer.<lb />
+<law n="40" >§ 40.<lb /></law>
+Naar en ny Communallov er given, kunne Landsthingsvalgene<lb />
+ved Lov gaae over til de støre communale (Amts- eller Provinds-) Raad.<lb />
+</p>
+<p>
+sat under Afstemning ved Navneopraab, der var forlangt af:<lb />
+Algreen-Ussing.	Bregendahl.<lb />
+</p>
+<px>
+Zeuthen.	Buchwald.<lb />
+Sehestedt-Jurl.	M. P. Bruun.<lb />
+Ostenfeldt.	Schytte.<lb />
+With.	N. F. Jespersen.<lb />
+Hiort.	Schack.<lb />
+Pløyen.	Thalbitzer.<lb />
+Wulff.	Georg Christensen.<lb />
+Nyholm.	Kayser.<lb />
+Bluhme.	Dahlerup.<lb />
+Hastrup.	F. Johannsen.<lb />
+Pape.	Linnemann.<lb />
+David.	Hækkerup.<lb />
+v. Haven.	la Cour.<lb />
+Visby.	Bagger.<lb />
+N. Hansen.	C. C. Møller.<lb />
+</px>
+<p>
+og afgjort saaledes: Stemmegivende 140, Fraværende 8, 2 — Tscherning og Ørsted — stemte ikke: 127 Ja, 13 Nei, altsaa vedtaget.<lb />
+</p>
+<px>
+Ja.<lb />
+G. Aagaard.	H. B. Bruun.<lb />
+U. Aagaard.	M. P. Bruun.<lb />
+Andresen.	P. D. Bruun.<lb />
+Andræ.	Buchwaldt.<lb />
+Bagger.	Buntzen.<lb />
+Barfod.	Boisen.<lb />
+Bergmann.	Cederfeld de Simonsen.<lb />
+Bjerring.	Balthazar Christensen.<lb />
+Black	G. Christensen.<lb />
+Bluhme.	H. Christensen.<lb />
+Brandt.	I. Christensen.<lb />
+Bregendahl.	la Cour.<lb />
+
+</px>
+</leftside>
+<rightside>
+<px>
+Dahl.	Lützhöft.<lb />
+Dahlerup.	Madsen.<lb />
+Dinsen.	Marckmann.<lb />
+I. C. Drewsen.	Mundt.<lb />
+M. Drewsen.	Paludan-Müller.<lb />
+Duntzfelt.	Mynster.<lb />
+Fibiger.	C. C. Møller.<lb />
+Fløe.	R. N. Møller.<lb />
+Frølund.	H. C. Nielsen.<lb />
+Funder.	N. H. Nielsen.<lb />
+Gleerup.	Nyholm.<lb />
+Gram.	Nørgaard.<lb />
+Gregersen.	Olesen.<lb />
+Gudmundsson.	Olrik.<lb />
+Hage.	Ostenfeldt.<lb />
+Hall.	Ostermann.<lb />
+Hammerich.	Oxholm.<lb />
+H. P. Hansen.	Pape.<lb />
+I. A. Hansen.	Cornelius Pedersen.<lb />
+L. Hansen.	I. Pedersen.<lb />
+Mørk Hansen.	P. Pedersen.<lb />
+N. Hansen.	B. Petersen.<lb />
+P. Hansen.	C. N. Petersen.<lb />
+Hasselbalch.	Pjetursson.<lb />
+Hastrup.	Ploug.<lb />
+Hermannsen.	Pløyen.<lb />
+Hiort.	I. Rasmussen.<lb />
+Holck.	H. Rasmussen.<lb />
+Hunderup.	M. Rasmussen.<lb />
+Hvidt.	Ræder.<lb />
+Hækkerup.	Schack.<lb />
+Høier.	Schroll.<lb />
+Jacobsen.	Schurmann.<lb />
+Jacobæus.	Schytte.<lb />
+C. M. Jespersen.	Brinck-Seidelin.<lb />
+Fr. Jespersen.	Sidenius.<lb />
+N. F. Jespersen.	Stender.<lb />
+F. Johannsen.	Tang.<lb />
+H. C. Johansen.	Thalbitzer.<lb />
+H. Johansen.	Theilmann.<lb />
+Johnsen.	Tobiesen.<lb />
+Sehestedt-Juel.	Tuxen.<lb />
+Jungersen.	Tvede.<lb />
+Jørgensen.	W. Ussing.<lb />
+Kayser.	Wegener.<lb />
+Kirk.	Westergaard.<lb />
+Knuth.	Visby.<lb />
+Krieger.	Winther.<lb />
+Køster.	With.<lb />
+Chr. Larsen.	Wulff.<lb />
+Linnemann.	Zeuthen.<lb />
+Lorck.<lb />
+</px>
+<px>
+Nei.<lb />
+Colding.	Otterstrøm.<lb />
+David.	Rée.<lb />
+Grundtvig.	Scavenius.<lb />
+v. Haven.	Schiern.<lb />
+I. C. Larsen.	Sigurdsson.<lb />
+Lüttichau.	Algreen-Ussing.<lb />
+Neergaard.<lb />
+</px>
+<px>
+Fraværende.<lb />
+Eriksen.	Tage Müller (syg).<lb />
+Flor.	Schlegel.<lb />
+Gislason.	Stockfleth.<lb />
+Leth (syg).	Treschow.<lb />
+ 
+</px>
+</rightside>
+
+
+</pb>

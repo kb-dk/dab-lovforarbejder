@@ -1,0 +1,130 @@
+77
+<pb n="75">
+<pagename>75</pagename>
+<h>
+<coll>77</coll>
+<colr>78</colr>
+<lb/>
+
+<topleft>1848</topleft>
+<topmidle>
+Beretning om Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No11.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Femte Møde<lb/>
+(Sluttet.)<lb/>
+</btitle>
+<p>
+<speaker>Formanden:</speaker> Foruden Beretningen gåer det Oplæste altså<lb/>
+ud på, at Bibliothekerne i Roeskilde og Viborg måe flyttes her til<lb/>
+Rigsforsamlingen, og dernæst, at der her kunde afgives et Værelse<lb/>
+for samme og ligeledes et Læseværelse, hvor Biblotheket at Forsamlingens Medlemmer kunde benyttes, og hvor man vel også kunde<lb/>
+anskaffe de vigtigste Blade. Hvis jeg således turde antage, at Forsamlingen var enig i disse Punkter, hvilket vel ikke kan være Tvivl<lb/>
+underkastet, kunde man måskee overlade til de tvende ærede Medlemmer af Forsamlingen, som dermed forhen have havt at gjøre, i forening med Formanden at bestemme det Rærmere. Hvis Ingen yttrer<lb/>
+sig derimod, antager jeg, at dette er Forsamlingens Beslutning. —<lb/>
+Ved samme Leilighed tillader jeg mig at anmelde, at jeg i Forsamlingens Læseværelse ønsker at henlægge en Regnskabsoversigt for de<lb/>
+Møder af Provindsialstænderne, som have fundet Sted i Roeskilde<lb/>
+og Viborg i Anledning af Valgloven og Forordningen om Kingsskatten samt Udstedelsen af rentebærende Creditbeviser. Man pleiede<lb/>
+at fremlægge disse Regnskaber i det følgende Stændermøde, og det<lb/>
+forekommer mig derfor meest passende, at de nu meddeles Rigsforsamlingen. Jeg håber fremdeles, at Forsamlingen vil tillade, at<lb/>
+denne korte Regnskabsoversigt bliver optaget i Rigsdagstidenden*),<lb/>
+om dette just end ikke vedkommer Rigsforsamlingens Forhandlinger. — Jeg skal nu tillade mig at anmode een af de Herrer Secretairer om at oplæse Protocollen, det vil sige den korte Beretning<lb/>
+om de Sager, som ere behandlede, og de Beslutninger, som are tagne<lb/>
+de foregående Dage, da der ikke tidligere har været Leilighed til at<lb/>
+oplæse dette.<lb/>
+Den ene af Secretairerne oplæste derpå den ommeldte Protocol,<lb/>
+som ikke indeholder Noget, der ikke tidligere har været meddeelt i<lb/>
+denne Tidende.<lb/>
+</p>
+<note>
+*) Regnskabsoversigten lyder således:<lb/>
+Udgifterne ved den i Året 1848 afholdte Stænderforsamling i Roeskilde have<lb/>
+været følgende:<lb/>
+1. De Deputeredes Diæter under Sessionen . . . 4672	Rbd.	„		Mk.	„	s.<lb/>
+2. Sammes Reiseomkostninger og Diæter på Reisen	2015	—	3	—„	-<lb/>
+3. Honorar til Medhjælperne hos Forsamlingens Secretairer . . . 342	—	„	—	„	-<lb/>
+4. Betaling til Contoirpersonalet . . . 175	—	1	—	8	-<lb/>
+5. Papir og øvrige Skrivematerialier . . . 81	—	4	—	10	-<lb/>
+6. Udgifter i Anledning af Stændertidenden:<lb/>
+a) Erstatning til Forlæggeren after indgået Contract ... 1200	Rbd.	„	Mk.	„	s.<lb/>
+b) Til Correcteurerne	170	—	„	—	„	-<lb/>
+e) For Udarbeidelsen<lb/>
+af Sagregisteret.	10	—	„	—	„	–<lb/>
+d)	For Tilsyn med<lb/>
+Stændertidendens<lb/>
+Trykning efter Forsamlingens Ophør	12	—	„	—	„	–<lb/>
+e) For Avertissements	„	—	5	—	4	–<lb/>
+1392	—	5	—	4	- <lb/>
+7. Bogtrykkerarbeide, udenfor det, som er benyttet til<lb/>
+Stændertidenden . . . 69	—	1	—	8	-<lb/>
+8. Bogbinder-Arbeide . . . 35	—	4	—	10	-<lb/>
+9. Budets Løn . . . 36	—	„	—	„	-<lb/>
+10. Inventariesager og sammes Reparation . . . 98	—	„	— 10	–<lb/>
+11. Localets Reengjøring og Belysning m.m. . . 107	—	5	—	12	–<lb/>
+12. Nogle andre Udgifter . . . 8	— 3	—	8	-<lb/>
+Tilsammen . . 9035	Rbd.	„	Mk,	6	s.<lb/>
+</note>
+</leftside>
+<rightside>
+<p>
+Slutteligen bemærkede Formanden, at Dagsordenen i det næste<lb/>
+Møde, Mandagen de 30de October Kl. 12, vilde være Behandlingen<lb/>
+af det Forslag til et Reglement for Forretningsordenen, som af det<lb/>
+dertil nedsatte Udskud er forfattet og som i Dagsmødet var omdeelt<lb/>
+til Forsamlingens Medlemmer.<lb/>
+Mødet hævet.<lb/>
+</p>
+<p>
+Det omtalte Udkast lyder således:<lb/>
+<law n="1."/>§ 1. Forsamlingens Embedsmænd ere: En Formand, to Vice-Formænd og fire Sekreterer. De vælges på fire Uger, men kunne<lb/>
+gjenvælges. Ingen kan uden Forsamlingens Samtykke undslåe sig<lb/>
+for at modtage Valget.<lb/>
+<law n="2."/>§ 2. Til Valg af Formand udkræves over Halvdelen af Stemmerne; opnåes dette ikke ved den første Afstemning, så foretages et<lb/>
+nyt frit Valg. Vindes eiheller da den forlangte Stemmefleerhed, så<lb/>
+indskrænkes Stemmegivningen til de to Medlemmer, der havde de<lb/>
+fleste Stemmer ved andet Valg; have Flere lige Stemmer, gjør Alderen<lb/>
+Udslaget. Efter samme Forskrift forholdes ved Valget af Vice-Formænd og Sekreterer.<lb/>
+<law n="3."/>§ 3. Formanden leder Forhandlingerne i Forsamlingen og sørger for, at god Orden vedligeholdes. Han modtager alle meddelelser<lb/>
+til Forsamlingen og foreståer dens Udfærdigelser; ligeledes foreståer<lb/>
+han Forsamlingens Regnskabsvæsen. Vil han tage videre Deel i Forhandlingerne end den, der hører til Formandens Virksomhed som sådan, må han imidlertid overlade Forsædet til en af Vice-Formændene.<lb/>
+<law n="4."/>§ 4. Også i Formandens Forfald træder efter hans Anmodning en af Vice-Formændene i alle Henseender i hans Sted.<lb/>
+<law n="5."/>§ 5. Sekretererne føre under Formandens Tilsyn en kortfattet<lb/>
+Protokol, hvori Forhandlingernes Gjenstand og Udfald optages; den<lb/>
+oplæses ved Begyndelsen af det følgende Møde. De samle fremdeles<lb/>
+Stemmerne ved Afstemningen efter først selv at have afgivet deres<lb/>
+Stemme. Forretningerne fordeles mellem dem efter Aftale med Formanden.<lb/>
+<law n="6."/>§ 6. Formanden bestemmer ved Slutningen af hvert Møde<lb/>
+Dagsordenen for næste Møde. Dog kunne 15 Medlemmer forlange,<lb/>
+at den fastsættes ved Forsamlingens Beslutning.<lb/>
+</p>
+<note>
+Udgifterne ved den i Året 1848 afholdte Stænderforsamling for Nørrejylland have været følgende:<lb/>
+1. De Deputeredes Diæter under Sessionen . . . 2336	Rbd.	„	Mk.	„	s.<lb/>
+2. Sammes Reiseomkostninger og Diæter på Reisen . . 2263	—	3	—	„	-<lb/>
+3. Honorar til Medhjælperne hos Forsamlingens Secretairer	531	—	„	—	„	-<lb/>
+4. Betaling til Contoirpersonalet . . . 149	—	2	—	„	-<lb/>
+5. Papir og øvrige Skrivematerialer . . . 73	—	„	—	2	-<lb/>
+6. Udgister i Anledning af Stændertidenden:<lb/>
+a. Til Forlæggeren efter Contract . . . 1200 Rbd.	„	Mk.	„	s.<lb/>
+b. Til Correcteurerne . . 270	—	„	—	„	-<lb/>
+c. For Tilsyn med Stændertidendens Trykning efter<lb/>
+Forsamlingens Ophør . 28	—	„	—	„	-<lb/>
+1498	—	„	—	„	-<lb/>
+7. Bogtrykker-Arbeide, udenfor det, som er benyttet til<lb/>
+Stændertidenden . . . 196	—	„	 — 	„	-<lb/>
+8. Bogbinder-Arbeide . . . 73	—	2	— 	„	-<lb/>
+9. Budets Løn . . . 24 	—	 	„	— 	„	-<lb/>
+10. Inventariesager og sammes Reparation	92 — 1 — 7 -<lb/>
+11. Localets Reengjøring . . . 55 — „ — 12 -<lb/>
+12. Porto og nogle andre Udgifter . . . 35	—	5	— 	3	-<lb/>
+Tilsammen	7327	Rbd.	Mk.	8	ff.<lb/>
+ 
+</note>
+</rightside>
+
+</pb>

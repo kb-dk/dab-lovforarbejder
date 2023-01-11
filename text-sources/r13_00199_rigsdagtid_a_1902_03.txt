@@ -1,0 +1,80 @@
+2125
+<pb n="199" />
+<h>
+<coll>
+2125
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2126
+</colr>
+</h>
+<p>
+føjelse af Strafforhøjelses- eller Strafnedsættelsesgrunde, en kort Angivelse af det<lb />
+Forhold, for hvilket Tiltale rejses, med saadan Angivelse af Tid, Sted, Genstand,<lb />
+Udførelsesmaade og andre nærmere Omstændigheder, som udkræves til dets til-<lb />
+strækkelige og tydelige Betegnelse; det eller de Lovbud, i Henhold til hvilke<lb />
+Paastand om Straf agtes nedlagt, bør angives. Alternativ — herunder principal<lb />
+og subsidiær — Angivelse er tilladt.
+</p>
+<p>
+Hverken Angivelser af Beviser eller Udviklinger af Retsspørgsmaal maa findes<lb />
+i Anklageskriftet.
+</p>
+<p>
+I en Paategning paa Anklageskriftet skal derhos angives det Ting (Samling og<lb />
+Tingsted), paa hvilket Domsforhandlingen ventes foretagen, og om denne skal foregaa<lb />
+for Nævninger eller ikke. Det bør iagttages, at det tidligste Ting vælges, som Om-<lb />
+stændighederne tillade.
+</p>
+<wtitle>§  885.</wtitle>
+<p>
+Anklageskriftet indleveres paa Landsrettens Kontor; ved dets Indlevering er<lb />
+Sagen tingfæstet.
+</p>
+<p>
+Overanklageren foranstalter uden Ophold en Genpart af Anklageskriftet for-<lb />
+kyndt for Tiltalte. Ved Forkyndelsen afæskes der ham Erklæring, om han har antaget<lb />
+eller begærer beskikket en Forsvarer. Saa snart Forkyndelsen er sket, skal Overan-<lb />
+klageren, saafremt Beskikkelse af Forsvarer er paabudt i Loven eller er begært af<lb />
+Tiltalte eller af Overanklageren antages at burde finde Sted, gøre fornøden Henstilling<lb />
+herom til Retten.
+</p>
+<p>
+Om Beskikkelsen af Forsvarer meddeles Underretning til Overanklageren og<lb />
+Tiltalte. Overanklageren meddeler Forsvareren Genpart af Anklageskriftet.
+</p>
+<wtitle>§  886.</wtitle>
+<p>
+Yil Overanklageren inden Domsforhandlingen enten udvide Tiltalen til andre<lb />
+strafbare Forhold end de i Anklageskriftet nævnte eller berigtige Angivelser i Anklage-<lb />
+skriftet, maa dette ske ved Indlevering og Forkyndelse af yderligere eller nyt An-<lb />
+klageskrift.
+</p>
+<p>
+Under Domsforhandlingen kan Udvidelse af Tiltalen til andre strafbare For-<lb />
+hold ske med Rettens Samtykke, naar Tiltalte indvilger deri, saa og naar det Forhold,<lb />
+som der er Spørgsmaal om at inddrage, er begaaet under selve Domsforhandlingen.<lb />
+Udvidelsen sker efter Rettens Bestemmelse ved Tilføjelse paa Anklageskriftet eller<lb />
+Tilførsel i Retsbogen; det samme gælder om Berigtigelser, som Overanklageren under<lb />
+Domsforhandlingen foretager i Anklageskriftets Angivelser.
+</p>
+<p>
+Hvis Tiltalte ikke indvilger i Tiltalens Udvidelse, maa der imod ham rejses<lb />
+ny Sag, under hvilken Straffelovens § 64 da kommer til analogisk Anvendelse.
+</p>
+<wtitle>§  887.</wtitle>
+<p>
+Samtidigt med Indleveringen af Anklageskriftet eller snarest muligt derefter<lb />
+skal Overanklageren paa Rettens Kontor indlevere en Udskrift af de i Sagen fore-<lb />
+tagne retslige Undersøgelses- og Bevishandlinger, ledsaget af Sagens øvrige Doku-<lb />
+menter og andre synlige Bevismidler, samt en Fortegnelse over de Beviser, som agtes<lb />
+fremførte, med kort Angivelse al, hvad dermed agtes godtgjort. Vidner og Syns-<lb />
+eller Skønsmænd skulle betegnes med Navn og, hvad der i øvrigt maatte udkræves til<lb />
+deres nøjagtige Betegnelse, under Opgivende af, om de agtes afhørte under Domsfor-<lb />
+handlingen eller ved en Undersøgelsesret, eller om allerede afgivne Forklaringer agtes<lb />
+benyttede. Ønskes noget Vidnes Mødepligt udvidet (§ 769), eller ønskes Syns- eller<lb />
+Skønsmænd udmeldte, fremsættes fornøden Begæring herom til Retten.
+</p>

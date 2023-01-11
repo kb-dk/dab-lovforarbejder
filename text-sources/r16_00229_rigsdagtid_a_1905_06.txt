@@ -1,0 +1,64 @@
+2361
+<pb n="229" />
+<h>
+<coll>
+2361
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2362
+</colr>
+</h>
+<wtitle>§ 980.</wtitle>
+<p>
+Naar der til Fuldbyrdelsen af en Straffedom bliver Spørgsmaal om den dom-<lb />
+fældtes Paagribelse, kunne de samme Forholdsregler anvendes, som ere hjemlede, naar<lb />
+Fængslingskendelse er afsagt.
+</p>
+<wtitle>§ 981.</wtitle>
+<p>
+Bødestraffe, som ikke ere fuldbyrdede, bortfalde ved den domfældtes Død.
+</p>
+<wtitle>§ 982.</wtitle>
+<p>
+Ovenstaaende Regler finde med de af Forholdets Natur eller særlige Forskrifter<lb />
+følgende Lempelser ogsaa Anvendelse ved Fuldbyrdelsen af Kendelser, hvorved Retten<lb />
+har paalagt Vidner eller andre Straf.
+</p>
+<p>
+Fuldbyrdelse af de i § 166, jfr. § 193, omtalte Kendelser kan dog først finde<lb />
+Sted, naar Fristen til at fremsætte Begæring om Kendelsens Ophævelse i Henhold til<lb />
+§ 166 er forløben, eller Retten har nægtet at efterkomme en saadan Begæring.
+</p>
+<p>
+Med Hensyn til Fuldbyrdelsen af de i §§ 181 og 198 ommeldte Bødepaalæg for-<lb />
+holdes efter de almindelige Regler om Bøder, som paalægges af Øvrigkedsmyndigheder.
+</p>
+<title>Niende Afsnit.</title>
+<title>Sagsomkostninger og Rettergangsbøder i Straffesager.</title>
+<title>Kapitel 86.</title>
+<undertitle>Sagsomkostninger.</undertitle>
+<wtitle>§ 983.</wtitle>
+<p>
+I Straffesager, som forfølges af en offentlig Myndighed, udredes Omkost-<lb />
+ningerne ved Sagens Behandling og Straffens Fuldbyrdelse af det offentlige med For-<lb />
+behold af Ret til at faa dem erstattede efter nedenstaaende Regler.
+</p>
+<p>
+Vederlag til valgte Forsvarere og Udgifter i Anledning af Beviser, som Sig-<lb />
+tede fremskaffer uden Rettens Foranstaltning, vedkomme ikke det offentlige, ej heller<lb />
+Udgifter, der foranlediges ved Skridt, som en Trediemand foretager i sin Interesse,<lb />
+Dog kan Retten efter Omstændighederne tillægge Vidner, som fra Tiltaltes Side<lb />
+fremstilles uden dertil at være indkaldte, Godtgørelse hos det offentlige.
+</p>
+<wtitle>§ 984.</wtitle>
+<p>
+Findes Sigtede skyldig, er han pligtig at erstatte det offentlige de nødvendige<lb />
+Udgifter. som ere medgaaede til Sagens Behandling.
+</p>
+<p>
+Har Undersøgelsen været rettet paa en anden Forbrydelse end den, eller paa<lb />
+andre Forbrydelser foruden den, for hvilken Tiltalte dømmes, er han ikke pligtig til<lb />
+at erstatte de derved foranledigede yderligere Omkostninger (jfr. dog § 986); kan en<lb />
+Sondring ikke ske, bestemmer Retten, om og hvor stort et Afdrag der bør gøres.
+</p>

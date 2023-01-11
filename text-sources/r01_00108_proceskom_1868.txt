@@ -1,0 +1,38 @@
+102
+<pb n="108" />
+<p>Det iagttages, at den nærmeste Tægtedag<lb />
+eller Samling vælges, som Forholdene tilstede,<lb />
+og til hvilken der kan gives alle Vedkommende<lb />
+behørigt Varsel.</p>
+<p>Ordentligvis bør den Sigtede have en<lb />
+Uges Varsel til Dagen eller Samlingen;<lb />
+kortere Varsel kan vælges, naar den Sigtede<lb />
+og Forsvareren begjære det eller samtykke deri;<lb />
+længere Varsel kan vælges, naar Rettens<lb />
+Formand finder, at det almindelige Varsel af<lb />
+særegne Grunde er utilstrækkeligt.</p>
+<p>En senere Tægtedag end den, der vilde<lb />
+følge af ovenstående Regel, kan berammes,<lb />
+naar særegne Grunde findes at gjøre en Afvigelse nødvendig.</p>
+<wtitle>§ 263.</wtitle>
+<p>Om Berammelsen af Hovedforhandlingen<lb />
+underretter Rettens Formand Anklageren, Forsvareren samt i Nævningesager Formanden<lb />
+for Udvalget til Aarslistens Dannelse.</p>
+<p>Den Sigtede indkaldes til det berammede<lb />
+Mede ved en skriftlig Stævning, som udstedes<lb />
+as Rettens Formand i Rettens Navn. Om<lb />
+de Foranstaltninger, som ere trufne for at<lb />
+give alle Vedkommende behørig Adgang til<lb />
+Gjennemsyn af Sagens Aktstykker, meddeles<lb />
+samtidig Underretning, Vidner samt Syns- og Skjønsmænd, hvis Indkaldelse til Hovedforhandlingen er besluttet, indkaldes af Formanden.</p>
+<p>Hensidder den Sigtede i fængsel eller<lb />
+Vidner, Syns- eller Skjønsmænd i Forvaring<lb />
+på et andet Sted end det, hvor den berammede Hovedforhandling skal foregå, foranstalter Rettens Formand dem betimeligt henførte til dette.</p>
+<wtitle>§ 264.</wtitle>
+<p>Over Nævningesager og andre Straffesager, som ere berammede til Foretagelse i<lb />
+en af Rettens Samlinger, affattes der af<lb />
+Rettens Formand med Retsskriverens Bistand en samlet Retsliste, hvori angives de<lb />
+Sager, som ville blive fortagne, samt såvidt<lb />
+mulig de Dage, til hvilke de enkelte Sager ere<lb />
+berammede. Denne Retsliste bekjendtgjøres en<lb />
+Uge for Retssamlingens Begyndelse ved Opslag på det Sted,   hvor  Retten skal holdes.</p>

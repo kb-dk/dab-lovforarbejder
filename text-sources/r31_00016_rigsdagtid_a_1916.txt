@@ -1,0 +1,73 @@
+432
+<pb n="16" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>432</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 58.</wtitle>
+<p>
+Ved Anordning gives der en Instruks for Stævningsmænd.<lb />
+Enhver Stævningsmand afgiver til vedkommende Retsformand eller Underretsdommer en højtidelig Erklæring om, at han med Troskab og Samvittighedsfuldhed vil<lb />
+opfylde de Pligter, der påhviler ham efter nærværende Lov og den ham meddelte<lb />
+Instruks. Formen for denne Erklæring fastsættes af Justitsministeren. Dommeren i
+</p>
+<p>
+Retskredsen har at vejlede Stævningsmændene med Hensyn til deres Pligter.
+</p>
+<wtitle>§ 59.</wtitle>
+<p>
+Det underordnede Personale ved Højesterets, Landsretternes, Sø- og Handelsrettens og Københavns Byrets Skriverkontorer ansættes af vedkommende Rets Formand.
+</p>
+<title>Kapitel 5.</title>
+<undertitle>
+Tilfælde, hvor Rettens Personer skal eller kan vige deres Sæde.
+</undertitle>
+<wtitle>§  60.</wtitle>
+<p>
+Ingen må handle som Dommer i en Sag, når han
+</p>
+<p>
+1)	selv er Part i Sagen eller er interesseret i dens Udfald eller, hvis det er en<lb />
+Straffesag, er forurettet ved Forbrydelsen;
+</p>
+<p>
+2)	er beslægtet eller besvogret med nogen af Parterne i en bprgerlig Sag eller med<lb />
+Sigtede i en Straffesag i op- eller nedstigende Linie eller i Sidelinien så nær<lb />
+som Søskendebørn eller er en af Parternes eller Sigtedes Ægtefælle. Værge,<lb />
+Kurator, Adoptiv- eller Plejefader, Adoptiv- eller Plejesøn;
+</p>
+<p>
+3)	er gift med eller beslægtet eller besvogret i op- eller nedstigende Linie eller<lb />
+beslægtet i Sidelinien så nær som Søskende med nogen i en borgerlig Sag optrædende Sagfører eller anden Rettergangsfuldmægtig for en af Parterne eller<lb />
+med den forurettede i en Straffesag eller dennes Rettergangsfuldmægtig eller<lb />
+med nogen i en sådan Sag optrædende offentlig Anklager eller Politiembedsmand eller Forsvarer for Sigtede;
+</p>
+<p>
+4)	har aflagt Vidnesbyrd eller været Syns- eller Skønsmand i Sagen eller har handlet i den, hvis det er en borgerlig Sag, som Sagfører eller i øvrigt som Rettergangsfuldmægtig for nogen af Parterne og, hvis det er en Straffesag, som Politiembedsmand, offentlig Anklager. Forsvarer eller Rettergangsfuldmægtig for den<lb />
+forurettede;
+</p>
+<p>
+5)	har handlet i Sagen i den underordnede Instans som Dommer eller, hvis det er<lb />
+en Straffesag, som Nævning.
+</p>
+<p>
+Den Omstændighed, at Dommeren, fordi flere Embedsvirksomheder er forenede i hans Person, tidligere af den Grund har haft med Sagen at gøre, medfører<lb />
+ikke Inhabilitet, når der ikke efter de foreliggende Omstændigheder er Grund til at<lb />
+antage, at han har nogen særegen Interesse i Sagens Udfald.
+</p>
+<wtitle>§ 61.</wtitle>
+<p>
+I de i foregående Paragraf omhandlede Tilfælde er Dommeren, hvis han er<lb />
+Enkeltdommer, pligtig efter Kendelse, afsagt af ham selv, at vige sit Sæde. Beklæder<lb />
+han Retten i Forening med andre Dommere, er han pligtig at gøre Retten Meddelelse<lb />
+om de Omstændigheder, som ifølge foregående Paragraf formenes at medføre hans
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

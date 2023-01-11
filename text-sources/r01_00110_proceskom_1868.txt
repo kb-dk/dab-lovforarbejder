@@ -1,0 +1,35 @@
+104
+<pb n="110" />
+<title>Kapitel II.</title>
+<undertitle>Om   Forandringer  i  Anklagen  eller i de om<lb />
+Henvisning og Hovedforhandlingens Forberedelse<lb />
+trufne Bestemmelser.</undertitle>
+<wtitle>§  267.</wtitle>
+<p>Forandringer i Anklagen, som ikke i nogen<lb />
+væsentlig Grad forandre eller besværliggjøre Forsvaret, kunne af Anklageren foretages, så længe<lb />
+Sagen ikke er optagen til Dom eller til at<lb />
+forelægges Nævningerne.</p>
+<p>Andre Forandringer i Anklagen, hvad<lb />
+enten disse have Hensyn til Handlingens retlige Karakter eller de særlige Omstændigheder,<lb />
+hvormed Handlingen er betegnet, tilstedes kun,</p>
+<p>1)   naar de foretages,  førend Henvisning<lb />
+til Hovedforhandling   har   fundet Sted,   eller<lb />
+dog på et sådant Tidspunkt,   at en Forhaling af Hovedforhandlingen ikke vil følge deraf,</p>
+<p>2)   eller naar der inden Sagens Optagelse<lb />
+er  fremkommet nye Beviser   eller Kjendsgjerninger   mod    den   Sigtede,    som   vilde   give<lb />
+Hjemmel   til   Genoptagelse  af en Straffesag,<lb />
+i hvilken forfølgning er frafalden.</p>
+<wtitle>§  268.</wtitle>
+<p>Om Forandringer i Anklagen gjøres der<lb />
+Meddelelse til Retten skriftlig eller, hvis de<lb />
+fremkomme under Hovedforhandlingen, mundtlig til Retsbogen. Finder Retten ikke Anledning til strax at tilbagevise Forandringen,<lb />
+gives der den Sigtede og den beskikkede Forsvarer Lejlighed til i den Anledning at udtale<lb />
+sig, hvortil efter Omstændighederne indrømmes<lb />
+en Frist. Er der Strid om Forandringens<lb />
+Tilstedelighed, eller tilbagevises den, eller tilstedes den i medfør af Reglen i § 267 Nr. 2.<lb />
+afsiger Retten Kjendelse; i andre Tilfælde træffer<lb />
+Formanden Afgjørelsen. Tilstedes under Hovedforhandlingen Anklagens Forandring i Henhold til Reglen i § 267 Nr. 2, bliver Sagen<lb />
+at udsætte, medmindre den Sigtede og hans<lb />
+beskikkede Forsvarer give Afkald herpå.</p>
+<wtitle>§ 269.</wtitle>
+<p>Foreligger der rimelig Grund til at antage, at sådanne nye Beviser eller Kjendsgjerninger ville  komme for Dagen, som efter</p>

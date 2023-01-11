@@ -1,0 +1,148 @@
+1547
+<pb n="37" >
+<p rend="page">37</p>
+<h>
+<coll>1547</coll>
+<colr>1548</colr><lb />
+</h>
+<leftside>
+<btitle>
+A. Grundlovsudkastet,<lb />
+</btitle>
+<p>
+<law n="37" >§ 37.<lb /></law>
+Rigsdagen er ukrænkelig. Hvo der antaster dens Sikkerhed og Frihed, hvo der udsteder<lb />
+eller adlyder nogen dertil sigtende Befaling, gjør<lb />
+sig skyldig i Høiforræderi.<lb />
+<law n="38" >§ 38.<lb /></law>
+Ingen Rigsdagsmand kan fængsles eller<lb />
+tiltales under Rigsdagens Samling, medmindre<lb />
+det Thing, hvortil han hører, dertil giver sit<lb />
+Samtykke. For sine Yttringer paa Rigsdagen<lb />
+kan intet af dens Medlemmer uden Thingets<lb />
+Samtykke drages til Ansvar udenfor samme.<lb />
+<law n="39" >§ 39.<lb /></law>
+Rigsdagsmændene ere ene bundne ved deres<lb />
+Overbeviisning og ikke ved nogen Forskrift af<lb />
+deres Vælgere.<lb />
+</p>
+<title>
+V.<lb />
+</title>
+<p>
+<law n="40" >§ 40.<lb /></law>
+Ethvert af Thingene er berettiget til at<lb />
+foreslaae og for sit Vedkommende at vedtage<lb />
+Love.<lb />
+<law n="41" >§ 41.<lb /></law>
+Ethvert af Thingene kan selvstændigen indgive Adresser til Kongen.<lb />
+<law n="42" >§ 42.<lb /></law>
+Ethvert af Thingene kan til at undersøge<lb />
+almeenvigtige Gjenstande nedsætte Commissioner<lb />
+af sine Medlemmer. Disse ere berettigede til<lb />
+saavel af offentlige Myndigheder som af private Borgere at fordre Oplysninger meddeelte<lb />
+mundtligen eller skriftligen.<lb />
+<law n="43" >§ 43.<lb /></law>
+Ingen Skat kan paalægges, intet Statslaan optages og ingen Staten tilhørende Domaine afhændes, uden ved Lov.<lb />
+<law n="44" >§ 44.<lb /></law>
+Paa hver ordentlig Rigsdag, strax efterat<lb />
+samme er sat, fremlægges Forslag til Finantsloven for det følgende Aar, indeholdende et<lb />
+Overslag over Statens Indtægter og Udgifter.<lb />
+Finantsforslaget behandles først i Folkethinget.<lb />
+</p>
+<p>
+Ingen Skat tør oppebæres, forinden dens<lb />
+Opkrævning er bevilget ved Finantsloven. Ingen Udgift tør afholdes, som ikke har Hjemmel i samme.<lb />
+</p>
+<p>
+Hvorledes der skal forholdes med de communale Afgifter, der dog aldrig kunne paalægges ene af Kongen, vil blive bestemt ved<lb />
+Communalloven.<lb />
+</p>
+<btitle>
+B. Comiteens (Majoritets) Indstilling.<lb />
+</btitle>
+<p>
+<law n="37" >§ 37.<lb /></law>
+Som Udkastet.<lb />
+<law n="38" >§ 38.<lb /></law>
+Ingen Rigsdagsmand kan under Rigsdagens Samling, uden at det Thing, hvortil han<lb />
+hører, dertil giver sit Samtykke, hæftes for Sjæld,<lb />
+eiheller fængsles eller tiltales, medmindre han<lb />
+er greben paa fersk Gjerning. For sine Yttringer paa Rigsdagen kan intet af dens Medlemmer uden Thingets Samtykke drages til<lb />
+Ansvar udenfor samme.<lb />
+<law n="39" >§ 39.<lb /></law>
+Rigsdagsmændene o. s. v.<lb />
+</p>
+<p>
+Embedsmænd, som vælges til Rigsdagsmænd, behøve ikke Regjeringens Tilladelse til<lb />
+at modtage Valget.<lb />
+</p>
+<title>
+V.<lb />
+</title>
+<p>
+<law n="40" >§ 40.<lb /></law>
+Som Udkastet.<lb />
+<law n="41" >§ 41.<lb /></law>
+Ethvert af Thingene kan indgive Adresser<lb />
+til Kongen.<lb />
+<law n="42" >§ 42.<lb /></law>
+Som Udkastet.<lb />
+<law n="43" >§ 43.<lb /></law>
+Ingen Skat kan paalægges uden ved Lov,<lb />
+eiheller noget Mandskab udskrives, noget Statslaan optages eller nogen Staten tilhørende<lb />
+Domaine afhændes uden ifølge Lov.<lb />
+<law n="44" >§ 44.<lb /></law>
+Paa hver ordentlig Rigsdag, strax efterat<lb />
+samme er sat, fremlægges Forslag til Finantsloven for det følgende Finantsaar, indeholdende et Overslag over Statens. Indtægter og<lb />
+Udgifter.<lb />
+</p>
+<p>
+Finantsforslagets Behandling forberedes af<lb />
+et samlet Udvalg, til hvilket hvert Thing udnævner et lige Antal Medlemmer, hvorefter<lb />
+det foretages i den forenede Rigsdag, som med<lb />
+Stemmefleerhed tager Beslutning.<lb />
+</p>
+<p>
+Ingen Skat tør oppebæres, forinden dens<lb />
+Opkrævning er bevilget ved Finantsloven.<lb />
+Ingen Udgift tør afholdes, som ikke har Hjemmel i samme.<lb />
+</p>
+</leftside>
+<rightside>
+<btitle>
+C. Minoritetsindstillinger.<lb />
+</btitle>
+<title>
+V.<lb />
+</title>
+<p>
+<law n="40 b" />§ 40 b.<lb />
+a) Er et Lovforslag forkastet i det ene<lb />
+Thing, men vedtaget i det andet, kan det sidste<lb />
+Thing, efter paany at have behandlet Sagen,<lb />
+forlange, at det første ligeledes behandler den.<lb />
+Ere Thingene dog saaledes ikke blevne enige,<lb />
+og det ene Thing forlanger det, træde de<lb />
+sammen og tage Beslutning i Sagen med ⅔<lb />
+Stemmer."<lb />
+</p>
+<p>
+b) Naar en Beslutning er vedtagen af<lb />
+Rigsdagen, skal den forelægges Kongen. Billiger han den, bliver den derved Lov; billiger<lb />
+han den ikke, meddeler han dette til Rigsdagen, før den adskilles. Kongen kan forholde<lb />
+sig paa samme Maade, om en følgende Rigsdag foreslaaer den samme i Beslutning. Bliver<lb />
+Beslutningen behandlet og uforandret vedtaget<lb />
+paa den 3die Rigsdag, bliver den derved Lov,<lb />
+uden at den behøver at forelægges Kongen;<lb />
+dog ubfordres dertil: 1) at Beslutningen hver<lb />
+Gang er vedtagen mindst med ⅔ af de afgivne<lb />
+Stemmer, enten i begge Afdelinger eller<lb />
+paa den forenede Rigsdag; 2) at der til Folkethinget, som uforandret har vedtaget Beslutningen, idetmindste een Gang er foregaaet nye<lb />
+Valg, og 3) at der mellem 1 ste og 3die Vedtagelse ikke er hengaaet længere Tid end 5 Aar.<lb />
+Til Grundlovsforandringer udfordres altid Kongens Samtykke.<lb />
+<law n="44" >§ 44.<lb /></law>
+Som Udkastet.<lb />
+</p>
+</rightside>
+</pb>

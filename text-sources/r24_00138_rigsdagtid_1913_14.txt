@@ -1,0 +1,66 @@
+3611
+<pb n="138">
+<h>
+<coll>
+3611
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3612
+</colr>
+</h>
+<title rend="chapter">Kapitel 53.</title>
+<title rend="subtitle">
+Retsmidlerne imod de til Dommes tvungne Fuldbyrdelse henhørende<lb />
+Fogedforretninger m. m.
+</title>
+<lowtitle>§ 593.</lowtitle>
+<p>
+Klager over Fogedforretninger, som vedrøre selve den Fordring eller Ret, om<lb />
+hvis Fuldbyrdelse der er Spørgsmaal, gøres gældende ved Anke til den Landsret, under<lb />
+hvilken Fogden staar. Har den, der vil rejse saadan Anke, tillige Klager af den denne<lb />
+Paragrafs 2det Stykke angivne Beskaffenhed, blive disse at inddrage under Anken.
+</p>
+<p>
+Klager, der alene angaa de processuelle Betingelser for Fogedforretningen eller<lb />
+den ved samme brugte Fremgangsmaade, gøres gældende ved Kære til den Landsret,<lb />
+under hvilken Fogden staar.
+</p>
+<lowtitle>§ 594.</lowtitle>
+<p>
+Under Ankesagen eller Kæremaalet er den for Fogden stedfundne Procedure<lb />
+ikke bindende, og der er endog intet til Hinder for, at ny Paastande fremsættes. Dog<lb />
+kunne Parterne ikke tilbagekalde de af dem for Fogden afgivne, Fogedbogen eller Auk-<lb />
+tionsbogen tilførte, Erklæringer med Hensyn til Sagens Sammenhæng.
+</p>
+<p>
+I øvrigt gælde de om Anke og Kære fra Underret til Landsret givne Regler med<lb />
+de Lempelser, der følge af Forholdets Natur.
+</p>
+<lowtitle>§ 595.</lowtitle>
+<p>
+Anke fra Landsret til Højesteret i de her omhandlede Tilfælde finder kun Sted,<lb />
+naar den Fordring, i Anledning af hvilken Eksekution er sket, har været Genstand for<lb />
+Landsrettens Afgørelse i første Instans eller dog ifølge sin Beskaffenhed i Tilfælde af<lb />
+Retstvist vilde henhøre under samme. Dog kan, om end Fordringen ikke er af den anførte<lb />
+Beskaffenhed, Justitsministeren tillade, at Sagen undtagelsesvis indbringes for Højesteret.<lb />
+Andragende herom maa fremsættes inden den i § 397 nævnte Frist.
+</p>
+<p>
+Om Anken til Højesteret gælde de almindelige Regler i Kapitel 36.
+</p>
+<p>
+Landsrettens Afgørelse i Anledning af Kære er ikke Genstand for yderligere<lb />
+Kære til Højesteret, medmindre Justitsministeren undtagelsesvis meddeler Tilladelse hertil
+</p>
+<title rend="part">Fjerde Afsnit.</title>
+<title>Udpantning samt Indsættelses- og Udsættelsesforretninger.</title>
+<title rend="chapter">Kapitel 54</title>
+<title rend="subtitle">Udpantning.</title>
+<lowtitle>§ 596.</lowtitle>
+<p>
+Udpantning kan kun finde Sted i de i Lov om Udpantning m. m. af 29. Marts<lb />
+1873 § 1 og senere Love nævnte Tilfælde samt
+</p>
+
+</pb>

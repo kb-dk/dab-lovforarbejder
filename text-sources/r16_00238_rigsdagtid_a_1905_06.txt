@@ -1,0 +1,81 @@
+2379
+<pb n="238" />
+<h>
+<coll>
+2379
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2380
+</colr>
+</h>
+<p>
+Register<lb />
+til<lb />
+LOv om Rettens Pleje.
+</p>
+<p>
+Paragraf.
+</p>
+<p>
+Første Bog: Domsmagten m. m.
+</p>
+<p>
+Første Afsnit: Domstolenes Ordning:
+</p>
+<p>
+Kap. 1: Retterne 			 		1-22
+</p>
+<p>
+Kap. 2: Retsmøder		23—34
+</p>
+<p>
+Kap. 3: Retsbøger		35—43
+</p>
+<p>
+Kap. 4: Dommere, Retsskrivere, Retsvidner og Retsbude m. m. ...	44—61
+</p>
+<p>
+Kap. 5: Tilfælde, hvor Rettens Personer skulle eller kunne vige<lb />
+deres Sæde		62—69
+</p>
+<p>
+Andet Afsnit: Nævningers Kaldelse:
+</p>
+<p>
+Kap. 6: Almindelige Bestemmelser	 		70—74
+</p>
+<p>
+Kap. 7: Grundlister		75—79
+</p>
+<p>
+Kap. 8: Nævningekredsens Aarsliste			80—84
+</p>
+<p>
+Kap. 9: Nævninger for det enkelte Ting		85—100
+</p>
+<p>
+Tredie Afsnit: Anklagemyndigheden:
+</p>
+<p>
+Kap. 10		101-109
+</p>
+<p>
+Fjerde Afsnit: Politimyndigheden:
+</p>
+<p>
+Kap. 11					 	110-116
+</p>
+<p>
+Femte Afsnit: Sagførere:
+</p>
+<p>
+Kap. 12: Sagføreres Beskikkelse og Adgang til at benytte Fuld-<lb />
+mægtig m. m		117—-128
+</p>
+<p>
+Kap. 13: Sagføreres Rettigheder og Pligter		129—134
+</p>
+<p>
+Kap. 14: Ophør af Retten til Sagførervirksomhed		135—l36
+</p>

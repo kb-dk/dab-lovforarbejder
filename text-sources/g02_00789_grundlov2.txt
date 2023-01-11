@@ -1,0 +1,142 @@
+3051
+<pb n="789" >
+<p rend="page">789</p>
+<h>
+<coll>3051</coll>
+<colr>3052</colr><lb />
+Den endelige Behandling af Grundlovsudkastet. § 2.<lb />
+</h>
+<leftside>
+<p>
+12) Schacks 3die Biforslag: „§ 2 flyttes hen til §§ 64—66."<lb />
+forkastedes med 86 Stemmer mod 31<lb />
+13) Udvalgets Forslag: „At Ordene „som den, hvori den overveiende Deel af Folket befinder sig, at ansee som" udgaae."<lb />
+vedtoges med 82 Stemmer mod 47.<lb />
+14) Udvalgets Forslag: „At Ordene „og nyder, som saadan, Understøttelse af Staten" ombyttes med „og understøttes som saadam, af Staten"."<lb />
+vedtoges med 104 Stemmer mod 22.<lb />
+</p>
+<p>
+Som Følge heraf blev der ikke Spørgsmaal om at afstemme over<lb />
+15) Udkastet (sammenlign Frølunds Hovedforslag: „At Paragraphen gaaer ud."): Den evangelisk-lutherske Kirke er, som den,<lb />
+hvori den overveiende Deel af Folket befinder sig, at ansee som<lb />
+den danske Folkekirke og nyder, som saadem, Understøttelse af<lb />
+Staten.<lb />
+</p>
+<p>
+Derimod blev, da den efter de forudgaaede Afstemninger omredigerede Paragraph, saaledes lydende:<lb />
+</p>
+<p>
+„Den evangelisk-lutherske Kirke er den danske Folkekirke og<lb />
+understøttes, som saaden, af Staten."<lb />
+sattes under Afstemning, denne vedtagen med 113 Stemmer mod 11.<lb />
+</p>
+<p>
+Man gik derpaa over til Grundlovsudkastets § 6, hvortil Afstemningslisten indeholder Følgende:<lb />
+16) Grundtvigs og Grams Forslag: „Kongen skal høre til den<lb />
+danske Folkekirke,"<lb />
+17) Udkastet: Kongen skal høre til den evangelisk-lutherske Kirke.<lb />
+(Sammenlign Forslag af Winther, Boisen, Leth og Barfod: Paragraphen udgaaer,")<lb />
+Da Ingen begjerede Ordet, skred man til Afstemning, hvorved<lb />
+16)Grundtvigs og Grams Forslag: „Kongen skal høre til den<lb />
+danske Folkekirke."<lb />
+forkastedes med 74 Stemmer mod 41.<lb />
+17) Udkastet: „Kongen skal høre til den evangelisk-lutherske Kirke."<lb />
+(Sammenlign Forslag af Winther, Boisen, Let hog Barfod: „Paragraphen udgaaer.")<lb />
+blev, idet der over samme var begjert Afstemning ved Navneopraab</p>
+af:<lb />
+<px>
+Barfod.	M. Rasmussen.<lb />
+Dinsen.	F. Johannsen.<lb />
+H Ghristensen.	Hækkerup.<lb />
+Grundtvig.	Fløe.<lb />
+L. Hansen.	Jungersen.<lb />
+R. Møller.	Olesen.<lb />
+Winther.	Chr. Larsen.<lb />
+Stender.<lb />
+saaledes som det af Redenstaaende fremgaaer, vedtaget med 106<lb />
+Stemmer mod 26.<lb />
+</px>
+<px>
+Ja.<lb />
+G Aagaard.	H. V. Bruun.<lb />
+U. Aagaard.	M. P. Bruun.<lb />
+Andresen.	P. D. Bruun.<lb />
+Andræ.	Buchwaldt.<lb />
+Bagger.	Buntzen.<lb />
+Bergmann.	Cederfeld de Simonsen.<lb />
+Bjerring.	Balthazar Christensen.<lb />
+Black.	H. Christensen.<lb />
+Bluhme.	la Cour.<lb />
+Brandt.	Dahl.<lb />
+Bregendahl.	Dahlerup.<lb />
+</px>
+</leftside>
+<rightside>
+<px>
+David.	Neergaard.<lb />
+Fibiger.	H. C. Nielsen.<lb />
+Funder.	Nyholm.<lb />
+Gudmundsson.	Nørgaard.<lb />
+Hage.	Olesen.<lb />
+Hall.	Olrik.<lb />
+Hammerich.	Ostenfeldt.<lb />
+H. P. Hansen.	Ostermann.<lb />
+Mørk Hansen.	Otterstrøm.<lb />
+N. Hansen.	Pape.<lb />
+P. Hansen.	Cornelius Pedersen.<lb />
+Hasselbalch.	J. Pedersen.<lb />
+Hastrup.	P. Pedersen.<lb />
+v. Haven.	B. Petersen.<lb />
+Hermansen.	C. N. Petersen.<lb />
+Hiort.	Pjetursson.<lb />
+Holck.	Pløyen.<lb />
+Hunderup.	J. Rasmussen.<lb />
+Hækkerup.	Scavenius.<lb />
+Jacobsen.	Schiern.<lb />
+Jacobæus.	Schurmann.<lb />
+C. M. Jespersen.	Schytte.<lb />
+N. F. Jespersen.	Brinck-Seidelin.<lb />
+F. Johannsen.	Sidenius.<lb />
+H. Johansen.	Sigurdsson.<lb />
+Johnsen.	Stender.<lb />
+Sehestedt-Juul.	Tang.<lb />
+Kirk.	Thalbitzer.<lb />
+Knuth. Theilmann.<lb />
+Krieger.	Tobiesen<lb />
+Køster.	Tscherning.<lb />
+J. E. Larsen.	Tuxen.<lb />
+Linnemann.	Tvede.<lb />
+Lorck.	Algreen-Ussing.<lb />
+Lüttichau.	W. Ussing.<lb />
+Lützhøft.	Wegener.<lb />
+Madsen.	Westergaard.<lb />
+Marckmann.	Bisby.<lb />
+Mundt.	With.<lb />
+Paludan-Müller.	Wulff.<lb />
+Tage Müller.	Zeuthen.<lb />
+Mynster.	Ørsted.<lb />
+</px>
+<px>
+Nei.<lb />
+Barsod.	Jungersen.<lb />
+Boisen.	Jørgensen.<lb />
+G. Christensen.	Kayser.<lb />
+Colding.	Chr. Larsen.<lb />
+Dinsen.	R. N. Møller.<lb />
+Fløe.	N. H. Nielsen.<lb />
+Frølund.	Ploug.<lb />
+Gleerup.	H. Rasmussen.<lb />
+Gregersen.	M. Rasmussen<lb />
+J. A. Hansen.	Rée.<lb />
+L. Hansen.	Schack.<lb />
+Høier.	Schroll.<lb />
+Fr. Jespersen.	Winther.<lb />
+</px>
+<morenext>
+(Fortsættes.)<lb />
+</morenext>
+</rightside>
+<underpage>
+Trykt og forlagt af Kgl. Høibogtrykler Bianco Luno<lb />
+</underpage>
+</pb>

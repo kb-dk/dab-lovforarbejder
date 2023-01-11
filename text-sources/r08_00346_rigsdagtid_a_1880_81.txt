@@ -1,0 +1,85 @@
+4057
+<pb n="346" />
+<h>
+<coll>4057</coll>
+<topmidle>Bil. t. Lovs. om Retsafgifter m. m.</topmidle>
+<colr>4058</colr>
+</h>
+<leftside>
+<p>I § 95 gives Reglerne om Betaling for<lb />
+læsning til Kirkestævne. ogsaa her har man<lb />
+holdt sig til den gjoeldende Regel i Tportelregle-<lb />
+mentets § 147 med en ringe ForhMlse.</p>
+<p>Ved Fastsættelsen af Vederlaget ul Vidner<lb />
+ved Boers Behandling har man i § 96 sluttet<lb />
+sig til Skiftegebyrtoven af 30te Nov. 1874 og<lb />
+optagen Reglen i sammes § 7 og § 8, Iste<lb />
+Stykke. En lianende Bestemmelse er i § 97 op-<lb />
+taget angaaende Betalingen til Vidner ved Exe-<lb />
+tutions-, Udpantnings-, Indsættelses- og Udscet-<lb />
+telses-, Arrest- og Forbudsforretninger — ved<lb />
+Tvangsauktioner er i Henhold til Udkast til Lov<lb />
+om dcn borgerlige Retspleie Z 498 Vidners Til-<lb />
+stedeværtlse ufornpden. Betalingen er ikke meget<lb />
+forHøiet fra den ifølge SportelreglementetZ § 149<lb />
+og Lov om Udpantning m. m. af 29de Marts<lb />
+1873 § 14 gjældende, og navnlig har man bibe-<lb />
+holdt den nedsætte Betaling til Vidnerne ved Ud-<lb />
+pantningsforretninger, som foretages af søgne-<lb />
+fogden.</p>
+<p>Reglen i § 98 er tidligere omtalt. — Den<lb />
+i § 99 fastsætte Betaling er sat saa lavt, fordi<lb />
+den ittun har Hensyn til de almindelige Syns-<lb />
+forretninger, der ikke kræve fcrrlige Forkundskaber;<lb />
+i Henhold til Udkastene til Lov om den borger-<lb />
+lige Retspleie § 228 og nl Lov om Strafferets-<lb />
+pleien § > 64 staar det i Rettens Formands Haand<lb />
+at fortMe Betalingen, naar Forretningen har<lb />
+udkrævet færlig MM eller Tidsanvendelse eller<lb />
+særegne Forkundskaber.</p>
+</leftside>
+<rightside>
+<title>Sjette Afsnit.</title>
+<undertitle>Slutningsbestemmelser.</undertitle>
+<p>Forsirifterne angaaende Kontrolen med<lb />
+Retsafgifternes rigtige Indgang og de Tvangs-<lb />
+bestemmelser, som disses Overholdelse udkræer,<lb />
+egne sig formentlig ikke til at fastsættes ved Lov.<lb />
+Man har derfor, ligesom Tilfældet er ved Lov<lb />
+om Betalingen for de til Skiftevcefenet hørende<lb />
+Forretninger af 30te Nov. 1874 § 5, i § 101<lb />
+foreslaaet, at de skulle træffes ved kgl. Anordning.</p>
+<p>I Henhold til, hvad der tidligere er bemær-<lb />
+ket om ncrrværende Udkasts Omraade, er det be-<lb />
+stemt til at omsatte hele Retsfvortellovgivningen,<lb />
+og i Overensstemmelse hermed ophæves ved §<lb />
+102 alle de paa dette Dmraade hidtil gjældende<lb />
+Love.</p>
+<p>med Henfyn til Ophaevelsen af Stempello-<lb />
+vens § 71 og Indskrænkningen af fammes § 72<lb />
+henvifts til Bemærkningerne ovenfor Sp. 4026 — 28.</p>
+<p>Reglen i § 103 ftlger af Bestemmelserne i<lb />
+Udkast til Lov om den borgerlige Retspleie § 652<lb />
+og Udlast til Lov om Strasseretspleien § 489,<lb />
+2det Stykke.</p>
+<p>Til Sammenligning undlader Kommissionen<lb />
+ikke sluttelig at meddele nedenstaaende Oversigt<lb />
+over, hvorledes Størrelsen af Retsafgifterne vil<lb />
+stille sig efter Udkastet, sammenlignet med den<lb />
+gjældende Ret, hvilken Oversigt er udarbeidet paa<lb />
+Grundlag as Indberetninger fra samtlige Rets-<lb />
+betjente for Finantsaaret 1876—77:</p>
+</rightside>
+<table>
+<tr><td>-</td><td>Efter den gjældende Sportellov-givning</td><td>Efter kommissionens forslag</td></tr>
+<tr><td></td><td>kr</td><td>kr</td></tr>
+<tr><td>1)  Egentlige Retshandlinger...........................</td><td>c.     147.600.</td><td>c.     203,000.</td></tr>
+<tr><td>2)  Fogedforretninger.    45,666...........................<lb />
+3)  Auktioner.......  691,858</td><td>c.     737,500.</td><td>c.       87,500.</td></tr>
+<tr><td>4)  Skifteafgifter.........................................</td><td>c.     277,990.</td><td>c.    277,900.</td></tr>
+<tr><td>5)  Thingltrsninger........................................</td><td>c.     738,200.</td><td>c.     387,000.</td></tr>
+<tr><td>6)  Noiarialforretmnger....................................</td><td>c,       62.300.</td><td>c.       52,000.</td></tr>
+<tr><td>7) Andre Sportler og Gebyrer............................</td><td>c.       17,400.</td><td>c.      17,400.</td></tr>
+<tr><td>Ialt...</td><td>c. 1.980,900.</td><td>c. ,,024,800.</td></tr>
+</table>
+<p>a'tsaa en Mindreindtægt af c. 956,000 Kr.</p>

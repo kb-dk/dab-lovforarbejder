@@ -1,0 +1,79 @@
+3347
+<pb n="69" />
+<h>
+<coll>3347</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3348</colr>
+</h>
+<p>
+Resultaterne af den fornyede Behandling af Meddomsretssager ved Lagmandsret
+vare følgende:
+</p>
+<table>
+<row>
+	1892.	1893.
+</row>
+<row>
+Antallet af Personer, der have faaet samme Dom ved Lagmands-	64	56
+</row>
+<row>
+Antallet af Personer, hvis Straf er blevet skærpet ved Lag-	77	75
+</row>
+<row>
+Antallet af Personer, hvis Straf er blevet formildet ved Lag-	47	38
+</row>
+<row>
+Antallet af Personer, der vare frifundne ved Underret, men ere<lb />
+domfældte ved Lagmandsret				...	9	8
+</row>
+<row>
+Antallet af Personer, der vare domfældte ved Underret, men<lb />
+ere frifundne ved Lagmandsret		46	71
+</row>
+</table>
+<p>
+Herved bemærkes, at ikke ganske sjældent er Frifindelsespaastand nedlagt af<lb />
+Paatalemyndigheden.
+</p>
+<p>
+Antallet og Varigheden af Lagmandsting (o: Ting til Behandling af Nævninge-<lb />
+sager) har været følgende:
+</p>
+<p>
+Antallet af Ting i Oslo (Kristiania) Lagsogn har i hvert af Aarene 1892 og<lb />
+1893 været 24. Disse Tings samlede Varighed udgjorde henholdsvis 178 og 161 Dage,<lb />
+og den gennemsnitlige Varighed af det enkelte Ting har altsaa været c. 7 Dage.
+</p>
+<p>
+Antallet af Ting i hvert af de øvrige 16 Lagsogne har været mellem 3 og 6<lb />
+aarlig (i Tromsø og Finmarken dog kun 2 i 1893). Hvert Ting har gennemsnitlig<lb />
+varet c. 5 Dage.
+</p>
+<p>
+Til hver Domsforhandling for Lagmandsret er der — hele Landet taget under<lb />
+eet — gennemsnitlig medgaaet l 1/4 Dag i 1892 og 1 Dag i 1893.
+</p>
+<p>
+Særlig Bevisførelse, i Medfør af §§ 296 og 297, forud for Domsforhandlingen<lb />
+(Hovedforhandlingen) i Stedet for ved denne har i 1892 fundet Sted i 11 Lagmands-<lb />
+retssager og 18 Meddomsretssager (deraf 6 Politisager) og 1893 i 8 Lagmandsretssager<lb />
+og 24 Meddomsretssager (deraf 8 Politisager).
+</p>
+<table>
+<row>
+	1892.	1893.
+</row>
+<row>
+Antallet af Paagribelser (Anholdelser) har været			1,457	1,792
+</row>
+<row>
+deraf i Henhold til Bettens Beslutning		128	69
+</row>
+<row>
+Antallet af Tilfælde, hvori Løsladelse har fundet Sted mod         1,251	1,624
+</row>
+<row>
+Sikkerhedsstillelse eller paa andre Vilkaar (før eller efter<lb />
+Fængslingskendelse) har været		95	95
+</row>
+</table>

@@ -1,0 +1,76 @@
+2279
+<pb n="188" />
+<h>
+<coll>
+2279
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2280
+</colr>
+</h>
+<p>
+I en Paategning paa Anklageskriftet skal derhos angives det Ting (Samling og<lb />
+Tingsted), paa hvilket Domsforhandlingen ventes foretagen, og om denne skal foregaa<lb />
+for Nævninger eller ikke. Det bør iagttages, at det tidligste Ting vælges, som Om-<lb />
+stændighederne tillade.
+</p>
+<wtitle>§ 807.</wtitle>
+<p>
+Anklageskriftet indleveres paa Landsrettens Kontor; ved dets Indlevering er<lb />
+Sagen tingfæstet.
+</p>
+<p>
+Overanklageren foranstalter uden Ophold en Genpart af Anklageskriftet for-<lb />
+kyndt for Tiltalte. Ved Forkyndelsen afæskes der ham Erklæring, om han har antaget<lb />
+eller begærer beskikket en Forsvarer. Saa snart Forkyndelsen er sket, skal Over-<lb />
+anklageren, saafremt Beskikkelse af Forsvarer er paabudt i Loven eller er begært af<lb />
+Tiltalte eller af Overanklageren antages at burde finde Sted, gøre fornøden Henstilling<lb />
+herom til Betten.
+</p>
+<p>
+Om Beskikkelsen af Forsvarer meddeles Underretning til Overanklageren og<lb />
+Tiltalte. Overanklageren meddeler Forsvareren Genpart af Anklageskriftet,
+</p>
+<wtitle>§ 808.</wtitle>
+<p>
+Vil Overanklageren inden Domsforhandlingen enten udvide Tiltalen til andre<lb />
+strafbare Forhold end de i Anklageskriftet nævnte eller berigtige Angivelser i Anklage-<lb />
+skriftet, maa dette ske ved Indlevering og Forkyndelse af yderligere eller nyt An-<lb />
+klageskrift.
+</p>
+<p>
+Under Domsforhandlingen kan Udvidelse af Tiltalen til andre strafbare For-<lb />
+hold ske med Rettens Samtykke, naar Tiltalte indvilger deri, saa og naar det Forhold,<lb />
+som der er Spørgsmaal om at inddrage, er begaaet under selve Domsforhandlingen.<lb />
+Udvidelsen sker efter Rettens Bestemmelse ved Tilføjelse paa Anklageskriftet eller<lb />
+Tilførsel i Retsbogen; det samme gælder om Berigtigelser, som Overanklageren under<lb />
+Domsforhandlingen foretager i Anklageskriftets Angivelser.
+</p>
+<p>
+Hvis Tiltalte ikke indvilger i Tiltalens Udvidelse, maa der imod ham rejses<lb />
+ny Sag, under hvilken Straffelovens § 64 da kommer til analogisk Anvendelse.
+</p>
+<wtitle>§ 809.</wtitle>
+<p>
+Samtidigt med Indleveringen af Anklageskriftet eller snarest muligt derefter<lb />
+skal Overanklageren paa Rettens Kontor indlevere en Udskrift af de i Sagen fore-<lb />
+tagne retslige Undersøgelses- og Bevishandlinger, ledsaget af Sagens øvrige Doku-<lb />
+menter og andre synlige Bevismidler, samt en Fortegnelse over de Beviser, som agtes<lb />
+fremførte, med kort Angivelse af, hvad dermed agtes godtgjort. Vidner og Syns-<lb />
+eller Skønsmænd skulle betegnes med Navn og hvad der i øvrigt maatte udkræves til<lb />
+deres nøjagtige Betegnelse, under Opgivende af, om de agtes afhørte under Domsfor-<lb />
+handlingen eller ved en Undersøgelsesret, eller om allerede afgivne Forklaringer agtes<lb />
+benyttede. Ønskes noget Vidnes Mødepligt udvidet (§ 160), eller ønskes Syns- eller<lb />
+Skønsmænd udmeldte, fremsættes fornøden Begæring herom til Retten.
+</p>
+<p>
+Det bør iagttages, at ikke flere Vidner end fornødent indkaldes, hvorved sær-<lb />
+lig bliver at tage Hensyn til, om Tiltalte for Retten har afgivet en fuldstændig og tro-<lb />
+værdig Tilstaaelse.
+</p>
+<wtitle>§ 810.</wtitle>
+<p>
+En Genpart af Bevisfortegnelsen foranstaltes af Overanklageren uden Op-<lb />
+hold meddelt Forsvareren eller forkyndt for Tiltalte, saafremt han ikke har nogen
+</p>

@@ -1,0 +1,69 @@
+3773
+<pb n="67"/>
+<h>
+<coll>3773</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3774</colr>
+</h>
+<p>
+Underretten paa det Sted. hvor den edspligtige bor eller opholder sig, tilstiller ved-<lb />
+kommende Part snarest muligt den Ret, der har afsagt Edsdommen, en Udskrift af
+</p>
+<p>
+Edssagen. Sidstnævnte Ret afgør da, efter, saa vidt dertil findes Anledning, at have<lb />
+givet Parterne Lejlighed til at ytre sig, hvilket af de i Edsdommen nævnte Alterna-<lb />
+tiver der skal staa ved Magt, eller om der, hvor den i Edsdommen som Alternativ<lb />
+bestemte Edsaflæggelse ikke kan finde Sted, skal gives en ny Dom. Denne Afgørelse<lb />
+er den endelige Dom i Sagen, og fra den regnes Fuldbyrdelsesfristen samt Ankefristen
+</p>
+<title>Kapitel 27.</title>
+<undertitle>
+Sagsomkostninger og Rettergangsbøder.
+</undertitle>
+<wtitle>§ 288.</wtitle>
+<p>
+Enhver Part har at betale de Omkostninger, som foranlediges ved processuelle<lb />
+Skridt, der af ham begæres eller sættes i Bevægelse, dog med Forbehold af Ret til at<lb />
+faa dem erstattede af Modparten ifølge nedenstaaende Regler.
+</p>
+<p>
+Omkostningerne ved processuelle Skridt, som Retten anordner, kunne foreløbig<lb />
+kræves betalte enten af den Part, i hvis Interesse Retten anser det foretagne at være,<lb />
+eller af begge Parter i det Forhold, som Retten bestemmer.
+</p>
+<wtitle>§ 289.</wtitle>
+<p>
+Den tabende Part er pligtig at erstatte Modparten de ham ved Retssagen paa-<lb />
+førte Udgifter, for saa vidt Parterne ikke selv have truffet en anden Overenskomst,<lb />
+eller Retten i særlige Omstændigheder finder skellig Grund til at gøre Afvigelse fra<lb />
+denne Regel.
+</p>
+<p>
+Udgifter, der ikke have været hensigtsmæssige for Sagens forsvarlige Udførelse,<lb />
+erstattes ikke. Hvilke Udgifter der i det givne Tilfælde have været hensigtsmæssige,<lb />
+afgør Retten efter sit Skøn. Beløbet ansættes under eet til en rund Sum, saaledes at<lb />
+Udgift til Sagførersalær erstattes med et passende Beløb, og øvrige Udgifter saa vidt<lb />
+muligt erstattes fuldt ud. Tilkendelse af Sagens Omkostninger skadesløst eller efter<lb />
+Regning eller overhovedet paa anden Maade end med et bestemt, i Dommen fastsat<lb />
+Beløb kan saaledes ikke finde Sted, selv om der derom foreligger Overenskomst<lb />
+mellem Parterne.
+</p>
+<p>
+Den Omstændighed, at enkelte Søgsmaalsgrunde eller Indsigelser forkastes, eller<lb />
+enkelte Beviser anses ikke at oplyse noget i Sagen, medfører ikke i og for sig, at de<lb />
+herpaa anvendte Udgifter skulle som ikke fornødne udelukkes fra Erstatning.
+</p>
+<p>
+Naar en Sag hæves, kan Retten efter Omstændighederne paalægge den ene<lb />
+Part helt eller delvis at erstatte Modparten dennes Sagsomkostninger eller bestemme,<lb />
+at hver af Parterne skal bære sine Omkostninger (ophæve Omkostningerne).
+</p>
+<p>
+Har Sagsøgte lovlig tilbudt Sagsøgeren, hvad der kan tilkomme denne, bør<lb />
+Sagsøgeren erstatte Sagsøgte Udgifterne ved den derefter følgende Del af Processen.
+</p>
+<wtitle>§ 290.</wtitle>
+<p>
+Naar Sagen i det hele afvises, betragtes den med Hensyn til Sagsomkost-<lb />
+ninger som tabt af Sagsøgeren.
+</p>

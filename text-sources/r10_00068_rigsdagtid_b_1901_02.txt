@@ -1,0 +1,142 @@
+2849
+<pb n="68" />
+<h>
+<coll>2849</coll>
+<topmidle>
+Kommissionens Bem. t. Udk. t. L. om den borgerlige Retspleje.
+</topmidle>
+<colr>2850</colr>
+</h>
+<leftside>
+<p>
+har afslaaet Begæringen derom, i Henhold<lb />
+til nysangivne Betragtning være berettiget<lb />
+til ogsaa at lægge Omkostningerne ved<lb />
+Landsretsbehandlingen over paa det of-<lb />
+fentlige.<lb />
+</p>
+<p>
+I øvrigt kan bemærkes, at Adgangen<lb />
+til at faa fri Proces ifølge Kapitel XII<lb />
+ogsaa maa gælde for de i nærværende<lb />
+Kapitel omhandlede Sager.<lb />
+</p>
+<title>
+Kapitel XXVIII.<lb />
+</title>
+<undertitle>
+Fremgangsmaaden ved at erhverve Morti-<lb />
+fications- eller Ejendomsdom.<lb />
+</undertitle>
+<p>
+Som bemærket i Motiverne til det tid-<lb />
+ligere Udkast maa Overgangen til det ny<lb />
+Processystem medføre nogle Forandringer<lb />
+i de hidtil gældende Regler om den for-<lb />
+melle Fremgangsmaade, der bliver at følge<lb />
+i Mortifikationssager. Derimod er der ikke<lb />
+Grund til at gribe ind i de bestaaende<lb />
+Regler om, hvem der kan søge Mortifika-<lb />
+tion, og hvilke Dokumenter der kunne mor-<lb />
+tificeres, eller angaaende Retsvirkningerne<lb />
+af Mortifikation, idet Spørgsmaalet herom<lb />
+falder uden for Civilprocessen og maa af-<lb />
+gøres efter Hensyn, der ere uafhængige<lb />
+af den gældende Procesform. Bestemmel-<lb />
+serne i det foreliggende Kapitel angaa<lb />
+derhos — som allerede antydet i dets<lb />
+Overskrift — kun de Tilfælde, i hvilke<lb />
+Mortifikationen er betinget af forudgaaende<lb />
+retslig Forfølgning og Dom, medens den<lb />
+Række Lovbud, der give Adgang til at op-<lb />
+naa Mortifikation uden Iagttagelse af saa-<lb />
+dan Fremgangsmaade, t. Eks. med Hensyn<lb />
+til Sparekassebøger, i det hele blive ube-<lb />
+rørte af Udkastets Bestemmelser.<lb />
+</p>
+<p>
+Af de Forandringer i de paa dette<lb />
+Omraade gældende Regler, som det tidli-<lb />
+gere Forslag indeholdt, og som ere bibe-<lb />
+holdte her. er den væsentligste Bestem-<lb />
+melsen i § 315, der henviser Afgørelsen af<lb />
+det Spørgsmaal, om Mortifikationsstævning<lb />
+maa udstedes, til Retskendelse i Stedet for<lb />
+som hidtil til Administrationens Afgørelse,<lb />
+en Forandring, der stemmer med det i<lb />
+øvrigt af Udkastet fulgte System og heller<lb />
+ikke er uden Forbillede i den gældende<lb />
+Ret, se Lov om Oplagshuse af 23de Fe-<lb />
+bruar 1866 § 9, Sølovens § 167 og Fri-<lb />
+havnsoplagsbevis-Loven af 30te Marts 1894<lb />
+§ l5.<lb />
+</p>
+<p>
+Fra det tidligere Forslag adskiller<lb />
+nærværende Kapitel sig derved, at Morti-<lb />
+fikationssager angaaende Obligationer med<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+Pant i fast Ejendom, som oven for ved § 2<lb />
+omtalt, ere henlagte til Underret, medens<lb />
+man i øvrigt har bibeholdt det tidligere<lb />
+Forslags Regel om, at Mortifikations- og<lb />
+Ejendomsdom skal søges ved Landsret. —<lb />
+Fremdeles ere forskellige i nyere Love<lb />
+indeholdte særlige Regler udtrykkelig holdte<lb />
+i Kraft (se § 314, 2det Stykke og 3die<lb />
+Stykke, 2det Punktum, samt § 322, 2det<lb />
+Stykke). I § 317 ere Udtrykkene ændrede<lb />
+saaledes, at der gives Anvisning paa, efter<lb />
+Omstændigheder at nøjes med en skriftlig<lb />
+Erklæring fra den, der søger Mortifikation,<lb />
+for at denne ikke uden Nødvendighed skal<lb />
+blive nødt til at foretage den maaske lange<lb />
+Rejse til Landsretten. — Det tidligere For-<lb />
+slags § 425 er udgaaet som overflødig ved<lb />
+Siden af den almindelige Regel i Udkastets<lb />
+§ 265, jfr. § 289. — Endelig er det i §<lb />
+320 (jfr. 321) udtalt, at, naar nogen møder<lb />
+og fremsætter Indsigelse mod Mortifika-<lb />
+tionen, skal Retten afgøre, om denne Ind-<lb />
+sigelse hindrer Mortifikationen eller ej, og<lb />
+i sidste Fald give Mortifikation. Den saa-<lb />
+ledes trufne Ordning synes mere konse-<lb />
+kvent og mere praktisk end det tidligere<lb />
+Forslags, hvorefter en fremsat Indsigelse<lb />
+bevirkede Optagelsen af et Forbehold i<lb />
+Mortifikationsdommen, der først bortfaldt,<lb />
+naar det under en særlig Sag var fast-<lb />
+slaaet, at Indsigelsen var ubegrundet.<lb />
+</p>
+<title>
+Fjerde Afsnit.<lb />
+</title>
+<undertitle>
+Eksekution og Tvangsauktion.<lb />
+</undertitle>
+<title>
+Kapitel XXIX—XXXII.<lb />
+</title>
+<undertitle>
+Eksekution.<lb />
+</undertitle>
+<p>
+I Motiverne til det tidligere Udkast,<lb />
+S.	180—182, jfr. S. 192, er udviklet, hvor-<lb />
+ledes den hos os bestaaende Ordning, ifølge<lb />
+hvilken Eksekution er en judiciel Akt, der<lb />
+foretages af en med selvstændig Jurisdik-<lb />
+tionsmyndighed udstyret Embedsmand (Fog-<lb />
+den), frembyder væsentlige Fordele i Sam-<lb />
+menligning saavel med den franske som<lb />
+med den tyske Lovgivnings Ordning af<lb />
+dette Emne. Endvidere fremhæves det (S.<lb />
+182—83), hvorledes Gennemførelsen af<lb />
+Mundtligheds- og Umiddelbarhedsprincipet,<lb />
+der for Domssagemes Vedkommende har<lb />
+maattet føre til en fuldstændig Omdan-
+</p>
+</rightside>

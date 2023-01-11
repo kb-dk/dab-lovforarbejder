@@ -1,0 +1,181 @@
+2175
+<pb n="44" />
+<p rend="page">44</p>
+<h>
+<coll>2175</coll>
+<colr>2176</colr><lb />
+<topmidle>Bet. o. Lovf. om Rettens Pleje.</topmidle>
+</h>
+<leftside>
+<stitle>
+Til§ 427.<lb />
+</stitle>
+<p>
+139) I 3die Stykke, 4de og 5te Linie<lb />
+rettes: „i øvrigt offentliggøre paa den<lb />
+Maade og" til: „at kundgøre i Statstidenden<lb />
+eller ved Kirkestævne".<lb />
+</p>
+<stitle>
+Til§ 440.<lb />
+</stitle>
+<p>
+140) I 3die—4de Linie rettes: „den<lb />
+almindelige . . . Bekendtgørelser" til „Stats-<lb />
+tidenden".<lb />
+</p>
+<stitle>
+Til§ 441.<lb />
+</stitle>
+<p>
+141) Ordene: „de offentlige Tidender"<lb />
+rettes til „Statstidenden".<lb />
+</p>
+<p>
+Af Flertallet under Nr. 6:<lb />
+</p>
+<p>
+142) Kapitel 42<lb />
+udgaar.<lb />
+</p>
+<p>
+Fjerde Afsnit.<lb />
+</p>
+<p>
+Øvrighedsforretninger, der hidtil have<lb />
+været Retsforretninger.<lb />
+</p>
+<p>
+143) Der vendes tilbage til Kommis-<lb />
+sionsforslagets fjerde til syvende Afsnit,<lb />
+og alle de herhen hørende Ændringer,<lb />
+der ere foretagne i det, foreslaas at udgaa.<lb />
+</p>
+<p>
+Derimod foretages i Kommissionsfor-<lb />
+slagets nævnte Afsnit, der følger trykt som<lb />
+Bilag, følgende Ændringer:<lb />
+</p>
+<stitle>
+Til§ 324.<lb />
+</stitle>
+<p>
+144) I Stykket Nr. 3) sættes efter „Vit-<lb />
+terlighedsvidner": „," i Stedet for „;", og<lb />
+derefter indskydes: „og Forfaldstiden er<lb />
+indtraadt enten paa Grund af Opsigelse,<lb />
+eller fordi det Tidspunkt, der i Pantebrevet<lb />
+er fastsat som Betalingstermin, er kommet,<lb />
+eller, for saa vidt saadan Følge udtrykke-<lb />
+lig er betinget i Pantebrevet, paa Grund<lb />
+af Udeblivelse med Renter".<lb />
+</p>
+<stitle>
+Til§ 325.<lb />
+</stitle>
+<p>
+145) I 2det Stykke ændres „Lov 19.<lb />
+Februar 1861" til: „Lov af 19. Februar<lb />
+1861".<lb />
+</p>
+<stitle>
+Til§ 327.<lb />
+</stitle>
+<p>
+146) Sidste Linie „2 Mile" forandres<lb />
+til „15 Kilometer".<lb />
+</p>
+<p>
+Til 8 328.<lb />
+</p>
+<p>
+147) „Procesomkostninger" ændres til<lb />
+„Sagsomkostninger".<lb />
+</p>
+</leftside>
+<rightside>
+<stitle>
+Til§ 331.<lb />
+</stitle>
+<p>
+148) I Slutningen tilføjes: „og de i<lb />
+§ 324 Nr. 4 nævnte Bodmeribreve".<lb />
+</p>
+<stitle>
+Til§ 333.<lb />
+</stitle>
+<p>
+149) I Stykke 1, Linie 4—5, ændres<lb />
+Ordene „er ved — 8 Uger" til: „er ved<lb />
+alle Retter 4 Uger, naar der ikke i Dom-<lb />
+men er fastsat en særlig Fuldbyrdelsesfrist".<lb />
+</p>
+<stitle>
+Til§ 341.<lb />
+</stitle>
+<p>
+150) I Linie 1 efter „Ting" indsættes:<lb />
+„eller et Barn". Efter „Tingen" i Linie 2<lb />
+og 3 indsættes: „eller Barnet".<lb />
+</p>
+<stitle>
+Til§ 345.<lb />
+</stitle>
+<p>
+151) I 1ste Stykke, Linie 5, „Fængsel"<lb />
+rettes til: „simpelt Fængsel".<lb />
+</p>
+<stitle>
+Til§ 349.<lb />
+</stitle>
+<p>
+152) I næstsidste Linie ændres „hvis"<lb />
+til: „naar disses".<lb />
+</p>
+<stitle>
+Til§ 354.<lb />
+</stitle>
+<p>
+153) I 1ste Stykke indskydes i 2den<lb />
+Linie foran „til": „, saa vidt Brugsretten<lb />
+rækker," og i 3die Linie foran „at paa-<lb />
+lægge": „eventuelt".<lb />
+</p>
+<p>
+154) I næstsidste Stykke ændres „paa-<lb />
+løbende" til „paaløbne".<lb />
+</p>
+<stitle>
+Til§ 355.<lb />
+</stitle>
+<p>
+155) „20 Kr." og „60 Kr." ændres til<lb />
+„25 Kr." og „75 Kr."<lb />
+</p>
+<stitle>
+Til§ 357.<lb />
+</stitle>
+<p>
+156) Som et nyt Punktum i 3die<lb />
+Stykkes Slutning tilføjes:<lb />
+</p>
+<p>
+„Som Følge heraf kan Udlæg ikke<lb />
+gøres i ikke forfalden Tyende- eller Ar-<lb />
+bejdsløn".<lb />
+</p>
+<stitle>
+Til§ 359.<lb />
+</stitle>
+<p>
+157) Ordene „forfalden" og „forfaldne"<lb />
+ændres til: „udbetalt" og „udbetalte".<lb />
+</p>
+<stitle>
+Til§ 360.<lb />
+</stitle>
+<p>
+158) Under Nr. 1 ændres „Lov 21de<lb />
+Marts 1874" til: „Lov af 21de Marts 1874".<lb />
+</p>
+</rightside>

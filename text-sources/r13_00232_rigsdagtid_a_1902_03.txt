@@ -1,0 +1,81 @@
+2191
+<pb n="232" />
+<h>
+<coll>
+2191
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2192
+</colr>
+</h>
+<p>
+1.	naar det ifølge en Tilstaaelse, Tiltalte senere har afgivet, eller andre Beviser,<lb />
+der senere ere komne for Dagen, maa antages, at han har begaaet Forbrydelsen;
+</p>
+<p>
+2.	naar falske Forklaringer eller Erklæringer ere afgivne under Sagen af Vidner<lb />
+eller Syns- eller Skønsmænd, eller falske eller forfalskede Dokumenter ere benyttede<lb />
+under samme, eller noget strafbart Forhold, sigtende til at paavirke eller bestemme<lb />
+Sagens Udfald, er udvist enten af Tiltalte eller af nogen, der i Medfør af sit Embede<lb />
+eller offentligt Hverv har medvirket ved Sagens Behandling, og der efter Omstændig-<lb />
+hederne er god Grund til at antage, at saadant har bevirket eller medvirket til, at<lb />
+Tiltalte har undgaaet Domfældelse.
+</p>
+<p>
+Under tilsvarende Betingelser kan Genoptagelse finde Sted, hvor Tiltalte paa-<lb />
+staas at have gjort sig skyldig i en væsentlig større Forbrydelse end den, hvorfor han<lb />
+er domfældt,
+</p>
+<wtitle>§  1024.</wtitle>
+<p>
+Paa Begæring af en Domfældt kan Genoptagelse af en ved en Landsret paa-<lb />
+dømt Sag finde Sted:
+</p>
+<p>
+1.	naar ny Oplysninger tilvejebringes, og det skønnes antageligt, at disse, om de<lb />
+havde foreligget under Sagen, kunde have bevirket Frifindelse eller Anvendelse af en<lb />
+væsentlig mildere Strafbestemmelse;
+</p>
+<p>
+2.	naar noget saadant Forhold oplyses som ommeldt i § 1023 Nr. 2 og det<lb />
+skønnes antageligt, at saadant kan have bevirket eller medvirket til Domfældelsen.
+</p>
+<p>
+Bestemmelserne i § 987, 2det og 3die Punktum, finde her tilsvarende An-<lb />
+vendelse.
+</p>
+<p>
+Komme Omstændigheder, som antages at give Tiltalte eller andre paa hans<lb />
+Vegne Føje til at andrage paa Sagens Genoptagelse, til Bettens eller Overanklagerens<lb />
+Kundskab, bør de derom underrette vedkommende.
+</p>
+<wtitle>§  1025.</wtitle>
+<p>
+Genoptagelse kan ikke finde Sted, saa længe Anke i Medfør af Lovens al-<lb />
+mindelige Regler staar aaben, eller saa længe en rejst Ankesag henstaar uafgjort.<lb />
+At Straffen er udstaaet, er ikke til Hinder for Genoptagelse.
+</p>
+<wtitle>§  1026.</wtitle>
+<p>
+Begæring om Genoptagelse fremsættes for den Landsret, der har paadømt<lb />
+Sagen, være sig i første Instans eller ifølge Anke; dette gælder, selv om Sagen ifølge<lb />
+Anke har været paakendt i Højesteret,
+</p>
+<p>
+Begæringen indgives skriftlig og maa angive de Omstændigheder, hvorpaa den<lb />
+støttes, og de Beviser, som formenes at skulle give Sagen et andet Udfald. Er Til-<lb />
+talte fængslet, kan hans Begæring fremsættes overensstemmende med § 898 til Under-<lb />
+søgelsesrettens Retsbog eller Fængselsbestyrerens Bog. Er Begæringen støttet psa<lb />
+nogen saadan Grund som nævnt i § 1023 Nr. 2, jfr. § 1024 Nr. 2, maa den saa vidt<lb />
+muligt være ledsaget af Udskrift af en over den paagældende afsagt Straffedom. Ud-<lb />
+skrift af den tidligere Dom bør medfølge.
+</p>
+<wtitle>§  1027.</wtitle>
+<p>
+Findes i Begæringen ingen Grund opgivet, som efter Loven kan bevirke Gen-<lb />
+optagelse, eller findes de paaberaabte Omstændigheder eller Bevisligheder aabenbart<lb />
+betydningsløse, kan Retten straks ved Kendelse afvise Begæringen.
+</p>

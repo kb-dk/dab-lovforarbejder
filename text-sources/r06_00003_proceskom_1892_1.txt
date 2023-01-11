@@ -1,0 +1,42 @@
+3
+<pb n="3" />
+<title>Første Afsnit
+</title>
+<undertitle>Domstolenes Ordning.
+</undertitle>
+<title>Kap. I.
+</title>
+<undertitle>Retterne.
+</undertitle>
+<wtitle>§ 1.</wtitle>
+<p>
+Rigets almindelige Domstole ere højeste
+</p>
+<p>ret, Landsretterne og Underretterne (Kjøbenhavns Stadsret samt By- og Herredsretterne).
+</p>
+<p>Rigsretten, Sessionerne, de gejstlige<lb />
+og militære Retter omfattes ikke af denne<lb />
+Lov. Det samme gælder om Landvæsenskommissioner og andre Myndigheder, som<lb />
+afgøre eller medvirke ved Afgørelsen af<lb />
+Anliggender, der ikke høre under nogen af<lb />
+de i denne Paragraf nævnte Retter.
+</p>
+<wtitle>§ 2.</wtitle>
+<p>Højesteret er, overensstemmende med<lb />
+Lovene om Retsplejen, øverste Domstol<lb />
+for hele Riget. Den har sit Sæde i<lb />
+Kjøbenhavn og bestaar af en Iustitiariusi<lb />
+12 andre ordentlige og indtil 12 overordentlige Højesteretsdommere. Til at træde i,<lb />
+Iustitiarii Sted i paakommende Tilfælde<lb />
+beskikker Kongen en af Rettens ordentlige<lb />
+Dommere.
+</p>
+<p>I hver Sags Afgørelse ved Højesteret<lb />
+deltage, forsaavidt ikke andet særlig er bestemt, mindst 7 Dommere. Haves i nogen<lb />
+Sag ikke det fornødne Antal af Rettens<lb />
+ordentlige Dommere til Raadighed, kalder<lb />
+Iuftitiarius en eller flere overordentlige<lb />
+Dommere til at deltage i Sagens Behandling.
+</p>
+<pagename>1
+</pagename>

@@ -1,0 +1,73 @@
+570
+<pb n="154" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>570</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<title>Kapitel 59.</title>
+<undertitle>
+Konkurs.
+</undertitle>
+<wtitle>§ 667.</wtitle>
+<p>
+Med Hensyn til Behandlingen af Konkursboer har det sit Forblivende ved<lb />
+Reglerne i Konkursloven af 25. Marts 1872 og Lov om en forandret Affattelse af visse<lb />
+Paragraffer i Konkursloven af 15. April 1887 samt Lov Nr. 30 af 20. Marts 1901 og<lb />
+Lov om Tvangsakkord udenfor Konkurs og om Udvidelse af Adgangen til Tvangsakkord<lb />
+under Konkurs af 14. April 1905 § 39 med de Forandringer, som følger af denne Lov.<lb />
+Udenfor København beklædes den ordinære Skifteret af Underretsdommeren.
+</p>
+<p>
+Foruden i det i Lov om Spare- og Lånekasser af 28. Maj 1880 ommeldte<lb />
+Tilfælde kan Kongen undtagelsesvis, når Begæring derom måtte indkomme, beskikke<lb />
+Skiftekommissarier til i Stedet for den ordinære Skifteret at forestå Behandlingen og<lb />
+Opgørelsen af et Konkursbo, der befindes at være af en særegen vidtløftig og indviklet<lb />
+Beskaffenhed. Sådan Begæring må dog være vedtaget på en dertil berammet<lb />
+Skiftesamling af mindst tre Fjerdedele af de mødende Fordringshavere, repræsenterende<lb />
+mindst tre Fjerdedele af samtlige bekendte eller, for så vidt Anmeldelsesfristen er<lb />
+udløbet, anmeldte Fordringers Beløb.
+</p>
+<wtitle>§ 668.</wtitle>
+<p>
+Når et i Konkursboet fremsat Krav eller en anmeldt Fordring modsiges,<lb />
+eller den Fortrinsret, som er tillagt samme på den i Henhold til Konkurslovens § 87<lb />
+forfattede Oversigt, bestrides, og det ikke lykkes at tilvejebringe Forlig imellem de<lb />
+pågældende (jfr. Konkurslovens § 88), har Skifteretten at fremkalde en Beslutning<lb />
+af Boets Vedkommende (jfr. Konkurslovens §§ 74 og 75), om og for hvilket Beløb<lb />
+Boet vil anerkende Fordringen, og hvilken Fortrinsret det vil indrømme den. Herom<lb />
+underretter Kurator snarest muligt den pågældende Fordringshaver samt tilkendegiver ham, at han, hvis han ikke vil finde sig i at behandles på denne Måde, må<lb />
+forfølge sit Krav ved sædvanlig Rettergang imod Boet. Underretningen meddeles på<lb />
+den Måde, Skifteretten finder hensigtsmæssig; det er tilladt at benytte anbefalet<lb />
+Brev. Anlægges Sag ikke af den pågældende inden 4 Uger herefter, bliver Fordringen<lb />
+ved Boets videre Behandling og Opgørelse kun at anerkende for så vidt og med den<lb />
+Fortrinsret, som Boet har indrømmet.
+</p>
+<p>
+Fordringshavere, som har Interesse i at bestride en Fordring, uagtet Boet<lb />
+ikke vil modsige den eller den for samme påståede Fortrinsret, har Adgang hertil,<lb />
+for så vidt der ikke af Boet er sluttet Overenskomst med vedkommende om Tvistens<lb />
+Genstand, og Sagens Forfølgning ikke udsætter Boet for Tab af Rettigheder. De pågældende Fordringshavere har i så Fald at anlægge Retssag inden 4 Uger, efter at<lb />
+Boets Beslutning er taget. I modsat Tilfælde bliver der ved Boets Opgørelse ikke<lb />
+taget Hensyn til deres Indsigelser. De er pligtige at lade Stævningen forkynde for<lb />
+Boets Kurator.
+</p>
+<p>
+Vil Parter, imellem hvilke en Tvist er opstået, overlade Spørgsmålets Afgørelse til Skifteretten, er denne, når ingen Bevisførelse ved Vidner, Syn eller Parternes<lb />
+egen Forklaring behøves, pligtig at afsige en Kendelse, ved hvilken Spørgsmålet da<lb />
+er afgjort på samme Måde som ved Voldgift. Herved finder Regelen i § 656, sidste<lb />
+Stykke, sidste Punktum, tilsvarende Anvendelse.
+</p>
+<wtitle>§ 669.</wtitle>
+<p>
+De i foregående Paragraf omhandlede Sager kan anlægges ved det Steds<lb />
+Underret, hvor Boet behandles, eller, for så vidt Sagen ifølge dens Genstand henhører
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

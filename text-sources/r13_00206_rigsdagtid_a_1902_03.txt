@@ -1,0 +1,83 @@
+2139
+<pb n="206" />
+<h>
+<coll>
+2139
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2140
+</colr>
+</h>
+<p>
+Sker Afliørelse ved Rettens Formand, kunne Parterne andrage paa, at yder-<lb />
+ligere Spørgsmaal stilles; Formanden kan overlade det til dem selv at stille saadanne<lb />
+enkelte Spørgsmaal.
+</p>
+<wtitle>§  914.</wtitle>
+<p>
+Dommerne og Nævningerne ere berettigede til at rette Spørgsmaal til de frem-<lb />
+stillede Vidner, Syns- eller Skønsmænd, efter at have erholdt Ordet af Formanden.
+</p>
+<wtitle>§  915.</wtitle>
+<p>
+De afhørte Vidner og Syns- eller Skønsmænd ere pligtige at blive til Stede,<lb />
+indtil Retsmødet sluttes, eller Formanden tillader dem at forlade Tingstedet. Hvor<lb />
+vidt de kunne eller skulle blive til Stede i Retssalen, beror paa Formandens Be-<lb />
+stemmelse.
+</p>
+<p>
+Vidner samt Syns- eller Skønsmænd kunne andrage paa, at de selv eller et<lb />
+andet Vidne eller Tiltalte yderligere afhøres om angivne Punkter i det Øjemed at<lb />
+fuldstændiggøre eller berigtige forudgaaende Udsagn.
+</p>
+<wtitle>§  916.</wtitle>
+<p>
+Dokumenter, der paastaas at have været Genstand for eller at være frembragte<lb />
+ved Forbrydelsen eller at have været brugte eller bestemte til dens Udførelse, eller<lb />
+som yde umiddelbar Oplysning om Gerningen eller Tiltaltes Forhold til denne, blive<lb />
+at oplæse, naar Bevisførelsen kræver det.
+</p>
+<p>
+Fremdeles kunne efternævnte Dokumenter under Domsforhandlingen benyttes<lb />
+som Bevismidler og blive da at oplæse:
+</p>
+<p>
+1)	Tilførsler til Retsbøger om Ransagninger, Beslaglæggelser, Besigtigelser og Syns-<lb />
+eller Skønsforretninger, foretagne uden for Domsforhandlingen, saavel som Erklæ-<lb />
+ringer til Retten, afgivne af Syns- eller Skønsmænd; dog kan Retten, naar den<lb />
+finder saadant hensigtsmæssigt, bestemme, at mundtlig Afhøring af Syns- eller<lb />
+Skønsmændene helt eller delvis skal træde i Stedet for Oplæsning af disses For-<lb />
+klaringer eller skriftlige Erklæringer;
+</p>
+<p>
+2)	Tilførsler til Retsbøger om de af Tiltalte under Afhørelsen om Sigtelsen afgivne<lb />
+Forklaringer, naar Tiltalte enten nu vægrer sig ved at svare, eller den nu afgivne<lb />
+Forklaring afviger fra den tidligere, eller naar Tiltalte er udebleven (jfr. §  902);
+</p>
+<p>
+3)	Tilførsler til Retsbøger angaaende de af Vidner, Syns- eller Skønsmænd under<lb />
+Afliørelse afgivne Forklaringer, naar disse Personer enten ere døde eller af<lb />
+anden Grund ikke kunne afhøres paa ny, eller deres Fremstilling for Retten ikke<lb />
+finder Sted af de i § 770, jfr. §§ 792 og 799, angivne Grunde, eller naar den<lb />
+nu afgivne Forklaring afviger fra den tidligere, eller naar et Vidne vægrer sig<lb />
+ved at afgive Forklaring, og de foreskrevne Tvangsmidler ikke antages at burde<lb />
+anvendes eller forgæves ere blevne anvendte;
+</p>
+<p>
+4)	Tilførsler til Retsbøger af Forklaringer saavel som Erklæringer, afgivne af de i<lb />
+D. L. 1—2--1 omhandlede Personer samt af Personer, der have Eksterritoriali-<lb />
+tetsret, for saa vidt de nævnte Personer ikke give Møde i Retten;
+</p>
+<p>
+5)	Erklæringer og Vidnesbyrd, udstedte i Medfør af et offentligt Hverv, derunder<lb />
+Udskrifter af Tiltalte tidligere overgaaede Straffedomme.
+</p>
+<p>
+Uden for de nævnte Tilfælde kunne Dokumenter og Aktstykker, som indeholde<lb />
+Erklæringer eller Vidnesbyrd, kun benyttes som Bevismidler, naar Retten undtagelsesvis<lb />
+hertil giver Tilladelse. Udenretslige Bevidnelser angaaende Tiltaltes tidligere Vandel<lb />
+maa under ingen Omstændigheder benyttes.
+</p>

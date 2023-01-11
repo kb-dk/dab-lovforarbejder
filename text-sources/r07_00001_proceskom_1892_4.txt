@@ -1,0 +1,22 @@
+0
+<pb n="1" />
+<h>
+<coll>3209</coll>
+<topmidle>Tillæg A. (202).  Ordentlig Samling 1901.</topmidle>
+<colr>8210</colr>
+</h>
+<title>
+Bilag VII.
+</title>
+<undertitle>
+Retspleje-Reformen.
+</undertitle>
+<undertitle>
+En Oversigt,
+udarbejdet af
+Sekretæren ved den ifølge allerhøjeste Reskript af 11. Maj 1892<lb />
+nedsatte Proceskommission.
+</undertitle>
+<undertitle>
+Forelagte Lovforslag m. m.  202
+</undertitle>

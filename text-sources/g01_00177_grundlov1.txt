@@ -1,0 +1,138 @@
+281
+<pb n="177">
+<pagename>177</pagename>
+<h>
+<coll>281</coll>
+<colr>282</colr>
+<lb/>
+
+<topleft>1848.</topleft>
+<topmidle>
+Beretning om Firhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 36.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Treltende Møde.<lb/>
+(Sluttet.)<lb/>
+</btitle>
+<p>
+<speaker>Rée:</speaker> Jeg må bemærke, at jeg kun kan tænke mig Loven bestående<lb/>
+som provisorisk, og efter Lovens Natur som provisorisk må Ministeriet da søge i en Indemnitetsbill, det vil sige, Ministeriet må søge<lb/>
+en Afgjørelse, om hvorvidt Loven skal blive i Gyldighed, hos den<lb/>
+første derefter sammentrædende Rigsdag; da nu denne Rigsforsamling<lb/>
+efter sin Charakteer fuldkommen må sættes i Classe med en tovgivende Forsamling — og herfor have vi en Erkjendelse fra selve Ministerbænken —, så troer jeg, at heri allerede ligger en Iudrømmelse<lb/>
+af, at den Lov, der er givet på en Tid, da en lovgivende Autoritet, der repræsenterede Folket, ikke kunde høres, senere må forelægges<lb/>
+Rigsforsamlingen. Det er ganske sandt, som Præsidenten har bemærket, at denne Sag har været Gjenstand for en Interpellation til den<lb/>
+høitærede Justitsminister, men Svaret lod dog nogen Uvished tilbage,<lb/>
+idet den høitærede Krigsminister, der ved samme Leilighed tog Orbet,<lb/>
+bemærkede, at Loven af 23de September og Loven om almindelig<lb/>
+Værnepligt ikke stode i sådan Forbindelse, at de samtidigen vilde<lb/>
+blive at tage i Betragtning. Ru er det vel så, at Loven af 23de<lb/>
+September ikke de sacto er kommen og foreløbig ikke kan antages<lb/>
+at ville komme til Udførelse; men det ståer svævende, hvorvidt Ministeriet erkjender hiin forste Lov de jure suspenderet, indtil Spørgsmålet her unber Værnepligtssagens Behandling har fundet<lb/>
+sin Afgjørelse. Det er ikke med Hensyn til Realiteten, at jeg<lb/>
+har taget Ordet; det glæder mig, og med mig vistnok Enhver<lb/>
+her i Forsamlingen, at vi have modtaget Udkastet til en Lov, som<lb/>
+hæver den Classeulighed, hvorefter Forsvarspligten hidtil har været<lb/>
+fordeelt imellem Statsborgerne; men jeg anseer det for Principets<lb/>
+Skyld vigtigt og nødvendigt at vide, om en Lov, der vet ikke er udgivet med Benævnelse af provisorisk, men som dog efter sin Charakteer er provisorisk, kan antages at ståe ved Kraft, efterat Rigsforsamlingen er sammentrådt, uden at Forsamlingen derover har erklæret<lb/>
+sig. Efter Krigsministerens berørte Yttringer, hvormed han henvendte<lb/>
+sig til de øvrige her forsamlede Ministre, og som ikke fra de øvrige<lb/>
+Ministre mødte nogen Indsigelse, synes den Fortolkning, som man<lb/>
+på flere Steder har givet disse Yttringer, at have Meget, der taler<lb/>
+for sig. Jeg tilståer, at jeg ikke hører til dem, som have udlagt<lb/>
+hans Ord på denne Måde; men jeg troer, at det er vigtigt for<lb/>
+Forsamlingen at vide, hvorledes den ståer, og det vilde for Forbindelsens Skyld imellem Førsamlingen og Regieringen være mig kjært,<lb/>
+om Ministeriet ved Oplysning herom vilde komme Forsamlingen<lb/>
+imøde.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Hvis det ærede Medlem ikke måttc sinde sig<lb/>
+tilfredsstillet ved det Svar, der blev givet i Anledning af den tidliger<lb/>
+skete InterPellation, forekommer det mig, at det meest hensigtssvarende<lb/>
+Middel for ham til at opnåe sin Hensigt må være, at han indgiver et Forslag angående det af ham berørte Spørgsmål, hvilket<lb/>
+Forslag da på fædvanlig Måde kan komme under Behandling.<lb/>
+</p>
+<p>
+<speaker>Schiern:</speaker> Det er ikke med Hensyn til hvad her er sagt, at jeg<lb/>
+har udbedt mig Ordet; jeg vilde kun bemærke, at Grundloven alt i<lb/>
+længere Tid har foreligget, og da Afstemningen igår synes at vise,<lb/>
+at Fleertattet of Forsamlingens Medlemmer ønske, at Grundloven<lb/>
+snarest muligt kommer for, skal jeg tillade mig at rette det Spørgsmål til den ærede Præsident, om han ikke måtte sinde sig beføiet<lb/>
+til i den Anledning at consulere Forsamlingen.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Det ærede Medlem vil have erholdt den af ham<lb/>
+</p>
+</leftside>
+<rightside>
+<p>
+attråede Oplysning, når jeg har oplæst Dagsordenen for det næste<lb/>
+møde. I dette Møde, der Vil blive afholdt imorgen Rl. 12, vil der<lb/>
+nemlig blive foretaget: 1) Spørgsmålet om, hvorvidt 6 Adresser fra<lb/>
+Ærø og 1 fra Mehrn skulle oplæses eller ikke, og 2) Spørgsmålet<lb/>
+om Behandlingsmåden for Forfatningsudkastet.<lb/>
+</p>
+<signature>
+Mødet hævedes.<lb/>
+</signature>
+<btitle>
+Fjortende Møde.<lb/>
+</btitle>
+<notedate>
+Torsdagen den 9de November.<lb/>
+</notedate>
+<p>
+Forhandlings-Protocollen for forrige Møde blev oplæst.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Jeg forstob Forsamlingen i forrige Møde således, at det var dens mening, at Spørgsmålet i Almindelighed, om<lb/>
+hvorvidt Adresser skulle oplæses eller ikke, foreløbig skulde undersøges af<lb/>
+den Comitee, som har forfattet Udkastet til Forretningsordenen. Da<lb/>
+der imidlertid er yttret nogen Tvivl herøm, skal jeg tillade mig at<lb/>
+sætte det Spørgsmål under Afstemning, om det virkelig er Meningen, at Forsamlingen henviser dette Spørgsmåls foreløbige Behandling til den nævnte Comitee.<lb/>
+</p>
+<p>
+<speaker>Krieger:</speaker> Må jeg på Comiteens Begne tilføie, at det vistnok var ønskeligt, at dette ligeledes blev gjort gjældende med Hensyn<lb/>
+til det andet Spørgsmål, som igår af den ærede Formand blev<lb/>
+forudsat som afgjorte, nemlig om hvorvidt den i Anledning af Forretningsordenen nedsatte Comitee skulde ansees at være vedvarende,<lb/>
+således at når der opstod Spørgsmål angående Forretningernes Gang, disse da skulde henvises til den, ligesom denne da havde<lb/>
+at give sin Betænkning derover. Jeg skal derfor tillade mig at henstille
+ til den ærede Formand, om der ikke måtte gives Forsamlingen<lb/>
+Leilighed til, i så Henseende tydeligen at udtale sin Villie, at ikke<lb/>
+hiin Comitee skulde påtage sig et Hverv, og derved en Ret, skjøndt<lb/>
+også en Forpligtelse, som ikke Alle ere enige om, at der tilkorn den.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Det vil da visinok være det Rigtigste, først at<lb/>
+sætte det Spørgsmål under Afstemning, om denne Comitee skal være<lb/>
+vedvarende, således at man til den henviser alle de Spørgsmål,<lb/>
+som måtte opståe om Forretningsordenen, og følgelig også det<lb/>
+Spørgsmål, der nu er opstået i Anledning af Adresser. Hvis<lb/>
+Ingen vil yttre sig, skal jeg tillade mig, at fæette Spørgsmålet<lb/>
+under Afstemning.<lb/>
+</p>
+<p>
+<speaker>Grundtvig:</speaker> Jeg vilde blot anmærke, at mig synes, at det<lb/>
+er dog en lidt betænkelig Sag at erklære således en Comitee for<lb/>
+Vedvarende, ihvorvet jeg indrømmer, at det for mit Vedkommende<lb/>
+er dette såmeget mere, som jeg ikke veed, af hvem hiin Comitee beståer; det forekommer mig dog detænkeligt, at erklære en sådan<lb/>
+Comitee for competent til at afgjøre alle de Spørgsmål, som kunne<lb/>
+opståe vedrørende Forretningsordenen. Jeg vilde derfor udbede mig<lb/>
+lidt Oplysning om, hvorvidt dens Competence skal strække sig, om<lb/>
+den skal strække sig såvidt, at det skal beroe ene på den, når en<lb/>
+Adresse, således som den, der var for igår, fremkommer, om denda skal optæses eller henlægges.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Nei, hiin Comitees Competence skulde kun<lb/>
+strække sig til at gjøre Forslag for Forsamlingen.<lb/>
+</p>
+<p>
+Ved den derefter stedsundne Afstemning blev det med 143 Stem-</p>
+</rightside>
+
+</pb>

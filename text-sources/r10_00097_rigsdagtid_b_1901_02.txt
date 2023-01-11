@@ -1,0 +1,137 @@
+2907
+<pb n="97" />
+<h>
+<coll>2907</coll>
+<topmidle>Kommissionens Bem. t. Udk. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2908</colr>
+</h>
+<leftside>
+<p>
+imod Rekvirentens Ret, jfr. § 493, medens<lb />
+Arrest gaar ud paa at sikre en Fordrings-<lb />
+haver imod Dispositioner af Skyldneren,<lb />
+der ikke behøve at stride mod Kreditors<lb />
+Ret, men kunde blive ham til Hinder i,<lb />
+naar han i sin Tid skrider til Eksekution,<lb />
+at finde Midler, der kunne tjene til hans<lb />
+Fyldestgørelse. Har Retsmidlet den sidst-<lb />
+nævnte Karakter, maa det komme ind<lb />
+under de særegne Regler for Arrest, selv<lb />
+om det kun fremtræder som rettet imod<lb />
+en enkelt bestemt Disposition over Tingen,<lb />
+og uanset at Sprogbrugen, der paa dette<lb />
+Omraade følger Retsmidlets ydre Fremtræ-<lb />
+delsesmaade, ikke betegner det som Arrest,<lb />
+men som Forbud. Et Forbud imod en<lb />
+Fordrings Udbetaling vil saaledes efter Om-<lb />
+stændighederne kunne fremtræde enten som<lb />
+Arrest, jfr. § 500, naar det gaar ud paa<lb />
+at sikre Rekvirenten Fyldestgørelse for<lb />
+hans Krav ved Rekvisiti Udelukkelse fra<lb />
+at disponere over en denne tilkommende<lb />
+Fordring (jfr. Oktroi for Nationalbanken<lb />
+4de Juli 1818 § 44, hvis Bestemmelse kun<lb />
+medfører, at Arresten maa iværksættes<lb />
+under Form af Forbud), eller som et egent-<lb />
+ligt Forbud, naar det sigter til at afværge<lb />
+retskrænkende Dispositioner over en Obli-<lb />
+gation, der er kommen i urette Hænder<lb />
+eller af anden Grund kan befrygtes at<lb />
+ville blive misbrugt, jfr. Forordningen 21de<lb />
+Juni 1844 § 3.<lb />
+</p>
+<title>
+Syvende Afsnit.<lb />
+</title>
+<undertitle>
+Skifte af Dødsbo, Fællesbo m. t. samt<lb />
+Konkurs.<lb />
+</undertitle>
+<p>
+De Dele af den tidligere Kommissions<lb />
+Forslag til den borgerlige Retsplejes Om-<lb />
+ordning, som omfattede Konkurs og Døds-<lb />
+boskifte m. v., bleve i sin Tid udskilte fra<lb />
+det øvrige System til særskilt legislativ<lb />
+Behandling og derefter i alt væsentligt op-<lb />
+tagne i Konkursloven af 25de Marts 1872<lb />
+og Lov om Skifte af Dødsbo og Fællesbo<lb />
+m. V. af 30te November 1874. Der har<lb />
+derfor ej været Grund til at genoptage<lb />
+den Del af Retsplejen, som er Genstand<lb />
+for de nævnte Love, i sin Helhed til for-<lb />
+nyet Overvejelse og Behandling. Dog er<lb />
+det umuligt ganske at forbigaa Konkurs<lb />
+og Skifte i det foreliggende Udkast med<lb />
+Tavshed, idet der, for saa vidt almindelige<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+Retstrætter frembyde sig til Afgørelse<lb />
+under disse Forretninger, nødvendigvis ud-<lb />
+kræves nogle ny Bestemmelser for at passe<lb />
+Konkurs- og Skiftelovens Regler ind i det<lb />
+Rettergangssystem, som ved Udkastet er<lb />
+bragt i Forslag. I nærværende Afsnit har<lb />
+man derfor nærmest kun tilsigtet at give<lb />
+de faa Bestemmelser, som udkræves for<lb />
+at knytte den bestaaende Ordning af Kon-<lb />
+kurs og Dødsboskifte til det ny System,<lb />
+medens der for øvrigt er henvist til den<lb />
+gældende Ret.<lb />
+</p>
+<p>
+Uagtet de ny Bestemmelser ifølge<lb />
+Sagens Natur paa mange Punkter maa<lb />
+blive de samme for Konkurs og for Skifte<lb />
+af Dødsbo og Fællesbo m. v., har man<lb />
+dog for Overskuelighedens Skyld fundet<lb />
+det rettest at lade dem fremtræde i to<lb />
+Afdelinger, hvoraf den første omhandler<lb />
+Skifte af Dødsbo m. v., den anden Konkurs.<lb />
+</p>
+<p>
+Fra det tidligere Forslags 9de Afsnit<lb />
+adskiller nærværende Afsnit sig nærmest<lb />
+kun derved, at Reglerne om Tvangsauktion<lb />
+over et Bos Ejendele ere optagne i et<lb />
+særskilt Kapitel (XLIV) og bragte i Over-<lb />
+ensstemmelse med Tvangsauktionslovens<lb />
+§§ 47 og 48, hvorhos enkelte Tilføjelser<lb />
+og redaktionelle Ændringer ere foretagne<lb />
+nærmest af Tydelighedshensyn, medens en-<lb />
+kelte Bestemmelser ere udeladte som over-<lb />
+flødige ved Siden af Udkastets øvrige Be-<lb />
+stemmelser.<lb />
+</p>
+<p>
+I øvrigt skal om disse Kapitler i Over-<lb />
+ensstemmelse med Motiverne til det tidli-<lb />
+gere Udkast følgende bemærkes:<lb />
+</p>
+<title>
+Kapitel XLII.<lb />
+</title>
+<undertitle>
+Skifte af Dødsbo og Fællesbo m. v.<lb />
+</undertitle>
+<wtitle>§§ 502—513.</wtitle>
+<p>
+I disse Paragrafer gives Bestemmel-<lb />
+serne om de Former, hvorunder de paa<lb />
+Skiftet opstaaende Tvistigheder blive at<lb />
+afgøre, samt om Retsmidlerne mod Skifte-<lb />
+rettens Afgørelser. Hovedforandringen paa<lb />
+dette Omraade ligger i de ny Regler,<lb />
+Udkastet indeholder med Hensyn til Ud-<lb />
+strækningen af Skifterettens dømmende<lb />
+Myndighed. Som bekendt har Skifteretten<lb />
+efter den bestaaende Lovgivning ikke blot<lb />
+Afgørelsen af det Spørgsmaal, om Boet<lb />
+skal tages under offentlig Skiftebehandling<lb />
+eller straks overlades til privat Arvedeling<lb />
+eller i alt Fald paa et senere Tidspunkt ud-<lb />
+leveres til Arvingerne, saavel som af alle
+</p>
+</rightside>

@@ -1,0 +1,155 @@
+3663
+<pb n="1095" >
+<p rend="page">1095</p>
+<h>
+<coll>3663</coll>
+<colr>3664</colr><lb />
+Den endelige Behandling af Valgloven. §§ 24—27.<lb />
+
+</h>
+<leftside>
+<p>
+ningsliste ommeldte Redactionsforandringer vedtoges uden Afstemning, saalydende:<lb />
+“For hver Valgkreds dannes en Valgbestyrelse, bestaaende af<lb />
+Udsendinge fra de til Valgkredsen hørende Communer. For<lb />
+hver Commune vælges idetmindste eet Medlem af Valgbestyrelsen,<lb />
+uden Hensyn til dens Indvaanertal. Har en Commune 3000<lb />
+Indbyggere, vælger den To, og saa fremdeles Een for hvert 1500<lb />
+Indvaanere, den har efter den senest offentliggjorte Folketælling.<lb />
+Valgbestyrelsens Medlemmer vælges af Communalbestyrelserne<lb />
+og blandt disses egne Medlemmer, og bør disse Udnævnelser<lb />
+uopholderlig iværksættes, saasnart Valg er udskrevet for Valgkredsen."<lb />
+vedtoges eenstemmig med 92 Stemmer.<lb />
+</p>
+<p>
+Man gik derefter over til Valglovens § 25 (Udvalgets § 20),<lb />
+hvortil Afstemningslisten indeholdt Følgende:<lb />
+60) Olriks Forslag: Paragraphen forandres saaledes: “Valgbestyrelsens Medlemmer træde dernæst sammen i den Commune,<lb />
+hvor Valget afholdes, og vælge en Formand, der forestaaer alle<lb />
+Forberedelserne til selve Valget og modtager Anmeldelser af Candidater og andre til Valgbestyrelsen rettede Meddelelser.<lb />
+Formanden aabner paa Valgdagen Valgbestyrelsens Møde,<lb />
+leder selve Valghandlingen og gior i alle Valgbestyrelsen overladte Beslutninger Udslaget i Tilfældee af Stemmelighed."<lb />
+61) Udkastets første Deel: Det Medlem af Valgbestyrelsen,<lb />
+som er valgt for den Commune, hvori Valget afholdes, forestaaer alle de foregaaende Forberedelser til selve Valget og modtager Anmeldelser af Candidater og andre til Valgbestyrelsen<lb />
+rettede Meddelelser. Han aabner paa Valgdagen Valgbestyrelsens Møde og forestaaer Valget af dens Formand. Vælger<lb />
+vedkommende Commune flere Medlemmer af Valgbestyrelsen, fordele disse de ovennævnte Forretninger mellem sig efter Overeenskomst.<lb />
+62) Udkastets anden Deel: Formanden leder selve Valghandlingen. I alle Valgbestyrelsen overladte Beslutninger giør<lb />
+han i Tilfældee af Stemmelighed Udslaget. (Jfr. § 57.)<lb />
+Anmærkn. Estor Udvalgets Forslag udgaaer denne Deel. Sammenlign Slutningen af Udvalgets § 30.<lb />
+</p>
+<p>
+Formanden bemærkede, at Forslaget under Nr. 60 var tilbagetaget af Forslagsstilleren, og at Udkastets anden Deel under Nr. 62<lb />
+kom igien under Nr. 83, idet Udvalget havde meent, at den deri<lb />
+indeholdte Bestemmelse burde staae paa et andet Sted og i en anden<lb />
+Forbindesle, men at hvis Forsamlingen antog Bestemmelsen paa dette<lb />
+Sted, bortfaldt den naturligviis paa det andet Sted, og omvendt.<lb />
+</p>
+<p>
+<speaker>Ordføreren:</speaker> Forsamlingen vil erindre, at Grunden, hvorfor<lb />
+vi troede, at Bestemmelsen kunde gaae ud her, er den, at i Udkastet<lb />
+pasfer den, fordi Bestemmelserne om Kiøbenhavn komme senere i et<lb />
+andet Afsnit; men nu, da Bestemmelserne om Kiøbenhavn komme i<lb />
+<law n="21," />§ 21, seer det underligt ud at give Reglen om Formandens Charakteer paa et sted, som kun handler om nogle Formænd, og ikke om<lb />
+Formændene i det Hele.<lb />
+</p>
+<p>
+Ingen Flere begjerede Ordet, og man skred derfor til Afstemning,<lb />
+som — idet Forslaget under Nr. 60 var tilbagetaget, og efterat det<lb />
+var vedtaget, at en mulig Forkastelse af Udkastets 2den Deel under<lb />
+Nr. 62 ikke udelukkede dettes Antagelse paa det Sted, hvor Udvalget<lb />
+havde formeent, at denne Bestemmelse havde sin rette Plads — gav<lb />
+følgende Resultat:<lb />
+</p>
+<p>
+1) Nr. 61. Udkastets første Deel: „Det Medlem af Valgbestyrelsen, som er valgt for den Commune, hvori Valget afholdes,<lb />
+forestaaer alle de foregaaende Forberedelser til selve Valget og<lb />
+modtager Anmeldelser af Candidater og andre til Valgbestyrelsen<lb />
+rettede Meddelelser. Han aabner paa Valgdagen Valgbestyrelsens Møde og forestaaer Valget af dens Formand. Vælger<lb />
+vedkommende Commune flere Medlemmer af Valgbestyrelsen, fordele disse de ovennævnte Forretninger mellem sig efter Overeenskomst."<lb />
+vedtoges eenstemmig med 94 Stemmer.<lb />
+</p>
+<p>
+2) Nr. 62. Udkastets anden Deel: „Formanden leder selve Valg
+</p>
+</leftside>
+<rightside>
+<p>
+handlingen, I alle Valgbestyrelsen overladte Beslutninger giør<lb />
+han i Tilfældee af Stemmelighed Udslaget."<lb />
+forkastedes med 87 Stemmer mod 2.<lb />
+</p>
+<p>
+Derefter gik man over til Udvalgets § 21. hvortil Afstemningslisten indeholdt Følgende:<lb />
+63) Udvalgets Forslag: „Valgbestyrelsen i hver af Kjøbenhavns<lb />
+9 Valgkredse bestaaer af sem Medlemmer, som udnævnes af den<lb />
+forenede Communalbestyrelse, de to af sammes egen Midte, de<lb />
+tre Andre blandt de i Valgkredsen bosatte Vælgere. Hver Valgbestyrelse vælger selv sin Formand."<lb />
+hvilken af Udvalget foreslaaede Paragraph, idet Ingen begjerede Ordet, vedtoges eenstemmig med 92 Stemmer.<lb />
+</p>
+<p>
+Man gik derpaa over til Valglovens § 26 (Udvalgets § 22),<lb />
+hvortil Afstemningslisten indeholdt Følgende:<lb />
+64) Udkastet: Valgbestyrelsen forer en Valgbog, hvortil de fra<lb />
+forskiellige Communer medbragte Valglister og de til Bestyrelsen<lb />
+indløbne Skrivelser fremlægges. I Valgbogen optegnes det væsentlige Indhold af Valgforhandlingerne, hvortil dog de af<lb />
+Candidaterne og andre Tilstedeværende holdte Taler ikke skulle<lb />
+henregnes. Valgbogen underskrives af Valgbestyrelsen og opbevares af Communalbestyrelsen for det Sted, hvor Valget er<lb />
+afholdt.<lb />
+</p>
+<p>
+Ingen begjerede Ordet, og man skred derfor til Afstemning, hvorved den nysanførte Paragraph vedtoges eenstemmig med 90<lb />
+Stemmer.<lb />
+</p>
+<p>
+<speaker>Formanden:</speaker> Før jeg gaaer videre, skal jeg tillade mig at<lb />
+rette det Spørgsmaal til den ærede Ordfører eller maaskee til Formanden for Udvalget, om det kan ventes, at vi inden Tirsdag kunne<lb />
+have Slutningen af Comteens Bemærkninger over Amendementerne,<lb />
+thi hvis dette ikke skulde være Tilfældeet, vil jeg slutte Mødet for<lb />
+idag, og vi kunne da paa Tirsdag fortsætte med den følgende Deel af<lb />
+Afstemningslisten.<lb />
+</p>
+<p>
+<speaker>Bjerring:</speaker> Til paa Tirsdag ville Comiteens Bemærkninger ved<lb />
+Amendementerne indtil § 52 inclusive kunne være fremlagte, men længere<lb />
+end til § 52 er den ikke kommen. Imidlertid vil Comiteen paa<lb />
+Tirsdag Formiddag Kl. 12 holde Møde, og foruden Comiteebetænkningen til § 52 ville ogsaa Ændringsforslagene til Regulativet for<lb />
+Valgkredsene til Folkethinget rimeligviis kunne blive forelagte.<lb />
+</p>
+<p>
+<speaker>Ordføreren:</speaker> Der er til den øvrige Deel af Betænkningen<lb />
+fremkommet saa mange og tildeels saa vanskelige Amendements, at<lb />
+Comiteen troer at gjøre Forsamlingen en daarlig Tjeneste med at<lb />
+forhaste sig.<lb />
+</p>
+<p>
+Ifølge disse Meddelelser og flere Omstændigheder ansaae Formanden det for rettest at slutte nærværende Møde og beramme det næste<lb />
+til Tirsdagen den 29de Mai Kl. 6 Eftermiddag, Valglovssagen til<lb />
+fortsat Behandling.<lb />
+Mødet blev derpaa hævet.<lb />
+</p>
+<stitle>
+132te offentlige Møde.<lb />
+(Det 136te Møde i den hele Række.)<lb />
+Aftenmøde.<lb />
+</stitle>
+<subtitle>
+Tiredagen den 29de Mai.<lb />
+</subtitle>
+<p>
+Den endelige Behandlige af Valgloven. § 27.<lb />
+</p>
+<p>
+Efterat Forhandlingsprotocollen for forrige Møde var bleven<lb />
+oplæst, gik man ifølge Dagsordenen over til den anden Behandling<lb />
+af Valgloven, og begyndte med Udkastets § 27, Udvalgets § 23.<lb />
+</p>
+<p>
+Hertil indeholdt Afstemningslisten Følgende:<lb />
+65) Tschernings Forslag: a. Udgaaer “selv har stillet sig og"<lb />
+b. Udgaaer „Een eller Flere", i hvis Sted indsættes „en"<lb />
+eller „i det Mindste Een". Udvalget tiltræder dette Sidste.<lb />
+</p>
+</rightside>
+
+
+</pb>

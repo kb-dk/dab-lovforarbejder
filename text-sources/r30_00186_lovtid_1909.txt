@@ -1,0 +1,66 @@
+450
+<pb n="186" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>450</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+i det følgende givne Regler eller om Efterforskningens Afslutning ved Sagens Henlæggelse. Henlægges Sagen, vedtegnes Grunden.
+</p>
+<p>
+Er udenfor København Politimesteren påtaleberettiget i Henhold til § 704,<lb/>
+tilkommer det ham at tage de ovennævnte Beslutninger. I modsat Fald har Politimesteren at foranledige retslig Forundersøgelse, når han ifølge Efterforskningens<lb/>
+Resultat finder Anledning dertil; ellers indsender han Sagen til Amtmanden, der<lb/>
+tager fornøden Beslutning om yderligere Efterforskning, Begæring om Forundersøgelse, Tiltale eller Sagens Henlæggelse.
+</p>
+<p>
+I København tilkommer det Politidirektøren at tage de nævnte Beslutninger.
+</p>
+<wtitle>§ 796.</wtitle>
+<p>
+Får Politimesteren, efter at Forundersøgelse er begyndt, eller efter at Tiltale<lb/>
+er rejst i en under Amtmandens Påtalemyndiglied hørende Sag, Kundskab om Omstændigheder, der opfordre til yderligere Efterforskning, og Forholdene ikke tilstede at<lb/>
+indhente henholdsvis Undersøgelsesrettens eller Amtmandens nærmere Bestemmelse,<lb/>
+foretager han på egen Hånd de Efterforskningshandlinger, han skønner fornødne, og<lb/>
+gør derefter uopholdelig Indberetning til Undersøgelsesretten eller Amtmanden om<lb/>
+det foretagne. Under en sådan genoptagen Efterforskning kan Politimesteren, om fornødent, overensstemmende med § 792 rette Begæringer til en anden Undersøgelsesret<lb/>
+om Foretagelse af enkeltstående Retshandlinger (jvf. § 803, 3die Stykke).
+</p>
+<p>
+Ovenstående Regler gælde også for København med de Lempelser, der følge<lb/>
+af, at Politidirektøren er Påtalemyndiglied i alle Sager.
+</p>
+<wtitle>§ 797.</wtitle>
+<p>
+Klage over formentligt Myndighedsmisbrug fra Politiets Side under Efterforskning kan fremsættes for Undersøgelsesretten i den Kreds, hvor den påklagede<lb/>
+Handling har fundet Sted, eller for den Ret, hvis Virksomhed påkaldes mod Klageren,<lb/>
+eller ved hvilken Sag om den Lovovertrædelse, der var Genstand for Efterforskning,<lb/>
+tingfæstes.
+</p>
+<p>
+Undlader Politiet i de i denne Lovs §§ 729 og 741, jvf. 756, §§ 757 og 766<lb/>
+omhandlede Tilfælde at forelægge Sagen for Retten inden de foreskrevne Frister, skal<lb/>
+Underretsdommeren på det Sted, hvor Beslaglæggelsen, Ransagningen, Anholdelsen<lb/>
+eller Fængslingen er sket, når det ved Klage fra den forurettede eller på anden<lb/>
+Måde kommer til hans Kundskab, afæske Politiet nærmere Forklaring og kan efter<lb/>
+Omstændighederne ophæve den trufne Foranstaltning. Undlader Politiet at svare, ophæves Foranstaltningen straks ved Kendelse. Skyldes Undladelsen en Politimester,<lb/>
+der tillige er Underretsdommer, træder i forannævnte Henseende vedkommende Landsret<lb/>
+i Underrettens Sted.
+</p>
+<p>
+Pålæg af Bøder i Henhold til §§ 185 og 203 kan ophæves af Underretskredsens<lb/>
+Dommer eller af den Ret, ved hvilken Sag om den Lovovertrædelse, der var Genstand<lb/>
+for Efterforskningen, tingfæstes.
+</p>
+<title>Kapitel 73.</title>
+<undertitle>
+Forundersøgelse ved Retten.
+</undertitle>
+<wtitle>§ 798.</wtitle>
+<p>
+Forundersøgelse ved Retten foretages i de Tilfælde, hvor Undersøgelsesdommeren<lb/>
+ikke tillige er Politimester, kun efter Begæring af Politiet. Begæringen fremsættes<lb/>
+skriftlig eller mundtlig til Retsbogen. I Underretskredse, hvor Dommeren tillige er
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

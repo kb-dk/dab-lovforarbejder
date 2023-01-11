@@ -1,0 +1,45 @@
+5
+<pb n="5" />
+<leftside>
+<p>stemmes ved Lovene om den borgerlige Retspleje og Strafferetsplejen, dels Prøvelse i anden Instans af Underretternes Behandlinger<lb />
+og Afgørelser overensstemmende med de nævnte<lb />
+Love. Endvidere kan Kære rejses for Landsretten over Underrettens Afgørelser vedrorende de i § 16 a, c, d og f ommeldte<lb />
+Forhold.
+</p>
+<wtitle>§ 7.
+</wtitle>
+<p>Hvor ikke andet er særlig bestemt i<lb />
+Lovene om Retsplejen eller i denne Lov,<lb />
+deltage i de enkelte Landretssagers Behandling mindst 3 af Rettens Dommere. Sagernes<lb />
+Fordeling mellem Dommerne bestemmes af<lb />
+Iustitiarius efter Forhandling med Rettens<lb />
+Medlemmer.
+</p>
+<wtitle>§ 8.
+</wtitle>
+<p>I de Sager, som indbringes for Landsretten i Medfør af Lov om Strafferetsplejen, beklædes Formandspladsen af en af<lb />
+Kongen blandt Rettens Medlemmer dertil<lb />
+for et Tidsrum af 5 Aar ad Gangen bestikket<lb />
+Formand. Ved hver Landsret kan beskikkes<lb />
+3 saadanne Formænd.
+</p>
+<wtitle>§ 9.
+</wtitle>
+<p>I Sø og Handelssager dannes den sjællandske Landsret af en blandt Rettens Dommere for 5 Aar ad Gangen af Kongen bestikket Formand og 4 sø- eller handelskyndige<lb />
+Dommere; dog kan Retten beklædes af Formanden alene, naar der ikke er Spørgsmaal<lb />
+om Vidneførsel, Syn og Skøn, Afhøring af<lb />
+Parter, Pars Ed, Kendelse om omtvistede<lb />
+Punkter eller Domsforhandling. Naar Søforklaringer skulle optages for Landsretten<lb />
+(jfr. § 188 i Lov om den borgerlige Retspleje) dannes Netten af Formanden og to<lb />
+Myndige Medlemmer.
+</p>
+<p>De so- og handelskyndige Medlemmer<lb />
+vælges paa den i Lov 19. Februar 1861<lb />
+§ 3 angivne Maade og skulle have de i<lb />
+samme Lovs § 4 nævnte Egenskaber, ligesom<lb />
+Bestemmelserne i bemeldte Lovs § 6 og 7<lb />
+skulle gælde for dem, Deres samlede Antal<lb />
+og det i øvrigt fornødne fastsættes ved kgl.<lb />
+Anordning.
+</p>
+</leftside>

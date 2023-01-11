@@ -1,0 +1,150 @@
+845
+<pb n="459">
+<pagename>459</pagename>
+<h>
+<coll>845</coll>
+<colr>846</colr>
+<lb/>
+
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 110<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Ni og tredivte Møde.<lb/>
+(Førtsat.)<lb/>
+</btitle>
+<p>
+<speaker>Rée og Dahlerup </speaker>tiltrådte Begjeringen om Navneopråb, <lb/>
+der fremdeles var forlangt af: <lb/>
+</p>
+<reflist>
+Barfod.	Boisen.<lb/>
+H. P. Hansen.	Mørk Hansen.<lb/>
+Chr. Larsen.	Grundtvig.<lb/>
+With.	la Cour.<lb/>
+Hermannsen.	Flor.<lb/>
+Møller af Flakkeberg.	Wulff.<lb/>
+Jens Jørgensen.<lb/>
+</reflist>
+<p>
+<speaker>Barfod:</speaker> Da jeg seer, at flere Andre have sluttet sig til Forlangendet om Navneopråb istedet for dem, som have frafaldet det, <lb/>
+kan jeg for mit Vedkommende ikke opgive det.<lb/>
+Navneopråb! Navneopråb! <lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Der vil altså skee Navneopråb. Ved den<lb/>
+derpå stedfindende Afstemning blev Resultatet følgende: 137 Stemmegivende, 14 Fraværende, 91 Ja, 46 Nei.<lb/>
+</p>
+<middle>
+Afstemning efter Navneopråb.<lb/>
+</middle>
+<indexlist>
+J a.<lb/>
+Ågård (G.) af Lolland.	Køster.<lb/>
+Ågård af Thisted.	Lorck.<lb/>
+Andresen.	Lüttichan.<lb/>
+Andræ.	Lützhöft.<lb/>
+Bergmann.	Madsen.<lb/>
+Bjerring.	Mundt.<lb/>
+B1ack.	Tage Müller.<lb/>
+Brandt.	Mynster.<lb/>
+Bruun (M. P.) af Bruunshåb.	Møller (R. N.) af Dråby.<lb/>
+Buntzen.	Nielsen (N. H.) af Løserup.<lb/>
+Christensen (Balthazar).	Nyholm.<lb/>
+Christensen (J.) af Voldum.	Nørgård.<lb/>
+Christensen (H.) af Veistrup.	Olesen.<lb/>
+Dahl.	Olrik.<lb/>
+van Dockum.	Ostenfeldt.<lb/>
+Dremsen af Silkeborg.	Ostermann.<lb/>
+Eriksen.	Otterstrøm.<lb/>
+Fibiger.	Orholm.<lb/>
+Funder.	Pape.<lb/>
+Gislason.	Pedersen (I.) af Sæding.<lb/>
+Gleerup.	Pedersen (P.) af Kjøbenhavn.<lb/>
+Gram.	Petersen (C. N.) af Hjørring.<lb/>
+Gudmundsson.	Pjetursson.<lb/>
+Hage.	Ploug.<lb/>
+Hall.	Pløyen.<lb/>
+Hammerich.	Rasmussen (H.) af Egense.<lb/>
+Hansen (I. A.)af kjøbenhavn.	Rasmussen (I.) af Svanninge.<lb/>
+Hansen (L.) af Bjelkerup.	Scavenius.<lb/>
+Hansen (N.) af Eskelund.	Schack.<lb/>
+Hansen (P.) af Abbetved.	Schlegel.<lb/>
+Hasselbalch.	Schroll.<lb/>
+Hastrup.	Schurmann.<lb/>
+von Haven	Schytte.<lb/>
+</indexlist>
+</leftside>
+<rightside>
+<indexlist>
+Høier.	Brinck-Seidelin.<lb/>
+Jacobsen.	Cederfeld de Simonsen.<lb/>
+Jespersen af Grønnebjerggård.	Skeel.<lb/>
+Jespersen (C. M.) af Viborg.	Thalbitzer.<lb/>
+Jespersen (F.) af Bogense.	Theilmann.<lb/>
+Johannsen (F.) af Houby.	Tobiesen.<lb/>
+Johansen (H.) af Knardrup.	Tscherning.<lb/>
+Johansen (H. C.) af Østrup.	Tuxen.<lb/>
+Sehestedt-Juul.	Ussing af Viborg.<lb/>
+Jungersen.	Westergård.<lb/>
+Kirk.	Zeuthen.<lb/>
+Knuth.	Ørsted.<lb/>
+Krieger.<lb/>
+Nei<lb/>
+Bagger.	Kayser.<lb/>
+Barfod.	Larsen (C.) af Dalby.<lb/>
+Bregendahl.	Larsen (I. C.) af Kjøbenhavn.<lb/>
+Boisen.	Leth.<lb/>
+Christensen (Georg) af Kjøbenhavn. Linnemann.<lb/>
+Colding.	Marckmann.<lb/>
+la Cour.	Paludan-Müller.<lb/>
+Dahlerup.	Møller af Flakkeberg.<lb/>
+David.	Neergård.<lb/>
+Dinsen.	Nielsen (H. C.) af Tranberg.<lb/>
+Dremsen af Kjøbenhavn.	Petersen (B.) af Kjøbenhavn.<lb/>
+Duntzfelt.	Petersen (C.) af Davinde.<lb/>
+Flor.	Rée.<lb/>
+Frølund.	Ræder.<lb/>
+Gregersen.	Schiern.<lb/>
+Grundtvig.	Tang.<lb/>
+Hansen (H. P.) af kjøbenhavn.	Tvede<lb/>
+Mørk Hansen.	Algreen-Ussing.<lb/>
+Hermannsen.	Wegener.<lb/>
+Hunderup.	Winther.<lb/>
+Jacobæus.	Vishby.<lb/>
+Johnsen.	With.<lb/>
+Jørgensen.	Wulff.<lb/>
+</indexlist>
+<middle>
+Fraværende.<lb/>
+</middle>
+<indexlist>
+Bruun af Assens.	Rasmussen (M.) af Herlufmagle.<lb/>
+Buchvaldt..	Schaouw.<lb/>
+Fløe.	Sidenius.<lb/>
+Hiort.	Sigurdsson.<lb/>
+Holck.	Stender.<lb/>
+Hvidt.	Stockfleth.<lb/>
+Hækkerup.	Treschom.<lb/>
+</indexlist>
+<p>
+<speaker>Formanden: </speaker>Af de 137, som have Stemmer, have 91<lb/>
+været for Afslutning og 46 imod; der er altså Majoritet for, at<lb/>
+Discussionen skal afsluttes. Det bliver nu at sætte under Afstemning, <lb/>
+hvorvidt dem ærede Forsamling vil gåe ind på det af Rigsdagsmanden for Frederiksborg Amts 1ste District (Olrik) gjørte Forslag<lb/>
+om at gåe over til Dagsordenen, således som han har motiveret<lb/>
+den.<lb/>
+</p>
+<p>
+<speaker>Barfod:</speaker> Jeg er af de samme Medlemmer bemyndiget til<lb/>
+påny at forlange Afstemning ved Navneopråb.<lb/>
+</p>
+</rightside>
+
+</pb>

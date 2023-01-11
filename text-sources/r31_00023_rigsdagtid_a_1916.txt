@@ -1,0 +1,81 @@
+439
+<pb n="23" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>439</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 88.</wtitle>
+<p>
+Udvalgets Formand drager Omsorg for, at de på Hovedlisten opførte Personer<lb />
+på den i §§ 153 ff. foreskrevne Måde indkaldes med en Uges Varsel til at give<lb />
+Møde i Retten ved en Tilsigelse, som angiver Tid og Sted for Rettens Holdelse og<lb />
+indeholder Påmindelse om Pligten til betimelig Angivelse af mulige Fritagelsesgrunde<lb />
+eller Forfald samt om Følgerne af Forsømmelse i denne Henseende og af Udeblivelse<lb />
+uden lovligt Forfald.
+</p>
+<p>
+På lignende Måde gives der de på Hjælpelisten opførte Personer Tilsigelse<lb />
+om, at de under det forestående Ting skal holde sig beredte til efter Indkaldelse<lb />
+at møde til Udøvelse af Nævningehvervet.
+</p>
+<wtitle>§ 89.</wtitle>
+<p>
+Hvis nogen af de tilsagte Hoved- eller Hjælpenævninger mener at have noget<lb />
+ikke ved Forsømmelse afskåret Krav på Fritagelse eller at have lovligt Forfald, bør<lb />
+han ved Tilsigelsens Forkyndelse eller så snart, som det bliver ham muligt, opgive<lb />
+sådant enten for Stævningsmanden, der påtegner Tilsigelsen Bemærkning herom,<lb />
+eller skriftlig til Udvalgets Formand, samt meddele de Oplysninger i så Henseende,<lb />
+som står til hans Rådighed.
+</p>
+<p>
+Forsømmelse af betimelig Anmeldelse af Fritagelsesgrunde medfører deres<lb />
+Fortabelse.
+</p>
+<wtitle>§ 90.</wtitle>
+<p>
+Finder Udvalgets Formand efter de foreliggende Oplysninger, at en fremsat<lb />
+Begæring om Fritagelse bør tages til Følge, eller at et opgivet Forfald er gyldigt,<lb />
+eller at det ved de i § 77 nævnte Meddelelser er oplyst, at Grunde er forhånden,<lb />
+som udelukker nogen af de udtrukne Hoved- eller Hjælpenævninger fra Nævningehvervet, foretager han i et offentligt. Dagen forud bekendtgjort Møde på lignende<lb />
+Måde som i §§ 83—86 foreskrevet ny Lodtrækning til Fuldstændiggørelse henholdsvis<lb />
+af Hovedlisten og Hjælpelisten.
+</p>
+<p>
+Med Hensyn til de ved denne Lodtrækning udtrukne Nævninger iagttages<lb />
+Reglerne i §§ 87 og 88 snarest muligt; de der ommeldte Frister forkortes så meget,<lb />
+som Omstændighederne gør nødvendigt.
+</p>
+<p>
+Finder Udvalgets Formand ikke tilstrækkelig Grund til at tage Hensyn til<lb />
+fremsatte Begæringer om Fritagelse eller opgivne Forfald, lader han Meddelelse derom<lb />
+forkynde for pågældende på den i § 88 bestemte Måde med Betydning om, at<lb />
+Spørgsmålet kan indbringes til Afgørelse af Retten ved Tingets Begyndelse.
+</p>
+<p>
+De af Formanden i Henhold til denne Paragrafs 1ste Stykke trufne Afgørelser
+om Fritagelse og Udelukkelse har kun Gyldighed for det forestående Ting.
+</p>
+<wtitle>§ 91.</wtitle>
+<p>
+Senest Dagen før Tingets Begyndelse skal Årslisten, den endelige Hovedliste<lb />
+og Hjælpeliste for Tinget og de påtegnede Tilsigelser til Hoved- og Hjælpenævningerne være Rettens Formand i Hænde. Fremdeles skal Udvalgets Formand til samme<lb />
+Tid eller senere snarest muligt tilstille Rettens Formand de Meddelelser, som efter<lb />
+§ 77 måtte komme ham i Hænde om tidligere upåagtede eller senere opståede<lb />
+Grunde, som udelukker nogen af de på Tingets Lister opførte Personer fra Nævningehvervet.
+</p>
+<wtitle>§ 92.</wtitle>
+<p>
+Enhver Nævning, som udebliver efter behørig Indkaldelse, uden at lovligt<lb />
+Forfald oplyses, eller som, efter at være mødt, uden Orlov eller oplyst lovligt Forfald<lb />
+unddrager sig Opfyldelsen af de ham som Nævning påhvilende Pligter, ifalder en<lb />
+Bøde, første Gang fra 40 til 400 Kr. og i Gentagelsestilfælde fra 100 til 1,000 Kr.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

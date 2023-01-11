@@ -1,0 +1,40 @@
+2
+<pb n="8" />
+<h>
+<topmidle>2      Kap. I.    Retternes Virkekreds.</topmidle>
+</h>
+<p>8)  De i § 322, sidste Stykke ommeldte Sager.</p>
+<p>9)  Sager   angående strafbare Handlinger,<lb />
+der   ved Lovgivningen   ere  henviste til<lb />
+privat Forfølgning, jfr. Lov om Strafferetsplejens § 35, forsåvidt der ikke påstås højere Erstatning end 400 Kr.</p>
+<wtitle>§ 3.</wtitle>
+<p>Sagens Værdi bestemmes efter Påstanden i Stævningen. Består Søgsmålet<lb />
+af flere Poster eller Fordringer, sammenlægges disse. Ved Krav på noget mod<lb />
+Erlæggelse af en Modpæestation medregnes<lb />
+denne ikke.</p>
+<p>Der tages intet Hensyn til Procesomkostninger og de ved Stavningens Dato<lb />
+endnu ikke forfaldne Renter, ej heller til<lb />
+senere Nedsættelse af Påstanden.</p>
+<wtitle>§ 4.</wtitle>
+<p>Drejer Sagen sig om Rettigheden til<lb />
+periodiske ldelser eller Indtægter, bliver<lb />
+dens Værdi at bestemme efter følgende<lb />
+Regler:</p>
+<p>1)  Ere årtige Idelser eller Indtægter erhvervede, betingede eller tilsagte for bestandig, eller for  flere end de ved Sagens Anlæg   (§ 84)   levende Personers<lb />
+Livstid, eller  for   et   bestemt Tidsrum,<lb />
+der ikke er kortere end 25 År efter det<lb />
+nævnte  Tidspunkt,  bliver Værdien   af<lb />
+Rettigheden at sætte lig med det 25dobbelte af et Års Beløb.</p>
+<p>2)  Ere årlige Adelser eller Indtægter erhvervede,   betingede eller tilsagte for en<lb />
+enkelts  eller   flere ved  Sagens   Anlæg<lb />
+levende Personers Livstid eller i øvrigt<lb />
+for   ubestemt Tid,   sættes   Rettighedens<lb />
+Værdi lig med det 5dobbelte af et Års<lb />
+Beløb.</p>
+<p>3)  Kunne  Ydelser   eller   Indtægter ikkun<lb />
+oppebæres   et   bestemt   Antal   Gange,<lb />
+sættes   Rettighedens Værdi lig med en<lb />
+enkelt Ydelses Beløb taget dette Antal<lb />
+Gange, dog ingensinde over 25.</p>
+<p>Er Beløbet af uartige Adelser eller Indtægter ikke lige stort de forskellige År,<lb />
+tages Gennemsnitsbeløbet som Enhed.</p>

@@ -1,0 +1,145 @@
+763
+<pb n="13" />
+<h>
+<coll>
+763
+</coll>
+<topmidle>
+Bet. o. Lovf. om Rettens Pleje m. m.
+</topmidle>
+<colr>
+764
+</colr>
+</h>
+<title>
+Jylland.
+</title>
+<p>
+24.	Dommeren i Fredericia Købstad m. m.<lb />
+</p>
+<p>
+25.	—	i Kolding Købstad m. m. (borgerlige Sager).<lb />
+</p>
+<p>
+26.	—	i Kolding Købstad m. m. (Straffesager).<lb />
+</p>
+<p>
+27.	—	i Vejle Købstad m. m. (borgerlige Sager).<lb />
+</p>
+<p>
+28.	—	i Vejle Købstad m. m. (Straffesager).<lb />
+</p>
+<p>
+29.	—	i Horsens Købstad.	<lb />
+</p>
+<p>
+30.	—	i Silkeborg Købstad m. m.<lb />
+</p>
+<p>
+31.	—	i Aarhus Købstad (borgerlige Sager).<lb />
+</p>
+<p>
+32.	—	i Aarhus Købstad (Straffesager).<lb />
+</p>
+<p>
+33.	—	i Ning Herred m. m.<lb />
+</p>
+<p>
+34.	—	i Randers Købstad m. m. (borgerlige Sager).<lb />
+</p>
+<p>
+35.	—	i Randers Købstad m. m. (Straffesager).<lb />
+</p>
+<p>
+36.	—	i Hobro Købstad m. m.<lb />
+</p>
+<p>
+37.	—	i Aalborg Købstad.<lb />
+</p>
+<p>
+38.	—	i Nørresundby Købstad m. m.<lb />
+</p>
+<p>
+39.	—	i Sæby Købstad m. m.<lb />
+</p>
+<p>
+40.	—	i Frederikshavn Købstad m. m.<lb />
+</p>
+<p>
+41.	---	i Hjørring Købstad m. m. (borgerlige Sager).<lb />
+</p>
+<p>
+42.	—	i Hjørring Købstad m. m. (Straffesager).<lb />
+</p>
+<p>
+43.	—	i Thisted Købstad m. m.<lb />
+</p>
+<p>
+44.	—	i Nykøbing M. Købstad m. m.<lb />
+</p>
+<p>
+45.	—	i Skive Købstad m. m.<lb />
+</p>
+<p>
+46.	—	i Viborg Købstad m. m. (borgerlige Sager).<lb />
+</p>
+<p>
+47.	—	i Viborg Købstad m. m. (Straffesager).<lb />
+</p>
+<p>
+48.	—	i Herning Købstad m. m.<lb />
+</p>
+<p>
+49.	—	i Holstebro Købstad m. m.<lb />
+</p>
+<p>
+50.	—	i Varde Købstad m. m.<lb />
+</p>
+<p>
+51.	—	i Esbjerg Købstad m. m.<lb />
+</p>
+<p>
+Tavle B.<lb />
+</p>
+<p>
+(Dommere i 2den Lønningsklasse).<lb />
+</p>
+<title>
+Sjælland og Møen,
+</title>
+<p>
+1.	Dommeren i Roskilde Købstad m. m. (Straffesager).<lb />
+</p>
+<p>
+2.	—	i Køge Købstad m. m.<lb />
+</p>
+<p>
+3.	—	i Hørsholm Birk.<lb />
+</p>
+<p>
+4	—	i Hillerød Købstad m. m.<lb />
+</p>
+<p>
+5.	—	i Kronborg vestre Birk.<lb />
+</p>
+<p>
+6.	—	i Nykøbing S. Købstad m. m.<lb />
+</p>
+<p>
+7.	—	i Løve Herred.<lb />
+</p>
+<p>
+8.	—	i Slagelse Købstad m. m.<lb />
+</p>
+<p>
+9.	—	i Bregentved-Gisselfeld Birk.<lb />
+</p>
+<p>
+10.	—	i Ringsted Købstad m. m.<lb />
+</p>
+<p>
+11.	—	i Sorø Købstad m. m.<lb />
+</p>
+<p>
+12.	—	i Storehedinge Købstad m. m.<lb />
+</p>

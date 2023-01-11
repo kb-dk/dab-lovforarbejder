@@ -1,0 +1,66 @@
+486
+<pb n="70" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>486</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+Del har erkendt Rigtigheden af et indtalt Beløb, straks give Sagsøgeren Dom for det<lb />
+af Sagsøgte således anerkendte Beløb.
+</p>
+<p>
+Domme af den Art, som de i foregående Stykke omhandlede, er dog kun<lb />
+at anse som Bestanddele af den endelige Dom, i hvilken de bliver at lægge til Grund<lb />
+og så vidt fornødent at optage; en sådan Dom kan ikke særskilt fuldbyrdes, medmindre Retten særlig bestemmer, at den mod eller uden Sikkerhedsstillelse straks kan<lb />
+fuldbyrdes.
+</p>
+<wtitle>§ 296.</wtitle>
+<p>
+Når en Part ønsker Bevis optaget for en udenlandsk Domstol, kan han af<lb />
+den Ret. for hvilken Sagen henstår, eller, når Søgsmål endnu ikke er tingfæstet,<lb />
+af den Ret, ved hvilken Søgsmålet eventuelt vil være at anlægge, begære udfærdiget<lb />
+en Anmodning til vedkommende Ret i det fremmede Land om Foretagelse af den<lb />
+pågældende Retshandling. For at Begæringen kan tages til Følge, må Parten meddele de Oplysninger, som kræves til Anmodningens Udfærdigelse. Ønskes således<lb />
+Vidner førte, skal de anføres ved Navn med Opgivelse af deres Bopæl og de særlige<lb />
+Forhold, hvorom deres Forklaring ønskes, samt de Dokumenter, som ønskes dem forelagte, eller som de opfordres til at fremlægge, nærmere opgives; så vidt muligt skal<lb />
+der stilles bestemte Spørgsmål til Vidnerne. Ønskes Skøn afgivet, skal Skønsmændenes Egenskaber samt de Forudsætninger, der skal lægges til Grund for Skønnet,<lb />
+tilstrækkeligt angives. Begæringen fremsættes efter de for Begæring om Bevisoptagelse<lb />
+ved danske Retter givne Regler.
+</p>
+<p>
+Retten afgør ved Kendelse, om og i hvilken Udstrækning Begæringen skal<lb />
+efterkommes. Går Kendelsen ud på, at Begæringen helt eller delvis skal efterkommes, skal den indeholde de fornødne Oplysninger til Anmodningens Udfærdigelse<lb />
+samt fastsætte den Sikkerhed, som Parten skal stille for de Omkostninger, som skønnes<lb />
+at ville medgå til Bevisoptagelsen, og den Tid, inden hvilken Sikkerheden skal være<lb />
+stillet. Nâr Sikkerheden er stillet, udfærdiger Rettens Formand en Anmodning til<lb />
+vedkommende Domstol om, at Bevisoptagelse må finde Sted. Anmodningen skal, på<lb />
+Grundlag af det i Kendelsen oplyste, indeholde en kort Fremstilling af det Forhold,<lb />
+der ligger til Grund for Sagen, samt en nøjagtig Angivelse af, hvad der begæres foretaget, hvorhos den skal oplyse, hvorvidt nogen af Parterne skal varsles til Forretningen,<lb />
+og i bekræftende Fald Varselets Længde. I øvrigt forholdes efter de traktatmæssig fastsatte<lb />
+Bestemmelser om Fremgangsmåden ved Fremsættelse af Retsanmodninger fra Danmark til Udlandet, jfr. Justitsministeriets Bekendtgørelse Nr. 119 af 19. Maj 1909 m. m.
+</p>
+<p>
+Skal Partsed aflægges ved fremmed Domstol, fremsættes Begæring om dens<lb />
+Aflæggelse for den Ret, der har afsagt Edsdommen.
+</p>
+<p>
+Anmodninger fra fremmede Retter om Bevisoptagelse eller andre retslige Handlinger bliver at efterkomme overensstemmende med de derom gældende Lovbestemmelser og traktatmæssige Bestemmelser, jfr. i øvrigt § 195.
+</p>
+<title>Kapitel 28.</title>
+<undertitle>
+Om Parternes og Trediemands Forpligtelse til at fremlægge synbare Bevismidler.
+</undertitle>
+<wtitle>§ 297.</wtitle>
+<p>
+Dokumenter, som er i Partens Besiddelse, eller som han uden Rettens Medvirkning kan forskaffe sig, må fremlægges overensstemmende med de i 2det Afsnit<lb />
+indeholdte Regler, jfr. navnlig §§ 349, 359, 410 og 432.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

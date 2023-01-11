@@ -1,0 +1,208 @@
+2877
+<pb n="39" />
+<h>
+<coll>2877</coll>
+<topmidle>Bilag til Bet. o. Lovf. om Rettens Pleje m. m.</topmidle>
+<colr>2878</colr>
+</h>
+<table>
+<tr>
+<td>
+Beregning  1909.
+</td>
+<td>
+Beregning<lb />
+1912.
+</td>
+<td>
+Beregning<lb />
+1914.
+</td>
+<td>
+	Bemærkninger.
+	<lb />
+</td>
+</tr>
+<tr>
+<td>
+Kr.
+</td>
+<td>
+Kr.
+</td>
+<td>
+Kr.
+</td>
+</tr>
+<tr>
+<td>
+Overført...	
+</td>
+<td>
+301,000	
+</td>
+<td>
+410,500	
+</td>
+<td>
+500,500	
+</td>
+</tr>
+<tr>
+<td>
+6.	Offentlige Anklagere...............	
+</td>
+<td>
+35,000	
+</td>
+<td>
+35,000	
+</td>
+<td>
+105,000	
+</td>
+<td>
+<p>
+Merudgiften 35,000 Kr. i Beregningerne af 1909 og<lb />
+1912 skyldtes Forslaget om, at Statskassen skulde<lb />
+bære Halvdelen af Udgifterne til offentlige Anklagere.
+</p>
+<p>
+Stigningen af Merudgiften til 105,000 Kr. skyldes Ind-<lb />
+førelsen af en egentlig Anklagemyndighed.
+</p>
+<p>
+Efter Folketingets Vedtagelse vil Merudgiften yder-<lb />
+ligere stige med 27,000 Kr. i Anledning af Ansæt-<lb />
+telsen af 9 Politifuldmægtige i København (jfr. Lov-<lb />
+forslagets § 108, 2det Stykke).
+</p>
+</td>
+</tr>
+<tr>
+<td>
+7.	Offentlige Forsvarere 			
+</td>
+<td>
+75,000	
+</td>
+<td>
+75,000	
+</td>
+<td>
+75,000	
+</td>
+<td>
+Det er stadig Meningen, at Statskassen skal bære<lb />
+Halvdelen af Udgifterne til offentlige Forsvarere<lb />
+(jfr. Forslag til Lov om Udgifterne i Strafferets-<lb />
+plejen § 3, 2.).
+</td>
+</tr>
+<tr>
+<td>
+8.	Konsultation til ubemidlede (Lovfor-<lb />
+slagets § 135).						.....	
+</td>
+<td>
+10,000	
+</td>
+<td>
+10,000	
+</td>
+<td>
+10,000	
+</td>
+</tr>
+<tr>
+<td>
+9. Leje m, m. af Retslokaler (jfr. Lov-<lb />
+forslagets § 11)			
+</td>
+<td>
+40,000	
+</td>
+<td>
+35,000	
+</td>
+<td>
+35,000	
+</td>
+</tr>
+<tr>
+<td>
+10	Udfærdigelse af Nævningelister		
+</td>
+<td>
+20,000	
+</td>
+<td>
+20,000	
+</td>
+<td>
+20,000	
+</td>
+</tr>
+<tr>
+<td>
+11.	Diæter og Befordringsudgifter til Lands-<lb />
+retternes Personale i Nævningesager .	
+</td>
+<td>
+10,000	
+</td>
+<td>
+10,000	
+</td>
+<td>
+10,000	
+</td>
+</tr>
+<tr>
+<td>
+12.	Diæter og Befordringsudgifter til Næv-<lb />
+ninger 			
+</td>
+<td>
+195,000<lb />		
+</td>
+<td>
+100,000
+</td>
+<td>
+100,000
+</td>
+<td>
+Forskellen i Merudgiften beror paa en fejlagtig Sam-<lb />
+menstilling af paagældende Specialsummer.
+</td>
+</tr>
+<tr>
+<td>
+13. Vidnegodtgørelser 
+</td>
+<td>
+50,000	<lb />
+</td>
+<td>
+50,000	<lb />
+</td>
+<td>
+50,000	
+</td>
+</tr>
+<tr>
+<td>
+	At overføre...	
+</td>
+<td>
+736,000	
+</td>
+<td>
+745,500	
+</td>
+<td>
+905,500	
+</td>
+</tr>
+</table>

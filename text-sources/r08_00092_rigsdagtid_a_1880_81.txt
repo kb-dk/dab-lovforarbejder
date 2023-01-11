@@ -1,0 +1,52 @@
+3547
+<pb n="92" />
+<h>
+<coll>3547</coll>
+<topmidle>Forsl. t. 8. om den borgerlige Retspleie.</topmidle>
+<colr>3548</colr>
+</h>
+<p>ret, men Vidnerne føres ved Underretten paa det Sted, hvor de bo eller opholde sig, i de<lb />
+Former og paa den Maade, som naar Vidner afhøres forend Hovedforhandlingen, og Udstrift<lb />
+af det Stedfundne fremlægges i Overensstemmelse med Reglerne i § 224. Tilstedes Paa-<lb />
+anken, erholder vedkommende Part en Udfærdigelse herom, der maa meddeles Modparten i<lb />
+Forbindelse med den i § 306 omhandlede Underretning om Paaanken.</p>
+<wtitle>§ 305.</wtitle>
+<p>Paaanke er udelukket:</p>
+<p>a) Naar Ankefristen er udloven, og Sagens Fremme ikke tilstedes i Henhold til fore-<lb />
+gaaende Paragraf.</p>
+<p>d) Naar Parten udtrykkeligt eNer skiltiende har givet Afkald paa Paaankc. Saadant<lb />
+Afkald paa Paaanke kan ikke gyldigen gives, førend efterat den Retsafgørelse, om hvis Paa«<lb />
+anke der er Tale, er truffen.</p>
+<wtitle>§ 306.</wtitle>
+<p>Paaanke^iværksættes derved, al Parten paa den i §§ 108—N9 forestrevne Maade<lb />
+meddeler Modparten en skriftlig Underretning om, at han agter at paaanke, i Forbindelse med<lb />
+en summarisk Angivelse af Ankens Gjenstand og Hensigt. Enhver af Parterne kan ivoerk-<lb />
+icette selvstændig Paaankc under Iagttagelse af de almindelige Regler herom. Sker Paaankc<lb />
+fra begge Sider, blive dc tvende Anker i Reglen at forene til samtidig Forhandling (§ 102<lb />
+Ifte Stykke).</p>
+<wtitle>§ 307.</wtitle>
+<p>Senest 4 Uger, efterat den i § 306 omtalte Underretning er given, skal den an-<lb />
+kende Part, dersom han ikke vil anses for at bave frafaldet Paaanke, meddele Modparten<lb />
+sit Ankessrift.</p>
+<p>Ankejkriftet skal indeholde:</p>
+<p>a)  En  fuldstændig og tydelig Angivelse af Ankegrundene og den eller de Paastande,<lb />
+som agtes nedlagte.</p>
+<p>b)  Angivelse af den Sagførers Navn, som maatte værc antaget, eller,   dersom Sag-<lb />
+fører ikke agtes benyttet, af en i Kjøbenhavn boende Mand, hvem alle processuelle meddelelser<lb />
+paa Partens Vegne kunne gjøres.</p>
+<p>o) En paa Heiesterets Skriverkontor given Paategning, hvorved en Tid bestemmes til<lb />
+Sagens Foretagelse i Hoiesteret; dog bliver herved at iagttage, at der skal lades paagjældende<lb />
+Part en Varselsfrist af mindst 8 Uger.</p>
+<wtitle>§ 308.</wtitle>
+<p>Inden Halvdelen af den i Ankeskriftet indeholdte Varselsfrist er udlovet, skal den<lb />
+Ankendes Modpart tilstille denne en meddelelse om, hvilken Sagrgrer han har antaget, eller,<lb />
+dersom Sagfører ikke agtes benyttet, en Opgivelse af en i Kjøbenhavn boende Mand, hvem<lb />
+alle processuelle meddelelser paa Partens Vegne kunne gjeres.</p>
+<p>Vil Modparten, som ikke har anstillet felvstcrndig Paaankc, kontrapaaanke, har han<lb />
+derhos inden fornævnte Frist at overgive den Ankcndc et Tilsvarsskrift, som indeholder Under-<lb />
+retning om Kontraankens Gjenstand og Hensigt, derunder den eller de Paastande, som agtes<lb />
+nedlagte, i Lighed med, hvad der i § 307 Litr. a er bestemt.</p>
+<wtitle>§ 309.</wtitle>
+<p>Naar Paaanke finder Sted, erholder den Ankendes Modpart herved Ret til at kontra-<lb />
+paaanke Dommen i sin Interesse, selv om han ellers ifølge dc almindelige Regler vilde værc<lb />
+udelukket fra at anstille felvstændig Paaanke.</p>

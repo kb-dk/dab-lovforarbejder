@@ -1,0 +1,82 @@
+3779
+<pb n="222">
+<h>
+<coll>
+3779
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3780
+</colr>
+</h>
+<p>
+sonlig myndig, af hans Værge. Er Tiltalte døi, og er han ved Dommen funden skyldig<lb />
+i en i den offentlige Mening vanærende Handling, kan hans Ægtefælle saavel som enhver<lb />
+af hans Slægtninge i op- og nedstigende Linie og hans Søskende anke i hans Sted. Ogsaa<lb />
+Overanklageren kan i dette Tilfælde paaanke en fældende Dom.
+</p>
+<p>
+Tiltaltes Forsvarer ved Landsretten er pligtig til paa Forlangende at bistaa ham<lb />
+med Raad om, hvorvidt han bør paaanke Dommen, saavel som med Affattelsen og Ind-<lb />
+givelsen af Ankerne deleisen og dens Begrundelse.
+</p>
+<lowtitle>§ 942.</lowtitle>
+<p>
+Afkald paa Anke kan finde Sted, efter at Dommen er afsagt. En rejst Anke<lb />
+kan frafaldes, saa længe Dom ikke er afsagt af Højesteret. Frafaldes Anke, efter at<lb />
+Domsforhandling for Højesteret er begyndt, kan derved dog ikke Prøvelse af saadanne<lb />
+Ankegrunde unddrages Højesteret, som tages i Betragtning i Embeds Medfør (§ 959).
+</p>
+<lowtitle>§ 943.</lowtitle>
+<p>
+Anke kan støttes paa, at Rettergangsregler ere tilsidesatte eller fejlagtig an-<lb />
+vendte; dog kan Tilsidesættelse eller fejlagtig Anvendelse af Rettergangsregler, hvis<lb />
+Overholdelse Retten ikke af egen Drift paaser, kun benyttes som Ankegrund, naar Ind-<lb />
+sigelse betimelig er fremsat for den underordnede Ret.
+</p>
+<p>
+§ 944.<lb />
+I en Sag, der er paakendt uden Nævninger, kan Anke derhos støttes paa:
+</p>
+<p>
+1.	at Retten ved Afgørelsen af, om Tiltalte skal domfældes, har anvendt Straffe-<lb />
+loven urigtigt;
+</p>
+<p>
+2.	at Straffens Størrelse ikke staar i passende Forhold til Brøden;
+</p>
+<p>
+3.	at Spørgsmaalet, om Tiltalte skal domfældes, er urigtigt afgjort som Følge af<lb />
+en fejlagtig Bedømmelse af Bevisernes Vægt;
+</p>
+<p>
+4.	at Spørgsmaalet om Erstatning for uforskyldt Varetægtsfængsel eller for ufor-<lb />
+skyldt Udstaaelse af Straf er urigtigt afgjort.
+</p>
+<p>
+En Anke, der er rettet mod Dommens Afgørelse af Sagens Realitet, betragtes<lb />
+som omfattende ogsaa Beviserne for Tiltaltes Skyld, naar ikke Ankemeddelelsen ud-<lb />
+trykkelig gaar ud paa det modsatte.
+</p>
+<lowtitle>§ 945.</lowtitle>
+<p>
+I en Nævningesag kan Anke foruden paa de i § 943 anførte Ankegrunde kun<lb />
+støttes paa:
+</p>
+<p>
+1.	at Retten har afgjort paa urigtig Maade noget Spørgsmaal, som ifølge §§ 885<lb />
+eller 910 i Slutningen er unddraget fra Nævningernes Afgørelse, eller urigtigt har dom-<lb />
+fældt i Overensstemmelse med en fældende Nævningeerklæring i et Tilfælde, hvor<lb/>
+den<lb />
+i Medfør af § 909 burde have frifundet eller ikkun domfældt for en mindre Forbrydelse,<lb />
+end Erklæringen lyder paa, eller omvendt med Urette har fraveget en fældende Næv-<lb />
+ningeerklæring i Henhold  til § 909 eller frifundet i Henhold til § 869,   2det Stykke;
+</p>
+<p>
+2.	at Nævningernes Erklæring, hvorpaa Dommen er grundet, er bleven fejlagtig<lb />
+paa Grund af urigtig i Retsmødet given Vejledning i Loven fra Rettens Formands<lb />
+Side, eller fordi Spørgsmaalene til Nævningerne lide af Fejl, der bero paa en urigtig<lb />
+Forstaaelse af Straffeloven;
+</p>
+
+</pb>

@@ -1,0 +1,67 @@
+451
+<pb n="35" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>451</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+Anden Bog.
+</p>
+<p>
+Fælles Bestemmelser for borgerlige Sager og
+Straffesager.
+</p>
+<title>Kapitel 16.</title>
+<undertitle>
+Almindelige Bestemmelser om Procesmåden.
+</undertitle>
+<wtitle>§ 148.</wtitle>
+<p>
+Retssager forhandles mundtlig. Skrift anvendes kun i det Omfang, i hvilket<lb />
+Loven særlig bestemmer det.
+</p>
+<p>
+Ved den mundtlige Forhandling benyttes frit Foredrag.
+</p>
+<p>
+Når Oplæsning skal finde Sted, bestemmer Rettens Formand, ved hvem den<lb />
+skal foregå, for så vidt andet ikke i Loven er foreskrevet.
+</p>
+<wtitle>§ 149.</wtitle>
+<p>
+Retssproget er dansk. Afhørelse af Personer, der ikke er det danske Sprog<lb />
+mægtige, foregår ved Hjælp af en edsvoren Tolk. Dog kan i borgerlige Sager ved<lb />
+Underret Tilkaldelse af Tolk undlades, når ingen af Parterne gør Fordring herpå,<lb />
+og Retten tiltror sig fornødent Kendskab til det fremmede Sprog. Det samme kan<lb />
+under sidstnævnte Forudsætning finde Sted i Straffesager udenfor Domsforhandling for<lb />
+Landsret.
+</p>
+<p>
+Dokumenter, der er affattede i fremmede Sprog, skal ledsages af en Oversættelse, der, når Retten eller Modparten forlanger det, skal bekræftes af en<lb />
+autoriseret Translatør.
+</p>
+<p>
+Forhandling med og Afhørelse af døve, stumme og døvstumme foregår enten<lb />
+ved Hjælp af Personer, der er kyndige i Tegnsproget eller Talemetoden, og som<lb />
+forud tages i Ed, eller ved skriftlige Spørgsmål og Svar.
+</p>
+<p>
+Til at bistå som Tolk eller Tegnsprogkyndig må ingen tilkaldes, der ifølge<lb />
+§§ 60 og 62 vilde være udelukket fra at handle som Dommer i Sagen. I øvrigt bliver<lb />
+de om Vidner gældende Regler at anvende på de nævnte Personer med de Lempelser,<lb />
+der følger af Forholdets Natur, og for så vidt ikke andet særlig er foreskrevet.
+</p>
+<wtitle>§ 150.</wtitle>
+<p>
+Rettens Formand leder Forhandlingen. Han bestemmer Rækkefølgen af de<lb />
+enkelte Dele af Forhandlingen, for så vidt Loven ikke indeholder Forskrifter derom.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

@@ -1,0 +1,45 @@
+2921
+<pb n="104" />
+<h>
+<coll>2921 Tillæg A. (184).</coll>
+<topmidle>
+Kommissionens Bem. t. Udk. t. L. om den borgerlige Retspleje.
+</topmidle>
+<colr>Ordentlig Samling 1901.  2922</colr>
+</h>
+<leftside>
+<p>
+Bestemmelser, som gaa ud paa en Afkort-<lb />
+ning af de bestaaende Appelfrister. Af flere<lb />
+Grunde maa det nemlig anses for ønskeligt<lb />
+at gøre den Overgangsperiode, i hvilken<lb />
+den skriftlige Domsbehandling bliver at<lb />
+anvende ved Siden af den ny mundtlige<lb />
+Procesmaade, saa kort som muligt; dog<lb />
+har man ikke fundet det rigtigt i nærværende<lb />
+Udkast tillige at begrænse den bestaaende<lb />
+Adgang til Oprejsning, saaledes som sket<lb />
+i	det tidligere Forslags § 648.<lb />
+</p>
+<note>
+Forelagte Lovforslag m. m.<lb />
+</note>
+</leftside>
+<rightside>
+<p>
+§ 534 hviler paa den Betragtning, at<lb />
+der i og for sig ikke er Grund til at ude-<lb />
+lukke det ny Eksekutionssystems Anven-<lb />
+delse paa Domme, som ere afsagte i Med-<lb />
+før af den ældre Lovgivning, om der end<lb />
+efter Sagens Natur for disses Vedkommende<lb />
+paa enkelte Punkter (f. Eks. fordi den<lb />
+ældre Dom fastsætter en anden Eksekutions-<lb />
+frist, end det ny System hjemler) bliver<lb />
+Spørgsmaal om nogen Lempelse ved de<lb />
+ny Reglers Anvendelse.<lb />
+</p>
+<note>
+184
+</note>
+</rightside>

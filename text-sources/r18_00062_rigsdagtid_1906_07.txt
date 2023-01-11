@@ -1,0 +1,62 @@
+3763
+<pb n="62"/>
+<h>
+<coll>3763</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3764</colr>
+</h>
+<wtitle>§ 272.</wtitle>
+<p>
+Retten kan afsige Dom angaaende enkelte af de fremsatte Søgsmaalsgrunde<lb />
+eller Indsigelser saavel som angaaende Modfordringer, ikke blot hvor særskilt For-<lb />
+handling af dem er anordnet (§ 263, sidste Stykke), men ogsaa hvor de, uden at dette<lb />
+er Tilfældet, ere modne til Paakendelse. Ligeledes kan Retten, naar Sagsøgte for en<lb />
+Del har erkendt Rigtigheden af et indtalt Beløb, straks give Sagsøgeren Dom for det<lb />
+af Sagsøgte saaledes anerkendte Beløb.
+</p>
+<p>
+Domme af den Art, som de i foregaaende Stykke omhandlede, ere dog kun<lb />
+at anse som Bestanddele af den endelige Dom, i hvilken de blive at lægge til Grund<lb />
+og saa vidt fornødent at optage; en saadan Dom kan ikke særskilt fuldbyrdes, med-<lb />
+mindre Retten særlig bestemmer, at den mod eller uden Sikkerhedsstillelse straks kan<lb />
+fuldbyrdes.
+</p>
+<wtitle>§ 273.</wtitle>
+<p>
+Naar en Part ønsker Bevis optaget for en udenlandsk Domstol, kan han af<lb />
+den Ret, for hvilken Sagen henstaar. eller, naar Søgsmaal endnu ikke er tingfæstet,<lb />
+af den Ret, ved hvilken Søgsmaalet eventuelt vil være at anlægge, begære udfærdiget<lb />
+en Anmodning til vedkommende Ret i det fremmede Land om Foretagelse af den<lb />
+paagældende Retshandling. For at Begæringen kan tages til Følge, maa Parten med-<lb />
+dele de Oplysninger, som kræves til Anmodningens Udfærdigelse, ønskes saaledes<lb />
+Vidner førte, skulle de anføres ved Navn med Opgivelse af deres Bopæl og de særlige<lb />
+Forhold, hvorom deres Forklaring ønskes, samt de Dokumenter, som ønskes dem fore-<lb />
+lagte, eller som de opfordres til at fremlægge, nærmere opgives; saa vidt muligt skal<lb />
+der stilles bestemte Spørgsmaal til Vidnerne. Ønskes Skøn afgivet, skulle Skønsmæn-<lb />
+denes Egenskaber samt de Forudsætninger, der skulle lægges til Grund for Skønnet,<lb />
+tilstrækkeligt angives. Begæringen fremsættes efter de for Begæring om Bevisoptagelse<lb />
+ved danske Retter givne Regler.
+</p>
+<p>
+Retten afgør ved Kendelse, om og i hvilken Udstrækning Begæringen skal<lb />
+efterkommes. Gaar Kendelsen ud paa, at Begæringen helt eller delvis skal efter-<lb />
+kommes, skal den indeholde de fornødne Oplysninger til Anmodningens Udfærdigelse,<lb />
+samt fastsætte den Sikkerhed, som Parten skal stille for de Omkostninger, som skønnes<lb />
+at ville medgaa til Bevisoptagelsen, og den Tid, inden hvilken Sikkerheden skal være<lb />
+stillet, Naar Sikkerheden er stillet, udfærdiger Rettens Formand en Anmodning til<lb />
+vedkommende Domstol om. at Bevisoptagelse maa tinde Sted. Anmodningen skal, paa<lb />
+Grundlag af det i Kendelsen oplyste, indeholde en kort Fremstilling af det Forhold,<lb />
+der ligger til Grund for Sagen, samt en nøjagtig Angivelse af. hvad der begæres fore-<lb />
+taget, hvorhos den skal oplyse, hvorvidt nogen af Parterne skal varsles til Forretningen,<lb />
+og i bekræftende Fald Varslets Længde. Anmodningen tilstilles Justitsministeriet til<lb />
+videre Foranstaltning.
+</p>
+<p>
+Skal Parts Ed aflægges ved fremmed Domstol, fremsættes Begæring om dens<lb />
+Aflæggelse for den Ret, der har afsagt Edsdommen.
+</p>
+<p>
+Anmodninger fra fremmede Retter om Bevisoptagelse eller andre retslige Hand-<lb />
+linger blive alene at efterkomme, naar de fremsendes gennem Justitsministeriet, jfr.<lb />
+i øvrigt §§ 172 og 311.
+</p>

@@ -1,0 +1,32 @@
+0
+<pb n="3" />
+<p>Kapitel XII.</p>
+<p>Fri Proces, §§ 131—138...............................................    40—42.</p>
+<p>Kapitel XIII.</p>
+<p>Den tvungne Forligsprøve, §§ 139—144...................................    43—44.</p>
+<title>Andet Afsnit.</title>
+<undertitle>Midler til Sagens Oplysning.</undertitle>
+<undertitle>§§ 145—199.</undertitle>
+<p>Kapitel XIV.</p>
+<p>Vidner, §§ 145—172...................................................    45—57.</p>
+<p>Kapitel XV.</p>
+<p>Syn og Skøn, §§  173—188.............................................     57—63.</p>
+<p>Kapitel XVI.</p>
+<p>Dokumenter, §§ 189—192...............................................    63—65.</p>
+<p>Kapitel XVII.</p>
+<p>Afhøring af Parter og Parts Ed, §§ 193—199.............................    65—69.</p>
+
+<title>Tredie Afsnit.</title>
+<undertitle>Rettergangsmåden.</undertitle>
+<undertitle>§§ 200—323.</undertitle>
+<p>Kapitel XVIII.</p>
+<p>Behandlingen af Sager, der i første Instans påkendes af Landsretterne, §§ 200—225    70—81.</p>
+<p>Kapitel XIX.</p>
+<p>Intervention    og Tilstævning   af  Trediemand   ved  Landsretterne   i   første   Instans,</p>
+<p>§§ 226—233......................................................     82—83.</p>
+<p>Kapitel XX. </p>
+<p>Skriftlig Behandling af Sager ved Landsretterne i første Instans, §§ 234—242...    83—85. </p>
+<p>Kapitel XXI.</p>
+<p>Anke til Højesteret, §§ 243—264..........................................    86—93. </p>
+<p>Kapitel XXII. </p>
+<p>Kære til Højesteret, §§ 265—270.........................................    94—95.</p>

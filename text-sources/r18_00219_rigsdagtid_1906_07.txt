@@ -1,0 +1,57 @@
+4077
+<pb n="219"/>
+<h>
+<coll>4077</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>4078</colr>
+</h>
+<wtitle>§ 948.</wtitle>
+<p>
+Er en udebleven Tiltalt bleven domfældt ved Landsretten i en Nævningesag<lb />
+uden overensstemmende med § 814 Nr. 3 at have samtykket i, at Sagen er blevet<lb />
+fremmet i bans Fraværelse, eller ved Underret uden at Anke overensstemmende med<lb />
+Reglerne i Kapitel 79 staar ham aaben, eller ved Sø- og Handelsretten, kan han<lb />
+begære Sagen genoptagen til ny Forhandling, naar han godtgør, at han har haft lov-<lb />
+ligt Forfald og ved ham utilregnelige Omstændigheder har været forhindret fra i Tide<lb />
+at anmelde dette, eller at Stævningen ikke betimelig er kommen til hans Kundskab.<lb />
+Begæringen maa fremsættes inden saadan Frist som bestemt i § 909, jfr. § 910.<lb />
+Beglerne i §§ 940—943 og 946 finde herved tilsvarende Anvendelse.
+</p>
+<p>
+Udebliver Domfældte under den ny Domsforhandling, hæver Retten ved Ken-<lb />
+delse Sagen, og den afsagte Dom bliver staaende ved Magt.
+</p>
+<wtitle>§ 949.</wtitle>
+<p>
+Har en Domfældt udstaaet Straf, der bortfalder enten som Følge af Anke<lb />
+eller af Genoptagelse, har han Krav paa Erstatning. De i § 760 for Sager angaaende<lb />
+Erstatning for Varetægtsfængsel givne Regier komme i øvrigt til Anvendelse ogsaa<lb />
+paa disse Sager.
+</p>
+<htitle>Syvende Afsnit.</htitle>
+<title>
+Regler om Paatale af særlige Myndigheder og om Anke af<lb />
+visse private Straffesager samt om Forfølgning af borgerlige
+Krav under Straffesager.
+</title>
+<title>Kapitel 83</title>
+<undertitle>
+Behandling af Sager, som paatales af en særlig offentlig Myndighed.
+</undertitle>
+<wtitle>§ 950.</wtitle>
+<p>
+Forinden en særlig offentlig Myndighed rejser Paatale i Henhold til § 693.<lb />
+skal den ved Henvendelse til Politimesteren forvisse sig om, at denne ikke agter at<lb />
+forfølge Sagen. Naar Paatale herefter rejses af en særlig Myndighed, blive Bestem-<lb />
+melserne i Kapitlerne 77 (med Undtagelse af § 894) og 78—79 og 81 at anvende.
+</p>
+<p>
+Anke fra Paatalens Side besluttes og iværksættes af den sædvanlige Paatale-<lb />
+myndighed, dog kun efter Begæring af den særlige Myndighed.
+</p>
+<p>
+Har Politimesteren indledet, men senere frafaldet Forfølgning, og er Sagen<lb />
+som Følge heraf bleven hævet, kan den særlige Myndighed rejse ny Forfølgning; dog<lb />
+maa Begæring til vedkommende Underret i saa Fald indgives inden fjorten Dage,<lb />
+efter at Sagen er hævet.
+</p>

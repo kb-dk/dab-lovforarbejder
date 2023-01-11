@@ -1,0 +1,68 @@
+2249
+<pb n="51" />
+<h>
+<coll>2249</coll>
+<topmidle>Tillæg A. (142).	Ordentlig Samling 1901.</topmidle>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2250</colr>
+</h>
+<title>Kapitel XXI.</title>
+<undertitle>
+Anke til Højesteret.
+</undertitle>
+<wtitle>§ 243.</wtitle>
+<p>
+Domme, afsagte i første Instans af en Landsret, kunne, med den i § 6 inde-<lb/>
+holdte Undtagelse, overensstemmende med nedenstaaende Regler af Parterne paaankes<lb/>
+til Højesteret. I Forbindelse med Dommen kan Anken omfatte den forudgaaende Be-<lb/>
+handling og de under denne faldne Afgørelser, for saa vidt Anke ikke særlig er<lb/>
+udelukket.
+</p>
+<p>
+Anke kan iværksættes til Forandring, Ophævelse eller Hjemvisning, hvorimod<lb/>
+Anke alene til Stadfæstelse ikke kan finde Sted. Heller ikke kan Anke iværksættes<lb/>
+alene til Forandring af Dommens Bestemmelser om Procesomkostninger og processuelle<lb/>
+Straffe. Dog kan Højesterets Justitiarius i Forening med to Medlemmer af Retten<lb/>
+tillade, at deslige Bestemmelser særskilt paaankes af Parterne, naar Afgørelse med<lb/>
+Hensyn til disse Punkter er uafhængig af Sagens Udfald, eller af Trediemand, hvem<lb/>
+Omkostninger eller Straf er paalagt eller Salær tilkendt eller frakendt.
+</p>
+<wtitle>§ 244.</wtitle>
+<p>
+Anke kan iværksættes fra begge Parters Side, men de tvende Anker blive da<lb/>
+at forene til samtidig Forhandling, jfr. § 94, 1ste Stykke.
+</p>
+<p>
+Udtrykkelig eller stiltiende Afkald paa Anke kan ikke gyldig gives, forinden<lb/>
+den Retsafgørelse, om hvis Paaanke der er Tale, er truffen.
+</p>
+<wtitle>§ 245.</wtitle>
+<p>
+Edsdomme og Afgørelser af enkelte Stridsspørgsmaal i Henhold til § 107<lb/>
+kunne først paaankes, naar den endelige Dom er afsagt.
+</p>
+<wtitle>§ 246.</wtitle>
+<p>
+Ankefristen er 8 Uger fra Dommens Afsigelse at regne. Anken kan dog und-<lb/>
+tagelsesvis tilstedes indtil et Aar efter Dommens Afsigelse, naar der foreligger til-<lb/>
+strækkelig Grund til at afvige fra den almindelige Regel om Ankefristen.
+</p>
+<p>
+Den, der vil paaanke efter Udløbet af den almindelige Ankefrist, maa indgive<lb/>
+et begrundet skriftligt Andragende derom til Højesterets Justitiarius, som træffer Af-<lb/>
+gørelse i Forening med to Medlemmer af Retten. Modparten kan opfordres til at<lb/>
+erklære sig over Andragendet, og den Part, der vil anke, maa paa Opfordring af for-<lb/>
+nævnte Udvalg af Retten tilvejebringe de fornødne Oplysninger. Skulde Vidneførsel<lb/>
+være nødvendig, bestemmer Udvalget, om den skal finde Sted umiddelbart for det eller<lb/>
+for Underret. Tilstedes Anke, tilkendegives dette skriftlig vedkommende Part, som<lb/>
+derom har at gøre Meddelelse til Modparten inden 4 Uger, efter at Tilladelsen er givet.
+</p>
+<wtitle>§ 247.</wtitle>
+<p>
+Inden Ankefristens Udløb eller inden 4 Uger, efter at den i § 246 ommeldte<lb/>
+Tilladelse til Anke er meddelt, skal Appellanten indlevere Ankestævning paa Rettens<lb/>
+Kontor til Sagens Berammelse overensstemmende med de i § 201 fastsatte Regler.<lb/>
+Begæres Sagen berammet til et overdrevent fjernt Tidspunkt, skal Justitssekretæren<lb/>
+forelægge Rettens Justitiarius Spørgsmaalet til Afgørelse.
+</p>
+<signatur>Forelagte Lovforslag m. m.	142</signatur>

@@ -1,0 +1,70 @@
+2193
+<pb n="23" />
+<h>
+<coll>2193</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2194</colr>
+</h>
+<p>
+Har Sagsøgte lovlig tilbudt Sagsøgeren, hvad der kan tilkomme denne, bør<lb/>
+Sagsøgeren erstatte Sagsøgte Udgifterne ved den derefter følgende Del af Processen.
+</p>
+<wtitle>§ 114.</wtitle>
+<p>
+Naar Sagen i det hele afvises, betragtes den med Hensyn til Procesomkost-<lb/>
+ninger som tabt af Sagsøgeren.
+</p>
+<wtitle>§ 115.</wtitle>
+<p>
+Procesfæller hæfte solidarisk for Procesomkostninger. Dog kan Retten, naar<lb/>
+Omstændighederne tale derfor, paalægge en enkelt eller enkelte af dem at udrede visse<lb/>
+Dele af Omkostningerne.
+</p>
+<wtitle>§ 116.</wtitle>
+<p>
+For saa vidt en Sags Udfald er gjort afhængigt af den ene Parts Ed, bliver<lb/>
+den ogsaa i Henseende til Procesomkostningerne at betragte som vunden eller tabt af<lb/>
+ham, eftersom Eden aflægges eller ikke.
+</p>
+<wtitle>§ 117.</wtitle>
+<p>
+Naar hver især af Parterne for en Del taber og for en Del vinder Sagen,<lb/>
+blive Processens Omkostninger delvis at paalægge en af Parterne eller at ophæve.
+</p>
+<p>
+Dog kan Retten paalægge en Part at erstatte Modparten Processens Omkost-<lb/>
+ninger, naar dennes Paastand kun i en mindre betydelig Grad har været afvigende<lb/>
+fra, hvad der bliver kendt for Ret, og ingen særskilte Omkostninger ere foranledigede<lb/>
+ved Afvigelsen.
+</p>
+<wtitle>§ 118.</wtitle>
+<p>
+Den Part, som ved Anke eller Kære ikke opnaar nogen Forandring af den<lb/>
+paaklagede Afgørelse, anses for saa vidt som tabende og har derfor ordentligvis at
+</p>
+<p>
+erstatte Modparten Ankesagens eller Kæremaalets Omkostninger.
+</p>
+<wtitle>§ 119.</wtitle>
+<p>
+Opnaas der ved Anke eller Kære en Forandring i den faldne Dom eller Ken-<lb/>
+delse, bliver der med Hensyn til Ankesagens eller Kæremaalets Omkostninger saavel<lb/>
+som med Hensyn til Omkostningerne ved Sagens tidligere Behandling, for saa vidt<lb/>
+herom skal træffes Afgørelse, at forholde efter de i §§ 113 til 117 givne Regler og<lb/>
+Omkostningerne enten at paalægge Modparten eller at ophæve eller dele.
+</p>
+<wtitle>§ l20.</wtitle>
+<p>
+Den Part, som ved tilregnelig Fejl eller Forsømmelse har foranlediget spildte<lb/>
+Møder, ufornødne Udsættelser, unyttig Bevisførelse eller andre overflødige og hensigts-<lb/>
+løse processuelle Skridt, er, selv om han i øvrigt vinder Sagen, pligtig at erstatte Mod-<lb/>
+parten de denne derved foraarsagede Udgifter.
+</p>
+<wtitle>§ 121.</wtitle>
+<p>
+Angaaende Omkostningerne ved enkelte Proceshandlinger eller Procesafsnit<lb/>
+kan der straks træffes Afgørelse af Retten ved Kendelse, naar saadan Afgørelse, saa-<lb/>
+som i de i foregaaende Paragraf omhandlede Tilfælde, er uafhængig af Hovedsagens<lb/>
+Udfald. Er særskilt Afgørelse ikke tilforn truffet, gøres der i den endelige Dom for-<lb/>
+nøden Bemærkning i Henseende til saadanne enkelte Proceshandlinger og Procesafsnit.
+</p>

@@ -1,0 +1,70 @@
+3771
+<pb n="66"/>
+<h>
+<coll>3771</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3772</colr>
+</h>
+<p>
+skabet eller tillades Kvinden, for saa vidt hun er Sagsøger, edeligt at bekræfte sin<lb />
+Sigtelse, alt dog kun saafremt der ikke findes tilvejebragt tilstrækkeligt Bevis for eller<lb />
+mod Sigtelsen.
+</p>
+<wtitle>§ 285.</wtitle>
+<p>
+Parts Ed tilstedes eller paalægges ved en foreløbig Dom (Edsdom), der affattes<lb />
+alternativt, men ikke er eksigibel.
+</p>
+<p>
+Naar Edsdommen er afsagt, bestemmer Retten Sted og Tid for Edens Af-<lb />
+læggelse, Eden aflægges i Reglen for den Ret, der har afsagt Dommen. Dog kan<lb />
+det, hvor Forholdene lægge betydelige Hindringer i Vejen herfor, efter' Begæring af<lb />
+den, hvem Ed er paalagt, tillades ham at aflægge Eden for Underretten paa det Sted,<lb />
+hvor han bor eller opholder sig. Ret kan sættes paa den paagældendes Bopæl, naar<lb />
+han paa Grund af Sygdom ikke kan forlade samme. Skal Eden aflægges for den<lb />
+Ret, der har afsagt Dommen, berammes et Retsmøde ikke senere end 14 Dage fra<lb />
+Dommens Afsigelse til Edens Aflæggelse. Skal Eden aflægges ved Underretten paa det<lb />
+Sted, hvor den paagældende bor eller opholder sig, bestemmer den Ret, der har afsagt<lb />
+Dommen, en Frist til Edens Aflæggelse, ikke længere end 4 Uger fra Dommens Af-<lb />
+sigelse, og udsætter herefter Sagen. Den, hvem Ed er paalagt. har da at henvende sig<lb />
+til Underretten for at faa et Møde berammet til Edens Aflæggelse inden den fast-<lb />
+satte Frist, hvorhos han med et Varsel af mindst en Uge har at kalde Modparten til<lb />
+dette Møde. Under særegne Omstændigheder, saasom naar en af Parterne bor<lb />
+udenfor Riget, kunne saavel de nævnte Frister for Edens Aflæggelse som Varslet til<lb />
+Modparten forlænges ved Beslutning af den Ret. der har afsagt Dommen.
+</p>
+<wtitle>§ 286.</wtitle>
+<p>
+I det til Edens Aflæggelse bestemte Retsmode skal Eden aflægges, saafremt<lb />
+ikke Sagen udsættes paa Grund af anmeldt lovligt Forfald for en af Parterne, uover-<lb />
+vindelige Hindringer for Retten og desl. Kan den, hvem Ed er paalagt, paa Grund<lb />
+af Omstændigheder, der oplyses efter Edsdommens Afsigelse, ikke aflægge Eden. maa<lb />
+dette oplyses for den Ret, for hvilken Eden skulde have været aflagt, eller for den<lb />
+Ret, der har afsagt Dommen.
+</p>
+<p>
+Dersom den, hvem Ed er paalagt, udebliver uden lovligt Forfald, anses han<lb />
+at have nægtet Edens Aflæggelse. Edssagen kan genoptages, naar lians Udeblivelse<lb />
+skyldes lovligt Forfald, og han inden en Uge begærer det. Bestemmelserne i § 353<lb />
+finde derved Anvendelse med de fornødne Lempelser. Modpartens Udeblivelse er ingen<lb />
+Hindring for Edens Modtagelse.
+</p>
+<p>
+Forinden Eden aflægges, kan Retten gøre Parten passende Forestillinger og<lb />
+ved Spørgsmaal forvisse sig om, at han tilfulde forstaar Edstemaet, Finder Retten<lb />
+i Henhold hertil eller paa Grund af den Maade, hvorpaa Parten udtaler sig om<lb />
+Sagen, eller af andre Grunde Betænkelighed ved at modtage Eden, kan den udsætte<lb />
+Sagen til et følgende Retsmøde eller endog ved en Kendelse nægte at stede ham til<lb />
+Edsaflæggelse. Gøres der Indsigelse mod Edens Aflæggelse, og saadan Indsigelse for-<lb />
+kastes ved Dommerens Kendelse, bliver det i denne at bestemme, om Kære skal have<lb />
+opsættende Virkning.
+</p>
+<p>
+De Erklæringer eller Udtalelser af Parten, som have fremkaldt Rettens Be-<lb />
+tænkelighed ved Edens Aflæggelse, tilføres Retsbogen.
+</p>
+<wtitle>§ 287.</wtitle>
+<p>
+Naar Eden er aflagt, eller naar den efter Bestemmelserne i § 286 ikke længer<lb />
+kan aflægges, sluttes Edssagen, og saafremt Edens Aflæggelse har været henlagt til
+</p>

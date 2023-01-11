@@ -1,0 +1,134 @@
+767
+<pb n="15" />
+<h>
+<coll>
+767
+</coll>
+<topmidle>
+Bet. o. Lovf. om Rettens Pleje m. m.
+</topmidle>
+<colr>
+768
+</colr>
+</h>
+<p>
+Tavle C.
+(Politimestre i 1ste Lønningsklasse).<lb />
+</p>
+<title>
+Sjælland,
+</title>
+<p>
+1. Politimesteren i Frederiksberg Birk.<lb />
+</p>
+<p>
+2.	—	i Københavns Amts nordre Birk.<lb />
+</p>
+<p>
+3.	—	i Roskilde Købstad m. m.<lb />
+</p>
+<p>
+4.	—	i Køge Købstad m. m.<lb />
+</p>
+<p>
+5.	—	i Helsingør Købstad m. m.<lb />
+</p>
+<p>
+6.	—	i Hillerød Købstad m. m.<lb />
+</p>
+<p>
+7.	—	i Holbæk Købstad m. m.<lb />
+</p>
+<p>
+8.	—	i Slagelse Købstad m. m.<lb />
+</p>
+<p>
+9.	—	i Ringsted Købstad m. m.<lb />
+</p>
+<title>
+Bornholm.
+</title>
+<p>
+10.	Politimesteren i Rønne Købstad m. m.<lb />
+</p>
+<p>
+Lolland-Falster.<lb />
+</p>
+<p>
+11.	Politimesteren i Nykøbing F. Købstad m. m.<lb />
+</p>
+<p>
+12.	—	i Nakskov Købstad m. m.<lb />
+</p>
+<title>
+Fyn.
+</title>
+<p>
+13.	Politimesteren i Svendborg Købstad m. m.<lb />
+</p>
+<p>
+14.	—	i Odense Købstad.<lb />
+</p>
+<title>
+Jylland.
+</title>
+<p>
+15.	Politimesteren i Kolding Købstad m. m.<lb />
+</p>
+<p>
+16.	—	i Vejle Købstad m. m.<lb />
+</p>
+<p>
+17.	—	i Horsens Købstad m. m.<lb />
+</p>
+<p>
+18.	—	i Voer og Nim Herreder m. m.<lb />
+</p>
+<p>
+19.	—	i Silkeborg Købstad m. m.<lb />
+</p>
+<p>
+20.	—	i Aarhus Købstad.<lb />
+</p>
+<p>
+21.	—	i Hasle m. fl. Herreder m. m.<lb />
+</p>
+<p>
+22.	—	i Randers Købstad m. m.<lb />
+</p>
+<p>
+23.	—	i Mariager Købstad m. m.<lb />
+</p>
+<p>
+24.	—	i Løgstør Købstad m. m.<lb />
+</p>
+<p>
+25.	—	i Aalborg Købstad.<lb />
+</p>
+<p>
+26.	—	i Nørresundby Købstad m. m.<lb />
+</p>
+<p>
+27.	—	i Frederikshavn Købstad m. m.<lb />
+</p>
+<p>
+28.	—	i Hjørring Købstad m. m.<lb />
+</p>
+<p>
+29.	—	i Thisted Købstad m. m.<lb />
+</p>
+<p>
+30.	—	i Viborg Købstad m. m.<lb />
+</p>
+<p>
+31.	—	i Fjends-Nørlyng Herreder m. m.<lb />
+</p>
+<p>
+32.	—	i Holstebro Købstad m. m.<lb />
+</p>
+<p>
+33.	—	i Ringkøbing Købstad m. m.<lb />
+</p>
+<p>
+34.	—	i Ribe Købstad m. m.<lb />
+</p>

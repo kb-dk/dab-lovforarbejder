@@ -1,0 +1,200 @@
+759
+<pb n="11" />
+<h>
+<coll>
+759
+</coll>
+<topmidle>
+Bet. o. Lovf. om Rettens Pleje m. m.
+</topmidle>
+<colr>
+760
+</colr>
+</h>
+<leftside>
+<title>
+Til § 75.
+</title>
+<p>
+9)	I 2den Linie ændres „Kommunal-<lb />
+bestyrelsens — i København af det i § 73<lb />
+ommeldte Udvalgs —" til: „Udvalgets".<lb />
+</p>
+<title>
+Til § 76.
+</title>
+<p>
+10)	I 5te Linie ændres „Kommunal-<lb />
+bestyrelsen" til: „Udvalget".<lb />
+</p>
+<title>
+Til § 77.
+</title>
+<p>
+11)	I 3die Linie ændres „Kommunal-<lb />
+bestyrelsens" til: „Udvalgets" og i 7de Linie<lb />
+„Kommunalbestyrelsen" til: „Udvalget".<lb />
+</p>
+<title>
+Til § 79.
+</title>
+<p>
+12)	I Linie 5 ændres „Kommunalbe-<lb />
+styrelsen" til: „Udvalget for Grund-<lb />
+listens Dannelse".<lb />
+</p>
+<title>
+Til § 80.
+</title>
+<p>
+13)	I 3die Stykke, Linie 1, ændres<lb />
+„Kommunalbestyrelsen eller Udvalget" til:<lb />
+„noget af Udvalgene".<lb />
+</p>
+<title>
+Til § 85.
+</title>
+<p>
+14)	I 1ste Stykke. 3die Linie, ændres<lb />
+„30" til: „35" og „10" til: „15", og i 2det<lb />
+Stykke, odie Linie, ændres „10" til: „15"<lb />
+og i 5te Linie „30" til: „35".<lb />
+</p>
+<p>
+15)	Som nyt 3die Stykke indføjes:<lb />
+</p>
+<p>
+„Derefter udskyder i lukket Møde
+hvert af Udvalgets Medlemmer et Navn<lb />
+af hver Liste, hvorpaa de endelige Lister<lb />
+affattes med Udelukkelse af de udskudte<lb />
+Navne. Medlemmerne af Udvalget skal<lb />
+under Ansvar efter Straffelovens § 139<lb />
+iagttage Tavshed om, hvad der foregaar i<lb />
+det nævnte lukkede Møde. Meddelelser<lb />
+om, hvilke Personer der er udskudt, eller<lb />
+hvem der har foretaget Udskydningerne,<lb />
+maa ikke optages i Pressen eller paa an-<lb />
+den Maade ske offentlig. Overtrædelse<lb />
+heraf straffes med Bøder fra 100 til<lb />
+1,000 Kr."<lb />
+</p>
+<p>
+16 a.) I sidste Stykke, 1ste Linie, æn-<lb />
+dres „sidste" til: „større" og „første" til:<lb />
+„mindre".<lb />
+</p>
+<title>
+Til § 108.
+</title>
+<p>
+16 b.) I 2det Stykke, 3die Linie, efter<lb />
+„Statskassen" indsættes: „(jfr. dog § 3,<lb />
+3die Stykke, i Lov om Udgifterne i Straffe-<lb />
+retsplejen)".<lb />
+</p>
+<title>
+Til § 544.
+</title>
+<p>
+17) Linie 3, i Stedet for „i de mere<lb />
+udbredte stedlige Blade" sættes: „i et eller<lb />
+flere af de mere udbredte stedlige Blade".<lb />
+</p>
+</leftside>
+<rightside>
+<title>
+Til § 778.
+</title>
+<p>
+18)	Efter „saadan." i 6te Linie ind-<lb />
+føjes: „Skønner Politimesteren, at saadan<lb />
+Erklæring kan udstedes, udfærdiges denne<lb />
+snarest muligt og overgives vedkommende".<lb />
+</p>
+<p>
+19)	I 5te Linie ændres „Retskreds"<lb />
+til: „Politikreds".<lb />
+</p>
+<p>
+Til Tavle over By- og Herredsrets-<lb />
+kredsene.<lb />
+</p>
+<p>
+20)	Tavlens Nr. 16 affattes saaledes:<lb />
+„Skelskør Købstad og Vester Flakke-<lb />
+bjerg Herred med Korsør Købstad og<lb />
+Landjurisdiktion samt Holsteinborg Birk,<lb />
+27,722 Indb."<lb />
+</p>
+<p>
+21)	Tavlens Nr. 51 affattes saaledes:<lb />
+„Silkeborg Købstad og Birk med Hids<lb />
+</p>
+<p>
+Herred, 26,469 Indb."<lb />
+</p>
+<p>
+22)	Tavlens Nr. 59 affattes saaledes:<lb />
+-Rougsø og en Del af Sønderhald j<lb />
+</p>
+<p>
+Herred, 20,969 Indb."<lb />
+</p>
+<p>
+23)	Som Nr. 60 indskydes:<lb />
+</p>
+<p>
+,,Øster Lisbjerg med en Del af Søn-<lb />
+derhald Herred, 13,048 Indb."<lb />
+</p>
+<p>
+24)	Nr. 71 og 72 affattes saaledes:<lb />
+„[72] Hjørring Købstad og Vennebjerg<lb />
+</p>
+<p>
+Herred med Børglum Herred, 52,780 Indb."<lb />
+</p>
+<p>
+25)	Tavlens Nr. 79 affattes saaledes:<lb />
+„Lysgaard samt en Del af Hovlbjerg<lb />
+</p>
+<p>
+Herred, 16,416 Indb."<lb />
+</p>
+<p>
+Til Tavle over Politikredsene.<lb />
+</p>
+<p>
+26)	Tavlens Nr. 38 affattes saaledes:<lb />
+„Silkeborg Købstad og Birk og Hids<lb />
+</p>
+<p>
+Herred samt Skanderborg Købstad og<lb />
+Hjelmslev—Gjern Herreder."<lb />
+</p>
+<p>
+27)	Tavlens Nr. 57 affattes saaledes:<lb />
+„Viborg Købstad og Lysgaard samt
+en Del af Hovlbjerg Herred."<lb />
+</p>
+<htitle>
+Til B. Nr. 24. Forslag til Lønningslov<lb />
+for forskellige af de i Lov om Rettens<lb />
+Pleje omhandlede Embeds- og Bestil-<lb />
+lingsmænd.
+</htitle>
+<p>
+Af Udvalget:<lb />
+</p>
+<title>
+Til § 9.
+</title>
+<p>
+1)	3die Stykke udgaar.<lb />
+</p>
+<p>
+2)	De Lovforslaget vedføjede Tavles<lb />
+affattes saaledes:<lb />
+</p>
+</rightside>

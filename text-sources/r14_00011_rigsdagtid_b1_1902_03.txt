@@ -1,0 +1,179 @@
+41
+<pb n="11" >
+<p rend="page">11</p>
+<h>
+<coll>41</coll>
+<colr>42</colr><lb />
+Bet. o. Lovf. om Rettens Pleje.<lb />
+</h>
+<leftside>
+<p>
+<dtitle>Til § 102.</dtitle>
+</p>
+<p>
+Af Udvalget undtagen Nanke:
+</p>
+<p>
+<nnumber>38</nnumber>
+38)    I Linie 1 efter „Domssager" ind-
+skydes:  „for Landsret og Højesteret".
+</p>
+<p>
+(Komma foran „er det" udgaar).
+</p>
+<p>
+<dtitle>Til § 103.</dtitle>
+</p>
+<p>
+Af Udvalget undtagen Nanke:
+</p>
+<p>
+<nnumber>39</nnumber>
+39)    I Linie 1 efter „Domssager" ind-
+skydes:   „for Landsret og Højesteret samt
+under   mundtlig   Forhandling i Domssager
+for Underret."
+</p>
+<p>
+Af Udvalget:
+</p>
+<p>
+<nnumber>40</nnumber>
+40)    I   2det Stykke  ændres   „i fornø-
+dent Fald" til: ,.paa Rettens eller Modpar-
+tens Forlangende".
+</p>
+<p>
+<dtitle>Til § 104.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>41</nnumber>
+41)    I 2den Linie indskydes efter „har
+underkastet   sig" Ordene  „i  det mindste".
+</p>
+<p>
+<dtitle>Til § 108.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>42</nnumber>
+42)    4de Punktum udgaar.
+</p>
+<p>
+<dtitle>Til § 109.</dtitle>
+</p>
+<p>
+Af Alfred Christensen, Høgsbro og L. Ras-
+mussen:
+</p>
+<p>
+<nnumber>43</nnumber>
+43)    Paragraffens   Begyndelse  affattes
+saaledes:
+</p>
+<p>
+„Ingen Sagfører maa" osv.
+I  2det  Stykke,   Linie   3,   sættes   „."
+efter „Genstand", og Resten udgaar.
+</p>
+<p>
+<dtitle>Til § 113.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>44</nnumber>
+44)     I   Linie    2    ændres   Sætningen
+,.der  først kan generhverves"   til   „og kan
+som Regel først tilbagegive ham den".
+</p>
+<p>
+<dtitle>Til § 120.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>45</nnumber>
+45)    I 1ste Linie udgaar Ordet „fuld-
+stændige".
+</p>
+</leftside>
+<rightside>
+<p>
+<dtitle>Til § 122.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>46</nnumber>
+46)    Til Nr. 9 føjes:   „og Sagen ikke
+rejser sig   af   en   politisk Lovovertrædelse
+(jfr. § 674)".
+</p>
+<p>
+<dtitle>Til § 167.</dtitle>
+Af Nanke:
+</p>
+<p>
+<nnumber>47</nnumber>
+47)    De   sidste   Ord:    „der ikke   ere
+Sagførere" udgaa.
+</p>
+<p>
+<dtitle>Til § 173.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>48</nnumber>
+48)    Til Stk. 1 i Sl. føjes:
+„Retslisten   for   den   enkelte Dag op-
+</p>
+<p>
+slaas, Dagen før Retten sættes, i Rettens
+Forværelse paa et for alle tilgængeligt
+Sted".
+</p>
+<p>
+<dtitle>Til § 179.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>49</nnumber>
+49)    Ordene i Linie  2:   ,,Han   er   til
+den Ende berettiget til" ændres til: „Han
+er berettiget til i dette Øjemed".
+</p>
+<p>
+<dtitle>Til § 201.</dtitle>
+Af Nanke:
+</p>
+<p>
+<nnumber>50</nnumber>
+50)    I 3die Linie udgaa Ordene:   „og
+paahøre Beslutningen".
+</p>
+<p>
+<dtitle>Til § 219.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>51</nnumber>
+51)    I   Linie   3—4   ændres    Ordene:
+„Afstenmingsordenen bestemmes" til: „I de
+Højesteretssager,     hvori    søkyndige    eller
+handelskyndige   eller  teknisk   kyndige ere
+tilkaldte, afgrænser Retten uden Deltagelse
+af    de    sagkyndige    Medlemmer   Afstem-
+ningsgenstandene  for disse og for Rettens
+lovkyndige Medlemmer   og bestemmer Af-
+stemningsordenen.    I øvrigt bestemmes Af-
+stemningsordenen".
+</p>
+<p>
+Af Borgbjerg og J. Jensen:
+</p>
+<p>
+<nnumber>52</nnumber>
+52)    I   andet  Stykke   udgaa   Ordene:
+og „Afstemninger".
+</p>
+</rightside>
+</pb>

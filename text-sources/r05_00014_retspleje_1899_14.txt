@@ -1,0 +1,44 @@
+8
+<pb n="14" />
+<h>
+<topmidle>8          Kap. II.   Værneting.</topmidle>
+</h>
+<p>Udlændingen i den Retskres, hvor han ved<lb />
+Stævningens eller Forligsklagens Forkyndelse opholder sig eller har Gods. 
+Med Hensyn til svenske Undersåtter<lb />
+har det sit Forblivende ved Lov om svenske<lb />
+Dommes Fuldbyrdelse m. v. af 19. Februar<lb />
+1861 § 6.</p>
+<title>Kapitel III.</title>
+<undertitle>Forening af flere Krav under samme<lb />
+Retssag.</undertitle>
+<wtitle>§ 26.</wtitle>
+<p>Flere Krav af samme Sagsøger mod<lb />
+samme Sagvolder kunne fra først af forenes under een Retssag, selv om de hvile på<lb />
+forskellige faktiske og retlige Grunde og ere<lb />
+af ulige Beskaffenhed, når Retten er kompetent med Hensyn til dem alle, og samme<lb />
+Procesart er anvendelig på dem. 
+</p>
+<wtitle>§ 27.</wtitle>
+<p>
+Under samme Betingelser kunne flere<lb />
+Parter fra først af sagsøge eller sagsøges i<lb />
+Forening under samme Retssag; dog udfordres endvidere hertil, forsåvidt Kravene<lb />
+ikke have fælles Oprindelse, eller særlig Lovforskrift hjemler deres Forening, at ingen<lb />
+af Parterne gør Indsigelse derimod. 
+</p>
+<wtitle>§ 28.</wtitle>
+<p>
+Enhver, der tror sig i det hele eller for<lb />
+en Del berettiget til den Ting eller den<lb />
+Rettighed, som er Genstand for en Retstrætte i første Instans imellem Andre, kan<lb />
+under Iagttagelse af Reglerne i Kap. XIX.<lb />
+indtæede som Intervenient i den begyndte<lb />
+Sag. 
+Intervention kan ikke finde Sted, når<lb />
+den Ret, for hvilken Sagen svæver, ikke ved<lb />
+Parternes Samtykke kunde gøres kompetent<lb />
+til at påkende Interventionssøgsmålet, dersom det anlagdes særstilt.</p>
+<wtitle>§ 29.</wtitle>
+<p>Enhver,   der har en retlig Interesse i,<lb />
+at en Part vinder en  for Retten svævende</p>

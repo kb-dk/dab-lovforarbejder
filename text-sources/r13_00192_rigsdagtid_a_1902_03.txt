@@ -1,0 +1,81 @@
+2111
+<pb n="192" />
+<h>
+<coll>
+2111
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2112
+</colr>
+</h>
+<wtitle>§  857.</wtitle>
+<p>
+Anmeldelser fra private om formentlig begaaede Forbrydelser eller om For-<lb />
+bold, der vække Mistanke herom, gøres ordentligvis til Politiet, Dog kunne de ogsaa<lb />
+modtages af Overanklageren, som da ufortøvet tilstiller Politimesteren samme.
+</p>
+<p>
+Anmeldelsen kan være skriftlig eller mundtlig; i sidste Fald skal Modtageren<lb />
+af samme opsætte skriftlig Beretning om den.
+</p>
+<p>
+Naar dertil findes Grund, kan Politimesteren eller Overanklageren, forinden<lb />
+videre Skridt foretages, ved Begæring til Undersøgelsesretten foranledige Anmelderen<lb />
+afhørt for Retten (jfr. §  863).
+</p>
+<wtitle>§  858.</wtitle>
+<p>
+Er Sagens Paatale afhængig af Justitsministerens Befaling eller af en Opfor-<lb />
+dring fra en særlig offentlig Myndighed (jfr. § 700), skal Politimesteren bringe de ham<lb />
+tilkomne Oplysninger henholdsvis til Overanklagerens eller den særlige Myndigheds<lb />
+Kundskab, men i øvrigt ikke foretage yderligere Efterforskninger, førend vedkommendes<lb />
+Befaling eller Opfordring foreligger.
+</p>
+<p>
+Er en Lovovertrædelse, hvis offentlige Forfølgning er betinget af en privats<lb />
+Begæring kommen til Politimesterens Kundskab, men der er Grund til at antage, at<lb />
+den er den paagældende private ubekendt, kan han gøre Meddelelse til denne,<lb />
+men foretager i øvrigt ingen Efterforskning, førend en udtrykkelig Begæring fra den<lb />
+private foreligger. Indeholder en af den private indgiven Anmeldelse om Forbry-<lb />
+delsen ingen saadan Begæring, skal han foranlediges til at give den fornødne Erklæring.
+</p>
+<p>
+Ovenstaaende Regler udelukke dog ikke, at uopsættelige Efterforskningsskridt<lb />
+foretages, førend Befalingen. Opfordringen eller Begæringen foreligger, saafremt Ger-<lb />
+ningen maa antages at være vedkommende ubekendt, og Omstændighederne gøre det<lb />
+rimeligt, at Paatale vil blive begært (jfr. §  700).
+</p>
+<wtitle>§  859.</wtitle>
+<p>
+Finder Politimesteren, at der mangler Grund til at foretage videre Skridt i<lb />
+Anledning af en indgiven Anmeldelse eller en fremsat Begæring om Forfølgning, skal<lb />
+han paa Forlangende meddele en skriftlig Erklæring om sin Vægring, og om denne<lb />
+er grundet paa, at den formentlige Lovovertrædelse ikke antages at være Genstand<lb />
+for offentlig Forfølgning, eller paa Anmeldelsens utilstrækkelige Grundlag.
+</p>
+<p>
+Den, som har -indgivet Anmeldelsen eller fremsat Begæringen, kan derefter<lb />
+henvende sig til den overordnede Myndighed med Andragende om, at det maa blive<lb />
+paalagt vedkommende at træde i Virksomhed.
+</p>
+<wtitle>§  860.</wtitle>
+<p>
+Efterforskningen skal rettes paa at tilvejebringe saadanne Oplysninger, som<lb />
+ere tilstrækkelige til at bestemme, om Forfølgning skal indledes ved Retten ved Be-<lb />
+gæring om Forundersøgelse eller ved Iværksættelse af Tiltale.
+</p>
+<p>
+Saa bør og i øvrigt alle Oplysninger fremskaffes og Foranstaltninger træffes,<lb />
+som skønnes nødvendige eller tjenlige til at forberede Sagens Behandling ved Retten.
+</p>
+<p>
+Befrygtes et Bevis ellers at ville gaa tabt, bør Bevisførelse foranstaltes.
+</p>
+<wtitle>§  861.</wtitle>
+<p>
+Til Opnaaelse af Efterforskningens Øjemed er Politimesteren berettiget til<lb />
+under de Betingelser og med de nærmere Bestemmelser, som herom i det foregaaende
+</p>

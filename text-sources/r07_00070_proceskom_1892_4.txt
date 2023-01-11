@@ -1,0 +1,88 @@
+3349
+<pb n="70" />
+<h>
+<coll>3349</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3350</colr>
+</h>
+<p>
+Hvad angaar Arresttidens Varighed da har i noget over Halvdelen af Til-<lb />
+fældene Varetægtsarresten ikke strakt sig over 2 Uger. og af de øvrige Tilfælde har<lb />
+kun 43 (1892) og 77 (1893) haft en Varighed af over 3 Maaneder og af disse igen<lb />
+kun 6 (1892) og 7 (1893) — deraf henholdsvis 3 og 5 fra Finmarken — af over<lb />
+6 Maaneder.
+</p>
+<p>
+Af Genoptagelsesbegæringer med Hensyn til upaaankelige Sager (Kapitel 30)<lb />
+ere indkomne:
+</p>
+<table>
+<row>
+	1892.	1893.
+</row>
+<row>
+I Forhørs- og Meddomsretssager		5	4
+</row>
+<row>
+Af disse Begæringer forkastedes 			.		1	1
+</row>
+<row>
+medens de øvrige enten førte til fornyet Domsforhandling eller<lb />
+til Frifindelsesdom uden saadan, eller vare uafgjorte ved<lb />
+Aarets Udgang
+i Lasmandsretssager		12	28
+</row>
+</table>
+<p>
+De 12 forkastedes alle; af de 28 forkastedes 19, medens 1 foranledigede ny<lb />
+Domsforhandling og 8 vare uafgjorte ved Udgangen af 1893.
+</p>
+<p>
+Den Lagretten tilkommende Beføjelse til, naar den ikke finder det Bevis, paa<lb />
+Grundlag af hvilket Nævningerne have erklæret Tiltalte skyldig, tilstrækkeligt, da at<lb />
+foranledige ny Forhandling for andre Nævninger og andre Dommere (§ 358) er kun<lb />
+benyttet een Gang i hvert af Aarene 1892 og 1893.
+</p>
+<p>
+Over de af Højesterets Kæremaalsudvalg behandlede Kæremaal gives følgende<lb />
+Oversigt:
+</p>
+<table>
+<row>
+Hvad Kæremaalet angik samt dets Udfald.	       Antal.
+                                        	1892.	1893.
+</row>
+<row>
+a) Salærer 					20    45<lb />
+</row>
+<row>
+b) Erstatningskrav 								8			8
+</row>
+<row>
+c) Bevismidler.							14	8<lb />
+</row>
+<row>
+d) Begæringer om Genoptagelse			6	8
+</row>
+<row>
+e) Begæringer om fornyet Behandling for højere Ret (§ 403 III)	10	5
+</row>
+<row>
+f) Andre retslige Fortøjninger eller Afgørelser		18	20
+</row>
+<row>
+Tilsammen...	76	94
+</row>
+<row>
+Deraf ere		
+</row>
+<row>
+a) forkastede					53	48
+</row>
+<row>
+b) afviste ..... 								5	8
+</row>
+<row>
+c) afgjorte til Gunst for den kærende 					18	38
+</row>
+</table>

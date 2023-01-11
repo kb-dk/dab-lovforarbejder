@@ -1,0 +1,83 @@
+2133
+<pb n="203" />
+<h>
+<coll>
+2133
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2134
+</colr>
+</h>
+<title>
+Kapitel 82.
+</title>
+<title>
+Almindelige Bestemmelser om Domsforhandling ved Landsret.
+</title>
+<wtitle>§  899.</wtitle>
+<p>
+I Sagens Afgørelse kan ingen Dommer eller Nævning deltage, som ikke har<lb />
+overværet Forhandlingerne i deres Helhed. Naar en Dommer eller Nævning faar<lb />
+Forfald eller af anden Grund maa fratræde, efter at Domsforhandling er begyndt,<lb />
+kan denne fortsættes for henholdsvis to Dommere eller elleve Nævninger eller for to<lb />
+Dommere og elleve Nævninger; Dom kan dog, naar der kun er to Dommere, kun<lb />
+afsiges, naar de begge ere enige i Afgørelsen. Ved Forhandlinger, som forudsættes<lb />
+at blive af længere Varighed, kan Formanden bestemme, at en eller flere Dommere<lb />
+som Suppleanter skulle overvære Forhandlingerne for efter Tjenestealder at tage Sæde<lb />
+i Retten i Stedet for det eller de Medlemmer af denne, der maatte faa Forfald.
+</p>
+<wtitle>§  900.</wtitle>
+<p>
+Overanklageren samt den beskikkede Forsvarer skulle være til Stede under<lb />
+hele Domsforhandlingen, saa længe de have Adgang til at faa Ordet under samme;<lb />
+dog er herved ikke udelukket, at forskellige Personer udføre Overanklagerens eller<lb />
+den beskikkede Forsvarers Hverv i Sagen.
+</p>
+<p>
+Udebliver Overanklageren enten ved Domsforhandlingens Begyndelse eller i<lb />
+Løbet af denne, udsættes Sagen. Det samme gælder, naar den beskikkede Forsvarer<lb />
+udebliver, eller naar den valgte Forsvarer ikke møder i Tilfælde, hvor dette vil gøre<lb />
+en Beskikkelse nødvendig, medmindre Omstændighederne maatte gøre det muligt for<lb />
+Formanden at beskikke en Forsvarer, som straks kan udføre Hvervet.
+</p>
+<wtitle>§  901.</wtitle>
+<p>
+Tiltalte skal, saa vidt Loven ikke hjemler Undtagelse, personlig være til Stede<lb />
+under hele Domsforhandlingen, saa længe han har Adgang til at udtale sig; dog kan<lb />
+Rettens Formand, efter at hans Afhørelse er sluttet, tillade ham at fjerne sig.
+</p>
+<wtitle>§  902.</wtitle>
+<p>
+Udebliver Tiltalte ved Begyndelsen eller i Løbet af Domsforhandlingen, og kan<lb />
+han ikke straks bringes til Stede, udsættes Sagen.
+</p>
+<p>
+I efternævnte Tilfælde kan dog en Domsforhandling fremmes i Tiltaltes Fra-<lb />
+værelse, saafremt Retten ikke finder hans Nærværelse nødvendig:
+</p>
+<p>
+1.	naar han er undveget, efter at Anklageskriftet er ham forkyndt;
+</p>
+<p>
+2.	naar han, efter at være mødt ved Sagens Paaraab, har forladt Tingstedet uden<lb />
+Rettens Tilladelse;
+</p>
+<p>
+3.	naar det skønnes,
+</p>
+<p>
+a)	at der ikke vil blive Spørgsmaal om højere Straf end Fængsel, og Tiltalte<lb />
+derhos har samtykket i Sagens Fremme, eller
+</p>
+<p>
+b)	at Forhandlingen utvivlsomt vil føre til hans Frifindelse.
+</p>
+<wtitle>§  903.</wtitle>
+<p>
+Formanden kan beslutte, at Tiltalte skal forlade Retssalen, medens et Vidne<lb />
+eller en Medtiltalt afhøres, naar særegne Grunde tale for, at en uforbeholden Forkla-<lb />
+ring ellers ikke kan opnaas.
+</p>

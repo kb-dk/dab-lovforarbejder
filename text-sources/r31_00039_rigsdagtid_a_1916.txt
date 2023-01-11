@@ -1,0 +1,69 @@
+455
+<pb n="39" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>455</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+mende Rets Skriverkontor. I Bekendtgørelsen skal det udtrykkelig bemærkes, hvorpå det støttes, at denne Forkyndelsesmåde benyttes.
+</p>
+<p>
+Ovenstående Regel gælder også, når den pågældende fremmede Myndighed<lb />
+har vægret sig ved at efterkomme den til samme ifølge § 159 rettede Begæring; dog<lb />
+skal i så Fald Udfærdigelsen tillige tilstilles vedkommende med Posten i betalt Brev,<lb />
+der skal anbefales. Postembedsmanden har at forsyne det ene Eksemplar af Udfærdigelsen med Påtegning om, at ligelydende Eksemplar er afsendt til nærmere betegnet Adresse i betalt og anbefalet Brev. Påtegningen afgiver Bevis herfor, indtil<lb />
+Modbevis føres.
+</p>
+<wtitle>§ 161.</wtitle>
+<p>
+I borgerlige Sager kan Parterne vedtage, at et opgivet Sted skal agtes for<lb />
+Bopæl, og dette bliver da, for så vidt der sammesteds forefindes nogen, der er villig<lb />
+til at modtage Forkyndelsen, ved Anvendelsen af de foregående Regler at behandle<lb />
+som den virkelige Bopæl.
+</p>
+<wtitle>§ 162.</wtitle>
+<p>
+En Forkyndelse, der er sket overensstemmende med de i §§ 156—161 givne<lb />
+Regler, anses lovlig, uagtet den ikke ved de trufne Foranstaltninger måtte komme<lb />
+til pågældendes Kundskab.
+</p>
+<wtitle>§ 163.</wtitle>
+<p>
+Meddelelse, som under Retsmøde i Sagen gives vedkommende personlig til<lb />
+Retsbogen, kan altid træde i Stedet for Forkyndelse.
+</p>
+<wtitle>§ 164.</wtitle>
+<p>
+Benytter begge Parter i en borgerlig Sag Sagførere til at udføre Sagen, kan<lb />
+Meddelelser til Sagførerne under Sagens Gang ske umiddelbart fra den ene Sagfører<lb />
+til den anden uden Stævningsmænds Mellemkomst, blot imod simpelt Modtagelsesbevis.
+</p>
+<p>
+Meddelelsen kan gyldigt afleveres på Sagførerens Kontor til enhver Tid, dette<lb />
+er åbent, og Modtagelsesbeviset kan udstedes af Sagførerens der tilstedeværende<lb />
+Fuldmægtig eller andre Kontorbetjente.
+</p>
+<wtitle>§ 165.</wtitle>
+<p>
+De fra Retten udgående Meddelelser, for hvilke Loven ingen særlig Forskrift<lb />
+indeholder, sker på den Måde, som Rettens Formand i hvert enkelt Tilfælde finder<lb />
+hensigtsmæssigst, og uden at hans Beslutninger herom er Genstand for Kære. Det<lb />
+er tilladt at tilstille Meddelelsen med Posten.
+</p>
+<wtitle>§ 166.</wtitle>
+<p>
+Når der af Retten i et behørig afholdt Møde træffes Beslutning om Tidspunktet for et nyt Møde eller for en Retshandlings Iværksættelse, anses de Personer,<lb />
+der er til Stede og påhører Beslutningen, for at have fået tilstrækkelig Underretning derom. Personer, som har været lovlig tilsagte til Mødet, men som enten er<lb />
+udeblevet eller uberettiget har forladt Mødet, forinden Beslutningen der toges, har<lb />
+intet Krav på særlig Forkyndelse eller Meddelelse om det nye Møde eller om Tidspunktet for de besluttede Retshandlingers Iværksættelse. Dog bør Retten ikke undlade ved Budsendelse eller med Posten at give dem Meddelelse om Beslutningen, for<lb />
+så vidt denne antages at være af Interesse for dem.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

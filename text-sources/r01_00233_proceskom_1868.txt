@@ -1,0 +1,74 @@
+227
+<pb n="233" />
+<leftside>
+<p>den offentlige Anklager ikke andrager herpå.<lb />
+Heri ser man (Hélie, traité de l’ingtr. crim. II.<lb />
+S. 284) en vigtig Garanti for den borgerlige<lb />
+Frihed. Ved Siden heraf er den Regel optagen (c. d’instr. crim. art. 235), at de overordnede Domstole kunne pålægge den offentlige<lb />
+Anklagemyndighed at påtale. Derimod blev<lb />
+ved Indførelsen i de tyske Stater af Anklageproressen med offentlig Anklagemyndighed<lb />
+(Ståtsanwaltschaft) hverken den egentlige subsidiære Privatanklage eller den ejendommelige<lb />
+Adgang til Straffedommeren, som den franske<lb />
+Lovgivning hjemler den Forurettede, anerkjendt;<lb />
+men adskillige tyske Love optog den franske<lb />
+Rets Regel om Adgang til at fåe Statsanklagerens Nægtelse prøvet af Domstolene, der da kunde<lb />
+pålægge ham at påtale. Den vigtigste tyske Straffeproces, nemlig den preussiske, optog dog<lb />
+heller ikke denne Regel; den hævder udelukkende<lb />
+Ret for den offentlige Anklager til Initiativet<lb />
+til offentlige Forbrydelsers Forfølgning. I de<lb />
+senere År har der imidlertid i Tyskland, og<lb />
+navnlig i Preussen, rejst sig mange Stemmer<lb />
+for Indførelsen af den subsidiære Privatanklage, og på den første tyske Juristforfamling i<lb />
+Året 1860 blev, efterat Spørgsmålet var<lb />
+bragt på Bane af preussiske Jurisker, med<lb />
+overvejende Flertal en Resolution til Fordel for<lb />
+denne vedtagen, se disse Forhandlingers Bind I.<lb />
+S. 243 og II. S. 308-10, 332, 366—68,<lb />
+669 ff. Den preussiske Regjering foranledigedes ved denne Bevægelse til i Året 1862<lb />
+at forelægge et Lovforslag, der gik ud på<lb />
+at tillægge Appellationsretten Beføjelse til at<lb />
+påbyde offentlig Påtale, hvorimod Indførelsen af en subsidiær Privatanklage fandtes<lb />
+at være en Reform af så indgribende Betydning, at Spørgsmålet derom burde forbeholdes den fælles tyske Straffeproceslov, som<lb />
+man alt den Gang havde for Øje. Det nedsætte Udvalg frarådede imidlertid at gå ind<lb />
+på denne Lov, tog Ordet for Indførelsen af<lb />
+Privatanklagen og udarbejdede et herpå grundet<lb />
+Forslag. Til Forhandling kom Sagen ikke,<lb />
+da Repræsentationen blev opløft. I de senere tyske Udkast og Love findes den subsidiære Privatanklage i Reglen optagen, og Striden drejer<lb />
+sig for Tiden egentlig kun om, i hvilket Omfang dette  bør ske.    Den   nye  østrigske  Lov</p>
+</leftside>
+<rightside>
+<p>har optaget den i fuld Udstrækning (se §§ 2<lb />
+og 48); andre Love og Udkast, og deriblandt<lb />
+navnlig det fælles tyske Udkast, ville kun anerkjende den i de Tilfalde, hvor den offentlige<lb />
+Forfølgning er betinget af den Forurettedes<lb />
+Begjæring (Antragsverbrechen *).</p>
+<p>Ved Udkastets Ordning af dette Forhold<lb />
+have følgende Betragtninger været ledende<lb />
+Optagelsen af den fubsidiære Privatanklage<lb />
+Straffeprocessystemet kan og bør ikke betragtes<lb />
+som en delvis Opgivelse af den Opfattelse af<lb />
+Straffen, som udenfor den begramsede Kreds<lb />
+af Handlinger, hvis Påtale henvises til Private, er trængt igjennem i Nutidens Retsbevidsthed, nemlig som en Netshåndhævelse i<lb />
+Samfundets Interesse, ikke blot en Retsbeskyttelse for den Forurettede. Også den private<lb />
+Anklager må i hine Tilfælde betragtes som<lb />
+den, der kræver Retten håndhævet i Samfundets Interesse. Uden dette Synspunkt kan<lb />
+den fubsidiære Privatanklage ikke retfærdiggjøres, hverken i Almindelighed eller indenfor<lb />
+den snevrere Kreds, til hvilken det tyske Udkast vil have den indskrænket. Dette sidste<lb />
+hviler på den Betragtning, at Påtalen af de<lb />
+Forbrydelser, hvis offentlige Forfølgning er<lb />
+betinget af den Forurettedes Begjæring, sker i<lb />
+dennes Interesse; men denne Opfattelse kan i<lb />
+al Fald for den danske Rets Vedkommende<lb />
+ikke erkjendes for rigtig, således som det allerede i det Foregående er bemærket. Berettigelsen af Privatanklagen fra hint Synspunkt<lb />
+kan nu ikke bestrides ved den Betragtning, at<lb />
+den skulde indeholde et Indgreb i den offenlige<lb />
+Anklagemyndigheds Beføjelser. I Indførelsen af<lb />
+en sådan Myndighed med Ret og Pligt til<lb />
+at væretage den offentlige Interesse i Straffelovens Håndhævelse ligger ikke en Eneret,<lb />
+et Monopol. Privatanklagen indrømmes som<lb />
+Betryggelse mod Vilkårlighed, mod den offentlige Anklagemagts pligtstndige Forsømmelse af<lb />
+sit Hverv. Ihvorvel der nu ingenlunde kan<lb />
+eller skal gåes ud fra, at der skulde være nogen<lb />
+særlig Grund til at frygte for hin Vilkårlighed, så viser dog det ovenfor Meddelte om</p>
+<note rend="foot">*) Se her „Anlagen zu den Motiven der Strafprozeß- Ordnung".    S. 147—171.</note>
+</rightside>

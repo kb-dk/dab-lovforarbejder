@@ -1,0 +1,43 @@
+79
+<pb n="85" />
+<h>
+<topmidle>Kap. XVIII. Behandl. ved Landsret.      79</topmidle>
+</h>
+<p>skal  finde Sted   for   eller   efter Afhøjelsen<lb />
+af Vidner, Syns- eller Skønsmænd. 
+Ved Realitetsforhandlingens Begyndelse<lb />
+skulle Parterne oplæse og fremlægge deres<lb />
+skriftlig affattede Påstande.</p>
+<wtitle>§ 220.</wtitle>
+<p>Under Domsforhandlingen fremstiller den<lb />
+Part, der først sår Ordet, kortelig Sagens<lb />
+Hovedtræk; derefter lader han ved Retsskriveren oplæse de Dokumenter, som han<lb />
+vil påberåbe sig, derunder Udskrifter af<lb />
+Tingsvidner m. m., og fører sine Vidner<lb />
+o. desl. Modparten lader derpå på lignende Måde sine Dokumenter læse, og hvis<lb />
+også han har tilstævnet Vidner o. desl.,<lb />
+fører han dem efter de fornødne indledende<lb />
+Bemærkninger. Derefter udvikler førstnævnte Part nærmere sin Opfattelse af hele<lb />
+Sagen, derunder Bevisførelsens Resultater<lb />
+og de vedkommende Retsspørgsmål, hvorefter Modparten kan så Ordet for en tilsvarende Udvikling.</p>
+<p>De påberåbte Dokumenter, hvoraf<lb />
+efter Omstændighederne trykte eller skrevne<lb />
+Genparter omdeles til Dommerne, overgives<lb />
+efter Oplæsningen til Retten. Denne slutter<lb />
+Forhandlingerne, jfr. § 94, og optager<lb />
+Sagen, når den i det hele eller for et<lb />
+enkelt Punkt skønnes at være tilstrækkelig<lb />
+behandlet.</p>
+<p>Forhandlingerne fortsættes uafbrudt i<lb />
+det begyndte og de påfølgende Møder, der<lb />
+såvidt muligt skulle holdes de umiddelbart<lb />
+efterfølgende Dage.</p>
+<p>Retten kan på ethvert Trin af Forhandlingen opfordre Parterne til at fremstille<lb />
+tidligere førte Vidner til yderligere Afhøring<lb />
+eller Konfrontation med nye Vidner.</p>
+<wtitle>§ 221.</wtitle>
+<p>Udebliver Sagsøgte ved Domsforhandlingen, og Sagsøgeren vil fremfyre noget,<lb />
+som ikke indeholdes i det Sagsøgte meddelte,<lb />
+må han begære Forhandlingen helt eller<lb />
+delvis udsat og meddele Sagsøgte Udsættelsen og det nye Anbringende med et af<lb />
+Retten bestemt Varsel.</p>

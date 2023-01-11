@@ -1,0 +1,36 @@
+110
+<pb n="110" />
+<h>102 Kap. XXII, Domsforhdl. ved Landøret.</h>
+<p>Den vedtagne Afgørelse føres i Pennen<lb />
+af Rettens Formand eller af den af de i Afgørelsen deltagende dømmere, hvem dette Hverv<lb />
+af Formanden overdrages. Stemmetallet må<lb />
+ikke optages i Rettens afgørelser.</p>
+<p>Dommens Afsigelse foregår derved, at<lb />
+den oplæses i et Retsmøde. Er Tiltalte<lb />
+Fængslet, bør han bringes tilstede ved dommens Afsigelse.</p>
+<p>Rettens afgørelser træffes snarest muligt,<lb />
+efter at den pågældende Forhandling er til-ende. Kan Afsigelsen ikke finde Sted samme<lb />
+Dag, skulle dømme i Nævningesager og Kendelser afsiges senest Dagen efter, dømme i<lb />
+andre Sager senest inden 8 Dage.</p>
+<p>Er Tiltalte domfældt. bliver Udskrift af dommen at forkynde ham, hvis han ikke var<lb />
+tilstede ved Afsigelsen; i andre Tilfælde meddeles der ham på Begæring Udskrift uden Be^<lb />
+taling. Af alle dømme tilstilles der Over<lb />
+anklageren Udskrift.</p>
+<p>Ved Afsigelsen eller Forkyndelsen af en<lb />
+fældende Dom bliver det at betyde Domfældte, inden hvilken Frist og på hvilken<lb />
+Måde han kan fremsætte Meddelelse om Anke.</p>
+<wtitle>§ 255.</wtitle>
+<p>dømmen skal, forsåvidt den ikke gaar ud<lb />
+på Sagens Afvisning, enten domfælde eller<lb />
+frifinde.</p>
+<p>Frifindelse finder Sted, naar Overanklageren ikke er påtaleberettiget, naar Forfølgning frafaldes, naar Strafskylden er forældet, samt naar Tiltalte ikke findes skyldig.</p>
+<wtitle>§ 256.</wtitle>
+<p>Ved Afgørelsen af, om noget er bevist eller<lb />
+ikke, tages alene Hensyn til de Beviser, som<lb />
+ere fremførte under Domsforhandlingen. Bedømmelsen as Bevisernes Vægt er ikke bunden<lb />
+ved Lovregler.</p>
+<wtitle>§ 257.</wtitle>
+<p>Retten kan ikke domfælde for noget Forhold, der ikke omfattes af Tiltalen.</p>
+<p>Derimod er Retten^ ikke udelukket fra at<lb />
+yenfore det påtalte Forhold under en anden<lb />
+Strafbestemmelse end den, Overanklageren har</p>

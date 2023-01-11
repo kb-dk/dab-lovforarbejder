@@ -1,0 +1,74 @@
+2969
+<pb n="165" />
+<h>
+<coll>
+2969
+</coll>
+<topmidle>
+F. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2970
+</colr>
+</h>
+<wtitle>§ 713.</wtitle>
+<p>
+Staar en offentlig Anklager i et Forhold, som vilde udelukke en Dommer fra<lb />
+at handle i Sagen, skal han gøre Meddelelse herom til sin nærmeste Foresatte, for at<lb />
+denne kan træffe saadan Foranstaltning, som i den Anledning maatte findes fornøden.
+</p>
+<wtitle>§ 714.</wtitle>
+<p>
+Rigsanklageren varetager Udførelsen af Straffesager for Højesteret ; han kan<lb />
+fremdeles efter Paalæg af Justitsministeren eller af egen Drift ganske eller til Dels<lb />
+overtage det til de ved Landsretterne beskikkede Overanklageres Forretningskreds<lb />
+hørende Hverv i en hvilken som helst Straffesag.
+</p>
+<p>
+Rigsanklageren er de andre offentlige Anklagere overordnet og fører Tilsyn<lb />
+med deres Hvervs Udførelse, hvorved Reglerne i § 712 finder tilsvarende Anvendelse.
+</p>
+<wtitle>§ 715.</wtitle>
+<p>
+Den til Rigsanklagerens Bistand beskikkede Overanklager er beføjet til efter<lb />
+Paalæg af Rigsanklageren eller, i Tilfælde af dennes Forhindring, uden Paalæg at<lb />
+oretage enhver Embedshandling, som hører under Rigsanklagerens Virkekreds.
+</p>
+<wtitle>§ 716.</wtitle>
+<p>
+De for Landsretskredsene beskikkede Overanklagere virker for Forfølgning af<lb />
+alle Forbrydelser, der ikke er henviste til Paatale af private eller af Politimyndig-<lb />
+hederne (§ 721), hvad enten Paadømmelsen i første Instans sker ved Landsret, ved<lb />
+Sø- og Handelsretten eller ved en Underret i Landsretskredsen; endvidere varetager<lb />
+de det offentliges Tarv i Henseende til Paaanke af Sø- og Handelsrettens samt<lb />
+Underretternes Domme i Politisager.
+</p>
+<p>
+Rigsanklageren kan paalægge en Overanklager at overtage i det hele eller fol-<lb />
+en Del det offentlige Anklagerhverv i en Sag, som hører under en anden Overanklagers<lb />
+Forretningskreds.
+</p>
+<p>
+Det paahviler Overanklagerne at gøre Indberetning til Rigsanklageren, naar<lb />
+tvivlsomme eller særdeles vigtige Spørgsmaal opstaar i de Sager, som de behandler.
+</p>
+<p>
+Overanklagernes Medhjælpere er beføjede til efter Paalæg af Overanklageren<lb />
+eller, i Tilfælde af dennes Forhindring, uden Paalæg at foretage enhver Embeds-<lb />
+handling, som hører under Overanklagerens Virkekreds.
+</p>
+<wtitle>§ 717.</wtitle>
+<p>
+De ved Sø- og Handelsretten og Underretterne ansatte Anklagere har efter<lb />
+Paalæg af Overanklageren at udføre Sager for disse Retter.
+</p>
+<title>Kapitel 65.</title>
+<undertitle>
+Paatalen.
+</undertitle>
+<wtitle>§ 718.</wtitle>
+<p>
+Retterne træder i de efter Reglerne i denne Lovs 4de Bog behandlede Sager<lb />
+kun i Virksomhed ifølge Begæring af nogen, hvem Ret til Paatale tilkommer, jfr. dog<lb />
+§§ 809 og 820.
+</p>

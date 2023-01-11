@@ -1,0 +1,65 @@
+3281
+<pb n="36" />
+<h>
+<coll>3281</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3282</colr>
+</h>
+<p>
+
+at Politiet i Forbindelse med en Anholdelse kan foretage personlig Ransagning af den<lb />
+Anholdte, naar der er Grund til at formode, at han har Genstande hos sig, der kunne<lb />
+benyttes til Vold eller Undvigelse, samt at Ransagning af Hus for at eftersøge den,<lb />
+som skal anholdes, kan finde Sted ifølge eller, i paatrængende Tilfælde, uden Rets-<lb />
+kendelse, naar der er Grund til at antage, at den eftersøgte holder sig skjult der.
+</p>
+<p>
+Anholdelse. Udkastets Regler om Anholdelse uden foregaaende Indkaldelse<lb />
+for Retten gaa i det væsentlige ud paa følgende: Personer, der strejfe om uden Midler<lb />
+til lovligt Underhold (Vagabonder), eller som ikke ere knyttede til Riget ved Bolig<lb />
+eller varigere Opholdssted {fremmede), eller om hvis Navn og Opholdssted ingen<lb />
+antagelige Oplysninger haves eller kunne fremskaffes (ubekendte), kunne anholdes<lb />
+saavel af Retten som — hvor Rettens Beslutning ikke uden Fare for at forspilde<lb />
+Øjemedet kan indhentes — af Politiet, naar de mistænkes for at have begaaet en<lb />
+hvilken som helst, offentlig Forfølgning undergiven, strafbar Handling. Andre Per-<lb />
+soner kunne af Politiet anholdes, naar de træffes under Udførelse af en Forbrydelse<lb />
+og ikke ville afstaa fra deres forbryderske Virken, saavel som ogsaa uden for dette<lb />
+Tilfælde, naar Politiet har bestemte Grunde til at mistænke dem enten for en af de<lb />
+Forbrydelser, der ere Genstand for egentlig kriminel Behandling eller for en af visse<lb />
+særlig nævnte Politisags-Overtrædelser (Betleri, Overtrædelse af Tilhold efter Lov 3die<lb />
+Marts 1860 m. fl.) og Politiet derhos antager, ikke uden Fare for at forspilde Øje-<lb />
+medet, at kunne afvente Rettens Beslutning. Retten kan anholde enhver, der er<lb />
+mistænkt for at have begaaet nogen af de nævnte Forbrydelser eller Politisags-<lb />
+Overtrædelser, for saa vidt der efter dens Skøn foreligger særlig Grund til at sikre den<lb />
+mistænktes Tilstedeblivelse og Afsondring fra Samkvem med andre.
+</p>
+<p>
+Det vil saaledes ses, at der, bortset fra Vagabonder, fremmede og ubekendte<lb />
+samt Betlere og lignende løsere Eksistenser samt fra dem, der træffes under Udførelse<lb />
+af en Forbrydelse og ikke ville afstaa derfra, ikke kan finde Anholdelse Sted, med-<lb />
+mindre der foreligger Grunde til at mistænke den paagældende for at have begaaet<lb />
+en strafbar Handling af en saadan Betydning, at den er egentlig kriminel Behandling<lb />
+undergiven, og der derhos foreligger en særlig Grund, der kan antages at gøre det<lb />
+nødvendigt at sikre den mistænktes Tilstedeblivelse og Afsondring fra Samkvem<lb />
+med andre.
+</p>
+<p>
+Den, der er anholdt af Politiet, skal inden 24 Timer stilles for en Dommer,<lb />
+og denne skal senest inden 3 X 24 Timer efter Fremstillingen tage Bestemmelse om<lb />
+Løsladelse, Fængsling eller en i Stedet derfor trædende Forholdsregel.
+</p>
+<p>
+Varetægtsfængsel. Beslutning om Fængsling skal selvfølgelig som hidtil<lb />
+kun kunne tages af en Dommer. Ifølge Grundlovens § 80 kan ingen underkastes<lb />
+Varetægtsfængsel for en Forseelse, der kun kan medføre Straf af Bøder eller simpelt<lb />
+Fængsel, og denne Regel føres i Udkastet, i Modsætning til den gældende Praksis,<lb />
+videre derhen, at Varetægtsfængsel ikke blot skal være udelukket, hvor Strafferammen<lb />
+kun omfatter Bøder eller simpelt Fængsel, men ogsaa hvor Strafferammen naar højere,<lb />
+men der dog i det foreliggende Tilfælde ikke kan ventes at ville blive idømt højere<lb />
+Straf end Bøder elle]- simpelt Fængsel. Endvidere er Fængsling, naar Talen ikke<lb />
+netop er om Vagabonder, fremmede eller ubekendte, overhovedet udelukket ved alle<lb />
+andre Politisags-Overtrædelser end de oven for under „Anholdelse" særlig nævnte. I<lb />
+øvrigt ere Betingelserne for Fængsling i Hovedsagen disse, at der enten maa foreligge<lb />
+Føje til at frygte for, at den mistænkte vil unddrage sig Ansvaret ved at flygte eller<lb />
+skjule sig, eller er særlig Grund til at antage, at han vil bestræbe sig for at modvirke
+</p>

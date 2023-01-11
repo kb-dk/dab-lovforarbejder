@@ -1,0 +1,82 @@
+2171
+<pb n="12" />
+<h>
+<coll>2171</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2172</colr>
+</h>
+<p>
+De Straffe, som paalægges i Henhold til denne Paragraf, medføre ingen Ind-<lb/>
+skrænkning i Adgangen til at drage den skyldige til Ansvar efter Straffelovens alminde-<lb/>
+lige Regler, hvor disse i øvrigt ere anvendelige.
+</p>
+<p>
+Politiet er forpligtet til uvægerlig og øjeblikkelig at yde Retten Bistand til<lb/>
+Udførelse af denne Paragrafs Forskrifter.
+</p>
+<wtitle>§ 61.</wtitle>
+<p>
+De Forretninger, som ifølge denne Lov paahvile Rettens Formand, udføres,<lb/>
+naar Retten beklædes af en Enkeltdommer, af denne.
+</p>
+<wtitle>§ 62.</wtitle>
+<p>
+Angaaende alle Retshandlinger optages Beretning i Retsbogen.
+</p>
+<p>
+I Retsbogen indføres først Angivelse af:
+</p>
+<p>
+1)	Tiden og Stedet for Retsmødet,
+</p>
+<p>
+2)	Navnene paa de Personer, der fungere som Dommere og Retsskriver,
+</p>
+<p>
+3)	Sagens Nummer med Parternes Navne,
+</p>
+<p>
+4)	Navnene paa de Personer, der ere til Stede som Parter eller paa disses Vegne<lb/>
+eller til deres Bistand.
+</p>
+<wtitle>§ 63.</wtitle>
+<p>
+Retsbogen skal indeholde en kort Fremstilling af Forhandlingernes Gang i<lb/>
+Almindelighed.
+</p>
+<p>
+Paastande, Indsigelser, Begæringer, Erklæringer og Forklaringer af Parter,<lb/>
+Vidner og Syns- og Skønsmænd blive at optage i Retsbogen i de Tilfælde og i det
+</p>
+<p>
+Omfang, hvori saadant i Loven er foreskrevet eller tilladt.
+</p>
+<wtitle>§ 64.</wtitle>
+<p>
+Rettens Domme, Kendelser og øvrige Beslutninger optages fuldstændig i<lb/>
+Retsbogen.
+</p>
+<p>
+I Retsbogen gøres fremdeles Bemærkning om Overleverelsen eller Fremlæg-<lb/>
+gelsen af alle skriftlige Fremstillinger, Dokumenter, Forkyndelser, Meddelelser og<lb/>
+andre Aktstykker, som derhos blive at forsyne med Fremlæggelsespaategning.
+</p>
+<wtitle>§ 65.</wtitle>
+<p>
+Retsbogen underskrives af Rettens Formand. Den afgiver Bevis for, hvad der<lb/>
+er foregaaet under Retshandlingen. Modbevis er ikke udelukket.
+</p>
+<wtitle>§ 66.</wtitle>
+<p>
+Stævningen og Parternes øvrige Processkrifter forblive i Rettens Arkiv. Af<lb/>
+Dokumenter og andre Aktstykker, der benyttes som Bevis, skulle, naar de forlanges<lb/>
+tilbageleverede, Genpart, der bekræftes af Retsskriveren, afgives til Retten; dog und-<lb/>
+tages herfra Dokumenter, der ere Udskrift af Embedsprotokoller. Om og i hvilket Om-<lb/>
+fang Genpart skal tages af Handelsbøger, Regnskabsbøger eller andre Dokumenter af<lb/>
+betydeligt Omfang, beror paa Formanden.
+</p>
+<wtitle>§ 67.</wtitle>
+<p>
+Retsskriveren samler de enhver Sag vedkommende Dokumenter og bevarer<lb/>
+dem samt de af tilbageleverede Originaler tagne Genparter.
+</p>

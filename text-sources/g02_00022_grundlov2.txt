@@ -1,0 +1,109 @@
+1517
+<pb n="22" >
+<p rend="page">22</p>
+<h>
+<coll>1517</coll>
+<colr>1518</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>No. 194.<lb /></topright>
+</h>
+<leftside>
+<undertitle>
+To og tredssindstyvende (65de) Møde.<lb />
+(Fortsættelse af Grundlovscomiteens Betænkning.)<lb />
+</undertitle>
+<p>Vi føle os overbeviste om, at Landsthingets Betydning herved<lb />
+vilde svækkes i betydelig Grad, at forfatningen paa denne Maade<lb />
+vilde komme til at savne den ikke uvæsentlige Garanti mod, at eensidige Retninger ville kunne gjøre sig gjældende i Folkethinget, som<lb />
+ligger deri, at Landsthinget dog ikke er berøvet Magten til, hvor<lb />
+Statsvellet skulde fordre det, at gjøre sin Indsigelse og Modstand<lb />
+gjældende, at endeligen Veien til Conflicter mellem Folke- og Landsthinget langt lettere aabnes, naar Thingene ved Budgettets Forhandling sammensmeltes, end naar ethvert af Thingene forhandler det særskilt, fordi Landsthinget langt snarere vil være rede til at erkjende<lb />
+Folkethingets sande Stilling til Budgetsagen, end til at indrømme, at<lb />
+det paa Grund af dets mindre Talrighed er samme underordnet.<lb />
+</p>
+<p>De constitutionelle Staters Historie bevise desuden, at det overalt, hvor Tokammersystemet bestaaer, er blevet anseet som gavnligt og<lb />
+som nødvendigt for at værne om det første Kammers Betydning, at lade<lb />
+hvert af Kamrene behandle Budgettet særskilt, og at deraf ikke er opstaaet de Conflicter eller Ulemper, som maatte ansees som overhængende og vanskelige at undgaae, ifald man skulde tilraade Budgettets fælles Behandling af Folke- og Landsthing.<lb />
+</p>
+<p>Paa disse Grunde maae vi erklære os imod den ovenfor betegnede Forandring af § 44.<lb />
+</p>
+<p>I den sidste Passus i § 44 hedder det, at det vil blive bestemt<lb />
+ved Communalloven, hvorledes der skal forholdes med de communale<lb />
+Afgifter, der dog albrig kunne paalægges af Kongen ene. Det forekommer Udvalget, at man ikke ret vel før efter Behandlingen af § 77<lb />
+kan have en begrundet Mening om denne sidste Sætning.<lb />
+<law n="45" >§ 45.<lb /></law>
+Ligesom Budgettet er omhandlet i § 44, saaledes indeholder<lb />
+§ 45 de nærmere Bestemmelser om Regnskabet. Efter Udkastet<lb />
+udnævner Landsthinget aarligen een, og Folkethinget to lønnede Revisorer, som skulle gjennemgaae det aarlige Statsregnskab og paasee, at samtlige Statsindtægter deri ere opførte, og at ingen Udgift<lb />
+har fundet Sted uden Hjmmel i Finantsloven; derefter forelægges<lb />
+Statsregnskabet med Revisorernes Bemærkninger for Folkethinget, som<lb />
+med Hensyn til samme tager Beslutning.<lb />
+</p>
+<p>En Minoritet i Udvalget (Hansen) formener, at den i denne<lb />
+Paragraph optagne Bestemmelse ikke kan ansees for at fyldestgjøre<lb />
+den Control, som det bør tilkomme den lovgivende Magt at udøve<lb />
+med Statshuusholdningen. Det er nemlig kun det aarlige Statsregnskab, hvorom der i denne Paragraph er Tale, men dette slutter sig<lb />
+saa nøie til de Regnskaber, som maae aflægges for Statshuusholdningens forskjellige Grene, f. Ex. det directe og det indireete Skattevæsen, Militairetaterne o. a. fl., at det kun for de Revisorer eller<lb />
+Decisorer, som gjennemgaae disse, vil være muligt at bedømme det<lb />
+aarlige Statsregnskabs Rigtighed og at paasee, om Statens samtlige<lb />
+Indtægter deri ere blevne opførte, og at ingen Udgift udenfor Finantsloven har fundet Sted, hvilket ikke ved en isoleret Revision af det<lb />
+samlede aarlige Statsregnskab vil kunne opnaaes.<lb />
+</p>
+<p>Jeg har derfor troet, at istedetfor den ved Udkastet foreslaaede<lb />
+aarlige Udnævnelse af Revisorer bør der, i Lighed med hvad der i<lb />
+flere andre constitutionelle Staters Grundlove er fastsat, organiseres<lb />
+en Regnskabsret, hvorved der etableres en betryggende Control med<lb />
+Regnskabsvæsenet i Almindelighed, til hvilken Rigsdagen enten i det<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+Hele eller for en Deel kunde tillægges Udnævnelsesret, og som da<lb />
+vilde have at forelægge det aarlige Statsregnskab med dens Bemærkninger for Folkethinget, som, efterat have prøvet det ved et Udvalg<lb />
+af dets Midte, med Hensyn til samme maatte tage Beslutning. At<lb />
+det bør tilkomme Folkethinget alene, uden Forbindelse med Landsthinget, at tage saadan Beslutning, anseer jeg for det retteste, da der ikke<lb />
+vil kunne blive Spørgsmaal om nogen Talrevision, men om en<lb />
+kritisk Bedømmelse af Regnskabet, der kunde lede til at paatale saadanne Forseelser, som omtales i § 19 af Lovudkastet, og hvorefter<lb />
+Folkethinget tilkommer og maa tilkomme Anklagemagten, da det<lb />
+er Rigsretten som skal domme, og denne tildeels vil komme til at bestaae af Medlemmer af Landsthinget.<lb />
+</p>
+<p>At der organiseres en saadan Regnskabsret, maa jeg, under den<lb />
+Statsform vi gaae imøde, ansee saameget mere hensigtsmæsigt, som<lb />
+den ministerielle Ansvarlighed fører det med sig, at der maa gives<lb />
+Ministrene en stor Indflydelse paa alle Embeders Besættelse og Embedsmændenes Stilling i Almindelighed, hvorfor man bør søge ethvert<lb />
+Afhængighedsforhold fjernet fra de Embedsmænd, der igjennem Regnskaberne skulle føre Tilsynet med de vedkommende Ministeriers Dispositioner over Statens Indtægter og Udgifter. Da det imidlertid ikke<lb />
+vil være Stedet i Grundloven at optage de specielle Bestemmelser,<lb />
+som i denne Henseende maatte findes passende, vil det være tilstrækkeligt, at den nærmere Ordning forbeholdes ved Lov; jeg indstiller<lb />
+derfor, at Paragraphen kommer til at lyde saaledes:<lb />
+</p>
+<p>„Det aarlige Statsregnskab bliver af en Regnskabsret, som organiseres ved Lov, med Rettens Bemærkninger at forelægge Folkethinget, der prøver<lb />
+samme ved et Udvalg af dets Midte og derefter<lb />
+tager Beslutning med Hensyn til samme."<lb />
+</p>
+<p>Naar Udvalgets øvrige Medlemmer ikke tiltræde dette Forslag, ville de ingenlunde derved have udtalt sig imod Hensigtsmæssigheden af en Regnskabsret; men de antage, at nærværende<lb />
+Paragraph i Grundloven ikke har Hensyn til almindelige administrative Revision, hvis nuværende Indretning vistnok under den<lb />
+constitutionelle statsform vil blive at omdanne, men til den mere politiske Statsrevision, som nærmest paaligger selve Folkerepræsentationen, men hvis Arbeide i denne Retning efter Udkastet skal lettes ved<lb />
+Statsrevisorer. Der kunde altsaa vel efter Udvalgets Majoritets Formening reises Tvivl, om man vil beholde denne hele Indretning med<lb />
+lønnede Revisorer, idet man antog, at Rigsdagen selv vilde kunne<lb />
+overkomme den hele Revision, hvilket Arbeide i sig selv nærmest paaligger den; men Statsrevisionen kan næppe efter sin Tanke ombyttes med en Regnskabsret, der udentvivl, om end Rigsdagen,<lb />
+navnlig Landsthinget, fik nogen Indflydelse paa dens Sammensætning, nærmest træder i Stedet for den administrative Revision.<lb />
+</p>
+<p>Ved denne Paragraph har iøvrigt den samme Meningsulighed<lb />
+gjort sig gjældende, som med Hensyn til den foregaaende.<lb />
+</p>
+<p>En Minoritet (David og Ussing) maa, som Følge af<lb />
+hvad der af Minoriteten er bemærket ved § 44, ligeledes erklære sig<lb />
+mod den af Udvalgets Fleerhed her foreslaaede Forandring, der er en<lb />
+Conseqvents af dens Forslag til nysnævnte § 44.<lb />
+</p>
+<p>Udvalgets Fleerhed skjønner nemlig ikke rettere, end at<lb />
+Statsregnskabet ligesaa vel som Finantsforslaget egner<lb />
+sig til Behandling paa den forenede Rigsdag.<lb />
+</p>
+<p>Vi oversee ikke, at Udkastet alene vil indrømme Folkethinget<lb />
+Ret til at tage Beslutning med Hensyn til Statsregnskabet, og vi<lb />
+formode, at Grunden til denne Bestemmelse maa søges i den Betragt</p>
+</rightside>
+</pb>

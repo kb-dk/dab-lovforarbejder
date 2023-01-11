@@ -1,0 +1,211 @@
+2177
+<pb n="45" />
+<p rend="page">45</p>
+<h>
+<coll>2177</coll>
+<colr>2178</colr><lb />
+<topmidle>Tillæg B. (137). Ordentl. Samling 1902-03. </topmidle>
+</h>
+<leftside>
+<p>
+Bet. o. Lovf. om Rettens Pleje.<lb />
+</p>
+<p>
+Til 8 379.<lb />
+</p>
+<p>
+159) 1 4de Linie indskydes efter<lb />
+„§ 23": „(Lov Nr. 30 af 20. Marts 1901<lb />
+§ 2)".<lb />
+</p>
+<stitle>
+Til§ 385.<lb />
+</stitle>
+<p>
+160) I sidste Stykke ændres „5te" til<lb />
+„3die".<lb />
+</p>
+<stitle>
+Til§ 390.<lb />
+</stitle>
+<p>
+161) I første Linie ændres „8 Dage"<lb />
+til „en Uge".<lb />
+</p>
+<stitle>
+Til§ 397.<lb />
+</stitle>
+<p>
+162) I 1ste Stykke, sidste Linie, ud-<lb />
+gaar „neden for".<lb />
+</p>
+<stitle>
+Til§ 401.<lb />
+</stitle>
+<p>
+163) Stykke 1, Linie 5—6. Ordene<lb />
+„den almindelige Tidende, som ved kgl.<lb />
+Anordning bestemmes til retslige Bekendt-<lb />
+gørelser," rettes til „Statstidenden".<lb />
+</p>
+<stitle>
+Til§ 406.<lb />
+</stitle>
+<p>
+164) I 1ste Stykkes sidste Linie for-<lb />
+andres „5 Dage" til „to Uger", og „efter<lb />
+Begæring" til: „efter at de ere bestilte".<lb />
+</p>
+<stitle>
+Til§ 408.<lb />
+</stitle>
+<p>
+165) I 1ste Stykkes sidste Linie æn-<lb />
+dres „8 Dage" til „en Uge".<lb />
+</p>
+<stitle>
+Til§ 410.<lb />
+</stitle>
+<p>
+166) I Stykke 3, Linie 7, ændres „8<lb />
+Dage" til „en Uge",<lb />
+</p>
+<stitle>
+Til§ 412.<lb />
+</stitle>
+<p>
+167) I sidste Linie indskydes: „eller<lb />
+nogen af" efter „alle".<lb />
+</p>
+<stitle>
+Til§ 413.<lb />
+</stitle>
+<p>
+168) I 3die Stykke, 3die Linie, ændres<lb />
+„8 Dage« til „en Uge".<lb />
+</p>
+<p>
+169) I 3die Stykke, sidste Punktum,<lb />
+ændres „8 Dages" til „en Uges".<lb />
+</p>
+<p>
+170) Sidste Linie. Ordene „den i<lb />
+§ 401 ommeldte Tidende" rettes til „Stats-<lb />
+tidenden".<lb />
+</p>
+<p>
+Til 8 417.<lb />
+</p>
+<p>
+171) Stykke 2, Linie 2. Ordene „den<lb />
+til retslige Bekendtgørelser bestemte almin-<lb />
+delige Tidende" rettes til „Statstidenden".<lb />
+</p>
+<stitle>
+Til§ 419.<lb />
+</stitle>
+<p>
+172) I Stykke 1, næstsidste Linie,<lb />
+ændres „8 Dages" til „en Uges".<lb />
+</p>
+</leftside>
+<rightside>
+<stitle>
+Til§ 427.<lb />
+</stitle>
+<p>
+173) I Stykke 1, Linie 7—8, ændres<lb />
+„den til... Tidende" til „Statstidenden".<lb />
+</p>
+<stitle>
+Til§ 442.<lb />
+</stitle>
+<p>
+174) Paragraffen udgaar.<lb />
+</p>
+<stitle>
+Til§ 443.<lb />
+</stitle>
+<p>
+175) I 2den Linie under Nr. 2 ændres<lb />
+„ , jfr. Lov 1ste Marts 1889 og Bkg. 30te<lb />
+Marts 1889" til „og Tillægslove, jfr. Bkg.<lb />
+Nr. 70 af 16. April 1898".<lb />
+</p>
+<stitle>
+Til§ 444.<lb />
+</stitle>
+<p>
+176) I 2det Stykke ændres „m. m.,<lb />
+af 12te April 1892 § 4" til „ , Nr. 75 af<lb />
+3. April 1900 § 4".<lb />
+</p>
+<stitle>
+Til§ 446.<lb />
+</stitle>
+<p>
+177) I 1ste Stykke ændres: „6 Dage"<lb />
+til: „5 Dage", og i 2det Stykke ændres:<lb />
+„8 Dage" til: „en Uge".<lb />
+</p>
+<stitle>
+Til§ 449.<lb />
+</stitle>
+<p>
+178) I 2det Stykke, sidste Linie, for-<lb />
+andres „Politikasse" til „Kommunes<lb />
+Kasse".<lb />
+</p>
+<stitle>
+Til§ 452.<lb />
+</stitle>
+<p>
+179) Linie 8. „XXXIII." ændres til<lb />
+„48—51''.<lb />
+</p>
+<stitle>
+Til§ 470.<lb />
+</stitle>
+<p>
+180) I næstsidste Linie efter „dettes<lb />
+Renholdelse" indsættes „Belysning og Op-<lb />
+varmning".<lb />
+</p>
+<p>
+Sidste Punktum udgaar, og Stykke 2<lb />
+affattes saaledes:<lb />
+</p>
+<p>
+„Underholdspengene fastsættes til* 8<lb />
+Kr. om Ugen, Varetægtspengene til 2 Kr.<lb />
+om Ugen."<lb />
+</p>
+<stitle>
+Til§ 480.<lb />
+</stitle>
+<p>
+181) I 5te Linie udgaa Ordene: „efter<lb />
+Straffelovens § 253".<lb />
+</p>
+<stitle>
+Til§ 481.<lb />
+</stitle>
+<p>
+182) Som nyt sidste Punktum i 1ste<lb />
+Stykke tilføjes: „Skal Sagen begynde med<lb />
+Mægling ved Forligskommissionen, skal,<lb />
+hvis Forlig ej opnaas, Sagen indstævnes<lb />
+for Retten hurtigst muligt efter Mæglingens<lb />
+Slutning."<lb />
+</p>
+<stitle>
+Til§ 486.<lb />
+</stitle>
+<p>
+183) I 2den og 3die Linie ændres Or-<lb />
+dene : „den i § 481 ommeldte Frist at an-<lb />
+</p>
+<p>
+Udvalgenes Betænkninger m. m137<lb />
+</p>
+</rightside>

@@ -1,0 +1,73 @@
+594
+<pb n="178" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>594</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+Hvor Sigtedes Helbredstilstand gør dette nødvendigt, bliver Retten at sætte<lb />
+på sådant Sted, som Omstændighederne udkræver.
+</p>
+<p>
+Retten bestemmer Indkaldelsesvarselet, hvor Loven ikke indeholder Forskrift
+herom.
+</p>
+<wtitle>§ 764.</wtitle>
+<p>
+For så vidt Sigtede ikke under Møde for Retten af denne har fået Pålæg<lb />
+om yderligere Møde til bestemt Tid og Sted, bliver han at indkalde til Retsmøde ved<lb />
+en efter Reglerne i Kapitel 17 forkyndt skriftlig Tilsigelse, der, hvor ikke andet er<lb />
+bestemt, udgår fra den Ret, for hvilken Mødet skal tinde Sted.
+</p>
+<p>
+Foruden Sigtedes Navn, og hvad der i øvrigt hører til hans nøjagtige Betegnelse, Sted og Tid for Mødet, det Varsel, som skal gives, samt Bemærkning om Følgerne af Udeblivelse uden oplyst Forfald skal Tilsigelsen, første Gang Sigtede indkaldes i en Sag, angive, hvorpå Sigtelsen går ud. I Indkaldelse til Møde under<lb />
+Domsforhandling (Stævning) bliver Sagen at betegne ved Henvisning til Anklageskriftet.
+</p>
+<wtitle>§ 765.</wtitle>
+<p>
+Sigtede, som møder eller fremstilles for Retten til Afhørelse, adspørges først<lb />
+om Navn, Alder, Stilling samt Bopæl og andet, som findes fornødent til Oplysning<lb />
+om hans Identitet,
+</p>
+<p>
+Efter dernæst at have gjort Sigtede bekendt med den imod ham rettede Sigtelse spørger Dommeren ham, hvorvidt han erkender dens Rigtighed. Dommeren<lb />
+skal derefter afhøre ham om de Forhold, som Sigtelsen angår, og om de ved Vidneforklaringer eller på anden Måde imod ham fremkomne Bevisligheder.
+</p>
+<p>
+Sigtede er berettiget til på ethvert Trin af Sagen at tage sin Erkendelse af<lb />
+Sigtelsens Rigtighed tilbage.
+</p>
+<wtitle>§ 766.</wtitle>
+<p>
+Sigtede fremstilles i Retten fri for Bånd.
+</p>
+<p>
+Ingen Tvang må anvendes imod en Sigtet, der vægrer sig ved at svare i det<lb />
+hele eller på enkelte Spørgsmål, eller som hindrer Afhørelsen ved forstilt Afsindighed eller på lignende Måde. Kan sådant Forhold medføre Sagens Forhaling eller
+</p>
+<p>
+vanskeliggøre Forsvaret, bør Dommeren gøre ham opmærksom derpå.
+</p>
+<wtitle>§ 767.</wtitle>
+<p>
+Under Afhørelsen skal Dommeren tiltale Sigtede med Ro og Værdighed. Spørgsmålene til ham bør være bestemte, tydelige og således stillede, at det er ham klart,<lb />
+hvad han bekræfter eller benægter ved sine Svar, og intet Spørgsmål må fremsættes<lb />
+således, at noget, der er benægtet eller ikke vedgået, forudsættes som tilstået.
+</p>
+<p>
+Løfter, urigtige Foregivender eller Trusler må ikke anvendes. Ej heller må<lb />
+Afhøringen forlænges i det Øjemed at fremskaffe en Tilståelse.
+</p>
+<p>
+Det er ikke Sigtede tilladt at rådføre sig med en Forsvarer angående den<lb />
+umiddelbare Besvarelse af de ham gjorte Spørgsmål.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

@@ -1,0 +1,69 @@
+2075
+<pb n="86" />
+<h>
+<coll>
+2075
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2076
+</colr>
+</h>
+<title>Kapitel 34.</title>
+<undertitle>Anke til Højesteret.</undertitle>
+<wtitle>§ 374.</wtitle>
+<p>
+Domme, afsagte i første Instans af en Landsret (Københavns Sø- og Han-<lb />
+delsrets 1ste Afdeling, jfr. § 9, 4de Stykke), kunne, med den i § 216 indeholdte Und-<lb />
+tagelse, overensstemmende med nedenstaaende Regler af Parterne paaankes til Højeste-<lb />
+ret, I Forbindelse med Dommen kan Anken omfatte den forudgaaende Behandling<lb />
+og de under denne faldne Afgørelser, for saa vidt Anke ikke særlig er udelukket.
+</p>
+<p>
+Anke kan iværksættes til Forandring, Ophævelse eller Hjemvisning, hvorimod<lb />
+Anke alene til Stadfæstelse ikke kan finde Sted. Heller ikke kan Anke iværksættes<lb />
+alene til Forandring af Dommens Bestemmelser om Sagsomkostninger og processuelle<lb />
+Straffe. Dog kan Højesterets Justitiarius i Forening med to Medlemmer af Retten<lb />
+tillade, at deslige Bestemmelser særskilt paaankes af Parterne, naar Afgørelse med<lb />
+Hensyn til disse Punkter er uafhængig af Sagens Udfald, eller af Trediemand, hvem<lb />
+Omkostninger eller Straf er paalagt eller Salær tilkendt eller frakendt. 
+</p>
+<wtitle>§ 375.</wtitle>
+<p>
+Anke kan iværksættes fra begge Parters Side, men de tvende Anker blive da<lb />
+at forene til samtidig Forhandling, jfr. § 273, 1ste Stykke.
+</p>
+<p>
+Udtrykkelig eller stiltiende Afkald paa Anke kan ikke gyldig gives, forinden<lb />
+den Retsafgørelse, om hvis Paaanke der er Tale, er truffen.
+</p>
+<wtitle>§ 376.</wtitle>
+<p>
+Edsdomme og Afgørelser i Henhold til § 282 af enkelte Spørgsmaal eller<lb />
+Dele af Sagen kunne først paaankes, naar den endelige Dom er afsagt.
+</p>
+<wtitle>§ 377.</wtitle>
+<p>
+Ankefristen er 8 Uger fra Dommens Afsigelse at regne. Anken kan dog und-<lb />
+tagelsesvis tilstedes af Højesteret indtil et Aar efter Dommens Afsigelse, naar der<lb />
+foreligger tilstrækkelig Grund til at afvige fra den almindelige Regel om Ankefristen.
+</p>
+<p>
+Den, der hos Retten vil søge Tilladelse til Anke efter Udløbet af den al-<lb />
+mindelige Ankefrist, maa indgive et begrundet, skriftligt Andragende derom til<lb />
+Højesterets Justitiarius, som træffer Afgørelse i Forening med to Medlemmer af<lb />
+Retten. Modparten kan opfordres til at erklære sig over Andragendet, og den Part,<lb />
+der vil anke, maa paa Opfordring af fornævnte Udvalg af Retten tilvejebringe de<lb />
+fornødne Oplysninger. Skulde Vidneførsel være nødvendig, bestemmer Udvalget, om<lb />
+den skal linde Sted umiddelbart for det eller for Underret. Tilstedes Anke, tilkendegives<lb />
+dette skriftlig vedkommende Part, som derom har at gøre Meddelelse til Modparten<lb />
+inden 4 Uger, efter at Tilladelsen er givet.
+</p>
+<wtitle>§ 378.</wtitle>
+<p>
+Inden Ankefristens Udløb eller inden 4 Uger, efter at den i § 377 ommeldte<lb />
+Tilladelse til Anke er meddelt, skal Appellanten indlevere Ankestævning paa Rettens<lb />
+Kontor til Sagens Berammelse overensstemmende med de i § 324 fastsatte Regler<lb />
+Begæres Sagen berammet til et overdrevent fjernt Tidspunkt, skal Justitssekretæren<lb />
+forelægge Rettens Justitiarius Spørgsmaalet til Afgørelse.
+</p>

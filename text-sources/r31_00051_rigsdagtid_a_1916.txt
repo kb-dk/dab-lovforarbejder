@@ -1,0 +1,75 @@
+467
+<pb n="51" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>467</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+går ud på, at Mændene har udført deres Hverv og afgivet deres Erklæring eller<lb />
+Forklaring efter Samvittighed og bedste Overbevisning.
+</p>
+<p>
+I Straffesager finder sådan Bekræftelse som i første Stykke nævnt Steel, når<lb />
+Syns- eller Skønsmændenes Erklæring eller Forklaring afgives for en Undersøgelsesret,<lb />
+medmindre Mændene må antages på ny at skulle afhøres under Domsforhandlingen<lb />
+(Nævningesager), samt når Afhøring finder Sted under Domsforhandlingen, jfr. dog § 186.
+</p>
+<wtitle>§ 206.</wtitle>
+<p>
+Når en Syns- eller Skønsmand uden gyldigt Forfald udebliver fra Retsmødet<lb />
+eller uden lovlig Grund vægrer sig ved at udføre Hvervet eller undlader at foretage<lb />
+noget, som påhviler ham i Anledning af dette, eller vægrer sig ved at svare på de<lb />
+Spørgsmål, som stilles til ham i Retten, eller ved at bekræfte sin Erklæring eller<lb />
+Forklaring med Ed eller Forsikring, hvor sådant er foreskrevet, finder Reglerne i<lb />
+§§ 177 og 189 Anvendelse med de fornødne Lempelser.
+</p>
+<p>
+Dog kan Retten, når dette er muligt og efter Omstændighederne kan bidrage<lb />
+til Sagens Fremme, udnævne andre Syns- eller Skønsmænd enten straks, eller når<lb />
+de anordnede Tvangsmidler forgæves er anvendte. I borgerlige Sager kan dette dog<lb />
+kun ske efter Begæring af vedkommende Part, der i så Fald ikke kan forlange<lb />
+yderligere Tvangs Anvendelse mod den eller de genstridige Syns- eller Skønsmænd.
+</p>
+<wtitle>§ 207.</wtitle>
+<p>
+Har Syns- eller Skønsmænd Forfald, eller har det været dem umuligt at gøre<lb />
+Forretningen færdig, kommer de i § 177, sidste Stykke, givne Regler til Anvendelse<lb />
+med de Lempelser, som følger af Forholdets Natur.
+</p>
+<wtitle>§ 208.</wtitle>
+<p>
+Med Hensyn til Indsigelser fra Syns- eller Skønsmændenes Side såvel som<lb />
+Kære over de Kendelser, hvorved noget pålægges dem, forholdes efter de om Vidner<lb />
+givne Regler.
+</p>
+<wtitle>§ 209.</wtitle>
+<p>
+De om Vidner givne Regler skal med de Lempelser, der følger af Forholdets<lb />
+Natur, anvendes på Syns- og Skønsmænd, for så vidt ovenstående Forskrifter ikke<lb />
+er til Hinder derfor.
+</p>
+<wtitle>§ 210.</wtitle>
+<p>
+At Syn eller Skøn har fundet Sted, udelukker ikke fornyet Syn eller Skøn<lb />
+over samme Genstand ved de samme eller, når Retten finder det hensigtsmæssigt,<lb />
+andre Mænd.
+</p>
+<wtitle>§ 211.</wtitle>
+<p>
+Udmeldte Syns- og Skønsmænd erholder, for så vidt Udførelsen af det dem<lb />
+pålagte Hverv eller deres Møder for Retten i Anledning deraf gør det nødvendigt<lb />
+for dem at rejse mere end 3 Kilometer fra deres Hjem, dels Godtgørelse for Udgifterne derved, beregnet efter 2den Klasses Takst for Rejse på Jernbane, efter 1ste<lb />
+Klasses Takst for Rejse på Dampskib, og i øvrigt med 30 Øre for hver løbende<lb />
+Kilometer, dels i Tærepenge 2 Kroner, når Fraværelsen fra Hjemmet ikke varer 4<lb />
+Timer, og ellers 6 Kroner med Tillæg af 3 Kroner for hver 6 Timer, de ud over 12<lb />
+Timer er fraværende fra Hjemmet.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

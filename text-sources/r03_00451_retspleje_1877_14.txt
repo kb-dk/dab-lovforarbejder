@@ -1,0 +1,78 @@
+445
+<pb n="<span class="result">451</span>" />
+<leftside>
+<p>Bestemmelse i Konkursloven som Følge af, at<lb />
+de nye Værnethingsdestemmelser i Kapitel II.<lb />
+navnlig, hvad Udlændinge angår, have åbnet<lb />
+en langt videre Adgang end efter den bestående Lovgivning til at sagsøge de Pågjældende ved danske Retter. At Bestemmelsen i Konkurslovens § 163 om Arrest på<lb />
+Person for Forpligtelser til at føretage en<lb />
+Handling ikke er optaget i Udkastet, er en<lb />
+ligefrem Følge af den ved Bestemmelserne i<lb />
+7de Afsnit Kapitel 2 foretagne Forandring<lb />
+med Hensyn til Fuldbyrdelsesmåden af Domme<lb />
+for sådanne Forpligtelser. Endnu bemærkes,<lb />
+at man ikke har fundet tilstrækkelig Grund<lb />
+til i Udkastet at optage de i den ældre Ret<lb />
+hjemlede særegne Fritagelser for Arrest på<lb />
+Person, idet disse efter den exceptionelle Karakter, hvormed Arrest på Person efter Udkastet fremtræder, neppe vilde have nogen<lb />
+praktisk Betydning, Hvad angår Arrestabilitet af Gods. fastsætter § 574, at<lb />
+Arrest ikke kan foretages i Ting, hvori der<lb />
+ikke vilde kunne gjøres Exekution for<lb />
+den pågjældende Fordring, en Regel, der<lb />
+må ansees for en ligefrem Konsekvents af<lb />
+Arrestinstitutets Karakter som Sikkerhedsmiddel.<lb />
+Derimod er det ikke med Nødvendighed givet,<lb />
+at Ting, hvori der kan gjørcs Exekution, også<lb />
+kunne belægges med Arrest, idet der kan foreligge en Fritagelsesgrund, som alene udelukker<lb />
+den foreløbige Retsforfølgning. Det er nemlig en Selvfølge, at ligesom Formuerettigheder, der efter deres Beskaffenhed i og for<lb />
+sig egne sig til at være Gjenstand for Retsforfølgning, fuldstændig kunne udelukkes herfra<lb />
+ved Retshandler med Trediemand eller dennes<lb />
+Bestemmelser (jfr. § 476), således kan det<lb />
+også gyldig bestemmes, at de alene skulle<lb />
+være undtagne fra Arrest. Forsåvidt derimod en således begrænset Undtagelse i Medfør af den gjældende Ret i visse Tilfælde<lb />
+kunde tilståes som et særligt Privilegium<lb />
+(f. Ex. med Hensyn til Indskud i Sparekasser), vil dette for Fremtiden bortfalde.</p>
+<p>I § 575 er den gjældende Rets almindelige Regel, at Arrest kan afværges ved Sikkerhedsstillelse, optaget således, at den nu<lb />
+bliver undtagelsesfri. Der er ikke fundet tilstrækkelig   Grund   til   at   bibeholde   den   med</p>
+</leftside>
+<rightside>
+<p>Hensyn til Vexler og Vexelobligationer bestående Undtagelse, som hviler på den Opfattelse, at Skyldneren gjennem Arresten skal<lb />
+tvinges til uopholdelig at rette for sig.<lb />
+I nærværende Forslag er man nemlig i<lb />
+Overensstemmelse med de t 7de Afsnit nedlagte<lb />
+Grundsætninger om, hvilke Grænser der bør<lb />
+opstilles for den civile Exekutions Område,<lb />
+gået ud fra, at det Indgreb i Skyldnerens<lb />
+Rettigheder, der sker igjennem Arresten, ikke<lb />
+bør udstrækkes videre end nødvendigt for at<lb />
+skaffe Fordringshaveren Sikkerhed. Ligesom<lb />
+Arrest derfor ifølge § 579 aldrig kan gjøres<lb />
+på Person, når Sikkerhed kan fåes ved<lb />
+Arrest på Gods, og fremdeles i Henhold til<lb />
+§ 591 kun kan udstrækkes til såmeget af<lb />
+Skyldnerens Gods, som behøves til at sikre<lb />
+Fordringen, således må den ubetinget kunne<lb />
+afværges ved Sikkerhedsstillelse. Af denne<lb />
+Grundsætning følger fremdeles, at der ikke<lb />
+lovlig kan joges Arrest for sådanne Fordringer, som allerede ere tilstrækkelig betryggede<lb />
+ved anden Sikkerhed. Hvad angår Sikkerhedens Beskaffenhed, er det utvivlsomt, at<lb />
+Sikkerhedsstillelsen ifølge Christian den Femtes<lb />
+Lov efter Omstændighederne måtte kunne<lb />
+gives ved personlig Kaution; men i Praris<lb />
+har det allerede længe været den almindeligst antagne Mening, at Rekvirenten<lb />
+ifølge den nyere Lovgivnings Grundsætning<lb />
+ikke er pligtig at lade sig nøje med Mindre<lb />
+end reel Sikkerhed, jfr. Bangs og Larsens<lb />
+Procesmåde § 226. Denne Regel er vistnok<lb />
+for streng og vil jævnlig kunne føre til,<lb />
+at Arrest må iværksættes, uagtet det er muligt på anden Måde at skaffe Kreditor en<lb />
+virkelig betryggende Sikkerhed. Det er derfor fundet rettest at overlade Afgjørelsen af<lb />
+det Spørgsmål, om en tilbuden Sikkerhed<lb />
+er af fyldestgørende Beskaffenhed, til Fogedrettens<lb />
+skjøn. Hvad angår Sikkerhedens Størrelse,<lb />
+vil denne vel jævnlig ligefrem være given ved<lb />
+Arrestrekvirentens Opgivelse af, hvad hans Fordring går ud på; er dette imidlertid Andet<lb />
+end Penge, vil der dog også i denne Henseende blive Plads for Fogdens skjøn. Går<lb />
+Fogdens Bestemmelse af Sikkerhedsspørgsmålet Arrestrekvirenten imod, vil denne gjennem<lb />
+Besværing kunne indbringe Fogdens Afgjørelse</p>
+</rightside>

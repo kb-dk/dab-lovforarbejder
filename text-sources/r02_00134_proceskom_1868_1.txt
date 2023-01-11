@@ -1,0 +1,20 @@
+131
+<pb n="134" />
+<leftside>
+<p>tens Sæde de borgerlige Retstrætter, som i<lb />
+Medfør af K 14 måtte være henvifte til<lb />
+vedkommende Landsretsafdeling, og i hvilke<lb />
+Bevisførelse er berammet. Rævningesager<lb />
+osv. som i Forflag II.</p>
+<p>Ved Samlingerne på de Steder udenfor<lb />
+Rettens Seede, hvor vedkommende Landsretsafdeling holder Møde, medfølger osv. som i<lb />
+førstag I.</p>
+</leftside>
+<rightside>
+<p>den fjællandske Landsrets anden særlige Afdelings Vedkommende de borgerlige Retstrætter,<lb />
+som i Medfør af § 14 måtte være henviste<lb />
+til Behandling af disse Afdelingsretter. Nævningesager behandles først osv.</p>
+<p>Ved Samlingerne på de Steder udenfor<lb />
+Rettens Sæde, hvor vedkommende Landsretsafdeling holder Møde, medfølger osv. som i<lb />
+Forslag I.</p>
+</rightside>

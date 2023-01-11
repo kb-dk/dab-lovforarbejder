@@ -1,0 +1,77 @@
+3815
+<pb n="238">
+<h>
+<coll>
+3815
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3816
+</colr>
+</h>
+<p>
+Vederlag til valgte Forsvarere og Udgifter i Anledning af Beviser, som Sig-<lb />
+tede fremskaffer uden Rettens Foranstaltning, vedkomme ikke det offentlige, ej heller<lb />
+Udgifter, der foranlediges ved Skridt, som en Trediemand foretager i sin Interesse.<lb />
+Dog kan Retten efter Omstændighederne tillægge Vidner, som fra Tiltaltes Side<lb />
+fremstilles i Nævningesager uden dertil at være indkaldte, Godtgørelse hos det offentlige.
+</p>
+<lowtitle>§ 1008.</lowtitle>
+<p>
+Findes Sigtede skyldig, eller kendes han ved Dom uberettiget til Oprejsning<lb />
+for uforskyldt Anholdelse eller Erstatning for uforskyldt Varetægtsfængsel eller Straf-<lb />
+udstaaelse, er han pligtig at erstatte det offentlige de nødvendige Udgifter, som ere<lb />
+medgaaede til Sagens Behandling.
+</p>
+<p>
+Har Undersøgelsen været rettet paa en anden Forbrydelse end den, eller paa<lb />
+andre Forbrydelser foruden den, for hvilken Tiltalte dømmes, er han ikke pligtig til<lb />
+at erstatte de derved foranledigede yderligere Omkostninger (jvf. dog § 1010); kan en<lb />
+Sondring ikke ske,  bestemmer Retten, om og hvor stort et Afdrag, der bør gøres.
+</p>
+<p>
+Udgifter, der ere foranledigede ved Anke, Kære eller Begæring om en Genop-<lb />
+tagelse, blive ikkun da at udrede af Tiltalte, naar disse Skridt enten have ført til et for<lb />
+ham ugunstigere Udfald eller ere iværksatte af ham selv og ikke have ført til Foran-<lb />
+dring til hans Fordel. Er Anke rejst eller Genoptagelse begært af nogen af de i<lb />
+§ 941, 3die Punktum, nævnte Personer, er den paagældende under tilsvarende Betin-<lb />
+gelser pligtig at erstatte de derved forvoldte Udgifter.
+</p>
+<p>
+Omkostninger, som ere foraarsagede ved andres Fejl eller Forsømmelser, bør<lb />
+ikke falde Domfældte til Last. Retten kan ogsaa i Dommen begrænse Omkostnings-<lb />
+ansvaret, naar den finder, at dette ellers vilde komme til at staa i aabenbart Misfor-<lb />
+hold til Domfældtes Skyld og Vilkaar.
+</p>
+<p>
+Rejsegodtgørelser og Dagpenge til Landsrettens Personale i Anledning af<lb />
+Rettens Møder udenfor dens Hovedsæde, Rejsegodtgørelser og Dagpenge til Nævninger,<lb />
+Rejsegodtgørelser og Dagpenge til Overanklageren, som foranlediges ved, at denne har<lb />
+Embedskontor paa et andet Sted end det, hvor Retten holdes, falder ikke Domfældte<lb />
+til Last.
+</p>
+<lowtitle>§ 1009.</lowtitle>
+<p>
+Dømmes flere Tiltalte som meddelagtige i den samme Handling, har enhver<lb />
+især af dem at erstatte de Udgifter, som hidrøre fra Forhold, der alene vedrøre ham.<lb />
+Med Hensyn til andre Omkostninger paalægger Retten de enkelte Deltagere at udrede<lb />
+en i Forhold til Graden af deres Deltagelse bestemt Andel og kan tillige bestemme,<lb />
+at alle eller enkelte Deltagere skulle hæfte solidarisk.
+</p>
+
+<lowtitle>§ 1010.</lowtitle>
+<p>
+Frifindes Tiltalte, eller endes Sagen i øvrigt uden at have ført til Sigtedes<lb />
+Domfældelse, paahviler der ham ingen Pligt til at udrede Omkostninger, undtagen for<lb />
+saa vidt disse maatte være foraarsagede ved hans tilregnelige og retsstridige Hand-<lb />
+linger eller Undladelser.
+</p>
+<lowtitle>§ 1011.</lowtitle>
+<p>
+Er Straffesagen foranlediget ved tilregnelige og retsstridige Handlinger af an-<lb />
+dre end Sigtede, eller ere særegne Udgifter foraarsagede ved saadanne Handlinger eller<lb />
+Undladelser (jvf. § 177), paahviler der den paagældende Erstatningspligt for de Om-<lb />
+kostninger, hans Forhold har medført.
+</p>
+
+</pb>

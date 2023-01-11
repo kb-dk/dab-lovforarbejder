@@ -1,0 +1,69 @@
+2371
+<pb n="112" />
+<h>
+<coll>2371</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2372</colr>
+</h>
+<p>
+ternes egen Forklaring behøves, pligtig at afsige en Kendelse, ved hvilken Spørgs-<lb/>
+maalet da er afgjort paa samme Maade som ved Voldgift.
+</p>
+<wtitle>§ 516.</wtitle>
+<p>
+De i foregaaende Paragraf omhandlede Sager kunne anlægges ved det Steds<lb/>
+Underret, hvor Boet behandles eller, for saa vidt Sagen ifølge dens Genstand henhører<lb/>
+under Landsret, ved den Landsret, under hvilken vedkommende Skifteret staar.
+</p>
+<p>
+Dog skal det altid staa den. hvis Fordring eller nedlagte Paastand bestrides<lb/>
+af Boet, frit for at anlægge Sagen ved Underret uden Hensyn til dens Genstand.
+</p>
+<wtitle>§ 517.</wtitle>
+<p>
+Boet er i de i § 515, første Stykke, omhandlede Tilfælde selv at anse som<lb/>
+Modpart, hvorfor Stævningen lyder paa det og forkyndes for Kurator paa Boets Vegne.
+</p>
+<p>
+Det paahviler Kurator at sørge for, at Boet under Retssagen repræsenteres<lb/>
+paa behørig Maade.
+</p>
+<wtitle>§ 518.</wtitle>
+<p>
+Dommen i en i Henhold til § 515 anlagt Sag kan ikke, medmindre paagæl-<lb/>
+dende Parter frafalde Anke mod Dommen, eller den kun kan paaankes efter særlig<lb/>
+Tilladelse, lægges til Grund for Boets videre Behandling, førend den almindelige Anke-<lb/>
+frist er udløben ubenyttet.
+</p>
+<p>
+Skulde Dommen blive forandret eller annulleret ifølge en senere Paaanke, tages<lb/>
+behørigt Hensyn hertil ved Boets videre Behandling, i fornødent Fald ved Omgørelse<lb/>
+af det foretagne, hvis Konkursbehandlingen ikke endnu er sluttet, men efter den Tid<lb/>
+maa enhver Forandring søges iværksat ved Paaanke af Udlodningen.
+</p>
+<wtitle>§ 519.</wtitle>
+<p>
+Spørgsmaal om Boets Overtagelse, Bestyrelse — derunder Fastsættelse af de i<lb/>
+Konkurslovens § 69 omhandlede Vederlag — Udlevering og, med de af § 515 flydende<lb/>
+Begrænsninger, ogsaa om dets Opgørelse paakendes af Skifteretten. Tvistigheder an-<lb/>
+gaaende disse Spørgsmaal behandles efter de for Underretssager foreskrevne Regler.<lb/>
+Forligsmægling foregaar ved Skifteretten.
+</p>
+<wtitle>§ 520.</wtitle>
+<p>
+Imod Kendelser eller Beslutninger af Skifteretten, som forefalde under Boets<lb/>
+Behandling, kan der uden for de i Konkurslovens § 137 angivne Tilfælde finde Kære<lb/>
+Sted til den Landsret, under hvilken vedkommende Skifteret staar. Ligeledes er den<lb/>
+i Konkurslovens § 48, 2det Stykke omhandlede Beslutning Genstand for Kære til<lb/>
+Landsretten. Med Hensyn til Kære imod den Beslutning af Skifteretten, hvorved en<lb/>
+antagen Akkord forkastes, blive de i Konkurslovens § 138 fastsatte Begrænsninger<lb/>
+at iagttage.
+</p>
+<p>
+Den sluttede Konkursbehandling og i Forbindelse hermed de under samme<lb/>
+afsagte Kendelser og tagne Beslutninger, for saa vidt som disse ikke have været gjort<lb/>
+til Genstand for Kære, kunne paaankes til den Landsret, under hvilken Skifteretten<lb/>
+staar. Den Beslutning af Skifteretten, hvorved en antagen Akkord er stadfæstet, kan<lb/>
+dog kun i de i Konkurslovens § 139 nævnte Tilfælde indbringes til Prøvelse af Lands-<lb/>
+retten; dette sker ved Kære.
+</p>

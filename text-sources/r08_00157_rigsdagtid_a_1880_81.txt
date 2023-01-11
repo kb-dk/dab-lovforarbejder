@@ -1,0 +1,48 @@
+3677
+<pb n="157" />
+<h>
+<coll>3677</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>3678</colr>
+</h>
+<p>Enkelte Fordringshavere, som have Interesse i at bestride en Fordring, uagtet Boet<lb />
+ikke vil modsige den eller den for samme paastaaede Fortrinsret, have Adgang hertil, forsaa-<lb />
+vidt der ikke af Boet er sluttet Overenskomst med Vedkommende om Tvistens Gjenstand, og<lb />
+Sagens forsølgning ikke udsætter Boet for Tab af Rettigheder. De paagjældende For-<lb />
+dringshavere have i saa Fald inden 4 Uger, efter at Boets Beslutning er taget, at foretage<lb />
+de fornødne Skridt til Retssags Anlæg. I modsat Tilfælde bliver der ved Boets Opgjørelse<lb />
+ikke taget Hensyn til deres Indsigelser. De cre pligtige at lade Klagestriftet forkynde for<lb />
+Boets Kurator.</p>
+<p>Ville Parter, imellem hvilke en Tvist er opstaaet, overlade Spørgsmaalets Afgjørelsc<lb />
+til Skifteretten, er denne, naar ingen Bevisførelse ved Vidner, Syn eller Parternes egen<lb />
+Forklaring behsves, pligtig at afsige en Kjendelse, ved hvilken spørgsmaalet da er afgjort paa<lb />
+samme Maade som ved Voldgift.</p>
+<wtitle>§ 635.</wtitle>
+<p>De i foregaaende Paragraf omhandlede Sager anlægges paa det Sted, hvor Boet<lb />
+behandles, enten for Underretten eller for den Landsret, under hvilken vedkommende Skifteret<lb />
+staar, forsaavidt Sagen ifolge dens Gjenstand henhører under Landsret.</p>
+<p>Dog skal det altid staa den, hvis Fordring eller nedlagte Paastand bestrides af Boet<lb />
+frit for at begjære Eagen paakjendt ved Underret uden Hensyn til dens Gjenstand.</p>
+<wtitle>§ 636.</wtitle>
+<p>Boet er i de i § 634 forste Stykke omhandlede Tilfælde selv at anse som Mod-<lb />
+part, hvorfor Klagestriftet (§§ 160 og 343) lyder paa det og forkyndes for Kurator paa<lb />
+Boets Vegne.</p>
+<p>Det paahviler Kurator at sørge for, at Boet under Retssagen repræsenteres paa be-<lb />
+horig Maade.</p>
+<wtitle>§ 637.</wtitle>
+<p>De i § 634 omhandlede Sager udfores Iøvrigt efter de almindelige Regler, som<lb />
+gjælde for Sagers Behandling henholdsvis ved Landsret og Underret.</p>
+<wtitle>§ 638.</wtitle>
+<p>Imod de affagte Domme kan der anvendes de almindelige Retsmidler.</p>
+<p>Den afsagte Dom kan derfor ikke, medmindre paagjældende Parter frafalde Rets-<lb />
+midlers Anvendelse mod Dommen, eller denne ifølge sin Gjenstand ikke kan angribes ved Rets-<lb />
+midler, lægges til Grund for Boets videre Behandling, forend der er hengaaet en Frist af<lb />
+4 Uger fra Afsigelsen, uden at der er gjort Retsmidler gjældende.</p>
+<p>Skulde Dommen blive forandret eller annulleret ifølge en senere Anvendelse af Rets-<lb />
+midler, tages behørigt Hensyn hertil ved Boets videre Behandling og i fornødent Fald ved<lb />
+Omgjørelse af det Foretagne, hvis Konkursbehandlingen ikke endnu er sluttet, mm efter den<lb />
+Tid maa enhver Forandring foges iværkfat ved Paaanke af Udlodningen.</p>
+<wtitle>§ 639.</wtitle>
+<p>Imod Kjendelser eller Beslutninger af Skifteretten, som forefalde under Boets Be-<lb />
+handling, kan der udenfor de i Konkursloveus § 137 angivne Tilfælde finde Besværing Sted<lb />
+til den Landsret, under hvilken vedkommende Skifteret staar.      Ligeledes er den i Konkurs-</p>

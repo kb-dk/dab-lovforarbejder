@@ -1,0 +1,55 @@
+292
+<pb n="28" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>292</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 116.</wtitle>
+<p>
+Udenfor mundtlig Forhandling i Domssager for Landsret, Københavns Sø- og<lb/>
+Handelsret i Sager, som i Medfør af §§ 215—16 vilde høre under Landsret, og for<lb/>
+Højesteret samt uden Begrænsning for Underret og Sø- og Handelsretten i Sager, der<lb/>
+ifølge de nævnte Paragraffer vilde høre under Underret, er det Sagførere tilladt uden<lb/>
+særlig Angivelse af Grund at lade møde for sig ved deres autoriserede Fuldmægtige.
+</p>
+<p>
+Med Angivelse og på Rettens eller Modpartens Forlangende Bevisliggørelse af<lb/>
+lovligt Forfald kunne Sagførere under de i denne Paragraf omhandlede Rettergangsforetagender give Møde ved enhver uberygtet myndig Person.
+</p>
+<wtitle>§ 117.</wtitle>
+<p>
+Enhver Sagfører er berettiget til at have en autoriseret Fuldmægtig, der skal<lb/>
+være en uberygtet Person, som har underkastet sig i det mindste den juridiske Fællesprøve eller den tidligere eller nuværende juridiske Eksamen for ustuderede. Autorisationen meddeles for Fuldmægtige hos Højesteretssagførere af Højesterets Formand,<lb/>
+for Fuldmægtige hos Landsretssagførere af Formanden i vedkommende Landsret, for<lb/>
+Fuldmægtige hos de Underretssagførere, der have Kontor i København, af Formanden<lb/>
+i Københavns Byret og for Fuldmægtige hos andre Underretssagførere af Dommeren<lb/>
+i den Retskreds, i hvilken vedkommende Sagfører har Kontor. De autoriserede Fuldmægtige skulle, så længe de ville benytte Fuldmagten, have Bopæl i eller ved den<lb/>
+Stad eller i den Retskreds, hvor deres Principal har Kontor.
+</p>
+<title>Kapitel 11.</title>
+<undertitle>
+Sagføreres Rettigheder og Pligter.
+</undertitle>
+<wtitle>§ 118.</wtitle>
+<p>
+Sagførerne ere på den Måde og med de Begrænsninger, som i denne Lov<lb/>
+bestemt, eneberettigede til at udføre Retssager for andre. En Bemyndigelse<lb/>
+til i eget Navn at indtale en Fordring eller anden Rettighed („Mandatarfuldmagt")<lb/>
+kan ikke give den, hvem Bemyndigelsen er given, Ret til selv at møde i Sagen, når<lb/>
+han ikke vilde være berettiget til at give Møde som Sagfører for vedkommende Domstol i den pågældende Sag.
+</p>
+<p>
+Indgreb i Sagførernes Eneret, derunder indbefattet, at nogen uberettiget<lb/>
+offentlig betegner sig som Sagfører, anses med Bøder fra 50 til 200 Kr., hvilken<lb/>
+Straf, når Forseelsen er sket gennem Proformaretshandler, ved hvilke det er givet<lb/>
+Udseende af, at vedkommende optræder som Transporthaver, kan stige til 500 Kr.<lb/>
+Overenskomster om, at Transportgiveren skal betale Bøden, ere ugyldige, og det i<lb/>
+Tilfælde af sådant Proformaværk tilsagte Vederlag for Udførelse af Sager kan ikke<lb/>
+søges betalt samt kan, hvis det er erlagt, søges tilbage.
+</p>
+<wtitle>§ 119.</wtitle>
+<p>
+Ingen Sagfører er, bortset fra de Tilfælde, hvor han hertil kan beordres, pligtig at påtage sig Udførelsen af en Retssag.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

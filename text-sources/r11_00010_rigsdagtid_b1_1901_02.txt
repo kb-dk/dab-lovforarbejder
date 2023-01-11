@@ -1,0 +1,88 @@
+2277
+<pb n="10" />
+<h>
+<coll>2277</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2278</colr>
+</h>
+<leftside>
+<p>Af Justitsministeren, tiltraadt af<lb />
+U dy alge t:</p>
+<p>2.15) I sidste Linie ændres „8 Dage"<lb />
+til „en Uge".</p>
+<wtitle>Til § 154.</wtitle>
+<p>Af Udvalget:</p>
+<p>216) I 2den og 3die Linie ændres<lb />
+Ordene „maa —Indskrænkning" til: „skal<lb />
+dog, naar han ikke har lovligt Forfald."</p>
+<wtitle>Til § 156.</wtitle>
+<p>Af Justitsministeren:</p>
+<p>217)	I Slutningen af 1ste Stykke ud-</p>
+<p>gaa Ordene: „og om 			Maade", og</p>
+<p>Kommaet efter „Retten" ændres til et<lb />
+Punktum.</p>
+<p>Af Mindretallet under Nr. 211:</p>
+<p>218)	I L. 6—7 ændres Ordene: „med</p>
+<p>Ed	Maade" til „med den i § 164</p>
+<p>nævnte Forsikring paa Ære og Samvittig-<lb />
+hed."</p>
+<wtitle>Til § 157.</wtitle>
+<p>Af Justitsministeren:</p>
+<p>219)	I 3die Linie udgaa Ordene: „eller<lb />
+af sigtede".</p>
+<wtitle>Til § 159.</wtitle>
+<p>Af Udvalget:</p>
+<p>220)	Begyndelsesordene i sidste Stk.:<lb />
+„Om nedskrevne Oplysninger maa benyt-<lb />
+tes" ændres til: „Om Vidnet maa benytte<lb />
+nedskrevne Oplysninger."</p>
+<wtitle>Til § 164.</wtitle>
+<p>Af Justitsministeren:</p>
+<p>221)	Paragraffen flyttes hen mellem</p>
+<p>§ 156 og § 157 og affattes saaledes:</p>
+</leftside>
+<rightside>
+<p>„Naar ikke begge Parter frafalde det, skal<lb />
+et Vidne edfæstes eller — hvis Vidnet ikke<lb />
+hører til et Trossamfund, for hvilket der<lb />
+haves en bestemt Edsformular, eller er-<lb />
+klærer. at det ifølge sin religiøse Tro ikke<lb />
+tør affægge Ed, eller at det overhovedet<lb />
+ikke har nogen religiøs Tro — afgive en<lb />
+Forsikring „paa Ære og Samvittighed", der<lb />
+træder i Eds Sted.</p>
+<p>Eden aflægges og Forsikringen afgives,<lb />
+forinden Afhøringen om Sagen begynder,<lb />
+og gaar ud paa, at Vidnet lover, at det<lb />
+vil udsige den rene Sandhed og i sine<lb />
+Svar paa Spørgsmaalene intet fordølge,<lb />
+som kan tjene til Sagens Oplysning".</p>
+<wtitle>Til § 164.</wtitle>
+<p>Af Mindretallet under Nr. 211:</p>
+<p>222 a.) Paragraffens 1ste Stykke af-<lb />
+fattes saaledes:</p>
+<p>„Vidneforklaringer skulle, naar ikke<lb />
+begge Parter frafalde det, bekræftes med<lb />
+en Forsikring paa Ære og Samvittighed."</p>
+<p>Af Udvalget:</p>
+<p>222 b.) I 2det Stykkes 2det Punktum<lb />
+efter „Forklaring" indskydes: „dog uden<lb />
+at benytte de ved Frdg. 28de Juni 1842<lb />
+og Lov 19 de April 1864 fastsatte For-<lb />
+maningstaler".</p>
+<wtitle>Til § 165.</wtitle>
+<p>Af Mindretallet under Nr. 211:</p>
+<p>223)	1ste Linie affattes saaledes:<lb />
+„Forsikring paa Ære og Samvittighed</p>
+<p>kræves ikke af:".</p>
+<p>I næstsidste Stykkes 1ste Linie udgaar<lb />
+Ordet „edfæste" og i Stedet for indsættes:<lb />
+„kræve Vidneforklaringens Bekræftelse af".</p>
+<p>Paragraffens sidste Stykke udgaar.</p>
+<wtitle>Til § 165.</wtitle>
+<p>Af Justitsministeren:</p>
+<p>224)	I Slutningen af næstsidste Stykke<lb />
+ændres „skønnes at" til „befrygtes at<lb />
+ville", hvorhos Paragraffen flyttes hen<lb />
+næstefter forrige Paragraf.</p>
+</rightside>

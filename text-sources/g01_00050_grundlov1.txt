@@ -1,0 +1,142 @@
+31
+<pb n="50">
+<pagename>50</pagename>
+<h>
+<coll>31</coll>
+<colr>32</colr>
+<lb/>
+</h>
+<leftside>
+<p rend="continue">
+have Indflydelse på denne Sags Bedømmelse, anseet det rettest, at<lb/>
+Forsamlingen ikke for Tiden afgjør noget Bestemt om denne Sag,<lb/>
+men forinden indyenter de nærmere Oplysninger, som i denne Henseende måtte kunne have Indflydelse på Sagens Afgjørelse igjennem<lb/>
+vedkommende Valgbestyrelse. Comiteen har ikke anseet sig berettiget til at udsætte denne enkelte Sag, indtil den selv havde indhen<lb/>
+tet disse Oplysninger; den har troet det rigtigst at undergive dette<lb/>
+Spørgsmål Forsamlingens Afgjørelse.<lb/>
+</p>
+<p>
+<speaker>Forstander Møller:</speaker> Efterat Capitain Tuxens Valg er erkjendt<lb/>
+gyldigt forekommer det mig, at det ligger i Conseqventsen, at det nærværende Valg også må erkjendes gyldigt. Der er i de Indsigelser,<lb/>
+der ere fremkomne mod begge Valg, meget fælles, og jeg troer, at<lb/>
+der kan indvendes mindre mod det sidste end mod det første. Jeg skal<lb/>
+gjøre opmærksom på, at dersom den Omstændighed, at Stemmesedler<lb/>
+vare indsmuglede og afgivne af Andre end Vedkommende selv, skulde<lb/>
+være tilstrækkelig til at gjøre et Valg ugyldigt, da vilde ethvert<lb/>
+Parti kunne benytte sig af en sådan Fremgangsmåde og derved<lb/>
+kuldkaste det bedste Valg, som man kan tænke sig. Jeg skal tillade<lb/>
+mig at henlede Opmærksomheden på, om der ikke var Anledning til<lb/>
+at antage dette Valg for gyldigt, da den væsentligste Indsigelse<lb/>
+dog beroer på, at Stemmer ere afgivne af Andre end Vedkommende selv.<lb/>
+</p>
+<p>
+<speaker>Etatsråd Algreen-Ussing:</speaker> Der er dog imidlertid den Forskjel, at det i det først omhandlede Tilfælde igjennem Valgbestyrelsens<lb/>
+Erklæring er tilstrækkelig constateret, at det kun har fundet Sted i<lb/>
+to Tilfældee, at der er afgivet Stemmer for Mænd, der ikke vare<lb/>
+tilstede, og af disse var den ene Stemme i Faveur af den ene Valgcandidat, den anden i Faveur af den anden, således at dette ikke<lb/>
+kunde have nogen videre Indflydelse. Her derimod nævnes, at endeel Vælgere ikke personligen vare mødte; der udhæves specielt, at<lb/>
+een Stemme er bleven afgiven uden Bemyndigelse dertil af Vedkommende. Det forekommer derfor Comiteen, at da her ingen Erklæring<lb/>
+fra Valgbestyrelsen er tilstede, burde en sådan søges tilveiebragt.<lb/>
+Det forekommer mig, at Valgbestyrelsen selv må have Ret til at<lb/>
+fordre, at der gives den Leilighed til at erklære sig over de fremsatte Anker. Denne Fremgangsmåde vil vistnok have den ubehagelige Følge, at et Medlem imidlertid ikke vil kunne tage Deel i Afstemninger og Valg; men forhåbentlig ville de manglende Oplysninger snart kunne tilveiebringes, og dersom disse Oplysninger da<lb/>
+ikke ville have nogen Indflydelse på Sagens Afgjørelse, vil hele<lb/>
+Følgen dog kun være dette lille Ophold. Jeg skal ikke nægte, at det<lb/>
+vel for Fremtiden muligen vil sindes nødvendigt, at give yderligere<lb/>
+Bestemmelser om den behørige Control ved Valgforhandlingerne; men<lb/>
+dette er naturligviis Noget, der ligger udenfor den nærværende Sag.<lb/>
+</p>
+<p>
+Da Ingen efter Formandens Opfordring tog Ordet, blev det<lb/>
+af Etatsråd Algreen-Ussing fremsatte Forslag, at udsætte Afgjørelsen<lb/>
+af Spørgsmålet om Gyldigheden af Provst Boisens Valg, indtil<lb/>
+nogle nærmere Oplyninger i denne Anledning vare indhentede, sat<lb/>
+under Afstemning, og blev det da antaget med aldeles overveiende<lb/>
+Pluralitet.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Jeg må anmelde, at en Rigsdagsmand, som<lb/>
+ikke var tilstede i foregående Møde, er kommen tilstede i dette,<lb/>
+nemlig Hospitalsforstander Ostenseldt fra Ålborg, der er valgt af<lb/>
+Hs. Majestæt Kongen, og som har medbragt det ham i denne Anledning tilstillede Brev, så at jeg antager, at det vil være overflødigt at underkaste hans Berettigelse nogen nærmere Undersøgelse.<lb/>
+</p>
+<p>
+<speaker>Justitsministeren:</speaker> Det vil være i den ærede Forsamlings<lb/>
+Erindring af den Tale, som Ministerpræsidenten holdt igår, at det<lb/>
+er bleven vedtaget, at der, strax når Forsamlingen havde constitueret<lb/>
+sig, skulde forelægges den Udkst til Grundloven. Dette Udkast<lb/>
+lyder således:<lb/>
+
+</p>
+</leftside>
+<rightside>
+<title>
+I.<lb/>
+</title>
+<p>
+<law n="0"/>§ 1<lb/>
+Regjeringsformen i Kongeriget Danmark og, Slesvig er indskrænket-monarkisk. Kongemagten er arvelig.<lb/>
+<law n="0"/>§ 2<lb/>
+Den evangelisk-lutherske Kirke er, som den, hvori den overveiende<lb/>
+Deel af Folket et befinder sig, at. ansee som den danske Folkekirke og<lb/>
+nyder, som sådan, Understøttelse af Staten.<lb/>
+<law n="0"/>§ 3<lb/>
+Den lovgivende Magt er hos Kongen og Rigsdagen i Forening.<lb/>
+Den udøvende Magt er hos Kongen. Den dømmende Magt er hos<lb/>
+de anordnede Domstole.<lb/>
+</p>
+<title>
+II.<lb/>
+</title>
+<p>
+<law n="4."/>§ 4.<lb/>
+Den i Kongeloven fastsatte Arvefølge er fremdeles gjældende.<lb/>
+Den kan sun forandres efter Forslag fra Kongen og med den forenede Rigsdags Samtykke, hvortil udfordres ¾ af de afgivne<lb/>
+Stemmer.<lb/>
+<law n="5."/>§ 5.<lb/>
+Kongen kan ikke uden Rigsdagens Samtykke tillige være Regent i nogen anden Stat end Hertugdømmerne Holsten og Lauenborg.<lb/>
+<law n="6."/>§ 6.<lb/>
+Kongen skal høre til den evangelisk-lutherske Kirke.<lb/>
+<law n="7."/>§ 7.<lb/>
+Kongen er myndig, når han har fyldt sit 18de År.<lb/>
+<law n="8."/>§ 8.<lb/>
+Kongen kan ikke tiltræde Regjeringen, forinden han i den forenede Rigsdag har aflagt følgende Eed:<lb/>
+„For den almægtige Guds Åsyn lover jeg at holde<lb/>
+Grundloven for Kongeriget Danmark og Slesvig.”<lb/>
+Dog kan denne Eed alt aflægges af Thronfølgeren, når han har<lb/>
+fyldt sit 18de År.<lb/>
+<law n="9."/>§ 9.<lb/>
+Bliver Kongen ude af Stand til at regjere, sammenkalder Statsrådet Rigsdagen. Begge dens Afdelinger træde sammen, og når<lb/>
+den således forenede Rigsdag med ¾ af de afgivne Stemmer anerkjender Nødvendigheden, udnævner den en Regent.<lb/>
+<law n="10."/>§ 10.<lb/>
+Er der Anledning til at frygte for, at Thronfølgeren ved Kongene Død vil være umyndig eller af anden Grund ude af Stand til<lb/>
+selv at regjere, bestemmes ved Lov en Regent, og et Formynderskab<lb/>
+anordnes af Kongen. Regenten kan ikke deeltage i Formynderskabet.<lb/>
+<law n="0"/>§.11.<lb/>
+Regenten aflægger den for Kongen foreskrevne Eed og udøver,<lb/>
+sålænge Regentskabet varer, i Kongens Navn alle dennes Rettigheder; dog kan han ikke foreslåe Forandring af Arveføgen.<lb/>
+<law n="12."/>§ 12.<lb/>
+Er Kongen død, og er Thronfølgeren fraværende, eller har han,<lb/>
+skjøndt myndig, ikke aflagt Eed på Grundloven, eller er han umyndig, uden at Regenten er udnævnt og har aflagt Eed, eller uden at<lb/>
+Formynderskabet er ordnet, eller er der ingen Thronfølger, sammentræder Rigsdagen uden Sammenkaldelse 14 Dage efter Kongens Død.<lb/>
+I Mellemtiden føres Regjeringen af Statsrådet.<lb/>
+<law n="13."/>§ 13.<lb/>
+Er Kongen umyndig, uden at Regent og Formynderskab er<lb/>
+bestemt, udnævner den forenede Rigsdag Regenten og beskikker Formynderskabet:<lb/>
+<law n="14."/>§ 14.<lb/>
+Er der ingen Thronfølger, udvæsger den forenede Rigsdag en<lb/>
+Konge og fastsætter den fremtidige Arvefølge.<lb/>
+</p>
+<morenext>
+(Fortsættes.)<lb/>
+</morenext>
+<underpage1>
+Subscription på denne Tidende modtages i Kjøbenhavn hos Kgl. Hofbogtrykker Bianco Luno (Østergade Nr. 70), i Provindserne på<lb/>
+</underpage1>
+</rightside>
+<underpage>
+Trykt og forlagt af Kgl. Hofbogtrykker Bianco Luno.<lb/>
+ 
+</underpage>
+
+
+</pb>

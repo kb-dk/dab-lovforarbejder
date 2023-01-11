@@ -1,0 +1,85 @@
+2119
+<pb n="196" />
+<h>
+<coll>
+2119
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2120
+</colr>
+</h>
+<p>
+Politimesteren skal uden Ophold give Dommeren Meddelelse om de Under-<lb />
+søgelseshandlinger, som han, efter at Forundersøgelse ved Retten er begyndt, foretager<lb />
+paa egen Haand.
+</p>
+<wtitle>§  874.</wtitle>
+<p>
+Politiet er pligtigt at efterkomme de Paalæg, Dommeren giver i Forunder-<lb />
+søgelsens Interesse,
+</p>
+<p>
+Dommeren er berettiget til at henvende sig med Begæring om Retshandlingers<lb />
+Foretagelse i en anden Retskreds til Undersøgelsesdommeren i denne. Føres For-<lb />
+undersøgelsen af et Medlem af Landsretten, er dette fremdeles berettiget til at fordre<lb />
+enkelte Retshandlinger foretagne af Undersøgelsesdommeren i Retskredsen.
+</p>
+<p>
+I paatrængende Tilfælde kan en Undersøgelsesdommer, for hvem Sagen ikke<lb />
+er tingfæstet, uden at afvente Begæring, foretage enkelte Retshandlinger i Under-<lb />
+søgelsens Interesse, som han anser for uopsættelige. Han har i saa Fald uopholdelig<lb />
+at underrette den Dommer, for hvem Sagen er tingfæstet, om det foretagne.
+</p>
+<wtitle>§  875.</wtitle>
+<p>
+Det er Paatalemyndighedens Pligt i størst mulige Omfang at være til Stede i<lb />
+Retsmøderne under Forundersøgelsen, og saavel Sigtede som dennes Forsvarer (jfr. §<lb />
+713) have ordentligvis Ret til at være til Stede i disse, hvad enten de ere offentlige<lb />
+eller ej.
+</p>
+<p>
+Undtagelse fra foranstaaende Regel finder Sted:
+</p>
+<p>
+1)	naar Dommeren finder Anledning til at anvende den ham efter § 739, 1ste<lb />
+Stykke, tilkommende Beføjelse mod nogen af de nævnte Personer;
+</p>
+<p>
+2)	Sigtede kan midlertidig fjernes, naar der er Grund til at antage, at en ufor-<lb />
+beholden Udtalelse af en Person, der afhøres, ellers ikke kan opnaas;
+</p>
+<p>
+3)	Sigtede og hans valgte Forsvarer kan midlertidig udelukkes fra Deltagelse,<lb />
+naar der er Grund til at antage, at den paagældende vil modvirke Undersøgelsen ved<lb />
+at paavirke Medsigtede eller Vidner til at afgive urigtig Forklaring, ved at fjerne<lb />
+Gerningens Spor eller paa anden lignende Maade; naar det begæres, afsiges Kendelse<lb />
+herom;
+</p>
+<p>
+4)	er der flere Sigtede, beror det paa Dommerens Bestemmelse, om den ene<lb />
+Sigtede maa paahøre den andens Forklaringer.
+</p>
+<p>
+Har Sigtede i Henhold til Reglerne under Nr. 1—4 været udelukket, bliver<lb />
+det Retsbogen tilførte at meddele ham, naar Grunden til hans Udelukkelse er ophørt<lb />
+og i ethvert Fald inden Forundersøgelsens Slutning, for saa vidt han ej har unddraget<lb />
+sig Forfølgning.
+</p>
+<p>
+Føres Beviser under Forundersøgelsen for at kunne benyttes ved Oplæsning<lb />
+under Domsforhandlingen, skal Sigtede være personlig til Stede, medmindre Sagen<lb />
+ingen Udsættelse taaler, eller Retten under Hensyn til Bevisførelsens Genstand eller<lb />
+de i øvrigt foreliggende Omstændigheder finder hans Nærværelse ufornøden. Reglerne<lb />
+under Nr. 1—3 finde dog ogsaa Anvendelse i det her omhandlede Tilfælde.
+</p>
+<wtitle>§  876</wtitle>
+<p>
+Til Retsmøder under Forundersøgelsen, i hvilke Sigtede ikke fremstilles som<lb />
+anholdt eller fængslet, og om hvilke han ikke har faaet fornøden Meddelelse i et<lb />
+foregaaende Retsmøde, skal han indkaldes ved lovlig Tilsigelse (§ 819), medmindre<lb />
+Øjemedet ikke tilsteder det Ophold, som dette vilde medføre. Er han mødt, kan<lb />
+Retshandlingen altid fremmes.
+</p>

@@ -1,0 +1,58 @@
+179
+<pb n="179" />
+<leftside>
+<p>Stoffets Ordning i Udkastet er i sine<lb />
+Hovedtræk overensstemmende med Ordningen<lb />
+i det ældre førstag.</p>
+<p>første Afsnit indeholder Regler om,<lb />
+hvilke Sager der henhore under de almindelige Straffedomstole, om den indbyrdes Af«<lb />
+grænsning mellem de forskellige almindelige<lb />
+Straffedomstoles Virkekreds, om Inhabilitet<lb />
+hos Rettens Personer, om Anklagemyndigheden, Påtalen og Sigtedes Forsvar, om<lb />
+værneting og Straffesagers Forening, om<lb />
+Retsmøder og Retsbøger, om Forkyndelser<lb />
+samt om Rettens dømme, Kendelser og andre<lb />
+Beslutninger.</p>
+<p>Andet Afsnit indeholder de almindelige Regler om de Midler, ved hvilke Sandheden i Straffesager stal bringes frem (Vidner, Besigtigelse, Syn og skøn, Beslaglæggelse, Ransagning, Sigtedes Indkaldelse<lb />
+og Afhørelse). om Anholdelse og Fængsling<lb />
+samt om Beslag på Sigtedes Formue i Anledning af, at denne har unddraget sig Ansvaret, eller for at skaffe Sikkerhed for Omkostninger og Erstatning, såvelsom om Forbud mod Foreninger og fremmede Skrifter.</p>
+<p>Derefter spaltes Stoffet, idet tre die<lb />
+til sjette Afsnit omhandle Behandlingen<lb />
+af Straffesager, i hvilke Overanklager eller<lb />
+Politimester påtaler, medens syvende Afsnit omhandler Behandlingen af Straffesager, der påtales af andre offentlige Myndigheder eller af Private, samt Behandlingen<lb />
+af borgerlige Krav. der som Accessorier knyttes til en Straffesag.</p>
+<p>Af Afsnittene 3—6 omhandler tredie<lb />
+Afsnit Politiets Efterforskning og Forundersøgelsen ved Retten, fjerde Afsnit<lb />
+den videre Behandling af Landsretssager<lb />
+(der atter kan være med eller uden Nævninger). femte Afsnit uden videre Behandling<lb />
+af Underretssager og sjette Afsnit endelig Retsmidler mød trufne Afgørelser, nemlig: Anke (Appel). kære (Besværing) og Genoptagelse.</p>
+</leftside>
+<rightside>
+<p>Endelig indeholder ottende Afsnit<lb />
+Reglerne om Straffedømmes Fuldbyrdelse,<lb />
+niende Afsnit Reglerne om Omkostninger<lb />
+og Rettergangsbøder i Straffesager og<lb />
+tiende Afsnit Reglerne om Lovens Ikrafttræden og de nødvendige Overgangsbestemmelser.</p>
+<title>Første Afsnit.</title>
+<undertitle>Almindelige Bestemmelser.</undertitle>
+<title>Kapitel I.</title>
+<undertitle>Lovens Virkekreds.</undertitle>
+<wtitle>§ 1.</wtitle>
+<p>Ved Afgrænsningen af Lovens saglige<lb />
+Virkekreds rejser der sig straks det vigtige<lb />
+Spørgsmål, om den store Gruppe af<lb />
+Straffesager, der ere henviste til<lb />
+privat forfølgning, bør inddrages<lb />
+under Straffeprocesloven, eller som hidtil<lb />
+behandles efter Reglerne for den borgerlige<lb />
+Retspleje. Spørgsmålet har været Genstand for Tvivl i Kommissionen.</p>
+<p>For at inddrage disse Sager under<lb />
+Straffeprocessen, således som sket i førstaget af 1880—81 (se dettes § 1, jvf. med<lb />
+Afsnit VII. Kapitel II.), taler den nærliggende Betragtning, at Straf efter sin Natur<lb />
+kun bor anvendes, hvor det er givet, at den<lb />
+Sigtede er skyldig, men at Sikkerheden i så<lb />
+Henseende er større, hvor Sagen har været<lb />
+undergivet straffeprocessuel Behandling, end<lb />
+hvor den har været under civilprocessuel Behandling og således i væsentlig Grad<lb />
+undergiven Parternes fri Rådighed.</p>
+</rightside>

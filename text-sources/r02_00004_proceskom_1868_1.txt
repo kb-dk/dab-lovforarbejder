@@ -1,0 +1,22 @@
+1
+<pb n="4" />
+<title>Første Afsnit.</title>
+<undertitle>Om Domstolenes Drdning.</undertitle>
+<title>Kapitel I.</title>
+<undertitle>Om Rigets Inddeling i retslig Henseende.</undertitle>
+<wtitle>§ 1.</wtitle>
+<p>Riget inddeles i 6 Landsretskredse nemlig:</p>
+<p>1.   Den nordsjællandske Landsretskreds, omfattende Kjøbenhavn, Kjøbenhavns, Frederiksborg, Holbæk, samt Bornholms Amter.</p>
+<p>2.   Den sydsjællandske Landsretskreds,  omfattende Sorø, Præsts og Maribo Amter.</p>
+<p>3.   Fyens   Landsretskreds   omfattende   Fyens<lb />
+Stift.</p>
+<p>4.   Den nordjydske Landsretskreds,   omfattende<lb />
+Aalborg, Hjørring og Randers Amter.</p>
+<p>5.    Den  mellemjydske  Landsretskreds,   omfattende   Viborg,    Thisted   og   Ringkjøbing<lb />
+Amter.</p>
+<p>6.   Den   sydjydske   Landsretskreds   omfattende<lb />
+Vejle, Aarhus og Ribe Amter.</p>
+<wtitle>§ 2.</wtitle>
+<p>Landsretskredsene   inddeles   i   Underretskredse.</p>
+<p>Staden Kjøbenhavn og Kjøbenhavns Amts«</p>
+<p>i</p>

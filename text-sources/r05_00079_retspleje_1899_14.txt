@@ -1,0 +1,43 @@
+73
+<pb n="79" />
+<h>
+<topmidle>Kap. XVIII. Behandl. ved Landsret.      73</topmidle>
+</h>
+<p>ligt Forbehold af Realitetsindsigelser,   hvis<lb />
+også sådanne haves.</p>
+<p>Den Indsigelse, at Stævningen er urigtig<lb />
+forkyndt, eller at Varslet har været for<lb />
+kort, kan ikke bevirke Sagens Afvisning,<lb />
+men kun berettige til  Udsættelse.</p>
+<wtitle>§ 207.</wtitle>
+<p>Sagsøgeren kan kræve Udsættelse for<lb />
+at gøre sig bekendt med Sagsøgtes Svarskrift og til eventuel yderligere Skriftveksling. Retten fastsætter da en Frist, inden<lb />
+hvis Udløb Sagsøgeren skal meddele Sagsøgte sine yderligere Bemærkninger, og en<lb />
+Frist for Sagsøgte til Afgivelse af Gensvar<lb />
+og berammer tillige et nyt Retsmøde, i<lb />
+hvilket bemeldte Skrifter fremlægges.</p>
+<p>En fortsat Skriftveksling tilstedes kun<lb />
+undtagelsesvis, hvor Sagens Beskaffenhed<lb />
+skønnes at gøre den nødvendig. Retten<lb />
+bestemmer da nye Frister dertil samt berammer et nyt Retsmøde.</p>
+<p>Har Sagsøgte i sit Svarskrift behandlet<lb />
+såvel Sagens Formalitet som dens Realitet,<lb />
+kan Sagsøgeren foreløbig indskrænke sig til<lb />
+at udtale sig om Formaliteten. Når der<lb />
+har fundet en særskilt Skriftveksling Sted<lb />
+om Formaliteten, kan enhver af Parterne<lb />
+fordre denne påkendt, inden der strides til<lb />
+Realitetens Behandling.</p>
+<p>Af ethvert Processkrift, som ikke inden<lb />
+Fremlæggelsen er meddelt Modparten, skal<lb />
+en Genpart overgives denne samtidig med<lb />
+Fremlæggelsen. Senest 3 Dage før Domsforhandlingen skal, medmindre Afvigelse<lb />
+herfra tilstedes af Retten, enhver af Parterne på Rettens Kontor aflevere mindst<lb />
+eet Eksemplar af hvert af de af ham fremlagte Processtrifter til Afbenyttelse for Retten.</p>
+<wtitle>§ 208.</wtitle>
+<p>Når Omstændighederne tale derfor,<lb />
+kan Retten efter Begæring tilstå den Part<lb />
+Udsættelse, der ikke i rette Tid har fremlagt<lb />
+eller meddelt sine skriftlige Bemærkninger,<lb />
+eller tillade ham at lade det fornødne<lb />
+tilføre Retsbogen.</p>

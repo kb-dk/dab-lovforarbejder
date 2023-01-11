@@ -1,0 +1,33 @@
+140
+<pb n="146" />
+<p>2)   når   en Person,   som   ifølge  Loven<lb />
+er udelukket fra Nævningehvervet  i  Almindelighed   eller   i    den   pågjældende   Sag,   har<lb />
+medvirket som Nævning;</p>
+<p>3)  når   den   i  Lov   om  Domsmagtens<lb />
+Ordning m. m. § 81, jfr. § 90, foreskrevne Meddelelse er forsømt, eller når Lodtrækning   af Nævninger til   en Sag   er foretagen, uden at det i § 314 forestrevne Antal<lb />
+Nævninger var tilstede, eller når Forskrifterne<lb />
+i  §§ 315—17    ere   tilsidesatte,  eller   når<lb />
+Nævningerne  ikke lovlig ere blevne edfæstede;</p>
+<p>4)   når Reglerne om Måden,   hvorpå<lb />
+Spørgsmålene   til Nævningerne skulle stilles,<lb />
+ere tilsidesatte, eller det på Grund af Retsvildfarelse eller i åbenbar Miskjendelse af den<lb />
+i    Forhandlingerne    liggende   Opfordring    er<lb />
+undladt at stille spørgsmål, som burde være<lb />
+stillede,   forsåvidt   ikke   Udfaldet af Nævningernes   Erklæring   viser, at   Fejlen   er bleven<lb />
+uden Betydning;</p>
+<p>5)   når  Nævningernes Erklæring er så<lb />
+ufuldstændig,   utydelig eller modsigende, at en<lb />
+Domfældelse   ikke burde være støttet på den,<lb />
+men Retten burde  have gjort Anvendelse   af<lb />
+sin Beføjelse efter § 348, eller når Retten<lb />
+uden Føje har fundet en Erklæring, som begrundede Frifindelse, ufuldstændig, utydelig eller<lb />
+modsigende   og derfor  har   bragt § 348 til<lb />
+Anvendelse;</p>
+<p>6)  når Erklæringer, som det ligger udenfor Nævningernes Beføjelse at afgive, ere tagne i Betragtning af Retten;</p>
+<p>7)   når  Retten  i Henhold   til  § 350<lb />
+har frifundet eller henvist Sagen til ny Forhandling, men Beslutningen derom enten hviler på   en Netsvildfarelse   eller   ikke   er ledsaget af Grunde eller ikkun begrundet ved en<lb />
+almindelig   Henvisning   til   Forhandlingernes<lb />
+Resultat,  eller når Slutningsbestemmelsen   i<lb />
+§ 351  er tilsidesat;</p>
+<p>8)   når ellers mod Loven Dommen ikke<lb />
+er grundet på Nævningernes Erklæring.</p>

@@ -1,0 +1,43 @@
+3351
+<pb n="71" />
+<h>
+<coll>3351</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3352</colr>
+</h>
+<p>
+Over de af Højesterets Kæremaalsudvalg og af Højesteret afgjorte Ankesager
+gives følgende Oversigt:
+</p>
+<table>
+<row>
+		1892.	1893.
+</row>
+<row>
+1.	Antal Ankesager, hvori Anken er		
+	a) afvist som ikke betimelig erklæret eller i øvrigt ulovlig..	8	10
+	b) forkastet eller afvist som grundløs				134	178
+</row>
+<row>
+2.	Antal Ankesager, hvori Dommen (eller det vedtagne Fore-<lb />
+læg) er ophævet		6	14
+</row>
+<row>
+3.	Antal Ankesager, hvori Dommen dels er ophævet, dels op-<lb />
+retholdt 		2	,,
+</row>
+<row>
+4.	Antal Ankesager, hvori Tiltalte er frifunden eller Dommen<lb />
+for øvrigt forandret til Gunst for ham		12	10
+</row>
+<row>
+5.	Antal Ankesager, hvori ny Dom er afsagt til Skade for Tiltalte	19	21
+</row>
+<row>
+6.	Antal Ankesager, hvori ny Dom er afsagt med samme Re-<lb />
+sultat som ved underordnet Ret 					1	,,
+</row>
+<row>
+		182	233
+</row>
+</table>

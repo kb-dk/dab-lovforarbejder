@@ -1,0 +1,78 @@
+2563
+<pb n="213" />
+<h>
+<coll>2563</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2564</colr>
+</h>
+<p>
+Bøder, og Omstændighederne ikke findes at tale herimod, anse ham som den, der<lb/>
+vedgaar det ham paasigtede Forhold, og paakende Sagen uden videre Bevisførelse.
+</p>
+<p>
+Naar der i en Sag, hvorunder der ikke er Spørgsmaal om højere Straf end<lb/>
+Bøder, i Tiltaltes Sted møder en Person, der er forsynet med skriftlig Fuldmagt fra<lb/>
+Tiltalte og er beredt paa at meddele de fornødne Oplysninger, kan Retten modtage<lb/>
+den saaledes mødtes Forklaringer og Erklæringer og lægge dem til Grund, som om<lb/>
+de vare afgivne af Tiltalte selv.
+</p>
+<p>
+Frafalder Politiet en begyndt Forfølgning i de i § 709, 3die og 4de Stykke,<lb/>
+ommeldte Sager (Lov af 11. Februar 1863 § 2), er den private Klager berettiget til<lb/>
+at optage Forfølgningen, naar han straks erklærer dette.
+</p>
+<wtitle>§ 912.</wtitle>
+<p>
+Møder den tiltalte (jvf. § 911, 2det Stykke), oplæser Dommeren først de ham<lb/>
+tilstillede Rapporter og andre Dokumenter eller den fra en formentlig forurettet ind-<lb/>
+givne Klage samt Tilsigelsen og opfordrer Tiltalte til at erklære sig over Sigtelsen.
+</p>
+<p>
+Vedgaar Tiltalte derefter at være skyldig i det ham paasigtede Forhold, optages<lb/>
+Sagen til Dom, uden at det i Reglen er nødvendigt at tilvejebringe yderligere Oplysninger.
+</p>
+<p>
+Nægter Tiltalte sig skyldig, eller indrømmer han kun til Dels Sigtelsens Rig-<lb/>
+tighed, eller finder Dommeren det i øvrigt nødvendigt, føres Bevis i Sagen.
+</p>
+<p>
+Bevisførelsen sker for den Ret, der behandler Sagen, se dog §§ 162 og 163,<lb/>
+jvf. § 193. Saafremt Bevisførelsen ikke kan ske straks, udsætter Dommeren Sagen til et<lb/>
+følgende Retsmøde, idet han underretter Tiltalte om, naar dette skal afholdes, og tilkende-<lb/>
+giver ham. at han ikke kan vente nogen anden Tilsigelse til samme. Dommeren træffer<lb/>
+derhos fornøden Foranstaltning til, at Beviserne i Sagen kunne være til Stede i det saa-<lb/>
+ledes berammede Møde.
+</p>
+<wtitle>§ 913.</wtitle>
+<p>
+Angaar Sagen en Lovovertrædelse, for hvilken der i Loven er hjemlet Straf<lb/>
+af Bøde eller Konfiskation, kan Dommeren, naar han ikke finder Grand til at be-<lb/>
+tvivle Tiltaltes Skyld, give Tiltalte Adgang til at se Sagen afgjort ved, at han vedtager<lb/>
+at erlægge en nærmere bestemt Bøde eller at underkaste sig Konfiskation; Lovens<lb/>
+Fastsættelse af Bødens Størrelse er herved ikke bindende. Vedtager Tiltalte den til-<lb/>
+budte Afgørelse, tilføres det fornødne herom Retsbogen. Saadan Afgørelse har i Hen-<lb/>
+seende til Fuldbyrdelse og Gentagelsesvirkning samme Virkning som en Dom.
+</p>
+<wtitle>§ 914.</wtitle>
+<p>
+Naar Dommeren finder, at Tiltalte er skyldig, men at Sagen efter Brødens<lb/>
+Beskaffenhed, saasom navnlig i Tilfælde af første Gang begaaet ringe Forseelse, egner<lb/>
+sig til Afgørelse ved en Advarsel, er han, saafremt Tiltalte ikke erklærer sig derimod,<lb/>
+berettiget til i Stedet for at afsige Dom at tildele Tiltalte en saadan Advarsel, for<lb/>
+saa vidt Sagens Afgørelse paa denne Maade ikke er udelukket ved særlig Bestemmelse.
+</p>
+<p>
+Om den trufne Afgørelse tilføres det fornødne Retsbogen.
+</p>
+<wtitle>§ 915.</wtitle>
+<p>
+Reglerne i §§ 909 og 913—914 finde ikke Anvendelse ved Sager, der paatales<lb/>
+offentlig i Medfør af § 2 i midlertidig Lov om nogle Ændringer i Straffelovgivningen<lb/>
+af 1. April 1905.
+</p>
+<wtitle>§ 916.</wtitle>
+<p>
+For saa vidt ikke andet foran er bestemt eller følger af Forholdets Natur,<lb/>
+skulle de Regler, der ifølge foregaaende Kapitel, særlig § 907, gælde for andre Under-<lb/>
+retssager, ogsaa komme til Anvendelse i offentlige Politisager.
+</p>

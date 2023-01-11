@@ -1,0 +1,61 @@
+3477
+<pb n="1002" >
+<p rend="page">1002</p>
+<h>
+<coll>3477</coll>
+<colr>3478</colr><lb />
+Regulativ for Kongeriget Danmarks Inddeling i Valgkredse.<lb />
+</h>
+<table>
+Amt.	Valgkredsene i hvert Amt.	Valgkredsenes Sammensætning.	Beboernes Antal i bver Valgkreds	Mødestedet.<lb />
+4.	Østerbrønderslev, Hallund, Jerslev, Vesterbrønderslev, Taars,<lb />
+Uggilt, Vreilev, Hæstrup, Tolstrup, Stenum, Børglum, Veiby,<lb />
+Fureby, Vraa, Emb og Serritzlev.		13,226	Vreilev Kro og Mølle.<lb />
+5.	Østerhan Herred; af Børglum Herred: Vrendsted og Thise<lb />
+Sogne; Hvetbo Herred med Undtagelse af Vesteraaby Sogn,<lb />
+der udgjør eet Sognedistrikt med det til Aalborg Amt hørende<lb />
+Aaby Sogn, og som derfor med en Folkemængde af 630 Indbyggere er henlagt til dette Amts 1ste Valgkreds, medens derimod den til Aalborg Amt hørende Deel af Jetzmark Sogn er<lb />
+henlagt til nærværende Valgkreds.	13,200	Halvrimme Skole i Broust Sogn.<lb />
+XII. Thisted.	1.	Vester-Han-Herred; af Morsø Norre Herred, Sognene: Seierslev, Eierslev, Jørsby, Flade og Sønder-Draaby; af Hillerslev<lb />
+Herred, Sognene: Hundstrup, Osterild, Hjardemaal, Hillerslev, Kaastrup, Ræhr, Hansted og Vixø.	11,701		Vjergets Kro i Lild Sogn.<lb />
+2.	Thisted Kjøbstab. Af Hillerslev Herred, Sognene: Sennels,<lb />
+Nors; Tved, Øster- og Vester-Vandet. Hundborg Herred.<lb />
+Af Hassing Herred, Sognene: Snedsted, Nørhaa, Harring,<lb />
+Stagstrup, Sønderhaa og Hørsted.	11,829	Thisted Kjøbstad.<lb />
+3.	Af Hassing Herred, Sognene: Hvidberg-Vestenaa, Ørum og<lb />
+Lodberg, Bedsted, Grurup, Hassing, Villerslev, Visby, Heltborg, Skyum og Hørdum. Refs Herred paa Jegindø nær.	11,559		Vestervig Tinghuus.<lb />
+4.	Nykjøbing Kjøbstad, Resten af Morsø, Nørre Herred, Morsø<lb />
+ Sønder Herred og Jegindø.	11, 538	Nykjøbing Kjøbstad.<lb />
+XIII. Viborg.	1.	Skive Kjøbstad: Nørre Herred, Nødding Herred,Harre Herred<lb />
+og Volling Sogn af Hindborg Herred (i Salling).	11,625	Skive Kjøbstad.<lb />
+2.	Viborg Købstad, Viborg Landsogn, Hindborg Herred i Salling,<lb />
+med Undtagelse af Volling Sogn. Fjends Herred.	12,084	Viborg Kjøbstad.<lb />
+3.	Lysgaard Herred. Hids Herred. Af Houlberg Herred: Gulev<lb />
+og Sahl Sogne.	11, 840	Levring By.<lb />
+4.	Houlberg Herred med Undtagelse af Gulev og Sahl Sogne.<lb />
+Middelsom Herred, Af Sønderlyng Herred, Sognene: Hornbek, Bjerregrav, Aalum, Thaanum, Nørbek, Sønderbek og<lb />
+Læsten.	11,849	Sønder-Vinge i Middelsom<lb />
+Herred.<lb />
+5.	Nørlyng Herred med Undtagelse af Viborg Landsogn. Rinds<lb />
+Herred. Af Sønderlyng Herred, Sognene; Vorning, Qvorning, Hammershøi, Thiele, Vinge, Ørum, Veirum og Viskum.		11, 815	Løvel By i Nørlyng Herred.<lb />
+XIV. Aarhuus.	1.	Hads Herred. Af Ning Herred, Sognene: Astrup, Tulstrup,<lb />
+Beder, Malling og Maarslet.	13,109	Odder By i Hads Herred.<lb />
+2.	Af Ning Herred, Sognene: Viby, Thiset, Holme, Tranberg,<lb />
+Ormslev og Koldt. Aarhuus kjøbstad. Af Hasle Herred,<lb />
+Sognene: Veilby, Hasle og Skeiby. Af Vesterliisberg Herred det med Hasle og Skeiby Sogn annekterede Liisberg Sogn.	13,346	Aarhuus Kjøbstad.<lb />
+3.	Vesterliisberg Herred, med Undtagelse af Liisberg Sogn, Sabro<lb />
+Herred, Framlev Herred, Hasle Herred med Undtagelse af<lb />
+Veilby, Hasle og Skeiby Sogne.	13,282	Skjoldelev By i Sabro Herred.<lb />
+XV. Skanderborg.		1.	Horsens Kjøbstad. Sognene: Tamdrup, Nebel, Væhr, Hansted,<lb />
+Lindum, Gangsted, Søvind, Vedslet, Endelave, Hvirring,<lb />
+Hornborg, Kattrup, Ørri[b]lev og Holstrup.		15,274	Horsens.<lb />
+2.	Skanderborg Kjøbstad. Hjemlslev Herredog Gjern Herred.	14,746	Skanderborg.<lb />
+3.	Thyrsting Herred (derunder indbefattet Voerladegaard Sogn),<lb />
+Vrads Herred, samt Sognene: Yding, Østbirk, Underup,<lb />
+Nim, Ousted, Taaning og Hylke.	15,468	Bræstrup.<lb />
+XVI. Randers.	1.	Hobro Kjøbstad, Mariager Kjøbstad, Gjerlev Herred, Nørre Hald Herred. Af Støvring Herred, Sognene:<lb />
+Mellurup, Støvring og Harritzlev.	13,925	Mariager.<lb />
+</table>
+
+
+</pb>

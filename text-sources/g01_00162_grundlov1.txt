@@ -1,0 +1,164 @@
+251
+<pb n="162">
+<pagename>162</pagename>
+<h>
+<coll>251</coll>
+<colr>252</colr>
+<lb/>
+</h>
+<leftside>
+<indexlist>
+Nei.	Ja.<lb/>
+Hansen (P.) af Abbetved.	Nielsen (H. C.) af Tranberg.<lb/>
+Hasselbalch.	Olrik.<lb/>
+Hermannsen.	Otterstrøm.<lb/>
+Hiort.	Pjetusson.<lb/>
+Hækkerup.	Scavenius.<lb/>
+Høier.	Schiern.<lb/>
+Jacobsen.	Schytte.<lb/>
+Jacobæus. Simonsen (Cederfeld de).<lb/>
+Jespersen af Grønnebjerggård.	Sponneck.<lb/>
+Jespersen (F.) af Bogense.	Stockfleth.<lb/>
+Johansen (H. C.) af Østrup.	Tang.<lb/>
+Johansen (F.) af Houby.	Ussing (Algreen-).<lb/>
+Juel (Sehestedt-).	Westergård.<lb/>
+Jungersen.	Zeuthen.<lb/>
+Jørgensen.<lb/>
+Kayser.<lb/>
+Kirk.<lb/>
+Larsen (Chr.) af Dalby.<lb/>
+Larsen (J. E.) af Kjøbenhavn.<lb/>
+Leth.<lb/>
+Linnemann.<lb/>
+Lorck.<lb/>
+Madsen.<lb/>
+Mynster.<lb/>
+Møller (R. N.) af Dråby.<lb/>
+Møller af Flakkeberg.<lb/>
+Nielsen (N. H.) af Løserup.<lb/>
+Nyholm.<lb/>
+Nørgård.<lb/>
+Olesen.<lb/>
+Ostenfeldt.<lb/>
+Ostermann.<lb/>
+Oxholm.<lb/>
+Pape.<lb/>
+Petersen (Cornelius).<lb/>
+Pedersen (J.) af Sæding.<lb/>
+Pedersen (P.) af Kjøbenhavn.<lb/>
+Petersen (B.) af Kjøbenhavn.<lb/>
+Petersen (C. N.) af Hjørring.<lb/>
+Ploug.<lb/>
+Pløyen.<lb/>
+Rasmussen (H.) af Egense.<lb/>
+Rasmussen (M.) af Herlufmagle.<lb/>
+Rasmussen (J.) af Svanninge.<lb/>
+Rée.<lb/>
+Ræder.<lb/>
+Schack.<lb/>
+Schlegel.<lb/>
+Schroll.<lb/>
+Schurmann.<lb/>
+Seidelin (Brinck-).<lb/>
+Sidenius.<lb/>
+Sigurdsson.<lb/>
+Skeel.<lb/>
+Stender.<lb/>
+Thalbitzer.<lb/>
+Theilmann.<lb/>
+Tobiesen.<lb/>
+Treschow.<lb/>
+Tuxen.<lb/>
+Tvede.<lb/>
+Ussing af Viborg.<lb/>
+Visby.<lb/>
+Winther.<lb/>
+With.<lb/>
+Wulff.<lb/>
+Ørsted.<lb/>
+
+</indexlist>
+</leftside>
+<rightside>
+<p>
+Efterat Formanden havde bestemt Dagsordenen for det følgende<lb/>
+Møde, som han berammede til næste Dag Klokken 12, nemlig først<lb/>
+Spørgsmålet om Oplæsningen af den fra endeel Indvånere i<lb/>
+Kjøbenhavn indgivne Adresse om de slesvigske Forhold, dernæst<lb/>
+Premierministerens Meddelelse om Landets slnantsielle Status og<lb/>
+endelig Forelæggelse af Udkastet til Anordningen om almindelig<lb/>
+Værnepligt, blev Mødet hævet.<lb/>
+</p>
+<btitle>
+Trettende Møde.<lb/>
+</btitle>
+<notedate>
+Onsdagen den 8de November.<lb/>
+</notedate>
+<p>
+Forhandlings-Protocollen fra forrige Møde blev oplæst.<lb/>
+</p>
+<p>
+<speaker>Krieger:</speaker> Turde det ikke tillades mig at tilføie et Ord med<lb/>
+Hensyn til det Spørgsmål, som igår blev reist, og som jeg da ikke<lb/>
+vilde insistere videre på, fordi det kunde see ud, som om jeg blev<lb/>
+påvirket af, at det blev reist med Hensyn til et Forslag, som var<lb/>
+fremsat af mig. Jeg troer nemlig, at idag Alle i Forsamlingen ville<lb/>
+være enige i, at et Afviisningsforslag skal stilles uden Motivering og<lb/>
+umiddelbart efterat det Forslag er motiveret, med Hensyn til hvilket<lb/>
+det stilles, men jeg ønskede, at dette blev ret klart, for at ikke ved<lb/>
+fremtidige Leiligheder Misforståelser skulle opståe. Jeg troer, at<lb/>
+også den ærede Rigsdagsmand, der igår fremsatte Afviisningspåftanden, efter nærmere Overveielse er kommen til samme Mening.<lb/>
+</p>
+<p>
+<speaker>Balthazar Christensen:</speaker> Jeg skylder at bemærke, at jeg ved<lb/>
+nærmere Overveielse ganske må tiltræde den ærede Rigsdagsmands<lb/>
+Formening.<lb/>
+</p>
+<p>
+<speaker>Algreen-Ussing:</speaker> Denne Regel måtte da vel også gjælde<lb/>
+med Hensyn til Spørgsmål til Ministeriet?<lb/>
+</p>
+<p>
+<speaker>Høiesteretsassessor Bruun: </speaker>Ja, det er vistnok ganske overeensstemmende med Regulativets §§ 13 og 18, der ligefrem sige, at når<lb/>
+et Spørgsmål er fremsat og udviklet, er ethvert Medlem berettiget<lb/>
+til at forlange dets Afviisning.<lb/>
+</p>
+<p>
+<speaker>Ørsted:</speaker> Jeg har også forstået Paragraphen således som<lb/>
+anført, og jeg kunde såmeget mindre nære nogen Tvivl herom, som<lb/>
+jeg oprindelig havde forstået Paragraphen, som om det var tilladt<lb/>
+at motivere sin Afviisningspåstand; men efter de Oplysninger, som<lb/>
+jeg af Comiteens Ordfører modtog om Paragraphens Hensigt, frafaldt<lb/>
+jeg at stille noget Amendement. Bestemmelsen vilde vistnok være urimelig,<lb/>
+hvis den skulde forståes anderledes, end det nu er vedtaget. Jeg<lb/>
+veed ikke, om det skulde være nødvendigt særskilt at afstemme over dette<lb/>
+Punkt, hvilket jeg dog neppe troer.<lb/>
+</p>
+<p>
+<speaker>Høiesteretsassessor Bruun: </speaker>Jeg troer, at der allerede eengang<lb/>
+har fundet Afstemning over Paragraphen Sted med Hensyn til hvad<lb/>
+den ærede Rigsdagsmand for Kjøbenhavns 3die Distrikt (Ørsted)<lb/>
+yttrede under den foreløbige Behandling, idet disse hans Yttringer<lb/>
+ikke bleve gjorte gjældende ved noget Amendement.<lb/>
+</p>
+<p>
+<speaker>Algreen-Ussing:</speaker> Det er under Forhandlingerne om Forretningsregulativet så bestemt udtalt som det kun er muligt.<lb/>
+Formanden: Jeg skal først meddele, at Student Gudmundsson,<lb/>
+der af Hs. Majestæt Kongen er valgt som Medlem af Rigsforsamlingen, er ankommen hertil og afgiver Møde idag, ligeledes Pastor<lb/>
+Grundtvig, der er valgt til Deputeret for Præsto Amts 4de Distrikt.<lb/>
+Måskee Ordføreren for den Comitee, der har været nedsat til at<lb/>
+prøve Medlemmernes Fuldmagter, måtte ville yttre sig i denne<lb/>
+Anledning.<lb/>
+</p>
+<p>
+<speaker>Algreen-Ussing: </speaker>Comiteen har modtaget fra Præsidenten det<lb/>
+Kongebrev og den Valgact, som ere udstedte ved denne Leilighed, og<lb/>
+de ere begge befundne i fuldkommen Orden, så at der Intet har<lb/>
+været at bemærke i denne Henseende. Ved samme Leilighed skal jeg<lb/>
+tillade mig at nævne for Forsamlingen, at Comiteen har modtaget<lb/>
+fra Justitsministeriet en Continuationserklæring fra Valgbestyrelsen<lb/>
+for Sorø Amts 6te Distrikt; dette Valg er vel allerede erkjendt gyldigt af Forsamlingen, men jeg troer dog i Forbindelse med det Tid-</p>
+</rightside>
+
+</pb>

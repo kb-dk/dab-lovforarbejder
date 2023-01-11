@@ -1,0 +1,68 @@
+2347
+<pb n="222" />
+<h>
+<coll>
+2347
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2348
+</colr>
+</h>
+<title>Syvende Afsnit.</title>
+<title>
+Paatale af særlige Myndigheder eller af private. Forfølgning<lb />
+af borgerlige Krav under Straffesager.
+</title>
+<title>Kapitel 83.</title>
+<undertitle>Behandling af Sager, som paatales af en særlig offentlig Myndighed eller af en<lb />
+privat Sagsøger.</undertitle>
+<wtitle>§ 955.</wtitle>
+<p>
+Forinden en særlig offentlig Myndighed rejser Paatale i Henhold til § 703,<lb />
+skal den ved Henvendelse til Politimesteren forvisse sig om. at denne ikke agter at<lb />
+forfølge Sagen. Naar Paatale herefter rejses af en særlig Myndighed, blive Bestem-<lb />
+melserne i Kapitlerne 78 (med Undtagelse af § 898) og 79—81 at anvende saaledes,<lb />
+at bemeldte Myndighed under Sagen træder i Politimesterens Sted.
+</p>
+<p>
+Anke fra Paatalens Side besluttes og iværksættes af Overanklageren, dog kun<lb />
+efter Begæring af den særlige Myndighed.
+</p>
+<p>
+Har Politimesteren indledet, men senere frafaldet Forfølgning, og er Sagen<lb />
+som Følge heraf bleven hævet, kan den særlige Myndighed rejse ny Forfølgning; dog<lb />
+maa Anklageskrift i saa Fald indgives inden fjorten Dage, efter at Sagen er hævet.<lb />
+Har Politimesteren frafaldet Forfølgning under selve Domsforhandlingen, kan den<lb />
+særlige Myndighed optage Forfølgningen, naar den paa Stedet afgiver Erklæring<lb />
+herom; den indtræder i saa Fald i Politimesterens Sted i den Stilling, hvori Sagen<lb />
+befinder sig.
+</p>
+<wtitle>§ 956.</wtitle>
+<p>
+Naar nogen i Henhold til § 705 paataler en Sag, som vedkommende Paatale-<lb />
+myndighed har nægtet at forfølge, finde, med de af Forholdets Forskellighed følgende<lb />
+Lempelser og med de nærmere Bestemmelser, som foreskrives i de efterfølgende Para-<lb />
+graffer, Reglerne i Kapitlerne 72—78, 79—81 Anvendelse saaledes, at den private<lb />
+Sagsøger træder i vedkommende Paatalemyndigheds Sted.
+</p>
+<p>
+Den, som vil rejse Paatale i Henhold til § 705, maa indgive Begæring til ved-<lb />
+kommende Ret overensstemmende med næste Paragraf inden fjorten Dage, efter at<lb />
+han er bleven bekendt med, at Paatalemyndigheden har nægtet at forfølge, og senest<lb />
+inden tre Maaneder efter Nægtelsen.
+</p>
+<wtitle>§ 957.</wtitle>
+<p>
+Den private Sagsøgers Forfølgning indledes ved, at han til Undersøgelses-<lb />
+retten indgiver Begæring om Foretagelse af Forundersøgelse eller — hvor Forunder-<lb />
+søgelse ikke begæres — til Underretten, henholdsvis Sø- og Handelsretten, indgiver<lb />
+Begæring om. at Tiltale maa blive rejst mod Sigtede ved Udfærdigelse af Anklage-<lb />
+skrift. Ved Landsret kan Sagsøgeren ikke rejse Tiltale uden forudgaaende retslig<lb />
+Forundersøgelse, indledet efter hans Begæring.
+</p>
+<p>
+Foretagelse af enkeltstaaende Retshandlinger, inden Sag er indledet som for-<lb />
+anført, kan Sagsøgeren begære hos vedkommende Undersøgelsesret, naar Omstændig-<lb />
+hederne ikke tillade Opsættelse.
+</p>

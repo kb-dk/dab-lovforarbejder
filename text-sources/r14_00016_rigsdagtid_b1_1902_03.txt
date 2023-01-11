@@ -1,0 +1,178 @@
+51
+<pb n="16" >
+<p rend="page">16</p>
+<h>
+<coll>51</coll>
+<colr>52</colr><lb />
+Bet. o. Lovf. om Rettens Pleje.<lb />
+</h>
+<leftside>
+<p>
+<dtitle>Til § 402.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>97</nnumber>
+97)    I sidste Linie efter „Dommerens"
+sættes: „eller Rettens".
+</p>
+<p>
+<dtitle>Til § 403.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>98</nnumber>
+98)    Til 3die Stykke føjes: „og inden
+Domsforhandling   i   den   næste Sag   paa-
+begyndes",
+</p>
+<p>
+I § 405
+</p>
+<p>
+rettes Trykfejl: ,,Højestets" til:   ,,Højeste-
+rets".
+</p>
+<p>
+<dtitle>Til § 433.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>99</nnumber>
+99)    1ste Linie   „endelig"   ændres  til
+„endeligt".
+</p>
+<p>
+<dtitle>Til § 4.</dtitle>4.
+Af Udvalget:
+</p>
+<p>
+<nnumber>100</nnumber>
+100)    I Stykke 1, Linie 4—7,  ændres
+Ordene   „er ved — 8 Uger"  til:   „er   ved
+alle Retter 4 Uger. naar der ikke i Dom-
+men er fastsat en særlig Fuldbyrdelsesfrist".
+</p>
+<p>
+Af Nanke:
+</p>
+<p>
+<nnumber>101</nnumber>
+101)    I 1ste Stykke, 5te Linie, ændres
+„8 Uger" til „ogsaa 4 Uger".
+</p>
+<p>
+<dtitle>Til § 485.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>102</nnumber>
+102)    I næstsidste Stykke ændres „paa-
+løbende" til ,.paaløbne".
+</p>
+<p>
+<dtitle>Til § 504.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>103</nnumber>
+103)    11ste Linie ændres „opstaaende"
+til „opstaaede".
+</p>
+<p>
+<dtitle>Til § 538.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>104</nnumber>
+104)    1 2det Stykke, næstsidste Linie,
+ændres „2" til ,.1".
+</p>
+</leftside>
+<rightside>
+<p>
+<dtitle>Til § 540.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>105</nnumber>
+105)    I 1ste Stykke, sidste Linie, æn-
+dres „Begæringen"   til:   „efter   at   de ere
+bestilte".
+</p>
+<p>
+Af Udvalget:
+</p>
+<p>
+<nnumber>106</nnumber>
+106)    Som nyt 2det Stykke indsættes :
+„Hvis der fra flere Udlægshavere skulde
+</p>
+<p>
+indkomme Begæring om Tvangsauktion over
+den samme Ejendom, bliver den i næste
+Paragraf ommeldte Indkaldelse kun at
+foretage for den først indkomne Begæring."
+</p>
+<p>
+<dtitle>Til § 546.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>107</nnumber>
+107)    I sidste Linie indskydes:   ,,eller
+nogen af" efter „alle".
+</p>
+<p>
+<dtitle>Til § 580.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>108</nnumber>
+108)    Til 2det Stykke føjes:    „Rejses
+der Indsigelse  under Forretningen,   og er
+Rekvirenten ikke mødt.   kan Forretningen
+udsættes, indtil begge Parter kunne komme
+til   Stede.    Om   Udsættelsen   giver Syssel-
+manden Rekvirenten Underretning."
+</p>
+<p>
+<dtitle>Til § 584.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>109</nnumber>
+109)    I 5te Linie   ændres „begge" til
+,,alle".
+</p>
+<p>
+<dtitle>Til § 656.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>110</nnumber>
+110)    I   1ste   og 2det Stykke   ændres
+„Dag" til „Søgnedag".
+</p>
+<p>
+<dtitle>Til § 663.</dtitle>
+Af Udvalget:
+</p>
+<p>
+<nnumber>111</nnumber>
+111)    2det Stykke udgaar.
+</p>
+<p>
+<dtitle>Til § 672.</dtitle>
+Af Nanke:
+</p>
+<p>
+<nnumber>112</nnumber>
+112)    Der tilføjes som nyt Stykke:
+„Ligeledes   kan   det   i andre Tilfælde
+</p>
+<p>
+efter   Begæring  af   en   Politimester   eller
+</p>
+</rightside>
+</pb>

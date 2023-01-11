@@ -1,0 +1,32 @@
+70
+<pb n="76" />
+<h>
+<topmidle>70      Kap. XVIII. Behandl. ved Landsret.</topmidle>
+</h>
+<title>Tredie Afsnit.</title>
+<undertitle>Rettergangsmåden.</undertitle>
+<title>Kapitel XVIII. </title>
+<undertitle>Behandlingen af Sager, der i første Instans<lb />
+påkendes af Landsretterne.</undertitle>
+<wtitle>§ 200.</wtitle>
+<p>Processen indledes med Stagning. I<lb />
+denne skulle begge. Parter være betegnede<lb />
+med Navn og Stilling og deres Bopæl<lb />
+eller Opholdssted være angivet, hvorhos<lb />
+den skal indeholde Sagsøgerens Påstand<lb />
+og en kort Fremstilling af de Kendsgærninger, hvorpå Påstanden støttes, samt<lb />
+en Opfordring til Sagsøgte on at møde<lb />
+og fremkomme med sit Svar på Sagens<lb />
+første Tægtedag (jfr. endvidere § 211). 
+Parterne kunne dog, når de efter<lb />
+Overenskomst begge møde for Retten, og<lb />
+Sagen er anmeldt for denne senest Dagen<lb />
+for Retsmødet, uden Stævning begære Sagen<lb />
+foretaget. Sagsøgeren har i så Fald at<lb />
+fremlægge en skriftlig Angivelse af sin Påstand og af de Kendsgærninger, hvorpå<lb />
+den støttes. 
+</p>
+<wtitle>§ 201.</wtitle>
+<p>
+Stævningen indleveres, efter at i fornødent Fald Varslet er fastsat, jfr. § 202, 
+med   Angivelse    af   den   tidligste   Tid   for</p>

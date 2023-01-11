@@ -1,0 +1,75 @@
+3299
+<pb n="45" />
+<h>
+<coll>3299</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3300</colr>
+</h>
+<p>
+28.	Umyndiggørelse og Beskikkelse af fast Lavværge. Medens efter<lb />
+gældende dansk Ret Umyndiggørelse henhører under Øvrigheden, er i saa godt som<lb />
+alle andre europæiske Stater Spørgsmaal om Umyndiggørelse henlagt til Afgørelse ved<lb />
+Retterne, om end under Former, der mere eller mindre afvige fra de almindelige<lb />
+Procesformer. Henset til den indgribende Betydning, Umyndiggørelse i Reglen vil<lb />
+have for den paagældende, er ogsaa i Udkastet Umyndiggørelse henlagt under Retterne.<lb />
+Reglerne derom ere i Korthed følgende:
+</p>
+<p>
+Hvis den, der ønskes umyndiggjort, ikke selv rejser nogen Indsigelse derimod,<lb />
+kan vedkommende Underretsdommer, naar han efter alt foreliggende finder tilstrækkelig<lb />
+Grund til Umyndiggørelsen, selv dekretere saadan, og denne Afgørelse kan da ikke<lb />
+paaklages til højere Ret. Hvis derimod den, der ønskes umyndiggjort, ikke selv sam-<lb />
+tykker, eller Retten trods dennes Samtykke finder Begæringen utilstrækkelig begrundet,<lb />
+henvises Spørgsmaalet til Afgørelse ved Landsret, hvor der da finder en mundtlig,<lb />
+kontradiktorisk Forhandling Sted. Underretsdommeren kan dog, naar der kan antages<lb />
+at være Fare forbunden med Opsættelse, altid afsige et foreløbigt Umyndiggørelses-<lb />
+dekret, der gælder, indtil Landsrettens Afgørelse foreligger.
+</p>
+<p>
+Hvis ikke en Sagfører melder sig for Landsretten som antagen af den, om<lb />
+hvis Umyndiggørelse der er Spørgsmaal, skal Landsrettens Justitiarius beskikke en<lb />
+saadan dertil.
+</p>
+<p>
+Landsrettens Afgørelse af Umyndiggørelsesspørgsmaalet kan indankes for<lb />
+Højesteret.
+</p>
+<p>
+Begæring om en Umyndiggørelses Ophævelse maa indgives til Landsretten.<lb />
+For imidlertid at beskytte denne Ret imod den Tidsspilde, som det vilde forvolde,<lb />
+om den skulde optage Sagen til fornyet Prøvelse, hver Gang der fremkom en af de<lb />
+Begæringer om Umyndiggørelsens Ophævelse, som fra visse Klasser af Sindssyge til<lb />
+Stadighed kunne ventes, gives den Regel, at Retten, naar Sindssvaghed er Umyndig-<lb />
+gørelsesgrunden, ikke behøver at tage Hensyn til et af den umyndiggjorte eller af<lb />
+andre paa hans Vegne indgivet Andragende om Umyndiggørelsens Ophævelse, naar<lb />
+saadant Andragende ikke er ledsaget af en Embedslæges Anbefaling.
+</p>
+<p>
+Angaaende Beskikkelse af fast Lavværge for en Enke ifølge Begæring fra<lb />
+andre end Enken selv, gælde de samme Regler som om Umyndiggørelse. Hvis der-<lb />
+imod en Enke selv fremsætter saadan Begæring, skal Underretsdommeren uden videre<lb />
+Undersøgelse dekretere,, at Begæringen tages til Følge.
+</p>
+<p>
+Bestemmelse om, hvem der skal være Værge for en umyndiggjort eller fast<lb />
+Lavværge for en Enke, der skal have saadan, skal vedvarende træffes af Øvrigheden.
+</p>
+<p>
+29.	Mortifikationssager og Sager til Erhvervelse af Ejendomsdom. De
+</p>
+<p>
+Regler, som Udkastet angaaende den borgerlige Retspleje indeholder om Mortifikation,<lb />
+vedrøre kun de Tilfælde, i hvilke saadan er betinget af forudgaaende retslig Forfølg-<lb />
+ning og Dom, medens den Række Lovbud, der give Adgang til at opnaa Mortifikation<lb />
+uden Iagttagelse af saadan Fremgangsmaade, t. Eks. med Hensyn til Sparekassebøger,<lb />
+i det hele blive uberørte af Udkastets Bestemmelser.
+</p>
+<p>
+Af Forandringerne paa det her omhandlede Omraade er den væsentligste den,<lb />
+at Afgørelsen af det Spørgsmaal, om Mortifikationsstævning eller Stævning til Erhver-<lb />
+velse af Ejendomsdoni maa udstedes, henvises til Retskendelse i Stedet for som hidtil<lb />
+til Administrationens Afgørelse.
+</p>
+<p>
+I øvrigt følger den processuelle Fremgangsmaade i disse Sager Udkastets
+</p>

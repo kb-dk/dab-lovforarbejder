@@ -1,0 +1,44 @@
+797
+<pb n="30" />
+<h>
+<coll>
+797
+</coll>
+<topmidle>
+Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
+</topmidle>
+<colr>
+798
+</colr>
+</h>
+<title>
+Bilag IX.<lb />
+</title>
+<p>
+Antallet af Dommere og Politimestre i de forskellige Lønnings-
+klasser.<lb />
+</p>
+<table>
+<tr><td>
+	Dommere.	Politimestre.
+</td></tr>
+<tr><td>
+	1. Klasse.	2. Klasse.	I alt.	1. Klasse.	2. Klasse.	3. Klasse.	I alt.
+</td></tr>
+<tr><td>
+Lovforslaget 1914		62	20	82	46	24	,,	70
+Folketingets Vedtagelse<lb />
+1914		59	35	94	41	14	,,	55
+</td></tr>
+<tr><td>
+Landstingsudvalgets Æn-<lb />
+dringsforslag 1914		57	41	98	34	22	9	65
+</td></tr>
+<tr><td>
+Lovforslaget 1915		57	41	98	34	22	9	65
+</td></tr>
+<tr><td>
+Folketingsudvalgets Æn-	51	48	99	34	31	,,	65
+dringsforslag 1916								
+</td></tr>
+</table>

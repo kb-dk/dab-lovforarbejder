@@ -1,0 +1,111 @@
+0
+<pb n="2" />
+<title>
+Indhold.
+</title>
+<p>
+De dan-ske Eeformbestræbelsers Historie.<lb />
+Udlandets Proceslovgivning.
+Hovedindholdet af de af Proceskommissionen af 1892 udarbejdede Lovudkast.
+</p>
+<p>
+1.	Retterne
+</p>
+<p>
+2.	Instanserne og de forskellige Retters Yirksomliedsomraade. Værneting.
+</p>
+<p>
+3.	Retskyndige Dommere.
+</p>
+<p>
+4.	Sø- eller handelskyndige Dommere.
+</p>
+<p>
+5.	Nævninger (Jury).
+</p>
+<p>
+6.	Retsplejens Adskillelse fra Forvaltningen.
+</p>
+<p>
+7.	Offentlighed og Mundtlighed. Umiddelbarhedsprincipet.
+</p>
+<p>
+8.	Andre Hovedprinciper.
+</p>
+<p>
+9.	Anklagemyndighederne, Paataleregler, Sigtedes Forsvar.
+</p>
+<p>
+10.	Politiet.
+</p>
+<p>
+11.	Sagførervæsnet.
+</p>
+<p>
+12.	Forligsvæsnet.
+</p>
+<p>
+13.	Procesomkostninger og processuelle Straffe.
+</p>
+<p>
+14.	Fri Proces.
+</p>
+<p>
+15.	Bevismidlerne i den borgerlige Retspleje.
+</p>
+<p>
+16.	Bevismidlerne i Strafferetsplejen.
+</p>
+<p>
+17.	De særlige Magtmidler i Strafferetsplejen (Beslaglæggelse, Ransagning, Anholdelse,<lb />
+Varetægtsfængsel).
+</p>
+<p>
+18.	Behandlingen af en almindelig borgerlig Sag ved Underret.
+</p>
+<p>
+19.	Behandlingen af en almindelig borgerlig Sag ved Landsret som første Instans.
+</p>
+<p>
+20.	Anke til Landsret i borgerlige Sager.
+</p>
+<p>
+21.	Anke til Højesteret i borgerlige Sager.
+</p>
+<p>
+22.	Kære (Kæremaal, Besværing) i borgerlige Sager.
+</p>
+<p>
+23.	Genoptagelse (ny Foretagelse) af borgerlige Sager.
+</p>
+<p>
+24.	Forening af flere Krav under samme Sag (Kumulation); Trediemands frivillige Ind-<lb />
+træden i Processen (Intervention); Trediemands Tilstævning under Processen (Adcitation).
+</p>
+<p>
+25.	Skriftlig Behandling af borgerlige Sager.
+</p>
+<p>
+26.	Vekselproces og lignende hurtig Retsforfølgning.
+</p>
+<p>
+27.	Ægteskabssager (Skilsmissesager) og Sager om borteblevne Personers Formue.
+</p>
+<p>
+28.	Umyndiggørelse og Beskikkelse af fast Lavværge.
+</p>
+<p>
+29.	Mortifikationssager og Sager til Erhvervelse af Ejendomsdom.
+</p>
+<p>
+30.	Eksekution (Udlæg).
+</p>
+<p>
+31.	Auktion.
+</p>
+<p>
+32.	Udpantning, Ind- og Udsættelsesforretninger.
+</p>
+<p>
+33.	Arrest.
+</p>

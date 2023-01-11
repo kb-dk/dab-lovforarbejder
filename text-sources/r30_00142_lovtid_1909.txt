@@ -1,0 +1,73 @@
+406
+<pb n="142" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>406</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+I Gældsfængslet må der ikke pålægges Skyldneren anden Indskrænkning i<lb/>
+Henseende til hans Levevis, end Fængslets Orden med Nødvendighed kræver.
+</p>
+<wtitle>§ 610.</wtitle>
+<p>
+Gældsfængsel kan ikke anvendes, når en til Fordringens Størrelse svarende<lb/>
+Sikkerhed kan fås ved Arrest på Gods.
+</p>
+<wtitle>§ 611.</wtitle>
+<p>
+Arrest på Person kan ikke anvendes for Fordringer, der ere mindre end 100 Kr.
+</p>
+<p>
+For Fordringer under 200 Kr. må Fængslingens Varighed ikke overstige 4<lb/>
+Uger, for Fordringer under 400 Kr. 8 Uger, for Fordringer under 1,000 Kr. 12 Uger,<lb/>
+for Fordringer under 2,000 Kr. 16 Uger, for Fordringer under 4,000 Kr. 20 Uger, for<lb/>
+større Fordringer 24 Uger.
+</p>
+<p>
+I Fordringsbeløbet indbefattes også de Renter og Omkostninger, der ere påløbne, inden Arresten iværksattes, men ikke de, der senere påløbe.
+</p>
+<wtitle>§ 612.</wtitle>
+<p>
+Selv om de i foregående Paragraf angivne Tider ikke ere forløbne, ophører<lb/>
+Skyldnerens Fængsling i alle Tilfælde:
+</p>
+<p>
+1)	så snart Eksekution kan gøres for den Fordring, til Sikkerhed for hvilken Arresten er foretagen, enten ifølge en under Arrestforfølgningssagen eller på anden<lb/>
+Måde erhvervet Dom eller ifølge et offentligt Forlig;
+</p>
+<p>
+2)	så snart den arresterede Skyldners Bo her i Landet eller i et Land, med hvilket Overenskomst herom foreligger, er taget under Konkursbehandling;
+</p>
+<p>
+3)	så snart den arresterede Skyldner gør antageligt, at han intet ejer, hverken her<lb/>
+i Landet eller andetsteds, hvori Eksekution kunde gøres for Fordringen, bortset<lb/>
+fra det Gods, hvori der er gjort Arrest for denne, uden at fuld Sikkerhed<lb/>
+efter § 610 dog derved er nået.
+</p>
+<wtitle>§ 613.</wtitle>
+<p>
+Den arresteredes Hensættelse i Gældsfængsel sker på Rekvirentens Regning.<lb/>
+De herved foranledigede Udgifter kunne ikke fordres godtgjorte af Skyldneren.
+</p>
+<wtitle>§ 614.</wtitle>
+<p>
+De Udgifter, hvis Udredelse påhviler Rekvirenten ved Gældsfængsels Anvendelse, ere dels Underholdspenge til Skyldneren, dels Varetægtspenge til Arrestforvareren.
+</p>
+<p>
+Underholdspengene fastsættes til 8 Kr. om Ugen, Varetægtspengene til 2 Kr.<lb/>
+om Ugen.
+</p>
+<p>
+Andre i Anledning af Gældsfængslets Anvendelse fornødne Udgifter, såsom<lb/>
+til Lokale, til dettes Renholdelse, Belysning og Opvarmning, til fornødne Sengklæder<lb/>
+og Boskab m. m., udredes af det offentlige.
+</p>
+<wtitle>§ 615.</wtitle>
+<p>
+De i foregående Paragraf omhandlede Underholds- og Varetægtspenge har<lb/>
+Rekvirenten at erlægge henholdsvis til Skyldneren og til Arrestforvareren forud for<lb/>
+mindst en Uge ad Gangen, første Gang inden eller ved Skyldnerens Indsættelse i<lb/>
+Gældsfængslet og senere inden det hertil svarende Klokkeslet hver Ugedag derefter.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

@@ -1,0 +1,69 @@
+2095
+<pb n="96" />
+<h>
+<coll>
+2095
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2096
+</colr>
+</h>
+<wtitle>§ 419.</wtitle>
+<p>
+Paastande, der ligge udenfor de ved Underretten fremsatte, kunne ikke uden<lb />
+Modpartens Samtykke nedlægges, medmindre Retten tillader det, fordi det findes und-<lb />
+skyldeligt, at de ikke tidligere ere fremkomne. Ønskes en saadan Tilladelse opnaaet,<lb />
+følges tilsvarende Regler til de i § 385 angivne.
+</p>
+<wtitle>§ 420.</wtitle>
+<p>
+Parterne ere berettigede til at fremføre ny Beviser, naar det i Stævningen eller<lb />
+et andet Processkrift eller i et forudgaaende Retsmøde er meddelt Modparten, af<lb />
+hvilken Art det ny Bevis er, og hvad derved forventes bevist. Endvidere er Reglen i<lb />
+§ 344, 2det Stykke, om ny Beviser under Domsforhandlingen m. m. anvendelig.
+</p>
+<p>
+Vil nogen af Parterne fremsætte ny Anbringender, maa disse anføres i hans<lb />
+Processkrifter overensstemmende med Reglerne i §§ 323 ff. Efter Skriftvekslingens<lb />
+Slutning kunne ny Anbringender uden Modpartens Samtykke kun fremføres med Rettens<lb />
+Tilladelse, i hvilken Henseende Reglerne i §§ 333 og 344 finde tilsvarende Anvendelse.
+</p>
+<p>
+For Ankesagens Behandling gælde i øvrigt de for Procesmaaden ved Landsret<lb />
+fastsatte Bestemmelser. Hvor der ikke er særlig Grund til at antage, at Tilladelse til<lb />
+Anke til Højesteret vil blive søgt eller tilstaaet, beror det dog paa Retten selv, om<lb />
+og hvor meget der skal optegnes af Vidners, Syns- og Skønsmænds og Parters Forklaringer.
+</p>
+<wtitle>§ 421.</wtitle>
+<p>
+Underrettens Afgørelser kunne paakæres til Landsret i de samme Tilfælde, i<lb />
+hvilke Landsrettens Afgørelser kunne paakæres til Højesteret,
+</p>
+<p>
+Fremgangsmaaden er med de af Forholdets Natur flydende Lempelser den<lb />
+samme, som benyttes ved Kære over Landsrettens Afgørelser; dog kan Kæremaalet<lb />
+her altid fremsættes mundtlig til Retsbogen.
+</p>
+<p>
+Landsrettens Afgørelse i Anledning af Kære kan ikke indbringes for Højesteret.
+</p>
+<title>Kapitel 38.</title>
+<undertitle>Sager om Veksler og visse andre Gældsbreve.</undertitle>
+<wtitle>§ 422.</wtitle>
+<p>
+Sagsøgeren kan anvende den i dette Kapitel omhandlede hurtige Retsforfølgning:
+</p>
+<p>
+1)	I Sager, der anlægges til Indfrielse af Gældsbreve, naar Skyldneren enten i selve<lb />
+Gældsbrevet eller ved senere Paategning paa samme har underkastet sig saadan<lb />
+Forfølgning.
+</p>
+<p>
+2)	I Vekselsager, hvorved forstaas Sager, som anlægges mod Trassenter, Endossenter<lb />
+eller Acceptanter af trasserede Veksler eller mod Udstedere og Endossenter af<lb />
+egne Veksler til Vekslens Betaling eller for at gøre Vekselregres gældende,<lb />
+Sager, som anlægges mod Trassenter og Endossenter af Veksler paa Grund af<lb />
+manglende Accept, til Betaling af Vekselsummen eller det ikke accepterede Beløb<lb />
+(Veksellovens § 29) eller mod Trassenter og Endossenter samt Acceptanter paa
+</p>

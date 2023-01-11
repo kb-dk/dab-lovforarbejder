@@ -1,0 +1,80 @@
+2215
+<pb n="39" />
+<h>
+<coll>2215</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2216</colr>
+</h>
+<p>
+anden hermed i Klasse staaende Skade, samt naar Spørgsmaalet angaar Meddelelser<lb/>
+som Vidnets Ægtefælle under Ægteskabet har gjort Vidnet, for saa vidt Vidnet selv<lb/>
+eller dets Ægtefælle herved kan skades.
+</p>
+<p>
+I Straffesager kan Vidnesbyrd kun nægtes (jvf. dog 4de og 5te Stykke), naar<lb/>
+Besvarelsen af det stillede Spørgsmaal maa forudsættes at ville udsætte Vidnet selv<lb/>
+for Tab af borgerlig Agtelse eller Velfærd.
+</p>
+<p>
+Et Vidne kan ingen Sinde undslaa sig for at besvare det Spørgsmaal, om der er<lb/>
+overgaaet Vidnet en Straffedom.
+</p>
+<p>
+Den, hvem Ansvaret for et trykt Skrifts Indhold i Medfør af Lov af 3. Januar<lb/>
+1851 § 3 kan komme til at paahvile, kan nægte Vidnesbyrd angaaende Betingelserne<lb/>
+for en Forgængers Ansvar, naar han enten selv vil overtage Ansvaret, eller Opfor-<lb/>
+dringen til ham ikke er sket inden 3 Maaneder, efter at Bekendtgørelse om Skriftets<lb/>
+Udgivelse første Gang var indrykket i et offentligt Blad.
+</p>
+<p>
+Ligeledes kan paa Bladet navngiven Redaktør og Redaktionssekretær ved et<lb/>
+offentligt Blad nægte Vidnesbyrd angaaende, hvem der er Hjemmelsmand til en i det<lb/>
+paagældende Blad optagen, ikke med Forfatterens Navn forsynet Artikel eller Medde-<lb/>
+lelse, medmindre Sagen angaar en Forbrydelse, der kan medføre højere Straf end<lb/>
+simpelt Fængsel, eller den angaar Brud paa Tavshedspligt, som paahviler nogen i<lb/>
+offentligt Hverv.
+</p>
+<p>
+At nogen i de nævnte Tilfælde har fundet sig i at afgive en Forklaring, som<lb/>
+han var berettiget til at nægte, udelukker ham ikke fra senere at undslaa sig for at<lb/>
+bekræfte den eller for at afgive videre Forklaring.
+</p>
+<p>
+I ethvert Tilfælde, hvor det er klart, at Betingelserne for Fritagelsen ere til Stede,<lb/>
+skal Retten før Afhørelsen gøre paagældende opmærksom paa hans Ret til at undslaa sig.
+</p>
+<wtitle>§ 162.</wtitle>
+<p>
+I borgerlige Sager er i Reglen ingen pligtig at møde som Vidne udenfor den<lb/>
+Underretskreds, i hvilken han bor eller opholder sig.
+</p>
+<p>
+I Straffesager er i Reglen ingen pligtig at møde som Vidne udenfor den<lb/>
+Underretskreds, i hvilken han bor eller opholder sig, naar han vilde komme til at rejse<lb/>
+mere end 70 Kilometer paa Jernbane eller Dampskib eller 25 Kilometer paa anden Maade<lb/>
+eller en tilsvarende Vejlængde delvis paa Jernbane eller Dampskib og paa anden Maade<lb/>
+for at naa hen til vedkommende Ret. Til Domsforhandling for Landsret i Sager, ved<lb/>
+hvis Paadømmelse Nævninger medvirke, er dog enhver, hvis Helbredstilstand ikke er til<lb/>
+Hinder derfor, pligtig at møde som Vidne indenfor den Landsretskreds, i hvilken han bor<lb/>
+eller opholder sig, samt i øvrigt, naar han ikke vilde faa længere at rejse hen til Retten<lb/>
+end 140 Kilometer paa Jernbane eller Dampskib eller 50 Kilometer paa anden Maade<lb/>
+eller en tilsvarende Vejlængde delvis paa Jernbane eller Dampskib og paa anden Maade.
+</p>
+<p>
+Ved Beslutning af Retten eller dens Formand, der bliver at paaberaabe i Ind-<lb/>
+kaldelsen, kan det saavel i borgerlige Sager som i Straffesager paalægges et fjernere<lb/>
+boende Vidne at give Møde for Landsret eller Højesteret, naar dets Afhøring maa<lb/>
+antages at være af særlig Betydning for Sagens Oplysning. Det samme gælder med<lb/>
+Hensyn til borgerlige Sager, der behandles skriftlig for Landsret eller Højesteret, naar<lb/>
+Afhøring i Medfør af §§ 380, 406 og 429 bestemmes at skulle ske for et Medlem af<lb/>
+Landsretten eller Højesteret.
+</p>
+<wtitle>§ 163.</wtitle>
+<p>
+I borgerlige Sager afgives Vidnesbyrd som Regel for Underretten paa det<lb/>
+Sted, hvor Vidnet bor eller opholder sig.
+</p>
+<p>
+I Straffesager afgives Vidnesbyrd i Reglen for vedkommende Undersøgelsesret<lb/>
+eller, for saa vidt Vidnet enten ikke er pligtigt at give Møde for denne, eller et saa-
+</p>

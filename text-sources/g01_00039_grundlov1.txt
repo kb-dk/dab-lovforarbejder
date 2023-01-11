@@ -1,0 +1,134 @@
+9
+<pb n="39">
+<pagename>39</pagename>
+<h>
+<coll>9</coll>
+<colr>10</colr>
+<lb/>
+
+<topleft>1848</topleft>
+<topmidle>
+Beretning om Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 2.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Første Møde.<lb/>
+(Sluttet.)<lb/>
+</btitle>
+<p>
+<speaker>Alderspræsidenten:</speaker> I Overeensstemmelse med Nr. 10 i<lb/>
+det Kongelige Regulativ skulle vi altså nu skride til Valget af en<lb/>
+Formand, og den ærede Forsamling vil erindre, hvorledes dette Valg<lb/>
+skal foregåe, nemlig at Valget skeer ved Stemmesedler på den<lb/>
+Måde, at hvert stemmeberettiget Medlem på en Seddel tegner dens<lb/>
+Navn, han ønsker valgt. Derhos må det bemærkes, at dette Valg<lb/>
+kun er foreløbigt, indtil det Regulativ for Forretningernes senere<lb/>
+Gang, som af Forsamlingen skal forfattes, er udfærdiget. Jeg tillader mig altså at udbede mig, at Enhver af Forsamlingens Medlemmer vil på en Seddel nedskrive Navnet på den Mand, han<lb/>
+ønsker valgt til Formand. De 6 Herrer, om hvis Beføielse til at<lb/>
+tage Sæde i Forsamlingen, der er reist Spørgsmål, ville behage,<lb/>
+sålænge Undersøgelserne ikke ere tilendebragte, at afholde sig fra<lb/>
+Valget i Overeensstemmelse med Regulativets 8de Post.<lb/>
+</p>
+<p>
+Ved den derefter stedfundne Afstemning og Optælling fandtes det,<lb/>
+at af 143 afgivne Stemmer vare de 132 faldne på Etatsråd,<lb/>
+Professor Schouw, 8 på Kammerherre, Greve Sponneck og 3<lb/>
+på Professor Clausen.<lb/>
+</p>
+<p>
+Etatsråd Schoow, der som en Følge heraf erklæredes for<lb/>
+Forsamlingens Formand, indtog derpå Forsædet og tog til Orde<lb/>
+således:<lb/>
+</p>
+<p>
+Idet jeg aflægger min Taksigelse for den Tillid, Forsamlingen<lb/>
+har viist mig, skrider jeg til min første Pligt som foreløbig Formand,<lb/>
+at foranstalte udnævnt en Viceformand. Jeg tillader mig at anmode<lb/>
+de tvende ærede Medlemmer, som have assisteret Alderspræsidenten,<lb/>
+også at ville assistere mig, og jeg må anmode samtlige Medlemmer<lb/>
+med Undtagelse af dem, hvis Valg endnu ikke er anerkjendt, at stemme<lb/>
+på samme Måde på en Viceformand, som der er stemt på en<lb/>
+Formand, ved tydeligt at angive på Stemmesedlen den Person, som<lb/>
+de ønske til Viceformand.<lb/>
+</p>
+<p>
+Ved den påfølgende Afstemning erholdt Professor Clausen<lb/>
+103 Stemmer, Etatsråd Bruun 25, Kammerherre, Greve Sponneck 10, Professor Larsen 3, Etatsråd Bang 2 Stemmer, og<lb/>
+Professor Clausen proclameredes derefter af Formanden som Forsamlingens Viceformand.<lb/>
+</p>
+<p>
+Efter Formandens Opfordring skred Forsamlingen dernæst til<lb/>
+Valget af 2 Secretairer, og blev Resultatet af denne Afstemning, at<lb/>
+Professor Westergård fik 89 Stemmer, Assesfor Ussing 77,<lb/>
+Eraminatus juris Madsen 30, Overauditeur Hall 26, Kjøbmand<lb/>
+Rée 17, Bankkasserer Otterstrøm 14; de øvrige Stemmer vare<lb/>
+fordeelte mellem flere forskjellige Medlemmer, af hvilke Ingen erholdt<lb/>
+flere end 10 Stemmer. Som Følge af denne Afstemning erklæredes<lb/>
+Professor Westergård og Assessor Ussing (som begge havde<lb/>
+erholdt absolut Majoritet, over Halvdelen af de afgivne Stemmer),<lb/>
+af Formanden for Forsamlingens Secretairer og indtoge efter Opfordring de for dem bestemte Pladser.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Der slåer nu tilbage at vælge et Udskud for<lb/>
+at gjøre Udkast til Forretningsordenen. Med Hensyn til Antallet af<lb/>
+Medlemmerne af dette Udskud vil jeg foreslåe 7; jeg troer imidlertid,<lb/>
+at der har været yttret den Mening, at 5 vilde være et passende<lb/>
+Antal, og jeg skal altså tillade mig at sætte under Afstemning, om<lb/>
+Udskudet skal beståe af 5 eller 7 Medlemmer.<lb/>
+</p>
+<p>
+(Ved den stedsindende Afstemning erklærede 82 Medlemmer sig<lb/>
+for, at Comiteen skulde beståe af 7 Medlemmer.)<lb/>
+</p>
+</leftside>
+<rightside>
+<p>
+Jeg skal dernæst tillade mig at gjøre opmærksom på, at indtil<lb/>
+Forsamlingen har udarbeidet sit eget Forretningsreglement, blive Bestemmelserne for Forretningsgangen i Stænderforsamlingerne at følge<lb/>
+— herefter kan Formanden ikke vælges til Medlem af Comiteen —<lb/>
+og endelig må jeg bemærke, at jeg har gjort et Udkast til et Regulative, hvori flere af de Rigsdagsmænd, som besidde parlementarisk Øvelse,<lb/>
+have været mig behjælpelige. Jeg har nemlig troet, at når et sådant<lb/>
+Materiale var forhanden, kunde det forkorte Arbeidet, som vistnok vilde<lb/>
+være meget ønskeligt for at vinde Tid til Forsamlingens egentlige Øiemed.<lb/>
+Jeg betragter dette Udkast ikke som et Forslag, skjøndt denne Benævnelse ståer foran det, men som jeg allerede har sagt, kun som et<lb/>
+Materiale. Det vilde være ønskeligt, at denne Comitee såsnart som<lb/>
+muligt kunde træde i Virksomhed, da det vistnok vilde være ønskeligt,<lb/>
+at vi, såsnart det kan skee, fåe det Regulativ, som bliver at følge.<lb/>
+Jeg har derfor troet, at man i dette Møde kunde indsamle og forsegle Stemmesedlerne, for at de enten endnu i Aften eller i et Møde<lb/>
+imorgen kunde blive oplæste. Efterat Stemmesedlerne ere indsamlede<lb/>
+og forseglede, skal jeg tillade mig at henvende Opmærksomheden på<lb/>
+Dagsordenen imorgen. Jeg vil tillade mig at spørge, om de ærede<lb/>
+Ordførere ville imorgen Klokken 12 kunne referere de Sager, som<lb/>
+ere dem overleverede. Jeg vil da bestemme Møde imorgen til Klokken 12, dog således, at der foreløbigen bliver et Møde Klokken 9<lb/>
+for at optælle Stemmerne.<lb/>
+</p>
+<p>
+Formanden erklærede derefter, da Ingen af Forsamlingen yttrede<lb/>
+Noget herimod, Mødet for hævet.<lb/>
+</p>
+<btitle>
+Andet Møde.<lb/>
+</btitle>
+<notedate>
+Tirsdagen den 24de October.<lb/>
+</notedate>
+<p>
+I Overeensstemmelse med den i Gårsmødet tagne Beslutning<lb/>
+blev i et foreløbigt Møde om Formiddagen Kl. 9 af Formanden i<lb/>
+Forbindelse med Secretairerne foretaget Optælling af de Stemmer,<lb/>
+der ved Stemmegivning i det foretagne Møde vare faldne på de<lb/>
+Medlemmer, som skulle danne en Comitee for at gjøre Udkast til et<lb/>
+Regulativ for Forretningsordenen.<lb/>
+</p>
+<p>
+Af de afgivne Stemmer befandtes de fleste at være faldne på<lb/>
+Professor Krieger (84 Stemmer), Etatsråd Algreen-Ussing<lb/>
+(82 Stemmer), Professor clausen (77 Stemmer), Professor Bjerring (73 Stemmer), Etatsråd Bruun (60 Stemmer), Cancelliråd Otterstrøm (54 Stemmer), Landsoverretsprocurator<lb/>
+Balthazar Christensen (48 Stemmer), og disse 7 nævnte Medlemmer ville således have at tage Sæde i den ommeldte Comitee.<lb/>
+</p>
+</rightside>
+</pb>

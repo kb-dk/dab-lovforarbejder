@@ -1,0 +1,43 @@
+3945
+<pb n="291" />
+<h>
+<coll>3945</coll>
+<topmidle>Z</topmidle>
+<colr>3946</colr>
+</h>
+<title>IXXV.</title>
+<undertitle>om</undertitle>
+<undertitle>Udgifterne i Strafferetspleien.</undertitle>
+<undertitle>(Fremsat i Folkethmget den I7de December 1880 af Justitsminister Nellemann).</undertitle>
+<wtitle>§ 1.</wtitle>
+<p>Af Amtsrepartitionsfonden og le indenfor Amtsraadskredsen liggende kjøbstæder i<lb />
+Forbold til Folkemængden, paa Bornholm af den for kjøbstæder og Land fælles Amtsfond,<lb />
+afholdes de Udgifter, som i hver Kreds medgaa:</p>
+<p>a) til Lonning, overensstemmende med de i Henhold til Lov om Domsmagtens Ord-<lb />
+ning m. m. § 108 Nr. 5 udfærdigede Regulativer, af dcn i samme Paragraf Nr. 2 om-<lb />
+handlede minimale Politistyrke;</p>
+<p>d) til Tilvejebringelsen og Vedligeholdelsen af de i Lov om Domsmagtens Ordning<lb />
+m. m. § 408 Nr. 4 omhandlede Hoved- og Bistationer, med Vagtstue, Kontor og Opholds-<lb />
+sted for Anholdte, samt disse Lokalers Forsyning med Inventarium, Opvarming, Belysning og<lb />
+Rengjoring;</p>
+<p>c) de Udgifter, som, efterat Opgjørelse har fundet Sted i medfør af Lov om Doms-<lb />
+magten m. m. § 158, medgaa til Tilveiebringelse og Vedligeholdelse af de for Underrets;<lb />
+kredsene fornødne Arresthuse og Retslokaler, samt de nævnte Lokalers Forsyning med Inventa-<lb />
+rium, Opvarming, Belysning og Rengjoring og til Arrestanternes Bevogtning;</p>
+<p>cl) de Udgifter, som medgaa til de i Underretskredsenes Anholdelseslokaler og Arrest-<lb />
+huse hensiddende Anholdtes samt Varetægts- og Straffangers Underholdning og Forpleining<lb />
+forsaavidt de ikke kunne afholdes af det i § 3 nævnte Vederlag.</p>
+<wtitle>§ 2.</wtitle>
+<p>Underholdning og Forpleining for Anholdte, Varetægtsfanger og Straffanger, som<lb />
+udstaa Straffen i UnderretskredseneZ Arresthuse, sker efter de hidtil gjoeldende Regler, dog at<lb />
+Forpleining stedse ydes iu natura. Under den Forpleining, som afholdes i medfør af § 1<lb />
+Litr. 6., er ikke indbesattet den særlige Forpleining, som foranlediges ved Sygdomstilfælde.</p>
+<wtitle>§ 3.</wtitle>
+<p>Alle andre Udgifter end de i § 1, jfr. § 2, nævnte, der foranl>diges ved de Sager<lb />
+og Retshandlinger, som Strafferetspleien medfører, afholdes af Statskassen, der for hver af de<lb />
+i § 1 Litr, 6. ommeldte Anholdte og Varctægts- eller Straffangcr erlægger en daglig Beta-<lb />
+ling af 50 Øre, eller, for frugtsømmelige eller diegivende Kvinders Vedkommende, af 75 Øre.</p>
+<wtitle>§ 4.</wtitle>
+<p>Dagen regnes med Henfyn til den i § 3 omhandlede Betaling til 24 Timer, regnet<lb />
+fra Kl. 12 Middag; mindre Dele af en Dag regnes for en hel Dag naar de udgjore mindst<lb />
+6 Timer.</p>

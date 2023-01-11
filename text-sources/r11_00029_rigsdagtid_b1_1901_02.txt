@@ -1,0 +1,102 @@
+2315
+<pb n="29" />
+<h>
+<coll>2315</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2316</colr>
+</h>
+<leftside>
+<wtitle>Til § 491.</wtitle>
+<p>467)	„Anke" ændres til „Søgsmaal i<lb />
+første Instans".</p>
+<wtitle>Til § 492.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>468)	Paragraffen udgaar.</p>
+<wtitle>Til § 493.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>469)	„Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 494.</wtitle>
+<p>470)	„Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 495.</wtitle>
+<p>471)	„Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 496.</wtitle>
+<p>472)	„Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 497.</wtitle>
+<p>473)	a. „Fogden" ændres til „Syssel-<lb />
+manden", (2 Steder).</p>
+<p>474)	Efter „Fængsel"' tilføjes „(jvf.<lb />
+alm. borgerlig Straffelov § 25)".</p>
+<wtitle>Til § 499.</wtitle>
+<p>475)	Begyndelsen „I øvrigt"' ændres til:</p>
+<p>..Klager vedrørende Spørgsmaal om,</p>
+<p>hvorvidt de i §§ 493—495 angivne Betin-<lb />
+gelser for Forbuds Nedlæggelse foreligge,<lb />
+om Forbudets Nedlæggelse eller Afværgelse<lb />
+mod Sikkerhedsstillelse saavel som om<lb />
+dennes Art og Størrelse samt om dens<lb />
+Løsgivelse afgøres af Retten og frem-<lb />
+sættes, naar Forbud er nedlagt, under<lb />
+Forbudssagens og ellers ved Besværing til<lb />
+Retten overensstemmende med Reglerne i<lb />
+Kap. m. Ogsaa i øvrigt".</p>
+<wtitle>Til § 501.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>476) Som nyt andet Stykke indsættes:<lb />
+,.I Stedet for Afgørelse af Skifteretten<lb />
+ved Kendelse træder i hvert enkelt Til-</p>
+</leftside>
+<rightside>
+<p>fælde Afgørelse af Skifteforvalteren ved<lb />
+Beslutning, og i Stedet for Paaanke af<lb />
+Skifteretskendelse træder Søgsmaal i første<lb />
+Instans i Anledning af Skifteforvalterens<lb />
+Beslutninger."</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valg et undtagen Nanke:</p>
+<p>477)	Underændringsforslag til Ud-<lb />
+valgets Ændringsforslag Nr. 476:</p>
+<p>I Ændringsforslagets 3die Linie ændres<lb />
+„Skifteforvalteren" til „Sysselmanden". De<lb />
+sidste Ord i Ændringsforslaget: „Søgsmaal<lb />
+i første Instans i Anledning af Skiftefor-<lb />
+valterens Beslutninger"' ændres til „Be-<lb />
+sværing til Retten eller Søgsmaal i første<lb />
+Instans jvf. §§ 508 og 509"'.</p>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>478)	Til Paragraffen føjes som nyt<lb />
+Stykke:</p>
+<p>„Foruden i det i Lov om Spare- og<lb />
+Laanekasser af 28de Maj 1880 § 8 om-<lb />
+meldte Tilfælde kan Kongen undtagelsesvis,<lb />
+naar Begæring derom maatte indkomme,<lb />
+med Indvilligelse af alle de Fordrings-<lb />
+havere, der give Møde paa en dertil be-<lb />
+rammet Skiftesamling, beskikke Skiftekom-<lb />
+missarier uden dømmende Myndighed til i<lb />
+Stedet for den ordinære Skifteforvalter at<lb />
+forestaa Behandlingen og Afgørelsen af et<lb />
+Konkursbo, der findes at være af en sær-<lb />
+egen vidtløftig og indviklet Beskaffenhed."</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valg e t undtagen Nanke:</p>
+<p>479)	Underændringsforslag til Udvalgets<lb />
+Ændringsforslag Nr. 478: Det foreslaaede<lb />
+ny Stykke udgaar her og føjes som nyt<lb />
+Stykke til § 514, idet dog „den ordinære<lb />
+Skifteforvalter" ændres til „Sysselmanden".</p>
+<wtitle>Til § 502.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>480)	I L. 5 ændres „Skifteretten" til<lb />
+„ Skifteforvalteren".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>481)	Underændringsforslag til Ud-<lb />
+valgets Ændringsforslag Nr. 480: I Pa-<lb />
+ragraffens Linie 3 og 5 ændres „Skifte-<lb />
+retten" til „Sysselmanden".</p>
+</rightside>

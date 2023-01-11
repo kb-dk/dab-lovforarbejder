@@ -1,0 +1,35 @@
+31
+<pb n="37" />
+<p>tilstrækkelig, Indsigelser, som fremsættes af<lb />
+Vidner, Syns- eller Skjønsmænd, Rettens<lb />
+dømme, Kjendelser og svrige Beslutninger og<lb />
+i Nævningesager de til Nævningerne stillede<lb />
+Spørgsmål samt Nævningernes Erklæring<lb />
+over disse.</p>
+<p>Af de Personers Udsagn, som afhøres for<lb />
+Underssgelsesdommeren, skal det væsentlige Indhold gjengives; vigtigere Erklæringer af den<lb />
+Sigtede og navnlig Tilståelftr skulle såvidt<lb />
+mulig gjengives med hans egne Ord; det<lb />
+Samme gjælder om Vidneforklaringer, Syns- eller<lb />
+Ekjønsmænds Forklaringer, som afgives for at<lb />
+benyttes ved Oplæsning under Hovedforhandlingen, samt om Eyns- eller skjønsmænds Erklæringer til Retsbogen. Tilsvarende Regler<lb />
+gjælde med Hensyn til Hovedforkandlingen<lb />
+for Underretten i Sager, der ikke ere undtagne<lb />
+fra Påanke. Af Udsagn, der afgives under<lb />
+Afhørelse for Landsretten, optager Retsskriveren under Formandens Vejledning det<lb />
+Væsentligste i en særfkilt Bog; ere de Pågjældende tidligere afhørte for en Ret, er dog<lb />
+Henvisning tilstrækkelig, og kun væsentlige Afvigelser eller Fuldstændiggjørelser  optegnes.</p>
+<p>Angående Besigtigelser, som foretages af<lb />
+undersøgelsesdømmeren eller af Underretten i<lb />
+Sager, der ikke ere undtagne fra Påanke, skal Retsbogen indeholde så Meget, at den<lb />
+giver et fuldstændigt og tro Billede af det<lb />
+Besigtigede.</p>
+<p>Af Udviklinger og Foredrag til Begrundelse af Påstande, Andragender eller Indsigelser, optages Intet i Retsbogen; dog kan Formanden beslutte, at enkelte Udtalelser skulle optages.</p>
+<p>Eærlig Bemærkning gjøres i Retsbogen<lb />
+om, hvorledes der er gået tilværks med Hensyn til Former, som efter Loven skulle iagttages, om hvad der fremlægges i Retten, og<lb />
+hvilke Dokumenter der ere blevne oplæste.</p>
+<wtitle>§ 86.</wtitle>
+<p>Oplæsning og Vedtagelse af Tilførsler til<lb />
+Retsbogen angående afhørte Personers Udsagn<lb />
+finder kun Sted ved afhørelser for Undersøgelsesdommeren og under Hovedforhandlingen<lb />
+for Underretten i Sager, som ikke ere undtagne fra Påanke.</p>

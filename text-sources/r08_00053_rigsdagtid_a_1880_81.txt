@@ -1,0 +1,47 @@
+3469
+<pb n="53" />
+<h>
+<coll>3469</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3470</colr>
+</h>
+<p>Henfyn til Retssager imellem forfkjellige Parter, naar søgsmaalenes Forening ikke vilde stride<lb />
+imod § 42.</p>
+<p>Gre flere søgsmaal forenede under een Retssag, kan Retten anordne, at en Adskillelse skal finde<lb />
+Sted, og at et eller flere af søgsmaalene forhandles og paadømmes særfkilt.</p>
+<p>Frembyder Sagen flere Stridspunkter, kan Retten bestemme, at Forhandlingerne fore«<lb />
+lobigt skulle indffrænke sig til et eller nogle af disse; enkelte søgsmaalsgrunde eller enkelte<lb />
+Indsigelser kunne som en følge heraf gjøres til Gjenstand for særskilt Procedure.</p>
+<wtitle>§ 103.</wtitle>
+<p>Er et Retsforhold, hvis Fastsættelse vil faa Indflydelse paa Sagens Udfald, Gjenstand<lb />
+for en ved samme eller en anden Ret svævende Retstrætte, eller er det indbragt til Afgjørelse<lb />
+ved administrativ Myndighed, kan Retten enten efter Paastand eller paa Embeds Vegne be-<lb />
+stemme, at Sagens Forhandling i det Hele eller tildels skal udslettes, indtil hin Retstrætte er<lb />
+paadømt, eller den administrative Afgjørelse er truffen.</p>
+<wtitle>§ 104.</wtitle>
+<p>Opftaar der under en Sag Mistanke om en begaaet strafbar Handling, eller de<lb />
+allerede er begyndt en Forunderføgelse mod en af Sagens Parter, kan Retten udfætte For-<lb />
+handlingen, indtil Straffesagen har fundet sin Afgjørelse.</p>
+<wtitle>§ 105.</wtitle>
+<p>Ved Udøvelse af den i §§ 102—104 hjemlede Myndighed har Retten at virke hen<lb />
+til, at den størst mulige Orden, Klarhed og Simpelhed i Forhandlingerne opnaas,</p>
+<wtitle>§ 106.</wtitle>
+<p>De i §§ 98, 99, 102, 103 og 104 omhandlede Bestemmelser kunne træffes paa<lb />
+ethvert Trin af Forhandlingerne, ligesom de kunne tilbagekaldes, naar Retten anser dette for<lb />
+hensigtsmcessigt.</p>
+<p>Retten anordner det Fornødne med Hensyn til Udsættelse af Sagen, naar den be-<lb />
+nytter sin i §§ 98, 99, 102,  103 eller 104 omhandlede Myndighed.</p>
+<wtitle>§ 107.</wtitle>
+<p>De i §§ 98, 99, 102, 103 eller 104 indeholdte procesledende Bestemmelser ere<lb />
+ikke Gjenstand for Retsmidlers Anvendelse.</p>
+<title>Kapitel IX.</title>
+<undertitle>Om Forkyndelser og andre processuelle meddelelser.</undertitle>
+<wtitle>§ 108.</wtitle>
+<p>Forkyndelser og andre processuelle meddelelser skulle, forjaavidt ikke Loven eller Par-<lb />
+ternes Overenskomst medfører Undtagelse, foregaa ved en Stævningsmand. Denne har ved<lb />
+Fonetningens Udforelse som Vidne at tiltage en anden Stævningsmand eller, saafremt Tiden<lb />
+ei tillader at faa en saadan tilkaldt (§  109 næstsidste Stykke), en god Mand.</p>
+<p>Enhver bestikket Stævningsmand kan med fuld Retsvirkning iværksætte Forkyndelser<lb />
+og meddelelser under Iagttagelse af de i Loven givne Forskrifter. Gyldigheden af det Fore-<lb />
+tagne svcrkkes ikke derved, at Stævningsmanden har handlet udenfor den Retskreds, i hvilken<lb />
+han er anfat.</p>

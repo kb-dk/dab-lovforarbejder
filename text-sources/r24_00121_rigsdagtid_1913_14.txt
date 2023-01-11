@@ -1,0 +1,89 @@
+3577
+<pb n="121">
+<h>
+<coll>
+3577
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3578
+</colr>
+</h>
+<lowtitle>§ 525.</lowtitle>
+<p>
+I Fogedbogen, henholdsvis den i § 480 omhandlede Bog, optages:
+</p>
+<p>
+1)	Angivelse af Tid og Sted for Forretningen, Parternes Navne, Eksekutionsgrund-<lb />
+lagets Beskaffenhed;
+</p>
+<p>
+2)	Betegnelse af Fogden og Vidnerne;
+</p>
+<p>
+3)	Beretning om Forretningens Gang i Almindelighed.
+</p>
+<p>
+I Tilfælde af Tvist optages i Fogedbogen en ordret Angivelse af de fremsatte<lb />
+Paastande. Naar Fogden selv foretager Forretningen, eller Forhandling for Foged-<lb />
+retten i Medfør af § 524, sidste Stykke, finder Sted, lader Fogden derhos i det Omfang,<lb />
+som af ham skønnes hensigtsmæssigt, Parternes Erklæringer over Sagens Sammen-<lb />
+hæng tilføre Fogedbogen, dog ikke ordret, men kun efter deres væsentlige Indhold.<lb />
+Det tilførte oplæses og vedkendes.
+</p>
+<lowtitle>§ 526.</lowtitle>
+<p>
+Udsættelse kan kun undtagelsesvis gives under Forretningen, naar ikke Par-<lb />
+terne ere enige derom.
+</p>
+<p>
+Derimod kan Fogden beslutte eller tilstaa en Standsning i Forhandlingerne, naar<lb />
+Omstændighederne kræve det. Fogden har da ved Bevogtning eller paa anden Maade at<lb />
+træffe de fornødne Foranstaltninger for at opretholde den samme Tilstand, indtil Forret-<lb />
+ningen atter fortsættes. Parterne skulle paa behørig Maade underrettes om Tiden herfor.
+</p>
+<p>
+Har Rekvirenten i Medfør af § 517 ikke givet Møde under Forretningen, og<lb />
+kan han ikke uden Ophold skaffes til Stede, skal Fogden, naar han finder, at en fremsat<lb />
+Indsigelse ikke straks kan forkastes eller tages til Følge, udsætte Forretningen og<lb />
+underrette Parterne om, naar den paany foretages, og Rekvirenten har da, hvis han<lb />
+ønsker Forretningen fremmet, at give Møde til den saaledes fastsatte Tid. Naar Ud-<lb />
+sættelse finder Sted i Henhold til denne Bestemmelse, kan Fogden træffe saadan For-<lb />
+anstaltning som i 2det Stykke nævnt.	
+</p>
+<p>
+Foretages Eksekutionen af Politimesteren (Sognefogden), bliver den altid af<lb />
+ham at fremme uden Hensyn til fremsatte Indsigelser.
+</p>
+<lowtitle>§ 527.</lowtitle>
+<p>
+I opstaaende Tvistigheder afsiger Fogden Kendelse umiddelbart efter For-<lb />
+handlingernes Slutning eller dog snarest muligt. Er Forretningen foretagen af Politi-<lb />
+mesteren (Sognefogden), træffer Fogden efter Forløbet af 14 Dage fra dens Afholdelse<lb />
+Beslutning om mulig fremsatte Indsigelser. Finder Fogden en fremsat Indsigelse<lb />
+grundet, berigtiger han selv eller ved Politimesteren (Sognefogden) Fejlen eller op-<lb />
+hæver ved Kendelse den stedfundne Forretning i det hele eller for en Del. Forkastes<lb />
+Indsigelsen, stadfæster Fogden Forretningen som endelig. Om Afgørelsen meddeles der<lb />
+Parterne Underretning.
+</p>
+<p>
+Fogdens Kendelser, der skulle være ledsagede af Grunde, indføres fuldstændigt<lb />
+i Fogedbogen.
+</p>
+<p>
+Deres Fuldbyrdelse kan ikke hindres ved Anke eller Kære.
+</p>
+<p>
+Fogden kan paalægge den Part, der skønnes uden tilstrækkelig Grund at have<lb />
+givet Anledning til eller unødig at have vidtløftiggjort Proceduren for Fogedretten,<lb />
+at udrede Sagsomkostninger til Modparten, saaledes at Fuldbyrdelsesfrist med Hensyn<lb />
+hertil fastsættes i Kendelsen.
+</p>
+<lowtitle>§ 528.</lowtitle>
+<p>
+I Fogedbogen eller den i § 480 nævnte Bog optegnes nøjagtig alle de enkelte<lb />
+Genstande, hvori Udlæg gøres; ved hver enkelt Genstand tilføjes dens Værdi efter den<lb />
+stedfundne Ansættelse.
+</p>
+
+</pb>

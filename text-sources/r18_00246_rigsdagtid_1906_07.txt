@@ -1,0 +1,49 @@
+4131
+<pb n="246"/>
+<h>
+<coll>4131</coll>
+<topmidle>Forsl. t. L. o Rettes Pleje.</topmidle>
+<colr>4132</colr>
+</h>
+<leftside>
+<p>
+lægge en Række Afgørelser af Underret<lb />
+for Landsret og af Landsret for Højesteret.
+</p>
+<p>
+Den Regeringen nu tilkommende Myn-<lb />
+dighed til under særlige Omstændigheder at<lb />
+nedsætte ekstraordinære Retter foreslaar<lb />
+Lovforslaget hibeholdt. Det vil nemlig meget<lb />
+vel kunne tænkes, at en Sag enten omfatter<lb />
+saa mange Personer eller kræver Under-<lb />
+søgelser i en saa stor Del af Landet eller af<lb />
+andre Grunde er af stort Omfang, at<lb />
+det baade af Hensyn til Sagens egen Be-<lb />
+handling og af Hensyn til det Ophold, denne<lb />
+vilde medføre for andre samtidig behand-<lb />
+lede Sager, maa anses i høj Grad ønske-<lb />
+ligt, at dens Behandling finder Sted uden-<lb />
+for de sædvanlige Retssagers Rækkefølge,
+</p>
+</leftside>
+<rightside>
+<p>
+ligesom ogsaa saadant kan tænkes formaals-<lb />
+ tjenligt af andre Grunde, f. Eks. at den<lb />
+ordinære Dommer uden at være inhabil dog<lb />
+kan antages at have en saadan Stilling til<lb />
+Sagen, at dens Behandling under hans Le-<lb />
+delse maatte anses for lidet heldig. Til<lb />
+Betryggelse for Sigtede er det imidlertid i<lb />
+Lovforslaget foreskrevet, at alle de ved de<lb />
+almindelige Retter gældende Regler om<lb />
+Undersøgelsesmaade, Forsvarer, Varetægts-<lb />
+arrest, Fængselskontrol, Erstatning og Med-<lb />
+tagelse af Nævninger skulle finde Anven-<lb />
+delse ved saadanne ekstraordinære Retter,<lb />
+hvis Domme og andre Afgørelser altid<lb />
+skulle staa under Anke og Kære til Høje-<lb />
+steret.
+</p>
+</rightside>

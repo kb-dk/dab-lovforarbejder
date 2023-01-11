@@ -1,0 +1,99 @@
+480
+<pb n="64" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>480</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<title>Kapitel 26.</title>
+<undertitle>
+Forligsmægling.
+</undertitle>
+<wtitle>§ 268.</wtitle>
+<p>
+Genstand for tvungen Forligsmægling er alle borgerlige Domssager i første<lb />
+Instans. Dog er Forligsprøve ej fornøden,
+</p>
+<p>
+1)	når Modfordringer gøres gældende, selv om selvstændig Dom for dem påstås,
+</p>
+<p>
+2)	i Sager om Veksler og visse andre Gældsbreve (Kapitel 41),
+</p>
+<p>
+3)	i Sager, der anlægges af eller på Foranstaltning af eller imod Statsmyndigheder,
+</p>
+<p>
+4)	i påtrængende Sager,
+</p>
+<p>
+5)	når offentlig Indstævning finder Sted.
+</p>
+<p>
+6)	når Sagvolderen bor eller opholder sig udenfor Kongeriget uden at have en<lb />
+Sagsøgeren bekendt, her bosat Fuldmægtig, som Sagsøgeren er berettiget til at<lb />
+indkalde på Sagvolderens Vegne,
+</p>
+<p>
+7)	når Arrestforfølgning finder Sted som særskilt Sag (§ 634).
+</p>
+<p>
+Den i Tyendelov af 10. Maj 1854 §§ 65—76, jfr. Lov af 4. Marts 1857<lb />
+§ 8, anordnede Mægling for en Tyendeforligsmægler vedbliver at bestå i Overensstemmelse med de der givne Regler, kun at den i Tyendelovens § 67 ommeldte edelige<lb />
+Erklæring afløses af en tilsvarende højtidelig Erklæring efter en af Justitsministeren<lb />
+fastsat Formular.
+</p>
+<p>
+I følgende Tilfælde foregår Mæglingen ved Retten:
+</p>
+<p>
+a)	i Sager angående de i Tyendeloven af 10. Maj 1854 omhandlede Forhold, for<lb />
+så vidt de ikke henhører under den ovenfor omtalte særlige Mægling,
+</p>
+<p>
+b)	i Sager om Fornærmelser i Ord eller Gerning, dog med Undtagelse af trykte<lb />
+eller skriftlige Beskyldninger,
+</p>
+<p>
+c)	i Sager, i hvilke der søges Underholdsbidrag hos Faderen til et Barn udenfor<lb />
+Ægteskab,
+</p>
+<p>
+d)	i de under Københavns Byret hørende Sager angående private Formuerettigheder,<lb />
+når Genstanden for samme i Penge eller Penges Værdi ikke overstiger 300 Kr.,
+</p>
+<p>
+e)	i Sø- og Handelssager, jfr. for København Lov om Sø- og Handelsret af 19. Februar 1861 § 19.
+</p>
+<p>
+I øvrigt foregår Forligsmægling ved de i næste Paragraf nævnte Forligskommissioner.
+</p>
+<wtitle>§ 269.</wtitle>
+<p>
+For Københavns Byrets Område skal der foruden den ved Lov om Sø- og<lb />
+Handelsret af 19. Februar 1861 § 19 for Sø- og Handelssager indrettede Forligskommission beskikkes en Forligskommission. der behandler de øvrige Sager og består<lb />
+af et af Magistratens Medlemmer eller en af dens Embedsmænd, en Borgerrepræsentant samt en af Justitsministeriet beskikket Mand udenfor Retterne.
+</p>
+<p>
+Udenfor København bliver den ved Lov om Forandringer i Forligsvæsenet af<lb />
+4. Marts 1857 foreskrevne Ordning fremdeles bestående. Hører der til Kredsen intet<lb />
+Landdistrikt, vælges begge Forligskommissærer af Byrådet.
+</p>
+<p>
+Forinden en Forligsmægler begynder sin Virksomhed, afgiver han en højtidelig<lb />
+Erklæring efter en af Justitsministeren fastsat Formular om at ville med al mulig Nidkærhed og Redelighed efter bedste Evne og Overbevisning søge at befordre villig og<lb />
+mindelig Overenskomst mellem Parterne i de Sager, som indkommer for ham.
+</p>
+<p>
+Står en Forligsmægler i noget af de i § 60, 1) eller 2), nævnte Forhold til<lb />
+Sagen eller Parterne, fratræder han, og Mæglingen udføres af den eller de andre<lb />
+Forligsmæglere alene eller i Forening med en særlig dertil beskikket Forligsmægler.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

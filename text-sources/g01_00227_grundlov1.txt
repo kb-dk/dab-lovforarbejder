@@ -1,0 +1,153 @@
+381
+<pb n="227">
+<pagename>227</pagename>
+<h>
+<coll>381</coll>
+<colr>382</colr>
+<lb/>
+
+<topleft>1848.<lb/></topleft>
+<topmidle>
+Beretning om Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 50.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Et og tyvende Møde.<lb/>
+(Sluttet.)<lb/>
+</btitle>
+<p>
+<speaker>Grundtvig:</speaker> Jeg skal blot sige, at efter hvad jeg har hørt,<lb/>
+og efter de Oplysninger, som ere blevne givne, må jeg aldeles stemme<lb/>
+imod enhver Henviisning til Comiteen i den her omhandlede Hensende,som uværdig for Rigsdagsmændene.<lb/>
+</p>
+<p>
+<speaker>Kammerråd Drewsen:</speaker> Da Talen her er om Rigsdagsmændeues Udeblivelse fra Forsamlingen,skal jeg tillade mig at spørge, om<lb/>
+det ikke, når det Forslag, som her er gjort, bliver henviist til Comiteen, unde være hensigtsmæssigt, om der med det Samme fra denne<lb/>
+Comitee fremkom et Forslag om, hvormange Dage i Rad en Rigsdagsmand kan blive borte fra Forsamlingen, uden at hans Valg bliver ugyldigt og en Anden skal vælges i hans Sted.   dette<lb/>
+Spørgsmål ikke uden videre kan henvises til Comiteen, da Forslagsstilleren ikke har berørt det; men i så Tilfælde burde der stilles et<lb/>
+særeget Forslag for at fåe denne Åg afgjorte, for hvilken der, som<lb/>
+jeg troer, ikke haves nogen Afgjørelse. Såvidt jeg erindrer fra<lb/>
+Stændersamlingerne, havde man der en Bestemmelse om, at når<lb/>
+en Stænderdeputeret udeblev 8 eller 14 Dage — jeg erindrer ikke<lb/>
+nøie hvilket Tidsrum — Commissarius da skulde indkalde Suppleanten, forsåvidt en sådan havdes.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Jeg troer, at hvis Forslaget henvises til Comiteen, det af den af den ærede foregående Taler berørte Punkt ståer i en<lb/>
+så nær Berørelse med Froslaget, at Comiteen gjerne kan tage det<lb/>
+under Overveielse.<lb/>
+</p>
+<p>
+<speaker>Rẻe:</speaker> Jeg moner, at dette må være aldeles overladt til Comiteen og senere til Forsamlingen, hvis der fra Comiteeen skulde<lb/>
+fremkomme noget Forslag i så Henseende. Jeg skal, med Hensyn til<lb/>
+en æret kongevalgt Rigsdagsmands Yttringer tillade mig at bemærke,<lb/>
+at når han har dvælet ved den af ham omtalte Tale-Statistik, så<lb/>
+indseer jeg ikke, hvorledes han kan sætte dette i Forbindelse med det<lb/>
+Spørgsmål, som her foreligger, og under alle Omstændigheder forekommer det mig, at det må kunne være til Nytte for Vælgerne —<lb/>
+og for Folket i det Hele, hvor der er Tale om de Kongevalgte — at<lb/>
+de også kunne vide, om de Deputerede virkelig have udfoldet nogen<lb/>
+Virksomhed, i alt Fald om de, hvad der vistnok er det Allervigtigst<lb/>
+for Forsamlingen, have deeltaget i Stemmegivningen. En Control<lb/>
+hermed kan kun haves, når man kan vide, om de have været tilstede, medens man ellers måskee kunde antage, at de havde stemt,<lb/>
+endskjøndt de slet ikke havde været i Forsamlingen.<lb/>
+</p>
+<p>
+<speaker>Grundtvig:</speaker> Man må erindre, at det slet ikke er til nogen<lb/>
+Nytte, at vi her ere tilstede, men at det var meget bedre, vi bleve<lb/>
+borte, når vi ikke ville gjøre Gavn. Der vindes virkelig ikke noget<lb/>
+for Folket ved, at vi stemme, men kun ved, at vi stemme godt, og det<lb/>
+er derfor ikke af stor Vigtighed at nøde en Rigsdagsmand til at<lb/>
+komme, som vil blive borte.<lb/>
+</p>
+<p>
+<speaker>Gram:</speaker> Med Hensyn til den kidste Bemærkning, skal jeg tillade<lb/>
+mig at anføre, at der undertiden stemmes efter Navneopråb, og at<lb/>
+da Vælgerne selv ville kunne bedømme, hvorvidt de Valgte have stemt<lb/>
+godt eller slet.<lb/>
+</p>
+<p>
+<speaker>Lorck:</speaker> Idet jeg henholder mig til, hvad den ærede Rigsdagsmand<lb/>
+for Præstø Amts 4de District (Grundtvig) har anført, må jeg endvidere<lb/>
+udtale, at jeg for Tiden ikke kan erkjende Nødvendigheden af det stillede<lb/>
+Forslag, og udtrykkeligen vil forvare Rigsdagens Medlemmer imod<lb/>
+den Beskyldning for Forsømmelse, man muligen kunde udlede heraf.<lb/>
+Det forkommer mig, at Afstemningen hidtil har udviist det Modsatte.<lb/>
+</p>
+</leftside>
+<rightside>
+<p>
+Anderledes forholder det sig med enkelte kongevalgte Medlemmer, der<lb/>
+formedelst andet Hverv muligen i længere Tid ville nødes til at lade<lb/>
+deres Pladser ståe tomme; men om dette ligger i, eller kan tilføies<lb/>
+Forslaget, veed jeg ikke.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Derom er der netop bleven moveret af Forslagsstilleren.<lb/>
+</p>
+<p>
+<speaker>Rẻe:</speaker> At det ikke er uden Exempel, at et Medlem har været.<lb/>
+flere Dage borte, det viser Afstemningen. Det vil således erindres,<lb/>
+at der ved det sidste Møde kun var 141 tilstede, medens Forsamlingen<lb/>
+tæller 152 Medlemmer, og således har det oftere været Tilfældet.<lb/>
+</p>
+<p>
+<speaker>Grundtvig:</speaker> Flere ere uvalgte endnu, flere ere på Reiser,<lb/>
+så at jeg anseer det for et stort Tal:<lb/>
+</p>
+<p>
+<speaker>Boisen:</speaker> Jeg skal blot tillade mig at bemærke, at halve Forholdsregler ikke due, så at, hvis man vil indføre streng Control,<lb/>
+Controllen bør udvides til Afdelingerne, og at det også her bør eftersees nøie, hvormange Gange Nogen forsømmer.<lb/>
+</p>
+<p>
+<speaker>Mørk Hansen:</speaker>Jeg må gjøre opmærksom på, at det vil<lb/>
+være forbunden med practiske Vanskeligheder at tælle, hvormange der<lb/>
+er tilstede ved ethvert Møde, idet der navnligen kan spørges, om Optællingen skal foregåe ved Mødets Begyndelse eller ved dets Slutning, og om det skal være tilstrækkeligt, at et Medlem blot har været<lb/>
+inden for Døren.<lb/>
+</p>
+<p>
+<speaker>Flere Stemmer: </speaker>Afstemning!<lb/>
+</p>
+<p>
+Da Ingen flere begjerede Ordet, blev det af Formanden sat<lb/>
+under Afstemning, om Forslaget skulde henvises til Regulativ-Comiteen eller ikke. Ved den derefter på sædvanlig Måde, ved at<lb/>
+reise sig fra sin Plads og ved at blive siddende, foretagne Afstemning<lb/>
+viste der sig Tvivl om dennes Udfald, og der blev som en Følge<lb/>
+heraf i Henhold til Forretningsordenens § 28 skredet til Afstemning ved Navneopråb. Resultatet af denne Afstemning var<lb/>
+følgende:<lb/>
+</p>
+<p>
+Stemmegivende 146 (fraværende: Bunden, Oxholm, Tang).<lb/>
+Absolut Stemmefleerhed 74.<lb/>
+Forslagets Henviisning forkastet med 80 Nei mod 66 Ia.<lb/>
+</p>
+<indexlist>
+Nei.<lb/>
+­Ågård af Thisted.	Gregersen.<lb/>
+Andresen.	Hage.<lb/>
+Bagger.	Hansen (H. P) af Kjøbenhavn.<lb/>
+Barfod.	Hansen (I. A.) af Kjøbenhavn.<lb/>
+Black.	Hansen (L.) af Bjelkerup.<lb/>
+Brandk.	Mørk Hansen.<lb/>
+Boisen.	Hansen(N.) af Eskelund.<lb/>
+Christen (B.)	Hansen (P.) af Abbetved.<lb/>
+Christensen(H.) asf Veistrup.	Hasselvalch.<lb/>
+Colding.	Hastrup.<lb/>
+la Cour.	Hermannsen.<lb/>
+David.	Hiorth.<lb/>
+van Dockum.	Hunderup.<lb/>
+Drewsen af Silkeborg.	Hækkerup.<lb/>
+Duntzfelt.	Jacobæus.<lb/>
+Fibiger.	Jespersen af Grønnebjerggård.<lb/>
+Flor.	Johansen (H. C.) af Østrup.<lb/>
+Frølund.	Johansen (F.) af Houby.<lb/>
+Funder.	Sehestedt-Juul.<lb/>
+Gleerup.	Jungersen.<lb/>
+Grundtvig.	Larsen (Chr.) af Dalby.<lb/>
+ 
+</indexlist>
+</rightside>
+
+</pb>

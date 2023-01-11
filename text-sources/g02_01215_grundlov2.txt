@@ -1,0 +1,165 @@
+3903
+<pb n="1215" >
+<p rend="page">1215</p>
+<h>
+<coll>3903</coll>
+<colr>3904</colr><lb />
+
+Valglovens tredie Læsning<lb />
+</h>
+<leftside>
+<p>
+<law n="1215" >§ 75.<lb /></law>
+Bliver Valget af en enkelt Rigsdagsmand nødvendigt, gjælder det<lb />
+nye Valg for saa lang Tid, som den, i hvis Sted den Nyvalgte<lb />
+indtræder, vilde have havt tilbage.<lb />
+<law n="1215" >§ 76.<lb /></law>
+Skulle almindelige Valg foretages, enten fordi Valgtiden er udløben, eller fordi hele Rigsdagen eller eet af Thingene er opløst, vil<lb />
+derom udgaae et aabent Brev, hvori Kongen berammer Valgenes Afholdelse til en bestemt Dag over hele Riget. Er det bade til Folkethinget og Landsthinget, at disse Valg skulle skee, bør Folkethingsvalgene dog berammes først.<lb />
+</p>
+<p>
+Skulle enkelte Valg skee i en Valgkreds, udgaaer Anordningen<lb />
+af same fra vedkommende Minister.<lb />
+<law n="1215" >§ 77.<lb /></law>
+Enhver, som vælges til Rigsdagsmand, erholder et Valgbrev,<lb />
+som tjener ham til Beviis for hans Valg. Valgbrevene skulle udfærdiges efter en af vedkommende Minister foreskreven Form og undertegnes af den samlede Valgbestyrelse.<lb />
+<law n="1215" >§ 78.<lb /></law>
+Viser Nogen Forsømmelighed i Udførelsen af de ham efter denne<lb />
+Lav paahvilende Forretninger, bliver han, forsaavidt han ikke efter<lb />
+Lovgivningens Bestemmelser har gjort sig skyldig til en store Straf,<lb />
+at ansee med en Mulct fra 10 indtil 200 Rbd.<lb />
+<law n="1215" >§ 79.<lb /></law>
+Den Rigsdagens Medlemmer tilkommende daglige Godtgiørelse<lb />
+bestemmes til tre Rigsbankdaler for hver Dag, Rigsdagen er samlet<lb />
+Reiseomkostningerne erstattes dem efter indgiven, af vedkommende<lb />
+Things Formand bifaldet og anviist Regning.<lb />
+</p>
+<p>
+Enhaver Rigsdagsmand er forpligtet til at modtage den fastsatte<lb />
+daglige Godtgiørelse.<lb />
+</p>
+<stitle>
+IV. Midlertidig Bestemmelse.<lb />
+</stitle>
+<p>
+Med Hensyn til de forestaaende første Valg kan Regieringen<lb />
+foretage de Forandringer i de i denne Lov foreskrevne Tidsbestemmelser, som, Forholdene maatte gjøre nødvendige.<lb />
+</p>
+<p>
+Regulativet findes indført i Tidenden Nr. 473 og 474, det 134te<lb />
+offentlige Møde, Pag. 3753—3764.<lb />
+</p>
+<p>
+Den saaledes emenderede Valglov tilligemed Regulativet blev<lb />
+derpaa sat under Afstemning ved Navneopraab, der var forlangt af:<lb />
+</p>
+<px>
+Andresen.	Leth.<lb />
+N. H. Nielsen.	Nørgaard.<lb />
+P. Hansen.	Black.<lb />
+C. Petersen.	H. Rasmussen.<lb />
+Gregersen.	Dinsen.<lb />
+I. Rasmussen.	Schack.<lb />
+L. Hansen.	H. Christensen.<lb />
+F. Jespersen.<lb />
+</px>
+<p>
+og blev da Resultatet, at den med 100 Ia mod 5 Nei blev vedtagen; 43 være fraværende og 2— Barfod og H. P. Hansen— Stemte ikke.<lb />
+</p>
+<px>
+Ja.<lb />
+G. Aagaard.	B. Christensen.<lb />
+Andresen.	G. Christensen.<lb />
+Andræ.	H. Christensen.<lb />
+Bagger.	I. Christensen.<lb />
+Bergmann.	la Cour.<lb />
+Bjerring.	Dahl.<lb />
+Black.	Dahlerup.<lb />
+Bluhme.	Dinsen.<lb />
+Brandt.	I. C. Drewsen.<lb />
+Bregendahl.	Flor.<lb />
+Bun?a?en.	Frølund.<lb />
+Boisen.	Funder.<lb />
+Cederseld de Simonsen.	Gislason.<lb />
+
+</px>
+</leftside>
+<rightside>
+<px>
+Gleerup.	C. C. Møller.<lb />
+Gram.	R. N. Møller.<lb />
+Gregersen.	H. C. Nielsen.<lb />
+Hage.	N. H. Nielsen.<lb />
+Hall.	Nyholm.<lb />
+Hammerich.	Nørgaard.<lb />
+I. A Hansen.	Olrik.<lb />
+L. Hansen.	Ostenfeldt.<lb />
+Mørk Hansen.	Ostermann.<lb />
+N. Hansen.	Oxholm.<lb />
+P. Hansen.	Pape<lb />
+Hasselbalch.	C. Pedersen.<lb />
+Hasttup.	I. Pedersen.<lb />
+Hermannsen.	P. Pedersen.<lb />
+Hunderup.	B. Petersen<lb />
+Hækkerup.	C. N. Petersen.<lb />
+Høier.	Pietursson.<lb />
+Jacobsen.	Ploug.<lb />
+Jacobæus.	Pløhen.<lb />
+F. Jespersen.	I. Rasmussen.<lb />
+N. F. Jespersen.	H. Rasmussen.<lb />
+H. C. Johansen.	M. Rasmussen.<lb />
+F. Johannsen.	Rée.<lb />
+H. Johansen.	Schack.<lb />
+Jungersen.	Schiern.<lb />
+Jørgensen.	Schurmann.<lb />
+Kayser.	Stender.<lb />
+Kirk.	Tang.<lb />
+Krieger.	Thalbi?a?er.<lb />
+Køster.	Theilmann.<lb />
+C. Larsen.	Tobiesen.<lb />
+Leth.	Tscherning.<lb />
+Lorck.	Tuxen.<lb />
+Lü?a?höft.	Tvede.<lb />
+Madsen.	Visby.<lb />
+Marckmann.	Westergaard.<lb />
+Mundt.	Winther.<lb />
+</px>
+<px>
+Nej.<lb />
+Grundtvig.	Wulff.<lb />
+v. Haven.	?a?euthen.<lb />
+Paludan=Müller.<lb />
+</px>
+<px>
+Fraværende.<lb />
+U. Aagaarb.	Lüttichan.<lb />
+H B. Bruun.	Tage=Müller (syg).<lb />
+M. P. Bruun.	Mynster.<lb />
+P. D. Bruun.	Neergaard.<lb />
+Buchwaldt.	Olesen.<lb />
+Colding.	Otterstrøm.<lb />
+David.	Ræder.<lb />
+M. Drewsen.	Scavenius.<lb />
+Dun?a?felt.	Schlegel.<lb />
+Eriksen.	Schroll (syg).<lb />
+Fibiger.	Schytte.<lb />
+Fløe.	Brinck=Seidelin.<lb />
+Gudmundssom.	Sidenius.<lb />
+Hiort.	Sigurdsson.<lb />
+Holk.	Stockfleth.<lb />
+L. N. Hvidt.	Treschow.<lb />
+C. M. Jespersen.	Algreen=Ussing.<lb />
+Johnsen.	W. Ussing.<lb />
+Sehestedt-Juel.	Wegener.<lb />
+Knuth.	With.<lb />
+J. E. Larsen.	Ørsted.<lb />
+Linnemann.<lb />
+</px>
+<p>
+Formanden anmeldte Slutningsmødet til den næste Dag, Tirsdagen den 5te Juni Kl. 12, idet han bemærkede, at hans Maiestæt<lb />
+vilde være tilstede ved dette møde. Mødet hævet.<lb />
+</p>
+</rightside>
+
+
+</pb>

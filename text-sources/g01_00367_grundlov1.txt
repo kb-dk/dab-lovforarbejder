@@ -1,0 +1,137 @@
+661
+<pb n="367">
+<pagename>367</pagename>
+<h>
+<coll>661</coll>
+<colr>662</colr>
+<lb/>
+
+<topleft>1848.</topleft>
+<topmidle>
+Beretning om Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 87.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Tre og tredivte Møde.<lb/>
+(Stuttet.)<lb/>
+</btitle>
+<p>
+<speaker>Bregendahl:</speaker> Hertil skal jeg blot svare, at såvidt jeg erindrer, har dette Punkt ikke været specielt gjort til Gjenstand for Forhandling i Udvalget, men jeg antager imidlertid, at Udtrykkene naturligst måe forståes således, at når Krig indtræder, må Udsættelsen ophøre, og det kan man sige, ligger også i selve Ordene, når<lb/>
+det hedder, at han erholder Udsættelse med at behandles til Udskrivning for eet eller flere År indtil hans 25de År; det er her ikke sagt,<lb/>
+at det specielt er Meddelelsen af Udsættelsen, som Udtrykket „Fredstid“<lb/>
+skal referere sig til. Heraf følger vel, at det kun er i Fredstid, at en<lb/>
+sådan Udsættelse indrømmes, men når Freden ophører, så må<lb/>
+Udsættelsen også ophøre. Jeg skal i Anledning af § 16 bemærke,<lb/>
+at også Udvalget har været opmærksom på den Fluctuation i Udskrivningsmassen, der kunde bevirkes ved Bestemmesen i § 16, ikke<lb/>
+blot på Grund af tilfældige Omstændigheder, men også på<lb/>
+Grund af ganske naturlige Forhold, således som også den ærede<lb/>
+Rigsdagsmand for Kjøbenhavns 3die District (Ørsted) har bemærket, navntig de Forhold, der fandt Sted i 1832, nemlig det betydeligt ringere Antal Fødseler, der vil bevirke, at der i Året 1854 vil<lb/>
+være Færre i Udskrivingsalderen, og at der følgeligen da vil være en <lb/>
+mindre Udskrivningsmasse; men denne Forskjel er imidlertid ikke af nogen<lb/>
+særdeles Betydning, og man har troet, at de Omstændigheder, der<lb/>
+kunne bevirke en større etter mindre Fluctuation, nogenlunde vilde<lb/>
+hæve hinanden, og navnlig at Fluctuationen ikke vilde blive særdeles<lb/>
+stor, da det altid vil være en langt større Gene for Mange med det<lb/>
+24de eller 25de År at forrette Garnisonstjeneste end med det 22de;<lb/>
+og når først de første 3 År ere gåede, har man troet, at Forholdene<lb/>
+nok vilde udjævne sig, og at Virkningen af Fluctuationerne ikke vilde<lb/>
+være så følelig. Det kan ikke nægtes, at i de første 3 År kan<lb/>
+det nok være, at denne Ret til Udsættelse af Udskrivningen kan<lb/>
+fåe nogen Indflydelse på Udskrivningsmassens Størrelse; men det<lb/>
+er dog af de Omstændigheder, der ikke kunne tillægges nogen synderlig Vægt, og som det vil være forbunden med særdeles Vanskelighed<lb/>
+at kunne fåe bortryddede.<lb/>
+</p>
+<p>
+<speaker>Algreen-Ussing:</speaker> I Anledning af sidste Membrum af § 18<lb/>
+skal jeg tillade mig at rette det Spørgsmål til den ærede Ordfører,<lb/>
+om det forudsættes, at den, der har påtaget sig 8 Års stadig Tjeneste i Hæren, kan komme til at udtræde af den Stilling uden egen<lb/>
+Skyld; for det Tilfælde synes det nemlig noget hårdt, at de 4 År,<lb/>
+f. Ex., hvori han havde tjent, ikke skulde komme ham til noget Afdrag<lb/>
+i hans øvrige Tjenestetid. Der blev navnlig i den Afdeling, hvori<lb/>
+jeg er Medlem, opkastet det Spørgsmål, hvorledes det kunde gåe<lb/>
+til, at Een, når han havde påtaget sig 8 Års Tjeneste, kunde<lb/>
+komme til at træde ud af sin Stilling, og hvilke forskjellige Årsager<lb/>
+der derunder kunde ansees indbefattede.<lb/>
+</p>
+<p>
+<speaker>Bregendahl: </speaker> Man har tænkt sig her, at sådan Udtrædelse ikke<lb/>
+vilde skee uden efter Vedkommendes eget Ønske, og det vilde således<lb/>
+almindeligviis være en Dispensation, en Nådesact, om jeg så må<lb/>
+sige, fra de militaire Autoriteters Side, der blev tilstået efter Vedkommendes egen Begjering.<lb/>
+</p>
+<p>
+<speaker>Ørsted: </speaker>Jeg må dog gjøre endnu et Par Bemærkninger.<lb/>
+Det er langtfra ikke en ubetydelig Forskjel, som kan indtræde ved de<lb/>
+af mig berørte Omstændigheder, hvilset også vil fremgåe deraf, at<lb/>
+der i Året 1833 var 4000 flere Fødsler end i 1832. Chancen for<lb/>
+Fritagelse vilde altså i det tilsvarende Udskrivningsår blive meget<lb/>
+</p>
+</leftside>
+<rightside>
+<p>
+større i det ene År end i det Andet, og følgelig vil der også være<lb/>
+en stor Fordeel ved at erholde Udsættelse med Udskrivningen til det<lb/>
+År, hvori Forholdet stiller sig gunstigst; thi det er jo kun af den<lb/>
+hele Folkemængde et ringe Antal, der kan vente at trække et Frilod,<lb/>
+og når der i et År blot f. Ex. var 2000, i et andet År 6000,<lb/>
+altså et tredobbelt så stort Antal, så vilde Forskjellen være såre<lb/>
+ubetydelig.<lb/>
+</p>
+<p>
+Med Hensyn til det Spørgsmål, som er opkastet af en æret<lb/>
+Rigsdagsmand om Følgerne af Udeblivelse Fra Sessionen efter § 16,<lb/>
+sidste Passus, skal jeg bemærke, at jeg rigtignok har forudsat, at når<lb/>
+den Vedkommende senere godtgjorde, at han havde lovligt Forfald til<lb/>
+at udeblive, skulde han heller ikke undergives de deri for Udeblivelse<lb/>
+bestemte Følger; men jeg seer vet, at når dette ikke er udtrykkelig bestemt, kan det medføre practiske Vanskeligheder, og det var derfor vistnok rigtigt, at der blev givet en Bestemmelse desangående.<lb/>
+</p>
+<p>
+Jeg skal endnu bemærke, at hvad Redactionen angåer, havde<lb/>
+jeg tænkt at gjøre en Erindring i Anledning af den sidste Deel af<lb/>
+§ 16; det hedder nemlig „såfremt Nogen“, medens det, da det er<lb/>
+det samme Subject, som tidligere er omtalt, burde hedde „såfremt<lb/>
+han“. Jeg havde ligeledes tænkt at fremsætte en Bemærkning i Anledning af § 18, sidste Membrum, men det er bleven ufornødent ved<lb/>
+hvad der af en æret Deputeret i så Hensende nylig er fremført<lb/>
+Det forekommer mig ikke rimeligt, således som den ærede Ordfører<lb/>
+har meent, at den, der frivillig havde påtaget sig 8 Års stadig<lb/>
+Tjeneste, siden selv skulde ønske sig entlediget på Grund af Forandring i sin Stilling, når han da senere skal gjøre fuld Krigstjeneste.<lb/>
+Jeg finder dette ikke rimeligt, skjøndt jeg, når dette skulde blive<lb/>
+Tilfældet,ikke seer noget videre Ubilligt i, at han da skal gjøre fuld Krigstjeneste.<lb/>
+</p>
+<p>
+<speaker>Lüttichau:</speaker> Jeg troer, at man her bør lægge Mærke til,<lb/>
+at det kun er ganske unge Mennesker, der er Spørgsmål om, unge<lb/>
+Mennesker under 18 År, som i Almindelighed indtræde som Pibere,<lb/>
+Tambourer og deslige, og man kan dog ikke gjøre sådan Tjeneste<lb/>
+gjældende på samme Måde med. Hensyn til dem, som den, der<lb/>
+udføres af dem, der indtræde i Armeen med 22 Års Alderen.<lb/>
+</p>
+<p>
+<speaker>Bregendahl: </speaker>Jeg troer vistnok, at den ærede Taler befinder<lb/>
+sig i en Misforståelse, thi den første Deel af første Passus af § 18<lb/>
+angåer kun dem, der indtræde, efterat de have opnået 18 Års Alderen, hvorimod det Følgende af samme Passus angåer dem, der<lb/>
+indtræde førend det 18 År, men disse kunne ingen Godtgjørelse<lb/>
+erholde for den udførte Tjeneste. De, som ere 18 År gamle, kunne<lb/>
+vistnok endnu saldes unge Mennesker, og ofte ville disse vel også<lb/>
+komme til at gjøre Tjeneste i Hæren i sådanne Stillinger, som den<lb/>
+ærede Taler sigtede til, som Tambourer eller Pibere, og man kan<lb/>
+vel også med Hensyn til det Tilfælde, der omhandles i Paragraphens anden Deel, tænke sig, at sådanne Individer, der have indgået en Capitulation om 8 Års stadig Tjeneste, senere kunne<lb/>
+fåe Afskeed mod deres Villie. Men man kan dog ikke antage, at de<lb/>
+militaire Autoriteter i Almindelighed ville afsedige Nogen mod hans<lb/>
+egen Villie, ialtfald ikke uden at hans Forhold har været et sådant,<lb/>
+at de måtte ønske ham fiernet, eller at han har pådraget sig en<lb/>
+Straf, der måtte udelukke ham Fra Tjenesten; men i så Tilfælde<lb/>
+synes der ikke at være nogen Grund til, at den tidligere Tjeneste<lb/>
+skulde komme ham tilgode, især da han i Almindelighed vil have<lb/>
+havt bedre Conditioner, end den Værnepligtige vilde have erholdt,<lb/>
+når han var bleven udskreven. Han vilde således som oftest have<lb/>
+gjort Underofficeers Tjeneste og derfor oppebåret en høiere Løn end<lb/>
+de Værnepligtige, der udskrives som Menige, og derfor synes der ikke<lb/>
+</p>
+</rightside>
+
+</pb>

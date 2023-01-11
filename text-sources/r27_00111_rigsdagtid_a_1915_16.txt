@@ -1,0 +1,74 @@
+2861
+<pb n="111" />
+<h>
+<coll>
+2861
+</coll>
+<topmidle>
+F. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2862
+</colr>
+</h>
+<wtitle>§ 482.</wtitle>
+<p>
+Den, der vil have en Eksekution foretaget, skal for Fogeden fremsætte sin<lb />
+Begæring herom, ledsaget af Udskrift af Dommen, Kendelsen eller Forliget eller af det<lb />
+originale Pantebrev eller Bodmeribrev, ligesom han ogsaa ved samme Lejlighed har at<lb />
+meddele alle de Oplysninger, som i øvrigt maatte være fornødne, for at Fogeden kan<lb />
+tage Bestemmelse om Forretningens Berammelse.
+</p>
+<p>
+Begæringen skal, hvis Fordringen, bortset fra Sagsomkostninger og Renter,<lb />
+der er paaløbet siden Sagens Begyndelse, overstiger 300 Kroners Værdi, være<lb />
+skriftlig. I andet Fald kan den fremsættes mundtlig for Fogeden, som da har at tage<lb />
+den til Fogedbogen.
+</p>
+<p>
+Eksekution kan begæres under eet hos samme Skyldner efter forskellige Ekseku-<lb />
+tionsgrundlag.
+</p>
+<wtitle>§ 483.</wtitle>
+<p>
+Dommen eller Kendelsen maa være udfærdiget i lovmæssig Form. Er dette Til-<lb />
+fældet, vedkommer det ikke Fogeden at undersøge eller afgøre, om Dommen eller<lb />
+Kendelsen maatte lide af saadanne Fejl eller Mangler, som kunde medføre en anden<lb />
+Afgørelse efter Anke eller Kære. Kun hvis Dommen eller Kendelsen ikke er udgaaet<lb />
+fra en lovlig bestaaende Domstol eller nogen til at afsige eksigible Dekreter beføjet<lb />
+Myndighed, eller den ikke ifølge sit Indhold kan fuldbyrdes, har Fogeden at nægte<lb />
+Eksekution.
+</p>
+<wtitle>§ 484.</wtitle>
+<p>
+Under Eksekutionen af Forlig har Fogeden at paakende alle Indsigelser mod<lb />
+Forligets Gyldighed, dog, hvad Retsforlig angaar, kun for saa vidt Fogedens Kendelse<lb />
+ikke vilde indeholde en Bedømmelse af Rettens Handlinger.
+</p>
+<p>
+Er den ved Forliget hjemlede Fordring knyttet til en Betingelse eller en Tids-<lb />
+frist eller afhængig af Erlæggelse af en Modydelse, maa det ved Forligets eget Ind-<lb />
+hold eller ved andre offentlige Dokumenter eller ved Skyldnerens egen Indrømmelse<lb />
+være givet, at Betingelsen er indtraadt eller Tidsfristen udløbet, eller at Forligshaveren<lb />
+fra sin Side har erlagt Modydelsen, for saa vidt ikke lovligt Tilbud herom fremkommer<lb />
+under selve Forretningen og da endnu kan betimelig fremsættes.
+</p>
+<wtitle>§ 485.</wtitle>
+<p>
+De i foregaaende Paragraf med Hensyn til Forlig opstillede Grundsætninger<lb />
+finder ogsaa Anvendelse paa de i § 478 Nr. 3 nævnte Pantebreve og de i § 478 Nr. 4<lb />
+nævnte Bodmeribreve.
+</p>
+<wtitle>§ 486.</wtitle>
+<p>
+Den. der forlanger Eksekution efter en udenlandsk Dom eller Kendelse, maa<lb />
+samtidig med Begæringen herom forelægge Fogeden de Oplysninger, som udkræves<lb />
+efter § 479.
+</p>
+<wtitle>§ 487.</wtitle>
+<p>
+Domme kan fuldbyrdes, naar Fuldbyrdelsesfristen er udløbet, uden at lovlig<lb />
+Anke er blevet iværksat ved Ankestævnings Indlevering til Berammelse inden denne<lb />
+Frists Udløb. Fuldbyrdelsesfristen, der regnes fra Dommens Afsigelse eller, jfr. § 219,<lb />
+3die Stykke, fra dens Forkyndelse, er ved alle Retter 15 Dage.
+</p>

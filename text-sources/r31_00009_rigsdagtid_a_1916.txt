@@ -1,0 +1,66 @@
+425
+<pb n="9" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>425</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 29.</wtitle>
+<p>
+Retsmøderne er offentlige, hvor ikke det modsatte særlig er foreskrevet. Dog<lb />
+kan Retten undtagelsesvis på Begæring af en Part eller i Embeds Medfør beslutte,<lb />
+at Forhandlingen skal foregå for lukkede Døre, når Hensyn til Sædeligheden eller<lb />
+Orden og Ro i Retslokalet kræver det. Det samme gælder i borgerlige Sager, når<lb />
+offentlig Forhandling vilde tilføje nogen en ufornøden Krænkelse, og i Straffesager,<lb />
+når Statens Forhold til fremmede Magter kræver det, samt med Hensyn til Retshandlinger, som finder Sted udenfor Domsforhandling, når særegne Omstændigheder<lb />
+giver Grund til at antage, at Retsmødets Offentlighed vil være til Hinder for Sagens<lb />
+Oplysning, eller det begæres af Værgen for en Sigtet under 18 År. Domme afsiges<lb />
+stedse i offentligt Møde.
+</p>
+<wtitle>§ 30.</wtitle>
+<p>
+Rettens Beslutning om, at Dørene skal lukkes, sker ved Kendelse, efter at<lb />
+Parterne har haft Lejlighed til at udtale sig. Kendelsen, der i borgerlige Sager ikke<lb />
+er Genstand for Kære, afsiges offentligt; om Dørene skal lukkes under den forudgående Forhandling, afgør Rettens Formand.
+</p>
+<p>
+Beslutning om, at Dørene skal lukkes, kan træffes såvel ved Forhandlingens<lb />
+Begyndelse som i Løbet af denne; den kan straks eller senere indskrænkes til en Del<lb />
+af Forhandlingen.
+</p>
+<wtitle>§ 31.</wtitle>
+<p>
+Når Domsforhandlingen i en Straffesag holdes for lukkede Døre, har de ved<lb />
+den påtalte Handling forurettede Personer, fremdeles Dommere, Øvrighedspersoner,<lb />
+offentlige Anklagere, Sagførere samt de, der er indkaldte som Nævninger til det pågældende Ting, Adgang til at overvære samme; endvidere kan der af Rettens Formand tilstedes enkelte andre Adgang. Om de Forhandlinger, der af Hensyn til Statens Forhold til fremmede Magter eller til Sædeligheden finder Sted for lukkede Døre,<lb />
+må der ikke af de nævnte Personer gives Meddelelse til nogen, hvem Adgang til at<lb />
+overvære dem ikke har været tilstedet. Ej heller må offentlig Gengivelse af sådanne Forhandlinger i noget Tilfælde finde Sted. Overtrædelse heraf straffes med<lb />
+Bøder fra 100 til 1,000 Kr.
+</p>
+<p>
+Hvorvidt der i borgerlige Sager, i hvilke Forhandling finder Sted for lukkede<lb />
+Døre, kan tilstedes enkelte Personer, som ikke har med Sagen at gøre, Adgang,<lb />
+beror på Rettens Formand. Det samme gælder, når i en Straffesag Retshandlinger<lb />
+udenfor Domsforhandling foregår for lukkede Døre. Bestemmelserne i 1ste Stykke,<lb />
+2det—4de Punktum, om Forhandlinger, der af Hensyn til Statens Forhold til fremmede<lb />
+Magter eller til Sædeligheden holdes for lukkede Døre, finder tilsvarende Anvendelse<lb />
+ved de her nævnte Forhandlinger.
+</p>
+<wtitle>§ 32.</wtitle>
+<p>
+Adgang til offentligt Retsmøde kan nægtes Personer under 18 År samt enhver, der fremstiller sig i en sådan Tilstand, at hans Nærværelse vilde stride mod<lb />
+Rettens Værdighed eller god Orden, i Straffesager desuden Personer, der for Vold<lb />
+eller for nogen i den offentlige Mening vanærende Handling har været straffede med<lb />
+offentligt Arbejde, Fængsel på Vand og Brød, Fængsel på sædvanlig Fangekost<lb />
+eller Tvangsarbejde uden senere at have fået Æresoprejsning. Rettens Formand kan<lb />
+under enhver Omstændighed for at hindre, at Rummet overfyldes, begrænse Antallet<lb />
+af de Personer, der indlades.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.	58
+</title>

@@ -1,0 +1,51 @@
+3465
+<pb n="51" />
+<h>
+<coll>3465</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3466</colr>
+</h>
+<p>Naar Oplæsning skal sinde Sted, foregaar den enten ved Parten selv eller ved<lb />
+Protokolføreren efter Formandens Bestemmelse.</p>
+<wtitle>§ 92.</wtitle>
+<p>Retssproget er dansk. Ingen skriftlig eller mundtlig Henvendelse fra Parterne til<lb />
+hinanden eller til Retten maa ske i noget andet Sprog. afhorelse af Personer, der ikke ere<lb />
+det danske Sprog mægtige, foregaar ved Hjcrlp af en edsvoren Tolk; dog kan ved Underretterne<lb />
+Tilkaldelse af Tolk undlades, naar Parterne ikke gjøre Fordring herpaa. og Retten tiltror sig<lb />
+fornødent Kjendskab til det fremmede Sprog.</p>
+<p>Dokumenter, der ere afsattede i fremmede Sprog, maa ledsages af en Oversættelse,<lb />
+der skal være autoriseret af en offentlig anjat Translateur, medmindre Parterne anerkjende<lb />
+dens Rigtighed.</p>
+<p>Forhandling med og Afhorelse af Dove, Stumme og Dovstumme foregaar enten ved<lb />
+Hjcrlp af Personer, der ere kyndige i Tegnsproget, og som forud tages i Ed, eller ved skrift-<lb />
+lige spørgsmaal og Svar.</p>
+<wtitle>§ 93.</wtitle>
+<p>Rettens Formand leder de mundtlige Forhandlinger. Han giver Parterne Ordet i<lb />
+den Orden, hvori disse have at ytre sig, og han slutter Forhandlingerne, naar han anser de<lb />
+foreliggende Wmne for tilstrcrkkeligen droftet. Ordet kan fratages den Part, som ikke vil rette<lb />
+sig efter Formandens Ledelse, og han maa da boere det Tab, som kan følge heraf.</p>
+<wtitle>§ 94.</wtitle>
+<p>Enhver af Parterne er pligtig bestemt og utvetydigt at angive de Kjendsgjerninger,<lb />
+paa hvilke han ftotter sine Paastande, saavelsom bestemt og utvetydigt at erklære sig over de<lb />
+af Modparten anfsrte Kjendsgjerninger.</p>
+<p>Om en ikke særskilt og udtrykkeligt benlægtet Kjendsgjerning skal anfes for indrsmmet<lb />
+eller bestridt, afgjor Retten efter et skjøn over Forhandlingerne i det Hele.</p>
+<wtitle>§ 95.</wtitle>
+<p>Retten skal ved hensigtsmæssige spørgsmaal til Parterne søge at fjerne Uklarhed,<lb />
+Tvetydighed eller Ufuldstcrndighed i Fremstillingen as Sagen og i andre afgivne Erklæringer<lb />
+og Oplysninger.</p>
+<p>Det er endvidere Retten tilladt at stille spørgsmaal til Parterne, forsaavidt dette er<lb />
+fonwdent, for at deres Fremstilling af Sagen fuldstændig kan forstaas, eller d? fornødne<lb />
+Bestemmelser om Processens Gang, derunder Bevisets Forelse, kunne træffes.</p>
+<p>Saavel Rettens Formand som dens enkelte medlemmer kunne stille spørgsmaal.</p>
+<wtitle>§ 96.</wtitle>
+<p>Retten kan efter Modpartens Paastand indkalde en Part til personligt møde for at<lb />
+besvare Spørgsmaal sigtende til Sagens Oplysning.</p>
+<p>Er Parten syg eller paa anden Maade forhindret i at mode, eller vilde hans Frem«<lb />
+stilling for den Ret, hvor Sagen forhandles, medføre uforholdsmcrssige Omkostninger eller<lb />
+anden Ulempe, kan Retten, forsaavidt Parten befinder sig indenfor Landets Grænser, bestemme,<lb />
+at han skal afhores ved Underretten paa det Sted, hvor han opholder sig, over bestemt op-<lb />
+givne spørgsmaal, der ikke i Forreien maa meddeles ham; disse afsattes skriftligt af Retten<lb />
+eller af Modparten under Rettens Tilsyn og tilstilles derefter vedkommende Underret. Mod-<lb />
+Parten er berettiget til at give møde ved Afhoringen, om hvis Foretagelse han derfor skal<lb />
+nderrettes, og fremsætte yderligere spørgsmaal.</p>

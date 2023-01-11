@@ -1,0 +1,74 @@
+339
+<pb n="345" />
+<leftside>
+<p>men  Spørgsmålets   Afgjørelse   må   aldeles<lb />
+afhænge af den enkelte Sags og de enkelte Votas<lb />
+Beskaffenhed; for enkelte af de praktisk vigtigste<lb />
+Kombinationer opstilles der undertiden Lovregler, f. Er. når  det  føreskrives,  at de,   der,<lb />
+hvor Tvivl hersker om en Kondemnations Beløb, ville tilsjende det større Beløb, også må<lb />
+antages at ville  tilkjende   det  mindre Beløb<lb />
+og    derfor   kunne   samnunregnes   med   dem,<lb />
+hvis Vota lyde herpå, eller når det bestemmes, at ved Straffes Fastsættelse blive de for<lb />
+den   Sigtede   ugunstigske  Stemmer   at  regne<lb />
+sammen med de nærmest mindre ugunstige, indtil der  udkommer Stemmeflerhed.     Men ved<lb />
+slige Regler vindes Intet til Afgjørelsen af de<lb />
+virkelig vanskelige Tilfælde: de indeholde i Reglen kun, hvad Ingen tvivler m.    Det  næste<lb />
+Punkt, hvorom der navnlig bliver Spørgsmål,<lb />
+når Stemmeflerhed ikke kan udfindes ved en sådan   Sammenregning   af   forskjelligt   lydende<lb />
+Vota, er, om en subsidiær Votering skal finde<lb />
+Sted, og således en sukcessiv Afstemning over<lb />
+de enkelte Momenter  i Sagen føretages,   for<lb />
+ad   denne Vei at   tilvejebringe   en   Stemmeflerhed.    Overfor   den Tvivl, som  navnlig   i<lb />
+vor   Litteratur   har    været   opkastet   i   dette<lb />
+Spørgsmål,   jfr.   Bang og  Larfens   Procesmåde   §  168,   har  Lovforslaget   i Overeenstemmelse med mange nyere Love, f. Ex. würtembergsk Proceslov § 366. baiersk Proceslov<lb />
+§ 272, hannoveransk Proceslov § 350 o. fl.,<lb />
+anset det for rigtigt udtrykkeligt at udtale, at Dommerne ikke kunne vægre sig ved subsidiær Votering<lb />
+(K 280).    Den Grund, som er anført imod<lb />
+Dommernes Forpligtelse  til   at   afgive subsidiære Vota,   nemlig   at der på den Måde <lb />
+øvedes Samvittighedstvang imod dem, er vistnok uden Betydning.    Den, der efter at have<lb />
+stemt   for,   at   det Skyldgrunden   udgjørende<lb />
+Faktum ikke er  bevist, nodes til,   fordi Flertallet   anser   det   for  bevist,    at stemme om,<lb />
+hvilke   juridiske   Virkninger   bemeldte  Faktum<lb />
+stal have, underkastes ingen Samvittighedstvang.<lb />
+Han tvinges ikke til at forandre sin Mening, om<lb />
+Faktum  er bevist   eller  ikke,   men han nodes<lb />
+kun til at votere i Sagen på samme Måde,<lb />
+som om Parterne  vare blevne enige om,   at<lb />
+Faktum stulde ansees for at være bevist, skjønt<lb />
+dette måske   ikke  er Tilfældet, eller på an</p>
+</leftside>
+<rightside>
+<p>den Måde Proceduren havde  medført Nodvendigheden af at gå ud  fra denne,   måske<lb />
+i   sig    objektiv   urigtige   Forudsætning.     Fra<lb />
+dette Synspunkt kan  den subsidiære Votering<lb />
+i al Fald ikke  i civile Sager angribes.   Men<lb />
+særligt   bor fremhæves,    at   den   endog   med<lb />
+Nødvendighed   følger  af  Udkastets   hele   System.    Sagens Formalitet skal ved Landsretterne påkjendes særskilt   og afsondret fra Realiteten.    Men ere flere Formalitetsindsigelser<lb />
+fremsatte, beror det på Retten, om de skulle<lb />
+optages  til   særskilt Påkjendelse   efter hinanden,  i hvilket Tilfælde Dommerne selvfølgelig<lb />
+alle hver Gang må votere,  eller om de skulle<lb />
+påkjendes under Det, og dersom denne sidste<lb />
+Fremgangsmåde vælges,   kan  der   da   åbenbart Intet være i Vejen for subsidiær Votering  om de enkelte Indsigelser.    Men  også<lb />
+på Realitetesprocedurens Område komme efter Udkastets System  lignende   Betragtninger<lb />
+frem.   Thi Sagens Realitet kan deles, og de<lb />
+enkelte Momenter i samme efter Rettens skjøn<lb />
+behandles og påkjendes færskilt.     Sker dette,<lb />
+må samtlige Dommere selvfølgelig  deltage i<lb />
+alle de Kjendelser, der successivt afsiges.   Men<lb />
+når så er,   synes   det   at  måtte   være en<lb />
+Selvfølge, at de også må, dersom Realitetssporgsmålene  påkjendes   under   Eet,   votere<lb />
+subsidiært om de enkelte Punkter.     En Undtagelse fra det Anførte må dog anerkjendes i<lb />
+Straffeprocessen, forsåvidt som det er almindelig   indset,    at Skyldspørgsmålet ikke   kan<lb />
+deles.</p>
+<p>Endnu skal med Hensyn til §§ 275—<lb />
+281 den Bemærkning gjøres, at Udkastet<lb />
+(§ 276) bestemmer, at Retten altid skal beklædes af fem Medlemmer, men at der heller<lb />
+ikke må være flere (undtagen som Suppleanter). Foruden at det nemlig er hensigtsmæssigt, at Antallet altid er ulige, synes det<lb />
+urigtigt, at Tilfældigheder eller Formandens<lb />
+Godtbefindende skal afgjøre, om der i en Sag<lb />
+skal være flere eller færre Dommere. At<lb />
+Retten og ikke Formanden alene, når der<lb />
+opstår Uenighed om, hvorledes Afstemningspunkterne skulle opstilles, såvelsom om Af><lb />
+stemningens Resultat, har at afgjøre Spørgsmålet,   er  indlysende (§278  2det Stykke).</p>
+<p>I § 282 omhandles Dommens Affattelse</p>
+</rightside>

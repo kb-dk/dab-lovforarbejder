@@ -1,0 +1,70 @@
+2191
+<pb n="22" />
+<h>
+<coll>2191</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2192</colr>
+</h>
+<wtitle>§ 110.</wtitle>
+<p>
+Retten kan til enhver Tid i Embeds Medfør eller ifølge Begæring berigtige<lb/>
+Skrivfejl, som ere indløbne i Henseende til Ord, Navne eller Tal, blotte Regnefejl<lb/>
+samt saadanne Fejl og Forglemmelser, som alene vedrøre Udfærdigelsens Form. Frem-<lb/>
+deles kan den ogsaa, naar Begæring derom fra en Part fremkommer inden Anke-<lb/>
+fristens Udløb, og efter at der er givet Parterne Lejlighed til at ytre sig derom, be-<lb/>
+rigtige den i Afgørelsen indeholdte Fremstilling af Parternes mundtlige Angivelser og<lb/>
+Ytringer, for saa vidt denne erkendes at lide af Fejl, bestaaende i Forbigaaelser,<lb/>
+Uklarheder eller Modsigelser, men derimod ikke i øvrigt foretage Forandringer enten<lb/>
+i Begrundelsen eller Resultatet. Beslutning angaaende slige Berigtigelser træffes, og<lb/>
+Meddelelse om dem sker efter de samme Regler, som gælde for den oprindelige<lb/>
+Afgørelse.
+</p>
+<p>
+Den i Henhold til Rettens Beslutning berigtigede Afgørelse træder i alle Hen-<lb/>
+seender i Stedet for den oprindelige. Beslutningen angaaende Berigtigelse er ikke<lb/>
+Genstand for Anke eller Kære.
+</p>
+<wtitle>§ 111.</wtitle>
+<p>
+Beslutninger af Retten eller dens Formand, der ikke behøve at begrundes,<lb/>
+saavel som Kendelser af blot procesledende Beskaffenhed kunne omgøres, naar ny Op-<lb/>
+lysninger foreligge.
+</p>
+<title>Kapitel XI.</title>
+<undertitle>
+Procesomkostninger og Rettergangsbøder.
+</undertitle>
+<wtitle>§ 112.</wtitle>
+<p>
+Enhver Part har at betale de Omkostninger, som foranlediges ved processuelle<lb/>
+Skridt, der af ham begæres eller sættes i Bevægelse, dog med Forbehold af Ret til at<lb/>
+faa dem erstattede af Modparten ifølge nedenstaaende Regler.
+</p>
+<p>
+Omkostningerne ved processuelle Skridt, som Retten anordner, kunne foreløbig<lb/>
+kræves betalte enten af den Part, i hvis Interesse Retten anser det foretagne at være,<lb/>
+eller af begge Parter i det Forhold, som Retten bestemmer.
+</p>
+<wtitle>§ 113.</wtitle>
+<p>
+Den tabende Part er pligtig at erstatte Modparten de ham ved Retssagen paa-<lb/>
+førte Udgifter, for saa vidt Parterne ikke selv have truffet en anden Overenskomst,<lb/>
+eller Retten i særlige Omstændigheder finder skellig Grund til at gøre Afvigelse fra<lb/>
+denne Regel.
+</p>
+<p>
+Udgifter, der ikke have været hensigtsmæssige for Sagens forsvarlige Udførelse,<lb/>
+erstattes ikke. Hvilke Udgifter der i det givne Tilfælde have været hensigtsmæssige,<lb/>
+afgør Retten efter sit Skøn. Beløbet ansættes under et til en rund Sum, saaledes at<lb/>
+de virkelige Udgifter saa vidt muligt erstattes fuldt ud.
+</p>
+<p>
+Den Omstændighed, at enkelte Søgsmaalsgrunde eller Indsigelser forkastes eller<lb/>
+enkelte Beviser anses ikke at oplyse noget i Sagen, medfører ikke i og for sig, at de<lb/>
+herpaa anvendte Udgifter skulle som ikke fornødne udelukkes fra Erstatning.
+</p>
+<p>
+Naar en Sag hæves, kan Retten efter Omstændighederne paalægge den ene<lb/>
+Part helt eller delvis at erstatte Modparten dennes Sagsomkostninger eller bestemme,<lb/>
+at hver af Parterne skal bære sine Omkostninger (ophæve Omkostningerne).
+</p>

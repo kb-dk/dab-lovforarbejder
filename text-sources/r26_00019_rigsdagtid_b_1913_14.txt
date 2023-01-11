@@ -1,0 +1,102 @@
+2837
+<pb n="19" />
+<h>
+<coll>2837</coll>
+<topmidle>
+Bet. o. Lovf. om	Rettens Pleje m. m.
+</topmidle>
+<colr>2838</colr>
+</h>
+<title>
+Bornholm.
+</title>
+<p>
+18.	Rønne Købstad, Vester Herred, Hasle Købstad, Nordre Herred, Hammershus<lb />
+Birk, Svaneke Købstad, Øster Herred, Christiansø, Neksø Købstad, Sønder Herred<lb />
+samt Aakirkeby Købstad.
+</p>
+<title>
+Lolland-Falster.
+</title>
+<p>
+19.	Nykøbing F. Købstad og Herred, Stubbekøbing Købstad og Herred samt Falster<lb />
+Vester Herred.
+</p>
+<p>
+20.	Sakskøbing Købstad, Musse Herred, Nysted Købstad og Birk.
+</p>
+<p>
+21.	Maribo Købstad og Birk, Rødby Købstad og Fuglse Herred samt Fejø Birk.
+</p>
+<p>
+22.	Nakskov Købstad med Lollands Nørre samt Sønder Herreder.
+</p>
+<title>
+Fyn.
+</title>
+<p>
+23.	Nyborg Købstad med Vinding Herred.
+</p>
+<p>
+24.	Svendborg Købstad og Thorseng Birk med Sunds-Gudme Herreder.
+</p>
+<p>
+25.	Ærøskøbing Købstad og Ærø Herred med Rudkøbing Købstad og Langelands<lb />
+Herreder.
+</p>
+<p>
+26.	Faaborg Købstad, Salling Herred, Muckadell, Holstenshus og Brahetrolle-<lb />
+borg Birker.
+</p>
+<p>
+27.	Odense Købstad med Odense Skt. Hans Sogns Landdistrikt.
+</p>
+<p>
+28.	Odense Herred (undtagen Odense Skt. Hans Sogns Landdistrikt) med Nørre Søby,<lb />
+Nørre Lyndelse, Sønder Næraa og Højby Sogne af Aasum Herred.
+</p>
+<p>
+29.	Kerteminde Købstad og Hindsholm Herred med Bjerge-Aasum Herreder (und-<lb />
+tagen de 4 under Nr. 28 angivne Sogne af Aasum Herred).
+</p>
+<p>
+30.	Bogense Købstad og Skovby Herred med Lunde-Skam Herreder og Grevskabet<lb />
+Roepstorffs Birk.
+</p>
+<p>
+31.	Assens Købstad og Baag Herred med Kerte, Barløse, Sandager og Tanderup<lb />
+Sogne af Wedellsborg Birk.
+</p>
+<p>
+32.	Middelfart Købstad og Vends Herred med Resten af Wedellsborg Birk.
+</p>
+<title>
+Jylland.
+</title>
+<p>
+33. Fredericia Købstad, Elbo, Brusk og Holmans Herreder.
+</p>
+<p>
+34. Kolding Købstad, Kolding Herred, Jerlev, Andst og Slaugs Herreder.<lb />
+35. Vejle Købstad med Nørvang-Tørrild Herreder.
+</p>
+<p>
+36.	Horsens Købstad, Bjerre og Hatting Herreder.
+</p>
+<p>
+37.	Voer og Nim Herreder samt Stensballegaard Birk med Tyrsting og Vrads<lb />
+ Herreder.
+</p>
+<p>
+38.	Silkeborg Købstad, Silkeborg Birk, Skanderborg Købstad og Hjelmslev-Gjern<lb />
+Herreder.
+</p>
+<p>
+39.	Hasle, Vester Lisbjerg, Framlev og Sabro Herreder, Frijsenborg-Faurskov Birk.
+</p>
+<p>
+40.	Ning Herred og Hads Herred.
+</p>
+<p>
+41.	Aarhus Købstad.
+</p>

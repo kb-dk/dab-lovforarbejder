@@ -1,0 +1,39 @@
+74
+<pb n="80" />
+<h>
+<topmidle>74      Kap, XVIII. Behandl. ved Landsret.</topmidle>
+</h>
+<wtitle>§ 209.</wtitle>
+<p>Anser en Part Modpartens Udtalelser om<lb />
+Sagens Sammenhæng for at lide af Uklarhed<lb />
+eller andre Mangler, som ikke efter hans<lb />
+Opfordring ere afhjulpne under Skriftvekslingen, blider i det i § 207 omhandlede<lb />
+Møde eller efter Omstændighederne i et<lb />
+nyt af Retten berammet Møde Skriftvekslingens Resultat på de omspurgte<lb />
+Punkter at faststå i en Tilførsel til Retsbogen, efter at der har været givet Parterne<lb />
+Lejlighed til mundtligt at udtale sig, eller<lb />
+om fornødent ved Rettens Kendelse.</p>
+<p>Udebliver den Part, der har rejst Spørgsmålet, fra Forhandlingen, bortfalder denne.<lb />
+Udebliver den anden Part, eller nægter han<lb />
+at svare, anses Skriftvekslingen på de omspurgte Punkter at skulle forstås, som af<lb />
+Modparten angives, forsåvidt dette ikke strider mod det øvrige Indhold af Skriftvekslingen.</p>
+<wtitle>§ 210.</wtitle>
+<p>Når en Part, efter at Skriftvekslingen<lb />
+er sluttet, uden Modpartens Samtykke ønsker<lb />
+at forandre eller udvide sine Påstande eller<lb />
+at fremføre nye Anbringender, kan han i<lb />
+den Anledning begære et Retsmøde berammet, såfremt dette kan sinde Sted inden<lb />
+Domsforhandlingen. Mindst 3 Dage inden<lb />
+Mødet skal han skriftlig meddele Modparten,<lb />
+hvad han agter at fremkomme med, og hvorfor det først nu fremkommer, samt underrette<lb />
+ham om Retsmødet. I dette afgør Retten,<lb />
+om det efter Omstændighederne, og navnlig<lb />
+fordi det sindes undskyldeligt, at Parten<lb />
+ikke tidligere har fremsat sine nye Påstande<lb />
+eller Anbringender, kan tilstedes ham at<lb />
+fremføre dem som Tillæg til Skriftvekslingen. I bekræftende Fald fremlægges det<lb />
+omspurgte straks eller tilføres Retsbogen,<lb />
+og der tilstås efter Begæring den fornødne Udsættelse i Anledning af det således fremførte.</p>
+<p>Udebliver den Part, der har begært<lb />
+Mødet, bortfalder Andragendet; udebliver<lb />
+Modparten, anses de for Andragendet påberådte Grunde for beviste.</p>

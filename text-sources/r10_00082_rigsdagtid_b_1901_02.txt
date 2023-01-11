@@ -1,0 +1,144 @@
+2877
+<pb n="82" />
+<h>
+<coll>2877</coll>
+<topmidle>
+Kommissionens Bem. t. Udk. t. L. om den borgerlige Retspleje.
+</topmidle>
+<colr>2878</colr>
+</h>
+<leftside>
+<p>
+end Kære med Hensyn til Domshandlinger.<lb />
+Medens nemlig Kære over en Domstols<lb />
+Kendelser og andre Beslutninger kun kan<lb />
+føre til Forandring af selve den paagæl-<lb />
+dende Kendelse eller Beslutning, men ikke<lb />
+til Annulation af, hvad der maatte være<lb />
+foretaget paa Grundlag af Kendelsen eller<lb />
+Beslutningen, kan man ved Kære med<lb />
+Hensyn til en Fogedforretning eventuelt<lb />
+opnaa en mere eller mindre fuldstændig<lb />
+Annullation af hele denne Forretning.<lb />
+</p>
+<p>
+Hvad i øvrigt den nævnte Sondring<lb />
+angaar, skal bemærkes, at Klager, ved-<lb />
+rørende selve den Fordring eller Ret, om<lb />
+hvis Fuldbyrdelse der er Spørgsmaal,<lb />
+navnlig kunne tænkes at gaa ud paa, at<lb />
+Dommen er opfyldt, at Forliget er op-<lb />
+fyldt eller ved Overenskomst ophævet, at<lb />
+vedkommende Panteobligation eller Bod-<lb />
+meribrev er ugyldigt, at Forfaldstid endnu<lb />
+ikke er kommen o. lign.; fremdeles hører<lb />
+hertil Klage over en af Fogden i Henhold<lb />
+til § 339, 2det Stykke, afsagt Kendelse,<lb />
+hvorved Domhaverens Godtgørelseskrav<lb />
+fastsættes, ligesom der ogsaa til denne<lb />
+Art Klager maa henregnes det Tilfælde,<lb />
+at en Eksekution forlanges annulleret,<lb />
+fordi dens Grundlag er bortfaldet ved<lb />
+Forandring af den Dom eller Annullation<lb />
+af den Dom eller det Forlig, hvorpaa den<lb />
+er bygget.<lb />
+</p>
+<p>
+Paa den anden Side maa til Klager,<lb />
+der gøres gældende ved Kære, henregnes<lb />
+alle Klager over den af Fogden anvendte<lb />
+Fremgangsmaade og over de af Fogden<lb />
+tagne Bestemmelser, der ikke direkte af-<lb />
+gøre noget angaaende selve den Ret eller<lb />
+Fordring, der ligger til Grund for den<lb />
+retslige Forfølgning.<lb />
+</p>
+<p>
+Der er ikke i Udkastet fastsat nogen<lb />
+Ankeværdi (summa appellabilis) for An-<lb />
+vendelsen af Retsmidler imod Fogedforret-<lb />
+ninger. Da nemlig Udkastets Regel, at der<lb />
+ordentligvis ikke kan finde nogen egentlig<lb />
+Bevisførelse Sted under Fogedforretningen,<lb />
+gælder uden Hensyn til Sagens Værdi,<lb />
+kan der ikke retfærdig nægtes Parterne<lb />
+Adgang til ogsaa i Bagatelsager at anvende<lb />
+Retsmidler imod Forretningen. Det maa<lb />
+anses for en  Anomali, at den gældende<lb />
+Ret udelukker Anke, for saa vidt angaar<lb />
+Eksekutionsforretninger foretagne udenfor<lb />
+Kjøbenhavn for Summer under 20 Kr.,<lb />
+uagtet Parterne ogsaa nu i Reglen ville<lb />
+være afskaarne fra at fremkomme med<lb />
+deres Beviser under selve Forretningen.<lb />
+Saavel Anke som Kære sker efter Ud-<lb />
+kastet til Landsretten uden Hensyn til<lb />
+Sagens Værdi; det vilde ikke være hen-<lb />
+sigtsmæssigt i noget Tilfælde at henlægge<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+Afgørelsen til Underretten, da Under-<lb />
+dommer og Foged i Almindelighed vil<lb />
+være samme Person.<lb />
+</p>
+<wtitle>§ 440.</wtitle>
+<p>
+Naar det her tillades at fremsætte<lb />
+ny Paastande under Ankesagen eller<lb />
+Kæremaalet, er derved dog underforstaaet,<lb />
+at Sagens Identitet bevares. — Parternes<lb />
+protokollerede Erklæringer for Fogden<lb />
+angaaende Sagens Sammenhæng maa virke<lb />
+ikke blot som Bevis, men som bindende<lb />
+Proceserklæringer.<lb />
+</p>
+<wtitle>§ 441.</wtitle>
+<p>
+Naar der ifølge det Retsmiddelsystem,<lb />
+Udkastet har fulgt med Hensyn til Foged-<lb />
+forretninger, i større Sager kan ankes fra<lb />
+Fogden til Landsret og derefter til Høje-<lb />
+steret, er det dog, som bemærket i Moti-<lb />
+verne til det tidligere Udkast, mere til-<lb />
+syneladende end virkelig, at der saaledes<lb />
+i disse Sager bevares 3 Instanser, da<lb />
+Fogdens Afgørelser af de Spørgsmaal, som<lb />
+ere Genstand for egentlig Anke (jfr. § 439),<lb />
+som oftest paa Grund af Fogedprocedurens<lb />
+Beskaffenhed ville have en rent foreløbig<lb />
+Karakter, og saaledes en fuldstændig For-<lb />
+handling og endelig Paakendelse af Sagen<lb />
+i Reglen først vil finde Sted ved Lands-<lb />
+retten.<lb />
+</p>
+<title>
+Femte Afsnit.<lb />
+</title>
+<title>
+Kapitel XXXVm.<lb />
+</title>
+<undertitle>
+Udpantning.<lb />
+</undertitle>
+<p>
+Dette Kapitel er næsten uforandret<lb />
+optaget efter det tidligere Forslags 7de Af-<lb />
+snit, 2den Afdeling I. Som Afvigelser er<lb />
+der kun at nævne følgende:<lb />
+</p>
+<p>
+I § 443 har man i Stedet for den<lb />
+vidtløftige Opregning af Udpantningstilfælde<lb />
+indskrænket sig til en Henvisning til § 1<lb />
+i Lov om Udpantning af 29de Marts 1873<lb />
+og senere Love. Dette er særlig sket, fordi<lb />
+det med Hensyn til Love, der ere senere<lb />
+end Udpantningsloven, vil være vanskeligt<lb />
+at afgøre, om de ere selvstændige Bestem-<lb />
+melser eller kun Anvendelse af de almin-<lb />
+delige Regler i bemeldte Lov. Reel Be-<lb />
+tydning har denne Forandring kun for saa
+</p>
+</rightside>

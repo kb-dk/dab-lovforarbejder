@@ -1,0 +1,105 @@
+2323
+<pb n="33" />
+<h>
+<coll>2323</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2324</colr>
+</h>
+<leftside>
+<p>stand for Besværing til Retten, paaklages<lb />
+ved Søgsmaal i første Instans til den<lb />
+Landsret, i hvis Kreds Skiftet er foregaaet."</p>
+<wtitle>Til § 521.</wtitle>
+<p>Af Udvalget undtagen N a n k e :</p>
+<p>511) Paragraffen affattes saaledes:</p>
+<p>„Saadant Søgsmaal maa iværksættes<lb />
+inden 4 Uger efter, at den paagældende<lb />
+Beslutning er tagen.</p>
+<p>Dog kan Justitsministeren efter et af<lb />
+vedkommende Klager indgivet skriftligt<lb />
+Andragende, hvormed de fornødne Oplys-<lb />
+ninger maa følge, undtagelsesvis indtil 1<lb />
+Aar efter Konkursbehandlingens Slutning<lb />
+tilstede Sagens Indbringelse for Retten,<lb />
+naar ganske særegne Omstændigheder<lb />
+retfærdiggøre, at Klageren ikke i rette Tid<lb />
+har iværksat Søgsmaal".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>512) Underændringsforslag til Udval-<lb />
+gets Ændringsforslag Nr. 511.</p>
+<p>Ændringsforslaget ændres til, at Para-<lb />
+graffen affattes saaledes:</p>
+<p>„Saadant Søgsmaal maa iværksættes<lb />
+inden 4 Uger efter Konkursbehandlingens<lb />
+Slutning.</p>
+<p>Dog kan Tilladelse til senere Iværk-<lb />
+sættelse af Søgsmaal indtil et Aar gives<lb />
+efter Reglen i § 508, sidste Stykke".</p>
+<wtitle>Til § 522.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>513) Paragraffen affattes saaledes:</p>
+<p>„Naar en under Konkursbehandlingen<lb />
+forefalden Beslutning af Skifteforvalteren<lb />
+er paaklaget ved Søgsmaal, bliver Boets<lb />
+Behandling ikke desto mindre at fortsætte,<lb />
+men Skifteforvalteren har i saa Fald at<lb />
+drage Omsorg for. at Klagerens Ret ikke<lb />
+foregribes ved Behandlingen, medens Søgs-<lb />
+maalet staar paa. Er der iværksat Søgs-<lb />
+maal i Anledning af den Beslutning, hvor-<lb />
+ved en Akkord stadfæstes, maa Boet ikke<lb />
+forinden Spørgsmaalets endelige Afgørelse<lb />
+udleveres til Skyldneren, medmindre der<lb />
+er draget Omsorg for at sikre den kla-<lb />
+gende.</p>
+</leftside>
+<rightside>
+<p>Den i § 521 Stk. 2 omhandlede Til-<lb />
+ladelse kan undtagelsesvis gives ogsaa her,<lb />
+dog ikke længere end i 6 Maaneder".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>514)	Underændringsforslag til Udval-<lb />
+gets Ændringsforslag Nr. 513.</p>
+<p>Ændringsforslaget ændres til, at Para-<lb />
+graffen affattes saaledes:</p>
+<p>„Besværing til Retten maa iværksæt-<lb />
+tes inden 2 Uger efter, at den paagæl-<lb />
+dende Beslutning er tagen. Tilladelse til<lb />
+senere Iværksættelse af Besværing kan dog<lb />
+gives efter Reglen i § 508, sidste Stykke.</p>
+<p>Er Besværing iværksat, bliver Boets<lb />
+Behandling ikke desto mindre at fortsætte,<lb />
+men Sysselmanden har i saa Fald at drage<lb />
+Omsorg for, at den klagendes Ret ikke<lb />
+foregribes ved Behandlingen, medens Be-<lb />
+sværingen staar paa. Er der iværksat Be-<lb />
+sværing imod den Beslutning, hvorved en<lb />
+Akkord stadfæstes, maa Boet ikke forinden<lb />
+Spørgsmaalets endelige Afgørelse udleveres<lb />
+til Skyldneren, medmindre der drages Om-<lb />
+sorg for at sikre den klagende. Et Besvæ-<lb />
+ringsskrift, der ikke paaberaaber sig nogen<lb />
+af de i Konkurslovens § 139 ommeldte<lb />
+Klagegrunde, hindrer ikke Boets Udleve-<lb />
+ring til Skyldneren".</p>
+<wtitle>Til § 523.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>515)	„Ankestævning" ændres til<lb />
+„Stævning i de fornævnte Søgsmaal".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>516)	Underændringsforslag til Udval-<lb />
+gets Ændringsforslag Nr. 515.</p>
+<p>Ændringsforslaget ændres til, at Para-<lb />
+graffen affattes saaledes:</p>
+<p>„I Tilfælde af Besværing eller Søgs-<lb />
+maal paaliviler det Kurator paa Boets Be-<lb />
+kostning at drage Omsorg for, at der i<lb />
+fornødent Fald tages til Genmæle."</p>
+<wtitle>Til § 524.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>517)	I L. 3 ændres „Skifteretten" til<lb />
+„ Skifteforvalteren ".</p>
+</rightside>

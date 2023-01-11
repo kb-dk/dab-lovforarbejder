@@ -1,0 +1,47 @@
+4071
+<pb n="353" />
+<h>
+<coll>4071</coll>
+<topmidle>Bil. t. Lovs. om Retsafgifter m. m.</topmidle>
+<colr>4072</colr>
+</h>
+<p>Nefindes Nogen mod bedre Vidende at have opgivet værdien urigtig til Skade for Stats-<lb />
+kassen, erlægges Afgiften af den fordulgts Vardi med det dobbelte Beljsb, foruden at Vedkommende<lb />
+ifalder den Straf, som den almindelige Straffelovgivning maatte meofMe.</p>
+<wtitle>§ 5.</wtitle>
+<p>Retterne ere befriede til, dog senest ved Sagens Afslutning, at lade faadanne Afgifter til<lb />
+bagebetale, som uden Skyld fra Parternes Side ere foraarsagede ved urigtig Behandling af Sagen<lb />
+for vedkommende Ret.</p>
+<title>Andet Afsnit.</title>
+<undertitle>Om Retsafgifterne i den borgerlige Retspleie.</undertitle>
+<undertitle>Første Kapitel.</undertitle>
+<undertitle>Om Afgifterne i borgerlige Vomssager.</undertitle>
+<title>I.</title>
+<undertitle>Om Afgifternes Beregning i fyrste Inftants.</undertitle>
+<wtitle>§ 6.</wtitle>
+<p>I Domssager, som angaa Penge eller Penges værd, er den almindelige Retsafgift<lb />
+(Enkeltafgiften):</p>
+<p>1.   Naar Gjenstcmdens værdi ikke er</p>
+<p>over 4n Kr........................................................       1 Kr.</p>
+<p>2.   Naar V.erdien er over</p>
+<p>40 Kr. indtil    100 Kr. inkl..........___..............................    2 —</p>
+<p>3.  —     100—200............................................   4 —</p>
+<p>4.  —     200—300.............................................   6 —</p>
+<p>5.   —     300 - 400.............................................   8 —</p>
+<p>6.   —     400—600___................... ....................   12 —</p>
+<p>7.  —     600—800............................................   16 —</p>
+<p>8.  —     800-IN00 .___.___.................................   20 —</p>
+<p>9.   —    1000 — 1500............................................   25 —</p>
+<p>10.   —    1500—2000............................................  30 —</p>
+<p>11.   —    2000—3000............................................  40 —</p>
+<p>12.     3000-4000..,............... ....................___  50 —</p>
+<p>Er   Gjenstandens   værdi   over   4000   Kr.,   forlMes   Afgiften  med   et   Tillæg   af   5   pro</p>
+<p>Hlilis af de   fsrste 6000 Kr.,   hvormed Værdien   overstiger   4000   Kr.,   og   af 2 pro Mils af det<lb />
+Overskydende.</p>
+<p>Ved Udregningen af dette Tillæg afrundes værdlen til hele Tusinder, saaledes at det, der<lb />
+er under 500 Kr., ikke tommer i Betragtning,  medens 50« Kr. eller derover regnes for 1000 Kr.</p>
+<wtitle>§ 7.</wtitle>
+<p>Ped Fastsættelsen af den værdi, der Icrgges til Grund for Afgiftsberegningen efter for-<lb />
+anstaaende Paragraf, blive Reglerne i Lov om den borgerlige Retspleie §§ 3, 9, 2det Stykke, og<lb />
+10 at følge dog med den Lempelse, at Afslag i eller Nedfceitelse af Paastanden kommer i Betragt-<lb />
+ning ved Beregningen af de Afgifter, som f?rst forfalde,   efterat   Afslaget eller Nedsættelsen er skct.</p>

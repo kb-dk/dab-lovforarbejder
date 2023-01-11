@@ -1,0 +1,134 @@
+2941
+<pb n="734" >
+<p rend="page">734</p>
+<h>
+<coll>2941</coll>
+<colr>2942</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 372.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede og ottende (112te) Møde.<lb />
+(Den endelige Behandling af Grundloven. §§ 30—36.)<lb />
+</stitle>
+<p>
+<law n="35" >§ 35.<lb /></law>
+16) Nr. 178 Linnemanns (subsidiairt Ostermanns) samt Udvalgets Mindretals (David, Hansen, Ussing) Forslag: „Valgene gjælde for 4 Aar. Medlemmerne af Rigsdagen<lb />
+erholde et dagligt Vederlag. "<lb />
+hvilket Forslag imidlertid var frafalden af Linnemann og Ostermann,<lb />
+forkastedes med 77 Stemmer mod 45.<lb />
+<law n="35 b" />§ 35 b.<lb />
+17) Nr. 181. Udvalgets Mindretals (David, Ussing)<lb />
+Forslag:<lb />
+„De nærmere Bestemmelser med Hensyn til Slesvigs, Islands og<lb />
+Færøernes Repræsentation forbeholdes".<lb />
+antoges med 66 Stemmer mod 57.<lb />
+<law n="36" >§ 36.<lb /></law>
+18) Nr. 182. Rée’s og Udvalgets Mindretals (Hansens)<lb />
+Forslag:<lb />
+„Hvergang Rigsdagen, efterat nye Valg over hele Landet har<lb />
+fundet Sted, er sammentraadt, udvælger den blandt sine Medlemmer en Trediedeel, som sammentræder i en særskilt Afdeling,<lb />
+der udgjør Rigsdagens „første Afdeling", de øvrige to Trediedele<lb />
+udgjøre Rigsdagens „anden Afdeling". "<lb />
+forkastedes med 77 Stemmer mod 42.<lb />
+19) Nr. 183. Rée’s Tillæg til Hunderups Forslag: „Enhver<lb />
+Sag behandles selvstændig i hver Afdeling, dog at disse, hvor<lb />
+Enighed ikke tilveiebringes, træde sammen til fælles Raadslagning og Beslutning. Til en saadan Fællesbeslutnings Gyldighed udfordres da ⅔ af Stemmerne. "<lb />
+forkastedes med 81 Stemmer mod 27.<lb />
+20) Nr. 184. Hunderups Forslag, tiltraadt af Comiteens<lb />
+Minoritet (David, Ussing): „Hvergang Rigsdagen,<lb />
+efterat nye Valg over hele Landet have fundet Sted, er<lb />
+sammentraadt, udvælger den en Fjerdedeel af sine Medlemmer,<lb />
+som sammentræder i en særskilt Afdeling, der udgjør Rigsdagens „anden Afdeling"; de øvrige Trefjerdedele Udgjøre<lb />
+Rigsdagens „første Afdeling". " (See Ændringsforslag til<lb />
+<law n="40.)" />§ 40.)<lb />
+forkastedes med 81 Stemmer mod 42.<lb />
+<law n="30" >§ 30.<lb /></law>
+Første Deel:<lb />
+21) Nr. 185. Christensens, Gleerups og Jacobsens subsidiaire Forslag: „Rigsdagen dannes af Folkets Repræsentanter,<lb />
+samlede i eet Kammer. " samt<lb />
+Nr. 186. Udvalgets Mindretals (David, Hansen og<lb />
+Ussing) Forslag: „Rigsdagen dannes af Folkets Repræsentanter" frafaldtes.<lb />
+Anden Deel:<lb />
+22) Nr. 187. Chrisensens, Gleerups og Jacobsens subsidiaire Forslag: Den fremgaaer ved umiddelbare Valg af<lb />
+Folket" frafaldtes.<lb />
+23) Nr. 188. Hovedforslaget, med den efter Afstemningen under Nr. 181 nødvendige Forandring i § 35 b, blev derpaa,<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+efterat der over samme var forlangt Afstemning ved Navneopraab af:<lb />
+</p>
+<p>
+G. Aagaard	P. Pedersen.<lb />
+H. Rasmussen.	Jacobsen.<lb />
+H. C. Johansen.	Høier.<lb />
+Andresen.	J. A. Hansen.<lb />
+Black.	Winther.<lb />
+M. Drewsen.	Olesen.<lb />
+Hage.	Mørk Hansen.<lb />
+Tuxen.<lb />
+</p>
+<p>
+saaledes som det fremgaaer af det Nedenstaaende, med 112 mod 28<lb />
+Stemmer forkastet.<lb />
+</p>
+<p>
+140 Stemmegivende: 28 Ja, 112 Nei — 9 Fraværende,<lb />
+2 stemte ikke.<lb />
+</p>
+<p>
+Nei.<lb />
+</p>
+<p>
+G. Aagaard.	L. Hansen af Bjelkerup.<lb />
+U. Aagaard.	Mørk Hansen.<lb />
+Andresen.	P. Hansen af Abbetved.<lb />
+Barfod.	Hasselbalch.<lb />
+Bjerring.	v. Haven.<lb />
+Black.	Hiort.<lb />
+Bluhme.	Hvidt.<lb />
+Brandt.	Hækkerup.<lb />
+H. B. Bruun.	Høier.<lb />
+M. P. Bruun.	Jacobsen.<lb />
+P. D. Vruun.	Jacobæus.<lb />
+Buchwaldt.	C. M. Jespersen.<lb />
+Buntzen.	F. Jespersen af Bogense.<lb />
+Boisen.	N. F. Jespersen.<lb />
+Cederfeld de Simonsen.	H. C. Johansen af Østrup.<lb />
+Balthazar Christensen.	F. Johannsen af Houby.<lb />
+Georg Christensen.	H. Johansen af Knardrup.<lb />
+H. Christensen.	Sehestedt-Juel.<lb />
+I. Christensen.	Jungersen.<lb />
+Colding.	Kayser.<lb />
+la Cour.	Kirk.<lb />
+Dahl.	Knuth.<lb />
+Dahlerup.	Krieger.<lb />
+David.	Køster.<lb />
+Dinsen.	Chr. Larsen af Dalby.<lb />
+Drewsen af Kjøbenhavn.	Linnemann.<lb />
+Drewsen af Silkeborg.	Madsen.<lb />
+Fibiger.	Mundt.<lb />
+Flor.	Tage Müller.<lb />
+Fløe.	Mynster.<lb />
+Frølund.	C. C. Møller.<lb />
+Funder.	R. R. Møller.<lb />
+Gislason.	Neergaard.<lb />
+Gleerup.	N. H. Nielsen af Løserup.<lb />
+Gregersen.	Nørgaard.<lb />
+Gudmundsson.	Olesen.<lb />
+Hage.	Olrik.<lb />
+Hall.	Ostenfeldt.<lb />
+Hammerich.	Ostermann.<lb />
+J. A. Hansen af Kjøbenhavn.	Otterstrøm.<lb />
+
+</p>
+</rightside>
+
+
+</pb>

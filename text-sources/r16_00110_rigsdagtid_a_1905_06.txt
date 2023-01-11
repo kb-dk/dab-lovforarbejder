@@ -1,0 +1,82 @@
+2123
+<pb n="110" />
+<h>
+<coll>
+2123
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2124
+</colr>
+</h>
+<p>
+Dog behøver Domhaveren ikke at modtage Udlæg i fast Ejendom, naar der<lb />
+kan paavises rørligt Gods eller Fordringer, hvoraf Fyldestgørelse kan faas, saavel<lb />
+som ej heller i Løsøregenstande, hvis Opbevaring eller Realisation maatte være særlig<lb />
+vanskelig, eller i Fordringer, som maa anses for omtvistede eller usikre. Ej heller<lb />
+kan Domhaveren nødes til at søge sin Fyldestgørelse paa anden Maade, naar der kan<lb />
+gives ham Udlæg til Forauktionering. For saa vidt andet Gods kan paavises, behøver<lb />
+han ikke at modtage sekundært Udlæg i Genstande, som i Forvejen ere udlagte til<lb />
+andre, eller hvorover andre have erhvervet Rettigheder, for hvilke Udlægshaveren maa<lb />
+staa tilbage.
+</p>
+<wtitle>§ 485.</wtitle>
+<p>
+Paaviser hverken Domfældte eller nogen paa hans Vegne Genstande, hvori<lb />
+Udlæg kan ske, tilfalder det Domhaveren at udvælge de Genstande, hvori han vil<lb />
+søge Fyldestgørelse.
+</p>
+<p>
+Dog har Fogden herved at paase, at de for Domfældte mest undværlige Gen-<lb />
+stande først udlægges, saa at altsaa en Ejendoms nødvendige Besætning og de til dens<lb />
+Drift uundværlige Avisredskaber saavel som Haandværksredskaber og andre til Dom-<lb />
+fældtes Næringsdrift uomgængelig fornødne Ting ikke udlægges, saa længe andre mere<lb />
+undværlige Genstande forelindes.
+</p>
+<p>
+Gødning saavel som Straa og Hø samt Føde- og Sædekorn, Foderroer, Foder-<lb />
+kartofler og Sukkerroeaffald, for saa vidt til Ejendommens Drift findes fornødent, maa<lb />
+ikke ved Udlæg skilles fra Ejendommen, men bliver at betragte som et Tilbehør til<lb />
+den; ej heller maa Sæd paa Marken omhugges eller anden Afgrøde indhøstes, førend<lb />
+den er moden hertil.
+</p>
+<p>
+Det har endvidere sit Forblivende ved den bestaaende Lovgivnings Bestem-<lb />
+melser om, at de befalede Brandredskaber ej kunne skilles fra Ejendommen.
+</p>
+<wtitle>§ 486.</wtitle>
+<p>
+Naar Fyldestgørelse søges paa den i § 482 omhandlede Maade, har Fogden<lb />
+at overgive Administrationen af vedkommende Ejendom, saa vidt Brugsretten rækker,<lb />
+til en af ham valgt Bestyrer og eventuelt at paalægge Fæstere, Forpagtere, Lejetagere<lb />
+og andre at betale deres Afgifter til denne, samt i øvrigt at iværksætte de Tvangs-<lb />
+foranstaltninger, som ere fornødne, for at Ejendommens Frugter og Indtægter kunne<lb />
+komme Domhaveren til "Nytte.
+</p>
+<p>
+Den af Fogden indsatte Bestyrer aflægger til de af Fogden bestemte Tider<lb />
+til denne Regnskab for Indkomsterne af Ejendommen og afleverer Overskuddet til<lb />
+Fogden efter Fradrag af Driftsudgifter og øvrige Administrationsomkostninger, der-<lb />
+under hans eget Honorar.
+</p>
+<p>
+For saa vidt Ejendommens Bestyrelse maatte give Underskud, hæfter Dom-<lb />
+haveren herfor, og Fogden kan med Hensyn hertil afkræve ham en Sikkerhedsstillelse,<lb />
+naar han anser det fornødent,
+</p>
+<p>
+Naar Domhaveren er bleven dækket for sin Fordring med paaløbne Renter<lb />
+og Omkostninger, overleveres Ejendommen igen til Skyldneren.
+</p>
+<p>
+Alle Spørgsmaal angaaende Ejendommens Bestyrelse, Regnskabsaflæggelsen og<lb />
+den tvungne Administrations Ophør afgøres af Fogden, naar Domhaveren, Skyldne-<lb />
+ren eller andre i Ejendommen interesserede i den Anledning fremføre Klager eller<lb />
+Indsigelser.
+</p>
+<wtitle>§ 487.</wtitle>
+<p>
+Udlæg kan ikke gøres i de for Skyldneren og hans med ham samlevende<lb />
+Hustru og Børn fornødne Senge og Sengklæder samt nødvendigste Linned og Gang-<lb />
+klæder.
+</p>

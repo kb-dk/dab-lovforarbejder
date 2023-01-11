@@ -1,0 +1,35 @@
+115
+<pb n="121" />
+<h>
+<topmidle>Kap. XXIX.    Eksekution.      &nbsp;115</topmidle>
+</h>
+<p>Politiet er pligtigt på Forlangende<lb />
+at understøtte Fogden, dersom han i sine<lb />
+Forretningers Udførelse møder sådan Modstand, som han ikke ved egen og Vidnernes<lb />
+Hjælp tror at kunne overvinde, eller han<lb />
+af andre Grunde begærer Politiets Bistand.</p>
+<wtitle>§ 327.</wtitle>
+<p>Ingen Foged kan foretage Eksekutionsforretninger udenfor sin egen Retskreds,<lb />
+medmindre disse blot ere at anse som Fortsættelse af en i Retskredsen påbegyndt Eksekution, i hvilket Tilfælde han i tilstødende<lb />
+Retskredse er kompetent til at foretage Eksekution i rørligt Gods. Dog er Fogden ikke<lb />
+pligtig at rejse længere end 2 Mile ud<lb />
+over Grænserne af sin Retskreds.</p>
+<wtitle>§ 328.</wtitle>
+<p>Den, der vil have en Eksekution foretaget, skal for Fogden fremsætte sin Begæring herom, ledsaget af Udskrift af Dommen,<lb />
+Kendelsen eller Forliget eller af det originale Pantebrev eller Bodmeribrev, ligesom<lb />
+han også ved samme Lejlighed har at meddele alle de Oplysninger, som iøvrigt måtte<lb />
+være fornødne, for at Fogden kan tage Bestemmelse om Forretningens Berammelse.</p>
+<p>Begæringen skal, hvis Fordringen,<lb />
+bortset fra Procesomkostninger og Renter,<lb />
+der ere påløbne siden Processens Begyndelse, overstiger 400 Kr.s Værdi, være skriftlig.<lb />
+I andet Fald kan den fremsættes mundtlig<lb />
+for Fogden, som da har at tage den til<lb />
+Protokollen.</p>
+<p>Eksekution kan begæres under Et hos<lb />
+samme Skyldner efter forskellige Eksekutionsgrundlag.</p>
+<wtitle>§ 329.</wtitle>
+<p>Dommen eller Kendelsen må være udfærdiget i lovmåssig Form. Er dette Tilfældet, vedkommer det ikke Fogden at undersøge eller afgøre, om Dommen eller<lb />
+Kendelsen måtte lide af sådanne Fejl eller<lb />
+Mangler, som kunde medføre en anden Afgørelse efter Anke eller Kære. Kun hvis<lb />
+Dommen eller Kendelsen ikke er udgået fra<lb />
+en lovlig bestående Domstol eller nogen til</p>

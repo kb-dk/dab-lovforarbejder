@@ -1,0 +1,50 @@
+3657
+<pb n="147" />
+<h>
+<coll>3657</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3658</colr>
+</h>
+<p>Gjeeldsbrev, udfordres derhos, at der paa dette er gjort en Paategning herom, vg naar Arrest<lb />
+er gjort i Fordringer, der ikke grundes paa gjældsbrev, maa der gives Skyldneren efter For-<lb />
+dringen Underretning om Arresten, hvilket ligeledes bliver at iagttage overfor Skyldneren efter<lb />
+et gjældsbrev for Rentebetalingers Vedkommende.</p>
+<wtitle>§ 577.</wtitle>
+<p>Arrestrekvirenten er i Reglen ikke berettiget til at lade de arresterede Gjenstande tage<lb />
+fra Skyldneren. Dog kan Fogden ved Arrest paa rørligt Gods, naar de arresterede Gjen-<lb />
+standes Beskaffenhed eller Skyldnerens person og Forhold opfordre dertil, bestemme, at de<lb />
+arresterede Gjenstande skulle tages under Bevogtning af ham selv eller af Nogen, der hertil<lb />
+af ham beskikkes.</p>
+<wtitle>§ 578.</wtitle>
+<p>Arrest paa Person sker ved Hensættelse i gjældsfængsel ved Fogdens Foranstaltning.<lb />
+Dog har Fogden herved at paafe, at Skyldneren ikke lider paa sin Helbred ved Henforelsen<lb />
+til eller Opholdet i gjældsfængflet; i modsat Fald kan gjældsfængsel enten flet ikke anvendes<lb />
+eller kun med faadanne Lempelser, som Fogden skjønner fornødne.</p>
+<p>I gjældsfængstet maa der ikke paalægges Skyldneren anden Indskrænkning i Hen-<lb />
+seende til hans Levevis, end fængflets Orden med nødvendighed kroever.</p>
+<wtitle>§ 579.</wtitle>
+<p>gjældsfængsel kan ikke anvendes, medmindre en til Fordringens Swrrelse svarende<lb />
+Sikkerhed ikke kan faas ved Arrest paa Gods.</p>
+<wtitle>§ 580.</wtitle>
+<p>Arrest paa Person kan ikke anvendes for Fordringer, der erc mindre end  100 Kr.</p>
+<p>For Fordringer, der ere mindre end 200 Kr., maa fængslingens Varighed ikke over-<lb />
+stige 4 Uger, for Fordringer, der ere mindre end 400 Kr., 8 Uger, for Fordringer, der ere<lb />
+mindre end 1000 Kr., 12 Uger, for Fordringer, der ere mindre end 2000 Kr., 16 Uger.<lb />
+for Fordringer, der ere mindre end 4000 Kr., 20 Uger, for stene Fordringer 24 Uger,<lb />
+hvilket er den længste Tid, Nogen kan holdes i gjældsfængsel.</p>
+<wtitle>§ 581.</wtitle>
+<p>Selv om de i foregaaende Paragraf angivne Tider ikke ere forlobne, ophorer Skyld-<lb />
+nerens fængfling i alle Tilfælde:</p>
+<p>a) saasnart Exekution kan gjores for den Fordring, til Sikkerhed for hvilken Arresten<lb />
+er foretagen, enten ifolge en under. Arrestforfølgningsfagen eller paa anden Maade<lb />
+erhvervet Dom eller ifolge et offentligt Forlig.</p>
+<p>d) saafnart den arresterede Skyldners Bo her i Landet er taget under Konkursbehandling,<lb />
+o) saasnart den arresterede Skyldner  oplyser,   at  han Intet eier,  hverken her i  Landet<lb />
+eller andetsteds, hvori exekution kunde gjores for Fordringen.</p>
+<wtitle>§ 582.</wtitle>
+<p>Den Arresteredes Hensættelse i gjældsfængsel sker paa Rekvirentens Regning. De<lb />
+herved foranledigede Udgifter kunne ikke fordres godtgjorte af Skyldneren.</p>
+<wtitle>§ 583.</wtitle>
+<p>De Udgifter, hvis Udredelse paahviler Rekvirenten ved  gjældsfængsels Anvendelse, ere</p>
+<p>dels Underholdningspenge til Skyldneren, dels Varetægtspenge  til Arrestforvareren.</p>
+<p>Underholdningspengene faftfættes til 8 Kr. om Ugen  i Tiden fra  1ste Mai til 1ste</p>

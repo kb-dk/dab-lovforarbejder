@@ -1,0 +1,52 @@
+3383
+<pb n="10" />
+<h>
+<coll>3383</coll>
+<topmidle>Forsl. t. L. om Ordningen af Domsmagten, den offentlige Anklagemyndighed m. m.</topmidle>
+<colr>3384</colr>
+</h>
+<wtitle>§ 47.</wtitle>
+<p>Overtrædelse af de Dommere efter Lovene paahvilende Pligter paadrager Ansvar til<lb />
+Straf og Er1statning efter de hidtil gjældende Regler. Dog ophæves de af Straffelovens<lb />
+Kap. 13 ikke berorte celdre Straffebestemmelser for Dommere, selv hvor disse ikke paa Grund<lb />
+af Forandringerne i Retsplejen med Nodvendighed bortfalde, saaledes at Strafansvaret her-<lb />
+efter i alle Tilfælde bedommes efter Straffeloven.</p>
+<p>Erstatningsansvar maa som hidtil gjores gjældende ved Paaanke, forsaavidt det ikke<lb />
+efter Loven om Strafferetspleien kan paakjendes i Forbindelse med Spørgsmaal om Straf.<lb />
+forsølgning til Straf iker ved en selvstændig Straffesag. Er Høiere Straf end Boder ei for«<lb />
+fiyldt, kan Straffen dog ogsaa paalægges uden selvstændig Straffesag, dels i Paaanketilfælde,<lb />
+dels udenfor Paaanke i Kraft af Retternes Tilsynsmyndighed, jfr. § 50.</p>
+<wtitle>§ 48.</wtitle>
+<p>Gjor en Dommer sig skyldig i Forsommelse eller Skjsdeslsshed i Embedsførelse, der<lb />
+dog ikke er af en saadan Beskaffenhed, at den ifolge Lovgivningen paadrager Straf, eller ud«<lb />
+viser han Iøvrigt utilborligt eller usømmeligt Forhold, som dog ikke har den i § 49 ommeldte<lb />
+Karakter, paahviler det Formanden for den Ret, af hvilken han er medlem, med Hensyn til<lb />
+Landsretternes Formænd Høiesterets Formand, samt med Hensyn til kjøbenhavns Stadsrets<lb />
+Formand og Dommere ved By- og Herredsretterne vedkommende Landsrets Formand at give<lb />
+fornøden Advarsel eller Irettesættelse. Er Begjæring herom af Justitsministeren rettet til<lb />
+Formanden for en Landsret eller for kjøbenhavns Stadsret, men denne virgrer sig, kan<lb />
+Svorgsmaalet forelægges Hoiesteret til Afgjørelse efter Reglerne i § 51.</p>
+<wtitle>§ 49.</wtitle>
+<p>gjør en Dommer sig styldig i et Forhold, der maa svcekke eller gjøre ham uværdig<lb />
+til den Agtelse og Tillid, som Dommerkaldet forudsætter, uden at være Overtrædelse af en<lb />
+egentlig Embedspligt, drager saadant Forhold til følge efter Omstcrndighederne Irettesættelse.<lb />
+Unddragelse af Embedsindtægter paa bestemt Tid, Afskedigelse med den Virkning, at den pen-<lb />
+sionsberettigede Dommers Pension bestemmes ved Lov. eller, hvis det paagjældende Forhold<lb />
+er en i den offentlige Mening vancrrende Handling, Embedets Forbrydelse, for midlertidig<lb />
+beskikkede Dommere samt de i Z 31 3die Stykke ommeldte mænd efter Omstændighederne<lb />
+Ophor af den meddelte Bestikkelse eller Bemyndigelse.</p>
+<p>Om ovennævnte Retsfølger skulle indtræde, afgjør vedkommende Ret i Kraft af sin<lb />
+Tilsynsmyndighed, jfr. § 50, dog, hvad Spørgsmaal om Embeds Forbrydelse angaar, kun<lb />
+naar det ikke er paakjendt under den i Anledning af det paagjældende Forhold reiste Straffe-<lb />
+sag, jfr. Lov om Strafferetspleien § 3. Om Ophor af midlertidig Bestikkelse og Bemyndigelse<lb />
+i Henhold til § 31 3die Stykke kan Beslutning tages af den Myndighed, der har meddelt<lb />
+samme.</p>
+<wtitle>§ 50.</wtitle>
+<p>Tilsynsmyndighed udsves af Høiesteret over de ved denne Ret og Landsretterne be-<lb />
+flittede Dommere, af Landsretternes Hovedafdeling over de ved kjøbenhavns Stadsret samt<lb />
+By- og Herredsretterne beskikkede Dommere.</p>
+<p>I Kraft af denne Tilsynsmyndighed afgjør Retten felgende Spergsmaal, nemlig:</p>
+<p>1)  Om Straf, jfr. § 47;</p>
+<p>2)  Om de i § 49 omhandlede Retsfølger;</p>
+<p>3)  Om Suspension paa Grund af svævende Straffesag  eller  Sag om  de i § 49 om«<lb />
+handlede Retsfelger eller paa Grund af indtraadt Uvederhoeftighed eller Aandssvaghed;</p>

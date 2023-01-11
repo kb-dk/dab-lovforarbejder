@@ -1,0 +1,65 @@
+3333
+<pb n="62" />
+<h>
+<coll>3333</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3334</colr>
+</h>
+<p>
+straks ved Kendelse afvise åen. I modsat Fald gives der Modparten Lejlighed til at<lb />
+erklære sig, ligesom Retten kan indhente alle de yderligere Oplysninger, som den an-<lb />
+ser for nødvendige. Derefter afgør den ved Kendelse, om Begæringen skal tages til<lb />
+Følge eller forkastes. Den af Landsretten i Anledning af Begæringen afsagte Ken-<lb />
+delse kan, hvis der er Spørgsmaal om Genoptagelse af en ved Landsret som første<lb />
+Instans paadømt Sag, altid paakæres til Højesteret, men i modsat Fald kun i Kraft<lb />
+af en særlig Tilladelse fra Højesteret.
+</p>
+<p>
+Hvis Begæringen findes grundet, kan Landsretten efter Omstændighederne enten<lb />
+straks afsige Frifindelsesdom eller Dom, hvorved en mildere Straffebestemmelse bringes<lb />
+i Anvendelse, eller beslutte, at Sagen skal behandles paa ny. I sidste Fald, saavel som<lb />
+naar Højesteret ifølge Kære beslutter Genoptagelse, foregaar ny Domsforhandling<lb />
+(med eller uden Nævninger) ved den Landsret, som tidligere har dømt i Sagen, ganske<lb />
+overensstemmende med de almindelige Regler for Domsforhandling ved Landsret.
+</p>
+<p>
+Endnu maa nævnes, at en særlig Genoptagelsesadgang tilkommer den, der er<lb />
+dømt som udebleven under en Politisag (jfr. Nr. 39), men som kan oplyse, at Ude-<lb />
+blivelsen saavel som Undladelse af at melde Forfald var ham utilregnelig. Det samme<lb />
+gælder om den, der er dømt som udebleven ved Landsret i de Undtagelsestilfælde,<lb />
+hvor Domfældelse kan finde Sted trods Tiltaltes Udeblivelse.
+</p>
+<p>
+47.	Fremsættelse af borgerlige Krav (Erstatningskrav, Krav paa Tilbage-<lb />
+levering af stjaalne Ting o. lign.) under en Straffesag. Til Lettelse for den ved en
+</p>
+<p>
+Forbrydelse skadelidte gives der denne Adgang til at fremsætte sit borgerlige Krav<lb />
+under Straffesagen med den Virkning, at Kravets videre Forfølgning derefter, hvis<lb />
+saadant efter Rettens Skøn kan ske uden væsentlig Ulempe, varetages af Paatale-<lb />
+myndigbeden. Hvis Retten ikke ved nærmere Undersøgelse finder, at Kravet ikke<lb />
+egner sig til Afgørelse som Accessorium ved Straffesagen, og derfor afviser det, og<lb />
+den forurettede heller ikke under Sagens Gang foretrækker at tage Kravet tilbage for<lb />
+at bringe det frem under en selvstændig borgerlig Sag, finder det sin Afgørelse ved<lb />
+Dommen i Straffesagen. I Nævningesager kan Retten, naar hertil er særlig Grund,<lb />
+overlade til Nævningerne at afgøre saavel, om Skade er bevirket ved Forbrydelsen,<lb />
+som Erstatningens Størrelse.
+</p>
+<p>
+48.	Fuldbyrdelse af Domme i Straffesager. Omsorgen for Straffedommes<lb />
+Fuldbyrdelse paaliviler Politimesteren. Han staar herved under Tilsyn af Over-<lb />
+anklageren, for saa vidt Sagen hører under dennes Virkekreds. Bøder, som ere til-<lb />
+lagte den forurettede, og Erstatning, der under Straffesagen er tilkendt ham, ind-<lb />
+drives efter den borgerlige Retsplejes Regler. Opstaar der Tvist mellem den fuld-<lb />
+byrdende Myndighed og Domfældte om Dommens Fortolkning eller andet lignende,<lb />
+bliver Spørgsmaalet paa sidstnævntes Begæring at forelægge Retten.
+</p>
+<p>
+49.	Lovenes Ikrafttræden og Overgangsbestemmelser. Reformen er tænkt<lb />
+at skulle træde i Kraft 2 Aar efter den Dag, da det Numer af Lovtidende udgaar,<lb />
+hvori Lov om Domsmagtens Ordning m. m. kundgøres. Den omfatter ikke Færøerne.<lb />
+For disse skal den sjællandske Landsret være Overret. Højesteret skal vedblivende<lb />
+være øverste Domstol for hele Riget. — De nuværende Dommere og andre Embeds-<lb />
+mænd ved Overretterne i Kjøbenhavn og Viborg, Kriminal- og Politiretten og Sø- og<lb />
+Handelsretten ere pligtige at modtage Beskikkelse ved de ny Landsretter og Kjøben-
+</p>

@@ -1,0 +1,100 @@
+2271
+<pb n="7" />
+<h>
+<coll>2271</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2272</colr>
+</h>
+<leftside>
+<wtitle>Til § 64.</wtitle>
+<p>182)	Stk. 1 affattes saaledes:<lb />
+„Rettens Afsigelse af Domme og Ken-<lb />
+delser og dens øvrige Beslutninger optages<lb />
+i Retsbogen. Domme og Kendelser ind-<lb />
+føres fuldstændigt i Dombogen".</p>
+<wtitle>Til § 65.</wtitle>
+<p>183)	Pkt. 1 affattes saaledes:<lb />
+..Retsbogen underskrives ved hvert</p>
+<p>Retsmødes Slutning af Rettens Formand-'.</p>
+<wtitle>Til § 66.</wtitle>
+<p>Af Justitsministeren, tiltraadt af<lb />
+Udvalget:</p>
+<p>169)	I Linie 3 efter „Retsskriver" til-<lb />
+føjes: „eller, hvor en saadan ikke er ansat,<lb />
+af Dommeren".</p>
+<wtitle>Til § 67.</wtitle>
+<p>Af Udvalget:</p>
+<p>170)	„Retsskriveren samler" ændres<lb />
+til: „Hvor en Retsskriver er ansat, samler<lb />
+han". Til Paragraffen føjes: „Ved andre<lb />
+Retter paahviler dette Dommeren".</p>
+<wtitle>Til § 68.</wtitle>
+<p>171)	I 1ste Linie efter „hos" ind-<lb />
+skydes: „Dommeren eller".</p>
+<wtitle>Til § 70.</wtitle>
+<p>172)	I sidste Stk. udgaa Ordene:<lb />
+„samt de fornødne Disciplinærbestem-<lb />
+melser".</p>
+<wtitle>Til § 71.</wtitle>
+<p>173)	IL. 4—5 ændres „gennem ved-<lb />
+kommende Underret" til „gennem den paa-<lb />
+gældende Rets Kontor eller, for saa vidt<lb />
+der ikke i det paagældende; Syssel findes<lb />
+Retskontor, gennem Sysselmanden".</p>
+<wtitle>Til § 72.</wtitle>
+<p>174)	De første Ord af Nr. 2 indtil<lb />
+„Ægtefælle" ændres til: „Kan Forkyndelsen<lb />
+ikke ske for den paagældende personlig,<lb />
+kan den paa hans Bolig her i Riget gyldig<lb />
+iværksættes for hans Ægtefælle."</p>
+<p>175)	Sidste Stk. affattes saaledes:</p>
+<p>„Udføres Forretningen af en Stæv"</p>
+<p>ningsmand, skal denne, hvis Partens Op"<lb />
+givelser ikke lede til Forkyndelsens Iværk</p>
+</leftside>
+<rightside>
+<p>sættelse, efter Evne søge saadan Underret-<lb />
+ning, at Forkyndelsen kan ske".</p>
+<wtitle>Til § 73.</wtitle>
+<p>176)	I 2det Stykke foran Ordet „Be-<lb />
+svær" indsættes: „væsentligt."</p>
+<wtitle>Til § 85.</wtitle>
+<p>177)	Sidste Pkt. affattes saaledes: „Dog<lb />
+kan den Retten ved § 94 tillagte Myndig-<lb />
+hed udøves ogsaa med Hensyn til Modfor-<lb />
+dringer."</p>
+<wtitle>Til § 86.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget:</p>
+<p>178)	Paragraffens sidste Punktum af-<lb />
+fattes saaledes: „Naar Oplæsning skal finde<lb />
+Sted, bestemmer Rettens Formand, ved<lb />
+hvem den skal foregaa".</p>
+<wtitle>Til § 88.</wtitle>
+<p>Af Udvalget:</p>
+<p>179)	Til Paragraffen føjes som nyt<lb />
+Punktum: „Han kan, naar Omstændig-<lb />
+hederne gøre det nødvendigt, afbryde et<lb />
+Retsmøde med bestemt Opgivelse af, hvor-</p>
+<p>180)	naar det genoptages".</p>
+<wtitle>Til § 96.</wtitle>
+<p>181)	I 1ste Linie efter „Mistanke"<lb />
+indskydes: „hos Retten".</p>
+<wtitle>Til § 97.</wtitle>
+<p>183, 184) I 2den Linie udgaa Ordene<lb />
+„den størst mulige".</p>
+<wtitle>Til § 100.</wtitle>
+<p>Af Udvalget:</p>
+<p>185)	I L. 4 ændres Ordene: „Tje-<lb />
+nestealderen. . .først" til: „Lodtrækning for<lb />
+hver enkelt Sag, umiddelbart før Raad-<lb />
+slagningen begynder".</p>
+<p>Af Borgbjerg og J. Jensen:</p>
+<p>186)	I andet Stykke udgaa Ordene:<lb />
+„og Afstemninger".</p>
+<wtitle>Til § 102.</wtitle>
+<p>Af Udvalget:</p>
+<p>187)	Efter Begyndelsesordene „For<lb />
+enhver Afgørelse" indsættes: „i en Ret,<lb />
+der beklædes af flere Dommere."</p>
+</rightside>

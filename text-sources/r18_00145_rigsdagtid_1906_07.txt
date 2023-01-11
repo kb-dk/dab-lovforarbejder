@@ -1,0 +1,71 @@
+3929
+<pb n="145"/>
+<h>
+<coll>3929</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3930</colr>
+</h>
+<wtitle>§ 645.</wtitle>
+<p>
+Naar et i Konkursboet fremsat Krav eller en anmeldt Fordring modsiges,<lb />
+eller den Fortrinsret, som er tillagt samme paa den i Henhold til Konkurslovens § 87<lb />
+forfattede Oversigt, bestrides, og det ikke lykkes at tilvejebringe Forlig imellem de<lb />
+paagældende (jfr. Konkurslovens § 88), har Skifteretten at fremkalde en Beslutning<lb />
+af Boets Vedkommende (jfr. Konkurslovens §§ 74 og 75), om og for hvilket Beløb<lb />
+Boet vil anerkende Fordringen, og hvilken Fortrinsret det vil indrømme den. Herom<lb />
+underretter Kurator snarest muligt den paagældende Fordringshaver samt tilkendegiver<lb />
+ham, at han, hvis han ikke vil finde sig i at behandles paa denne Maade, maa for-<lb />
+følge sit Krav ved sædvanlig Rettergang imod Boet. Underretningen meddeles paa<lb />
+den Maade, Skifteretten finder hensigtsmæssig; det er tilladt at benytte anbefalet<lb />
+Brev. Anlægges Sag ikke af den paagældende inden 4 Uger herefter, bliver Fordringen<lb />
+ved Boets videre Behandling og Opgørelse kun at anerkende for saa vidt og med den<lb />
+Fortrinsret, som Boet har indrømmet.
+</p>
+<p>
+Fordringshavere, som have Interesse i at bestride en Fordring, uagtet Boet<lb />
+ikke vil modsige den eller den for samme paastaaede Fortrinsret, have Adgang hertil,<lb />
+for saa vidt der ikke af Boet er sluttet Overenskomst med vedkommende om Tvistens<lb />
+Genstand, og Sagens Forfølgning ikke udsætter Boet for Tab af Rettigheder. De<lb />
+paagældende Fordringshavere have i saa Fald at anlægge Retssag inden 4 Uger, efter<lb />
+at Boets Beslutning er taget. I modsat Tilfælde bliver der ved Boets Opgørelse ikke<lb />
+taget Hensyn til deres Indsigelser. De ere pligtige at lade Stævningen forkynde for<lb />
+Boets Kurator.
+</p>
+<p>
+Ville Parter, imellem hvilke en Tvist er opstaaet, overlade Spørgsmaalets Af-<lb />
+gørelse til Skifteretten, er denne, naar ingen Bevisførelse ved Vidner, Syn eller Par-<lb />
+ternes egen Forklaring behøves, pligtig at afsige en Kendelse, ved hvilken Spørgs-<lb />
+maalet da er afgjort paa samme Maade som ved Voldgift.
+</p>
+<wtitle>§ 646.</wtitle>
+<p>
+De i foregaaende Paragraf omhandlede Sager kunne anlægges ved det Steds<lb />
+Underret, hvor Boet behandles, eller, for saa vidt Sagen ifølge dens Genstand henhører<lb />
+under Landsret, ved den Landsret, under hvilken vedkommende Skifteret staar.
+</p>
+<p>
+Dog skal det altid staa den, hvis Fordring eller nedlagte Paastand bestrides<lb />
+af Boet, frit for at anlægge Sagen ved Underret uden Hensyn til dens Genstand.
+</p>
+<wtitle>§ 647.</wtitle>
+<p>
+Boet er i de i § 645, 1ste Stykke, omhandlede Tilfælde selv at anse som<lb />
+Modpart, hvorfor Stævningen lyder paa det og forkyndes for Kurator paa Boets Vegne.
+</p>
+<p>
+Det paahviler Kurator at sørge for, at Boet under Retssagen repræsenteres<lb />
+paa behørig Maade.
+</p>
+<wtitle>§ 648.</wtitle>
+<p>
+Dommen i en i Henhold til § 645 anlagt Sag kan ikke, medmindre paagæl-<lb />
+dende Parter frafalde Anke mod Dommen, eller den kun kan paaankes efter særlig<lb />
+Tilladelse, lægges til Grund for Boets videre Behandling, førend den almindelige Anke-<lb />
+frist er udløben ubenyttet.
+</p>
+<p>
+Skulde Dommen blive forandret eller annulleret ifølge en senere Paaanke, tages<lb />
+behørigt Hensyn hertil ved Boets videre Behandling, i fornødent Fald ved Omgørelse<lb />
+af det foretagne, hvis Konkursbehandlingen ikke endnu er sluttet, men efter den Tid<lb />
+maa enhver Forandring søges iværksat ved Paaanke af Udlodningen.
+</p>

@@ -1,0 +1,40 @@
+106
+<pb n="112" />
+<p>indleverede Fortegnelser opførte kunne fremføres<lb />
+under Hovedforhandlingen, naar de anmeldes,<lb />
+forend Sagen er henvist, eller dog så betimelig, at Modparten kan erholde Meddelelse om<lb />
+dem mindst 4 Dage for Hovedforhandlingens<lb />
+Begyndelse, uden at dennes Udsættelse derved<lb />
+bliver nødvendig. I andet Fald kan det uden<lb />
+Modpartens Samtykke kun finde Sted, naar<lb />
+nye Beviser ere komne for Dagen, eller senere<lb />
+af Modparten anmeldte Beviser skjønnes at<lb />
+give Grund dertil, eller naar Retten iøvrigt<lb />
+på Andragende af særegne Grunde giver<lb />
+Adgang dertil.</p>
+<p>Retten cg udenfor Hovedforhandlingen<lb />
+efter Omstændighederne (jfr. § 256 Nr. 3)<lb />
+Formanden har Beføjelse til i Embeds Medfør at tage Bestemmelse om Bevisers førelse,<lb />
+som findes nødvendige til Sagens Opklaring,<lb />
+uden anden Begrænsning end den, Sagens<lb />
+Stilling medfører.</p>
+<wtitle>§ 274.</wtitle>
+<p>Udsættelse as den berammede Hovedforhandling kan for Forhandlingens Begyndelse<lb />
+besluttes af Rettens Formand, naar enten<lb />
+Hensyn til Retten eller andre Aarsager, såsom den Sigtedes Flugt, uovervindelige Forhindringer for Parterne, den beskikkede Forsvarer, uundværlige Vidner eller Syns- og<lb />
+Skjønsmænd, Forandringer i Anklagen, senere<lb />
+Henvisning til Forundersøgelse, nye Bevisers<lb />
+Anmeldelse m. v. findes at gjøre Udsættelsen<lb />
+nødvendig.</p>
+<p>Om Udsættelsesgrunde, som indtræde for<lb />
+Hovedforhandlingen, påhviler det enhver Vedkommende snarest mulig at underrette Rettens<lb />
+Formand.</p>
+<p>Om Sagens Udsættelse skal Rettens Formand snarest mulig og såvidt mulig, førend<lb />
+den berammede Hovedforhandling skulde have<lb />
+fundet Sted, underrette alle Vedkommende,<lb />
+deriblandt de Vidner og Skjønsmænd, som<lb />
+allerede måtte være indkaldte.</p>
+<wtitle>§ 275.</wtitle>
+<p>Viser det sig, at Intet er til Hinder for<lb />
+en Sags Berammelse til en tidligere Tægtedag<lb />
+end den oprindelig bestemte, kan Rettens Formand foretage en ny Berammelse   og   træffe</p>

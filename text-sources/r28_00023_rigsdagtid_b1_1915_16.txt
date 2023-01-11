@@ -1,0 +1,81 @@
+783
+<pb n="23" />
+<h>
+<coll>
+783
+</coll>
+<topmidle>
+Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
+</topmidle>
+<colr>
+784
+</colr>
+</h>
+<p>
+Underbilag.<lb />
+</p>
+<p>
+Oversigt
+over
+Politikassernes Formue pr. 31. December 1914.<lb />
+</p>
+<p>
+Kr. Ø.<lb />
+</p>
+<p>
+Københavns Amt		55,052. 64<lb />
+</p>
+<p>
+Frederiksborg —		54,758. 52<lb />
+</p>
+<p>
+Holbæk	— ....	41,036.38<lb />
+</p>
+<p>
+Sorø	— ....	68,034. 99<lb />
+</p>
+<p>
+Præstø	—		59,774. 44<lb />
+</p>
+<p>
+Bornholms —		12,336. 30<lb />
+</p>
+<p>
+Odense	— ....	35.919.   Heraf en fast Ejendom, der til Ejendomsskyld er ansat til 4,500 Kr.<lb />
+</p>
+<p>
+Svendborg	— ....	41,377. 33       <lb />
+</p>
+<p>
+Maribo	— 		41,847. 13<lb />
+</p>
+<p>
+Aalborg	— ....	48,181. 27<lb />
+</p>
+<p>
+Hjørring —		26,969. 52   Heraf Inventar til Værdi ca. 1,200 Kr., tilh. Børglum Herreds Politikasse.<lb />
+</p>
+<p>
+Thisted —		32,401.	<lb />
+</p>
+<p>
+Viborg	—		39,951. 95   Heraf en fast Ejendom til bogført Værdi 3,926 Kr. 04 Ø.<lb />
+</p>
+<p>
+Aarhus	—		103,836.<lb />
+</p>
+<p>
+Randers —		32.637.<lb />
+</p>
+<p>
+Ribe	— ....	27,140. 58<lb />
+</p>
+<p>
+Ringkøbing	— ....	21,964. 70<lb />
+</p>
+<p>
+Vejle	— ....	67,837. 06<lb />
+</p>
+<p>
+Tilsammen...	811,055.81<lb />
+</p>

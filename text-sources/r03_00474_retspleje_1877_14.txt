@@ -1,0 +1,80 @@
+468
+<pb n="474" />
+<leftside>
+<p>Tid   må   søges   iværksat   ved    Påanke   af<lb />
+Repartitionen.</p>
+<p>Hvad    angår    Retsmidlers    Anvendelse<lb />
+imod de Afgjørelser,   som det   er Skifteretten<lb />
+forbeholdt at træffe, går Lovforslaget ud fra,<lb />
+at Kjendelser eller Beslutninger,  som forefalde<lb />
+under Boets Behandling, udenfor de i §626<lb />
+angivne  Tilfælde,   i   hvilke   Retsmidlers   Anvlndelse er ganske udelukket,   strar særskilt bor<lb />
+funne   indbringes   til   højere   Rets   Prøvelse<lb />
+Dog bliver Boets Behandling,   uagtet sådan<lb />
+Anke iværksættes, ikke at standse; men Skifteretten har kun at drage Omsorg for,   at den<lb />
+Ankendcs Ret ikke derved foregribes  (§ 624).<lb />
+For så   meget  som   muligt  at  undgå Forhaling af Boets Tilendebringelse har Udkastet<lb />
+derhos   anvist Besværing som  det Retsmiddel,<lb />
+hvorigjennem denne  sårskilte Indankning  skal<lb />
+iværksættes, en Regel,  der neppe vil findes at<lb />
+srembyde   nogen Betænkelighed,   når   hensees<lb />
+til, at   det,  som Følge af den i §  619  fastsatte   Begrænsning   af   Skifterettens   Kompetence,   her   kun   drejer   sig om   Afgsørelser   af<lb />
+processuelle Spørgsmål.   Besværing  er imidlertid   ikke   den    eneste   Vej,   ad   hvilken   de<lb />
+under   Boets   Behandling forefaldende   Kendelser eller Beslutninger kunne angribes; men<lb />
+den, der er misfornøiet med  disse Afgjørelser,<lb />
+kan også,  om han vil, afvente Skiftets Slutning og derefter i Forbindelse med den tilendebragte   Skiftebehandling   indbringe    dem   for<lb />
+bøjere Ret, dog at han i saa Fald er henvist<lb />
+til   at   gjøre   sin   Klage   gjældende   gjennem<lb />
+egentlig Påanke  (§ 625).     Da   det nemlig<lb />
+selv   efter   det  nye   System   vil  kunne   blive<lb />
+Tilfældet,    at    Skifterepartitionen   indeholder<lb />
+Afgjørelser   af   Spørgsmål   angående   Tilværelsen og Omfanget af Arvingers og Legatarers   Rettigheder,    og   en   Sondring   efter<lb />
+Ankegrundens   forskjellige   Beskaffenhed   neppe<lb />
+vilde være hensigtsmæssig, har man ,anset det<lb />
+for rettest, at alle Anker over del! tilendebragte<lb />
+Skiftebehandling henvises til den almindelige Påankeform,  så meget mere som der, når først<lb />
+Skiftet er sluttet, ikke  er Grund  til at lægge<lb />
+synderlig Vægt på Hurtighedshensynet. Forsåvidt der efter det Anførte er givet den, som er<lb />
+utilfreds   med   en   under   Boets   Behandling<lb />
+truffen Afgjørelse, Valget imellem strar særskilt</p>
+</leftside>
+<rightside>
+<p>at indbringe denne til højere Rets Prøvelse<lb />
+eller ved Skiftets Slutning at påanke den i<lb />
+Forbindelse med Repartitionen, skal endnu bemærkes, at ligesom dette vistnok er fremmende<lb />
+med den gjældende Net, således turde det<lb />
+også i og for sig være en hensigtsmæssig<lb />
+Ordning. Thi når det holdes Vedkommende<lb />
+åbent også efter Skiftets Slutning at kunne<lb />
+indbringe fin Anke for overordnet Ret, tor<lb />
+det vistnok antages, at den, som har Anker<lb />
+af blot formel Natur, ikke sjælden vil udsætte<lb />
+disses Forfslgning til Skiftets Slutning og,<lb />
+når han ved den endelige Repartition finder<lb />
+sig i det Væsentlige tilfreds med Skiftebehandlingens Resultat, ganske vil undlade at gjøre<lb />
+dem gjældende.</p>
+<p>Hvad angår Tiden for Retsmidlernes<lb />
+Anvendelse, gives der i §§ 624—625 Forskrifter, som både med Hensyn til de ordentlige Retsmiddelfrister og Oprejsningsfristerne<lb />
+stemme med de tilsvarende Regler for Domssagers Vedkommende.</p>
+<p>I § 626 opregnes en Række af Tilfælde,<lb />
+med Hensyn til hvilke man har anset det<lb />
+for rettest at udelukke Retsmidlers Anvendelse<lb />
+og således gjøre Skifterettens Beslutninger<lb />
+endelige og uangribelige. De Beslutninger af<lb />
+Skifteretten, som gå ind under denne Regel<lb />
+ere:</p>
+<p>1) Bestemmelser, hvorved Skifteretten tilsidefætter en Værges Erklæring   om at ville<lb />
+vedgå   Arv   og   Gjæld på en umyndig<lb />
+eller fraværende  Arvings Vegne   (Skiftelovens § 16);</p>
+<p>2) Afgjørelser  af det Spørgsmål, om Fordringshavere,  hvis  Krav   endnu   ikke  ere<lb />
+erkjendte,   skulle stedes til Stemmcgivning<lb />
+i Skiftesamlingerne (Skiftelovens § 19);</p>
+<p>3)  Bestemmelser om Skiftesamlingers Afholdelse (Skiftelovens §  23);</p>
+<p>4) Bestemmelser, hvorved Skifteretten nægter<lb />
+at godkjende den af en Værge ved Stemmegiuning  i Boet på Myndlingens Vegne<lb />
+afgivne Erklæring   (Skiftelovens   §§   24<lb />
+og 51);</p>
+<p>5) Bestemmelser af Skifteretten, som gå ud<lb />
+på, at Boets Ejendele skulle sælges underhånden (Skiftelovens §  27);</p>
+
+</rightside>

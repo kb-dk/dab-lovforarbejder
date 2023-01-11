@@ -1,0 +1,64 @@
+2847
+<pb n="104" />
+<h>
+<coll>
+2847
+</coll>
+<topmidle>
+F. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2848
+</colr>
+</h>
+<title>Kapitel 42.</title>
+<undertitle>
+Ægteskabssager samt Sager, hvorunder Arvinger søger sig en bortebleven Persons<lb />
+Formue tilkendt.
+</undertitle>
+<wtitle>§ 448.</wtitle>
+<p>
+Sager angaaende et Ægteskabs Ugyldighed eller Opløsning bliver at behandle<lb />
+efter de almindelige for Underretsproceduren gældende Regler med de nedenfor givne<lb />
+nærmere Bestemmelser ved Underretten for det Sted, hvor Sagsøgte har Bopæl eller<lb />
+Opholdssted, eller, dersom Sagsøgte har forladt Landet, eller det ikke vides, hvor Sag-<lb />
+søgte er, for det Sted, hvor denne sidst havde Bopæl eller Opholdssted her i Riget.
+</p>
+<wtitle>§ 449.</wtitle>
+<p>
+Dersom Sagsøgte ikke under Sagen giver Møde ved antagen Sagfører, har Sag-<lb />
+søgeren at andrage paa, at der af Retten maa blive beskikket Sagsøgte en Forsvarer.<lb />
+Forsømmes dette, afvises Sagen.
+</p>
+<p>
+Salæret til den for Sagsøgte beskikkede Forsvarer paalægges det offentlige,<lb />
+hvor det ikke paalægges Sagsøgeren som tabende Part at udrede det.
+</p>
+<wtitle>§ 450.</wtitle>
+<p>
+Retten kan uden Hensyn til, om Modparten begærer det, paalægge Sagsøgeren<lb />
+at fremstille sig til Afhørelse (jfr. § 302) for Retten, jfr. § 433, og der under Ed at<lb />
+besvare de Spørgsmaal angaaende Sagens Genstand, som Retten maatte gøre. Ugrun-<lb />
+det Undladelse heraf eller Vægring herved har til Følge, at Sagen afvises.
+</p>
+<wtitle>§ 451.</wtitle>
+<p>
+Ligeledes kan Retten, hvis Sagsøgte bor eller opholder sig i Riget, paalægge<lb />
+denne at fremstille sig til Afhørelse (jfr. § 302) for Retten, jfr. § 433. og der under<lb />
+Ed besvare de Spørgsmaal angaaende Sagens Genstand, som gøres af Retten. Ugrundet<lb />
+Undladelse af at møde eller Vægring ved at svare medfører dog kun Virkning efter<lb />
+§ 452, 2det Punktum.
+</p>
+<wtitle>§ 452.</wtitle>
+<p>
+Indrømmende Proceserklæringer fra Sagsøgtes Side har ikke Virkning som<lb />
+bindende Grundlag for Stridsspørgsmaalets Indhold og Omfang, men der kan alene<lb />
+tillægges dem Betydning som Bevismidler. Ligeledes kan Sagsøgtes Udeblivelse, Tavs-<lb />
+hed eller ubestemte Erklæringer i de i § 305 omhandlede Tilfælde kun tages i Be-<lb />
+tragtning som Bevisdata imod paagældende.
+</p>
+<wtitle>§ 453.</wtitle>
+<p>
+Parts Ed finder, bortset fra de i §§ 450 og 451 omhandlede Tilfælde, ikke<lb />
+Anvendelse i Ægteskabssager.
+</p>

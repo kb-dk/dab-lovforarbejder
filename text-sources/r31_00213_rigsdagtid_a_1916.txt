@@ -1,0 +1,66 @@
+629
+<pb n="213" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>629</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+Frifindelse finder Sted, når Overanklageren ikke er påtaleberettiget, når<lb />
+Forfølgning frafaldes, når Strafskylden er forældet, samt når Tiltalte ikke findes skyldig.
+</p>
+<p>
+Retten kan ikke domfælde for noget Forhold, der ikke omfattes af Tiltalen.
+</p>
+<p>
+Derimod er Retten ikke udelukket fra at henføre det påtalte Forhold under<lb />
+en anden Strafbestemmelse end den, Overanklageren har påstået anvendt, eller fra<lb />
+at afvige fra Tiltalen med Hensyn til de med Forbrydelsen forbundne Biomstændigheder<lb />
+(Tid, Sted o. desl.), alt under Betingelse af, at det med Sikkerhed skønnes, at Tiltalte,<lb />
+også under Forudsætning af sådan Afvigelse fra Tiltalen, har haft fyldestgørende Adgang til Forsvar. Finder Retten, at dette ikke er Tilfældet, eller nærer den Tvivl i så<lb />
+Henseende, skal den, forinden dens afvigende Bedømmelse lægges til Grund for Domfældelsen, give Parterne Lejlighed til at udtale sig og efter Omstændighederne tilstå den<lb />
+til Varetagelse af Forsvaret fornødne Udsættelse.
+</p>
+<wtitle>§ 909.</wtitle>
+<p>
+Finder Retten, at Tiltalte ifølge Loven ikke kan straffes for et Forhold som det,<lb />
+i hvilket han ifølge den i Spørgsmålene givne Beskrivelse af Gerningen og Nævningernes<lb />
+Svar på disse er erklæret skyldig, afsiger den Frifindelsesdom. Finder den, at et Forhold som det, hvori Tiltalte er erklæret skyldig, efter Loven kun kan henføres under et<lb />
+mildere Straffebud, end Nævningernes Erklæring lyder på, afsiger den Dom i Overensstemmelse hermed. Hører der til Gerningsindholdet af den mindre Forbrydelse, for hvilken<lb />
+der således bliver Spørgsmål om at domfælde Tiltalte, Omstændigheder, om hvis Tilstedeværelse Nævningeerklæringen intet har afgjort, bliver de til Afgørelse af dette Punkt fornødne Spørgsmål først at forelægge Nævningerne.
+</p>
+<wtitle>§ 910.</wtitle>
+<p>
+I Sager angående Erstatning for uforskyldt Varetægtsfængsel eller for uforskyldt Udståelse af Straf kommer foranstående Regler til Anvendelse med de fornødne<lb />
+Lempelser. I Stedet for Spørgsmål til Nævningerne om Tiltaltes Skyld rettes Spørgsmål på, om Tiltalte efter det oplyste er berettiget til Erstatning. Kun hvis mindst 8<lb />
+Nævninger er enige om, at der tilkommer Tiltalte Erstatning, vil der være at tilkende<lb />
+ham Erstatning. Retten bestemmer Størrelsen af det Beløb, der vil være at tilkende<lb />
+Tiltalte.
+</p>
+<wtitle>§ 911.</wtitle>
+<p>
+I det Omfang, hvori Dommen er grundet på Nævningernes Erklæring, indskrænker<lb />
+Domsgrundene sig til den fornødne Henvisning til denne. I øvrigt skal, såfremt Tiltalte frifindes, de Straffen betingende Omstændigheder, som antages at mangle, eller de<lb />
+Straf udelukkende Omstændigheder, som antages at foreligge, angives, og de anvendte<lb />
+Lovbestemmelser anføres. Domfældes Tiltalte, skal de Strafbestemmelser anføres,<lb />
+som bringes i Anvendelse.
+</p>
+<title>Kapitel 78.</title>
+<undertitle>
+Bestemmelser om Iværksættelse af Tiltale og Forberedelse af Domsforhandling<lb />
+for Landsret i Sager, hvori Nævninger ikke medvirker.
+</undertitle>
+<wtitle>§ 912.</wtitle>
+<p>
+Tiltale rejses ved et af Overanklageren udfærdiget og underskrevet Anklageskrift,<lb />
+der skal indeholde de i § 831, 1ste Stykke, omhandlede Angivelser samt Bemærkning om,<lb />
+at Domsbehandlingen ikke skal foregå for Nævninger.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

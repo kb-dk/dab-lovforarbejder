@@ -1,0 +1,59 @@
+350
+<pb n="86" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>350</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+ved Landsret, kan Landsret eller Højesteret i Stedet for at give bemeldte Tilladelse<lb/>
+bestemme, at Sagen skal genoptages. Andrageren må da inden 14 Dage efter at<lb/>
+have erholdt Meddelelse om Landsrettens eller Højesterets Bestemmelse, hvis Forkyndelse for Modparten har samme opsættende Virkning som Forkyndelse af Ankestævning,<lb/>
+indgive Begæring til vedkommende Ret om Berammelse af et Retsmøde til at træffe<lb/>
+de fornødne Bestemmelser om Sagens Fortsættelse, jvf. §§ 364 og 365.
+</p>
+<title>Kapitel 33.</title>
+<undertitle>
+Intervention og Tilstævning af Trediemand i Landsretssager i første Instans.
+</undertitle>
+<wtitle>§ 368.</wtitle>
+<p>
+Interventionssøgsmål anlægges og fremmes efter de om et selvstændigt Søgsmål gældende Regler, for så vidt ikke Bestemmelserne i de følgende Paragraffer<lb/>
+medføre Afvigelse herfra.
+</p>
+<wtitle>§ 369.</wtitle>
+<p>
+Intervenienten indtræder i Sagen derved, at han senest en Uge forinden det af de<lb/>
+til Hovedsagens Behandling bestemte forberedende Retsmøder, i hvilket han vil optræde,<lb/>
+for de oprindelige Parter lader forkynde en skriftlig Angivelse af sin Påstand og de<lb/>
+Kendsgerninger, hvorpå den støttes, og i bemeldte Retsmøde fremlægger denne. Vil<lb/>
+nogen af Parterne modsætte sig Interventionen eller bestride Intervenientens Påstand,<lb/>
+må han fremlægge Svarskrift, jvf. §§ 334 og 337. Om yderligere Skriftveksling i<lb/>
+Anledning af Interventionssøgsmålet gælde de i §§ 335—36 fastsatte Regler.
+</p>
+<wtitle>§ 370.</wtitle>
+<p>
+Påstår nogen af Parterne Interventionssøgsmålet afvist som ikke hjemlet<lb/>
+ved den almindelige Bestemmelse i § 242, bliver Spørgsmålet herom foreløbig at afgøre<lb/>
+ved Landsrettens Kendelse i Overensstemmelse med Reglerne i § 336.
+</p>
+<wtitle>§ 371.</wtitle>
+<p>
+Det oprindelige Søgsmål og Interventionssøgsmålet forhandles i øvrigt i Forbindelse med hinanden som een Retssag.
+</p>
+<p>
+I Overensstemmelse med § 277 kan Retten udskille Interventionen til særskilt<lb/>
+Forhandling før eller efter Hovedsagen, således at den enten påkendes i Forbindelse med Hovedsagen eller særskilt.
+</p>
+<wtitle>§ 372.</wtitle>
+<p>
+Intervenienten er berettiget til at benytte Anke og Kære over for den stedfundne Behandling og den afsagte Dom ligesom enhver af de oprindelige Parter.
+</p>
+<wtitle>§ 373.</wtitle>
+<p>
+Den, der blot vil optræde under Sagen for at understøtte en af Parterne, jvf.<lb/>
+§ 243, skal til den Underret, der leder Sagens Forberedelse, indgive en skriftlig Begæring om at få Adgang til at ytre sig i Sagen. Denne Begæring meddeles Parterne.<lb/>
+Modsætter en af disse sig Begæringen, bliver Spørgsmålet at afgøre ved Kendelse af<lb/>
+Landsretten i Overensstemmelse med Reglerne i § 336. Indrømmes Begæringen, træffer
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

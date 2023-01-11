@@ -1,0 +1,49 @@
+3535
+<pb n="86" />
+<h>
+<coll>3535</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3536</colr>
+</h>
+<p>omkostninger og Rettergangsboder giver Dommen de Bestemmelser, hvortil der efter Sagens<lb />
+Beskaffenhed findes Anledning, selv om ingen udtrykkelig Paaitand herpaa er nedlagt.</p>
+<p>I Dommen maa der ikke tages Hensyn til søgsmaalsgrunde eller Indsigelser, som<lb />
+ikke ere gjorte gjældende af Parterne, om det end af Sagens Forhandling kan ses, at de<lb />
+kunde have været benyttede.</p>
+<wtitle>§ 272.</wtitle>
+<p>Gre flere søgsmaal forenede under Sagen (§§ 41 og 42), kan Retten, saasnart<lb />
+noget af disse er modent til Paakjendelse, afsige Dom deri.</p>
+<wtitle>§ 273.</wtitle>
+<p>Retten kan afsige Dom angaaende enkelte af de fremsætte søgsmaalsgmnde eller<lb />
+Indsigelser saavelsom angaaende Modfordringer, ikke blot hvor færskilt Forhandling af dem er<lb />
+anordnet l§ 102, sidste Stykke), men ogsaa hvor de, uden at dette er Tilfældet, ere modne<lb />
+til Paakjendelse (§ 178). Er en Fordring omtvistet baade i Henseende til dens Tilværelse<lb />
+og til dens Belob, kan Retten forst ved Dom vaakjende spørgsmaalet om Fordringens<lb />
+Tilværelse.</p>
+<p>Domme af den Art, som de i foregaaende Stykke omhandlede, ere dog kun at anse<lb />
+som Bestanddele af den endelige Dom, i hvilken de blive at optage og lægge til Grund; de<lb />
+kunne kun fuldbyrdes i Forbindelse med denne, medmindre Retten færlig bestemmer, at de<lb />
+mod eller uden Sikkerhedsstillelse strax kunne fuldbyrdes.</p>
+<wtitle>§ 274.</wtitle>
+<p>Den endelige Dom afsiges snarest muligt efter Forhandlingernes Slutning. Dersom<lb />
+det ikke ved Optagelsen tilkjendegives Parterne, naar Dommen vil blive afsagt, stulle de af<lb />
+Rettens Formand eller af det celdste i Paakjendelsen deltagende medlem tilsiges til at høre<lb />
+Dommen afsiges. De medlemmer af Retten, som stulle deltage i Dommens Afsigelse, maa<lb />
+ikke paahore de mundtlige Forhandlinger i nogen anden Sag, forend Dommen er vedtaget.</p>
+<wtitle>§ 275.</wtitle>
+<p>Dommen vedtages efter en forudgaaet Afstemning inden lukkede Dore. Dog er her-<lb />
+med ikke udelukket, at en Raadforsel kan foregaa, inden der strides til at stemme.</p>
+<p>I Afstemningen maa kun de Dommere deltage, som have overværet den mundtlige<lb />
+Forhandling og Bevisførelsen i Sagen.</p>
+<wtitle>§ 276.</wtitle>
+<p>I Dommens Afsigelse deltage fem medlemmer af Retten. Dersom en eller flere<lb />
+Suppleanter medtages til at overvære Sagens Forhandling, deltage disse kun i Afstemningen,<lb />
+naar nogen af de fem, som stulle afsige Dommen, hindres i at hore Sagen tilende.</p>
+<wtitle>§ 277.</wtitle>
+<p>Det yngste i Dommens Afsigelse deltagende medlem af Retten afgiver forst sin<lb />
+Stemme, og derefter stemme de øvrige i den ved Tjenestealderen bestemte Orden.</p>
+<wtitle>§ 278.</wtitle>
+<p>Rettens Formand eller det celdste i Paakjendelsen deltagende medlem forestaar Af-<lb />
+stemningen og samler Stemmerne.</p>
+<p>Opstaar der Uenighed om, hvorledes Spørgsmaalene skulle stilles, cllcr om Afstem«<lb />
+mngens Resultat, tilkommer Afgjørelsen Retten.</p>

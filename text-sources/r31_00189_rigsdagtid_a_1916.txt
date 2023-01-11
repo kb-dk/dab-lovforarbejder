@@ -1,0 +1,78 @@
+605
+<pb n="189" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>605</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+begærer; i særlige Tilfælde kan Overanklageren med Justitsministerens Billigelse<lb />
+overtage Ledelsen af Efterforskningen, og det underordnede Politi står da i fornødent Omfang under lians Befaling.
+</p>
+<wtitle>§ 803.</wtitle>
+<p>
+Anmeldelser fra private om formentlig begåede Forbrydelser eller om Forhold, der vækker Mistanke herom, gøres ordentligvis til Politiet. Dog kan de også<lb />
+modtages af Overanklageren, som da ufortøvet tilstiller Politimesteren samme.
+</p>
+<p>
+Anmeldelsen kan være skriftlig eller mundtlig; i sidste Fald skal Modtageren<lb />
+af samme opsætte skriftlig Beretning om den.
+</p>
+<p>
+Når dertil findes Grund, kan Politimesteren eller Overanklageren, forinden<lb />
+videre Skridt foretages, ved Begæring til Undersøgelsesretten foranledige Anmelderen<lb />
+afhørt for Retten (jfr. § 809).
+</p>
+<wtitle>§ 804.</wtitle>
+<p>
+Er Sagens Påtale afhængig af Justitsministerens Befaling eller af en Opfordring fra en særlig offentlig Myndighed (jfr. § 722), skal Politimesteren bringe de ham<lb />
+tilkomne Oplysninger henholdsvis til Overanklagerens eller den særlige Myndigheds<lb />
+Kundskab, men i øvrigt ikke foretage yderligere Efterforskninger, førend vedkommendes<lb />
+Befaling eller Opfordring foreligger.
+</p>
+<p>
+Er en Lovovertrædelse, hvis offentlige Forfølgning er betinget af en privats<lb />
+Begæring, kommet til Politimesterens Kundskab, men der er Grund til at antage, at<lb />
+den er den pågældende private ubekendt, kan han gøre Meddelelse til denne, men<lb />
+foretager i øvrigt ingen Efterforskning, førend en udtrykkelig Begæring fra den private<lb />
+foreligger. Indeholder en af den private indgiven Anmeldelse om Forbrydelsen ingen<lb />
+sådan Begæring, skal han foranlediges til at give den fornødne Erklæring.
+</p>
+<p>
+Ovenstående Regler udelukker dog ikke, at uopsættelige Efterforskningsskridt<lb />
+foretages, førend Befalingen, Opfordringen eller Begæringen foreligger, såfremt Gerningen må antages at være vedkommende ubekendt, og Omstændighederne gør det<lb />
+rimeligt, at Påtale vil blive begært (jfr. § 722).
+</p>
+<wtitle>§ 805.</wtitle>
+<p>
+Finder Politimesteren, at der mangler Grund til at foretage videre Skridt i<lb />
+Anledning af en indgiven Anmeldelse eller en fremsat Begæring om Forfølgning, skal<lb />
+han på Forlangende meddele en skriftlig Erklæring om sin Vægring, og om denne<lb />
+er grundet på, at den formentlige Lovovertrædelse ikke antages at være Genstand<lb />
+for offentlig Forfølgning, eller på Anmeldelsens utilstrækkelige Grundlag.
+</p>
+<p>
+Den, som har indgivet Anmeldelsen eller fremsat Begæringen, kan derefter<lb />
+henvende sig til den overordnede Myndighed med Andragende om. at det må blive<lb />
+pålagt vedkommende at træde i Virksomhed.
+</p>
+<wtitle>§ 806.</wtitle>
+<p>
+Efterforskningen skal rettes på at tilvejebringe sådanne Oplysninger, som<lb />
+er tilstrækkelige til at bestemme, om Forfølgning skal indledes ved Retten ved Begæring om Forundersøgelse eller ved Iværksættelse af Tiltale.
+</p>
+<p>
+Så bør og i øvrigt alle Oplysninger fremskaffes og Foranstaltninger træffes,<lb />
+som skønnes nødvendige eller tjenlige til at forberede Sagens Behandling ved Retten.
+</p>
+<p>
+Befrygtes et Bevis ellers at ville gå tabt, bør Bevisførelse foranstaltes.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

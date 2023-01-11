@@ -1,0 +1,35 @@
+64
+<pb n="<span class="result">70</span>" />
+<p>det selv, dets Ægtefælle, Forældre eller Børn<lb />
+for Beskjæmmelse eller for Straf.</p>
+<p>2)  Når det må antages  ikke  at kunne besvare   vedkommende   Spørgsmål uden   at<lb />
+udsige Noget,   som udsætter  det selv,   dets<lb />
+Ægtefælle,    Forældre   eller Børn for Formuetab,   der   ikke   kan   ansees   for ganske<lb />
+uvæsentligt, eller for anden dermed i Klasse<lb />
+stående Skade;   dog  kan Vidnesbyrd ikke<lb />
+nægtes angående Retshandler,   ved   hvilke<lb />
+Vidnet har ladet sig bruge  som Vitterlighedsvidne,   eller   hvor   det som Hjemmelsmand, Borgen eller Fuldmægtig af Hensyn<lb />
+til Parten naturligen må ansees for pligtig   til   at give Oplysning om   Forholdet.</p>
+<p>3) De i §   207   omhandlede  Personer kunne<lb />
+nægte deres Vidnesbyrd, dersom Retten ikte<lb />
+på Embeds Vegne har vægret sig ved at<lb />
+modtage det.</p>
+<wtitle>§  209.</wtitle>
+<p>Born under 15 År   må   ikke edfæstes.</p>
+<p>Ej heller kan den edfæstes, som er tiltalt<lb />
+for eller funden skyldig i Mened, eller den,<lb />
+som ikke kan antages at tillægge Eden den<lb />
+Betydning, samme efter  sit Begreb skal have.</p>
+<p>Ej heller må edfæstes Personer, som lide<lb />
+af væsentlig Forstands- eller Hukommelsessvækkelse.</p>
+<p>De i denne Paragraf omhandlede Personer ere undergivne den almindelige Forpligtelse<lb />
+til at møde og forklare uden Ed sum Vidner.</p>
+<p>Dog bør Afhørelsen af Afsindige eller andre Personer, som ej ere istand til at afgive<lb />
+en fornuftig Forklaring,   ikke tilstedes.</p>
+<wtitle>§  210.</wtitle>
+<p>I Reglen skal enhver Vidneforklaring beediges, jfr. dog § 112 1ste Stykke. Afhørelse uden Ed finder kun Sted, når Vedkommende ikke må edfæstes (§ 209), eller<lb />
+når der mangler en for det Troessamfund,<lb />
+hvortil han horer, anvendelig Edsformular.</p>
+<p>En højtidelig Forsikring i Eds Sted og<lb />
+med samme Virkning som denne, tillades kun,<lb />
+hvor særlig Lov hjemler det for visse Troessamfund.</p>

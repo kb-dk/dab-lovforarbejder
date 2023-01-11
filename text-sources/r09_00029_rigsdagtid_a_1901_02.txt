@@ -1,0 +1,72 @@
+2205
+<pb n="29" />
+<h>
+<coll>2205</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2206</colr>
+</h>
+<p>
+At nogen i de nævnte Tilfælde har fundet sig i at afgive en Forklaring, som<lb/>
+han var berettiget til at nægte, udelukker ham ikke fra senere at undslaa sig for at<lb/>
+beedige den.
+</p>
+<p>
+I ethvert Tilfælde, hvor det er klart, at Betingelserne for Fritagelsen ere til<lb/>
+Stede, skal Retten før Afhørelsen gøre paagældende opmærksom paa hans Ret til at<lb/>
+undslaa sig.
+</p>
+<wtitle>§ 148.</wtitle>
+<p>
+Ingen er — for saa vidt han ikke særlig har forbundet sig dertil — pligtig at<lb/>
+møde som Vidne for en Underret uden for den Underretskreds, i hvilken han bor<lb/>
+eller opholder sig, naar han vilde komme til at rejse mere end 9 Mile paa Jernbane<lb/>
+eller Dampskib, eller 3 Mile paa anden Maade eller en tilsvarende Vejlængde delvis<lb/>
+paa Jernbane eller Dampskib og paa anden Maade, for at naa hen til Retten.
+</p>
+<p>
+For Landsret eller for Højesteret er i Reglen ingen, som ikke særlig har for-<lb/>
+bundet sig dertil, pligtig at møde som Vidne uden for den Landsretskreds, i hvilken<lb/>
+han bor eller opholder sig, naar han vilde faa længere at rejse hen til Retten end<lb/>
+18 Mile paa Jernbane eller Dampskib eller 6 Mile paa anden Maade eller en til-<lb/>
+svarende Vejlængde delvis paa Jernbane eller Dampskib og paa anden Maade.
+</p>
+<p>
+Ved Beslutning af Retten eller dens Formand, der bliver at paaberaabe i Ind-<lb/>
+kaldelsen, kan det dog paalægges et fjernere boende Vidne at give Møde for Landsret<lb/>
+eller for Højesteret, naar det for Sagens Oplysning anses nødvendigt.
+</p>
+<wtitle>§ 149.</wtitle>
+<p>
+Hvor ikke Reglerne i § 148 eller Vidnets Helbredstilstand er til Hinder derfor,<lb/>
+paalægges det Vidner at møde under Domsforhandlingen og der at aflægge Forklaring,<lb/>
+medmindre begge Parter frafalde det, eller det vilde medføre Ulempe eller Bekost-<lb/>
+ning, som ikke vilde staa i rimeligt Forhold til Sagens Genstand eller den Betydning,<lb/>
+Vidnesbyrdet kan antages at have for Sagens Oplysning. Skal Vidneførsel finde Sted<lb/>
+i en Sag, der er indanket for Højesteret, beror det paa Rettens Bestemmelse, om<lb/>
+Vidnet skal afhøres under Domsforhandlingen.
+</p>
+<p>
+Naar et Vidne ikke kan eller skal møde under Domsforhandlingen, bliver det<lb/>
+at afhøre ved Underretten paa det Steel, hvor det bor eller opholder sig; dog kan en<lb/>
+Landsret eller Højesteret under Iagttagelse af Reglerne i § 148 lade Vidnet afhøre<lb/>
+ved et eller to af sine Medlemmer, saafremt ikke begge Parter modsætte sig dette.<lb/>
+I Sager, der behandles skriftligt for Landsret eller Højesteret, forholdes efter §§ 237,<lb/>
+263 og 286.
+</p>
+<p>
+Er et Vidnes Helbredstilstand til Hinder for, at det møder paa det sædvanlige<lb/>
+Tingsted, kan Retten til dets Afhørelse sættes paa saadant Seed, som Omstændig-<lb/>
+hederne udkræve.
+</p>
+<wtitle>§ 150.</wtitle>
+<p>
+Militære af Hæren og Flaaden ere pligtige til at aflægge Vidnesbyrd for de<lb/>
+borgerlige Domstole overensstemmende med Reglerne i denne Lov.
+</p>
+<wtitle>§ 151.</wtitle>
+<p>
+Indkaldelse til at møde som Vidne udgaar efter Partens Begæring fra den<lb/>
+Ret, for hvilken Vidnesbyrdet skal aflægges, og overgives Parten til Forkyndelse. Skal<lb/>
+et Vidne indkaldes for en Underret ifølge en anden Rets Beslutning, maa en Udskrift<lb/>
+af denne forelægges Underretten.
+</p>

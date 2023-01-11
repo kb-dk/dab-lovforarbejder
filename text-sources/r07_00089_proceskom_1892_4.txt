@@ -1,0 +1,178 @@
+3387
+<pb n="89" />
+<h>
+<coll>3387</coll>
+<topmidle>Sagregister (henviser til §§ og Kap. i Udk. t. L. om den borg. Retspleje).</topmidle>
+<colr>3388</colr>
+</h>
+<p>
+Anklageskrift	 216—218, 257, 269, 303—304, 308—309, 342, 366, 368—369, 377
+</p>
+<p>
+Anmeldelse af Forbrydelser .......... 			 		 189 (jvf. 191)
+</p>
+<p>
+Anordning vedrørende de off. Anklagere							11
+</p>
+<p>
+—	— Stævningsmænd.							 					82
+</p>
+<p>
+—	kgl., om Fængselsordenen					 171
+</p>
+<p>
+Anteciperet Bevisførelse.. 		 39, 111, 115, 125, 192, 204, 207, 208, 224
+</p>
+<p>
+Arkiv, Bettens... 							 77
+</p>
+<p>
+Arrest paa Gods, Beslaglægg. efter Reglerne for		 183—185
+</p>
+<p>
+Barn under 15 Aar, Revselse 						 314, 337
+</p>
+<p>
+Bekræftelse af Vidneforklaring					 110—112
+</p>
+<p>
+—	- Syn og Skøn			 125
+</p>
+<p>
+Benaadning 						387 389
+</p>
+<p>
+Berammelse af alm. Underretssag.				305
+</p>
+<p>
+—	- Politisag									 310
+</p>
+<p>
+Berigtigelser i Domme			 					 . 97
+</p>
+<p>
+—	- Anklageskrift			 		 				 218
+</p>
+<p>
+Besigtigelse . .. 				115 123
+</p>
+<p>
+Beskikkelse af Forsvarer								39 49
+</p>
+<p>
+Beslaglæggelse		 Kap. XVIII, Kap. XVIII, 195, 389
+</p>
+<p>
+Beslutninger af Retten, alm. Regler derom . ..	 Kap. X
+</p>
+<p>
+Besværing, se Kære
+</p>
+<p>
+Betinget-offentlig Paatale	...	 32, 33, 190, 398
+</p>
+<p>
+Bevisbedømmelsens Frihed							256
+</p>
+<p>
+Bevisfortegnelse		 219—221 (jvf. 223), 368, 377
+</p>
+<p>
+Bevisførelse under Domsforhandling	 240, 242—252, 272—274, 296
+</p>
+<p>
+Borgerlige Krav							 3, Kap. XXXII
+</p>
+<p>
+Breve, Beslaglæggelse af .................... 				137-141
+</p>
+<p>
+Bygningslove, Overtrædelse af				 				2, 5, 57
+</p>
+<p>
+Bødedomme 				 						384, 386, 391
+</p>
+<p>
+Deling af Domsforhandling							 240, 241, 299
+</p>
+<p>
+Dokumenter, Oplæsning af — under Domsforhandling					 248—250
+</p>
+<p>
+Domme, alm. Regler om 						66, 93—95, 97, 254—255
+</p>
+<p>
+— , hvor vidt begrænsede ved Tiltalen		 		 257
+</p>
+<p>
+Dommer, speciel Inhabilitet, 			 						 12—17
+</p>
+<p>
+Domsforhandling, hvor .. 				 52—57, 59, 61—64
+</p>
+<p>
+—	alm. Bestemmelser om — ved Landsret................. Kap. XXII
+</p>
+<p>
+—	særl. —	— for Nævninger	 Kap. XXIII
+</p>
+<p>
+_	_	_	— uden — 	 Kap. XXIV
+</p>
+<p>
+—	ved Underret i alm. Underretssager	 Kap. XXV
+</p>
+<p>
+—	- — i Politisager......... . 	 Kap. XXVI
+</p>
+<p>
+—	- Højesteret 						 332
+</p>
+<p>
+—	- Landsret som 2den Instans	 ... 	 340—341
+</p>
+<p>
+Død, Domfældtes.	 318, 355, 360, 391
+</p>
+<p>
+Dødsdom 						387
+</p>
+<p>
+Døve, Afhøring af	 79
+</p>
+<p>
+Edfæstelse, Nævningers 							 				 270
+</p>
+<p>
+—	Syns- og Skønsmænds . 				 		 125
+</p>
+<p>
+—	Vidners					 110—113
+</p>
+<p>
+Efterforskning 			 168, Kap. XIX
+</p>
+<p>
+Eksterritoriale Personer, Vidneforklaring af ............ ................... . . 248
+</p>
+<p>
+Ekstraret, uden for det sædvanlige Tingsted					 102, 150
+</p>
+<p>
+Embedsakter				 			 								136
+</p>
+<p>
+Embedshemmelighed					 99, 136
+</p>
+<p>
+Enkeltdommer har en lignende Myndighed som Retsformanden.	 80
+</p>
+<p>
+Erklæring af Syns- og Skønsmænd						 122—124
+</p>
+<p>
+Erstatning		 	 3, jvf. Kap. XXXII, 85, 106, 113, 175, 183
+</p>
+<p>
+—	for uforskyldt Varetægtsfængsel					 177
+</p>

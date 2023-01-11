@@ -1,0 +1,72 @@
+2231
+<pb n="164" />
+<h>
+<coll>
+2231
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2232
+</colr>
+</h>
+<p>
+fuldmægtig for den forurettede eller som Politiembedsmand eller som Dommer eller<lb />
+i en anden Straffesag bar været Forsvarer for en Sigtet, med hvis Interesse i Sagen<lb />
+den nu Sigtedes staar i Strid, eller hvis Beskikkelse ifølge § 62 Nr. 3 vilde medføre<lb />
+Inhabilitet hos Dommeren.
+</p>
+<p>
+Ere flere Personer sigtede under samme Sag, kan Forsvaret kun udføres af<lb />
+den samme Person, naar de Sigtedes Interesser under Sagen ikke ere modstridende.
+</p>
+<wtitle>§ 712.</wtitle>
+<p>
+Forsvareren beskikkes af vedkommende Bets Formand. Sagerne bør saa vidt<lb />
+muligt fordeles mellem de antagne Forsvarere efter Omgang; ønsker Sigtede en bestemt<lb />
+Person beskikket og oplyser, at denne er villig, bør han i Reglen beskikkes uden<lb />
+Hensyn til den regelmæssige Omgang, forudsat at ingen lovlig Hindring er forhaanden.
+</p>
+<wtitle>§ 713.</wtitle>
+<p>
+Beskikkelsen kan tilbagekaldes, naar det findes nødvendigt i Forsvarets Inter-<lb />
+esse, samt, for saa vidt Sagen ikke derved forhales, efter Begæring af Sigtede, naar<lb />
+han har truffet Overenskomst om Forsvarets Udførelse uden Udgift for det offentlige.
+</p>
+<wtitle>§ 714.</wtitle>
+<p>
+Forsvareren er berettiget til at overvære alle Retsmøder, selv om disse holdes<lb />
+for lukkede Døre (§ 30), den valgte Forsvarer dog kun, for saa vidt han ikke er ude-<lb />
+lukket fra Tilstedeværelse i Medfør af § 797 Nr. 3. Forsvareren er dog, saa længe<lb />
+Tiltale ikke er rejst, udenfor Besigtigelses-, Syns- eller Skønsforretninger eller Af-<lb />
+hørelse af Vidner til Brug ved Oplæsning under Domsforhandlingen, uberettiget til at<lb />
+tage Ordet eller samtale med Sigtede i Retsmødet, jfr. derimod § 800.
+</p>
+<p>
+Under Domsforhandlingen i Landsretssager kan det af Landsrettens Formand<lb />
+tillades, at flere valgte Forsvarere optræde for samme Sigtede, dog kun een for hver<lb />
+enkelt Del af Forhandlingen. Sigtede er berettiget til selv tillige at tage Ordet til<lb />
+sit Forsvar.
+</p>
+<p>
+Den offentlige Forsvarer, som er beskikket til at varetage Sigtedes Tarv under<lb />
+Domsforhandlingen, er beføjet til at give Møde ogsaa under Retshandlinger ved anden<lb />
+Ret, Skal en saadan Retshandling foregaa udenfor den Underretskreds, hvori han<lb />
+bor, kan paa hans Begæring en særlig Forsvarer beskikkes til at møde ved samme.
+</p>
+<p>
+Dog bør i paatrængende Tilfælde Retshandlingen ikke udsættes herefter.
+</p>
+<wtitle>§ 715.</wtitle>
+<p>
+Sigtede har, ogsaa naar han er fængslet, Ret til ukontrolleret Samkvem —<lb />
+skriftligt eller mundtligt — med sin beskikkede Forsvarer. I Henseende til en Sigtets<lb />
+Samkvem med sin valgte Forsvarer i Fængslingstiden kan Dommeren, naar han<lb />
+anser det fornødent, saa længe Tiltale ikke er rejst, anordne fornøden Kontrol.
+</p>
+<wtitle>§ 716.</wtitle>
+<p>
+Misbruger en Sagfører eller nogen til Forsvarer beskikket Mand sin Stilling<lb />
+til at modarbejde Sagens Oplysning, eller gør han sig skyldig i Tilsidesættelse af de<lb />
+ham paahvilende Pligter til behørig at fremme Sagen, bliver han at anse efter Straffe-<lb />
+lovens § 144.
+</p>

@@ -1,0 +1,42 @@
+664
+<pb n="248" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>664</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 1041.</wtitle>
+<p>
+Genoptagelse af Straffesager, der er afsluttede ved upåankelig Dom eller på<lb />
+anden Måde, førend denne Lov træder i Kraft, eller i Henhold til § 1040, kan ske<lb />
+efter Begæring af Rigsanklageren eller Domfældte eller nogen af de i § 941, 2det og<lb />
+3die Punktum, nævnte Personer; i Henseende til sådan Genoptagelse bliver de i Kapitel<lb />
+86 foreskrevne Regler at følge. Om Genoptagelse af en Sag, der er afsluttet ved<lb />
+upåankelig Underretsdom, kan finde Sted, beror på, om Sagen efter denne Lovs<lb />
+Regler vilde høre for Landsretten; Afgørelsen træffes af vedkommende Landsret.
+</p>
+<wtitle>§ 1042.</wtitle>
+<p>
+Denne Lovs Regler om Oprejsning for uforskyldt Anholdelse, Varetægtsfængsel<lb />
+eller Udståelse af Straf såvel som Reglerne om Behandling af Sager vedrørende<lb />
+sådan Oprejsning finder kun Anvendelse, når vedkommende Anholdelse, Fængsling<lb />
+eller Udståelse af Straf helt eller delvis har fundet Sted, efter at denne Lov er<lb />
+trådt i Kraft. Når en Straffesag genoptages i Medfør af Reglerne i Kapitel 86, jfr.<lb />
+§ 1041, bliver Spørgsmålet om Erstatning for uforskyldt Udståelse af Straf eller om<lb />
+Tilbagebetaling af Erstatning for Anholdelse eller Varetægtsfængsel (§ 988) dog at<lb />
+afgøre i Overensstemmelse med denne Lov.
+</p>
+<wtitle>§ 1043.</wtitle>
+<p>
+I Tiden fra Indrykkelsen i Lovtidenden af den i § 1021 omhandlede Bekendtgørelse og indtil 2 År efter Retsplejelovens Ikrafttræden er Justitsministeren bemyndiget til i de kollegiale Retter — herunder dog ikke indbefattet Højesteret — at<lb />
+konstituere i alt indtil 5 Dommere udover det for de pågældende Retter tilsammen<lb />
+fastsatte Antal Dommere.
+</p>
+<title>
+Nr. 90. Lov af 11. April  Rettens Pleje
+</title>

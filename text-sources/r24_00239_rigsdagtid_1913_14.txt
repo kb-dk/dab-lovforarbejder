@@ -1,0 +1,80 @@
+3817
+<pb n="239">
+<h>
+<coll>
+3817
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3818
+</colr>
+</h>
+<p>
+Overensstemmende hermed kan det af den overordnede Ret, til hvilken Anke<lb />
+har fundet Sted, paalægges en Dommer at bære Omkostninger, efter at der er givet<lb />
+ham Lejlighed til at fremføre sit Forsvar.
+</p>
+<p>
+Bortfalder en Straffesag, hvis offentlige Forfølgning er betinget af den forurettedes<lb />
+Begæring, fordi denne tager sin Begæring tilbage, kan han efter Overanklagerens eller<lb />
+Politimesterens Paastand tilpligtes at erstatte det offentlige de dette paaførte Udgifter.
+</p>
+<lowtitle>§ 1012.</lowtitle>
+<p>
+Om Erstatning af Omkostninger træffer Retten Afgørelse ved Dommen eller,<lb />
+naar Sagen endes uden Dom, ved Kendelse.
+</p>
+<p>
+Er Spørgsmaalet om Erstatning af Omkostninger ved enkelte Retshandlinger<lb />
+eller Afsnit i Sagens Behandling uafhængigt af Sagens Udfald, kan der straks derom<lb />
+træffes Afgørelse ved Kendelse.
+</p>
+<p>
+Trediemand, hvem det paalægges at erstatte Omkostningerne, bør der forinden<lb />
+være givet Lejlighed til at udtale sig herom, for saa vidt ikke særegne Forskrifter ere<lb />
+givne, saasom med Hensyn til udeblevne Vidner.
+</p>
+<lowtitle>§ 1013.</lowtitle>
+<p>
+Naar en Dom er paaanket, prøver den overordnede Ret Omkostningsspørgs-<lb />
+maalet, for saa vidt dettes Afgørelse afhænger af Ankens Udfald, eller det særlig er<lb />
+inddraget under Anken. En tilsvarende Regel gælder, naar Kæremaal rejses mod en<lb />
+Kendelse, der har paalagt Erstatning af Omkostninger i Forbindelse med Straf eller<lb />
+lignende Følger. I 'andre Tilfælde kan Kæremaal rejses mod Rettens Afgørelse af<lb />
+Omkostningsspørgsmaal, naar Afgørelsen er uafhængig af Sagens Udfald, og de paa-<lb />
+lagte Omkostningers Beløb kan antages at ville overstige 40 Kr.
+</p>
+<p>
+Foranstaaende Regler gælde ogsaa med Hensyn til Fastsættelse af Vederlag<lb />
+til offentlige Anklagere, hvor derom bliver Spørgsmaal,   og til beskikkede Forsvarere.
+</p>
+<p>
+Omkostninger, som det er paalagt at erstatte, inddrives efter de i Bogen om<lb />
+den borgerlige Retspleje foreskrevne Regler.
+</p>
+<lowtitle>§ 1014.</lowtitle>
+<p>
+For saa vidt der i Straffesager bliver Spørgsmaal om Afgifter til Statskassen,<lb />
+kan fri Proces meddeles overensstemmende med Reglerne i Kapitel 31.
+</p>
+<title rend="chapter">Kapitel 92</title>
+<title rend="subtitle">
+Rettergangsbøder m. m.
+</title>
+<lowtitle>
+§ 1015.
+</lowtitle>
+
+<p>
+Naar en offentlig Anklager, som faar Vederlag for den enkelte Sag eller en<lb />
+Forsvarer eller Rettergangsfuldmægtig for en privat Sagsøger gør sig skyldig i skødesløs<lb />
+eller forsømmelig Adfærd i Sagen, kan han ved Dommen eller efter Omstændighederne<lb />
+ved Kendelse anses med en Bøde fra 20 til 400 Kr.
+</p>
+<p>
+For andre Pligtovertrædelser under Sagen kunne de nævnte Personer paa lig-<lb />
+nende Maade straffes, naar Sagen findes klar, og højere Straf end Bøder ikke findes<lb />
+at være forskyldt.
+</p>
+
+</pb>

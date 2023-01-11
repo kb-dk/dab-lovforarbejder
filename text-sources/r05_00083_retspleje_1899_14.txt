@@ -1,0 +1,40 @@
+77
+<pb n="83" />
+<h>
+<topmidle>Kap. XVIII. Behandl. ved Landsret.      77</topmidle>
+</h>
+<p>påberåbe sig Dokumenter, der ikke allerede ere Modparten bekendte, skal mindst 8<lb />
+Dage forud afgive dem til denne i Original<lb />
+eller fuldstændig eller delvis Genpart<lb />
+(§ 211), og, hvis ikke Originalen udlånes,<lb />
+henlægge denne til Eftersyn på Rettens<lb />
+Kontor.</p>
+<wtitle>§ 216.</wtitle>
+<p>Når en Part, efter at Domsforhandlingen er berammet, begærer denne udsat,<lb />
+fordi Tiden til Bevisets Tilvejebringelse<lb />
+viser sig utilstrækkelig, eller fordi nye Beviser, Påstande eller Anbringender ere<lb />
+fremkomne eller af andre særlige Grunde,<lb />
+kan Retten tilstå sådan Udsættelse, efter<lb />
+at så vidt muligt Modparten er hørt.</p>
+<p>Udsættelse af Domsforhandlingen kan<lb />
+fremdeles ske på Grund af Hindringer for<lb />
+Retten eller Forfald for Sagførere, Parter,<lb />
+Vidner, Syns- eller Skønsmænd, hvis personlige Møde er nødvendigt. Den, for hvem<lb />
+Forfald er indtrådt, skal snarest muligt anmelde det til Retten.</p>
+<p>Beslutter Retten Udsættelse, har den<lb />
+desangående så vidt muligt at meddele<lb />
+Parterne og de indkaldte Vidner eller Synsog Skønsmænd Underretning forinden det<lb />
+oprindeligt berammede Retsmøde.</p>
+<p>Når Tiden for Domsforhandlingen er<lb />
+kommen, eller denne er begyndt, må den<lb />
+ikke uden tvingende Nødvendighed udenfor<lb />
+de i § 218 angivne Betingelser udsættes,<lb />
+og når Retten finder det ubetænkeligt, kan<lb />
+da en blot delvis Udsættelse af Sagen finde<lb />
+Sted. I øvrigt træffer Retten de nødvendige Bestemmelser om Sagens Fortsættelse og kan, om fornødent, bestemme, at<lb />
+en allerede stedfunden Bevisførelse skal gentages.</p>
+<wtitle>§ 217.</wtitle>
+<p>Ved Domsforhandlingen skulle Formalitetsindsigelser behandles før Realiteten<lb />
+og påkendes særskilt, medmindre Retten<lb />
+bestemmer, at de alle eller nogle af dem<lb />
+skulle forhandles i Forbindelse med Realiteten.</p>

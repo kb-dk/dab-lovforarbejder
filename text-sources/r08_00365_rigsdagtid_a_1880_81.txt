@@ -1,0 +1,47 @@
+4095
+<pb n="365" />
+<h>
+<coll>4095</coll>
+<topmidle>Ml. t. Lovs. om Retsafgifter m, m.</topmidle>
+<colr>4096</colr>
+</h>
+<wtitle>§ 73.</wtitle>
+<p>For de i Lov om Strafferetspleien § 449, 1ste og sidste Stykke, ommeldte Modsøgsmaal<lb />
+erlægges Afgift efter Reglerne i henholdsvis § 13 og § 72.</p>
+<wtitle>§ 74.</wtitle>
+<p>I Tilfælde af Domssagens Paaanke til høiere Ret bliver den i § 8 fastsatte Afgift at er-<lb />
+lægge af hver antende Part (jfr. dog § 7?) ved Paaankens Anmeldelse eller det i Lov om Straffe«<lb />
+retspleien § 379 ommeldte Andragendes Indgivelse.</p>
+<p>Samme Afgift erlægges for Berammelsen af Hovedforhandling.</p>
+<wtitle>§ 75.</wtitle>
+<p>For Anmeldelse og Behandling i det Hele af besværing til høiere Ret erlægges Afgift i<lb />
+Overensstemmelse med Reglen i § 24.</p>
+<wtitle>§ 76.</wtitle>
+<p>For Anhængiggjørelse og Behandling i det Hele af Andragender om ny Foretagelse af<lb />
+Domsfagen ved samme Ret i Henhold til Reglerne i Lov om Strafferetspleien §§ 423—426, jfr.<lb />
+§ 455, erlægges under Et den i § 8 fastsatte Afgift. For selve Sagens fornyede Foretagelse er-<lb />
+lægges ingen Afgift.</p>
+<wtitle>§ 77.</wtitle>
+<p>Afgiftsfri er Anvendelse af Retsmidler fra den Sigtedes Side imod Strassespørgs-<lb />
+maalets Afgjørelse, forsaavidt han er anset med høiere Straf end Bøder, samt mod fængs-<lb />
+lingskjendelse.</p>
+<wtitle>§ 78.</wtitle>
+<p>For Inddrivelse af Bøder, som ere tillagte den Forurettede, og Erstatning, der under<lb />
+Straffesagen er tilkjendt ham, erlægges de i 2vet Afsnit, 2det Kapitel, Afdeling I. fast-<lb />
+sætte Afgifter.</p>
+<wtitle>§ 79.</wtitle>
+<p>Paa Beslaglæggelse i Henhold til Lov om Strasseretspleien § 207, 2det Stykke, sinde Af-<lb />
+giftsreglerne i 2det Afsnits 3die Kapitel Anvendelse.</p>
+<wtitle>§ 80.</wtitle>
+<p>Ved Anvendelsen af Reglerne i dette Afsnit blive iøvrigt Bestemmelserne i 1ste Afsnit,<lb />
+2det Afsnits §§ 12, 20, 21 Nr. 1, 22 samt 23 Nr. 1—2 og 4 at iagttage.</p>
+<title>II.</title>
+<undertitle>Om Afgifterne i andre Straffesager.</undertitle>
+<wtitle>§ 81.</wtitle>
+<p>I andre Straffesager end de i foranstaaende Afdeling omhandlede bliver Afgift kun at<lb />
+erlægge for Inddrivelsen af Erstatning, der under Straffesagen er tilkjendt den Forurettede,<lb />
+overensstemmende med Reglerne i 2det Afsnits 2det Kapitel Afdeling I., for Beslag-<lb />
+læggelse, der i Henhold til Lov om Strasseretspleien § 207, 1ste Stykke, foretages efter<lb />
+Andragende af den Forurettede, overensstemmende med Reglerne i 2det Afsnits 3die Kapitel,<lb />
+samt endelig for Besværing til høiere Ret, forsaavidt den iværksættes af Tredjemand, i Overensstcm-<lb />
+melse med § 24.</p>

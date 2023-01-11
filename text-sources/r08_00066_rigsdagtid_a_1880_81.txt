@@ -1,0 +1,48 @@
+3495
+<pb n="66" />
+<h>
+<coll>3495</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3496</colr>
+</h>
+<wtitle>§ 171.</wtitle>
+<p>Dersom Sagfsgte undlader at meddele Sagssgeren Tilsvarsstrift paa den i § 162<lb />
+bestemte Maade, anses han at samtykke i, at Sagen gaar til mundtlig Forhandling i det<lb />
+ved Varselspaategningen berammede Mode. Sagfsgeren er derfor berettiget til s Dage<lb />
+forinden dette Retsmode at meddele Sagsogte sin Sagsfremstilling, og Sagssgte bliver da<lb />
+pligtig til senest inden Middag Kl. 12 Dagen forinden Modet at meddele Eagsogeren sin<lb />
+Sagsfremstilling, dersom han ikke i Overensstemmelse med Reglen i § 170 1ste Stykke vil<lb />
+anses for udebleven.</p>
+<wtitle>§ 172.</wtitle>
+<p>Al Skriftvezling, derunder ogsaa Klageskrifts meddelelse forud for det i § 167 om-<lb />
+handlede Retsmode, kan aldeles bortfalde ester Overenskomst imcllem Parterne. Disse kunne<lb />
+da, naar de senest Dagen forud anmelde Eagen for Retten til Optagelse paa Saglisten og<lb />
+Opførelse paa Tillægget til Retslisten efter H 79, fremstille sig i et ordentligt Retsmode og<lb />
+overgive til Retten saadanne Sagsfremstillinger, som omhandles i § 166, med Begjæring<lb />
+om, at Sagen maa blive mundtligt forhandlet enten straz eller senere efter Rettens nanmere<lb />
+Bestemmelse.</p>
+<title>Kapitel  II.</title>
+<undertitle>Om Sagens Behandling, efterat den mundtlige Forhandling er begyndt.</undertitle>
+<wtitle>§ 173.</wtitle>
+<p>I det i § 163 omhandlede ved Varselspaategningen bestemte Retsmode kan enhver<lb />
+af Parterne fremkomme med Formalitetsindsigelser, forsaavidt Retten ikke, efter Indsigelsernes<lb />
+Beskaffenhed maatte finde det rigtigere at udskyde Afgjørelsen af dem til et senere Trin af<lb />
+Sagens Behandling.</p>
+<p>Gaa den Sagssgtes Anker ud paa, at Klage skriftet ikke er behørigt meddelt, eller at<lb />
+der ikke er givet ham beherigt Varsel, bliver Sagen i Tilfælde af, at Ankerne findis grun-<lb />
+dede, dog ikke at afvise, forsaavidt Manglerne kunne afhjælpes ved, om fornødent, at give den<lb />
+Sagssgte en yderligere Frist til at fremkomme med sit Tilsvar.</p>
+<wtitle>§ 174.</wtitle>
+<p>Dersom Formalitetsindsigelserne ikke i Henhold til foregaaende Paragraf ere afgjorte<lb />
+tidligere, have Parterne i det til den mundtlige Forhandling bestemte Retsmode, at frem-<lb />
+komme med deres Formalitetsindsigelser, forinden Forhandlingerne om Sagens Realitet<lb />
+begynde. Formalitetsindsigelserne blive da soerskilt at forhandle og paakjende,<lb />
+medmindre Retten efter en af Parternes BeMring bestemmer, at Forhandlingen og Paakjendelsen skal foregaa<lb />
+i Forbindelse med Realiteten. Samtlige Formalitetsindsigelser maa fremsættes paa engang;<lb />
+de ikke medtagne maa anses som frafaldne. Formalitetsproceduren foregaar enten straf eller<lb />
+i et følgende Retsmode,   dersom  Retten finder Grund til at udsætte Forhandlingen.</p>
+<wtitle>§ 175.</wtitle>
+<p>Imod Sagsøgerens Protest kan der ikke tages Henfyn til andre Formalitetsindsigelser<lb />
+fra den Eagssgtes Side end dem, som han efter Omstændighederne igjennem sit Tilsvars-<lb />
+firift eller sin Sagsfremstilling har meddelt Sagssgercn, eller som gaa ud paa, at denne ikke<lb />
+har  sat ham istand til at give ham  behorigt Varsel til at fremkomme med sit Tilsvarsskrift.</p>

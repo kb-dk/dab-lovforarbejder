@@ -1,0 +1,51 @@
+3815
+<pb n="226" />
+<h>
+<coll>3815</coll>
+<topmidle>Korsl. t. L. om Strafferetspleien.</topmidle>
+<colr>3816</colr>
+</h>
+<wtitle>§ 285.</wtitle>
+<p>Naar Forhandlingen afbrydes, fordi Retsmodet udfættes eller sluttes, fortsættes den<lb />
+henholdsvis til den for Retsmodets Gjenoptagelse af Formanden fastsætte Tid eller i det<lb />
+næste paafolgende Retsmode.</p>
+<p>Sker Afbrydelse paa Grund af Sagens Udscetielse, tilkjendegives det alle Vedkom-<lb />
+mende, at de skulle møde til den Tid, som berammes i Retsmodet, eller hvorom senere med-<lb />
+delelse finder Sted.</p>
+<wtitle>§ 286.</wtitle>
+<p>Eslerat Hovedsorhandlingen er begyndt, bor Formanden kun udsætte Sagen, være sig<lb />
+paa Andragende eller i Embeds medfør, naar det ifolge Lovens Bud eller ievrigt af vigtige<lb />
+Grunde findes nodvendigt.</p>
+<p>Om Udfatttelsesgrund?, som indtræde paa en Tid, da Hovedforhandlingen er udsat,<lb />
+paahviler det enhver Vedkommende snarest mulig at underrette Nettens Formand, for at Be-<lb />
+stemmelse oin Udsættelse om mulig kan tages og meddelelse til alle Vedkommende finde Sted,<lb />
+forend Sagen paany skulde bavc roeret for.</p>
+<wtitle>§ 287.</wtitle>
+<p>Hovedforhandlingen er munotlig; Skrift anvendes kun i det Omfang, i bvilket Loven<lb />
+særlig bestemmer det.</p>
+<p>Ved de mundtlige Udtalelser benyttes frit Foredrag- Oplæsning tilstedes kun, hvor<lb />
+Loven hjemler det.</p>
+<wtitle>§ 288.</wtitle>
+<p>Rettens Formand leder Hovedforhandlingen. Han bestemmer Rcekkefolgcn af de en-<lb />
+kelte Dele af Forhandlingen, forsaavidt Loren ikke indeholder Forskrifter derom. Ingen maa<lb />
+tage Ordet uden ifolge hans Tilladelse; han kan fratage den Part Ordet, som ikke vil rette<lb />
+sig efter bans Ledelse. Han drager Omsorg for saavidt mulig at fjerne Alt, hvad der til<lb />
+Unytte trcrkker Forhandlingen i Langdrag, og slutter Forhandlingens enkelte Dele, naar ban<lb />
+anser det foreliggende Emne for tilstrækkelig behandlet.</p>
+<p>Oni Slutning af BeviZforelsen i det Hele eller om et enkelt Punkt, forend alle Be-<lb />
+viserne ere fremforte, samt om Gjcntagelse af den sluttede Bcvisforelse, tager Retten Beslutning.</p>
+<wtitle>§ 289.</wtitle>
+<p>Omsatter Hovedforhandlingen Anklage mod den samme Person for flere strafbare<lb />
+Handlinger eller Anklage mod flere Personer, skal Formanden ordentligvis lade Forhandlingen<lb />
+foregaa og tilendebring!' pottvis for dc cnkelrc Forbrvdelser. Dommen omsatter all? Anklage-<lb />
+punkter under Et.</p>
+<wtitle>§ 290.</wtitle>
+<p>Fremsættes Afvisningspåstand, eller antager Rettens Formand, at Omstændigheder<lb />
+ere tilstede, ifolge hvilke der kan opstaa spørgsmaal om Afvisning, kan han udsætte eller<lb />
+standse Forhandlingen cm Sagens Realitet og sætte Afvisningsspørgsmaalet færlig under<lb />
+Forhandling.   Naar Afvisningsdom ikke afsiges, fortsættes den afbrudte Forhandling.</p>
+<p>Tilsvarende Regler finde Anvendelse, naar der opstaar Spergsmaal, om Anklageren<lb />
+er paatalebercttiget.</p>
+<wtitle>§ 291.</wtitle>
+<p>Den Sigtede hores as Rettens Formand angaaende Tigtelsen og de Beviser, som<lb />
+fremfores mod ham.   Dommerne og Nævningerne,  Anklageren og Forsvareren knnne andrage</p>

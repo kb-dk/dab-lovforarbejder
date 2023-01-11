@@ -1,0 +1,131 @@
+3643
+<pb n="1085" >
+<p rend="page">1085</p>
+<h>
+<coll>3643</coll>
+<colr>3644</colr><lb />
+Grundlovens tredie Læsning.<lb />
+3643<lb />
+</h>
+<leftside>
+<p>
+<law n="1085" >§ 73.<lb /></law>
+Rigsretten paakjender de af Folkethinget mod Ministrene anlagte<lb />
+Sager.<lb />
+For Rigsretten kan Kongen lade ogsaa Andre tiltale for Forbrydelser, som han finder særdeles farlige for Staten, naar Folkethinget dertil giver sit Samtykke.<lb />
+<law n="1085" >§ 74.<lb /></law>
+Den dømmende Magts Udøvelse kan kun ordnes ved Lov.<lb />
+<law n="1085" >§ 75.<lb /></law>
+Den med viske Eiendomme forbundne dømmende Myndighed<lb />
+skal ophæves ved lov.<lb />
+<law n="1085" >§ 76.<lb /></law>
+Retspleien bliver at adskille fra Forvaltningen efter de Regler,<lb />
+der fastsættes ved Lov.<lb />
+<law n="1085" >§ 77.<lb /></law>
+Domstolene ere berttigede til at paakjende ethvert Spørgsmaal<lb />
+om Øvrighedsmyndighedens Grændser. Dog kan den, der vil reise<lb />
+saadant Spørgsmaal, ikke ved at bringe Sagen for Domstolene<lb />
+unddrage sig fra foreløbigen at efterkomme Øvrighedens Befaling.<lb />
+<law n="1085" >§ 78.<lb /></law>
+Dommerne have i deres Kald alene at rette sig efter Loven.<lb />
+De kunne ikke afSÆTTES uden ved Dom eiheller forflyttes mod deres<lb />
+Ønske, udenfor de Tilfældee hvor en Omordning af Domstolene finder<lb />
+Sted. Dog kan den Dommer, der har fyldt sit 65de Aar, affkediges,<lb />
+men uden Tab af Indtægter.<lb />
+<law n="1085" >§ 79.<lb /></law>
+Offentlighed og Mundtlighed skal saa snart og saa vidt som<lb />
+muligt gjennemføres ved hele Retspleien.<lb />
+</p>
+<p>
+I Misgjerningssager og i Sager, der reise sig af politiske Lovovertrædelser, skulle Nævninger indføres.<lb />
+</p>
+<title>
+VII.<lb />
+</title>
+<p>
+<law n="1085" >§ 80.<lb /></law>
+Folkekirkens Forfatning ordnes ved Lov.<lb />
+<law n="1085" >§ 81.<lb /></law>
+Borgerne have Ret til at forne sig i Samfund for at dyrke<lb />
+Gud paa den Maade, der stemmer med deres Overbeviisning, dog at<lb />
+Jntet læres eller foretages, som strider mod Sædeligheden eller den<lb />
+offentlige Orden.<lb />
+<law n="1085" >§ 82.<lb /></law>
+Ingen er pligtig at yde personlige Bidrag til nogen anden Gudsdyrkelse end den, som er hans egen; dog skal Enhver, der ikke godtgjør at være Medlem af et i Landet anerkjendt Troressamfund, til<lb />
+Skolevæsenet svare de til Folkekirken lovdefalede personling Afgifter.<lb />
+<law n="1085" >§ 83.<lb /></law>
+De fra Folkekirken afvigende Troessamfunds Forhold ordnes<lb />
+nærmere ved Lov.<lb />
+<law n="1085" >§ 84.<lb /></law>
+Ingen kan paa Grund af sin Troesbekjendelse berøves Adgang<lb />
+til den fulde Nydelse af borgerlige og politiske Rettigheder, eller unddrage sig Opfyldelsen af nogen almindelig Bprgerpligt.<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+VIII.<lb />
+<law n="1085" >§ 85.<lb /></law>
+Enhver, der anholdes, skal inden 24 Timer stilles for en Dommer. Hvis den Anholdte ikke strax kan sættes paa fri Fod, skal<lb />
+Dommeren ved en af Grunde ledsaget Kjendelse, der afgives snarest<lb />
+muligt og senest inden 3 Dage, adgjøre, at han skal fængsles, og,<lb />
+hvis han kan løslades mod Sikkerhed, bestemme dennes Art eller<lb />
+Størrelse.<lb />
+</p>
+<p>
+Den Kjendelse, som Dommeren afsiger, kan af Vedkommende<lb />
+strax særskilt indankes for høiere Ret.<lb />
+</p>
+<p>
+Ingen kan underkastes Varetægtsfængsel for en Forseelse, som<lb />
+kun kan medføre Straf af Pengebod eller simpelt Fængsel.<lb />
+<law n="1085" >§ 86.<lb /></law>
+Boligen er ukrænkelig. Huusundersøgelse, Beslaglæggelse og Undersøgelse af Breve og andre Papirer maa, hvor ingen Lov hjemler<lb />
+en særegen Undtagelse, alene skee efter en Retskjendelse.<lb />
+<law n="1085" >§ 87.<lb /></law>
+Eiendomsretten er ukrænkelig. Ingen kan tilpligtes at afstaae<lb />
+sin Eiendom, uden hvor Almeenvellet kræver  det. Det kan kun skee<lb />
+isølge Lov og mod fuldstændig Erstatning.<lb />
+<law n="1085" >§ 88.<lb /></law>
+Alle Indskrænkninger i den frie og lige Adgang til Erhverv, som<lb />
+ikke ere begrundede i det almene Vel, skulle hæves ved Lov.<lb />
+<law n="1085" >§ 89.<lb /></law>
+Den, som ikke selv kan ernære sig eller Sine, og hvis Forsørgelse ikke paaligger nogen Anden, er berettigt til at erholde Hjælp<lb />
+af det Offentlige, dog mod at underkaste sig de Forpligtelser, som<lb />
+Lovene herom paabyde.<lb />
+<law n="1085" >§ 90.<lb /></law>
+De Børn, hvis Forældre ikke have Evne til at sørge for deres<lb />
+Oplærelse, ville erholde fri Underviisning i Almueskolen.<lb />
+<law n="1085" >§ 91.<lb /></law>
+Enhver er berettiget til ved Trykken at offentliggjøre sine Tanker,<lb />
+dog under Ansvar for Domstolene. Censur og andre forebyggende<lb />
+Forholdsregler kunne ingensinde paany indføres.<lb />
+<law n="1085" >§ 92.<lb /></law>
+Borgerne have Ret til uden foregaaende Tilladelse at indgaae<lb />
+Foreninger i ethvert lovligt Øiemed. Ingen Forening kan ophæves<lb />
+ved en Regjeringsforanstaltning. Dog kunne Foreninger foreløbigen<lb />
+forbydes, men der skal de strax anlægges Sag mod Foreningen til<lb />
+dens Ophævelse.<lb />
+<law n="1085" >§ 93.<lb /></law>
+Borgerne have Ret til at samles ubevæbnede. Offentlige Forsamlinger har Politiet Ret til at overvære Forsamlinger under<lb />
+aaben Himmel kunne forbydes, naar der af dem kan befrygtes fare<lb />
+for den offentlige Fred.<lb />
+<law n="1085" >§ 94.<lb /></law>
+Ved Opløb maa den væbnede Magt, naar den ikke angribes, kun<lb />
+indskride, efterat Mængden 3 Gange i Kongens og Lovens Navn<lb />
+forgjæves er opfordret til at adskilles.<lb />
+<law n="1085" >§ 95.<lb /></law>
+Enhver vaabenfør Mand er forpligtet til med sin Person at<lb />
+bidrage til Fædrelandets Forsvar, efter de nærmere Bestemmelser,<lb />
+som Loven foreskriver.<lb />
+</p>
+<morenext>
+(Fortsættes.)<lb />
+</morenext>
+</rightside>
+<underpage>
+Trykt og forlagt af Kgl. Hofbogtrykker Bianco Luno.<lb />
+</underpage>
+
+
+
+</pb>

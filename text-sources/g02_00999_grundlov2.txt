@@ -1,0 +1,66 @@
+3471
+<pb n="999" >
+<p rend="page">999</p>
+<h>
+<coll>3471</coll>
+<colr>3472</colr><lb />
+Regulativ for Kongeriget Danmarks Inddeling i Valgkredse.<lb />
+</h>
+<table>
+Amt.	Valgkredsene i hvert Amt.	Valgkredsenes Sammensætning.	Beboernes Antal i Hver Valgkreds	Mødestedet.<lb />
+III. Holbek.	1.	Holbek Kjsbstad, Meeløse, Tøllsse og Aagerup, Nørrejernløse og	14, 892	Holbek Kjøbstad.<lb />
+		Qvandløse, Soderup og Eskildstrup, Asminderup og Grandløse,<lb />
+		Taastrup og Uggeløse, Ondløse og Søndersted, Butterup og<lb />
+		Tudse, Sønderjernløse og Søstrup.<lb />
+	2.	Kundby, Hjembek og Svinninge, Hørby, Udby, Stifsbjergby	14, 164	Faurbo Kro.<lb />
+		og Mørke, Jyderup og Holmstrup, Hagested og Gislinge,<lb />
+		Skamstrup og Frydendahl, Bregninge og Bjergsted, Viskinde<lb />
+		og Aunsø, og Aunsø, Væesløv og Jordløse.<lb />
+	3.	Ørsløv og Solberg, Nidløse, Steenlille, Havreberg, Giersløv,	14, 752	Vedby Kro.<lb />
+		Finderup, Tersløse og Skjelleberg, Reersløv og Vedby, Sæ		by og Hallensløv, Gjørlov og Bakkendrup, Helsinge og<lb />
+		Drøsselbjerg, Svallerup, Store- og Lille-Fuglede.<lb />
+	4.	Kallundborg Kjøbstad, Do. Landdistrikt, Rakløv, Refsnæs, Rør-	15, 257	Kallundborg Kjøbstad.<lb />
+		by, Udby, Aarby, Tommerup, Koldby, Besser og Onsberg,<lb />
+		Traneberg, Nordby, Kyholm, Seierø, Thunø.<lb />
+	5.	Nykjøbing Kjøbstad, Rørvig, Vig og Asminderup, Grevinge,	14, 369	Nykjøbing Kjøvstad.<lb />
+		Egebjerg, Asnæs, Høiby, Faareveile, Odden, Vallekilde og<lb />
+		Hørve, Følleslov og Særsløv.<lb />
+IV. Sorø.	1.	Ringsted Kjøbstad, Do. Landsogn, Beenløse, Haraldsted og Al-	13, 755	Ringsted Kjøbstad.<lb />
+		lindemagle, Jydstrup og Valsølille, Hasle og Freersløv,<lb />
+		Vigersted og Qværkeby, Nordrup og Farringløse, Terslov og<lb />
+		Ørsløv, Førsløv og Sneesløv, Braaby, Thestrup.<lb />
+	2.	Sorø Kjøbstad, Do. Landsogn, Gyrstinge og Flinterup, Munke-	13, 054	Sorø Kjøbstad.<lb />
+		bjergby, og Bromme, Pedersborg og Kindertoste, Liunge og<lb />
+		Broby, Steenmagle, Slaglille og Bjernede, Alsted og Fjen		nesløv, Sigersted og Bringstrup, Vetterslov og Høm.<lb />
+	3.	Slagelse Kjøbstad, Do. Landsogn, Heininge, Korsør Kjøbstad,	13, 669	Slagelse Kjøbstad.<lb />
+		Taarnborg, Vemmeløv og Hemmershøi, Sønderup og Nordrup,<lb />
+		Sorterup og Ottestrup, Stillinge, Gudum.<lb />
+	4.	Skjelstør Kjøbstad, Do. Landdistrikt, Slotsbjergby og Sludstrup,	13, 571	Skjelskør Kjøbstad.<lb />
+		Lundforlund og Gjerløv, Boeslunde, Eggersløvmagle, Tjære		by, Ørsløv og Bjerre, Skjørpinge og Faardrup, Gimlinge,<lb />
+		Magleby, Høve og Flakkebjerg, Hyllested, Bensløv og Hol		stenborg, Agersø og Omø.<lb />
+	5.	Marvede og Hyllinge, Vallensved, Tjustrup og Haldagerlille,	12, 518	Fugleberg Kro.<lb />
+		Herlufsholm, Førsløv, Qvislemark og Fjurendahl, Krumme		rup og Fugleberg, Karrebek, Fodby, Gundersløv, Haarsløv<lb />
+		og Tingjellinge, Sørbymagle og Kirkerup.<lb />
+V. Præste.	1.	Herfølge og Sædder, Vollerslov og Gjørsløv, Haarløv og	13, 949	Vallø<lb />
+		Himilingøie, Valls Stist, Vallø By og Taarnby, Endersløv<lb />
+		og Vraaby, Lidemark og Bjeverskov, Lellinge, Strøby og<lb />
+		Varpeløv, Magleby og Holtug, Storehedinge, Do. Landsogn,<lb />
+		Høierup.<lb />
+	2.	Lillehedinge og Haunsløv, Lyderslev og Frørslev, Spjellerup og	13, 104	Rønnede Kro.<lb />
+		Smerup, Hellested, Carise og Alslev, Dalby og Thureby,<lb />
+		Vemmetoste, Farø, Østeregede og Vesteregede, Kongsted, Ulsø.<lb />
+	3.	Nestved Kjøbstad, Do. Landdistrikt, Herlufmagle og Thybjerg,	13, 731	Nestved Kjøbstad.<lb />
+		Næsby og Tyvelse, Glumsø og Bavelse, Skjelby, Sand		by og Vrangstrup, Fensmark og Riisløv, Aversie, Rønnebek<lb />
+		og Olstrup, Nestelsø og Mogenstrup, Toxværd.<lb />
+	4.	Præstø Kjøbstad, Do. Landdistrikt, Skibbinge, Everdrup, Sne-	12, 747	Præsts Kjøbstad.<lb />
+		fere, Roholte, Baarse og Beldringe, Jungshoved, Allersløv,<lb />
+		Mehrn, Kallehauge.<lb />
+	5.	Vordingborg Kjøbstad, Do. Landdistrikt, Kastrup, Udby og Ørs-	12, 200	Vordingborg Kjøbstad.<lb />
+		løv, Sværdborg, Kjøng, Veilø og Besteregi[b]borg, Hammer<lb />
+		og Lundby, Østeregi??borg.<lb />
+	6.	Stege Kjøbstad, Do. Landdistrikt, Magleby, Borre, Elmelunde,	13, 184	Stege Kjøbstad.<lb />
+		Kjeldby, Damsholt, Phanefjord, Bogø, Nyord.<lb />
+</table>
+
+
+</pb>

@@ -1,0 +1,65 @@
+2149
+<pb n="1" />
+<h>
+<coll>2149</coll>
+<colr>2150</colr>
+</h>
+<title>
+XXII.<lb/>
+Forslag til Lov<lb/>
+om<lb/>
+den borgerlige Retspleje.
+</title>
+<undertitle>
+(Fremsat i Folketinget den 26de Oktober 1901 af Justitsminister Alberti.)
+</undertitle>
+<title>Første Afsnit.</title>
+<title>
+Almindelige Bestemmelser.
+</title>
+<title>Kapitel I.</title>
+<undertitle>
+Retternes Virkekreds.
+</undertitle>
+<wtitle>§ 1.</wtitle>
+<p>
+Enhver borgerlig Retstrætte, som ikke ved særlig Lovforskrift er henlagt til<lb/>
+eller ifølge Overenskomst mellem Parterne (§ 11) indbringes for Underret, behandles<lb/>
+i første Instans af Landsret.
+</p>
+<wtitle>§ 2.</wtitle>
+<p>
+Til Underretterne henlægges:
+</p>
+<p>
+1)	Sø gsmaal angaaende private Formuerettigheder, naar Genstanden for samme i<lb/>
+Penge eller Penges Værd ikke overstiger 400 Kr.
+</p>
+<p>
+2)	Sager angaaende Skatter, Afgifter og andre lignende Ydelser af offentligretlig<lb/>
+Beskaffenhed til Stat, Kommune, Embeder og andre offentlige Indretninger, naar<lb/>
+Grenstanden for samme ikke overstiger 400 Kr.
+</p>
+<p>
+3)	Sager angaaende Servituter og mindre omfattende (partielle) Brugsrettigheder.
+</p>
+<p>
+4)	Sager om Veksler og visse andre Gældsbreve (§ 293, jfr. § 290).<lb/>
+5) Ægteskabssager (§ 295).
+</p>
+<p>
+6) Sager angaaende Mortifikation af Gældsbreve, ved hvilke der er givet Pant i<lb/>
+fast Ejendom (§ 314).
+</p>
+<p>
+7) Sager, hvorved Faderskabet til uægte Børn søges oplyst, for at Underholdsbidrag<lb/>
+kan paalægges Faderen.
+</p>
+<p>
+8) De i § 322, sidste Stykke ommeldte Sager.
+</p>
+<p>
+9) Sager angaaende strafbare Handlinger, der ved Lovgivningen ere henviste til<lb/>
+privat Forfølgning, jfr. Lov om Strafferetsplejens § 35, for saa vidt der ikke<lb/>
+paastaas højere Erstatning end 400 Kr.
+</p>

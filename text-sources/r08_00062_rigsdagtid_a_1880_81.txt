@@ -1,0 +1,43 @@
+3487
+<pb n="62" />
+<h>
+<coll>3487</coll>
+<topmidle>Forsl. t. L. om den borgerlige retspleie.</topmidle>
+<colr>3488</colr>
+</h>
+<title>Kapitel XIII.</title>
+<undertitle>Om den tvnugne Forligsprsue.</undertitle>
+<wtitle>§ 154.</wtitle>
+<p>Gjenstand for tvungen Forligsmægling ere alle borgerlige Domssager i fsrste In«<lb />
+stants.    Dog er Forligsprøve ei fornøden:</p>
+<p>a) naar Sagsogte ikke har Bopæl her i Landet;</p>
+<p>d)  naar Modfordringer gjøres gjældende, om endog felvftændig Dom for dem paastaas;</p>
+<p>e)  naar exekutivproces anvendes, jfr. § 382.</p>
+<wtitle>§ 155.</wtitle>
+<p>I Underretsfager foregaar Forligmæglingen ved Retten paa den Maade, som hidtil<lb />
+har vårret gjældende med Hensyn til private Politifager.</p>
+<wtitle>§ 156.</wtitle>
+<p>I Landsretssager foregaar Forligsmcrglingen ved Forligskommissionen under Iagtta-<lb />
+gelse af de hidtil herom gjældende Regler.</p>
+<wtitle>§ 157.</wtitle>
+<p>Selv om der ikke fremsættes Formalitetsindsigelser hentede fra Mangler ved Forligs-<lb />
+mæglingen, har Retten ved Begyndelsen af den mundtlige Forhandling og forinden Realitets-<lb />
+proceduren af egen Drift at underfsge, om bebsrig Forligsmcrgling har fundet Sted. Be-<lb />
+findes dette ikke at være Tilfældet, bliver Sagen at afvise eller efter Rettens nærmere Be-<lb />
+stemmelse at udfætte, for at behørig Forligsmægling kan finde Sted.</p>
+<p>Naar overhovedet Forlig har været forsogt i Anledning af Sagen, er ForligMagens<lb />
+Indhold ikke til Hinder for en senere Udvidelse eller Forandring af søgsmaalsgrunde eller<lb />
+Paastande.</p>
+<wtitle>§ 158.</wtitle>
+<p>De lovbefalede følger af Indstævntes Udeblivelse fra Forligsmcrglingen eller af Man«<lb />
+gel af personligt møde ved den gjøres forst gjældende ved den endelige Dom.</p>
+<title>Andet Afsnit.</title>
+<undertitle>Om Procesmaaden ved Landsretterne.</undertitle>
+<title>Kapitel I.</title>
+<undertitle>Om de Skrifter,  som »exles mellem Parterne og om de Skrifter, som stnlle forelægges Retten<lb />
+forinden den mundtlige Forhandlings Begyndelse.</undertitle>
+<wtitle>§ 159.</wtitle>
+<p>Processen indledes med Sagssgerens Klagefkrift.    Dette skal indeholde:<lb />
+^) Sagsogerens Navn og Bopæl samt den af ham antagne Sagførers Navn og Bopæl<lb />
+eller en Crklæring om, at ingen Sagfører agtes  benyttet; Sagfogtes Navn og derhos hans<lb />
+Bopæl eller Opholdssted, forsaavidt den eller  det  vides.    Fremdeles skal nævnes en person,</p>

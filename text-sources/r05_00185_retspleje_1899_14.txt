@@ -1,0 +1,39 @@
+179
+<pb n="185" />
+<h>
+<topmidle>Kap. XL.    Arrest.         179</topmidle>
+</h>
+<p>Reglerne om Arrestens og Fordringens<lb />
+Forfølgning blive med de fornødne Lempelser at anvende, når Arrest er afværget<lb />
+ved Sikkerhedsstillelse.</p>
+<p>Arrest for Bodmerigæld behøver ikke<lb />
+at forfølges til Stadfæstelse.</p>
+<wtitle>§ 482.</wtitle>
+<p>Kommer Skyldneren, efter at Arresten<lb />
+er gjort, under Konkurs, eller dør han, og<lb />
+offentligt Skifte uden Gælds Vedgåelse<lb />
+finder Sted efter ham, bortfalder Arrestrekvirentens Forpligtelse til at anlægge<lb />
+Retssag i Anledning af Fordringen eller<lb />
+Arresten. Den af Rekvirenten i Anledning<lb />
+af Arresten stillede Sikkerhed løsgives dog<lb />
+først, når 8 Uger ere gåede efter Arrestens<lb />
+Foretagelse eller, hvis Sag har været anlagt<lb />
+og hæves, 8 Uger efter Ophævelsen, og der<lb />
+derhos ikke fra Boets Side er rejst Sag<lb />
+om Erstatning. Er dette sket, må det<lb />
+endelige Udfald af Sagen afventes.</p>
+<wtitle>§ 483.</wtitle>
+<p>Under Arrestsagen påkendes det, om<lb />
+Aresten er lovlig gjort. Er Retssag i Anledning af den pågældende Fordring fvævende, og Arrestsagen ikke behandles i Forbindelse med Hovedsagen, kunne Indsigelser<lb />
+mod Fordringens Rigtighed ikke fremføres<lb />
+under Arrestsagen. Iøvrigt kunne alle<lb />
+Undre Indsigelser vedkommende Arrestens<lb />
+Lovlighed fremsættes og påkendes under<lb />
+Arrestsagen, uden Hensyn til om de tilforn<lb />
+have været undergivne Fogdens Afgørelse.</p>
+<wtitle>§ 484/</wtitle>
+<p>Klager fra dens Side, hos hvem Arresten er gjort, sigtende til at bevirke Ophævelse af den foretagne Arrest som ulovligt gjort, kunne overfor Arrestrekvirenten<lb />
+alene fremføres henholdsvis under Arrestsagen eller den i Anledning af Fordringen<lb />
+anlagte Retssag.</p>
+<wtitle>§ 485.</wtitle>
+<p>Arresten kan ophæves såvel ved Dommen i Arrestsagen som ved Dommen i Hovedsagen.</p>

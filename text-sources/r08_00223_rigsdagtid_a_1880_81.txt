@@ -1,0 +1,51 @@
+3809
+<pb n="223" />
+<h>
+<coll>3803</coll>
+<topmidle>Forsl. t. L. om Strafferetspleien.</topmidle>
+<colr>3810</colr>
+</h>
+<wtitle>§ 268.</wtitle>
+<p>Om Forandringer i Anklagen gjores der meddelelse til Retten skriftlig eller, bois<lb />
+os fremkomme under Hovedforhandlingen, mundtlig til Retsbogen. Finder Retten ikke An-<lb />
+ledning til strar at tilbagevise Forandringen, gives der den Sigtede og den beskikkede For-<lb />
+svarer Leilighed til i den Anledning at udtale sig, hvortil efter Omstændighederne indrommes<lb />
+en Frist. Er der Strid om Forandringens Tilstedeligbed, eller tilbagevises den, eller tilstedes<lb />
+den i medfør af Reglen i § 267 Nr. 2 . afsiger Retten Kjendelse; i andre Tilfælde træffer<lb />
+Formanden Afgjørelsen. Tilstedes under Hovedforbandlingen Anklagens Forandring i Henbold<lb />
+til Reglen i § 267 Nr. 2, bliver Sagen at udscelte, medmindre den Sigtede og hans be-<lb />
+skikkede Forsvarer give Afkald herpaa.</p>
+<wtitle>§ 269.</wtitle>
+<p>Foreligger der rimelig Grund til at antage, at saadanne nye Beviser eller Kjends-<lb />
+gjerninger ville komm? wr Daaen, ''om efter Reglen i § 267 Nr. 2 hjemle Forandring i<lb />
+Anklagen, kan Retten paa Anklagerens begjæring ved Kjendelse benvise Sagen til Forunder<lb />
+søgelsc; Anklageren bar da inden en Uge efter Modtagelse af Udskrift af denne at fremsætte<lb />
+de Andragender, hvortil han sinder Anledning.</p>
+<wtitle>§ 270.</wtitle>
+<p>Er der, efter at Sagen er henvist til Hovedforhandling, kommet nye Beviser for<lb />
+Dagen eller indtraadt nye Kjendsgjerninger, som vilde have fort til paa Andragende eller<lb />
+i Embeds medfør at ncegte Anklagen Fremme, kan Retten hceve Sagen ved Kjendelse, naar<lb />
+Beslutning derom kan tages for Hovedforhandlingens Begyndelse uden dennes Udsættelse eller<lb />
+paa en Tid, da denne af anden Grund er udsat.</p>
+<p>Under tilsvarende ForudsEtninger kan Beslutningen om Sagens Henvisning til Næv-<lb />
+ninger eller til Landsretten uden Nævninger forandres; er denne kun en følge af Bestem-<lb />
+melsen om Sagens Forening eller Adskillelse kommer Reglen i § 272  til Anvendelse.</p>
+<wtitle>§ 271.</wtitle>
+<p>Fremkommer der, efter at Sagen er henvist til Hovedforhandling, nye Grunde til<lb />
+at antage, at Oplysninger kunne fremskaffes, som vilde fjerne Mistanken mod den Sigtede<lb />
+eller gootgjore Grunde til Straffrihed, eller giver det under Hovedforhandlingen Fremkomne<lb />
+rimelig Grund til at antage Saadant, kan Retten paa Andragende eller under sidstnævnte<lb />
+Forudsætning i Embeds medfør henvise Sagen til Forundersogelse ved Kjendelse. Anklageren<lb />
+har da inden en Uge efter Modtagelsen af Udskriften af denne at fremkomme med de An-<lb />
+dragender, hvortil han sinder Anledning.</p>
+<wtitle>§ 272.</wtitle>
+<p>Forandring i de tagne Beslutninger om Sagens Adskillelse og Forening, kan gjores<lb />
+af Rettens Formand, indtil Afgjørelse i Sagen har fundet Sted.</p>
+<wtitle>§ 273.</wtitle>
+<p>Andre Beviser end de paa de til Retten indleveredeførtegnelser opfsrte kunne frem«<lb />
+fores under Hovedforhandlingen, naar de anmeldes, førend Sagen er henvist, eller dog saa<lb />
+betimelig, at Modparten kan erholde^ meddelelse om dem mindst 4 Dage for Hovedforhand-<lb />
+lingens Begyndelse, uden at dennes Udsættelse derved bliver nodvendig. I andet Fald kan<lb />
+det uden Modpartens Samtykke kun finde Sted, naar nye Beviser ere komne for Dagen,<lb />
+eller senere af Modparten anmeldte Beviser fkjonnes at give Grund dertil, eller naar Retten<lb />
+Iøvrigt paa Andragende af særegne Grunde giver Adgang dertil.</p>

@@ -1,0 +1,51 @@
+25
+<pb n="25" />
+<leftside>
+<pagename>23
+</pagename>
+<p>at udtage Nævninger for det forestaaende<lb />
+Ting. mødets Tid og Sted lader Formanden mindst en Uge forud bekendtgøre i de<lb />
+af Justitsministeren bestemte Tidender med<lb />
+Opfordring til de paa Aarslisten opførte<lb />
+Perfoner, fom mene at have et ved § 48<lb />
+hjemlet og ikke ved Forsømmelse afskaaret<lb />
+Krav paa Fritagelse, om senest Dagen fsr<lb />
+det berammede møde skriftlig med Angivelse af Grund at indgive deres Begæring til Udvalgets Formand.
+</p>
+<p>Denne lader før Modet de Navne,<lb />
+som findes paa Aarslisten, og som ikke<lb />
+ifølge Afgørelser, trufne i Anledning af<lb />
+tidligere Ting i Nævningeaaret, eller i<lb />
+Medfør af Neglen i § 73 maatte være udgaaede, afskrive paa Sedler med deres paa<lb />
+Aarslisten opførte Løbenumre.
+</p>
+<wtitle>§ 61.
+</wtitle>
+<p>Paa Modet afgør Udvalget først de<lb />
+mulig fremkomne Spørgsmaal om Fritagelser eller om Udslettelse af Aarslisten.<lb />
+Med Hensyn til disse Afgørelser gælde<lb />
+Reglerne i § 57
+</p>
+<wtitle>§ 62.
+</wtitle>
+<p>De Sedler, som ikke ifølge de i forrige<lb />
+Paragraf omtalte Afgørelser maatte blive<lb />
+at lægge til Side, sammenholdes derefter<lb />
+med Aarslisten og eftertælles, hvorefter der<lb />
+strides til Lodtrækning af 30 hovednævninger og 10 hjælpenævninger for det forestaaende Ting.
+</p>
+<p>Til den Ende blive fyrst de Sedler,<lb />
+der indeholde Navne paa Personer, som bo<lb />
+paa det Sted, hvor Netten skal holdes, eller<lb />
+i Nærheden af det, lagte i en Urne, og<lb />
+blandt dem 10 Sedler udtrukne af Formanden, en for en. Ethvert udtrukket<lb />
+Navn oplæses straks og optegnes paa en<lb />
+Liste. Derefter lægges ogsaa de andre<lb />
+Sedler i Urnen, og 30 Sedler udtages af<lb />
+Formanden, en for en; ethvert udtrukket<lb />
+Navn oplæses straks og optegnes paa en<lb />
+anden Liste. De udtrukne Numre forsynes<lb />
+med Løbenumre efter den Orden, i hvilken<lb />
+de udtrækkes. 
+</p>
+</leftside>

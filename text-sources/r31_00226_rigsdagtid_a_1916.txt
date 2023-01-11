@@ -1,0 +1,71 @@
+642
+<pb n="226" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>642</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+være udelukket fra at påanke Dommen. Adgang til at påstaa denne ophævet på<lb />
+Grund af Fejl, der må lede til Sagens Hjemvisning til ny Forhandling. Dog må<lb />
+han så betimelig forud for Sagens Foretagelse give Modparten Meddelelse om, at<lb />
+han agter at fremsætte sådan Påstand, og om Grunden, hvorpå den støttes, at<lb />
+Modparten får Tid til fornøden Forberedelse.
+</p>
+<p>
+Ankegrunde, som ikke er anførte i vedkommende Parts Ankemeddelelse eller<lb />
+den i Fortsættelse af denne afgivne Begrundelse (§ 950) eller i en af ham i Henhold<lb />
+til nærværende Paragrafs første Stykke, sidste Punktum, afgiven Meddelelse, og som<lb />
+heller ikke er af den Beskaffenhed, at Retten i Embeds Medfør skal tage dem i Betragtning (§ 959), kan Højesteret tilstede ham at fremkomme med, når særlige<lb />
+Grunde findes at tale derfor. Findes det, at deres Fremsættelse gør yderligere Forberedelse nødvendig for Modparten, udsætter Højesteret Sagen derefter.
+</p>
+<wtitle>§ 959.</wtitle>
+<p>
+Højesterets Prøvelse er i Regelen indskrænket til de påberåbte Ankegrunde;<lb />
+herfra gælder dog følgende Undtagelser:
+</p>
+<p>
+1)	Hvor Anken eller en i Henhold til § 958, 1ste Stykke, fremsat Påstand er<lb />
+støttet på nogen af de i §§ 944 eller 945 omhandlede Grunde, kan Retten prøve,<lb />
+om Straffeloven i det hele er rigtig anvendt, så og om der er et åbenbart Misforhold imellem Forbrydelsen og den idømte Straf, jfr. dog § 960, sidste Punktum.
+</p>
+<p>
+2)	Hvor alene Rettergangsfejl er påberåbte som Ankegrund, kan Højesteret,<lb />
+når Dommen ikke ophæves af sådan Grund, prøve, om Straffeloven er urigtig anvendt til Skade for Tiltalte, eller om den idømte Straf er uforholdsmæssig høj.
+</p>
+<p>
+3)	Når det i et Tilfælde, hvor Tiltalte er domfældt, findes, at nogen væsentlig<lb />
+til hans Betryggelse sigtende Rettergangsregel er tilsidesat, kan Højesteret, dersom<lb />
+den finder, at den begåede Fejl gør Domfældelsens Rigtighed tvivlsom, ophæve Dommen og hjemvise Sagen, uanset at den pågældende Fejl ikke er påberåbt.
+</p>
+<p>
+Hvis en Dom, som angår flere Tiltalte eller flere Forbrydelser af samme Tiltalte, kun er påanket for en eller nogle Tiltaltes eller Forbrydelsers Vedkommende,<lb />
+kan Højesteret, når den finder, at en Ankegrund, som er gjort gældende under Sagen,<lb />
+eller som Retten i Medfør af Reglerne i denne Paragraf har taget i Betragtning,<lb />
+tillige omfatter nogen Tiltalt eller Forbrydelse, for hvis Vedkommende Dommen ikke<lb />
+er påanket, til Fordel for vedkommende Tiltalte tillægge den Virkning også under<lb />
+den således upåankede Del af Sagen.
+</p>
+<wtitle>§ 960.</wtitle>
+<p>
+Kommer Højesteret til det Resultat, at den påankede Afgørelse bliver at forandre, kan den selv afsige ny Realitetsdom, når den finder, at det fornødne Grundlag herfor foreligger, hvortil, for så vidt Spørgsmål er om at afsige en fældende<lb />
+Dom, ifølge § 945 hører, hvis Sagen er en Nævningesag, at Tiltalte ved en gyldig<lb />
+Nævningeerklæring er kendt skyldig i den Forbrydelse, for hvilken der er Spørgsmål<lb />
+om at domfælde ham.
+</p>
+<p>
+Går den nye Realitetsdom ud på Tiltaltes Frifindelse, kan Højesteret af egen<lb />
+Drift optage og afgøre Spørgsmålet om Erstatning til Tiltalte for uforskyldt Varetægtsfængsel eller uforskyldt Udståelse af Straf, medmindre Tiltalte har begært dette<lb />
+Spørgsmål afgjort under Medvirkning af Nævninger.
+</p>
+<p>
+Finder Højesteret, at den påankede Afgørelse bliver at forandre, men at Betingelserne for, at Retten kan afsige Realitetsdom, ikke er til Stede, ophæver Højesteret Dommen og, for så vidt Ophævelsesgrunden også rammer den til Grund for
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

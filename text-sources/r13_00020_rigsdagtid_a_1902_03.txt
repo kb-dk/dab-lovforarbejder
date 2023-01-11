@@ -1,0 +1,77 @@
+1763
+<pb n="20" />
+<h>
+<coll>
+1763
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+1764
+</colr>
+</h>
+<wtitle>§  88.</wtitle>
+<p>
+Politiets Virksomhed omfatter dels uden for Retsplejen Omsorg for offentlig<lb />
+Orden og Vel samt Lovenes Haandhævelse overensstemmende med de gældende Love<lb />
+og Vedtægter, dels Virksomhed i Retsplejen efter denne Lov, herunder særlig Efter-<lb />
+forskning og Forfølgning af Forbrydelser samt Bestyrelse af Arresthusene.
+</p>
+<p>
+Den Øvrigheden efter D. L. 3—16—4 tilkommende Afgørelsesret gaar uden<lb />
+for Kjøbenhavn over til vedkommende Amtmand. Alle andre administrative Forret-<lb />
+ninger, der hidtil have været henlagte til Herredsfogden, Birkedommeren eller By-<lb />
+fogden, varetages af Sysselmanden.
+</p>
+<p>
+I de Kommuner, i hvis Bestyrelse Underøvrigheden paa Landet efter de hidtil<lb />
+gældende Regler indtræder som Formand med samme Stilling som Borgmesteren i<lb />
+Købstæderne, beskikkes Formanden for Fremtiden af Kongen, indtil anderledes be-<lb />
+stemmes ved Lov.
+</p>
+<wtitle>§  89.</wtitle>
+<p>
+Den eller de af Sysselmanden antagne Fuldmægtige kan der af Amtmanden<lb />
+meddeles Autorisation til paa Sysselmandens Ansvar at udføre dennes Forretninger.<lb />
+For at kunne autoriseres som saadan udkræves, at den paagældende fyldestgør de i<lb />
+§ 87, 2det Stykke, stillede Betingelser.
+</p>
+<wtitle>§  90.</wtitle>
+<p>
+Udenfor Kjøbenhavn foregaar i de første 5 Aar efter Lovens Ikrafttræden<lb />
+Fastsættelse af Politibetjentenes Antal ved Beslutning af Justitsministeren, dog saa-<lb />
+ledes, at der højst kan beregnes for hver Købstadskommune og Handelsplads med<lb />
+indtil 2,000 Indbyggere 1 Politibetjent, for Købstæder og Handelspladser med et større<lb />
+Indbyggerantal desuden 1 for hvert overskydende Antal af 1,500, dog ikke mere end<lb />
+8 i alt, samt for Landet højst 1 Politibetjent, om fornødent med Befordringsmiddel,<lb />
+for hver 5,000 Indbyggere, saaledes at et overskydende Antal regnes for fulde 5,000,<lb />
+naar det overstiger Halvdelen, — alt dog saaledes, at Justitsministeren, saa ofte der<lb />
+bliver Spørgsmaal om indenfor disse Grænser at forøge Antallet af Politibetjente, skal<lb />
+forelægge Sagen, for saa vidt Købstad eller Handelsplads angaar, for vedkommende<lb />
+Kommunalbestyrelse og, for saa vidt Landdistrikt angaar, for vedkommende Amtsraad.<lb />
+— En Forøgelse af det fastsatte Antal Politibetjente ud over de nævnte Grænser kan<lb />
+med Justitsministerens Samtykke finde Sted, naar vedkommende Købstad eller Amts-<lb />
+raad bevilger de dertil fornødne Midler.
+</p>
+<p>
+Politibetjente, der skulle have Indfødsret og være vederhæftige Mænd af<lb />
+uplettet Rygte, ansættes paa 3 Maaneders Opsigelse. De antages og afskediges efter<lb />
+Sysselmændenes Indstilling af Byraadene i rene Købstadsysler, ellers af Amtsraadet, <lb />
+saaledes at Uenighed mellem vedkommende kommunale Raad og Sysselmanden af-<lb />
+gøres af Justitsministeren. Sognefogderne og lignende Bestillingsmænd bistaa Politiet<lb />
+efter de gældende Regler. Det særegne Kystpoliti bortfalder.
+</p>
+<p>
+Inden 5 Aar, efter at denne Lov er traadt i Kraft, bliver der at fore-<lb />
+lægge Rigsdagen Forslag til Lov om Revision af de i nærværende og følgende<lb />
+Paragraf indeholdte Bestemmelser med Fastsættelse af Antallet af Politibetjente<lb />
+udenfor Kjøbenhavn. Fra Udløbet af de 5 Aar fra nærværende Lovs Ikrafttræden og<lb />
+til den sidstnævnte Lovs Ikrafttræden kan Politibetjentenes Tal ikke forøges.
+</p>
+<p>
+Udgiften til de Politibetjente, hvis Tal er fastsat af Justitsministeren eller<lb />
+senere ved Lov, afholdes af Statskassen. Deres Lønninger fastsættes i Loven om<lb />
+Lønninger for Dommere og øvrige i Lov om Rettens Pleje omhandlede Embeds- og<lb />
+Bestillingsmænd.
+</p>

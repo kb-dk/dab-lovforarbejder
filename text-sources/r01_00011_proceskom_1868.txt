@@ -1,0 +1,40 @@
+5
+<pb n="11" />
+<p>tede   fremsat   Andragende   om   Sagens  Henvisning til nævninger til følge.</p>
+<wtitle>§ 12.</wtitle>
+<p>Finder Forening af flere Straffesager Sted,<lb />
+deltage Nævningerne i Påkjendelsen, når deres<lb />
+Medvirkning udkræves til nogen af de forenede<lb />
+Sager, og fremdeles, når det på Grund af<lb />
+den samlede Straf for en Sigtet måtte<lb />
+blive Tilfældet, at Betingelserne i § 11 ere<lb />
+tilstede. Dog bor Forening af Sager mod<lb />
+flere Sigtede, som adskilte vilde kræve På«<lb />
+kjendelse dels med dels uden Nævninger, klin<lb />
+finde Sted. når færegne Grunde findes at<lb />
+gjøre Adskillelsen uhensigtsmæssig.</p>
+<wtitle>§ 13.</wtitle>
+<p>Retten prøver i Embeds medfør, om en<lb />
+foreliggende sag efter foranstående Regler<lb />
+hover under dens Virkekreds, og om Nævninger skulle medvirke ved Påkjendelsen. Dog<lb />
+bliver herved at iagttage:</p>
+<p>1)   Forsåvidt Afgjørelsen beror på  Størrelsen   af den i   det givne   tilfælde forskyldte<lb />
+Straf eller på Beskaffenheden af den Sigtedes<lb />
+Forklaringer, har Retten foreløbig at følge Anklagerens Skjøn (jfr. dog § 197) og kan først<lb />
+ester   endt Hovedforhandling   afvise Sagen   af<lb />
+sådan   Grund.    Påanke af dømmen,   fordi<lb />
+Rettens Skjøn over de nævnte Omstændigheder<lb />
+har været urigtigt, er udelukket.</p>
+<p>2)   Afvisning    under    hovedforhandlingen<lb />
+kan   ikke   finde Sted,   fordi   den  ved  Landsretten behandlede Sag findes at høre til Underrettens Virkekreds;  ej  heller,   når   den til<lb />
+Nævninger henviste Sag findes at kunnne Være<lb />
+påkjendt   uden Nævninger,   medmindre   Henvisningen til Nævninger   er i Strid med   den<lb />
+sigtedes   i Medhold   af Loven    trufne Valg.<lb />
+og Indsigelse   gjøres.   forend   Lodtrækning til<lb />
+Udtagelse af Nævninger er begyndt.</p>
+<p>3)   Er    ved   upåankelig   Afgjørelse Påkjendelse af en Sag ved Landsretten afskåren,<lb />
+fordi Sagen er antagen at høre til Underrettens<lb />
+Pirkekreds, er Underretten bunden herved.    Er<lb />
+ved Afgjørelse   ifølge Påanke en Sags Påkjendelse   ved Underretten afskåren.   fordi   den<lb />
+er antagen at høre til Landsrettens Virkekreds,<lb />
+er Landsretten bunden herved.</p>

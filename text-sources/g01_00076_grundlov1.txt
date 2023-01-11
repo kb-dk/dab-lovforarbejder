@@ -1,0 +1,123 @@
+79
+<pb n="76">
+<pagename>76</pagename>
+<h>
+<coll>79</coll>
+<colr>80</colr>
+<lb/>
+</h>
+<leftside>
+<p>
+<law n="7."/>§ 7. Forsamlingens Medlemmer fordeles af Formanden ved<lb/>
+Lodtræning i 5 Afdelinger, over hvilke Forsamlingens Sekreterer affatter Listerne. Hver Afdeling må, såvidt muligt, beståe af lige<lb/>
+mange Medlemmer; den vælger under Ledelse af Afdelingens ældste<lb/>
+Medlem strax en Formand samt en Sekreteer, der dog ikke optegner<lb/>
+Forhandlingerne; den forhandler, dog uden Afstemning, enhver Sag,<lb/>
+der af Forsamlingen henvises til den.<lb/>
+<law n="8."/>§ 8. Ved en Sags Henviisning til Afdelingerne fastsætter Forsamlingen, af hvormange Medlemmer det Udskud skal beståe, der<lb/>
+skal afgive en skriftlig Betænkning om Sagen, og bestemmer, om dette<lb/>
+Udskud enten alene skal vælges gjennem Afdelingerne, eller forstærkes ved et vist Antal frit valgte Medlemmer.<lb/>
+<law n="9."/>§ 9. Også når Forsamlingen beslutter, i en Sag at nedsætte<lb/>
+et Udskud uden at henvise den til Behandling i Afdelingerne, bestemmer den, om dette Udskud skal vælges enten af Forsamlingen i almindeligt Møde, eller i Afdelingerne, og i sidste Tilfælde, om det skal<lb/>
+forstærkes ved frit Valg af Forsamlingen.<lb/>
+<law n="10."/>§ 10. Udskudet udnævner en Formand og en Sekreteer, samt<lb/>
+efter endt Forhandling en Ordfører. Den af Udskudet afgivne Betænkning trykkes og omdeles 3 Dage, førend den foretages i Forsamlingen.<lb/>
+<law n="11."/>§ 11. Ethvert Lovforslag skal underkastes tre Behandlinger.<lb/>
+<law n="12."/>§ 12. Ved den første Behandling i Forsamlingen kan ethvert<lb/>
+Medlem gjentagende forlange Ordet, kræve Oplysninger af Udskudets<lb/>
+Ordfører eller af Regjeringens Medlemmer og fremsætte Forslag til<lb/>
+Udeladelse, Tillæg eller andre Forandringer i Udkastet.<lb/>
+<law n="13."/>§ 13. Ved den anden Behandling kunne kun sådanne Forslag<lb/>
+foretages, der ifølge Forbehold eller i Henhold til den foreløbige Behandling ere stillede inden 48 Timer efter hele den første Behandlings<lb/>
+Slutning. Spørgsmålet om, hvorvidt et anmeldt Forslag i Henhold<lb/>
+til den første Behandling kan stilles, afgjøres, dersom Formanden har<lb/>
+Tvivl eller 15 Medlemmer forlange det, af Forsamlingen, men uden<lb/>
+Forhandling.<lb/>
+<law n="14."/>§ 14. Ved den anden Behandling have Medlemmerne, med<lb/>
+Undtagelse af Ordføreren, kun Ret til at tale een Sang om hver<lb/>
+Paragraph eller hvert mindre Afsnit, der særskilt stilles til Forhandling. Umiddelbart efter Forhandlingen af hver sådan Paragraph<lb/>
+eller hvert sådant Afsnit skrides til Afstemning herover.<lb/>
+<law n="15."/>§ 15. I Henhold til de stedfundne Afstemninger påligger det<lb/>
+Udskudet at forfatte et fuldstændigt Lovforslag. Skulde det da vise<lb/>
+sig, at der ved de forskjellige Afstemninger er fremkommet Modsigelser<lb/>
+i Lovforslaget, skal Udskudet ved Forelæggelsen af det endelige Udkast<lb/>
+kunne foreslåe sådanne Rettelser, som det af den Grund måtte<lb/>
+finde nødvendige. Lignende Forslag kunne fremsættes af 15 Medlemmer; men Forhandling og Afstemning skulle i i begge Tilfælde dog kun<lb/>
+finde Sted, dersom to Trediedele af de tilstedeværende Medlemmer<lb/>
+deri samtykke. Tilsidst bliver da uden nogensomhelst Forhandling det<lb/>
+endelige Lovforslag i sin Heelhed sat under Afstemning til Antagelse<lb/>
+eller Forkastelse.<lb/>
+<law n="16."/>§ 16. Andragender, som et Medlem vil forelægge Forsamlingen, skulle senest være anmeldte Dagen forud så betimeligt, at de<lb/>
+kunne sættes på Dagsordenen. På den Tid, der i Henhold til<lb/>
+§ 6 bliver bestemt, har Andrageren at fremsætte sit Forslag. Dersom<lb/>
+han tager det tilbage, skal ethvert andet Medlem være berettiget til<lb/>
+umiddelbart at optage det. Efter Sagens Beskaffenhed bestemmer da<lb/>
+Forsamlingen, i hvilken Form Sagen skal behandles. Dog skal endelig Beslutning om Sagen ikke kunne tages i samme Møde.<lb/>
+Andragender fra Mænd udenfor Forsamlingen kunne kun indleveres gjennem et Medlem af samme.<lb/>
+<law n="17."/>§ 17. Spørgsmål, som et Medlem ønsker udenfor den almindelige Dagsorden at gjøre til Regjeringens Medlemmer, måe Dagen<lb/>
+forud være indgivne skriftligen og af bestemt Indhold til Formanden,<lb/>
+der meddeler dem til Vedkommende og opslåer dem på Dagslisten.<lb/>
+Uden sådan foregående Anmeldelse kan Spørgsmål kun stilles med<lb/>
+Forsamlingens Tilladelse. Det reiste Spørgsmål kan yderligere forfølges<lb/>
+
+</p>
+</leftside>
+<rightside>
+<p>
+såvel af den første Taler som af andre Medlemmer, men ingen<lb/>
+Beslutning tør fattes.<lb/>
+<law n="18."/>§ 18. Når et Forslag eller Forandringsforslag er fremsat og<lb/>
+udviklet, er ethvert Medlem berettiget til at forlange dets Afviisning.<lb/>
+Forsamlingen bestemmer da uden Forhandling, om Forslaget skal<lb/>
+fjernes.<lb/>
+<law n="19."/>§ 19. Finder Formanden, at Forhandlingerne drages utilbørligen i Langdrag, da kan han foreslåe deres Afslutning, som afgjøres<lb/>
+af Forsamlingen uden Forhandling. Ligeledes kunne 15 Medlemmer<lb/>
+forlange det sat under Afstemning, om Afslutning skal finde Sted.<lb/>
+<law n="20."/>§ 20. Ethvert Medlem, der har forlangt og erholdt Ordet,<lb/>
+taler stående fra sin Plads og henvender stedse Talen til Formanden. Ingen må enten tiltale eller ved Navn anføre et andet Medlem.<lb/>
+<law n="21."/>§ 21. Intet Foredrag må skee ved Oplæsning af skrevne Udarbeidelser.<lb/>
+<law n="22."/>§ 22. Når Flere samtidigen forlange Ordet, bestemmer Formanden den Orden, hvori de skulle tale, forsåvidt ikke Nogen allerede<lb/>
+har indtegnet sig dertil. Korte Berigtigelser eller personlige Spørgsmål kan også gives Fortrin. Forøvrigt bør Foredragene for og<lb/>
+imod et Forslag, såvidt muligt, afverle med hinanden.<lb/>
+<law n="23."/>§ 23. Ethvert Medlem er pligtigt at underkaste sig Formandens Kjendelse angående Overholdelsen af den fornødne Orden. Når<lb/>
+et Medlem i samme Møde er kaldet to Gange til Orden, kan Formanden foreslåe Forsamlingen aldeles at nægte ham Ordet i dette<lb/>
+Møde. Skulde almindeligere Uorden opståe, påligger det Formanden midlertidigt at afbryde Møder, eller, om nødvendigt, aldeles at<lb/>
+Hæve det.<lb/>
+<law n="24."/>§ 24. Bifalds- eller Mishags- Yttringer af Forsamlingens Medlemmer ansees som stridende mod god Orden.<lb/>
+<law n="25."/>§ 25. Ingen Beslutning må tages af Forsamlingen, med<lb/>
+mindre over Halvdelen af Rigsdagsmændene (77 Medlemmer) er<lb/>
+tilstede.<lb/>
+<law n="26."/>§ 26. Alle Spørgsmål, undtagen det i § 15 omtalte, afgjøres<lb/>
+ved simpel Stemmefleerhed. Ere Stemmerne lige, så deeltager Formanden i Afstemningen, hvilket ellers ikke finder Sted. Til ethvert<lb/>
+Valg udfordres over Halvdelen af Stemmerne, og Valget foretages<lb/>
+i Overeensstemmelse med den i § 2 fastsatte Forskrift. Enhver Valgseddel, der indeholder et større eller mindre Antal Navne, end der skal<lb/>
+stemmes på, er ugyldig.<lb/>
+<law n="27."/>§ 27. Måden, hvorpå Spørgsmålene skulle fremsættes, bestemmes af Formanden. Dog kan efter 15 Medlemmers Forlangende<lb/>
+Forsamlingen selv fastsætte den, efterat et af de 15 Medlemmer og<lb/>
+Formanden have udtalt sig.<lb/>
+<law n="28."/>§ 28. Afstemningen skeer ved at reise sig fra sin Plads eller<lb/>
+blive siddende, og bør da altid beståe af Prøve og Modprøve, hvorved<lb/>
+Stemmerne tælles af Sekretererne. Skulde disse være i Tvivl om<lb/>
+Afstemningens Udfald, så stemmes efter Navne-Opråb. Dette kan<lb/>
+også inden Prøvens Begyndelse forlanges af 15 Medlemmer. Afstemning ved Kugler finder Sted, når 25 Medlemmer forlange det.<lb/>
+<law n="29."/>§ 29. Rigsdagens Forhandlinger trykkes i en særegen Rigsdagstidende, hvis Ordning overlades Formanden og Sekretererne.<lb/>
+<law n="30."/>§ 30. Forsamlingens Møder ere offentlige. Dog kan Forsamlingen, efter Forslag af Formanden eller 15 Medlemmer, inden<lb/>
+lukte Døre forhandle, om Mødet skal være offentligt. Hvorvidt<lb/>
+en Beretning om et sådant Møde skal offentliggjøres, bestemmes<lb/>
+af Forsamlingen.<lb/>
+<law n="31."/>§ 31. Adgangen til de offentlige Møder ordnes af Formanden.<lb/>
+Tilhørerne ere pligtige at holde sig aldeles rolige og tause. Hvis<lb/>
+dette, efter Påmindelse, ei overholdes, skal Formanden lade dem, der<lb/>
+forstyrre Roligheden, fjerne, og i yderste Fald lade hele Tilhørerpladsen rømme.<lb/>
+<law n="32."/>§ 32. I særdeles påtrængende Tilfælde kan der afviges fra<lb/>
+foranstående Forskrifter, når tre Fjerdedele af de tilstedeværende<lb/>
+Medlemmer derom ere enige.<lb/>
+</p>
+</rightside>
+<underpage>
+Trykt og forlagt af Kgl. Hofbogtrykker Bianco Luno.<lb/>
+ 
+</underpage>
+
+
+</pb>

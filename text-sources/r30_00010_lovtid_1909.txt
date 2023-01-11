@@ -1,0 +1,68 @@
+274
+<pb n="10" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>274</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+Rettens Afsigelse af Domme og Kendelser og dens øvrige Beslutninger optages<lb/>
+i Retsbogen. Domme og Kendelser indføres fuldstændigt i Dombogen.
+</p>
+<p>
+Om noget i øvrigt skal optages i Retsbogen, beror på, om sådant særlig er<lb/>
+foreskrevet i Loven.
+</p>
+<wtitle>§ 37.</wtitle>
+<p>
+Hvor ikke det modsatte er udtrykkelig bestemt, finder Oplæsning og efter Om-<lb/>
+stændighederne Vedtagelse af det Retsbogen tilførte kun Sted, når Rettens Formand<lb/>
+af særlige Grunde anser det for nødvendigt, enten af egen Drift eller i borgerlige<lb/>
+Sager ifølge Begæring af Part, Vidne eller Syns- eller Skønsmand.
+</p>
+<wtitle>§ 38.</wtitle>
+<p>
+Retsbogen underskrives ved hvert Retsmødes Slutning af Rettens Formand,<lb/>
+fremdeles af de Personer, der måtte have fungeret som Retsskriver eller Retsvidner.<lb/>
+Den afgiver Bevis for, hvad der er foregået under Retshandlingen, og særlig for,<lb/>
+hvorledes der er gået til Værks med Hensyn til Former, som efter Loven skulle iagttages; Modbevis er ikke udelukket.
+</p>
+<wtitle>§ 39.</wtitle>
+<p>
+Aktstykker og andre Dokumenter, som fremlægges i Retten, forsynes med<lb/>
+Fremlæggelsespåtegning.
+</p>
+<wtitle>§ 40.</wtitle>
+<p>
+Stævningerne og Parternes øvrige Processkrifter forblive i Rettens Arkiv. Af<lb/>
+Dokumenter og andre Aktstykker, der benyttes som Bevis, skulle, når de forlanges<lb/>
+tilbageleverede, Genpart, der bekræftes af Retsskriveren, eller, hvor sådan ikke er<lb/>
+ansat, af Dommeren, afgives til Retten; dog undtages herfra Dokumenter, der ere<lb/>
+Udskrift af Embedsbøger. Om og i hvilket Omfang Genpart skal tages af Handels-<lb/>
+bøger, Regnskabsbøger eller andre Dokumenter af betydeligt Omfang, beror på<lb/>
+Formanden.
+</p>
+<wtitle>§ 41.</wtitle>
+<p>
+Hvor en Retsskriver er ansat, samler han de enhver Sag vedkommende Dokumenter og bevarer dem samt de af tilbageleverede Originaler tagne Genparter. Ved<lb/>
+andre Retter påhviler dette Dommeren. De i Nævningesager overensstemmende med<lb/>
+§§ 872 og 876—878 udfærdigede Spørgsmål tilligemed Nævningernes vedtegnede Erklæringer blive at samle og opbevare som Bilag til Retsbogen.
+</p>
+<wtitle>§ 42.</wtitle>
+<p>
+Udenfor de Tilfælde, for hvilke der i denne Lov er truffet særlig Bestemmelse, kunne Parterne samt andre, som deri have retlig Interesse — de sidstnævnte i<lb/>
+Straffesager dog først, når Sagen er endt — hos Retsskriveren eller, hvor ingen sådan<lb/>
+er ansat, hos Dommeren forlange Udskrift af Retsbøgerne, derunder dog ikke Stemmegivningsbogen. samt af de øvrige hos Retten beroende til en Sag hørende, fremlagte<lb/>
+Dokumenter.
+</p>
+<title>Kapitel 4.</title>
+<undertitle>
+Dommere, Retsskrivere, Retsvidner og Retsbude m. m.
+</undertitle>
+<wtitle>§ 43.</wtitle>
+<p>
+Faste Dommere ved Rigets almindelige Domstole beskikkes af Kongen. Under-<lb/>
+retsdommere, som tillige have administrative Forretninger, beskikkes under de hidtil<lb/>
+brugte Betegnelser, dog med Udeladelse af Betegnelsen som Skriver.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

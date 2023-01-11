@@ -1,0 +1,78 @@
+469
+<pb n="53" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>469</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+stemmer dog altid sidst; han forestår Afstemningen og samler Stemmerne. Afstemningen sker mundtlig; de afgivne Stemmer indføres udtogsvis i en Stemmegivningsbog.<lb />
+Enhver Dommer har Ret til at påse, at hans Stemme gengives rigtigt.
+</p>
+<p>
+Dommernes Rådslagninger og Afstemninger må ikke overværes af Tilhørere<lb />
+med Undtagelse af Retsskriveren.
+</p>
+<p>
+I en Sags Afgørelse kan ingen Dommer eller Nævning deltage, som ikke har<lb />
+overværet de mundtlige Forhandlinger i deres Helhed. Når i en Straffesag, som<lb />
+behandles ved Landsret, en Dommer eller en Nævning får Forfald eller af anden<lb />
+Grund må fratræde, efter at Domsforhandling er begyndt, kan denne fortsættes, såfremt dog højst een Dommer og een Nævning mangler.
+</p>
+<p>
+Ved Forhandlinger, som forudsættes at blive af længere Varighed, bør i Retter,<lb />
+som består af flere Medlemmer, en eller flere Dommere ud over det nødvendige<lb />
+mindste Antal deltage.
+</p>
+<wtitle>§ 215.</wtitle>
+<p>
+I Dommens Vedtagelse deltager for Landsretternes Vedkommende mindst tre<lb />
+og for Højesterets Vedkommende mindst ni Medlemmer af Retten, jfr. dog § 214.<lb />
+Samme Regler gælder også for Vedtagelse af Kendelser, medmindre andet er bestemt.
+</p>
+<wtitle>§ 216.</wtitle>
+<p>
+For enhver Afgørelse i en Ret, der beklædes af flere Dommere, skal der være<lb />
+Stemmeflerhed. Ved lige Stemmetal gør Formandens (jfr. § 7), eventuelt den efter<lb />
+Embedsalder ældste i Afgørelsen deltagende Dommers, Stemme Udslaget. Kræver Afgørelsen Afstemning over flere Punkter, er de Dommere, som har befundet sig i<lb />
+Mindretal, pligtige at deltage i de senere Afstemninger, for så vidt det modsatte<lb />
+ikke særlig er bestemt.
+</p>
+<p>
+Danner der sig i en Straffesag om det samme Spørgsmål flere end to forskellige Meninger, af hvilke ingen er i Flertal, bliver de for Sigtede ugunstigste Stemmer<lb />
+regnet sammen med de nærmeste mindre ugunstige, indtil der udkommer Stemmeflerhed. Er det tvivlsomt, hvilken Mening der er den ugunstigste for Sigtede, bliver<lb />
+der afstemt særskilt herom.
+</p>
+<p>
+Særskilt Afstemning finder ligeledes Sted, når der opstår Meningsforskel<lb />
+om, hvorledes Spørgsmålene skal stilles, eller om Afstemningens Resultat.
+</p>
+<p>
+Den vedtagne Afgørelse føres i Pennen af Rettens Formand eller af den af<lb />
+de i Afgørelsen samstemmende Dommere, hvem dette Hverv af Formanden overdrages.<lb />
+Stemmetallet må ikke optages i Rettens Afgørelser.
+</p>
+<wtitle>§ 217.</wtitle>
+<p>
+Rettens Afgørelser sker ved Kendelse i de Tilfælde, hvor denne Form er særlig<lb />
+foreskrevet.
+</p>
+<wtitle>§ 218.</wtitle>
+<p>
+Domme og Kendelser skal ledsages af Grunde. Andre Beslutninger af<lb />
+Retten eller Rettens Formand behøver ikke at begrundes, medmindre sådant særlig<lb />
+er foreskrevet.
+</p>
+<p>
+Den i Rettens Afgørelse af en borgerlig Sag givne Fremstilling af Parternes<lb />
+mundtlige Angivelser og Ytringer under Sagens Behandling afgiver fuldt Bevis for<lb />
+disse, for så vidt ikke Modbevis imod den føres.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

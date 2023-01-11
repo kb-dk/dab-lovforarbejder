@@ -1,0 +1,71 @@
+2259
+<pb n="56" />
+<h>
+<coll>2259</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2260</colr>
+</h>
+<wtitle>§ 266.</wtitle>
+<p>
+Kære iværksættes ved til den Landsret, hvis Handling eller Afgørelse man vil<lb/>
+paakære, at indgive en skriftlig Fremstilling af Kæregrunden og den Paastand, som i<lb/>
+den Anledning gøres. Af Fremstillingen ska Genpart meddeles Modparten. Vidner,<lb/>
+Syns- og Skønsmænd samt Trediemand, hvem Fremlæggelsen af et Dokument er paa-<lb/>
+lagt, kunne fremsætte deres Kære mundtlig til Retsbogen.
+</p>
+<p>
+Kæremaalet kan støttes paa ny faktiske Anbringender og Beviser.
+</p>
+<wtitle>§ 267.</wtitle>
+<p>
+For saa vidt Landsretten ikke i Medfør af § 111, § 153 eller § 183 forandrer<lb/>
+sin Afgørelse, indsender den inden Udløbet af en Uge Kæreskriftet eller Udskrift af<lb/>
+Retsbogen samt af den paaklagede Kendelse og øvrige fornødne Aktstykker til<lb/>
+Højesteret, hvorhos Retten kan vedføje sin egen Erklæring. Om den stedfundne Ind-<lb/>
+sendelse gives der straks begge Parter Meddelelse.
+</p>
+<wtitle>§ 268.</wtitle>
+<p>
+I Løbet af en Uge fra denne Meddelelse have begge. Parter Adgang til at<lb/>
+indsende skriftlige Udtalelser til Højesteret. Senere indsendte Udtalelser ere ikke<lb/>
+udelukkede fra at tages i Betragtning, naar de indkomme, inden Afgørelse har fundet<lb/>
+Sted. I øvrigt kan Højesteret efter sit Skøn af egen Drift indhente Oplysninger eller<lb/>
+Erklæringer fra Landsretten eller Parterne.
+</p>
+<wtitle>§ 269.</wtitle>
+<p>
+Paa det indkomne skriftlige Grundlag træffer Højesteret snarest muligt Af-<lb/>
+gørelse ved Kendelse. Naar særlige Grunde tale derfor, kan Højesteret dog af egen<lb/>
+Drift eller efter en Parts Begæring anordne mundtlig Forhandling og til den Hensigt<lb/>
+opfordre Parterne til at give Møde. Udebliver i saa Fald den, der kærer, afvises<lb/>
+Kæremaalet, hvorimod Modpartens Udeblivelse ikke har nogen særlig Virkning.
+</p>
+<p>
+Kæremaal kunne forhandles for og afgøres af et saadant Udvalg, som be-<lb/>
+stemt i § 259.
+</p>
+<wtitle>§ 270.</wtitle>
+<p>
+Hvor denne Lov ikke bestemmer andet, er Kærefristen 2 Uger, efter at Af-<lb/>
+gørelsen er truffen. Landsretten kan, naar Omstændighederne tale derfor, senere,<lb/>
+dog ikke efter 6 Maaneders Forløb, tillade, at Kæreskrift indgives inden 2 Uger efter<lb/>
+Tilladelsens Meddelelse.
+</p>
+<p>
+Kære til Højesteret har ikke opsættende Virkning, hvor det ikke særlig er<lb/>
+fastsat i denne Lov. Dog kan saavel Landsretten som Højesteret anordne saadan<lb/>
+Opsættelse.
+</p>
+<p>
+Adgang til Kære fortabes, naar en til den given Udsættelse ikke benyttes.
+</p>
+<title>Kapitel XXIII.</title>
+<undertitle>
+Ny Foretagelse ved Højesteret.
+</undertitle>
+<wtitle>§ 271.</wtitle>
+<p>
+Højesteret kan paa Andragende undtagelsesvis tillade, at en ved denne Ret<lb/>
+afgjort Sag paa ny foretages ved samme, naar der er tilvejebragt en meget stærk<lb/>
+Sandsynlighed for, at Sagen uden Andragerens Fejl har foreligget urigtig oplyst, og
+</p>

@@ -1,0 +1,49 @@
+3561
+<pb n="99" />
+<h>
+<coll>3561</coll>
+<topmidle>Forsl. t. L. om den borgerlige retspleie.</topmidle>
+<colr>3562</colr>
+</h>
+<p>I Reglen skal han selv besorge Klagen skriftlig afsattet; dog kan han, naar Sagens<lb />
+Gjenstand er under den i § 354 bestemte værdi, begjærc af Underdommereu, at denne skal<lb />
+være ham behjælpelig hermed. Klageskriftet skal, foruden Parternes Navne og Vopæle eller<lb />
+Opholdssteder, indeholde en kort Fremstilling af de Grunde, hvorpaa søgsmaalet slottes, samt<lb />
+en nsiagtig Angivelse af den Paastand, der agtes nedlagt.</p>
+<p>Dommeren forsyner Klagestriftet med en Paategning, hvorved Sagen berammes til<lb />
+Foretagelse i et angivet Retsmode. Det bliver herved at iagttage, at Klagestriftet kan for-<lb />
+kyndes for Sagssgte med et Varsel af mindst en Uge. Dog har Dommeren i paatrængende<lb />
+Tilfælde Myndighed til at afkorte Varselet endog til 24 Timer; men i saa Fald maa<lb />
+Klagen indeholde Oplysning om den paaberaabte Grund.</p>
+<p>Dokumenter, som Sagsogeren vil benytte, bor i Reglen nævnes i Klagestriftet; lige-<lb />
+ledes bor Sagsogte udtrykkeligt opfordres til at fremkomme med de Dokumenter, han vil be-<lb />
+nytte til sit Forsvar i det fsrste Retsmode.</p>
+<wtitle>§ 344.</wtitle>
+<p>Klagestriftet tilbageleveres Sagssgeren, som har at sørge for dets betimelige For-<lb />
+kyndelse for Modparten. Gjenpart af Klagestriftet med den samme givne Berammelsespaa-<lb />
+tegning overleveres i Forbindelse hermed til Sidstnævnte.</p>
+<wtitle>§ 345.</wtitle>
+<p>Til den berammede Tid møde Parterne. Dommeren har da, forinden Proceduren<lb />
+begynder, at mægle Forlig mellem dem, medmindre Sagen henhorer til dem, i hvilke den ved<lb />
+Lov 10de Mai 1d54 § 65 ff. anordnede Forligsmcrgling for mægleren i Tyendesagcr har<lb />
+fundet Sted.   Kommer Forlig istand, tilfores det Retsbogen.</p>
+<wtitle>§ 346.</wtitle>
+<p>Kommer Forlig ikke istand, eller skal ingen Forligsmægling foregaa, stride Parterne<lb />
+til mundtlig at udvikle deres Sag for Dommeren uden videre Forberedelse ved Skrift. Sag-<lb />
+søgeren fremlægger det behorigt forkyndte Klagestrift og fremstiller Sagen fra sin Side, hvor-<lb />
+paa Sagsogte har at erklære sig.</p>
+<p>Under Sagens Forhandling i Retsmodet bor Dommeren ikke blot fsge at fremkalde<lb />
+tydelige og sandfærdige Forklaringer fra Parternes Side om Sagens Sammenhæng, men han<lb />
+har ogsaa, forsaavidt Parterne ikke møde ved Sagførere, at veilede dem med Hensyn til, hvilke<lb />
+Handlinger eller Beviser de retteft bor foretage eller fremskaffe.</p>
+<p>De fra begge Sider fremsætte Paastande protokolleres fuldstændigt, medmindre de i særfiilt<lb />
+skriftlig Fremstilling fremlægges til Protokollen. Forsaavidt Saadant efter Omstændig-<lb />
+hederne maatt? anses fornødent, kan Dommeren foranledige Afsattelsen af saadanne skriftlige<lb />
+Fremstillinger af Paastandene og dertil tilstaa Udsættelse.</p>
+<p>Naar Sagens Gjenstand er over den i § 354 bestemte værdi, skulle endvidere Par-<lb />
+ternes Erkceringer over Sagens Sammenhæng, Vidnernes Forklaringer m. v. protokolleres,<lb />
+dog ikke ordret, men efter deres væsentlige Indhold.   Det Tilforte oMses og vedkjendes.</p>
+<wtitle>§ 347.</wtitle>
+<p>Dommeren kan bestemme,   om  Formalitetsindsigelser skulle  forhandles og   paakjendes<lb />
+Nrskilt eller i Forbindelse med Realiteten.</p>
+<p>Parterne maa derfor altid være beredte paa at forhandle Realiteten i det forste Retsmode.</p>

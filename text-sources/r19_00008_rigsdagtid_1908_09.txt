@@ -1,0 +1,73 @@
+2153
+<pb n="8" />
+<h>
+<coll>21</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>214</colr>
+</h>
+
+<wtitle>§ 27.</wtitle>
+<p>
+For Underretterne udenfor København bestemmes ved kongelig Anordning<lb/>
+Tiden for de ordentlige Retsmøder til Domssagers Behandling paa de enkelte Ting-<lb/>
+steder. Dommeren berammer i livert enkelt Tilfælde Tiden for andre Retsmøder.
+</p>
+<wtitle>§ 28.</wtitle>
+<p>
+Paa Søn- og Helligdage afholdes ikke Retsmøder undtagen i paatrængende<lb/>
+Tilfælde. Om Tilfældet er paatrængende, afgøres af Retten eller dennes Formand.
+</p>
+<p>
+I den stille Uge og i Tiden fra 24. December til Januar bortfalde de<lb/>
+ordentlige Retsmøder.
+</p>
+<wtitle>§ 29.</wtitle>
+<p>
+Naar Hensyn til Retspersonalet eller Rettens øvrige Forretninger kræver det,<lb/>
+eller Omstændighederne i øvrigt gøre det nødvendigt, kan Formanden afbryde begyndte<lb/>
+Retsmøder eller afsige eller udsætte berammede Retsmøder, hvorom da Underretning<lb/>
+snarest muligt bliver at give alle vedkommende.
+</p>
+<wtitle>§ 30.</wtitle>
+<p>
+Retsmøderne ere offentlige, hvor ikke det modsatte særlig er foreskrevet. Dog<lb/>
+kan Retten undtagelsesvis paa Begæring af en Part eller i Embeds Medfør beslutte,<lb/>
+at Forhandlingen skal foregaa for lukkede Døre, naar Hensyn til Sædeligheden eller<lb/>
+Orden og Ro i Retslokalet kræver det, Det samme gælder i borgerlige Sager, naar<lb/>
+offentlig Forhandling vilde tilføje nogen en ufornøden Krænkelse, og i Straffesager,<lb/>
+naar Statens Forhold til fremmede Magter kræver det, samt med Hensyn til Rets-<lb/>
+handlinger, som finde Sted udenfor Domsforhandling, naar særegne Omstændigheder<lb/>
+give Grund til at antage, at Retsmødets Offentlighed vil være til Hinder for Sagens<lb/>
+Oplysning, eller det begæres af Værgen for en Sigtet under 18 Aar. Domme afsiges<lb/>
+stedse i offentligt Møde.
+</p>
+<wtitle>§ 31.</wtitle>
+<p>
+Rettens Beslutning om. at Dørene skulle lukkes, sker ved Kendelse, efter at<lb/>
+Parterne have haft Lejlighed til at udtale sig. Kendelsen, der i borgerlige Sager ikke<lb/>
+er Genstand for Kære, afsiges offentligt; om Dørene skulle lukkes under den forud-<lb/>
+gaaende Forhandling, afgør Rettens Formand.
+</p>
+<p>
+Beslutning om. at Dørene skulle lukkes, kan træffes saavel ved Forhandlingens<lb/>
+Begyndelse som i Løbet af denne; den kan straks eller senere indskrænkes til en Del<lb/>
+af Forhandlingen.
+</p>
+<wtitle>§ 32.</wtitle>
+<p>
+Naar Domsforhandlingen i en Straffesag holdes for lukkede Døre. have de ved<lb/>
+den paatalte Handling forurettede Personer, fremdeles Dommere, Øvrighedspersoner,<lb/>
+Sagførere samt de, der ere indkaldte som Nævninger til det paagældende Ting, Adgang<lb/>
+til at overvære samme; endvidere kan der af Rettens Formand tilstedes enkelte andre<lb/>
+Adgang. Om de Forhandlinger, der af Hensyn til Statens Forhold til fremmede<lb/>
+Magter eller til Sædeligheden finde Sted for lukkede Døre, maa der ikke af de nævnte<lb/>
+Personer gives Meddelelse til nogen, hvem Adgang til at overvære dem ikke har<lb/>
+været tilstedet, Ej heller maa offentlig Gengivelse af saadanne Forhandlinger i noget<lb/>
+Tilfælde finde Sted. Overtrædelse heraf straffes med Bøder fra 100 til 1,000 Kr.
+</p>
+<p>
+Hvorvidt der i borgerlige Sager, i hvilke Forhandling finder Sted for lukkede<lb/>
+Døre, kan tilstedes enkelte Personer, som ikke have med Sagen at gøre, Adgang,<lb/>
+beror paa Rettens Formand. Det samme gælder, naar i en Straffesag Retshandlinger<lb/>
+udenfor Domsforhandling foregaa for lukkede Døre.
+</p>

@@ -1,0 +1,75 @@
+3045
+<pb n="203" />
+<h>
+<coll>
+3045
+</coll>
+<topmidle>
+F. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+3046
+</colr>
+</h>
+<wtitle>§ 857.</wtitle>
+<p>
+For at Lodtrækning kan iværksættes, kræves Tilstedeværelse af mindst 20 eller,<lb />
+hvis en eller flere Suppleanter skal udtages, henholdsvis 21 eller flere Nævninger, som<lb />
+kan medtages ved Lodtrækningen.
+</p>
+<p>
+Er ikke mindst 20 Nævninger eller, hvis Suppleanter skal tiltræde, et tilsva-<lb />
+rende større Antal Nævninger mødt, eller synker Nævningernes Tal ved Rettens Af-<lb />
+gørelser under det nævnte laveste Tal, drager Rettens Formand Omsorg for, at det til<lb />
+Lodtrækningen fornødne Antal af Nævninger bringes til Veje ved Tilkaldelse af Hjælpe-<lb />
+nævninger i den Orden, i hvilken disses Navne findes opførte paa Hjælpelisten.
+</p>
+<p>
+Skulde det tilstrækkelige Antal ikke kunne skaffes til Veje paa denne Maade,<lb />
+foranstalter Rettens Formand Tallet udfyldt ved Lodtrækning, saaledes som i § 95 bestemt.
+</p>
+<wtitle>§ 858.</wtitle>
+<p>
+Lodtrækningen foregaar paa den Maade, at Sedler, hvorpaa Nævningernes fulde<lb />
+Navne er skrevne, og som oplæses, nedlægges i en Urne, af hvilken Sedler derefter enkelt-<lb />
+vis udtages og oplæses.
+</p>
+<p>
+Indsigelse, der gaar ud paa, at Lodtrækning er foretaget, uden at det ovenfor<lb />
+foreskrevne Antal Nævninger var til Stede, skal fremsættes før Lodtrækningens Slutning.
+</p>
+<wtitle>§ 859.</wtitle>
+<p>
+Saa snart et Navn er trukket af Urnen og oplæst, har først Overanklageren, indtil<lb />
+Ordet er givet Tiltalte, og derefter Tiltalte, indtil et nyt Navn er udtrukket, eller, med<lb />
+Hensyn til det sidst udtrukne Navn, indtil Lodtrækningen er erklæret for endt, Ret til<lb />
+uden Angivelse af Grund at forkaste den udtrukne Nævning. En afgiven Erklæring kan<lb />
+tilbagetages, naar det sker indenfor de angivne Tidsgrænser. Afgives ingen Erklæring,<lb />
+gælder Nævningen for antaget.
+</p>
+<wtitle>§ 860.</wtitle>
+<p>
+I det hele kan der i Henhold til § 859 forkastes 4 Nævninger fra hver Side.
+</p>
+<p>
+Er der i samme Sag flere Tiltalte, er disse lige nær berettigede til at udøve den en<lb />
+enkelt Tiltalt hjemlede Forkastelsesret.
+</p>
+<p>
+Kan de ikke enes om Udøvelsen af denne Ret, fordeles de dem indrømmede<lb />
+Forkastelser ligelig imellem dem. Med Hensyn til de Forkastelser, som ikke kan fordeles<lb />
+saaledes, afgøres det ved Lodtrækning, hvem af de Tiltalte de skal tilkomme. Lige-<lb />
+ledes bestemmes ved Lodtrækning, i hvilken Rækkefølge de skal erklære sig om For-<lb />
+kastelse. En herefter af en af de Tiltalte erklæret Forkastelse gælder ogsaa for de andre.
+</p>
+<wtitle>§ 861</wtitle>
+<p>
+Indsigelser, der gaar ud paa, at Reglerne i §§ 859 og 860 er tilsidesatte, skal<lb />
+fremsættes før Anklageskriftets Oplæsning.
+</p>
+<wtitle>§ 862.</wtitle>
+<p>
+Naar 12 eller, hvis Suppleanter skal tiltræde, henholdsvis 13 eller flere ufor-<lb />
+kastede Nævninger er udtrukne, ophører Lodtrækningen. De 12 først udtrukne er<lb />
+Nævningerne i Sagen; den eller de, hvis Navne senere maatte udtrækkes, er Suppleanter.
+</p>

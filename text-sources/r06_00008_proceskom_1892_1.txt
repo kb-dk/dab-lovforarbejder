@@ -1,0 +1,44 @@
+8
+<pb n="8" />
+<rightside>
+<p>tilgrænsende Landdistrikt ved kgl. Anordning henlægges under Kjøbenhavns Stadsret, naar de stedlige Forhold tale derfor.<lb />
+I øvrigt deles Riget i 103 By- og Herreds-retskredse, saaledes som det angives paa den<lb />
+nærværende Lov vedføjede Tavle. Forandringer deri, hvorved Sogne eller mindre<lb />
+Dele af enkelte Sogne henlægges til en<lb />
+anden Retskreds, kunne, efter at vedkommende Amtsraads Betænkning er indhentet,<lb />
+gøres ved kgl. Anordning.
+</p>
+<wtitle>§ 15.
+</wtitle>
+<p>Underrettens Virkekreds omfatter Behandling og Paakendelse af Retssager samt<lb />
+Foretagelse af Retshandlinger i det Omfang,<lb />
+som bestemmes ved Lovene om den borgerlige Retspleje og Strafferetsplejen.
+</p>
+<wtitle>§ 16.
+</wtitle>
+<p>Til Underretternes Virkekreds henhorer fremdeles udenfor den egentlige Retspleje:
+</p>
+<p>a.	Tinglæsningsvæsnet;
+</p>
+<p>b.	Formandskabet   i   Landvæsenskommissioner   overensstemmende med Lov  af<lb />
+30. December 1858 § 2;
+</p>
+<p>c. De Retsbetjentene ved Lov af 23.<lb />
+Januar 1862 angaaende Tiendevederlagets Berigtigelse paahvilende Forretninger;
+</p>
+<p>d. Udmeldelse  af Syns- og Skønsmænd<lb />
+udenfor Retsplejen, forsaavidt den ikke<lb />
+kan ske af Øvrigheden:<lb />
+samt  udenfor Kjøbenhavns Stadsrets Omraade:
+</p>
+<p>e. De ved Lov af 26. Maj 1868 om<lb />
+Umyndiges Midlers Forvaltning § 7,<lb />
+jfr. Bekendtgørelse af 11. Maj 1869,<lb />
+og ved samme Lovs § 10 til Skifteretterne henlagte Forretninger, forsaavidt Loven om den borgerlige Retspleje  ikke medfører Forandring  heri;
+</p>
+<p>f. Notarialforretninger.
+</p>
+<p>Notarialvæsnets Ordning i Kjøbenhavn<lb />
+fastsættes ved særlig Anordning.
+</p>
+</rightside>

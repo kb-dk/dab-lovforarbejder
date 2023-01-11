@@ -1,0 +1,71 @@
+634
+<pb n="218" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>634</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+beskikket, tilføjes der Retsbogen Bemærkning herom; i modsat Fald beskikker Retten<lb />
+ham en Forsvarer, hvis Stilling derefter er den samme som angivet med Hensyn til den<lb />
+fængslede Sigtedes Forsvarer.
+</p>
+<p>
+Indtil Dom er afsagt, kan Dommeren, dersom han finder, at nogen af de i § 825,<lb />
+1ste Stykke, angivne Forudsætninger er til Stede, eller at nogen foreliggende Omstændighed gør det betænkeligt at pådømme Sagen uden formelig Domsforhandling, beslutte<lb />
+henholdsvis at standse eller slutte Behandlingen overensstemmende med § 825.
+</p>
+<p>
+Med Dommens Afsigelse og Forkyndelse forholdes overensstemmende med de<lb />
+Regler, som gælder i andre Underretssager.
+</p>
+<wtitle>§ 926.</wtitle>
+<p>
+Udenfor de Tilfælde, hvor den i § 925 hjemlede Fremgangsmåde benyttes, rejses<lb />
+Tiltale for Underretten henholdsvis Sø- og Handelsretten ved et i Overensstemmelse med<lb />
+§912 affattet Anklageskrift, der udfærdiges af Overanklageren, og ved hvis Indlevering<lb />
+til vedkommende Ret Sagen er tingfæstet.
+</p>
+<p>
+Er Sagens Udførelse for Retten overdraget en af de ved Retten ansatte Anklagere, skal Overanklageren give Anklageskriftet Påtegning herom.
+</p>
+<p>
+Om Udvidelse og Ændring i Tiltalen gælder Reglerne i § 833.
+</p>
+<p>
+For så vidt ikke i det efterfølgende afvigende Forskrifter er givne, finder i øvrigt<lb />
+med Hensyn til Domsforhandlingen og dennes Forberedelse Reglerne i Kapitlerne 78<lb />
+og 79 Anvendelse med de fornødne Lempelser. Den, hvem Sagens Udførelse er overdraget af Overanklageren, træder herved i det hele i dennes Sted.
+</p>
+<p>
+I Sager om Oprejsning for uforskyldt Anholdelse og om Erstatning for uforskyldt<lb />
+Varetægtsfængsel eller uforskyldt Udståelse af Straf følges ligeledes med de fornødne<lb />
+Lempelser Reglerne i Kapitlerne 78 og 79, navnlig finder også § 841 tilsvarende Anvendelse ved Underretterne.
+</p>
+<wtitle>§ 927.</wtitle>
+<p>
+Hører Sagen til dem, i hvilke Tiltalte i Medfør af § 687 b og c kan begære Behandling ved Landsret, og har han ikke allerede afgivet Erklæring i så Henseende, jfr.<lb />
+§ 818, skal Anklageskriftet have en Påtegning, hvori Tiltalte gøres opmærksom på denne<lb />
+sin Ret og opfordres til, såfremt han vil gøre Brug af samme, herom at afgive Erklæring<lb />
+som nedenfor bestemt. Denne Erklæring må enten afgives ved Anklageskriftets Forkyndelse for den, der iværksætter denne, eller inden fire Dage fra Anklageskriftets Forkyndelse indgives på Underrettens Kontor eller fremsættes overensstemmende med<lb />
+§ 844 til Undersøgelsesrettens Retsbog eller Fængselsbestyrerens Bog. På Indholdet af<lb />
+den ovennævnte Påtegning skal den, der iværksætter Forkyndelsen, særlig henlede<lb />
+Tiltaltes Opmærksomhed. Om den Erklæring, som Tiltalte i ommeldte Henseende måtte<lb />
+afgive under Forkyndelsen, optages fornøden Bemærkning i Forkyndelsespåtegningen.
+</p>
+<wtitle>§ 928.</wtitle>
+<p>
+Hvor det ikke efter Omstændighederne findes rettest at afvente, om Tiltalte vil<lb />
+begære Behandling ved Landsret, og hvor heller ikke Omfanget af den Forberedelse,<lb />
+som Sagen udkræver, gør det uhensigtsmæssigt, berammer Dommeren, for så vidt han<lb />
+ikke finder, at Sagen straks må afvises (§ 842), ufortøvet Tid og Sted til Sagens Foretagelse; i andre Tilfælde foregår Berammelsen, så snart ske kan. Hvor Sagen straks<lb />
+er blevet berammet, kan Stævning forkyndes samtidig med Anklageskriftet.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

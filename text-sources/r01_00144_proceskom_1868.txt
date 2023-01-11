@@ -1,0 +1,37 @@
+138
+<pb n="144" />
+<p>hans Værge,  forsåvidt han ikke er personlig<lb />
+myndig.</p>
+<p>De Skridt, som i Anledning af Påanke<lb />
+blive at foretage ved Landsretten i den<lb />
+Sigtedes Interesse, er den for den Sigtede<lb />
+ved Landsretten beskikkede Forsvarer pligtig at<lb />
+foretage, når det begjæres.</p>
+<wtitle>§ 373.</wtitle>
+<p>Afkald på Påanke kan finde Sted,<lb />
+efterat Dommen er afsagt. Beslutning<lb />
+om Påanke kan frafaldes, for Anklagens Vedkommende af Overstatsanklageren,<lb />
+sålænge Dom ikke er afsagt af Højesteret.<lb />
+Frafaldes Anke, efterat Forhandlingen om Påankens Gjenstand er begyndt, kan derved dog<lb />
+ikke prøvelse af sådanne Ankegrunde unddrages Højesteret, som skulle tages i Betragtning<lb />
+i Embeds medfør (§ 391).</p>
+<wtitle>§  374.</wtitle>
+<p>Dommen kan påankes på Grund af<lb />
+Krænkelse af Rettergangsreglerne i følgende<lb />
+Tilfælde:</p>
+<p>1)   når det lovbestemte Antal Dommere<lb />
+ikke har deltaget i Dommens Vedtagelse, eller<lb />
+Reglen i § 278   1ste Stykke med Hensyn til<lb />
+nogen af Dommerne er tilsidesat;</p>
+<p>2)   når en Dommer, som ifølge  Loven<lb />
+var udelukket eller burde udelukkes fra at deltage i Sagens Behandling, har medvirket ved<lb />
+Hovedforhandlingen;</p>
+<p>3)   når Retten var inkompetent eller har<lb />
+afvist Sagen, skjønt den  var   kompetent;</p>
+<p>4)   når Anklagen ellers uden lovlig Grund<lb />
+er bleven afvist eller ikke  i sin hele Udstrækning er pådømt;</p>
+<p>5)  når Hovedforhandlingen i Strid med<lb />
+Loven er foregået for lukkede Døre;</p>
+<p>6)   når Dom mod Loven er gået uden<lb />
+Anklage   eller   i   en   gjenoptagen Sag   uden<lb />
+Hjemmel i Reglerne herom, når Retten i at</p>

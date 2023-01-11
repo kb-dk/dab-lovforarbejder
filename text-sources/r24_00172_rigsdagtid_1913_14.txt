@@ -1,0 +1,68 @@
+3679
+<pb n="172">
+<h>
+<coll>
+3679
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3680
+</colr>
+</h>
+<p>
+Under Domsforhandlingen i Landsretssager kan det af Landsrettens Formand<lb />
+tillades, at flere valgte Forsvarere optræde for samme Sigtede, dog kun een for hver<lb />
+enkelt Del af Forhandlingen. Sigtede er berettiget til selv tillige at tage Ordet til<lb />
+sit Forsvar, jvf. dog § 919, 3die Stykke.
+</p>
+<p>
+Den offentlige Forsvarer, som er beskikket til at varetage Sigtedes Tarv under<lb />
+Domsforhandlingen, er beføjet til at give Møde ogsaa under Retshandlinger ved anden<lb />
+Ret. Skal en saadan Retshandling foregaa udenfor den Underretskreds, hvori han<lb />
+bor, kan paa hans Begæring en særlig Forsvarer beskikkes til at møde ved samme.<lb />
+Dog bør i paatrængende Tilfælde Retshandlingen ikke udsættes herefter.
+</p>
+<lowtitle>§ 738.</lowtitle>
+<p>
+Sigtede har, ogsaa naar han er fængslet, Ret til ukontroleret Samkvem —<lb />
+skriftligt eller mundtligt — med sin beskikkede Forsvarer. I Henseende til en Sigtets<lb />
+Samkvem med sin valgte Forsvarer i Fængslingstiden kan Dommeren, naar han anser<lb />
+det fornødent, saa længe Tiltale ikke er rejst, anordne fornøden Kontrol.
+</p>
+<lowtitle>§ 739.</lowtitle>
+<p>
+Misbruger en Sagfører eller nogen til Forsvarer beskikket Mand sin Stilling<lb />
+til at modarbejde Sagens Oplysning, eller gør han sig skyldig i Tilsidesættelse af de<lb />
+ham paahvilende Pligter til behørig at fremme Sagen, bliver han at anse efter Straffe-<lb />
+lovens § 144.
+</p>
+<lowtitle>§ 740.</lowtitle>
+<p>
+Beskikkelse af en offentlig Forsvarer indskrænker ikke Sigtedes Ret til selv at<lb />
+drage Omsorg for sit Forsvar; men Forsvareren behøver ikke Sigtedes Samtykke til<lb />
+at foretage de Handlinger, som han anser for nødvendige eller hensigtsmæssige til<lb />
+dennes Tarv.
+</p>
+<lowtitle>§ 741.</lowtitle>
+<p>
+De offentlige Forsvarere   erholde Vederlag  af  det   offentlige  for den enkelte
+</p>
+<p>
+Sag, for saa vidt Krav herpaa ikke er frafaldet. Retten fastsætter dette Vederlag efter<lb />
+Arbejdets Betydning og Omfang ved Dommen, eller naar Forsvarerens Virksomhed<lb />
+er afsluttet. I øvrigt gælde Bestemmelserne i Lov om Sagførersalær m. m. af 24. Maj<lb />
+1879 for de offentlige Forsvarere.
+</p>
+<title rend="part">Andet Afsnit.</title>
+<title>Midler til Sagens Oplysning m. m.</title>
+<title rend="chapter">Kapitel 67</title>
+<title rend="subtitle">Besigtigelse.</title>
+<lowtitle>§ 742.</lowtitle>
+<p>
+Politiet har at foretage Besigtigelser i alle Tilfælde, hvor dets Pligter med Hen-<lb />
+syn til Efterforskningen medføre det. Skønnes det, at Besigtigelse bør ske ved Ret-<lb />
+ten, har Politiet at drage Omsorg for, at den forefundne Tilstand bliver uforandret,<lb />
+indtil Retshandlingen kan finde Sted.
+</p>
+
+</pb>

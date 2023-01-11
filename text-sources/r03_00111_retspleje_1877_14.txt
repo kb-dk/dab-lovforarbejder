@@ -1,0 +1,36 @@
+105
+<pb n="111" />
+
+<p>Iøvrigt komme de i andet Afsnits Kap. V<lb />
+givne Regler om Udeblivelse til Anvendelse.</p>
+<title>Fjerde Afsnit.</title>
+<undertitle>Om Behandlingen af og Retsmidlerne<lb />
+i de Sager, der i første Instants påkjendes af Underretterne.</undertitle>
+<wtitle>§ 342.</wtitle>
+<p>De i andet Afsnits første Kapitel omhandlede skriftlige Sagsfremstillinger og øvrige<lb />
+skriftlige Meddelelser mellem Parterne bortfalde, når Sagen behandles ved Underretten.</p>
+<wtitle>§ 343.</wtitle>
+<p>Sagsøgeren begynder Sagen med at tilstille Underdommeren sin Klage.</p>
+<p>I Reglen skal han selv besørge Klagen<lb />
+skriftlig affattet; dog kan han, når Sagens<lb />
+Gjenstand er under den i § 354 bestemte<lb />
+Værdi, begjære af Underdommeren, at denne<lb />
+skal være ham behjælpelig hermed. Klageskriftet skal, foruden Parternes Navne og Bopæle eller Opholdssteder, indeholde en kort<lb />
+Fremstilling af de Grunde, hvorpå Søgsmålet støttes samt en nøjagtig Angivelse af<lb />
+den Påstand, der agtes nedlagt.</p>
+<p>Dommeren forsyner Klageskriftet med en<lb />
+Påtegning, hvorved Sagen berammes til<lb />
+Foretagelse i et angivet Retsmøde. Det bliver herved at iagttage, at Klageskriftet kan<lb />
+forkyndes for Sagsøgte med et Varsel af<lb />
+mindst en Uge. Dog har Dommeren i påtrængende Tilfælde Myndighed til at afkorte<lb />
+Varselet endog til 24 Timer; men i så Fald<lb />
+må Klagen indeholde Oplysning om den<lb />
+påberåbte Grund.</p>
+<p>Dokumenter, som Sagsøgeren vil benytte,<lb />
+bør i Reglen nævnes i Klageskriftet; ligeledes<lb />
+bør Sagsøgte udtrykkeligt opfordres til at<lb />
+fremkomme med de Dokumenter, han vil benytte til sit Forsvar i det første Retsmøde.</p>
+<wtitle>§ 344.</wtitle>
+<p>Klageskriftet tibageleveres Eagsøgeren, som<lb />
+har at sørge for dets betimelige Forkyndelse for<lb />
+Modparten, Gjenpart af Klageskriftet med den</p>

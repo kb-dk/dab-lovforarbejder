@@ -1,0 +1,46 @@
+3739
+<pb n="188" />
+<h>
+<coll>3739</coll>
+<topmidle>^Horst. t. L. om Strafferetspleien.</topmidle>
+<colr>3740</colr>
+</h>
+<p>om dc maatte være givne i embedsmcesfig Forvaring med   det Formaal,   at Indholdet   skal<lb />
+v crre hemmeligt.</p>
+<p>Dog finde ved denne Paragraf Reglerne i § 130 Nr. 1 og 3 tilsvarende<lb />
+Anvendelse.</p>
+<wtitle>§ 122.</wtitle>
+<p>Breve og andre Forsendelser, som afsendes til den Sigtede, eller om hvilke det efter<lb />
+de foreliggende Omstændigheder er sandsynligt, at de ere afsendte af den Sigtede, kan det ved<lb />
+Kjendelse paalægges Postvæsenet at udlevere til Retten, naar Mistanken angaar en Forbry-<lb />
+delse, som det ifolge Lovens almindelige Regel tilkommer Statsanklageren at forsølge, og der<lb />
+derhos er paaviselig Grund til at antage, at Forsendelsens Indhold er af Betydning for<lb />
+Sagen. Undtagne herfra ere Breve, som vexles med en Forsvarer, forsaavidt dette følger af<lb />
+Reglerne i §§ 47 og 57.</p>
+<p>Under samme Betingelse kan det ved Retskjendel^e paalægges Postvæsenet at ud-<lb />
+levere Forsendelser fra og til Andre end den Sigtede, naar det er sandsynligt, at disse af-<lb />
+sendes paa hcms Vegne eller ere bestemte til ham.</p>
+<p>Kjendelsen skal angive enten den bestemte Forsendelse, hvis Udlevering fordres, eller<lb />
+det Tidsrum, i Lebet af hvilket de omtalte Forsendelser skulle udleveres. Udskrift af den<lb />
+meddeles Postembedsmanden.</p>
+<wtitle>§ 123.</wtitle>
+<p>Naar Anholdelse finder Sted uden Rettens Anholdelsesbeslutning for en Forbrydelse,<lb />
+som det ifolge Lovens almindelige Regel tilkommer Statsanklageren at forfølge. kan Politiet<lb />
+paalægge Postvæsenets embedsmænd at tilbageholde Forsendelser til og fra den Anholdte<lb />
+naar der er Grund til at antage, at deres Udlevering kan være af Betydning for Under<lb />
+søgelsen, indtil Retten i det Mode, i hvilket den Anholdte fremstilles, kan tage Beslutning<lb />
+om Udlevering.</p>
+<wtitle>§ 124.</wtitle>
+<p>Under Betingelser, som svare, til de i §§ 122 og 123 angivne, kan det paalcrg-<lb />
+ges Telegrasvæsenets Funktionærer at tilbageholde og meddele Retten eller henboldsvis fore-<lb />
+lsbig tilbageholde de til Befordring indleverede Telegrammer.</p>
+<title>III.</title>
+<undertitle>Om Beslaglæggelse af Ting, der kunne tjene til Bevis, m. V.</undertitle>
+<wtitle>§ 125.</wtitle>
+<p>Findes ved Ranfagning Ting, som lovlig kunne eftersoges ved en saadan, eller ud-<lb />
+leveres Ting i medfør af Bestemmelserne i dette Kapitels 2dct Underafsnit, eller paatræffes<lb />
+ellers Ting, som skjønnes at have Betydning for Underso gelsen, blive de at tage i Forvaring.</p>
+<p>medfører denne Forholdsregel Indgreb i en Persons Raadighed, udkræves en Beslut-<lb />
+ning af Retten om Beslaglæggelse. Dog kan Politiet iværksætte en forelsbig Beslaglæggelse,<lb />
+men maa da inden 24 Timer begjære Rettens Stadfæstelse.</p>
+<p>Beslaglæggelse af et trykt Skrift kan alene finde Sted efter Retskjendelse.</p>

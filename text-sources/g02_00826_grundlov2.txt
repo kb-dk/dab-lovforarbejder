@@ -1,0 +1,122 @@
+3125
+<pb n="826" >
+<p rend="page">826</p>
+<h>
+<coll>3125</coll>
+<colr>3126</colr><lb />
+<topleft>1849.</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 395.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+Hundrede og femtende (119de) Møde.<lb />
+(Den endelige Behandling af Grundloven. § 30—36)<lb />
+</stitle>
+<p>
+<law n="37" >§ 37.<lb /></law>
+Valgkredsene for Landsthingsvalgene ordnes ved Valgloven,<lb />
+dog saaledes, at Kjøbenhavn og Kjøbstæderne tilsammen vælge<lb />
+en Trediedeel af dets Medlemmer. Der stemmes paa saamange<lb />
+Mænd, som skulle vælges for Valgkredsen, i hvilken idetmindste<lb />
+Halvdelen af de Valgte skulle have havt fast Bopæl i det sidste<lb />
+Aar før Valget. Til et gyldigt Valg udfordres mere end Halvdelen af de afgivne Stemmer.<lb />
+<law n="39" />§39.<lb />
+Medlemmerne af Landsthinget vælges paa 9 Aar. Trediedelen afgaaer hvert 3die Aar. De erholde samme daglige Vederlag som Folkethingets Medlemmer.<lb />
+<law n="40" >§ 40.<lb /></law>
+Udgaaer.<lb />
+22) Køsters Forslag:<lb />
+<law n="35" >§ 35.<lb /></law>
+Valgene til Landsthinget foregaae igjennem Communalbestyrelserne, paa saadan Maade, som Valgloven nærmere bestemmer.<lb />
+<law n="37" >§ 37.<lb /></law>
+Valgkredsene for Landsthingsvalgene ordnes ved Valgloven.<lb />
+Der stemmes paa saamange Mænd, som skulle vælges for Valgkredsen, i hvilken idetmindste tre Fjerdedele af de Valgte skulle<lb />
+have havt fast Bopæl i det sidste Aar før Valget. Til et<lb />
+gyldigt Valg udfordres mere end Halvdelen af de afgivne<lb />
+Stemmer.<lb />
+<law n="40 udgaaer" />§ 40 udgaaer.<lb />
+23) Mundts Forslag: At § 40 redigeres saaledes:<lb />
+„Naar en ny Communallov er given, skal Valget af Landsthingets Medlemmer skee ved Communalbestyrelserne. Det Nærmere desangaaende bliver at bestemme ved Lov. “<lb />
+24) Frølunds, F. Jespersens og Madsens Forslag til Landsthinget og Folkethinget:<lb />
+<law n="30" >§ 30.<lb /></law>
+Rigsdagen bestaaer af Folkethinget og Landsthinget. Begge<lb />
+fremgaae ved umiddelbare Valg af Folket.<lb />
+<law n="31" >§ 31.<lb /></law>
+Valgret til Rigsdagen har enhver uberygted Mand, som har<lb />
+Indfødsret, naar han har fyldt sit 30te Aar, medmindre han:<lb />
+a) uden at have egen Huusstand staaer i privat Tjenesteforhold;<lb />
+b) nyder eller har nydt Understøttelse af Fattigvæsenet, som ikke er<lb />
+enten eftergiven eller tilbagebetalt;<lb />
+c) er ude af Raadigheden over sit Bo;<lb />
+d) ikke har havt fast Bopæl i eet Aar i det Valgdistrict eller den<lb />
+Stad, hvori han opholder sig paa den Tid, Valget foregaaer.<lb />
+<law n="32" >§ 32.<lb /></law>
+Valgbar er, med de i § 31 a, b og c nævnte Undtagelser,<lb />
+enhver uberygtet Mand, som har Indfødsret,<lb />
+til Folkethinget, naar han har fyldt sit 25de Aar;<lb />
+til Landsthinget, naar han har fyldt sit 40de Aar, og i<lb />
+det sidste Aar før Valget har havt fast Bopæl i det Amt, hvori<lb />
+han vælges.<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+<law n="33" >§ 33.<lb /></law>
+Valgene til Folkethinget foregaae efter Districter paa omtrent 12,000 Indvaanere. Ethvert District vælger een blandt<lb />
+dem, der have stiller sig til Valg.<lb />
+</p>
+<p>
+Valgene til Landsthinget foregaae amtsviis. Hver Vælger<lb />
+stemmer i sin Commune paa saamange i Amtet bosatte Mænd,<lb />
+som skulle vælges for dette. Hovedstaden vælger særskilt og blandt<lb />
+de deri bosatte Mænd. Omvalg finde Sted for deres Vedkommende, der ved første Valg ikke have opnaaet mere end Halvdelen af de asgivne Stemmer.<lb />
+<law n="34" >§ 34.<lb /></law>
+Antallet af Landsthingets Medlemmer skal stedse være omtrent<lb />
+<sup>1</sup>/<sub>3</sub> af Antallet af Folkethingets Medlemmer.<lb />
+<law n="35" >§ 35.<lb /></law>
+Medlemmerne af Folkethinget vælges paa 4 Aar.<lb />
+Medlemmerne af Landsthinget vælges paa 8 Aar. Halvdelen<lb />
+afgaaer hvert 4de Aar. Hvilke der skulle afgaae første Gang,<lb />
+bestemmes ved Lodtrækning mellem de for hvert Amt og for<lb />
+Kjøbenhavn Valgte.<lb />
+<law n="36" >§ 36.<lb /></law>
+Medlemmerne af Folkethinget erholde et dagligt Vederlag;<lb />
+Medlemmerne af Landsthinget derimod ikke.<lb />
+25) Plougs Forslag:<lb />
+<law n="35" >§ 35.<lb /></law>
+Valgret til Landsthinget har Enhver, der ifølge § 31 har<lb />
+Valgret til Folkethinger. (Resten af Paragraphen udgaaer.)<lb />
+<law n="36" >§ 36.<lb /></law>
+Valgbar til Landsthinget er enhver uberygtet Mand, som<lb />
+har Indfødsret, og hvis Bo ei er under Opbuds- eller Fallitbehandling, naar han har fyldt sit 40de Aar. (Resten af Paragraphen udgaaer.)<lb />
+<law n="37" >§ 37.<lb /></law>
+Valgene til Landsthinget foregaae i større Valgkredse, der<lb />
+ordnes ved Valgloven. Vælgerne stemme paa saamange Mænd,<lb />
+som skulle vælges for Valgkredsen, i hvilken idetmindste <sup>3</sup>/<sub>4</sub> af de<lb />
+Valgte skulle have havt fast Bopæl i det sidste Aar sør Valget.<lb />
+Til et gyldigt Valg udfordres mere end Halvdelen af de afgivne<lb />
+Stemmer.<lb />
+<law n="39" >§ 39.<lb /></law>
+Medlemmerne af Landsthinget vælges paa 8 Aar. Halvdelen<lb />
+afgaaer hvert 4de Aar. De erholde intet Vederlag.<lb />
+<law n="40" >§ 40.<lb /></law>
+Naar en ny Communallov er given, kunne Landthings-Valgene ved Lov gaae over til de større communale (Amts- eller<lb />
+Provinds-) Raad.<lb />
+26) Udvalgets Mindretals (Christensen, Gleerup,<lb />
+Jacobsen) Forslag:<lb />
+Istedetfor §§ 35, 36, 37, 38, 39 og 40 foreslaaes:<lb />
+<law n="35" >§ 35.<lb /></law>
+Landsthinget fremgaaer ved umiddelbare Valg af Folket.<lb />
+Valgret har enhver uberygtet Mand, som har Indfødsret,<lb />
+naar han har fyldt sit 30 Aar, medmindre han: a) uden at<lb />
+have egen Huusstand staaer i privat Tjenesteforhold; b) nyder<lb />
+eller har nydt Understøttelse af Fattigvæsenet, som ikke er eftergiven eller tilbagebetalt; c) er ude af Raadighed over sit Boe<lb />
+d) ikke har havt fast Bopæl i eet Aar i den Valgkreds eller den<lb />
+</p>
+</rightside>
+
+
+</pb>

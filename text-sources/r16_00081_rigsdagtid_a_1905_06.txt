@@ -1,0 +1,79 @@
+2065
+<pb n="81" />
+<h>
+<coll>
+2065
+</coll>
+<topmidle>Tillæg A. (130).	Ordentlig Samling 1905.</topmidle>
+<colr>
+2066
+</colr>
+</h>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<wtitle>§ 346.</wtitle>
+<p>
+Under Domsforhandlingen fremstiller den Part, der først faar Ordet, kortelig<lb />
+Sagens Hovedtræk; derefter lader han ved Retsskriveren oplæse de Dokumenter, som<lb />
+han vil paaberaabe sig, derunder Udskrifter af Tingsvidner m. m., og fører sine Vid-<lb />
+ner o. desl. Modparten lader derpaa paa lignende Maade sine Dokumenter læse, og,<lb />
+hvis ogsaa han har tilstævnet Vidner o. desl., fører han dem efter de fornødne ind-<lb />
+ledende Bemærkninger. Derefter udvikler førstnævnte Part nærmere sin Opfattelse<lb />
+af hele Sagen, derunder Bevisførelsens Resultater og de vedkommende Retsspørgsmaal,<lb />
+hvorefter Modparten kan faa Ordet for en tilsvarende Udvikling.
+</p>
+<p>
+De paaberaabte Dokumenter, hvoraf efter Omstændighederne trykte eller skrevne<lb />
+Genparter omdeles til Dommerne, overgives efter Oplæsningen til Retten.
+</p>
+<wtitle>§ 347.</wtitle>
+<p>
+Enhver Part afhører de af ham fremstillede Vidner.
+</p>
+<p>
+Retten kan stille Spørgsmaal til Vidnet saavel til nærmere Opklaring af Punkter,<lb />
+hvorom Parterne have spurgt Vidnet, som til selvstændig Oplysning af Sagen.
+</p>
+<p>
+Naar Vidnets Helbredstilstand kræver Afhøring paa et særligt Sted, skal<lb />
+Rettens Formand afhøre Vidnet, hvis dette eller nogen af Parterne begærer det. Der<lb />
+skal i saa Fald gives Parterne Lejlighed til gennem Retten at stille Spørgsmaal til<lb />
+Vidnet. Ret til at begære Afhøring ved Rettens Formand tilkommer ogsaa den Part,<lb />
+der ikke selv er Sagfører eller møder ved Sagfører.
+</p>
+<wtitle>§ 348.</wtitle>
+<p>
+Den Part. der har ladet et Vidne indkalde, kan, naar Vidnet har givet Møde,<lb />
+ikke uden Modpartens Samtykke frafalde dets Afhørelse med den Virkning, at Mod-<lb />
+parten eller Retten afskæres fra at stille Spørgsmaal til Vidnet.
+</p>
+<wtitle>§ 349.</wtitle>
+<p>
+Vidners Forklaringer optegnes i Retsbogen, saaledes at de vigtigste Udtalelser<lb />
+gengives saa vidt muligt med Vidnets egne Ord, medens uvæsentlige Bemærkninger<lb />
+kunne udelades. Har Vidnet tidligere været afhørt, er Henvisning tilstrækkelig, saa<lb />
+at kun Afvigelser eller Fuldstændiggørelser optegnes.
+</p>
+<p>
+Det Retsbogen tilførte bliver efter endt Afhøring at oplæse for Vidnet, og<lb />
+Bemærkning, om Vidnet godkender Forklaringen, optages i Retsbogen.
+</p>
+<wtitle>§ 350.</wtitle>
+<p>
+Reglerne i §§ 347—349 finde med de fornødne Lempelser Anvendelse, ogsaa<lb />
+naar Parter eller Syns- eller Skønsmænd skulle afhøres.
+</p>
+<wtitle>§ 351.</wtitle>
+<p>
+Forhandlingerne fortsættes uafbrudt i det begyndte og de paafølgende Møder,<lb />
+der saa vidt muligt skulle holdes de umiddelbart efterfølgende Dage.
+</p>
+<p>
+Retten kan paa Grund af et Vidnes Udeblivelse eller Indsigelse imod at<lb />
+afgive Forklaring eller imod at møde udsætte Sagen, naar vedkommende Part be-<lb />
+gærer dette.
+</p>
+<p>
+Udsættelsen kan gives paa bestemt Tid eller indtil videre. I sidste Tilfælde<lb />
+kan, naar Hindringen er hævet, enhver af Parterne fremsætte Begæring for Retten<lb />
+Forelagte Lovforslag m. m.	130
+</p>

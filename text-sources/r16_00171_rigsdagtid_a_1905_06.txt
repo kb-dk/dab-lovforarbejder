@@ -1,0 +1,74 @@
+2245
+<pb n="171" />
+<h>
+<coll>
+2245
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2246
+</colr>
+</h>
+<wtitle>§ 742.</wtitle>
+<p>
+Sigtede, som møder eller fremstilles for Retten til Afhørelse, adspørges først<lb />
+om Navn, Alder, Stilling samt Bopæl og andet, som findes fornødent til Oplysning<lb />
+om hans Identitet.
+</p>
+<p>
+Efter dernæst at have gjort Sigtede bekendt med den imod ham rettede Sig-<lb />
+telse, spørger Dommeren ham, hvor vidt han erkender dens Rigtighed. Dommeren<lb />
+skal derefter give ham Lejlighed til at forklare sig om de Forhold, som Sigtelsen<lb />
+angaar, og til at udtale sig om de ved Vidneforklaringer eller paa anden Maade imod<lb />
+ham fremkomne Bevisligheder.
+</p>
+<p>
+For saa vidt det imod den Sigtede fremkomne eller den Sigtedes egne Ud-<lb />
+talelser dertil give Anledning, kan Dommeren rette Spørgsmaal til ham angaaende<lb />
+enkelte Punkter.
+</p>
+<wtitle>§ 743.</wtitle>
+<p>
+Sigtede fremstilles i Retten fri for Baand.
+</p>
+<p>
+Ingen Tvang maa anvendes imod en Sigtet, der vægrer sig ved at svare i det<lb />
+hele eller paa enkelte Spørgsmaal, eller som hindrer Afhørelsen ved forstilt Afsindighed<lb />
+eller paa lignende Maade. Kan saadant Forhold medføre Sagens Forhaling eller van-<lb />
+skeliggøre Forsvaret, bør Dommeren gøre ham opmærksom derpaa. Ligeledes bør<lb />
+Dommeren, naar dertil tindes Anledning, gøre sigtede opmærksom paa Muligheden<lb />
+af, at Undladelse af at afgive Forklaring enten i det hele eller med Hensyn til<lb />
+Punkter, som maa antages at være ham bekendte, kan blive opfattet som en Om-<lb />
+stændighed, der taler imod ham; se endvidere § 901.
+</p>
+<wtitle>§ 744.</wtitle>
+<p>
+Under Afhørelsen skal Dommeren tiltale Sigtede med Ro og Værdighed. Spørgs-<lb />
+maalene til ham bør være bestemte, tydelige og saaledes stillede, at det er ham klart,<lb />
+hvad han bekræfter eller benægter ved sine Svar, og intet Spørgsmaal maa fremsættes<lb />
+saaledes, at noget, der er benægtet eller ikke vedgaaet, forudsættes som tilstaaet.
+</p>
+<p>
+Løfter, urigtige Foregivender eller Trusler maa ikke anvendes. Ej heller maa<lb />
+Afhøringen forlænges i det Øjemed at fremskaffe en Tilstaaelse.
+</p>
+<p>
+Det er ikke Sigtede tilladt at raadføre sig med en Forsvarer angaaende den<lb />
+umiddelbare Besvarelse af de ham gjorte Spørgsmaal.
+</p>
+<title>Kapitel 68.</title>
+<undertitle>Anholdelse.</undertitle>
+<wtitle>§ 745.</wtitle>
+<p>
+Naar en mistænkt, som befinder sig paa fri Fod, er udebleven efter behørig<lb />
+Indkaldelse uden oplyst lovligt Forfald, kan Retten beslutte hans Anholdelse. I Politi-<lb />
+sager kan Anholdelse af denne Grund dog kun finde Sted, naar det i Tilsigelsen eller<lb />
+under Møde for Retten er betydet ham, at han maa møde personlig og i Udeblivelses-<lb />
+tilfælde maa vente at blive anholdt.
+</p>
+<wtitle>§ 746.</wtitle>
+<p>
+Uden foregaaende Indkaldelse kan Retten beslutte en mistænkts Anholdelse,<lb />
+1) naar den paagældende er en Person, der strejfer om uden Midler til lovligt<lb />
+Underhold, eller som ikke har Bolig eller dog varigere Opholdssted i Riget, eller er
+</p>

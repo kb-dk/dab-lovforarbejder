@@ -1,0 +1,74 @@
+2133
+<pb n="115" />
+<h>
+<coll>
+2133
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2134
+</colr>
+</h>
+<p>
+Udlægsforretningen maa for at kunne gøres gældende imod dem, der i god<lb />
+Tro ved Retshandler maatte erhverve Rettigheder over Ejendommen, tinglæses ved<lb />
+dennes Værneting.
+</p>
+<wtitle>§ 508.</wtitle>
+<p>
+Udlagt Løsøre maa, naar Udlægshaveren modsætter sig det, ikke forblive i<lb />
+Domfældtes Besiddelse, medmindre denne stiller antagelig Sikkerhed for dets Tilstede-<lb />
+blivelse i uforringet Stand; Udlægshaveren er selv berettiget til at tage udlagt Løsøre<lb />
+i sin Bevaring, dog, hvis det udlagtes Værdi betydeligt overstiger hans Fordring, eller<lb />
+Fogden i øvrigt finder Grund til at forlange saadant, kun imod Sikkerhedsstillelse.
+</p>
+<p>
+Hvor udlagt Løsøre ikke lades tilbage i Domfældtes Besiddelse, og det heller<lb />
+ikke tages i Forvaring af Udlægshaveren, har Fogden at træffe de fornødne Foran-<lb />
+staltninger til det udlagtes Bevaring paa Domfældtes Bekostning.
+</p>
+<wtitle>§ 509.</wtitle>
+<p>
+Naar Gældsbreve udlægges til Forauktionering, maa de forsynes med en Paa-<lb />
+tegning om Udlæget, hvis dette skal kunne gøres gældende imod Trediemand, der<lb />
+senere i god Tro har faaet Gældsbrevet overdraget til Ejendom eller Pant, eller imod<lb />
+Skyldneren, der senere i god Tro har ydet Betaling paa Kapitalen til den, hos hvem<lb />
+Udlæget er sket, mod Kvittering paa eller Udlevering af Gældsbrevet.
+</p>
+<p>
+Hvor der gøres Udlæg i Fordringer af anden Beskaffenhed, maa der meddeles<lb />
+Skyldneren Underretning herom, da denne i Mangel heraf befries ved i god Tro at<lb />
+betale til den, hos hvem Udlæget er sket. Det samme gælder for Skyldneren efter et<lb />
+Gældsbrev for Rentebetalingers Vedkommende.
+</p>
+<p>
+Med Hensyn til Udlæg i registreringspligtige Skibe har det sit Forblivende ved<lb />
+Reglen i Skibsregistreringslov af 1. April 1892 § 49.
+</p>
+<wtitle>§ 510.</wtitle>
+<p>
+Kan den Ting, hvori Udlæg gøres, ikke overleveres til Udlægshaveren eller<lb />
+den Mand, som efter Fogdens Bestemmelse skal have den i Bevaring, paa Grund af<lb />
+Trediemands Ret til at besidde Tingen, bliver det efter Omstændighederne ifølge Ud-<lb />
+lægshaverens Begæring af Fogden at tilkendegive vedkommende. Trediemand, at Dom-<lb />
+fældte ikke er beføjet til at modtage Tingen, naar Trediemands Ret til dens Besid-<lb />
+delse ophører.
+</p>
+<wtitle>§ 511.</wtitle>
+<p>
+Naar de i de foregaaende Paragraffer givne Bestemmelser ere iagttagne, bort-<lb />
+falder den Ret til efter lovlig Omgang at fyldestgøres af det udlagte, som Udlæget<lb />
+giver, ikke ved Skyldnerens paafølgende Død eller Konkurs, jfr. dog Konkurslovens<lb />
+§ 23 (Lov Nr. 30 af 20. Marts 1901 § 2), eller ved senere af andre Kreditorer iværk-<lb />
+sat Udlæg, ligesom Skyldneren ej heller ved senere Retshandler gyldig kan overdrage<lb />
+Trediemand nogen mod Udlægshaverens Ret stridende Rettighed over det udlagte.
+</p>
+<p>
+Dog taber Udlægshaveren i Løsøre, som er forblevet i Skyldnerens Besiddelse,<lb />
+sin af Udlæget flydende Sikkerhedsret over for Skyldnerens Kreditorer i Tilfælde af<lb />
+Konkurs eller senere Udlæg, naar han ikke inden 12 Uger efter Udlægsforretningens<lb />
+Slutning skrider til Tvangsauktion eller faar det udlagte bragt ud af Skyldnerens Be-<lb />
+siddelse, medmindre han ved Anke eller Kære eller Trediemands Ret har været hin-<lb />
+dret i at fremme Tvangssalget, eller Trediemands Ret er til Hinder for at betage<lb />
+Skyldneren Besiddelsen.
+</p>

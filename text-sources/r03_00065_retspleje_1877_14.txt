@@ -1,0 +1,29 @@
+59
+<pb n="65" />
+<p>Embedsvegne  bestemmer,   at de skulle afhøres<lb />
+enkeltvis.</p>
+<wtitle>§   193.</wtitle>
+<p>Når en Part har afgivet Forklaring af<lb />
+egen Drift, er Modvarten berettiget til at<lb />
+stille yderligere Spørgsmål til ham i Overensstemmelse   med   de   i § 96  givne Regler.</p>
+<wtitle>§  194.</wtitle>
+<p>Tvistigheder, som opstå under Bevisførelsen i Anledning af Indsigelser eller Forlangender af Parter, Vidner, Syns- eller Skjønsmænd, påkjendes af Retten, efterat Vedkommende have ytret sig. I Retsbogen må optages en nøjagtig Angivelse af Indsigelsens eller<lb />
+Forlangendets Indhold samt af Modpartens<lb />
+Påstand i denne Anledning. Den nærmere<lb />
+Begrundelse   og Udvikling foregår mundtligt.</p>
+<p>I Reglen afsiges Kjendelse strax; men<lb />
+dersom det findes nødvendigt, kan Sagen udsættes, for at Retten kan rådstå. Sådan<lb />
+Udsættelse bør dog altid være så kort som<lb />
+mulig og ikke uden største Nødvendighed vare<lb />
+længere end til næste Dag.</p>
+<p>Foregår Bevishandlingen for en anden<lb />
+Ret end den, ved hvilken Sagen iøvrigt behandles, afgjøres opståede Tvistigheder as hin.</p>
+<p>Iøvrigt komme de i Kapitlet om Bevis<lb />
+givne nærmere Regler til Anvendelse.</p>
+<wtitle>§  195.</wtitle>
+<p>Når Bevisførelsen er endt, udtale Parterne sig endelig over Bevisførelsens Resultat<lb />
+samt over Sagen i det Hele, derunder også<lb />
+over Retsspørgsmålene i samme.</p>
+<p>Rettens Formand slutter Forhandlingerne<lb />
+såvel over Sagen i det Hele som over enkelte Punkter, når disse skjønnes at være tilstrækkeligt behandlede.</p>
+<p>Når Parterne have udtalt sig, eller Formanden slutter Forhandlingerne, optages Sagen til Dom.</p>

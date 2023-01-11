@@ -1,0 +1,139 @@
+39
+<pb n="54">
+<pagename>54</pagename>
+<h>
+<coll>39</coll>
+<colr>40</colr>
+<lb/>
+</h>
+<leftside>
+<p rend="continue">
+tyvende År. Til Landsthinget kan Ingen vælges, som. ikke har og<lb/>
+i et År har havt fast Bopæl i den Valgkreds (Amt eller Kjøbenhavn),<lb/>
+for hvilken han vælges.<lb/>
+<law n="12."/>§ 12.<lb/>
+Ethvert Spørgsmål om Valgbarhed påkjendes af det Thing,<lb/>
+hvortil den Vedkommende er valgt. Thingets Dom er uafhængig af<lb/>
+den Afgjørelse, den Pågjældendes Valgberettigelse måtte have<lb/>
+fundet, og af foregående Things Dom om hans Valgbarhed.<lb/>
+</p>
+<middle>
+Valglister.<lb/>
+</middle>
+<p>
+<law n="13."/>§ 13.<lb/>
+Over de i hver Commune bosatte Valgberettigede skal der føres<lb/>
+Valgliter efter Foranstaltning af vedkommende Communalbestyrelse.<lb/>
+Hvor et Landdistrikt er henlagt under et Kjøbstadsogn, uden at<lb/>
+have sit eget Forstanderskab, henregnes det forsåvidt til Kjøbstaden.<lb/>
+<law n="14."/>§ 14.<lb/>
+Valglisterne skulle i forskjellige dertil indrettede Rækker indeholde<lb/>
+Vælgernes fulde Navn, Livstilling og Bopæl. På hver Valgliste<lb/>
+ordnes Vælgernes Navne efter deres Bogstavfølge.<lb/>
+<law n="15."/>§ 15.<lb/>
+Valglisterne skulle affattes een Gang hvert År. Til Grund<lb/>
+derfor lægges det foregående Års Valglister med Udeladelse af de<lb/>
+Vælgere, som i Mellemtiden ere afgåede ved Døden, eller bortflyttede, eller som have tabt deres Valgberettigelse (§§ 3, 4, 5 og 6),<lb/>
+og med Tilføining af dem, som imidlertid have opnået ValgretsAlderen eller bosat sig i Communen.<lb/>
+<law n="16."/>§ 16.<lb/>
+Denne Valglisternes Berigtigelse og Fuldstændiggjørelse skal foretages i de sidste fjorten Dage af Februar Måned. De derved opståede Tvivl skulle efter indhentede Oplysninger afgjøres af den<lb/>
+samlede Communalbestyrelse.<lb/>
+<law n="17."/>§ 17.<lb/>
+Fra den 1ste Marts til den 8de s. M., begge Dage indbefattede, skulle Valglisterne fremligge til almindeligt Eftersyn på et for<lb/>
+Communens Beboere beqvemt Sted i sex Timer hver Dag. Fremlæggelsens Tid og Gted bekjendtgjøres med mindst 8 Dages Varsel<lb/>
+til Kirkestevne eller på den for offentlige Kundgjørelser på vedkommende Sted ellers brugelige Måde.<lb/>
+<law n="18."/>§ 18.<lb/>
+Forinden Udløbet af den Tid, hvori Valglisterne fremligge, skal<lb/>
+Enhver, som troer uden Føie at være udeladt af samme, eller som<lb/>
+formener, at en Uberettiget derpå er optaget, skriftligen fremsætte<lb/>
+sin Begjering om Optagelse eller sin Påstand om en Andens Udslettelse, ledsaget af en kort Angivelse af de Grande, hvorpå Påstanden er bygget.<lb/>
+<law n="19."/>§ 19.<lb/>
+De mod Valglisterne således fremkomne Erindringer påkjendes<lb/>
+af den samlede Communalbestyrelse i et offentligt Møde, som afholdes i Løbet af de påfølgende fjorten Dage. Til dette Møde tilsiges<lb/>
+såvel de, som have fremført Erindringer, som og de, mod hvilke<lb/>
+Indsigelse er gjort, til hvilke derhos en Gjenpart af den mod dem<lb/>
+rettede Skrivelse skal leveres. Efter de af Parterne fremlagte Documenter og de af dem fremstillede Vidners Forklaringer afgjøres de<lb/>
+opståede Spørgsmål, hvorom en kort Kjendelse titføres Communalbestyrelsens sædvanlige Forhandlingsprotocol. De derefter berigtigede<lb/>
+Valglister underskrves af Communalbestyrelsens Formand.<lb/>
+<law n="20."/>§ 20.<lb/>
+Den, som er utilfreds med Communalbestyrelsens Kjendelse, hvorved Valgret er nægtet ham, kan fordre en Udskrift af samme sig<lb/>
+meddeelt uden Betaling og indbringe Spørgsmålet til Afgjørelse<lb/>
+ved Lov og Dom. Sådanne Sager behandles ved de ordinaire Retter efter Reglerne for den civile Proces. Parterne ere deri fritagne<lb/>
+
+</p>
+</leftside>
+<rightside>
+<p>
+for Erlæggelse af Retsgebyhrer og for Brugen af stemplet Papir,<lb/>
+ligesom der af det Offentlige skal beskikkes en Sagfører for den indstevnede Communalbestyrelse. Opnåer Vedkommende Dom for at<lb/>
+være valgberettiget, skal han optages i sin Communes Valgliste, såsnart han foreviser en Udskrift af Dommen.<lb/>
+<law n="21."/>§ 21.<lb/>
+Valglisterne gjæde fra 1ste April til samme Dag i det påfølgende År. Efter samme foretages alle i Årets Løv forefaldende<lb/>
+Valg, såvel til Folkethinget som til Landsthinget.<lb/>
+</p>
+<middle>
+Folkethingsvalget.<lb/>
+</middle>
+<p>
+<law n="22."/>§ 22.<lb/>
+Til Folkethinget foregåer Valget efter Distrikter, hvert på omtrent 12,000 Indvånere. Hvert Distrikt vælger en Rigsdagsmand.<lb/>
+<law n="23."/>§ 23.<lb/>
+Østifterne og Nørrejylland skulle vælge 114 Medlemmer af Folkethinget. Den nærværende Lov Vedføiede Fortegnelse angiver, hvilke<lb/>
+Kjøbstæder og Landsogne der skulle henhøre til hvert Distrikt, og på<lb/>
+hvilke Steder Valgene skulle foretages.<lb/>
+</p>
+<p>
+Slesvig skal vælge 31, Island 5 og Færoerne 1 Medlem af<lb/>
+Folkethinget. De nærmere Bestemmelser herom forbeholdes.<lb/>
+Forandring i Distriktsinddelingen kan kun skee ved Lov.<lb/>
+</p>
+<middle>
+Valgbestyrelser.<lb/>
+</middle>
+<p>
+<law n="24."/>§ 24.<lb/>
+For hvert Valgdistrtkt dannes en Valgbestyrelse, bestående af<lb/>
+Udsendinge fra de til Distriktet henhørende Communer. Fra hver<lb/>
+Commune vælges idetmindste eet Medlem af Valgbestyrelsen, uden<lb/>
+Hensyn til dens Indvånerantal. Har en Commune 3000 Indbyggere, vælger den To og så fremdeles Een for hver 1500 Indvånere,<lb/>
+den har efter den senest offentliggjorte Folketælling. Valgbestyrelsens<lb/>
+Medlemmer vælges af Communalbestyrelserne og blandt disses egne<lb/>
+Medlemmer.<lb/>
+<law n="25."/>§ 25.<lb/>
+Det Medlem af Valgbestyrelsen, som er valgt for den Commune,<lb/>
+hvori Valget afholdes, foreståer alle de foregående Forberedelser til<lb/>
+selve Valget og modtager Anmeldelser af Candidater og andre til<lb/>
+Valgbestyrelsen rettede Meddelelser. Han åbner på Valgdagen<lb/>
+Valgbestyrelsens Møde og foreståer Valget af dens Formand. Vælger vedkommende Commune flere Medlemmer af Valghestyrelsen, fordele disse de ovennævnte Forretninger mellem sig efter Overeenskomst.<lb/>
+</p>
+<p>
+Formanden leder selve Valghandlingen. I alle Valgbestyrelsen<lb/>
+overladte Beslutninger gjør han i Tilfælde af Stemmelighed Udslaget.<lb/>
+<law n="26."/>§ 26.<lb/>
+Valgbestyrelsen fører en Valgbog, hvortil de fra de forskjellige<lb/>
+Communer medbragte Valglister og de til Bestyrelsen indløbne Skrivelser fremlægges. I Valgbogen optegnes det væsentlige Indhold af<lb/>
+Valgforhandlingerne, hvortil dog de af Candidaterne og andre Tilstedeværende holdte Taler ikke skulle henregnes. Valgbogen underskrives af Valgbestyrelsen og opbevares af Communalbestyrelsen for det<lb/>
+Sted, hvor Valget er afholdt.<lb/>
+</p>
+<middle>
+Valgcandidater.<lb/>
+</middle>
+<p>
+<law n="27."/>§ 27.<lb/>
+Ingen kan ved Valg til Folkethinget komme i Betragtning, som<lb/>
+ikke selv har stillet sig og dertil er anbefalet af Een eller Flere af<lb/>
+Distriktets Vælgere.<lb/>
+</p>
+<morenext>
+(Fortsættes).<lb/>
+</morenext>
+<note>
+*)	Denne Fortegnelse stemmer overens med det i Departementstidende Nr. 41<lb/>
+meddelte Regulativ for Kongerigets 19 Amters Inddeling i Valgdistrikter og<lb/>
+den i Dept. Nr. 47, meddelte Fortegnelse over Kbhavns 11 Distrikters Omfang.<lb/>
+Forlagt og trykt af Kgl. Hofbogtrykker Bianco Luno.<lb/>
+ 
+</note>
+</rightside>
+
+</pb>

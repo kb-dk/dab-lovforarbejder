@@ -1,0 +1,70 @@
+595
+<pb n="179" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>595</topmidle>
+<colr>
+15de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<title>Kapitel 71.</title>
+<undertitle>
+Anholdelse.
+</undertitle>
+<wtitle>§ 768.</wtitle>
+<p>
+Når en mistænkt, som befinder sig på fri Fod, er udeblevet efter behørig<lb />
+Indkaldelse uden oplyst lovligt Forfald, kan Retten beslutte hans Anholdelse. I Politisager kan Anholdelse af denne Grund dog kun finde Sted, når det i Tilsigelsen eller<lb />
+under Møde for Retten er betydet ham, at han må møde personlig og i Udeblivelsestilfælde må vente at blive anholdt.
+</p>
+<wtitle>§ 769.</wtitle>
+<p>
+Uden foregående Indkaldelse kan Retten beslutte en mistænkts Anholdelse:
+</p>
+<p>
+1)	når den pågældende er en Person, der strejfer om uden Midler til lovligt<lb />
+Underhold, eller som ikke har Bolig eller dog varigere Opholdssted i Riget, eller er<lb />
+en ubekendt, om hvis Navn og Opholdssted ingen antagelige Oplysninger haves eller<lb />
+kan fremskaffes, og
+</p>
+<p>
+2)	for så vidt Mistanken angår et Forhold, som det ifølge Lovens almindelige<lb />
+Regel tilkommer Overanklageren at forfølge, eller nogen af de i denne Lovs § 721<lb />
+under g, j. r og cc eller i Straffelovens § 200, jfr. Lov Nr. 63 af 1. April 1911 § 1.<lb />
+eller dens § 296, 2det Punktum, eller i Sølov af 1. April 1892 §§ 291, 1ste Punktum,<lb />
+og 298, 1ste Stykke, nævnte Forbrydelser, når det, om end Betingelserne for Afsigelse af Fængslingskendelse ikke fuldstændig måtte være til Stede, efter Omstændighederne skønnes fornødent at sikre den pågældendes foreløbige Tilstedeblivelse eller<lb />
+Afsondring fra Samkvem med andre.
+</p>
+<wtitle>§ 770.</wtitle>
+<p>
+Anholdelsesbeslutningen tilføres Retsbogen straks, eller så snart ske kan, med<lb />
+en så nøjagtig Betegnelse af den pågældende som muligt samt Angivelse af Sigtelsens Genstand, i det mindste i Almindelighed, og Grunden til Anholdelsen. Udskrift skal på Forlangende meddeles den anholdte inden 24 Timer.
+</p>
+<p>
+Ved Pågribelsen, eller så snart det kan ske, skal Beslutningen med tilhørende<lb />
+Begrundelse oplæses eller forevises for den anholdte.
+</p>
+<wtitle>§ 771.</wtitle>
+<p>
+Er der Grund til at frygte for, at Øjemedet vilde forspildes ved Ophold for<lb />
+at fremskaffe Rettens forudgående Beslutning, kan Politiet uden sådan foretage Anholdelse af de i § 769 Nr. 1 betegnede Personer, når de mistænkes for at have begået en Forbrydelse, der er offentlig Forfølgning undergivet, og af andre Personer,<lb />
+når de træffes under Udførelsen af en offentlig Forfølgning undergiven, strafbar Handling,<lb />
+eller der er bestemte Grunde til at mistænke dem for nogen af de i § 769 Nr. 2 omtalte Forbrydelser.
+</p>
+<p>
+Samme Beføjelse har enhver anden, når den pågældende træffes i Udførelsen<lb />
+af en Forbrydelse eller på friske Spor.
+</p>
+<p>
+Finder Oprør eller den i Straffelovens § 103 ommeldte Forbrydelse Sted, eller<lb />
+udøves den i Straffelovens § 87 ommeldte Forbrydelse af en samlet Mængde, eller er<lb />
+Drab eller betydeligere Legemsbeskadigelse påfulgt i Slagsmål, i hvilket flere har<lb />
+deltaget, og Omstændighederne ikke umiskendelig udpeger den eller de skyldige, kan<lb />
+Politiet anholde enhver, der træffes i den samlede Mængde eller indviklet i Slagsmålet, og som ikke straks formår at rense sig for Mistanken om strafbar Deltagelse.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

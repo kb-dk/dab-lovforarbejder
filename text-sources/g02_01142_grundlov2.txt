@@ -1,0 +1,70 @@
+3757
+<pb n="1142" >
+<p rend="page">1142</p>
+<h>
+<coll>3757</coll>
+<colr>3758</colr><lb />
+Den endlige Behandling of Valgoven. Regulativet.<lb />
+</h>
+
+<table>
+Amt.	Valgkredsene i hvert Amt.	Valgkredsenes Sammensætning. .	Beboernes Antal i hver Valgkreds	Mødestedet.<lb />
+VI. Odense.	1.	Odense Kjøbstad, Do. Landdistrikt, Dalum og Sanderum, Paarup.	14,196	Odense Kjøbstad.<lb />
+	2.	Kjerteminde Kjøbstad, Drigstrup, Marslev og Birkende, Dalby<lb />
+og Stubberup, Mesinge, Viby, Munkebo, Rynkeby og<lb />
+Revninge, Kjølstrup og Agedrup, Seden og Aasum, Fraugde,<lb />
+Rønninge og Rolfsted, Allerup og Davinde. 	14,800	Kjerteminde Kjøbstad.<lb />
+	3.	Assens Kjøbstad, Do. Landdistrikt, Kjærum, Søby og Turup,<lb />
+Dreslette, Helnæs, Haarby, Flemløse, Gamtofte, Sandager<lb />
+og Holevad, Barløse, Tanderup, Sønderby, Kjerte.	14,231	Assens Kjøbstad.<lb />
+	4.	Middelfart Kjøbstad, Do. Landdistrikt, Causlunde, Nørreaaby<lb />
+og Indslev, Veilby, Gamborg, Udby, Føns og Ørslov, Balslov<lb />
+og Eiby, Huusby, Gjeldsted og Rørup, Assperup<lb />
+og Roersløv, Fjeldsted og Harrendrup.	14,530	Mibbelfart Kjøbstad.<lb />
+	5.	Bogense Kjøbstad, Skovby, Guldbjerg og Nørre-Sandager,<lb />
+Eilby og Melby, Haarsløv, Brænderup og Ore, Særsløv,<lb />
+Veflinge, Vigerslev, Vissenberg.	14,600	Bogense Kjøbstad.<lb />
+	6.	Skamby, Klinte og Grindløse, Nørre Næraa og Bederslev,<lb />
+Krogsbølle Uggersløv og Nørre Høierup, Skeby og Otterup,<lb />
+Norup, Østrup og Hjadstrup, Lunde, Allesø og Næsbyhovedbroby, Lumby, Ubberud og Korup, Søndersø.	13,497	Søndersø.<lb />
+	7.	Nørrelyndelse og Høiby, Søby, Søndernæraa, Steenløse og<lb />
+Fangel, Verninge, Tommerup og Brylle, Brændekilde og<lb />
+Bellinge, Skydeberg og Orte, Ørsted, Søllested og Vedtofte,<lb />
+Kjøng.	13,081	Værninge.<lb />
+VII. Svendborg.	1.	Nyborg Kjøbstad, Do. Landdistrikt, Flødstrup og Ullersløv,<lb />
+Aunslev og Bovense, Kullerup og Kefsvindinge, Herrested,<lb />
+Vindinge, Skjellerup og Ellinge, Søllinge og Hellerup, Ellested, Ørbek, Frørup.	13,979	Nyborg Kjøbstad.<lb />
+	2.	Giislev, Evindinge, Gubbjerg, Langaa og Ørendrup, Hesselager, Gudme og Brudager, Oure og Veistrup, Qværndrup,<lb />
+Steensdrup og Lunde, Ollerup og Kirkeby.	12,164	Qværndrup Kro.<lb />
+	3.	Svendborg Kjøbstad, Thurø, Skaarup, Tvede, Sørup og St.<lb />
+Jørgens, Østerskjerninge, Egense, Dreiø, Strynø, Landet,<lb />
+Bregninge, Bierreby.	14, 718	Svendborg Kjøbstad.<lb />
+	4.	Faaborg Kjoøbstad, Do. Landdiftrikt, Diernisse, Svanninge,<lb />
+Horne, Avernakø, Lyø, Vesteraaby og Aastrup, Vesterskjerninge og Ulbølle, Hundstrup, Brahetrolleborg og Krarup.	13,080	Faaborg Kjøbstad.<lb />
+	5.	Nørrebroby, Sønderbroby, Heden, Veile og Allested, Espe og<lb />
+Vantinge, Vesterhæsinge og Sandholtlyndelse, Østerhæsinge<lb />
+og Hillerslev, Herringe og Gjestelov, Jordløse og Haastrup,<lb />
+Ringe, Ryslinge, Aarsløv, Høierup.	12,804	Sønderbroby.<lb />
+	6.	Rudkjøbing, Skrøbeløv, Simmerbølle, Tranekjær og Tullebølle,<lb />
+Bødstrup, Snøde og Stoense, Lindelse, Magleby, Longelse<lb />
+og Fuglsbølle, Humble, Tryggeløv og Fodslette.	17,080	Rudkjøbing Kjøbstad.<lb />
+VIII. Maribo.	1.	Nakskov Kjøbftad, Do. Landdistrikt, Branderslev, Sandby,<lb />
+Kjøbeløv, Vindeby, Uttersløy, Herredskirke og Lille Løitofte,<lb />
+Horsluunde og Nørlunde, Halsted og Avnede, Vesterborg og<lb />
+Birket, Vestenskov og Kappel, Dannemare og Tillitse, Arninge.	16,867	Nakskov Kjøbstad.<lb />
+	2.	Maribo Kjøbstad, Do. Landdistrikt, Hillested, Østofte, Stokkemarke, Søllested, Skovlænge og Surreby, Gloslunde og<lb />
+Græshauge, Landet og Ryde, Tirsted, Skjørringe og Veilby,<lb />
+Nebbelunde og Sæddinge, Rødby, Ringsebølle, Feiø, Femø,<lb />
+Askø, Hunseby.	16,607	Maribo Kjøbstad.<lb />
+	3.	Saxkjøbing Kjøbstad, Do. Landdistrikt, Vaabensted og Engestofte, Fuglse og Krønge, Holeby og Burlsø, Taagerup og<lb />
+Thorslunde, Errindlev og Olstrup, Vesterulslev, Østerulslev<lb />
+og Godsted, Musse og Døllefjelde, Slemminge og Fielde,<lb />
+Radsted, Taars, Vixnæs, Nysted Kjøbstad, Do. Landdistrikt,<lb />
+Herriblev.	14,902	Saxkjøbing Kjøbstad.<lb />
+</table>
+<underpage>
+Beretning om Forhandlingerne paa Rigsdagen Nr. 474.<lb />
+</underpage>
+
+
+</pb>

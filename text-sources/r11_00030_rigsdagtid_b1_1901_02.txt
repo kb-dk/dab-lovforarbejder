@@ -1,0 +1,98 @@
+2317
+<pb n="30" />
+<h>
+<coll>2317</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2318</colr>
+</h>
+<leftside>
+<wtitle>Til § 503.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>482) IL. 1, Stk. 2 L. 2, Stk. 3 L. 1, Stk.<lb />
+4 L. 2 ændres „Skifteretten" til „Skifte-<lb />
+forvalteren". I næstsidste Linie ændres<lb />
+„afsige en Kendelse" til „give en Af-<lb />
+gørelse".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>483) Underændringsforslag til Ud-<lb />
+valgets Ændringsforslag Nr. 482: Paa de<lb />
+angivne Steder ændres „Skifteforvalteren" til<lb />
+Sysselmanden".</p>
+<wtitle>Til § 504.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>484) Ordene i L. 3 „under hvilken<lb />
+vedkommende Skifteret staar" ændres til:<lb />
+„i hvis Kreds Skiftet foregaar".</p>
+<wtitle>Til § 505.</wtitle>
+<p>485) I L. 2 og 4 ændres „Skifteretten"<lb />
+til „ Skifteforvalteren".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>486) Underændringsforslag til Ud-<lb />
+valgets Ændringsforslag Nr. 485: „Skifte-<lb />
+retten" ændres til „Sysselmanden".</p>
+<wtitle>Til § 506.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>487) Paragraffens sidste Ord „Paaanke<lb />
+af Repartitionen" ændres til „Søgsmaal i<lb />
+1ste Instans jvf. § 509".</p>
+<wtitle>Til § 507.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>488) I L. 4 ændres „paakendes af<lb />
+Skifteretten" til „afgøres af Skifteforval-<lb />
+teren", og Resten af Paragraffen udgaar.</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>489)	Underændringsforslag til Ud-<lb />
+valgets Ændringsforslag Nr. 488:</p>
+<p>I Ændringsforslaget ændres „Skifte-<lb />
+forvalteren"' til „Sysselmanden".</p>
+</leftside>
+<rightside>
+<wtitle>Til § 508.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>490)	Paragraffen affattes saaledes:</p>
+<p>„Skifteforvalteren handler paa eget</p>
+<p>Ansvar.</p>
+<p>Beslutninger af Skifteforvalteren, der<lb />
+forefalde under Boets Behandling, kunne<lb />
+uden forudgaaet Forligsmægling paaklages<lb />
+gennem Søgsmaal i første Instans ved den<lb />
+Ret, hvorunder Sagen i Henhold til Yærne-<lb />
+tingsreglerne i Lov om Domsmagten efter<lb />
+sin Beskaffenhed hører. Boets Behandling<lb />
+bliver dog ikke desto mindre at fortsætte,<lb />
+men Skifteforvalteren har i saa Fald at<lb />
+drage Omsorg for, at den klagendes Ret<lb />
+ikke foregribes ved Behandlingen, medens<lb />
+Retssagen staar paa.</p>
+<p>Søgsmaalet maa iværksættes inden 2<lb />
+Uger efter, at den paagældende Beslutning er<lb />
+tagen.</p>
+<p>Dog kan Justitsministeren efter et<lb />
+af vedkommende Klager indgivet skrift-<lb />
+ligt Andragende, hvormed de fornødne<lb />
+Oplysninger maa følge, undtagelsesvis ind-<lb />
+til 6 Maaneder efter, at Beslutningen er<lb />
+tagen, tilstede Sagens Indbringelse for<lb />
+Retten, naar ganske særegne Omstændig-<lb />
+heder retfærdiggøre, at Klageren ikke i<lb />
+rette Tid har iværksat Søgsmaal".</p>
+<p>Af Justitsministeren, tiltraadt af U d-<lb />
+valget undtagen Nanke:</p>
+<p>491) Underændringsforslag til Ud-<lb />
+valgets Ændringsforslag Nr. 490:</p>
+<p>Ændringsforslaget ændres til, at Para-<lb />
+graffen affattes saaledes:</p>
+<p>„Over for Beslutninger af Sysselmanden,<lb />
+der forefalde under Boets Behandling, kan<lb />
+der med de i § 510 angivne Undtagelser<lb />
+rejses Besværing til Retten overensstem-<lb />
+mende med Reglerne i Kap. m. Boets<lb />
+Behandling bliver ikke desto mindre<lb />
+at fortsætte, men Sysselmanden har at<lb />
+drage Omsorg for, at den klagendes Ret<lb />
+ikke foregribes ved Behandlingen, medens<lb />
+Besværingen staar paa.</p>
+</rightside>

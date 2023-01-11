@@ -1,0 +1,37 @@
+2
+<pb n="8" />
+<p>Består Søgsmålet af flere Poster eller Fordringer,   sammenlægges disse.</p>
+<p>Der tages intet Hensyn til Procesomkostninger og de ved Klageskriftets Dato endnu<lb />
+ikke forfaldne Renter, ej heller til senere Afslag i eller Nedsættelse af Påstanden.</p>
+<wtitle>§  4.</wtitle>
+<p>Imod Søgsmål, der i Henhold til § 2<lb />
+Litr. a. ere anlagte ved Underretterne, kunne<lb />
+Modfordringer, når iøvrigt de almindelige Betingelser for disses Fremsættelse ere tilstede<lb />
+(§ 101), gjøres gjældende. Selvstændig Dom<lb />
+for Modfordringen kan dog, hvis Modparten<lb />
+modsætter sig det, kun gives, forsåvidt Dommen ikke herved kommer til at lyde på<lb />
+noget høiere Beløb end 400 Kr. (§ 2 Litr. a,<lb />
+jfr. § 3),</p>
+<p>Imod Søgsmål, der i Henhold til de<lb />
+andre Bestemmelser i § 2 ere anlagte ved<lb />
+Underretterne, kunne Modfordringer, når<lb />
+iøvrigt de almindelige Betingelser for deres<lb />
+Fremsættelse ere tilstede (§ 101), gjøres gjældende, dog ikkun forsåvidt de efter Lovgivningens Regler kunde forfølges ved Underretterne, dersom de gjordes gjældende under en<lb />
+selvstændig Sag.</p>
+<p>Imod Søgsmål, der svæve for Landsretterne, kunne Modfordringer fremføres uden<lb />
+Hensyn til, at de, i og for sig betragtede,<lb />
+vilde henhøre under Underretterne.</p>
+<wtitle>§  5.</wtitle>
+<p>Når Sagen ifølge den oprindelige Påstand retteligen er begyndt ved Underretten,<lb />
+forbliver den ved denne, uagtet Retten under<lb />
+Processen måtte tillade at udvide eller forhøje<lb />
+Påstanden (jfr. § 168). Ved slig Tilladelses<lb />
+Meddelelse bliver der dog særligt at se hen<lb />
+til, at Sagens Værdi ikke imod Modpartens<lb />
+Protest i betydelig Grad forøges udover den<lb />
+i § 2 Litr. a bestemte Grænse.</p>
+<p>Er Underrettens Kompetence ikke begrundet<lb />
+ved Sagens Værdi alene, men ved dens Beskaffenhed (jfr. § 2 Litr. b, c, d og e), kan en<lb />
+Udvidelse af Påstanden ikke uden Modpartens<lb />
+Samtykke foregå således, at Fordringer af<lb />
+anden Beskaffenhed inddrages under Sagen</p>

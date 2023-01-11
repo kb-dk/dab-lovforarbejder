@@ -1,0 +1,35 @@
+29
+<pb n="35" />
+<p>parten gunstigste Måde og navnlig henholde<lb />
+sig til dennes Forklaring.</p>
+<wtitle>§  98.</wtitle>
+<p>Retten kan pålægge en Part at fremlægge<lb />
+Situationskort, Stamtavler, Grundrids, Tegninger og andre lignende Anskueligheden befordrende Midler til Faktums Forståelse, når<lb />
+Sagen ikke uden dette kan pådømmes med<lb />
+tilstrækkelig  Sikkerhed.</p>
+<p>Vægrer Sagsøgeren sig herved, kan Sagen<lb />
+afvises; er det Indstævnte, behandles han efter<lb />
+Reglerne i § 97.</p>
+<wtitle>§  99.</wtitle>
+<p>Antager Retten, at der er Omstændigheder<lb />
+tilstede, som kunne medføre Afvisning på<lb />
+Embedsvegne, kan den standse Forhandlingerne<lb />
+og opfordrer da Parterne til at erklære sig<lb />
+over Afvisningsspørgsmålet.</p>
+<p>Når Afvisningsdom ikke afsiges, fortsættes derefter Forhandlingerne.</p>
+<wtitle>§  100.</wtitle>
+<p>Ved Klageskriftets Meddelelse til Modparten ansees Sagen for anhængiggjort, ligesom en Modfordring er at anse som anhængiggjort ved Meddelelsen af det Tilfvarsskrift<lb />
+hvori den fremsættes, forsåvidt der påståes<lb />
+selvstændig Dom for samme.</p>
+<p>Indtil Sagsøgeren mundtlig har nedlagt<lb />
+sin Påstand og har fremlagt sin Sagsfremstilling i Retten, forsåvidt en sådan er<lb />
+nedvendig, står det ham frit for at hæve<lb />
+Sagen, imod til den Sagsøgte at udrede<lb />
+Erstatning for Ulejlighed, Udgifter og Tidsspilde, dog at Sagsøgeren ikke derved kan<lb />
+forhindre, at der gives den Sagsøgte Dom for<lb />
+Modfordringer. Efter det anførte Tidspunkt kan<lb />
+Sagsøgeren derimod ikke ensidig hæve Sagen.</p>
+<wtitle>§  101.</wtitle>
+<p>Ved Sagens Anhængiggjørelse begrundes<lb />
+Ret for Modparten til at fremsætte Modfordringer, forsåvidt som disse enten have fælles Oprindelse med Hovedfordrnigen eller dog<lb />
+i Mangel heraf ere  udjævnelige  (komputable)</p>

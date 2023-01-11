@@ -1,0 +1,72 @@
+0
+<pb n="4">
+<leftside>
+<pagename>4</pagename>
+<col>3</col>
+<title>
+I.<lb/>
+</title>
+<p>
+<law n="1." />§ 1. Når Grundloven eengang for alle er betegnet som Danmarks Riges Grundlov, sees det ikke, hvorfor det skulde være nødvendigt i denne Paragraph udtrykkeligt at tilføie „i Kongeriget Danmark og Slesvig“; det indstilles derfor, at disse Ord udgåe.<lb/>
+<law n="2."/>§ 2. Udvalget har næret nogen Tvivl, om det ikke vilde være<lb/>
+rettest at udsætte Forhandlingen af denne Paragraph, indtil §§ 64<lb/>
+—66 samtidigt kunde forhandles. Imidlertid man, i den Forudsætning, at der ikke vilde være nogen Meningsulighed om det Religionsfrihedens Grundprincip, som er udtalt i det 7de Afsnit, ikke<lb/>
+taget i Betænkning at yttre sig om § 2. Udvalget har anseet det<lb/>
+for afgjort, at den i Kongeloven begrundede Opfattelse af den evangelisk- lutherske Kirke som Statskirke måtte opgives i en Grundlov, som vedkjendte sig Religionsfrihedsprincipet. Udvalget måtte<lb/>
+fremdeles med Udkastet erkjende, at man ikke i selve Grundloven<lb/>
+kunde Påtage sig Løsningen af alle de kirkelige Reform-Spørgsmål,<lb/>
+som endnu i så høi Grad dele Gemytterne. Men ligeså lidt kunde<lb/>
+man finde det passende aldeles at forbigåe det hele Spørgsmål<lb/>
+om Kirken. Det måtte altså udtales, at man løsner sig fra Kongelovens Bud, men den nærmere Ordning måtte overlades Fremtidens<lb/>
+Statslovgivning. Man måtte finde en Overgangsform, der ikke<lb/>
+gjorde noget voldsomt Brud, og dog tillod en fri Udvikling. I det<lb/>
+Hele taget har man derfor deelt den Tanke, der har fundet sit Udtryk i § 2, og det er kun to mindre væsentlige Forandringer, man<lb/>
+tillader sig at foreslåe. For det Første foreslåer man, at de<lb/>
+Ord „som den, hvori den overveiende Deel af Folket befinder sig, at ansee som“ udgåe. Det synes nemlig ikke<lb/>
+nødvendigt og i sig mindre naturligt således i Paragraphen selv at<lb/>
+begrunde Paragraphens Bud. Udtrykket „at ansee som“ giver og adskillig Grund til Udsættelse. Dernæst har man fundet, at Udtrykket „nyde<lb/>
+Understøttelse“ kunde ombyttes med Ordet „Understøttes,“<lb/>
+fordi den første Vending har forekommet Flere stødende på Grund<lb/>
+af en uvilkårlig Sproganalogi. Da Anken så let kan fjernes, synes<lb/>
+man at burde rette sig efter Erindringen.<lb/>
+</p>
+<p>
+Udvalget tilføier den Bemærkning, at Paragraphen ved at befale<lb/>
+Folkekirkens Understøttelse af Staten, — Bestemmelse af Understøttelsens<lb/>
+Grad og Omfang overlades Fremtidens Lovgivning, — naturligviis<lb/>
+ikke forbyder, at andre af Staten anerkjendte Religions samfund ligeledes understøttes af Staten, forsåvidt Sådant måtte findes rigtigt.<lb/>
+<law n="3."/>§ 3. Denne Paragraphs første Sætning har sin fulde Betydning efter den i Udkastet gjennemførte Grundsætning, at Kongens<lb/>
+Veto er absolut (cfr. § 28, 40, 80). De af os, der erklære sig<lb/>
+herimod, forbeholde sig naturligviis at gjøre denne modsatte Mening<lb/>
+gjældende ved en følgende Paragraph, og denne Menings Antagelse<lb/>
+i Rigsforsamlingen vilde da foranledige, at der blev Spørgsmål om<lb/>
+en Omredaction såvel af denne som af flere Paragrapher.<lb/>
+</p>
+<p>
+I den tredie Sætning: Den dømmende Magt er hos de<lb/>
+anordnede Domstole, har man troet, at det heller måtte<lb/>
+hedde „hos Domstolene“, fordi Ordet „anordnet“ let efter den<lb/>
+nuværende Sprogbrug kunde fremkalde den urigtige Forestilling, at<lb/>
+Domstole kunde „anordnes“ uden Lovhjemmel (cfr. VI).<lb/>
+</p>
+<title>
+II.<lb/>
+</title>
+<p>
+<law n="4 fastsætter,"/>§ 4 fastsætter, at den i Kongeloven fastsatte Arvefølge er fremdeles gjældende, og tilføier, at den kun kan forandres efter Forslag fra<lb/>
+Kongen og med den forenede Rigsdags Samtykke, hvorved endda<lb/>
+fordres ¾ Stemmer. Man antager, at Udkastet har villet indrømme<lb/>
+en sådan Mulighed af Arvefølgens Forandring til enhver Tid,<lb/>
+selv efterat f. Ex. en ny fra Kongelovens Bud afvigende Arvefølge<lb/>
+var antaget, og man drister sig ikke til at fraråde en sådan Bestemmelse. Men det er bemærket, at Ordet „Den“ i Begyndelsen af<lb/>
+anden Sætning måskee strengt taget kun gåer på „den i Kongeloven fastsatte Arvefølge.“ For at fjerne enhver Tvivl foreslåer<lb/>
+man at ombytte Ordet „Den“ med „Arvefølgen“.<lb/>
+</p>
+<p>
+Det anmærkes iøvrigt, i Anledning af Udtrykket „den forenede Rigsdag, at de blandt os, der udtale sig imod Tokammerindretningen, naturligviis forbeholde sig ved et senere Afsnit<lb/>
+at gjøre deres Indsigelser gjældende.<lb/>
+</p>
+
+
+</leftside>
+</pb>

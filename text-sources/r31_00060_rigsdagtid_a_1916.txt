@@ -1,0 +1,72 @@
+476
+<pb n="60" />
+<h>
+<coll>
+l5de April.
+</coll>
+<topmidle>476</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 244.</wtitle>
+<p>
+Sager, hvorunder der påstås Straf, Erstatning eller Oprejsning i Anledning<lb />
+af retsstridige Skadetilføjelser eller andre Retskrænkelser, kan anlægges på det<lb />
+Sted, hvor Skadetilføjelsen eller Retskrænkelsen er foregået, eller, når den har<lb />
+været udøvet i flere Retskredse, i hvilken som helst af disse.
+</p>
+<wtitle>§ 245.</wtitle>
+<p>
+Når flere Sagvoldere skal eller dog kan sagsøges under eet, og Sagen imod<lb />
+dem ikke ifølge denne Lov kan indbringes for andet Værneting, kan den anlægges<lb />
+ved enhver Ret, som for nogen af Sagvolderne er Hjemting.
+</p>
+<wtitle>§ 246.</wtitle>
+<p>
+Kan Sagen i Medhold af denne Lov anlægges ved flere forskellige Retter, har<lb />
+Sagsøgeren Valget, for så vidt ikke andet fremgår af Lovens Forskrifter.
+</p>
+<wtitle>§ 247.</wtitle>
+<p>
+Når Parterne vedtager det, kan de indbringe deres Sag for hvilken af samtlige ligeartede Retter i første Instans, de vil, uden at Rettens Samtykke behøves.
+</p>
+<wtitle>§ 248.</wtitle>
+<p>
+Udlændinge kan sagsøges her i Riget, for så vidt nogen Ret ifølge de foranstående Regler kan anses som Værneting i Sagen.
+</p>
+<p>
+Gives der ingen Ret i Riget, ved hvilken Sagen imod Udlændingen herefter<lb />
+kan anlægges, skal det, for så vidt ikke særlige traktatmæssige Bestemmelser er til<lb />
+Hinder derfor, være Indlændinge tilladt i Sager angående Formueretsforhold at sagsøge Udlændingen i den Retskreds, hvor han ved Stævningens eller Forligsindkaldelsens<lb />
+Forkyndelse opholder sig eller har Gods.
+</p>
+<p>
+Med Hensyn til svenske Undersåtter har det sit Forblivende ved Lov om<lb />
+svenske Dommes Fuldbyrdelse m. v. af 19. Februar 1861 § 6.
+</p>
+<title>Kapitel 23.</title>
+<undertitle>
+Forening af flere Krav under samme Retssag.
+</undertitle>
+<wtitle>§ 249.</wtitle>
+<p>
+Flere Krav af samme Sagsøger mod samme Sagvolder kan fra først af forenes under een Retssag, selv om de hviler på forskellige faktiske og retlige Grunde og<lb />
+er af ulige Beskaffenhed, når Retten er kompetent med Hensyn til dem alle, og<lb />
+samme Procesart er anvendelig på dem.
+</p>
+<wtitle>§ 250.</wtitle>
+<p>
+Under samme Betingelser kan flere Parter fra først af sagsøge eller sagsøges i Forening under samme Retssag; dog udfordres endvidere hertil, for så vidt<lb />
+Kravene ikke har fælles Oprindelse eller særlig Lovforskrift hjemler deres Forening,<lb />
+at ingen af Parterne gør Indsigelse derimod.
+</p>
+<p>
+Anlægges Sag mod nogen af de i § 238 nævnte Korporationer, Foreninger<lb />
+eller Selskaber, kan Ansvar, der udspringer af samme Retsforhold, under Sagen gøres<lb />
+gældende mod Bestyrelsens Medlemmer personlig, uden Hensyn til deres Værneting.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

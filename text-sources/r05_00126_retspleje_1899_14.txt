@@ -1,0 +1,44 @@
+120
+<pb n="126" />
+<h>
+<topmidle>120        Kap. XXX.    Handlingsdomme.</topmidle>
+</h>
+<p>den i § 339   omtalte   Måde   og   Beløbet<lb />
+inddrevet.</p>
+<wtitle>§ 342.</wtitle>
+<p>Skal Domfældte i Følge Dommen<lb />
+udføre et Arbejde eller træffe andre lignende<lb />
+Foranskaltninger, kan Fogden efter Domhaverens Påstand tillade denne at lade<lb />
+Sådant foretage ved Andre således, at<lb />
+Udlæg derefter kan gøres overensstemmende<lb />
+med næste Kapitel for det efter en af Fogden<lb />
+godkendt Regning hertil medgåede Beløb,<lb />
+dersom dette efter Omstændighederne findes<lb />
+at være den letteste og hurtigste Måde,<lb />
+hvorpå Domhaveren kan komme til sin<lb />
+Ret. Er Domfældte tilpligtet at udstede<lb />
+eller underskrive et Dokument, kan Fogden<lb />
+udfærdige dette med samme Virkning, som om<lb />
+han af Domfældte var bleven befuldmægtiget<lb />
+hertil. Er Domfældte tilpligtet at stille en<lb />
+Sikkerhed, kan Fogden udtage så meget af<lb />
+hans Gods, som hertil er fornødent, og<lb />
+over dette haves da samme Sikkerhedsret som<lb />
+over udlagt Gods.</p>
+<p>Er Domhaveren kendt berettiget til at<lb />
+udføre en Handling mod at erstatte den<lb />
+herved bevirkede Skade, eller Domfældte<lb />
+kendt pligtig at foretage Noget imod at få<lb />
+Udgifterne derved erstattede af Domhaveren, er Fogden pligtig til på Vedkommendes Forlangende, om fornødent med<lb />
+Sagkyndiges Bistand, at afgøre Spørgsmål om Udførelsen af Dommen såvelsom<lb />
+at bestemme Størrelsen af den Erstatning,<lb />
+der skal udredes i Forbindelse med Dommens<lb />
+Fuldbyrdelse.</p>
+<wtitle>§ 343.</wtitle>
+<p>Lyder Dommen på, at Domfældte<lb />
+skal undlade Noget, kan Domhaveren, når<lb />
+Dommen overtrædes, dersom det ikke i<lb />
+Dommen selv er bestemt, hvilket Ansvar der<lb />
+skal være forbundet hermed, under en Fogedforretning på den i § 339 bestemte Mande<lb />
+få sin Interesse anslået i Penge og Beløbet inddrevet efter Kap. XXXI. Forsåvidt Domhaveren i Anledning af Dommens<lb />
+Overtrædelse   anlægger Sag i Henhold   til</p>

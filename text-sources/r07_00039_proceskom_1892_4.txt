@@ -1,0 +1,62 @@
+3287
+<pb n="39" />
+<h>
+<coll>3287</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3288</colr>
+</h>
+<p>
+19. Behandlingen af en almindelig borgerlig Sag ved Landsret som<lb />
+første Instans. Om, hvilke Sager der behandles ved Landsret som første Instans, se<lb />
+Nr. 2. Proceduren under en Landsretssag bestaar af to Hoveddele: Skriftvekslingen<lb />
+og den mundtlige Domsforhandling; i Forbindelse med denne sidste finder eventuelt<lb />
+Bevisførelsen Sted. Skriftvekslingen bør normalt kunne tilendebringes i et eller to<lb />
+Retsmøder og Domsforhandlingen i et. Imellem disse kan det dog efter Omstændig-<lb />
+hederne, og navnlig naar der opstaar Strid mellem Parterne vedrørende Bevisførelsen,<lb />
+være nødvendigt at afholde et eller flere Retsmøder til Domsforhandlingens For-<lb />
+beredelse; men Retten bør gøre sit til, at al unødvendig Udsættelse og Vidtløftighed<lb />
+undgaas.
+</p>
+<p>
+Stævningen indleveres paa Rettens Kontor til Berammelse og tilbageleveres der-<lb />
+efter Sagsøgeren til Forkyndelse. Stævnevarslet er, naar Sagvolderen bor i den<lb />
+Underretskreds, hvor Landsrettens Sæde er, 14 Dage, ellers 3 Uger eller længere. I<lb />
+Stævningen giver Sagsøgeren en kort Fremstilling af sine Søgsmaalsgrunde og sin Paa-<lb />
+stand. Paa første Tægtedag skal Sagsøgte fremlægge Svarskrift, indeholdende hans<lb />
+Paastand og en kort Fremstilling af hans Benægtelser og Indsigelser og i det hele af<lb />
+de Kendsgerninger, hvorpaa hans Forsvar grunder sig. Han kan gøre Modfordringer<lb />
+gældende ligesom ved Underret. Begæres ingen yderligere Skriftveksling og heller<lb />
+ingen Bevisførelse, berammes Domsforhandlingen. Begæres derimod yderligere Skrift-<lb />
+veksling, fastsætter Retten Frister, inden hvis Udløb Parterne udenretslig skulle have<lb />
+tilstillet hinanden Replik og Duplik, og berammer et nyt Retsmøde, i hvilket disse<lb />
+Skrifter fremlægges. I dette Møde fastsættes derhos Tiden for Domsforhandlingen,<lb />
+hvad enten Bevisførelse begæres eller ej, men i første Tilfælde maa den, der ønsker<lb />
+at føre Bevis, begære en passende Tid dertil, og skulde Modparten finde Tiden for<lb />
+lang, maa Retten afgøre Sagen ved Kendelse. Hvis Vidner og deslige skulle føres for<lb />
+selve den dømmende Ret, skal der mindst 3 Dage forud gives Modparten Meddelelse<lb />
+om deres Navn, Stilling og Bopæl, samt om, hvad der ved dem agtes bevist, for saa vidt<lb />
+han ikke allerede under Sagen har erholdt fornøden Kundskab herom. Hvis Vidner<lb />
+og deslige skulle føres uden for den dømmende Ret, maa Modparten stævnes særlig<lb />
+dertil med samme Varsel som et Vidne. Om de forskellige Spørgsmaal, der kunne<lb />
+komme frem vedrørende Førelse af Vidner, Udmeldelse af Skønsmænd, Parternes per-<lb />
+sonlige Afhøring, disses eller Trediemands Forpligtelse til at fremlægge Dokumenter<lb />
+o. s. v., tager Retten gerne Bestemmelse i selve det Retsmøde, hvori Domsforhand-<lb />
+lingen berammes, men kan i øvrigt ogsaa gøre saadant før eller senere i eller uden for<lb />
+Retsmøde. Hvad særlig angaar Fremlæggelse af Dokumenter, paalægges det hver Part<lb />
+at lade de Dokumenter, som han paaberaaber sig i Skriftvekslingen, og som ere i hans<lb />
+Besiddelse, følge med vedkommende Processkrift i Original eller Genpart, medens andre<lb />
+Dokumenter, som han under Domsforhandlingen vil paaberaabe sig, og som ikke alle-<lb />
+rede ere Modparten bekendte, skulle afgives til denne i Original eller Genpart mindst<lb />
+8 Dage forud for Domsforhandlingen.
+</p>
+<p>
+Anser en Part Modpartens Udtalelser om Sagens Sammenhæng for at lide af<lb />
+Uklarhed eller andre Mangler, som ikke efter hans Opfordring ere afhjulpne under<lb />
+Skriftvekslingen, bliver i et Retsmøde Skriftvekslingens Resultat paa de omspurgte<lb />
+Punkter at fastslaa i en Tilførsel til Retsbogen, eller om fornødent ved Rettens<lb />
+Kendelse.
+</p>
+<p>
+Adgang til efter Skriftvekslingens Slutning eller endog under selve Domsfor-<lb />
+handlingen uden Samtykke fra Modparten at fremkomme med ny Paastande eller
+</p>

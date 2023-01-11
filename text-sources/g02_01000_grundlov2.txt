@@ -1,0 +1,68 @@
+3473
+<pb n="1000" >
+<p rend="page">1000</p>
+<h>
+<coll>3473</coll>
+<colr>3474</colr><lb />
+Regulativ for Kongeriget Danmarks Inddeling i Valgkredse.<lb />
+</h>
+<table>
+Amt.	Valgkredsene i hvert Amt.	Valgkredsenes Sammensætning.	Beboernes Antal i hver Valgkreds	Mødestedet.<lb />
+VI. Odense.	1.	Odense Kjøbstad, Do. Landdistrikt, Dalum og Sanderum, Paarup.	14, 196	Odense Kjøbstad.<lb />
+	2.	Kjerteminde Kjøbstad, Drigstrup, Marslev og Birkende, Dalby	14, 800	Kjerteminde Kjøbstad.<lb />
+		og Stubberup, Mesinge, Biby, Munkebo, Rynkeby og<lb />
+		Revninge, Kjølstrup og Agedrup, Seden og Aasum, Fraugde,<lb />
+		Rønninge og Rolfsted, Allerup og Davinde.<lb />
+	3.	Assens Kjøbstad, Do. Landdistrikt, Kjærum, Søby og Turup,	14, 231	Assens Kjøbstad.<lb />
+		Dreslette, Helnæs, Haarby, Flemløse, Gamtofte, Sandager<lb />
+		og Holevad, Barløse, Tanderup, Sønderby, Kjerte.<lb />
+	4.	Middelsart Kjøbstad, Do. Landdistrikt, Causlunde, Nørreaaby	14, 530	Middelfart Kjøbstad.<lb />
+		og Indslev, Veilby, Gamborg, Udby, Føns og Ørsløv,<lb />
+		Balsløv og Eiby, Huusby, Gjeldsted og Rørup, Assperup<lb />
+		og Roersløv, Fjeldsted og Harrendrup.<lb />
+	5.	Bogense Kjøbstad, Skovby, Guldbjerg og Nørre-Sandager,	14, 600	Bogense Kjøbstad.<lb />
+		Eilby og Melby, Haarsløv, Brænderup og Ore, Særsløv,<lb />
+		Veflinge, Vigerslev, Vissenberg.<lb />
+	6.	Skamby, Klinte og Grindløse, Nørre Næraa og Bederslev,	13, 497	Sønderso.<lb />
+		Krogsbølle, Uggersløv og Nørre Høierup, Skeby og Otterup,<lb />
+		Norup, Østrup og Hjadstrup, Lunde, Allesø og Næsbyhøved		broby, Lumby, Ubberud og Korup, Sødersø.<lb />
+	7.	Nørrelyndelse og Høiby, Søby, Søndernæraa, Steenløse og	13, 081	Bellinge.<lb />
+		Fangel, Verninge, Tommerup og Brylle, Brændekilde og<lb />
+		Bellinge, Skydeberg og Orte, Ørsted, Søllested og Vedtofte,<lb />
+		Kjøng.<lb />
+VII. Svendborg.	1.	Nyborg Kjøbstad, Do. Landdistrikt, Flødstrup og Ullersløv,	13, 979	Nyborg Kjøbstad.<lb />
+		Aunslev og Bovense, Kullerup og Refsvindinge, Herrested,<lb />
+		Vindinge, Skjellerup og Ellinge, Søllinge og Hellerup, Elle		sted, Ørbek, Frørup.<lb />
+	2.	Aarsløv, Høierup, Giislev, Svindinge, Gudbjerg, Langaa og	13, 023	Qværndrup Kro.<lb />
+		Øxendrup, Hesselager, Gudme og Brudager, Oure og Vei		strup, Qværndrup, Steenstrup og Lunde, Ollerup og Kirkeby.<lb />
+	3.	Svendborg Kjøbstad, Thurø, Skaarup, Tvede, Sørup og St.	14, 718	Svendborg Kjøbstad.<lb />
+		Jørgens, Østerskjerninge, Egense, Dreiø, Strynø, Landet,<lb />
+		Bregninge, Bierreby.<lb />
+	4.	Faaborg Kjøbstad, Do. Landdistrikt, Diernisse, Svanninge,	13, 080	Faaborg Kjøbstad.<lb />
+		Horne, Avernaks, Lyø, Vesteraaby og Aastrup, Vester		skjerninge og Ulbølle, Hundstrup, Brahetrolleborg og Krarup.<lb />
+	5.	Nørrebroby, Sønderbroby, Heden, Veile og Allested, Espe og	11, 945	Sønderbroby.<lb />
+		Vantinge, Vesterhæsinge, og Sandholtlyndelse, Østerhæsinge<lb />
+		og Hillerslev, Herringe og Gjesteløv, Jordløse og Haastrup,<lb />
+		Ringe, Ryslinge.<lb />
+	6.	Rudkjøbing, Skrøbeløv, Simmerbølle, Tranekjær og Tullebølle,	17, 080	Rudkjøbing Kjøbstad.<lb />
+		Bødstrup, Snøde og Stoense, Lindelse, Magleby, Longelse<lb />
+		og Fuglsbølle, Humble, Tryggeløv og Fodslette.<lb />
+VIII. Maribo	1.	Nakskov Kjøbstad, Do. Landdistrikt, Branderslev, Sandby,	16, 867	Nakskov Kjøbstad.<lb />
+		Kjøbeløv, Vindeby, Uttersløv, Herredskirke og Lille Løitofte,<lb />
+		Horslunde og Nørlunde, Halsted og Avnede, Vesterborg og<lb />
+		Birket, Vestenskov og Kappel, Dannemare og Tillitse, Arninge.<lb />
+	2.	Maribo Kjøbstad, Do. Landdistrikt, Hillested, Østoste, Stokke-	16, 607	Maribo Kjøbstad.<lb />
+		marke, Søllested, Skovlænge og Gurreby, Gloslunde og<lb />
+		Græshauge, Landet og Rude Tirsted, Skjørringe og Veilbye,<lb />
+		Nebbelunde og Sæddinge, Rødby, Ringsebølle, Feiø, Femø,<lb />
+		Askø, Hunseby.<lb />
+	3.	Saxkjøbing Kjøbstad, Do. Landdistrikt, Vaabensted og Enges-	14, 902	Saxkjøbing Kjøbstad.<lb />
+		tofte, Fuglse og Krønge, Holeby og Bursø, Taagerup og<lb />
+		Thorslunde, Errindlev og Olstrup, Vesterulslev, Østerulslev<lb />
+		og Godsted, Musse og Døllefjelde, Slemminge og Fjelde,<lb />
+		Radsted, Taars, Vixnæs, Nysted Kjøbstad, Do. Landdistrikt,<lb />
+		Herri??lev.<lb />
+</table>
+
+
+</pb>

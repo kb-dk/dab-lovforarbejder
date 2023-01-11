@@ -1,0 +1,75 @@
+273
+<pb n="9" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>273</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 33.</wtitle>
+<p>
+Adgang til offentligt Retsmøde kan nægtes Personer under 18 år samt en-<lb/>
+hver, der fremstiller sig i en sådan Tilstand, at hans Nærværelse vilde stride mod<lb/>
+Rettens Værdighed eller god Orden, i Straffesager desuden Personer, der for Vold<lb/>
+eller for nogen i den offentlige Mening vanærende Handling have været straffede med<lb/>
+offentligt Arbejde, Fængsel på Vand og Brød, Fængsel på sædvanlig Fangekost<lb/>
+eller Tvangsarbejde uden senere at have fået Æresoprejsning. Rettens Formand<lb/>
+kan under enhver Omstændighed, for at hindre, at Rummet overfyldes, begrænse An-<lb/>
+tallet af de Personer, der indlades.
+</p>
+<title>Kapitel 3.</title>
+<undertitle>
+Retsbøger.
+</undertitle>
+<wtitle>§ 34.</wtitle>
+<p>
+Almindelige Forskrifter om, hvilke Retsbøger der skal føres ved de forskellige<lb/>
+Retter, såvel som om deres Indretning og Førelse, kunne gives ved kongelig Anordning.<lb/>
+Indenfor de derved dragne Grænser bestemmes Retsbøgernes Indretning for de af<lb/>
+flere Dommere bestående Retter af Formanden, for de øvrige Retters Vedkommende<lb/>
+af Landsrettens Formand.
+</p>
+<p>
+De Retsbøger, som føres, autoriseres ved de af flere Dommere bestående Retter<lb/>
+af vedkommende Formand og ved de øvrige Retter af vedkommende Dommer.
+</p>
+<wtitle>§ 35.</wtitle>
+<p>
+Angående alle Retshandlinger optages Beretning i Retsbogen.<lb/>
+I Retsbogen indføres Angivelse af:
+</p>
+<p>
+1)	Tiden og Stedet for Retsmødet ;
+</p>
+<p>
+2)	Navnene på de Personer, der fungere som Dommere, Nævninger, Retsskriver og<lb/>
+Retsvidner;
+</p>
+<p>
+3)	Sagens Nummer med Parternes Navne;
+</p>
+<p>
+4)	Navnene på de Personer, der ere til Stede som Parter eller på disses Vegne<lb/>
+eller til deres Bistand, eller Bemærkning om de Forholdsregler, som måtte være<lb/>
+trufne med Hensyn til deres Tilkaldelse eller Udelukkelse;
+</p>
+<p>
+5)	om Retsmødet er offentligt eller ikke.
+</p>
+<wtitle>§ 36.</wtitle>
+<p>
+Retsbogen skal indeholde en kort Fremstilling af Forhandlingerne.<lb/>
+Fuldstændigt optages Parternes Påstande, Begæringer og Indsigelser, for så<lb/>
+vidt de ikke indeholdes i Skrifter, som overleveres Retten, i hvilket Fald Henvisning<lb/>
+er tilstrækkelig, samt Indsigelser, som fremsættes af Vidner, Syns- eller Skønsmænd.
+</p>
+<p>
+Af Udviklinger og Foredrag til Begrundelse af Påstande, Begæringer eller<lb/>
+Indsigelser optages intet i Retsbogen, hvor ikke det modsatte udtrykkelig er bestemt;<lb/>
+dog kan Formanden beslutte, at enkelte Udtalelser skulle optages.
+</p>
+<p>
+Særlig Bemærkning gøres i Retsbogen om, hvorledes der er gået til Værks<lb/>
+med Hensyn til Former, som efter Loven skulle iagttages, om, hvad der fremlægges i<lb/>
+Retten, og hvilke Dokumenter der ere blevne oplæste.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.	37</pagename>

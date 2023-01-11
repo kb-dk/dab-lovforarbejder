@@ -1,0 +1,93 @@
+2659
+<pb n="10" />
+<h>
+<coll>
+2659
+</coll>
+<topmidle>
+F. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2660
+</colr>
+</h>
+<title>Kapitel 3.</title>
+<undertitle>
+Retsbøger.
+</undertitle>
+<wtitle>§ 33.</wtitle>
+<p>
+Almindelige Forskrifter om, hvilke Retsbøger der skal føres ved de forskellige<lb />
+Retter, saavel som om deres Indretning og Førelse, kan gives ved kongelig Anord-<lb />
+ning. Indenfor de derved dragne Grænser bestemmes Retsbøgernes Indretning for de<lb />
+af flere Dommere bestaaende Retter af Formanden, for de øvrige Retters Vedkom<lb />
+mende af Landsrettens Formand.
+</p>
+<p>
+De Retsbøger, som føres, autoriseres ved de af flere Dommere bestaaende<lb />
+Retter af vedkommende Formand og ved de øvrige Retter af vedkommende Dommer.
+</p>
+<wtitle>§ 34.</wtitle>
+<p>
+Angaaende alle Retshandlinger optages Beretning i Retsbogen.
+</p>
+<p>
+I Retsbogen indføres Angivelse af:
+</p>
+<p>
+1)	Tiden og Stedet for Retsmødet;
+</p>
+<p>
+2)	Navnene paa de Personer, der fungerer som Dommere, Nævninger, Retsskriver og<lb />
+Retsvidner;
+</p>
+<p>
+3)	Sagens Nummer med Parternes Navne;
+</p>
+<p>
+4)	Navnene paa de Personer, der er til Stede som Parter eller paa disses Vegn<lb />
+eller til deres Bistand, eller Bemærkning om de Forholdsregler, som maatte være<lb />
+trufne med Hensyn til deres Tilkaldelse eller Udelukkelse;
+</p>
+<p>
+5)	om Retsmødet er offentligt eller ikke.
+</p>
+<wtitle>§ 35.</wtitle>
+<p>
+Retsbogen skal indeholde en kort Fremstilling af Forhandlingerne.
+</p>
+<p>
+Fuldstændigt optages Parternes Paastande, Begæringer og Indsigelser, for saa<lb />
+vidt de ikke indeholdes i Skrifter, som overleveres Retten, i hvilket Fald Henvisning<lb />
+er tilstrækkelig, samt Indsigelser, som fremsættes af Vidner, Syns- eller Skønsmænd.
+</p>
+<p>
+Af Udviklinger og Foredrag til Begrundelse af Paastande, Begæringer eller<lb />
+Indsigelser optages intet i Retsbogen, hvor ikke det modsatte udtrykkelig er bestemt;<lb />
+dog kan Formanden beslutte, at enkelte Udtalelser skal optages.
+</p>
+<p>
+Særlig Bemærkning gøres i Retsbogen om, hvorledes der er gaaet til Værks<lb />
+med Hensyn til Former, som efter Loven skal iagttages, om, hvad der fremlægges i<lb />
+Retten, og hvilke Dokumenter der er blevet oplæst.
+</p>
+<p>
+Rettens Afsigelse af Domme og Kendelser og dens øvrige Beslutninger optages<lb />
+i Retsbogen. Domme og Kendelser indføres fuldstændigt i Dombogen.
+</p>
+<p>
+Om noget i øvrigt skal optages i Retsbogen, beror paa, om saadant særlig en<lb />
+foreskrevet i Loven.
+</p>
+<wtitle>§ 36.</wtitle>
+<p>
+Hvor ikke det modsatte er udtrykkelig bestemt, finder Oplæsning og efter Om-<lb />
+stændighederne Vedtagelse af det Retsbogen tilførte kun Sted, naar Rettens Formand<lb />
+af særlige Grunde anser det for nødvendigt, enten af egen Drift eller i borgerlige<lb />
+Sager ifølge Begæring af Part, Vidne eller Syns- eller Skønsmænd.
+</p>
+<wtitle>§ 37.</wtitle>
+<p>
+Retsbogen underskrives ved hvert Retsmødes Slutning af Rettens Formand,<lb />
+fremdeles af de Personer, der maatte have fungeret som Retsskriver eller Retsvidner.
+</p>

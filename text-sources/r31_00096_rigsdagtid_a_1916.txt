@@ -1,0 +1,77 @@
+512
+<pb n="96" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>512</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+nogle af dem skal forhandles i Forbindelse med Realiteten. Bestemmelsen i § 343,<lb />
+3die Stykke, gælder også ved Højesteret.
+</p>
+<p>
+Domsforhandlingen indledes ved, at Appellanten fremstår og lader Ankestævningen og den påankede Afgørelse oplæse. Forhandlingernes Gang foregår efter<lb />
+den hidtil brugte Ordning. Dog kan Retten vedtage eller tilstede Afvigelser, som<lb />
+findes formålstjenlige. I øvrigt gælder de i §§ 364, 367 og 371 fastsatte Regler med<lb />
+de Lempelser, Retten i de enkelte Sager bestemmer.
+</p>
+<wtitle>§ 413.</wtitle>
+<p>
+Påstand om den indankede Afgørelses Forandring eller Ophævelse eller om<lb />
+Sagens Hjemvisning kan nedlægges ikke blot af den, der har udtaget Ankestævningen.<lb />
+men også af Modparten, jfr. §§ 403 ff.
+</p>
+<p>
+Klager over Behandlingen ved Landsretten, som efter Sagens Stilling ved<lb />
+Højesteret er uden nogen reel Betydning for vedkommende Part, kan af Højesteret<lb />
+lades ude af Betragtning.
+</p>
+<wtitle>§ 414.</wtitle>
+<p>
+Når Sagens Forhandling er afsluttet, afsiges Dom snarest muligt. Domsforhandling i en ny Sag må ikke finde Sted, forinden Dommen i den optagne Sag er<lb />
+vedtaget.
+</p>
+<wtitle>§ 415.</wtitle>
+<p>
+Når skriftlig Behandling finder Sted på Grund af Sagens Beskaffenhed, jfr.<lb />
+§ 403, forhandles Sagen ved skriftlige Indlæg, ikke over to fra hver Side, som veksles<lb />
+mellem Parterne og afgives til Retten i Forbindelse med Sagens Dokumenter inden<lb />
+de Frister, som Formanden bestemmer.
+</p>
+<p>
+Har Bevisførelse fundet Sted, kan enhver af Parterne i dertil berammede<lb />
+Retsmøder fremlægge et skriftligt Indlæg.
+</p>
+<p>
+Udgår en Sag til skriftlig Behandling på Grund af Indstævntes Udeblivelse,<lb />
+har Appellanten inden en fastsat Frist at aflevere et skriftligt Indlæg tilligemed<lb />
+Sagens Dokumenter, derunder fuldstændig Beskrivelse af det for Landsretten passerede.<lb />
+Oplyses det, inden Sagen er påkendt, at Indstævntes Udeblivelse ikke kan lægges<lb />
+ham til Last som en Forsømmelse, kan Højesteret reassumere Sagen.
+</p>
+<p>
+Mundtlig Domsforhandling finder ikke Sted i disse Sager.
+</p>
+<p>
+Er Vidner indkaldte for Højesteret, jfr. § 409, og de har givet Møde, kan<lb />
+Højesteret bestemme, at de, inden Sagen udgår til skriftlig Behandling, skal afhøres, efter at Appellanten har fremstillet Sagens Omstændigheder. I øvrigt sker Vidners Førelse. Syns- eller Skønsforretningers Optagelse og Parters Afhøring for Underret,<lb />
+jfr. § 409, medmindre Højesteret bestemmer, at den skal ske for et af Rettens Medlemmer.
+</p>
+<p>
+Ved skriftlig Behandling finder i øvrigt de almindelige Regler om Højesteretsproceduren Anvendelse med de fornødne Lempelser.
+</p>
+<wtitle>§ 416.</wtitle>
+<p>
+Når Højesterets Dom går ud på Hjemvisning, kan enhver af Parterne henvende sig til den Underret, der har ledet Sagens Forberedelse for Landsretten, med<lb />
+en Udskrift af Dommen og begære et Retsmøde berammet, hvortil han da har at<lb />
+indkalde Modparten med et af vedkommende Underretsdommer fastsat Varsel. Sagen<lb />
+fremmes derefter i Overensstemmelse med de almindelige Regler.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

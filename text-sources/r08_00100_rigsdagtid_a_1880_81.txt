@@ -1,0 +1,51 @@
+3563
+<pb n="100" />
+<h>
+<coll>3563</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3564</colr>
+</h>
+<wtitle>§ 348.</wtitle>
+<p>Paastande kunne forandres, indtil den i § 346 omhandlede Protokollation eller Frem-<lb />
+læggelse til Protokollen af dem er fket, men efter den Tid, forsaavidt Forandringen gaar ud<lb />
+paa Andet end en Frafalden eller Indskrænkning, kun med Rettens Tilladelse.</p>
+<p>Finder Retten, at det ikke kan forlanges af Sagfogte, at han strar skal svare paa de<lb />
+forandrede Paastande,  udsættes Sagen.</p>
+<p>Sagfsgte kan fremsætte Modfordringer efter de almindelige Regler (§ 101).</p>
+<wtitle>§ 349.</wtitle>
+<p>Dokumenter maa, hvad enten de paaberaabes i Klagefkriftet eller ikke, fremlæggek i<lb />
+Retsmodet; dog kan Netten, forsaavidt det findes, at der ikke har været tilstrækkelig Tid for<lb />
+den Sagsogte til at fremskaffe et Dokument, eller at det fra den Sagsogtes Side Frem-<lb />
+komne giver Sagsogeren Anledning til at fremkomme med yderligere Dokumenter, udflette<lb />
+Sagen herefter.</p>
+<p>Til at gjøre sig bekjendt med de fremlagte Dokumenter bor der i Reglen gives Mod-<lb />
+parten den fornødne Tid i selve Retsmodet.</p>
+<p>Finder Retten, at dette Sidste efter Omstændighederne og navnlig Dokumentets Be-<lb />
+skaffenhed ikke vil være tilstrækkeligt, kan Sagen udsættes. Den, mod hvem Dokumentet frem-<lb />
+lægges, maa, derfom det ikke med Producentens Samtykke kan udlaanes ham, forsynes med<lb />
+en Gjenpart af samme og gives Adgang til paa Retsfkriverkontoret at undersoge Dokumentet.</p>
+<wtitle>§ 350.</wtitle>
+<p>Sagens mundtlige Forhandling skal saavidt muligt søges tilendebragt i eet Retsmode<lb />
+eller dog i Reglen foregaa uafbrudt om end i flere Retsmoder.</p>
+<p>Er Sagen moden til Paakjendelse, uden at videre Bevisforelse foregaar, afsiges<lb />
+Dommen. I modfat Tilfælde bestemmes det ved Kjendelse, hvilke Omstændigheder der trænge<lb />
+til at bevises, hvorefter Parterne kunne forestaa deres Beviser, der føres under Slutnings-<lb />
+forhandlingen (§§ 179—195).    Retten anordner de fornødne Udsættelser.</p>
+<p>Efter Slutningsforhandlingen, under hvilken Beviserne fremfores, og Sagen Iøvrigt<lb />
+udvikles og forklares, afsiges Dom snarest muligt (§ 274).</p>
+<wtitle>§ 351.</wtitle>
+<p>For Underretter ere Vidner, der bo eller opholde sig udenfor Underretskredfen, ikke<lb />
+pligtige at mode, naar de vilde komme til at reife mere end 9 Mile paa Iembane eller 3<lb />
+Mile paa anden Maade — eller en tilsvarende Veilceugde delvis paa Jernbane og paa anden<lb />
+Maade — for at naa hen til Retten. Naar et Vidne, der bor udenfor Retskredfen, skal<lb />
+tilbagelægge en længere Vei end 3 Mile paa Jernbane eller 1 Mil paa anden Maade, kan<lb />
+det fordre Rejseudgiften godtgjort (§ 202). Dog staar det i saa Fald vedkommende Part<lb />
+frit for, derfom han foretrækker dette, at lade Vidnet afhøre for Underdommeren i den Rets-<lb />
+kreds, hvor det hører hjemme.</p>
+<p>Det i § 206 for Vidner bestemte Varfel kan af Dommeren afkortes, naar Om-<lb />
+stændighederne tale derfor, endog til 24 Timer.</p>
+<wtitle>§ 352.</wtitle>
+<p>I Tilfælde af Udeblivelse forholdes efter de ovenfor i §§ 285 til 292 indeholdte<lb />
+Grundsætninger, dog med de Lempelser, som følge af, at ingen Forpligtclfe til at fremkomme<lb />
+med Sagsfremstillinger sinder Sted ved Underretten, hvorfor de til Undladelse heraf knyttede<lb />
+særlige Udeblivelsesvirkninger ikke komme til Anvendelse.</p>

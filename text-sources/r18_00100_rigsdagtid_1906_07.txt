@@ -1,0 +1,66 @@
+3839
+<pb n="100"/>
+<h>
+<coll>3839</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3840</colr>
+</h>
+<wtitle>§ 453.</wtitle>
+<p>
+De ovenfor givne Kegler om Fremgangsmaaden ved Mortifikationsdoms Er-<lb />
+hvervelse komme med de af Forholdets Natur flydende Lempelser til Anvendelse, naar<lb />
+nogen vil søge Ejendomsdom efter foregaaende offentlig Indkaldelse.
+</p>
+<p>
+Det har sit Forblivende ved den gældende Rets Regler om Adgangen til at
+søge saadan Ejendomsdom saavel som om Retsvirkningerne af den.
+</p>
+<wtitle>§ 454.</wtitle>
+<p>
+Om Adgang til Erhvervelse af Mortifikationsdom paa Servituter, Brugsrettig-<lb />
+heder og Grundbyrder har det sit Forblivende ved Reglerne i Lov Nr. 67 af 14. April<lb />
+1905, dog at der i Stedet for den i bemeldte Lovs § 4 omhandlede Bevilling til Erhver-<lb />
+velse af Mortifikationsdom uden særlig Indstævning træder en af vedkommende Ret i<lb />
+Overensstemmelse med § 448 meddelt Tilladelse.
+</p>
+<htitle>Tredie Afsnit.</htitle>
+<title>
+Eksekution og Tvangsauktion.
+</title>
+<title>Kapitel 42</title>
+<undertitle>
+Almindelige Betingelser for Eksekution.
+</undertitle>
+<wtitle>§ 455.</wtitle>
+<p>
+Eksekution kan ske paa Grundlag af:
+</p>
+<p>
+1)	Domme og Kendelser, afsagte af Domstole eller af andre Myndigheder, der efter<lb />
+Lovene ere beføjede til at afsige eksigible Kendelser.
+</p>
+<p>
+2)	Forlig, indgaaede for Forligskommissioner, Retter eller Overøvrigheder, for de<lb />
+sidstnævntes Vedkommende dog kun i saadanne Sager, hvor det ved Lovgivningen<lb />
+er paalagt dem at mægle Forlig, saavel som for Landvæsenskommissioner og<lb />
+andre Myndigheder, om hvilke Lovene bestemme, at de for dem afsluttede Forlig<lb />
+skulle kunne eksekveres.
+</p>
+<p>
+Forlig, der ere sluttede udenfor Forligskommissionen og godkendte i en<lb />
+saadan, kunne dog kun tjene til Grundlag for Eksekution, naar de ere forsynede<lb />
+med to særlig tilkaldte og med Stilling og Bopæl anførte Vidners Paategning<lb />
+om. at Forliget førend Skyldnerens Underskrift er lydelig oplæst for og vedtaget<lb />
+af ham, samt naar de Omkostninger, Skyldneren indgaar paa at betale, bortset<lb />
+fra de med Eksekutionen forbundne, ere anførte deri med en bestemt Sum.
+</p>
+<p>
+3)	Tinglæste Pantebreve, hvorved der for en bestemt angiven Pengesum gives Pant<lb />
+i fast Ejendom, naar de ere oprettede eller vedkendte for Notarius publicus eller<lb />
+for to Vitterlighedsvidner, og Forfaldstiden er indtraadt enten paa Grund af<lb />
+Opsigelse, eller fordi det Tidspunkt, der i Pantebrevet er fastsat som Betalings-<lb />
+termin, er kommet, eller, for saa vidt saadan Følge udtrykkelig er betinget i<lb />
+Pantebrevet, paa Grund af Udeblivelse med Renter. Udlæget, som kan ske ikke<lb />
+blot for Kapitalen eller Afdrag paa samme, men ogsaa særskilt for Renter, kan<lb />
+dog ikke udstrækkes til andet end Pantet.
+</p>

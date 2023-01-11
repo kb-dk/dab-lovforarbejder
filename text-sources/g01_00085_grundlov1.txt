@@ -1,0 +1,116 @@
+97
+<pb n="85">
+<pagename>85</pagename>
+<h>
+<coll>97</coll>
+<colr>98</colr>
+<lb/>
+
+<topleft>1848</topleft>
+<topmidle>
+Beretning om Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 14.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Sjette Møde.<lb/>
+(Sluttet.)<lb/>
+</btitle>
+<p>
+<speaker>Mynster:</speaker> Idet jeg erkjender de overveiende Fordele, som vistnok ere forbundne med, at Forsamlingen, som i Udkastet foreslået,<lb/>
+deler sig i Afdelinger, så kan jeg dog ikke Andet end også erkjende,<lb/>
+at, såfremt Afdelingerne alene bestemmes ved Lodtrækning, Tilfældet vil erholde for stort Råderum; der gives i Forsamlingen<lb/>
+mange Medlemmer — og jeg henregner mig f. Ex. iblandt dem, der<lb/>
+vel kunne tiltroe sig en Dom over en Sag, når de ere satte på<lb/>
+det rette Standpunkt, men som ikke således have levet sig ind i de<lb/>
+Sager, som i Almindelighed kunne forekomme i Forsamlingen, at de<lb/>
+ere istand til at sætte Andre på dette Standpunkt. Dersom nu<lb/>
+Lodtrækning alene skal bestemme Afdelingernes Sammensætning, forekommer det mig meget let at kunne træffe, at der i een Afdeling<lb/>
+kommer, om ikke Alle, så dog den største Deel of hiin Classe, hvortil jeg henregner mig selv, hvorimod de Mænd, som vare meest skikkede til at lede Forhandlingerne bleve samlede i en anden Afdeling.<lb/>
+Jeg kan derfor ikke nægte, at jeg fra først af har foretrukket, hvad<lb/>
+der af en anden Rigsdagsmand er bleven foreslået, at Forsamlingen nemlig udvalgte 25 Medlemmer til Fordeling imellem de forskjellige Afdelinger, og at de øvrige valgtes ved Lodtrækning. Jeg<lb/>
+har endnu en Bemærkning at gjøre, som forøvrigt ikke er af stor<lb/>
+Betydenhed. Udkastet bestemmer, at enhver Afdeling skal vælge en<lb/>
+Formand og en Secretair. Da denne Sidste imidlertid ikke skal optegne Forhandlingerne, er det mig ikke klart, hvad han egentlig skal<lb/>
+foretage. Endelig skal jeg tillade mig at berøre et Spørgsmål, som<lb/>
+også nylig fra en anden Side er bleven omtalt. Det er nemlig<lb/>
+neppe ganske klart, hvorledes der skal forholdes, når Valg af en<lb/>
+Comitees Medlemmer skal skee igjennem Afdelingerne. Dersom Comiteen kun skal beståe af 5 Medlemmer, er det formodentlig Meningen, at enhver Afdeling vælger eet Medlem; men der kunde også<lb/>
+her spørges: om Meningen ikke var, at enhver Afdeling skulde stemme<lb/>
+for 5 Medlemmer i Almindelighed, og at de, som således erholdt<lb/>
+Pluraliteten, skulde udgjøre Comiteen. Det er ligeledes ei heller afgjort, hvorvidt Afdelingerne skulle vælge de Medlemmer, som af denne<lb/>
+udnævnes, af deres egen Midte eller af hele Forsamlingen. Hvis<lb/>
+det Sidste skulde være Tilfældet, var det vistnok rigtigere, om dette<lb/>
+udtrykkeligt bestemtes. Bestemmer man sig for et større Antal Comiteemedlemmer end 5, kunde der ellers let opståe Vanskelighed, når<lb/>
+man da ikke altid vilde fastsætte Anatallet til 10 — hvilket i og for<lb/>
+sig er et ubeqvemt Tal, da der i så Fald kan tænkes ikke at komme<lb/>
+Pluralitet tilveie Comiteen, og hvilket Forsamlingens Medlemmer<lb/>
+neppe ville antage. Der vil derfor behøves en Bestemmelse for sådanne Tilfælde, hvor Comiteen skal beståe af flere end 5.<lb/>
+</p>
+<p>
+<speaker>Hage:</speaker> Jeg skal ikke bestride Bureausystemet, som synes at<lb/>
+finde almindelig Anklang hog Forsamlingen, selv om der kunde være<lb/>
+Tvivl om, hvorvidt man derved opnåer alle de Fordele, som man<lb/>
+her synes at forudsætte. Jeg troer imidlertid, at Alle are enige om<lb/>
+at den væsentligste Fordeel, som derved opnåes, er den, at de vigtigere Sager, der fortjene en mere omfattende Behandling, forud ere<lb/>
+behandlede, og at Medlemmerne have sat sig ind i dem, forinder Forsamlingen gåer over til den foreløbige Behandling, og at man dernæst har Leilighed til at lære at kjende de enkelte Medlemmers Anskuelser og Kjendskab til Sagen, forinder Valg foretages. Udskudet<lb/>
+er også gået ud fra, at der ikke i alle Tilfælde skal anvendes Behandling i Bureauerne, idet Forsamlingen også kan erklære sig for<lb/>
+</p>
+</leftside>
+<rightside>
+<p>
+Behandling i Udskud, uden at Sagen gåer til Bureauerne; men det<lb/>
+forekommer mig, at dette Spørgsmål ståer tilbage:om Forsamlingen ikke stundom kan finde sig foranlediget til, når en Sag ikke<lb/>
+trænger til nærmere Oplysning, som gjør et Udskuds Udnævnelse<lb/>
+nødvendig, strax at skride til dens Behandling, uden at nedsætte Udskud eller henvise den til Behandling i Afdelingerne. Der er intet<lb/>
+udtrykkeligt herom bestemt i Udkastet, men det synes i § 15 forudsat,<lb/>
+at Udskud altid skal vælges, thi det hedder her: „I Henhold til de<lb/>
+stedfundne Afstemninger påligger det Udskudet at forfatte et fuldstændigt Lovforslag.” Jeg troer, at dette i mindre vigtige Sager er<lb/>
+en temmelig vanskelig og besværlig Behandlingsmåde, og jeg troer,<lb/>
+at denne Vanskelighed og Besværlighed er unødvendig. Forsamlingen<lb/>
+må nemlig bestandig kunne tye til Comiteebehandling, selv om<lb/>
+Sagen ikke har gjennemgået Behandling i Bureauerne. Dette er<lb/>
+Praxis i England, hvor man ikke kjender til Comiteebehandling;<lb/>
+når man indskrænker Anvendelsen heraf til de mindre vigtige Sager,<lb/>
+troer jeg ikke, at man deraf vil føle nogen Ulempe. Ifølge min<lb/>
+Formening, bør der efter § 10 indskydes en udtrykkelig Bestemmelse<lb/>
+om, at Forsamlingen, hvor den ikke anseer det nødvendigt at henvide<lb/>
+en Sag til Behandling i Afdelingerne eller til at nedsætte særeget<lb/>
+Udskud, da strax kan skride til Sagens Behandling, således som det<lb/>
+bestemmes i de følgende Paragrapher. Med Hensyn til den Sag,<lb/>
+som vel fornemmelig vil blive at behandle i denne Session, og hvorved Forretningsordenen nærmest vil finde Anvendelse — hvad enten<lb/>
+nu Sagen skal behandles strax eller den måtte blive udsat — troer<lb/>
+jeg det nødvendigt, at der i Slutningen af § 7 tilføies: „deelviis<lb/>
+eller i sin Heelhed efter Omstændighederne.“ Skulde nemlig Forfatningssagen i sin Heelhed behandles i Bureauerne, og derefter i Udskudet i sin Heelhed, og derefter i sin Heelhed komme til foreløbig<lb/>
+og endelig Behandling, da vilde dette blive meget langvarigt, så<lb/>
+langvarigt, at Forsamlingen ikke vilde fåe sit Arbeide endt før lang<lb/>
+Tid efter, at den måtte ønske dermed at være færdig. Derimod<lb/>
+må det ståe frit for at dele Udkastet i forskjellige Dele og at henvise disse til Behandling i Afdelingerne, som derefter kunne vælge<lb/>
+Ordfører for hver Deel især, hvorefter Udskudet kunde afgive Betænkning over hver Deel især, og Forsamlingen derefter behandle<lb/>
+hver Deel for dig.<lb/>
+</p>
+<p>
+<speaker>Fløe:</speaker> Det forekommer mig at ville lede til Sagens mere alsidige Behandling, når det bestemtes, at Afdelingernes Medlemmer<lb/>
+dagligen trådte sammen og confererede om, hvad der vor omhandlet<lb/>
+i Afdelingerne. Jeg troer, at man derved vilde afhjælpe den Mangel, som kunde ligge deri, at en enkelt Afdeling beståer af mindre<lb/>
+dygtige Medlemmer, idet man derved blev opmærksom på, hvad der<lb/>
+var blevet forhandlet i de andre Afdelinger, og man da let kunde<lb/>
+redressere, hvad der var forsømt.<lb/>
+</p>
+<p>
+<speaker>Fabrikeier Bruun:</speaker> Jeg skal tillade mig at spørge den ærede<lb/>
+Ordfører, om der i Comiteen har været en bestemt Grund til at<lb/>
+fastsætte Afdelingernes Antal til 5. Det forekommer mig nemlig, at<lb/>
+man ved at fastsætte dette Tal for Afdelingerne, og som en Følge<lb/>
+deraf Antallet af de enkelte Afdelingers Medlemmer til 30 for hver,<lb/>
+ikke så ganske vil opnåe det egentlige Øiemed med den hele Indretning, at der skal kunne finde en friere Udvexling af Anskuelserne<lb/>
+Sted, end der i Reglen i selve Forsamlingen kan ventes; jeg har<lb/>
+tænkt mig som een af Grundene, at man ved at tage 5 som Afdelings-Antallet derved opnåer, at Udvalget af Comiteemedlemmer i<lb/>
+de enkelte Sager, hvor disses Tal ikke skulde overstige 5, kunde foregåe i Afdelingerne, og at kun Forsamlingen skulde tage Bestemmelse<lb/>
+</p>
+</rightside>
+
+</pb>

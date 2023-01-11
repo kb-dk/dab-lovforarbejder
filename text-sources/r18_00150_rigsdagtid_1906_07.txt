@@ -1,0 +1,74 @@
+3939
+<pb n="150"/>
+<h>
+<coll>3939</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3940</colr>
+</h>
+<wtitle>§ 662.</wtitle>
+<p>
+Borgerlige Retskrav paa den Sigtede, som følge af strafbare Handlinger, kunne<lb />
+forfølges i Forbindelse med Straffesagen, overensstemmende med de i Kapitel 85 givne<lb />
+nærmere Regler.
+</p>
+<title>Kapitel 59</title>
+<undertitle>
+Retternes Virkekreds.
+</undertitle>
+<wtitle>§ 663.</wtitle>
+<p>
+Forundersøgelse og enkeltstaaende Retshandlinger foretages ved Underretten<lb />
+henholdsvis Sø- og Handelsretten, som Undersøgelsesret. Dog kan det i Sager, som<lb />
+henhøre under Landsret eller ere indankede for Landsret eller for Højesteret, und-<lb />
+tagelsesvis af Landsrettens eller Højesterets Justitiarius overdrages til et Medlem af<lb />
+Landsretten at handle som Undersøgelsesdommer.
+</p>
+<wtitle>§ 664.</wtitle>
+<p>
+Ved Underretterne, henholdsvis Sø- og Handelsretten, behandles og paakendes<lb />
+i første Instans Sager angaaende Lovovertrædelser,
+</p>
+<p>
+a)	for hvilke Straffen ikke kan overstige Fængsel, eller
+</p>
+<p>
+b)	som falde under en Strafbestemmelse, der alternativt med andre Strafarter<lb />
+hjemler Anvendelse af Formuestraf, simpelt Fængsel, Tvangsarbejde, Ris eller<lb />
+Fortabelse af Næringsret, dog at Sigtede eller, hvis han er umyndig, hans<lb />
+Værge kan begære Paakendelse ved Landsretten, naar Straffen kan stige til<lb />
+Strafarbejde eller Embeds eller Bestillings Fortabelse, eller
+</p>
+<p>
+c)	for hvilke Straffen for 1ste Gang begaaet Forbrydelse er bestemt alternativt til<lb />
+Fængsel paa Vand og Brød eller Strafarbejde eller ifølge Straffelovens § 229<lb />
+til Strafarbejde alene, naar Sigtede afgiver en fuldstændig og troværdig Til-<lb />
+staaelse, og han eller hans Værge ikke begærer Paakendelse ved Landsret, eller
+</p>
+<p>
+d)	som behandles ved Sø- og Handelsretten (§ 9, 1ste Stykke) eller ved Underretten<lb />
+ifølge denne Lovs § 18;
+</p>
+<p>
+e)	Sager, hvorunder der enten alene eller i Forbindelse med en Straffepaastand,<lb />
+der hører under Underrettens Paakendelse, nedlægges Paastand om nogen af de<lb />
+i § 661 nævnte Følger, dog med Undtagelse af de under Nr. 2 og 4 ommeldte Sager;
+</p>
+<p>
+f)	Sager om Erstatning eller Æreserklæring for uforskyldt Anholdelse;
+</p>
+<p>
+g)	Sager om Erstatning for uforskyldt Varetægtsarrest eller for uforskyldt Udstaaelse<lb />
+af Straf, naar den, som kræver Erstatningen, ikke samtidigt med Erstatnings-<lb />
+begæringen forlanger Paakendelse ved Landsret.
+</p>
+<p>
+Sager, der rejse sig af politiske Lovovertrædelser, blive dog altid at behandle<lb />
+ved Landsretterne. Ogsaa andre Sager kan Paatalemyndigheden indbringe umiddel-<lb />
+bart for Landsretten, naar den af særlige Grunde finder dette hensigtsmæssigt, og<lb />
+Sigtede eller dennes Værge samtykker deri.
+</p>
+<wtitle>§ 665.</wtitle>
+<p>
+Ved Landsretterne behandles og paakendes i første Instans de Sager, der ikke<lb />
+efter § 664 ere henlagte til Underretterne.
+</p>

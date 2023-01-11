@@ -1,0 +1,72 @@
+328
+<pb n="334" />
+<leftside>
+<p>Nævningerne foranlediges til udtrykkelig at<lb />
+erklære sig angående Strafudelukkelsesgrunden,<lb />
+have flere Love (blandt dem også den sachsiske<lb />
+af !868) foreskrevet en særegen Form for Hovedspørgsmålet i disse tilfælde, hvorved dette<lb />
+kun kommer til at handle om den ydre Gjerning. idet Udtrykket „skyldig“, der gjør<lb />
+Spørgsmålet til et almindeligt, ombyttes med<lb />
+et andet af mere begrænset Omfang (überführt, erwiesen ell. lign.). Men denne Udvej er<lb />
+utvivlsomt forkastelig. Den kommer i Strid<lb />
+med den Grundsætning, at Spørgsmålet om<lb />
+den Sigtedes Skyld ikke må deles eller opløses i flere Spørgsmål, jfr. Udkastets § 332.<lb />
+Tilsidesættes denne Grundsætning, bliver det for<lb />
+det Første muligt, at den Sigtede kan blive<lb />
+erklæret skyldig, medens et enkelt Spørgsmål<lb />
+om Skylden vilde give det modsatte Resultat,<lb />
+(af 12 behøve kun 4 at bekræfte begge<lb />
+Spørgsmålene. og dog kan hvert af Spørgsmålene være bekræftet af 8). Kan nu end<lb />
+dette undgåes ved en særegen Regel om<lb />
+Stemmeberegningen, jfr. § 343 3die Stykke,<lb />
+bliver der den Hovedindvending tilbage, at<lb />
+Nævningerne ikke fåe Sagen i sin Helhed til<lb />
+Afgjørelse, idet de nu ikke kunne nægte Strafskylden af andre Udelukkelsesgrunde end de særlig omtalte. Sagen er imidlertid, at Hovedspørgsmålet meget godt kan beholdes i sin regelmæssige Form, uden at det bliver betydningsløst eller urimeligt at stille de omhandlede Tillægsspørgsmål. Den rette Opfattelse er den,<lb />
+at disse ere Spørgsmål om Motiverne til<lb />
+det Svar, der er givet på Hovedspørgsmålet.<lb />
+Der er åbenbart intet Unaturligt i, at Nævningerne må give Svar på et Sporgsmavl<lb />
+herom. At de ikke som Dommerne skulle give<lb />
+Domsgrunde, er ikke grundet i en urimelig<lb />
+Forestilling om en souveræn Magt hos Nævningerne, der ikke tilsteder Motivering, men<lb />
+simpelthen deri, at Fordringen om slige Grunde<lb />
+ikke kan fyldestgjøres af dem. Men denne<lb />
+Grund gjælder ikke, når og forsåvidt Erklæringen angående Motiverne alene kræver<lb />
+Svar (Ja eller Nej) på et af Retten stillet<lb />
+Spørgsmål. Kommer der derved en Modsigelse frem mellem Svarene på de to spørgsmål, er der ingen Grund til at behandle<lb />
+Erklæringen efter § 348; men den Realitetsdom</p>
+</leftside>
+<rightside>
+<p>bliver at afsige, som grundes på, at<lb />
+Svaret på Hovedspørgsmålet, som det nu<lb />
+sees, hviler på en Retsvildfarelse, ɔ: den Sigtede frifindes, se § 353*). Den Regel, som<lb />
+Lovene således hjemle med Hensyn til Lovens<lb />
+Strafudelukkelsesgrunde, er altså fuldstændig<lb />
+velgrundet. og denne Fremgangsmådes praktiske<lb />
+Betydning til at forbeholde Dommernes Indflydelse På Retsspørgsmålene forøges i høj Grad<lb />
+derved, at også Beviset for konkrete Kjendsgjerninger, der udelukke Henførelsen under Straffeloven kan gjøres til Gjenstand for slige Spørgsmål, jfr. Bar. 1. c. S. 85 o. ff. I hvilket<lb />
+Omfang Beføjelsen til at forelægge Nævningerne Tillægsspørgsmål af den heromhandlede<lb />
+Art bør benyttes, må bero på de konkrete<lb />
+Omstændigheder. Foruden den selvfølgelige<lb />
+Betingelse, at den pågjældende Omstændighed,<lb />
+dens Bevisligbed forudsat, efter Rettens Opfattelse har den retlige Betydning at udelukke<lb />
+Straf — en Betingelse, som dog noget lempes ved Hensyn til Påankeinstantsen, jfr.<lb />
+også § 358 —, må der nemlig tillige være<lb />
+Bevisdata tilstede for den, så at det kan tænk s, at Omstændigheden af Nævningerne vil<lb />
+blive bekræftet. Herved må det komme an<lb />
+på Rettens Skjøn (jfr. imidlertid § 375<lb />
+Nr. 4), hvad enten der er Tale om at stille<lb />
+et sådant Spørgsmål i Embeds Medfør —<lb />
+Noget, som efter Straffeprocessens Grundsætninger må kunne ske — eller Spørgsmålet<lb />
+af Forsvaret begjæres stillet. Det kan ikke billiges, når sleve Love have gjort det til en<lb />
+ubetinget Ret for den Sigtede at kræve Tillægsspørgsmål om Lovens Straffefrihedsgrunde.<lb />
+Mangler der efter Rettens Skjøn rimelige Bevisdata for den, kan det kun forvirre Nævningerne, at et særligt Spørgsmål stilles derom,<lb />
+En anden Sag var det, hvis Nævningerne kun<lb />
+kunde antage Tilstedeværelsen af Straffrihedsgrunde efter særligt Spørgsmål; men det<lb />
+er jo på Grund af Hovedspørgsmålet ikke<lb />
+Tilfældet, og herom har Forsvaret tilstrækkelig<lb />
+Lejlighed til under Forhandlingen at minde<lb />
+Nævningerne.</p>
+<p>*) En lignende Regel findes i New-Yorks civile Proces, idet der ved Siden af Generalverdiktet kan<lb />
+afkræves Nævningerne et Specialverdikt, som i<lb />
+Tilfælde af Modsigelse har Fortrinet.</p>
+</rightside>

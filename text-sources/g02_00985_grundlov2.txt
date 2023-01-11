@@ -1,0 +1,156 @@
+3443
+<pb n="985" >
+<p rend="page">985</p>
+<h>
+<coll>3443</coll>
+<colr>3444</colr><lb />
+
+Den foreløbige Behandling af Valgloven. §§ 36—40.<lb />
+</h>
+<leftside>
+<btitle>
+Udkastet.<lb />
+Navnlig Afstemning.<lb />
+</btitle>
+<p>
+<law n="36" >§ 36.<lb /></law>
+Kaaringens Virkning ophæves, naar een eller flere af de Candidater, som derved ikke have opnaaet Valg, begiere navnlig Afstemning. Denne Fordring skal fremsættes inden Udløbet af et Qvarteer,<lb />
+efterat Kaaringens Udfald er kundgjort, i hvilken Tid derfor Valgbestyrelsen bliver tilstede paa Valgstedet.<lb />
+</p>
+<p>
+Fremkommer ingen saadan Begiering i betimelig Tid, staaer<lb />
+Kaaringen ved Magt, og hele Valgforhandlingen sluttes.<lb />
+<law n="37" >§ 37.<lb /></law>
+Forlanges navnlig Afstemning, paabegyndes den uopholderligen.<lb />
+Den finder kun Sted mellem den, som ved Kaaringen har erholdt<lb />
+fleest Stemmer, og den eller de Modcandidater, som udtrykkeligen<lb />
+fordre det.<lb />
+<law n="38" >§ 38.<lb /></law>
+Afstemningen foregaaer samtidigen til de forskiellige Valglister, som Formanden fordeler mellem Valgbestyrelsens Medlemmer.<lb />
+Ved hver Valgliste tilforordnes derhos een af de tilstedeværende<lb />
+Vælgere. Selv deeltager Formanden ikke i Modtagelsen af Valgstemmer.<lb />
+</p>
+<p>
+I den Orden, hvori Vælgerne møde for Valglisterne, nævne de<lb />
+mundtligen een af de Candidater, mellem hvilke der skal vælges.<lb />
+Efterat have anerkjendt Vælgerne, tilfører det ved Valglisten<lb />
+ansatte Medlem af Valgbestyrelsen den Candidats Navn, paa hvilken<lb />
+Vælgeren har stemt, ved Siden af dennes eget Navn, paa selve<lb />
+Valglisten.<lb />
+</p>
+<p>
+Den ham tilforordnede Vælger optegner paa en særskilt Stemmeliste Vælgerens Navn ved Siden af den Candidats Navn, som han<lb />
+har givet sin Stemme.<lb />
+</p>
+<p>
+Forinden Vælgeren aftræder, oplæses for ham saavel hans eget,<lb />
+som den af ham Valgtes Navn, til Sikkerhed for begge Tilførslers<lb />
+Rigtighed og indbyrdes Overeensstemmelse.<lb />
+</p>
+<p>
+Naar Formanden har erklæret Afstemningen for sluttet, tilføre<lb />
+Valgbestyrelsens Medlemmer og sammes Medhiælpere deres egne<lb />
+Stemmer, og underskrive saavel Valglisten som Stemmelisten.<lb />
+<law n="39" >§ 39.<lb /></law>
+Efter samtlige Lister sammenlægger den forenede Valgbestyrelse<lb />
+det Stemmeantal, hver af Candidaterne har erholdt. Udfaldet tilføres Valgbogen og kundgiøres for Forsamlingen. Valglisterne tilbageleveres vedkommende Communer; Stemmelisterne bilægges Valgbogen,<lb />
+som underskrives af hele Valgbestyrelsen.<lb />
+<law n="40" >§ 40.<lb /></law>
+Den, som ved den navnlige Afstemning har erholdt flere Stemmer end nogen Anden, er valgt. Have Flere lige mange Stemmer,<lb />
+asgiør Lodtrækning, som foretages af Formanden.<lb />
+</p>
+<btitle>
+Comiteens Indstilling.<lb />
+</btitle>
+<p>
+<law n="36 (§ 32)" />§ 36 (<law n="36 (§ 32)" />§ 32).<lb />
+Kaaringens Virkning ophæves, naar navnlig Afstemning<lb />
+begjeres af en Candidat, der ikke har opnaaet Valg,<lb />
+eller, hvis denne er fraværende, af den, der har anbefalet ham. Denne Fordring skal fremsættes inden Udløbet af<lb />
+et Qvarteer, efterat Kaaringens Udfald er kundgjort, i hvilken Tid<lb />
+derfor Valgbestyrelsen bliver tilstede paa Valgstedet.<lb />
+</p>
+<p>
+Fremkommer ingen saadan Begiering i betimelig Tid, staaer<lb />
+Kaaringen ved Magt, og hele Valghandlingen sluttes.<lb />
+<law n="37 (§ 33)" />§ 37 (<law n="37 (§ 33)" />§ 33).<lb />
+Forlanges navnlig Afstmning, paabegyndes denne uopholderligen.<lb />
+Den finder kun Sted mellem den, som ved Kaaringen har erholdt<lb />
+
+</p>
+</leftside>
+<rightside>
+<p>
+sleest Stemmer, og den eller de Modcandidater, som udtrykkelig<lb />
+fordre det.<lb />
+</p>
+<p>
+Naar i det i § 31 omhandlede Tilfældee fordres navnlig Afstem<lb />
+ning, vil denne gaae ud paa et simpelt for eller imod.<lb />
+<law n="38 (§ 34)" />§ 38 (<law n="38 (§ 34)" />§ 34).<lb />
+
+Afstemningen foregaaer samtidigen til de forskjelligee Valglister,<lb />
+som Formande fordeler mellem Valgbestyrelsens Medlemmer. Ved<lb />
+hver Valgliste tilforordnes derhos een af de tilstedeværende Vælgere.<lb />
+Selv deeltager Formanden ikke i Modtagelsen af Valgstemmer.<lb />
+</p>
+<p>
+I den Orden, hvori Vælgerne møde, afgive de mundtligen<lb />
+deres Stemme.<lb />
+</p>
+<p>
+Efterat have a anerkjendt Vælgeren, tilfører det ved Valglisten<lb />
+ansatte Medlem af Valgbestyrelsen den Candidats Navn, paa hvilken Vælgeren har stemt, ved Siden af dennes eget Navn, paa selve<lb />
+Valglisten.<lb />
+</p>
+<p>
+Den ham tilforordnede Vælger optegner paa en særskilt Stemmeliste Vælgerens Navn ved Siden af den Candidats Navn, som han<lb />
+har givet sin Stemme.<lb />
+</p>
+<p>
+Forinden Vælgeren aftræder, oplæses for ham saavel hans eget,<lb />
+som den af ham Valgtes Navn, til Sikkerhed for begge Tilførslers<lb />
+Regtighed og indbyrdes Overeensstemmelse.<lb />
+</p>
+<p>
+Naar Ingen mere begierer at deeltage i Valget, tilføre Valgbestyrelsens Medlemmer og sammes Medhiælpere deres egne<lb />
+Stemmer, og underskrive saavel Valglisten som Stemmelisten.<lb />
+<law n="39 (§ 35)" />§ 39 (<law n="39 (§ 35)" />§ 35).<lb />
+Efter samtlige Lister sammenlægger den forenede Valgbestyrelse<lb />
+det Stemmeantal, hver af Candidaterne har erholdt. Udfaldet tilføres Valgbogen og kundgiøres for Forsamlingen. Valglisterne tilbageleveres vedkommende Communer; Stemmelisterne bilægges Valgbogen, som underskrives af hele Valgbestyrelsen.<lb />
+<law n="40 (§ 36)" />§ 40 (<law n="40 (§ 36)" />§ 36).<lb />
+Den, som ved den navnlige Afstemning har erholdt flere Stemmer, end nogen Anden, er valgt. Have Flere ligemange Stemmer,<lb />
+afgiør Lodtrækning, som foretages af Formanden.<lb />
+</p>
+<p>
+<speaker>Ordføreren:</speaker> Ved Udkastets § 36, den nye § 32, har Udvalget troet at maatte tae Hensyn til den Mulighed, der jo er<lb />
+given med en foregaaende Bestemmelse i Udkastet, at Candidaten<lb />
+nemlig med anerkjendt Forsald kan være fraværende; i saa Fald<lb />
+synes det nemlig, at den, der har stillet og anbefalet ham, maa<lb />
+have Ret til paa Candidatens Vegne at forlange navnlig Afstemning. Dersom det maa erkjendes, at der ikke er Grund til at negte<lb />
+den Candidat, der i en Valgkreds ene har fremstillet sig, Ret til at<lb />
+forlange den individuelle Afstemning, naar Valgbestyrelsen ikke skiønner,<lb />
+at han har meer end Halvdelen af de ved Haandoprækning Stemmende for sig, saa vil det være nødvendigt eller idetmindste naturligt, at der i Slutningen af Udkastets § 37 bliver tilføiet en særegen<lb />
+Regel for dette Tilfældee, hvilket ogsaa ved Valgloven af 7de Juli<lb />
+1848 var fastsat. I Udvalgets § 34 er blot foreslaaet en noget<lb />
+forandret Affattelse. Naar det nemlig i Slutningen af Udkastets<lb />
+<law n="0" />§ 38 hedder: „Naar Formanden har erklæret Afstemningen for<lb />
+sluttet, tilføre Valgbestyrelsens Medlemmer og sammes Medhiælpere deres egne Stemmer", seer det maaskee lidt underligt ud, at<lb />
+Afstemningen erklæres for sluttet, da det øieblikkelig derefter hedder,<lb />
+at de, der have sluttet Handlingen, selv efter denne Afslutning skulle<lb />
+stemme. Udvalget har derfor troet, at det hellere maatte hedde:<lb />
+„Naar Ingen mere begierer at deeltage i Valget, tilføie<lb />
+Valgbestyrelsens Medlemmer og sammes Medhiælpere deres egne<lb />
+Stemmer."<lb />
+</p>
+<morenext>
+(Fortsættes.)<lb />
+</morenext>
+</rightside>
+<underpage>
+Tryst og forlagt af Kgl. Høibogtrykler Bianco Luno<lb />
+</underpage>
+
+
+
+</pb>

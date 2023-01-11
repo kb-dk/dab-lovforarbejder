@@ -1,0 +1,76 @@
+2515
+<pb n="189" />
+<h>
+<coll>2515</coll>
+<topmidle>Forsl. t L. om Rettens Pleje.</topmidle>
+<colr>2516</colr>
+</h>
+<p>
+Saa vidt muligt gives der Forsvareren, hvor en saadan er antagen eller be-<lb/>
+skikket, betimelig Meddelelse om Retsmøderne. Ligeledes bør der med den i § 806,<lb/>
+2det Punktum, angivne Begrænsning saa vidt muligt gives Forsvareren Lejlighed til for-<lb/>
+inden Retsmødet at gøre sig bekendt med de fremlagte Dokumenter.
+</p>
+<p>
+Udenfor det Tilfælde, som ommeldes i sidste Stykke af § 804, hindres en<lb/>
+Retshandlings Fremme ikke ved, at nogen, som havde Ret til at overvære den,<lb/>
+udebliver.
+</p>
+<wtitle>§ 806.</wtitle>
+<p>
+Politiet, Sigtede og hans Forsvarer have under Iagttagelse af de nærmere<lb/>
+Bestemmelser, Retten maatte give, Adgang til at gøre sig bekendt med Tilførslerne<lb/>
+til Retsbogen og med de til denne fremlagte Aktstykker. Saadan Adgang saavel<lb/>
+som Udskrift kan dog ved Kendelse nægtes Sigtede saavel som hans valgte For-<lb/>
+svarer, naar der er Grund til at befrygte Modvirken af Undersøgelsen ved Fjernelse af<lb/>
+Gerningens Spor, Paavirken af Medsigtede eller Vidner til Afgivelse af urigtig For-<lb/>
+klaring eller paa anden lignende Maade, dog at den i ethvert Tilfælde maa tilstedes<lb/>
+inden Forundersøgelsens Slutning.
+</p>
+<wtitle>§ 807.</wtitle>
+<p>
+Af hørelse af Sigtede saavel som af Vidner og Syns- og Skønsmænd sker ved<lb/>
+Dommeren, medmindre denne tillader andet, Hvor Vidner eller Syns- eller Skøns-<lb/>
+mænd afhøres, kunne Sigtede og Forsvareren begære yderligere Spørgsmaal stillede.<lb/>
+Dommeren kan overlade til den paagældende selv at stille disse.
+</p>
+<p>
+Af de Personers Udsagn, som afhøres, skal det væsentlige Indhold gengives i<lb/>
+Retsbogen; vigtigere Erklæringer af Sigtede og navnlig Tilstaaelser skulle saa vidt<lb/>
+muligt gengives med hans egne Ord; det samme gælder om Forklaringer, der af-<lb/>
+gives af Vidner og Syns- eller Skønsmænd, medmindre de maa antages at skulle af-<lb/>
+høres paany under Domsforhandlingen (Nævningesager). Naar Afhørelsen er endt, op-<lb/>
+læses og vedtages det Retsbogen tilførte.
+</p>
+<p>
+Efter Oplæsningen ere Sigtede og Forsvareren berettigede til at fremføre Be-<lb/>
+mærkninger med Hensyn til den skete Tilførsel. Saadanne Bemærkninger indføres i<lb/>
+Korthed i Retsbogen.
+</p>
+<p>
+Afslag paa Begæring om yderligere Spørgsmaal saavel som Afgørelse af Tviste-<lb/>
+punkter, der opstaa under Forundersøgelsen, sker ved Kendelse.
+</p>
+<p>
+Offentlig Gengivelse af Forhandlinger i Retsmøder under Forundersøgelsen<lb/>
+maa ikke finde Sted, medmindre Retten af særlige Grunde ved Kendelse har givet<lb/>
+Samtykke dertil. Overtrædelse heraf straffes med Bøder fra 100 til 1,000 Kr.
+</p>
+<wtitle>§ 808.</wtitle>
+<p>
+Frafaldes Forfølgningen, eller finder Retten, at Lovens Betingelser for dens<lb/>
+Virksomhed ikke ere til Stede, standses Forundersøgelsen, og fornøden Underretning<lb/>
+meddeles Politiet og Sigtede.
+</p>
+<p>
+Forundersøgelsen sluttes, naar Retten finder, at Undersøgelsen er fremmet saa<lb/>
+vidt, som Øjemedet udkræver, saa og naar Politiet begærer det eller oplyser, at Til-<lb/>
+tale er rejst, Udskrift af Sagen tilligemed dennes Aktstykker tilstilles snarest muligt<lb/>
+Paatalemyndigheden. Underretning om Slutningen meddeles Sigtede.
+</p>
+<p>
+En sluttet Forundersøgelse kan genoptages efter Begæring af Paatalemyndig-<lb/>
+heden eller Sigtede. Indtil Tiltale er rejst, kan Retten ogsaa af egen Drift genoptage<lb/>
+Forundersøgelsen for at træffe Bestemmelse om Ophør af Fængsling eller anden ved-<lb/>
+varende Foranstaltning.
+</p>

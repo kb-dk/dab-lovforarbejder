@@ -1,0 +1,48 @@
+3593
+<pb n="115" />
+<h>
+<coll>3593</coll>
+<topmidle>Forsl. t. L. on, den borgerlige Retspleje.</topmidle>
+<colr>3594</colr>
+</h>
+<title>Syvende Issnit.</title>
+<undertitle>Om Nettens Tvang til Forpligtelsers Opfyldelse</undertitle>
+<title>Førfte Hovedafdeling.</title>
+<undertitle>Gm Gzekution og Tvangsauktisn.</undertitle>
+<title>Kapitel i.</title>
+<undertitle>Almindellge Betingelser for E^ekntion.</undertitle>
+<wtitle>§ 435.</wtitle>
+<p>Erekution kan fte paa Grundlag af:</p>
+<p>1)  Domme og Kjendelser,   affagte   af  lovligt bestaaende   Domstole   i Riget,   faavelsom af<lb />
+andre indenlandske Myndigheder,   der efter Lovene erc befoiedc   til   at   afsige   exigible<lb />
+Kjendelser.</p>
+<p>2)  Forlig, indgaacde   for   de i Riget   lovligt   beftaaende Forligskommissioner, Retter   eller<lb />
+øvrigheder,  for de sidstnævntes Vedkommende dog kun, forsaavidt det ved Lovgivningen<lb />
+er dem paalagt at mægle Forlig i saadannc Tilfælde, faavelsom for Landvæsenskommis-<lb />
+fioner og andre Myndigheder,   om hvilte Lovene   bestemme,   at  de for dem afsluttede<lb />
+Forlig skulle kunne exekveres.</p>
+<p>' 3) Thinglcefte Pantebreve, hvorved der for en bestemt angiven Pengesum gives Pant i<lb />
+fast Eiendom, naar de indeholde Parternes Vedtagelse om, at der uden foregaaende<lb />
+Lovmaal og Dom skal kunne gjores exekution i Pantet, samt ere oprettede eller ved«<lb />
+fjendte for Notarius publicus eller for to Vitterlighedsvidner; Udlæget, som kan ffc ikkc<lb />
+blot for Kapitalen eller Afdrag paa samme, men cgsaa særskilt for Renter, kan dog<lb />
+ikke udsttcekkes til Andet end Pantet.<lb />
+Udpantning   samt Udsættelses-  og Indsættelsesforretninger   uden   foregaaende Lovmaal</p>
+<p>og Dom kunne finde Sted under de i dette Afsnits anden Hovedafdeling angivne Betingelser.</p>
+<wtitle>§ 436.</wtitle>
+<p>Fremdeles kan Gzekution iværksættes   efttr Domme   og Kjendelser,   afsagte   af uden-<lb />
+landske Retter eller andre hertil kompetente udenlandske Myndigheder, naar:</p>
+<p>a)  Parten i det paagjældende Tilfælde ester   de danske Loves Grundsætninger kunde drages<lb />
+for den udenlandske Ret eller Myndighed;</p>
+<p>b)  Dommen eller Kjendelsen efter det paagjældende   fremmede Lands Love   i   den  forelig-<lb />
+gende Skikkelse og Tilstand giver Adgang til Erekution;</p>
+<p>0) Dommen eller Kjendelsen ikke gaar ud paa Noget, hvis Gjennemforelse ved Statens<lb />
+Tvangsmyndighed vilde stride imod ufravigelige Forskrifter eller Grundsætninger i den<lb />
+danske Ret.</p>
+<p>Det bliver at bestemme ved Kgl. Anordning, hvilke Stater der i Henseende til Fuld-<lb />
+byrdelsen af Domme og Kjendelser skulle behandles efter denne Paragraf.</p>
+<p>med Hensyn   til Sverig har  det sit Forblivende ved Lov om Fuldbyrdelse i Konge,<lb />
+tiget Danmark af Domme og Kjendelser, afsagte ved svenske Reiter m. m. af 19de Februar 1861.</p>
+<wtitle>§ 437.</wtitle>
+<p>exekution foretages af Underdommeren,  der  i denne sin Virksomhed benævnes Foged.<lb />
+Ved Exekutionsforretningens Foretagelse har Fogden   at   forge  for,   at   tvende gode</p>

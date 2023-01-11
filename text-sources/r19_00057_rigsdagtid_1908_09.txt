@@ -1,0 +1,69 @@
+2251
+<pb n="57" />
+<h>
+<coll>2251</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2252</colr>
+</h>
+<wtitle>§ 235.</wtitle>
+<p>
+Sager, hvorunder der paastaas Straf, Erstatning eller Oprejsning i Anledning<lb/>
+af retsstridige Skadetilføjelser eller andre Retskrænkelser, kunne anlægges paa det<lb/>
+Sted, hvor Skadetilføjelsen eller Retskrænkelsen er foregaaet, eller, naar den har<lb/>
+været udøvet i flere Retskredse, i hvilken som helst af disse.
+</p>
+<wtitle>§ 236.</wtitle>
+<p>
+Naar flere Sagvoldere skulle eller dog kunne sagsøges under eet, og Sagen imod<lb/>
+dem ikke ifølge denne Lov kan indbringes for andet Værneting, kan den anlægges<lb/>
+ved enhver Ret, som for nogen af Sagvolderne er Hjemting.
+</p>
+<wtitle>§ 237.</wtitle>
+<p>
+Kan Sagen i Medhold af denne Lov anlægges ved flere forskellige Retter, har<lb/>
+Sagsøgeren Valget, for saa vidt ikke andet fremgaar af Lovens Forskrifter.
+</p>
+<wtitle>§ 238.</wtitle>
+<p>
+Naar Parterne vedtage det, kunne de indbringe deres Sag for hvilken af samt-<lb/>
+lige ligeartede Retter i første Instans de ville, uden at Rettens Samtykke behøves.
+</p>
+<wtitle>§ 239.</wtitle>
+<p>
+Udlændinge kunne sagsøges her i Riget, for saa vidt nogen Ret ifølge de for-<lb/>
+anstaaende Regler kan anses som Værneting i Sagen.
+</p>
+<p>
+Gives der ingen Ret i Riget, ved hvilken Sagen imod Udlændingen herefter<lb/>
+kan anlægges, skal det, for saa vidt ikke særlige traktatmæssige Bestemmelser ere til<lb/>
+Hinder derfor, være Indlændinge tilladt i Sager angaaende Formueretsforhold at sag-<lb/>
+søge Udlændingen i den Retskreds, hvor han ved Stævningens eller Forligsindkaldelsens<lb/>
+Forkyndelse opholder sig eller har Gods.
+</p>
+<p>
+Med Hensyn til svenske Undersaatter har det sit Forblivende ved Lov om<lb/>
+svenske Dommes Fuldbyrdelse m. v. af 19. Februar 1861 § 6.
+</p>
+<title>Kapitel 22.</title>
+<undertitle>
+Forening af flere Krav under samme Retssag.
+</undertitle>
+<wtitle>§ 240.</wtitle>
+<p>
+Flere Krav af samme Sagsøger mod samme Sagvolder kunne fra først af for-<lb/>
+enes under een Retssag, selv om de hvile paa forskellige faktiske og retlige Grunde og<lb/>
+ere af ulige Beskaffenhed, naar Retten er kompetent med Hensyn til dem alle, og<lb/>
+samme Procesart er anvendelig paa dem.
+</p>
+<wtitle>§ 241.</wtitle>
+<p>
+Under samme Betingelser kunne flere Parter fra først af sagsøge eller sag-<lb/>
+søges i Forening under samme Retssag; dog udfordres endvidere hertil, for saa vidt<lb/>
+Kravene ikke have fælles Oprindelse eller særlig Lovforskrift hjemler deres Forening,<lb/>
+at ingen af Parterne gør Indsigelse derimod.
+</p>
+<p>
+Anlægges Sag mod nogen af de i § 229 nævnte Korporationer, Foreninger<lb/>
+eller Selskaber, kan Ansvar, der udspringer af samme Retsforhold, under Sagen gøres<lb/>
+gældende mod Bestyrelsens Medlemmer personlig, uden Hensyn til deres Værneting.
+</p>

@@ -1,0 +1,48 @@
+3609
+<pb n="123" />
+<h>
+<coll>3609</coll>
+<topmidle>Forsl. t. L. om dm borgerlige Retspleie.</topmidle>
+<colr>3610</colr>
+</h>
+<p>Dog skal ovenstaaende Forskrift ikke medføre nogen Indskrænkning i den hidtil be-<lb />
+staaende Adgang til for Underholdningsbidrag til børn, forladte og fraseparerede Hustruer,<lb />
+at holde sig til Skyldnerens Arbeids- eller tjenesteløn eller lignende Indtægt.</p>
+<wtitle>§ 470.</wtitle>
+<p>I saadant Gods, som ellers ifølge dets Natur kunde være Gjenstand for Exekution,<lb />
+kan udlæg ikke gjøres, naar det ved Retshandler med Trediemand eller ved dennes Be-<lb />
+stemmelser retsgyldige« er fastsat, at Kreditorer ikke kunne føge Fyldestgørelse i Godset.</p>
+<wtitle>§ 471.</wtitle>
+<p>I endnu ikke forfalden Embeds- eller Bestillingsløn eller i lignende Indtægter samt<lb />
+i ikke forfaldne Ventepenge, Pensioner og hermed i Klasse staaende Understøttelser, som ud-<lb />
+redes af Statskassen, Kommunekasser eller andre offentlige Kasser, kan Udlæg ikke gives.</p>
+<wtitle>§ 472.</wtitle>
+<p>Undtagne fra Exekution ere fremdeles: I) De militære Underklassers Tjenesteemo-<lb />
+lumenter i Overensstemmelse med Lov 21de Marts 1874 § 2, 2) Dagpenge og lignende<lb />
+Udredelser til Embedsmand eller Andre, som udfore offentlige Hverv, samt Reiseudgifter og<lb />
+Tcerepenge, der ere udbetalte til indkaldte Vidner eller Synsmand, 3) Underholdningspeng?, som<lb />
+ifølge øvrighedsresolution, Forlig eller anden lignende Bestemmelse udredes til Hustruer eller<lb />
+Born, 4) Understottelse og hjælp til Trængende, som gives af Stiftelser eller andre veldæ-<lb />
+dige Indretninger faavelsom al Fattigunderstøttelse, 5) Midler og Penge, der udenrigs fra<lb />
+indsættes i Nationalbanken, samt Klasselotterigevinster.</p>
+<wtitle>§ 473.</wtitle>
+<p>Livrenter, Overlevelsessesrenter, Livsforsikkringssummer og lignende mod Vederlag er-<lb />
+hvervede Indtægter ere, forsaavidt ikke Andet ved Retsforholdets Stiftelse retsgyldige« er be-<lb />
+stemt eller vedtaget af Parterne, ikke undtagne fra Exekution, medmindre fcrrlig Lovhjemmel<lb />
+derfor kan paavises.</p>
+<title>Kapitel III.</title>
+<undertitle>Om Exekutionsforretningens Foretagelse og om Proceduren under samme.</undertitle>
+<wtitle>§ 474.</wtitle>
+<p>Er det fornødne Exekutionsgrundlag tilstede, og finder Fogden ikke iøvrigt Noget til<lb />
+Hinder for at efterkomme Begjæringen om exekution, berammer han en Tid til Forretning<lb />
+gens Foretagelse, saavidt muligt i Overensstemmelse med Domhaverens ønste.</p>
+<p>Exekutionsforretningen skal i Reglen begynde paa Domfældtes Bopæl, medmindre<lb />
+Fogden skjønner, at der ifølge de foreliggende Omstændigheder er Anledning til Afvi-<lb />
+gelse herfra.</p>
+<p>Naar Dommen lyder paa Udlevering eller Afstaaelse af Ting, kan Exekutionsforret-<lb />
+ningen begynde, hvor disse forefindes.</p>
+<p>Har Domfældte ingen Bopæl i Riget, kan exekutionsforretningen begynde, hvor<lb />
+Domfældte antræffes, eller hvor Ting, som kunne tjene til Fyldestgørelse, forefindes.</p>
+<wtitle>§ 475.</wtitle>
+<p>Forretningen kan ikke fremmes, medmindre der under den gives behørigt møde fra<lb />
+Domhaverens Side.</p>

@@ -1,0 +1,44 @@
+174
+<pb n="180" />
+<h>
+<topmidle>174        &nbsp;Kap. XL.    Arrest.</topmidle>
+</h>
+<p>rørligt Gods, når de arresterede Genstandes<lb />
+Beskaffenhed eller Skyldnerens Person og<lb />
+Forhold opfordre dertil, bestemme, at de<lb />
+arresterede Genstande skulle tages under Bevogtning af ham selv eller af Nogen, der<lb />
+hertil as ham beskikkes på Skyldnerens<lb />
+Bekostning.</p>
+<wtitle>§ 465.</wtitle>
+<p>Arrest på Person sker ved Hensættelse i Gældsfængsel ved Fogdens Foranstaltning. Hvis Skyldneren ved Henførelsen<lb />
+til eller Opholdet i Gældsfængslet vilde<lb />
+lide Skade på Helbred, kan Gældsfængsel<lb />
+ikke anvendes eller kun med sådanne<lb />
+Lempelser, som Fogden skønner fornødne.</p>
+<p>I Gældsfængslet må der ikke pålægges Skyldneren anden Indskrænkning i<lb />
+Henseende til hans Levevis, end Fængslets<lb />
+Orden med Nødvendighed kræver.</p>
+<wtitle>§ 466.</wtitle>
+<p>Gældsfængsel kan ikke anvendes, når<lb />
+en til Fordringens Størrelse svarende<lb />
+Sikkerhed kan fåes ved Arrest på Gods.</p>
+<wtitle>§ 467.</wtitle>
+<p>Arrest på Person kan ikke anvendes<lb />
+for Fordringer, der ere mindre end<lb />
+100 Kr.</p>
+<p>For Fordringer under 200 Kr. må<lb />
+Fængslingens Varighed ikke overstige 4 Uger,<lb />
+for Fordringer under 400 Kr. 8 Uger,<lb />
+for Fordringer under 1000 Kr. 12 Uger,<lb />
+for Fordringer under 2000 Kr. 16 Uger,<lb />
+for Fordringer under 4000 Kr. 20 Uger,<lb />
+for større Fordringer 24 Uger.</p>
+<wtitle>§ 468.</wtitle>
+<p>Selv   om   de i foregående Paragraf<lb />
+angivne   Tider   ikke   ere  forløbne, ophører<lb />
+Skyldnerens Fængsling i alle Tilfælde:<lb />
+1)   såsnart Eksekution   kan   gøres for den<lb />
+Fordring, til Sikkerhed for hvilken Arresten   er   foretaget,   enten  i Følge en<lb />
+under Arrestforfølgningssagen eller på<lb />
+anden   Måde   erhvervet   Dom   eller i<lb />
+Følge et offentlig Forlig;</p>

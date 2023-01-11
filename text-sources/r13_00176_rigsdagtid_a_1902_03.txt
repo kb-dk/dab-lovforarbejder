@@ -1,0 +1,76 @@
+2079
+<pb n="176" />
+<h>
+<coll>
+2079
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2080
+</colr>
+</h>
+<p>
+Spørgsmaal til Besvarelse. Tillige meddeles der dem de fornødne Oplysninger af<lb />
+Sagens Aktstykker og fastsættes en Frist til Erklæringens Afgivelse. Anse de yder-<lb />
+ligere Oplysninger fornødne, kunne de derom henvende sig til Retten.
+</p>
+<p>
+Vil Foretagelsen af et Syn eller Skøn medføre Tilintetgørelse eller Forandring<lb />
+af dets Genstand, bør saa vidt muligt en Del af denne holdes uden for Undersøgelsen.<lb />
+Lader dette sig ikke gøre, bør Syns- eller Skønsmændenes Antal ikke være under to.
+</p>
+<p>
+De gældende Regler om Obduktionsforretninger blive fremdeles staaende<lb />
+ved Magt.
+</p>
+<wtitle>§  792.</wtitle>
+<p>
+Hvor Erklæring afgives af to eller flere Syns- eller Skønsmænd, bør, hvis Mæn-<lb />
+dene ikke ere enige, hver enkelts Mening fremgaa af Erklæringen.
+</p>
+<p>
+Afhørelse af Syns- og Skønsmænd sker efter Reglerne om Afhørelse af Vid-<lb />
+ner; dog kunne Mændene som Regel overvære hverandres saavel som Vidners Af-<lb />
+hørelse, og det kan af Retten tilstedes dem at raadføre sig med hverandre, forinden<lb />
+de svare.
+</p>
+<p>
+I Henseende til Syns- og Skønsmænds Mødepligt finde Reglerne i §§ 769 og<lb />
+771 tilsvarende Anvendelse.
+</p>
+<wtitle>§  793.</wtitle>
+<p>
+Syns- og Skønsmænd have at bekræfte deres Syn eller Skøn med Ed eller,<lb />
+under de i § 776 angivne Betingelser, med en paa Ære og Samvittighed afgiven For-<lb />
+sikring. Uden for Domsforhandling finder saadan Bekræftelse dog kun Sted, naar<lb />
+Mændenes Erklæring eller Forklaringer maa ventes at skulle benyttes som Bevis under<lb />
+Domsforhandling uden personligt Møde af Mændene under denne; i saa Fald skal et<lb />
+Retsvidne saa vidt muligt tilkaldes, overensstemmende med § 736, saafremt en særlig<lb />
+Retsskriver ikke er til Stede. Er Syn eller Skøn afgivet i Henhold til en almindelig<lb />
+Beskikkelse hertil, bortfalder Bekræftelsen. Denne gaar ud paa, at Mændene have<lb />
+udført deres Hverv og afgivet deres Erklæring eller Forklaringer efter Samvittighed<lb />
+og bedste Overbevisning.
+</p>
+<wtitle>§  794.</wtitle>
+<p>
+At Syn eller Skøn har fundet Sted, udelukker ikke fornyet Syn eller Skøn<lb />
+over samme Genstand ved de samme eller andre Mænd.
+</p>
+<wtitle>§  795.</wtitle>
+<p>
+Naar en Sjus- eller Skønsmand uden lovligt Forfald udebliver fra Retsmøde<lb />
+eller uden lovlig Grund vægrer sig ved at udføre Hvervet eller undlader at foretage<lb />
+noget, som paahviler ham i Anledning af dette, eller vægrer sig ved at svare paa de<lb />
+Spørgsmaal, som stilles til ham i Retten, eller ved at bekræfte sin Erklæring eller<lb />
+Forklaring med Ed eller Forsikring, hvor saadant er foreskrevet, finde Reglerne i<lb />
+§§ 774 og 781 Anvendelse med de fornødne Lempelser.
+</p>
+<wtitle>§  796.</wtitle>
+<p>
+Er der Tvivl om en Sigtets Tilregnelighed, kan Retten ved Kendelse bestemme,<lb />
+at han skal indlægges paa et Sygehus eller en Sindssygeanstalt til nærmere Under-<lb />
+søgelse, naar lægekyndige — efter Omstændighederne Sundhedskollegiet — erklære<lb />
+sig derfor.
+</p>

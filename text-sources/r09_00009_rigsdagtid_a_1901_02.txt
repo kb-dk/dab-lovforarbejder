@@ -1,0 +1,69 @@
+2165
+<pb n="9" />
+<h>
+<coll>2165</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2166</colr>
+</h>
+<title>Kapitel VI.</title>
+<undertitle>
+Rettergangsfuldmægtige.
+</undertitle>
+<wtitle>§ 45.</wtitle>
+<p>
+Sagførere ere eneberettigede til at møde i Retten som Fuldmægtige for Par-<lb/>
+terne; dog kan der mødes af Værger for umyndige og umyndiggjorte, af Kuratorer<lb/>
+for mindreaarige, af faste Lavværger for Enker, ved Ægtefælle, beslægtede og besvog-<lb/>
+rede i anden Grad af Sidelinien 'eller nærmere samt ved Personer, der staa i fast<lb/>
+Tjenesteforhold til Parten, saaledes at de ere antagne af ham for ikke kortere Tid<lb/>
+end en Maaned.
+</p>
+<p>
+Den, der foregiver at staa i et af de ovennævnte Forhold til Parten, maa<lb/>
+være rede til at føre Bevis herfor, naar det af Retten eller Modparten forlanges; dog<lb/>
+kan Retten undtagelsesvis tilstaa en passende Udsættelse hertil.
+</p>
+<wtitle>§ 46.</wtitle>
+<p>
+Endvidere er det under Skiftebehandlinger tilladt at lade møde for sig ogsaa<lb/>
+ved andre end de i foregaaende Paragraf omhandlede Personer, og det samme gælder<lb/>
+under Fogedforretninger, derunder Auktionsforretninger, for dens Vedkommende, imod<lb/>
+hvem Retshandlingen er rettet, og under sidstnævnte Forretninger for de bydendes<lb/>
+Vedkommende.
+</p>
+<wtitle>§ 47.</wtitle>
+<p>
+Den, der uden at være Sagfører møder som Fuldmægtig for Parten, maa være<lb/>
+personlig myndig og uberygtet.
+</p>
+<p>
+Retten har paa Embeds Vegne at afvise Personer, der ikke ere berettigede til<lb/>
+for den at give Møde for andre, og at tilbagevise Processkrifter, der ere underskrevne<lb/>
+af andre end Parten og de foran nævnte mødeberettigede Personer.
+</p>
+<wtitle>§ 48.</wtitle>
+<p>
+Det, der i § 44 er bestemt om Rettens Myndighed til at tilbagevise en Parts<lb/>
+Processkrifter eller til at udelukke Parten selv fra den mundtlige Forhandling, skal under<lb/>
+Uge Betingelser gælde med Hensyn til Rettergangsfuldmægtige, der ikke ere Sagførere.
+</p>
+<wtitle>§ 49.</wtitle>
+<p>
+En Rettergangsfuldmægtigs Handlinger eller Undladelser ere, for saa vidt som<lb/>
+de falde inden for Bemyndigelsens Grænser, lige saa bindende for Parten, som om de<lb/>
+vare foretagne af denne selv.
+</p>
+<p>
+Dog kunne Tilstaaelser eller andre Erklæringer om det faktiske i Sagen, som<lb/>
+fremkomme under de mundtlige Forhandlinger, tilbagekaldes eller berigtiges af Parten<lb/>
+selv, naar dette sker straks og umiddelbart efter at Partens Rettergangsfuldmægtig<lb/>
+har talt.
+</p>
+<wtitle>§ 50.</wtitle>
+<p>
+Rettergangsfuldmægtigens Bemyndigelse til at handle for en Part ophæves i<lb/>
+Forhold til Modparten ikke derved, at Parten er død, kommen under Konkurs eller<lb/>
+har mistet sin Myndighed til at raade over Sagen, ej heller derved, at Parten er<lb/>
+bleven myndig til selv at raade over Processen, men kun ved en Tilkendegivelse til<lb/>
+Modparten om Befuldmægtigelsens Ophør.
+</p>

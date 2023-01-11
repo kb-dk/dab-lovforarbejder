@@ -1,0 +1,61 @@
+278
+<pb n="14" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>278</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 54.</wtitle>
+<p>
+Når nogen af de i § 53 nævnte Embedsmænd på Grund af Inhabilitet er<lb/>
+udelukket, beskikker vedkommende Rets Formand i fornødent Fald en Mand, som har<lb/>
+de i § 53, 3die Stykke, angivne Egenskaber, til at fungere i Sagen.
+</p>
+<wtitle>§ 55.</wtitle>
+<p>
+Klage over en Justitssekretærs og i København over Pante- og Brevskriverens Afgørelser fremsættes inden 6 Måneder for den Ret, ved hvilken han er ansat. Efter at<lb/>
+have modtaget den pågældende Embedsmands Erklæring afgør Retten, for Københavns<lb/>
+Byrets Vedkommende Rettens Formand, Sagen ved Kendelse. Mod denne Kendelse kan<lb/>
+rejses Kæremål. Hvor Retsskriverforretningerne påhvile Dommeren, afgøres deslige<lb/>
+Klager ved Kære. Dette gælder også om Klager over Afgørelser af de i § 17, 2det Punktum, nævnte særlige Retsskrivere. Kærefristen er i de 2 sidstnævnte Tilfælde 6 Måneder.
+</p>
+<p>
+Med Hensyn til Retsskriveres og Pante- og Brevskriverens Ansvar til Straf og<lb/>
+Erstatning for Overtrædelse af deres Embedspligter finde Reglerne i § 48 tilsvarende<lb/>
+Anvendelse.
+</p>
+<wtitle>§ 56.</wtitle>
+<p>
+Til Retsmøder, der i Straffesager afholdes af en Ret, som beklædes af Enkeltdommer, skal, såfremt ingen særlig Retsskriver er til Stede, en Stævningsmand i eller<lb/>
+udenfor Retskredsen eller i Mangel af en sådan en fuldmyndig, uberygtet Mand i<lb/>
+selvstændig Stilling af Dommeren tilkaldes som Retsvidne. Kan en sådan ikke straks<lb/>
+komme til Stede, bliver Retshandlingen at udsætte, medmindre dens Øjemed derved vilde<lb/>
+stå i Fare for at forspildes. Tilkaldelse af Retsvidne kan fremdeles undlades, når<lb/>
+der er beskikket en Forsvarer for Sigtede, eller denne selv har antaget en sådan, medmindre den valgte Forsvarer ifølge § 804 Nr. 3 er udelukket fra Retsmødet eller dette<lb/>
+holdes for lukkede Døre og Tilkaldelsen forlanges enten af Sigtede eller Forsvareren.<lb/>
+I sidstnævnte Tilfælde skal der, når Ønske derom fremsættes og Omstændighederne<lb/>
+tillade det, tilkaldes en anden end en Stævningsmand.
+</p>
+<p>
+Dommeren sørger så vidt muligt for, at Tilkaldelsen af andre end Stævningsmændene sker efter Omgang; kun i Nødsfald kan en Person tilkaldes til at fungere<lb/>
+flere Dage efter hinanden. Hvor Forholdene tillade det, bør der gives ham et passende<lb/>
+Varsel. Udebliver et tilkaldt Retsvidne uden lovligt Forfald eller uden betimelig Anmeldelse herom, kan det straffes med en Bøde af indtil 20 Kr. Dommeren kan pålægge<lb/>
+Retsvidnerne at iagttage Tavshed om, hvad de ved Retshandlingen erfare om Undersøgelsens Genstand; Overtrædelse af et sådant Pålæg straffes med Bøder indtil 100 Kr.
+</p>
+<p>
+Retsvidner have Krav på samme Godtgørelse som i § 183 foreskrevet for Vidner.<lb/>
+Den Retten i § 183, 3die Punktum, givne Beføjelse til at tilstå et Vidne passende<lb/>
+højere Godtgørelse end den almindelige skal uden Hensyn til, om den der nævnte Betingelse er til Stede, kunne anvendes ved tilkaldte Retsvidner, når det skønnes, at<lb/>
+Tilkaldelsen har medført større Tab eller uforholdsmæssigt Besvær eller Ulempe for<lb/>
+den tilkaldte.
+</p>
+<wtitle>§ 57.</wtitle>
+<p>
+Ved Højesteret, Landsretterne, Sø- og Handelsretten i København og Københavns Byret ansætter Rettens Formand det fastsatte Antal Retsbude. Ved hver Underret<lb/>
+udenfor København ansætter vedkommende Dommer et Retsbud.
+</p>
+<wtitle>§ 58.</wtitle>
+<p>
+I hver af de i § 12 ommeldte Retskredse ansættes det fornødne Antal Stævningsmænd.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

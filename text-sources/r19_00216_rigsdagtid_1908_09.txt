@@ -1,0 +1,71 @@
+2569
+<pb n="216" />
+<h>
+<coll>2569</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>2570</colr>
+</h>
+<p>
+forkyndt. Meddelelsen kan, naar den foregaar straks ved Dommens Afsigelse eller<lb/>
+Forkyndelse, fremsættes mundtlig henholdsvis til Retsbogen eller til den, som iværk-<lb/>
+sætter Forkyndelsen, og som i saa Fald har at optage fornøden Bemærkning i For-<lb/>
+kyndelsespaategningen. Ellers indgives Meddelelsen skriftlig, underskreven af Tiltalte,<lb/>
+paa Paatalemyndighedens eller Landsrettens Kontor; er Tiltalte fængslet, kan den dog<lb/>
+ogsaa fremsættes mundtlig til den Undersøgelsesrets Retsbog, i hvis Kreds Fængslet<lb/>
+ligger, eller til Fængselsbestyrerens Bog (§ 826). Hvor Tiltaltes Ankemeddelelse er<lb/>
+fremsat til sidstnævnte Bog eller til en Retsbog eller indgiven paa Landsrettens Kontor,<lb/>
+bliver henholdsvis Udskrift af Tilførslen eller den modtagne Ankemeddelelse uden<lb/>
+Ophold at tilstille Paatalemyndigheden.
+</p>
+<p>
+Snarest muligt efter Modtagelsen af Ankemeddelelsen lader Paatalemyndigheden<lb/>
+for Tiltalte forkynde en saadan Tilkendegivelse, som ommeldt i § 924, 3die Stykke, og<lb/>
+tilstiller, for saa vidt Ankemeddelelsen ikke allerede har passeret Landsrettens Kontor,<lb/>
+dette Underretning om Anken.
+</p>
+<wtitle>§ 926.</wtitle>
+<p>
+En Anke, hvorom Meddelelse ikke er sket inden den i §§ 924 og 925 fore-<lb/>
+skrevne Frists Udløb, bliver af Højesteret at afvise, medmindre den ankende gør<lb/>
+antageligt, at den Omstændighed, hvorpaa Anken grundes, først senere er bleven ham<lb/>
+bekendt, eller at Fristens Oversiddelse i øvrigt skyldes Grunde, som ikke kunne til-<lb/>
+regnes ham. Ankemeddelelsen — som maa indeholde fornøden Angivelse herom —<lb/>
+maa derhos iværksættes inden fjorten Dage, efter at han er bleven bekendt med Anke-<lb/>
+grunden, eller efter at de Omstændigheder ere fjernede, som have foranlediget Over-<lb/>
+siddelsen af Fristen.
+</p>
+<p>
+Er der i en Ikke-Nævningesag fra den ene Side rejst Anke, som ikke om-<lb/>
+fatter Bevisbedømmelsen, kan Modparten, selv om den ellers foreskrevne Ankefrist<lb/>
+for hans Vedkommende er udløben, indenfor 4 Dage, efter at han har modtaget Med-<lb/>
+delelse om Anken, paaanke Dommens Afgørelse af Bevisspørgsmaalet.
+</p>
+<wtitle>§ 927.</wtitle>
+<p>
+Enten i selve Ankemeddelelsen eller i en yderligere Meddelelse, der maa af-<lb/>
+gives inden Udløbet af den i §§ 924 og 925 bestemte Frist og paa en af de Maader,<lb/>
+som der bestemt, maa den ankende angive den eller de Grunde, hvorpaa han støtter<lb/>
+sin Anke. Hvor særegne Grunde findes at tale derfor, kan Højesteret give ham Ad-<lb/>
+gang til at afgive Begrundelse af Anken efter ovennævnte Frists Udløb.
+</p>
+<p>
+Skal i en Ikke-Nævningesag Anken omfatte Bevisbedømmelsen, kræves ingen<lb/>
+nærmere Angivelse af Ankegrund.
+</p>
+<wtitle>§ 928.</wtitle>
+<p>
+Ankemeddelelse før Udløbet af den i §§ 924 og 925 foreskrevne Frist hindrer<lb/>
+Dommens Fuldbyrdelse for de domfældtes Vedkommende, hvem Anken angaar.
+</p>
+<p>
+Sker Ankemeddelelse i Henhold til § 926, kan Højesteret paa derom fremsat<lb/>
+Begæring beslutte, at Fuldbyrdelsen skal udsættes eller standses; dette finder i hvert<lb/>
+Fald Sted, naar Anke tilstedes.
+</p>
+<wtitle>§ 929.</wtitle>
+<p>
+Saa snart Paatalemyndigheden har ladet forkynde de foreskrevne Meddelelser<lb/>
+for Tiltalte (§§ 924 og 927) eller har modtaget dennes Ankemeddelelse med tilhørende<lb/>
+Begrundelse, indsender den samme til Højesteret tilligemed Landsretssagens Aktstykker<lb/>
+og Udskrift af Domsforhandlingen.
+</p>

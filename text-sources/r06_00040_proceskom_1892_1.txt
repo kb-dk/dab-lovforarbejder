@@ -1,0 +1,50 @@
+40
+<pb n="40" />
+<rightside>
+<pagename>38
+</pagename>
+<title>Kap. X.
+</title>
+<undertitle>Sagføreres Rettigheder og Pligter.
+</undertitle>
+<wtitle>§  105.
+</wtitle>
+<p>Sagførerne ere paa den Maade og<lb />
+med de Begrænsninger, som i Rettergangslovene bestemmes, eneberettigede til at udføre Retssager for Andre. En Bemyndigelse<lb />
+til i eget Navn at indtale en Fordring eller<lb />
+anden Rettighed („Mandatarfuldmagt") kan<lb />
+ikke give den, hvem Bemyndigelsen er given,<lb />
+Net til selv at møde i Sagen, naar han<lb />
+ikke er en til Mode ved den paagældende<lb />
+Domstol berettiget Sagfører.
+</p>
+<p>Indgreb i Sagførernes Eneret, derunder<lb />
+indbefattet, at Nogen uberettiget offentlig betegner sig som Sagfører, anses med Bøder<lb />
+fra 50 til 200 Kr., hvilken Straf, naar<lb />
+Forseelsen er sket gennem Proformaretshandler, ved hvilke det er givet Udseende af,<lb />
+at Vedkommende optræder som Transporthaver, kan stige til 500 Kr. Overenskomster<lb />
+om, at Transportgiveren stal betale Bøden,<lb />
+ere ugyldige, og det i Tilfælde af saadant<lb />
+Proformaværk tilsagte Vederlag for Udførelse<lb />
+af Sager kan ikke syges betalt, samt kan,<lb />
+hvis det er erlagt, søges tilbage.
+</p>
+<wtitle>§ 106.
+</wtitle>
+<p>Ingen Sagfører er, bortset fra de Tilfælde, hvor han hertil kan beordres, pligtig<lb />
+at paatage sig Udførelsen af en Retssag.
+</p>
+<wtitle>§ 107.
+</wtitle>
+<p>Sagførere ere pligtige med Flid og<lb />
+Troskab at udføre de dem betroede Forretninger. De ere pligtige at fremme de<lb />
+dem betroede Retssager med den Hurtighed,<lb />
+som Tilfældets Beskaffenhed tillader. De<lb />
+maa som en Følge heraf ikke forhale Sagerne ved unødvendige Udsættelser, grundløse<lb />
+Formalitetsindsigelser eller andre Udflugter.<lb />
+De ere pligtige at vise Retten Hensyns-fuldhed og Agtelse. De skulle afholde sig<lb />
+fra usømmelig Tale og Skrivemaade for<lb />
+Retten og efterkomme de Paalæg, som særlig<lb />
+gives dem af Retten i Medfør af Rettergangslovene.
+</p>
+</rightside>

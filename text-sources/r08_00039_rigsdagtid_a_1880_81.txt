@@ -1,0 +1,49 @@
+3441
+<pb n="39" />
+<h>
+<coll>3441</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3442</colr>
+</h>
+<wtitle>§ 22.</wtitle>
+<p>søgsmaal, som gaa ud paa at gjøre Arverettigheder eller Fordringer paa Legater<lb />
+eller Dodsgaver gjældende, eller som paa anden Maade angaa Delingen af Dsdsboer, saavel<lb />
+som søgsmaal, hvorved Fordringer paa Arveladeren gjøres gjældende mod Arvingerne som<lb />
+saadanne, kunne anlægges ved den Ret, som i Dodssieblikket var den Afdodes Hjemthing.</p>
+<wtitle>§ 23.</wtitle>
+<p>søgsmaal til Tilbagebetaling af, hvad Nogen som Arving eller Kreditor i et under<lb />
+offentlig Skiftebehandling ftaaende Bo ifolge forelsbigt Udlæg eller endelig Udlodning, som<lb />
+senere i det Hele eller for en Del er funden urigtig, har modtaget, kan anlægges ved Retten<lb />
+paa det Sted, hvor Skiftet holdtes.</p>
+<wtitle>§ 24.</wtitle>
+<p>Den, der i medfør af offentligt eller privat Hverv har  havt   andres Midler  under</p>
+<p>Forvaltning eller skal aflægge Regnskab for dem, kan sagsoges for sin  Forvaltning   eller   sit</p>
+<p>Regnstab ved Retten paa det Sted, hvorfra Forvaltningen er fort,   eller hvor Regnskabet<lb />
+skulde aflægges.</p>
+<p>Sammesteds kunne ogsaa anlægges Sager, som i Anledning  af Forvaltningen eller<lb />
+Regnskabet reises sf den, der har fort samme, imod den, for hvem han har fort den eller det.</p>
+<wtitle>§ 25.</wtitle>
+<p>Sogsmaal til Opfyldelse eller Ophcevelse af en Retshandel eller i Anledning af dens<lb />
+Misligholdelse eller ikke behørige Opfyldelse kunne anlægges ved Retten paa det Sted, hvor<lb />
+Retshandelen ifølge Parternes udtrykkelige eller skiltiende Vedtagelse, ifolge Lovenes Bestem-<lb />
+melser eller Iøvrigt ifølge de foreliggende Omstændigheder skulde opfyldes.</p>
+<p>Tilkommer der Sagsøgte et Valg mellem flere bestemte Ovfyldelsessteder, kan Sagen,<lb />
+saalænge Sagsøgte ikke maa anses at have erklæret sig for et af dem, anlægges ved Retten<lb />
+paa ethvert af disse Steder.</p>
+<wtitle>§ 26.</wtitle>
+<p>Sager, hvorved der søges Erstatning eller Opreisning i Anledning af retsindige<lb />
+Ekadetilfsielser eller andre Retskrænkeløn, kunne anlægges paa det Sted, hvor Skadetilfoielsen<lb />
+eller Retskrænkelsen er foregaaet. Har den retsstridige Skadetilfsielse eller Retskrænkelsen,<lb />
+hvorover der klages, været udsvet i flere Retskredse, kan Sagen anlægges i hvilkensom-<lb />
+helst af disse.</p>
+<wtitle>§ 27.</wtitle>
+<p>Modfordringer, forsaavidt disse ifølge § 1l)1 kunne fremsættes, behandles ved den<lb />
+Ret, hvor Hovedsagen er anhængiggjort, saafremt denne ikke ifølge Modfordringens Beskaffen-<lb />
+hed er udelukket fra at kunne paakjende den, jfr. § 4.</p>
+<wtitle>§ 28.</wtitle>
+<p>Naar flere Sagvoldere skulle eller dog kunne sagsøges under Eet, og Sagen ikke<lb />
+ifolge denne Lov har noget særligt værnething, kan den anlægges ved enhver Ret, som for<lb />
+nogen af Sagvolderne er Hjemthing.</p>
+<wtitle>§ 29.</wtitle>
+<p>Den i § 594 1ste Stykke omhandlede Arrestforfølgningssag kan anlægges ved Ret-<lb />
+ten paa det Sted, hvor Arresten er  gjort,   eller,   dersom  den udstrækkes   til Gjenstande,  der</p>

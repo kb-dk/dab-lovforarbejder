@@ -1,0 +1,65 @@
+2187
+<pb n="25" />
+<h>
+<coll>2187</coll>
+<topmidle>Forsl. t. L om Rettens Pleje.</topmidle>
+<colr>2188</colr>
+</h>
+
+<wtitle>§  101.</wtitle>
+<p>
+llettens Formand kan meddele en Nævning Orlov under Samlingen for en<lb/>
+bestemt Tid.
+</p>
+<wtitle>§ 102.</wtitle>
+<p>
+Viser det sig under Tinget, at det til en Sag fornødne Antal (§ 94 sml. m. § 839)<lb/>
+ikke kan skaffes til Veje ved Indkaldelse af de tilsagte Hjælpenævninger. foranstalter<lb/>
+Rettens Formand Tallet udfyldt ved Lodtrækning blandt de paa Aarslisten opførte<lb/>
+Personer, som ere bosatte paa eller nær ved det Sted. hvor Retten holdes. Herved<lb/>
+bliver Reglen i § 87 at iagttage. De udtrukne Navne tilføres Hjælpelisten og med-<lb/>
+deles straks de beskikkede Anklagere, den eller de Tiltalte og deres beskikkede For-<lb/>
+svarere, hvorhos de paagældende straks indkaldes efter Reglerne i § 89 med Aftens<lb/>
+Varsel.
+</p>
+<wtitle>§ 103.</wtitle>
+<p>
+Ved Tingets Slutning lader Rettens Formand Navnene paa de Nævninger, der<lb/>
+efter Indkaldelse have givet behørigt Møde paa Tinget og ikke her efter Begæring<lb/>
+paa Grund af en midlertidig Forhindring ere blevne fritagne for at gøre Tjeneste i<lb/>
+Henhold til § 72 Nr. 9. udstryge paa Aarslisten. De saaledes udstrøgne ere kun for-<lb/>
+pligtede til paa ny at møde som Nævninger indenfor samme Nævningeaar, naar der<lb/>
+ikke længere paa Aarslisten findes opført mindst 88 Nævninger. De blive i saa Til-<lb/>
+fælde alle at medtage ved Lodtrækningen. Tillige meddeles der de ovenmeldte<lb/>
+Nævninger paa Forlangende uden Betaling Vidnesbyrd af Rettens Skriver om, at de<lb/>
+have givet behørigt Møde under Tinget.
+</p>
+<wtitle>§ 104.</wtitle>
+<p>
+Der tilkommer Nævninger 3 Ivr. for hver Dag, de i Anledning af Nævninge-<lb/>
+hvervet holdes borte fra Hjemmet, og endvidere, naar de give Møde over 3 Kilometer<lb/>
+fra den By, hvori de bo, eller, naar de bo paa Landet, fra deres Hjem. Godtgørelse<lb/>
+for Billet til Jernbane (III. Klasse) og Dampskib (II. Plads), hvor saadant kan be-<lb/>
+nyttes, og i øvrigt for Befordring frem og tilbage med 20 Øre for hver Kilometer, dog<lb/>
+mindst 1 Kr.
+</p>
+<wtitle>§ 105.</wtitle>
+<p>
+Aarslisten samt Tingets Hovedliste og Hjælpeliste tilbagesendes efter Tingets<lb/>
+Slutning til Formanden for Udvalget til Aarslistens Dannelse.
+</p>
+<htitle>
+Tredie Afsnit.
+</htitle>
+<title>
+Sagførere.<lb/>
+</title>
+<title>Kapitel 10.</title>
+<undertitle>
+Sagføreres Beskikkelse og Adgang til at benytte Fuldmægtig m. m.
+</undertitle>
+<wtitle>§ 106.</wtitle>
+<p>
+Sagførere beskikkes af Justitsministeriet. Beskikkelse meddeles paa Begæring<lb/>
+enhver (Mand eller Kvinde), som har Indfødsret, har opnaaet 25 Aars Alderen, ikke
+</p>

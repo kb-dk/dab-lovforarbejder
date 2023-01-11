@@ -1,0 +1,50 @@
+17
+<pb n="17" />
+<leftside>
+<pagename>15
+</pagename>
+<p>med Ret for den  Paagældende til at forelægge Spørgsmaalet for Justitsministeren.
+</p>
+<wtitle>§ 38.
+</wtitle>
+<p>Justitssekretærer ved højesteret, Landsretter og Kjøbenhavns Stadsret beskikkes af<lb />
+Kongen, Fuldmægtige ved de nævnte Retter<lb />
+af Kongen eller af Justitsministeren efter de<lb />
+nærmere Regler, som fastsættes ved Lønnings-loven.
+</p>
+<p>Til midlertidig at beklæde et af de<lb />
+nævnte Embeder, naar det paa Grund af<lb />
+Embedsledighed eller Forfald maatte være<lb />
+nødvendigt, meddeler Justitsministeren Bestikkelse. I paatrængende Tilfælde samt naar<lb />
+Forfaldet skønnes at ville blive kortvarigt,<lb />
+kan vedkommende Rets Iustitiarius give<lb />
+den midlertidige Bemyndigelse. Herom skal<lb />
+Meddelelse straks ske til Justitsministeren,<lb />
+som træffer endelig Bestemmelse.
+</p>
+<p>Til fast eller midlertidig at beklæde de<lb />
+i denne Paragraf nævnte Embeder udkræves,<lb />
+at Vedkommende er en fuldmyndig, uberygtet<lb />
+og vederhæftig Mand, samt at han har<lb />
+underkastet sig den fuldstændige juridiske<lb />
+Eksamen i det Mindste med Karakteren<lb />
+haud illaudabilis eller har opnaaet Karakteren „Bekvem" ved den juridiske Fælles-prøve eller ved den tidligere juridiske Eksamen for Ustuderede.
+</p>
+<wtitle>§ 39.
+</wtitle>
+<p>Naar nogen af de i § 38 nævnte Embedsmænd 'paa Grund af Inhabilitet er<lb />
+udelukket, beskikker vedkommende Rets Iustitiarius i fornødent Fald en Mand, som har<lb />
+de i § 38, 3die Stykke, angivne Egenskaber,<lb />
+til at fungere i Sagen.
+</p>
+<wtitle>§ 40.
+</wtitle>
+<p>For saa vidt Retsskriverembedet ikke<lb />
+er forenet med Dommerembedet, fremsættes<lb />
+Klager over Retsskriverens Afgørelser inden<lb />
+6 Maaneder for den Ret. ved hvilken Retsskriveren er ansat. Efter at have modtaget<lb />
+Retsskriverens Erklæring afgør Retten, for<lb />
+Kjøbenhavns Stadsrets Vedkommende Rettens Iustitiarius, Sagen ved Kendelse.<lb />
+Mod denne Kendelse kan   rejses Kæremaal.
+</p>
+</leftside>

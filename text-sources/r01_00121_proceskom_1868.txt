@@ -1,0 +1,31 @@
+115
+<pb n="121" />
+<p>for at give alle Vedkommende behørig Adgang<lb />
+til Gjennemsyn af Aktstykker i Sagen, som<lb />
+indkomme efter Hovedforhandlingens Begyndelse.</p>
+<wtitle>§ 301.</wtitle>
+<p>En Part kan med Modpartens Samtykke<lb />
+frafalde et af ham anmeldt Bevis; dog kan<lb />
+Retten bestemme, at det frafaldte Bevis skal føres.</p>
+<p>Vægrer Modparten sig ved at samtykke i,<lb />
+at et anmeldt Bevis frafaldes, træffer Retten<lb />
+Afgjørelse.</p>
+<wtitle>§ 302.</wtitle>
+<p>Rettens Afgjørelse af Tvistepunkter, som<lb />
+opstå under Bevisførelsen mellem Parterne,<lb />
+samt af Indsigelser, der fremsættes af Vidner,<lb />
+Syns- eller Skjønsmænd, sker ved Kjendelse.</p>
+<wtitle>§ 303.</wtitle>
+<p>Førend Dom eller Kjendelse afsiges under<lb />
+Hovedforhandlingen, bør der være givet Parterne Lejlighed til at udtale sig. Den Sigtede<lb />
+<title>har stedse det sidste Ord.</title></p>
+<p>Ved Begrundelsen af Kjendelser, der ikke<lb />
+særskilt kunne påankes, skulle de faktiske Omstændigheder, hvorpå der bygges, nøjagtig angives, forsåvidt Retsbogen ikke indeholder det<lb />
+Fornødne.</p>
+<wtitle>§ 304.</wtitle>
+<p>Alle Forsvarsgrunde mod den rejste Anklage, som ere egnede til at bevirke Afvisning<lb />
+eller Frifindelse, kunne under Hovedforhandlingen gjøres gjældende af den Sigtede, ligesom<lb />
+de og i Embeds Medfør bør tages i Betragtning af Retten. Dette gjælder også om sådanne Afvisningsgrunde, der kunde være gjort<lb />
+gjældende, eller som af Retten have været prøvede i Anledning af Spørgsmålet om Anklagens Henvisning til Hovedforhandling, forsåvidt Andet ikke særlig er bestemt.</p>
+<p>Indsigelser, som gå ud på, at den Forbrydelse, for hvilken Anklage er rejst, ikke er<lb />
+betegnet i Anklagen så tilstrækkeligt og tydeligt, som Forsværets Forberedelse krævede, eller</p>

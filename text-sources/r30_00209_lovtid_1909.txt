@@ -1,0 +1,66 @@
+473
+<pb n="209" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>473</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<title>Kapitel 77.</title>
+<undertitle>
+Bestemmelser om Domsforhandling uden Nævninger.
+</undertitle>
+<wtitle>§ 897.</wtitle>
+<p>
+Udebliver Anklageren enten ved Domsforhandlingens Begyndelse eller i Løbet<lb/>
+af denne, udsættes Sagen. Det samme gælder, når den beskikkede Forsvarer udebliver, eller når den valgte Forsvarer ikke møder i Tilfælde, hvor dette vil gøre en<lb/>
+Beskikkelse fornøden, medmindre Omstændighederne måtte gøre det muligt for Formanden at beskikke en Forsvarer, som straks kan udføre Hvervet,
+</p>
+<p>
+Er Tiltalte ikke fængslet, har han Ret til at deltage i Retsmødet; er han<lb/>
+fængslet, bliver han kun, når han har fremsat Begæring derom, og Rettens Formand<lb/>
+finder, at særlige Grunde tale for at tage denne til Følge, at foranstalte henbragt til Mødet.
+</p>
+<p>
+Tiltaltes Udeblivelse hindrer ikke Sagens Fremme.
+</p>
+<wtitle>§ 898.</wtitle>
+<p>
+Efter at Anklageordren og Stævningen ere oplæste, får Anklageren først<lb/>
+Ordet. Han fremstiller kortelig Sagen og lader derefter ved Retsskriveren oplæse de<lb/>
+Afsnit af Udskrifter vedrørende Forundersøgelsen og øvrige Dokumenter, som efter<lb/>
+hans Skøn have Betydning for Sagen, og af hvilke trykte eller maskinskrevne Genparter omdeles til Dommerne. Derefter fremstiller han sin Opfattelse af Sagen, derunder Bevisførelsens Resultater, og de vedkommende Retsspørgsmål. Forsvareren<lb/>
+eller Tiltalte får derpå Ordet for en tilsvarende Udvikling; han lader de Dokumenter m. v. oplæse, som han tillægger Betydning udover de af Anklageren fremdragne.<lb/>
+Retten kan vedtage eller tillade sådanne Afvigelser fra den foreskrevne Forhandlingsgang, som måtte findes formålstjenlige.
+</p>
+<p>
+Omfatter Sagen flere Forbrydelser, kan Formanden lade Forhandlingen foregå særskilt for hver enkelt Forbrydelse.
+</p>
+<p>
+Formanden kan derhos bestemme, at Spørgsmålet, om Tiltalte er skyldig,<lb/>
+først skal forhandles og afgøres; i så Fald finde Reglerne i Slutningssætningen af<lb/>
+§ 861 og i § 884 tilsvarende Anvendelse.
+</p>
+<wtitle>§ 899.</wtitle>
+<p>
+Såfremt Tiltalte er til Stede ved Domsforhandlingen, kan Rettens Formand<lb/>
+rette Spørgsmål til ham, der sigte til at tydeliggøre den af ham under Forundersøgelsen afgivne Forklaring. Reglen i § 807, 2det Stykke, finder tilsvarende Anvendelse med Hensyn til Optagelse i Retsbogen af Tiltaltes Svar.
+</p>
+<p>
+Tiltalte har Ret til at få Ordet efter Forsvareren.
+</p>
+<wtitle>§ 900.</wtitle>
+<p>
+Reglerne i §§ 830, 831, 832, 833, 834, 847, 857, 858, 3die Stykke, finde tilsvarende Anvendelse ved Domsforhandling uden Nævninger.
+</p>
+<p>
+Hvis Retten under Domsforhandlingen eller til et hvilket som helst Tidspunkt<lb/>
+forinden finder det nødvendigt til Sagens fuldstændige Oplysning, at et Vidne eller en<lb/>
+Syns- eller Skønsmand, der har afgivet Forklaring under Forundersøgelsen, afhøres<lb/>
+personlig for den dømmende Ret (§§ 162—163, jvf. 193), kanden pålægge Anklageren<lb/>
+at foranstalte den i så Henseende fornødne Indkaldelse og eventuelt træffe Bestemmelse om Udsættelse af Domsforhandlingen om fornødent til en senere Retsdag.
+</p>
+<p>
+Om Afliørelsen af sådanne Vidner og Syns- eller Skønsmænd finde Reglerne<lb/>
+i §§ 807, 2det Stykke, 852—853 og 856, 1ste Stykke, tilsvarende Anvendelse.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.	62</pagename>

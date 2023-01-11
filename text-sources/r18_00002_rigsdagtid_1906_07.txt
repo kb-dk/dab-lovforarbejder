@@ -1,0 +1,70 @@
+3643
+<pb n="2"/>
+<h>
+<coll>3643</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3644</colr>
+</h>
+<wtitle>§ 3.</wtitle>
+<p>
+Skriverforretningerne ved Højesteret samt Oppebørsel af og Regnskabsaflæggelse<lb />
+for Retsafgifter forestaas af en Justitssekretær. Ved Skriverkontoret ansættes 3 Fuld-<lb />
+mægtige og det øvrige fornødne Kontorpersonale. Højesterets Justitiarius træffer Be-<lb />
+stemmelse om Forretningernes Fordeling.
+</p>
+<wtitle>§ 4.</wtitle>
+<p>
+Der skal være 2 Landsretter: Østre Landsret og Vestre Landsret, hver med<lb />
+samme Landomraade, som henholdsvis Landsoverretten i København og Landsover-<lb />
+retten i Viborg hidtil har haft.
+</p>
+<p>
+Østre Landsret, der har sit Sæde i København, bestaar af en Justitiarius og<lb />
+indtil 16 andre Landsdommere; Vestre Landsret, der har sit Sæde i Viborg, bestaar<lb />
+af en Justitiarius og indtil 11 andre Landsdommere.
+</p>
+<p>
+I Justitiarii Forfald træder i fornødent Fald det ældste tilstedeværende ordent-<lb />
+lige Medlem af Retten i hans Sted.
+</p>
+<wtitle>§ 5.</wtitle>
+<p>
+Landsretternes Domsmyndighed omfatter dels Behandling og Paakendelse i<lb />
+første Instans af Retssager i det Omfang, som bestemmes ved Reglerne i denne Lov,<lb />
+dels Prøvelse i anden Instans af Underretternes Behandlinger og Afgørelser overens-<lb />
+stemmende med de nævnte Regler. Endvidere kan Kære rejses for Landsretten over
+</p>
+<p>
+Underrettens Afgørelser vedrørende de i § 14 a.—d. ommeldte Forhold.
+</p>
+<wtitle>§ 6.</wtitle>
+<p>
+Hvor ikke andet er særlig bestemt i denne Lov, deltage i de enkelte Lands-<lb />
+retssagers Behandling mindst 3 af Rettens Dommere. Sagernes Fordeling mellem
+</p>
+<p>
+Dommerne bestemmes af Justitiarius efter Forhandling med Rettens Medlemmer.
+</p>
+<wtitle>§ 7.</wtitle>
+<p>
+I de Straffesager, ved hvis Paadømmelse Nævninger medvirke, beklædes For-<lb />
+mandspladsen af en af Kongen blandt Rettens Medlemmer dertil for et Tidsrum af 5<lb />
+Aar ad Gangen beskikket Formand. Ved hver Landsret kan beskikkes 3 saadanne<lb />
+Formænd.
+</p>
+<wtitle>§ 8.</wtitle>
+<p>
+Er Formanden forhindret fra at fungere i de i foregaaende Paragraf<lb />
+omhandlede Sager, kan Landsrettens Justitiarius enten selv overtage dennes Hverv<lb />
+eller overdrage det til en anden af Rettens Dommere. I andre Sager beklædes For-<lb />
+mandspladsen af Rettens Justitiarius eller, naar han ikke deltager i Behandlingen, af<lb />
+den efter Tjenestealder ældste af de 3 Dommere, af hvem Retten dannes.
+</p>
+<wtitle>§ 9.</wtitle>
+<p>
+Sø- og Handelsretten i København, der har at behandle Sø- og Handelssager,<lb />
+som i Henhold til denne Lovs Bestemmelser anlægges i København, samt de Straffe-<lb />
+sager, der efter de hidtil gældende Regler have hørt under Sø- og Handelsretten<lb />
+bestaar af en af Kongen beskikket Formand samt saa mange handelskyndige og<lb />
+søkyndige Medlemmer, som fastsættes ved kgl. Anordning.
+</p>

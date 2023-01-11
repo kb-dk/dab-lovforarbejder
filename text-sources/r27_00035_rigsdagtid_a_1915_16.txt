@@ -1,0 +1,66 @@
+2709
+<pb n="35" />
+<h>
+<coll>
+2709
+</coll>
+<topmidle>
+F. t. L.  Rettens Pleje.
+</topmidle>
+<colr>
+2710
+</colr>
+</h>
+<p>
+Anden Bog.
+</p>
+<title>
+Fælles Bestemmelser for borgerlige Sager og<lb />
+Straffesager.
+</title>
+<title>Kapitel 16.</title>
+<undertitle>
+Almindelige Bestemmelser om Procesmaaden.
+</undertitle>
+<wtitle>§ 148.</wtitle>
+<p>
+Retssager forhandles mundtlig. Skrift anvendes kun i det Omfang, i hvilket<lb />
+Loven særlig bestemmer det.
+</p>
+<p>
+Ved den mundtlige Forhandling benyttes frit Foredrag.
+</p>
+<p>
+Naar Oplæsning skal finde Sted, bestemmer Rettens Formand, ved hvem den<lb />
+skal foregaa, for saa vidt andet ikke i Loven er foreskrevet.
+</p>
+<wtitle>§ 149.</wtitle>
+<p>
+Retssproget er dansk. Afhørelse af Personer, der ikke er det danske Sprog<lb />
+mægtige, foregaar ved Hjælp af en edsvoren Tolk. Dog kan i borgerlige Sager ved<lb />
+Underret Tilkaldelse af Tolk undlades, naar ingen af Parterne gør Fordring herpaa,<lb />
+og Retten tiltror sig fornødent Kendskab til det fremmede Sprog. Det samme kan<lb />
+under sidstnævnte Forudsætning finde Sted i Straffesager udenfor Domsforhandling for<lb />
+Landsret.
+</p>
+<p>
+Dokumenter, der er affattede i fremmede Sprog, skal ledsages af en Over-<lb />
+sættelse, der, naar Retten eller Modparten forlanger det, skal bekræftes af en<lb />
+autoriseret Translatør.
+</p>
+<p>
+Forhandling med og Afhørelse af døve, stumme og døvstumme foregaar enten<lb />
+ved Hjælp af Personer, der er kyndige i Tegnsproget eller Talemetoden, og som<lb />
+forud tages i Ed, eller ved skriftlige Spørgsmaal og Svar.
+</p>
+<p>
+Til at bistaa som Tolk eller Tegnsprogkyndig maa ingen tilkaldes, der ifølge<lb />
+§§ 60 og 62 vilde være udelukket fra at handle som Dommer i Sagen. I øvrigt bliver<lb />
+de om Vidner gældende Regler at anvende paa de nævnte Personer med de Lempelser,<lb />
+der følger af Forholdets Natur, og for saa vidt ikke andet særlig er foreskrevet.
+</p>
+<wtitle>§ 150.</wtitle>
+<p>
+Rettens Formand leder Forhandlingen. Han bestemmer Rækkefølgen af de<lb />
+enkelte Dele af Forhandlingen, for saa vidt Loven ikke indeholder Forskrifter derom
+</p>

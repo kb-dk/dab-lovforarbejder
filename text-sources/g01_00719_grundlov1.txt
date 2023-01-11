@@ -1,0 +1,144 @@
+1365
+<pb n="719">
+<p rend="page">719</p>
+<h>
+<coll>1365</coll>
+<colr>1366</colr>
+<lb/>
+
+<topleft>1849.</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No. 175.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Fem og halvtredsindstyvende (58de) Møde.<lb/>
+(Sluttet.)<lb/>
+</btitle>
+<indexlist>
+Ja.<lb/>
+Aagaard (G.) af Lolland.	Larsen (I. E.) af Kjøbenhavn.<lb/>
+Aagaard af Thiste.	Linnemann.<lb/>
+Baager.	Lorck.<lb/>
+Bergmann.	Lüttichan.<lb/>
+Bjerring.	Lützhöft.<lb/>
+Brandt.	Mundt.<lb/>
+Bregendahl.	Tage Müller.<lb/>
+Bruun (M. P.) af Bruunshaab.	Paludan-Müller.<lb/>
+Bruun (P. D.) af Kjøbenhavn.	Mynster.<lb/>
+Boisen.	Neergaard.<lb/>
+Christensen (Georg) af Kjøbenhavn.	Nielsen (H. C.) af Tranberg.<lb/>
+Christensen (I.) af Voldum.	Olrik.<lb/>
+Colding.	Osternfeldt.<lb/>
+Dahl.	Ostermann.<lb/>
+Dahlerup.	Otterstrøm.<lb/>
+van Dockum.	Vedersen (P.) af Kjøbenhavn.<lb/>
+Drewsen af Silkeborg.	Petersen (B.) af Kjøbenhavn.<lb/>
+Fibiger.	Petersen (C.) af Dvinde.<lb/>
+Flor.	Petersen (C. R.) af Hjørring.<lb/>
+Fløe.	Pjetursson.<lb/>
+Funder.	Ploug.<lb/>
+Gram.	Pløyen.<lb/>
+Gudmundsson.	Rasmussen (H.) af Egense.<lb/>
+Hage.	Rasmussen (I.) af Svanninge.<lb/>
+Hall.	Ræder.<lb/>
+Hammerich.	Scavenius.<lb/>
+Mørk Hansen.	Schiern.<lb/>
+Hansen (N.) af Eskelund.	Schroll.<lb/>
+Hasselbalch.	Schurmann.<lb/>
+von Haven.	Schytte.<lb/>
+Hermannsen.	Brinck-Seidelin.<lb/>
+Hunderup.	Cederfeld de Simonsen.<lb/>
+Hækkerup.	Stockfleth.<lb/>
+Jacobæus.	Tang.<lb/>
+Jespersen af Grønnebjergaard.	Theilmann.<lb/>
+Johannsen (F.) af Houby.	Turen.<lb/>
+Johansen (H.) af Knardrup.	Wegner.<lb/>
+Johnsen.	Westergaard.<lb/>
+Jungersen.	Visby.<lb/>
+Kayser.	Wulff.<lb/>
+Kirk.	Ørsted.<lb/>
+Køster.<lb/>
+Rei.<lb/>
+Andresen.	Drewsen af Kjøbenhavn.<lb/>
+Andræ.	Eriksen.<lb/>
+Barfod.	Frølund.<lb/>
+Vlack.	Gleerup.<lb/>
+Christensen (Balthazar).	Gregersen.<lb/>
+Christensen (H.) af Veistrup.	Hansen (I. A.) af Kjøbenhavn.<lb/>
+Dinsen.	Hansen (L.) af Bjelkerup.<lb/>
+</indexlist>
+</leftside>
+<rightside>
+<indexlist>
+Hansen (P.) af Abbetved.	Møller (R. N.) af Draaby.<lb/>
+Hastrup.	Møller af Flakkeberg.<lb/>
+Hiort.	Nielsen (N. H.) af Løserup.<lb/>
+Høier.	Nyholm.<lb/>
+Jacobsen.	Nørgaard.<lb/>
+Jespersen (C. M.) Af Viborg.	Pape.<lb/>
+Jespersen (F.) af Bogense.	Pedersen (I.) af Sæding.<lb/>
+Johansen (H. C.) af Østrup.	Rasmussen (M.) af Herlufmagle.<lb/>
+Jøgensen.	Rée.<lb/>
+Larsen (C.) af Dalby.	Schlegel.<lb/>
+Leth.	Skeel.<lb/>
+Madsen.	With.<lb/>
+</indexlist>
+<middle>
+Fraværende.<lb/>
+</middle>
+<indexlist>
+Bruun af Assens.	Olesen.<lb/>
+Buchwaldt.	Oxholm.<lb/>
+Buntzen.	Schack.<lb/>
+la Cour.	Sidenius.<lb/>
+David.	Sigurdsson.<lb/>
+Duntzen.	Stender.<lb/>
+Gislason.	Thalbitzer.<lb/>
+Grundtvig.	Tobiesen.<lb/>
+Hansen (H. P.)	Treschow.<lb/>
+Holck.	Tscherning.<lb/>
+Hvidt.	Tvede.<lb/>
+Sehestedt-Juel.	Algreen-Ussing.<lb/>
+Knuth.	Ussing af Viborg.<lb/>
+Krieger.	Zenthen.<lb/>
+Marckmann.<lb/>
+</indexlist>
+<p>
+Efterat næste Møde var berammet til den følgende Dag Kl. 1,<lb/>
+Værnepligtssagen til fotsat Behandling, blev Mødet hævet.<lb/>
+</p>
+<btitle>
+56de offentlige Møde.<lb/>
+(Det 59de Møde i den hele Række.)<lb/>
+</btitle>
+<notedate>
+Løverdagen den 3die Februar.<lb/>
+</notedate>
+<p>
+Forhandlingsprotocollen for forrige Møde blev oplæst.<lb/>
+</p>
+<p>
+<speaker>Formanden: </speaker>Jeg skal tillade mig at anmelde nogle indkomme<lb/>
+Adresser nemlig:<lb/>
+</p>
+<p>
+1) En Adresse, indleveret af Rigsdagsmanden for Svendborg Amts<lb/>
+1ste District (I. A. Hansen) fra 746 Beboere af Langelands<lb/>
+Sønderherred, hvori de protestere mod enhver Indskrænkning i<lb/>
+Valgretten.<lb/>
+</p>
+<p>
+2) En Adresse, indleveret af samme Rigsdagsmand, fra 27 Gaardmænd i Eiby Sogn, hvori de udtale sig om, hvad de have tilsigtet ved at underskrive den Blechingberg-Liebenbergske Adresse.<lb/>
+</p>
+<p>
+3) Fire Adresser, indleverede af Rigsdagsmanden for Sørø Amts<lb/>
+1ste District (Hækkerup) fra Valsølille, allindemagle, Haraldsted og Iydstrup Sogne med 271 Underskrifter, hvori udtales,<lb/>
+at Rigsforsamlingen er uberettiget til at behandle andre Sager<lb/>
+end Grundloven, Værnepligts- og Penesagen; at der ved Vær</p>
+</rightside>
+</pb>

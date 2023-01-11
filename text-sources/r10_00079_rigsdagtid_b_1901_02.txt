@@ -1,0 +1,148 @@
+2871
+<pb n="79" />
+<h>
+<coll>2871</coll>
+<topmidle>
+Kommissionens Bem. t. Udk. t. L. om den borgerlige Retspleje.
+</topmidle>
+<colr>2872</colr>
+</h>
+<leftside>
+<p>
+Om den ny indsatte Regel i § 357,<lb />
+2det Stykke, 2det Punktum, er oven for<lb />
+(alm. Bemærkn. ved 4de Afsnit ad 10)<lb />
+gjort fornøden Bemærkning.<lb />
+</p>
+<wtitle>§ 359.</wtitle>
+<p>
+Adgangen til Udlæg i ikke forfalden<lb />
+Løn vil i Almindelighed være afskaaren<lb />
+ved den i § 357, 3die Stykke, givne Regel<lb />
+om visse gensidige bebyrdende Kontrakter.<lb />
+Imidlertid kan det med Hensyn til de Løn-<lb />
+ninger, der ere tillagte Indehavere af Em-<lb />
+beder og andre offentlige Stillinger, være<lb />
+tvivlsomt, om saadanne kunne betragtes<lb />
+som Led i et almindeligt, gensidig bebyr-<lb />
+dende Kontraktsforhold, og der er derfor<lb />
+i nærværende Paragraf givet en udtrykkelig<lb />
+Regel, hvorefter saadanne Lønninger lige<lb />
+saavel som anden Løn for personligt Ar-<lb />
+bejde ere undtagne fra Udlæg, saa længe<lb />
+de ikke ere forfaldne.<lb />
+</p>
+<wtitle>§ 360.</wtitle>
+<p>
+De under Nr. 2—4 anførte Undtagel-<lb />
+ser findes ikke i den gældende Ret, men<lb />
+ere med en enkelt Udvidelse optagne efter<lb />
+det tidligere Forslag. Undtagelsen under<lb />
+Nr. 6 er optagen efter Sølovens §§ 69 og 76.<lb />
+</p>
+<title>
+Kapitel XXXII.<lb />
+</title>
+<undertitle>
+Eksekutionsforretningens Foretagelse oq<lb />
+Proceduren under samme.
+</undertitle>
+<p>
+Af Reglerne i dette Kapitel, der for<lb />
+en stor Del ere stemmende med den gæl-<lb />
+dende Ret, skulle kun følgende særlig<lb />
+fremhæves:<lb />
+</p>
+<p>
+I § 362 er der givet Fogden Beføj-<lb />
+else til,  hvor Omstændighederne tale der-<lb />
+for, at lade Eksekutionsforretningen be-<lb />
+gynde andet Steds end paa Domfældtes Bo-<lb />
+pæl. Da denne Regel selvfølgelig ikke bør<lb />
+benyttes til at holde Rekvisitus i Uviden-<lb />
+hed om Eksekutionens Foretagelse, vil<lb />
+Fogden efter Omstændighederne kunne<lb />
+have Anledning til at gøre sin Medvirk-<lb />
+ning til denne Afvigelse fra Hovedreglen<lb />
+afhængig af, at Rekvirenten underretter<lb />
+Rekvisitus om Forretningens Foretagelse<lb />
+saa betids, at Rekvisitus kan møde under<lb />
+samme; især gælder dette, naar Forret-<lb />
+ningen ønskes foretaget paa et Sted, hvor<lb />
+man hverken kan gøre Regning paa at<lb />
+træffe Rekvisitus selv eller nogen af de i<lb />
+§ 363, 2det Stykke, nævnte Personer.<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+I § 363 er det gjort Fogden til Pligt,<lb />
+naar Rekvisitus ikke træffes til Stede, at<lb />
+opfordre en af dem, der staa i et af<lb />
+flere, nærmere angivne Forhold til Rekvi-<lb />
+situs, til at varetage dennes Tarv under<lb />
+Forretningen.<lb />
+</p>
+<p>
+Proceduren for Fogedretten skal lige-<lb />
+som den øvrige Procedure i den refor-<lb />
+merede Proces være mundtlig (§ 370).<lb />
+Der bliver derfor ikke Tale om nogen<lb />
+selvstændig Ret for Parterne til at diktere<lb />
+til Protokollen saa lidt som om nogen<lb />
+Fremlæggelse af Indlæg. Domfældte eller<lb />
+Trediemand fremsætter mundtlig sine Ind-<lb />
+sigelser, og Domhaveren svarer derpaa;<lb />
+yderligere Ordveksling beror paa Fogdens<lb />
+Tilladelse. De nedlagte  Paastande skulle<lb />
+protokolleres ordret, det øvrige kun „efter<lb />
+dets væsentlige Indhold“. Hvad der i saa<lb />
+Henseende skal anses som væsentlig, be-<lb />
+stemmer Fogden (§ 371). Bevisførelse ved<lb />
+Vidner, Syn og Skøn eller personlig Af-<lb />
+hørelse af Parterne finder kun Sted, naar<lb />
+Fogden mener undtagelsesvis at burde til-<lb />
+stede det (§ 370). Paa den anden Side er<lb />
+der under Paaanke af eller Kæremaal<lb />
+over for Fogedforretninger fri Adgang til<lb />
+at fremføre ny Paastande, faktiske An-<lb />
+bringender og Beviser (jfr. Kap. XXXVII.)<lb />
+</p>
+<p>
+Trediemands Stilling over for en Ekse-<lb />
+kutionsforretning er den samme som efter<lb />
+gældende Ret, idet han enten kan gøre sig<lb />
+til Part under denne — i hvilket Fald<lb />
+han bliver bunden ved den med Hensyn<lb />
+til hans Indsigelse afsagte Kendelse, ind-<lb />
+til denne omstødes af højere Ret, — eller<lb />
+han kan holde sig borte fra Forretningen<lb />
+og derefter gøre sin Ret gældende enten<lb />
+ved Appel af denne eller i første Instans.<lb />
+</p>
+<p>
+Med Hensyn til Fogdens Vejlednings-<lb />
+pligt skal bemærkes, at Reglen desangaa-<lb />
+ende i § 370, 3die Stykke, er affattet saa-<lb />
+ledes, at den ogsaa omfatter Sager, der<lb />
+kun i Kraft af Parternes Vedtagelse ere<lb />
+komne til at henhøre under Underret.<lb />
+</p>
+<p>
+Om Besiddelsen af udlagt Gods give<lb />
+§§ 375 og 376 nogle Bestemmelser, der i<lb />
+hvert Fald ikke udtrykkelig ere hjemlede<lb />
+i den gældende Ret. I § 377 er det hid-<lb />
+til omstridte Spørgsmaal, hvor vidt den,<lb />
+der gør Udlæg i et Gældsbrev, behøver<lb />
+ikke blot at give Gældsbrevet Paategning<lb />
+om Udlæget, men ogsaa at give Debitor<lb />
+efter Gældsbrevet Underretning om Ud-<lb />
+læget, afgjort derhen, at saadan Under-<lb />
+retning ikke er nødvendig for at afværge,<lb />
+at Debitor frigør sig ved at betale Gælden<lb />
+eller Afdrag derpaa til  Rekvisitus, men<lb />
+vel for at afværge Rentebetaling til<lb />
+denne.
+</p>
+</rightside>

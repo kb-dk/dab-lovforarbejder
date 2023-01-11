@@ -1,0 +1,50 @@
+3479
+<pb n="58" />
+<h>
+<coll>3479</coll>
+<topmidle>Forsl. t. L. om den borgerlige Netspleie.</topmidle>
+<colr>3480</colr>
+</h>
+<wtitle>§ 129.</wtitle>
+<p>Procesfæller hcefte folidarist for Procesomkostningerne. Dog kan Retten, naar Om-<lb />
+stændighederne tale derfor, paalægge en enkelt eller enkelte af dem at udrede visse Dele af<lb />
+Omkostningerne.</p>
+<wtitle>§ 130.</wtitle>
+<p>Forsaavidt en Sags Udfald er gjort afhængig af den ene Parts Ed, bliver den<lb />
+ogsaa i Henseende til Procesomkostningerne at betragte som vunden eller tabt af ham, eftersom<lb />
+Eden aflægges eller ikke.</p>
+<p>Dog kan Netten, naar en Part har tilveiebragt en saadan Sandsynlighed for et af<lb />
+ham fremsat Anbringendes Rigtighed, at det paa Grund heraf ved Dommen paalægges Mod-<lb />
+parten edelig at fragaa det. fritage den Bevispligtige for at erstatte Modparten Procesom-<lb />
+kostningerne, uanset at denne maatte astægge Eden.</p>
+<wtitle>§ 131.</wtitle>
+<p>Naar hver ifær af Parterne for en Del taber og for en Del vinder Sagen, blive<lb />
+Processens Omkostninger at ophceve eller at dele i det af Retten bestemte Forhold.</p>
+<p>Dog kan Netten paalægge en Part at erstatte Modparten Processens Omkostninger,<lb />
+naar dennes Paastand kun i en mindre betydelig Grad har overskredet det Tilkjendte og ingen<lb />
+sårskilte Omkostninger ere foranledigede ved Overskridelsen.</p>
+<wtitle>§ 132.</wtitle>
+<p>Den Part, som ved Anvendelse af Retsmidlerne (Paaanke, Besværing eller ny Fore-<lb />
+tagelse af Sagen) ikke opnaar nogen Forandring af Dommen eller Kjendelsen, anses forsaa-<lb />
+vidt som tabende og har derfor at erstatte Modparten de ved Retsmidlets Brug foraarsagede<lb />
+Omkostninger.</p>
+<wtitle>§ 133.</wtitle>
+<p>Opnaas der ved Anvendelsen af Retsmidlerne (Paaanke. Besværing eller ny Fore-<lb />
+tagelse af Sagen) en Forandring i den faldne Dom eller Kjendelse, bliver der med Hensyn<lb />
+til Omkostningerne ved Retsmidlets Gi'ennemforelse saavelsom med Hensyn til Omkostningerne<lb />
+ved Sagens tidligere Behandling, forsaavidt herom skal træffes Afgjørelse, i Reglen at for-<lb />
+holde efter de i §§ 126 og 131 givne Regler og Omkostningerne enten at paalægge Mod-<lb />
+parten eller at ophæve eller dele, dog at Netten paa Grund af færlige Omstændigheder skal<lb />
+veere berettiget til at bestemme anderledes.</p>
+<p>Naar Hovedsagens Behandling som en følge af den i Anledning af Retsmidlet<lb />
+trufne Afgjørelse skal fortsættes, kan Afgjørelsen af spørgsmaalet om Omkostningerne saavel<lb />
+ved Retsmidlets Anvendelse som ved Sagens tidligere Behandling opsættes til den ende-<lb />
+lige Dom.</p>
+<wtitle>§ 134.</wtitle>
+<p>Den Part, som ved tilregnelig Feil eller Forssmmelse har foranlediget spildte Moder,<lb />
+ufornvdne Udsættelser, unyttig Bevisførelse eller andre oveiflodige og hensigtslose processuelle<lb />
+Skridt, er, selv om han Iøvrigt vinder Sagen, pligtig at erstatte Modparten de ham derved<lb />
+foraarfagede Udgifter.</p>
+<wtitle>§ 135.</wtitle>
+<p>Angaaende Omkostningerne ved enkelte Proceshandlinger eller Procesafsnit kan der<lb />
+straz træffes Afgjvielse af Retten, naar saadan Afgjerelse, faasom i de i foregaaende Paragraf</p>

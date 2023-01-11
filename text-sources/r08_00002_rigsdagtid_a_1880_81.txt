@@ -1,0 +1,46 @@
+3367
+<pb n="2" />
+<h>
+<coll>3367</coll>
+<topmidle>Forsi. t. L. om Ordningen af Tomsmag zen, den offentlige Anklagemyndighed m. m.</topmidle>
+<colr>3368</colr>
+</h>
+<p>Scerlige Domstole ere Rigsretten, Sessionerne, de geistlige og de militære Retter.</p>
+<p>Landvcesenskommissioner og lignende Myndigheder, som Afgjøre eller medvirke ved<lb />
+Afgjørelsen af Anliggender, der ikke høre under nogen af de i denne Paragraf nævntc Retter,<lb />
+vernes ikke af denne Lov.</p>
+<title>I.</title>
+<undertitle>Høiesteret.</undertitle>
+<wtitle>§ 4.</wtitle>
+<p>Høiesteret paakjender som sverste Instants for hele Riget alle Sager, som overens-<lb />
+stemmende med Lovene om Retsplejen paaankes til den.</p>
+<wtitle>§ 5.</wtitle>
+<p>Ordentlige medlemmer af Høiesteret kunne, for et Tidsrum af 5 Aar ad Gangen,<lb />
+bestikkes af Kongen til Formcend for Landsretters farlige Afdelinger under disses regelmæssige<lb />
+Samlinger.</p>
+<wtitle>§ 6.</wtitle>
+<p>Høiesteret har sit Siede i kjøbenhavn. Den bestaar af en Formand, 12 andre or-<lb />
+dentlige medlemmer og indtil 12 overordentlige medlemmer.</p>
+<p>Til som Næstformand at træde i Formandens Sted i paakommende Tilfælde beskikker<lb />
+Kongen et af Rettens ordentlige medlemmer.</p>
+<wtitle>§ 7.</wtitle>
+<p>I Sagers Afgjørelse ved Høiesteret deltage, forsaavidt intet Andet særlig er fore-<lb />
+skrevet, mindst 9 medlemmer af Retten. Haves i nogen Sag ikke et saadant Antal af Rettens<lb />
+ordentlige medlemmer til Raadighed, kalder Formanden et eller flere overordentlige medlemmer<lb />
+til at deltage i Paakjendelsen.</p>
+<wtitle>§ 8.</wtitle>
+<p>Skriverforretningeme ved Høiesteret samt Oppebørsel af og Regnskabsaflæggelse for<lb />
+Retssportler forestaas af en Høiesteretsstriver. Ved Skriverkontoret ansættes 3 Fuldmægtige<lb />
+og det øvrige fornødne Kontorpersonale. Høiesterets Formand træffer, efter Forhandling med<lb />
+Hoiesteretsstriveren, Bestemmelse om Forretningernes Fordeling.</p>
+<wtitle>§ 9.</wtitle>
+<p>Høiesteret holder i Tiden fra 1ste Oktober til 30te Juni Møde 5 Dage om Ugen,<lb />
+forsaavidt Sagernes Mængde udkræver det. I Slutningen af Juli og August Maaned hol-<lb />
+des overordentlige Retsmsder til Afgjørelser i Straffesager, i hvilke den Anklagede er fængslet,<lb />
+eller som af andre Grunde ikke taale, Opsættelse, samt til Afgjørelse af de i denne Lovs § 50,<lb />
+jfr. § 48, omhandlede Spørgsmaal.</p>
+<p>Retten træffer og offentliggjør nærmere Bestemmelser om Dag og Tid for Modernes<lb />
+Afholdelse.</p>
+<p>Beslutninger af Retten, som gaa ud paa i Henhold til Lovene om den borgerlige<lb />
+Retspleje og Strafferetspleien at tilstede Afvigelser fra de almindelige processuelle Regler. ere<lb />
+ltke bundne til de foreskrevne eller vedtagne Mødetider.</p>

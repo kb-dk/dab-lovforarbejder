@@ -1,0 +1,67 @@
+448
+<pb n="32" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>448</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+at Sagen vindes, end for det Tilfælde, at den helt eller for en Del tabes, lige så lidt<lb />
+som det er forbudt at betinge sig en vis Andel i Sagens Genstand.
+</p>
+<p>
+Overenskomster om Betaling, der åbenbart foruretter en af Parterne, er ugyldige.
+</p>
+<wtitle>§ 135.</wtitle>
+<p>
+Enhver Sagfører, der er antaget til Udførelse af beneficerede Sager, jfr. § 331,<lb />
+er pligtig til for ubemidlede, der henvises til ham, at affatte Besværinger til Øvrighedsmyndigheder og Ansøgning om fri Proces, endvidere til at affatte Forligsindkaldelser og Stævninger i borgerlige Sager, som vedkommende ønsker at anlægge ved den<lb />
+Ret, for hvilken Sagføreren er antaget, for så vidt der ikke er Adgang til at opnå<lb />
+Rettens Bistand efter § 425, 1ste Stykke. Sådanne Henvisninger foretages af Politimesteren, som skønner over de pågældendes Uformuenhed og iagttager, at Henvisningerne fordeles ligelig mellem de pågældende Sagførere. — Disse Bestemmelser<lb />
+gælder dog indtil videre ikke for de Sagførere, der har Kontor i København eller på<lb />
+Frederiksberg; men Bestemmelserne kan af Justitsministeriet, når Omstændighederne<lb />
+måtte tale derfor, med fornøden Tillempelse udvides til også at omfatte dem.
+</p>
+<p>
+På de årlige Finanslove bevilges det fornødne Beløb til Vederlag til de pågældende Sagførere for deres heromhandlede Virksomhed. De nærmere Regler for
+Fastsættelsen og Udbetalingen af disse Vederlag gives af Justitsministeren.
+</p>
+<wtitle>§ 136.</wtitle>
+<p>
+Sagførere, som overtræder de i nærværende Lov givne Forskrifter eller i øvrigt<lb />
+forser sig i deres Virksomhed som Sagførere, anses med de i Straffelovens § 144 omhandlede Straffe.
+</p>
+<p>
+Når den Straf, som skal pålægges en Sagfører, ikke er højere end Bøder,<lb />
+og ingen særlig Bevisførelse udfordres for at oplyse det strafbare Forhold, kan Straffen<lb />
+pålægges under den Sag. med Hensyn til hvilken Forseelsen er begået, enten ved<lb />
+en særskilt Kendelse eller ved den endelige Dom.
+</p>
+<title>Kapitel 14.</title>
+<undertitle>
+Ophør af Retten til Sagførervirksomhed.
+</undertitle>
+<wtitle>§ 137.</wtitle>
+<p>
+Når en Sagfører ved Dom findes skyldig i en i den offentlige Mening vanærende Handling, skal Retten til at udøve Sagførervirksomhed ved samme Dom<lb />
+frakendes ham.
+</p>
+<p>
+Har en Sagfører gjort sig skyldig i det i Straffelovens § 253 omhandlede Forhold, bliver, selv om i øvrigt andet Strafansvar mod ham i Medfør af samme Lovs<lb />
+§ 254 måtte bortfalde, Retten til Sagførervirksomhed ved Dom at frakende ham for<lb />
+en bestemt angiven Tid eller for bestandig under den mod ham anlagte Straffesag,<lb />
+eller, hvis en sådan ikke måtte være anlagt, da under en særlig i dette Øjemed<lb />
+ifølge Justitsministerens Bestemmelse mod ham rejst Straffesag.
+</p>
+<p>
+Når Dom til Fortabelse af Ret til Sagførervirksomhed er overgået en Sagfører, kan han ikke, selv om han påanker sådan Dom, fortsætte sin Virksomhed,<lb />
+før han ved endelig Dom har fået sin Dom forandret.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

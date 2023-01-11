@@ -1,0 +1,41 @@
+86
+<pb n="92" />
+<h>
+<topmidle>86     Kap. XXI. Anke til Højesteret.</topmidle>
+</h>
+<title>Kapitel XXI.</title>
+<undertitle>Anke til Højesteret.</undertitle>
+<wtitle>§ 243.</wtitle>
+<p>Domme, afsagte i første Instans af en<lb />
+Landsret, kunne, med den i § 6 indeholdte<lb />
+Undtagelse, overensstemmende med nedenstående Regler af Parterne påankes til<lb />
+Højesteret. I Forbindelse med Dommen<lb />
+kan Anken omfatte den forudgående Behandling og de under denne faldne Afgørelser, forsåvidt Anke ikke særlig er udelukket.</p>
+<p>Anke kan iværksættes til Forandring,<lb />
+Ophævelse eller Hjemvisning, hvorimod Anke<lb />
+alene til Stadfæstelse ikke kan finde Sted.<lb />
+Heller ikke kan Anke iværksættes alene til Forandring af Dommens Bestemmelser om Procesomkostninger og processuelle Straffe. Dog kan<lb />
+Højesterets Iustitiarius i Forening med to<lb />
+Medlemmer af Retten tillade, at deslige<lb />
+Bestemmelser særskilt påankes af Parterne,<lb />
+når Afgørelse med Hensyn til disse Punkter<lb />
+er uafhængig af Sagens Udfald, eller af<lb />
+Tredjemand, hvem Omkostninger eller Straf<lb />
+er pålagt eller Salær tilkendt eller frakendt.</p>
+<wtitle>§ 244.</wtitle>
+<p>Anke kan iværksættes fra begge Parters<lb />
+Side, men de tvende Anker blive da at<lb />
+forene til samtidig Forhandling, jfr. § 94,<lb />
+1ste Stykke.</p>
+<p>Udtrykkeligt eller stiltiende Afkald på<lb />
+Anke kan ikke gyldig gives, forinden den<lb />
+Retsafgørelse, om hvis Påanke der er<lb />
+Tale, er truffen.</p>
+<wtitle>§ 245.</wtitle>
+<p>Edsdomme og Afgørelser af enkelte<lb />
+Stridsspørgsmål i Henhold til § 107 kunne<lb />
+først påankes, når den endelige Dom er<lb />
+<title>afsagt.</title></p>
+<wtitle>§ 246.</wtitle>
+<p>Ankefristen er 8 Uger fra Dommens<lb />
+Afsigelse at regne.    Anke  kan dog undtag-</p>

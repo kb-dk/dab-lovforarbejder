@@ -1,0 +1,106 @@
+2285
+<pb n="14" />
+<h>
+<coll>2285</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2286</colr>
+</h>
+<leftside>
+<wtitle>Til § 312.</wtitle>
+<p>264) 1ste Stykke, „En Embedslæges<lb />
+Anbefaling" ændres til „Anbefaling fra en<lb />
+Embedslæge eller fra Overlægen paa den<lb />
+Helbredelsesanstalt, paa hvilken den umyn-<lb />
+diggjorte maatte være anbragt."</p>
+<pt>Efter § 323.</pt>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>265) Her indsættes et nyt Kapitel med<lb />
+Overskrift: „Behandlingen af Smaasager<lb />
+for Kommunedommer paa Landet" og af<lb />
+følgende Indhold:</p>
+<p>Kapitel n. n.</p>
+<wtitle>Til § a.</wtitle>
+<p>De under borgerlig Retspleje henhø-<lb />
+rende Sager, der efter Lov om Domsmag-<lb />
+tens og nogle dermed forbundne Forholds<lb />
+Ordning § 45 indbringes for Kommune-<lb />
+dommer paa Landet, foretages til de<lb />
+Tider og paa de Steder i Kommunen, som<lb />
+af Kommunedommeren bestemmes. Er<lb />
+intet andet bestemt om Stedet, er dette<lb />
+Kommunedommerens Bopæl.</p>
+<wtitle>Til § b.</wtitle>
+<p>For Kommunedommer kan ikke mødes</p>
+<p>ved Sagfører.</p>
+<wtitle>Til § c.</wtitle>
+<p>Den, der vil have en Sag for, er be-<lb />
+rettiget til at møde med sin Modpart for<lb />
+Kommunedommeren til en hvilken som<lb />
+helst Tid, til hvilken denne erklærer at<lb />
+kunne foretage Sagen.</p>
+<p>Han kan ogsaa stævne sin Modpart.<lb />
+Kommunedommeren skriver da efter hans<lb />
+Begæring en Indkaldelse, og Klageren be-<lb />
+sørger denne forkyndt med mindst 2 Dages</p>
+<p>Den i Lov af 10de Maj 1854 § 69<lb />
+indeholdte Forskrift ændres derhen, at</p>
+<p>Forkyndelse ved 1 Stævningsmand er til-<lb />
+strækkelig.</p>
+<wtitle>Til § d.</wtitle>
+<p>Forhandlingen sker mundtlig og i de<lb />
+Former, som Kommunedommeren finder<lb />
+tjenlige, uden at han deri er bunden ved<lb />
+de almindelige Rettergangsregler.</p>
+</leftside>
+<rightside>
+<p>Ed kan ikke aflægges, Vidner ikke<lb />
+føres og Syn eller Skøn ikke optages. Men<lb />
+Kommunedommeren er berettiget til at<lb />
+høre, hvad de, som Parterne maatte med-<lb />
+bringe, fremføre af egen Drift eller efter<lb />
+hans Foranledning.</p>
+<wtitle>Til § e.</wtitle>
+<p>Sagens Behandling tilendebringes som<lb />
+Regel i eet Møde. Ingen Part har Ret til<lb />
+at kræve Udsættelse; kun ganske und-<lb />
+tagelsesvis kan Kommunedommeren tilstaa<lb />
+en saadan.</p>
+<wtitle>Til § f.</wtitle>
+<p>Kommunedommeren foretager Forligs-<lb />
+mægling. Opnaas Forlig, er Sagen dermed<lb />
+endelig afgjort. Forliget tilføres Kom-<lb />
+munedommerens Bog.</p>
+<p>Opnaas ikke Forlig, bliver Sagen, saa<lb />
+snart Kommunedommeren mener at have<lb />
+hørt Parterne tilstrækkelig, optagen til Dom.</p>
+<p>Dommen afsiges straks efter Optagelsen.</p>
+<p>Dommen afsiges mundtlig, men tilføres<lb />
+Kommunedommerens Bog. Den skal inde-<lb />
+holde et tydeligt Resultat, men behøver<lb />
+ikke at indeholde en Udvikling af Grunde.</p>
+<wtitle>Til § g.</wtitle>
+<p>Paa Statens Bekostning og ved Justits-<lb />
+ministerens Forsorg forsynes - hver Kom-<lb />
+munedommer med en Bog og Blanketter<lb />
+til Udskrifter deraf. Saavel Bogens Sider<lb />
+som Blanketterne skulle være indrettede<lb />
+paa en Tilførslerne lettende Maade, navn-<lb />
+lig saaledes, at Sidernes og Blanketternes<lb />
+trykte Tekst er forskellig efter Sagens Ud-<lb />
+fald (Forlig, Domfældelse, Frifindelse eller<lb />
+Afvisning).</p>
+<p>Hver af Parterne er berettiget til paa<lb />
+Forlangende een Gang at faa en Udskrift<lb />
+af Forlig eller Dom i den ham ved-<lb />
+rørende Sag.</p>
+<wtitle>Til § h.</wtitle>
+<p>Enhver af en Kommunedommer afsagt<lb />
+Dom kan i Løbet af 4 Uger indbringes fol-<lb />
+det Herredsting, i hvis Retskreds Kommu-<lb />
+nen ligger.</p>
+<p>Der fremlægges da Udskrift af Kom-<lb />
+munedommerens Bog for den paagældende<lb />
+Sags Vedkommende; men i øvrigt behand-<lb />
+les Sagen ganske efter Lovens almindelige<lb />
+Regler om Rettergang i første Instans.</p>
+</rightside>

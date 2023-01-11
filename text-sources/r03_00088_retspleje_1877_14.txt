@@ -1,0 +1,41 @@
+82
+<pb n="88" />
+<p>Dom   kan afgjøres, hvo af Parterne der skal<lb />
+boere dem.</p>
+<wtitle>§  265.</wtitle>
+<p>Ved Dommen skal Sagen påkjendes endelig uden anden Henvisning til påfølgende<lb />
+Proceshandlinger end den, der hjemles ved<lb />
+§  259.</p>
+<p>Bevis red Syn eller Skjøn kan ikke henskydes til Optagelse efter den endelige Doms<lb />
+Afsigelse.</p>
+<wtitle>§  266.</wtitle>
+<p>
+Den endelige Dom skal bestå af:</p>
+<p>1)  En Fremstilling af Sagens faktiske Sammenhæng.</p>
+<p>2)  De egentlige Domsgrunde  (Præmisserne).</p>
+<p>3)  Domsslutningen (Konklusionen).</p>
+<wtitle>§ 267.</wtitle>
+<p>Alle de faktiske Data, på hvilke Dommen<lb />
+bygges, må fuldstændigt og nøjagtigt angives<lb />
+i den. Kjendsgjerninger, som have været<lb />
+Gjenstand for Parternes Forhandling, men<lb />
+som efter Rettens Opfattelse af Sagen ikke<lb />
+komme i Betragtning, kunne forbigåes i Dommen, medmindre Retten stjønner, at der dog<lb />
+muligvis af Højesteret kan blive tillagt disse<lb />
+Kjendsgjerninger Betydning, i hvilket Tilfælde<lb />
+Dommen bør indeholde fornøden Udtalelse, om<lb />
+de kunne ansees beviste eller vedgåede. Ligeledes må Dommen udtale sig angående<lb />
+Kjendsgjerninger, der have været Gjenstand for<lb />
+Forhandling under Sagen, når Sådant særligt er begjært af  Parterne.</p>
+<p>Den i Dommen givne Fremstilling af<lb />
+Parternes mundtlige Angivelser og Ytringer<lb />
+afgiver fuldt Bevis for disse, forsåvidt ikke<lb />
+Modbevis imod den føres.</p>
+<wtitle>§  268.</wtitle>
+<p>Domsgrundene indeholde en Fremstilling<lb />
+af Retssætningerne såvelsom af disses Anvendelse på det Faktiske i Sagen. Anser<lb />
+Retten en af de anførte Søgsmålsgrunde<lb />
+eller Indsigelser for tilstrækkelig til at begrunde<lb />
+det påståede Resultat, er den ikke pligtig at<lb />
+indlade sig på nogen Bedømmelse af de<lb />
+andre.   Kun de  Kjendsgjerninger,  som ifølge</p>

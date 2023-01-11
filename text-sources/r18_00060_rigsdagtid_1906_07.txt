@@ -1,0 +1,74 @@
+3759
+<pb n="60"/>
+<h>
+<coll>3759</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3760</colr>
+</h>
+<p>
+Saavel Rettens Formand som hvert enkelt af dens andre Medlemmer kan<lb />
+stille Spørgsmaal.
+</p>
+<p>
+Naar der ikke svares paa de stillede Spørgsmaal, eller Svaret ikke har til-<lb />
+strækkelig Bestemthed, kan Retten fortolke Tavsheden eller Ubestemtheden paa den<lb />
+for Modparten gunstigste Maade og navnlig lægge dennes Fremstilling til Grund for<lb />
+Paakendelsen.
+</p>
+<wtitle>§ 260.</wtitle>
+<p>
+Retten kan opfordre en Part til at fremlægge Situationskort, Stamtavler,<lb />
+Grundrids, Tegninger og andre lignende Anskueligheden befordrende Midler eller til-<lb />
+vejebringe Syn eller Skøn, naar Sagen ikke uden dette kan bedømmes med tilstrækkelig<lb />
+Sikkerhed.
+</p>
+<p>
+Efterkommer en Part ikke denne Opfordring, kan Retten efter Omstændig-<lb />
+hederne bringe Reglen i § 259, sidste Stykke, til Anvendelse.
+</p>
+<wtitle>§ 261.</wtitle>
+<p>
+Dersom Retten, efter at Optagelse til Dom er sket, finder Grund til at stille<lb />
+Spørgsmaal af den i § 259 omhandlede Beskaffenhed til Parterne eller til, at der<lb />
+indhentes Syn eller Skøn, kan den under Angivelse af Øjemedet indkalde Parterne<lb />
+til et Møde, i hvilket Spørgsmaalene begæres besvarede, eller Parterne opfordres til<lb />
+snarest muligt at foretage det fornødne til at fremskaffe Synet eller Skønnet.
+</p>
+<p>
+Udgifterne ved de i denne Paragraf omhandlede Foranstaltninger udredes for-<lb />
+skudsvis af det offentlige, indtil det ved den endelige Dom kan afgøres, hvilken af<lb />
+Parterne der skal bære dem.
+</p>
+<wtitle>§ 262.</wtitle>
+<p>
+Antager Retten, at der er Omstændigheder til Stede, som kunne medføre Af-<lb />
+visning paa Embeds Vegne, kan den standse Forhandlingen og opfordre Parterne til<lb />
+at erklære sig over Afvisningsspørgsmaalet.
+</p>
+<p>
+Naar Afvisningsdom ikke afsiges, fortsættes Forhandlingen.
+</p>
+<wtitle>§ 263.</wtitle>
+<p>
+Retten kan bestemme, at flere for den svævende Retssager imellem de samme<lb />
+Parter skulle forhandles i Forbindelse med hverandre. Samme Myndighed har Retten<lb />
+ogsaa med" Hensyn til Retssager imellem forskellige Parter, naar Søgsmaalenes For-<lb />
+ening fra først af ikke vilde stride imod § 227.
+</p>
+<p>
+Ere flere Krav forenede under een Retssag, kan Retten bestemme, at en Ad-<lb />
+skillelse skal finde Sted og et eller flere af Kravene forhandles og paadømmes særskilt.
+</p>
+<p>
+Frembyder Sagen flere Stridspunkter, kan Retten bestemme, at Forhandlingen<lb />
+foreløbig skal indskrænke sig til et eller nogle af disse; enkelte Søgsmaalsgrunde eller<lb />
+enkelte Indsigelser kunne som en Følge heraf gøres til Genstand for særskilt Procedure.
+</p>
+<wtitle>§ 264.</wtitle>
+<p>
+Er et Retsforhold, hvis Fastsættelse vil faa Indflydelse paa Sagens Udfald,<lb />
+Genstand for en ved samme eller en anden Ret svævende Retstrætte, eller er det ind-<lb />
+bragt til Afgørelse ved administrativ Myndighed, kan Retten enten efter Paastand eller<lb />
+paa Embeds Vegne bestemme, at Sagens Forhandling i det hele eller til Dels skal ud-<lb />
+sættes, indtil hin Retstrætte er paadømt, eller den administrative Afgørelse er truffen.
+</p>

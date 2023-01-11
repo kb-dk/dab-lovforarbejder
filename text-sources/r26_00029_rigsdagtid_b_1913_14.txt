@@ -1,0 +1,195 @@
+2857
+<pb n="29" />
+<h>
+<coll>2857</coll>
+<topmidle>
+Bet. o. Lovf. om	Rettens Pleje m. m.
+</topmidle>
+<colr>2858</colr>
+</h>
+<title>
+[Redegørelse
+for
+Ændringer i Lønningslovforslagets Tavler A. og B.
+Dommere.
+</title>
+<leftside>
+<p>
+Folketingets Vedtagelse.
+</p>
+<p>
+I	Klasse (Tavle A).
+</p>
+<p>
+1—2. Dommerne i Frederiksberg Birk.
+</p>
+<p>
+3.	Dommeren i Helsingør m. m.
+</p>
+<p>
+4.	— i Hillerød m. m.
+</p>
+<p>
+5.	— i Vordingborg m. m.
+</p>
+<p>
+6.	— i Svendborg m. m.
+</p>
+<p>
+7—8. Dommerne i Silkeborg m. m.<lb />
+</p>
+<p>
+9. Dommeren i Frederikshavn m. m.
+II	Klasse (Tavle B).<lb />
+</p>
+<p>
+10. Dommeren i Læsø Birk.
+</p>
+<p>
+Herefter:<lb />
+I Klasse: 59 Dommere,<lb />
+II — : 35 —
+i alt... 94 Dommere.
+</p>
+</leftside>
+<rightside>
+<p>
+Ændringsforslag.<lb />
+I Klasse.
+</p>
+<p>
+1—3. Dommerne i Frederiksberg Birk.
+</p>
+<p>
+4.	Dommeren i Helsingør m. m.
+</p>
+<p>
+5.	— i Hillerød m. m.
+</p>
+<p>
+6.	— i Lysgaard m. fl. Herreder.
+</p>
+<p>
+7.	— i Frederikshavn m. m.
+</p>
+<p>
+II Klasse.
+</p>
+<p>
+8.	Dommeren i Hørsholm Birk.
+</p>
+<p>
+9.	— i Kronborg v. Birk.
+</p>
+<p>
+10.	— i Vordingborg m. m. (?).
+</p>
+<p>
+11.	— i Præstø m. m.
+</p>
+<p>
+12.	— i Svendborg m. m.
+</p>
+<p>
+13.	— i Ærø m. m.
+</p>
+<p>
+14.	— i Silkeborg m. m.
+</p>
+<p>
+Herefter:<lb />
+I Klasse: 57 Dommere.<lb />
+II — : 41 -
+i alt... 98 Dommere,
+</p>
+<p>
+d. v. s. aarlig Merudgift til Lønninger
+21,000 Kr.]
+</p>
+</rightside>
+<title>
+[Redegørelse
+for
+Ændringer i Lønningslovforslagets Tavler C. og D. med Tilføjelse af Tavle E.
+Politimestre.
+</title>
+<leftside>
+<p>
+Folketingets Vedtagelse.
+</p>
+<p>
+I. Klasse. (Tavle C.).
+</p>
+<p>
+1.	Politimesteren i Køge m. m.
+</p>
+<p>
+2.	—	i Kalundborg m. m.
+</p>
+<p>
+3.	—	i Slagelse m. m.
+</p>
+<p>
+4.	—	i Vordingborg m. m.
+</p>
+<p>
+5.	 —	i Sakskøbing m. m.
+</p>
+<p>
+6.	—	i Nyborg m. m.
+</p>
+<p>
+7.	—	i Svendborg m. m.
+</p>
+<p>
+8.	—	i Odense Herred.
+</p>
+<p>
+9.	—	i Assens m. m.<lb />
+10.	— i Silkeborg m. m.
+</p>
+<p>
+11.	—	i Hasle m. fl. Herre-
+der m. m.
+</p>
+<p>
+12.	—	i Nykøbing M. m. m.
+</p>
+<p>
+13.	—	i Viborg m. m.
+</p>
+<p>
+14.	—	i Esbjerg m. m.
+</p>
+</leftside>
+<rightside>
+<p>
+Ændringsforslag.
+</p>
+<p>
+I. Klasse. (Tayle C.).
+</p>
+<p>
+1.	Politimesteren i Køge m. m.
+</p>
+<p>
+2.	—	i Slagelse m. m.
+</p>
+<p>
+3.	—	i Svendborg m. m.
+</p>
+<p>
+4.	—	i Silkeborg m. m.
+</p>
+<p>
+5.	—	i Hasle m. fl. Herre-
+der m. m.
+</p>
+<p>
+6.	—	i Viborg m. m.
+</p>
+<p>
+7.	—	i Fjends-Nørlyng Her-
+reder m. m.
+</p>
+</rightside>

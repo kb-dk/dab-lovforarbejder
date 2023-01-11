@@ -1,0 +1,61 @@
+3755
+<pb n="1141" >
+<p rend="page">1141</p>
+<h>
+<coll>3755</coll>
+<colr>3756</colr><lb />
+Den endelige Behandling af Valgloven. Regulativel.<lb />
+</h>
+
+<table>
+Amt.	Valgkredsene i hvert Amt.	Valgkredsenes Sammensætning.	Beboernes Antal i hver Valgkreds	Mødestedet.<lb />
+III. Holbek.	1.	Holbek Kjøbstad, Meerløse, Tølløse og Aagerup, Nørrejernløse og<lb />
+Qvandløse, Soderup og Eskild; strup, Asminderup og Grandløfe,<lb />
+Taastrup og Uggeløse, Ondløse og Søndersted, Butterup og<lb />
+Tudse, Sønderjernløse og Søstrup.	14,892	Holbek Kjøbstad.<lb />
+	2.	Kundby, Hjembek og Svinninge, hørby, Udby, Stifsbjergby<lb />
+og Mørke, Jyderup og Holmstrup, Hagested og Gislinge,<lb />
+Skamstrup og Frydendahl, Bregninge og Bjergsted, Biskinde<lb />
+og Aunsø, Værsløv og Jordløse, Føllesløv og Særsløv.	15,761	Svinninge Kro.<lb />
+	3.	Ørsløv og Solberg, Nidløse, Steenlille, Havreberg, Giersløv,<lb />
+Finderup, Tersløse og Skjelleberg, Reersløv og Bedby, Sæby og Hallensløv, Gjørløv og Bakkendrup, Helsinge og<lb />
+Drøsselbjerg, Svallerup, Store- og Lille-Fuglede.	14,752	Bedby Kro.<lb />
+	4.	Kallundborg Kjøbstad, Do. Landdistrikt, Rakløv, Refsnæs, Rørby, Udby, Aarby, Tømmerup, Koldby, Besser og Onsberg,<lb />
+Traneberg, Nordby, Kyholm, Seierø.	15,059	Kallundborg Kjøbstad.<lb />
+	5.	Nykjøbing Kjøbstad, Rørvig, Big og Asminderup, Grevinge,<lb />
+Egebjerg, Asnæs, Høiby, Faareveile, Odden, Ballekilde og<lb />
+Hørve.	12,772	Nykjøbing Kjøbstad.<lb />
+IV. Sorø.	1.	Ringsted Kjøbstad, Do. Landsogn, Beenløse, Haraldsted og Allindemagle, Jydstrup og Valsølille, Hasle og Freersløv,<lb />
+Vigersted og Qværkeby, Nordrup og Farrindgløse, Tersløv og<lb />
+Ørsløv og Sneesløv, Braaby, Thestrup.	13,755	Ringsted Kjøbstad.<lb />
+	2.	Sr ø Kjøbstad, Do. Landsogn, Gyrstinge og Flinterup, Munkebjergby og Bromme, Pedersborg og Kindertofte, Liunge og<lb />
+Broby, Steenmagle, Slaglille og Bjernede, Alsted og Fjennesøv, Sigersted og Bringstrup, Vettersløv og Høm.	13,054	Sorø Kjøbstad.<lb />
+	3.	Slagelse Kjøbstad, Do. Landsogn, Heininge, Korsør Kjøbstad,<lb />
+Taarnborg, Vemmeløv og Hemmershøi, Sønderup og Nordrup,<lb />
+Sorterup og Ottestrup, Stillinge, Gudum.	13,669	Slagelse Kjøbstad.<lb />
+	4.	Skjelskør Kjøbstad, Do. Landdistrikt, og Sludstrup,<lb />
+Lundforlund og Sjerløv, Boeslunde, Eggersløvmagle, Tjæreby. Ørsløv og Bjerre, Skørpinge og Faardrup, Simlinge,<lb />
+Magleby, Høve og Flakkebjerg, Hyllested, Vensløv og Holstenborg, Agersø og Omø.	13,571	Skjelskør Kjøbstad.<lb />
+	5.	Marvede og Hyllinge, Vallensved, Tjustrup og Haldagerlille,<lb />
+Herlufsholm, Førsløv, Qvislemark og Fjurendahl, Krummerup og Fugleberg, Karrebek, Fodby, Grundensløv, Haarsløv<lb />
+og Tingjellinge, Sørbymagle og Kirkerup.	12,518	Fugleberg Kro.<lb />
+V. Præstø	1.	Storeheddinge, Do. Landsogn, Maglebye og Holtug, Stroebye<lb />
+og Varpeløv, Hellested, Spjellerup og Smerup, Lyderslev og<lb />
+Frørslev, Lillehedinge og Haunslev, Høierup, Carise og Alslev, Bemmetoste, haarløv og Himlingeøie, Valløe Stift, Valløe<lb />
+By og Taarnby.	13,571	Storeheddinge<lb />
+	2.	Forøe, kongsted, Østeregede og Vesteregede, Ulsø, Dalby og<lb />
+Thureby, Endersløv, og Braaby, Hersølge og Sæder, Boldersløv og Gjørsløv, Lidemark og Bjeverskov, Lellinge.	13,482	Farøe.<lb />
+	3.	Nestved Kjøbstad, Do. Landdistrikt, Herlufmagle og Thybjerg,<lb />
+Næsby og Tyvelse, Glumsø og Bavlse, Skjelby Sandby og Brangstrup, Fensmark og Riisløv, Aversie, Rønnebek<lb />
+og Olstrup, Nestelsø og Mogenstrup, Torværd. 	13,731	Nestved Kjøbstad.<lb />
+	4.	Præstø Kjøbstad, Do. Landdistrikt, SkibVinge, Everdrup, Snesere, Rohlte, Baarse og Beldringe, Jungshoved, Allersløv,<lb />
+Mehrn, Kallehauge.	12,747	Præstø Kjøbstad.<lb />
+	5.	Vordingborg Kjøbstad, Do. Landdistrikt, Kastrup, Udby og Ørsløv, sværdborg, Kjøng, Beilø og Vesteregi??borg, Hammer<lb />
+og Lundby, Østeregi??borg.	12,200	Vordingborg Kjøbstad.<lb />
+	6.	Stege Kjøbstad, Do. Landdistrikt, Magleby, Borre, Elmelunde,<lb />
+Kjeldby, Damsholt, Phanefjord, Bogø Nyord. 	13,184	Stege Kjøbstad.<lb />
+</table>
+
+
+
+</pb>

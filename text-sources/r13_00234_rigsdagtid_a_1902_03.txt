@@ -1,0 +1,73 @@
+2195
+<pb n="234" />
+<h>
+<coll>
+2195
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2196
+</colr>
+</h>
+<wtitle>§  1033.</wtitle>
+<p>
+Begæring om Genoptagelse medfører ikke Udsættelse eller Standsning af<lb />
+Dommens Fuldbyrdelse, medmindre Betten bestemmer det modsatte; det samme gælder<lb />
+om Beslutning om Genoptagelse, der træffes i Henhold til § 1023. Er Genoptagelse<lb />
+besluttet i Henhold til § 1024, bliver Fuldbyrdelsen altid at udsætte eller standse, hvis<lb />
+Domfældte begærer det.
+</p>
+<wtitle>§  1034.</wtitle>
+<p>
+Er en udebleven Tiltalt, som ikke overensstemmende med § 902 Nr. 3 har<lb />
+samtykket i, at Sagen er blevet fremmet i hans Fraværelse, bleven domfældt, og staar<lb />
+Anke overensstemmende med Beglerne i Kapitel 89 ham ikke aaben, kan han<lb />
+begære Sagen genoptagen til ny Forhandling, naar han godtgør, at han har haft lov-<lb />
+ligt Forfald og ved ham utilregnelige Omstændigheder har været forhindret fra i Tide<lb />
+at anmelde dette, eller at Stævningen ikke betimelig er kommen til hans Kundskab.<lb />
+Begæringen maa fremsættes inden saadan Frist som bestemt i § 992, jfr. § 993.<lb />
+Reglerne i §§ 1026—1029 og 1032 finde herved tilsvarende Anvendelse.
+</p>
+<p>
+Udebliver Domfældte under den ny Domsforhandling, hæver Retten ved Ken-<lb />
+delse Sagen, og den afsagte Dom bliver staaende ved Magt.
+</p>
+<p>
+Under tilsvarende Betingelser, som i denne Paragrafs første Stykke angivet,<lb />
+kan Tiltalte begære Genoptagelse af en af ham rejst Ankesag, som er afvist paa<lb />
+Grund af hans Udeblivelse.
+</p>
+<title>
+Syvende Afsnit.
+</title>
+<undertitle>
+Paatale af særlige Myndigheder eller af private. Forfølgning<lb />
+af borgerlige Krav under Straffesager.
+</undertitle>
+<title>
+Kapitel 92.
+</title>
+<title>
+Behandling af Sager, som paatales af en særlig offentlig Myndighed eller af en<lb />
+privat Sagsøger.
+</title>
+<wtitle>§  1035.</wtitle>
+<p>
+Forinden en særlig offentlig Myndighed rejser Paatale i Henhold til § 702,<lb />
+skal den ved Henvendelse til Politimesteren forvisse sig om, at denne ikke agter at<lb />
+forfølge Sagen. Naar Paatale herefter rejses af en særlig Myndighed, blive Bestem-<lb />
+melserne i Kapitlerne 86 (med Undtagelse af § 977) og 88—90 at anvende saaledes,<lb />
+at bemeldte Myndighed under Sagen træder i Politimesterens Sted.
+</p>
+<p>
+Anke fra Paatalens Side besluttes og iværksættes af Overanklageren, dog kun<lb />
+efter Begæring af den særlige Myndighed.
+</p>
+<p>
+Har Politimesteren indledet, men senere frafaldet Forfølgning, og er Sagen<lb />
+som Følge heraf bleven hævet, kan den særlige Myndighed rejse ny Forfølgning; dog<lb />
+maa Anklageskrift i saa Fald indgives inden fjorten Dage, efter at Sagen er hævet.<lb />
+Har Politimesteren frafaldet Forfølgning under selve Domsforhandlingen, kan den
+</p>

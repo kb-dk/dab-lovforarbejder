@@ -1,0 +1,68 @@
+4005
+<pb n="183"/>
+<h>
+<coll>4005</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>4006</colr>
+</h>
+<p>
+Sluttes Forundersøgelsen for en eller nogle af de Forbrydelser, for hvilke den<lb />
+samme Person er sigtet, kan Undersøgelsen af de andre Forbrydelser midlertidig<lb />
+hvile, indtil Afgørelse for den eller de førstnævnte Forbrydelsers Vedkommende har<lb />
+fundet Sted, naar Paatalemyndigheden forlanger det og Sigtede ikke fordrer Fortsættelse.
+</p>
+<wtitle>§ 796.</wtitle>
+<p>
+Samtidig med at Tiltale rejses i en Sag, i hvilken Forundersøgelse har fundet<lb />
+Sted, skal Paatalemyndigheden tilstille Undersøgelsesretten Meddelelse herom og om,<lb />
+ved hvilken Eet Tiltale er rejst.
+</p>
+<p>
+Er Sigtede fængslet, bør Undersøgelsesretten ved Forundersøgelsens Slutning<lb />
+opgive Paatalemyndigheden en vis Frist, ved hvis Udløb Fængslingen vil blive hævet,<lb />
+saafremt ikke inden den Tid enten Tiltale rejses, eller Oplysninger meddeles, som<lb />
+findes at burde begrunde en Forlængelse af Fristen. Paa lignende Maade kan for-<lb />
+holdes, hvor Spørgsmaal opstaar om Ophør af andre vedvarende Foranstaltninger.
+</p>
+<wtitle>§ 797.</wtitle>
+<p>
+I Sager om Erstatning eller Æreserklæring for uforskyldt Anholdelse eller om<lb />
+Erstatning for uforskyldt Varetægtsarrest eller Udstaaelse af uforskyldt Straf (jfr.<lb />
+§ 949). tilvejebringer Undersøgelsesretten i Overensstemmelse med Beglerne i dette<lb />
+Kapitel de fornødne nye Oplysninger. Den, der kræver Erstatning eller Æreserklæring,<lb />
+har Eet til at forlange, at der skal foretages Afhøring af ham selv eller andre op-<lb />
+givne Personer.
+</p>
+<htitle>Fjerde Afsnit.</htitle>
+<title>
+Tiltale og Domsforhandling ved Landsret.
+</title>
+<title>Kapitel 72</title>
+<undertitle>
+Iværksættelse af Tiltale og Forberedelse af Domsforhandling for Landsret i<lb />
+Sager, ved hvis Paadømmelse Nævninger skulle medvirke.
+</undertitle>
+<wtitle>§ 798.</wtitle>
+<p>
+Tiltale rejses ved, at Amtmanden (i København Politidirektøren) under Ind-<lb />
+sendelse til Landsretten af en Udskrift af de i Sagen foretagne retslige Undersøgelser<lb />
+og Sagens øvrige Aktstykker samt andre synlige Bevismidler anmoder Rettens Justi-<lb />
+tiarius om blandt de i § 698 nævnte Sagførere at beskikke en offentlig Anklager<lb />
+til at udføre Anklage mod Tiltalte for den af ham begaaede Forbrydelse, der saa vidt<lb />
+muligt betegnes med dens i Loven hjemlede Navn.
+</p>
+<p>
+Den beskikkede Anklager erholder derhos samtlige Sagens Dokumenter til-<lb />
+stillede og udfærdiger derefter uden Ophold under sin Haand et Anklageskrift, som<lb />
+skal indeholde:
+</p>
+<p>
+1.	Angivelse af den Domstol, ved hvilken Sagen anlægges;
+</p>
+<p>
+2.	Tiltaltes Navn, og hvad der ellers maatte udkræves til hans nøjagtige Betegnelse;
+</p>
+<p>
+3.	under Benyttelse af Forbrydelsens i Loven hjemlede Navn eller under Frem-<lb />
+hævelse af dens i Loven beskrevne Kendemærker og, om fornødent, med Til-
+</p>

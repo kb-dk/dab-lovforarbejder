@@ -1,0 +1,64 @@
+3253
+<pb n="22" />
+<h>
+<coll>3253</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3254</colr>
+</h>
+<p>
+ninger, der skulle lægges til Grand for deres Besvarelse. Nævningerne trække sig<lb />
+derefter tilbage til Raadslagning og Afstemning; om Raadslagningen og Afstemningen<lb />
+ere de under Straf af Fængsel pligtige at iagttage Tavshed. Til en for Tiltalte ugun-<lb />
+stig Besvarelse kræves mindst 8 Stemmer. Svarene afleveres til Retten uden Begrun-<lb />
+delse og uden Angivelse af Stemmetal. De af Nævningerne til Gunst for Tiltalte<lb />
+afgivne Svar ere uangribelige, forudsat at hele Sagens Behandling ej kasseres paa Grund<lb />
+af væsentlige Formfejl, og der ej heller findes at ligge en Retsvildfarelse til Grund<lb />
+for Spørgsmaalsstillingen eller Formandens Retsbelæring. Under de nævnte Forudsæt-<lb />
+ninger kan altsaa hverken Landsret eller Højesteret omstøde eller tilsidesætte Næv-<lb />
+ningekendelsen. Anderledes, hvis Nævningernes Svar er til Ugunst for Tiltalte.<lb />
+I saa Fald kan Retten tilsidesætte det, hvis den finder det urigtigt. Der sondres i<lb />
+saa Henseende paa følgende Maade: Hvis Fejlen efter Rettens Skøn bestaar i, at noget<lb />
+til Skade for Tiltalte af Nævninger er anset bevist, som Retten ikke finder bevist, kan<lb />
+Retten foreløbig tilsidesætte Nævningekendelsen og paabyde ny Domsforhandling for<lb />
+andre Dommere og andre Nævninger, og, hvis Nævningerne under denne skulde komme<lb />
+til samme Resultat som de forrige Nævninger, medens Retten paa sin Side enstemmig<lb />
+finder Beviset utilstrækkeligt, kan Retten afsige Dom paa Grundlag af sin Opfattelse<lb />
+af Bevisspørgsmaalet, Hvis Nævningernes for Tiltalte ugunstige Svar derimod beror<lb />
+paa en efter Rettens Mening urigtig Opfattelse af et retligt Spørgsmaal, kan Retten<lb />
+straks tilsidesætte Nævningekendelsen og lægge sin egen Opfattelse til Grund for<lb />
+Dommen.
+</p>
+<p>
+Der tillægges Nævningerne 3 Kr. for hver Dag, de i Anledning af Nævninge-<lb />
+hvervet holdes borte fra Hjemmet, og derhos, hvis de maa give Møde over en Fjer-<lb />
+dingvej fra den By, hvori de bo, eller, hvis de bo paa Landet, fra deres Hjem, i Be-<lb />
+fordringsgodtgørelse 1 1/2 Kr. pr. løbende Mil.
+</p>
+<p>
+6. Retsplejens Adskillelse fra Forvaltningen. I den gennemsete Grundlovs<lb />
+§ 71 foreskrives det, at „Retsplejen bliver at adskille fra Forvaltningen efter de Reg-<lb />
+ler, der fastsættes ved Lov". Til Opfyldelse heraf saavel som for at tilvejebringe den<lb />
+Adskillelse mellem Politi og Ret, som er nødvendig til Anklageprincipets Gennem-<lb />
+førelse i Strafferetsplejen, foreslaas der i hver af de fremtidige Underretskredse ansat<lb />
+en særlig Politimester ved Siden af Underretsdommeren. Til denne Politimester hen-<lb />
+lægges endvidere de Politiforretninger, der ligge uden for Politivirksomheden i Straffe-<lb />
+retsplejen *), saavel som, i alt Fald foreløbig, alle de Underøvrighedsforretninger, som<lb />
+hidtil have været varetagne af Retsbetjentene**). Kun nogle enkelte Forretninger,<lb />
+som vel ligge uden for den egentlige Retspleje, men dog staa i en vis Forbindelse<lb />
+dermed, eller i visse Henseender ere ensartede med Forretninger, der falde inden for<lb />
+Retsplejens Omraade, skulle vedvarende besørges af Underretsdommeren (saaledes<lb />
+Tinglæsningsvæsnet, Notarialforretninger, Formandskabet i Landvæsenskommissioner,<lb />
+Udmeldelse af Syns- og Skønsmænd uden for Retsplejen, for saa vidt den ikke kan ske
+</p>
+<note rend="foot">
+<p>
+*) Ordenspolitiet, Veterinærpolitiet, Ledelsen af Foranstaltninger mod smitsomme Sygdomme og<lb />
+Karantænetilsynet, Ledelse af Strandingsvæsnet, Deltagelse i Sundheds-, Bygnings- og Brand-<lb />
+kommissioner, Lægdsvæsnet m. m.
+</p>
+<p>
+**) Udfærdigelse af Næringsbeviser, Autorisation af Handelsbøger, Forretninger med Hensyn til<lb />
+Taksationer efter Lov 19de Marts 1869, Førelse af Firmaregister, Mæglinger i Separations- og<lb />
+Skilsmissesager, Foretagelse af borgerlige Vielser, Tilsyn med Lærlingeforholdet m. m.
+</p>
+</note>

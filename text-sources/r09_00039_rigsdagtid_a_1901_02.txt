@@ -1,0 +1,71 @@
+2225
+<pb n="39" />
+<h>
+<coll>2225</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2226</colr>
+</h>
+<p>
+Pokumentet i et af Retten fastsat Retsmøde. Ubeføjet Undladelse heraf kan Retten<lb/>
+i saa Fald tillægge Virkning i Overensstemmelse med Grundsætningen i § 90, sidste<lb/>
+Stykke. Det samme gælder ogsaa, naar vedkommende for at hindre Dokumentets<lb/>
+Fremlæggelse har ødelagt det eller uden Nødvendighed givet det fra sig.
+</p>
+<p>
+Paastaar vedkommende Part, at der i Dokumentet tillige indeholdes Oplys-<lb/>
+ninger, som ere denne Sag uvedkommende, og som han ikke ønsker bekendtgjorte,<lb/>
+bestemmer Retten, paa hvilken Maade Dokumentet skal fremlægges.
+</p>
+<p>
+Nægter vedkommende Part at være i Besiddelse af det angivne Dokument,<lb/>
+paahviler det den, som fordrer dets Fremlæggelse, at bevise hans Besiddelse deraf.
+</p>
+<wtitle>§ 191.</wtitle>
+<p>
+Trediemand er pligtig til paa Opfordring at fremkomme med Dokumenter,<lb/>
+naar vedkommende Part enten er Medejer af dem eller i øvrigt har en af Processen<lb/>
+uafhængig Ret til at benytte dem som Bevis for sine Rettigheder.
+</p>
+<p>
+Men selv hvor dette ikke er Tilfældet, skal Trediemand være pligtig at bidrage<lb/>
+til Sagens Oplysning ved at give Retten og Parterne Adgang til Benyttelse eller Be-<lb/>
+sigtigelse af Dokumenter, der ere hans Raadighed undergivne, men dog kun, for saa<lb/>
+vidt Dokumenternes Fremførelse ikke vilde kunne skade ham selv eller paadrage ham<lb/>
+Udgifter eller betydelig Ulejlighed.
+</p>
+<wtitle>§ 192.</wtitle>
+<p>
+Den Part, der vil benytte et under Trediemands Raadighed værende Dokument<lb/>
+som Bevis, kan fremsætte Begæring om, at det maa paalægges Trediemand paa Partens<lb/>
+egen Bekostning at fremlægge Dokumentet. Saadan Begæring maa indeholde en nøj-<lb/>
+agtig Opgivelse af de Fakta, der ved Dokumentet skulle bevises, samt nærmere For-<lb/>
+klaring angaaende de Grunde, hvorfor Parten antager, at den opgivne Trediemand er<lb/>
+i Besiddelse af Dokumentet og pligtig at fremlægge det.
+</p>
+<p>
+Retten kan derefter ved Kendelse paalægge Trediemand at fremlægge Doku-<lb/>
+mentet i et nærmere bestemt Retsmøde eller forinden oversende det til Retten, som<lb/>
+da besørger det fremlagt. Vedkommende Part har at drage Omsorg for denne Ken-<lb/>
+delses ufortøvede Forkyndelse for Trediemand; Forsømmelse hermed anses som Fra-<lb/>
+faldelse af Begæringen om Dokumentets Fremførelse.
+</p>
+<p>
+Fremkommer Dokumentet ikke i Retsmødet, maa i dette de Indsigelser frem-<lb/>
+sættes, vedkommende Trediemand tror at kunne gøre. Disse forhandles og paakendes<lb/>
+efter de om Vidner givne Regler i §§ 166, sidste Stykke, og 168.
+</p>
+<p>
+Imod den Trediemand, der ubeføjet udebliver eller undlader at efterkomme<lb/>
+Rettens Paalæg, anvendes de for Vidner foreskrevne Tvangsmidler, jfr. § 153.
+</p>
+<title>Kapitel XVII.</title>
+<undertitle>
+Afhøring af Parter og Parts Ed.
+</undertitle>
+<wtitle>§ 193.</wtitle>
+<p>
+Retten kan efter Modpartens Paastand indkalde en Part til personligt Møde<lb/>
+for at besvare Spørgsmaal sigtende til Sagens Oplysning. De i §§ 116—152 inde-<lb/>
+holdte Regler om Vidner tinde med de fornødne Lempelser Anvendelse, naar saadan<lb/>
+Forklaring fordres afgivet.
+</p>

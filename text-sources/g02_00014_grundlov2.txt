@@ -1,0 +1,147 @@
+1501
+<pb n="14" >
+<p rend="page">14</p>
+<h>
+<coll>1501</coll>
+<colr>1502</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 192<lb />
+</topright>
+</h>
+<leftside>
+<undertitle>
+To og tredsindstyvende (65de) Møde.<lb />
+(Fortsættelse af Garundlovscomiteens Behandling.)<lb />
+</undertitle>
+<p>
+Vi maae derfor holde os overbeviste om, at Forholdene hos os<lb />
+gjøre det nødvendigt, at det med Hensyn til Valgene til Landsthinget finder en Adskillelse Sted mellem By og Land, og vi maae<lb />
+ligeledes ansee det for vigtigt, at det indrømmes Kronen og enkelte<lb />
+bestemte Institutioner i Landet Ret til at udnævne et vist indskrænket<lb />
+Antal af Landsthingets Medlemmer.<lb />
+</p>
+<p>
+Endeligen ere vi af den Formening, at der ved Fordelingen af<lb />
+Landsthingets Medlemmer paa de forskjellige Landsdele ikke bør tages<lb />
+udelukkende Hensyn til Folkemængden, men at Østifterne, Nørrejylland<lb />
+og Slesvig, i Betragtning af disse Landsdeles eiendommelige Forhold og særlige Interesser, bør indrømmes hver en lige talrig Repæsentation paa dette Thing.<lb />
+</p>
+<p>
+Med Hensyn til Valgbarheden til Landsthinget, troe vi, at det<lb />
+vil være tilstrækkeligt at gjøre det til Betingelse for den, der skal<lb />
+vælges, at han har fyldt sit 35te Aar, istedetfor at Lovudkastet kræver <lb />
+40 Aar, fordi vi antage, at den, der har opnaaet en saadan Alder,<lb />
+vil have den tilstrækkelige Grad af Besindighed og Gemytsrolighed,<lb />
+for at kunne røgte sit alvorsfulde Hverv i dette Thing.<lb />
+</p>
+<p>
+Ved Antagelsen af dette System, med et saadant Landsthing i<lb />
+Forbindelse med det ovenfor betegnede Folkething, holde vi os forvissede om, at der vil være lagt en langt fastere Grundvold for<lb />
+Friheden og et tryggere Værn mod Farer, end ved Lovudkastets<lb />
+System. Vi holde os forvissede om, at ligesom en saadan Organisation af den lovgivende Magt er mere overeensstemmende med de<lb />
+constitutionelle Staters Udvikling i Europa, i hvilke Friheden og<lb />
+Samfundsordenen have viist sig at hvile paa en tryg Grundvold,<lb />
+end det i Lovudkastet angivne System, saaledes vil en Forfatning<lb />
+der gaaer ud fra det af os foreslaaede System, i langt høiere Grad,<lb />
+end det med Hensyn til Lovudkastets vil være Tilfældet, blive<lb />
+erkjendt for at være en Garanti for Danmarks lykkelige Fremtid, hvilket med Hensyn til Statens Stilling i Almindelighed og dens<lb />
+Credit i Særdeleshed er af stor Betydning.<lb />
+</p>
+<p>
+I Overeensstemmelse med det saaledes Udviklede foreslaae vi<lb />
+angaaende Landsthinget folgende Paragrapher, der i Lovudkastet<lb />
+ville blive 33, 34 og 35.<lb />
+<law n="33" >§ 33.<lb /></law>
+Valgret til Landsthinget har enhver uberygtet,<lb />
+fuldmyndig Mand, som har Indfødsret, og hvis Bo<lb />
+ei er under Opbuds- eller Fallitbehandling, naar han<lb />
+i det sidste Aar har svaret i directe kongelige eller<lb />
+communale Afgifter ialt 40 Rbd.<lb />
+</p>
+<p>
+Valgbar til Landsthinget er Enhver, som har de<lb />
+til Valgbarhed til Folkethinget fornødne Egenskaber,<lb />
+dog først naar han har fyldt sit 35te Aar.<lb />
+<law n="34" >§ 34.<lb /></law>
+Landsthinget skal bestaae af 20 Medlemmer valgte<lb />
+af Østisterne, 20 Medlemmer valgte af Nørrejylland,<lb />
+og et lignende Antal valgte af Slesvig, samt 2 Medlemmer valgte af Island, 1 Medlem valgt af Færøerne.<lb />
+</p>
+<p>
+Desuden indtræde i Landsthinget 2 Medlemmer<lb />
+valgte af Universitetet i Kjøbenhavn, 1 Medlem vatgt<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+af den polytechniske Anstalts og den militære Høiskoles Lærere i Forening, 2 Medlemmer valgte af<lb />
+Høiesteret, 2 Medlemmer valgte af Overretterne i<lb />
+Danmark, 4 Medlemmer valgte af Geistligheden i<lb />
+Danmark og 6 Medlemmer valgte af Kongen.<lb />
+</p>
+<p>
+Af de 20 Medlemmer, som Østifterne have at vælge,<lb />
+vælges:<lb />
+</p>
+<p>
+4 af Kjøbenhavn;<lb />
+2 — de øvrige Kjøbstæder i Sjællands Stift med<lb />
+Undtagelse af Byerne paa Bornholm:<lb />
+1 — Kjøbstæderne i Lollands-Falsters Stift:<lb />
+2 — Kjøbstæderne i Fyens Stift: og<lb />
+11 — Landdistrikter paa omtrent lige mange Indvaanere, dogat paa Bornholm Kjøbstæder og Land udgjøre eet Distrikt.<lb />
+</p>
+<p>
+Af de 20 Medlemmer, som falde paa Iylland, vælges<lb />
+8 af Kjøbtæderne;<lb />
+12 — Landdistrikter paa omtrent lige mange Indvaanere.<lb />
+</p>
+<p>
+Med Hensyn til Adskillelsen mellem By og Land<lb />
+til Landsthingsvalgene kan Forandring skee ved Lov,<lb />
+dog ikke førend efter Udløbet af den første Valgperiode.<lb />
+<law n="35" >§ 35.<lb /></law>
+Samtlige Valg til Landsthinget skee paa 8 Aar,<lb />
+og efter de Regler, som Valgloven bestemmer.<lb />
+</p>
+<p>
+Halvdelen af de Valgte af gaaer hvert 4de Aar.<lb />
+</p>
+<p>
+I Overeensstemmelse med de af os gjorte Forslag og som Følge<lb />
+af disse maae vi endeligen endnu foreslaae, at Lovudkastets § 30<lb />
+kommer til at lyde saaledes:<lb />
+</p>
+<p>
+Rigsdagen bestaaer af Folkethinget og Landsthinget. Begge fremgaae ved umiddelbare Valg;<lb />
+og at § 36 kommer til at lyde saaledes: Medlemmerne af<lb />
+Landsthinget erholde et dagligt Vederlag.<lb />
+</p>
+<p>
+Ovenstaaende 3die Minoritetsforslag, og 4de Minoritetsforslag<lb />
+a tiltrædes subsidiairt af Larsen.<lb />
+</p>
+<stitle>
+4de Minoritet b.<lb />
+</stitle>
+<p>
+Undertegnede Jespersen kan, med Hensyn til Landsthinget,<lb />
+ikke finde tilstrækkelig Betryggelse for, at de vigtige Formaal, man<lb />
+søger sremmede ved et Tokammer, kunne ventes opnaaede ved et saadant Landsthing, som det i Udkastet foreslaaede. Da det herefter er<lb />
+de samme Vælgere, fra hvem Valgene til Folkething og Landsthing<lb />
+udgaae, forekommer det mig nemlig, at de tvende egentlig yderligere<lb />
+Garantier, som med Hensyn til Landsthinget ere opstillede — den<lb />
+høiere Alder og ingen Diæter — der altsaa alene vedkomme Valgbarheden, ikke ere af den Beskaffenhed, at de give nogen sand Betryggelse for en Repræsentation, der kan ventes at blive saa forskjellig fra Folkethinget og at ville optræde med en saadan Selvstændighed og Kraft ligeoverfor dette, som er fornødent, for at opfylde det<lb />
+sande Øiemed med et Førstekammer, som er fornødent, for at Tokammer-Systemet i Udførelsen kan blive til sand Virkelighed. Hvad den<lb />
+høiere Alder angaaer, da kan denne Fordring vel i og for sig være<lb />
+velbegrundet; men allerede den Omstændighed, at en meget stor Deel<lb />
+af Medlemmerne til Folkethinget ville, ifølge Forholdene hos os,<lb />
+være omtrent i den samme Alder, viser, hvor liden Garanti der alene<lb />
+heri kan søges. Mere væsentlig er den Bestemmelse, at medlemmerne<lb />
+til Landsthinget ingen Diæter skulle have, en Forskrift, der fremtræder som<lb />
+</p>
+</rightside>
+</pb>

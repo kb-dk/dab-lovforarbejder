@@ -1,0 +1,101 @@
+2321
+<pb n="32" />
+<h>
+<coll>2321</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2322</colr>
+</h>
+<leftside>
+<wtitle>Til § 515.</wtitle>
+<p>502) I L. 4, L. 10 og sidste Stk. L. 2<lb />
+ændres „Skifteretten" til „Skifteforvalte-<lb />
+ren". I næstsidste Linie ændres „afsige en<lb />
+Kendelse" til „give en Afgørelse".</p>
+<p>Af Justitsministeren, tiltraadt af U d-<lb />
+valget undtagen Nanke:</p>
+<p>503) Underændringsforslag til Udval-<lb />
+gets Ændringsforslag Nr. 502: „Skifteret-<lb />
+ten" ændres paa de anførte 3 Steder til:<lb />
+„Sysselmanden".</p>
+<wtitle>Til § 516,</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>504) 1 L. 3 ændres: „under livilken<lb />
+vedkommende Skifteret staar" til: „i hvis<lb />
+Syssel Skiftet foregaar".</p>
+<wtitle>Til § 518.</wtitle>
+<p>505) Slutningsordene. „hvis
+Udlodningen" udgaa.</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>506) Underændringsforslag til Udval-<lb />
+gets Ændringsforslag Nr. 505:</p>
+<p>Ændringsforslaget affattes saaledes:<lb />
+Paragraffens sidste Ord: „Paaanke af Ud-<lb />
+lodningen" ændres til: „Søgsmaal i 1ste<lb />
+Instans jvf. § 520, 2det Stykke".</p>
+<wtitle>Til § 519.</wtitle>
+<p>507) I L. 3 ændres „paakendes af<lb />
+Skifteretten" til „afgøres af Skifteforval-<lb />
+teren", og Resten af Paragraffen udgaar.</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valg et undtagen Nanke:</p>
+<p>508) Underændringsforslag til Udval-<lb />
+gets Ændringsforslag Nr. 507:</p>
+<p>I Ændringsforslaget ændres: „Skifte-<lb />
+forvalteren" til: „Sysselmanden".</p>
+</leftside>
+<rightside>
+<wtitle>Til § 520.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>509) Paragraffen affattes saaledes:</p>
+<p>„Beslutninger af Skifteforvalteren, der<lb />
+forefalde under Boets Behandling, saavel<lb />
+som den sluttede Konkursbehandling i For-<lb />
+bindelse med de under samme af Skifte-<lb />
+forvalteren tagne Beslutninger, for saa vidt<lb />
+disse ikke have været gjorte til Genstand<lb />
+for særskilt Søgsmaal, kunne udenfor de i<lb />
+Konkurslovens § 137 angivne Tilfælde paa-<lb />
+klages gennem Søgsmaal efter § 508. Med<lb />
+Hensyn til Søgsmaal i Anledning af den<lb />
+Beslutning af Skifteforvalteren, hvorved en<lb />
+antagen Akkord forkastes, blive de i Kon-<lb />
+kurslovens §§ 138 og 139 fastsatte Begræns-<lb />
+ninger at iagttage.</p>
+<p>I de i Konkurslovens § 137 nævnte<lb />
+Tilfælde kan Besværing indgives til Ju-<lb />
+stitsministeren, som afgør Sagen".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>510) Underændringsforslag til Udval-<lb />
+gets Ændringsforslag Nr. 509:</p>
+<p>Ændringsforslaget ændres til, at Para-<lb />
+graffen affattes saaledes:</p>
+<p>„Imod Beslutninger af Sysselmanden,<lb />
+som forefalde under Boets Behandling, kan<lb />
+der uden for de i Konkurslovens § 137<lb />
+angivne Tilfælde rejses Besværing til Ret-<lb />
+ten overensstemmende med Reglerne i<lb />
+Kap. m. Den i Konkurslovens § 48,<lb />
+2det Stykke omhandlede Beslutning, saa<lb />
+vel som Beslutning, hvorved en antagen<lb />
+Akkord forkastes eller stadfæstes er paa<lb />
+angivne Maade Genstand for Besværing til<lb />
+Landsret. Dog blive med Hensyn til Be-<lb />
+sværing over den Beslutning af Sysselman-<lb />
+den, hvorved en antagen Akkord forkastes,<lb />
+de i Konkurslovens § 138 fastsatte Be-<lb />
+grænsninger at iagttage, og den Beslutning<lb />
+af Sysselmanden, hvorved en antagen Ak-<lb />
+kord stadfæstes, kan kun i de i Konkurs-<lb />
+lovens § 139 nævnte Tilfælde indbringes<lb />
+til Prøvelse af Landsretten. Klage an-<lb />
+gaaende de i Konkurslovens § 137 nævnte<lb />
+Tilfælde kan kun gøres gældende ved Be-<lb />
+sværing til højere Øvrighed overensstem-<lb />
+mende med Reglerne i Kap. m.</p>
+<p>I øvrigt kan den sluttede Konkursbe-<lb />
+handling og i Forbindelse dermed de under<lb />
+samme tagne Beslutninger, for saa vidt<lb />
+som disse ikke have været gjorte til Gen-</p>
+</rightside>

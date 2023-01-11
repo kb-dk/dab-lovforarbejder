@@ -1,0 +1,71 @@
+2043
+<pb n="158" />
+<h>
+<coll>
+2043
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2044
+</colr>
+</h>
+<wtitle>§  716.</wtitle>
+<p>
+Beskikkelse af en offentlig Forsvarer indskrænker ikke Sigtedes Bet til selv at<lb />
+drage Omsorg for sit Forsvar; men Forsvareren behøver ikke Sigtedes Samtykke til<lb />
+at foretage de Handlinger, som han anser for nødvendige eller hensigtsmæssige til<lb />
+dennes Tarv.
+</p>
+<wtitle>§  717.</wtitle>
+<p>
+De offentlige Forsvarere erholde Vederlag af det offentlige for den enkelte<lb />
+Sag, for saa vidt Krav herpaa ikke er frafaldet. Betten fastsætter dette Vederlag<lb />
+efter Arbejdets Betydning og Omfang ved Dommen, eller naar Forsvarerens Virksom-<lb />
+hed er afsluttet. I øvrigt gælde Bestemmelserne i Lov om Sagførersalær m. m. af<lb />
+24de Maj 1879 for de offentlige Forsvarere.
+</p>
+<title>
+Kapitel 67.
+</title>
+<title>
+Værneting og Forening af Straffesager.
+</title>
+<wtitle>§  718.</wtitle>
+<p>
+Enkeltstaaende Retshandlinger foretages i Reglen ved Underretten i den Rets-<lb />
+kreds, hvor den Person, som skal afhøres, bor eller opholder sig, eller hvor den Ting<lb />
+lindes eller antages at være, til hvilken Retshandlingen har Hensyn.
+</p>
+<wtitle>§  719.</wtitle>
+<p>
+Forundersøgelse kan begæres enten i den Retskreds, hvor Forbrydelsen er be-<lb />
+gaaet, eller hvor Sigtede er paagreben, eller hvor han bor eller opholder sig, eller<lb />
+hvor Oplysninger i Sagen antages bedst at kunne tilvejebringes.
+</p>
+<wtitle>§  720.</wtitle>
+<p>
+Domsforhandling skal med Hensyn til alle i Kongeriget begaaede Forbrydelser<lb />
+i Reglen foregaa ved den Ret, i hvis Kreds Handlingen er foretaget. Udkræves tiere<lb />
+Handlinger til Forbrydelsens Begreb, er den Ret Værneting, i hvis Kreds den sidste<lb />
+af dem er foretagen. Udgøre flere i forskellige Retskredse foretagne strafbare Hand-<lb />
+linger, som hver især vilde begrunde Værneting efter foranstaaende Regler, tilsammen<lb />
+een Forbrydelse, eller er en Forbrydelse begaaet paa Grænsen af flere Retskredse,<lb />
+eller er det uvist, i hvilken af flere bestemte Retskredse en Forbrydelse er begaaet,<lb />
+kan Forfølgning ske ved en hvilken som helst af de Retter, om hvilke der paa Grund<lb />
+af de angivne Omstændigheder opstaar Spørgsmaal.
+</p>
+<wtitle>§  721.</wtitle>
+<p>
+Som Gerningsstedets Værneting ved Forbrydelser, der begaas uden for Konge-<lb />
+rigets Søterritorium om Bord paa dansk Skib eller af Personer, som høre til saadant<lb />
+Skib, anses den Ret, til hvis Kreds Skibet ved sin Hjemkomst til Kongeriget ankom-<lb />
+mer for at lodse eller lade.
+</p>
+<wtitle>§  722.</wtitle>
+<p>
+Ved den Ret, i hvis Kreds Sigtede bor, eller, hvis han ikke har Bolig i Riget,<lb />
+ved Forfølgningens Begyndelse opholder sig, eller, hvis han ikke tindes i Riget, ved<lb />
+den Ret, i hvis Kreds han sidst havde Bolig eller opholdt sig, kunne forfølges:
+</p>

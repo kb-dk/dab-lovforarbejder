@@ -1,0 +1,35 @@
+2
+<pb n="8" />
+<p>1)   Udvisning    af   Riget   i   Henhold    til<lb />
+Straffelovens § 16;</p>
+<p>2)   Konfiskation   efter   Straffelovens   §   34<lb />
+eller iøvrigt,   hvor Konfiskation er hjemlet som<lb />
+følge   af en Forbrydelse,   uden   at  have Karakter af Straf;</p>
+<p>3)     Sikkerhedsforanstaltninger    i   Henhold<lb />
+til Straffelovens § 38. andet Stykke;</p>
+<p>4)   Mortifikation   af Ærefornærmelser   efter<lb />
+Straffelovens §  218;</p>
+<p>5)   Arverets Forbrydelse;</p>
+<p>6)   Forbrydelse   af   Embede,   hvor   denne<lb />
+ikke er foreskreven som Straf, samt Forbrydelse<lb />
+af Rang, Titel,  Orden eller hæderstegn;</p>
+<p>7)   at   erklære   et  ægteskab   for ugyldigt,<lb />
+som   er   indgået   trods  et Slægtskabs-   eller<lb />
+Svogerskabsforhold,   der   er   ubetinget   Ægteskabshindring,  eller   trods   et endnu bestående<lb />
+ægteskab.</p>
+<wtitle>§ 4.</wtitle>
+<p>Borgerlige Retskrav på den Sigtede,<lb />
+som følge af strafbare Handlinger, kunne af<lb />
+den Forurettede forfølges i Forbindelse med<lb />
+Straffesagen, forsåvidt denne ikke derved vil<lb />
+lide væsentligt Ophold.</p>
+<wtitle>§ 5.</wtitle>
+<p>Når Afgjørelsen af en Handlings Strafbarhed beror på, om et vist Retsforhold bestod på den Tid, Handlingen blev foretagen,<lb />
+undersøges og bedømmes Spørgsmålet herom<lb />
+under Straffesagen efter Reglerne for strafferetsplejen. Den Afgjørelse, som måtte virre<lb />
+truffen under en borgerlig Retstrætte, foregriber ikke Afgjørelsen af Strasspørgsmålet.</p>
+<title>Kapitel II.</title>
+<undertitle>Om Retternes Virkekreds.</undertitle>
+<wtitle>§  6.</wtitle>
+<p>Forundersøgelse og andre akcessoriske Retshandlinger i Sager, der høre under denne<lb />
+Lov, foretages af Underdømmeren som Undersøgelsesdømmer.      Dog kan  det i Sager, hvis</p>

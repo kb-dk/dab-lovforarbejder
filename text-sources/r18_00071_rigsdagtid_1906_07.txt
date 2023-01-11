@@ -1,0 +1,64 @@
+3781
+<pb n="71"/>
+<h>
+<coll>3781</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3782</colr>
+</h>
+<wtitle>§ 311.</wtitle>
+<p>
+Meddelelse af fri Proces udstrækker sine Virkninger til hele Sagen i den<lb />
+Instans, derunder til den for at opnaa ny Foretagelse af Sagen for samme Ret fore-<lb />
+skrevne Procedure, samt til Eksekution.
+</p>
+<p>
+Naar Retshandlinger skulle foretages efter Begæring af udenlandsk Myndighed,<lb />
+beskikkes der af Rettens Formand, saa vidt fornødent gøres, Sagførere til at varetage<lb />
+Parternes Tarv, og Sagen behandles foreløbig, som om fri Proces var meddelt, men<lb />
+Regning indgives til vedkommende udenlandske Myndighed over Retsafgifter, Sag-<lb />
+førersalærer og andre af Sagen flydende Omkostninger.
+</p>
+<wtitle>§ 312.</wtitle>
+<p>
+Afgørelser, hvorved fri Proces tilstaas, kunne ikke paaklages for højere Ret;<lb />
+imod Afgørelser, ved hvilke den nægtes eller tages tilbage, kan Kære til Højesteret<lb />
+finde Sted.
+</p>
+<wtitle>§ 313.</wtitle>
+<p>
+Justitsministeriet skal i samme Omfang som hidtil være berettiget til at<lb />
+tilstaa fri Proces, saaledes at Virkningen er den i § 308, § 310 og § 311, 1ste Stykke,<lb />
+angivne.
+</p>
+<p>
+Fri Proces tilkommer i de i § 432 og § 434, jfr. § 443, ommeldte Sager hen-<lb />
+holdsvis Justitsministeren og Øvrigheden.
+</p>
+<wtitle>§ 314.</wtitle>
+<p>
+Bestemmelserne i Lov om Sagførersalær m. m. af 24. Maj 1879 forblive gæl-<lb />
+dende i borgerlige Sager.
+</p>
+<htitle>Andet Afsnit.</htitle>
+<title>
+Rettergangsmaaden.
+</title>
+<title>Kapitel 29</title>
+<undertitle>
+Forberedelse af Domsforhandling i Sager, der i første Instans henhøre
+under Landsretterne.
+</undertitle>
+<wtitle>§ 315.</wtitle>
+<p>
+Processen indledes med Stævning. I denne skulle begge Parter være beteg-<lb />
+nede med Navn og Stilling og deres Bopæl eller Opholdssted være angivet, hvorhos<lb />
+den skal indeholde Sagsøgerens Paastand og en kort Fremstilling af de Kendsgerninger,<lb />
+hvorpaa Paastanden støttes, samt en Opfordring til Sagsøgte om at møde og frem-<lb />
+komme med sit Svar paa Sagens første Tægtedag (jfr. endvidere § 327).
+</p>
+<p>
+Parterne kunne dog, naar de efter Overenskomst begge møde for Retten (jfr.<lb />
+§318), og Sagen er anmeldt for denne senest Dagen før Retsmødet, uden Stævning be-<lb />
+gære Sagen foretagen. Sagsøgeren har i saa Fald at fremlægge en skriftlig Angivelse<lb />
+af sin Paastand og af de Kendsgerninger, hvorpaa den støttes.
+</p>

@@ -1,0 +1,67 @@
+440
+<pb n="24" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>440</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+Spørgsmål om Nævningers Ansvar efter denne Paragraf afgøres af Retten<lb />
+uden Nævninger.
+</p>
+<p>
+Den afsagte Kendelse forkyndes snarest muligt for den pågældende Nævning.<lb />
+Denne har i en Uge fra Kendelsens Forkyndelse Adgang til at fremkomme med Oplysninger for Retten om, at behørig Indkaldelse ej har fundet Sted, eller at han har<lb />
+haft lovligt Forfald. Findes disse fyldestgørende, ophæver Retten sin Kendelse. De<lb />
+omhandlede Kendelser kan ikke gøres til Genstand for Anke eller Kære.
+</p>
+<wtitle>§ 93.</wtitle>
+<p>
+Har en udebleven Nævning, for hvis Vedkommende lovligt Forfald er oplyst,<lb />
+ikke opfyldt den ham efter § 89 påhvilende Pligt til betimelig Anmeldelse og Meddelelse af Oplysninger, eller møder en Nævning for sent, men inden Lodtrækning af<lb />
+Nævninger til nogen Sag er begyndt den pågældende Dag, kan Retten ved Kendelse idømme ham en Bøde af indtil 20 Kr. Denne Kendelse kan ikke omgøres af<lb />
+Retten, ej heller påankes eller påkæres.
+</p>
+<wtitle>§ 94.</wtitle>
+<p>
+Rettens Formand kan meddele en Nævning Orlov under Samlingen for en<lb />
+bestemt Tid.
+</p>
+<wtitle>§ 95.</wtitle>
+<p>
+Viser det sig under Tinget, at det til Lodtrækningen af Nævninger til en Sag<lb />
+fornødne Antal (§ 857) ikke kan skaffes til Veje ved Indkaldelse af de tilsagte Hjælpenævninger, foranstalter Rettens Formand Tallet udfyldt ved Lodtrækning blandt de<lb />
+på Årslisten opførte Personer, som er bosatte på eller nær ved det Sted, hvor<lb />
+Retten holdes. Herved bliver Regelen i § 86 at iagttage. De udtrukne Navne tilføres<lb />
+Hjælpelisten og meddeles straks Overanklageren, den eller de Tiltalte og deres beskikkede Forsvarere, hvorhos de pågældende straks indkaldes efter Reglerne i § 88<lb />
+med Aftens Varsel.
+</p>
+<wtitle>§ 96.</wtitle>
+<p>
+Ved Tingets Slutning lader Rettens Formand Navnene på de Nævninger, der<lb />
+efter Indkaldelse har givet behørigt Møde på Tinget og ikke her efter Begæring<lb />
+på Grund af en midlertidig Forhindring er blevet fritaget for at gøre Tjeneste i<lb />
+Henhold til § 71 Nr. 9, udstryge på Årslisten. Tillige meddeles der de ovenmeldte<lb />
+Nævninger på Forlangende uden Betaling Vidnesbyrd af Rettens Skriver om, at de<lb />
+har givet behørigt Møde under Tinget,
+</p>
+<wtitle>§ 97.</wtitle>
+<p>
+Der tilkommer Nævninger 4 Kr. for hver Dag, de i Anledning af Nævningehvervet holdes borte fra Hjemmet, og endvidere, når de giver Møde over 3 Kilometer<lb />
+fra den By, hvori de bor, eller, når de bor på Landet, fra deres Hjem, Godtgørelse<lb />
+for Billet til Jernbane (III. Klasse) og Dampskib (II. Plads), hvor sådant kan benyttes, og i øvrigt for Befordring frem og tilbage med 20 Øre for hver Kilometer,<lb />
+dog mindst 1 Kr.
+</p>
+<wtitle>§ 98.</wtitle>
+<p>
+Årslisten samt Tingets Hovedliste og Hjælpeliste tilbagesendes efter Tingets<lb />
+Slutning til Formanden for Udvalget til Årslistens Dannelse.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

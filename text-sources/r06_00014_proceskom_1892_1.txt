@@ -1,0 +1,48 @@
+14
+<pb n="14" />
+<rightside>
+<pagename>12
+</pagename>
+<p>Kun fuldmyndige, uberygtede, vederhæstige Mænd, som have underkastet sig den<lb />
+fuldstændige juridiske Eksamen med bedste<lb />
+Karakter, kunne beskikkes.
+</p>
+<p>Foranstaaende Regler gælde ogsaa om<lb />
+de overordentlige Medlemmer af højesteret.
+</p>
+<wtitle>§ 29.
+</wtitle>
+<p>I Reglen kunne kun Mænd, der have<lb />
+været Landsdommere i 3 Aar, beskikkes til<lb />
+ordentlige Højesteretsdommere.
+</p>
+<p>Forinden Nogen beskikkes til ordentlig<lb />
+højesteretsdommer, skal der gives højesteret<lb />
+Lejlighed til at udtale sig om de paagældende Ansøgere.
+</p>
+<wtitle>§ 30.
+</wtitle>
+<p>Til midlertidig at beklæde et Dommerembede, naar det paa Grund af Embedsledighed eller en fast Dommers Forfald<lb />
+maatte være nødvendigt, meddeler Justitsministeren Beskikkelse.
+</p>
+<p>I paatrængende Tilfælde samt naar<lb />
+den faste Dommers Forfald skønnes at ville<lb />
+blive kortvarigt, kan Landsrettens Iustitiarius<lb />
+bemyndige til midlertidig at forestaa Dommerembedet ved en By- eller Herredsret.<lb />
+Herom stal Meddelelse straks ske til Justitsministeren, som træffer endelig Bestemmelse.
+</p>
+<p>Den, som beskikkes til midlertidig at<lb />
+beklæde et Dommerembede, maa være i Besiddelse af de samme Egenskaber, som ud-kræves til at beklæde Embedet som fast<lb />
+Dommer. Dog er det ved By- og Herreds-retterne med Hensyn til Eksamensfordringen<lb />
+tilstrækkeligt, at den Paagældende har underkastet sig den fuldstænbige juridiske Eksamen<lb />
+med Karakteren haud illaudabilis eller har<lb />
+opnaaet Karakteren „Bekvem" enten ved den<lb />
+juridiske Fællesprøve eller ved den tidligere<lb />
+juridiske Eksamen for Ustuderede.
+</p>
+<wtitle>§  31.
+</wtitle>
+<p>Naar det paa Grund af en Dommers<lb />
+Udelukkelse eller Fritagelse formedelst Inhabilitet maatte være nodveudigt, beskikker Justitsministeren eller, ved By- og Herredsretterne, Landsrettens Iustitiarius en Sættedommer.
+</p>
+</rightside>

@@ -1,0 +1,26 @@
+3
+<pb n="3" />
+<title>Indholdsoverligt.</title>
+<title>Første Afsnit.</title>
+<undertitle>Almindelige Bestemmelser.</undertitle>
+<undertitle>(38 1-97)</undertitle>
+<p>Kapitel I.</p>
+<p>Lovens Virkekreds    (§§ I—3>   ...........................................      1—2.</p>
+<p>Kapitel II.</p>
+<p>Retternes Virkekreds   (§§ 4—11) .........................................      2—5.</p>
+<p>Kapitel III</p>
+<p>Tilfælde, hvor Rettens Personer skulle eller kunne vige deres sæde   (§§ 12—18)..      5—7.</p>
+<p>Kapitel IV.</p>
+<p>Den offentlige Anklagemyndighed    (§§ 19—26)..........................___      7—9.</p>
+<p>Kapitel V.</p>
+<p>Påtalen    (§§ 27-37)    ................................................    9—15.</p>
+<p>Kapitel VI.</p>
+<p>Sigtedes Forsvar    (§§ 38—49)  ..........................................  15—19.</p>
+<p>Kapitel VII.</p>
+<p>Værneting og Forening af Straffesager    (§§ 50—65)........................  19—23.</p>
+<p>Kapitel VIII.</p>
+<p>Retsmøder og Retsbøger   (§§ 66—80) ....................................  23—29.</p>
+<p>Kapitel IX.</p>
+<p>Forkyndelser og Meddelelser    (§§ 81 —92)..................................  29—34.</p>
+<p>Kapitel X.</p>
+<p>Rettens Rådslagninger og Afgørelser    (§§ 93—97)..........................  34—36.</p>

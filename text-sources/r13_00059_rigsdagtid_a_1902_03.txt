@@ -1,0 +1,79 @@
+1845
+<pb n="59" />
+<h>
+<coll>
+1845
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+1846
+</colr>
+</h>
+<wtitle>§  286.</wtitle>
+<p>
+Den Part, der har ladet et Vidne indkalde, kan, naar Vidnet har givet Møde,<lb />
+ikke uden Modpartens Samtykke frafalde dets Afhørelse med den Virkning, at Mod-<lb />
+parten eller Retten afskæres fra at stille Spørgsmaal til Vidnet.
+</p>
+<wtitle>§  287.</wtitle>
+<p>
+Vidners Forklaringer optegnes i Retsbogen, saaledes at de vigtigste Udtalelser<lb />
+gengives saa vidt muligt med Vidnets egne Ord, medens uvæsentlige Bemærkninger<lb />
+kunne udelades. Har Vidnet tidligere været afhørt, er Henvisning tilstrækkelig, saa<lb />
+at kun Afvigelser eller Fuldstændiggørelser optegnes. Det samme gælder ved Lands-<lb />
+retter som anden Instans, naar der ikke er særlig Grund til at antage, at Tilladelse<lb />
+til Anke vil blive søgt eller tilstaaet.
+</p>
+<p>
+Det Retsbogen tilførte bliver efter endt Afhøring at oplæse for Vidnet, og<lb />
+Bemærkning, om Vidnet godkender Forklaringen, optages i Retsbogen.
+</p>
+<wtitle>§  288.</wtitle>
+<p>
+Vægrer et Vidne sig uden lovlig Grund ved at svare eller aflægge Vidneeden<lb />
+eller afgive den i Stedet derfor trædende Forsikring, kan Retten efter en Parts Be-<lb />
+gæring ved Kendelse paalægge det en Bøde fra 10—400 Kr. Retten kan derhos ved<lb />
+Kendelse bestemme, at det skal tages i Forvaring ved Politiets Foranstaltning, med-<lb />
+mindre Vidnets Førelse frafaldes, indtil det indvilliger i at svare eller at aflægge Ed<lb />
+eller Forsikring; dog kan et Vidne i intet Tilfælde i Henhold til nærværende Paragraf<lb />
+eller denne og § 275 i samme Sag holdes i Forvaring ud over 6 Maaneder, uafbrudt<lb />
+eller sammenlagt.
+</p>
+<p>
+Vidnet kan derhos dømmes til at erstatte de ved dets Vægring foraarsagede<lb />
+Omkostninger. Kære mod Kendelsen skal. naar denne er afgiven under Domsfor-<lb />
+handling, erklæres paa Stedet og ellers inden tre Dage. Kære, som overensstemmende<lb />
+hermed erklæres mod Beslutning af en Underret, hvorved Fængsling er besluttet, har<lb />
+opsættende Virkning.
+</p>
+<wtitle>§  289.</wtitle>
+<p>
+Retten kan paa Grund af et Vidnes Udeblivelse eller Indsigelse imod at afgive<lb />
+Forklaring eller imod at møde udsætte Sagen, naar vedkommende Part begærer dette.
+</p>
+<p>
+Udsættelsen kan gives paa bestemt Tid eller indtil videre. I sidste Tilfælde<lb />
+kan, naar Hindringen er hævet, enhver af Parterne fremsætte Begæring for Retten<lb />
+om, at der berammes en Tid til Sagens Foretagelse og udstedes Indkaldelse til alle<lb />
+vedkommende.
+</p>
+<wtitle>§  290.</wtitle>
+<p>
+Tvistigheder, som opstaa under Vidneførslen i Anledning af Indsigelser eller<lb />
+Begæringer af Parter eller Vidner, paakendes af Retten, efter at vedkommende have<lb />
+ytret sig. I Retsbogen maa optages en nøjagtig Angivelse af Indsigelsens eller Be-<lb />
+gæringens Indhold samt af Modpartens Paastand i denne Anledning. Den nærmere<lb />
+Begrundelse og Udvikling foregaar mundtlig.
+</p>
+<p>
+I Reglen afsiges Kendelse straks; men dersom det tindes nødvendigt, kan<lb />
+Sagen udsættes, for at Retten kan raadslaa. Saadan Udsættelse bør dog altid være<lb />
+saa kort som muligt og ikke uden største Nødvendighed vare længere end til næste Dag.
+</p>
+<p>
+Foregaar Vidneførslen for en anden Ret end den, ved hvilken Sagen i øvrigt<lb />
+behandles, afgøres opstaaede Tvistigheder af hin. Foregaar Vidneførslen for et Ud-<lb />
+valg af den dømmende Ret (jfr. § 271), afgøres deslige Tvistigheder af Udvalget.
+</p>

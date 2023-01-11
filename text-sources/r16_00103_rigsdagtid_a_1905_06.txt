@@ -1,0 +1,66 @@
+2109
+<pb n="103" />
+<h>
+<coll>
+2109
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2110
+</colr>
+</h>
+<title>Tredie Afsnit.</title>
+<title>Eksekution og Tvangsauktion.</title>
+<title>Kapitel 42.</title>
+<undertitle>Almindelige Betingelser for Eksekution.</undertitle>
+<wtitle>§ 456.</wtitle>
+<p>
+Eksekution kan ske paa Grundlag af:
+</p>
+<p>
+1)	Domme og Kendelser, afsagte af Domstole eller af andre Myndigheder, der efter<lb />
+Lovene ere beføjede til at afsige eksigible Kendelser.
+</p>
+<p>
+2)	Forlig, indgaaede for Forligskommissioner, Retter eller Overøvrigheder, for de<lb />
+sidstnævntes Vedkommende dog kun i saadanne Sager, hvor det ved Lovgiv-<lb />
+ningen er paalagt dem at mægle Forlig, saavel som for Landvæsenskommissioner<lb />
+og andre Myndigheder, om hvilke Lovene bestemme, at de for dem afsluttede<lb />
+Forlig skulle kunne eksekveres.
+</p>
+<p>
+Forlig, der ere sluttede udenfor Forligskommissionen og godkendte i<lb />
+en saadan, kunne dog kun tjene til Grundlag for Eksekution, naar de ere for-<lb />
+synede med to særlig tilkaldte og med Stilling og Bopæl anførte Vidners Paa-<lb />
+tegning om, at Forliget førend Skyldnerens Underskrift er lydelig oplæst for og<lb />
+vedtaget af ham, samt naar de Omkostninger, Skyldneren indgaar paa at betale,<lb />
+bortset fra de med Eksekutionen forbundne, ere anførte deri med en bestemt Sum.
+</p>
+<p>
+3)	Tinglæste Pantebreve, hvorved der for en bestemt angiven Pengesum gives Pant<lb />
+i fast Ejendom, naar de ere oprettede eller vedkendte for Notarius publicus eller<lb />
+for to Vitterlighedsvidner og Forfaldstiden er indtraadt enten paa Grund af Op-<lb />
+sigelse, eller fordi det Tidspunkt, der i Pantebrevet er fastsat som Betalingstermin,<lb />
+er kommet, eller, for saa vidt saadan Følge udtrykkelig er betinget i Pante-<lb />
+brevet, paa Grund af Udeblivelse med Benter. Udlæget, som kan ske ikke<lb />
+blot for Kapitalen eller Afdrag paa samme, men ogsaa særskilt for Renter, kan<lb />
+dog ikke udstrækkes til andet end Pantet.
+</p>
+<p>
+4)	Bodmeribreve efter Reglerne i Sølov af 1. April 1892 § 185.
+</p>
+<p>
+5)	Forlig, indgaaede for, og Domme, afsagte af danske Konsuler i de i Lov om<lb />
+danske Konsulers Doms- og Øvrighedsmyndighed m. m. af 15. Februar 1895<lb />
+nævnte Tilfælde,
+</p>
+<p>
+Udpantning samt Udsættelses- og Indsættelsesforretninger uden foregaaende<lb />
+Lovmaal og Dom kunne finde Sted under de i femte Afsnit angivne Betingelser.
+</p>
+<wtitle>§ 457.</wtitle>
+<p>
+I Henhold til Traktat, indgaaet paa Betingelse af Gensidighed, kan der ved<lb />
+Anordning tillægges Domme og Kendelser, afsagte af udenlandske Retter eller Myn-<lb />
+digheder, samt udenlandske offentlige Forlig, for saa vidt de bestemme andet end
+</p>

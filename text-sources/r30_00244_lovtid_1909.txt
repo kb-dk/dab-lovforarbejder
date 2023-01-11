@@ -1,0 +1,35 @@
+508
+<pb n="244" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>508</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<p>
+Paragraf.
+</p>
+<p>
+Niende Afsnit: Sagsomkostninger og Rettergangsbøder i Straffesager:
+</p>
+<p>
+Kap. 89: Sagsomkostninger	 984-991
+</p>
+<p>
+Kap. 90: Rettergangsbøder m. m			 992-994
+</p>
+<p>
+Tiende Afsnit:
+</p>
+<p>
+Kap. 91: Særlige Bestemmelser om nogle Forhør m. m	 995
+</p>
+<p>
+Femte Bog: Slutnings- og Overgangsbestemmelser.
+</p>
+<p>
+Kap. 92: Slutningsbestemmelser	 996—1000
+</p>
+<p>
+Kap. 93: Overgangsbestemmelser	 1001—1015
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

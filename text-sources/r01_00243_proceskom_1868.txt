@@ -1,0 +1,67 @@
+237
+<pb n="243" />
+<leftside>
+<p>Retternes eller Myndighedernes Flerhed det<lb />
+Spørgsmål, hvem der skal handle, når der i<lb />
+en Sag skal foretages Embedshandlinger udenfor den stedlig begramsede Kreds, for hvilken den til Sagens Behandling eller forfølgning kompetente Ret eller Myndighed er bestikket. For disse forskjellige, men med hinanden<lb />
+nær forbundne Spørgsmål giver Udkastets 7de<lb />
+Kapitel Regler i 3 Underafsnit.</p>
+<title>I.</title>
+<undertitle>Enkelte Værnething.</undertitle>
+<p>Ved enkelte Værnething forståes her de<lb />
+Værnething, som komme til Anvendelse bortset<lb />
+fra Sagers Forening. Reglerne under I. falde<lb />
+i følgende Grupper: 1) § 60 om de isolerede<lb />
+Retshandlingers Værnething. 2) §§ 61 — 67<lb />
+om Sagernes Værnething, og 3) §§ 68 og<lb />
+69, indeholdende mere almindelige Bestemmelser.</p>
+<p>Enkeltstående Retshandlinger ↄ: sådanne, hvis Foretagelse må ske i en Retskreds, der er uafhængig af Sagens Værnething, bliver der jævnlig Spørgsmål om i<lb />
+Strafferetsplejen. For det Første kan Sagens<lb />
+Værnetbing ikke være Norm for de Retshandlinger, hvorom der bliver Spørgsmål, førend<lb />
+Sag er rejst, altså under Efterforskningen i<lb />
+offentlige Sager, jfr. med Hensyn til private<lb />
+Straffesager §§ 440 og 446. Men også<lb />
+efter at Sag er rejst, bliver der af forskjellige<lb />
+Grunde ofte Spørgsmål om Retshandlinger,<lb />
+ved hvilke Sagens Værnething ikke er afgjørende, enten fordi de foretages uafhængig af<lb />
+Sagen, se § 225, eller fordi faktiske eller procesretlige Grunde (såsom Afstandsreglerne for<lb />
+Vidner eller at Procesreglerne udelukke Vidners<lb />
+Afhørelse for den Ret, ved hvilken Sagen er<lb />
+anhængig) gjøre en sådan særlig bestemt Retskreds nødvendig. For slige enkeltstående<lb />
+Retshandlinger giver § 60 den ved Forholdets<lb />
+Natur påbudte Regel.</p>
+<p>Med Hensyn til Værnethinget for Straffesager — rettens Forundersøgelse derunder indbefattet — vilde den Betragtning, at Værnethinget bør være det, som er bedst tjenligt til Øjemedets Opnåelse, navnlig med Hensyn til</p>
+</leftside>
+<rightside>
+<p>en let, ikke for bekostelig Bevisførelse, og at<lb />
+den Sigtede er pligtig til at underkaste sig ethvert sådant Værnething, nærmest fore til fuldstændig Valgfrihed, da det må indrømmes, at<lb />
+det beror på samtlige konkrete Omstændigheder og ikke kan afgjøres ved en almindelig<lb />
+Regel, hvilket Værnething der efter hint Hensyn<lb />
+er tjenligst for den enkelte Sags Undersøgelse.<lb />
+Da imidlertid et så frit Valg ikke kunde lægges i Anklagerens Hånd på Grund af de<lb />
+Misbrug, for hvilket dette vilde udsætte den<lb />
+Sigtede fra Modpartens Side, og da det vilde<lb />
+føre til urimelig Omstændelighed at fåe Værnethinget i ethvert enkelt Tilfælde bestemt af en<lb />
+Domstol, bliver Fastsættelsen af et eller flere<lb />
+bestemte Værnething ved en almindelig Regel<lb />
+dog en Nødvendighed, og den Mulighed, at et<lb />
+andet Værnetbing ifølge de særlige Omstændigheder måtte være hensigtsmæssigere, kan der<lb />
+kun tages Hensyn til på den Måde, at der<lb />
+åbnes Adgang til Afvigelse fra den almindelige Regel, således som § 67 bestemmer, nemlig i Sager, hvor Værnethingets Bestemmelse<lb />
+har en offentlig Interesse, ved Afgjørelse as en<lb />
+overordnet Ret, i private Straffesager i egentlig Forstand, hvor navnlig Omkostningsspørgsmålet ikke har væsentlig Betydning for det<lb />
+Offentlige (se § 481), ved Vedtagelse mellem<lb />
+Parterne. Skal altså en almindelig Regel gives, må der tages Hensyn til, hvilket Værnething der efter Sandsynlighed vil være det<lb />
+tjenligste for Undersøgelsen, og dette fører da<lb />
+til den altid og allevegne anerkjendte Regel:<lb />
+Gjerningsstedets Værnething. For Tilfælde,<lb />
+hvor denne Regel er faktisk uanvendelig, og<lb />
+hvor hint Hensyn derfor ikke afgiver nogen Bestemmelsesgrund, har Straffeprocessen fremdeles<lb />
+altid kjendt to andre Værnething, nemlig Hjemthinget og Pågribelsesstedets Værnething, og<lb />
+det kan heller ikke være tvivlsomt, at den Sigtede i al Fald da er pligtig at underkaste sig<lb />
+et af disse, når hint mere berettigede Værnething mangler, det første af samme Grund,<lb />
+hvorfor Enhver overhovedet må finde sig i at<lb />
+sagsøges ved sit Hjemthing, hvor ikke særegne<lb />
+Grunde give ham Krav på et andet Værnething, det andet, fordi det er mest tjenligt for<lb />
+Sagens hurtige Afgjørelse, et Hensyn, som Anklageren har naturligt Krav på at fåe taget</p>
+</rightside>

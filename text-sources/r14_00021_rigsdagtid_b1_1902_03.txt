@@ -1,0 +1,241 @@
+61
+<pb n="21" >
+<p rend="page">21</p>
+<h>
+<coll>61</coll>
+<colr>62</colr><lb />
+Bilag til Bet. o. Lovf. om Rettens Pleje.<lb />
+</h>
+<p>
+Bilag.
+</p>
+<p>
+Politistyrken i Danmark 1902.
+</p>
+
+
+<table><tr>
+<td rowspan="2">Retskredsen.</td>
+<td colspan="6">Personale.</td>
+<td colspan="2">Befordring.</td>
+<td rowspan="2">Kv.-Mil omtrent.</td>
+<td rowspan="2">Indbyggertal.</td>
+<td rowspan="2">Sogne.</td>
+<td rowspan="2" >Sognefogeder.</td>
+</tr>
+<tr>
+<td>Assistenter og Overbetjente.</td>
+<td>Betjente.</td>
+<td>Reserve-betjente.</td>
+<td>Vægtere.</td>
+<td>Reserve-vægtere.</td>
+<td>I alt</td>
+<td>Hest.</td>
+<td>Cykel.</td>
+</tr>
+<tr>
+<td>Kjøbenhavn</td>
+<td>591)</td>
+<td>6702)</td>
+<td>»</td>
+<td>»</td>
+<td>»</td>
+<td>729</td>
+<td>16</td>
+<td>»</td>
+<td>1</td>
+<td>378,235</td>
+<td>»</td>
+<td>»</td>
+</tr>
+<tr>
+<td>Frederiksberg Birk</td>
+<td>9</td>
+<td>64</td>
+<td>»</td>
+<td>»</td>
+<td>»</td>
+<td>73</td>
+<td>»</td>
+<td>11</td>
+<td>1/6</td>
+<td>76,231</td>
+<td>»</td>
+<td>38)</td>
+</tr>
+<tr>
+<td>Kjøbenhavns Amts nordre Birk</td>
+<td>4</td>
+<td>24</td>
+<td>2</td>
+<td>»</td>
+<td>»</td>
+<td>30</td>
+<td>1</td>
+<td>11</td>
+<td>3½</td>
+<td>29,484</td>
+<td>7</td>
+<td>12</td>
+</tr>					
+<tr>
+<td>Kjøbenhavns Amts  søndre Birk</td>
+<td>»</td>
+<td>7</td>
+<td>»</td>
+<td>»</td>
+<td>»</td>
+<td>7</td>
+<td>»</td>
+<td>»</td>
+<td>44/5</td>
+<td>17,019</td>
+<td>17</td>
+<td>19</td>
+</tr>
+<tr>
+<td>Amager Birk</td>
+<td>1</td>
+<td>6</td>
+<td>»</td>
+<td>»</td>
+<td>»</td>
+<td>7</td>
+<td>»</td>
+<td>2</td>
+<td>11/3</td>
+<td>28,454</td>
+<td>3</td>
+<td>3</td>
+</tr>
+
+<tr>
+<td>Roskilde Købstad</td>
+<td>1</td>
+<td>3</td>
+<td>»</td>
+<td>5</td>
+<td>2</td>
+<td>11</td>
+<td>»</td>
+<td>3</td>
+<td>1</td>
+<td>8,368</td>
+<td>»</td>
+<td>»</td>
+</tr>
+<tr>
+<td>Køge Købstad.   Bjeverskov Herred. Vallø Birk</td>
+<td>»</td>
+<td>3</td>
+<td>»</td>
+<td>»</td>
+<td>»</td>
+<td>3</td>
+<td>»</td>
+<td>1</td>
+<td>42/5</td>
+<td>15,700</td>
+<td>18</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Lejre   Herred.   Ledreborg Birk</td>
+<td>»</td>
+<td>2</td>
+<td>»</td>
+<td>»</td>
+<td>»</td>
+<td>2</td>
+<td>2</td>
+<td>»</td>
+<td>67/10</td>
+<td>17,644</td>
+<td>26</td>
+<td>28</td>
+</tr>
+<tr>
+<td>Ramsø-Thune Herreder</td>
+<td>»</td>
+<td>2</td>
+<td>»</td>
+<td>»</td>
+<td>»</td>
+<td>2</td>
+<td>2</td>
+<td>@</td>
+<td>34/5</td>
+<td>10,964</td>
+<td>18</td>
+<td>18</td>
+</tr><tr>
+<td>Hillerød Købstad</td>
+<td>»</td>
+<td>2</td>
+<td>1</td>
+<td>3</td>
+<td>»</td>
+<td>6</td>
+<td>»</td>
+<td>»</td>
+<td>»</td>
+<td>4,572</td>
+<td>»</td>
+<td>»</td>
+</tr>
+<tr>
+<td>Frederiksborg Birk</td>
+<td>»</td>
+<td>2</td>
+<td>»</td>
+<td>»</td>
+<td>»</td>
+<td>2</td>
+<td>2</td>
+<td>»</td>
+<td>51/2</td>
+<td>14,817</td>
+<td>18</td>
+<td>19</td>
+</tr>
+<tr>
+<td>Helsingør Købstad</td>
+<td>»</td>
+<td>7</td>
+<td>»</td>
+<td>8</td>
+<td>»</td>
+<td>15</td>
+<td>»</td>
+<td>2</td>
+<td>»</td>
+<td>13,902</td>
+<td>»</td>
+<td>»</td>
+</tr>
+<tr>
+<td>At overføre</td>
+<td>74</td>
+<td>792</td>
+<td>3</td>
+<td>16</td>
+<td>2</td>
+<td>887</td>
+<td>23</td>
+<td>30</td>
+<td>»</td>
+<td>»</td>
+<td>»</td>
+<td>»</td>
+</tr>
+</table>
+<p>
+<nnumber>1</nnumber>
+1)   Heraf er 8 Politiassistenter.
+
+<nnumber>2</nnumber>
+2)    Heraf er 74 Inspektionsbotjente.
+
+Ingen af disse udføre Politiforretninger.
+</p>
+</pb>

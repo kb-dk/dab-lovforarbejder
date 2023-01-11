@@ -1,0 +1,65 @@
+2
+<pb n="2" />
+
+<title>Indholdsoversigt.
+</title>
+<title>Første Afsnit.
+</title>
+<undertitle>Domstolenes Ordning.</undertitle>
+<p>Kapitel I.</p>
+<p>Retterne (§§ 1—27)	   S. 1—11.
+</p>
+<p>Kapitel II.</p>
+<p>
+Dommere, Retsskrivere, Retsbude m. m. (§§ 23—44)	   S. 11—16.
+</p>
+<title>Andet Afsnit.
+</title>
+<undertitle>Nævningers Kaldelse.</undertitle>
+<p>Kapitel III.</p>
+<p>Almindelige Bestemmelser (§§ 45—49)	   S.  17—18.
+</p>
+<p>Kapitel IV.<lb />
+Grundlister (§§ 50—54)	   S. 18—20.
+</p>
+<p>Kapitel V.</p>
+<p>Nævningekredsens Aarsliste (§§ 55—59)  	   S. 21—22.
+</p>
+<p>Kapitel VI.</p>
+<p>Nævninger for det enkelte Ting (§§ 60—75)	   S. 22-28.
+</p>
+<title>Tredie Afsnit.
+</title>
+<undertitle>Anklagemyndigheden.</undertitle>
+<p>Kapitel VII.
+</p>
+<p>(§§  76—84)	   S.  28 — 30.
+</p>
+<title>Fjerde Afsnit.
+</title>
+<undertitle>Politimyndigheden.</undertitle>
+<p>Kapitel VIII.
+</p>
+<p>(§§  85—91)	   S.   30—32.
+</p>
+<title>Femte Afsnit.
+</title>
+<undertitle>Sagførere.</undertitle>
+<p>Kapitel IX.</p>
+<p>Sagføreres Bestikkelse og Adgang til at benytte Fuldmægtig m. m. (§§ 92 — 104).   S. 33—37.
+</p>
+<p>Kapitel X.</p>
+<p>Sagføreres Rettigheder og Pligter (§§ 105 —110)	   S. 38—39.
+</p>
+<p>Kapitel XI.
+</p>
+<p>Ophør af Netten til Sagførervikfomhed (§§ 111—112)  	   S. 39—40.
+</p>
+<title>Sjette Afsnit.
+</title>
+<undertitle>Lovens Træden i Kraft, Overgangsbestemmelser.</undertitle>
+<p>Kapitel XII.</p>
+<p>(§§  113—121)	   S.  40—43.
+</p>
+<p>Furtsdiktionsliste 	   S. 43—46,
+</p>

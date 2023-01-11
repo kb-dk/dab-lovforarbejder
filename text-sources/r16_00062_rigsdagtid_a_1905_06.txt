@@ -1,0 +1,67 @@
+2027
+<pb n="62" />
+<h>
+<coll>
+2027
+</coll>
+<topmidle>Forsl. t. L. om  Rettens Pleje.</topmidle>
+<colr>
+2028
+</colr>
+</h>
+<p>
+der af Parterne tilstaas eller foreslaas under Mæglingen, medmindre det vedtages af<lb />
+begge Parter og udgør Punkter af Forliget.
+</p>
+<p>
+En Sag kan under Mægling for en Forligskommission ikke udsættes, naar<lb />
+nogen af Parterne rejser Indsigelse derimod.
+</p>
+<p>
+Kommer Forlig i Stand, bør dette i sin Helhed indføres i Forligsbogen og<lb />
+underskrives af Parterne.
+</p>
+<wtitle>§ 261.</wtitle>
+<p>
+Naar Forligsmægling har været forsøgt i Anledning af en Sag, er Forligsind-<lb />
+kaldelsens Indhold ikke til Hinder for en senere Udvidelse eller Forandring af Søgs-<lb />
+maalsgrunde eller Paastande.
+</p>
+<wtitle>§ 262.</wtitle>
+<p>
+Spørgsmaal om Gyldigheden af indgaaede Forlig henhøre under Afgørelse ved<lb />
+Retterne i første Instans, jfr. herved § 462. Dog maa Indsigelser mod Retsforlig<lb />
+gøres gældende ved Kære, naar de støttes paa Fejl ved Rettens Handlinger.
+</p>
+<wtitle>§ 263.</wtitle>
+<p>
+Den bestaaende Adgang til for Forligskommissionen at godkende et udenfor<lb />
+samme sluttet Forlig for derved at give Forliget Eksekutionskraft eller sikre sig Bevis<lb />
+derfor opretholdes. Dog kan saadan Godkendelse kun gyldig finde Sted ved en For-<lb />
+ligskommission, under hvilken enten Kreditor eller Skyldneren hører.
+</p>
+<title>Kapitel 26.</title>
+<undertitle>Procesinaaden i Almindelighed.</undertitle>
+<wtitle>§ 264.</wtitle>
+<p>
+Over de til Retten indkomne Sager føres en Sagliste. Er denne ikke indrettet<lb />
+saaledes, at den tillige kan være Retsliste for den enkelte Retsdag, affattes der for<lb />
+hver enkelt Retsdag en Retsliste, paa hvilken de Sager, som skulle komme for, optages.<lb />
+Retslisten for den enkelte Dag opslaas, Dagen før Retten sættes, i Rettens For-<lb />
+værelse paa et for alle tilgængeligt Sted.
+</p>
+<p>
+Rettens Formand afgør, i hvilken Orden de Sager, der ere ansatte til For-<lb />
+handling paa samme Retsdag, skulle foretages. Sager, som ikke naa at komme til<lb />
+Forhandling, overgaa uden videre paa Retslisten for næste Retsdag, medmindre For-<lb />
+manden bestemmer anderledes.
+</p>
+<p>
+Retten eller dens Formand er bemyndiget til at lade en Sag udgaa af Rets-<lb />
+listen og overføre den paa Retslisten for en af de paafølgende Retsdage, naar der er<lb />
+Grund til at antage, at Sagen enten af Hensyn til Rettens Forretninger, Retsperso-<lb />
+nalet eller andre Aarsager, saasom Forhindringer for Sagførere, Parter, Vidner, Syns-<lb />
+mænd eller desl., ikke vil kunne forhandles paa den oprindelig fastsatte Tid. Oplys-<lb />
+ninger i denne Henseende kunne baade mundtligt og skriftligt meddeles Rettens For-<lb />
+mand, saavel under Retsmøder som udenfor disse.
+</p>

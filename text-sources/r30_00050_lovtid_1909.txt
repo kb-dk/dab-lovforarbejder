@@ -1,0 +1,54 @@
+314
+<pb n="50" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>314</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 203.</wtitle>
+<p>
+Til Understøttelse under Efterforskningen i en Straffesag kan Politimesteren,<lb/>
+når Omstændighederne ikke tillade Opsættelse, lade foretage Syns- eller Skønsforretninger ved Mænd, som han selv tilkalder, samt afkræve disse ubeediget Erklæring angående Forretningens Resultat. Ere de pågældende ikke beskikkede med almindelig Bemyndigelse til Foretagelsen af sådant Syn eller Skøn, ere de dog kun pligtige<lb/>
+at efterkomme Kaldelsen, når Forretningen skal foretages og Erklæringen afgives i<lb/>
+den Underretskreds, i hvilken de bo. Udebliver eller vægrer nogen således tilkaldt Synseller Skønsmand sig ved at efterkomme Kaldelsen, kan Politimesteren pålægge ham<lb/>
+en Bøde til Politikassen af indtil 20 Kr., at udrede inden en Uge, og, når Sagen er<lb/>
+af sær Vigtighed, endog om fornødent lade ham afhente med Magt. Politimesteren<lb/>
+har dog snarest muligt at henvende sig til Retten om Varetagelse af det videre fornødne i Anledning af Forretningen, og det står da de pågældende frit for, i Overensstemmelse med § 797, for Retten at forebringe deres mulige Klager over formentlige Overgreb fra Politimesterens Side.
+</p>
+<p>
+Reglerne i den foregående Paragraf finde tilsvarende Anvendelse ved Tilkaldelse af Syns- og Skønsmænd ved Politimesteren.
+</p>
+<wtitle>§ 204.</wtitle>
+<p>
+Det har sit Forblivende ved de gældende Regler om Søforklaringer. Underde i § 178 angivne Betingelser træder den der omhandlede Forsikring i Eds Sted.<lb/>
+Det har ligeledes sit Forblivende ved de Regler, som for Tiden gælde om Sø- og Handelsrettens, henholdsvis Søretternes Medvirkning ved Besigtigelser, Skøn og Taksationer<lb/>
+i Tilfælde, hvor der ikke er rejst Retssag, jvf. dog § 18.
+</p>
+<title>Kapitel 19.</title>
+<undertitle>
+Rettens Rådslagninger og Afgørelser.
+</undertitle>
+<wtitle>§ 205.</wtitle>
+<p>
+Domme, Kendelser og andre Beslutninger af en Ret, der ikke beklædes af en<lb/>
+enkelt Dommer, og som ikke høre til de Beslutninger, Rettens Formand kan træffe,<lb/>
+vedtages ved Afstemning efter forudgående Rådslagning. For Afstemningsordenen<lb/>
+fastsætter Retten selv de fornødne Regler. Retten kan bestemme sådanne Forandringer i disse, som den til enhver Tid måtte anse for hensigtsmæssige. Formanden<lb/>
+stemmer dog altid sidst; han forestår Afstemningen og samler Stemmerne. Afstemningen sker mundtlig; de afgivne Stemmer indføres udtogsvis i en Stemmegivningsbog.<lb/>
+Enhver Dommer har Ret til at påse, at hans Stemme gengives rigtigt.
+</p>
+<p>
+Dommernes Rådslagninger og Afstemninger må ikke overværes af Tilhørere<lb/>
+med Undtagelse af Retsskriveren.
+</p>
+<p>
+I en Sags Afgørelse kan ingen Dommer eller Nævning deltage, som ikke har<lb/>
+overværet de mundtlige Forhandlinger i deres Helhed. Når i en Straffesag, som behandles ved Landsret, en Dommer eller en Nævning får Forfald eller af anden<lb/>
+Grund må fratræde, efter at Domsforhandling er begyndt, kan denne fortsættes, såfremt dog højst een Dommer og een Nævning mangle.
+</p>
+<p>
+Ved Forhandlinger, som forudsættes at blive af længere Varighed, bør i Retter,<lb/>
+som bestå af flere Medlemmer, en eller flere Dommere ud over det nødvendige mindste<lb/>
+Antal deltage.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

@@ -1,0 +1,51 @@
+18
+<pb n="18" />
+<rightside>
+<pagename>16
+</pagename>
+<p>Er Retsskriverembedet forenet med Dommerembedet, afgøres deslige Klager ved Kære.<lb />
+Med Hensyn til Retsskriveres Ansvar<lb />
+til Straf og Erstatning for Overtrædelse af<lb />
+deres Embedspligter sinde Reglerne i § 33<lb />
+tilsvarende Anvendelse.
+</p>
+<wtitle>§ 41.
+</wtitle>
+<p>Ved højesteret, Landsretterne og Kjø-
+</p>
+<p>benhavns Stadsret ansætter Rettens Iustitiarius det fastsatte Antal Retsbude. Ved<lb />
+hver By- og Herredsret ansætter vedkommende Dommer et Retsbud.
+</p>
+<wtitle>§ 42.
+</wtitle>
+<p>I hver af de i § 14 ommeldte Retskredse<lb />
+ansættes det fornødne Antal Stævningsmænd.
+</p>
+<p>De ved Landsretterne, Kjøbenhavns<lb />
+Stadsret samt By- og Herredsretterne ansatte Retsbude kunne benyttes som Stævningsmænd for vedkommende Rets Omraade<lb />
+i det Omfang og paa den Maade, som<lb />
+henholdsvis Rettens Iustitiarius eller By- eller<lb />
+Herredsdommeren nærmere bestemmer. De<lb />
+Stævningsmænd, som yderligere efter Justitsministerens Bestemmelse behøves, bestikkes af<lb />
+vedkomniende Iustitiarius eller Underretsdommer. Fortegnelse over Retskredsens<lb />
+Stævningsmænd opslaas paa Tingstederne<lb />
+samt henholdsvis i Landsretternes og Kjøbenhavns Stadsrets Lokaler, og bekendtgøres<lb />
+tillige aarlig og oftere, naar Forandring<lb />
+sker, i de Aviser, fom dertil af Justitsministeren bestemmes.
+</p>
+<wtitle>§ 43.
+</wtitle>
+<p>Enhver Stævningsmand afgiver til<lb />
+vedkommende Iustitiarius eller Underretsdommer en edelig Erklæring om, at han<lb />
+med Troskab og Samvittighedsfuldhed vil<lb />
+opfylde de ham efter Lovene om Retsplejen<lb />
+og den ham meddelte Instruks paahvilende<lb />
+Pligter. Dommeren i Retskredsen har at<lb />
+vejlede dem med Hensyn til deres Pligter.
+</p>
+<wtitle>§ 44.
+</wtitle>
+<p>Det underordnede Personale ved højesterets, Landsretternes og Kjøbenhavns<lb />
+Stadsrets Skriverkontorer ansættes af vedkommende Rets Iustitiarius.
+</p>
+</rightside>

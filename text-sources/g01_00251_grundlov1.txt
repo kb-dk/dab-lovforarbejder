@@ -1,0 +1,154 @@
+429
+<pb n="251">
+<pagename>251</pagename>
+<h>
+<coll>429</coll>
+<colr>430</colr>
+<lb/>
+
+<topleft>1848.</topleft>
+<topmidle>
+Beretning om Forhandlingerne på Rigsdagen.<lb/>
+</topmidle>
+<topright>
+No 58.<lb/>
+</topright>
+</h>
+<leftside>
+<btitle>
+Sex og tyvende Møde.<lb/>
+</btitle>
+<notedate>
+Løverdagon den 9de December.<lb/>
+</notedate>
+<p>
+Følgende Sager stode på Dagsordenen:<lb/>
+</p>
+<p>
+1)	Spørgsmal til Cultusministeren fra Rigsdagsmanden for Maribo Amts 6te District (H. Rasmussen): Om Regjeringen agter<lb/>
+at inddrage Bispeembederne i Danmark, efterhånden som disse<lb/>
+blive vacante, og om Regjeringen i så Tilfælde agter at andende de således indvundne Summer til Bedste for Almueskolvæsenet.<lb/>
+</p>
+<p>
+2) Spøorgsmål til Cultusminsteren fra Rigsdagsmanden for Præstø<lb/>
+Amts 4de District (Grundtdig) om den Høiskole i Sorø, som<lb/>
+Kong Christian den 8de oprettede 1847.<lb/>
+</p>
+<p>
+3) Forslag fra Comiteen for Forsamlingens Forretningsorden til et<lb/>
+Tillæg til § 19 i Forretningsordenen, der lyder således: „Er<lb/>
+det ved en Sags første Behandling, har Formanden, forinden<lb/>
+der skrides til Afstemning, at opfordre de Medlemmer, der agte<lb/>
+at stille noget Forandringsforslag, strax at erklære dette og angive Hovedindholdet af samme.”<lb/>
+</p>
+<p>
+Forhandlingsprotocollen for det forrige Møde blev oplæst.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Jeg skal anmelde adskillige Meddelelser, som ere<lb/>
+indkomne til Forsamlingen:<lb/>
+</p>
+<p>
+1) fra Oberst Tscherning, Grundtræk til en Organisation af en<lb/>
+Folkevæbning med tvende Bilage;<lb/>
+</p>
+<p>
+2)	Fra v. Bressendorff, Forslag angående Stedfortrædelsen samt et<lb/>
+Stillingsfond;<lb/>
+</p>
+<p>
+3)	Fra Rigsdagsmanden for Ribe Amts 3die District (Tvede), et<lb/>
+af en Unævnt forfattet Forslag til en Ordning af Danmarks<lb/>
+og Slesvigs landmilitaire Forsvarsvæsen efter Grundsætningerne<lb/>
+for almindelig Folkevæbning.<lb/>
+</p>
+<p>
+Disse 3 Meddelelser har jeg tilstillet Værnepligtscomiteen, og<lb/>
+de ville senere blive henlagte i Læseværelset tilligemed Comiteens Betænkning. Endvidere har jeg modtaget:<lb/>
+</p>
+<p>
+4)	En Adresse fra 2884 Beboere af Odense og Omegn, hvori gjentages en tidligere Adresse til Rongens Ministre og andrages<lb/>
+på, at Rigsforsamlingen vil opfordre Regjeringen til at benytte<lb/>
+de tilbagestående Vintermåneder til gjennemgribende Rustninger<lb/>
+og Opbydelse af Landets hele våbenføre Styrke. Af Underskrifterne<lb/>
+ere 905 fra Rjøbstadbeboerne og 1979 fra Landbefolkningen.<lb/>
+</p>
+<p>
+5)	En Adresse fra 132 Beboere af Vibørg, der tilbyde ethvert Offer, for at Slesvigs uopløselige Forbindelse med Danmark kan<lb/>
+fastholdes og enhver Forbindelse mellem Slesvig og Holsteen<lb/>
+udelukkes.<lb/>
+</p>
+<p>
+6)	Fra Rigsdagsmanden for Veile Amts andet District (Ploug),<lb/>
+3 ligelydende Adresser, fra Kolding med 98 Underskrifter, fra<lb/>
+Hjarup Sogn med 40 Underskrister og fra Harte Sogn med 49<lb/>
+Underskrifter, der udtrykke Glæde og Tilfredsstillelse over de brave<lb/>
+Slesvigeres Udholdenhed og den Fortrøstning, at Rigsforsamlingen kraftigen vil virke til, at Slesvigs Heelhed og uadskillelige<lb/>
+Forbindelse med Danmark bevares, hvilket man ønsker, at Forsamlingen vil udtale.<lb/>
+</p>
+<p>
+7)	Fra den samme Rigsdagsmand, en Adresse fra 116 Borgere og<lb/>
+Beboere af Kolding, om at der må foretages sådenne Forandringer i Valgloven, at der frembringes Garanti for, at Kjøbstædernes Interesser blive tilbøligen varetagne.<lb/>
+</p>
+</leftside>
+<rightside>
+<p>
+8)	Fra Rigsdagsmanden for Præstø Amts 4de District (Grundtvig),<lb/>
+en Adresse fra Præstø Byes Communalbestyrelse, om at Kjøbstædernes Tarv og billige Kras måe alvorligen tages i Betragtning under Forhandlingen af den foreliggende Valglos.<lb/>
+</p>
+<p>
+9)	Fra Rigsdagsmanden for Sorø Amts 5te District (Neergård)<lb/>
+fra 68 Indbyggere af Nestved, om at under Valglosens Behandling Kjøbstæderenes Stilling og Forhold måe tages under nøieste<lb/>
+Overveielse.<lb/>
+</p>
+<p>
+10) En Adresse fra 103 Vælgere af Stege Kjøbstad, hvori de andrage på en Forandring i Valgloven og navnligen Indførelsen<lb/>
+af en lav Census.<lb/>
+</p>
+<p>
+11)	Fra Rigsdagsmanden for Sorø Amts 5te District (Neergård),<lb/>
+en Adresse med 59 Underskrifter angående Bestemmelsen af Rigsdagsmændenes Diæter for Fremtiden.<lb/>
+</p>
+<p>
+12)	Fra Rigsdagsmanden for Præstø Amts 4de District (Grundtvig), et Klagemål fra 13 Huusmænd i Vestenbæk i Kallehauge<lb/>
+Sogn, som formene sig Ubilligen og ulovligen behandlede af vedkommende Godsiere. En Gjenpart heraf er sendt til Indenrigsministeriet.<lb/>
+</p>
+<p>
+Samtlige disse forskjellige Meddelelser ville, som sædvanligt, blive<lb/>
+henlagte i Læseværelset. Rigsdagsmanden for Maribo Amts 6te<lb/>
+District (H. Rasmussen) har Ordet i Henseende til den Interpellation,<lb/>
+han agter at gjøre til Cultusministeren.<lb/>
+</p>
+<p>
+<speaker>H. Rasmussen:</speaker> Når jeg her tager Ordet for at interpellere den høitærede Cultusminister, om Regjieringen agter at inddrage Bispeembederne i Danmark, efterhånden som de blive vacante,<lb/>
+og om Regjeringen i så Fald agter at anvende de således indvundne Summer til Fordeel for Almueskolevæsenet, har jeg kun<lb/>
+reist dette Spørgsmål, fordi det forekommer mig, at disse geistlige<lb/>
+Embeder kunne inddrages uden Asabræk for Kirken selv eller dens<lb/>
+Forhold til Staten, hvorimod det er min fuldeste Overbeviisning, at<lb/>
+vort Almueskolevæsen trænger til en gjennemgribende Reform, for at<lb/>
+Bondestanden kan igjennem et velorganiseret Skolvæsen svare til<lb/>
+Tidens Fordringer og opnåe en høiere åndelig Dannelse. På<lb/>
+denne Interpellation udbeder jeg mig den høitærede Cultusministers<lb/>
+Svar.<lb/>
+</p>
+<p>
+<speaker>Cultusministeren:</speaker> Jeg skal svare på det til mig rettede<lb/>
+Spørgsmål, således som jeg troer det rigtigt at svare på de her<lb/>
+i Salen fremkommende Interpellationer, idet jeg indskrænker mig til<lb/>
+at oplyse de factiske Forhold, hvorom der er Spørgsmål her, Regjeringens Hensigt, og navnligen Cultusministeriets Henjigt, i et vist<lb/>
+Punkt. Der er spurgt, om Regjeringen agter at inddrage Bispeembederne; Regjeringen kunde i denne Henseende tækes at have<lb/>
+Hensigter, som den vilde sætte i Værk enten strax eller senere hen<lb/>
+efter Grundlovens Istandbringelse. Der kan vel Ingen troe, at Regjeringen eller navnlig Cultusministeriet skulde tænke på at gjøre en<lb/>
+så indgribende Foranstaltning som denne er eller frembringe den<lb/>
+for Forsamlingen, enten i Form af en Lovgivningsact eller i Form<lb/>
+af en adminisktrativ Foranstaltning, før Grundloven blev istandbragt;<lb/>
+derpå altså er der ikke blot ikke tænkt, men det kan vel også antages, at der ikke vil blive tænkt derpå; der er altså Spørgsmål,<lb/>
+om Regjeringen kan have en sådan Hensigt med Hensyn til den<lb/>
+senere Tid. Der foreligger nu et Grundlovudkast, hvori indeholdes<lb/>
+væsentlige Bestemmelser om Kirkens Stilling og Forhold i og til<lb/>
+Staten. Disse Bestemmelser, enten de nu blive vedtagne i den<lb/>
+Form, hvori de ståe i Udkastet, eller i en anden, ville vistnok<lb/>
+</p>
+</rightside>
+
+</pb>

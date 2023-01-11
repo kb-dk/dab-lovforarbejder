@@ -1,0 +1,67 @@
+3293
+<pb n="42" />
+<h>
+<coll>3293</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3294</colr>
+</h>
+<p>
+Udebliver Indstævnte, medens Appellanten møder, udgaar Sagen ligesom nu til<lb />
+skriftlig Behandling.
+</p>
+<p>
+Højesteret kan med nogle enkelte Undtagelser lade Sagernes Forberedelse<lb />
+foregaa for et Udvalg af 3 Medlemmer.
+</p>
+<p>
+Naar Indstævnte har afgivet sit Svar, tager Retten efter Appellantens Begæ-<lb />
+ring Bestemmelse om Tiden for Domsforhandlingen, der dog ikke uden begge Parters<lb />
+Samtykke maa ansættes tidligere end 4 Uger efter det paagældende Retsmøde.
+</p>
+<p>
+Hvor vidt Sagens Vidner og deslige skulle føres for Højesteret selv, beror paa<lb />
+dennes egen Bestemmelse, kun at den ikke kan foreskrive saadant mod begge Parters<lb />
+Ønske. I øvrigt foregaar Parternes Plædering og Dokumentationen paa lignende<lb />
+Maade som nu for Tiden. Dom afsiges snarest muligt efter Optagelsen.
+</p>
+<p>
+22.	Kære (Kæremaal, Besværing) i borgerlige Sager. Medens den nugæl-<lb />
+dende Proces kun kender een Form for Klage til højere Ret, nemlig Appel, vil der<lb />
+under den ny Ordning være to saadanne Former. Af disse finder den ene, Anke,<lb />
+Anvendelse med Hensyn til selve den endelige Dom, sammen med hvilken eventuelt<lb />
+hele den forudgaaende Behandling kan paaankes. Den anden Klageform, Kære, finder<lb />
+derimod Anvendelse med Hensyn til Kendelser og Beslutninger, der forekomme i Løbet<lb />
+af Sagens Behandling, for saa vidt disse efter Loven kunne og af vedkommende ønskes<lb />
+paaklagede særskilt. Tanken med at indrette dette særlige Retsmiddel er, at der bør<lb />
+være Adgang til at faa visse mindre vigtige eller med Processens egentlige Grenstand<lb />
+ikke sammenhængende Spørgsmaal (f. Eks. Nægtelse af fri Proces, Afgørelser ved-<lb />
+rørende Vidnepligten, Indrømmelse eller Nægtelse af Udsættelse o. s. v.) afgjorte af<lb />
+højere Ret paa en simpel og hurtig Maacle. Den foreslaaede Fremgangsmaade nær-<lb />
+mer sig mere til de administrative Former end til de almindelige retslige, idet Ord-<lb />
+ningen er den, at Kæremaalet først i særlig skriftlig Fremstilling eller i Form af en<lb />
+Bemærkning til Retsbogen skal forelægges den Ret, over hvilken man vil klage, og<lb />
+derefter med dennes Erklæring over Sagen indsendes til den højere Ret, som da i<lb />
+Reglen afgør Sagen paa det foreliggende skriftlige Grundlag, efter at Parterne have<lb />
+haft Adgang til at ytre sig een Gang fra hver Side ved skriftlig Henvendelse til den<lb />
+højere Ret, I rigtigere eller vanskeligere Tilfælde kan Retten dog ogsaa anordne<lb />
+mundtlig Forhandling, inden den træffer sin Afgørelse. Et Kæremaal kan altid støttes<lb />
+paa ny faktiske Anbringender og Beviser. Kære har ikke opsættende Virkning, hvor<lb />
+saadant ikke særlig er foreskrevet. Dog kan saavel Landsretten som Højesteret an-<lb />
+ordne saadan Opsættelse. Kæremaal kunne ved Højesteret forhandles for og afgøres<lb />
+af et Tremands-Udvalg. — Den almindelige Frist, inden hvilken Kære maa iværksættes<lb />
+(Kærefristen) er 2 Uger. — Landsrettens Afgørelse i Anledning af Kære over Under-<lb />
+retten kan ikke indbringes for Højesteret.
+</p>
+<p>
+23.	Genoptagelse (ny Foretagelse) af borgerlige Sager.*) En ved Under-<lb />
+ret eller Landsret paakendt Sag, under hvilken Sagsøgte er dømt som udebleven, kan<lb />
+forlanges genoptagen af denne, dels naar han er udebleven uden at have givet Svar i<lb />
+Sagen, men inden 5 Dage efter Dommens Afsigelse skriftlig begærer Genoptagelse,<lb />
+samt enten fremlægger Bevis for at have betalt de idømte Sagsomkostninger eller i
+</p>
+<note rend="foot">
+<p>
+*) Genoptagelse tages her i snævrere Forstand, saaledes at herunder ikke indbefattes den ved<lb />
+Anke foranledigede fornyede Behandling af en Sag.
+</p>
+</note>

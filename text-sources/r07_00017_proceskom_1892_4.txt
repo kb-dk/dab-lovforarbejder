@@ -1,0 +1,67 @@
+3243
+<pb n="17" />
+<h>
+<coll>3243</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3244</colr>
+</h>
+<p>
+nitetssager og privat forfulgte Straffesager (o: Injuriesager m. m.).*) Alle andre<lb />
+borgerlige Sager høre for Landsret; dog staar det altid Parterne frit for at vedtage<lb />
+Underretsbehandling, ligesom Indklagedes Udeblivelse fra Forligsmægling i en Lands-<lb />
+retssag, hvilken Forligsmægling foregaar ved Underretten, giver Klageren Ret til at<lb />
+faa Udeblivelsesdom ved denne.
+</p>
+<p>
+Hvad Straffesager angaar, da ere Underretterne Undersøgelsesretter i alle saa-<lb />
+danne, idet nemlig Forundersøgelse og enkeltstaaende Retshandlinger som Regel fore-<lb />
+gaa ved Underret uden Hensyn til, om den eventuelt paafølgende Domsbehandling skal<lb />
+foregaa for Underret eller for Landsret. Naar derimod de forberedende Undersøgel-<lb />
+ser ere endte, og Tiltale rejses, beror Afgørelsen af, om Sagen skal frem til Doms-<lb />
+forhandling for og Paakendelse ved Underret eller Landsret i Hovedsagen**) paa føl-<lb />
+gende Regler: Naar Straffen efter den for Forbrydelsen foreskrevne Strafferamme ikke<lb />
+kan overstige Fængsel paa Vand og Brød, gaar Sagen til Underret. Ligeledes gaar<lb />
+Sagen til Underret, naar vedkommende Straffebestemmelse alternativt med andre<lb />
+Strafarter hjemler Anvendelse af Formuestraf, simpelt Fængsel, Tvangsarbejde, Ris<lb />
+eller Fortabelse af Næringsret, dog at Sigtede han begære Landsretsbehandling, naar<lb />
+Straffen kan stige til Strafarbejde eller Embeds- eller Bestillingsfortabelse. Hvis ende-<lb />
+lig Strafferammen i sin Helhed ligger saa højt, at den for første Gang begaaet For-<lb />
+brydelse hjemler alternativt Fængsel paa Vand og Brød eller Strafarbejde (hvilke<lb />
+f. Eks. gælder om simpelt Tyveri, Bedrageri og Hæleri), saavel som i Tilfælde af grovt<lb />
+Tyveri, gaar Sagen kun til Paakendelse ved Underret, naar Sigtede ikke begærer Lands-<lb />
+retsbehandling og derhos har afgivet en fuldstændig og troværdig Tilstaaelse. I alle<lb />
+andre Tilfælde gaar Sagen til Landsret.
+</p>
+<p>
+Hvor vidt Nævninger skulle medvirke ved Paakendelsen af de til Landsret hen-<lb />
+viste Sager, beror navnlig paa følgende Hovedregler**): Nævninger skulle ubetinget<lb />
+medvirke, naar Sagen angaar Anvendelse af Straffelovens § 299 (Sikkerhedsfængsel i<lb />
+Anledning af Undsigelse o. lign.) eller en Forbrydelse, for hvilken Loven hjemler Livs-<lb />
+straf eller, uden at saadant er betinget af Gentagelse, livsvarigt Strafarbejde. Frem-<lb />
+deles skulle Nævninger medvirke, naar Sagen angaar en Forbrydelse, hvorfor der efter<lb />
+Loven kan idømmes Strafarbejde eller Fortabelse af Embede, Bestilling eller Valgret,<lb />
+for saa vidt enten Sigtede eller Overanklageren begærer det. Den sidstnævnte Ret<lb />
+for Sigtede bortfalder dog, hvis han er under Tiltale for en af de i Straffelovens<lb />
+Kap. 23—27 omhandlede Forbrydelser (Tyveri, Bedrageri, Falsk og lignende) og i<lb />
+Løbet af de sidste 10 Aar alt har været i Forbedrings- eller Tugthuset for en af disse<lb />
+Forbrydelser. Landsretten kan dog, naar Overanklageren og Sigtede ere enige om<lb />
+at ønske saadant, bestemme, at Nævninger skulle medvirke ogsaa i andre Tilfælde end<lb />
+de oven for nævnte.
+</p>
+<p>
+En hvilken som helst borgerlig Underretssag kan paaankes til Landsret, og<lb />
+Anken kan omfatte saavel Sagens faktiske Side (Bevisspørgsmaalet), som dens retlige
+</p>
+<note rend="foot">
+<p>
+*) Da den ny Proces i det hele er anlagt paa Hurtighed, og der derhos paahviler Dommeren Vej-<lb />
+ledningspligt i alle Underretssager, for saa vidt der ikke mødes ved Sagfører, bortfalde den nu-<lb />
+værende Rets »Gæsteretssager«, »smaa Gældssager« og »private Politisager« som særlige Klasser.
+</p>
+<p>
+**) Angaaende den nøjagtige Afgrænsning maa henvises til Udkast til Lov om Strafferetsplejen<lb />
+§§ 5 og 6 og Bemærkningerne til samme, hvor der navnlig er gjort udførlig Rede for, hvor vidt<lb />
+de i Straffeloven omhandlede Forbrydelser ville komme for Underret, for Landsret uden Næv-<lb />
+ninger eller for Landsret med Nævninger.
+</p>
+</note>

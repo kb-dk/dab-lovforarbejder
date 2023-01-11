@@ -1,0 +1,65 @@
+4087
+<pb n="224"/>
+<h>
+<coll>4087</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>4088</colr>
+</h>
+<wtitle>§ 966.</wtitle>
+<p>
+Bødestraffe, som ikke ere fuldbyrdede, bortfalde ved den domfældtes Død.
+</p>
+<wtitle>§ 967.</wtitle>
+<p>
+Ovenstaaende Begier finde med de af Forholdets Natur eller særlige Forskrifter<lb />
+følgende Lempelser ogsaa Anvendelse ved Fuldbyrdelsen af Kendelser, hvorved Retten
+ har paalagt Vidner eller andre Straf.
+</p>
+<p>
+Fuldbyrdelse af de i § 155, jfr. § 183, omtalte Kendelser kan dog først finde<lb />
+Sted, naar Fristen til at fremsætte Begæring om Kendelsens Ophævelse i Henhold til<lb />
+§ 155 er forløben, eller Retten har nægtet at efterkomme en saadan Begæring.
+</p>
+<p>
+Med Hensyn til Fuldbyrdelsen af de i §§ 189 ommeldte Bødepaalæg for-<lb />
+holdes efter de almindelige Regler om Bøder, som paalægges af Øvrighedsmyndigheder.
+</p>
+<htitle>Niende Afsnit.</htitle>
+<title>
+Sagsomkostninger og Rettergangsbøder i Straffesager.
+</title>
+<title>Kapitel 87</title>
+<undertitle>
+Sagsomkostninger.
+</undertitle>
+<wtitle>§ 968.</wtitle>
+<p>
+I Straffesager, som forfølges af en offentlig Myndighed, udredes Omkost-<lb />
+ningerne ved Sagens Behandling og Straffens Fuldbyrdelse af det offentlige med For-<lb />
+behold af Ret til at faa dem erstattede efter nedenstaaende Regler.
+</p>
+<p>
+De beskikkede offentlige Anklagere og Forsvarere erholde Vederlag af det<lb />
+offentlige for den enkelte Sag, forsaavidt Krav herpaa ikke er frafaldet. Retten fast-<lb />
+sætter dette Vederlag efter Arbejdets Betydning og Omfang ved Dommen eller naar<lb />
+deres Virksomhed er afsluttet. I øvrigt gælde Bestemmelserne i Lov om Sagfører-<lb />
+salær m. m. af 24. Maj 1879 for de offentlige Anklagere og Forsvarere.
+</p>
+<p>
+Vederlag til valgte Forsvarere og Udgifter i Anledning af Beviser, som Sig-<lb />
+tede fremskaffer uden Rettens Foranstaltning, vedkomme ikke det offentlige, ej heller<lb />
+Udgifter, der foranlediges ved Skridt, som en Trediemand foretager i sin Interesse.<lb />
+Dog kan Retten efter Omstændighederne tillægge Vidner, som fra Tiltaltes Side<lb />
+fremstilles i Nævningesager uden dertil at være indkaldte, Godtgørelse hos det offentlige.
+</p>
+<wtitle>§ 969.</wtitle>
+<p>
+Findes Sigtede skyldig, er han pligtig at erstatte det offentlige de nødvendige<lb />
+Udgifter, som ere medgaaede til Sagens Behandling.
+</p>
+<p>
+Har Undersøgelsen været rettet paa en anden Forbrydelse end den, eller paa<lb />
+andre Forbrydelser foruden den, for hvilken Tiltalte dømmes, er han ikke pligtig til
+at erstatte de derved foranledigede yderligere Omkostninger (jfr. dog § 971); kan en<lb />
+Sondring ikke ske, bestemmer Retten, om og hvor stort et Afdrag der bør gøres.
+</p>

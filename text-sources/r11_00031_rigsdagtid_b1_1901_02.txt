@@ -1,0 +1,93 @@
+2319
+<pb n="31" />
+<h>
+<coll>2319</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2320</colr>
+</h>
+<leftside>
+<p>Besværingen maa iværksættes inden 2<lb />
+Uger, efter at den paagældende Beslutning<lb />
+er tagen. Dog kan Justitsministeriet saa<lb />
+vel som Landsrettens Justitiarius paa An-<lb />
+dragende undtagelsesvis indtil 6 Maaneder,<lb />
+efter at Beslutningen er tagen, tilstede Be-<lb />
+sværings Indbringelse, naar ganske sær-<lb />
+egne Omstændigheder retfærdiggøre, at den<lb />
+paagældende ikke i rette Tid har rejst<lb />
+Besværing. Reglen i § 246, 3die Stykke<lb />
+finder herved Anvendelse".</p>
+<wtitle>Til § 509.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>492) Stk. 1 affattes saaledes:</p>
+<p>„Den tilendebragte Skiftebehandling<lb />
+og i Forbindelse hermed de under samme<lb />
+af Skifteforvalteren tagne Beslutninger,<lb />
+for saa vidt som disse ikke have været<lb />
+gjorte til Grenstand for særskilt Søgsmaal,<lb />
+kunne paaklages ved Søgsmaal i første<lb />
+Instans til den Landsret, i hvis Kreds<lb />
+Skiftet er foregaaet".</p>
+<p>Første Ord i Stk. 2 ,,Anke" ændres<lb />
+til „Saadant Søgsmaal", og i Stk. 3 L. 1<lb />
+ændres „Oprejsning imod Undladelse af<lb />
+at iværksætte Anke inden" til: „Tilladelse<lb />
+til at iværksætte Søgsmaal efter Udløbet af".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>493) Underændringsforslag til Udval-<lb />
+gets Ændringsforslag Nr. 492: I Ændrings-<lb />
+forslaget ændres: „Skifteforvalteren" til:<lb />
+„Sysselmanden" og: „særskilt Søgsmaal"<lb />
+til: „Besværing til Retten".</p>
+<wtitle>Til § 510.</wtitle>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>494) Begyndelsesordene „Anke eller<lb />
+Kære kan ikke finde Sted imod" ændres<lb />
+til: „Naar den klagende ikke vil gøre An-<lb />
+svar gældende mod Skifteforvalteren, kan<lb />
+Søgsmaal ikke rejses angaaende".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>495) Underændringsforslag til Udval-<lb />
+gets Ændringsforslag Nr. 494:</p>
+</leftside>
+<rightside>
+<p>Ændringsforslaget ændres til, at Para-<lb />
+graffens Begyndelsesord „Anke ... ifølge"<lb />
+ændres til: „Klage over de Bestemmelser,<lb />
+der af Sysselmanden træffes i Henhold til",<lb />
+og at der til Paragraffens Slutning føjes:<lb />
+„kan kun gøres gældende ved Besværing<lb />
+til højere Øvrighed overensstemmende med<lb />
+Reglerne i Kap. m."</p>
+<wtitle>Til § 511.</wtitle>
+<p>496) Stk. 1 udgaar.<lb />
+I Stk. 2 ændres „Ankestævningen for-<lb />
+kyndes for Skifteretten" til „Stævningen i<lb />
+de fornævnte Søgsmaal forkyndes for<lb />
+Skifteforvalteren."</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>497) Underændringsforslag til Udval-<lb />
+gets Ændringsforslag Nr. 496:</p>
+<p>I Ændringsforslaget ændres: „Skifte-<lb />
+forvalteren" til: „Sysselmanden".</p>
+<p>Af Udvalget undtagen Nanke:</p>
+<p>498) I Stk. 3 ændres „Den for Skifte-<lb />
+retten stedfundne Procedure" til „den for<lb />
+Skifteforvalteren stedfundne Forhandling".<lb />
+I næstsidste Linie ændres „Skifteretten" til<lb />
+„ Skift ef orvalt er en ".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>499) Ændringsforslaget ændres til, at<lb />
+Paragraffens 3die Stykke udgaar.</p>
+<wtitle>Til § 514.</wtitle>
+<p>(Jvf. Nr. 479).</p>
+<wtitle>Til § 512.</wtitle>
+<p>Af Udvalget undtagen Nanke:<lb />
+500) Paragraffen udgaar.</p>
+<wtitle>Til § 513.</wtitle>
+<p>501) Paragraffen udgaar.</p>
+</rightside>

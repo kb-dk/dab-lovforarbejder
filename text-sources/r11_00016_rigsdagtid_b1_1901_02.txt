@@ -1,0 +1,82 @@
+2289
+<pb n="16" />
+<h>
+<coll>2289</coll>
+<topmidle>Bet. o. Lovf. om den borgerlige Retspleje.</topmidle>
+<colr>2290</colr>
+</h>
+<leftside>
+<wtitle>Til § 331.</wtitle>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget:</p>
+<p>278) I Slutningen tilføjes: „og de i<lb />
+§ 324 Nr. 4 nævnte Bodmeribreve".</p>
+<wtitle>Til § 332.</wtitle>
+<p>279) „Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 333.</wtitle>
+<p>Af Udvalget:</p>
+<p>280) Til 1ste Stykke føjes:<lb />
+„Naar der ikke i Dommen er fastsat<lb />
+nogen særlig Fuldbvrdelsesfrist, gælder den<lb />
+her nævnte."</p>
+<wtitle>Til § 339.</wtitle>
+<p>Af Justitsministeren, tiltraadt af U d-<lb />
+valget undtagen Nanke:</p>
+<p>281) „Fogden" ændres til „Syssel-<lb />
+manden" (5 Steder) og „Fogedforret-<lb />
+ningen" ændres til „Eksekutionsforret-<lb />
+ningen" (2 Steder).</p>
+<wtitle>Til § 340.</wtitle>
+<p>282) „Fogden" ændres til „Syssel-<lb />
+manden".</p>
+<wtitle>Til § 341.</wtitle>
+<p>Af Udvalget:</p>
+<p>283) I L. 1 efter „Ting" indsættes<lb />
+„eller et Barn". Efter „Tingen" i L. 3<lb />
+indsættes ..eller Barnet".</p>
+<p>Af Justitsministeren, tiltraadt af Ud-<lb />
+valget undtagen Nanke:</p>
+<p>284) „Fogden" ændres til „Syssel-<lb />
+manden"'.</p>
+<wtitle>Til § 342.</wtitle>
+<p>285) „Fogden" ændres til „Syssel-<lb />
+manden" (5 Steder).</p>
+</leftside>
+<rightside>
+<wtitle>Til § 343.</wtitle>
+<p>286) „Fogedforretning" ændres til<lb />
+,,Eksekutionsforretning" (2 Steder).</p>
+<wtitle>Til § 345.</wtitle>
+<p>287) Efter „Fængsel" i Linie 4 tilføjes:<lb />
+„(jfr. alm. borgerlig Straffelovs § 25)".</p>
+<wtitle>Til § 346.</wtitle>
+<p>288) „Retsmidler" ændres til „Sik-<lb />
+ringsmidler".</p>
+<wtitle>Til § 348.</wtitle>
+<p>289)	„Fogden" ændres til „Syssel-<lb />
+manden." (2 Steder).</p>
+<p>290)	„Retsgebyrer" ændres til „Rets-<lb />
+afgifter."</p>
+<wtitle>Til § 349.</wtitle>
+<p>291) „Fogden" ændres til „Syssel-<lb />
+manden." (2 Steder).</p>
+<wtitle>Til § 349.</wtitle>
+<p>Af Udvalget:</p>
+<p>292) I næstsidste L. ændres - „hvis Rig-<lb />
+tighed" til „naar disses Rigtighed".</p>
+<wtitle>Til § 350.</wtitle>
+<p>Af Justitsministeren, tiltraadt af U d-<lb />
+valget undtagen Nanke:</p>
+<p>293) „Fogden" ændres til „Syssel-<lb />
+manden."</p>
+<wtitle>Til § 351.</wtitle>
+<p>294) „Fogedforretningen" ændres til<lb />
+,,Eksekutionsforretningen."</p>
+<wtitle>Til § 352.</wtitle>
+<p>295) „Fogedvidnerne" ændres til „Vid-<lb />
+nerne."</p>
+<wtitle>Til § 353.</wtitle>
+<p>296) „Fogden" ændres til „Syssel-<lb />
+manden."</p>
+</rightside>

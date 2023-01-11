@@ -1,0 +1,45 @@
+3571
+<pb n="104" />
+<h>
+<coll>3571</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3572</colr>
+</h>
+<p>mende.    Iovrigt er det, som af Biintervenienten anfores, i processuel Henseende at betragte<lb />
+som Bestanddele af den Parts Procedure, til hvis Bistand han indtræder.</p>
+<wtitle>§ 370.</wtitle>
+<p>Biintervenienten indtræder derved, at han til Retten afgiver en skriftlig motiveret<lb />
+Begjæring om at maatie faa Adgang til at yttre sig i Sagen. Denne Begjæring meddeles<lb />
+Parterne. Paastaar nogen af dem Biintervenienten afvist, bliver Spørgsmaalet herom fore-<lb />
+lobig at Afgjøre ved Rettens Kjendelse. Afvises Biintervenienten, kan han iværksætte Besvce-<lb />
+ring herover; i den Anledning kan han forlange Sagens videre Behandling udsat.</p>
+<wtitle>§ 371.</wtitle>
+<p>Tillader Retten Sagssgeren at tilstævne (adcitere) Trediemand for at faa Dom over<lb />
+ham enten alternativt med eller tilsammen med Sagvolderen, udfættes Sagen faalænge, som<lb />
+nodvendigt er, for at paagjældende Trediemand paa scedvanlig Maade kan kaldes til at svare<lb />
+som Sagvolder. De i §§ 362, 366 og 367 om Intervention givne Regler finde ogsaa<lb />
+Anvendelse med Hensyn til TilStævning.</p>
+<wtitle>§ 372.</wtitle>
+<p>Naar den mundtlige Forhandling om Sagens Realitet er begyndt, kan Intervention<lb />
+eller TilStævning ikke mere finde Sted, hverken under Sagens Behandling i denne eller i<lb />
+hoiere Instants. Biintervention kan derimod finde Sted paa ethvert Trin af Sagens Be-<lb />
+handling.</p>
+<title>Sjette Afsnit.</title>
+<undertitle>Saeregne Rettergangsarter.</undertitle>
+<title>Kapitel I.</title>
+<undertitle>Om Bevisers Foielse forend Hvvedforhandlingen.</undertitle>
+<wtitle>§ 373.</wtitle>
+<p>Vidners førelse og Syns- eller Skønsforretnings Optagelse, forinden Bevisforhand-<lb />
+ling i Sagen foregaar, kan undtagelsesvis finde Sted, naar paagjældende Part staar i Fare<lb />
+for ellers at tabe sit Bevis, enten paa Grund af Vidners Sygdom eller Bortreise, eller fordi<lb />
+Forretningens Gjenstand er udsat for Forandring eller af lignende Grunde.</p>
+<wtitle>§ 374.</wtitle>
+<p>Den Part, som onfker Beviset fort, har at indgive skriftligt Andragende herom til den<lb />
+Ret, for hvilken Sagen svceuer, hvis den allerede er anhængiggjort, jfr § 100, og ellers til<lb />
+Underretten paa det Sted, hvor Vidnet bor, eller hvor Gjenstanden for Syns- eller skjøns<lb />
+forretningen befinder sig.</p>
+<wtitle>§ 375.</wtitle>
+<p>
+Andragendet maa indeholde:</p>
+<p>a)  Angivelse af den Sag, i Anledning af hvilken, og den Person,  imod  hvem Beviset skal erhverves;</p>
+<p>b)  Noiagtig Opgivelse af det, hvorfor Bevis søges tilveiebragt;</p>

@@ -1,0 +1,69 @@
+618
+<pb n="202" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>618</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+handlingerne eller visse Dele af samme ikke må finde Sted, forinden Dom er afsagt.<lb />
+Kendelsen ophæves, så snart Grundene for samme ikke længere antages at være til Stede.<lb />
+Overtrædelse straffes med Bøder fra 100 til 1,000 Kr.
+</p>
+<wtitle>§ 852.</wtitle>
+<p>
+Om Udsættelsesgrunde, som indtræder på en Tid, da Domsforhandlingen er<lb />
+udsat, påhviler det enhver vedkommende snarest muligt at underrette Rettens Formand, for at Bestemmelse om Udsættelse om muligt kan tages og Meddelelse til alle vedkommende finde Sted, førend Sagen på ny skulde have været for.
+</p>
+<wtitle>§ 853.</wtitle>
+<p>
+Når Retten er sat til Sagens Behandling, lader Rettens Formand Sagen påråbe og Tiltalte føre ind i Retssalen samt så vidt fornødent Vidner og Syns- og Skønsmænd påråbe, hvorhos han giver de Pålæg og træffer de Foranstaltninger, som måtte<lb />
+findes fornødne for at sikre disses Tilstedeblivelse og hindre indbyrdes Meddelelse.
+</p>
+<p>
+Derefter skrides, for så vidt der ikke opstår Spørgsmål om Udsættelse, Afvisning eller desl., som findes forinden at burde afgøres, til Udtagelse af Nævninger, jfr.<lb />
+dog § 863.
+</p>
+<wtitle>§ 854.</wtitle>
+<p>
+I enhver Nævningesag skal 12 Nævninger udtages til at deltage i Afgørelsen.
+</p>
+<p>
+Kan det forudses, at en Sags Forhandling vil medtage et længere Tidsrum, kan<lb />
+Rettens Formand, førend Lodtrækningen begynder, beslutte, at endvidere en eller flere<lb />
+Nævninger skal udtages som Suppleanter. Såfremt da nogen af Nævningerne måtte<lb />
+blive forhindret i at overvære den hele Forhandling, indtil Nævningernes Erklæring er<lb />
+afgivet, indtræder en Suppleant i hans Sted efter den Rækkefølge, i hvilken Navnene<lb />
+er udtrukne.
+</p>
+<p>
+Suppleanterne overværer Forhandlingen, men deltager ikke i Nævningernes Rådslagninger og Afstemninger, så længe de ikke er indtrådt i en Nævnings Sted.
+</p>
+<wtitle>§ 855.</wtitle>
+<p>
+Ingen må medvirke som Nævning i en Straffesag, når han befinder sig i noget<lb />
+af de i § 60 Nr. 1—4 nævnte Tilfælde, i hvilke Dommeren i en sådan Sag skal vige sit<lb />
+Sæde, eller han har handlet som Dommer i Sagen.
+</p>
+<wtitle>§ 856.</wtitle>
+<p>
+Foranstaltningerne til Nævningernes Udtagelse begynder med, at de indkaldte<lb />
+Nævninger påråbes. Indsigelse fra Parternes Side om, at Genpart af Nævningelisten<lb />
+ikke er behørig meddelt, må fremsættes, førend Lodtrækningen begynder. Førend denne<lb />
+stiller derhos Rettens Formand Spørgsmål til Overanklageren, den eller de Tiltalte og<lb />
+disses Forsvarere, til Dommerne og Nævningerne, om der med Hensyn til nogen af de<lb />
+indkaldte tilstedeværende Nævninger måtte være dem nogen Omstændighed bekendt,<lb />
+som efter § 60 eller i Medfør af Reglerne i Kapitel 6 udelukker fra at være Nævning i den<lb />
+foreliggende Sag eller i det hele. De herefter opstående Spørgsmål afgøres af Retten.<lb />
+Kendelse, hvorved en Nævning udelukkes, kan ikke indbringes for højere Ret. Imod<lb />
+Kendelser, hvorved Indsigelse mod en Nævnings Habilitet forkastes, kan Kæremål rejses.<lb />
+Når det straks forlanges, kan i denne Anledning en kort Udsættelse af Sagen tilstås.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

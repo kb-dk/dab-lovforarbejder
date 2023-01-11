@@ -1,0 +1,72 @@
+2283
+<pb n="190" />
+<h>
+<coll>
+2283
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2284
+</colr>
+</h>
+<p>
+vidt Tiltalte, hvor denne er fængslet, vil være at henbringe til Retsmøde, der skal<lb />
+finde Sted i en anden Underretskreds end den, hvor han hensidder fængslet, om,<lb />
+at Forsvarer vil være at beskikke til at varetage hans Tarv under Retsmøde udenfor<lb />
+Landsret, og lignende.
+</p>
+<wtitle>§ 813.</wtitle>
+<p>
+Ønsker nogen af Parterne at gøre Brug af andre Beviser end de i hans Bevis-<lb />
+fortegnelse opførte, eller vil han frafalde Førelsen af noget af disse, eller ønsker han<lb />
+noget Bevis optaget paa anden Maade end deri opgivet, skal skriftlig Meddelelse<lb />
+herom snarest muligt gøres paa Rettens Kontor og til Modparten. Bestemmelserne i<lb />
+§§ 809—812 finde herved tilsvarende Anvendelse.
+</p>
+<wtitle>§ 814.</wtitle>
+<p>
+Skal Forundersøgelse finde Sted, eller skal Afhørelse eller Edfæsteise af Vidner<lb />
+eller Syns- eller Skønsmænd foregaa forinden Domsforhandlingen, har Overanklageren<lb />
+at rette fornøden Begæring til vedkommende Undersøgelsesret. Er der Fare for, at<lb />
+et Bevis vilde spildes, hvis dets Optagelse skulde bero, indtil Reglerne i §§ 809—<lb />
+813 ere iagttagne, retter Overanklageren uden yderligere forberedende Skridt, end<lb />
+Omstændighederne tillade, Begæring til Undersøgelsesretten; dog skal i ethvert Fald<lb />
+Meddelelse herom snarest muligt indleveres paa Landsrettens Kontor, og Underretning<lb />
+tillige gives Forsvareren eller Tiltalte. Under samme Betingelse og med samme For-<lb />
+pligtelse kan Forsvareren eller Tiltalte rette Begæring om Bevishandlinger umiddelbart<lb />
+til Undersøgelsesretten, der afgør, om den her fastsatte Betingelse er til Stede; for de<lb />
+Omkostninger, som Bevisoptagelsen vil medføre, maa i dette Tilfælde saadan Sikker-<lb />
+hed stilles, som Undersøgelsesretten bestemmer.
+</p>
+<p>
+Saadan Bevisoptagelse som foran ommeldt foregaar efter Reglerne i Kapitel 72.<lb />
+De fornødne Udskrifter af det passerede tilstilles snarest muligt Overanklageren.
+</p>
+<wtitle>§ 815.</wtitle>
+<p>
+Over de Sager, som skulle foretages paa et Ting, forfatter Retsskriveren med<lb />
+Overanklagerens Bistand en Fortegnelse, i hvilken Sagerne — Nævningesager for sig<lb />
+og andre Straffesager for sig — opføres i den Orden, i hvilken de formenes at burde fore-<lb />
+tages, med Angivelse af den Tid, paa hvilken hver Sag paaregnes at ville kunne komme<lb />
+for. Denne Fortegnelse forelægges betimeligt Rettens Formand til Godkendelse. Naar<lb />
+Fortegnelsen, efter Omstændighederne med de Ændringer, som Formanden maatte<lb />
+have bestemt, er godkendt af ham, bekendtgør Retsskriveren ved Opslag paa Ting-<lb />
+stedet en overensstemmende hermed affattet Retsliste. Senere Forandringer eller<lb />
+Tillæg indføres paa Retslisten, saa snart de ere godkendte af Formanden.
+</p>
+<wtitle>§ 816.</wtitle>
+<p>
+Overanklageren foranstalter Stævning til en bestemt Dag forkyndt for Tiltalte<lb />
+med mindst fire Dages Varsel. Genpart af Stævningen tilstilles samtidig Forsvareren.
+</p>
+<p>
+Er Tiltalte fængslet eller anholdt, foranlediger Overanklageren, at han betime-<lb />
+ligt henbringes til Tingstedet.
+</p>
+<wtitle>§ 817.</wtitle>
+<p>
+Vidner og Syns- eller Skønsmænd, som skulle fremstilles under Domsforhand-<lb />
+lingen, foranstaltes af Overanklageren betimeligt indkaldte. Er noget Vidne fængslet<lb />
+eller hensat i Forvaring, foranlediger Overanklageren, at den paagældende betimelig<lb />
+henbringes til Tingstedet.
+</p>

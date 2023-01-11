@@ -1,0 +1,49 @@
+3415
+<pb n="26" />
+<h>
+<coll>3415</coll>
+<topmidle>Forsl. t. L. om Ordningen af AomZmagten, den offentlige Anklagemyndighed m. m.</topmidle>
+<colr>3416</colr>
+</h>
+<wtitle>§ 119.</wtitle>
+<p>Høiesteretssagførerne ere berettigede til at give Møde for alle Landets Domstole,<lb />
+Landsretssagførerne for alle Lands- og alle Underretter, Underretssagførerne for enhver Underret<lb />
+udenfor kjøbenhavn, Alt forsaavidt der ved vedkommende Ret kan gives Møde af Sagførere.</p>
+<p>Ingen Sagferer kan give Møde eller lade mede for en af en enkelt Dommer be-<lb />
+klcrdt Ret, i hvilken Dommeren er beslægtet eller besvogret med ham i anden Grad a<lb />
+Sidelinien eller nærmere.</p>
+<wtitle>§ 120.</wtitle>
+<p>Hvor under Domssager mundtlig Forhandling finder Sted, cr det ikke tilladt Sag-<lb />
+førere at give Møde ved Fuldmægtig, men dersom en Sagfører ikke kan eller ikke vil udfore<lb />
+Sagen i egen Person, maa dette ske ved en anden til møde for vedkommende Domstol be-<lb />
+rettiget Sagfører.</p>
+<p>Dog skal det være tilladt for Sagfsrcren ved enhver uberygtet Person at fremsætte<lb />
+og begrunde begjcrnng om Sagens Udslettelse paa Grund af Forhold, hvorved Sagføreren<lb />
+selv hindres i at give Msde.</p>
+<wtitle>§ 121.</wtitle>
+<p>Udenfor Domssager er det Sagførere tilladt uden særlig Angivelse af Grund at<lb />
+lade Møde for sig ved deres faste Fuldmægtige.</p>
+<p>med Angivelse og i fornødent Fald Bevisliggørelse af lovligt Forfald kunne Sag«<lb />
+førere under de i denne Paragraf omhandlede Rettergangsforetagender give Møde ved enhver<lb />
+uberygtet myndig Mandsperson.</p>
+<wtitle>§ 122.</wtitle>
+<p>Enhver Sagfører er berettiget til at have een fast Fuldmægtig. For at kunne blive<lb />
+fast Fuldmægtig for en Sagfører udfordres, at den Paagjældende er en myndig og uberygtet<lb />
+Mandsperson, har underkastet sig enten den fuldstændige juridiske Examen eller den juridiske<lb />
+Examen for Ustuderede, samt at han er anmeldt ved den paagjældende Ret som Sagførercns<lb />
+faste Fuldmægtig. Saadanne Anmeldelser inoføres enten i Retsprotokollen eller i en særlig<lb />
+dertil bestemt Bog, efter at det er undersøgt, om den Paagjældende tilfredsstiller de foreskrevne<lb />
+Betingelser.</p>
+<wtitle>§ 123.</wtitle>
+<p>Til Udførelsen af offentlige og beneficerede Sager, forsaavidt dette ikke sker ved Em-<lb />
+bedssagførere, antager Justitsministeriet efter Overenskomst et tilstrcrkkeligt Antal af<lb />
+de til Møde i vedkommende Ret berettigede Sagførere, dog med Forbehold af den Ret, som er ind-<lb />
+rsmmet de af Kongen udnævnte Sagførere.</p>
+<title>Kapitel II.</title>
+<undertitle>Om Sagførernes Rettigheder og Pligter.</undertitle>
+<wtitle>§ 124.</wtitle>
+<p>Sagførerne ere paa den Maade og med de Begrcrndsninger, som i RettergangsloveN<lb />
+bestemmes, eneberettigede til at udføre Retssager for Andre.</p>
+<wtitle>§ 125.</wtitle>
+<p>Ingen Sagfører er, bortset fra de Tilfælde, hvor han hertil kan beordres, pligtig at<lb />
+paatage sig Udførelien af en Retssag.</p>

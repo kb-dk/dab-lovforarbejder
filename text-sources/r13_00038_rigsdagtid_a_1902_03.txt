@@ -1,0 +1,77 @@
+1803
+<pb n="38" />
+<h>
+<coll>
+1803
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+1804
+</colr>
+</h>
+<wtitle>§  186.</wtitle>
+<p>
+Hvor en Retsskriver er ansat, samler han de enhver Sag vedkommende<lb />
+Dokumenter og bevarer dem samt de af tilbageleverede Originaler tagne Genparter.<lb />
+Ved andre Retter paahviler dette Dommeren.
+</p>
+<p>
+1 øvrigt bestemmes det nærmere ved Anordning for hver enkelt Ret, hvilke<lb />
+Bøger der skulle føres ved den, samt hvorledes de skulle indrettes.
+</p>
+<wtitle>§  187.</wtitle>
+<p>
+Parterne saavel som enhver anden, som deri har retlig Interesse, kan hos Dom-<lb />
+meren eller Retsskriveren forlange Udskrift af Retsbøgerne samt af de øvrige ved<lb />
+Retten beroende, til Sagen hørende Dokumenter.
+</p>
+<title>
+Kapitel 21.
+</title>
+<title>
+Forkyndelser og Meddelelser.
+</title>
+<wtitle>§  188.</wtitle>
+<p>
+Forkyndelser og andre processuelle Meddelelser skulle, for saa vidt ikke Loven<lb />
+eller Overenskomst mellem Parterne medfører Undtagelse, foregaa ved en Stævnings-<lb />
+mand eller i de i § 191 Nr. 3 angivne Tilfælde ved Politiet.
+</p>
+<wtitle>§  189.</wtitle>
+<p>
+Enhver beskikket Stævningsmand kan med fuld Retsvirkning iværksætte For-<lb />
+kyndelser under Iagttagelse af de i Loven givne Forskrifter. Gyldigheden af det fore-<lb />
+tagne svækkes ikke derved, at Stævningsmanden har handlet uden for den Retskreds,<lb />
+i hvilken han er ansat.
+</p>
+<p>
+En Stævningsmand maa ikke foretage eller deltage i en Forretning, naar nogen<lb />
+af Parterne er hans Ægtefælle eller beslægtet eller besvogret med ham i lige op- eller<lb />
+nedstigende Linie eller i første Sidelinie, eller han selv er Part i Sagen eller er inter-<lb />
+esseret i dens Udfald.
+</p>
+<p>
+Ved Anordning gives der en Instruks for Stævningsmænd.
+</p>
+<wtitle>§  190.</wtitle>
+<p>
+Det, der skal forkyndes paa den i § 188 foreskrevne Maade, gives i dobbelt Ud-<lb />
+færdigelse til den, der skal iværksætte Forkyndelsen. Parten kan begære Foretagelsen<lb />
+af Forkyndelser enten umiddelbart hos en Stævningsmand eller, for saa vidt Forkyn-<lb />
+delsen skal ske paa et andet Sted end det, hvor Parten opholder sig, gennem den<lb />
+paagældende Rets Kontor eller, forsaavidt der ikke i det paagældende Syssel tindes<lb />
+Retskontor, gennem Sysselmanden, som imod Forudbetaling af alle fornødne Udgifter<lb />
+er pligtig at besørge Begæringen til en Stævningsmand.
+</p>
+<p>
+Begæringen om Forkyndelse skal efterkommes snarest muligt, i Byerne senest<lb />
+inden 24 Timer, paa Landet senest inden 48 Timer efter Modtagelsen. Vedkommende<lb />
+Part kan forlange, at Stævningsmanden skal undertegne en ham forelagt skriftlig Til-<lb />
+staaelse for, at han til den angivne Tid har modtaget Begæringen.
+</p>
+<p>
+Naar Forretningen udføres af en Stævningsmand, skal en anden Stævnings-<lb />
+mand eller, i særdeles paatrængende Tilfælde, en anden god Mand tilkaldes som Vidne.
+</p>

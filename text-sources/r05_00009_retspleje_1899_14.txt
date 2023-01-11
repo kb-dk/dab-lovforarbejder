@@ -1,0 +1,35 @@
+3
+<pb n="9" />
+<h>
+<topmidle>Kap. I.    Retternes Virkekreds.     3</topmidle>
+</h>
+<wtitle>§ 5.</wtitle>
+<p>Lyder Påstanden ikke på en bestemt<lb />
+Pengesum, ansættes Værdien af dens Genstand ved Rettens Skøn.</p>
+<wtitle>§ 6.</wtitle>
+<p>I de i de tvende foregående Paragrafer omhandlede Tilfælde er Rettens Afgørelse, forsåvidt den går ud på at erklære sig kompetent til at påkende Sagen,<lb />
+ikke Genstand for Anke eller Kære; nægter<lb />
+Retten at antage Sagen, er dens Afgørelse<lb />
+Genstand for Kære til højere Ret, men ikke<lb />
+for Anke.</p>
+<wtitle>§  7.</wtitle>
+<p>Er Sagens Værdi afgørende for Kompetencespørgsmålet, må den Part, som<lb />
+påstår den højere Værdi, føre Bevis<lb />
+derfor.</p>
+<p>I øvrigt påhviler det Sagsøgeren at<lb />
+oplyse, at Sagen hører under Underret.</p>
+<wtitle>§ 8.</wtitle>
+<p>Imod Søgsmål, der i Henhold til § 2<lb />
+ere anlagte ved Underret, kunne Modfordringer gøres Gældende, når i øvrigt de<lb />
+almindelige Betingelser for disses Fremsættelse ere til Stede (§ 85). Selvstændig<lb />
+Dom for Modfordringen eller den overskydende Del af samme kan dog, hvis<lb />
+Modparten modsætter sig det, kun gives, forsåvidt Dommen ikke herved kommer til at<lb />
+lyde på noget højere Beløb end 400 Kr.<lb />
+(§ 2, jfr. §§ 3, 4 og 5) eller såfremt<lb />
+Modfordringen kunde forfølges ved Underret,<lb />
+dersom den gjordes gældende under en selvstændig Sag.</p>
+<p>Imod Søgsmål, der svæve for Landsret, kunne Modfordringer fremføres uden<lb />
+Hensyn til, at de, i og for sig betragtede,<lb />
+vilde henhøre under Underret.</p>
+<p>Når Sagen i Følge den oprindelige<lb />
+Påstand rettelig   er begyndt  ved Underret,</p>

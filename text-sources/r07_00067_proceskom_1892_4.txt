@@ -1,0 +1,71 @@
+3343
+<pb n="67" />
+<h>
+<coll>3343</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3344</colr>
+</h>
+<title>
+Uddrag af den norske Straffeproces-Statistik.
+</title>
+<p>
+En systematisk Straffeproces-Statistik for Norge er først bragt i Stand fra og<lb />
+med 1892 og endnu (1898) kun naaet til 1893. Af denne (Norges officielle Statistik<lb />
+Tredie Række Nr. 291, den kriminelle Retspleje i Aarene 1892 og 1893) ere de neden<lb />
+staaende Tal uddragne, hvilke dog — efter hvad der oplyses — ikke tør gøre For-<lb />
+dring paa at være fuldt paalidelige og heller ikke indbyrdes ere ganske overensstemmende<lb />
+men dog kunne tjene til at give et tilnærmelsesvis rigtigt Billede.
+</p>
+<table>
+<row>
+	Justits sa ger.	Politisager.
+	1892.	1893.	1892,	1893.
+</row>
+<row>
+Indkomne Anmeldelser		19,794	19,851	38,638	42,893
+</row>
+<row>
+Heraf henlagte eller tilbagesendte uden<lb />
+Efterforskning		1,658	1,715	564	838
+</row>
+<row>
+Vedtagne Forelæg		307	253	29,088	27,711
+</row>
+<row>
+Udfærdigede Tiltalebeslutninger		1,835	1,720	1,111	1,401
+</row>
+<row>
+Forliørsretsdomme (Summarisk Behand-<lb />
+ling ved Underret)		867	841	96	66
+</row>
+<row>
+Tiltale undladt i Henhold til § 85, 3 (om<lb />
+at Bøm, i Stedet for at straffes, kunne<lb />
+indsættes i Opdragelses- eller Red-<lb />
+ningsanstalt)	.		29	41		
+</row>
+<row>
+Tiltale undladt i Henhold til § 85, sidste<lb />
+Punktum (nemlig hvor intet offentligt<lb />
+Hensyn antages at kræve Forbrydelsen<lb />
+straffet)						249	229	5,075	7,557
+</row>
+<row>
+Resten...	14,849	15,052	2,704	5,320
+</row>
+<row>
+angaar hovedsagelig Tilfælde, hvor enten<lb />
+ingen Forbrydelse er fundet at fore-<lb />
+ligge, eller der efter Bevisets Stilling<lb />
+ikke er fundet Anledning til at gøre<lb />
+Ansvar gældende mod nogen. Herved<lb />
+maa dog bemærkes, at et Forelæg, en<lb />
+Dom eller en Tiltalebeslutning oftere<lb />
+vil angaa en Flerhed af særskilt an-<lb />
+meldte Forbrydelser, samt at, hvor flere<lb />
+saadanne foreligge, oftere kun enkelte<lb />
+findes at burde gøres til Genstand for<lb />
+Paatale, fordi de øvrige ikke ville have<lb />
+nogen Indflydelse paa Forbryderens Straf.	19,794	19,851	38,638	42.893
+</row>
+</table>

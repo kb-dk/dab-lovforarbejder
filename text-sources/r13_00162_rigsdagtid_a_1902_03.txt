@@ -1,0 +1,89 @@
+2051
+<pb n="162" />
+<h>
+<coll>
+2051
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2052
+</colr>
+</h>
+<wtitle>§  737.</wtitle>
+<p>
+Naar Domsforhandlingen holdes for lukkede Døre, have de ved den paatalte<lb />
+Handling forurettede Personer, fremdeles Dommere, Øvrighedspersoner, offentlige An-<lb />
+klagere, Sagførere, samt de, der ere indkaldte som Nævninger til det paagældende Ting,<lb />
+Adgang til et overvære samme; endvidere kan der af Rettens Formand tilstedes<lb />
+enkelte andre Adgang.
+</p>
+<p>
+Hvor vidt der ved Retshandlinger, som uden for Domsforhandling finde Sted for<lb />
+lukkede Døre, kan tilstedes enkelte Personer, som ikke have med Sagen at gøre, Ad-<lb />
+gang, beror paa Rettens Formand.
+</p>
+<wtitle>§  738.</wtitle>
+<p>
+Adgang til offentligt Retsmøde kan nægtes Personer under 18 Aar samt en-<lb />
+hver, der fremstiller sig i en saadan Tilstand, at hans Nærværelse vilde stride mod<lb />
+Rettens Værdighed eller god Orden, saavel som Personer, der have været straffede med<lb />
+offentligt Arbejde, Fængsel paa Vand og Brød eller Tvangsarbejde uden senere at<lb />
+have faaet Æresoprejsning. Rettens Formand kan under enhver Omstændighed, for<lb />
+at hindre, at Rummet overfyldes, begrænse Antallet af de Personer, som indlades.
+</p>
+<wtitle>§  739.</wtitle>
+<p>
+Rettens Formand vaager over, at Forhandlingen foregaar med den tilbørlige<lb />
+Orden og Værdighed. Han er berettiget til at afbryde og tilrettevise Parter, Vidner<lb />
+eller andre, naar de tillade sig upassende Udtalelser eller utilbørlige personlige An-<lb />
+greb. Vedbliver en Part hermed trods Tilrettevisning, kan Ordet fratages ham. Per-<lb />
+soner, der ved støjende eller anden utilbørlig Adfærd forstyrrer Forhandlingen eller<lb />
+tilsidesætter den Agtelse, som skyldes Retten, kunne udvises af Retssalen.
+</p>
+<p>
+For Fornærmelser mod Retten eller nogen af de i Retten mødende, Uorden,<lb />
+hvorved Forhandlingerne forstyrres, samt, Ulydighed mod Formandens Befalinger kan<lb />
+Retten ved en Kendelse, der afsiges straks, paalægge Straf af Bøder indtil 40 Kr. eller<lb />
+simpelt Fængsel indtil 8 Dage.
+</p>
+<p>
+De Straffe, som paalægges i Henhold til denne Paragraf, medfører ingen Ind-<lb />
+skrænkning i Adgangen til at drage den skyldige til Ansvar efter Straffelovens almin-<lb />
+delige Regler, hvor disse i øvrigt ere anvendelige.
+</p>
+<p>
+Politiet er forpligtet til uvægerlig og øjeblikkelig at yde Retten Bistand til<lb />
+Udførelse af denne Paragrafs Forskrifter,
+</p>
+<wtitle>§  740.</wtitle>
+<p>
+Angaaende alle Retshandlinger i Strafferetsplejen optages Beretning i Retsbogen.
+</p>
+<p>
+I Retsbogen indføres Angivelse af:
+</p>
+<p>
+1)	Tiden og Stedet for Retsmødet;
+</p>
+<p>
+2)	Navnene paa de Personer, der fungere som Dommere, Nævninger, Retsskriver<lb />
+og Retsvidner;
+</p>
+<p>
+3)	Sagens Nummer med Parternes Navne;
+</p>
+<p>
+4)	Navnene paa de Personer, der ere til Stede som Parter eller paa disses Vegne<lb />
+eller til deres Bistand, eller Bemærkning om de Forholdsregler, som maatte<lb />
+være trufne med Hensyn til deres Tilkaldelse eller Udelukkelse;
+</p>
+<p>
+5)	om Retsmødet er offentligt eller ikke.
+</p>
+<wtitle>§  741.</wtitle>
+<p>
+Fuldstændigt optages i Retsbogen Parternes Paastande, Begæringer og Ind-<lb />
+sigelser, for saa vidt de ikke indeholdes i Skrifter, som overleveres Retten, i hvilket
+</p>

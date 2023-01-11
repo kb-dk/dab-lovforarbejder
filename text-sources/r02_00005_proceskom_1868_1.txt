@@ -1,0 +1,35 @@
+2
+<pb n="5" />
+<p>raadskreds udgjør en Underretskreds; dog kunne<lb />
+saadanne Dele af Kjøbenhavns Amtsraadsfreds, hvis Beliggenhed gjør det hensigtsmæssigt,<lb />
+bed Kongelig Anordning indlemmes i andre<lb />
+tilgrænsende Underkredse.</p>
+<p>De øvrige Underkredses Antal fastsættes<lb />
+til ikke under 50 og ikke over 58. Grænserne<lb />
+for Underretskredsene bestemmes ved Kongelig<lb />
+Anordning.</p>
+<title>Kapitel II.</title>
+<undertitle>Om Retterne.</undertitle>
+<wtitle>§ 3.</wtitle>
+<p>Rigets almindelige Domstole ere Højesteret,<lb />
+Landsretterne og Underretterne (Kjøbenhavns<lb />
+Stadsret samt By- og Herredsretterne).</p>
+<p>Sirlige Domstole ere Rigsretten, Sessionerne, de gejstlige og de militære Retter.</p>
+<p>Landvæsenskommissioner og lignende Myndigheder, som afgjøre eller medvirke ved Afgjørelsen af Anliggender, der ikke hore under nogen<lb />
+af de i denne Paragraf nævnte Retter, berøres<lb />
+ikke af denne Lov.</p>
+<title>I.</title>
+<undertitle>Højesteret.</undertitle>
+<wtitle>§ 4.</wtitle>
+<p>Højesteret paakjender som øverste Instants<lb />
+for hele Riget alle Sager, som overensstemmende med Lovene om Retsplejen paaankes<lb />
+til den.</p>
+<wtitle>§ 5.</wtitle>
+<p>Ordentlige Medlemmer af Højesteret kunne,<lb />
+for et Tidsrum af 5 Aar ad Gangen, beskikkes<lb />
+af Kongen til Formand for Landsretters særlige Afdelinger under disses regelmæssige<lb />
+Samlinger.</p>
+<wtitle>§ 6.</wtitle>
+<p>Højesteret har sit Sæde i Kjøbenhavn.<lb />
+Den bestaar af en Formand, 12 andre ordentlige Medlemmer og indtil 12 overordentlige<lb />
+Medlemmer.</p>

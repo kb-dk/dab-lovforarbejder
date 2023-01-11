@@ -1,0 +1,64 @@
+580
+<pb n="164" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>580</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<wtitle>§ 707.</wtitle>
+<p>
+Retten kan med Hensyn til flere selvstændige Sager, der samtidig henstår for<lb />
+Undersøgelsesretten eller samtidig for den dømmende Ret, beslutte, at de skal forbindes til een Sag, dog, når Søgsmålene ikke står i det i § 705 forudsatte Forhold<lb />
+til hinanden, kun, når ingen af Parterne gør Indsigelse derimod. Herved finder<lb />
+Regelen i § 705, sidste Punktum, tilsvarende Anvendelse.
+</p>
+<p>
+Beslutningen tages af den Ret, for hvilken Sagerne henstår, eller, hvis Spørgsmål er om Forening af Sager, som er tingfæstede dels ved Landsretten, dels ved<lb />
+en under den hørende Underret, af Landsretten. Forfølges Sagerne ellers for forskellige Retter, og der ikke er Enighed, afgøres Spørgsmålet af vedkommende overordnede Ret (§ 223).
+</p>
+<wtitle>§ 708.</wtitle>
+<p>
+Retten kan omgøre Beslutninger, som den har truffet i Medfør af §§ 706 og<lb />
+707; dog kan en Sags Overgang til en anden Ret kun besluttes overensstemmende<lb />
+med Forskrifterne i § 707, 2det Stykke.
+</p>
+<wtitle>§ 709.</wtitle>
+<p>
+Retterne er beføjede til i en fremmed Retskreds, uden Mellemkomst af Retten<lb />
+i denne, at lade foretage Forkyndelser samt at lade udføre Anholdelsesbeslutninger,<lb />
+Fængslingskendelser og Befalinger om ved Tvang at fremstille Vidner eller Syns- eller<lb />
+Skønsmænd for Retten. Når det i øvrigt til Undersøgelsens Fremme findes hensigtsmæssigt, kan Retten foretage Embedshandlinger i en fremmed Retskreds med Samtykke af Retten i denne eller af højere Ret, og i påtrængende Tilfælde uden sådant<lb />
+Samtykke. Fornøden Meddelelse skal snarest muligt ske til Retten i den pågældende Kreds.
+</p>
+<title>Kapitel 64.</title>
+<undertitle>
+Den offentlige Anklagemyndighed.
+</undertitle>
+<wtitle>§ 710.</wtitle>
+<p>
+De offentlige Anklagere virker for Forfølgning af Forbrydelser i Forbindelse<lb />
+med Politiet efter de i denne Lov givne Regler.
+</p>
+<wtitle>§ 711.</wtitle>
+<p>
+Det påhviler de offentlige Anklagere som Embedspligt at fremme enhver Sag<lb />
+med den Hurtighed, som Tilfældets Beskaffenhed tillader, og derved ikke blot have for<lb />
+Øje, at strafskyldige Personer drages til Ansvar, men også, at Forfølgning af Personer, som ikke er strafskyldige, ikke finder Sted. De er pligtige at efterkomme de
+af Retten i Medfør af nærværende Lov givne Pålæg.
+</p>
+<wtitle>§ 712.</wtitle>
+<p>
+Ved Anordning kan der gives sådanne almindelige Forskrifter for Udførelsen<lb />
+af de offentlige Anklageres Forretninger, som ved Siden af Loven findes fornødne.<lb />
+Justitsministeren kan i Overensstemmelse med de hidtil gældende Regler med Hensyn<lb />
+til enkelte Sager pålægge vedkommende Anklager at begynde eller fortsætte, undlade<lb />
+eller standse Forfølgning, at gøre Retsmidler gældende o. s. fr.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

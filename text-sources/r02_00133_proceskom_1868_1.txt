@@ -1,0 +1,24 @@
+130
+<pb n="133" />
+<leftside>
+<p>Retstrætter, som måtte være henviste til den<lb />
+nordsjællandske Landsrets særlige Afdeling, og<lb />
+i hvilke Bevisførelse er berammet. Rævningesager behandles først; dog kunne andre Sager<lb />
+indskydes, naar det kan ske uden Forhaling<lb />
+for Rævningesagerne.</p>
+<p>Veb Samlingerne på Bornholm medfølger<lb />
+det fornødne Skriverpersonale fra Landsrettens<lb />
+Skriverkontor.</p>
+</leftside>
+<rightside>
+<p>Bornholms Amter de borgerlige Retstrætter,<lb />
+som i Medfør af § 14 måtte være henvifte<lb />
+til den sjællandske Landsrets anden særlige<lb />
+Afdeling, og i hvilke Bevisførelse er berammet. Rævningesager behandles først; dog<lb />
+kunne andre Sager indskydes, naar det kan<lb />
+ske uden Forhaling for Rævningesagerne.</p>
+<p>Ved Samlingerne på de Steder udenfor<lb />
+Kjøbenhavn, hvor den sjællandske Landsrets<lb />
+anden særlige Afdeling holder Møde, medfølger<lb />
+osv. (som i Forslag I.)</p>
+</rightside>

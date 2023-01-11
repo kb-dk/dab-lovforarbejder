@@ -1,0 +1,74 @@
+2061
+<pb n="79" />
+<h>
+<coll>
+2061
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2062
+</colr>
+</h>
+<p>
+indgive skriftlig Begæring herom til den Ret, for hvilken Sagen svæver, hvis den<lb />
+allerede er tingfæstet, og ellers til Underretten paa det Sted, hvor Vidnet bor, jfr.<lb />
+§ 339, sidste Stykke. Begæringen skal indeholde Angivelse af den Sag, i Anledning<lb />
+af hvilken, og af den Person, mod hvem Vidneførslen skal foregaa, Opgivelse af det,<lb />
+hvorfor Bevis søges tilvejebragt, og af Vidnernes Navne m. v., samt Angivelse af de<lb />
+Omstændigheder, som skulle berettige til Vidneførslen. Retten kan paalægge Parten<lb />
+yderligere at oplyse Rigtigheden af sine Anbringender. Den træffer derefter i eller<lb />
+udenfor et Retsmøde Bestemmelse, om Vidneførslen kan tilstedes. Nægtes dette,<lb />
+kan Parten inden en Uge iværksætte Kære herover til højere Ret.
+</p>
+<p>
+Den i foregaaende Stykke indeholdte Regel finder tilsvarende Anvendelse med<lb />
+Hensyn til Syn og Skøn. Er Sagen endnu ikke tingfæstet, har Parten at indgive<lb />
+Begæring til Underretten paa det Sted, hvor Genstanden for Syns- og Skønsforret-<lb />
+ningen befinder sig.
+</p>
+<wtitle>§ 339.</wtitle>
+<p>
+Naar Vidner, Syns- eller Skønsmænd eller Parter ikke kunne eller skulle møde<lb />
+under Domsforhandlingen, blive de at afhøre ved Underretten paa det Sted, hvor de<lb />
+bo eller opholde sig; dog kan Retten under Iagttagelse af Reglerne i § 160 lade<lb />
+Vidnet afhøre der ved et eller to af sine Medlemmer, saafremt ikke begge Parter<lb />
+modsætte sig dette.
+</p>
+<p>
+Er Vidneforklaringen bestemt til Brug under en Søsag, tiltrædes Underretten<lb />
+udenfor København af to søkyndige Mænd overensstemmende med § 18; i København<lb />
+træder Sø- og Handelsrettens 2den Afdeling i den almindelige Underrets Sted.
+</p>
+<wtitle>§ 340.</wtitle>
+<p>
+Naar Vidner o. desl. skulle føres for den dømmende Ret eller for et eller to<lb />
+Medlemmer af samme (§§ 161 og 339), skal der mindst 3 Dage forud gives Modparten<lb />
+Meddelelse om deres Navn, Stilling og Bopæl samt om, hvad der ved dem agtes bevist,<lb />
+for saa vidt han ikke allerede under Sagen har erholdt fornøden Kundskab derom.
+</p>
+<p>
+Til Vidneførsel o. desl.. som ikke sker for den dømmende Ret eller et eller<lb />
+to Medlemmer af samme, skal Modparten indkaldes med samme Varsel, som om han<lb />
+var Vidne. Samtidig eller dog mindst 3 Dage før Vidneførslen skal der derhos gives<lb />
+Modparten saadan Meddelelse, som i 1ste Stykke nævnt. I paatrængende Tilfælde<lb />
+kan Indstævning af Modparten undlades. Naar saadan Indstævning ikke har fundet<lb />
+Sted, kan Dommeren beskikke en i Retskredsen bosat Sagfører til at varetage Mod-<lb />
+partens Tarv mod et passende Salær, der udredes af den Part, der har begært Ind-<lb />
+kaldelsen, under Forbehold af Godtgørelse ved Dommen i Hovedsagen. Under denne<lb />
+afgøres det derhos, om der har været Føje til at undlade at indstævne Modparten og<lb />
+i benægtende Fald, om Tingsvidnet kan benyttes som Bevis i Sagen.
+</p>
+<wtitle>§ 341.</wtitle>
+<p>
+Den, der under Domsforhandlingen vil paaberaabe sig Dokumenter, der ikke<lb />
+allerede ere Modparten bekendte, skal mindst en Uge forud afgive dem til denne i<lb />
+Original eller fuldstændig eller delvis Genpart (§ 334) og, hvis ikke Originalen ud-<lb />
+laanes, henlægge denne til Eftersyn paa Rettens Kontor.
+</p>
+<wtitle>§ 342.</wtitle>
+<p>
+Naar en Part, efter at Domsforhandlingen er berammet, begærer denne udsat,<lb />
+fordi Tiden til Bevisets Tilvejebringelse viser sig utilstrækkelig, eller fordi ny Beviser,<lb />
+Paastande eller Anbringender ere fremkomne, eller af andre særlige Grunde, kan Ret-<lb />
+ten tilstaa saadan Udsættelse, efter at saa vidt muligt Modparten er hørt.
+</p>

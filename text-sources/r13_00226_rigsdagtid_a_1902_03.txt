@@ -1,0 +1,78 @@
+2179
+<pb n="226" />
+<h>
+<coll>
+2179
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2180
+</colr>
+</h>
+<wtitle>§  1003.</wtitle>
+<p>
+Højesterets Prøvelse er i Reglen indskrænket til de paaberaabte Ankegrunde;<lb />
+herfra gælde dog følgende Undtagelser:
+</p>
+<p>
+1)	Hvor Anken eller en i Henhold til § 1002, 1ste Stykke, fremsat Paastand er<lb />
+støttet paa nogen af de i § 989 Nr. 2—5 omhandlede Grunde, kan Retten prøve,<lb />
+om Straffeloven i det hele er rigtig anvendt, saa og om der er et aabenbart Misfor-<lb />
+hold imellem Forbrydelsen og den idømte Straf, jfr. dog § 1004, sidste Punktum.
+</p>
+<p>
+2)	Hvor alene Rettergangsfejl ere paaberaabte som Ankegrund, kan Højesteret,<lb />
+naar Dommen ikke ophæves af saadan Grund, prøve, om Straffeloven er urigtig an-<lb />
+vendt til Skade for Tiltalte, eller om den idømte Straf er uforholdsmæssig høj.
+</p>
+<p>
+3)	Naar det i et Tilfælde, hvor Tiltalte er domfældt, findes, at nogen væsentlig,<lb />
+til hans Betryggelse sigtende Rettergangsregel er tilsidesat, kan Højesteret, dersom<lb />
+den finder, at den begaaede Fejl gør Domfældelsens Rigtighed tvivlsom, ophæve Dom-<lb />
+men og hjemvise Sagen, uanset at den paagældende Fejl ikke er paaberaabt.
+</p>
+<p>
+Hvis en Dom, som angaar flere Tiltalte eller flere Forbrydelser af samme Tiltalte,<lb />
+kun er paaanket for en eller nogle Tiltaltes eller Forbrydelsers Vedkommende, kan<lb />
+Højesteret, naar den finder, at en Ankegrund, som er gjort gældende under Sagen,<lb />
+eller som Retten i Medfør af Reglerne i denne Paragraf har taget i Betragtning,<lb />
+tillige omfatter nogen Tiltalt eller Forbrydelse, for hvis Vedkommende Dommen ikke<lb />
+er paaanket, til Fordel for vedkommende Tiltalte tillægge den Virkning ogsaa under<lb />
+den saaledes upaaankede Del af Sagen.
+</p>
+<wtitle>§  1004.</wtitle>
+<p>
+Kommer Højesteret til det Resultat, at den paaankede Afgørelse bliver at for-<lb />
+andre, kan den selv afsige ny Realitetsdom, naar den finder, at det fornødne Grund-<lb />
+lag herfor foreligger, — hvortil, for saa vidt Spørgsmaal er om at afsige en fældende<lb />
+Dom, ifølge § 989 hører, hvis Sagen er en Nævningesag, at Tiltalte ved en gyldig<lb />
+Nævningeerklæring er kendt skyldig i den Forbrydelse, for hvilken der er Spørgsmaal<lb />
+om at domfælde ham, og, hvis Sagen ikke er en Nævningesag, at Landsrettens Dom<lb />
+har antaget de Omstændigheder godtgjorte, paa Grundlag af hvilke der er Spørgsmaal<lb />
+om at ikende ham Straf.
+</p>
+<p>
+Finder Højesteret, at den paaankede Afgørelse bliver at forandre, men at<lb />
+Betingelserne for, at Betten kan afsige Realitetsdom ikke ere til Stede, ophæver Høje-<lb />
+steret Dommen og, for saa vidt Ophævelsesgrunden ogsaa rammer den til Grund for<lb />
+Dommen liggende Behandling, denne eller den Del deraf, hvorom dette gælder. I For-<lb />
+bindelse hermed bliver Sagen, for saa vidt den foreliggende Fejl ikke er af den Be-<lb />
+skaffenhed, at Landsretten burde have afvist Sagen, at hjemvise til denne Ret. Saa<lb />
+vidt fornødent bør i saa Fald Højesterets Dom angive, fra hvilket Punkt den ny Be-<lb />
+handling skal tage sin Begyndelse.
+</p>
+<p>
+Skal Tiltalte i et Tilfælde, hvor Højesteret vil afsige ny Realitetsdom. dømmes<lb />
+efter et Straffebud, som ikke er bragt i Anvendelse ved den paaankede Dora, og om<lb />
+hvis Anvendelse Rigsanklageren heller ikke har nedlagt Paastand for Højesteret, bør<lb />
+der være givet Parterne særlig Lejlighed til at udtale sig herom. Er Sagen kun ind-<lb />
+anket fra Tiltaltes Side, kan der derhos ikke idømmes strængere Straf end bestemt af<lb />
+Landsretten.
+</p>
+<wtitle>§  1005.</wtitle>
+<p>
+Naar Hjemvisningsdom er afsagt, har Rigsanklageren, hvis han ikke frafalder<lb />
+Tiltale, uden Ophold at foranstalte Sagen paa ny indbragt for Landsretten.
+</p>

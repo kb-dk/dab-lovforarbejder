@@ -1,0 +1,83 @@
+350
+<pb n="356" />
+<leftside>
+<p>Feil virkelig har havt nogen skadelig<lb />
+Følge for Parterne eller Sagens Behandling. Finder Højesteret, at der må. tillægges<lb />
+den begåede Fejl Ugyldighedsvirkning, vil der<lb />
+indtræde Annullation (total eller partiel) med<lb />
+eller uden Hjemvisning. Påståes der ikke<lb />
+Hjemvisning, bliver en sådan selvfølgelig aldrig<lb />
+at bestemme i Embeds Medfør, eftersom Parterne<lb />
+have Lov til at blive stående ved at fåe<lb />
+det Stedfundne omstødt, uden at noget Nyt<lb />
+sættes i Stedet. Men når der fremsættes<lb />
+Hjemvisningspåstand, må Højesteret bestemme,<lb />
+fra hvilket Punkt i Processen den nye Behandling stal begynde. Dog føre Lovforslagets<lb />
+Grundsætninger med sig, at Hovedforhandlingen ikke kan deles, hvorfor en Fejl ved denne<lb />
+altid må medføre, at den hele Hovedforhandling stal gjentages.</p>
+<p>I § 299 handles der om Påanken i<lb />
+Anledning af Sagens Realitet. Det følger<lb />
+af Lovforslagets hele System, at Påanke kun<lb />
+kan finde Sted i Anledning af, at Landsretten har fejlet i Henseende til den materielle<lb />
+Ret eller dens Anvendelse eller i Henseende<lb />
+til den retlige Vurdering og Opfattelse af<lb />
+Faktum, således som dette må antages at<lb />
+stille sig efter den i Dommen indeholdte Fremstilling i Forbindelse med Sagsfremstillingerne<lb />
+og Sagens Dokumenter i og for sig betragtede.<lb />
+Virkningen af, at Landsretten befindes at<lb />
+have fejlet i de nævnte Retninger, er ikke, at<lb />
+den stedfundne Behandling ubetinget kasseres og<lb />
+en ny føretages med eller uden Forpligtelse til at<lb />
+følge Højesterets Anskuelse, men det er Lovforslagets Mening, at Højesteret, forudsat at<lb />
+Behandlingen ikke lider af processuelle Mangler,<lb />
+skal, såvidt dette ifølge Sagens Beskaffenhed er<lb />
+muligt, påkjende Sagen umiddelbart på det<lb />
+foreliggende aktmæssige Grundlag, uden at<lb />
+Kassation behøves. Der er altså ikke her<lb />
+Tale om det Retsmiddel, som er bekjendt fra<lb />
+den fransk rhinske Proces under Navn af<lb />
+Kassation, og hvis Hensigt ikke er at skaffe<lb />
+Parterne Ret, men kun at opretholde Eenheden<lb />
+i Retsanvendelsen; men her er Tale om en Revision af Landsretsdommen i Parternes Interesse,<lb />
+hvilket Retsmiddel i Principet er af samme<lb />
+Natur som Appel i egentlig Forstand, men<lb />
+kun forskjellig herfra i Henseende til Omfanget</p>
+</leftside>
+<rightside>
+<p>af det, der kan tages under Påkjendelfe af<lb />
+Overdomstolen. Man kan derfor med Rette<lb />
+sige, at den heromhandlede Påanke må betegnes ikke som en udvidet Kassationsrekurs, men<lb />
+som en begrænset Appel. Denne Principforskjel viser sig strax i Måden, hvorpå<lb />
+Retsmidlets Omfang bestemmes. Thi medens<lb />
+ved Kassationsretsmidlet Synspunktet er det,<lb />
+at alt det Konkrete holdes borte, og at Prøvelsen kun udstrækker sig til de til Grund for<lb />
+Afgjørelsen liggende almindelige Retssætninger,<lb />
+og medens Kassation nægtes, såsnart det<lb />
+blot er givet, at vedkommende Domstol ikke<lb />
+er gået ud fra urigtige Forudsætninger om<lb />
+den gjældende Rets Indhold, er ved det i<lb />
+Lovforslaget omhandlede Retsmiddel Synspunktet det, at så meget skal kunne undergives Højesterets Prøvelse, som det blot er<lb />
+muligt, uden at komme i Strid med den<lb />
+Regel, at Højesteret ikke må tilegne sig noget<lb />
+Overskjøn over Landsrettens skjøn over Resultatet af en Bevisførelse ved Midler, der<lb />
+ifølge deres Natur ej umiddelbart forelægges<lb />
+Højesteret. Det bestemmes derfor i § 299<lb />
+ikke blot, at Påanke til Højesteret til Underkjendelse og Forandring af Landsrettens Dom<lb />
+kan finde Sted, når Landsretten har fejlet i<lb />
+Opfattelsen af den materielle Ret, men der<lb />
+tilføjes „eller dens Anvendelse på det føreliggende Tilfælde", og § 299 bliver end ikke<lb />
+stående herved, men tilsteder også Påanke,<lb />
+når Landsretten formenes at have fejlet i<lb />
+Henseende til den retlige Virkning og Opfattelse af de i Dommen som beviste antagne<lb />
+Kjendsgjerninger eller af Sagsfrcmstillingerne<lb />
+eller de fremlagte Dokumenter i og for sig betragtede. Derimod kan Højesteret ikke underkjende Landsrettens Bedømmelse af Resultatet<lb />
+af en Bevisførelse ved Vidner, Syn og Skjøn<lb />
+eller Parternes personlige Afhørelse, hvad enten<lb />
+Landsretsdommen støttes på de nævnte Bevismidler alene eller på disse i Forbindelse<lb />
+med fremlagte Dokumenter. Reglen bliver<lb />
+altså, at Højesteret kan prøve Landsrettens<lb />
+Dom, forsåvidt det ikke er nødvendigt til den<lb />
+Hensigt at gå ud over det Materiale, der<lb />
+føreligger ifølge § 300; den i Landsretsdommen indeholdte Opfattelse angående<lb />
+hvilke Kjendsgjerninger,   der ere at anse som</p>
+</rightside>

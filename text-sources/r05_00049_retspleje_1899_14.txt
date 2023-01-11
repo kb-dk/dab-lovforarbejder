@@ -1,0 +1,35 @@
+43
+<pb n="<span class="result">49</span>" />
+<h>
+<topmidle>Kap. XIII.   Den tvungne Forligsprøve.   43</topmidle>
+</h>
+<title>Kapitel XIII.</title>
+<undertitle>Den tvungne Forligsprøve.</undertitle>
+<wtitle>§ 139.</wtitle>
+<p>Genstand for tvungen Forligsmægling<lb />
+ere alle borgerlige Domssager i første Instans. Dog er Forligsprøve ej forneden:</p>
+<p>1)  når   Modfordringer   gøres   gældende,<lb />
+om   endog   selvstændig   Dom   for  dem<lb />
+påstås:</p>
+<p>2)  i Sager   om   Vexler   og   visse  andre<lb />
+Gældsbreve (Kap. XXV).</p>
+<p>3)  når offentlig Indstævning finder Sted.</p>
+<wtitle>§ 140.</wtitle>
+<p>I Underretssager foregår Forligsmæglingen offentlig ved Retten, hvor Domssagen behandles, medmindre Sagen henhører<lb />
+til dem, i hvilke den ved Lov 10. Maj 1854<lb />
+§§ 65 ff. jfr. Pl. 6. Sept. 1828 og Lov 4.<lb />
+Marts 1857 § 8 anordnede Forligsmægling<lb />
+for mægleren i Tyendesager skal sinde Sted.</p>
+<wtitle>§ 141.</wtitle>
+<p>I Landsretssager foregår Forligsmæglingen offentlig ved Underretten i den<lb />
+Kreds, hvor Sagen, såfremt den havde<lb />
+været Underretssag, i Medfør af Bestemmelserne i Kap. II skulde eller kunde have<lb />
+været anlagt. Sagen berammes af Underretten til Foretagelse ved Påtegning på<lb />
+Forligsklagen, og denne forkyndes efter de<lb />
+for Forkyndelse af Stævning gældende Regler og med det i § 275 bestemte Varsel.</p>
+<p>Når Indklagede trods lovlig Indkaldelse ikke møder eller lader møde, kan der<lb />
+efter Klagerens Begæring gives Udeblivelsesdom, jfr. §§ 204 og 222 til 224, såfremt<lb />
+Klagen er affattet overensstemmende med de<lb />
+i § 273, 2det St. 1ste Punktum givne Regler. Udebliver Klageren, afvises Sagen;<lb />
+Retten kan efter den mødte Indklagedes<lb />
+Begæring tilkende denne Erstatning for forgæves møde.</p>

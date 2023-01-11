@@ -1,0 +1,36 @@
+82
+<pb n="88" />
+<h>
+<topmidle>82    Kap. XIX. Intervention og Adcitation.</topmidle>
+</h>;
+<title>Kapitel XIX.</title>
+<undertitle>Intervention og Tilstævning af Tredjemand<lb />
+ved Landsretterne i første Instans.</undertitle>
+<wtitle>§ 226.</wtitle>
+<p>Interventionssøgsmål anlægges og<lb />
+fremmes efter de om et selvstændigt Søgsmål gældende Regler, forsåvidt ikke Bestemmelserne i de følgende Paragrafer medføre Afvigelse herfra.</p>
+<wtitle>§ 227.</wtitle>
+<p>Intervenienten indtræder i Sagen derved, at han senest 8 Dage forinden det af<lb />
+de til Hovedsagens Behandling bestemte<lb />
+Retsmøder, i hvilket han vil optræde, for<lb />
+de oprindelige Parter lader forkynde en<lb />
+skriftlig Angivelse af sin Påstand og de Kendsgærninger, hvorpå den støttes, og i bemeldte<lb />
+Retsmøde fremlægger denne. Vil nogen<lb />
+af Parterne modsætte sig Interventionen<lb />
+eller bestride Intervenientens Påstand, må<lb />
+han fremlægge Svarskrift, jfr. §§ 206 og<lb />
+208. Om yderligere Skriftveksling i Anledning af Interventionssøgsmålet gælde de i<lb />
+§ 207 fastsatte Regler.</p>
+<wtitle>§ 228.</wtitle>
+<p>Påstår nogen af Parterne Interventionssøgsmålet afvist som ikke hjemlet ved<lb />
+den almindelige Bestemmelse i § 28, bliver<lb />
+Spørgsmålet herom foreløbig at afgøre<lb />
+ved Rettens Kendelse.</p>
+<wtitle>§ 229.</wtitle>
+<p>Det oprindelige Søgsmål og Interventionssøgsmålet forhandles i øvrigt i<lb />
+Forbindelse med hinanden som een Retssag.</p>
+<p>I Overensstemmelse med § 94 kan Retten udskille Interventionen til særskilt Forhandling før eller efter Hovedsagen således,<lb />
+at den enten påkendes i Forbindelse med<lb />
+Hovedsagen eller særskilt.</p>
+<wtitle>§ 230.</wtitle>
+<p>Intervenienten er berettiget til at benytte   Anke   og   Kære    overfor    den   sted-</p>

@@ -1,0 +1,87 @@
+2105
+<pb n="189" />
+<h>
+<coll>
+2105
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2106
+</colr>
+</h>
+<wtitle>§  844.</wtitle>
+<p>
+Beslutning om Fængsling eller Forholdsregel, der træder i Stedet for Fængs-<lb />
+ling, kan af Retten til enhver Tid omgøres.
+</p>
+<wtitle>§  845.</wtitle>
+<p>
+Den anordnede Fængsling bortfalder, naar Forfølgning frafaldes, eller Sigtede<lb />
+frifindes, om end ved Dom i underordnet Instans, eller der dog kun paalægges ham<lb />
+Straf af Bøder eller simpelt Fængsel.
+</p>
+<p>
+Fængslingen ophæves ved Rettens Beslutning, naar i Løbet af Undersøgelsen<lb />
+de Grunde, hvorpaa den støttedes, bortfalde, og Grunde til Fængsling ved en ny Ken-<lb />
+delse ikke ere forhaanden.
+</p>
+<p>
+Er Fængslingen besluttet i Henhold til § 835 Nr. 2 c, bliver den at ophæve,<lb />
+saa snart Undersøgelsen i paagældende Retning er sikret, i hvilken Henseende det for-<lb />
+nødne hurtigst muligt skal iværksættes, eller senest naar den i Fængslingskendelsen<lb />
+fastsatte, eventuelt af Retten forlængede Frist er udløben. Dog kan Retten efter Be-<lb />
+gæring af Paatalemyndigheden bevilge en yderligere kort Forlængelse af Fristen, saa-<lb />
+fremt det godtgøres, at det paa Grund af uforudsete og væsentlige Hindringer har<lb />
+været umuligt betimelig at fremme Undersøgelsen.
+</p>
+<p>
+I Sager, som paatales af private eller ere af mindre Betydning, bør Fængs-<lb />
+lingen ophæves, naar Retten finder, at Sagen ikke fremmes med tilbørlig Hurtighed.<lb />
+Fremdeles bør Fængsling ophæves, naar en Dom, hvorved kun en kortere Tids Fæng-<lb />
+selsstraf er idømt, bliver paaanket, og Fængslingens Forlængelse indtil Ankesagens<lb />
+Slutning vilde staa i aabenbart Misforhold til den Straf, som er eller kan ventes idømt.
+</p>
+<p>
+I Henseende til Erstatning for uforskyldt Varetægtsfængsel gælde de derom i<lb />
+særlig Lov givne Bestemmelser.
+</p>
+<wtitle>§  846.</wtitle>
+<p>
+Forholdsregler, som af Retten ere anordnede i Stedet for Fængsling, bortfalde<lb />
+eller ophæves i de samme Tilfælde som Fængsling.
+</p>
+<p>
+Fremdeles ophører en stillet Sikkerhed at hæfte, naar Sigtede hensættes i Fæng-<lb />
+sel, eller naar en Sigtet under 18 Aar sættes under andet Tilsyn end den Persons,<lb />
+hvem han mod Sikkerhed var betroet, samt naar den i Overensstemmelse med § 841<lb />
+paatagne Forpligtelse er opfyldt, eller naar den, der er gaaet i Borgen, opsiger sit<lb />
+Forløfte ved at fremstille Sigtede for Retten eller under saadanne Forhold og med saa<lb />
+langt Varsel, at der er Lejlighed og god Tid til at fængsle ham.
+</p>
+<p>
+Indgaaet Forløfte ophører ligeledes, naar en afsagt Straffedom ikke fuldbyrdes,
+</p>
+<p>
+uagtet der hertil har været rigelig Tid og Opfordring.
+</p>
+<wtitle>§  847.</wtitle>
+<p>
+Bestemmelse om Ophør af Fængsling eller om Anvendelse eller Ophør af For-<lb />
+holdsregler, som træde i Stedet for Fængsling, eller om Forbrydelse af stillet Sikker-<lb />
+hed tages af den Ret, hvem det efter § 836 vilde tilkomme at afsige Fængslings-<lb />
+kendelse.
+</p>
+<title>
+Kapitel 78.
+</title>
+<title>
+Beslag paa Sigtedes Formue og Forbud mod Foreninger og Skrifter.
+</title>
+<wtitle>§  848.</wtitle>
+<p>
+Naar der i en under Landsret hørende Sag er rejst Tiltale, men Sigtede har<lb />
+unddraget sig Sagens videre Forfølgning, kan Retten paa Overanklagerens Begæring,<lb />
+og efter at Forsvareren er hørt, ved Kendelse bestemme, at der skal lægges Beslag
+</p>

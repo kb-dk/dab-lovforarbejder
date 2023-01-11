@@ -1,0 +1,53 @@
+365
+<pb n="101" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>365</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<title>Kapitel 41.</title>
+<undertitle>
+Ægteskabssager samt Sager, hvorunder Arvinger søge sig en bortebleven Persons<lb/>
+Formue tilkendt.
+</undertitle>
+<wtitle>§ 439.</wtitle>
+<p>
+Sager angående et Ægteskabs Ugyldighed eller Opløsning blive at behandle efter<lb/>
+de almindelige for Underretsproceduren gældende Regler med de nedenfor givne nærmere Bestemmelser ved Underretten for det Sted. hvor Sagsøgte har Bopæl eller Opholdssted. eller, dersom Sagsøgte har forladt Landet, eller det ikke vides, hvor Sagsøgte<lb/>
+er. for det Sted, hvor denne sidst havde Bopæl eller Opholdssted her i Riget,
+</p>
+<wtitle>§ 440.</wtitle>
+<p>
+Dersom Sagsøgte ikke under Sagen giver Møde ved antagen Sagfører, har Sagsøgeren at andrage på, at der af Retten må blive beskikket Sagsøgte en Forsvarer.<lb/>
+Forsømmes dette, afvises Sagen.
+</p>
+<p>
+Salæret til den for Sagsøgte beskikkede Forsvarer pålægges det offentlige,<lb/>
+hvor det ikke pålægges Sagsøgeren som tabende Part at udrede det.
+</p>
+<wtitle>§ 441.</wtitle>
+<p>
+Retten kan uden Hensyn til, om Modparten begærer det, pålægge Sagsøgeren<lb/>
+at fremstille sig til Afhørelse (jvf. § 293), for Retten, jvf. § 424, og der under Ed at<lb/>
+besvare de Spørgsmål angående Sagens Grenstand, som Retten måtte gøre. Ugrundet Undladelse heraf eller Vægring herved har til Følge, at Sagen afvises.
+</p>
+<wtitle>§ 442.</wtitle>
+<p>
+Ligeledes kan Retten, hvis Sagsøgte bor eller opholder sig i Riget, pålægge<lb/>
+denne at fremstille sig til Afhørelse (jvf. § 293), for Retten, jvf. § 424, og der under<lb/>
+Ed besvare de Spørgsmål angående Sagens Genstand, som gøres af Retten. Ugrundet<lb/>
+Undladelse af at møde eller Vægring ved at svare medfører dog kun Virkning efter<lb/>
+§ 443, 2det Punktum.
+</p>
+<wtitle>§ 443.</wtitle>
+<p>
+Indrømmende Proceserklæringer fra Sagsøgtes Side have ikke Virkning som<lb/>
+bindende Grundlag for Stridsspørgsmålets Indhold og Omfang, men der kan alene<lb/>
+tillægges dem Betydning som Bevismidler. Ligeledes kan Sagsøgtes Udeblivelse, Tavshed eller ubestemte Erklæringer i de i § 296 omhandlede Tilfælde kun tages i Betragtning som Bevisdata imod pågældende.
+</p>
+<wtitle>§ 444.</wtitle>
+<p>
+Parts Ed finder, bortset fra de i §§ 441 og 442 omhandlede Tilfælde, ikke<lb/>
+Anvendelse i Ægteskabssager.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

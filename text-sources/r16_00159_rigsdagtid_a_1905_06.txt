@@ -1,0 +1,71 @@
+2221
+<pb n="159" />
+<h>
+<coll>
+2221
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2222
+</colr>
+</h>
+<p>
+Rigsanklageren kan paalægge en Overanklager at overtage i det hele eller for<lb />
+en Del det offentlige Anklagerhverv i en Sag, som hører under en anden Overanklagers<lb />
+Forretningskreds.
+</p>
+<p>
+Det paahviler Overanklagerne at gøre Indberetning til Rigsanklageren, naar<lb />
+tvivlsomme eller særdeles vigtige Spørgsmaal opstaa i de Sager, som de behandle.
+</p>
+<p>
+Overanklagernes Medhjælpere ere beføjede til efter Paalæg af Overanklageren<lb />
+eller, i Tilfælde af dennes Forhindring, uden Paalæg at foretage enhver Embeds-<lb />
+handling, som hører under Overanklagerens Virkekreds.
+</p>
+<wtitle>§ 695.</wtitle>
+<p>
+De ved Sø- og Handelsretten og Underretterne ansatte Anklagere have efter<lb />
+Paalæg af Overanklageren at udføre Sager for disse Retter.
+</p>
+<title>Kapitel 62.</title>
+<undertitle>Paatalen.</undertitle>
+<wtitle>§ 696.</wtitle>
+<p>
+Retterne træde i de under denne Lov hørende Sager kun i Virksomhed ifølge<lb />
+Begæring af nogen, hvem Ret til Paatale tilkommer, for saa vidt ikke Undtagelse er<lb />
+særlig hjemlet, jfr. §§ 785 og 796.
+</p>
+<wtitle>§ 697.</wtitle>
+<p>
+Forfølgning kan frafaldes, saa længe ikke Dom er afsagt eller henholdsvis Næv-<lb />
+ningernes Erklæring afgiven. Frafaldes Paatale, efter at Domsforhandling er begyndt,<lb />
+afsiger Retten Frifindelsesdom. Naar ellers en begyndt Forfølgning frafaldes, udsteder<lb />
+Retten paa Forlangende et skriftligt Vidnesbyrd herom.
+</p>
+<wtitle>§ 698.</wtitle>
+<p>
+Paatalen tilkommer efter de nedenstaaende Regler Overanklageren, Politi-<lb />
+mesteren. særlige Forvaltningsmyndigheder og private.
+</p>
+<wtitle>§ 699.</wtitle>
+<p>
+I alle Sager, hvis Forfølgning ikke er henvist til Politimesteren eller private<lb />
+(§§ 700 og 704), tilkommer det Overanklageren at paatale for den dømmende Ret. For-<lb />
+følgning ved Undersøgelsesret rejses i saadanne Sager af Politimesteren, medmindre<lb />
+Overanklageren undtagelsesvis overtager Forfølgningen overensstemmende med Reglerne<lb />
+i Kapitlerne 71 og 72. Politimesteren kan i disse Sager kun frafalde Forfølgning med<lb />
+Overanklagerens Samtykke.
+</p>
+<wtitle>§ 700.</wtitle>
+<p>
+Politimesteren tilkommer det at rejse Tiltale for Underretten, henholdsvis Sø-<lb />
+og Handelsretten i de nedennævnte Sager, for saa vidt disse ere Genstand for offentlig<lb />
+Paatale (Politisager), nemlig:
+</p>
+<p>
+1) Sager angaaende Forseelser, for hvilke Loven ikke hjemler anden Straf end<lb />
+Formuestraf. simpelt Fængsel. Tvangsarbejde, Ris eller Fortabelse af en Næringsret,<lb />
+dog med Undtagelse af de i Straffelovens §§ 129, 130, 3die Stykke, 208 og 209 om-<lb />
+handlede Lovovertrædelser;
+</p>

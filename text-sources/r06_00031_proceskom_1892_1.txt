@@ -1,0 +1,60 @@
+31
+<pb n="31" />
+<leftside>
+<pagename>29
+</pagename>
+<p>ligeledes 3 Overanklagere. Til midlertidig<lb />
+at fungere som Overanklager i Tilfælde af<lb />
+Embedsledighed eller Forfald kan Justitsministeren meddele Bestikkelse.
+</p>
+<p>Overanklagerne virke ved Landsretterne<lb />
+og Underretterne efter de derom i Lovene<lb />
+om Retsplejen givne Regler.
+</p>
+<p>Fordelingen af Forretningerne mellem<lb />
+Overanklagerne ved hver af Landsretterne<lb />
+saavelsom Stedet for deres Embedskontor<lb />
+bestemmes af Justitsministeren.
+</p>
+<p>Bemyndigelse til i en enkelt Sag at<lb />
+optræde for Landsretten i Stedet for eller<lb />
+sammen med Overanklageren kan efter Forhandling med denne gives af Justitsministeren.
+</p>
+<wtitle>§ 80.
+</wtitle>
+<p>Justitsministeren beskikker de fornødne<lb />
+Medhjælpere for Overanklagerne.
+</p>
+<p>Rigsanklageren beskikker efter Forslag<lb />
+af Overanklageren Anklagere ved Underretterne, een eller efter Omstændighederne<lb />
+flere ved hver Underretskreds, til efter Paalæg af Overanklageren at udføre Tiltale<lb />
+for Underretten. Saadan Beskikkelse kan<lb />
+meddeles een og samme Mand for flere<lb />
+Underretskredse.
+</p>
+<p>Bemyndigelse til i en enkelt Sag at<lb />
+udføre en Sag for Underretten kan efter<lb />
+Forhandling med Overanklageren gives af<lb />
+Rigsanklageren.
+</p>
+<wtitle>§ 81.
+</wtitle>
+<p>Kun uberygtede, vederhæftige Mænd<lb />
+kunne bestikkes til eller handle som offentlige<lb />
+Anklagere.
+</p>
+<p>Den, der beskikkes til Rigsanklager eller<lb />
+Overanklager, eller som bemyndiges til at<lb />
+optræde for Højesteret eller Landsretten i en<lb />
+enkelt Sag, skal fyldestgøre de Betingelser,<lb />
+der ifølge § 93 udkræves for at blive højesteretssagfører.
+</p>
+<p>Den, der beskikkes til Medhjælper for<lb />
+en Overanklager eller til Anklager ved<lb />
+Underretten eller bemyndiges til i en enkelt<lb />
+Sag at udføre en Tiltale for Underretten,<lb />
+skal fyldestgøre de Betingelser, som ifølge<lb />
+§ 95 udkræves for at blive Sagfører ved<lb />
+Underretterne.
+</p>
+</leftside>

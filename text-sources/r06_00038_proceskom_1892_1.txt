@@ -1,0 +1,47 @@
+38
+<pb n="38" />
+<rightside>
+<pagename>36
+</pagename>
+<p>retskreds de ville have Kontor. Ingen<lb />
+Sagfører maa have Kontor i flere Underretskredse. Højesteretssagførere og Landsretssagførere, som ikke have Kontor i eller<lb />
+ved den Stad, hvor henholdsvis Højesteret<lb />
+eller en Landsret har Sæde, blive, saa længe<lb />
+de beholde Kontor udenfor de sidstnævnte<lb />
+Steder, at betragte som Underretssagførere;<lb />
+dog skulle Landsretssagførere, som have<lb />
+Kontor i en Underretskreds, i hvilken Landsretten holder regelmæssigt Ting udenfor sit<lb />
+Sæde, være berettigede til at møde for Landsretten i Sager, i hvilke Domsforhandling<lb />
+foregaar paa nævnte Tingsted. Enhver Sagfører, som flytter sit Kontor til en anden<lb />
+Retskreds, skal inden 14 Dage efter Flytningen anmelde denne for Justitsministeriet.
+</p>
+<wtitle>§ 100.
+</wtitle>
+<p>Højesteretssagførerne ere berettigede til<lb />
+at give møde for alle Landets Domstole,<lb />
+Landsretssagførerne for begge Landsretter<lb />
+og alle Underretter, Underretsfagførerne for<lb />
+enhver Underret udenfor Kjøbenhavn.
+</p>
+<p>Ingen Sagfører kan give møde eller<lb />
+lade møde for en af en enkelt Dommer beklædt Ret, i hvilken Dommeren er beslægtet<lb />
+eller besvogret med ham i anden Grad af<lb />
+Sidelinien eller nærmere.
+</p>
+<wtitle>§  101.
+</wtitle>
+<p>Under mundtlig Forhandling i Domssager, er det ikke Sagførere tilladt at give<lb />
+møde ved en Anden, medmindre denne er<lb />
+en til møde for vedkommende Domstol berettiget Sagfører. Dog skal det være Sagførere tilladt ved enhver uberygtet Person<lb />
+at fremsætte og begrunde Begæring om<lb />
+Sagens Udsættelse paa Grund af Forhold,<lb />
+hvorved Sagføreren selv hindres i at give<lb />
+Møde.
+</p>
+<wtitle>§ 102.
+</wtitle>
+<p>Udenfor mundtlig Forhandling i Domssager er det Sagførere tilladt uden særlig<lb />
+Angivelse af Grund at lade møde for sig<lb />
+ved deres autoriserede Fuldmægtige.
+</p>
+</rightside>

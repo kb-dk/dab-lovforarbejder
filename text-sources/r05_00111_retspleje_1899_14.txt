@@ -1,0 +1,38 @@
+105
+<pb n="111" />
+<h>
+<topmidle>Kap. XXVI. Ægteskabssager m. v.      105</topmidle>
+</h>
+<p>Opholdssted, eller, dersom Sagsøgte har<lb />
+forladt Landet, eller det ikke vides, hvor<lb />
+Sagsøgte er, hvor denne sidst havde Bopæl<lb />
+eller Opholdssted her  i Riget.</p>
+<wtitle>§ 296.</wtitle>
+<p>Dersom Sagsøgte ikke under Sagen giver Møde ved antagen Sagfører, har Sagsøgeren at andrage på, at der af Retten<lb />
+må blive beskikket Sagsøgte en Forsvarer.<lb />
+Forsømmes dette, afvises Sagen.</p>
+<p>Salæret til den for Sagsøgte beskikkede<lb />
+Forsvarer pålægges det Offentlige, hvor<lb />
+det ikke pålægges Sagsøgeren som tabende<lb />
+Part at udrede det.</p>
+<wtitle>§ 297.</wtitle>
+<p>Retten kan uden Hensyn til, om Modparten begærer det, pålægge Sagsøgeren at<lb />
+fremstille sig til Afhørelse under Domsforhandlingen og der under Ed at besvare<lb />
+de Spørgsmål angående Sagens Genstand, som Retten måtte gøre. Ugrundet<lb />
+Undladelse heraf eller vægring herved har<lb />
+til Følge, at Sagen afvises.</p>
+<wtitle>§ 298.</wtitle>
+<p>Ligeledes kan Retten, hvis Sagsøgte<lb />
+boer eller opholder sig i Riget, pålægge<lb />
+denne at fremstille sig til Afhørelse under<lb />
+Domsforhandlingen og der under Ed besvare de Spørgsmål angående Sagens<lb />
+Genstand, som gøres af Retten. Ugrundet<lb />
+Undladelse af at møde eller vægring ved at<lb />
+svare medfører dog kun Virkning efter § 299,<lb />
+2det Punktum.</p>
+<wtitle>§ 299.</wtitle>
+<p>Indrømmende Proceserklæringer fra Sagsøgtes Side have ikke Virkning som bindende Grundlag for Stridsspørgsmålets<lb />
+Indhold og Omfang, men der kan alene<lb />
+tillægges dem Betydning som Bevismidler.<lb />
+Ligeledes kan Sagsøgtes Udeblivelse, Tavshed eller ubestemte Erklæringer i de i § 194<lb />
+omhandlede Tilfælde kun tages i Betragtning som Bevisdata imod Pågældende.</p>

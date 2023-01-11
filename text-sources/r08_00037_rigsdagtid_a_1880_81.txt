@@ -1,0 +1,49 @@
+3437
+<pb n="37" />
+<h>
+<coll>3437</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleie.</topmidle>
+<colr>3438</colr>
+</h>
+<p>a) Gre aarlige Ydelser eller Indtægter erhvervede, betingede eller tilsagte for bestandig,<lb />
+eller for ftere end de ved Rettighedens Stiftelse levende Personers Livstid, eller for et<lb />
+bestemt Tidsrum, der ikke er kortere end 25 Aar, bliver værdien af Rettigheden at<lb />
+sætte lig med det 25dobbelte af ei Aars Belob.</p>
+<p>d) Gre aarlige Ydelser eller Indtægter erhvervede, betingede eller tilsagte for en Enkelts<lb />
+eller flere ved Rettighedens Stiftelse levende Personers Livstid eller iøvrigt paa ubestemt<lb />
+Tid, sættes Rettighedens værdi lig med det 5dobbelte af et Aars Belob.<lb />
+o) Kunne Ydelser eller Indtægter ikkun oppebcrres et bestemt Antal Gange, sættes Rettig-<lb />
+hedens værdi lig med en enkelt Ydelses Belsb taget dette Antal Gange, dog ingen-<lb />
+sinde over 25.</p>
+<p>Ved Anvendelsen af de i Litr. a og d indeholdte Forskrifter ses der alene hen til,<lb />
+hvad Ydelserne  eller Indtægterne tilsammentagne udgjore for et Aar.</p>
+<p>Er Beløbet af aarlige Ydelser eller Indtægter ikke lige stort de forfkjellige Aar, tages<lb />
+Gjennemsnitsbelobet som Enhed.</p>
+<wtitle>§ 11.</wtitle>
+<p>I de i de tvende foregaaende Paragrafer omhandlede Tilfælde er Rettens Afgørelse,<lb />
+forsaavidt den gaar ud paa at erklære sig kompetent til at paakjende Sagen, ikke Gjenstand<lb />
+for Paaanke; ncægter Retten at antage Sagen, er dens Afgjørelse Gjenstand for Besværing<lb />
+til Høiere Ret.</p>
+<title>Kapitel ll.</title>
+<undertitle>Om Vlernething.</undertitle>
+<wtitle>§ 12.</wtitle>
+<p>Ifolge de i dette Kapitel indeholdte Forskrifter i Forbindelse med §§ 399, 410, jfr.<lb />
+§§ 411, 417, 419, 421, 567 .620 og 635 afgjores det, ved hvilken af flere Retter i<lb />
+fsrfte Instants af samme Art (Underretter eller Landsretter) en Sag skal anlægges,</p>
+<wtitle>§ 13.</wtitle>
+<p>Retssager skulle anlægges ved Sagsogtes Hjemthing, medmindre Loven hjemler Und-<lb />
+tagelse herfra.</p>
+<wtitle>§ 14.</wtitle>
+<p>Hjemthinget er den Ret, i hvis Kreds Sagsøgte bor. Dersom Sagsøgte har Bo-<lb />
+pæl i flere forskjellige Retskredse, anses han for at have Hjemting i dem alle.</p>
+<p>Indlcending, som ikke har Bopæl nogetsteds i Riget, kan sagsoges ved Retten paa<lb />
+det Sted, hvor han opholder sig ved Sagens Anlæg, eller, dersom han ikke nogetsteds i Ri-<lb />
+get antræffes og heller ikke vides at have Bopal i Udlandet, ved Retten Paa det Sted, hvor<lb />
+han vides sidst at have opholdt sig.</p>
+<p>z 15,        '</p>
+<p>Danske Gesandter ved fremmede Hoffer saavelsom andre med Erterritorialitetsret for-<lb />
+synede danske embedsmænd, der ifølge deres embedsstilling have Bopæl i Udlandet, anses<lb />
+for at have Hjemthing i Kjøbenhavn, forsaavidt de ikke vedligeholde Bopæl for sig eller Fa-<lb />
+milie paa noget andet Sted i Riget. Det Samme gjælder, indtil anderledes bestemmes, om<lb />
+danske Undersaatter, som ifolge traktatmæssige Bestemmelser ikke kunne sagsoges i det Land,<lb />
+hvor de have Bopæl.</p>

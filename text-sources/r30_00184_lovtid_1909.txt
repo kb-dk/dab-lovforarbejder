@@ -1,0 +1,72 @@
+448
+<pb n="184" />
+<h>
+<coll>10de April.   1909.</coll>
+<topmidle>448</topmidle>
+<colr>Nr. 53. 26de Marts.</colr>
+</h>
+<wtitle>§ 786.</wtitle>
+<p>
+Anmeldelser fra private om formentlig begåede Forbrydelser eller om Forhold, der vække Mistanke herom, gøres til Politiet.
+</p>
+<p>
+Anmeldelsen kan være skriftlig eller mundtlig; i sidste Fald skal Modtageren<lb/>
+af samme opsætte skriftlig Beretning om den.
+</p>
+<p>
+Når dertil findes Grund, kan Politimesteren, forinden videre Skridt foretages, ved Begæring til Undersøgelsesretten foranledige Anmelderen afhørt for Retten<lb/>
+(jvf. § 792).
+</p>
+<wtitle>§ 787.</wtitle>
+<p>
+Er Sagens Påtale afhængig af Justitsministerens Befaling eller af en Opfordring fra en særlig offentlig Myndighed (jvf. § 705), skal Politimesteren bringe de ham<lb/>
+tilkomne Oplysninger henholdsvis til Påtalemyndighedens eller den særlige Myndigheds<lb/>
+Kundskab, men i øvrigt ikke foretage yderligere Efterforskninger, førend vedkommendes<lb/>
+Befaling eller Opfordring foreligger.
+</p>
+<p>
+Er en Lovovertrædelse, hvis offentlige Forfølgning er betinget af en privats<lb/>
+Begæring, kommen til Politimesterens Kundskab, men der er Grund til at antage, at<lb/>
+den er den pågældende private ubekendt, kan han gøre Meddelelse til denne,<lb/>
+men foretager i øvrigt ingen Efterforskning, førend en udtrykkelig Begæring fra den<lb/>
+private foreligger. Indeholder en af den private indgiven Anmeldelse om Forbrydelsen ingen sådan Begæring, skal han foranlediges til at give den fornødne Erklæring.
+</p>
+<p>
+Ovenstående Regler udelukke dog ikke, at uopsættelige Efterforskningsskridt<lb/>
+foretages, førend Befalingen, Opfordringen eller Begæringen foreligger, såfremt Gerningen må antages at være vedkommende ubekendt, og Omstændighederne gøre det<lb/>
+rimeligt, at Påtale vil blive begært (jvf. § 705).
+</p>
+<wtitle>§ 788.</wtitle>
+<p>
+Finder Politimesteren, at der mangler Grund til at foretage videre Skridt i<lb/>
+Anledning af en indgiven Anmeldelse eller en fremsat Begæring om Forfølgning, skal<lb/>
+han på Forlangende meddele en skriftlig Erklæring om sin Vægring, og om denne<lb/>
+er grundet på, at den formentlige Lovovertrædelse ikke antages at være Genstand<lb/>
+for offentlig Forfølgning, eller på Anmeldelsens utilstrækkelige Grundlag.
+</p>
+<p>
+Den, som har indgivet Anmeldelsen eller fremsat Begæringen, kan derefter<lb/>
+henvende sig til den overordnede Myndighed med Andragende om, at det må blive<lb/>
+pålagt vedkommende at træde i Virksomhed.
+</p>
+<wtitle>§ 789.</wtitle>
+<p>
+Efterforskningen skal rettes på at tilvejebringe sådanne Oplysninger, som<lb/>
+ere tilstrækkelige til at bestemme, om Forfølgning skal indledes ved Retten ved Begæring om Forundersøgelse eller ved Iværksættelse af Tiltale.
+</p>
+<p>
+Så bør og i øvrigt alle Oplysninger fremskaffes og Foranstaltninger træffes,<lb/>
+som skønnes nødvendige eller tjenlige til at forberede Sagens Behandling ved Retten.
+</p>
+<p>
+Befrygtes et Bevis ellers at ville gå tabt, bør Bevisførelse foranstaltes.
+</p>
+<wtitle>§ 790.</wtitle>
+<p>
+Til Opnåelse af Efterforskningens Øjemed er Politimesteren berettiget ti<lb/>
+under de Betingelser og med de nærmere Bestemmelser, som herom i det foregående<lb/>
+ere fastsatte, at foretage Ransagninger og Beslaglæggelser, fordre Oplysninger af<lb/>
+offentlige Myndigheder, indkalde Vidner, foretage Besigtigelse, lade foretage Syn og<lb/>
+Skøn, anholde mistænkte m. v.
+</p>
+<pagename>Nr. 53. Lov af 26. Marts om Rettens Pleje.</pagename>

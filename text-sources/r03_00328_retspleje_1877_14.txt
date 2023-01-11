@@ -1,0 +1,88 @@
+322
+<pb n="328" />
+<leftside>
+<p>nemlig her den Forfkjel fra Udeblivelse (§ 218),<lb />
+at medens den Udeblivende kan have handlet<lb />
+af Ligegyldighed eller Ubetænksomhed og derfor<lb />
+først igjennem en Bøde bor mindes om sin<lb />
+Pligt, førend han kan behandles som forsætlig<lb />
+gjønstridig, gjælder dette ikke om den, fom er<lb />
+tilstede og af Retten kjendes pligtig at svare.<lb />
+Vil han hverken svare eller påanke Kjendelsen,<lb />
+må han betragtes som forsætlig gjenstridig<lb />
+og behandles derefter. Iøvrigt komme også<lb />
+her de ovenomtalte Betragtninger om, at der<lb />
+må være en Grænse for de Onder, der kunne<lb />
+tilføjes den Pågjældende, til Anvendelse,</p>
+<p>Bestemmelsen i § 222 indeholder kun,<lb />
+hvad der ligefrem følger af Umiddelbarhedssystemet og den deraf flydende Nødvendighed<lb />
+for at koncentrere Forhandlingen på een Dag.</p>
+<p>I Reglen føres Vidnerne for den Ret,<lb />
+der dommer i Hovedsagen (§ 202); men da<lb />
+det dog kan hænde, at Afhørelsen foregår for<lb />
+en anden Ret (navnlig en Underret), må der<lb />
+gives en Bestemmelse om, at denne Ret i så<lb />
+Fald har den fulde Myndighed til at anvende<lb />
+de foreskrevne Tvangsmidler. Dette fastsættes<lb />
+i § 223.</p>
+<p>Når Vidnet efter den almindelige Regel<lb />
+afhøres under Bevisforhandlingen og for den<lb />
+Ret, som dommer i Sagen, bliver der ikke<lb />
+Spørgsmål om en egentlig Protokollering af<lb />
+dets Udsagn. Men når Vidnet afhøres sor<lb />
+en anden Ret — enten ifølge Reglerne i §<lb />
+203, eller fordi Vidneførselen foregår, førend<lb />
+Sag er begyndt, hvilket under visse Forudsætninger må tillades (§373) —, er det uundgåeligt, at Vidneforklaringen må fuldstændigt<lb />
+protokolleres for senere under Retsforhandlingen<lb />
+at oplæses. Vidnets Førelse synes da i det<lb />
+Hele at kunne foregå på en lignende Måde<lb />
+som efter den gjældende Ret, se § 224.</p>
+<title>Anden Underafdeling.</title>
+<undertitle>Om Bevis ved Syn og skjøn.</undertitle>
+<p>I den engelsk-amerikanske Proces danner<lb />
+Bevis ved Syn og skjøn ikke noget særeget<lb />
+Bevismiddel,   men    Syns   og   skjønsrnænd</p>
+</leftside>
+<rightside>
+<p>behandles som sagkyndige og til vedkommende<lb />
+Iagttagelse særlig udmeldte Vidner. De<lb />
+afhøres på samme Måde som Vidner, og<lb />
+deres Udsagn bliver at bedømme efter samme<lb />
+Regler som Vidners. Ej heller drages der<lb />
+nogen Gramse mellem Ting, der skulle bevises ved<lb />
+Syn og skjøn, og Ting, der kunne bevises ved<lb />
+Vidner. Det foreliggende Lovforslag går ikke<lb />
+så vidt. Det bevarer ligesom de kontinentale<lb />
+Proceslove Beviset ved Syn og skjøn som<lb />
+et eget Bevismiddel, men dog på en fådan<lb />
+Måde, at det ikke kommer i Strid med<lb />
+Grundsætningerne om den frie Bevisbedømmelse. Ejendommelighederne ved Syn og<lb />
+Skjon bestå efter Lovforslaget deri, at Syns-og skjønsmændene udmeldes på en særegen<lb />
+formel Måde af Retten, at den hele Forretning foregår i lovbestemte Former, sigtende<lb />
+til at betrygge begge Parters lige Ret, og at<lb />
+Forretningens Resultat fremtræder som et<lb />
+Fællesprodukt af Mændenes Virksomhed, men<lb />
+ved Siden heraf ophæves den bestående Rets<lb />
+System med et' Oversyn og Overskjøn, der<lb />
+står i lignende Forhold til det første Syn<lb />
+og skjøn som en højere Rets Dom til en<lb />
+lavere Rets og derfor ubetinget må have<lb />
+Fortrinet; ej heller er Retten nogensinde<lb />
+bunden ved Syns eller Skønsforretningen,<lb />
+men den bedømmer dennes Indflydelse på<lb />
+Beviset frit ligesom alle andre oplysende Omstændigheder, jfr. nærmere herom § 238.</p>
+<p>Med Hensyn til de enkelte Bestemmelser<lb />
+i nærværende Kapitel bemærkes iøvrigt:</p>
+<p>Begjæringen om Syns- og skjønsmænd<lb />
+såvelsom Udmeldelsen af dem foregår i det i<lb />
+§ 180 omhandlede Møde. For at undgå<lb />
+unyttige Formalitetsvanskeligheder er det, ligesom ved Vidner, bestemt, at enhver Ret er<lb />
+kompetent til at udmelde Synsmænd fra andre Retskredse, når disse ere villige til at<lb />
+lade sig bruge. Ellers må vedkommende Ret<lb />
+henvende sig til den Ret, i hvis Kreds kyndige<lb />
+Personer formenes at være tilstede, og denne<lb />
+sidste Ret, som bedst må kjende de personlige<lb />
+Forhold og kan tage noget Hensyn til ikke at<lb />
+overbebyrde Enkelte uden Nødvendighed, foretager da Udmeldelsen. At det selv for Landsretterne jævnlig kan blive nødvendigt at søge<lb />
+Sagkyndige udenfor Retskredsen, er indlysende.</p>
+</rightside>

@@ -1,0 +1,291 @@
+65
+<pb n="23" >
+<p rend="page">23</p>
+<h>
+<coll>65</coll>
+<colr>66</colr><lb />
+Tillæg B. (5).                                 Ordenti. Samling 1902-03.<lb />
+Bilag til Bet. o. Lovf. om Rettens Pleje.<lb />
+</h>
+<p>
+    i)    Deraf 1 Politiofficiant paa Christiansø (Forvalteren).
+Udvalgenes Betænkninger m. m.
+</p>
+
+<table><tr>
+<td rowspan="2">Retskredsen.</td>
+<td colspan="6">Personale.</td>
+<td colspan="2">Befordring.</td>
+<td rowspan="2">Kv.-Mil omtrent.</td>
+<td rowspan="2">Indbyggertal.</td>
+<td rowspan="2">Sogne.</td>
+<td rowspan="2" >Sognefogeder.</td>
+</tr>
+<tr>
+<td>Assistenter og Overbetjente.</td>
+<td>Betjente.</td>
+<td>Reserve-betjente.</td>
+<td>Vægtere.</td>
+<td>Reserve-vægtere.</td>
+<td>I alt</td>
+<td>Hest.</td>
+<td>Cykel.</td>
+</tr>
+<tr>
+  <td>Overfør</td>
+  <td>81</td>
+  <td>846</td>
+  <td>11</td>
+  <td>16</td>
+  <td>2</td>
+  <td>956</td>
+  <td>34</td>
+  <td>39</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+<tr>
+  <td>Antvorskov Birk</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>1</td>
+  <td>»</td>
+  <td>43/4</td>
+  <td>13,060</td>
+  <td>19</td>
+  <td>19</td>
+</tr>
+<tr>
+  <td>Holsteinborg Birk</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>1</td>
+  <td>2</td>
+  <td>6,542</td>
+  <td>11</td>
+  <td>11</td>
+</tr>
+<tr>
+  <td>Bregentved-G-isselfeld Birk</td>
+  <td>1</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>2</td>
+  <td>1</td>
+  <td>1</td>
+  <td>62/3</td>
+  <td>19,335</td>
+  <td>18</td>
+  <td>18</td>
+</tr>
+<tr>
+  <td>Præstø Købstad og Vordingborg nordre Birk</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>1</td>
+  <td>43/5</td>
+  <td>12,085</td>
+  <td>10</td>
+  <td>9</td>
+</tr>
+<tr>
+  <td>Næstved  Købstad   og  Tybjerg Herred</td>
+  <td>2</td>
+  <td>4</td>
+  <td>1</td>
+  <td>4</td>
+  <td>1</td>
+  <td>12</td>
+  <td>2</td>
+  <td>»</td>
+  <td>21/5</td>
+  <td>20,012</td>
+  <td>17</td>
+  <td>19</td>
+</tr>
+<tr>
+  <td>Storeheddinge Købstad  og Stevns-Fakse Herreder</td>
+  <td>2</td>
+  <td>2</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>5</td>
+  <td>1</td>
+  <td>1</td>
+  <td>51/2</td>
+  <td>18,586</td>
+  <td>17</td>
+  <td>17</td>
+</tr>
+<tr>
+  <td>Vordingborg   Købstad    og Vordingborg søndre Distrikts Birk</td>
+  <td>2</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>4</td>
+  <td>1</td>
+  <td>»</td>
+  <td>44/5</td>
+  <td>18,030</td>
+  <td>10</td>
+  <td>12</td>
+</tr>
+<tr>
+  <td>Stege  Købstad   og  Møens Herred</td>
+  <td>»</td>
+  <td>2</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>3</td>
+  <td>1</td>
+  <td>»</td>
+  <td>4</td>
+  <td>14,499</td>
+  <td>8</td>
+  <td>8</td>
+</tr>
+<tr>
+  <td>Rønne Købstad</td>
+  <td>»</td>
+  <td>8</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>8</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>9,292</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+<tr>
+  <td>Bornholms Vester Herred</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>21/7</td>
+  <td>4,773</td>
+  <td>4</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td>Hasle   Købstad   og   Nørre Herred  samt Hammers-hus Birk</td>
+  <td>»</td>
+  <td>5</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>5</td>
+  <td>»</td>
+  <td>2</td>
+  <td>3</td>
+  <td>9,703</td>
+  <td>5</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td>Svaneke Købstad og Øster Herred med Christiansø</td>
+  <td>»</td>
+  <td>21)</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>1</td>
+  <td>3</td>
+  <td>7,747</td>
+  <td>3</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td>Neksø og Aakirkeby Købstæder samt Sønder Herred</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>2</td>
+  <td>»</td>
+  <td>2</td>
+  <td>3</td>
+  <td>9,374</td>
+  <td>4</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td>Odense Købstad</td>
+  <td>3</td>
+  <td>40</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>43</td>
+  <td>»</td>
+  <td>5</td>
+  <td>»</td>
+  <td>40,138</td>
+  <td>»</td>
+  <td>»</td>
+</tr>
+<tr>
+  <td>Assens   Købstad   og   Baag Herred</td>
+  <td>2</td>
+  <td>2</td>
+  <td>»</td>
+  <td>»</td>
+  <td>»</td>
+  <td>4</td>
+  <td>»</td>
+  <td>2</td>
+  <td>41/2</td>
+  <td>21,040</td>
+  <td>16</td>
+  <td>21</td>
+</tr>
+<tr>
+  <td>Bogense Købstad og Skovby Herred</td>
+  <td>2</td>
+  <td>1</td>
+  <td>1</td>
+  <td>»</td>
+  <td>»</td>
+  <td>4</td>
+  <td>»</td>
+  <td>2</td>
+  <td>32/5</td>
+  <td>11,261</td>
+  <td>11</td>
+  <td>13</td>
+</tr>
+</table>
+
+</pb>

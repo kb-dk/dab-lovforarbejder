@@ -1,0 +1,253 @@
+663
+<pb n="368">
+<pagename>368</pagename>
+<h>
+<coll>663</coll>
+<colr>664</colr>
+<lb/>
+</h>
+<leftside>
+<p rend="continue">
+at være nogen sær Grund til i de enkelte Tilfælde at indrømme ham<lb/>
+nogen Godtgjørelse<lb/>
+</p>
+<p>
+<speaker>Algreen-Ussing:</speaker> I den Afdeling, hvori jeg har været, blev<lb/>
+der fremsat Yttringer, om det ikke var billigt, at de År, som Vedkommende på den i § 18 omhandlede Måde havde tjent, afgik i<lb/>
+det Antal År, han skal blive stående i Forstærkningen; dette vilde<lb/>
+føre til en nærmere Tilføjelse til § 31, og jeg skal forbeholde mig<lb/>
+ved denne Paragraph i så Henseende at fremsætte de fornødne Bemærkninger.<lb/>
+</p>
+<p>
+Efterat Formanden havde bestemt Dagsordenen for næste Møde,<lb/>
+den følgende Dag Kl. 11, nemlig:<lb/>
+1) Ny Fordeling ved Lodtrækning af Medlemmerne til Afdelingerne, og<lb/>
+2) Fortsættelse af Værnepligtslovens foreløbige Behandling —, blev<lb/>
+</p>
+<signature>
+Mødet hævet.<lb/>
+</signature>
+<btitle>
+Fire og tredivte Møde.<lb/>
+</btitle>
+<notedate>
+Fredagon den 29de December.<lb/>
+</notedate>
+<p>
+Forhandlingsprotocollen for det forige Møde blev oplæst.<lb/>
+</p>
+<p>
+<speaker>Formanden:</speaker> Jeg skal anmelde følgende indkomne Adresser:<lb/>
+1) En Adresse fra 293 Beboere af flere Sogne i Grevskabet Frysenborg, hvori de erklære sig imod Stilling og Lodtrækning ved<lb/>
+Værnepligten.<lb/>
+2) En Adresse, indleveret af Rigsdagsmanden for Ålborg Amts<lb/>
+2det District (Schurmann), fra 116 Borgere og Indvånere af<lb/>
+Holbek, angående en passende Repræsentation af Kjøbstæderne<lb/>
+i de tilkommende Rigsforsamlinger.<lb/>
+</p>
+<p>
+Den første af disse vil blive henlagt i Læseværelset og den anden<lb/>
+tilstillet Grundlovscomiteen.<lb/>
+</p>
+<p>
+Efter Dagsordenen gik man derefter over til ved Lodtrækningen<lb/>
+at danne nye Afdelinger, hvilke sammensattes således:<lb/>
+</p>
+<middle>
+1ste Afdeling (30 Medlemmer).<lb/>
+</middle>
+<reflist>
+Andresen.<lb/>
+Bjerring.<lb/>
+Black.<lb/>
+Brandt.<lb/>
+Bregendahl.<lb/>
+M. P. Bruun af Bruunshåb.<lb/>
+Buchwaldt.<lb/>
+Georg Christensen.<lb/>
+J. Christensen af Voldum.<lb/>
+M. Drewsen af Silkeborg.<lb/>
+Flor.<lb/>
+Frølund.<lb/>
+Hastrup.<lb/>
+Jacobæus.<lb/>
+H. Johansen af Knardrup.<lb/>
+Kayser.<lb/>
+Olrik.<lb/>
+Ostenfeldt.<lb/>
+Otterstrøm.<lb/>
+P. Pedersen af Kjøbenhavn.<lb/>
+Pløyen.<lb/>
+Scavenius.<lb/>
+Schlegel.<lb/>
+Schroll.<lb/>
+Schurmann.<lb/>
+Sidenius.<lb/>
+Thalbitzer.<lb/>
+Algreen-Ussing.<lb/>
+W. Ussing af Viborg.<lb/>
+Ørsted.<lb/>
+</reflist>
+<middle>
+2den Afdeling (31 Medlemmer).<lb/>
+</middle>
+<reflist>
+G. Ågård fra Lolland.<lb/>
+Colding.<lb/>
+la Cour.<lb/>
+Dahl.<lb/>
+Dah erup.<lb/>
+David.<lb/>
+Dinsen.<lb/>
+Eriksen.<lb/>
+Fløe.<lb/>
+Grundtvig.<lb/>
+H. P. Hansen af Kjøbenhavn.<lb/>
+v. Haven.<lb/>
+Hjort.<lb/>
+Holck.<lb/>
+Hvidt.<lb/>
+Hækkerup.<lb/>
+H. C. Johansen af Østrup.<lb/>
+Jørgensen.<lb/>
+Kirk.<lb/>
+Knuth.<lb/>
+Madsen.<lb/>
+Tage Müller.<lb/>
+Nørgård.<lb/>
+Ostermann.<lb/>
+C. N. Petersen af Hjørring.<lb/>
+J. Rasmussen af Svanninge.<lb/>
+Stockfleth.<lb/>
+Treschow.<lb/>
+Wegener.<lb/>
+Wulff.<lb/>
+Zeuthen.<lb/>
+
+</reflist>
+</leftside>
+<rightside>
+<middle>
+3die Afdeling (30 Medlemmer).<lb/>
+</middle>
+<reflist>
+P. D. Bruun af Kjøbenhavn.<lb/>
+Balth. Christensen.<lb/>
+Drewsen af Kjøbenhavn.<lb/>
+Duntzfelt.<lb/>
+Funder.<lb/>
+Gislason.<lb/>
+Gram.<lb/>
+Hage.<lb/>
+Hall.<lb/>
+J. A. Hansen af Kjøbenhavn.<lb/>
+L. Hansen af Bjælkerup.<lb/>
+Jespersen af Grønnebjerggård.<lb/>
+Chr. Larsen af Dalby.<lb/>
+Marckmann.<lb/>
+Paludan-Müller.<lb/>
+Mynster.<lb/>
+R. R. Møller af Dråby.<lb/>
+Møller af Flakkeberg.<lb/>
+H. C. Nielsen af Tranberg.<lb/>
+Olesen.<lb/>
+B. Petersen af Kjøbenhavn.<lb/>
+Pjetursson.<lb/>
+Ploug.<lb/>
+Ræder.<lb/>
+Schouw.<lb/>
+Brink=Seidelin.<lb/>
+Sigurdsson.<lb/>
+Skeel.<lb/>
+Theilmann.<lb/>
+Tobiesen.<lb/>
+</reflist>
+<middle>
+4de Afdeling (31 Medlemmer).<lb/>
+</middle>
+<reflist>
+Ågård af Thisted.<lb/>
+Bergmann.<lb/>
+Bruun af Assens.<lb/>
+Buntzen.<lb/>
+van Dockum.<lb/>
+Fibiger.<lb/>
+Gudmundsson.<lb/>
+Hammerich.<lb/>
+Mørk Hansen.<lb/>
+Hasselbalch.<lb/>
+Hermansen.<lb/>
+Jacobsen.<lb/>
+F. Johannsen af Houby.<lb/>
+Køster.<lb/>
+Leth.<lb/>
+Lorck.<lb/>
+Mundt.<lb/>
+Neergård.<lb/>
+N. H. Nielsen af Løserup.<lb/>
+Oxholm.<lb/>
+Cornelius Petersen af Davinde.<lb/>
+H. Nasmussen af Egense.<lb/>
+Schack.<lb/>
+Schytte.<lb/>
+Stender.<lb/>
+Tscherning.<lb/>
+Tvede.<lb/>
+Westergård.<lb/>
+Winther.<lb/>
+Visby.<lb/>
+With.<lb/>
+</reflist>
+<middle>
+5te Afdeling (30 Medlemmer).<lb/>
+</middle>
+<reflist>
+Andræ.<lb/>
+Bagger.<lb/>
+Barfod.<lb/>
+Bøisen.<lb/>
+Cederfeld de Simonsen.<lb/>
+H. Christensen af Veistrup.<lb/>
+Gleerup.<lb/>
+Gregersen.<lb/>
+N. Hansen af Eskelund.<lb/>
+P. Hansen af Abbetved.<lb/>
+Hunderup.<lb/>
+Høier.<lb/>
+C. M. Jespersen af Viborg.<lb/>
+F. Jespersen af Bogense.<lb/>
+Johnsen.<lb/>
+Sehestedt-Juel.<lb/>
+Jungersen.<lb/>
+Krieger.<lb/>
+J. E. Larsen af Kjøbenhavn.<lb/>
+Linnemann.<lb/>
+Lüttichau.<lb/>
+Lützhöft.<lb/>
+Nyholm.<lb/>
+Pape.<lb/>
+J. Pedersen af Sæding.<lb/>
+M. Rasmussen af Herlufmagle.<lb/>
+Rée.<lb/>
+Schiern.<lb/>
+Tang.<lb/>
+Tuxen.<lb/>
+</reflist>
+<p>
+<speaker>Formanden:</speaker> Jeg vil henstille til Forsamlingen, om det ikke<lb/>
+skulde være rigtigst at udsætte Valget af Embedsmænd i Afdelingerne<lb/>
+indtil der bliver Noget at forhandle der; thi skulde det blive Tilfældet, at ingen Sag bliver henviist til Afdelingerne, vilde sådant Valg<lb/>
+være uden Betydning. Vi gåe derefter over til Værnepligtssagen<lb/>
+og begynde med 19de §. Efter Aftale med Ordføreren vil det være<lb/>
+§§ 19—22 inclusive, som først ville blive at sætte under Discussion.<lb/>
+Den ærede Ordfører har Ordet.<lb/>
+</p>
+<p>
+<speaker>Bregendahl: </speaker>Jeg skal tillade mig at oplæse disse Paragrapher, som ere satte under Discussion.<lb/>
+<law n="19."/>§ 19.<lb/>
+Der udskrives årlig såmeget Mandskab, som Loven fastsætter.<lb/>
+Fordelingen på de forskjellige Udskrivningsdistricter skeer i Forhold til<lb/>
+</p>
+</rightside>
+
+</pb>

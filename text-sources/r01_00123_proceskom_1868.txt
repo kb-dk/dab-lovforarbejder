@@ -1,0 +1,33 @@
+117
+<pb n="123" />
+<p>fremførte under Hovedforhandlingen; Aktstykker<lb />
+og andre Dokumenter kunne kun tages i Betragtning som Bevismidler, når de ere blevne<lb />
+oplæste under denne.</p>
+<p>Iøvrigt er Afgjørelsen ikke bunden ved<lb />
+Lovregler, men træffes efter fri, på samvittighedsfuld prøvelse af det Fremførte beroende<lb />
+Overbevisning.</p>
+<wtitle>§ 308.</wtitle>
+<p>Retten kan kun domfælde for den eller de<lb />
+Forbrydelser, for hvilke Anklage på lovlig<lb />
+Måde er rejst. Denne Regel galder ikke<lb />
+blot, forsåvidt Talen er om en anden Handling end den, der ligger til Grund for Anklagen, men også, med de i § 309 nævnte<lb />
+Undtagelser, i Henseende til Anklagens Angivelse<lb />
+af de nærmere Omstændigheder ved Handlingen og den i samme indeholdte Betegnelse af<lb />
+Forbrydelsens retlige Karakter.</p>
+<wtitle>§ 309.</wtitle>
+<p>Undtagelser fra de i § 308 ommeldte Begrænsninger for Domfældelsen finde Sted:</p>
+<p>1)   når det eller de Lovbud, som i Anklagen   nævnes   til   Hjemmel for  Påstanden<lb />
+om Straf, eller de den Sigtede betimelig meddelte Aktstykker   tydelig   vise,   at   den Måde,<lb />
+hvorpå Anklagen er stilet, ikke udtrykker Anklagerens virkelige Mening;</p>
+<p>2)   også   ellers,   når   den   Adgang   til<lb />
+Forsvar,   som den Sigtede   har  havt,   uanset<lb />
+Afvigelsen fra Anklagen, under de foreliggende<lb />
+Omstændigheder   må   betragtes   som fyldestgjørende.   I Henhold hertil kan der i Domfældelsen afviges fra Anklagens Betegnelse af<lb />
+Forbrydelsens retlige Karakter:</p>
+<p>a) når Anklagen går videre end Domfældelsen, idet alle de begrebsmæssige Bestanddele af den Forbrydelse, på hvilken Dommen<lb />
+lyder, indeholdes i den Forbrydelses Begreb,<lb />
+på hvilken Anklagen lyder;</p>
+<p>b) når der er så nært Slægtskab mellem<lb />
+de Forbrydelser, på hvikke Anklagen og Dommen lyder, at Afvigelsen i og for sig ikke<lb />
+kan medføre Forandring i Forsvarets Forudsætninger, og der iøvrigt ikke i det enkelte<lb />
+Tilfælde er Noget, som efter det angivne Synspunkt udelukker Afvigelsen.</p>

@@ -1,0 +1,39 @@
+83
+<pb n="89" />
+<h>
+<topmidle>Kap. XIX. Intervention og Adcitation.    83</topmidle>
+</h>
+<p>fundne   Behandling   og   den   afsagte   Dom<lb />
+ligesom enhver af de oprindelige Parter.</p>
+<wtitle>§ 231.</wtitle>
+<p>Den, der blot vil optræde under Sagen for<lb />
+at understøtte en af Parterne, jfr. § 29, skal<lb />
+til Retten indgive en skriftlig Begæring om at<lb />
+få Adgang til at ytre sig i Sagen. Denne<lb />
+Begæring meddeles Parterne. Modsætter<lb />
+en af disse sig Begæringen, bliver Spørgsmålet at afgøre ved Rettens Kendelse.<lb />
+Indrømmes Begæringen, træffer Retten de<lb />
+nærmere Bestemmelser om Måden, hvorpå<lb />
+den Pågældende skal have Adgang til at<lb />
+ytre sig i Sagen og fremføre Beviser.</p>
+<wtitle>§ 232.</wtitle>
+<p>Tillader Retten Sagsøgeren at tilstævne<lb />
+(adcitere) Tredjemand for at få Dom over<lb />
+ham enten alternativt med eller tilsammen<lb />
+med Sagvolderen, udsættes Sagen så længe,<lb />
+som nødvendigt er, for at pågældende<lb />
+Tredjemand på sædvanlig Måde kan stævnes til at svare som Sagvolder. De i §§<lb />
+226, 229 og 230 om Intervention givne<lb />
+Regler finde også Anvendelse med Hensyn<lb />
+til Tilstævning.</p>
+<wtitle>§ 233.</wtitle>
+<p>Når Domsforhandling er berammet,<lb />
+kan Indtræden i Sagen eller Tilstævning<lb />
+efter dette Kapitel kun finde Sted med<lb />
+Rettens Samtykke.</p>
+<title>Kapitel XX.</title>
+<undertitle>Skriftlig Behandling af Sager ved Landsretterne i første Instans.</undertitle>
+<wtitle>§ 234.</wtitle>
+<p>I vidtløftige Regnskabssager og andre<lb />
+indviklede Retssager kan Retten på ethvert<lb />
+Trin af   Forhandlingerne anordne  skriftlig</p>

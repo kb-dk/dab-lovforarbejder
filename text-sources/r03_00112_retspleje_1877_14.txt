@@ -1,0 +1,36 @@
+106
+<pb n="<span class="result">112</span>" />
+
+<p>samme givne Berammelsespåtegning overleveres<lb />
+i Forbindelse hermed til Sidstnævnte.</p>
+<wtitle>§ 345.</wtitle>
+<p>Til den berammede Tid møde Parterne.<lb />
+Dommeren har da, forinden Proceduren begynder, at mægle Forlig mellem dem, medmindre Sagen henhører til dem, i hvilke den<lb />
+ved Lov 10de Maj 1854 § 65 ff. anordnede<lb />
+Forligsmægling for Mægleren i Tyendesager har<lb />
+fundet Sted. Kommer Forlig istand, tilføres det<lb />
+Retsbogen.</p>
+<wtitle>§ 346.</wtitle>
+<p>Kommer Forlig ikke istand, eller skal ingen<lb />
+Forligsmægling foregå, skride Parterne til<lb />
+mundtlig at udvikle deres Sag for Dommeren<lb />
+uden videre Forberedelse ved Skrift. Sagsøgeren fremlægger det behørigt forkyndte Klageskrift og fremstiller Sagen fra sin Side, hvorpå Sagsøgte har at erklære sig.</p>
+<p>Under Sagens Forhandling i Retsmødet<lb />
+bør Dommeren ikke blot søge at fremkalde<lb />
+tydelige og sandfærdige Forklaringer fra Parternes Side om Sagens Sammenhæng, men<lb />
+han har også, forsåvidt Parterne ikke møde<lb />
+ved Sagførere, at vejlede dem med Hensyn til,<lb />
+hvilke Handlinger eller Beviser de rettest bør<lb />
+foretage eller fremskaffe.</p>
+<p>De fra begge Sider fremsatte Påstande<lb />
+protokolleres fuldstændigt, medmindre de i<lb />
+særskilt skriftlig Fremstilling fremlægges til<lb />
+Protokollen. Forsåvidt Sådant efter Omstændighederne måtte ansees fornødent, kan<lb />
+Dommeren foranledige Affattelsen af sådanne<lb />
+skriftlige Fremstillinger af Påstandene og dertil tilstå Udsættelse.</p>
+<p>Når Sagens Gjenstand er over den i<lb />
+§ 354 bestemte Værdi, skulle endvidere Parternes Erklæringer over Sagens Sammenhæng, Vidnernes Forklaringer m. v. protokolleres, dog ikke ordret, men efter deres væsentlige Indhold. Det Tilførte oplæses og vedkjendes.</p>
+<wtitle>§ 347.</wtitle>
+<p>Dommeren kan bestemme, om Formalitetsindsigelser skulle forhandles og påkjendes særskilt eller i Forbindelse med Realiteten.</p>
+<p>Parterne må derfor altid være beredte på<lb />
+at forhandle Realiteten i det første Retsmøde.</p>

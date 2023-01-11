@@ -1,0 +1,66 @@
+3913
+<pb n="137"/>
+<h>
+<coll>3913</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3914</colr>
+</h>
+<p>
+I Reglen har Fogden før Forretningens Foretagelse at afkræve Rekvirenten<lb />
+en Sikkerhedsstillelse, reel eller personlig, med Hensyn til det Erstatningsbeløb, som<lb />
+vilde tilkomme den, hos hvem Arresten er gjort, i Tilfælde af dennes Ulovlighed;<lb />
+kun hvor de foreliggende Oplysninger skønnes at indeholde et fuldstændigt Bevis for<lb />
+Arrestens Lovlighed, er Sikkerhedsstillelse ufornøden, saa længe ikke Beviset svækkes<lb />
+ved det under Forretningen oplyste. Dog bør der ikke en Gang mod Sikkerheds-<lb />
+stillelse indrømmes Arrest, naar det ifølge det for Fogden oplyste skønnes, at For-<lb />
+dringen er ugrundet. Alle Spørgsmaal om Sikkerhedsstillelsens Art og Størrelse afgør<lb />
+Fogden efter sit Skøn.
+</p>
+<p>
+Søges Arrest for en af de i § 421 ommeldte Fordringer, kan der ikke af-<lb />
+kræves Arrestrekvirenten Sikkerhedsstillelse, medmindre der fra Skyldnerens Side<lb />
+under Arrestforretningen fremkommer saadanne Indsigelser, som kunne fremsættes<lb />
+under den i Anledning af Fordringen anlagte Sag, jfr. Kap. 38.
+</p>
+<wtitle>§ 605.</wtitle>
+<p>
+Arrestforretningen begynder paa Skyldnerens Bopæl eller i Mangel af en saa-<lb />
+dan paa hans sædvanlige Opholdssted, men kan dog efter Omstændighederne, navnlig<lb />
+naar der er Fare ved Opsættelse, eller naar Skyldneren ikke har Bopæl i Riget eller<lb />
+staar i Begreb med at forlade dette, begynde paa det Sted, hvor Personen eller For-<lb />
+retningens Genstand forefindes.
+</p>
+<wtitle>§ 606.</wtitle>
+<p>
+Med Hensyn til Parternes Møde under Forretningen m. m. gælde de i § 494<lb />
+givne Regler.
+</p>
+<wtitle>§ 607.</wtitle>
+<p>
+Arrestforretningen begynder med, at Fogden opfordrer paagældende til ved<lb />
+Sikkerhedsstillelse eller Betaling at tilfredsstille Rekvirenten, hvorpaa han, naar dette<lb />
+ikke straks sker, efter Afgørelse af mulige Indsigelser skrider til Arrestens Udførelse.
+</p>
+<wtitle>§ 608.</wtitle>
+<p>
+Arresten kan kun udstrækkes til saa meget af Skyldnerens Gods, som i Hen-<lb />
+hold til den under Forretningen foretagne Vurdering behøves til at sikre Rekvirentens<lb />
+Fordring i Forbindelse med de sandsynlige Udgifter ved Arresten.
+</p>
+<wtitle>§ 609.</wtitle>
+<p>
+Med Hensyn til Valget af de Genstande, hvori Arresten gøres, forholdes der<lb />
+efter de i §§ 492 og 493 givne Forskrifter, ligesom der i øvrigt ved Arrestforretningers<lb />
+Foretagelse, med de af Forholdets Natur følgende Lempelser, gaas frem efter de om<lb />
+Eksekutionsforretninger i §§ 496—504 givne Regler.
+</p>
+<wtitle>§ 610.</wtitle>
+<p>
+I Fogedbogen optegnes nøjagtigt alle de enkelte Genstande, hvori Arrest<lb />
+gøres, og ved hver enkelt Genstand tilføjes dens Værdi efter den stedfundne Ansættelse.
+</p>
+<p>
+Fogden erklærer derefter til Fogedbogen de optegnede Genstande for belagte<lb />
+med Arrest til Arrestrekvirentens Sikkerhed. Det betydes Skyldneren, at han fra nu<lb />
+af ikke uden at udsætte sig for Strafansvar kan raade over dem paa en Maade, som
+</p>

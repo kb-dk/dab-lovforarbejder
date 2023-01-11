@@ -1,0 +1,57 @@
+4051
+<pb n="206"/>
+<h>
+<coll>4051</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>4052</colr>
+</h>
+<p>
+Gaar Sigtedes Erklæring ud paa, at kan ikke vil afgøre Sagen paa den an-<lb />
+førte Maade, eller hvis han overhovedet ikke afgiver nogen Erklæring, bliver Sagen at<lb />
+henvise til Retten ligesom Sager, hvori Politimesteren ikke finder Grund til Anven-<lb />
+delse af denne Paragraf.
+</p>
+<wtitle>§ 895.</wtitle>
+<p>
+Behandlingen af offentlige Politisager foregaar offentlig og mundtlig efter de<lb />
+i Lov om Behandling af offentlige Politisager i København af 11. Februar 1863 §§5—9<lb />
+indeholdte Regler. Reglen i § 892 finder derhos tilsvarende Anvendelse.
+</p>
+<wtitle>§ 896.</wtitle>
+<p>
+Naar der i en Sag, hvorunder der ikke er Spørgsmaal om højere Straf end<lb />
+Bøder, i Tiltaltes Sted møder en Person, der er forsynet med skriftlig Fuldmagt fra<lb />
+Tiltalte og er beredt paa at meddele de fornødne Oplysninger, kan Retten modtage<lb />
+den saaledes mødtes Forklaringer og Erklæringer og lægge dem til Grund, som om<lb />
+de vare afgivne af Tiltalte selv.
+</p>
+<wtitle>§ 897.</wtitle>
+<p>
+Angaar Sagen en Lovovertrædelse, for hvilken der i Loven er hjemlet Straf<lb />
+af Bøde eller Konfiskation, kan Dommeren, naar han ikke finder Grund til at be-<lb />
+tvivle Tiltaltes Skyld, give Tiltalte Adgang til at se Sagen afgjort ved, at han vedtager<lb />
+at erlægge en nærmere bestemt Bøde eller at underkaste sig Konfiskation: Lovens<lb />
+Fastsættelse af Bødens Størrelse er herved ikke bindende. Vedtager Tiltalte den til-<lb />
+budte Afgørelse, tilføres det fornødne herom Retsbogen. Saadan Afgørelse har i Hen-<lb />
+seende til Fuldbyrdelse og Gentagelsesvirkning samme Virkning som en Dom.
+</p>
+<wtitle>§ 898.</wtitle>
+<p>
+Naar Dommeren finder, at Tiltalte er skyldig, men at Sagen efter Brødens<lb />
+Beskaffenhed, saasom navnlig i Tilfælde af første Gang begaaet ringe Forseelse, egner<lb />
+sig til Afgørelse ved en Advarsel, er han, saafremt Tiltalte ikke erklærer sig der-<lb />
+imod, berettiget til i Stedet for at afsige Dom at tildele Tiltalte en saadan Advarsel.
+</p>
+<p>
+Om den trufne Afgørelse tilføres det fornødne Retsbogen.
+</p>
+<wtitle>§ 899.</wtitle>
+<p>
+Reglerne i §§ 897—898 finde ikke	Anvendelse ved Sager, der paatales offentlig
+i Medfør af § 2 i midlertidig Lov om	nogle Ændringer i Straffelovgivningen af<lb />
+1. April 1905.
+</p>
+<wtitle>§ 900.</wtitle>
+<p>
+Efter Tilendebringelsen af Sagens Behandling paakender Dommeren Sagen.
+</p>

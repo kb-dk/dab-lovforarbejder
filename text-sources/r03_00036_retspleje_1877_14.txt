@@ -1,0 +1,40 @@
+30
+<pb n="36" />
+<p>med den.  Der kan gives selvstændig Dom for<lb />
+Modfordringen.</p>
+<p>Under Proceduren behandles Modfordringen aldeles som en Bestanddel af Indstævntes Forsvar. Den fremsættes og forhandles i Forbindelse med hans Indsigelser<lb />
+på samme Måde som disse. Dog kan<lb />
+Retten udøve den samme ved § 102 tillagte<lb />
+Myndighed også med Hensyn til Modfordringer.</p>
+<wtitle>§   102.</wtitle>
+<p>Retten kan bestemme, at flere for den<lb />
+svævende Retssager imellem de samme Parter<lb />
+skulle forhandles i Forbindelse med hverandre.<lb />
+Samme Myndighed har Retten også med<lb />
+Hensyn til Retssager imellem forskjellige Parter, når Søgsmålenes Forening ikke vilde stride<lb />
+imod §  42.</p>
+<p>Ere flere Søgsmål forenede under een<lb />
+Retssag, kan Retten anordne, at en Adskillelse<lb />
+skal finde Sted, og at et eller flere af Søgsmålene forhandles og pådømmes særskilt.</p>
+<p>Frembyder Sagen flere Stridspunkter, kan<lb />
+Retten bestemme, at Forhandlingerne foreløbigt<lb />
+skulle indskænke sig til et eller nogle af<lb />
+disse; enkelte Søgsmålsgrunde eller enkelte<lb />
+Indsigelser kunne som en Følge heraf gjøres<lb />
+til Gjenstand for særskilt Procedure.</p>
+<wtitle>§  103.</wtitle>
+<p>Er et Retsforhold, hvis Fastsættelse vil<lb />
+fåe Indflydelse på Sagens Udfald, Gjenstand<lb />
+for en ved samme eller en anden Ret svævende<lb />
+Retstrætte, eller er det indbragt til Afgjørelse<lb />
+ved administrativ Myndighed, kan Retten<lb />
+enten efter Påstand eller på Embeds Vegne<lb />
+bestemme, at Sagens Forhandling i det Hele<lb />
+eller tildels skal udsættes, indtil hin Retstrætte<lb />
+er pådømt eller den administrative Afgjørelse<lb />
+er truffen.</p>
+<wtitle>§  104.</wtitle>
+<p>Opstår der under en Sag Mistanke om<lb />
+en begået strafbar Handling, eller der allerede er begyndt en Forunderføgelse mod en<lb />
+af Sagens Parter, kan Retten udsætte Forhandlingen, indtil Straffesagen har fundet sin<lb />
+Afgjørelse.</p>

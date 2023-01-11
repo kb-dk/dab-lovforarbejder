@@ -1,0 +1,65 @@
+3813
+<pb n="237">
+<h>
+<coll>
+3813
+</coll>
+F. t. L. om Rettens Pleje.
+<colr>
+3814
+</colr>
+</h>
+<p>
+anordnes efter Reglerne om denne Forholdsregel i Kapitel 73. Er der efter Af-<lb />
+sigelsen af Straffedommen hengaaet 10 Aar, kan Begæring til Retten herom kun<lb />
+fremsættes efter Justitsministerens Befaling. Foruden i de i § 796 Nr. 1 og 2 nævnte<lb />
+Tilfælde bortfalder Beslaglæggelsen, naar Benaadning finder Sted; fremdeles bortfalder<lb />
+den, naar 10 Aar ere hengaaede efter Straffedommens Afsigelse, medmindre Justits-<lb />
+ministeren begærer den vedligeholdt.
+</p>
+<lowtitle>§ 1003.</lowtitle>
+<p>
+Naar en Anke, som alene er rejst af Paatalemyndigheden, afvises eller forka-<lb />
+stes, kan den overordnede Ret gøre saadan Forandring i den ved den paaankede Dom<lb />
+bestemte Straf, som i Medfør af Straffelovens § 58 maatte findes begrundet ved det<lb />
+Varetægtsfængsel, som Domfældte har været underkastet efter Dommens Afsigelse.
+</p>
+<lowtitle>§ 1004.</lowtitle>
+<p>
+Naar der til Fuldbyrdelsen af en Straffedom bliver Spørgsmaal om den dom-<lb />
+fældtes Paagribelse, kunne de samme Forholdsregler anvendes, som ere hjemlede, naar<lb />
+Fængslingskendelse er afsagt.
+</p>
+<lowtitle>§ 1005.</lowtitle>
+<p>
+Bødestraffe, som ikke ere fuldbyrdede, bortfalde ved den domfældtes Død, for<lb />
+saa vidt der ikke er særlig Hjemmel for, at hans Bo hæfter for Bøden.
+</p>
+<lowtitle>§ 1006.</lowtitle>
+<p>
+Ovenstaaende Regler finde med de af Forholdets Natur eller særlige Forskrif-<lb />
+ter følgende Lempelser ogsaa Anvendelse ved Fuldbyrdelsen af Kendelser, hvorved<lb />
+Retten har paalagt Vidner eller andre Straf.
+</p>
+<p>
+Fuldbyrdelse af de i § 177, jvf. § 206, omtalte Kendelser kan dog først finde<lb />
+Sted, naar Fristen til at fremsætte Begæring om Kendelsens Ophævelse i Henhold til<lb />
+§ 177 er forløben, eller Retten har nægtet at efterkomme en saadan Begæring.
+</p>
+<p>
+Med Hensyn til Fuldbyrdelsen af de i §§ 194 og 212 ommeldte Bødepaalæg<lb />
+forholdes efter de almindelige Regler om Bøder, som paalægges af Øvrighedsmyn-<lb />
+digheder.
+</p>
+<title rend="part">Niende Afsnit.</title>
+<title>Sagsomkostninger og Rettergangsbøder i Straffesager.</title>
+<title rend="chapter">Kapitel 91</title>
+<title rend="subtitle">Sagsomkostninger.</title>
+<lowtitle>§ 1007.</lowtitle>
+<p>
+I Straffesager, som forfølges af en offentlig Myndighed udredes Omkostnin-<lb />
+gerne ved Sagens Behandling og Straffens Fuldbyrdelse af det offentlige med Forbe-<lb />
+hold af Ret til at faa dem erstattede efter nedenstaaende Regler.
+</p>
+
+</pb>

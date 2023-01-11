@@ -1,0 +1,81 @@
+454
+<pb n="460" />
+<leftside>
+<p>en anden Vej, ad hvilken Ophævelsesgrunde,<lb />
+som ere indtrådte efter Arrestens Foretagelse,<lb />
+kunne erholdes påkjendte; i så Henseende<lb />
+indeholdes den fornødne Regel i § 601,<lb />
+som i Overensstemmelse med den gjældende<lb />
+Ret henviser Rekvisitus til Fogden, hvis Beslutning da igjen kan indbringes til overordnet<lb />
+Rets Prøvelse, efter Omstændighederne ved<lb />
+Påanke eller Besværing.</p>
+<p>Imod den Ordning, hvis Hovedtræk ovenfor<lb />
+ere angivne, frembydcr sig den nærliggende Indvanding, at den bryder med den hidtil herskende<lb />
+Opfattelse af Forholdet mellem Fogedretten og<lb />
+de almindelige Underretter. Det stemmer ikke<lb />
+med denne Opfattelse, at Indsigelser imod Arrestens Lovlighed, der ere blevne påkjendte af Fogden, påny kunne påkjendes af en Ret i første<lb />
+Instants. Fremdeles synes det anomalt, at<lb />
+Fogdens Påkjendelse af en Indsigelse imod<lb />
+Arresten kan tilsidesættes af en sideordnet Ret,<lb />
+når Fogden forkaster Indsigelsen og i Overensstemmelse hermed foretager Arrest, men kun<lb />
+af overordnet Ret, når han på Grund af<lb />
+Indsigelsen nægter Arresten fremmet, jfr. §<lb />
+598. Hertil må imidlertid bemærkes, at den<lb />
+Grundsætning, at en Retsafgørelse kun kan<lb />
+forandres af højere Ret, ikke, når Fogdens<lb />
+Stilling som en Rettens Betjent skal opretholdes, lader sig forene med en Ordning, hvorefter<lb />
+Arrestens Forfølgning kan foregå for Underretten. Den tidligere omtalte Theori, der<lb />
+søger at hæve Striden ved en Begrænsning af<lb />
+Arrestforfølgningssagens Indhold, hviler i Virkeligheden på en Fiktion, idet den går ud<lb />
+fra, at de Fordringen vedrørende Indsigelser<lb />
+imod Arresten ikke kunne have foreligget Fogden til virkelig Påkjendelse. Om end dette<lb />
+oftest vil være Tilfældet, fordi Fogden på<lb />
+Grund af ufuldstændig Oplysning om det Faktiske i Sagen alene afgjør, at Fordringen ikke<lb />
+efter det Foreliggende kan skjønnes at være<lb />
+ugrundet, er Forholdet et andet, når Tvivlen<lb />
+kun drejer sig om, hvad der ifølge et givet<lb />
+faktisk Grundlag er Ret mellem Parterne.<lb />
+Står Spørgsmålet om Fordringens Riglighed på Fortolkningen af en skriftlig Kontrakt, eller støtter Rekvisitus sin Indsigelse<lb />
+imod Fordringen på en ren Retssætning, er<lb />
+Fogdens  Påkjendelse   af   disse   Spørgsmål</p>
+</leftside>
+<rightside>
+<p>ligeså endelig, som når han afgjør, om en<lb />
+Ting ifølge Indholdet as den Disposition,<lb />
+hvorved den er erhvervet af Rekvisitus, er<lb />
+undtagen fra Arrest, eller fortolker et Arrestforretningens Form vedkommende Lovbud.<lb />
+Skulde Arrestforfølgningssagens Indhold bestemmes efter den omhandlede Grundsætning,<lb />
+kunde Grænsen derfor ikke drages efter Indsigelsens Art, men alene efter det Hensyn, om<lb />
+tilstrækkelig Oplysning angående det faktiske<lb />
+Forhold, hvorpå den er støttet, har foreligget<lb />
+Fogden. Umuligheden af en sådan Ordning<lb />
+er imidlertid given ved den Konsekvents, at<lb />
+selv Spørgsmål om Fordringens Rigtighed<lb />
+herved kunde unddrages Forfølgningssagen.<lb />
+Den eneste Vej, ad hvilken den omhandlede<lb />
+Kollision kunde undgåes, vilde være den helt<lb />
+eller delvis at henlægge Arrestens Forfølgning<lb />
+til den Fogden overordnede*) Landsret. At<lb />
+gå så vidt også at henlægge Hovedsagen<lb />
+til denne Ret vilde imidlertid medføre den<lb />
+Ulempe, at Kreditor, blot fordi der var gjort<lb />
+Arrest for Fordringen, måtte underkaste sig<lb />
+den betydelig forøgede Bekostning og Besvær,<lb />
+der er forbundet med en Realitetsprocedure<lb />
+ved Landsretten, ligesom det på den anden<lb />
+Side vilde stå i enhver Kreditors Magt ved<lb />
+at indlede sin Forfølgning med en Arrestforretning at drage sin Skyldner fra Underretten<lb />
+til Landsretten i en Sag, hvori det netop<lb />
+på Grund af Arresten vilde have særlig Betydning for denne så hurtig som muligt at<lb />
+opnå en Afgjørelse, Mere konsekvent vilde<lb />
+det måske være at henlægge Hovedsagen<lb />
+til den almindelige Ret i første Instants<lb />
+og Arrestsagen til den Fogden overordnede<lb />
+Ret; men Uhensigtsmæssigheden af en sådan<lb />
+Deling   er  indlysende.**)    Det må   herefter</p>
+
+*) Ad en lignende Vej vil ifølge det bestående Underordnelsesforhold mellem Kongens Foged og Hof- og Stadsretten Bonskeligheden nu i Reglen bortfalde for de i Kjøbenhavn foretagne Arrestforretningers Bedkommende.
+
+**) Efter Civilprocesloven for det tyske Rige er Forholdet ordnet således, at der kun påhviler Arrestrekvirenten en Forpligtelse til inden en vis Frist at anlægge Sag i Anledning af den Fordring, for hvilken Arresten er gjort, medens det iøvrigt er overladt Arresten, at fremkalde en kontradiktorisk Forhandling om Forretningens Lovlighed, såvidt denne kan bedømmes uden at foregribe Hovedsagens Afgjørelse.
+
+</rightside>

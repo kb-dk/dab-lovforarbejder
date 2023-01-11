@@ -1,0 +1,111 @@
+2197
+<pb n="55" />
+<p rend="page">55</p>
+<h>
+<coll>2197</coll>
+<colr>2198</colr><lb />
+<topmidle>Bet. o. Lovf. om Rettens Pleje. </topmidle>
+</h>
+<leftside>
+<p>
+Til 4de Bog.<lb />
+</p>
+<p>
+Af Udvalget:<lb />
+</p>
+<p>
+315) I denne Bog optages Kapitlen<lb />
+13, 60, 97 og 98 under nedenanførte Ove<lb />
+skrifter:<lb />
+</p>
+<p>
+Fjerde Bog.<lb />
+Slutnings- og Overgangsbestemmelser.<lb />
+</p>
+<title>
+Kapitel a.<lb />
+</title>
+<undertitle>
+Slutningsbestemmelser.<lb />
+</undertitle>
+<p>
+(§§ 1075, 1079—1081).<lb />
+</p>
+<title>
+Kapitel b.<lb />
+</title>
+<undertitle>
+Overgangsbestemmelser til første Bog.<lb />
+</undertitle>
+<p>
+(§§ 114-20).<lb />
+</p>
+<title>
+Kapitel c.<lb />
+</title>
+<undertitle>
+Overgangsbestemmelser til anden Bog.<lb />
+</undertitle>
+<p>
+(§§ 663—668).<lb />
+</p>
+</leftside>
+<rightside>
+<title>
+Kapitel d.<lb />
+</title>
+<undertitle>
+Overgangsbestemmelser til tredie Bog.<lb />
+</undertitle>
+<p>
+(§§ 1076—1078).<lb />
+</p>
+<stitle>
+Til§ 1079.<lb />
+</stitle>
+<p>
+316) Paragraffen affattes saaledes:<lb />
+„Bøder, som paalægges i Medfør af<lb />
+</p>
+<p>
+denne Lov, tilfalde, naar ikke anderledes<lb />
+i Loven er bestemt, Statskassen."<lb />
+</p>
+<stitle>
+Til§ 1081.<lb />
+</stitle>
+<p>
+317) Første Stykke affattes saaledes:<lb />
+„Denne Lov træder først i Kraft, naar<lb />
+</p>
+<p>
+Love om Landets Inddeling i Rets- og<lb />
+Politikredse, om Lønninger m. m. for de<lb />
+i første Bog omhandlede Embeds- og Be-<lb />
+stillingsmænd og om Retsafgifter ere ud-<lb />
+komne, og der derhos er forløbet 2 Aar<lb />
+efter den Dag, da det Nummer af Lov-<lb />
+tidenden udgaar, hvori den kundgøres."<lb />
+</p>
+<p>
+318) I 2det Stykkes sidste Linie æn-<lb />
+dres Ordene: „er Overret for Færøerne"<lb />
+til: „træder i færøske Appelsager i Stedet<lb />
+for Landsover- samt Hof- og Stadsretten".<lb />
+</p>
+</rightside>
+<p>
+Bærentsen. Frijs-Frijsenborg. Goos, Gustav Hansen. Octavius Hansen.<lb />
+</p>
+<p>
+Ordfører.<lb />
+</p>
+<p>
+Høst. Ole Jensen. P. G. C. Jensen. Johansen. Johnsen. Jørgensen.<lb />
+</p>
+<p>
+Nellemann,H. P. Pedersen. Sehested.Steffensen,<lb />
+</p>
+<p>
+Ordfører. Formand.<lb />
+</p>

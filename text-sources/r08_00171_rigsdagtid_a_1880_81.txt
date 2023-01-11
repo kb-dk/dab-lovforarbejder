@@ -1,0 +1,50 @@
+3705
+<pb n="171" />
+<h>
+<coll>3705</coll>
+<topmidle>Forsl. t. L am Strnfferetsplkien.</topmidle>
+<colr>3706</colr>
+</h>
+<p>Retten har ordentligvis at afvise Personer, der ikke erc berettigede til at mede som<lb />
+Forsvarere, samt at tilbagevise Processkrifter, der ere underskrevne af saadanne. Dog kan<lb />
+Rettens Formand eller vedkommende Underdommcr af særegne Grunde undtagelsesvis tilstede,<lb />
+at andre personlig myndige og uberygtede personer end dc ovenfor nævnte benyttes som For-<lb />
+svarere under Hovedforhandlingen.</p>
+<p>personer, der erc indkaldte til at afhores som Vidner eller Syns- eller skjønsmænd<lb />
+i Sagen, kunne ikke være Forsvarere, ei heller Personer, som ere begjærte indkaldte i den<lb />
+nævntc Egenskab, indtil Retten har truffet Afgjørelse herom.</p>
+<wtitle>§ 46.</wtitle>
+<p>Virkningen i Straffesagen af Stillingen som valgt Forsvarer indtræder Forsl. efterat<lb />
+meddelelse er gjort til Retten om Valget. Naar nogen Anden end de i § 45 Nr. 1 nævnte<lb />
+Personer i Egenstab af valgt Forsvarer optræder som handlende paa den Sigtedes Vegne,<lb />
+skal derhos Bevis for Fuldmagten haves ved Haanden eller ledsage Processkriftet; tilstrækkeligt<lb />
+Bevis er den Sigtedes erklæring til Retsbogen eller en med Underskrift af ham og to<lb />
+Vitterlighedsvidner forsynet Erklæring. Mangler faadant Bevis, eller erklærer Nogen, der<lb />
+kan voelges til Forsvarer, at mangle Fuldmagt, men at handle i Forventning af den Sigtedes<lb />
+Billigelse, kan Retten tilstede ham at optræde, under Fastfættelse af en kort Tid til Tilveie«<lb />
+bringelse af Beviset eller Godkendelsen; paa denne Maade forholdes ogsaa, naar Retten maatte<lb />
+finde det nodvendigt at afkræve de i § 45 Nr. 1  nævnte Personer Bevis for Fuldmagt.</p>
+<wtitle>§ 47.</wtitle>
+<p>Den Eigtede, som er fomgflet, har Ret til mundtligt og skriftligt Samkvem med fin<lb />
+valgte Forsvarer, dog saalængc Anklage ikke ec reist, kun under saadan Kontrol, som Dommeren<lb />
+finder fornøden. I Retsmoderue har den Sigtede Ret til at raadftaa med ham, forsaavidt<lb />
+ikke det Modsatte særlig er foreskrevet.</p>
+<wtitle>§ 48.</wtitle>
+<p>Naar der i en Sag, som er indbragt for Landsretten, ikke er antaget en Sagfører<lb />
+til Forsvarer, eller den antagne Sagfører udebliver, bliver i Embeds Meofer en offentlig<lb />
+Forsvarer at bestikke, dersom enten nævninger skulle medvirke ved Paakjendelsen, eller der kan<lb />
+opstaa spørgsmaal om at lægge Beslag paa den Sigtedes Formue i Henhold til § 197,<lb />
+saavelsom iovngt, naar Rettens Formand ikke efter Sagens Omstændigheder maatte stjenne<lb />
+retskundig Vistand overftodig.</p>
+<p>Er Anklage reist for Underretten, og særegne Omstændigheder findes at gjøre rets-<lb />
+kyndig Bistand snstelig, kan en offentlig Forsvarer beskikkes, ordentligvis dog kun paa Be-<lb />
+Mring, og naar den Eigtedes Formuesforfatning er saaledes beskaffen, at han ikke uden at<lb />
+favne det fornødne til sit og Families Underhold eller til Fortfættelse af sin Næringsdrift<lb />
+kan udrede Vederlag til en Sagfører.</p>
+<p>Retshandlinger, som, efterat Anklage er reist, finde Sted udenfor Hovedfolhandlingen,<lb />
+har den beskikkede Forfvarer Ret til at deltage i; skal Handlingen foregaa udenfor den Under-<lb />
+retskreds, i hvilken Forsvareren bor, bliver der paa hans Begjæring at bestikke en særlig<lb />
+Forfvarer til at møde ved famme. Dog bor i paatromgende Tilfælde Retshandlingen ikke<lb />
+ud»cettes af Hensyn til foranstaaende Forskrift.</p>
+<p>Imod Beslutninger, hvorefter Forsvarer beskikkes, haves intet Retsmiddel; imod Be-<lb />
+slutninger, ved hvilke Forsvarers Bestikkelse ncegtes, kan Besværing til Høiere Ret finde Sted.</p>

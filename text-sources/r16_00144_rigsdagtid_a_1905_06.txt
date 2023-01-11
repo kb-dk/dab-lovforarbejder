@@ -1,0 +1,68 @@
+2191
+<pb n="144" />
+<h>
+<coll>
+2191
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2192
+</colr>
+</h>
+<p>
+Dog maa Forbud end ikke imod Sikkerhedsstillelse iværksættes, naar det maa<lb />
+antages, at det er ulovligt.
+</p>
+<wtitle>§ 626.</wtitle>
+<p>
+Forbud kan kun gøres, naar den, mod hvem Forbudet rettes, ved Gerning<lb />
+eller Ord har givet Grund til at antage, at han vil foretage de Handlinger, som skulle<lb />
+forbydes. Kan fyldestgørende Bevis i saa Henseende ikke fremskaffes for Fogden,<lb />
+kan det paalægges Forbudsrekvirenten at stille Sikkerhed som Betingelse for at faa<lb />
+Forbud iværksat.
+</p>
+<p>
+Forbudet bør ikke meddeles, naar det skønnes, at en af Rekvisitus tilbudt<lb />
+Sikkerhed eller den Straf, som Lovens almindelige Regler hjemle for Retskrænkelsen,<lb />
+yder Rekvirenten tilstrækkeligt Værn.
+</p>
+<wtitle>§ 627.</wtitle>
+<p>
+I de i de tvende foregaaende Paragraffer omhandlede Tilfælde bestemmer<lb />
+Fogden ifølge Skøn over samtlige Omstændigheder Sikkerhedens Art og Størrelse.
+</p>
+<wtitle>§ 628.</wtitle>
+<p>
+Den, der modvillig overtræder et for ham ved Fogden nedlagt Forbud, kan<lb />
+underen af Forbudsrekvirenten anlagt Sag dømmes til Straf af Bøder eller simpelt Fængsel<lb />
+og i Forbindelse hermed efter Omstændighederne til Erstatning. Spørgsmaalet om<lb />
+Idømmelse af Straf og Erstatning kan dog udsættes, indtil Forbudssagen er afgjort.
+</p>
+<p>
+Naar Forbud ved Fogden er nedlagt, har Politiet paa Forbudsrekvirentens<lb />
+Begæring at yde Bistand til Forbudets Opretholdelse ved at hindre paagældende i at<lb />
+foretage Overtrædelseshandlinger, tilintetgøre, hvad der maatte være foretaget i Strid<lb />
+med Forbudet, og deslige.
+</p>
+<wtitle>§ 629.</wtitle>
+<p>
+Enhver, der, vidende om et Forbud, yder den, mod hvem Forbudet er rettet,<lb />
+Bistand til de forbudne Foretagenders Udførelse, bliver, for saa vidt Forbudet stad-<lb />
+fæstes, erstatningspligtig over for Forbudsrekvirenten.
+</p>
+<wtitle>§ 630.</wtitle>
+<p>
+I øvrigt blive med de Lempelser, som følge af Forholdets Beskaffenhed, de<lb />
+Regler at anvende, som i det foregaaende Kapitel, navnlig §§ 603—607 samt §§ 611<lb />
+—612 og 614—623, ere givne om Arrest.
+</p>
+<wtitle>§ 631.</wtitle>
+<p>
+Forbud imod en Fordrings Udbetaling, et Skibs Afsejling eller overhovedet en<lb />
+Genstands Forflyttelse eller anden Raadighedsudøvelse over den er, naar Hensigten<lb />
+hermed er at søge Sikkerhed for Fyldestgørelsen af Krav af den i § 590 ommeldte<lb />
+Art, uden Hensyn til, hvorledes Forretningen benævnes, i et og alt at betragte som<lb />
+Arrest i den paagældende Fordring eller Genstand. Som en Følge heraf blive de i<lb />
+forrige Kapitel om Arrest givne Regler i alle Henseender at anvende paa saadanne <lb />
+Forretninger.
+</p>

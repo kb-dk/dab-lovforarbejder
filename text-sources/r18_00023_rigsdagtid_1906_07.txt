@@ -1,0 +1,62 @@
+3685
+<pb n="23"/>
+<h>
+<coll>3685</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>3686</colr>
+</h>
+<wtitle>§ 102.</wtitle>
+<p>
+Viser det sig under Tinget, at det til en Sag fornødne Antal (§ 94 sml. m. § 824)<lb />
+ikke kan skaffes til Veje ved Indkaldelse af de tilsagte Hjælpenævninger, foranstalter<lb />
+Rettens Formand Tallet udfyldt ved Lodtrækning blandt de paa Aarslisten opførte<lb />
+Personer, som ere bosatte paa eller nær ved det Sted, hvor Retten holdes. Herved<lb />
+bliver Reglen i § 87 at iagttage. De udtrukne Navne tilføres Hjælpelisten og med-<lb />
+deles straks de beskikkede Anklagere, den eller de Tiltalte og deres beskikkede For-<lb />
+svarere, hvorhos de paagældende straks indkaldes efter Reglerne i § 89 med Aftens<lb />
+Varsel.
+</p>
+<wtitle>§ 103.</wtitle>
+<p>
+Ved Tingets Slutning lader Rettens Formand Navnene paa de Nævninger, der<lb />
+efter Indkaldelse have givet behørigt Møde paa Tinget og ikke her efter Begæring<lb />
+paa Grund af en midlertidig Forhindring ere blevne fritagne for at gøre Tjeneste i<lb />
+Henhold til § 72 Nr. 8, udstryge paa Aarslisten. Tillige meddeles der de ovenmeldte<lb />
+Nævninger paa Forlangende uden Betaling Vidnesbyrd af Rettens Skriver om, at de<lb />
+have givet behørigt Møde under Tinget.
+</p>
+<wtitle>§ 104.</wtitle>
+<p>
+Der tilkommer Nævninger 3 Kr. for hver Dag, de i Anledning af Nævninge-<lb />
+hvervet. holdes borte fra Hjemmet, og endvidere, naar de give Møde over 3 Kilometer<lb />
+fra den By, hvori de bo, eller, naar de bo paa Landet, fra deres Hjem, Godtgørelse<lb />
+for Billet til Jernbane (III. Klasse) og Dampskib (II. Plads), hvor saadant kan be-<lb />
+nyttes, og i øvrigt for Befordring frem og tilbage med 20 Øre for hver Kilometer, dog<lb />
+mindst 1 Kr,
+</p>
+<wtitle>§ 105.</wtitle>
+<p>
+Aarslisten samt Tingets Hovedliste og Hjælpeliste tilbagesendes efter Tingets<lb />
+Slutning til Formanden for Udvalget til Aarslistens Dannelse.
+</p>
+<htitle>Tredie Afsnit.</htitle>
+<title>
+Sagførere.
+</title>
+<title>Kapitel 10</title>
+<undertitle>
+Sagføreres Beskikkelse og Adgang til at benytte Fuldmægtig m. m.
+</undertitle>
+<wtitle>§ 106.</wtitle>
+<p>
+Sagførere beskikkes af Justitsministeriet. Beskikkelse meddeles paa Begæring<lb />
+enhver (Mand eller Kvinde), som har Indfødsret, har opnaaet 25 Aars Alderen, ikke<lb />
+er ude af Raadighed over sit Bo, ifølge paalidelige Vidnesbyrd har ført en retskaffen<lb />
+Vandel og derhos opfylder de i de efterfølgende Paragraffer for de enkelte Stillinger<lb />
+foreskrevne Betingelser.
+</p>
+<wtitle>§ 107.</wtitle>
+<p>
+For at blive Højesteretssagfører udfordres, at den paagældende har bestaaet den<lb />
+fuldstændige juridiske Eksamen med Karakteren laudabilis, samt at han enten i 3 Aar
+</p>

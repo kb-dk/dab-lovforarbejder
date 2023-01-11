@@ -1,0 +1,74 @@
+2269
+<pb n="61" />
+<h>
+<coll>2269</coll>
+<topmidle>Forsl. t. L. om den borgerlige Retspleje.</topmidle>
+<colr>2270</colr>
+</h>
+<title>Kapitel XXT.</title>
+<undertitle>
+Sager om Veksler og visse andre Gældsbreve.
+</undertitle>
+<wtitle>§ 290.</wtitle>
+<p>
+Sagsøgeren kan anvende den i dette Kapitel omhandlede hurtige Retsforfølgning:
+</p>
+<p>
+1)	I Sager, der anlægges til Indfrielse af Gældsbreve, naar Skyldneren enten i selve<lb/>
+Gældsbrevet eller ved senere Paategning paa samme har underkastet sig saadan<lb/>
+Forfølgning.
+</p>
+<p>
+2)	I Vekselsager, hvorved forstaas Sager, som anlægges mod Trassenter, Endossenter<lb/>
+eller Acceptanter af trasserede Veksler eller mod Udstedere og Endossenter af<lb/>
+egne Veksler til Vekslens Betaling eller for at gøre Vekselregres gældende,<lb/>
+Sager, som anlægges mod Trassenter og Endossenter af Veksler paa Grund af<lb/>
+manglende Accept, til Betaling af Vekselsummen eller det ikke accepterede Beløb<lb/>
+(Veksellovens § 29) eller mod Trassenter og Endossenter samt Acceptanter paa<lb/>
+Grund af manglende eller ikke betryggende Accept, til Stillelse af Sikkerhed<lb/>
+(Veksellovens §§ 25, 26 og 30), Sager, som anlægges mod dem, der have tegnet<lb/>
+Borgen (Aval) for en vekselforpligtet Person, til Vekselforpligtelsens Opfyldelse.
+</p>
+<p>
+3)	I Sager, hvorunder Regreskrav efter en Check indtales.
+</p>
+<wtitle>§ 291.</wtitle>
+<p>
+Under Sagen kan det ikke tillades Sagsøgte at fremsætte andre Indsigelser i<lb/>
+Realiteten end, at han ikke ved Underskriftens Meddelelse var mægtig og myndig til<lb/>
+saaledes at forbinde sig, eller at Underskriften er falsk, eller at cler i Dokumentets<lb/>
+Indhold er foregaaet en Forfalskning, efter at Underskriften er meddelt.
+</p>
+<p>
+I Vekselsager kan Sagsøgte endvidere fremsætte de Indvendinger, som angaa<lb/>
+selve Vekslens Indretning og Indhold eller den til Vekselfordringens Vedligeholdelse<lb/>
+fornødne Omgang eller andre i Vekselloven foreskrevne Betingelser for at kunne gøre<lb/>
+Vekselretten gældende. Tilsvarende Regler gælde om de i § 290 Nr. 3 nævnte Sager.
+</p>
+<p>
+I de i § 290 Nr. 1 nævnte Sager kan Sagsøgte derhos, for saa vidt Spørgs-<lb/>
+maalet foruden paa selve Gældsbrevet støttes paa Transport eller andet uden for<lb/>
+Gældsbrevet liggende Grundlag, fremsætte enhver Indsigelse herimod, ligesom lian i<lb/>
+disse Sager overhovedet kan fremkomme med enhver Indsigelse, med Hensyn til hvilke<lb/>
+Bevisbyrden ikke paahviler ham, eller til hvis Godtgørelse han ikke behøver andre<lb/>
+Bevismidler end Dokumenter, som haves til Stede.
+</p>
+<p>
+Alle andre Indsigelser i Realiten ere udelukkede fra at komme i Betragtning,<lb/>
+naar Parterne ikke ere enige om at ønske dem paakendte; men det forbeholdes Sag-<lb/>
+søgte i Anledning af slige Indsigelser, naar han i sit Tilsvar har opgivet eller i det<lb/>
+mindste forbeholdt dem, at anlægge et selvstændigt Erstatningssøgsmaal mod<lb/>
+Sagsøgeren.
+</p>
+<p>
+Dette Erstatningssøgsmaal behandles i alle Henseender efter de almin-<lb/>
+delige Regler.
+</p>
+<wtitle>§ 292.</wtitle>
+<p>
+Imod de i § 290 Nr. 2 og 3 omhandlede Fordringer kunne Modfordringer kun<lb/>
+gøres gældende, naar disse ere støttede paa, at cler ved Forsømmelse med at give den<lb/>
+i Veksellovens §§ 20, 30, 42, 45 og 75 omhandlede Underretning er forvoldt Sagsøgte<lb/>
+Skade, og imod de i § 290 Nr. 1 omhandlede kun, for saa vidt Modfordringen selv<lb/>
+gaar ind under samme Bestemmelse, eller den indrømmes.
+</p>

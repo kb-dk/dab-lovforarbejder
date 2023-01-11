@@ -1,0 +1,129 @@
+1533
+<pb n="30" >
+<p rend="page">30</p>
+<h>
+<coll>1533</coll>
+<colr>1534</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 196 — 198.<lb />
+</topright>
+</h>
+<leftside>
+<undertitle>
+Oversigt over Grundlovsudkastet, Comiteens (Majoritets) Indstilling og Minoritetsindstillingerne.<lb />
+</undertitle>
+<btitle>
+A. Grundlovsudkastet.<lb />
+</btitle>
+<p>
+Grundlov for Kongeriget Danmark<lb />
+og Slesvig.<lb />
+</p>
+<title>
+I.<lb />
+</title>
+<p>
+<law n="1" >§ 1.<lb /></law>
+Regjeringsformen i Kongeriget Danmark<lb />
+og Slesvig er indskrænket- monarkisk. Kongemagten er arvelig.<lb />
+<law n="2" >§ 2.<lb /></law>
+Den evangelisk-lutherske Kirke er, som den,<lb />
+hvori den overveiende Deel af Folket befinder<lb />
+sig, at ansee som den danske Folkekirke og<lb />
+nyder, som saadan, Understøttelse af Staten.<lb />
+<law n="3" >§ 3.<lb /></law>
+Den lovgivende Magt er hos Kongen og<lb />
+Rigsdagen i Forening. Den udøvende Magt<lb />
+er hos Kongen. Den dømmende Magt er<lb />
+hos de anordnede Domstole.<lb />
+</p>
+<title>
+II.<lb />
+</title>
+<p>
+<law n="4" >§ 4.<lb /></law>
+Den i Kongeloven fastsatte Arvefølge er<lb />
+fremdeles gjældende. Den kan kun forandres<lb />
+efter Forslag fra Kongen og med den forenede<lb />
+Rigsdags Samtykke, hvortil udfordres ¾ af<lb />
+de afgivne Stemmer.<lb />
+<law n="5" >§ 5.<lb /></law>
+Kongen kan ikke unden Rigsdagens Samtykke tillige være Regent i nogen anden Stat<lb />
+end Hertugdømmerne Holsten og Lauenborg.<lb />
+<law n="6" >§ 6.<lb /></law>
+Kongen skal høre til den evangelisk-lutherske<lb />
+Kirke.<lb />
+<law n="7" >§ 7.<lb /></law>
+Kongen er myndig, naar han har fyldt sit<lb />
+18de Aar.<lb />
+</p>
+<btitle>
+B. Comiteens (Majoritets) Indstilling.<lb />
+</btitle>
+<p>
+Danmarks Riges Grundlov.<lb />
+</p>
+<title>
+I.<lb />
+</title>
+<p>
+<law n="1" >§ 1.<lb /></law>
+Regjeringsformen er indskrænket-monarkisk.<lb />
+Kongemagten er arvelig.<lb />
+<law n="2" >§ 2.<lb /></law>
+Den evangelisk-lutherske Kirke er den danske<lb />
+Folkekirke og understøttes som saadan af Staten.<lb />
+<law n="3" >§ 3.<lb /></law>
+Den lovgivende Magt er hos Kongen og<lb />
+Rigsdagen i Forening. Den udøvende Magt<lb />
+er hos Kongen. Den dømmende Magt er hos<lb />
+Domstolene.<lb />
+</p>
+<title>
+II.<lb />
+</title>
+<p>
+<law n="4" >§ 4.<lb /></law>
+Den i Kongeloven fastsatte Arvefølge er<lb />
+fremdeles gjældende. Arvefølgen kan kun forandres efter Forslag fra Kongen og med den<lb />
+forenede Rigsdags Samtykke, hvortil udfordres<lb />
+¾ af de afgivne Stemmer.<lb />
+<law n="5" >§ 5.<lb /></law>
+Kongen kan ikke uden Rigsdagens Samtykke blive Regent i nogen fremmed Stat.<lb />
+I intet Tilfælde kan han forlægge Regjeringens Sæde udenfor Riget.<lb />
+<law n="6" >§ 6.<lb /></law>
+Som Udkastet.<lb />
+<law n="7" >§ 7.<lb /></law>
+Som Udkastet.<lb />
+</p>
+</leftside>
+<rightside>
+<btitle>
+C. Minoritetsindstillingerne.<lb />
+</btitle>
+<p>
+Grundlov for Kongeriget Danmark og Hertugdømmet Slesvig.<lb />
+</p>
+<title>
+I.<lb />
+</title>
+<p>
+Indlednings-Paragraph.<lb />
+Det danske Rige bestaaer af Kongeriget<lb />
+Danmark, Hertugdømmet Slesvig, Island og<lb />
+Færøerne, hvilke Lande, under de med Hensyn<lb />
+til Slesvig og Island tagne Forbehold, danne<lb />
+en under nærværende Grundlov forenet udelelig<lb />
+Stat Forholdet mellem dette Rige og de med<lb />
+samme fordundne Hertugdømmer Holsten og<lb />
+Lauenborg forbeholdes nærmere Ordning.<lb />
+<law n="5" >§ 5.<lb /></law>
+Kongen kan uden Rigsdagens Samtykke<lb />
+kun tillige være Regent i Hertugdømmerne Holsten og Lauenborg.<lb />
+I intet o. s. v.<lb />
+</p>
+</rightside>
+</pb>

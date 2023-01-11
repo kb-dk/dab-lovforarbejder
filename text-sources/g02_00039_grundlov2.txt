@@ -1,0 +1,110 @@
+1551
+<pb n="39" >
+<p rend="page">39</p>
+<h>
+<coll>1551</coll>
+<colr>1552</colr><lb />
+</h>
+<leftside>
+<btitle>
+A. Grundlovsudkastet.<lb />
+</btitle>
+<p>
+<law n="56" >§ 56.<lb /></law>
+Intet Andragende maa overgives noget af<lb />
+Thingene uden gjennem et af dets Medlemmer.<lb />
+<law n="57" >§ 57.<lb /></law>
+Finder Thinget ikke Anledning tit om et<lb />
+Andragende at fatte Beslutning, kan det henvise det til Ministrene.<lb />
+<law n="58" >§ 58.<lb /></law>
+Thingenes Møder ere offentlige. Dog kan<lb />
+Formanden eller 5 Medlemmer forlange, at<lb />
+alle Uvedkommende fjernes, hvorpaa Thinget<lb />
+afgjør, om Sagen skal forhandles i offentligt<lb />
+eller hemmeligt Møde.<lb />
+<law n="59" >§ 59.<lb /></law>
+Ved sin Forretningsordning fastsætter ethvert af Thingene de nærmere Bestemmelser,<lb />
+som vedkomme Forretningsgangen og Ordens<lb />
+Opretholdelse.<lb />
+</p>
+<title>
+VI.<lb />
+</title>
+<p>
+<law n="60" >§ 60.<lb /></law>
+Rigsretten bestaaer af 16 Medlemmer, der<lb />
+vælges paa 4 Aar, Halvdelen af Landsthinget, Halvdelen af Landets øverste Domstol,<lb />
+blandt disses egne Medlemmer. Den vælger<lb />
+selv sin Formand af sin egen Midte.<lb />
+</p>
+<stitle>
+B. Comiteens (Majoritets) Indstilling.<lb />
+</stitle>
+<p>
+<law n="56" >§ 56.<lb /></law>
+Som Udkastet.<lb />
+<law n="57" >§ 57.<lb /></law>
+Som Udkastet.<lb />
+<law n="58" >§ 58.<lb /></law>
+Thingenes Møder ere offentlige. Dog kan<lb />
+Formanden eller det i Forretningsordenen bestemte Antal Medlemmer forlange, at alle Uvedkommende fjernes, hvorpaa Thinget afgjør,<lb />
+om Sagen skal forhandles i offentligt eller<lb />
+hemmeligt Møde.<lb />
+<law n="59" >§ 59.<lb /></law>
+Ethvert af Thingene fastsætter de nærmere<lb />
+Bestemmelser, som vedkomme Forretningsgangen og Ordens Opretholdelse.<lb />
+<law n="59 b" />§ 59 b.<lb />
+Naar et Lovforslag bliver forkastet af et<lb />
+af Thingene, kan det ikke oftere foretages<lb />
+af samme Thing i samme Samling.<lb />
+<law n="59 c" />§ 59 c.<lb />
+Naar et Lovforslag er vedtaget i det ene<lb />
+Thing, bliver det i den Form, hvori det er<lb />
+vedtaget, at forelægge det andet Thing; hvis<lb />
+det der forandres, gaaer det tilbage til det<lb />
+første; foretages her atter Forandringer,<lb />
+gaaer Forslaget paany til det andet thing.<lb />
+Opnaaes da eiheller Enighed, skal, naar et<lb />
+Thing forlanger det, hvert Thing udnævne et<lb />
+lige Antal Medlemmer til at træde sammen i<lb />
+et Udvalg, som afgiver Betænkning over<lb />
+Uovereengstemmelserne. I Henhold til Udvalgets Indstilling finder da endelig Afgjørelse<lb />
+Sted i ethvert Thing for sig.<lb />
+<law n="59 d" />§ 59 d.<lb />
+Den aarlige Rigsdag sammentræder den<lb />
+første Mandag i October, dersom Kongen ikke<lb />
+forinden har sammenkaldt den.<lb />
+<law n="59 e" />§ 59 e.<lb />
+Rigsdagens Forsamlingssted er Hovedstaden. I overordentlige Tilfælde kan Kongen<lb />
+sammenkalde den udenfor Kjøbenhavn.<lb />
+<law n="59 f" />§ 59 f.<lb />
+Den forenede Rigsdag dannes ved Sammentræden af Folkethinget og Landsthinget.<lb />
+Til at tage Beslutning udfordres, at over<lb />
+Halvdelen af hvert Things Medlemmer er tilstede og deeltager i Afstemningen. Den vælger<lb />
+selv sin Formand og fastsætter iøvrigt de nærmere Bestemmelser, der vedkomme Forretningsgangen.<lb />
+</p>
+<title>
+VI.<lb />
+</title>
+<p>
+<law n="60" >§ 60.<lb /></law>
+Naar Rigsret skal sættes, udnævner Landsthinget tolv af sine Medlemmer, der træde sammen med tolv af Landets øverste Domstol, som<lb />
+denne dertil udnævner. Anklageren og den Anklagede udskyde hver 1/6 af begge Klasser. De<lb />
+tilbageblivende 16 Medlemmer, der vælge en<lb />
+Formand udaf deres Midte, danne Rigsretten. En Lov ordner nærmere Forfølgningsmaaden.<lb />
+</p>
+</leftside>
+<rightside>
+<btitle>
+C. Minoritetsindstillinger.<lb />
+</btitle>
+<p>
+<law n="59 c" />§ 59 c.<lb />
+Naar et Lovforslag først har været forelagt<lb />
+det ene Thing, og i dette er vedtaget, bliver<lb />
+det tilligemed de Forandringer, hvormed det<lb />
+er vedtaget, at forelægge det andet Thing;<lb />
+hvis samtlige disse Forandringer ikke der tiltrædes, eller hvis nye Forandringer der vedtages, gaaer det tilbage o. s. v.<lb />
+ </p>
+</rightside>
+</pb>

@@ -1,0 +1,191 @@
+2883
+<pb n="42" />
+<h>
+<coll>2883</coll>
+<topmidle>
+Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
+</topmidle>
+<colr>
+2884
+</colr>
+</h>
+<table>
+<tr>
+<td>
+Regerings-<lb />
+forslaget.
+</td>
+<td>
+Landstings-<lb />
+udvalgets<lb />
+Ændrings-<lb />
+forslag.
+</td>
+</tr>
+<tr>
+<td>
+Kr.
+</td>
+<td>
+Kr.	
+</td>
+<td>
+Overført...<lb />
+</td>
+<td>
+486,500
+</td>
+<td>
+561,100
+</td>
+</tr>
+<tr>
+<td>
+3. Erstatning for uforskyldt<lb />
+Varetægtsfængsel
+</td>
+<td>
+10,000
+</td>
+<td>
+10,000	
+</td>
+</tr>
+<tr>
+<td>
+4. Kontorhold til Forligskom-<lb />
+missionen i København....	
+</td>
+<td>
+4,000	
+</td>
+<td>
+4,000	
+</td>
+</tr>
+<tr>
+<td>
+5. Offentlige Anklagere ......	
+</td>
+<td>
+105,000	
+</td>
+<td>
+105,000	
+</td>
+</tr>
+<tr>
+<td>
+6. Offentlige Forsvarere
+</td>
+<td>
+75,000
+</td>
+<td>
+75,000	
+</td>
+</tr>
+<tr>
+<td>
+7. Konsultation til ubemidlede<lb />
+(Lovforslagets § 135)
+</td>
+<td>
+10,000	
+</td>
+<td>
+10,000	
+</td>
+</tr>
+<tr>
+<td>
+8. Leje af Retslokaler (jfr.<lb />
+Lovforslagets § 11)	
+</td>
+<td>
+35,000
+</td>
+<td>
+35,000	
+</td>
+</tr>
+<tr>
+<td>
+9. Nævningeudgifter
+</td>
+<td>
+130,000
+</td>
+<td>
+130,000	
+</td>
+</tr>
+<tr>
+<td>
+10. Vidnegodtgørelser
+</td>
+<td>
+50,000
+</td>
+<td>
+50,000	
+</td>
+</tr>
+<tr>
+<td>
+11. Udgifter til Politivæsenet<lb />
+(Statspoliti)
+</td>
+<td>
+297,700
+</td>
+<td>
+297,700	
+</td>
+<td>
+1,203,200<lb />
+</td>
+<td>
+1,277,800<lb />
+</td>
+</tr>
+<tr>
+<td>
+Hertil kommer som Følge af<lb />
+Folketingets Vedtagelse om<lb />
+Ansættelse af 9 Politifuld-<lb />
+mægtige i København (jfr.<lb />
+Lovforslagets § 108)
+</td>
+<td>
+27,000
+</td>
+<td>
+27,000	
+</td>
+<td>
+1,230,200
+</td>
+<td>
+1,304,800
+</td>
+</tr>
+<tr>
+<td>
+Herfra gaar Stigning af Rets-
+afgifter...............	
+</td>
+<td>
+- 170,000
+</td>
+<td>
+- 170,000	
+</td>
+<td>
+1,060,200
+</td>
+<td>
+1,134,800	
+</td>
+</tr>
+</table>

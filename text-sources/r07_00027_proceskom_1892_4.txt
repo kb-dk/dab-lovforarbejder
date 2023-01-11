@@ -1,0 +1,64 @@
+3263
+<pb n="27" />
+<h>
+<coll>3263</coll>
+<topmidle>Kommissionens Sekretærs Oversigt over Retsreformen.</topmidle>
+<colr>3264</colr>
+</h>
+<p>
+være „Forhørsobjekt", men derimod „Processubjekt", Part. Han har Ret til at nægte<lb />
+at svare paa de til ham stillede Spørgsmaal og staar med selvstændige Partsrettigheder<lb />
+lige over for de særlige, fra Dommeren forskellige, Varetagere af Anklagens Interesser.<lb />
+For Domsforhandlingens Vedkommende gennemføres Anklageprincipet fuldt ud; for<lb />
+Forundersøgelsens Vedkommende gøres der derimod nogen Modifikation deri. Vel op-<lb />
+træder der ogsaa under denne en særlig Repræsentant for Anklagemyndigheden, nemlig<lb />
+Politimesteren, og paa den anden Side har Sigtede ogsaa paa dette Stadium visse<lb />
+Partsrettigheder, bl. a. Ret til at søge Bistand hos en Forsvarer, men der paalægges<lb />
+dog samtidig vedkommende Dommer i Embeds Medfør uden særlig Begæring at fore-<lb />
+tage alle hensigtsmæssige Skridt til Opnaaelse af Forundersøgelsens Øjemed.
+</p>
+<p>
+9. Anklagemyndighederne, Paataleregler, Sigtedes Forsvar. Anklage-<lb />
+myndighederne henhøre under Justitsministeren. Øverst blandt dem staar en Rigs-<lb />
+anklager, der med Bistand af en Overanklager virker ved Højesteret og fører Tilsynet<lb />
+med de øvrige offentlige Anklagere, Ved hver af de to Landsretter ansættes 3 Over-<lb />
+anklagere (med de nødvendige Medhjælpere). Overanklagerne, der fungere hver for<lb />
+sig i Henhold til en af Justitsministeren fastslaaet Forretningsfordeling, virke ved<lb />
+Landsretterne og Underretterne, men have til denne sidste Del af deres Virksomhed<lb />
+Bistand hos særlige Anklagere ved Underret. Stillingerne som Rigsanklager og Over-<lb />
+anklagere ere fastlønnede Embeder, der ikke kunne forenes med Udøvelse af Sagfører-<lb />
+virksomhed; derimod tænkes Anklagerne ved Underret tagne blandt Sagførere, der<lb />
+vedblive at være i Virksomhed som saadanne, og hvem der gives Vederlag for hver<lb />
+enkelt Sag (sml. de nuværende Aktorer). Anklagens Interesser ved Politisager*) saavel<lb />
+som ved Efterforskning og Forundersøgelse i alle Sager skulle dog normalt varetages<lb />
+af Politimesteren (i Kjøbenhavn Politidirektøren). Ordningen er nemlig den, at<lb />
+Pligten til at sørge for Paatalen af Forseelser, der forfølges under Politisag, paahviler<lb />
+Politimesteren (i Kjøbenhavn Politidirektøren), der for saa vidt staar under Tilsyn af<lb />
+Amtmanden (Politidirektøren i Kjøbenhavn staar dog direkte under Justitsministeriet),<lb />
+medens der, hvad alle andre Lovovertrædelser angaar, sondres mellem den indledende<lb />
+Undersøgelse (Efterforskning og Forundersøgelse) og selve Anklagen for den døm-<lb />
+mende Ret, At sætte Efterforskning og Forundersøgelse i Gang og føre dem igennem<lb />
+paahviler ligeledes Politimesteren under Tilsyn af Overanklageren (i Kjøbenhavn<lb />
+Politidirektøren), hvorimod det er Overanklagerens egen Sag, naar Undersøgelse er<lb />
+endt, at tage Bestemmelse om, hvor vidt Tiltale skal rejses for den dømmende Ret, og<lb />
+derefter, hvis Tiltale besluttes, at varetage Anklagens Interesser under Domsforhand-<lb />
+lingen enten personlig eller ved en Medhjælper eller — for saa vidt Sagen hører for<lb />
+Underret — ved en af de som Anklagere ved Underret beskikkede Sagførere. Be-<lb />
+stemmelse om Anke paa det offentliges Vegne fra Underret til Landsret eller fra<lb />
+Landsret til Højesteret tages ligeledes af Overanklageren. Selve Anklagens Udførelse<lb />
+for Højesteret besørges af Rigsanklageren eller dennes Medhjælper.
+</p>
+<p>
+Spørges der, hvilken Beføjelse der skal tilkomme Anklagemagten til at und-<lb />
+lade Forfølgning, uagtet det efter det foreliggende maa antages, at Forfølgningen vil
+</p>
+<note rend="foot">
+<p>
+*) Ved „Politisager" forstaas i Udkast angaaende Strafferetsplejen alle Sager vedrørende For-<lb />
+seelser, for hvilke Loven ikke hjemler anden Straf end Formuestraf, simpelt Fængsel, Tvangs-<lb />
+arbejde, Ris eller Fortabelse af en Næringsret, dog med Undtagelse af de i Straffelovens<lb />
+§§ 129, 130, 3. St., 208 og 209 omhandlede Lovovertrædelser, og endvidere Sager vedrørende<lb />
+en Række udtrykkelig nævnte Lovovertrædelser, uanset at Straffen kan stige til Fængsel paa<lb />
+Vand og Brød (jfr. Udkastets § 31).
+</p>
+</note>

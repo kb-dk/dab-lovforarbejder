@@ -1,0 +1,43 @@
+115
+<pb n="121" />
+
+<wtitle>§ 375.</wtitle>
+<p>Andragendet må indeholde:<lb />
+a) Angivelse af den Sag, i Anledning af</p>
+<p>hvilken, og den Person, imod hvem Beviset skal erhverves;<lb />
+b) Nøjagtig Opgivelse af det, hvorfor Bevis</p>
+<p>søges tilvejebragt;<lb />
+c) Betegnelse af det Bevismiddel, som ønskes</p>
+<p>tilvejebragt, samt af Vidnernes Navne m. v.;<lb />
+d) Angivelse af de Omstændigheder, som i</p>
+<p>Henhold til § 373 skulle berettige til</p>
+<p>Bevisets Optagelse,</p>
+<wtitle>§ 376.</wtitle>
+<p>Ligesom Retten i det dertil berammede,<lb />
+ordentlige eller overordentlige Retsmøde kan<lb />
+udspørge Parten, således kan den også på<lb />
+lægge ham på den i § 304 angivne Måde<lb />
+at oplyse Rigtigheden af de ifølge § 375<lb />
+Litr. d påberåbte Omstændigheder.</p>
+<p>Den i så Henseende fornødne Udsættelse<lb />
+kan tilståes af Retten.</p>
+<wtitle>§ 377.</wtitle>
+<p>Antager Retten, at Partens Begjæring er<lb />
+begrundet, tilstedes Bevisets Førelse.</p>
+<p>Retten udsteder da Indkaldelse til Vidnerne eller udmelder Syns- og Skjønsmænd<lb />
+i Overensstemmelse med de almindelige Regler<lb />
+herom, jfr. §§ 205, 206, 225, 230. I<lb />
+at bestemme Tiden for Vidnernes Førelse eller<lb />
+Forretningens Afhjemling, har Retten at sørge<lb />
+for, at der indrømmes den nødvendige Frist.</p>
+<p>Antager Retten derimod ikke Partens Begjæring for begrundet, nægtes Begjæringen;<lb />
+men Parten kan da inden en Uge iværksætte<lb />
+Besværing herover til højere Ret.</p>
+<wtitle>§ 378.</wtitle>
+<p>Retten meddeler (§ 122) den i Henhold<lb />
+til § 375 Litr. a opgivne Modpart, til hvilken<lb />
+Tid Vidnernes Afhørelse eller Syns- og<lb />
+skjønsforretningens Afhjemling skal foregå.<lb />
+Hvis Tiden ikke tillader den opgivne Modparts<lb />
+Tilkaldelse, kan Retten beskikke en i Retskredsen bosat Sagfører til at møde og varetage<lb />
+hans Tarv imod et passende Salær, som udredes af den Part, der har begjært den særegne Vidneførsel eller Syns- og Skjønsforretning.</p>

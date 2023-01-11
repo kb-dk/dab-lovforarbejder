@@ -1,0 +1,56 @@
+43
+<pb n="43" />
+<leftside>
+<pagename>41
+</pagename>
+<p>Loven gælder ikke for Færøerne; den<lb />
+sjællandske Landsret er Overret for Færøerne.
+</p>
+<wtitle>§ 114.
+</wtitle>
+<p>De Spørgsmaal, som opstaa ved Sammenligning eller Deling af hidtilværende<lb />
+Underretskredse med Hensyn til Bidrag til<lb />
+Arresthuses Opførelse eller Vedligeholdelse<lb />
+og andre for en Retskreds følles Anliggender<lb />
+afgøres af Iustitsministeren i Forening med<lb />
+Indenrigsministeren efter Forhandling med<lb />
+vedkommende kommunale Myndigheder.
+</p>
+<wtitle>§ 115.
+</wtitle>
+<p>Naar flere hidtilværende Underretskredse sammenlægges, gaa deres Skøde- og<lb />
+Panteprotokoller over til Hovedtingstedet for<lb />
+at afbenyttes for hele Retskredsen. Deles<lb />
+en hidtilværende Underretskreds, blive de<lb />
+fornødne Afskrifter af Skøde- og Pantebøgerne at udfærdige og Betalingen Herfor at<lb />
+udrede af Statskassen.
+</p>
+<wtitle>§ 116.
+</wtitle>
+<p>Sager og Anliggender, som paa den<lb />
+Tid, da nærværende Lov troeder i Kraft,<lb />
+svæve for Retten, gaa over fra de hidtil<lb />
+bestaaende Retter til de nye efter følgende<lb />
+Regler:
+</p>
+<p>1)	Sager og Anliggender, som svæve ved<lb />
+en Ret i første Instans, gaa efter Beskaffenheden af  de Regler,   der   sinde<lb />
+Anvendelse paa den fortfatte Behandling, over enten til den Landsret eller<lb />
+den Underret, under hvilken den paagældende Retskreds henlægges.  Finder<lb />
+en Deling Sted af   en  hidtilværende<lb />
+Underretskreds, sker Overgangen i alle<lb />
+Tilfælde, hvor Værnetinget beror paa<lb />
+stedlige Hensyn,   til   den Ret,   under<lb />
+hvilken den paagældende Del af Retskredsen henlægges, i andre Tilfælde til<lb />
+den Ret, under hvilken den større Del<lb />
+af Retskredsen er henlagt;
+</p>
+<p>2)	Sager, som svæve ved Landsoverretten<lb />
+  i Kjøbenhavn eller i Viborg, gaa over
+</p>
+<p>henholdsvis til den sjællandske Lands</p>
+<p>ret eller den jydsk-fynske Landsret.
+</p>
+<pagename>6
+</pagename>
+</leftside>

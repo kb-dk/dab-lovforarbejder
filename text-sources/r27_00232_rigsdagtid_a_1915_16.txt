@@ -1,0 +1,75 @@
+3103
+<pb n="232" />
+<h>
+<coll>
+3103
+</coll>
+<topmidle>
+F. t. L. om  Retens Pleje.
+</topmidle>
+<colr>
+3104
+</colr>
+</h>
+<p>
+Kommer Omstændigheder, som antages at give Tiltalte eller andre paa hans<lb />
+Vegne Føje til at andrage paa Sagens Genoptagelse, til Rettens eller Anklagemyndig-<lb />
+hedens Kundskab, bør de derom underrette vedkommende.
+</p>
+<wtitle>§ 978.</wtitle>
+<p>
+Genoptagelse kan ikke finde Sted, saa længe Anke i Medfør af Lovens al-<lb />
+mindelige Regler staar aaben, eller saa længe en rejst Ankesag henstaar uafgjort.
+</p>
+<p>
+At Straffen er udstaaet, er ikke til Hinder for Genoptagelse.
+</p>
+<wtitle>§ 979.</wtitle>
+<p>
+Begæring om Genoptagelse fremsættes for Højesteret, naar denne Ret ifølge<lb />
+Faaanke har afsagt Dommen, og Sagen har været paadømt uden Medvirkning af Næv-<lb />
+ninger for Landsretten. I andre Tilfælde fremsættes Begæring for den Landsret, der<lb />
+har paadømt Sagen, selv om Sagen ifølge Anke har været paakendt i Højesteret.
+</p>
+<p>
+Begæringen indgives skriftlig og maa angive de Omstændigheder, hvorpaa den<lb />
+støttes, og de Beviser, som formenes at skulle give Sagen et andet Udfald. Er Til-<lb />
+talte fængslet, kan hans Begæring fremsættes overensstemmende med § 844 til Under-<lb />
+søgelsesrettens Retsbog eller Fængselsbestyrerens Bog. Er Begæringen støttet paa<lb />
+nogen saadan Grund som nævnt i § 976 Nr. 2, jfr. § 977 Nr. 2, maa den saa vidt<lb />
+muligt være ledsaget af Udskrift af en over den paagældende afsagt Straffedom. Ud-<lb />
+skrift af den tidligere Dom bør medfølge.
+</p>
+<wtitle>§ 980.</wtitle>
+<p>
+Findes i Begæringen ingen Grund opgivet, som efter Loven kan bevirke Gen-<lb />
+optagelse, eller findes de paaberaabte Omstændigheder eller Bevisligheder aabenbart<lb />
+betydningsløse, kan Retten straks ved Kendelse afvise Begæringen.
+</p>
+<p>
+Finder Retten ikke Anledning til saadan Afvisning, giver den, for saa vidt<lb />
+der ikke allerede med Begæringen er forelagt den en Erklæring fra Modparten, som<lb />
+efter Omstændighederne skønnes fyldestgørende, denne Lejlighed til at udtale sig<lb />
+skriftlig eller mundtlig.
+</p>
+<wtitle>§ 981.</wtitle>
+<p>
+Finder Retten, at yderligere Oplysninger bør tilvejebringes, inden Afgørelse<lb />
+træffes om, hvorvidt Genoptagelse bør finde Sted, giver den, for saa vidt den ikke<lb />
+selv vil foranstalte disse tilvejebragte, de i saa Henseende fornødne Paalæg. Skal<lb />
+Vidner eller Tiltalte afhøres, sker Afhørelsen ved vedkommende Undersøgelsesret over-<lb />
+ensstemmende med Reglerne om retslig Forundersøgelse i Kapitel 75, medmindre<lb />
+Retten anser det nødvendigt til Sagens fuldstændige Oplysning selv at modtage de paa-<lb />
+gældende Forklaringer; Retten kan bestemme, at retslig Forundersøgelse skal finde Sted.
+</p>
+<p>
+Hvor Begæringen om Genoptagelse er støttet paa, at et saadant strafbart For-<lb />
+hold er begaaet, som nævnt i § 976 Nr. 2, jfr. § 977 Nr. 2, men en Straffesag, som<lb />
+derom er rejst, endnu ikke er afsluttet, bliver, om fornødent, Afgørelsen at udsætte,<lb />
+indtil saadan Straffesag er endt.
+</p>
+<p>
+Beslutninger vedrørende Forberedelsen af Forhandlingen af en Begæring om<lb />
+Genoptagelse kan i lignende Omfang som bestemt for Ankesagers Vedkommende<lb />
+træffes af Landsrettens eller Højesterets Formand.
+</p>

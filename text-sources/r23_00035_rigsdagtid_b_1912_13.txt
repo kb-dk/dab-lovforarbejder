@@ -1,0 +1,67 @@
+2517
+<pb n="35" />
+<h>
+<coll>2517</coll>
+<topmidle>Bilag til Bet. o. forsk. Lovf. vedr. Gennemførelse af L. om Rettens Pleje.</topmidle>
+<colr>2518</colr>
+</h>
+<p>
+Genpart.<lb />
+</p>
+<p>
+Statens statistiske Bureau.<lb />
+</p>
+<p>
+København, den 4. Februar 1913.<lb />
+</p>
+<p>
+I Skrivelse af 29. f. M. har det ærede Ministerium efter Anmodning fra<lb />
+Folketingets Udvalg angaaende Retsplejeforslagene udbedt sig en Udtalelse om,<lb />
+hvorvidt det vil være Bureauet muligt at fremskaffe en summarisk Redegørelse for<lb />
+Forskellen imellem Retsafgifternes Størrelse i Domssager efter henholdsvis den<lb />
+nugældende Lov og efter det foreliggende Lovforslag om Retsafgifter i Doms-<lb />
+sager m. m.<lb />
+</p>
+<p>
+Saaledes foranlediget skal man tillade sig at bemærke, at Beregninger<lb />
+over Retsafgifternes Størrelse efter den nugældende Lov ikke kan foretages paa<lb />
+Grundlag af det i Bureauet beroende Materiale, da der bl. a. savnes Oplysning<lb />
+om Antallet af Anstande, men at det efter Statsrevisorernes Betænkning kan an-<lb />
+føres, at Afgiften af „Retshandlinger" i Finansaarene 1905-06—1909-10 gen-<lb />
+nemsnitlig aarlig har andraget ca. 300,000 Kr.<lb />
+</p>
+<p>
+Derimod kan Bureauet yde visse Bidrag til en Opgørelse af Retsafgifterne<lb />
+efter det foreliggende Lovforslag, omend — som det vil fremgaa af det følgende<lb />
+— kun skønsmæssigt, idet Beregningerne, hvorved Femaaret 1906—10 er lagt<lb />
+til Grund, er foretagne paa følgende Maade:<lb />
+</p>
+<p>
+De af Bureauet til Brug ved den forestaaende Publikation om den civile<lb />
+Retspleje udarbejdede Tabeller indeholder Angivelse af de inkaminerede Sagers<lb />
+Antal og Værdi, opgivet efter Paastandene og grupperet efter Værdi med føl-<lb />
+gende Inddeling: For de ordinære Gældssager, Grupperne: Under 400 Kr.,<lb />
+400—1,000 Kr., 1,000—10,000 Kr. og 10,000 Kr. og derover; og for Vekselsager,<lb />
+Gæsterets- og Søretssager og københavnske Handelsretssager, Grupperne : Under<lb />
+200 Kr., 200—1,000 Kr., 1,000—10,000 Kr. og 10,000 Kr. og derover; smaa<lb />
+Gældssager er alle under 200 Kr.; for de øvrige Sager er ingen Værdi anført.<lb />
+Da de ovenanførte Værdigrupper er betydelig mere omfattende end de i Lovforslagets<lb />
+§ 6 benyttede, kan man ikke umiddelbart bringe samtlige foreslaaede Satser til<lb />
+Anvendelse, men har dels henført enhver af de statistiske Grupper helt til den<lb />
+Afgiftssat, som svarer til Gruppens Gennemsnitsstørrelse, dels kontroleret denne<lb />
+mere summariske Beregning ved en Række Interpolationer. Afgiften i „andre or-<lb />
+dinære Sager" har man ansat til 15 Kr., i Sager efter Forordningen af 20. Ok-<lb />
+tober 1819 ligeledes til 15 Kr., i Tyendesager til 1 Kr. 50 Øre, i Paternitetssager<lb />
+til 0 Kr. og i andre private Politisager til 7 Kr. 50 Øre.<lb />
+</p>
+<p>
+Det Beløb, der udkommer ved paa de nævnte Maader at multiplicere An-<lb />
+tallet af Sager med de anførte Satser, skulde omtrentlig svare til den samlede<lb />
+Afgift, der betales ved Rettens Berammelse af en Dag til Domssagens første For-<lb />
+handling. Til Fastsættelse af Optagelsesafgiften har man som Holdepunkt kun<lb />
+haft Oplysning om, hvor mange Procent af de forskellige inkaminerede Sager der<lb />
+indlades til Dom, og Optagelsesafgiften er sat til denne Procent af den første<lb />
+Afgift, uden at man har kunnet tage Hensyn til, at der mulig hæves flere af de<lb />
+mindre Sager end af de større eller omvendt, eller til, om Optagelsen sker paa<lb />
+Sagens første Tægtedag, jfr. Lovforslagets § 8.
+</p>

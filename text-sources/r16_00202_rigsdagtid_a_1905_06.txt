@@ -1,0 +1,75 @@
+2307
+<pb n="202" />
+<h>
+<coll>
+2307
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2308
+</colr>
+</h>
+<wtitle>§ 876.</wtitle>
+<p>
+Efter tilendebragt Raadslagning afstemme Nævningerne om de enkelte Spørgs-<lb />
+maal i den Orden, hvori disse ere stillede. Ordføreren afæsker hver Nævning enkelt-<lb />
+vis hans Stemme i den ved Lodtrækningen bestemte Orden og afgiver selv sin<lb />
+Stemme tilsidst.
+</p>
+<p>
+En for Tiltalte ugunstig Besvarelse af et Hoved- eller Tillægsspørgsmaal kan<lb />
+kun vedtages med mindst 8 Stemmer; denne Regel finder ogsaa Anvendelse ved de i<lb />
+§§ 869 og 870 ommeldte Tillægsspørgsmaal.
+</p>
+<p>
+Er den bekræftende Besvarelse af et Hovedspørgsmaal bleven vedtaget med<lb />
+den fornødne Stemmeflerhed, blive de Nævningers Stemmer, som maatte have erklæret<lb />
+sig for det benægtende Svar, at regne til den Tiltaltes Gunst ved Afgørelsen af de<lb />
+til samme sig sluttende Tillægsspørgsmaal; som Følge heraf bliver der ved Afstem-<lb />
+ningen over saadanne Tillægsspørgsmaal ikke at afæske disse Nævninger en særlig<lb />
+Erklæring.
+</p>
+<wtitle>§ 877.</wtitle>
+<p>
+Opstaar der Tvivl hos Nævningerne om den Fremgangsmaade, som de skulle<lb />
+iagttage, eller om Betydningen af de stillede Spørgsmaal eller om Svarenes Affat-<lb />
+telse, kunne de derom henvende sig til Rettens Formand. Denne meddeler dem<lb />
+den fornødne Vejledning enten i Raadslagningsværelset eller i Retssalen. Vælger<lb />
+Formanden den sidstnævnte Fremgangsmaade, foranlediges Nævningerne til at frem-<lb />
+sætte deres Andragende i Retssalen. Rettens Formand kan derefter, inden han giver<lb />
+Vejledningen, hvis han finder det fornødent, lade Forhandlingen genoptage med Adgang<lb />
+for Parterne til at udtale sig.
+</p>
+<p>
+Antage Nævningerne det for nødvendigt, at yderligere eller ændrede Spørgs-<lb />
+maal forelægges dem, henvende de sig derom til Rettens Formand, som foranlediger<lb />
+deres Andragende fremsat i Retssalen og Forhandlingen genoptagen med Adgang for<lb />
+Parterne til at udtale sig.
+</p>
+<wtitle>§ 878.</wtitle>
+<p>
+Nævningernes Ordfører vedtegner det Svar, som udkommer ved Stemmernes<lb />
+Sammentælling, lige over for ethvert af Spørgsmaalene og underskriver Erklæringen<lb />
+tilligemed to andre Nævninger.
+</p>
+<p>
+Stemmetallet angives ikke.
+</p>
+<wtitle>§ 879.</wtitle>
+<p>
+Efter at Nævningerne ere vendte tilbage til Retssalen, spørger Rettens For-<lb />
+mand dem om Udfaldet af deres Raadslagning. Derefter oplæser Nævningernes Ord-<lb />
+fører de stillede Spørgsmaal og umiddelbart efter hvert af disse det vedtegnede Svar.<lb />
+Erklæringen overleveres dernæst til Rettens Formand, der underskriver den tilligemed<lb />
+Retsskriveren.
+</p>
+<wtitle>§ 880.</wtitle>
+<p>
+Lider Nævningernes Erklæring af Mangler i Formen, eller er dens Indhold<lb />
+utydeligt, modsigende eller ufuldstændigt, eller opstaar der Tvivl, om den oplæste Er-<lb />
+klæring udtrykker Nævningernes virkelige Mening eller er vedtagen med det fore-<lb />
+skrevne Stemmetal, og Manglen ikke straks kan afhjælpes eller Tvivlen hæves ved en<lb />
+Erklæring af Nævningernes Ordfører, kan Retten paalægge Nævningerne at begive sig<lb />
+tilbage til deres Værelse for ved en ny Erklæring at afhjælpe Manglen eller fjærne<lb />
+Tvivlen. De fornødne Forklaringer meddeles Nævningerne af Rettens Formand.
+</p>

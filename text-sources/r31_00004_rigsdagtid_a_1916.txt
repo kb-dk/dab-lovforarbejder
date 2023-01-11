@@ -1,0 +1,79 @@
+420
+<pb n="4" />
+<h>
+<coll>
+15de April.
+</coll>
+<topmidle>420</topmidle>
+<colr>
+1916.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+Ved Sø- og Handelssager forstås i denne Lov de borgerlige Sager, i hvilke<lb />
+Fagkundskab til Søforhold eller til Handelsforhold skønnes at være af Betydning; og<lb />
+ved Afgørelsen heraf vil der være at tage særligt Hensyn til, om begge Parter ønsker<lb />
+Sagen behandlet som Sø- og Handelssag.
+</p>
+<p>
+I København bliver Handlendes, Fabrikanters og Skibsrederes Konkursboer<lb />
+derhos at behandle af Sø- og Handelsretten under Ledelse af Formanden eller Næstformanden. I hvert enkelt Bos Behandling deltager Formanden eller Næstformanden<lb />
+og 2 af de sø- og handelskyndige Medlemmer.
+</p>
+<p>
+Retten bestemmer selv den Omgang, hvorefter de sø- og handelskyndige Medlemmer skal deltage i Rettens Møder og Boernes Behandling.
+</p>
+<p>
+Forretningernes Fordeling mellem Formanden og Næstformanden bestemmes
+af Formanden efter Forhandling med Næstformanden.
+</p>
+<wtitle>§ 10.</wtitle>
+<p>
+Oppebørsel af og Regnskabsaflæggelse for Retsafgifter forestås ved hver<lb />
+Landsret af en Justitssekretær, der tillige er Retsskriver. Desuden ansættes der ved<lb />
+Landsretterne, foruden det i øvrigt fornødne Kontorpersonale, ved Østre Landsret 6,<lb />
+ved Vestre Landsret 3 Fuldmægtige. Landsrettens Formand træffer Bestemmelse om<lb />
+Forretningernes Fordeling.
+</p>
+<p>
+Ved Sø- og Handelsretten indrettes et af Formanden ledet Skriverkontor,<lb />
+hvorved ansættes en Justitssekretær samt to Fuldmægtige foruden det øvrige fornødne<lb />
+Kontorpersonale.
+</p>
+<wtitle>§ 11.</wtitle>
+<p>
+Domsbehandling af Sager, i hvilke Nævninger skal medvirke, foregår dels<lb />
+på det Sted, hvor Landsretten har sit Sæde, dels på andre ved kongelig Anordning<lb />
+dertil fastsatte Steder i Landsretskredsen. I Anordningen bestemmes, hvilke Dele af<lb />
+Landsretskredsen der skal henlægges til hvert af disse Tingsteder.
+</p>
+<p>
+Når der i andre Landsretssager i første Instans er truffet Bestemmelse om,<lb />
+at umiddelbar Bevisførelse undtagelsesvis skal finde Sted (§§ 360, 369 og 922), kan<lb />
+Landsretten, når det for sådan Bevisførelses Skyld findes formålstjenligt, bestemme, at Domsforhandlingen helt eller delvis skal foregå udenfor Rettens Sæde.<lb />
+Sager, i hvilke sådan Bestemmelse er truffet, kan henvises til Behandling og<lb />
+Påkendelse på de Ting, der i Henhold til Regelen i denne Paragrafs 1ste Stykke<lb />
+afholdes udenfor Landsrettens Sæde.
+</p>
+<wtitle>§ 12.</wtitle>
+<p>
+Landsretskredsene inddeles i Underretskredse. Staden København udgør en<lb />
+Underretskreds. I øvrigt deles Riget i 88 By- og Herredsretskredse, således som det<lb />
+angives på den nærværende Lov vedføjede Tavle. Forandring i Underretskredsenes<lb />
+Område kan ske ved kongelig Anordning.
+</p>
+<wtitle>§ 13.</wtitle>
+<p>
+Underrettens Virkekreds omfatter Behandling og Påkendelse af Retssager og
+Foretagelse af Retshandlinger i det Omfang, som bestemmes ved Reglerne i denne Lov.
+</p>
+<wtitle>§ 14.</wtitle>
+<p>
+Til Underretternes Virkekreds henhører fremdeles udenfor den egentlige<lb />
+Retspleje, hvortil også henregnes Skifteforvaltning og Fogedforretninger — derunder<lb />
+Auktionsforretninger —:
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

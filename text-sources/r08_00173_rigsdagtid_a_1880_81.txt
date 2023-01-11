@@ -1,0 +1,44 @@
+3709
+<pb n="173" />
+<h>
+<coll>3709</coll>
+<topmidle>Forsl.t.Lom Htrafferetsplcien.</topmidle>
+<colr>3710</colr>
+</h>
+<p>den som Anklager eller Rettergangsfuldmtegtig for den Forurettede eller som Politiembedsmand<lb />
+eller som Dommer eller i en anden Straffesag har roeret Forsvarer for en Sigtet, med hvis<lb />
+Interesse i Sagen den nu Sigtedes staar i Strid.</p>
+<p>Grc flere Personer sigtede under samme Sag, kan Forsvaret kun udferes af den<lb />
+jammc Person, naar de Sigtedes Interesser nndcr Sagen ikke ere modstridende.</p>
+<wtitle>§ 54.</wtitle>
+<p>Bestikkelsen kan tilbagekaldes, naar det findes neduendigt i Forsvarets Interesse, samt,<lb />
+forsaavidt Sagen ikke derved forhales, efter Begjæring af den Sigtede paa Grund af en<lb />
+senere truffen Overenskomst om det offentlige Forsvars Udferel'c uden Vederlag af det<lb />
+Offentlige.</p>
+<wtitle>§ 55.</wtitle>
+<p>De offentlige Forsvarere ere pligtige med Flid og Trostab at udferc de dem betroede<lb />
+Eager. at fremme dem med den Hurtighed, som Tilfældets Beskaffenhed tillader, at vift<lb />
+Retten skyldig Agtelse og at efterkomme de Paalæg, som Retten i medfør af na?rvo?rende<lb />
+Lov giver.</p>
+<wtitle>§ 56.</wtitle>
+<p>For Pligtovertra'delser i deres Hvervs udferelfc paadragc de offentlige Forsvarere sig<lb />
+Ansvar efter Lovgivningens almindelige Forskrifter; Straffelovens 13de Kapitel er anvendeligt<lb />
+paa dem.</p>
+<p>Ansvaret forsølges efter de almindelige Regler, forsaavidt ikke Andet cr s«rlig bjemlet<lb />
+i ntrrvterende Lov.</p>
+<wtitle>§ 57.</wtitle>
+<p>De den Sigtede for Forsvarets Skyld tillagte Rettigheder tilkomme ogsaa, indenfor<lb />
+Bestikkelsens Grænser, den offentlige Forsvarer, forsaavidt ikke Andet er fcrrlig foreskrevet eller<lb />
+felger af Forholdets Natur. Til Foretagelse af de Handlinger, som den offentlige Forsvarer<lb />
+finder fornødne eller hensigtsmæssige til den Sigtedes Tarv, behsver han ikke dennes Samtykke.</p>
+<p>Den offentlige Forsvarer har Ret til mundtligt og skriftligt Samkvem med den<lb />
+Sigtede, som er famgflet, uden Opsyn. Under Retsmøderne er han berettiget til at raadflaa<lb />
+med den Sigtede, forsaavidt ikke det Modsætte færlig er foreskrevet.</p>
+<wtitle>§ 58.</wtitle>
+<p>De offentlige Forsvarere erholde Vederlag af det Offentlige for den enkelte Sag.<lb />
+forsaavidt Krav herpaa ikke er frafaldet (jfr. §§51 og 52). Retten fastfætter dette Vederlag<lb />
+efter Arbeidets Betydning og Omfang ved Dommen eller, naar Forsvarerens Virksomhed<lb />
+er afsluttet.</p>
+<wtitle>§ 59.</wtitle>
+<p>Bestikkelse af en offentlig Forsvarer indstllrnker ikke den Sigtedes Ret til selv at<lb />
+drage Omsorg for sit Forsvar.</p>

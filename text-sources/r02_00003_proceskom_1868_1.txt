@@ -1,0 +1,29 @@
+0
+<pb n="3" />
+<title>II</title>
+<title>Andet Afsnit.</title>
+<p>Om Rævningernes Kaldelse...................     §§ 60-93.</p>
+<p>Kapitel I.</p>
+<p>Almindelige Bestemmelser...........................................................       §§ 60—65.</p>
+<p>Kapitel II.</p>
+<p>Grundlisterne....................................................................       §§ 66-71.</p>
+<p>Kapitel III.</p>
+<p>Rævningekredsens Aarsliste........................................................        §s 72-76.</p>
+<p>Kapitel IV.</p>
+<p>Rævningerne for den enkelte Samling...............   ...............................        §§ 77—93.</p>
+<title>Tredie Afsnit.</title>
+<p>Om den offentlige Anklagemyndigheds Ordning........    §s 94-104.</p>
+<title>Fjerde Afsnit.</title>
+<p>Om Politimyndighedens Ordning...............   §§ 105-110.</p>
+<title>Femte Afsnit.</title>
+<p>Om Sagsøretvæsenet......................  §§ 111-145.</p>
+<p>Kapitel I.</p>
+<p>Om Sagføreres Bestikkelse øg deres Adgang til at benytte Fuldmægtig m. m................    §§ 111—123.</p>
+<p>Kapitel II.</p>
+<p>Om Sagførernes Rettigheder og Pligter............................................    §§ 124—133.</p>
+<p>Kapitel III.</p>
+<p>Om Ophør af Retten til Sagførervirksomhed........................................    §§ 134—136.</p>
+<p>Kapitel IV.</p>
+<p>Om Sagførersamfund og Sagførerraad..............................................    §§ 137—145.</p>
+<title>Sjette Afsnit.</title>
+<p>Lovens Træden i Kraft.   Overgangsbestemmelser.......  §§ 146-153.</p>

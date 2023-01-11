@@ -1,0 +1,127 @@
+2269
+<pb n="398" >
+<p rend="page">398</p>
+<h>
+<coll>2269</coll>
+<colr>2270</colr><lb />
+<topleft>1849</topleft>
+<topmidle>
+Beretning om Forhandlingerne paa Rigsdagen.</topmidle>
+<topright>
+No. 288.<lb />
+</topright>
+</h>
+<leftside>
+<stitle>
+85de offentlige Møde.<lb />
+(Det 89de Møde i den hele Række.)<lb />
+</stitle>
+<subtitle>
+Torsdagen den 29de Marts.<lb />
+</subtitle>
+<p>
+(Den foreløbige Behandling af Grundloven. §§ 30—36.)<lb />
+</p>
+<firstlineinfo>
+Forhandlingsprotocollen for forrige Møde blev oplæst.<lb />
+</firstlineinfo>
+<p>
+<speaker>Formanden anmeldte:</speaker><lb />
+1) En Continuations-Aoresse, indleveret af Rigsdagsmanden for<lb />
+Aarhuus Amts 2det District (Otterstrøm), mev 42 Underskrifter<lb />
+fra Aaby, Harlev og Framlev Sogne, om at ingen Indskrænkning ønskes i Valgretten og Valgbarheden efter det forelagte Grundlovsudkast.<lb />
+2) En Adresse, indleveret af Rigsdagsmanden for Sorø Amts 1ste<lb />
+District (Hækkerup), med 64 Underskrifter fra Rirkeflinterup<lb />
+Sogn, om samme Gjenstand.<lb />
+3) En Forespørgsel til Ministeriet fra Rigsdagsmanden for Randers Amts 3die Disttict (Dahlerup), om det er at vente, at<lb />
+samtlige tydske Havne ved Nordsøen og Østersøen ville, selv<lb />
+uden foregaaende Bekjendgiørelse derom, blive blokerede samtidig<lb />
+med Fiendtlighedernes Begyndelse til Lands.<lb />
+</p>
+<p>
+Man gik herefter ifølge Dagsordenen over til den fortsatte foreløbige Behandling af Grundlovssagen, og da først til det endnu ikke<lb />
+behandlede Forslag til Udkastets §§ 30—36.<lb />
+</p>
+
+<p>
+<speaker>Grundtvig:</speaker> Jeg hørte iaftes et Foredrag af en æret Rigsdagsmand og Pennefører heri Huset, som forsaavidt huede mig<lb />
+meget godt, at han udtalte den Sandhed, som vist trænger høit til<lb />
+at høres og lægges paa Hiertet, at om det end kun gialdt for os at<lb />
+indrette et nyt Lovgivningsmaskineri, saa være vi dog i den Henseende Allesammen saa usikkre, at vi hartad allerede derfor maatte<lb />
+frygte, og saa maa dog i alt Fald Daarskaden være iøinefaldende, dersom man her vilde gaae ind paa at indrette det efter et blot Hiernespind, eller dersom vi i blinde vilde arbeide efter fremmede Mønstre, der ikke engang have staaet deres Prøve i deres Hient og vilde<lb />
+rimeligviis slet ikke passe her til Tid og Sted. Ja, det huede mig<lb />
+visseligen, men hvad der forundrede mig storligen, det var, at den<lb />
+samme Taler ikke ad den Vei kom til at stemme overeens med den<lb />
+28de Kongevalgte (Tscherning) og mig, om at vi skulle udelade af<lb />
+Grundloven alle faste Besiemmelser baade om Rigsdagens Sammensætning og om Valgretten og om Valgmaaden, for saavidt det stod<lb />
+til os, ikke at giøre det urokkeligt, hvad vi iforveien kunne see,<lb />
+ingenlunde fortjener at være det, og jeg undrede mig dobb$$t over<lb />
+at den samme ærede Taler kunde somme til den Slutning, uagtet alt<lb />
+det Farlige ved at arbeide efter Hjernespind og fremmede Mønstre,<lb />
+uagtet al vor Uerfarenhed i saa Henseende, at vi dog kunde forsvare,<lb />
+frit og bristigen at gjøre det Forslag nagelfast, som kom fra den 1ste<lb />
+Kongevalgte (Andræ), da Eetkammersystemet aabeubart var det bedste,<lb />
+og han ganske sikkert troede, at naar det blev sat i Værk, saa vilde det<lb />
+blive gavnligt.<lb />
+</p>
+<p>
+Nu, mine Herrer! kunne de jo vistnok ikke vente, at jeg, efterat<lb />
+have erklæret det og fra Begydelsen af har sagt, at mit Hovedøiemed i denne Sag skulde være at virke til Udeladelse i Grundloven<lb />
+af al Fastsættelse om Folkeraadets Sammensætning, om Valgretten<lb />
+og Valgmaaden, kunne de ikke vente, at jeg skulde have forandret<lb />
+mine Tanker derom, mine Tanker, saaledes som jeg har sagt dem,<lb />
+</p>
+</leftside>
+<rightside>
+<p>
+grundet paa hvad fornævnte Taler udhævede om den Usikkerhed, om<lb />
+den for os Alle aabenbare Usikkerhed, om det, hvad der virkelig er det<lb />
+Ønskelige, og fremfor Alt om hvad der kunde blive der Gavnligste<lb />
+fra Slægt til Slægt, og især paa Grund af den aabenbare Uenighed<lb />
+imellem os selv om hvad der for Øieblikket kunde være, om ikke det Gavnligste, saa dog det Taaleligste, den aabenbare Usikkerhed, den aabenbare<lb />
+Uenigheb der jo er saa stor, at jeg tvivler om, at nogen Mand i Salen bedre<lb />
+end jeg kan forudsee Noget, der har Lighed med Eenstemmighed om<lb />
+noget af alle de Forslag, vi have hørt fremkomme, kan forudsee, at<lb />
+dette ikke vil skee, for vi blive saa trætte og sløve at vi endelig, for<lb />
+at saae Ende paa Sagen, sagde „Ja" i Fortvivlelse. Derfor kan<lb />
+der hos mig ingenlunde være den Indbining, at jeg i mit Forslag<lb />
+skulde fremsætte Noget, der enten vil fortjene almindeligt Bifald eller<lb />
+vil finde det; det kunde ikke engang være mit Ønske at det skulde<lb />
+komme til at staae i Grundloven. Det har kun været mit Ønske,<lb />
+at det maatte forsaavidt tækkes Forsamlingen, at den tog det<lb />
+som en Prøve, en Prøve indtil videre, som en Udvei af Vanskelighede, indtil Erfaring har lært os noget Bedre og bragt lidt<lb />
+mere Enighed tilveie.<lb />
+</p>
+<p>
+Naar jeg derfor har foreslaaet og fremdeles nu foreslaaer en<lb />
+Tvedeling af Folkeraadet, da er det jo en afgiort Sag imellem os,<lb />
+at det er ikke af den mindste Forkjærlighed for nogetsomhelst Tokammersystem i den hele Verden, og endnu langt mindre er det af den<lb />
+modsatte Lyst til ad en Omvei at undgaae den almindelige Valgret<lb />
+eller at gjøre den, hvad man kalder uskadelig. Nei, jeg tilraader<lb />
+kun en Tvedeling af Folkeraadet, fordi jeg troer, at vore spændte<lb />
+Forhold og en ikke ringe Ængstelighed hos Befolkningen for den<lb />
+nye borgerlige Tilstand, at de kræve noget Saadant, at de kræve en<lb />
+Tvedeling, naar det kun bliver en, som uden at indskrænke Valgretten dog faaer Noget at betyde, og at derved dog ingenlunde reises et nyt Skillerum mellem Dannemænd, men kun alene alle de gamle<lb />
+Skillerum slaaes sammen til Eet, forsynet med Port og Dør, saa der<lb />
+bliver den bedste Leilighed for dem paa begge Sider, baade til giensidigt Vekjendtskab og til gjensidig Vexelvirkning, og tillige den stærkeste Opfordring til, saasnart de paa begge Sider tor, ogsaa at lade<lb />
+dette sidste Skillerum falde, og til at samles i Raadet ligesom paa<lb />
+Marken til et saa udeleligt, saa frit og saa enigt et Folk, som fiudes<lb />
+kan i denne Verden. En saadan Tvedeling har jeg nemlig ingenlunde kunnet finde enten i Udkastet eller i hvad vore Nævninger<lb />
+ellers have tilraadet. Vel har jeg ogsaa i min Ungdom været smittet af den tydske Lyst til at skabe den hele Verden eller dog den lille<lb />
+danske Deel af Verden om efter mit Hoved; men jeg har ladet mig<lb />
+det lære, især af Engelskmanden, at det baabe er meget klogere og<lb />
+betaler sig meget bedre at tage Verden, som den nu engang er, og<lb />
+at see til at gjøre sig den saa nyttig, som man kan; og desuden har<lb />
+jeg lært af de Gamle, hvad jeg ikke har fundet det lønnede sig at<lb />
+glemme over de nye Viismænd: jeg har lært af dem, at skal man<lb />
+være med at give et Folk Love, saa skal man ingenlunde lægge an<lb />
+paa at give det de bedste, man kan optænke, men stræbe at give det<lb />
+de bedste, de kunne og ville taale. Nu seer ikke blot jeg, men sikkert<lb />
+vi Allesammen, at for Øieblikket er vor lille danske Verden deel<lb />
+mellem to for Øieblikket stridende og som det synes uforenelige Anskuelser; den ene er Bøndernes og Bondevennernes Anskuelse af Ligheden, og, jeg negter det ikke — en tvetydig Lighed — som det borgerlige Selskabs Grundlov; den anden er Kjøbstadborgerens, Herremandens, de fleste Præsters og de andre Embedsmænds og vel de<lb />
+Flestes Anskuelse, som ere foenemme, oplyste og dannede, af en ikke<lb />
+</p>
+</rightside>
+
+
+</pb>

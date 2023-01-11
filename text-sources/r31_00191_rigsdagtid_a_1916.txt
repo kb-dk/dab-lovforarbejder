@@ -1,0 +1,57 @@
+607
+<pb n="191" />
+<h>
+<coll>
+1916.
+</coll>
+<topmidle>607</topmidle>
+<colr>
+l5de April.
+</colr>
+</h>
+<title>Nr. 90. 11te April.</title>
+<p>
+Efterforskningen, og Sagen henlægges med Påtegning om Grunden. Hvis Meddelelsen<lb />
+til Politimesteren om den Omstændighed, der foranlediger Sagens Henlæggelse, ikke<lb />
+er sket gennem Overanklageren, gør Politimesteren Indberetning om det passerede til<lb />
+denne, for så vidt Sagen hører under hans Virkekreds.
+</p>
+<wtitle>§ 812.</wtitle>
+<p>
+Findes Efterforskningens Øjemed at være opnået, tager vedkommende Embedsmand Beslutning om Sagens Forfølgning ved Retten i Overenssstemmelse med de<lb />
+i det følgende givne Regler eller om Efterforskningens Afslutning ved Sagens Henlæggelse. Henlægges Sagen, vedtegnes Grunden.
+</p>
+<p>
+Er Politimesteren påtaleberettiget i Henhold til § 721, tilkommer det ham<lb />
+at tage de ovennævnte Beslutninger. Hører Sagen under Overanklagerens Virkekreds,<lb />
+har Politimesteren at begære retslig Forundersøgelse, når han ifølge Efterforskningens Resultat finder Anledning dertil, og gør derom Indberetning til Overanklageren;<lb />
+ellers indsender han Sagen til Overanklageren, der tager fornøden Beslutning om yderligere Efterforskning, Begæring om Forundersøgelse, Tiltale eller Sagens Henlæggelse.
+</p>
+<wtitle>§ 813.</wtitle>
+<p>
+Får Politimesteren, efter at Tiltale er rejst i en under Overanklagerens Virkekreds hørende Sag, Kundskab om Omstændigheder, der opfordrer til yderligere Efterforskning, og Forholdene ikke tilsteder at indhente Overanklagerens nærmere Bestemmelse, foretager han på egen Hånd de Efterforskningshandlinger, han skønner fornødne, og gør derefter uopholdelig Indberetning til Overanklageren om det foretagne.<lb />
+Under en sådan genoptagen Efterforskning kan Politimesteren, om fornødent, overensstemmende med § 809 rette Begæringer til en anden Undersøgelsesret om Foretagelse af enkeltstående Retshandlinger (jfr. § 820, 3die Stykke).
+</p>
+<wtitle>§ 814.</wtitle>
+<p>
+Klage over formentligt Myndighedsmisbrug fra Politiets Side under Efterforskning kan fremsættes for Undersøgelsesretten i den Kreds, hvor den påklagede<lb />
+Handling har fundet Sted, eller for den Ret, hvis Virksomhed påkaldes mod Klageren,<lb />
+eller ved hvilken Sag om den Lovovertrædelse, der var Genstand for Efterforskning,<lb />
+tingfæstes.
+</p>
+<p>
+Undlader Politiet i de i denne Lovs §§ 746 og 758, jfr. 773, §§ 774 og 783<lb />
+omhandlede Tilfælde at forelægge Sagen for Retten inden de foreskrevne Frister, skal<lb />
+Underretsdommeren på det Sted, hvor Beslaglæggelsen, Ransagningen, Anholdelsen<lb />
+eller Fængslingen er sket, når det ved Klage fra den forurettede eller på anden<lb />
+Måde kommer til hans Kundskab, indkalde Politimesteren til at afgive nærmere Forklaring og kan efter Omstændighederne ophæve den trufne Foranstaltning. Undlader<lb />
+Politimesteren at give Møde uden oplyst lovligt Forfald, ophæves Foranstaltningen
+straks ved Kendelse.
+</p>
+<p>
+Pålæg af Bøder i Henhold til §§ 194 og 212 kan ophæves af Underretskredsens Dommer eller af den Ret, ved hvilken Sag om den Lovovertrædelse, der var<lb />
+Genstand for Efterforskningen, tingfæstes.
+</p>
+<title>
+Nr. 90. Lov af 11. April om Rettens Pleje.
+</title>

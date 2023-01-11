@@ -1,0 +1,52 @@
+3459
+<pb n="48" />
+<h>
+<coll>3459</coll>
+<topmidle>Aorsl. t. L. om den borgerlige Retsplete«</topmidle>
+<colr>3460</colr>
+</h>
+<wtitle>§ 77.</wtitle>
+<p>Rettens Bestemmelse, at Dorene skulle lukkes, sker ved upaaankelig Kjendelse, efterat<lb />
+Parterne have havt Leilighed til at udtale sig.    Kjendelsen afsiges offentligt.</p>
+<p>Bestemmelse om, at Dorme stulle lukkes, kan træffes saavel ved Forhandlingens Be-<lb />
+gyndelse som i løbet af denne; den kan strax eller senere indstrænkes til en Del af For-<lb />
+handlingerne.</p>
+<wtitle>§ 78.</wtitle>
+<p>Retsmøder afholdes ikke om Son- og Helligdage, undtagen i paatrcrngende Tilfælde<lb />
+og selv da ikke i Tiden fra Kl. 9 Formiddag til Kl. 4 Eftermiddag.</p>
+<p>Rettens Formand afgjør uden Paaanke, om Tilfældet er paatrængende.</p>
+<wtitle>§ 79.</wtitle>
+<p>Af Retsskriveren fores en Sagliste, paa hvilken Sagerne optages i den Orden, hvori<lb />
+de indkomme.</p>
+<p>For hver enkelt Retsdag afsattes af Rettens Formand med Retsskriverens Bistand<lb />
+en Retsliste, paa hvilken optages de Sager, som i Henhold til stedfundne Berammelser eller<lb />
+Udsættelser skulle komme for.</p>
+<p>Retslisten indfores strax i en Protokol, i hvilken samtlige Retslister efterhaanden<lb />
+samles, og den bekjendtgjores ved Opslag i Retslokalet mindst 3 Dage forud for Netsdagen.<lb />
+Naar dertil er Anledning (jfr. nedenfor og § 172), kan der dog indtil Aftenen forinden denne<lb />
+gjores Forandring i eller Tillæg til Retslisten.</p>
+<p>Rettens Formand afgjor, i hvilken Orden de Sager, der ere ansætte til Forhandling<lb />
+paa samme Retsdag, skulle foretages. Sager, som ikke naa at komme til Forhandling, overgaa<lb />
+uden videre paa Retslistm for næste Retsdag, medmindre Formanden bestemmer anderledes.</p>
+<p>Rettens Formand er bemyndiget til at udslette en Sag af Retslisten og overfore<lb />
+den paa Retslisten for en af de paafolgende Retsdage, dog at Udfættelsen ikke overskrider en<lb />
+Uge, naar der er Grund til at antage, at Sagen enten af Hensyn til Rettens Forretninger,<lb />
+Dommerpersonalet eller andre Aarfager, saasom Forhindringer for Sagførere. Parter, Vidner,<lb />
+Synsmoend eller desl., ikke vil kunne forhandles paa den oprindelig fastsætte Tid. Oplysnin-<lb />
+ger i denne Henseende kunne baade mundtligt og skriftligt meddeles Rettens Formand, saavel<lb />
+under Retsmøder som udenfor disse.</p>
+<p>Naar en Sag ifølge denne Paragraf overfores paa Retslisten for en folgcnde Rets-<lb />
+dag, lader Nettens Formand, for at forebygge forgjceves Moder, alle Vedkommende saa hurtigt<lb />
+som muligt underrette derom.</p>
+<wtitle>§ 80.</wtitle>
+<p>Naar Hensyn til Retspersonalet eller Rettens ovrige Forretninger kroever det, kan<lb />
+Formanden afbryde begyndte Netsmøder eller afsige eller udsætte berammede Netsmoder,<lb />
+hvorom da Underretning snarest muligt bliver at give alle Vedkommende.</p>
+<p>Naar et Retsmode ophorer til fastsat Klokkestet eller ifolge Nettens Bestemmelse,<lb />
+fortsættes afbrudte Forhandlinger i det noeste paafølgende Retsmode, medmindre Rettens For-<lb />
+mand bestemmer anderledes. Afsiges eller udsættes et berammet Retsmode, overgaa Sagerne<lb />
+til det noeste Retsmode, der holdes, medmindre særlig Bestemmelse træffes om en anden Tid<lb />
+til deres Foretagelse.</p>
+<wtitle>§ 81.</wtitle>
+<p>Rettens Formand vaager over, at Forhandlingerne foregaa med den tilborlige Orden<lb />
+og værdighed.   Han er til den Gnde berettiget til at afbryde og tilrettevise Parterne, Vidnerne</p>

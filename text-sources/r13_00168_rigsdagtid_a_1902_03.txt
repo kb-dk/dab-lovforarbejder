@@ -1,0 +1,75 @@
+2063
+<pb n="168" />
+<h>
+<coll>
+2063
+</coll>
+<topmidle>
+Forsl. t. L. om Rettens Pleje.
+</topmidle>
+<colr>
+2064
+</colr>
+</h>
+<wtitle>§  762.</wtitle>
+<p>
+For enhver Afgørelse skal der være Stemmeflerhed. Kræver Afgørelsen Af-<lb />
+stemning over flere Punkter, ere de Dommere, som have befundet sig i Mindretal,<lb />
+pligtige at deltage i de senere Afstemninger, for saa vidt det modsatte ikke særlig er<lb />
+bestemt.
+</p>
+<p>
+Danner der sig om det samme Spørgsmaal flere end to forskellige Meninger,<lb />
+af hvilke ingen er i Flertal, blive de for Sigtede ugunstigste Stemmer regnede sammen<lb />
+med de nærmeste mindre ugunstige, indtil der udkommer Stemmeflerhed.
+</p>
+<p>
+Er det tvivlsomt, hvilken Mening der er den ugunstigste for Sigtede, eller<lb />
+opstaar der Meningsforskel om, hvorledes Spørgsmaalene skulle stilles, eller om Af-<lb />
+stemningens Resultat, bliver der afstemt særskilt herom.
+</p>
+<wtitle>§  763.</wtitle>
+<p>
+Domme og Kendelser skulle afsiges i Retsmøder og ledsages af Grunde. Af-<lb />
+gørelsen sker ved Kendelse i de Tilfælde, hvor denne Form er særlig foreskrevet,
+</p>
+<p>
+Andre Beslutninger af Retten eller Rettens Formand behøve ikke at begrundes,<lb />
+medmindre saadant særlig er foreskrevet. Saadanne Beslutninger saa vel som Kendelser<lb />
+af blot procesledende Beskaffenhed kunne omgøres, naar ny Oplysninger foreligge.
+</p>
+<wtitle>§  764.</wtitle>
+<p>
+1 de Tilfælde, hvor en efter Loven tilstedelig Afvigelse fra de almindelige<lb />
+Regler betinges af en forudgaaende Beslutning af en Ret, ved hvilken den Sag, med<lb />
+Hensyn til hvilken Spørgsmaalet opstaar, ej er tingfæstet, bliver Spørgsmaalet skriftlig<lb />
+at forelægge Retten. Er denne Højesteret eller en Landsret, træffes Afgørelsen af<lb />
+Formanden med to Medlemmer af Retten eller, hvor saadant særlig er bestemt, af<lb />
+Formanden. Retten tager Beslutning paa Grundlag af det forelagte samt de yder-<lb />
+ligere Oplysninger og Erklæringer, som maatte være indhentede; findes det nødven-<lb />
+digt, at Vidner afhøres, sker dette ved en Undersøgelsesret, Mundtlig Forhandling<lb />
+finder ikke Sted, medmindre Formanden af særegne Grunde finder Anledning til at<lb />
+beslutte en saadan; dog er Retsmødet i saa Fald ikke offentligt. De i denne Paragraf<lb />
+ommeldte Afgørelser kunne ikke paaklages for højere Ret,
+</p>
+<wtitle>§  765.</wtitle>
+<p>
+Retten kan til enhver Tid i Embeds Medfør eller ifølge Begæring berigtige<lb />
+Skrivefejl, som ere indløbne i Henseende til Ord, Navne eller Tal, blotte Regnefejl,<lb />
+samt saadanne Fejl og Forglemmelser, der alene vedrøre Udfærdigelsens Form.
+</p>
+<p>
+Fremdeles kan den ogsaa, naar Begæring derom fremkommer inden Anke-<lb />
+fristens Udløb, og efter at der er givet Parterne og deres Sagførere Lejlighed til at<lb />
+ytre sig derom, berigtige den i Afgørelsen indeholdte Fremstilling af den faktiske<lb />
+Sammenhæng, for saa vidt denne erkendes at lide af Fejl, bestaaende i Forbigaaelser,<lb />
+Uklarheder eller Modsigelser, men derimod ikke i øvrigt foretage Forandringer enten<lb />
+i Begrundelsen eller Resultatet. Beslutning angaaende slige Berigtigelser træffes, og<lb />
+Meddelelse om dem sker efter de samme Regler, som gælde for den oprindelige<lb />
+Afgørelse.
+</p>
+<p>
+Den i Henhold til Rettens Beslutning berigtigede Afgørelse træder i alle Hen-<lb />
+seender i Stedet for den oprindelige. Beslutning angaaende Berigtigelse er ikke Gen-<lb />
+stand for Anke eller Kære.
+</p>

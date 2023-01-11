@@ -1,0 +1,162 @@
+199
+<pb n="136">
+<pagename>136</pagename>
+<h>
+<coll>199</coll>
+<colr>200</colr>
+<lb/>
+</h>
+<leftside>
+<subtitle>
+Første Afdeling:<lb/>
+af 30 Medlemmer.<lb/>
+</subtitle>
+<namelist>
+G. Ågård, af Lolland	Maribo A. 3. D.<lb/>
+Bagger	Thisted A. 4. D.<lb/>
+Barfod	Præstø A. 7. D.<lb/>
+Bergmann	2. Kongevalgt.<lb/>
+Bjerring 3.	Kongevalgt.<lb/>
+Brandt	5. Kongevalgt.<lb/>
+Brunn, af Assens 	4. Kongevalgt.<lb/>
+P. D. Bruum, af Kjøbenhavn	Randers A. 5. D.<lb/>
+Bunsen	Frederiksborg A. 3. D.<lb/>
+Clausen	10. Kongevalgt.<lb/>
+la Cour	Randers A. 4. D.<lb/>
+Frølund	Sorø A. 3. D.<lb/>
+Funder	14. Kongevalgt.<lb/>
+Mørk Hansen	Maribo A. 5. D.<lb/>
+Hvudt	Kjøbenhavn 10. D.<lb/>
+Hækkerup	Sorø A. 1.D.<lb/>
+Jespersen, af Grønnebjerggård	Holbek A. 4. D.<lb/>
+C. M. Jespersen, af Viborg	Ålborg A. 5. D.<lb/>
+Kayser	Kjøbenhavn 8. D.<lb/>
+Krieger	Kjøbenhavns A. 4. D.<lb/>
+Linnemann	Randers A. 2. D.<lb/>
+Lorck	Kjøbenhavns A. 5. D.<lb/>
+Lüttiauch	18. Kongevalgt.<lb/>
+Olesen	Maribo A. 4. D.<lb/>
+C. R. Petersen,	af Hjørring	Ringkjøbing A. 3. D.<lb/>
+Sigurdssom	Island 5.<lb/>
+Thalbitzer	Kjøbenhavns A. 3. D.<lb/>
+Ørsted	Kjøbenhavn 3. D.<lb/>
+	Kjøbenhavns A. 2. D.<lb/>
+	Præstø A. 4. D.<lb/>
+</namelist>
+<subtitle>
+Anden Afdeling:<lb/>
+af 31 Medlemmer.<lb/>
+</subtitle>
+<namelist>
+Andresen	Holdek A. 6. D.<lb/>
+Bang	Veile A. 1. D.<lb/>
+Black	Maribo A. 2. D.<lb/>
+M. P. Bruun, af Bruundhåb	Viborg A. 3. D.<lb/>
+Balthazar Christensen	Maribo A. 1. D.<lb/>
+Georg Christlensen, af Kjøbenhavn	8 Kongevalgt.<lb/>
+Dinsen	Odense A. 4. D.<lb/>
+I. C. Drewsen,	af Kjøbenhavn	Frederiksborg A. 2. D.<lb/>
+Eriksen	Ålborg A. 4. D.<lb/>
+Fibiger	13. Kongevalgt.<lb/>
+Gregersen	Holbek A. 2. D.<lb/>
+L. Hansen, af Bjelkerup	Præstø A. 1. D.<lb/>
+F. Jespersen, af Bogense	Odense A. 6. D.<lb/>
+F. Johansen, af Houby	Præstø A. 2. D.<lb/>
+H. C. Johansen, af Østrup	Odense A. 7. D.<lb/>
+Johnsen	Island 3.<lb/>
+Sehestedt-Juel	16. Kongevalgt.<lb/>
+Chr. Larsen, af Dalby	Odense A. 8. D.<lb/>
+I. G. Larsen, af Kjøbenhavn	Kjtøbenhabn 7. D.<lb/>
+Mundt	Sorø A. 2. D.<lb/>
+Paludan-Müller	Odese A. 1. D.<lb/>
+R. N. Møller, af Draaby	Frederiksborg A. 4. D.<lb/>
+R. H. Nielsen, af Løserup	Holbek A. 5. D.<lb/>
+Rée	Randbers A. 6. D.<lb/>
+Scavenius	24. Kongevalgt.<lb/>
+Schlegel	25. Kongevalgt.<lb/>
+Schouw	Randers A. 1. D.<lb/>
+Schytte	Skanderborg A. 2. D.<lb/>
+Tobiesen	Ribe A. 1. D.<lb/>
+Treschow	29. Kongevatgt.<lb/>
+Westergaard	Hølbek A. 1. D.<lb/>
+
+</namelist>
+</leftside>
+<rightside>
+<subtitle>
+Tredie Afdeling:<lb/>
+af 30 Medlemmer.<lb/>
+</subtitle>
+<namelist>
+Buchwald	6. Kongevalgt.<lb/>
+I. Christensen, af Voldum	9. Kongevalgt.<lb/>
+Duntzselt.	Kjøbenhavn 5. D.<lb/>
+Fløe	Ringkjøbing A. 4. D.<lb/>
+Gislason	Island 2.<lb/>
+Gudmundsson	Island 1.<lb/>
+Hall	Kjøbenhavns A. 1. D.<lb/>
+P. Hansen,	af Abbetved	Kjøbenhavns A. 6 D.<lb/>
+Hastrup	Hjørring A. 1. D.<lb/>
+H. Johansen af Knardrup	Frederiksborg A. 5. D.<lb/>
+Jørgensen	Veile A. 5. D.<lb/>
+Madvig	Bornholms A. 2. D.<lb/>
+Nørgård	Viborg A. 1. D.<lb/>
+Ostenseldt	21. Kongevalgt.<lb/>
+Oxholm	22. Kongevalgt.<lb/>
+I. Pedersen,	af Sæding	Ringkjøbing A. 5. D.<lb/>
+B. Petersen, af Kjøbenhavn	23. Kongevalgt.<lb/>
+Ploug	Veile A. 2. D.<lb/>
+Schack	Præstø A. 3. D.<lb/>
+Schroll	Præstø A. 5. D.<lb/>
+Brinck-Seidelin	Hjørring A. 5. D.<lb/>
+Sidenius	26. Kongevalgt.<lb/>
+Stocksleth	Veile A. 3. D.<lb/>
+Tuxen	Kjøbenhavn 11. D.<lb/>
+Tvede	Ribe A. 3. D.<lb/>
+Allgreen-Ussing	Kjøbenhavn 4. D.<lb/>
+Visby	Kjøbenhavn 6. D.<lb/>
+Wegener	30. Kongevalgt.<lb/>
+With	Veile A. 6. D.<lb/>
+Wulff	31. Kongevalgt.<lb/>
+</namelist>
+<subtitle>
+Fjerde Afdeling:<lb/>
+af 31 medlemmer.<lb/>
+</subtitle>
+<namelist>
+H. Christensen, af Veistrup	Svenddorg A. 5. D.<lb/>
+Colding	Svenddorg A. 3. D.<lb/>
+Dahlerup	Randers A. 3. D.<lb/>
+M. Drewsen,	af Silkeborg	Skanderborg A. 4. D.<lb/>
+Hage	15. Kongevalgt.<lb/>
+H. P. Hansen, af Kjøbenhavn	Kjøbenhavn 2. D.<lb/>
+I. A. Hansen, af Kjøbenhavn	Svenddorg A. 1. D.<lb/>
+N. Hansen, af Eskelunde	Ribe A. 4. D.<lb/>
+v. Haven	Thistev A. 3. D.<lb/>
+Hermannsen	Veile A. 4. D.<lb/>
+Hjort	Ålborg A. 1. D.<lb/>
+Jacobsen	Svenddorg A. 2. D.<lb/>
+Jacobæus	Viborg A. 4. D.<lb/>
+Køster	17. Kongevalgt.<lb/>
+Lützhøst	Thisted A. 2. D.<lb/>
+Madsen	Odense A. 3. D.<lb/>
+Neergård	Sørø A. 5. D.<lb/>
+Olrik	Frederiksborg A. 1. D.<lb/>
+Ostermann	Frederiksbørg A. 6. D.<lb/>
+Otterstrøm	Århuus A. 2. D.<lb/>
+Pape	Hjørring A. 4. D.<lb/>
+Cornelius Petersen, af Davinde	Odense A. 2. D.<lb/>
+Pjetursson	Island 4.<lb/>
+Pløyen	Færøerne.<lb/>
+H. Rasmussen af Egense	Maribo A. 6. D.<lb/>
+J. Rasmussen, af Svanninge	Svenddorg A. 6. D.<lb/>
+Schiern	Svendborg A. 4. D.<lb/>
+Sponnedk	28. Kongevalgt.<lb/>
+Tang	Ringkjøbing A. 1. D.<lb/>
+W. Ussing	Vidorg A. 5. D.<lb/>
+Zeuthen	32. kongevalgt.<lb/>
+ 
+</namelist>
+</rightside>
+
+</pb>

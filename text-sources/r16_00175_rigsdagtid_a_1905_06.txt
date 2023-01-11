@@ -1,0 +1,74 @@
+2253
+<pb n="175" />
+<h>
+<coll>
+2253
+</coll>
+<topmidle>Forsl. t. L. om Rettens Pleje.</topmidle>
+<colr>
+2254
+</colr>
+</h>
+<p>
+Fængsling kan endelig besluttes, naar den anses nødvendig for at hindre en<lb />
+Person, som sigtes for det i Straffelovens § 299 ommeldte Forhold, i at bringe sin<lb />
+Trusel til Udførelse,
+</p>
+<wtitle>§ 758.</wtitle>
+<p>
+Under Efterforskning kan Fængsling besluttes af en hvilken som helst Under-<lb />
+søgelsesret, for hvilken Tiltalte er fremstillet. Ellers tages Beslutning om Fængsling<lb />
+af den Ret, ved hvilken Forundersøgelse er indledet eller Tiltale rejst (jfr. § 842),<lb />
+eller for hvilken Sagen er indanket. Naar Sigtede er anholdt, og det antages,<lb />
+at han ikke saa betimeligt vil kunne fremstilles for den nævnte Ret, at Fængslings-<lb />
+kendelse der kan blive afsagt inden Udløbet af den Frist, i hvilken en Person kan<lb />
+forblive under Anholdelse, kan Fængslingskendelse afsiges af en hvilken som helst<lb />
+Undersøgelsesret, for hvilken han fremstilles. Af Kendelsen og det i den Anledning<lb />
+Retsbogen tilførte tilstilles der i saa Fald den Ret, ved hvilken Sagen svæver, Udskrift.
+</p>
+<wtitle>§ 759.</wtitle>
+<p>
+Enhver Kendelse om Fængsling eller Forlængelse af samme skal, foruden<lb />
+Sigtedes Navn og den i øvrigt nøjagtigst mulige Betegnelse af ham, angive Sigtelsens<lb />
+Genstand og de Grunde, hvorpaa Fængslingen støttes. Udskrift meddeles paa For-<lb />
+langende den fængslede inden 24 Timer.
+</p>
+<p>
+Er Sigtede til Stede i Retten ved Kendelsens Afsigelse, oplæses den for ham.<lb />
+Er han ikke til Stede, overgives en Udskrift af Retsbogen Politiet til Iværksættelse.<lb />
+Ved denne finde Reglerne i §§ 747, 749 og 750 tilsvarende Anvendelse.
+</p>
+<wtitle>§ 760.</wtitle>
+<p>
+Er Fængslingskendelsen afsagt, uden at den fængslede har været hørt an-<lb />
+gaaende Sigtelsen, skal Afhørelse for Retten finde Sted inden 24 Timer efter Paa-<lb />
+gribelsen eller Indbringelsen i Riget, eller efter at Hindringen for hans Fremstilling<lb />
+er ophørt, jfr. § 752.
+</p>
+<p>
+Den fængslede hensættes saa vidt muligt i Varetægtsfængslet paa det Sted,<lb />
+hvor Sagens første Behandling foregaar. Om hans senere Henbringelse til andet<lb />
+Varetægtsfængsel tager vedkommende Rets Formand Beslutning.
+</p>
+<wtitle>§ 761.</wtitle>
+<p>
+Den fængslede er undergiven de Indskrænkninger, som ere nødvendige til<lb />
+Sikring af Fængslingens Øjemed eller til Opretholdelse af Fængselsordenen, overens-<lb />
+stemmende med derom givne Bestemmelser. Særlig fastsættes følgende Regler med<lb />
+Hensyn til den fængsledes Behandling:
+</p>
+<p>
+1)	Varetægtsfanger maa ikke uden eget Samtykke sættes sammen med Fanger,<lb />
+der udstaa Straf, afsone Bøder ell. desl., og heller ikke sammen med andre Varetægts-<lb />
+fanger, medmindre deres Alder, Legenis- eller Sindstilstand gør Afsondring utilraadelig,<lb />
+eller Pladsmangel umuliggør Afsondring.
+</p>
+<p>
+2)	Hvor vidt andre end de ved Fængslet ansatte skulle have Adgang til Fangen,<lb />
+beror paa Rettens Formand, jfr. dog med Hensyn til Forsvarere § 715. Tilladelse til,<lb />
+med de Indskrænkninger, som Fængselsordenen kræver, og under saadant Opsyn, som<lb />
+Rettens Formand finder fornødent, at modtage Besøg af en Læge eller Præst efter<lb />
+eget Valg, af Slægtninge eller af Personer, som staa i Forretningsforhold til Fangen,<lb />
+eller med hvem han ønsker at raadføre sig, bør kun nægtes, naar særlige Omstændig-<lb />
+heder give Grund til at frygte, at deraf vil opstaa Skade for Undersøgelsen.
+</p>
