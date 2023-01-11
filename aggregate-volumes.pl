@@ -9,11 +9,11 @@ my $end   = '</TEI>';
 
 my $last_vol = "new";
 
-open my $PAGES,"find DAB-lovforarbejder-txt -type f -name '*.txt' -print | sort |" or die "cannot open pipe from find: $@ \n";
+open my $PAGES,"find text-sources -type f -name '*.txt' -print | sort |" or die "cannot open pipe from find: $@ \n";
 
 while(my $file = <$PAGES>) {
     chomp $file;
-    $file =~ m/(lovforarbejder-txt\/)(.+?)(.txt$)/;
+    $file =~ m/(text-sources\/)(.+?)(.txt$)/;
     my $page_id = $2;
 
     # print "$page_id\n";
