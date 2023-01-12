@@ -1,7 +1,7 @@
 208
 <pb n="214" />
 <title>Andet Afsnit.</title>
-<undertitloe>Om Procesmåden ved Landsretterne.</undertitle>
+<undertitle>Om Procesmåden ved Landsretterne.</undertitle>
 <p>Kapitel I.          Sibe.</p>
 <p>Om de Skrifter, som vexses« mellem Parterne, og um de Sfrifter, som skulle forelagges Retten<lb />
 forinden den mundtlige Forhandlings Begnnbelse.......................------        76—85.</p>
