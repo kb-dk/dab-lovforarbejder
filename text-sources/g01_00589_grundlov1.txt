@@ -14,22 +14,6 @@ behørig Anmeldelse om de confirmerede Drenge.<lb/>
 </p>
 <p>
 De, der paa den Tid, nærværende Anordning træder i Kraft,<lb/>
-alt ere confirmerede, men ei endnu h<pb n="589">
-<p rend="page">589</p>
-<h>
-<coll>1105</coll>
-<colr>1106</colr>
-<lb/>
-</h>
-<leftside>
-<p>
-10) Lovudkastets § 9 (med Forandringer):<lb/>
-Enhver Mandsperson bliver, saasnart han er confirmeret, at<lb/>
-indføre i Lægdsrullen, til hvilken Ende Sognepræsten har at gjøre<lb/>
-behørig Anmeldelse om de confirmerede Drenge.<lb/>
-</p>
-<p>
-De, der paa den Tid, nærværende Anordning træder i Kraft,<lb/>
 alt ere confirmerede, men ei endnu have opnaaet 23 Aars Alderen,<lb/>
 have, forsaavidt de ikke allerede ere optagne i Rullerne, i Løbet af 4<lb/>
 Uger fra den Tid, nærværende Lov er traadt i Kraft, at anmelde<lb/>
@@ -156,7 +140,7 @@ men derimod Politikassen. Men herimod har jeg at anføre. at § 16<lb/>
 </p>
 </rightside>
 </pb>
-ave opnaaet 23 Aars Alderen,<lb/>
+<!-- ave opnaaet 23 Aars Alderen,<lb/>
 have, forsaavidt de ikke allerede ere optagne i Rullerne, i Løbet af 4<lb/>
 Uger fra den Tid, nærværende Lov er traadt i Kraft, at anmelde<lb/>
 sig hos vedkommende Lægdsforstander for at optages i Lægdsrullen<lb/>
@@ -206,3 +190,5 @@ indeholdt Følgende:<lb/>
 2)	Ræders Forslag:<lb/>
 At der imellem §§ 9 og 10 indskydes en saalydende ny<lb/>
 Paragraph: „Forsaavidt en Mulct efter nærværende Forordning (Lov) dictere</p>
+</rightside>
+-->

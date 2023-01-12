@@ -35,6 +35,8 @@ System førekomme, at en sådan Forretning<lb />
 finder Sted førend Sags Anlæg. Udkastets § 239 i Forbindelse med sjette Afsnit<lb />
 Kap. I. giver de nærmere Regler om, på<lb />
 hvilket Sted og hvorledes i så Fald Forretningen skal ske.</p>
+</leftside>
+<rightside>
 <title>Tredie Underafdeling.</title>
 <undertitle>Om Vevis ved Dokumenter.</undertitle>
 <p>I §§ 240—243 handles om Produk«<lb />
@@ -69,3 +71,4 @@ under hans Mandighed, handler § 241. Ud><lb />
 kastet går i Overensstemmelse med den gjæl«<lb />
 dende Ret, jfr,Nellemanns Procesmåde,S.621<lb />
 ff. (2den Udgave), ud fra, at der påhviler Modparten en fuldstændig Forpligtelse til at fremkomme med Dokumenterne, den såkaldte Editionsforpligtelse, således at han, forsåvidt Dokumentet indeholder Noget, som vedkommer Sagen, ikke kan fritages for Editionen, fordi Dokumentets Fremkomst kunde skade ham i Henseende  til Processens Udfald,    og   at   der i</p>
+</rightside>

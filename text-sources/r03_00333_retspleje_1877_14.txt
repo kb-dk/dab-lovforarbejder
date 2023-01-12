@@ -1,5 +1,6 @@
 327
 <pb n="<span class="result">333</span>" />
+<leftside>
 <p>denne Henseende ikke gjøres nogen Forskjel, eftersom Vedkommende er Sagsøger eller<lb />
 Sagvolder. Derimod bor der, såvidt<lb />
 muligt, drages Omsorg for, at de Dele<lb />
