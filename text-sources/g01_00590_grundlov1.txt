@@ -14,26 +14,6 @@ Jeg maa endvidere gjøre opmærksom paa, at Placaten af 19de Febr.<lb/>
 1819 vel siger, at alle Bøder, der for Politiforseelser idømmes, skulle<lb/>
 tilfalde Politikassen; men den Forseelse, som her er nævnt, er jo ikke<lb/>
 nogen Politiiforseelse, men en Forseelse i Anledning af Udskrivningsvæsenet, og kan følgeligen ikke henregnes dertil. Jeg finder det ogsaa<lb/>
-i sig selv unaturligt, at disse Mulcter skulle til falde Politisassen, da<lb/>
-denne benyttes paa en særegen Maade, idet den nemlig benyttes til<lb/>
-at belønne Sognefogder paa Landet og Politibetjente i Kjøbstæderne.<lb/>
-Jeg finder imidlertid Anvendelsen af Mulcten mere hensigtsmæssig,<lb/>
-naar den tilfalder det almindelige Fattigvæsen og ikke Politikassen,<lb/>
-thi jeg formener, at hvis Sognef<pb n="590">
-<p rend="page">590</p>
-<h>
-<coll>1107</coll>
-<colr>1108</colr>
-<lb/>
-</h>
-<leftside>
-<p rend="continue">
-i nærværende Udkast og § 11 i Forodningen af 23de Septbr. 1848<lb/>
-bestemme, at Mulcten skal tilfalde Fattigkassen, ligesom ogsaa Comiteen til § 36 har foreslaaet, at Mulcten skal tilfalde Fattigkassen.<lb/>
-Jeg maa endvidere gjøre opmærksom paa, at Placaten af 19de Febr.<lb/>
-1819 vel siger, at alle Bøder, der for Politiforseelser idømmes, skulle<lb/>
-tilfalde Politikassen; men den Forseelse, som her er nævnt, er jo ikke<lb/>
-nogen Politiiforseelse, men en Forseelse i Anledning af Udskrivningsvæsenet, og kan følgeligen ikke henregnes dertil. Jeg finder det ogsaa<lb/>
 i sig selv unaturligt, at disse Mulcter skulle tilfalde Politisassen, da<lb/>
 denne benyttes paa en særegen Maade, idet den nemlig benyttes til<lb/>
 at belønne Sognefogder paa Landet og Politibetjente i Kjøbstæderne.<lb/>
@@ -127,6 +107,7 @@ anbefale mit Sub-Amendement, der er stillet under Nr. 2 til Forsamlingens Opmær
 Trykt og forlaft af Kgl. Hofbogtykker Bianco Luno.<lb/>
 </underpage>
 </pb>
+<!-- 
 ogder og Politibetjente have udmærket sig og fortjent Belønninger, saa maae disse udredes paa en ganske<lb/>
 anden Maade; hvad Politibetjentene angaaer, da maa Communekassen og ikke Politikassen anvendes til deres Understøttelse. Alle Mulcter bør tilfalde det Offentlige, saaledes som Loven allerede har bestemt, at Mulcter nemlig skulle tilfalde Hospitaler og Fattigvæsenet.<lb/>
 Men jeg maa endnu tillade mig at gjøre en Bemærkning. Ved Forordningen af 10de Mai 1843 blev Lægdsvæsenet indrettet i Kjøbstæderne. Derved foregik altsaa nu den Forandring, at Mulcten ikke kan<lb/>
@@ -148,3 +129,4 @@ Hensyn til Stand eller Stilling. Men jeg maa dog bemærke, at<lb/>
 dette aldeles ligger i Forordningens egne Ord, naar der tales om<lb/>
 „Vedkommendes personlige Stilling,“ og naar Forordningen endnu tilføier<lb/>
 „denne Lempelighed skal dog ikke komme Nogen tilgode, medmindr</p>
+-->
