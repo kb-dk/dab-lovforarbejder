@@ -4,5 +4,5 @@ SAXON="java -jar $SAXON_JAR "
 
 PROJECTS="$HOME/projects"
 
-HERE="$PROJECTS/danish-sonnets"
-THERE="$PROJECTS/public-adl-text-sources"
+HERE="$PROJECTS/dab-lovforarbejder"
+
