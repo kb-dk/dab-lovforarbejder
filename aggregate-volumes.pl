@@ -36,6 +36,7 @@ while(my $file = <$PAGES>) {
 	my $text = "";
 	my $pp = 0;
 	while(my $line = <$source>) {
+	    next if($line =~ m/^\d+$/);
 	    next if($line =~ m/<pb/);
 	    next if($line =~ m/<\/pb/);
 	    $line =~ s/&nbsp;/ /g;
