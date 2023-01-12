@@ -118,6 +118,7 @@ militaire Forhold. <lb/>
 (Fortsættes.)<lb/>
 </morenext>
 </rightside>
-</underpage>
+<underpage>
 Trykt og forlagt af Kgl. Hofvogtrykker Bianco Luno.
+</underpage>
 </pb>
