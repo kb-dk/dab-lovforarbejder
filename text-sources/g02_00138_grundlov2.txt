@@ -1,6 +1,6 @@
 1749
-<pb n=”138”>
-<p rend=”page”>138</p>
+<pb n='138'>
+<p rend='page'>138</p>
 <h>
 <coll>1749</coll>
 <colr>1750</colr><lb/>
