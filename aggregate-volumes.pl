@@ -57,7 +57,7 @@ while(my $file = <$PAGES>) {
 	}
 	print $volume $start if($volume_id ne $last_vol);
 	print $volume "<?page  $page_id ?>\n";
-	print $volume "<div>$text</div>";
+	print $volume "<div type='page-placeholder'>$text</div>";
 
 	close $source;
 	close $volume;

@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root"><?page  r04_00001_procescom_1892 ?>
-<div><title>
+<div type='page-placeholder'><title>
 <p>Udkast</p>
 <p>til</p>
 <p>Lov om Strafferetsplejen.</p>
@@ -8,8 +8,8 @@
 <p>Trykt hos J.H. Schulz</p>
 <p>1899.</p>
 </title></div><?page  r04_00002_procescom_1892 ?>
-<div></div><?page  r04_00003_procescom_1892 ?>
-<div><title>Indholdsoverligt.</title>
+<div type='page-placeholder'></div><?page  r04_00003_procescom_1892 ?>
+<div type='page-placeholder'><title>Indholdsoverligt.</title>
 <title>Første Afsnit.</title>
 <undertitle>Almindelige Bestemmelser.</undertitle>
 <undertitle>(38 1-97)</undertitle>
@@ -33,7 +33,7 @@
 <p>Forkyndelser og Meddelelser    (§§ 81 —92)..................................  29—34.</p>
 <p>Kapitel X.</p>
 <p>Rettens Rådslagninger og Afgørelser    (§§ 93—97)..........................  34—36.</p></div><?page  r04_00004_procescom_1892 ?>
-<div><h>IV</h>
+<div type='page-placeholder'><h>IV</h>
 <title>Andet Afsnit.</title>
 <undertitle>Midler til Sagens Oplysning m. m.</undertitle>
 <undertitle>(§§ 88-186).</undertitle>
@@ -61,7 +61,7 @@ Overanklageren eller Politiet.</undertitle>
 <p>Efterforskning (§§  187—200)     ..........................................     73—78.</p>
 <p>Kapitel XX.</p>
 <p>Forundersøgelse ved Retten (§§ 201—215)  ................................    79 — 85.</p></div><?page  r04_00005_procescom_1892 ?>
-<div><h>V</h>
+<div type='page-placeholder'><h>V</h>
 <title>Fjerde Afsnit.</title>
 <undertitle>Tiltale og Domsforhandling ved Landøret.</undertitle>
 <undertitle>(§§ 216-301).</undertitle>
@@ -92,7 +92,7 @@ Overanklageren eller Politiet.</undertitle>
 <p>kære til højere Ret (§§ 346-352,    ....................................   138—141.</p>
 <p>Kapitel XXX.</p>
 <p>Genoptagelse (§§ 353—365)    ..........................................   142—146.</p></div><?page  r04_00006_procescom_1892 ?>
-<div><h>VI</h>
+<div type='page-placeholder'><h>VI</h>
 <title>Syvende Afsnit.</title>
 <undertitle>Påtale af særlige Myndigheder eller af Private.    Forfølgning af borgerlige<lb />
 Retskrav under Straffesager.</undertitle>
@@ -115,9 +115,9 @@ Retskrav under Straffesager.</undertitle>
 <title>Tiende Afsnit.</title>
 <undertitle>Slutningsbestemmelser.</undertitle>
 <p>Kapitel XXXVI.    (§§ 406-410,   ...........................   166—167.</p></div><?page  r04_00007_procescom_1892 ?>
-<div></div><?page  r04_00008_procescom_1892 ?>
-<div></div><?page  r04_00009_procescom_1892 ?>
-<div><h>Kap. I.   Lovens Virkekreds.               1</h>
+<div type='page-placeholder'></div><?page  r04_00008_procescom_1892 ?>
+<div type='page-placeholder'></div><?page  r04_00009_procescom_1892 ?>
+<div type='page-placeholder'><h>Kap. I.   Lovens Virkekreds.               1</h>
 <title>Første Afsnit.</title>
 <undertitle>Almindelige Bestemmelser.</undertitle>
 <title>Kapitel I.</title>
@@ -147,7 +147,7 @@ Straffelovens § 16;</p>
 <p>8)  Forbrydelse af Embede, Bestilling, Rang,<lb />
 Titel, Orden eller Hæderstegn:</p>
 <p>1</p></div><?page  r04_00010_procescom_1892 ?>
-<div><h>2             Kap. I.   Lovens Virkekreds.</h>
+<div type='page-placeholder'><h>2             Kap. I.   Lovens Virkekreds.</h>
 <p>9) Forbrydelse af Næringsadkomst;</p>
 <p>10)   Forbrydelse af Arveret eller</p>
 <p>11)  Omstødelse  af ægteskab,   som er indgået trods et Slægtskabs- eller Svogerskabsforhold, der er ubetinget Ægteskabshindring,  eller trods et endnu bestående Ægteskab.</p>
@@ -177,7 +177,7 @@ Straffearter hjemler Anvendelse af Formuestraf, simpelt fængsel, Tvangsarbejde,
 umyndig, hans værge kan begære Påkendelse ved Landsretten, naar Straffen<lb />
 kan stige til Strafarbejde eller Embeds<lb />
 eller Bestillings Fortabelse.</p></div><?page  r04_00011_procescom_1892 ?>
-<div><h>Kap. II.   Retternes Virkekreds.            3</h>
+<div type='page-placeholder'><h>Kap. II.   Retternes Virkekreds.            3</h>
 <p>c) eller for hvilke straffen for 1ste Gang<lb />
 begået Forbrydelse er bestemt alternativt til Fængsel på Vand ug Brod eller<lb />
 Strafarbejde, eller ifølge Straffelovens<lb />
@@ -217,7 +217,7 @@ omhandlede Forbrydelser, og han forhen for<lb />
 en saadan Forbrydelse har været dømt til<lb />
 Strafarbejde, medmindre der er forløbet<lb />
 10 År  efter   Udståelsen   af  denne  Straf,</p></div><?page  r04_00012_procescom_1892 ?>
-<div><h>4           Kap. II.   Retternes Virkekreds.</h>
+<div type='page-placeholder'><h>4           Kap. II.   Retternes Virkekreds.</h>
 <p>førend den Handling, som Sigtelsen angår,<lb />
 blev forøvet.</p>
 <p>Ogsaa i andre Tilfælde end de ovenfor<lb />
@@ -256,7 +256,7 @@ Kendelser og Beslutninger.</p>
 <wtitle>§ 11.</wtitle>
 <p>Under højester et høre alle Afgørelser i Anledning af Påanke af eller<lb />
 Næremål mod Landsrettens Tomme, Kendel-</p></div><?page  r04_00013_procescom_1892 ?>
-<div><h>Kap. II.   Retternes Virkekreds.           5</h>
+<div type='page-placeholder'><h>Kap. II.   Retternes Virkekreds.           5</h>
 <p>ser og Beslutninger, derunder indbefattet<lb />
 Handlinger af det Medlem af Landsretten,<lb />
 hvem det måtte være overdraget at handle<lb />
@@ -297,7 +297,7 @@ med Sagen at gøre, medfører ikke Inhabilitet,<lb />
 naar der ikke efter de foreliggende Omstændigheder er Grund til at antage, at han<lb />
 har nogen særegen Interesse i Sagens<lb />
 Udfald.</p></div><?page  r04_00014_procescom_1892 ?>
-<div><h>6                   Kap. III.   Inhabilitet.</h>
+<div type='page-placeholder'><h>6                   Kap. III.   Inhabilitet.</h>
 <wtitle>§ 13.</wtitle>
 <p>I de i foregående Paragraf omhandlede<lb />
 Tilfælde er dommeren, hvis han er Enkeltdommer, Pligtig efter Kendelse, afsagt af ham<lb />
@@ -336,7 +336,7 @@ sig derom.</p>
 <wtitle>§ 16.</wtitle>
 <p>kendelser, hvorved en Underretsdommer<lb />
 erklærer at ville vige sit sæde, eller hvorved</p></div><?page  r04_00015_procescom_1892 ?>
-<div><h>Kap. III.   Inhabilitet.                   7</h>
+<div type='page-placeholder'><h>Kap. III.   Inhabilitet.                   7</h>
 <p>det pålægges en Dommer i en Kollegialret<lb />
 at vige sit sæde, eller hvorved en nævning<lb />
 udelukkes, ere ikke Genstand for Anke eller<lb />
@@ -373,7 +373,7 @@ medfør af nærværende Lov givne Pålæg.</p>
 <p>Ved Anordning kan der gives sådanne almindelige Forskrifter for Udførelsen af de offentlige Anklageres Forretninger,<lb />
 som ved Siden af Loven findes fornødne.<lb />
 Justitsministeren kan i Overensstemmelse med</p></div><?page  r04_00016_procescom_1892 ?>
-<div><h>8    Kap. IV.   Den offentl. Anklagemyndighed.</h>
+<div type='page-placeholder'><h>8    Kap. IV.   Den offentl. Anklagemyndighed.</h>
 <p>de hidtil gældende Regler med Hensyn til<lb />
 enkelte Sager pålægge vedkommende Anklager at begynde eller fortsætte, undlade eller<lb />
 standse Forfølgning, at gøre Retsmidler<lb />
@@ -411,7 +411,7 @@ til Påanke af Underretternes dømme i<lb />
 Politisager.</p>
 <p>Rigsanklageren kan pålægge en Overanklager at overtage i det Hele eller for<lb />
 en Del   det   offentlige Anklagerhverv   i  en</p></div><?page  r04_00017_procescom_1892 ?>
-<div><h>Kap. IV.   Den offentl. Anklagemyndighed.    9</h>
+<div type='page-placeholder'><h>Kap. IV.   Den offentl. Anklagemyndighed.    9</h>
 <p>Sag, som hører under en anden Overanklagers Forretningskreds.</p>
 <p>Det påhviler overanklagerne at gøre</p>
 <p>Indberetning til Rigsanklageren, naar tvivlsomme eller særdeles vigtige Spørgsmål<lb />
@@ -443,7 +443,7 @@ og Private.</p>
 <p>I alle Sager, hvis Forfølgning ikke<lb />
 er  henvist   til Politimesteren   eller  Private</p>
 <p>2</p></div><?page  r04_00018_procescom_1892 ?>
-<div><h>10                   Kap. V.   Påtalen.</h>
+<div type='page-placeholder'><h>10                   Kap. V.   Påtalen.</h>
 <p>(§§ 31 og 35), tilkommer det Overanklageren<lb />
 at påtale for den dømmende Ret. Forfølgning ved Undersøgelsesret rejses i sådanne Sager af Politimesteren, medmindre<lb />
 overanklageren undtagelsesvis overtager Forfølgningen overensstemmende med Reglerne<lb />
@@ -486,7 +486,7 @@ Betleri af 3. Marts 1860:</p>
 Febr. 1866 §§ 111 2det Stykke, 180,<lb />
 277, 2det Stykke, 278, 2det Stykke og<lb />
 296:</p></div><?page  r04_00019_procescom_1892 ?>
-<div><h>Kap. V.   Påtalen.                    11</h>
+<div type='page-placeholder'><h>Kap. V.   Påtalen.                    11</h>
 <p>i.  Lov om Tilsyn med Udvandreres Befordring af 1. Mai 1868 § 10;<lb />
 j.   Lov om  værnepligt af 6. Marts 1869</p>
 <p>§ 13, jfr.  § 54;</p>
@@ -520,7 +520,7 @@ blive af anden Art end i nærværende Paragrafs Nr. 1 angivet.</p>
 med en Sag, som hører under Overanklagerens Virkekreds, iværksættes Påtalen af<lb />
 Overanklageren overensstemmende med Reglerne i § 30; også ellers kan Overanklageren efter Overenskomst med Politimesteren<lb />
 overtage Forfølgningen af en Politisag.</p></div><?page  r04_00020_procescom_1892 ?>
-<div><h>12                    Kap. V.   Påtalen.</h>
+<div type='page-placeholder'><h>12                    Kap. V.   Påtalen.</h>
 <wtitle>§ 32.</wtitle>
 <p>overanklageren og Politimesteren påtale i Embeds medfør.    Dog udkræves:</p>
 <p>1)  Justitsministerens Befaling til Påtale   af embedsforbrydelser  samt   af   andre<lb />
@@ -558,7 +558,7 @@ hans Virkekreds, kun undlade Påtale eller<lb />
 frafalde en påbegyndt Forfølgning:</p>
 <p>1) i Tilfælde, hvor Lovgivningen indeholder særlig Hjemmel for, at offentlig<lb />
 Påtale under  visse Betingelser   kan  bort-</p></div><?page  r04_00021_procescom_1892 ?>
-<div><h>Kap. V.   Påtalen.                    13</h>
+<div type='page-placeholder'><h>Kap. V.   Påtalen.                    13</h>
 <p>falde,   uden  at Justitsministerens Samtykke<lb />
 dertil kræves;</p>
 <p>2)    i   Tilfælde,    hvor    Straffelovens<lb />
@@ -595,7 +595,7 @@ hvem Påtaleret tilkommer, overensstem<lb />
 mende med Reglerne i Lov om den borgerlige Retspleje, jfr. dog § 376.</p>
 <p>Naar en Handling, der udgør en Lovovertrædelse af ovennævnte Art, tillige indeholder en Lovovertrædelse, som er offentlig<lb />
 Påtale undergiven, kan vedkommende På-</p></div><?page  r04_00022_procescom_1892 ?>
-<div><h>14                   Kap. V.   Påtalen.</h>
+<div type='page-placeholder'><h>14                   Kap. V.   Påtalen.</h>
 <p>talemyndighed efter begæring af den private<lb />
 Påtaleberettigede forfølge begge Lovovertrædelser under et. Ten private Påtale- berettigede kan i sådanne Tilfælde på ethvert Trin standse den efter hans Begæring<lb />
 begyndte forfølgning.</p>
@@ -632,7 +632,7 @@ Offentlige, uden at sætte som Betingelse, at<lb />
 offentlig Påtale er nægtet, blive stående ved Magt.</p>
 <wtitle>§ 37.</wtitle>
 <p>Retten prøver i Embeds medfør, om</p></div><?page  r04_00023_procescom_1892 ?>
-<div><h>Kap. V.  Påtalen.                  15</h>
+<div type='page-placeholder'><h>Kap. V.  Påtalen.                  15</h>
 <p>den, der forfølger, efter foranstående Regler er berettiget til Påtale.</p>
 <title>Kapitel VI.</title>
 <undertitle>Sigtedes Forsvar.</undertitle>
@@ -663,7 +663,7 @@ deles, under den anførte Forudsætning, en offentlig Forsvarer beskikkes, naar 
 i følge Sagens Beskaffenhed anser sådant<lb />
 fornødent.</p>
 <p>Forinden Tiltale er rejst, bliver under</p></div><?page  r04_00024_procescom_1892 ?>
-<div><h>10            Kap. VI.   Sigtedes Forsvar.</h>
+<div type='page-placeholder'><h>10            Kap. VI.   Sigtedes Forsvar.</h>
 <p>den samme Forudsætning offentlig Forsvarer<lb />
 at bestikke, naar der stal afhøres Vidner, eller<lb />
 Besigtigelse skal ske eller Syn eller skøn<lb />
@@ -701,7 +701,7 @@ I påtrængende Tilfælde kan dog også en<lb />
 Sagforer, der ikke er antagen af Justits<lb />
 ministeren, men dog berettiget til Mode for<lb />
 vedkommende Net, beskikkes til Forsvarer.</p></div><?page  r04_00025_procescom_1892 ?>
-<div><h>Kap. VI.   Sigtedes Forsvar.             17</h>
+<div type='page-placeholder'><h>Kap. VI.   Sigtedes Forsvar.             17</h>
 <wtitle>§ 42.</wtitle>
 <p>Til offentlig Forsvarer må Ingen<lb />
 beskikkes, der selv er forurettet ved Forbrydelsen eller står i et sådant Forhold til<lb />
@@ -739,7 +739,7 @@ men Forsvareren er, sålænge Tiltale ikke<lb />
 er rejst, udenfor Besigtigelses-, Syns- eller<lb />
 Skønsforretninger eller Afhørelse af Vidner</p>
 <p>3</p></div><?page  r04_00026_procescom_1892 ?>
-<div><h>18            Kap. VI.   Sigtedes Forsvar.</h>
+<div type='page-placeholder'><h>18            Kap. VI.   Sigtedes Forsvar.</h>
 <p>til Brug ved Oplæsning under Domsforhandlingen, uberettiget til at tage Ordet<lb />
 eller   samtale med Sigtede i Retsmødet.</p>
 <p>linder Domsforhandlingen i Landsretssager kan det af Landsrettens Formand<lb />
@@ -780,7 +780,7 @@ indskrænker ikke Sigtedes Ret til selv at<lb />
 drage Omsorg for sit Forsvar, men Forsvareren behøver ikke Sigtedes Samtykke<lb />
 til at foretage de Handlinger, som han anseer for nødvendige eller hensigtsmæssige til<lb />
 dennes Tarv.</p></div><?page  r04_00027_procescom_1892 ?>
-<div><h>Kap. VI.   Sigtedes Forsvar.           19</h>
+<div type='page-placeholder'><h>Kap. VI.   Sigtedes Forsvar.           19</h>
 <wtitle>§ 49.</wtitle>
 <p>De offentlige Forsvarere erholde Pederlag af det Offentlige for den enkelte<lb />
 Sag, forsåvidt Krav herpå ikke er frafaldet. Retten fastsætter dette Vederlag<lb />
@@ -815,7 +815,7 @@ efter foranstående Regler, tilsammen een<lb />
 Forbrydelse, eller er en Forbrydelse begået<lb />
 på Grænsen af flere Retskredse, eller er det uvist, i hvilken af flere bestemte Retskredse en Forbrydelse er begået, kan Forfølgning ske ved en hvilkensomhelst af de<lb />
 Retter, om hvilke der på Grund af de angivne Omstændigheder opstår Spørgsmål.</p></div><?page  r04_00028_procescom_1892 ?>
-<div><h>20           Kap. VII.   Værneting m. m.</h>
+<div type='page-placeholder'><h>20           Kap. VII.   Værneting m. m.</h>
 <wtitle>§ 53.</wtitle>
 <p>Som Gerningsstedets værneting ved<lb />
 Forbrydelser, der begås udenfor Kongerigets Søterritorium ombord på dansk Skib<lb />
@@ -849,7 +849,7 @@ Kreds Sigtede er bleven pågreben.</p>
 kan ske under een Sag, kunne under Et<lb />
 forfølges ved enhver Ret, som er Værneting<lb />
 for nogen af de pågældende Forbrydelser. hører   nogen   af   de   Forbrydelser,   mellem</p></div><?page  r04_00029_procescom_1892 ?>
-<div><h>Kap. VII.    værneting m. m.         21</h>
+<div type='page-placeholder'><h>Kap. VII.    værneting m. m.         21</h>
 <p>hvis Værneting Valg haves, for Underretten,<lb />
 medens en eller flere andre høre under Landsrettens Påkendelse, træder i Underrettens<lb />
 Sted den Landøret, til hvis Kreds den<lb />
@@ -885,7 +885,7 @@ overordnede Net (§ 96). En Beslutning, hvorved en begæring om Sagens Overflytn
 til en anden Ret nægtes, kan påkæres.</p>
 <wtitle>§ 60.</wtitle>
 <p>Naar Sigtede møder, prøver Retten ikte</p></div><?page  r04_00030_procescom_1892 ?>
-<div><h>82           Kap. VII.    værneting m. ni</h>
+<div type='page-placeholder'><h>82           Kap. VII.    værneting m. ni</h>
 <p>i Embeds medfør, om Sagen er indbragt<lb />
 for rot Værneting. Indsigelse er udelukket,<lb />
 naar Sigtede, førend Domsforhandlingen<lb />
@@ -926,7 +926,7 @@ dømmende Ret, beslutte, at de skulle forbindes til een Sag, dog, naar Søgsmål
 ikke stå i det i § 61 forudsatte Forhold<lb />
 til hinanden, kun, naar ingen af Parterne<lb />
 gør Indsigelse derimod.</p></div><?page  r04_00031_procescom_1892 ?>
-<div><h>Kap. VII.    værneting ni. m.         23</h>
+<div type='page-placeholder'><h>Kap. VII.    værneting ni. m.         23</h>
 <p>Beslutningen tages af den Ret, for<lb />
 hvilken Sagerne henstå, eller, hvis Spørgsmål er om Forening af Sager, som ere<lb />
 tingfæstede dels ved Landsretten, dels<lb />
@@ -959,7 +959,7 @@ til Sødeligheden eller den offentlige Orden<lb />
 kræver det, og ved Retshandlinger, som finde<lb />
 Sted udenfor Domsforhandling, tillige,<lb />
 naar   fa.'regne Omstændigheder   give Grund</p></div><?page  r04_00032_procescom_1892 ?>
-<div><h>24    Kap. VIII.   Retsmøder og Retsbøger.</h>
+<div type='page-placeholder'><h>24    Kap. VIII.   Retsmøder og Retsbøger.</h>
 <p>til at antage, at Retsmødets Offentlighed<lb />
 vil være til Hinder for Sagens Oplysning,<lb />
 eller det begæres af værgen for en Sigtet<lb />
@@ -995,7 +995,7 @@ straffes med en Bøde af indtil 20 Kr.<lb />
 dømmeren kan pålægge Retsvidnerne at<lb />
 iagttage Tavshed om, hvad de ved Retshandlingen erfare om Undersøgelsens Genstand: Overtrædelse af sådant Pålæg<lb />
 straffes med Bøder indtil 100 Kr.</p></div><?page  r04_00033_procescom_1892 ?>
-<div><h>Kap. VIII.   Retsmøder og Retsbøger.     25</h>
+<div type='page-placeholder'><h>Kap. VIII.   Retsmøder og Retsbøger.     25</h>
 <wtitle>§ 69.</wtitle>
 <p>Naar Domsforhandlingen holdes for<lb />
 lukkede Døre, have de ved den påtalte Handling forurettede Personer, fremdeles<lb />
@@ -1027,7 +1027,7 @@ hvorved Forhandlingerne forstyrres, samt<lb />
 Ulydighed mod Formandens Befalinger kan<lb />
 Retten ved en Kendelse,   der afsiges straks</p>
 <p>4</p></div><?page  r04_00034_procescom_1892 ?>
-<div><h>2«    Kap. VIII.   Retsmøder og Retsbøger.</h>
+<div type='page-placeholder'><h>2«    Kap. VIII.   Retsmøder og Retsbøger.</h>
 <p>pålægge Straf af bøder indtil 40 Kr.<lb />
 eller simpelt Fængsel indtil 8 Dage.</p>
 <p>De Straffe, som pålægges i Henhold<lb />
@@ -1066,7 +1066,7 @@ Syns- eller Skønsmænds Forklaringer, som<lb />
 må ventes at skulle benyttes ved Oplæsning under Domsforhandlingen. Tilsvarende Regler gælde med Hensyn til<lb />
 Domsforhandling for Underret i Sager,<lb />
 der   ikke   ere   undtagne fra Anke.     Af Ud-</p></div><?page  r04_00035_procescom_1892 ?>
-<div><h>Kap. VIII.   Retsmøder og Retsbøger.     i^7</h>
+<div type='page-placeholder'><h>Kap. VIII.   Retsmøder og Retsbøger.     i^7</h>
 <p>sagn, der afgives under Afhørelse for<lb />
 Landøret, optages det Væsentligste i en<lb />
 særskilt Bog- ere de Pågældende tidligere<lb />
@@ -1105,7 +1105,7 @@ at dette bør ske.</p>
 <p>Retsbogen underskrives af Rettens Formand, fremdeles af de Personer, der måtte have fungeret som Retsskriver eller Retsvidner. Den afgiver Bevis for, hvad der<lb />
 er foregået under Retshandlingen, og særlig<lb />
 for,   hvorledes der   er   gået   tilværks med</p></div><?page  r04_00036_procescom_1892 ?>
-<div><h>28    Kap. VIII.   Retsmøder og Retsbøger.</h>
+<div type='page-placeholder'><h>28    Kap. VIII.   Retsmøder og Retsbøger.</h>
 <p>Hensyn til Former,  som efter Loven skulle<lb />
 iagttages; Modbevis er ikke udelukket.</p>
 <wtitle>§ 76.</wtitle>
@@ -1135,7 +1135,7 @@ Dokumenter.</p>
 <p>Retssproget er dansk. Afhørelse af Personer, der ikke ere det danske Sprog mægtige,<lb />
 foregår ved hjælp af en edsvoren Tolk;<lb />
 dog kan ved Afhørelse udenfor Domsforhandling   for   Landøret Tilkaldelse af Tolk</p></div><?page  r04_00037_procescom_1892 ?>
-<div><h>Kap. VIII.   Retsmøder og Retsbøger.     29</h>
+<div type='page-placeholder'><h>Kap. VIII.   Retsmøder og Retsbøger.     29</h>
 <p>undlades, naar dømmeren tiltror sig fornødent Kendskab til det fremmede Sprog.</p>
 <p>Dokumenter, der ere affattede i fremmede Sprog, skulle ledsages af en Oversættelse, som bliver at autorisere af en<lb />
 offentlig ansat Translator, medmindre Retten og Parterne anerkende   dens Rigtighed.</p>
@@ -1163,7 +1163,7 @@ angivne Tilfælde ved Politiet:</p>
 af   Anklageskrift,   Bevisfortegnelse,   Domsudskrift,   Ankemeddelelse eller kæremål   og<lb />
 as den i sidste Stykke  as § 323 ommeldte Tilkendegivelse,</p>
 <p>2)   Forkyndelse for Vidner   og Syns- eller Skønsmænd as Indkaldelse til Afhørelse.</p></div><?page  r04_00038_procescom_1892 ?>
-<div><h>30    Kap. IX.   Forkyndelser og Meddelelser.</h>
+<div type='page-placeholder'><h>30    Kap. IX.   Forkyndelser og Meddelelser.</h>
 <p>for Syns- eller skønsmænd af den Beslutning, hvorved de ere udmeldte og for udeblevne Vidner eller Syns- eller skønsmænd af den i ^ 1^6, jfr. § 113, ommeldte<lb />
 Kendelse;</p>
 <p>3) Forkyndelse for en privat Sagsøger af den i sidste Punktum af § 373<lb />
@@ -1202,7 +1202,7 @@ Tilståelse.</p>
 <p>Naar Forretningen udføres af en Stævningsmand, stal en anden Stævningsmand<lb />
 eller, i særdeles påtrængende Tilfælde, en<lb />
 anden god Mand tilkaldes som Vidne.</p></div><?page  r04_00039_procescom_1892 ?>
-<div><h>Kap. IX.   Forkyndelser og Meddelelser.    31</h>
+<div type='page-placeholder'><h>Kap. IX.   Forkyndelser og Meddelelser.    31</h>
 <wtitle>§ 84.</wtitle>
 <p>Ved Iværksættelse af Forkyndelsen<lb />
 gælde følgende Regler:</p>
@@ -1238,7 +1238,7 @@ Udfærdigelsen Attest herom og straks overlevere den til Politiet, der snarest m
 skal søge at iværksætte Forkyndelsen.</p>
 <p>d) Forkyndelser, som ske på Vedkommendes Bolig eller sædvanlige Opholdssted, skulle foregå imellem Kl. 7 Morgen<lb />
 og Kl.  8  Aften.   På Son- og Helligdage</p></div><?page  r04_00040_procescom_1892 ?>
-<div><h>32    Kap. IX.   Forkyndelser og Meddelelser.</h>
+<div type='page-placeholder'><h>32    Kap. IX.   Forkyndelser og Meddelelser.</h>
 <p>må de ordentligvis ikke foregå i Tiden<lb />
 fra Kl. 9 Formiddag til Kl. 4 Eftermiddag.<lb />
 Udføres Forretningen as en stævningsmand, har denne, for at iværksætte den,<lb />
@@ -1276,7 +1276,7 @@ er opgivet om hans Opholdssted.</p>
 <p>Er det ikke lykkedes Politiet at iværksætte Forkyndelsen, fordi den Pågældende<lb />
 ikke har kunnet antræffes i Retskredsen og<lb />
 ej heller  har Bolig  eller   midlertidigt  Op-</p></div><?page  r04_00041_procescom_1892 ?>
-<div><h>Kap. IX.   Forkyndelser og Meddelelser.    33</h>
+<div type='page-placeholder'><h>Kap. IX.   Forkyndelser og Meddelelser.    33</h>
 <p>holdssted der, tilbagegives Udfærdigelsen med<lb />
 Påtegning om det Stedfundne samt om,<lb />
 hvad der er Politiet bekendt angående hans<lb />
@@ -1315,7 +1315,7 @@ afgiver Bevis herfor, indtil Modbevis fores.</p>
 <p>Meddelelse, som under Retsmøde i<lb />
 Sagen    gives   Vedkommende   personlig   til</p>
 <p>5</p></div><?page  r04_00042_procescom_1892 ?>
-<div><h>34   Kap. IX.   Forkyndelser og Meddelelser.</h>
+<div type='page-placeholder'><h>34   Kap. IX.   Forkyndelser og Meddelelser.</h>
 <p>Retsbogen,   kan   altid   træde   i Stedet for<lb />
 Forkyndelse.</p>
 <wtitle>§ 90.</wtitle>
@@ -1346,7 +1346,7 @@ sådant gøres fornødent.</p>
 <undertitle>Rettens Rådslagninger og Afgørelser</undertitle>
 <wtitle>§ 93.</wtitle>
 <p>dømme,   Kendelser   og  andre  Beslutninger af en Ret,   der ikke  beklædes af en</p></div><?page  r04_00043_procescom_1892 ?>
-<div><h>Kap. X.   Rådslagninger og Afgørelser.    35</h>
+<div type='page-placeholder'><h>Kap. X.   Rådslagninger og Afgørelser.    35</h>
 <p>enkelt dømmer, og som ikke høre til de<lb />
 Beslutninger, Rettens Formand kan træffe,<lb />
 vedtages ved Afstemning efter forudgående<lb />
@@ -1382,7 +1382,7 @@ Rettens Formand behøve ikke at begrundes,<lb />
 medmindre sådant særlig er foreskrevet.<lb />
 Sådanne Beslutninger såvelsom Kendelser af blot procesledende Beskaffenhed kunne<lb />
 omgøres, naar nye Oplysninger foreligge.</p></div><?page  r04_00044_procescom_1892 ?>
-<div><h>36    Kap. X.   Rådslagninger og Afgørelser.</h>
+<div type='page-placeholder'><h>36    Kap. X.   Rådslagninger og Afgørelser.</h>
 <wtitle>§ 96.</wtitle>
 <p>I de Tilfælde, hvor en efter Loven<lb />
 tilstedelig Afvigelse fra de almindelige Regler betinges af en forudgående Beslutning<lb />
@@ -1420,7 +1420,7 @@ som gælde for den oprindelige afgørelse.</p>
 berigtigede afgørelse træder i alle Henseender i Stedet for den oprindelige. Beslutning<lb />
 angående Berigtigelse er ikke Genstand for<lb />
 Anke eller kære.</p></div><?page  r04_00045_procescom_1892 ?>
-<div><h>Kapitel XI.    Vidner.                 37</h>
+<div type='page-placeholder'><h>Kapitel XI.    Vidner.                 37</h>
 <title>Andet Afsnit.</title>
 <undertitle>Midler til Sagens Oplysning m. m.</undertitle>
 <title>Kapitel XI.</title>
@@ -1445,7 +1445,7 @@ som handle i offentligt Hverv, angående, hvad<lb />
 der ifølge dette er dem betroet eller kommet<lb />
 til deres Kundskab om et offentligt Anliggende og omfattes af deres Tavshedspligt,<lb />
 medmindre vedkommende overordnede Myndighed eller for Rigsdagsmands Vedkommende   det   pågældende   Tings   Formand</p></div><?page  r04_00046_procescom_1892 ?>
-<div><h>38                 Kapitel XI.    Vidner.</h>
+<div type='page-placeholder'><h>38                 Kapitel XI.    Vidner.</h>
 <p>såvelsom Regeringen samtykker i, at de afhøres.</p>
 <p>Foranstående regler komme dog ikke<lb />
 til Anvendelse, naar Retten skønner, at det,<lb />
@@ -1480,7 +1480,7 @@ er grundet.</p>
 <wtitle>§ 101.</wtitle>
 <p>^ugen er — for så vidt han ilte sirlig<lb />
 dav forbundet sig dertil overfor Retten eller</p></div><?page  r04_00047_procescom_1892 ?>
-<div><h>Kapitel XI.    Vidner.                 39</h>
+<div type='page-placeholder'><h>Kapitel XI.    Vidner.                 39</h>
 <p>Påtalemyndigheden — Pligtig at mode som<lb />
 Vidne for en Undersøgelsesret eller under<lb />
 Domsforhandling for Underret udenfor den<lb />
@@ -1521,7 +1521,7 @@ og Mode ved denne Ret vilde medføre væsentligt større besvær for Vidnet end 
 ved den Ret, i hvis Kreds det bor eller<lb />
 opholder sig (§ 50), bor sådant Mode ikke<lb />
 pålægges Vidnet, "medmindre dette   findes</p></div><?page  r04_00048_procescom_1892 ?>
-<div><h>40                 Kapitel XI.    Vidner.</h>
+<div type='page-placeholder'><h>40                 Kapitel XI.    Vidner.</h>
 <p>nødvendigt   til   Sagens   tilbørlige   Oplysning.</p>
 <p>Er et Vidnes Helbredstilstand til Hinder<lb />
 for, at det moder på det sædvanlige Tingsted, kan Retten til dets Afhørelse sættes på sådant Sted, som Omstændighederne<lb />
@@ -1558,7 +1558,7 @@ i umiddelbar nærhed af Retslokalet, kan det<lb />
 af Retten pålægges at fremstille sig strax til<lb />
 Afgivelse af Vidnesbyrd. Tilstedeværende<lb />
 Vidner kan det pålægges at mode til ny Tid.</p></div><?page  r04_00049_procescom_1892 ?>
-<div><h>Kapitel XI.    Vidner.               41</h>
+<div type='page-placeholder'><h>Kapitel XI.    Vidner.               41</h>
 <p>Naar Nogen anholdes under Udførelsen<lb />
 af en Forbrydelse eller på friske Spor, kan<lb />
 Politiet på Stedet tilsige enhver Tilstedeværende til det Retsmøde, hvor den Anholdte<lb />
@@ -1597,7 +1597,7 @@ på Hjerte at følge Sandheden, idet han<lb />
 minder det om det Strafansvar, som det pådrager sig ved at afgive falsk Forklaring for<lb />
 Retten, og om at det må være forberedt på</p>
 <p>6</p></div><?page  r04_00050_procescom_1892 ?>
-<div><h>42                  Kapitel XI.    Vidner.</h>
+<div type='page-placeholder'><h>42                  Kapitel XI.    Vidner.</h>
 <p>at bekræfte sin Forklaring med Ed eller på<lb />
 anden højtidelig Måde.</p>
 <p>Skulle flere Vidner afhøres, kan dømmeren lade denne Forberedelse til Afhørelse<lb />
@@ -1630,7 +1630,7 @@ erklærer, at det i følge sin religiøse Tro<lb />
 ikke tør aflægge Ed, eller at det overhovedet<lb />
 ikke har nogen religiøs Tro, — med en Forsikring „på )Ere og Samvittighed", der<lb />
 træder i Eds Sted.</p></div><?page  r04_00051_procescom_1892 ?>
-<div><h>Kapitel XI.    Vidner.                 43</h>
+<div type='page-placeholder'><h>Kapitel XI.    Vidner.                 43</h>
 <p>Bekræftelsen sker efter Afhøringen og<lb />
 bor, naar ikke særlige Omstændigheder gøre dette uhensigtsmæssigt, udsættes, indtil alle<lb />
 Vidner, hvis Forklaringer angå et og<lb />
@@ -1672,7 +1672,7 @@ eller fundne skyldige i Mened,</p>
 <p>4)  Personer, der ere dømte som skyldige<lb />
 eller medskyldige  i   den Handling,   som   er<lb />
 Undersøgelsens Genstand.</p></div><?page  r04_00052_procescom_1892 ?>
-<div><h>44                Kapitel XI.    Vidner.</h>
+<div type='page-placeholder'><h>44                Kapitel XI.    Vidner.</h>
 <p>Retten kan nægte at edfæste Personer, hvis<lb />
 Vidnesbyrd enten på Grund af deres forbryderske Vandel eller på Grund af deres<lb />
 Stilling til Sagen eller til Sigtede eller<lb />
@@ -1711,7 +1711,7 @@ at nå til Retten, på Erstatning for Rejseudgifter frem og tilbage med 50 O. fo
 løbende Mil. Indkaldes Vidnet til at mode<lb />
 udenfor de i de to første stykker af § 101<lb />
 fastsatte   Afstande,   kan   der  af  Retten  til-</p></div><?page  r04_00053_procescom_1892 ?>
-<div><h>Kap. XII.   Besigtigelse, Syn og Skøn.      45</h>
+<div type='page-placeholder'><h>Kap. XII.   Besigtigelse, Syn og Skøn.      45</h>
 <p>stås det passende højere Godtgørelse og<lb />
 Vederlag for Rejseudgifter. Hvorvidt Godtgørelse hos det Offentlige kan tillægges<lb />
 Vidner, som fra Tiltaltes Side fremstilles<lb />
@@ -1748,7 +1748,7 @@ under Domsforhandlingen en Besigtigelse på<lb />
 Åstedet, skulle alle de Personer være til<lb />
 Stede, som ellers skulle være nærværende<lb />
 under Domsforhandlingen.</p></div><?page  r04_00054_procescom_1892 ?>
-<div><h>46    Kap. XII.   Besigtigelse, Syn og Skøn.</h>
+<div type='page-placeholder'><h>46    Kap. XII.   Besigtigelse, Syn og Skøn.</h>
 <p>Forudsætter Adgangen til Besigtigelse<lb />
 en Ransagning, skulle de nedenfor for denne<lb />
 foreskrevne Betingelser og Regler iagttages.</p>
@@ -1787,7 +1787,7 @@ Besvær eller Ulempe, bor, forsåvidt Omstændighederne tillade det, forskånes 
 <p>Forsåvidt Personer ere beskikkede med<lb />
 almindelig Bemyndigelse til Foretagelsen af<lb />
 visse Syn eller Skøn, bor andre tun udmeldes</p></div><?page  r04_00055_procescom_1892 ?>
-<div><h>Kap. XII.   Besigtigelse, Syn og Skøn.     47</h>
+<div type='page-placeholder'><h>Kap. XII.   Besigtigelse, Syn og Skøn.     47</h>
 <p>hertil, naar Henvendelse til hine vilde medføre<lb />
 en Forhaling, hvorved Øjemedet kunde forspildes, eller naar andre særegne Grunde gøre det tilrådeligt.</p>
 <p>Til Forretninger, ved hvilke der udkræves<lb />
@@ -1822,7 +1822,7 @@ Erklæringen mangelfuld, kan derhos Retten<lb />
 pålægge dem at omgøre eller fuldstændig/<lb />
 gøre den i en yderligere skriftlig Erklæring.</p>
 <p>Er Erklæring afgiven af et dertil bestikket Kollegium, bor Mode i Retten, hvor</p></div><?page  r04_00056_procescom_1892 ?>
-<div><h>48    Kap. XII.   Besigtigelse, Syn og Skøn.</h>
+<div type='page-placeholder'><h>48    Kap. XII.   Besigtigelse, Syn og Skøn.</h>
 <p>sådant skal finde Sted, som Regel ikke<lb />
 fordres af flere end et af dets Medlemmer<lb />
 eller, hvor der er Meningsforskel, af et<lb />
@@ -1853,7 +1853,7 @@ retninger blive fremdeles stående ved Magt.</p>
 <wtitle>§ 124.</wtitle>
 <p>Hvor Erklæring afgives af to eller flere<lb />
 Syns- eller Skønsmænd, bor, hvis Mændene</p></div><?page  r04_00057_procescom_1892 ?>
-<div><h>Kap. XII.   Besigtigelse, Syn og Skøn.     49</h>
+<div type='page-placeholder'><h>Kap. XII.   Besigtigelse, Syn og Skøn.     49</h>
 <p>ikke ere enige, hver enkelts Mening fremgå<lb />
 af Erklæringen.</p>
 <p>Afhørelse af Syns- og skønsmænd sker<lb />
@@ -1895,7 +1895,7 @@ med Ed eller Forsikring, hvor sådant er<lb />
 foreskrevet, finde Reglerne i §§ 106 og 113<lb />
 Anvendelse med de fornødne Lempelser.</p>
 <p>7</p></div><?page  r04_00058_procescom_1892 ?>
-<div><h>50     Kap. XII.   Besigtigelse, Syn og Skøn.</h>
+<div type='page-placeholder'><h>50     Kap. XII.   Besigtigelse, Syn og Skøn.</h>
 <wtitle>§ 128.</wtitle>
 <p>Er der Tvivl om en Sigtets Tilregnelighed, kan Retten ved Kendelse bestemme, at han<lb />
 skal indlægges på et Sygehus eller en Sindssygeanstalt til nærmere undersøgelse, naar<lb />
@@ -1933,7 +1933,7 @@ Klasses Takst for Rejse på Dampskib og<lb />
 iøvrigt med 2 Kroner for hver løbende Mil,<lb />
 dels i Tærepenge 2 Kroner, naar Fraværelsen fra Hjemmet ikke varer 4 Timer, og<lb />
 ellers 6 Kroner med Tillæg af 3 Kroner for</p></div><?page  r04_00059_procescom_1892 ?>
-<div><h>XIII.    Beslaglæggelse.                51</h>
+<div type='page-placeholder'><h>XIII.    Beslaglæggelse.                51</h>
 <p>hver N Timer, de udover 12 Timer ere fraværende fra Hjemmet. Der tilkommer dem<lb />
 derhos Godtgørelse for andre Udlæg og sportelmæssig Betaling for deres Forretning.<lb />
 Har denne udkrævet særlig Møje eller Tidsanvendelse, kan Retten forhøje Betalingen<lb />
@@ -1969,7 +1969,7 @@ sigtes for Delagtighed i Forbrydelsen.</p>
 <wtitle>§ 133.</wtitle>
 <p>Beslutning om Beslaglæggelse tages af<lb />
 Retten.    Politiet kan dog, hvor saadan Be^</p></div><?page  r04_00060_procescom_1892 ?>
-<div><h>52            Kap. XIII.    Beslaglæggelse.</h>
+<div type='page-placeholder'><h>52            Kap. XIII.    Beslaglæggelse.</h>
 <p>slutning ikke uden Fare kan afventes, foretage<lb />
 en foreløbig Beslaglæggelse, men Beretning<lb />
 om denne må da uden Ophold og senest<lb />
@@ -2006,7 +2006,7 @@ dog er Retten besovet til at kræve Fremlæggelse af Originalen.</p>
 <p>Om andre hos offentlige Myndigheder beroende Dokumenter kan Retten, naar det findes<lb />
 nødvendigt, ved Kendelse bestemme, at de skulle<lb />
 forevises eller udleveres til Benyttelse under</p></div><?page  r04_00061_procescom_1892 ?>
-<div><h>Kap. XIII.    Beslaglæggelse.            53</h>
+<div type='page-placeholder'><h>Kap. XIII.    Beslaglæggelse.            53</h>
 <p>Sagen, selv om de måtte være givne i<lb />
 embedsmæssig Forvaring med det Formål,<lb />
 at Indholdet skal være hemmeligt.</p>
@@ -2046,7 +2046,7 @@ kan kræve Modtagelsesbevis.</p>
 beslaglægges, såvelsom Åbning af Breve<lb />
 og andre lukkede Dokumenter skal, naar Vedkommende ikke samtykker i Afvigelse herfra,<lb />
 iværksættes af Retten; er ingen særlig Rets</p></div><?page  r04_00062_procescom_1892 ?>
-<div><h>54            Kap. XIII.    Beslaglæggelse.</h>
+<div type='page-placeholder'><h>54            Kap. XIII.    Beslaglæggelse.</h>
 <p>skriver til Stede, skal såvidt muligt Retsvidne<lb />
 tilkaldes overensstemmende med § 68. Forsåvidt det er muligt og kan ske uden Stade<lb />
 for undersøgelsen, skal der gives Sigtede<lb />
@@ -2079,7 +2079,7 @@ ikke længere behøves. Den, som er interesseret i Tilbagegivelsen, kan derom æ
 andre Rum, Gemmer eller Person for at søge efter Spor af Forbrydelsen eller efter Ting,<lb />
 som ere Genstand for Beslaglæggelse, kan<lb />
 finde Sted, naar</p></div><?page  r04_00063_procescom_1892 ?>
-<div><h>Kap. XIV.    Ransagning.              55</h>
+<div type='page-placeholder'><h>Kap. XIV.    Ransagning.              55</h>
 <p>'1) Sigtelsen angår  en Forbrydelse, som<lb />
 det ifølge Lovens almindelige Regel tilkommer Overanklageren at forfølge,<lb />
 eller</p>
@@ -2118,7 +2118,7 @@ af 29. December 1857.</p>
 <wtitle>§ 145.</wtitle>
 <p>Ransagning, hvori den, hos hvem den<lb />
 stal iværksættes,   ikke   udtrykkelig  samtykker,</p></div><?page  r04_00064_procescom_1892 ?>
-<div><h>56            Kap. XIV.    Ransagning.</h>
+<div type='page-placeholder'><h>56            Kap. XIV.    Ransagning.</h>
 <p>kan som Regel kun finde Sted ifølge Retskendelse.</p>
 <p>Uden foregående Retskendelse kan Ransagning, være sig hos Sigtede eller Andenmand, foretages af Politiet:</p>
 <p>1)   i de Tilfælde, der omhandles i foregående<lb />
@@ -2156,7 +2156,7 @@ ske uden Ophold.</p>
 Rettens Kendelse oplæses eller forevises, eller,<lb />
 hvor ingen Kendelse foreligger, øjemedet betydes.</p>
 <p>Eftersøges bestemte Ting, bor, forinden</p></div><?page  r04_00065_procescom_1892 ?>
-<div><h>Kap. XIV.    Ransagning.              57</h>
+<div type='page-placeholder'><h>Kap. XIV.    Ransagning.              57</h>
 <p>Ransagning påbegyndes, Vedkommende opfordres til at udlevere eller påvise samme.</p>
 <p>Forefindes ved Ransagningen Ting, som<lb />
 skønnes at burde beslaglægges, forholdes med<lb />
@@ -2195,7 +2195,7 @@ Udeblivelse uden oplyst lovligt Forfald, kan<lb />
 efter de nærmere i Loven givne Regler medføre Anholdelse, Fængsling, Beslaglæggelse af<lb />
 Formuen eller Sagens Pådømmelse i Sigtedes Fraværelse.</p>
 <p>8</p></div><?page  r04_00066_procescom_1892 ?>
-<div><h>58   Kap. XV. Sigtedes Indkaldelse og Afhørelse.</h>
+<div type='page-placeholder'><h>58   Kap. XV. Sigtedes Indkaldelse og Afhørelse.</h>
 <wtitle>§ 150.</wtitle>
 <p>Sigtede er ordentligvis pligtig at mode<lb />
 for den Ret, ved hvilken Tiltale er rejst<lb />
@@ -2236,7 +2236,7 @@ Identitet.</p>
 med den imod ham rettede Sigtelse, spørger<lb />
 dømmeren ham, hvorvidt han erkender dens<lb />
 Rigtighed.    dømmeren skal fremdeles   give</p></div><?page  r04_00067_procescom_1892 ?>
-<div><h>Kap. XV. Sigtedes Indkaldelse og Afhørelse.   59</h>
+<div type='page-placeholder'><h>Kap. XV. Sigtedes Indkaldelse og Afhørelse.   59</h>
 <p>ham Lejlighed til at forklare sig om de Forhold, som Sigtelsen angår, og til at udtale<lb />
 sig om de ved Vidneforklaringer eller på<lb />
 anden Mande imod ham fremkomne Bevisligheder.</p>
@@ -2275,7 +2275,7 @@ Sted, naar det i Tilsigelsen eller under<lb />
 Mode for Retten er betydet ham, at han<lb />
 må mode personlig og i Udeblivelsestilfælde<lb />
 må vente at blive anholdt.</p></div><?page  r04_00068_procescom_1892 ?>
-<div><h>60               Kap. XVI.    Anholdelse.</h>
+<div type='page-placeholder'><h>60               Kap. XVI.    Anholdelse.</h>
 <wtitle>§ 156.</wtitle>
 <p>Uden foregående Indkaldelse kan Retten<lb />
 beslutte en Mistænkts Anholdelse,</p>
@@ -2313,7 +2313,7 @@ begået en Forbrydelse, der er offentlig<lb />
 forfølgning undergiven, og af andre Personer, naar de træffes under Udførelsen af<lb />
 en Forbrydelse og ikke ville afstå fra deres<lb />
 forbryderiske Pirken,  eller  der  er bestemte</p></div><?page  r04_00069_procescom_1892 ?>
-<div><h>Kap. XVI.    Anholdelse.               61</h>
+<div type='page-placeholder'><h>Kap. XVI.    Anholdelse.               61</h>
 <p>Grunde til at mistænke dem for nogen af<lb />
 de i § 156 Nr. 2 omtalte Forbrydelser.</p>
 <p>Samme Beføjelse har enhver anden,<lb />
@@ -2350,7 +2350,7 @@ være pågreben;</p>
 <p>2)  og ellers, naar der er Grund til at<lb />
 antage, at Øjemedet vil forspildes, hvis Kendelse skal afventes, og navnlig, at en blot Bevogtning af Huset så længe vil være utilstrækkelig.</p>
 <p>Udenfor disse Tilfælde udkræves Retskendelse, medmindre den Pågældende udtrykkelig frafalder Krav herpå.   I øvrigt finde</p></div><?page  r04_00070_procescom_1892 ?>
-<div><h>62             Kap. XVI.    Anholdelse.</h>
+<div type='page-placeholder'><h>62             Kap. XVI.    Anholdelse.</h>
 <p>Ved disse Ransagninger Reglerne i §§ 145—<lb />
 148 Anvendelse.</p>
 <wtitle>§ 161.</wtitle>
@@ -2388,7 +2388,7 @@ stal fængsles, eller, naar der på Grund af<lb />
 de foreliggende Oplysningers Utilstrækkelighed<lb />
 eller af anden Grund ikke findes Føje til straks<lb />
 at afsige fængslingskendelse eller Retten ifølge</p></div><?page  r04_00071_procescom_1892 ?>
-<div><h>Kap. XVI.    Anholdelse.              03</h>
+<div type='page-placeholder'><h>Kap. XVI.    Anholdelse.              03</h>
 <p>§ 168 mangler Beføjelse hertil, beslutte, at<lb />
 han foreløbig stal forblive under Anholdelse.<lb />
 Det samme finder Anvendelse, hvor den Pågældende er mødt uden foregående Anholdelse.</p>
@@ -2421,7 +2421,7 @@ en Ret angående Sigtelsens Genstand, medmindre det forhindres ved hans Ophold i
 en Forbrydelse, hvorfor Straffen skønnes at<lb />
 ville blive højere end bøder eller simpelt<lb />
 Fængsel, kan af Retten besluttes:</p></div><?page  r04_00072_procescom_1892 ?>
-<div><h>64              Kap. XVII.    Fængsling.</h>
+<div type='page-placeholder'><h>64              Kap. XVII.    Fængsling.</h>
 <p>1)   naar den Mistænkte er en Person,<lb />
 der strejfer om uden Midler til lovligt Under^<lb />
 hold, eller som ikke har Bolig eller dog varigere Opholdssted i Riget, eller er en Ubekendt,<lb />
@@ -2454,7 +2454,7 @@ som sigtes for det i Straffelovens F 299 ommeldte Forhold, i at bringe sin Truse
 besluttes af en hvilkensomhelst Under^<lb />
 søgelsesret, for hvillen Tiltalte er fremstillet.<lb />
 Ellers tages Beslutning om Fængsling af den</p></div><?page  r04_00073_procescom_1892 ?>
-<div><h>Kap. XVII,    Fængsling.               65</h>
+<div type='page-placeholder'><h>Kap. XVII,    Fængsling.               65</h>
 <p>Ret, ved hvilken Forundersøgelse er indledet eller Tiltale rejst (jfr. § 254, 1ste<lb />
 Stykke), eller for hvilken Sagen er indanket. Naar Sigtede er anholdt, og det<lb />
 antages, at han ikke så betimeligt vil kunne<lb />
@@ -2487,7 +2487,7 @@ Beslutning.</p>
 <p>Den Fængslede er undergiven de Indskrænkninger, som ere nødvendige til Sikring<lb />
 af Fængslingens øjemed eller til Opretholdelse<lb />
 af Fængselsordenen.    Særlig fastsættes fol-</p></div><?page  r04_00074_procescom_1892 ?>
-<div><h>Kap. XVII.    Fængsling.</h>
+<div type='page-placeholder'><h>Kap. XVII.    Fængsling.</h>
 <p>gende Regler med Hensyn til Sigtedes Behandling:</p>
 <p>1)  Hvorvidt Andre end de ved Fængslet<lb />
 Ansatte skulle have Adgang til Fangen, beror<lb />
@@ -2527,7 +2527,7 @@ andre Klæder end den almindelige Fangedragt.</p>
 som discipliner Straf på Varetægtsfanger.</p>
 <p>6)  Hverken Arrestforvareren eller andre<lb />
 Personer må  benyttes til at udforske Fangen.</p></div><?page  r04_00075_procescom_1892 ?>
-<div><h>Kap. XVII.    Fængsling.              67</h>
+<div type='page-placeholder'><h>Kap. XVII.    Fængsling.              67</h>
 <p>nærmere Regler om Fængselsordenen<lb />
 fastsættes ved kongelig Anordning under Iagttagelse af det i nærværende Paragraf foreskrevne.</p>
 <p>Klager over utilbørlig Behandling i<lb />
@@ -2565,7 +2565,7 @@ nævnte Fængslingsgrund er forhånden.</p>
 <p>I de i § 167 Nr. 1 og 2 a nævnte Tilfælde stal Fritagelse for Fængsling tilstedes,<lb />
 naar Formålet må antages tilstrækkelig betrygget ved, at Sikkerhed stilles for, at<lb />
 Sigtede vil mode i Retten til enhver For-</p></div><?page  r04_00076_procescom_1892 ?>
-<div><h>«8            Kap. XVII.    Fængsling.</h>
+<div type='page-placeholder'><h>«8            Kap. XVII.    Fængsling.</h>
 <p>handling i Sagen efter behørig Indkaldelse<lb />
 samt indfinde sig til dommens Fuldbyrdelse,<lb />
 hvis den gaar ham imod. Det påhviler i<lb />
@@ -2601,7 +2601,7 @@ kan Retten, naar Sigtede inden en Måned<lb />
 efter den Dag, da han er undvegen eller skulde<lb />
 være mødt, frivillig fremstiller sig eller pågribes, helt eller delsvis eftergive Sikkerhedens Forbrydelse, dog at den hæfter for<lb />
 alle Udgifter, som ere bevirkede ved Undvigelsen eller Udeblivelsen.</p></div><?page  r04_00077_procescom_1892 ?>
-<div><h>Kap. XVII.    fængsling.              69</h>
+<div type='page-placeholder'><h>Kap. XVII.    fængsling.              69</h>
 <wtitle>§ 176.</wtitle>
 <p>Beslutning om fængsling eller Forholdsregel, der troeder i Stedet for fængsling, kan<lb />
 af Retten til enhver Tid omgøres.</p>
@@ -2640,7 +2640,7 @@ givne Bestemmelser.</p>
 <wtitle>§ 178.</wtitle>
 <p>Forholdsregler, som af Retten ere anordnede istedetfor fængsling, bortfalde eller<lb />
 ophæves i de samme Tilfælde som fængsling.</p></div><?page  r04_00078_procescom_1892 ?>
-<div><h>70              Kap. XVII.    Fængsling.</h>
+<div type='page-placeholder'><h>70              Kap. XVII.    Fængsling.</h>
 <p>Fremdeles ophører en stillet Sikkerhed<lb />
 at hæfte, naar Sigtede hensættes i fængsel,<lb />
 eller naar en Sigtet under 18 År sættes under andet Tilsyn end den Persons, hvem<lb />
@@ -2680,7 +2680,7 @@ læggelsen.</p>
 <wtitle>§ 181.</wtitle>
 <p>Retten drager Omsorg for, at der bestilles<lb />
 en værge til at bestyre den beslaglagte Formue.    At saadan Foranstaltning er truffen,</p></div><?page  r04_00079_procescom_1892 ?>
-<div><h>Kap. XVIII. Beslag på Sigtedes Formue etc. 71</h>
+<div type='page-placeholder'><h>Kap. XVIII. Beslag på Sigtedes Formue etc. 71</h>
 <p>bliver at kundgøre ved Tinglæsning og ved<lb />
 Bekendtgørelse i Aviserne efter de om Umyndiggørelse gældende Regler.</p>
 <p>værgen har at afgive Løfte om ikke<lb />
@@ -2718,7 +2718,7 @@ samt de Forholdsregler, som blive at træffe<lb />
 for at sikre Beslaglæggelsens Retsvirkninger,<lb />
 gælde de i Loven om den borgerlige Retspleje givne Regler om Arrest på Gods, dog<lb />
 at særlig Sag til Stadfæstelse af Beslaglæggelsen bortfalder.</p></div><?page  r04_00080_procescom_1892 ?>
-<div><h>72 Kap. X VIII. Beslag på Sigtedes Formue etc.</h>
+<div type='page-placeholder'><h>72 Kap. X VIII. Beslag på Sigtedes Formue etc.</h>
 <wtitle>§ 185.</wtitle>
 <p>Beslaglæggelsen bortfalder, naar Forfølgning frafaldes, eller Sigtede frifindes, og<lb />
 den ophæves. naar den på Grund af senere<lb />
@@ -2745,7 +2745,7 @@ inden den foreskrevne Frist, eller naar den<lb />
 frafaldes. Den i Lov af 3. Januar 1851<lb />
 § 14 fastfatte Straf for dommens Overtrædelse gælder også for Overtrædelse af det<lb />
 foreløbige Forbud.</p></div><?page  r04_00081_procescom_1892 ?>
-<div><h>Kap. XIX.    Efterforskning.             73</h>
+<div type='page-placeholder'><h>Kap. XIX.    Efterforskning.             73</h>
 <p>Tredie Afsnit.</p>
 <p>Undersøgelse, forend Tiltale er</p>
 <p>rejst, i Tager, som forfølges af Over-</p>
@@ -2773,7 +2773,7 @@ fordres.</p>
 <p>I Kjøbenhavn er Politidirektøren, der i<lb />
 sin Efterforskningsvirksomhed er Justitsministeren  umiddelbart underordnet, pligtig</p>
 <p>10</p></div><?page  r04_00082_procescom_1892 ?>
-<div><h>74            Kap. XIX.    Efterforskning.</h>
+<div type='page-placeholder'><h>74            Kap. XIX.    Efterforskning.</h>
 <p>at efterkomme alle lodlige Begæringer af<lb />
 Overanklageren, vedrorende Efterforskningen<lb />
 af de under sidstnævntes Virkekreds horende<lb />
@@ -2810,7 +2810,7 @@ den er den pågældende Private ubekendt,<lb />
 kan han gøre Meddelelse til denne, men<lb />
 foretager i øvrigt ingen Efterforskning, førend en udtrykkelig Begæring fra den Private foreligger. Indeholder en af den Private indgiven Anmeldelse om Forbrydelsen<lb />
 ingen saadan Begæring, skal han foranlediges til at give den fornødne Erklæring.</p></div><?page  r04_00083_procescom_1892 ?>
-<div><h>Kap. XIX.    Efterforskning.            75</h>
+<div type='page-placeholder'><h>Kap. XIX.    Efterforskning.            75</h>
 <p>Ovenstående Regler udelukke dog ikke,<lb />
 at uopsættelige Efterforskningsskridt foretages,<lb />
 førend Befalingen, Opfordringen eller Begæringen foreligger, såfremt Gærningen<lb />
@@ -2846,7 +2846,7 @@ ere fastsatte, at foretage Ransagninger og<lb />
 Beslaglæggelser, fordre Oplysninger af offentlige Myndigheder, foretage Besigtigelse, lade<lb />
 foretage Syn og Skøn, anholde Mistænkte<lb />
 m. v.</p></div><?page  r04_00084_procescom_1892 ?>
-<div><h>Kap. XIX.    Efterforskning.</h>
+<div type='page-placeholder'><h>Kap. XIX.    Efterforskning.</h>
 <p>kræver Loven i Anledning af en således truffen Foranstaltning en efterfølgende<lb />
 Henvendelse til Retten, påhviler det den<lb />
 pågældende Embedsmand at sørge for, at<lb />
@@ -2880,7 +2880,7 @@ mesteren.</p>
 <wtitle>§ 198.</wtitle>
 <p>De under Efterforskningen forefaldende<lb />
 Retsmøder ere ikke offentlige.</p></div><?page  r04_00085_procescom_1892 ?>
-<div><h>Kap. XIX.    Efterforskning.            ??</h>
+<div type='page-placeholder'><h>Kap. XIX.    Efterforskning.            ??</h>
 <p>Med Hensyn til Undersøgelsesrettens<lb />
 Virksomhed under Efterforskningen finde de<lb />
 i §§ 207—10 givne Regler Anvendelse, forsåvidt det ikke udelukkes ved Forholdets<lb />
@@ -2910,7 +2910,7 @@ Forundersøgelse, Tiltale eller Sagens Henlæggelse.</p>
 <p>Faar Politimesteren, efter at Forundersøgelse er begyndt, eller efter at Tiltale er<lb />
 rejst i en under Overanklagerens Virkekreds<lb />
 horende   Sag,    Kundskab   om    Omstændig-</p></div><?page  r04_00086_procescom_1892 ?>
-<div><h>78             Kap. XIX.    Efterforskning.</h>
+<div type='page-placeholder'><h>78             Kap. XIX.    Efterforskning.</h>
 <p>heder, der opfordre til yderligere Efterforskning, og Forholdene ikke tilstede at indhente henholdsvis Undersøgelsesrettens (jfr.<lb />
 § 210) eller Overanklagerens nærmere Bestemmelse, foretager han på egen Hånd de<lb />
 Efterforskningshandlinger, han skønner fornødne, og gør derefter uopholdelig Indberetning til Undersøgelsesretten eller overanklageren om det foretagne. Under en saadan genoptagen Efterforskning kan Politimesteren, om fornødent, overensstemmende<lb />
@@ -2934,7 +2934,7 @@ ved Kendelse.</p>
 kan ophæves af Underretskredsens dømmer<lb />
 eller af den Ret, ved hvilken Sag om den<lb />
 Lovovertrædelse, der var Genstand for Efterforskningen, tingfæstes.</p></div><?page  r04_00087_procescom_1892 ?>
-<div><h>Kap. XX.   Forundersøgelse ved Retten.    79</h>
+<div type='page-placeholder'><h>Kap. XX.   Forundersøgelse ved Retten.    79</h>
 <title>Kapitel XX.</title>
 <undertitle>Forundersøgelse ved Retten.</undertitle>
 <wtitle>§ 201.</wtitle>
@@ -2972,7 +2972,7 @@ kunne   opsættes.</p>
 <wtitle>§ 203.</wtitle>
 <p>Finder Retten, at Sagen ikke er<lb />
 indbragt   for  ret Værneting,   eller at  den,</p></div><?page  r04_00088_procescom_1892 ?>
-<div><h>80   Kap. XX.   Forundersøgelse ved Retten.</h>
+<div type='page-placeholder'><h>80   Kap. XX.   Forundersøgelse ved Retten.</h>
 <p>der påtaler, ej er berettiget dertil, eller<lb />
 at Forundersøgelse er udelukket ved Reglerne<lb />
 i § 201, eller at Handlinger af den Art,<lb />
@@ -3010,7 +3010,7 @@ Pålæg, dømmeren giver i Forundersøgelsens Interesse.</p>
 <p>dømmeren er berettiget til at henvende<lb />
 sig med begæring om Retshandlingers<lb />
 Foretagelse i en anden Retskreds til Under-</p></div><?page  r04_00089_procescom_1892 ?>
-<div><h>Kap. XX.   Forundersøgelse ved Retten.    81</h>
+<div type='page-placeholder'><h>Kap. XX.   Forundersøgelse ved Retten.    81</h>
 <p>søgelsesdommeren i denne. Ledes Forundersøgelsen af et Medlem af Landsretten, er<lb />
 dette fremdeles berettiget til at fordre<lb />
 enkelte Retshandlinger foretagne af Undersøgelsesdommeren  i Retskredsen.</p>
@@ -3050,7 +3050,7 @@ ethvert Fald inden Forundersøgelsens Slutning, forsåvidt han ej har unddraget 
 Forfølgning.</p>
 <p>Fores Beviser  under Forundersøgelsen</p>
 <p>il</p></div><?page  r04_00090_procescom_1892 ?>
-<div><h>82    Kap. XX.   Forundersøgelse ved Retten.</h>
+<div type='page-placeholder'><h>82    Kap. XX.   Forundersøgelse ved Retten.</h>
 <p>for at kunne benyttes ved Oplæsning under<lb />
 Domsforhandlingen, skal Sigtede være perfonlig til Stede, medmindre Sagen ingen<lb />
 Udslettelse tåler, eller Retten under Hensyn til Bevisførelsens Genstand eller de i<lb />
@@ -3083,7 +3083,7 @@ Forsvarer have under Iagttagelse af de<lb />
 nærmere Bestemmelser, Retten måtte give,<lb />
 Adgang til at gøre sig bekendt med Tilførslerne til Retsbogen og med de til denne<lb />
 fremlagte Aktstykker. Saadan Adgang såvelsom Udskrift fan dog ved kendelse nægtes</p></div><?page  r04_00091_procescom_1892 ?>
-<div><h>Kap. XX.   Forundersøgelse ved Retten.   83</h>
+<div type='page-placeholder'><h>Kap. XX.   Forundersøgelse ved Retten.   83</h>
 <p>Sigtede såvelsom hans valgte Forsvarer,<lb />
 naar der er Grund til at befrygte Modvirken af Undersøgelsen på nogen af de i<lb />
 § 167 Nr. 2 d ommeldte Måder, dog at<lb />
@@ -3121,7 +3121,7 @@ Foranstaltning.</p>
 <wtitle>§ 212.</wtitle>
 <p>Overanklagerens Beslutning om Frafald<lb />
 af Forfølgning binder ikke den overordnede</p></div><?page  r04_00092_procescom_1892 ?>
-<div><h>84  Kap. XX.   Forundersøgelse ved Retten.</h>
+<div type='page-placeholder'><h>84  Kap. XX.   Forundersøgelse ved Retten.</h>
 <p>Myndighed; dog må Forfølgningens Fortsættelse efter den overordnede Myndigheds<lb />
 Beslutning finde Sted inden Udlovet af to<lb />
 Måneder, medmindre Betingelserne for<lb />
@@ -3161,13 +3161,13 @@ hvilken Ret Tiltale er rejst.</p>
 <p>Er Sigtede Fængslet, bor Undersøgelsesretten ved Forundersøgelsens Slutning opgive Påtalemyndigheden en vis Frist, ved<lb />
 hvis Udøb Fængslingen vil blive hævet,<lb />
 såfremt ikke inden .den  Tid  enten Tiltale</p></div><?page  r04_00093_procescom_1892 ?>
-<div><h>Kap. XX.   Forundersøgelse ved Retten.   85</h>
+<div type='page-placeholder'><h>Kap. XX.   Forundersøgelse ved Retten.   85</h>
 <p>rejses, eller Oplysninger meddeles, som<lb />
 findes at burde begrunde en Forlængelse af<lb />
 Fristen. På lignende Måde kan forholdes,<lb />
 hvor Spørgsmål opstår om Ophør af<lb />
 andre vedvarende Foranstaltninger.</p></div><?page  r04_00094_procescom_1892 ?>
-<div><h>66   Kap. XXI. Forberedelse af Domsforhdl.</h>
+<div type='page-placeholder'><h>66   Kap. XXI. Forberedelse af Domsforhdl.</h>
 <p>Fjerde Afsnit.</p>
 <p>Tiltale og Domsforhandling ved<lb />
 Landøret.</p>
@@ -3197,7 +3197,7 @@ Anklageskriftet.</p>
 <p>I en Påtegning på Anklageskriftet<lb />
 skal derhos angives det Ting (Samling og<lb />
 Tingsted >, på hvilke Domsforhandlingen ventes</p></div><?page  r04_00095_procescom_1892 ?>
-<div><h>Kap. XXI. Forberedelse af Domsforhdl.  87</h>
+<div type='page-placeholder'><h>Kap. XXI. Forberedelse af Domsforhdl.  87</h>
 <p>foretagen, og om denne skal foregå for Nævninger eller ikke. Det bør iagttages, at det<lb />
 tidligste Ting vælges, som Omstændighederne<lb />
 tillade.</p>
@@ -3233,7 +3233,7 @@ gælder om Berigtigelser, som Overanklageren<lb />
 under Domsforhandlingen foretager i Anklageskriftets Angivelser.</p>
 <wtitle>§ 219.</wtitle>
 <p>Samtidigt med Indleveringen af Anklageskriftet eller snarest muligt derefter stal Overanklageren på Rettens Kontor indlevere   en</p></div><?page  r04_00096_procescom_1892 ?>
-<div><h>88   Kap. XXI. Forberedelse af Domsforhdl.</h>
+<div type='page-placeholder'><h>88   Kap. XXI. Forberedelse af Domsforhdl.</h>
 <p>Udskrift af de i Sagen foretagne retslige<lb />
 Undersøgelses- og Bevishandlinger, ledsaget af<lb />
 Sagens øvrige Dokumenter og andre synlige<lb />
@@ -3268,7 +3268,7 @@ fremførte, med kort Angivelse af, hvad dermed tilsigtes godtgjort, ønskes Vidn
 Syns- eller Skønsmænd indkaldte, må det<lb />
 opgives, om de begæres indkaldte til Domsforhandlingen eller for en Undersøgelsesret.<lb />
 Samtidig indleveres på  Rettens Kontor  de</p></div><?page  r04_00097_procescom_1892 ?>
-<div><h>Kap. XXI. Forberedelse af Domsforhdl.    89</h>
+<div type='page-placeholder'><h>Kap. XXI. Forberedelse af Domsforhdl.    89</h>
 <p>Dokumenter og andre synlige Bevismidler,<lb />
 af hvilke der måtte agtes gjort Brug.</p>
 <p>Vil Forsvareren eller Tiltalte fremsætte<lb />
@@ -3307,7 +3307,7 @@ eller Tiltalte er fremsat i Henhold til foregående Paragraf, skal han uden Opho
 forelægge Retten Sagen til Afgørelse. Forinden denne træffes, bør der, såvidt dertil er Anledning, gives Overanklageren<lb />
 og  Fursvareren  eller   Tiltalte   Lejlighed  til</p>
 <p>12</p></div><?page  r04_00098_procescom_1892 ?>
-<div><h>90   Kap. XXI. Forberedelse af Domsforhdl.</h>
+<div type='page-placeholder'><h>90   Kap. XXI. Forberedelse af Domsforhdl.</h>
 <p>at ytre sig mundtligt eller skriftligt. Tilfølgetagelse af en Begæring om Indkaldelse<lb />
 af Vidner kan, hvor dertil er særlig Anledning, betinges af, at Tiltalte stiller Sikkerhed<lb />
 for de Omkostninger, som derved ville forvoldes.</p>
@@ -3345,7 +3345,7 @@ Bevis vilde spildes, hvis dets Optagelse skulde<lb />
 bero, indtil Reglerne i ^ 219 til 223<lb />
 ere iagttagne, retter Overanklageren uden<lb />
 yderligere  forberedende Skridt,  end Omstæn-</p></div><?page  r04_00099_procescom_1892 ?>
-<div><h>Kap. XXI. Forberedelse af Domsforhdl.   VI</h>
+<div type='page-placeholder'><h>Kap. XXI. Forberedelse af Domsforhdl.   VI</h>
 <p>dighederne tillade, Begæring til Undersøgelsesretten; dog stal i ethvert Fald Meddelelse herom<lb />
 snarest muligt indleveres på Landsrettens<lb />
 Kontor og Underretning tillige gives Forsvareren eller Tiltalte. Under samme Betingelse<lb />
@@ -3374,7 +3374,7 @@ til en bestemt Dag forkyndt for Tiltalte med<lb />
 mindst fire Dages Varsel. Genpart af stævningen tilstilles samtidigt Forsvareren.</p>
 <p>Er Tiltalte fængslet eller anholdt, foranlediger Overanklageren, at han betimeligt<lb />
 henbringes til Tingstedet.</p></div><?page  r04_00100_procescom_1892 ?>
-<div><h>92   Kap. XXI. Forberedelse af Domsforhdl.</h>
+<div type='page-placeholder'><h>92   Kap. XXI. Forberedelse af Domsforhdl.</h>
 <wtitle>§ 227.</wtitle>
 <p>Vidner og Syns- eller Skønsmænd, som<lb />
 skulle fremstilles under Domsforhandlingen,<lb />
@@ -3415,7 +3415,7 @@ Foraudringer i Tiltalen eller Anmeldelse af<lb />
 ny Beviser.</p>
 <p>Om Udsættelsesgrunde, som indtræde for<lb />
 Domsforhandlingens    Begyndelse,   påhviler</p></div><?page  r04_00101_procescom_1892 ?>
-<div><h>Kap. XXI. Forberedelse af Domsforhdl.   93</h>
+<div type='page-placeholder'><h>Kap. XXI. Forberedelse af Domsforhdl.   93</h>
 <p>det enhver Vedkommende snarest muligt at<lb />
 at underrette Retten. Naar Udslettelse sker,<lb />
 bør det såvidt gørligt iagttages, at Underretning betimeligt meddeles Vidner og andre,<lb />
@@ -3446,7 +3446,7 @@ eller nævning deltages som ikke har overværet<lb />
 Forhandlingerne i deres Helhed. Naar en<lb />
 dømmer eller nævning faar Forfald eller af<lb />
 anden Grund må fratræde, efter at Domsforhandling er begyndt, kan denne, naar Sagen</p></div><?page  r04_00102_procescom_1892 ?>
-<div><h>94   Kap. XXII. Domsforhdl. ved Landøret.</h>
+<div type='page-placeholder'><h>94   Kap. XXII. Domsforhdl. ved Landøret.</h>
 <p>frembyder ringe Tvivl, fortsættes for henholdsvis<lb />
 to dømmere eller elleve Nævninger; Dom kan<lb />
 dog i førstnævnte Tilfælde kun afsiges, naar<lb />
@@ -3480,7 +3480,7 @@ ikke straks bringes tilstede, udsættes Sagen.</p>
 <p>I efternævnte Tilfælde kan dog en<lb />
 Domsforhandling fremmes i Tiltaltes Fraværelse, såfremt Retten ikke finder hans nærværelse nødvendig:</p>
 <p>1. naar han er undvegen, efter at Anklageskriftet er ham forkyndt;</p></div><?page  r04_00103_procescom_1892 ?>
-<div><h>Kap. XXII. Domsforhdl. ved Landøret.   95</h>
+<div type='page-placeholder'><h>Kap. XXII. Domsforhdl. ved Landøret.   95</h>
 <p>2.  naar han, efter at være mødt ved Sagens<lb />
 Påråb,    har   forladt Tingstedet   uden<lb />
 Rettens Tilladelse;</p>
@@ -3517,7 +3517,7 @@ endelig Afgørelse har fundet Sted.</p>
 <p>Har Forhandlingen været afbrudt, bestemmer Rettens Formand, om og i hvilket<lb />
 Omfang det allerede foretagne skal gentages,<lb />
 naar Sagen atter kommer for.</p></div><?page  r04_00104_procescom_1892 ?>
-<div><h>96   Kap. XXII. Domsforhdl. ved Landøret.</h>
+<div type='page-placeholder'><h>96   Kap. XXII. Domsforhdl. ved Landøret.</h>
 <wtitle>§ 238.</wtitle>
 <p>Om Udsættelsesgrunde, som indtræde på<lb />
 en Tid, da Domsforhandlingen er udsat, påhviler det enhver Vedkommende snarest muligt<lb />
@@ -3557,7 +3557,7 @@ om Overanklageren har Påtaleret, kan Forhandlingen begrænses til dette Punkt, 
 spørgsmålet har fundet sin Afgørelse.</p>
 <p>Det samme gælder, naar Spørgsmål<lb />
 rejses, om et sådant Forhold, som er beskrevet</p></div><?page  r04_00105_procescom_1892 ?>
-<div><h>Kap. XXII. Domsforhdl. ved Landøret.   9?</h>
+<div type='page-placeholder'><h>Kap. XXII. Domsforhdl. ved Landøret.   9?</h>
 <p>i Anklageskriftet, overhovedet er strafbart, eller<lb />
 om Straf er udelukket ved forældelse eller af<lb />
 anden lignende Grund. Ere Rettens dømmere<lb />
@@ -3594,7 +3594,7 @@ derefter modafhøres af overanklageren og genafhøres af Forsvareren eller Tilta
 <p>Retten kan, efter Begæring eller af egen<lb />
 Drift,   lade  et Vidne, der er aftrådt,  frem-</p>
 <p>13</p></div><?page  r04_00106_procescom_1892 ?>
-<div><h>§§   Kap. XXII. Domsforhdl. ved Landøret.</h>
+<div type='page-placeholder'><h>§§   Kap. XXII. Domsforhdl. ved Landøret.</h>
 <p>stå påny til yderligere Afhørelse; foranstående Regler finde herved tilsvarende Anvendelse.</p>
 <p>På tilsvarende Måde forholdes med<lb />
 Afhørelse af Syns- og skønsmænd.</p>
@@ -3630,7 +3630,7 @@ til at rette Spørgsmål til de fremstillede Vidner, Syns- eller Skønsmænd, ef
 erholdt Ordet af Formanden.</p>
 <wtitle>§ 247.</wtitle>
 <p>De afhørte Vidner og Syns- eller Skønsmænd ere pligtige at blive tilstede, indtil Rets-</p></div><?page  r04_00107_procescom_1892 ?>
-<div><h>Kap. XXII, Domsforhdl. ved Landøret     99</h>
+<div type='page-placeholder'><h>Kap. XXII, Domsforhdl. ved Landøret     99</h>
 <p>medet sluttes, eller Formanden tillader dem<lb />
 at forlade Tingstedet. Hvorvidt de kunne eller<lb />
 skulle blive tilstede i Retssalen, beror på Formandens Bestemmelse.</p>
@@ -3663,7 +3663,7 @@ deres Fremstilling for Retten ikke finder<lb />
 Sted af de i § 102, jfr. §§ 124 og 131,<lb />
 angivne Grunde, eller naar den nu afgivne<lb />
 Forklaring afviger fra den tidligere, eller</p></div><?page  r04_00108_procescom_1892 ?>
-<div><h>100 Kap. XXII. Domsforhdl. ved Landøret.</h>
+<div type='page-placeholder'><h>100 Kap. XXII. Domsforhdl. ved Landøret.</h>
 <p>naar et Vidne vægrer sig ved at afgive<lb />
 Forklaring, og de foreskrevne Tvangsmidler<lb />
 ikke antages at burde anvendes eller forgæves ere blevne anvendte;</p>
@@ -3698,7 +3698,7 @@ Grund.</p>
 Retsskriveren, medmindre Rettens Formand<lb />
 tillader den Bevisførende selv at oplæse dem,<lb />
 eller et af Rettens Medlemmer foretager Oplæsningen.</p></div><?page  r04_00109_procescom_1892 ?>
-<div><h>Kap. XXII. Domsforhdl. ved Landøret. 101</h>
+<div type='page-placeholder'><h>Kap. XXII. Domsforhdl. ved Landøret. 101</h>
 <wtitle>§ 251.</wtitle>
 <p>Bevis, som haves tilstede, kan ikke nægtes fort af den Grund, at det ikke er anmeldt<lb />
 for Modparten så betimeligt, at denne har<lb />
@@ -3736,7 +3736,7 @@ Dom i Sagen; dog betragtes Sagen som tingfæstet ved Retten, indtil dommens Fuld
 delse kan begynde, eller indtil i Tilfælde af<lb />
 Anke Sagens Aktstykker ere indsendte til<lb />
 Rigsanklageren (jfr. § 3^7).</p></div><?page  r04_00110_procescom_1892 ?>
-<div><h>102 Kap. XXII, Domsforhdl. ved Landøret.</h>
+<div type='page-placeholder'><h>102 Kap. XXII, Domsforhdl. ved Landøret.</h>
 <p>Den vedtagne Afgørelse føres i Pennen<lb />
 af Rettens Formand eller af den af de i Afgørelsen deltagende dømmere, hvem dette Hverv<lb />
 af Formanden overdrages. Stemmetallet må<lb />
@@ -3770,7 +3770,7 @@ ved Lovregler.</p>
 <p>Derimod er Retten^ ikke udelukket fra at<lb />
 yenfore det påtalte Forhold under en anden<lb />
 Strafbestemmelse end den, Overanklageren har</p></div><?page  r04_00111_procescom_1892 ?>
-<div><h>Kap. XXII. Domsforhdl. vod Landøret. 103</h>
+<div type='page-placeholder'><h>Kap. XXII. Domsforhdl. vod Landøret. 103</h>
 <p>påstået anvendt, eller fra at afvige fra Tiltalen med Hensyn til de med Forbrydelsen<lb />
 forbundne Biomstændigheder (Tid, Sted o. desl.),<lb />
 Alt under Betingelse af, at det med Sikkerhed<lb />
@@ -3800,7 +3800,7 @@ eller desl., som findes forinden at burde afgøres, til Udtagelse af Nævninger,
 Rettens Formand, førend Lodtrækningen begynder, beslutte, at endvidere 1 eller 2 Nævninger skulle udtages som Suppleanter. Såfremt da nogen af Nævningerne måtte blive<lb />
 forhindret! at overvære den hele Forhandling,<lb />
 indtil Nævningernes Erklæring   er afgiven,</p></div><?page  r04_00112_procescom_1892 ?>
-<div><h>104 Kap. XXIII. Domsforhdl. f. Nævninger.</h>
+<div type='page-placeholder'><h>104 Kap. XXIII. Domsforhdl. f. Nævninger.</h>
 <p>indtræder en Suppleant i hans Sted efter<lb />
 den Rækkefølge, i hvilken Navnene ere udtrukne.</p>
 <p>Suppleanterne overvære Forhandlingen,<lb />
@@ -3833,7 +3833,7 @@ Nævninger bringes tilveje ved Tilkaldelse af Hjælpenævninger i den Orden, i h
 disses Navne findes opførte på Hjælpelisten.</p>
 <p>Skulde det tilstrækkelige Antal ikke<lb />
 kunne skaffes tilveje på denne Måde, for-</p></div><?page  r04_00113_procescom_1892 ?>
-<div><h>Kap. XXIII. Domsforhdl. f. Nævninger. 105</h>
+<div type='page-placeholder'><h>Kap. XXIII. Domsforhdl. f. Nævninger. 105</h>
 <p>anstalter Rettens Formand Tallet udfyldt<lb />
 ved Lodtrækning, således som i Lov om<lb />
 Domsmagtens Ordning m. m. § 72 bestemt.</p>
@@ -3874,7 +3874,7 @@ de andre.</p>
 <p>Indsigelser, der gå ud på, at Reglerne i §§ 263 og 264 ere tilsidesatte, skulle<lb />
 fremsættes for Anklageskriftets Oplæsning.</p>
 <p>14</p></div><?page  r04_00114_procescom_1892 ?>
-<div><h>106 Kap. XXIII. Domsforhdl. f. Nævninger.</h>
+<div type='page-placeholder'><h>106 Kap. XXIII. Domsforhdl. f. Nævninger.</h>
 <wtitle>§ 266.</wtitle>
 <p>Naar 12 eller, hvis Suppleanter skulle<lb />
 tiltræde, henholdsvis 13 eller 14 »forkastede<lb />
@@ -3912,7 +3912,7 @@ deres endelige Kendelse er afgiven, ikke angående Sagen må have Samtale eller<
 Forbindelse med nogen anden end Retten<lb />
 gennem dennes Formand, og tager dem<lb />
 derpå i Ed, idet han foreholder dem. at de</p></div><?page  r04_00115_procescom_1892 ?>
-<div><h>Kap. XXIII. Domsforhdl. f. Nævninger. 107</h>
+<div type='page-placeholder'><h>Kap. XXIII. Domsforhdl. f. Nævninger. 107</h>
 <p>skulle love og sværge, opmærksomt at ville<lb />
 følge Forhandlingen i Retten og samvittighedsfuldt besvare de Spørgsmål, som<lb />
 ville blive dem forelagte, således som de<lb />
@@ -3951,7 +3951,7 @@ førelse skal finde Sted.</p>
 <p>Bevisførelsen foregår først fra Overanklagerens og derefter fra Forsvarets Side:<lb />
 Beviser, hvis Førelse Retten af egen Drift<lb />
 beslutter, fremføres på det Tidspunkt, For-</p></div><?page  r04_00116_procescom_1892 ?>
-<div><h>108 Kap. XXIII. Domsforhdl. f. Nævninger.</h>
+<div type='page-placeholder'><h>108 Kap. XXIII. Domsforhdl. f. Nævninger.</h>
 <p>manden bestemmer. Forend en Parts Beviser fremføres, kan den Bevisførende i<lb />
 Korthed angive, hvad det er for Beviser,<lb />
 han vil fore, og hvad han dermed vil<lb />
@@ -3988,7 +3988,7 @@ indenfor de grænser, som ere betegnede i § 257. Som følge heraf hører det li
 Nævningernes afgørelse, om nogen Grund,<lb />
 som udelukker Straf, eller om sådanne i<lb />
 Straffeloven bestemt betegnede Omstændigheder, der hjemle Nedsættelse eller Forhøjelse af Straffen udenfor den almindelige Strafferamme, ere tilstede.</p></div><?page  r04_00117_procescom_1892 ?>
-<div><h>Kap. XXIII. Domsforhdl. f. Nævninger. 109</h>
+<div type='page-placeholder'><h>Kap. XXIII. Domsforhdl. f. Nævninger. 109</h>
 <p>Undtagne fra Nævningernes afgørelse<lb />
 ere Spørgsmål om</p>
 <p>») Strafskyldens forældelse,<lb />
@@ -4023,7 +4023,7 @@ skal ethvert Spørgsmål begynde med Ordene<lb />
 Spørgsmålet skal Forbrydelsens Art betegnes enten ved dens i Loven hjemlede Navn eller ved en Henvisning<lb />
 til den pågældende Strafbestemmelse,<lb />
 og    i    sidstnævnte   Tilfælde    skulle    tillige</p></div><?page  r04_00118_procescom_1892 ?>
-<div><h>1§§ Kap. XXIII. Domsforhdl. f. Nævninger.</h>
+<div type='page-placeholder'><h>1§§ Kap. XXIII. Domsforhdl. f. Nævninger.</h>
 <p>Forbrydelsens i Loven beskrevne Kendemærker<lb />
 optages i Spørgsmålet: Gærningen skal<lb />
 beskrives bed saadan Angivelse af Tid og<lb />
@@ -4058,7 +4058,7 @@ under Forudsætning af en bestemt Besvarelse<lb />
 af et forudgående Spørgsmål,   bor dette<lb />
 udtrykkelig    bemærkes   i    den skriftlige  Ud<lb />
 færdigelse.</p></div><?page  r04_00119_procescom_1892 ?>
-<div><h>Kap. XXIII. Domsforhdl. f. Nævninger. IN</h>
+<div type='page-placeholder'><h>Kap. XXIII. Domsforhdl. f. Nævninger. IN</h>
 <p>Ligeledes anføres ved hvert Spørgsmål, at der udkræves otte Stemmer til<lb />
 det Svar — „ja" eller „nej" — som er<lb />
 ugunstigst for  Tiltalte.</p>
@@ -4092,7 +4092,7 @@ bestemte Værelse.</p>
 <wtitle>§ 286.</wtitle>
 <p>Indtil Nævningernes Erklæring er vedtagen, må intet Samkvem finde Sted mellem<lb />
 dem og andre Personer, ej heller må nogen</p></div><?page  r04_00120_procescom_1892 ?>
-<div><h>112 Kap. XXIII Domsforhdl. f. Nævninger.</h>
+<div type='page-placeholder'><h>112 Kap. XXIII Domsforhdl. f. Nævninger.</h>
 <p>nævning forlade Rådslagningsværelset eller<lb />
 nogen Anden betræde dette uden Tilladelse af<lb />
 Rettens Formand. Rettens Formand træffer<lb />
@@ -4135,7 +4135,7 @@ iagttage, eller om Betydningen af de stillede<lb />
 Spørgsmål eller om Svarenes Affattelse,<lb />
 eller antage de det for nødvendigt, at yderligere eller ændrede spørgsmaal forelægges<lb />
 dem. kunne de derom henvende sig til Rettens</p></div><?page  r04_00121_procescom_1892 ?>
-<div><h>Kap. XXIII. Domsforhdl. f. Nævninger. 113</h>
+<div type='page-placeholder'><h>Kap. XXIII. Domsforhdl. f. Nævninger. 113</h>
 <p>Formand, som, efter at Nævningerne i Retssalen have fremfat deres Andragende, her<lb />
 meddeler dem Oplysning eller foranstalter<lb />
 det fornødne. Bliver der at tage Bestemmelse om Forandringer i eller Tillæg til<lb />
@@ -4176,7 +4176,7 @@ Indhold; ligeledes skulle de Svar, hvis<lb />
 Berigtigelse eller Fuldstændiggørelse ikke<lb />
 fordres, forblive uforandrede     Utilstedelige</p>
 <p>15</p></div><?page  r04_00122_procescom_1892 ?>
-<div><h>114 Kap. XXIII. Domsforhdl. f. Nævninger.</h>
+<div type='page-placeholder'><h>114 Kap. XXIII. Domsforhdl. f. Nævninger.</h>
 <p>Ændringer må ikke tages i Betragtning<lb />
 af Retten.</p>
 <p>Berigtigelsen eller Fuldstændiggørelsen<lb />
@@ -4216,7 +4216,7 @@ sålænge Dom ikke er afsagt.</p>
 <p>Ny Domsforhandling, som besluttes i<lb />
 medfør af forrige Paragraf, bliver at foretage, enten på samme eller på et senere Ting,<lb />
 for  andre   dømmere  og  andre Nævninger.</p></div><?page  r04_00123_procescom_1892 ?>
-<div><h>Kap. XXIII. Domsforhdl. s. Nævninger. 115</h>
+<div type='page-placeholder'><h>Kap. XXIII. Domsforhdl. s. Nævninger. 115</h>
 <p>Indtil Nævningeerklæring under den ny Sag er afgiven, kan Rigsanklageren beslutte at<lb />
 frafalde Tiltale, i hvilket Tilfælde Frifindelsesdom bliver at afsige.</p>
 <p>Falder også den ny Domsforhandling<lb />
@@ -4252,7 +4252,7 @@ Erklæring. Ved denne Forhandlings Slutning optages Sagen til Dom.</p>
 Afgivelsen af Nævningernes Erklæring, bliver<lb />
 denne, forinden Forhandlingen kan fortsættes på Grundlag as samme, at oplæse for ham,<lb />
 efter at han atter er fremstillet.</p></div><?page  r04_00124_procescom_1892 ?>
-<div><h>116 Kap. XXIII. Domsforhdl. f. Nævninger.</h>
+<div type='page-placeholder'><h>116 Kap. XXIII. Domsforhdl. f. Nævninger.</h>
 <wtitle>§ 297.</wtitle>
 <p>Finder Retten, at Tiltalte ifølge Loven<lb />
 ikke kan straffes for et Forhold som det,<lb />
@@ -4284,7 +4284,7 @@ afgøres ved dommen, uden nogen Deling.<lb />
 Dog kan Rettens Formand beslutte, at<lb />
 Spørgsmålet. om Tiltalte er skyldig, først<lb />
 stal forhandles og afgøres; i så Fald finde</p></div><?page  r04_00125_procescom_1892 ?>
-<div><h>Kap. XXIV. Domsforhdl. uden Nævninger. 117</h>
+<div type='page-placeholder'><h>Kap. XXIV. Domsforhdl. uden Nævninger. 117</h>
 <p>Reglerne i Slutningssætningen af § 274 og<lb />
 i § 298 tilsvarende Anvendelse.</p>
 <wtitle>§ 300.</wtitle>
@@ -4310,7 +4310,7 @@ Sagens afgørelse, ikke faar nogen Betydning for denne, bor der dog som Regel, n
 det skønnes, at der i Tilfælde as Anke<lb />
 vil kunne blive tillagt den pågældende Omstændighed Betydning af højesteret, i Doms-grundene optages en Udtalelse om, hvorvidt<lb />
 Retten anser den bevist eller ikke.</p></div><?page  r04_00126_procescom_1892 ?>
-<div><h>118   Kap. XXV. Domsforhdl. for Underret.</h>
+<div type='page-placeholder'><h>118   Kap. XXV. Domsforhdl. for Underret.</h>
 <p>Femte Afsnit.</p>
 <p>Tiltale og Domsforhandling ved<lb />
 Underret.</p>
@@ -4338,7 +4338,7 @@ afsagt, kan dømmeren, dersom han finder,<lb />
 at nogen af de i § 211, første Stykke, angivne Forudsætninger er til Stede, eller<lb />
 at nogen foreliggende Omstændighed gør det<lb />
 betænkeligt at pådømme Sagen uden formelig</p></div><?page  r04_00127_procescom_1892 ?>
-<div><h>Kap, XXV. Domsforhdl. for Underret.   119</h>
+<div type='page-placeholder'><h>Kap, XXV. Domsforhdl. for Underret.   119</h>
 <p>Domsforhandling, beslutte henholdsvis at<lb />
 standse eller slutte Behandlingen overensstemmende med § 211.</p>
 <p>Med dommens Afsigelse og Forkyndelse forholdes overensstemmende med de<lb />
@@ -4374,7 +4374,7 @@ indgives på Underrettens kontor eller fremsættes overensstemmende med § 230 t
 Undersøgelsesrettens Retsbog eller Fængselsbestyrerens Bog. På Indholdet af<lb />
 den ovennævnte Påtegning skal den,<lb />
 der iværksætter Forkyndelsen, særligt henlede</p></div><?page  r04_00128_procescom_1892 ?>
-<div><h>120   Kap. XXV. Domsforhdl. for Underret.</h>
+<div type='page-placeholder'><h>120   Kap. XXV. Domsforhdl. for Underret.</h>
 <p>Tiltaltes Opmærksomhed. Om den Erklæring, som Tiltalte i ommeldte Henseende<lb />
 måtte afgive under Forkyndelsen, optages<lb />
 fornøden Bemærkning i Forkyndelsespåtegningen.</p>
@@ -4407,7 +4407,7 @@ i Sager, som påtales as Politimesteren.</undertitle>
 <wtitle>§ 308.</wtitle>
 <p>Tiltale rejses i Politisager i Almindelighed ved et af Politimesteren udfærdiget<lb />
 Anklageskrift, hvori Sigtedes  Navn og hvad</p></div><?page  r04_00129_procescom_1892 ?>
-<div><h>Kap. XXVI.   Politisager.             121</h>
+<div type='page-placeholder'><h>Kap. XXVI.   Politisager.             121</h>
 <p>der ellers udkræves til hans nøjagtige Betegnelse anføres, og den formentlige Forseelse betegnes med saadan Angivelse af Tid,<lb />
 Sted og andre nærmere Omstændigheder,<lb />
 sum måtte udkræves til Forholdets tilstrækkelige og tydelige Betegnelse, og med<lb />
@@ -4442,7 +4442,7 @@ Anledning af dem afgivne Erklæringer indføres.</p>
 Tid, eller afsones den, bortfalder videre<lb />
 forfølgning, og saadan afgørelse har da i</p>
 <p>16</p></div><?page  r04_00130_procescom_1892 ?>
-<div><h>122            Kap. XXVI.   Politisager.</h>
+<div type='page-placeholder'><h>122            Kap. XXVI.   Politisager.</h>
 <p>Tilfælde    af   Forseelsens    Gentagelse   lige<lb />
 Virkning med en To ni.</p>
 <p>Gaar Sigtedes Erklæring ud på, at<lb />
@@ -4477,7 +4477,7 @@ Forfald, eller nægter han at afgive Forklaring, kan Retten, når der ikke under
 Sagen er Spørgsmål om højere Straf end<lb />
 bøder, og Omstændighederne ikke findes at<lb />
 tale herimod, anse ham som vedgående For-</p></div><?page  r04_00131_procescom_1892 ?>
-<div><h>Kap. XXVI.   Politisager.             123</h>
+<div type='page-placeholder'><h>Kap. XXVI.   Politisager.             123</h>
 <p>seelsen og påkende Sagen uden videre<lb />
 Bevisførelse.</p>
 <p>Naar der i en Sag, hvorunder der<lb />
@@ -4517,7 +4517,7 @@ kan dømmeren, naar han finder, at Omstændighederne tale derfor, afgøre Sagen 
 Henhold hertil uden at afsige Dom. Dommeren kan betinge Sagens afgørelse på<lb />
 denne Måde af, at Revselsen tildeles under<lb />
 tilsyn af en ved Politiet ansat.</p></div><?page  r04_00132_procescom_1892 ?>
-<div><h>124            Kap. XXVI.   Politisager.</h>
+<div type='page-placeholder'><h>124            Kap. XXVI.   Politisager.</h>
 <p>Er Politimesteren eller nogen på hans<lb />
 Vegne nærværende, må der forinden være<lb />
 givet ham Lejlighed til at udtale sig om<lb />
@@ -4547,7 +4547,7 @@ særlig §§ 306 og 307, gælde for andre<lb />
 Underretssager, også komme til Anvendelse<lb />
 i de Sager, som omhandles i nærværende<lb />
 Kapitel.</p></div><?page  r04_00133_procescom_1892 ?>
-<div><h>Kap. XXVII. Påanke af Landsretsdomme. 125</h>
+<div type='page-placeholder'><h>Kap. XXVII. Påanke af Landsretsdomme. 125</h>
 <p>Sjette Afsnit.<lb />
 Retsmidler mod trufne afgørelser.</p>
 <title>Kapitel XXVII.</title>
@@ -4578,7 +4578,7 @@ Tilfælde påanke en fældende Dom.</p>
 <p>Tiltaltes Forsvarer ved Landsretten<lb />
 er pligtig til på Forlangende at bistå ham<lb />
 med Råd  om, hvorvidt   han  bor  påanke</p></div><?page  r04_00134_procescom_1892 ?>
-<div><h>126 Kap. XXVII. Påanke af Landsretsdomme.</h>
+<div type='page-placeholder'><h>126 Kap. XXVII. Påanke af Landsretsdomme.</h>
 <p>dømmen, såvelsom med Affattelsen og<lb />
 Indgivelsen af Ankemeddelelsen og dens<lb />
 Begrundelse.</p>
@@ -4616,7 +4616,7 @@ en urigtig Forståelse af Straffeloven:</p>
 <p>4.    at Retten i en Sag,  der er påkendt   uden   Nævninger,    har   afgjort   på<lb />
 urigtig Måde noget Spørgsmål, som i en<lb />
 nævningesag ifølge § 276 vilde være und--</p></div><?page  r04_00135_procescom_1892 ?>
-<div><h>Kap. XXVII. Påanke af Landsretsdomme. 127</h>
+<div type='page-placeholder'><h>Kap. XXVII. Påanke af Landsretsdomme. 127</h>
 <p>draget fra Nævningernes afgørelse, eller i<lb />
 øvrigt ved afgørelsen af, om Tiltalte stal<lb />
 domfældes, har anvendt Straffeloven urigtigt;</p>
@@ -4650,7 +4650,7 @@ Genpart af Meddelelsen indleveres på Landsrettens Kontor.</p>
 <p>Pil Tiltalte anke, må han afgive<lb />
 Meddelelse herom inden fjorten Dage, regnede fra dommens Afsigelse eller, naar<lb />
 han ikke har været tilstede ved Afsigelsen af</p></div><?page  r04_00136_procescom_1892 ?>
-<div><h>128 Kap. XXVII. Påanke af Landsretsdomme.</h>
+<div type='page-placeholder'><h>128 Kap. XXVII. Påanke af Landsretsdomme.</h>
 <p>dømmen, og denne er fældende, fra den Dag,<lb />
 da Udskrift af dommen er ham forkyndt.<lb />
 Meddelelsen kan, naar den foregår straks<lb />
@@ -4684,7 +4684,7 @@ Omstændigheder ere fjærnede, som have foranlediget Oversiddelsen af Fristen.</
 <wtitle>§ 325.</wtitle>
 <p>Enten i selve Antemeddelelsen eller i en<lb />
 yderligere Meddelelse, der må afgives inden</p></div><?page  r04_00137_procescom_1892 ?>
-<div><h>Kap. XXVII. Påanke af Landsretsdomme.  l^'.»</h>
+<div type='page-placeholder'><h>Kap. XXVII. Påanke af Landsretsdomme.  l^'.»</h>
 <p>Udløbet af den i §§ 322 og 323 bestemte Frist og pan en af de Måder, foul<lb />
 der bestemt, må den Ankende angive den<lb />
 eller de Grunde, hvorpå han støtter sin Anke.<lb />
@@ -4722,7 +4722,7 @@ as tre af Højesterets Medlemmer, i et ikke<lb />
 offentligt Retsmøde, efter at der, såvidt der^<lb />
 til findes Anledning, er givet Parterne Lejlighed til at ytre sig mundtligt eller skriftligt.</p>
 <p>i?</p></div><?page  r04_00138_procescom_1892 ?>
-<div><h>130 Kap. XXVII. Påanke af Landsretsdomme.</h>
+<div type='page-placeholder'><h>130 Kap. XXVII. Påanke af Landsretsdomme.</h>
 <wtitle>§ 329.</wtitle>
 <p>Findes ikke Grund til straks at afvise Anken, beskikker Højesterets Iustitiarius<lb />
 forsvarer for Tiltalte, forsåvidt denne ikke<lb />
@@ -4758,7 +4758,7 @@ for samme.</p>
 <wtitle>§ 331.</wtitle>
 <p>Er Tiltalte ikke fængslet, har han Ret<lb />
 til at deltage i Retsmødet; er han fængslet,</p></div><?page  r04_00139_procescom_1892 ?>
-<div><h>.Kap. XXVII. Påanke af Landsretsdomme.  131</h>
+<div type='page-placeholder'><h>.Kap. XXVII. Påanke af Landsretsdomme.  131</h>
 <p>bliver han tun, naar han har fremsat Begæring derom, og højesterets Iustitiarius sin<lb />
 der, at særlige Grunde tale for at tage denne<lb />
 til følge, at foranstalte henbragt til Modet.<lb />
@@ -4794,7 +4794,7 @@ naar særlige Grunde findes at tale derfor.<lb />
 Findes det, at deres Fremsættelse gør yderligere Forberedelse nødvendig for Modparten, udsætter Højesteret Sagen derefter.</p>
 <wtitle>§ 334.</wtitle>
 <p>Højesterets prøvelse er i Neglen indskrænket til de påberåbte Ankegrunde; her-fra gælde dog følgende Undtagelser:</p></div><?page  r04_00140_procescom_1892 ?>
-<div><h>132 Kap. XXVII. Påanke af Landsretsdomme.</h>
+<div type='page-placeholder'><h>132 Kap. XXVII. Påanke af Landsretsdomme.</h>
 <p>1. Hvor Anken eller en i Henhold til § 333, første Stykke, fremsat Påstand er<lb />
 støttet på nogen af de i § 320 Nr. 2 til 5 omhandlede Grunde, kan Retten prøve, om<lb />
 Straffeloven i det hele er rigtigt anvendt,<lb />
@@ -4834,7 +4834,7 @@ ningeerklæring  er kendt skyldig   i den For<lb />
 brydelse, for hvillen der er Spørgsmål om<lb />
 at domfælde ham,   og,   hvis Sagen ikke er<lb />
 en Nævningesag, at Landsrettens Tom har</p></div><?page  r04_00141_procescom_1892 ?>
-<div><h>Kap. XXVII. Påanke af Landsretsdomme. 133</h>
+<div type='page-placeholder'><h>Kap. XXVII. Påanke af Landsretsdomme. 133</h>
 <p>antaget de Omstændigheder godtgjorte, på<lb />
 (^rundlag af hvilke der er Spørgsmål om<lb />
 at ikende ham Straf.</p>
@@ -4876,7 +4876,7 @@ mindre  Betingelserne   for (Genoptagelse ere<lb />
 tilstede.</p>
 <p>Stal i en nævningesag ny Domsfor-<lb />
 handling   finde   Sted, må ingen Nævning</p></div><?page  r04_00142_procescom_1892 ?>
-<div><h>184 Kap. XXVIII. Påanke af Underretsdomme.</h>
+<div type='page-placeholder'><h>184 Kap. XXVIII. Påanke af Underretsdomme.</h>
 <p>medvirke, som har   deltaget   i den tidligere<lb />
 domsforhandling.</p>
 <title>Kapitel XXVIII.</title>
@@ -4916,7 +4916,7 @@ stedes.</p>
 <wtitle>§ 338.</wtitle>
 <p>Ved Påanke af Underretsdomme blive<lb />
 reglerne i  ^ 318   3§§ i  det  hele at an^</p></div><?page  r04_00143_procescom_1892 ?>
-<div><h>Kap. XXVIII. Påanke af Underretsdomme. 135</h>
+<div type='page-placeholder'><h>Kap. XXVIII. Påanke af Underretsdomme. 135</h>
 <p>vende med de Lempelser, som følge af Forholdets Forskelligheder, samt med følgende<lb />
 nærmere Bestemmelser:</p>
 <p>1)   Tiltaltes    Ankemeddelelse   (§   323,<lb />
@@ -4952,7 +4952,7 @@ af de i § 328 nævnte Grunde, eller fordi<lb />
 Anke er udelukket efter § 337. Saadan<lb />
 Afvisning kan ske — være sig efter Begæring eller i Embeds medfør — ved kendelse<lb />
 i et   ikke   offentligt Retsmøde, efter  at der</p></div><?page  r04_00144_procescom_1892 ?>
-<div><h>136 Kap. XXVIII. Påanke af Underretsdomme.</h>
+<div type='page-placeholder'><h>136 Kap. XXVIII. Påanke af Underretsdomme.</h>
 <p>er givet den Ankende Adgang til at ytre sig<lb />
 mundtligt eller skriftligt.</p>
 <wtitle>§ 340.</wtitle>
@@ -4991,7 +4991,7 @@ disses Anvendelse, og afvigende Regler ikke<lb />
 ere givne i de folgende Paragrafer.</p>
 <p>har tun Tiltalte anket, kan en stræn-<lb />
 gere Straf end ved Underretsdommen bestemt ikke idømmes.</p></div><?page  r04_00145_procescom_1892 ?>
-<div><h>Kap. XXVIII. Påanke af Underretsdomme.  137</h>
+<div type='page-placeholder'><h>Kap. XXVIII. Påanke af Underretsdomme.  137</h>
 <wtitle>§ 342.</wtitle>
 <p>Anklageskrift udfærdiges uden Ophold<lb />
 af Overanklageren; foruden de Angivelser,<lb />
@@ -5029,7 +5029,7 @@ Stedet for ny afhøring (jvf. § 248).</p>
 <wtitle>§ 345.</wtitle>
 <p>Landsrettens Tom   i en   fra   en   Underret indanket Sag kan i Neglen ikke yder-</p>
 <p>18</p></div><?page  r04_00146_procescom_1892 ?>
-<div><h>138 Kap. XXVIII. Påanke af Underretsdomme.</h>
+<div type='page-placeholder'><h>138 Kap. XXVIII. Påanke af Underretsdomme.</h>
 <p>ligere påankes. Dog kan højesteret si;<lb />
 96) undtagelsesvis tillade, at Sagen indbringes for samme, naar særlig Grund hertil foreligger, navnlig naar Sagen skønnes<lb />
 at have almindelig Interesse eller videregående betydelige følger for Bedkommende.<lb />
@@ -5065,7 +5065,7 @@ eller ha've^. eller angår Fængsling, Beslag,<lb />
 Ransagning eller lignende, eller pålægger<lb />
 Straf eller Omkostninger, eller er rettet mod<lb />
 nogen, som ikke er Part i Sagen.</p></div><?page  r04_00147_procescom_1892 ?>
-<div><h>Kap. XXIX.   Nære til højere Net.     139</h>
+<div type='page-placeholder'><h>Kap. XXIX.   Nære til højere Net.     139</h>
 <p>I Sager, hvor Anke ordentligvis er<lb />
 udelukket ifølge reglerne i § 345, kan<lb />
 også Næremål af en Part kun rejses med<lb />
@@ -5100,7 +5100,7 @@ tede og, naar nogen anden for det foreliggende Spørgsmåls Vedkommende er at<lb
 betragte som Modpart, tillige for Sidstnævnte,<lb />
 medmindre Påtalemyndigheden i Retten i<lb />
 den Pågældendes Overværelse har erklæret at  ville   rejse   sådant   Næremål.    Rejses</p></div><?page  r04_00148_procescom_1892 ?>
-<div><h>140     Kap. XXIX.   kære tit lejere Ret.</h>
+<div type='page-placeholder'><h>140     Kap. XXIX.   kære tit lejere Ret.</h>
 <p>Næremål af Sigtede eller af nogen, der ikke er<lb />
 Part i selve Sagen, foranstalter Retten under<lb />
 tilsvarende Forudsætning Påtalemyndigheden<lb />
@@ -5138,7 +5138,7 @@ ved den Bedømmelse af de faktiske Omstændigheder, hvorpå den påklagede Be<lb
 slutning er grundet. Finder den nye Oplysninger fornødne, giver den, forsåvidt<lb />
 den ikke selv vil foranstalte samme indhentede,<lb />
 de i så Henseende  fornødne Pålæg:   Be</p></div><?page  r04_00149_procescom_1892 ?>
-<div><h>Kap. XXIX.   Kære til højere Ret.     l-N</h>
+<div type='page-placeholder'><h>Kap. XXIX.   Kære til højere Ret.     l-N</h>
 <p>stemmelserne i § 830, jfr. § 340, treøje<lb />
 Punktum, finde herved tilsvarende Anvendelse: angår Kæremålet en Beslutning<lb />
 af en Undersøgelsesret, kan Landsretten<lb />
@@ -5169,7 +5169,7 @@ og afgøre^ i det i § 328 ommeldte Udvalg.</p>
 af et Kæremåls forhandling kunne i<lb />
 lignende Omfang so»n bestemt for Ankesagers<lb />
 Vedkommende træffes henholdsvis af Landsrettens eller af højesterets Justitiarius.</p></div><?page  r04_00150_procescom_1892 ?>
-<div><h>142           Kap. XXX.   Genoptagelse.</h>
+<div type='page-placeholder'><h>142           Kap. XXX.   Genoptagelse.</h>
 <title>Kapitel XXX.</title>
 <undertitle>Genoptagelse.</undertitle>
 <wtitle>§ 353.</wtitle>
@@ -5206,7 +5206,7 @@ er god Grund til at antage, at sådant har<lb />
 bevirket eller medvirket til, at  Tiltalte   har<lb />
 undgået Domfældelse.</p>
 <p>Under tilsvarende Betingelser kan Genoptagelse finde Sted, hvor Tiltalte påstås at have gjort sig skyldig i en væsentlig</p></div><?page  r04_00151_procescom_1892 ?>
-<div><h>Kap. XXX.   Genoptagelse.           143</h>
+<div type='page-placeholder'><h>Kap. XXX.   Genoptagelse.           143</h>
 <p>større Forbrydelse   end   den.   hvorfor   han<lb />
 er domfældt.</p>
 <wtitle>§ 355.</wtitle>
@@ -5247,7 +5247,7 @@ Tiltalte fængslet, kan hans Begæring fremsattes overensstemmende med >> 230 ti
 Undersøgelsesrettens Retsbog eller Fængselsbestyrerens Bog. Er Begæringen støttet<lb />
 på nogen sådan Grund, som nævnt i §<lb />
 354 Nr. 2, jfr. § 355 Nr. 2. må den så-</p></div><?page  r04_00152_procescom_1892 ?>
-<div><h>144           Kap. XXX.   Genoptagelse.</h>
+<div type='page-placeholder'><h>144           Kap. XXX.   Genoptagelse.</h>
 <p>vidt muligt være ledsaget af Udskrift af<lb />
 en over den Pågældende afsagt Straffedom. Udskrift af den tidligere Tour bor<lb />
 medfølge.</p>
@@ -5284,7 +5284,7 @@ af Landsrettens Formand.</p>
 <wtitle>§ 360.</wtitle>
 <p>Retten afgør ved kendelse, om Be<lb />
 gæringen skal tages til følge eller forkastes;</p></div><?page  r04_00153_procescom_1892 ?>
-<div><h>Kap. XXX.   Genoptagelse.           145</h>
+<div type='page-placeholder'><h>Kap. XXX.   Genoptagelse.           145</h>
 <p>tages den til Følge, gaar Kendelsen ud på,<lb />
 at ny Domsforhandling stal finde Sted.<lb />
 Dog kan Retten efter Omstændighederne,<lb />
@@ -5319,7 +5319,7 @@ meddeler Tilladelse hertil (§ 96).</p>
 ikke Udsættelse eller Standsning af dommens<lb />
 Fuldbyrdelse,   medmindre Retten bestemmer</p>
 <p>19</p></div><?page  r04_00154_procescom_1892 ?>
-<div><h>146           Kap. XXX.   Genoptagelse.</h>
+<div type='page-placeholder'><h>146           Kap. XXX.   Genoptagelse.</h>
 <p>det modsatte: det samme gælder um Beslutning om Genoptagelse, der træffes i Henhold til § 354. Er Genoptagelse besluttet<lb />
 i Henhold til § 355, bliver Fuldbyrdelsen<lb />
 altid at udsætte eller standse, hvis Domfældte begærer det.</p>
@@ -5343,7 +5343,7 @@ ved Magt.</p>
 denne Paragrafs første Stykke angivet, kan<lb />
 Tiltalte begære Genoptagelse af en af ham<lb />
 rejst Ankesag, som er afvist på Grund af hans Udeblivelse.</p></div><?page  r04_00155_procescom_1892 ?>
-<div><h>Kap. XXXI. Påtale i Hh. t. § 34 eller § 36. 147</h>
+<div type='page-placeholder'><h>Kap. XXXI. Påtale i Hh. t. § 34 eller § 36. 147</h>
 <p>Syvende Afsnit.</p>
 <p>Påtale af særlige Myndigheder eller</p>
 <p>af Private    forfølgning af borger</p>
@@ -5375,7 +5375,7 @@ Myndighed optage forfølgningen. naar den<lb />
 på Stedet afgiver Erklæring herom: den<lb />
 indtræder i så Fald i Politimesterens Sted<lb />
 i den Stilling,   hvori Sagen   befinder  sig.</p></div><?page  r04_00156_procescom_1892 ?>
-<div><h>148 Kap. XXXI. Påtale i Hh. t. § 34 eller § 36.</h>
+<div type='page-placeholder'><h>148 Kap. XXXI. Påtale i Hh. t. § 34 eller § 36.</h>
 <wtitle>§ 367.</wtitle>
 <p>Naar nogen i Henhold til § 36 påtaler en Sag, som vedkommende Påtalemyndighed har nægtet at forfølge, sinde,<lb />
 med de af Forholdets Forskellighed følgende<lb />
@@ -5404,7 +5404,7 @@ Bevisfortegnelse bor medfølge overensstemmende med Reglerne i Kap. XXI.</p>
 myndigheden har nægtet at rejse Forfølgning, og at Genpart af begæringen er<lb />
 meddelt samme. I Mangel heraf bliver<lb />
 Sagen ved kendelse at afvise.</p></div><?page  r04_00157_procescom_1892 ?>
-<div><h>Kap. XXXI. Påtale i HH. t. § 34 eller § 36. 149</h>
+<div type='page-placeholder'><h>Kap. XXXI. Påtale i HH. t. § 34 eller § 36. 149</h>
 <wtitle>§ 369.</wtitle>
 <p>Naar Begæring fremsættes om Forundersøgelse eller om enkeltstående Retshandlinger, afgør Undersøgelsesretten, om der<lb />
 er Grund til at tage begæringen tilfølge.</p>
@@ -5439,7 +5439,7 @@ Offentlige og Sigtede.</p>
 <wtitle>§ 370.</wtitle>
 <p>Skal Tiltale rejses ved Landøret, må<lb />
 Sagsøgeren til Sagens udførelse for Landsretten antage en til Mode sammesteds berettiget</p></div><?page  r04_00158_procescom_1892 ?>
-<div><h>1 50 Kap. XXXI. Påtale i HH. t. F 34 eller § 36.</h>
+<div type='page-placeholder'><h>1 50 Kap. XXXI. Påtale i HH. t. F 34 eller § 36.</h>
 <p>Sagforer, af hvem alt det bliver at foretage,<lb />
 som ellers under Domsforhandlingen og dennes Forberedelse påhviler Overanklageren, og<lb />
 til hvem ligeledes alle Meddelelser fra Tiltaltes Side blive at rette. Sagsøgeren kan<lb />
@@ -5475,7 +5475,7 @@ Sagsøgeren antage en til Mode ved pågældende Net berettiget Sagforer.</p>
 <p>Anke fra Tiltaltes Side iværksættes<lb />
 efter de for offentlige Straffesager i Kapitlerne XXVII og XXVIII givne Regler,<lb />
 Overanklageren   lader Meddelelse om Anke-</p></div><?page  r04_00159_procescom_1892 ?>
-<div><h>Kap. XXXI. Påtale i HH. t. § 34 eller § 36. 151</h>
+<div type='page-placeholder'><h>Kap. XXXI. Påtale i HH. t. § 34 eller § 36. 151</h>
 <p>sagen' forkynde for den private Sagsøger;<lb />
 denne har Adgang til at slutte sig til<lb />
 forfølgningen overensstemmende med Bestemmelserne i næste Paragraf.</p>
@@ -5511,7 +5511,7 @@ undladt at rejse Anke overfor en frifindende Dom i en offentlig Sag, kan den<lb 
 hvem Påtaleret tilkømmer efter § 36,<lb />
 gøre dette, dog at sådant sker inden sire<lb />
 Dage henholdsvis efter nægtelsen eller efter</p></div><?page  r04_00160_procescom_1892 ?>
-<div><h>152 Kap. XXXI. Påtale i Hh. t. § 34 etter § 36.</h>
+<div type='page-placeholder'><h>152 Kap. XXXI. Påtale i Hh. t. § 34 etter § 36.</h>
 <p>at Ankefristen er udløben, og at Bestemmelserne i § 373, første og andet Stykke,<lb />
 også her finde Anvendelse. Ligeledes er<lb />
 han, naar han forgæves har opfordret<lb />
@@ -5546,7 +5546,7 @@ privat Straffesag lan påankes til Højesteret i medfør af Reglerne i Lov om de
 § 345.</p>
 <p>Omfatter en Anke til Landsretten Bevisbedømmelsen, sinde Bestemmelserne i § 371<lb />
 tilsvarende Anvendelse.</p></div><?page  r04_00161_procescom_1892 ?>
-<div><h>Kap. XXXII. Påtale af borgerlige Krav. 153</h>
+<div type='page-placeholder'><h>Kap. XXXII. Påtale af borgerlige Krav. 153</h>
 <title>Kapitel XXXII.</title>
 <undertitle>Påtale af borgerlige Krav under Straffesager.</undertitle>
 <wtitle>§ 377.</wtitle>
@@ -5584,7 +5584,7 @@ indtil Sagens Optagelse til Tom tage sin<lb />
 begæring efter § 377 tilbage med Forbehold af Adgang til at påtale Kravet<lb />
 i den borgerlige Retsplejes Former.</p>
 <p>20</p></div><?page  r04_00162_procescom_1892 ?>
-<div><h>154 Kap. XXXII. Påtale af borgerlige Krav.</h>
+<div type='page-placeholder'><h>154 Kap. XXXII. Påtale af borgerlige Krav.</h>
 <wtitle>§ 379.</wtitle>
 <p>Finder Retten, at de Oplysninger, der<lb />
 foreligge til Støtte for en Påstand, som<lb />
@@ -5615,7 +5615,7 @@ Hensyn til bemeldte Krav. Ellers omfatter<lb />
 den overordnede Rets prøvelse ikke de bor<lb />
 gerlige Krav, medmindre disse udtrykkeligt<lb />
 ere inddragne under Anken, jfr. dog næstsidste Stykke.</p></div><?page  r04_00163_procescom_1892 ?>
-<div><h>Kap. XXXII. Påtale af borgerlige Krav. 155</h>
+<div type='page-placeholder'><h>Kap. XXXII. Påtale af borgerlige Krav. 155</h>
 <p>Også i Henseende til Anke har Påtalemyndigheden at varetage den Forurettedes Tarv, naar fornøden Begæring fra<lb />
 denne foreligger. Reglerne i § 378, 1ste<lb />
 Stykke, og § 379 finde også her tilsvarende Anvendelse.</p>
@@ -5637,7 +5637,7 @@ efter Reglerne i Lov om den borgerlige<lb />
 Retspleje. Saadan Anke kan ikke grundes<lb />
 på, at Afgørelsen er urigtig som følge<lb />
 af  en fejlagtig Bedømmelse as Beviset.</p></div><?page  r04_00164_procescom_1892 ?>
-<div><h>156 Kap. XXXIII. Fuldbyrdelsen af dømme.</h>
+<div type='page-placeholder'><h>156 Kap. XXXIII. Fuldbyrdelsen af dømme.</h>
 <title>Ottende Afsnit.</title>
 <undertitle>Fuldbyrdelsen af dømme i Straffesager.</undertitle>
 <title>Kapitel XXXIII.</title>
@@ -5663,7 +5663,7 @@ Fortolkning, Beregningen af Frihedsstraffe,<lb />
 som ere idømte eller træde i Stedet for<lb />
 idømt Straf, eller i andre Henseender Tvin<lb />
 mellem Politimesteren eller den denne overordnede   Myndighed   og den, overfor hvem</p></div><?page  r04_00165_procescom_1892 ?>
-<div><h>Kap. XXXIII. Fuldbyrdelsen af dømme.  ! 57</h>
+<div type='page-placeholder'><h>Kap. XXXIII. Fuldbyrdelsen af dømme.  ! 57</h>
 <p>der er Spørgsmål om at fuldbyrde en<lb />
 Straffedom, bliver Spørgsmålet på dennes<lb />
 Begæring at forelægge Underretten på det<lb />
@@ -5701,7 +5701,7 @@ borgerlige Retspleje foreskrevne, hvilken også gælder med Hensyn til Erstatnin
 ved Straffedømmen er tilkendt.</p>
 <wtitle>§ 387.</wtitle>
 <p>Ingen Dødsdom må fuldbyrdes, forend den af Justitsministeren har været Kon-</p></div><?page  r04_00166_procescom_1892 ?>
-<div><h>158 Kap. XXXIII. Fuldbyrdelsen af dømme.</h>
+<div type='page-placeholder'><h>158 Kap. XXXIII. Fuldbyrdelsen af dømme.</h>
 <p>gen forelagt, og Fuldbyrdelsen af Kongen er<lb />
 bifaldet.</p>
 <p>Den Landøret, som har afsagt Døds- dommen, og Højesteret, naar dommen har<lb />
@@ -5732,7 +5732,7 @@ Stedets Underret, forsåvidt Forholdene ikke<lb />
 tilstede at afvente Beslutning af den Ret,<lb />
 der har afsagt Dom i Sagen i første Instans eller ifølge Anke i Henhold til<lb />
 Z§ 341 ff.,- herved finde da Reglerne i andet</p></div><?page  r04_00167_procescom_1892 ?>
-<div><h>Kap. XXXIII. Fuldbyrdelsen af dømme. 159</h>
+<div type='page-placeholder'><h>Kap. XXXIII. Fuldbyrdelsen af dømme. 159</h>
 <p>Afsnit om Fængsling Anvendelse med fornøden Lempelse. På lignende Måde sinde<lb />
 Reglerne i Kap. XVIII Anvendelse med<lb />
 Hensyn til Beslaglæggelse på Gods<lb />
@@ -5767,7 +5767,7 @@ bortfalde ved den Domfældtes Død.</p>
 Forholdets Natur eller særlige Forskrifter<lb />
 følgende Lempelser også Anvendelse ved Fuldbyrdelsen af Kendelser, hvorved Retten har<lb />
 pålagt Vidner eller Andre Straf.</p></div><?page  r04_00168_procescom_1892 ?>
-<div><h>160 Kap. XXXIII. Fuldbyrdelsen af dømme.</h>
+<div type='page-placeholder'><h>160 Kap. XXXIII. Fuldbyrdelsen af dømme.</h>
 <p>Fuldbyrdelse af de i § 106, jfr. § 127,<lb />
 omtalte Kendelser, kan dog først finde Sted,<lb />
 naar Fristen til at fremsætte Begæring om<lb />
@@ -5778,7 +5778,7 @@ efterkomme en saadan Begæring.</p>
 § 129 ommeldte Bødepålæg forholdes efter<lb />
 de almindelige regler om Bøder, som på^<lb />
 lægges  af Øvrighedsmyndigheder.</p></div><?page  r04_00169_procescom_1892 ?>
-<div><h>Kap. XXXIV.   Omkostninger.        161</h>
+<div type='page-placeholder'><h>Kap. XXXIV.   Omkostninger.        161</h>
 <p>Niende Hf!nit.</p>
 <p>Sagsomkostninger og Rettergangsbøder i Straffesager.</p>
 <title>Kapitel XXXIV.</title>
@@ -5801,7 +5801,7 @@ Forbrydelser foruden den, for hvilten Tiltalte dømmes, er han ikke pligtig til 
 ikke ske, bestemmer Retten, om og hvor stort<lb />
 et Afdrag der bor gøres.</p>
 <p>21</p></div><?page  r04_00170_procescom_1892 ?>
-<div><h>162        Kap. XXXIV.   Omkostninger.</h>
+<div type='page-placeholder'><h>162        Kap. XXXIV.   Omkostninger.</h>
 <p>Udgifter, der ere foranledigede ved Anke,<lb />
 kære eller Begæring om Genoptagelse,<lb />
 blive ikkun da at udrede af Tiltalte, naar<lb />
@@ -5837,7 +5837,7 @@ Domfældelse, påhviler der ham ingen Pligt<lb />
 til at udrede Omkostninger, undtagen forfanvidt disse måtte være forårsagede ved<lb />
 dan-§ tilregnelige og retstridige Handlinger<lb />
 eller Undladelser.</p></div><?page  r04_00171_procescom_1892 ?>
-<div><h>Kap. XXXIV.   Omkostninger.        163</h>
+<div type='page-placeholder'><h>Kap. XXXIV.   Omkostninger.        163</h>
 <wtitle>§ 398.</wtitle>
 <p>Er Straffesagen foranlediget ved tilregnelige og retstridige Handlinger af Andre<lb />
 end Sigtede, eller ere særegne Udgifter<lb />
@@ -5869,7 +5869,7 @@ Sager gældende Regler.</p>
 <p>Om Erstatning af Omkostninger træffer<lb />
 Retten Afgørelse ved dommen eller, naar<lb />
 Sagen endes uden Dom, ved Kendelse.</p></div><?page  r04_00172_procescom_1892 ?>
-<div><h>164        Kap. XXXIV.   Omkostninger.</h>
+<div type='page-placeholder'><h>164        Kap. XXXIV.   Omkostninger.</h>
 <p>Er Spørgsmålet om Erstatning af<lb />
 Omkostninger ved enkelte Retshandlinger eller<lb />
 Afsnit i Sagens Behandling uafhængigt af<lb />
@@ -5901,7 +5901,7 @@ borgerlige Retspleje foreskrevne Regler.</p>
 <wtitle>§ 402.</wtitle>
 <p>Forsåvidt der i Straffesager i Medfør af Lov om Retsafgifter, Kapitel. X.<lb />
 kan blive Spørgsmål om Afgifter til Statskassen, kan fri Proces meddeles overensstemmende med Reglerne i Lov om den borgerlige Retspleje, Kapitel XII.</p></div><?page  r04_00173_procescom_1892 ?>
-<div><h>Kap. XXXV.   Rettergangsbøder.      1«5</h>
+<div type='page-placeholder'><h>Kap. XXXV.   Rettergangsbøder.      1«5</h>
 <title>Kapitel XXXV.</title>
 <undertitle>Rettergangsbøder.</undertitle>
 <wtitle>§ 403.</wtitle>
@@ -5928,7 +5928,7 @@ Anken.</p>
 <wtitle>§ 405.</wtitle>
 <p>Boder, som pålægges i medfør af<lb />
 denne Lov, tilfælde Statskassen.</p></div><?page  r04_00174_procescom_1892 ?>
-<div><h>166 Kap. XXXVI. Slutningsbestemmelser.</h>
+<div type='page-placeholder'><h>166 Kap. XXXVI. Slutningsbestemmelser.</h>
 <p>Tiende Afsnit.<lb />
 Slutningsbestemmelser.</p>
 <p>kapitel XXXVI.</p>
@@ -5955,7 +5955,7 @@ denne Lov foreskriver. Gyldigheden af<lb />
 Retshandlinger, som ere foretagne i Sagen,<lb />
 forend Loven træder i Kraft, bedømmes<lb />
 efter den tidligere Lovgivning.</p></div><?page  r04_00175_procescom_1892 ?>
-<div><h>Kap. XXXVI. Slutningsbestemmelser. 167</h>
+<div type='page-placeholder'><h>Kap. XXXVI. Slutningsbestemmelser. 167</h>
 <wtitle>§ 409.</wtitle>
 <p>Påanke af Straffedomme, som ere af^<lb />
 sagte, forend Loven træder i Kraft, sker<lb />
@@ -5980,8 +5980,8 @@ upåankelig Underretsdom, kan sinde Sted,<lb />
 beror på, om Sagen efter denne Lovs<lb />
 Regler vilde høre for Landsretten; afgørelsen<lb />
 træffes af vedkommende Landøret.</p></div><?page  r04_00176_procescom_1892 ?>
-<div></div><?page  r04_00177_procescom_1892 ?>
-<div><title>
+<div type='page-placeholder'></div><?page  r04_00177_procescom_1892 ?>
+<div type='page-placeholder'><title>
 <p>Bemærkninger</p>
 <p>til</p>
 <p>det af den ved allerhøjeste Reskript af 11te Mai 1892</p>
@@ -5994,8 +5994,8 @@ træffes af vedkommende Landøret.</p></div><?page  r04_00176_procescom_1892 ?>
 <p>Trykt hos I. H. Schultz.<lb />
 1899.</p>
 </title></div><?page  r04_00178_procescom_1892 ?>
-<div></div><?page  r04_00179_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'></div><?page  r04_00179_procescom_1892 ?>
+<div type='page-placeholder'><leftside>
 <p>Stoffets Ordning i Udkastet er i sine<lb />
 Hovedtræk overensstemmende med Ordningen<lb />
 i det ældre førstag.</p>
@@ -6051,7 +6051,7 @@ undergivet straffeprocessuel Behandling, end<lb />
 hvor den har været under civilprocessuel Behandling og således i væsentlig Grad<lb />
 undergiven Parternes fri Rådighed.</p>
 </rightside></div><?page  r04_00180_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Naar Kommissionen alligevel har foreslået at blive stående ved den gældende<lb />
 Ordning, er det i Erkendelse af, at et Brud<lb />
 med det bestående på et praktisk taget så<lb />
@@ -6147,7 +6147,7 @@ Sagers Henlæggelse til Underret eller Landøret, se § § ,l. og § 6, 1ste Sty
 Værneting for dem, se § 57.</p>
 </rightside>
 <pn>*)   o: Norsk Lov  om Rettergangsmåden   i   Straffesager af 1, Juli 1887.</pn></div><?page  r04_00181_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <wtitle>§ 3.</wtitle>
 <p>Reglen i denne Paragraf er overensstemmende med de gældende Bestemmelser.<lb />
 Det er Meningen, at Kravet — naar Betingelserne iøvrigt ere til Stede — kan<lb />
@@ -6236,7 +6236,7 @@ ifølge hvilke Underretterne tiltrædes af 2<lb />
 lægmænd (de såkaldte Meddomsretter,<lb />
 Schøffengerichte).</p>
 </rightside></div><?page  r04_00182_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Herefter indskrænkes Spørgsmålene om<lb />
 Netternes almindelige Kompetence sig i Første<lb />
 række til følgende to:</p>
@@ -6320,7 +6320,7 @@ efter Beskaffenheden af det, der findes (en<lb />
 og Straffen kan i Overensstemmelse hermed<lb />
 variere fra 2 Kroners Bode til 2 Års For-</p>
 </rightside></div><?page  r04_00183_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>bedringshusarbejde (Straffelovens § 247).<lb />
 Lignende Bemærkninger gælde om ubeediget<lb />
 falsk Forklaring for Retten (Straffelovens<lb />
@@ -6418,7 +6418,7 @@ hjælpe Folk i Livsfare); 207 (Uagtsom grov Legemsbeskadigelse); 208, 1ste Stk.,
 261, 262, 2det Stk., 263 (Forskellige mindre Konkurs<lb />
 forbrydelser); 267, 2det Pkt. (Udgivelse af falske, men</p>
 </rightside></div><?page  r04_00184_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>
 Stk. (forskellige mindre Forseelser i Næringslivet); 284<lb />
 (uagtsom Brandstiftelse); 289 (uagtsom Foretagelse af<lb />
@@ -6529,7 +6529,7 @@ mod Naturen); 183, 1ste Stk, og 2det Stk, 1ste Pkt.<lb />
 243, 244 (Røveri); 258 (Postkyveri); 264. 265, 266<lb />
 (Falskmøntneri); 269 (Dokumentfalsk med Hensyn til</p>
 </rightside></div><?page  r04_00185_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Statsforskrivning, Veksel etc.',; 272 (Efterskriven af<lb />
 Kongens Navni; 280, 281, 282, 2det Stk. (Brandstiftelse<lb />
 af grovere Art); 285, 1ste Stk, 286, 287, 1ste Stk.,<lb />
@@ -6623,7 +6623,7 @@ dømme, der i sig selv hjemle Indespærring for<lb />
 Livstid, nemlig forsåvidt Forholdene ikke forandre sig forinden. Erfaringen viser, at Paragraffen anvendes nogenlunde hyppig og i Neglen<lb />
 angår sådanne Personer og Forhold, at indgribende og langvarige Forholdsregler ne nødvendige.</p>
 </rightside></div><?page  r04_00186_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>minelle Sager og iøvrigt at have givet et<lb />
 vist Spillerum*). Det er herefter fundet<lb />
 rigtigt til Nævningepåkendelse ubetinget at<lb />
@@ -6724,7 +6724,7 @@ Udkast. England anvender den derimod overalt<lb />
 udenfor Sager, der behandles rent summarisk.<lb />
 </pn>
 </rightside></div><?page  r04_00187_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>I den fremstillede Begrundelse ligger<lb />
 imidlertid, at ben alt omtalte Regel, hvorefter den, der sigtes for en Forbrydelse,<lb />
 som kan pådrage Strafarbejde, Fortabelse af<lb />
@@ -6819,7 +6819,7 @@ lægges Påstand i Henhold til Straffelovens §§ 72, 2det
 </p>
 </pn>
 </rightside></div><?page  r04_00188_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Stk., 73, 76, 77, 78, 79, 80, 2det Etk., 81, 82. 2det<lb />
 og 3die Stk, 83, 1ste Stk. (forskellige Forbrydelser mod<lb />
 Statens udvortes Sikkerhed og Selvstændighed); 87<lb />
@@ -6907,7 +6907,7 @@ været foretagen uden Nævninger, Påkendelsen efter Rettens Bestemmelse ske und
 <p>En Tom eller Kendelse, hvorved en<lb />
 Domssag  afvises,  kan gøres til Genstand</p>
 </rightside></div><?page  r04_00189_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>henholdsvis for Anke (8 320 Nr. 1) eller<lb />
 kære (§ 346/ 2det Stykke); en Kendelse,<lb />
 hvorved Domssagen antages, kan ilte<lb />
@@ -6988,7 +6988,7 @@ overensstemmende med det tilsvarende Kapitel i det tidligere førstag: de foreta
 af nogle som overflødige ansete Ord og<lb />
 sætninger, samt af nogle Regler om Indberetninger, der rettere høre hjemme i administrative  Instrukser,   hvorhos   der  er  givet</p>
 </rightside></div><?page  r04_00190_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>de forskellige Anklagere andre benævnelser.<lb />
 — Gennemførelsen af den Funktionsfordeling,<lb />
 der skulde betegne et af dm hele Reforms<lb />
@@ -7065,7 +7065,7 @@ en Straffedoms Fuldbyrdelse."</p>
 <pn>*) Det herunder anførte er citeret efter Motiverne til<lb />
 det tidligere Forslag.</pn>
 </rightside></div><?page  r04_00191_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <wtitle>§ 20.</wtitle>
 <p>Som alt omtalt, ere de offentlige Anklagere at anse som Embedsmand under<lb />
 Justitsministeren, men idet de træde i Forhold til Domstolene som den ene Part i<lb />
@@ -7149,7 +7149,7 @@ Regler, som bestemme, hvem Myndigheden<lb />
 til at undlade Påtale tilkommer, samt hvilke<lb />
 Betingelserne for saadan Undladen ere (altså  Reglerne  i §   32   og  33),  må   også</p>
 </rightside></div><?page  r04_00192_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>være bindende, hvor Talen er om Frafald<lb />
 af forfølgning. Meningen med Paragraffen<lb />
 er derimod at fastslå, at der ikke tilkommer<lb />
@@ -7239,7 +7239,7 @@ den ene Side bor nemlig hverken Embedsforbrydelser, der som sådanne have en<lb 
 ganske særlig Betydning for Staten, eller<lb />
 Duelforbrydelser,   hvis   ejendommelig  milde</p>
 </rightside></div><?page  r04_00193_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Behandling skyldes særlige traditionelle Forestillinger, og ikke hidrører fra, at Duel<lb />
 skulde være at betragte som en blot og bar<lb />
 Ordenskrænkelse. behandles politiretsmæssig.<lb />
@@ -7330,7 +7330,7 @@ det ældre Forslags § 3? bevaret. — Reglerne ere herefter i deres Helhed føl
 finde Sted eller en begyndt forfølgning fortsættes, har overanklageren (eventuelt Politimesteren, jfr. §§ 194 og ?13) fur det første<lb />
 på Grundlag af det foreliggende Materiale</p>
 </rightside></div><?page  r04_00194_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>at skønne over, hvorvidt Undersøgelsen kan<lb />
 ventes at fore til, at en Person findes skyldig til Straf eller ej.</p>
 <p>Hvis han herefter skønner, at sådant<lb />
@@ -7423,7 +7423,7 @@ medfør af nærværende § 33 Nr. 2 helt undlade at forfølge de andre.</p>
 findes i Straffelovens §§ 174. 236 og 263<lb />
 (om Straffelovens §§   159,   17§   og 254 se</p>
 </rightside></div><?page  r04_00195_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>§ 32 sidste Stykke. Påtale efter § 235 sker<lb />
 som Politisag).</p>
 <p>Men ved Siden heraf har Overanklageren som alt omtalt ovenfor S. 30 den Ret<lb />
@@ -7513,7 +7513,7 @@ forfølgning. til Genstand for offentlig forfølgning. Betingelsen er. at Overan
 (f. Eks. Hensynet til en Domstols værdighed og Autoritet, naar et af dens Medlemmer er Genstand for Sigtelser eller Hån),<lb />
 kræver offentlig forfølgning.   afgørelsen af,</p>
 </rightside></div><?page  r04_00196_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>hvad den offentlige Interesse i så Henseende kræver, må fuldt ud være Anklagemagtens i den førstand, at Retten ikke, hvor den<lb />
 inder den Pågældende skyldig, kan afvise eller<lb />
 frifinde, fordi efter dens Opfattelse ingen offentlig Interesse krævede offentlig forfølgning. Da det dog ikke er Meningen, at Overanklagerens Indgriben i Henhold til denne<lb />
@@ -7599,7 +7599,7 @@ forsåvidt Sigtede ikke selv har valgt en Forsvarer, eller den valgte Forsvarer 
 <p>Naar Kommissionens Flertal i Modsætning til enkelte af Kommissionens Medlemmer, der have ønsket Bestikkelsen af<lb />
 offentlig Forsvarer  udstrakt  videre,   er ble-</p>
 </rightside></div><?page  r04_00197_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>vet stående ved de angivne Regler, er<lb />
 dette siet dels ' af Hensyn til Bekosteligheden ved en videregående Beskikkelse af<lb />
 Forsvarer, dels af Hensyn til, at saadan<lb />
@@ -7691,7 +7691,7 @@ eller dømmer har spurgt om § 210).</p>
 Regel ifølge § 4§ ikke må tage Ordet eller<lb />
 samtale  med Sigtede  i Retsmøderne  under</p>
 </rightside></div><?page  r04_00198_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Forundersøgelsen, gælder dette Forbud ikke,<lb />
 hvor særlige Omstændigheder medføre Nødvendigheden af, at et Bevis optages i sin<lb />
 endelige Skikkelse for Domsforhandlingen,<lb />
@@ -7784,7 +7784,7 @@ Fortrolighedsforhold til Sigtede, der hyppig<lb />
 vil være under Pression fra Sigtedes nær«<lb />
 stående  etc.,   —   til   at  fremkalde en ufortjent Frifindelse.</p>
 </rightside></div><?page  r04_00199_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Under disse Omstændigheder er det formentlig i sin Orden, at man sikrer Anklageren Muligheden af at tilvejebringe det<lb />
 nødvendige Oplysningsmateriale ved at udelukke den valgte Forsvarer fra at være til Stede<lb />
 under Retsmøder, naar særlig Kollusion fra<lb />
@@ -7871,7 +7871,7 @@ Forsvareren selvfølgelig fri Adgang til Samkvem med ham; om anden begrænsning 
 den, der ligger i Straffelovens almindelige<lb />
 Forbud mod Udslettelse  af en Forbrydelses.</p>
 </rightside></div><?page  r04_00200_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Spor, Forledelse til urigtig Forklaring etc.<lb />
 i Forbindelse med Bestemmelserne om Em- bedsforbrydelser, kan der ikke være Tale.<lb />
 Anderledes hvor Sigtede er Fængslet. Der<lb />
@@ -7966,7 +7966,7 @@ forvirrende eller førstyrrende ind i den andens, medens det på den anden Side 
 er Meningen ubetinget at afskære. at f. Eks.<lb />
 Vidnernes afhøring foretages af flere For-</p>
 </rightside></div><?page  r04_00201_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>svarere, naar blot det af hver enkelt Forsvarer<lb />
 overtagne Hverv faar et bestemt afgrænset<lb />
 Område.</p>
@@ -8057,7 +8057,7 @@ Mindretallet mener, at, naar en Sag er<lb />
 vigtig nok til at henvises til Landsretsbehandling, har den også Krav på at behandles for den dømmende Ret med den<lb />
 Grundighed, som betinges af, at begge Parter  ere repræsenterede   ved   kyndige   Tals-</p>
 </rightside></div><?page  r04_00202_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>mænd. særlig under Hensyn til, at Landsrettens dømme ikke kunne påankes. naar<lb />
 Anken alene støttes på Bevisets Utilstrækkelighed, gaar det formentlig ikke an at lade<lb />
 Tiltalte være uden retskyndig Bistand under<lb />
@@ -8150,7 +8150,7 @@ skulde forhindre Sigtede fra at afgive oprigtige Erklæringer.</p>
 <p>Overhovedet må disse Kommissionens<lb />
 Medlemmer hævde, at Princippet for Straffe-</p>
 </rightside></div><?page  r04_00203_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>sagers Behandling, også på Forberedelses-Stadiet, må være retslig Ligestillethed for Anklager og Forsvarer. særlig gælder dette i Retsmøderne og lige over«<lb />
 for dømmeren. Den fra Inkvisitionsprocessens Tankegang hentede Fordring om, at<lb />
 det ikke tilstedes Sigtede eller hans Forsvarer<lb />
@@ -8234,7 +8234,7 @@ Tilfælde. dog således, at Sagen snarest<lb />
 muligt skulde afgives til den kompetente Ret.<lb />
 Man har imidlertid ment, at man på dette</p>
 </rightside></div><?page  r04_00204_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Punkt gjorde bedre i at følge den norske<lb />
 Lovs Forbillede (jfr. sammes § 135. 2det Stk.) og stille Valget betydelig friere. Det<lb />
 kan på dette Sagens Stadium efter Omstændighederne være vanskeligt at afgøre,<lb />
@@ -8326,7 +8326,7 @@ Kapitel XVIII. ommeldte Beslaglæggelse,<lb />
 hvor Sigtede har unddraget sig Sagens<lb />
 videre  forfølgning   ved  Flugt.     Neglen i</p>
 </rightside></div><?page  r04_00205_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>sidste Stykke tiltrænges og er delvis allerede<lb />
 hjemlet i den gældende Ret.</p>
 <wtitle>§§ 58 og 59.</wtitle>
@@ -8416,7 +8416,7 @@ rettes på at gøre det Æmne, der til enhver<lb />
 Tid foreligger til, Bedømmelse, så enkelt og<lb />
 koncentreret som muligt. Under disse Omstændigheder  kunne  Reglerne om Forening</p>
 </rightside></div><?page  r04_00206_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>af sammenhængende Søgsmål ikke gøres<lb />
 ubetingede, men der må indrømmes Retten en betydelig Frihed til at samle og adskille (jfr. §§' 62 og 63), ligesom der<lb />
 heller ikke kan stilles noget ubetinget Krav<lb />
@@ -8501,7 +8501,7 @@ dette for at være et Æmne, der naturligst hører hjemme i en Instruks, ere dis
 i § 6§ er derfor kun optaget de i det tidligere førstags § 77 indeholdte Regler om<lb />
 Retshandlinger i fremmed Retskreds.</p>
 </rightside></div><?page  r04_00207_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <title>Kapitel VIII.</title>
 <undertitle>Retsmøder og Retsbøger.</undertitle>
 <p>nærværende Kapitel er så godt som<lb />
@@ -8593,7 +8593,7 @@ der ovenfor er fremhævet.</p>
 til Genstand for kære indenfor de ved § 346<lb />
 afstukne grænser.</p>
 </rightside></div><?page  r04_00208_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>§ 68.</p>
 <p>Som tilfælde, hvor Retsvidnes Tilstedeværelse særlig er foreskrevet i Udkastet,<lb />
 kan nævnes §§ 111, 115, 3die Stykke, 125,<lb />
@@ -8673,7 +8673,7 @@ han vil optage i Retsbogen i Henhold til<lb />
 den almindelige Forskrift i § 72,  1ste Stk.</p>
 <p>Hvad endelig angår Afhørelse under  Domsforhandling   for  Lands-</p>
 </rightside></div><?page  r04_00209_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>ret — hvad enten nu Landsretten er første<lb />
 Instans, eller der er appelleret til den i Henhold til §341, jfr. også § 340 smh. m. § 330<lb />
 —. kræves derimod en særlig Forskrift, dels<lb />
@@ -8762,7 +8762,7 @@ Virksomhed, at Reglen kan blive praktikabel.</p>
 <p>den i „a" indeholdte Regel gaar i<lb />
 Henseende til Adgang og Pligt   til   Forkyn-</p>
 </rightside></div><?page  r04_00210_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>delse for den Vedkommende personlig et godt<lb />
 Stykke videre end Loven af 11. April 1890<lb />
 (jfr. sammes § 3. 1ste Stk. in tins.). Da<lb />
@@ -8856,7 +8856,7 @@ nye Oplysninger foreligge.</p>
 „naar Begæring derom fremkommer inden<lb />
 Ankefristens Udløb,  og efter at der er givet</p>
 </rightside></div><?page  r04_00211_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Parterne   og. deres  Sagførere Lejlighed til<lb />
 at ytre sig derom".</p>
 <p>Foruden den almindelige Bemærkning,<lb />
@@ -8940,7 +8940,7 @@ det tidligere førstags 2det Afsnit, Kapitel</p>
 førstags 2det Afsnit, Kapitel I., 1ste Afdeling ;</p>
 <p>Kapitel XV. (Sigtedes Indkaldelse og Afhørelse for Retten) til det tidligere førstags 2det Afsnit, Kapitel IV., 1ste Afdeling, og Kapitel V.;</p>
 </rightside></div><?page  r04_00212_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Kapitel XVI. (Anholdelse) til det tidligere<lb />
 Forflags 2det Afsnit. Kapitel IV.. 2den<lb />
 Afdeling;</p>
@@ -9041,7 +9041,7 @@ der i og for sig altid ligger i at forlange<lb />
 Vidnesbyrd af nogen af disse Personer i<lb />
 kriminelle Sager, kommer til at troede særlig</p>
 </rightside></div><?page  r04_00213_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>grelt og potenseret frem, naar Vidnesbyrdet<lb />
 stal afgives mundligt i offentligt Retsmøde,<lb />
 og at den Samvittighedskollision og Fristelse<lb />
@@ -9122,7 +9122,7 @@ praktisk, at Vidner, der mode for en Undersøgelsesret, under Sagens Forberedels
 forpligte sig til at give Mode ved Domsforhandlingen. Reglen vil, som det let ses,<lb />
 navnlig  have  sin Betydning dels med Hen-</p>
 </rightside></div><?page  r04_00214_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>syn til Underretssager, dels med Hensyn til<lb />
 sådanne Landsretssager. i hvilke Retten kan<lb />
 have Betænkelighed ved ligefrem at pålægge<lb />
@@ -9221,7 +9221,7 @@ vanskelig komme over.</p>
 <p>I Henhold til disse Betragtninger er<lb />
 Udkastet blevet stående ved den i den nugældende danske Proces undtagelsesfrit gæl-</p>
 </rightside></div><?page  r04_00215_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>dende Regel, at Edfæstelsen foregår efter<lb />
 Afhøringen — en Regel, der også er optaget af den norske Lov (jfr. sammes § 185).</p>
 <p>ad 5. Naar Kommissionen har fundet<lb />
@@ -9314,7 +9314,7 @@ også kunne nægte at vidne.</p>
 2det Stykke og § 136, 3dje Stykke) må iøvrigt<lb />
 mærkes, at. skøndt Indledningsordene kun tale</p>
 </rightside></div><?page  r04_00216_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>om. at Vidnesbyrd ej må afkræves, viser<lb />
 Paragraffens sidste Stykke, at Meningen er,<lb />
 at Vidnesbyrd i de angivne Tilfælde heller<lb />
@@ -9419,7 +9419,7 @@ Nærståendes Vidnepligt. I øvrigt stal blot<lb />
 følgende fremhæves: Ved Ordene „Tab af<lb />
 Velfærd" i 1ste Stykke har man villet udtrykke, at Tabet, for at tjene som Undskyld-</p>
 </rightside></div><?page  r04_00217_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>ningsgrund, må være af alvorlig og indgribende Betydning for den Pågældende: At Vedkommende udsætter sig for Straf er<lb />
 kun Undskyldningsgrund, forsåvidt Straffen kan betegnes som velfærdstruende for<lb />
 ham. — Reglen i 2det Stykke er kun en<lb />
@@ -9521,7 +9521,7 @@ end nu. Sygdom, høj Alder, Legemssvaghed,
 uopsættelige Embedsforretninger eller andet<lb />
 uopsætteligt   offentligt Hverv   af Vigtighed,</p>
 </rightside></div><?page  r04_00218_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Militærtjeneste, forsåvidt Permission ikke<lb />
 kan I fås, Trafikstandsninger og Bortrejse<lb />
 vil naturligvis normalt være at anse som<lb />
@@ -9616,7 +9616,7 @@ på igen under Domsforhandlingen, medens<lb />
 det senere viser sig, at Vidnet godt kan mode<lb />
 også under denne.</p>
 </rightside></div><?page  r04_00219_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <wtitle>§ 112.</wtitle>
 <p>Selvfølgelig kan der afæskes de i denne<lb />
 Paragraf nævnte Personer ubeediget Forklaring efter samme regler, som gælde for<lb />
@@ -9707,7 +9707,7 @@ fornødne med Hensyn til de forskellige Kombinationer, der således kunne fremko
 ved Benyttelsen af Sagkyndiges Bistand under Sagen.</p>
 <p>Med Hensyn til Kapitlets enkelte Paragraffer stal følgende bemærkes:</p>
 </rightside></div><?page  r04_00220_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <wtitle>§ 115.</wtitle>
 <p>Umiddelbarhedsprincippet tilsiger, at den dømmende Ret såvidt muligt og såvidt<lb />
 fornødent selv foretager de Besigtigelser,<lb />
@@ -9796,7 +9796,7 @@ udmeldes af en anden Ret (jfr. § 121) end<lb />
 Retten på det Sted, hvor vedkommende<lb />
 Påtalemyndighed og Sigtede befinde sig.</p>
 </rightside></div><?page  r04_00221_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <wtitle>§§ 121-26.</wtitle>
 <p>Som ovenfor fremhævet, kan et sagkyndigt skøn efter Omstændighederne fremtræde<lb />
 som en simpel Besvarelse af et eller flere<lb />
@@ -9881,7 +9881,7 @@ for Afgivelsen af skriftlig Erklæring eller fremtræde som Supplement til en sa
 — De gældende Regler om Obduktionsforretninger, hvortil der sigtes i Slutningen<lb />
 af §  123,   ere  Reglerne i  Fdg. 21.  Mai</p>
 </rightside></div><?page  r04_00222_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>1751 § 4  med  de  dertil  sig  sluttende Reskripter.</p>
 <p>Reglen i § 126 er en naturlig følge<lb />
 af, at Bevisbedømmelsen er fri. Ligesom i<lb />
@@ -9967,7 +9967,7 @@ usikkert skøn. og om hvilke der derhos<lb />
 som oftest må tages Beslutning uden<lb />
 lang forudgående Overvejelse og Undersøgelse. Som   en   følge   heraf   bor   disse</p>
 </rightside></div><?page  r04_00223_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Regler gives med så brede Linier, at de<lb />
 kunne indeholde en virkelig Vejledning for<lb />
 det hurtige praktiske skøn, og i Forbindelse<lb />
@@ -10075,7 +10075,7 @@ end de her omtalte — findes i Kapitel XVIII.</p>
 <p>Naar der her tales om „Beslutning" om<lb />
 Beslaglæggelse,   vil  dette   altså  sige  en af</p>
 </rightside></div><?page  r04_00224_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Retten truffen Bestemmelse, som optages i<lb />
 Retsbogen (§ 72), som ikke behøver at være<lb />
 ledsaget af Grunde (§ 95. 2det Stykke), og<lb />
@@ -10177,7 +10177,7 @@ Dokumenters Tilbageholdelse se § 140.</p>
 <p>Dels Hensynet til den betydningsfulde<lb />
 Rolle,   som Breve og andre Postforsendelser</p>
 </rightside></div><?page  r04_00225_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>eventuelt kunne spille som Bevis- eller Kollusionsmidler i en Straffesag, dels den Omstændighed, at de normalt kun ganske forbigående befinde sig i Postvæsnets Besiddelse,<lb />
 gør det nødvendigt at udsondre dem fra den<lb />
 almindelige Regel i § 136, 2det Stykke, og<lb />
@@ -10274,7 +10274,7 @@ denne og lignende Art ind under Kategorien<lb />
 Ikke-Sigtede altfor omfattende (jfr. Ordene:<lb />
 „for en  hvilkensomhelst Forbrydelse",   altså</p>
 </rightside></div><?page  r04_00226_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>også for Politisags-Overtrædelser). Hvis man<lb />
 på den anden Side fuldstændig udelukker<lb />
 Tilfælde af denne og lignende Art fra nævnte<lb />
@@ -10359,7 +10359,7 @@ Kontorlokaler. Fabrikker og lignende Steder,<lb />
 hvis Hoved-Bestemmelse ikke er at tjene<lb />
 Publikum i Almindelighed som egentlige Op-</p>
 </rightside></div><?page  r04_00227_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>holdssteder. Til „Steder, der stå under<lb />
 Politiets særlige Tilsyn", høre først og<lb />
 fremmest Bordeller. — Hvad endelig angår<lb />
@@ -10453,7 +10453,7 @@ Paragraf også Hensyn til den Fængslede<lb />
 Sigtede, idet denne ifølge § 226 stal have<lb />
 særlig Tilsigelse til Domsforhandlingen.</p>
 </rightside></div><?page  r04_00228_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <wtitle>§§ 152-154</wtitle>
 <p>angå Sigtedes Afhørelse og gennemføre<lb />
 det Hovedprincip i Anklageprocessen, at<lb />
@@ -10543,7 +10543,7 @@ Samkvem med andre.</p>
 indhente Rettens Beslutning, anholde Vagabonder, Fremmede og Ubekendte, der<lb />
 ere mistænkte for at have begået en hvilkensomhelst,   offentlig   forfølgning  undergiven,</p>
 </rightside></div><?page  r04_00229_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>strafbar Handling, såvelsom Enhver, der<lb />
 træffes under Udførelsen af en saadan. og ikke<lb />
 vil afstå fra sin forbryderske Birken samt<lb />
@@ -10636,7 +10636,7 @@ en Ransagning af Andenmands Hus for at<lb />
 eftersøge den, som stal anholdes, har til<lb />
 Forudsætning, at der er Spørgsmål om en</p>
 </rightside></div><?page  r04_00230_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Forbrydelse, der hører under Overanklagerens<lb />
 Påtale, samt at der enten er påviselig<lb />
 Grund til at antage, at Sigtede vil være at sinde i Huset, eller at Ransagningen tillige omfatter en større Samling Nabo-Huse.</p>
@@ -10728,7 +10728,7 @@ ingen Omstændigheder være Tale om at fore<lb />
 denne almindelige Udelukkelsesregel videre<lb />
 endnu, idet det næste Skridt vilde fore over</p>
 </rightside></div><?page  r04_00231_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>i Tilfælde, hvor Straffen er fængsel på<lb />
 Vand og Brod, ug dermed for en stor Del<lb />
 i en helt anden og for Samfundet langt<lb />
@@ -10823,7 +10823,7 @@ også § 106. 3dje Stykke, i Kraft af hvilket<lb />
 endog et Vidne, der trods lovlig Indkaldelse<lb />
 er udebleven  uden lovligt Forfald,  kan  af-</p>
 </rightside></div><?page  r04_00232_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>hentes og holdes i Forvaring indtil Domsforhandlingen, forsåvidt denne blot finder<lb />
 Sted inden 6 Måneder efter Fængslingens<lb />
 Begyndelse, § 113).</p>
@@ -10918,7 +10918,7 @@ til at holde en Sigtet anholdt i indtil 4 x<lb />
 tere „Gerningen" og dens „Spor" og til<lb />
 foreløbig at afhøre de den Sigtede nærstående</p>
 </rightside></div><?page  r04_00233_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Personer, der antages at have været Øjenvidner til Gerningen. Derved turde også<lb />
 Anklagemagten have tilstrækkelig Adgang til<lb />
 at indvinde det „Forspring", som det antages, at den Sigtede har.</p>
@@ -11019,7 +11019,7 @@ Straffeproces. Derimod fastsætter den<lb />
 særlige Omstændigheder kan forlænges til tre<lb />
 Måneder)   for   det   Varetægtsfængsel,   der</p>
 </rightside></div><?page  r04_00234_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>alene er begrundet i Frygten for Tilintetgørelse af Forbrydelsens Spor, Påvirkning<lb />
 af Vidner, skønsmænd. Medskyldige eller<lb />
 lignende (Kollusions-Fængsel). Tanken heri<lb />
@@ -11105,7 +11105,7 @@ antage, at Behandlingen af Underretssager<lb />
 skulde blive langvarigere under det nye System<lb />
 end   efter   det   gamle*).    Vel   blive nogle</p>
 </rightside></div><?page  r04_00235_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Underretskredse større end hidtil, men på den<lb />
 anden Side bevirker Udskillelsen af de særlige Politimester-Forretninger, at dømmeren<lb />
 faar mere Tid til sine egentlige Dommer-Forretninger. Snarere kunde det befrygtes,<lb />
@@ -11206,7 +11206,7 @@ netop skyldes dette. Den foreliggende Statistik<lb />
 tillader imidlertid ikke en nærmere Påvisning<lb />
 heraf.</pn>
 </rightside></div><?page  r04_00236_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Anordning. Nogen nærmere Forklaring af<lb />
 de i § 171 indeholdte Regler er ufornøden;<lb />
 kun stal fremhæves, at ny i Forhold til<lb />
@@ -11300,7 +11300,7 @@ Afhørelse, overhovedet af en hvilkensomhelst<lb />
 Undersøgelsesret. — En afsagt Fængslingskendelse kan ifølge Udkastets § l!§ fuldbyrdes<lb />
 hvorsomhelst i Riget.</p>
 </rightside></div><?page  r04_00237_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>tz 172.</p>
 <p>Naar der i Slutningen af denne Paragraf gives Anvisning på Beslaglæggelse<lb />
 af Pas eller andre Legitimationspapirer (en<lb />
@@ -11390,7 +11390,7 @@ i Virkeligheden tilhøre Treøjemand, og<lb />
 f. Eks. bestå i, den Forurettede bliver fyldestgjort for sit Erstatningskrav eller faar<lb />
 det afvist i Henhold til § 378.</p>
 </rightside></div><?page  r04_00238_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <wtitle>§ 186.</wtitle>
 <p>Denne Paragraf er ganske overensstem«<lb />
 mende med det tidligere Forslags § 210.<lb />
@@ -11475,7 +11475,7 @@ dermed også Ansvaret for denne i Undersøgelsesdommerens Hånd.</p>
 man ikke kan slutte således, at, naar det kan<lb />
 betros Anklagemyndigheden på egen Hånd</p>
 </rightside></div><?page  r04_00239_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>at lede Forfølgningen under Domsforhandlingen, der er det vigtigste Afsnit af den nye<lb />
 Proces, må det så meget mere kunne overlades til den, at lede den også under Forundersøgelsen. Der er nemlig den store<lb />
 førstel mellem Domsforhandling og Sagens<lb />
@@ -11565,7 +11565,7 @@ derhos   ingen Grund   til at  frygte  for,  at</p>
 <pn>*) Om   de    aldre   kontinentale   Straffeproceslove   se<lb />
 Motiverne til det tidligere Udkast S, 96-97.</pn>
 </rightside></div><?page  r04_00240_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Påtalemyndigheden skulde misbruge den således indrømmede Adgang til at begære<lb />
 retslig Forundersøgelse til i større Omfang<lb />
 end tilbørligt at skyde Arbejdet fra sig, idet<lb />
@@ -11655,7 +11655,7 @@ Overensstemmelse med Udkastets øvrige Regler, men endvidere indeholder den stø
 af Betryggelse såvel for Retshåndhævelsens som for Sigtedes og Treøjemands Interesser, som det med de kræfter og Midler,<lb />
 der kunne   ventes   at stå til Rådighed, er</p>
 </rightside></div><?page  r04_00241_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>muligt at opnå, medens det på den anden<lb />
 Side åbner en Adgang til en videre Udvikling af Anklageprincippet i det Omfang,<lb />
 hvori Betingelserne for dettes Gennemførelse<lb />
@@ -11756,7 +11756,7 @@ tilrede i hvert af de Retsmøder, som kunne<lb />
 blive afholdte af de flere Undersøgelsesdommere — men vel også stundom udenfor<lb />
 Kjøbenhavn  på Grund  af særlige person-</p>
 </rightside></div><?page  r04_00242_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>lige Forhold, kan stille sig således, at det<lb />
 vilde være ønskeligt at kunne lægge Ledelsen<lb />
 af Undersøgelsen i den erfarne og muligvis<lb />
@@ -11845,7 +11845,7 @@ uden at Sagen endnu er moden til Tiltales<lb />
 Iværksættelse, dels endelig hvor Påtalemyndigheden søger Rettens Bistand til en<lb />
 Ransagning, Beslaglæggelse, Anholdelse eller</p>
 </rightside></div><?page  r04_00243_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>fængsling, men faar det Svar, at Retten ikke vil dekretere noget sådant, uden at der<lb />
 samtidigt begæres retslig Forundersøgelse,<lb />
 og derved gives den Lejlighed til Udøvelse<lb />
@@ -11932,7 +11932,7 @@ Forundersøgelse jfr. § 202, 1ste Stykke),<lb />
 hvorefter det beror på vedkommende Undersøgelsesdommer, hvornår og i hvilket Omfang de skulle fremlægges til Retsbogen<lb />
 (ifr. § 202, 2det Stykke).</p>
 </rightside></div><?page  r04_00244_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <wtitle>§ 194.</wtitle>
 <p>Paragraffen angår, således som det<lb />
 fremgår af Henvisningen til § 33, kun Overanklager-Sager. Om Politisager se § 198,<lb />
@@ -12023,7 +12023,7 @@ Sigtede, hvis Forundersøgelse følger efter, må<lb />
 kunne forlange Udskrift inden Forundersøgelsens Slutning også af de retslige<lb />
 Efterforskningshandlinger,   og,  hvis  Tiltale</p>
 </rightside></div><?page  r04_00245_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>rejses uden retslig Forundersøgelse, må<lb />
 kunne forlange Udskrift, såsnart Tiltale er<lb />
 rejst. Rejses ingen Tiltale, kan Sigtede<lb />
@@ -12109,7 +12109,7 @@ dette ikke er Tilfældet, kommer til at stå<lb />
 som Sigtet ved, at Forundersøgelse begæres<lb />
 imod ham.</p>
 </rightside></div><?page  r04_00246_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <wtitle>§ 202.</wtitle>
 <p>Reglen ! 2det Stykke om, at Sagen ved<lb />
 Indgivelse af Begæring til dømmeren er<lb />
@@ -12202,7 +12202,7 @@ ikke — som under den nuværende Ordning —<lb />
 at bringe Bevismaterialet til Veje i selve<lb />
 den Form, hvori det stal forelægges den dømmende Ret.  Vidner og Syns- og Skøns-</p>
 </rightside></div><?page  r04_00247_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>mænd skulle derfor ordentligvis klin underkastes en foreløbig Afhørelse og ikke edfæstes,<lb />
 og Undersøgelsesdommeren behøver ikke at<lb />
 gøre Tilførsler til Protokollen om sådanne<lb />
@@ -12293,7 +12293,7 @@ tillagt det pågældende bevis nogen vægt<lb />
 til Skade for Tiltalte. Dette følger ligefrem<lb />
 af den fri Bevisbedømmelse.</p>
 </rightside></div><?page  r04_00248_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <h>§ 208.</h>
 <p>Ved sidste Punktum i første Stykke er<lb />
 kun udtrykt, at Gyldigheden af det i Retsmødet foretagne ikke kan angribes under<lb />
@@ -12381,7 +12381,7 @@ hindrede Sagens videre Fremme, eller at<lb />
 det foreliggende Bevismateriale ikke frembod<lb />
 tilstrækkeligt Grundlag for Anklagens Henvisning til Domsforhandling.   Naar endelig</p>
 </rightside></div><?page  r04_00249_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>denne Frist var udløben, skulde Retten i<lb />
 et dertil berammet Retsmøde træffe Be«<lb />
 stemmelse om, hvorvidt Sagen skulde henvises til Domsforhandling eller ikke. hvorved den eventuelt havde at prøve de Indsigelser, som i nysnævnte Henseende vare<lb />
@@ -12476,7 +12476,7 @@ til de på Rettens Kontor fremlagte Dokumenter.</p>
 <p>På Anklageskriftet er anført en Frist,<lb />
 inden hvilken Tiltalte eller dennes Forsvarer</p>
 </rightside></div><?page  r04_00250_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>eventuelt må fremkomme med Forsvarets<lb />
 Bevisfortegnelse samt med sine Begæringer<lb />
 om Foretagelsen af bestemte Bevishandlinger<lb />
@@ -12581,7 +12581,7 @@ med en Udsættelse forbundne Besvær for<lb />
 Ret. Parter, Nævninger, Vidner, Syns« og<lb />
 Skønsmænd etc.   ikke   gærne  bor  afbrydes,</p>
 </rightside></div><?page  r04_00251_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>når sådant ikke er strængt nødvendigt. Der<lb />
 er derfor givet Adgang til under Domsforhandlingen dels at udvide Tiltalen til<lb />
 andre af Tiltalte begåede strafbare Handlinger, forudsat at Retten tillader det, og enten<lb />
@@ -12676,7 +12676,7 @@ ikke et Bevis, som er opført i Overanklagerens Bevisfortegnelse. hellere bor ti
 Overanklageren ønsket Vidne-Indkaldelse som<lb />
 helt og holdent overflødig.   Tiltalte vil her-</p>
 </rightside></div><?page  r04_00252_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>efter vel kunne fremsætte Påstand på, at<lb />
 et Vidne, hvis Forklaring stal benyttes, må<lb />
 blive fort for den dømmende Ret i Stedet<lb />
@@ -12773,7 +12773,7 @@ anmeldes et nyt Bevis, der stal tilvejebringes<lb />
 ved det Offentliges Foranstaltning, og der<lb />
 mod  sådant Bevis  rejfes Protest   fra An-</p>
 </rightside></div><?page  r04_00253_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>klagerens  Side,   træffer  Rettens Formand<lb />
 afgørelse desangående.</p>
 <wtitle>§ 224.</wtitle>
@@ -12873,7 +12873,7 @@ først gøres gældende under selve Domsforhandlingen, ville bevirke Frifindelse
 <p>Af samme Grund som ovenfor nævnt<lb />
 giver  Paragrafsen   Retten   Lejlighed  til  af</p>
 </rightside></div><?page  r04_00254_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>egen Drift at forandre den af overanklageren ved Påtegning på Anklageskriftet foreløbig trufne Bestemmelse med Hensyn til<lb />
 magens Behandling henholdsvis med eller<lb />
 uden Nævninger. De i denne Paragraf omhandlede Afgørelser træffes af selve Landsretten,  ikke af Formanden alene, jfr. § 230.</p>
@@ -12961,7 +12961,7 @@ hvilende på Forudsætninger i det tidligere<lb />
 Forslag med Hensyn til Forholdet imellem<lb />
 Esterforskning og Forundersøgelse, der ikke i</p>
 </rightside></div><?page  r04_00255_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>samme Grad foreligge i nærværende Udkast.<lb />
 På den anden Side er tilføjet en Bestem«<lb />
 melse om Adgang for Retten til undtagelsesvis<lb />
@@ -13057,7 +13057,7 @@ foretages i Mellemtiden. Hvis Sagen, når<lb />
 den kommer for igen, ikke kan foretages for<lb />
 de samme Nævninger eller de samme dømmere,  vil det allerede af den Grund  blive</p>
 </rightside></div><?page  r04_00256_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>nødvendigt at lade den hele Domsforhandling begynde for fra. Selv om man imidlertid har de samme Nævninger og dømmere<lb />
 tilstede, eller Talen er om en Sag, der ikke<lb />
 stal for Nævninger, vil det, så snart man<lb />
@@ -13153,7 +13153,7 @@ foreskrevet (jfr. § 95). kæremål er udelukket<lb />
 overfor Beslutninger, som gå ud på Domsforhandlingens Fortsættelse (§346, 2det Stk.);<lb />
 om Anke se § 31?.</p>
 </rightside></div><?page  r04_00257_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Afgørelse af de Spørgsmål, som om-handles i nærværende Paragraf, henhorer<lb />
 også i Nævningesager udelukkende under<lb />
 Retten; jfr. herved dels § 276 dels § 297.<lb />
@@ -13245,7 +13245,7 @@ rekvireret, eller det Brev, hvis Indhold har<lb />
 ophidset Sigtede til en Voldshandling),<lb />
 afskærer   den   derimod  som Hovedregel Op-</p>
 </rightside></div><?page  r04_00258_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>læsning af alle sådanne Dokumenter, der<lb />
 tun indeholde Beretninger, Gengivelser, Erklæringer, Attestationer eller lignende, idet<lb />
 den nemlig udtrykkelig angiver de Undtagelsestilfælde, hvori sådan Oplæsning er tilladt, og for disse drager så snævre Grænser<lb />
@@ -13323,7 +13323,7 @@ ved Forhandlingens Begyndelse for at undgå en Afbrydelse midt under denne.</p>
 Parterne Adgang   til  under Domsforhand-</p>
 <p>1</p>
 </rightside></div><?page  r04_00259_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>lingen at fremkomme med ikke forud anmeldte Beviser. Mulige Tilbøjeligheder til<lb />
 Misbrug af denne Regel må modvirkes<lb />
 gennem Boder eller Pålæg af Omkostninger.<lb />
@@ -13413,7 +13413,7 @@ Erfaringen fra Udlandet, at den vilkårlige<lb />
 Udskydelsesret mange Steder — blandt andet</p>
 <p>11</p>
 </rightside></div><?page  r04_00260_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>også i Norge — fra Forsvarets Side misbruges til at fjerne sådanne Nævninger,<lb />
 der antages at være Mænd med Erfaring<lb />
 og selvstændig Opfattelse; i England har<lb />
@@ -13503,7 +13503,7 @@ Autoritet — af Rettens Formand i Henhold<lb />
 til § 265. 3dje Stykke. — Da det må anses for at være af Vigtighed, at Nævningerne iagttage Tavshed med hensyn til deres<lb />
 Rådstagning og Afstemning, og da et simpelt Forbud uden nogen Sanktion  let vilde</p>
 </rightside></div><?page  r04_00261_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>blive uden Virkning, er der t § 286 foreskrevet Fængselsstraf for Brud på Tavshedspligten.</p>
 <p>Kravet på henholdsvis Majoritet og<lb />
 Enstemmighed ikke blot med Hensyn til Resultatet, men også med Hensyn til Grundene i de i §§ 294 og 295, 2det Stykke, omhandlede Tilfælde er opgivet.</p>
@@ -13585,7 +13585,7 @@ end fornødent, giver § 267 Adgang til at<lb />
 udtage Jury for alle Dagens Sager straks<lb />
 ved Retsmødets Begyndelse.</p>
 </rightside></div><?page  r04_00262_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <wtitle>§ 263.</wtitle>
 <p>Den her omhandlede Udskydningsret må<lb />
 Tiltalte kunne udøve gennem sin Fursvarer,<lb />
@@ -13678,7 +13678,7 @@ som strafferetlig tilregnelig, om den Situation, hvorunder han handlede, skal be
 som fyldestgørende Nødværge-Betingelserne,<lb />
 om Handlingen er begået på dansk Straffeterritorium o. s. fr.    Heri ligger, at Retten</p>
 </rightside></div><?page  r04_00263_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>aldrig kan domfælde en Tiltalt' på Grundlag af et Bevis, som Nævningerne have<lb />
 anset for utilstrækkeligt, eller på Grundlag<lb />
 af en Subsumtion, som nævningerne have<lb />
@@ -13768,7 +13768,7 @@ har begået Handlingen, medens spørgsmålet drejer sig om de subjektive Betinge
 under hvilke der er handlet, vil det naturligste være at opstille flere sideordnede<lb />
 Hovedspørgsmål, altså f. Eks. således:</p>
 </rightside></div><?page  r04_00264_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>1.    Er Tiltalte N. N. skyldig  i den i<lb />
 Straffelovens § 190 omhandlede Forbrydelse<lb />
 ved o. s. v. med Overlæg at have dræbt... ?<lb />
@@ -13858,7 +13858,7 @@ have o. s. v.?</p>
 „og så vidt muligt kun eet forbryders! For-</p>
 <p>1</p>
 </rightside></div><?page  r04_00265_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>hold", sigtes der herved navnlig til, at en<lb />
 så specialiseret spørgsmålstillen lan være<lb />
 umulig, hvor Sagen drejer sig om en Række<lb />
@@ -13950,7 +13950,7 @@ o. s. fr.</p>
 <p>På tilsvarende Måde vil Retten have<lb />
 at lægge en mildere bedømmelse til Grund,</p>
 </rightside></div><?page  r04_00266_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>hvor nævningerne f. Eks. have erklæret for<lb />
 fuldbyrdet Forbrydelse, hvad der efter Net«<lb />
 tens Opfattelse kim kan være Forsøg, have<lb />
@@ -14035,7 +14035,7 @@ almindelige Underretssager, hvori der foreligger Tilståelse, dels er der i § 3
 Politisagers Vedkommende optaget det andet<lb />
 Steds og navnlig i Norge praktiserede forelæg-Institut.</p>
 </rightside></div><?page  r04_00267_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Hvad det Første — den summariske Behandling af Tilståelsessager — angår, da<lb />
 har dette sit Forbillede i den gældende Ret,<lb />
 jfr. Frdg. 28de Febrnar 184§ ang. Kjøbenhavns Kriminal- og Politiret § 17, hvori<lb />
@@ -14117,7 +14117,7 @@ pligten ikke finder Anvendelse i Underretssager, at Reglerne i § 221 Nr. 3 og �
 foregå efter reglerne i § 305, at §H 243<lb />
 og  244  modificeres   ved  §  307,   ligesom</p>
 </rightside></div><?page  r04_00268_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>endelig § 301, 3dje Stykke, hviler på en<lb />
 Forudsætning, der ikke gælder for Underretterne, hvis dømme nemlig stå under<lb />
 fuldstændig Appel til Landsretten, forsåvidt<lb />
@@ -14203,7 +14203,7 @@ proceslovs Sondring imellem „Revision"<lb />
 3: Påanke af Landsretssager med Hensyn<lb />
 til Netsspørgsmål, og „Berusung" .->: Påanke af Underrets  [Schoffengericht] Sager</p>
 </rightside></div><?page  r04_00269_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>enten alene med Hensyn til Retsspørgsmål<lb />
 eller i Form af helt ny Behandling. Ligeledes svarer den til den norske Straffeproceslovs — kun formelt afvigende — Sondring<lb />
 mellem „Anke" c>: enhver navnlig Retsspørgsmaal vedrorende Appel til højesteret, være<lb />
@@ -14284,7 +14284,7 @@ ligefrem følge af almindelige res judicata Principper.</p>
 Dages Appelfrist, der er fun'den altfor fort,<lb />
 er i §§ 322,   323 og 324  sat en 14 Dages</p>
 </rightside></div><?page  r04_00270_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Frist; denne Frist er derhos i § 32§ tillige<lb />
 gjort anvendelig på Indleveringen af Ankebegrundelsen. For Anke fra Overanklagerens<lb />
 Side til Fordel for Tiltalte gælder dog efter<lb />
@@ -14376,7 +14376,7 @@ afgørelser.</p>
 <p>Naar i 2det Stykke en af Landsretten<lb />
 i Henhold til § 294 trussen Bestemmelse om</p>
 </rightside></div><?page  r04_00271_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Tilsidesættelse af en fældende Nævningekendelse, der mangler tilstrækkeligt Bevisgrundlag, og om Foretagelse af ny Domsforhandling stilles i Klasse med dømme, forsåvidt Anke angår, er dette således<lb />
 at førstå, at højesteret vel kan statuere,<lb />
 at den i Henhold til § 294 afsagte Ken.<lb />
@@ -14471,7 +14471,7 @@ Tilfælde, at en Nævningekendelse antages at<lb />
 indeholde en Retsvildfarelse. som følge af,<lb />
 at nævningerne, skønt baade Retsbelæring og</p>
 </rightside></div><?page  r04_00272_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>spørgsmålstillen har været rigtig nok, have<lb />
 subsumeret urigtig til Skade for Tiltalte (9:<lb />
 erklæret et Forhold for strafbart, der i Virkeligheden ikke er det, eller henført det under<lb />
@@ -14563,7 +14563,7 @@ må i Henhold til Z 329, 2det Stykke, kunne<lb />
 besluttes af det i § 328 ommeldte Udvalg<lb />
 eller af højesterets Iustitiarius.</p>
 </rightside></div><?page  r04_00273_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <wtitle>§ 328.</wtitle>
 <p>Hvorvidt en i Henhold til § 328 afvist<lb />
 Anke kan indbringes påny, må bero på<lb />
@@ -14658,7 +14658,7 @@ stilles ganske i Klasse dermed — Overanklageren har appelleret til Fordel for 
 her omhandlede Myndighed således, at<lb />
 den   idømmer strængere  Straf  end</p>
 </rightside></div><?page  r04_00274_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>ved Landsretsdommen, jvf. § 335,<lb />
 sidste Punktum. Dette sidste udelukker i<lb />
 øvrigt ikke Henførelse under en strængere<lb />
@@ -14746,7 +14746,7 @@ vilde afskære Appel.</p>
 <p>Samtidig med således at udvide Adgangen til at appellere Politisager, har man<lb />
 dog ønsket at fremhæve. at sådan Anke nor</p>
 </rightside></div><?page  r04_00275_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>malt kun bør angå Retsspørgsmål eller<lb />
 Strafudmålingen, idet normalt kun disse<lb />
 og ikke Bevisspørgsmålet vil frembyde virkelig Tvivl, og Appeladgangen ikke bør benyttes<lb />
@@ -14830,7 +14830,7 @@ således som forudsat i § 329, bliver der her<lb />
 ikke Tale, jfr. Henvisningen til § 40 i nærværende Paragrafs 3dje Stykke. De Pligter,<lb />
 der i § 330 ere pålagte henholdsvis Rigsanklager  og Forsvarer  med Hensyn  til ny</p>
 </rightside></div><?page  r04_00276_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Bevisers Optagelse, ere ifølge nærværende<lb />
 Paragrafs 1ste Stykke i det hele pålagte<lb />
 Overanklageren. I Stedet for § 331, 2det<lb />
@@ -14922,7 +14922,7 @@ Fald kunde misbruges til chikanøs Hindren<lb />
 eller Forhalen cif Sagen, ifr. i så Henseende § 346 og § 34?/sidste Punktum. Den<lb />
 Fremgangsmåde,  der skal følges ved  An-</p>
 </rightside></div><?page  r04_00277_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>vendelsen af kære, er, som dot vil ses af §§<lb />
 348—50. simpel og meget lidt formbunden.<lb />
 En tilsvarende Form for Klage til højere<lb />
@@ -15023,7 +15023,7 @@ Fængslings-    og    Beslaglæggelseskendelser).</p>
 kunne dog ikke gøres til Genstand for<lb />
 kæremål, naar Dom er falden, denne</p>
 </rightside></div><?page  r04_00278_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>derefter påankes og de pågældende<lb />
 Afgørelser som forudgående kunne<lb />
 bringes frem til højere Rets prøvelse<lb />
@@ -15125,7 +15125,7 @@ ikke var beføjet til at påtale, har rejst Sag<lb />
 frifindelse eller er standset på et tidligere<lb />
 Trin   - ikke kan være den,   hvem Påtalen</p>
 </rightside></div><?page  r04_00279_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>tilkommer, til Hinder for at rejse en ny Sag.<lb />
 Naar de i så Henseende givne Regler i det<lb />
 tidligere førstags §§ 420 og 421 her ere<lb />
@@ -15216,7 +15216,7 @@ een Gang standset eller frafaldet forfølgning<lb />
 ikke kan finde Sted på samme Grundlag,<lb />
 som forelå, da forfølgningen første Gang</p>
 </rightside></div><?page  r04_00280_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>standsedes eller frafaldtes. Den Sigtede synes<lb />
 nemlig at have et billigt Krav på, at det<lb />
 Offentlige ikke rent vilkårligt standser Sagen<lb />
@@ -15303,7 +15303,7 @@ Påtalemyndighedernes åbenbare Fejl eller<lb />
 Forsømmelse ikke da ere blevne bragte frem<lb />
 for den dømmende Ret.</p>
 </rightside></div><?page  r04_00281_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <wtitle>§ 358.</wtitle>
 <p>At en Begæring om Genoptagelse<lb />
 een Gang er afvist, hindrer ikke, at sådan<lb />
@@ -15386,7 +15386,7 @@ Frist, inden hvilken den Private må gøre</p>
 subsidiære Påtaleret. En saadan Frist<lb />
 findes   også    i   N.   L.s    §   433    og    er</p>
 </rightside></div><?page  r04_00282_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>dels begrundet i et Hensyn til den, der<lb />
 eventuelt skal stå som Sigtet, dels i Ønskeligheden af, at Sagen, naar den overhovedet<lb />
 skal frem, kommer frem, medens den endnu<lb />
@@ -15475,7 +15475,7 @@ XXVI. med Undtagelse af § 309 samt til<lb />
 de i Kapitel XXVII. til XXIX. indeholdte<lb />
 regler for Appel af Politifager.</p>
 </rightside></div><?page  r04_00283_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <wtitle>§ 367.</wtitle>
 <p>Den i 2det Stykke fastsatte Frist er i<lb />
 Virkeligheden af temmelig relativ Beskaffenhed. Om en nægtelse af forfølgningen fra<lb />
@@ -15559,7 +15559,7 @@ sig til saadan accessorisk Behandling, opnår alt, hvad han med Rimelighed kan f
 fuld Frihed til at gøre det gældende ad<lb />
 civilprocessuel Vej.</p>
 </rightside></div><?page  r04_00284_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Denne sidste Adgang står ham efter<lb />
 Udkastet åben ikke blot. hvor han fra først<lb />
 af har holdt Erstatningskravet borte fra<lb />
@@ -15642,7 +15642,7 @@ overhovedet ikke burde have været afgjort i<lb />
 Forbindelse med Straffesagen, kunne indskrænke sig til at ophæve den i så Henseende trufne afgørelse uden at sætte nogen<lb />
 anden i Stedet. Omvendt må der i Forbindelse med Påanken af den strafferetlige Afgørelse kunne ankes over, at den underordnede Ret har vægret sig ved at påkende det borgerlige Krav.</p>
 </rightside></div><?page  r04_00285_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Reglen i § 382. 3dje Stykke, om Udelukkelse af Kæremål med Hensyn til Rettens Beslutninger vedrorende borgerlige Krav<lb />
 har særlig Betydning for det tilfælde, at<lb />
 Retten nægter at tage et fremsat borgerligt<lb />
@@ -15712,7 +15712,7 @@ ere udgåede i Konsekvens af tidligere ændringer.</p>
 <p>nærværende Kapitel afviger nærmest kun<lb />
 på følgende Punkter fra det tidligere Forflags 9de Afsnit, kapitel II.</p>
 </rightside></div><?page  r04_00286_procescom_1892 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Det tidligere Forstags § 485. 3die Stykke,<lb />
 er udeladt som pålæggende Retterne en legal<lb />
 Anmeldelsespligt, der på den ene Side ligger<lb />
