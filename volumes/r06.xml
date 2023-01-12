@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root"><?page  r06_00001_proceskom_1892_1 ?>
-<div>
+<div type='page-placeholder'>
 <title>Udkast til Lov
 </title>
 <p>om</p>
@@ -13,7 +13,7 @@ Bolitimyndighedens samt Sag Sagførervæsnets Ordning.
 <lb />Trykt hos I.h. Sdjultz.<lb />
 1899.
 </undertitle></div><?page  r06_00002_proceskom_1892_1 ?>
-<div>
+<div type='page-placeholder'>
 <title>Indholdsoversigt.
 </title>
 <title>Første Afsnit.
@@ -76,7 +76,7 @@ Grundlister (§§ 50—54)	   S. 18—20.
 </p>
 <p>Furtsdiktionsliste 	   S. 43—46,
 </p></div><?page  r06_00003_proceskom_1892_1 ?>
-<div><title>Første Afsnit
+<div type='page-placeholder'><title>Første Afsnit
 </title>
 <undertitle>Domstolenes Ordning.
 </undertitle>
@@ -116,7 +116,7 @@ Dommere til at deltage i Sagens Behandling.
 </p>
 <pagename>1
 </pagename></div><?page  r06_00004_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <wtitle>§ 3.
 </wtitle>
 <p>Skriverforretningerne ved Højesteret<lb />
@@ -164,7 +164,7 @@ enkelt Ting bestikke en af de i Landsretskredsen ansatte Underretsdommere.
 Instans af Retssager i det Omfang, som be-
 </p>
 </rightside></div><?page  r06_00005_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>stemmes ved Lovene om den borgerlige Retspleje og Strafferetsplejen, dels Prøvelse i anden Instans af Underretternes Behandlinger<lb />
 og Afgørelser overensstemmende med de nævnte<lb />
 Love. Endvidere kan Kære rejses for Landsretten over Underrettens Afgørelser vedrorende de i § 16 a, c, d og f ommeldte<lb />
@@ -207,7 +207,7 @@ og det i øvrigt fornødne fastsættes ved kgl.<lb />
 Anordning.
 </p>
 </leftside></div><?page  r06_00006_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <p>Ved So- og Handelssager forstaas i<lb />
 denne Lov de borgerlige Sager, i hvilke<lb />
 Fagkendstab henholdsvis til Søforhold og<lb />
@@ -249,7 +249,7 @@ omhandlede Sager afholdes regelmæssigt Ting<lb />
 af den sjællandske Landsret i Løbet af hver
 </p>
 </rightside></div><?page  r06_00007_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <p>Maaned i Kjøbenhavn, og i øvrigt af<lb />
 hver Landsret en Gang i Løbet af hver 3<lb />
 Maaneder paa hvert af Tingstederne udenfor Kjøbenhavn; dog afholdes paa Bornholm<lb />
@@ -295,7 +295,7 @@ at være paatrængende.
 <p>Staden Kjøbenhavn udgør en Underretskreds;   dog  kunne  mindre   Dele  af det
 </p>
 </leftside></div><?page  r06_00008_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <p>tilgrænsende Landdistrikt ved kgl. Anordning henlægges under Kjøbenhavns Stadsret, naar de stedlige Forhold tale derfor.<lb />
 I øvrigt deles Riget i 103 By- og Herreds-retskredse, saaledes som det angives paa den<lb />
 nærværende Lov vedføjede Tavle. Forandringer deri, hvorved Sogne eller mindre<lb />
@@ -337,7 +337,7 @@ og ved samme Lovs § 10 til Skifteretterne henlagte Forretninger, forsaavidt Lov
 fastsættes ved særlig Anordning.
 </p>
 </rightside></div><?page  r06_00009_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <wtitle>§ 17.
 </wtitle>
 <p>Kjøbenhavns Stadsret bestaar af en<lb />
@@ -380,7 +380,7 @@ Spørgsmaal om Afgørelse af Tvistigheder<lb />
 efter  Dommerens   Bestemmelse   udføres   af
 </p>
 </leftside></div><?page  r06_00010_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <p>en Fuldmægtig eller en anden dertil af<lb />
 Stadsrettens Iustitiarius bemyndiget Person.<lb />
 Pante- og Brevskriverkontoret, hvorunder Skøde- og Pantebøgernes Førelse<lb />
@@ -425,7 +425,7 @@ og Aflæsning af Dokumenter vedkommende<lb />
 Forretninger, samt fører Skode- og Pante-
 </p>
 </rightside></div><?page  r06_00011_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>9
 </pagename>
 <p>bøgerne.    Endvidere forestaar han Notarial-forretningerne.
@@ -472,7 +472,7 @@ betegnes som Hovedtingsted; men Dommeren er pligtig ved de ordentlige Rets- mød
 <pagename>2
 </pagename>
 </leftside></div><?page  r06_00012_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>10
 </pagename>
 <p>modtage Dokumenter, som indleveres til Tinglæsning eller Aflæsning, samt efter Forud-begæring at udlevere tinglæste og aflæste<lb />
@@ -518,7 +518,7 @@ at være af en særegen vidtløftig og indviklet Beskaffenhed. Ligeledes forbeho
 der Regeringen Adgang til at tillægge Landvæsenskommissioner   dømmende   Myndighed
 </p>
 </rightside></div><?page  r06_00013_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>11
 </pagename>
 <p>til at afgøre de ved Inddæmnings- og Udtørrings- Foretagender opstaaende Spørgsmaal i samme Omfang som hidtil.
@@ -566,7 +566,7 @@ Retter af Iustitiarius, for By- og Herreds-retternes Vedkommende af Landsrettens
 Domstole bestikkes af Kongen.
 </p>
 </leftside></div><?page  r06_00014_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>12
 </pagename>
 <p>Kun fuldmyndige, uberygtede, vederhæstige Mænd, som have underkastet sig den<lb />
@@ -612,7 +612,7 @@ juridiske Eksamen for Ustuderede.
 Udelukkelse eller Fritagelse formedelst Inhabilitet maatte være nodveudigt, beskikker Justitsministeren eller, ved By- og Herredsretterne, Landsrettens Iustitiarius en Sættedommer.
 </p>
 </rightside></div><?page  r06_00015_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>13
 </pagename>
 <p>Med Hensyn til Sættedommerne finde<lb />
@@ -660,7 +660,7 @@ Iustitiarius i Stilhed at give ham fornøden<lb />
 Advarsel.
 </p>
 </leftside></div><?page  r06_00016_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>14
 </pagename>
 <wtitle>§  35.
@@ -711,7 +711,7 @@ af den Myndighed, der har meddelt den, dog,<lb />
 forsaavidt det er Landsrettens Iustitiarius,
 </p>
 </rightside></div><?page  r06_00017_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>15
 </pagename>
 <p>med Ret for den  Paagældende til at forelægge Spørgsmaalet for Justitsministeren.
@@ -759,7 +759,7 @@ Kjøbenhavns Stadsrets Vedkommende Rettens Iustitiarius, Sagen ved Kendelse.<lb 
 Mod denne Kendelse kan   rejses Kæremaal.
 </p>
 </leftside></div><?page  r06_00018_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>16
 </pagename>
 <p>Er Retsskriverembedet forenet med Dommerembedet, afgøres deslige Klager ved Kære.<lb />
@@ -808,7 +808,7 @@ vejlede dem med Hensyn til deres Pligter.
 Stadsrets Skriverkontorer ansættes af vedkommende Rets Iustitiarius.
 </p>
 </rightside></div><?page  r06_00019_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>17
 </pagename>
 <title>Andet Afsnit..<lb />
@@ -860,7 +860,7 @@ er samlet,
 <pagename>3
 </pagename>
 </leftside></div><?page  r06_00020_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <p>18
 2)	</p>
 <p>Told-  og  Postembedsmænd,   faste<lb />
@@ -912,7 +912,7 @@ et Udvalg af 4 Medlemmer, af hvilke 2<lb />
 udnævnes af Magistraten og 2 af Borgerrepræsentanterne, saaledes at i Tilfælde af
 </p>
 </rightside></div><?page  r06_00021_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>19
 </pagename>
 <p>Stemmelighed Lodtrækning gør Udslaget —<lb />
@@ -967,7 +967,7 @@ Sted, skal inden 3 Dage efter Kendelsens<lb />
 Afsigelse gøres til Kommunalbestyrelsen.
 </p>
 </leftside></div><?page  r06_00022_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>20
 </pagename>
 <wtitle>§ 52.
@@ -1009,7 +1009,7 @@ skal Kommunalbestyrelsen samtidig underrette<lb />
 den, om hvis Udelukkelse der er Tale.
 </p>
 </rightside></div><?page  r06_00023_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>21
 </pagename>
 <title>Kap. V.
@@ -1059,7 +1059,7 @@ det selv maatte sinde Anledning til at rejse<lb />
 ifølge fremkomne, paa bestemte Kendsgærninger støttet Tvivl om, hvorvidt nogen af
 </p>
 </leftside></div><?page  r06_00024_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>22
 </pagename>
 <p>de paa Listen opførte mænd fyldestgør Betingelserne efter §§ 46 og 47 for at kunne være<lb />
@@ -1109,7 +1109,7 @@ hvilket Nævningesager skulle paakendes, afholder det i § 55 nævnte Udvalg et 
 møde paa Tingstedet,  for ved Lodtrækning
 </p>
 </rightside></div><?page  r06_00025_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>23
 </pagename>
 <p>at udtage Nævninger for det forestaaende<lb />
@@ -1158,7 +1158,7 @@ med Løbenumre efter den Orden, i hvilken<lb />
 de udtrækkes. 
 </p>
 </leftside></div><?page  r06_00026_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>24
 </pagename>
 <p>Den sidste Liste er Tingets Hovedliste,<lb />
@@ -1206,7 +1206,7 @@ Følgerne af Forsømmelse i denne Henseende    og    af   Udeblivelse    uden   
 paa Hjælpelisten opførte Personer Tilsigelse
 </p>
 </rightside></div><?page  r06_00027_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>25
 </pagename>
 <p>om, at de under det forestaaende Ting<lb />
@@ -1259,7 +1259,7 @@ Paragrafs første Stykke trufne Afgørelser om
 <pagename>4
 </pagename>
 </leftside></div><?page  r06_00028_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>26
 </pagename>
 <p>Fritagelse  og  Udelukkelse have kun Gyldighed for det forestaaende Ting.
@@ -1311,7 +1311,7 @@ Meddelelse af Oplysninger, eller nøder en<lb />
 Nævning   for sent,   men inden Lodtrækning
 </p>
 </rightside></div><?page  r06_00029_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>27
 </pagename>
 <p>af Nævninger til nogen Sag er begyndt<lb />
@@ -1361,7 +1361,7 @@ den By, hvori de bo, eller, naar de bo paa<lb />
 Landet, fra deres Hjem, Godtgørelse for Be-
 </p>
 </leftside></div><?page  r06_00030_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>28
 </pagename>
 <p>fordring frem og tilbage med 1½ Kr. for<lb />
@@ -1410,7 +1410,7 @@ Sag for Højesteret i Rigsanklagerens Sted.
 beskikker Kongen  3, og for den jydsk-fynske
 </p>
 </rightside></div><?page  r06_00031_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>29
 </pagename>
 <p>ligeledes 3 Overanklagere. Til midlertidig<lb />
@@ -1468,7 +1468,7 @@ skal fyldestgøre de Betingelser, som ifølge<lb />
 Underretterne.
 </p>
 </leftside></div><?page  r06_00032_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>30
 </pagename>
 <wtitle>§ 82.
@@ -1520,7 +1520,7 @@ andet særlig er bestemt.
 <p>Politimestrene, der beskikkes af Kongen,
 </p>
 </rightside></div><?page  r06_00033_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>31
 </pagename>
 <p>maa fyldestgøre de i § 28, 2det Stykke, jfr.<lb />
@@ -1567,7 +1567,7 @@ for Købstæder og Handelspladser med et<lb />
 større Indbyggertal desuden 1 for hver over-
 </p>
 </leftside></div><?page  r06_00034_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>32
 </pagename>
 <p>flydende 1500 Indbyggere, dog ikke mere end<lb />
@@ -1607,7 +1607,7 @@ Kjøbenhavns Politikreds under Amtmandens<lb />
 Overtilsyn.
 </p>
 </rightside></div><?page  r06_00035_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>33
 </pagename>
 <title>Femte Afsnit.</title>
@@ -1652,7 +1652,7 @@ Virksomhed   som   Sagfører    ved   Underret
 <pagename>5
 </pagename>
 </leftside></div><?page  r06_00036_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>34
 </pagename>
 <p>eller som Anklager ved Underret eller i<lb />
@@ -1700,7 +1700,7 @@ Sager af vedkommende Domstol kendes forsvarlig.
 oftere end 2 Gange, og Ingen erholder Ad-
 </p>
 </rightside></div><?page  r06_00037_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>35
 </pagename>
 <p>gang til Proven, forinden han har fremlagt Iustitsministeriets Tilkendegivelse om,<lb />
@@ -1742,7 +1742,7 @@ Sæde. Underretssagførerne ere forpligtede<lb />
 til, inden Beskikkelsen udleveres dem, at anmelde for Justitsministeriet, i hvilken Under-
 </p>
 </leftside></div><?page  r06_00038_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>36
 </pagename>
 <p>retskreds de ville have Kontor. Ingen<lb />
@@ -1787,7 +1787,7 @@ Angivelse af Grund at lade møde for sig<lb />
 ved deres autoriserede Fuldmægtige.
 </p>
 </rightside></div><?page  r06_00039_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>37
 </pagename>
 <p>Med Angivelse og i fornødent Fald<lb />
@@ -1832,7 +1832,7 @@ Anledning dertil, antage andre Sagførere<lb />
 til at deltage i nævnte hverv.
 </p>
 </leftside></div><?page  r06_00040_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>38
 </pagename>
 <title>Kap. X.
@@ -1880,7 +1880,7 @@ Retten og efterkomme de Paalæg, som særlig<lb />
 gives dem af Retten i Medfør af Rettergangslovene.
 </p>
 </rightside></div><?page  r06_00041_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>39
 </pagename>
 <wtitle>§108.
@@ -1926,7 +1926,7 @@ særskilt Kendelse eller ved den endelige Dom.
 skyldig i en i den offentlige Mening vanærende Handling, stal ved samme Dom frakendes Retten til at udøve Sagførervirksomhed.
 </p>
 </leftside></div><?page  r06_00042_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>40
 </pagename>
 <p>Har en Sagfører gjort sig skyldig i det<lb />
@@ -1969,7 +1969,7 @@ Fremdeles bliver der før det nævnte Tidspunkt at drage Omsorg for Affattelsen 
 de i Kap. IV og V omtalte Lister.
 </p>
 </rightside></div><?page  r06_00043_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>41
 </pagename>
 <p>Loven gælder ikke for Færøerne; den<lb />
@@ -2023,7 +2023,7 @@ af Retskredsen er henlagt;
 <pagename>6
 </pagename>
 </leftside></div><?page  r06_00044_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>42
 </pagename>
 <wtitle>§ 117.
@@ -2065,7 +2065,7 @@ dem til Gode i de nye Stillinger, i hvilke<lb />
 de saaledes ere pligtige at modtage Bestikkelse.
 </p>
 </rightside></div><?page  r06_00045_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>43
 </pagename>
 <wtitle>§  120.
@@ -2124,7 +2124,7 @@ ved at forenes med andre, ere betegnede ved at<lb />
 være fremhævede.
 </note>
 </leftside></div><?page  r06_00046_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>44
 </pagename>
 <p>
@@ -2211,7 +2211,7 @@ Vestre Herred c. 23,000.
 40.    Nordre Herred   med Fejø   c. 13,000.
 </p>
 </rightside></div><?page  r06_00047_proceskom_1892_1 ?>
-<div><leftside>
+<div type='page-placeholder'><leftside>
 <pagename>45
 </pagename>
 <title>Fyen:</title>
@@ -2299,7 +2299,7 @@ c. 23,000.
 <p>70.    Hammerum Herred c. 21,000.
 71.	</p>
 </leftside></div><?page  r06_00048_proceskom_1892_1 ?>
-<div><rightside>
+<div type='page-placeholder'><rightside>
 <pagename>46</pagename>
 <p>
 </p>

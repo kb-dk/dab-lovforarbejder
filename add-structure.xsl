@@ -35,13 +35,34 @@
       </teiHeader>
       <text>
         <body>
-          <xsl:copy-of select="/t:TEI/*"/>
+          <xsl:apply-templates/>
         </body>
       </text>
     </TEI>
 
   </xsl:template>
 
+  <xsl:template match="node()">
+    <xsl:copy>
+      <!-- xsl:if test="not(@id)">
+        <xsl:attribute name="id">
+          <xsl:value-of select="generate-id(.)"/>
+        </xsl:attribute>
+      </xsl:if -->
+      <xsl:apply-templates select="@*|node()"/>
+    </xsl:copy>
+  </xsl:template>
+  
+  <xsl:template match="@*">
+    <xsl:copy-of select="."/>
+  </xsl:template>
+
+  <xsl:template match="processing-instruction('page')">
+    <xsl:element name="pb">
+      <xsl:attribute name="xml:id"><xsl:value-of select="."/></xsl:attribute>
+    </xsl:element>
+  </xsl:template>
+  
 </xsl:transform>
 
 
