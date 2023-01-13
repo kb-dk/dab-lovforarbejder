@@ -35,6 +35,7 @@
       </teiHeader>
       <text>
         <body>
+          <title type="replace-with-title-page"><xsl:value-of select="$registrant//row[contains(Filnavne,$volume_number)]/Titel"/></title>
           <xsl:apply-templates/>
         </body>
       </text>
