@@ -9,12 +9,25 @@
 
   <xsl:output indent="yes" encoding="UTF-8" />
 
-  <xsl:template match="/">
-    <xsl:apply-templates/>
+  <xsl:template match="/t:TEI">
+    <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
+      <xsl:apply-templates/>
+    </TEI>
   </xsl:template>
 
-  <xsl:template match="t:body/t:title">
-    <xsl:apply-templates/>
+  <xsl:template match="t:title/t:lb"/>
+  <xsl:template match="t:body">
+    <body>
+      <xsl:apply-templates  select="t:title[1]"/>
+    </body>
+  </xsl:template>
+  
+  <xsl:template  match="t:body/t:title">
+    <xsl:variable name="me" select="generate-id(.)"/>
+    <xsl:element name="div">
+      <xsl:element name="head"><xsl:apply-templates/></xsl:element>
+      <xsl:apply-templates select="following-sibling::node()[generate-id(preceding-sibling::t:title[1]) = $me]"/>
+    </xsl:element>
   </xsl:template>
   
   <xsl:template match="node()">
