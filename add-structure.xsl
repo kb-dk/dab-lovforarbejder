@@ -82,6 +82,7 @@
       <xsl:otherwise><xsl:value-of select="local-name(.)"/></xsl:otherwise>
     </xsl:choose>
   </xsl:template>
+
   
   <xsl:template match="node()">
     <xsl:copy>
