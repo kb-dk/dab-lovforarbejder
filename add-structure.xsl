@@ -58,6 +58,24 @@
     </xsl:element>
   </xsl:template>
 
+  <xsl:template name="running-head" match="t:h">
+    <xsl:element name="fw">
+      <xsl:attribute name="type">head</xsl:attribute>
+      <xsl:attribute name="place">top-left</xsl:attribute>
+      <xsl:value-of select="t:coll"/>
+    </xsl:element>
+    <xsl:element name="fw">
+      <xsl:attribute name="type">head</xsl:attribute>
+      <xsl:attribute name="place">top-middle</xsl:attribute>
+      <xsl:value-of select="t:topmidle"/>
+    </xsl:element>
+    <xsl:element name="fw">
+      <xsl:attribute name="type">head</xsl:attribute>
+      <xsl:attribute name="place">top-right</xsl:attribute>
+      <xsl:value-of select="t:colr"/>
+    </xsl:element>
+  </xsl:template>
+  
   <xsl:template name="milestone-type">
     <xsl:choose>
       <xsl:when test="@type"><xsl:value-of select="@type"/></xsl:when>
