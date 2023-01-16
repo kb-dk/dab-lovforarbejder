@@ -4,7 +4,7 @@ source "parameters.sh"
 
 rm volumes/*.xml ; ./aggregate-volumes.pl
 
-for filename in ./volumes/g01.xml; do
+for filename in ./volumes/[gr]*.xml; do
     echo "$filename"
     result=`basename $filename .xml`
 
