@@ -18,6 +18,10 @@
   </xsl:template>
 
   <xsl:template match="t:title/t:lb"/>
+  <xsl:template match="t:title/t:p">
+    <xsl:apply-templates/>
+  </xsl:template>
+  
   <xsl:template match="t:body">
     <body>
       <xsl:apply-templates  select="t:title[1]"/>

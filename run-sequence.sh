@@ -10,5 +10,6 @@ for filename in ./volumes/[gr]*.xml; do
 
     $SAXON  $filename  add-structure.xsl  "volume_number=$result" > "volumes/step1-$result.xml"
     $SAXON  "volumes/step1-$result.xml"   split-into-chapters.xsl "volume_number=$result" > "volumes/step2-$result.xml"
+    $SAXON  "volumes/step2-$result.xml"   chapters-into-sections.xsl "volume_number=$result" > "volumes/step3-$result.xml"
 
 done
