@@ -43,18 +43,26 @@
 
   </xsl:template>
 
-  <xsl:template match="t:leftside|t:rightside|t:div[@type='page-placeholder']">
+  <xsl:template match="t:div[@type='page-placeholder']">
+    <xsl:apply-templates/>
+  </xsl:template>
+  
+  <xsl:template match="t:leftside|t:rightside">
     <xsl:variable name="id"><xsl:value-of select="generate-id(.)"/></xsl:variable>
     <xsl:element name="milestone">
       <xsl:attribute name="type"><xsl:call-template name="milestone-type"/></xsl:attribute>
       <xsl:attribute name="xml:id"><xsl:value-of select="concat('start',$id)"/></xsl:attribute>
       <xsl:attribute name="next"><xsl:value-of select="concat('end',$id)"/></xsl:attribute>
+      <xsl:attribute name="n"><xsl:value-of select="following::t:col[1]"/></xsl:attribute>
+      <xsl:attribute name="unit">column</xsl:attribute>
     </xsl:element>
     <xsl:apply-templates/>
     <xsl:element name="milestone">
       <xsl:attribute name="type"><xsl:call-template name="milestone-type"/></xsl:attribute>
       <xsl:attribute name="xml:id"><xsl:value-of select="concat('end',$id)"/></xsl:attribute>
       <xsl:attribute name="prev"><xsl:value-of select="concat('start',$id)"/></xsl:attribute>
+      <xsl:attribute name="n"><xsl:value-of select="following::t:col[1]"/></xsl:attribute>
+      <xsl:attribute name="unit">column</xsl:attribute>
     </xsl:element>
   </xsl:template>
 
@@ -101,7 +109,8 @@
 
   <xsl:template match="processing-instruction('page')">
     <xsl:element name="pb">
-      <xsl:attribute name="xml:id"><xsl:value-of select="."/></xsl:attribute>
+      <xsl:attribute name="xml:id">id<xsl:value-of select="."/></xsl:attribute>
+      <xsl:attribute name="facs"><xsl:value-of select="."/></xsl:attribute>
     </xsl:element>
   </xsl:template>
   

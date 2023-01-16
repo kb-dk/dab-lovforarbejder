@@ -17,9 +17,36 @@
     
   </xsl:template>
 
+  <xsl:template match="t:pagename"/>
+  <xsl:template match="t:col"/>
+
+  <xsl:template match="t:sup">
+    <hi rend="super"><xsl:apply-templates/></hi>
+  </xsl:template>
+
+  <xsl:template match="t:sub">
+    <hi rend="sub"><xsl:apply-templates/></hi>
+  </xsl:template>
+
+  
   <xsl:template match="t:title/t:lb"/>
+
   <xsl:template match="t:title/t:p">
     <xsl:apply-templates/>
+  </xsl:template>
+
+  <xsl:template match="t:p[t:speaker]">
+    <sp>
+      <xsl:apply-templates select="t:speaker"/>
+      <p><xsl:apply-templates select="node()[not(local-name(.)='speaker')]"/></p>
+    </sp>
+  </xsl:template>
+  
+  <xsl:template match="t:pb">
+    <xsl:element name="pb">
+      <xsl:apply-templates select="@*"/>
+      <xsl:attribute name="n"><xsl:value-of select="following-sibling::t:pagename[1]"/></xsl:attribute>
+    </xsl:element>
   </xsl:template>
   
   <xsl:template match="t:body">
