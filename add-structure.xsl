@@ -107,15 +107,27 @@
       <xsl:otherwise><xsl:value-of select="local-name(.)"/></xsl:otherwise>
     </xsl:choose>
   </xsl:template>
+  
+  <xsl:template match="t:law">
+    <span type="law"><xsl:apply-templates select="@*"/></span> <xsl:apply-templates/>
+  </xsl:template>
 
+  
+  <xsl:template match="t:signature|t:signaturlist">
+    <p><xsl:comment> originally  signature or signaturlist</xsl:comment><xsl:apply-templates/></p>
+  </xsl:template>
+  
+  <xsl:template match="t:notedate">
+    <p><xsl:comment> dateline </xsl:comment><xsl:apply-templates select="@*|node()"/></p>
+  </xsl:template>
+
+  <xsl:template match="t:namelist|t:indexlist|t:reflist">
+    <xsl:comment> a <xsl:value-of select="local-name()"/> element below </xsl:comment>
+    <p><xsl:apply-templates/></p>
+  </xsl:template>
   
   <xsl:template match="node()">
     <xsl:copy>
-      <!-- xsl:if test="not(@id)">
-        <xsl:attribute name="id">
-          <xsl:value-of select="generate-id(.)"/>
-        </xsl:attribute>
-      </xsl:if -->
       <xsl:apply-templates select="@*|node()"/>
     </xsl:copy>
   </xsl:template>
