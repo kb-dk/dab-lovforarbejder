@@ -49,21 +49,38 @@
   
   <xsl:template match="t:leftside|t:rightside">
     <xsl:variable name="id"><xsl:value-of select="generate-id(.)"/></xsl:variable>
-    <xsl:element name="milestone">
-      <xsl:attribute name="type"><xsl:call-template name="milestone-type"/></xsl:attribute>
-      <xsl:attribute name="xml:id"><xsl:value-of select="concat('start',$id)"/></xsl:attribute>
-      <xsl:attribute name="next"><xsl:value-of select="concat('end',$id)"/></xsl:attribute>
-      <xsl:attribute name="n"><xsl:value-of select="following::t:col[1]"/></xsl:attribute>
-      <xsl:attribute name="unit">column</xsl:attribute>
-    </xsl:element>
+    <xsl:variable name="column"><xsl:call-template name="get-column"/></xsl:variable>
+    <xsl:if test="number($column)">
+      <xsl:element name="milestone">
+        <xsl:attribute name="type"><xsl:call-template name="milestone-type"/></xsl:attribute>
+        <xsl:attribute name="xml:id"><xsl:value-of select="concat('start',$id)"/></xsl:attribute>
+        <xsl:attribute name="next"><xsl:value-of select="concat('end',$id)"/></xsl:attribute>
+        <xsl:attribute name="n"><xsl:value-of select="number($column)"/></xsl:attribute>
+        <xsl:attribute name="unit">column</xsl:attribute>
+      </xsl:element>
+    </xsl:if>
     <xsl:apply-templates/>
-    <xsl:element name="milestone">
-      <xsl:attribute name="type"><xsl:call-template name="milestone-type"/></xsl:attribute>
-      <xsl:attribute name="xml:id"><xsl:value-of select="concat('end',$id)"/></xsl:attribute>
-      <xsl:attribute name="prev"><xsl:value-of select="concat('start',$id)"/></xsl:attribute>
-      <xsl:attribute name="n"><xsl:value-of select="following::t:col[1]"/></xsl:attribute>
-      <xsl:attribute name="unit">column</xsl:attribute>
-    </xsl:element>
+    <xsl:if test="number($column)">
+      <xsl:element name="milestone">
+        <xsl:attribute name="type"><xsl:call-template name="milestone-type"/></xsl:attribute>
+        <xsl:attribute name="xml:id"><xsl:value-of select="concat('end',$id)"/></xsl:attribute>
+        <xsl:attribute name="prev"><xsl:value-of select="concat('start',$id)"/></xsl:attribute>
+        <xsl:attribute name="n"><xsl:value-of select="number($column)"/></xsl:attribute>
+        <xsl:attribute name="unit">column</xsl:attribute>
+      </xsl:element>
+    </xsl:if>
+  </xsl:template>
+
+  <xsl:template name="get-column">
+    <xsl:choose>
+      <xsl:when test="local-name(.) = 'leftside'">
+        <xsl:value-of select="../t:h/t:coll"/>
+      </xsl:when>
+      <xsl:when test="local-name(.) = 'rightside'">
+        <xsl:value-of select="../t:h/t:colr"/>
+      </xsl:when>
+      <xsl:otherwise/>
+    </xsl:choose>
   </xsl:template>
 
   <xsl:template name="running-head" match="t:h">

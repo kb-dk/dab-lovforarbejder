@@ -104,9 +104,9 @@ XX.	Ribe Amt.<lb/>
 4be	—	Hansen, N., Skolelærer og Kirkesanger i Eskelund.<lb/>
 5te	—	Gram, C. F., Sognepræst i Dahler Sogn.<lb/>
 </p>
-<p>
-De Kongevalgte ere:<lb/>
-</p>
+<stitle>
+De Kongevalgte ere:
+</stitle>
 <p>
 v. Andræ, Major a la suite i Generalstaben og Lærer ved den mili<lb/>
 taire Høiskole.<lb/>
@@ -162,6 +162,7 @@ For Færøerne.<lb/>
 <p>
 Pløyen, Amtmand.<lb/>
 </p>
+<btitle>_____________________________</btitle>
 <p>
 Kl. 12 ankom Hs. Majestæt Kongen med sin Hofetat og<lb/>
 samtlige Medlemmer af Ministeriet, hvorefter Allerhøistsamme fra<lb/>
