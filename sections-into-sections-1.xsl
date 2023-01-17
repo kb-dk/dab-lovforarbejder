@@ -15,24 +15,25 @@
     </TEI>
   </xsl:template>
   
-  <xsl:template  match="t:div/t:htitle">
+ 
+  <xsl:template  match="t:div/t:wtitle">
     <xsl:variable name="me" select="generate-id(.)"/>
     <xsl:element name="div">
       <xsl:element name="head"><xsl:apply-templates/></xsl:element>
-      <xsl:apply-templates select="following-sibling::node()[not(local-name(.) = 'htitle') and generate-id(preceding-sibling::t:htitle[1]) = $me]"/>
+      <xsl:apply-templates select="following-sibling::node()[not(local-name(.) = 'wtitle') and generate-id(preceding-sibling::t:wtitle[1]) = $me]"/>
     </xsl:element>
-    <xsl:apply-templates  select="following-sibling::t:htitle[1]"/>
+    <xsl:apply-templates  select="following-sibling::t:wtitle[1]"/>
   </xsl:template>
 
-  <xsl:template  match="t:div/t:btitle">
+  <xsl:template  match="t:div/t:lowtitle">
     <xsl:variable name="me" select="generate-id(.)"/>
     <xsl:element name="div">
       <xsl:element name="head"><xsl:apply-templates/></xsl:element>
-      <xsl:apply-templates select="following-sibling::node()[not(local-name(.) = 'btitle') and generate-id(preceding-sibling::t:btitle[1]) = $me]"/>
+      <xsl:apply-templates select="following-sibling::node()[not(local-name(.) = 'lowtitle') and generate-id(preceding-sibling::t:lowtitle[1]) = $me]"/>
     </xsl:element>
-    <xsl:apply-templates  select="following-sibling::t:btitle[1]"/>
+    <xsl:apply-templates  select="following-sibling::t:lowtitle[1]"/>
   </xsl:template>
-  
+
   
   <xsl:template match="node()">
     <xsl:copy>

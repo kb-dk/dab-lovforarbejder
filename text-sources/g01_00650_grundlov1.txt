@@ -19,7 +19,7 @@ forkastet med 108 Stemmer mod 29.<lb/>
 sidste Punkter, der faldt sammen med nogle af de Følgende Forslag)<lb/>
 At § 25 forandres til: „Enhver, der naar denne Forordning<lb/>
 udkommer har fyldt 15 Aar, er, naar han udskrives til den<lb/>
-staaende Hær og ei endnu er indtra<pb n="650">
+staaende Hær og ei endnu er indtra</p>
 <p rend="page">650</p>
 <h>
 <coll>1227</coll>
@@ -188,10 +188,7 @@ Sehestedt-Juel.	Ørsted.<lb/>
 <underpage>
 Trykt og forlagt af Kgl. Hofbogtrykker Bianco Luno.<lb/>
 </underpage>
-
-</pb>
-
-
+<p>
 adt i militair Tjeneste, beføiet til at stille for sig og til den Ende selv at skaffe en anden<lb/>
 Mand tilveie, som skal træde i hans Sted;<lb/>
 forkastet med 113 Stemmer mod 18.<lb/>
