@@ -65,7 +65,7 @@
     <xsl:apply-templates  select="following-sibling::t:title[1]"/>
   </xsl:template>
 
-  <xsl:template match="t:middle|t:btitle|t:dtitle|t:htitle|t:lowtitle|t:maintitle|t:stitle|t:subtitle|t:undertitle|t:wtitle">
+  <xsl:template match="t:firstlineinfo|t:middle|t:btitle|t:dtitle|t:htitle|t:lowtitle|t:maintitle|t:stitle|t:subtitle|t:undertitle|t:wtitle">
     <title><xsl:apply-templates/></title>
   </xsl:template>
 
