@@ -1,75 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:t="http://www.tei-c.org/ns/1.0"
-     xml:id="root">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>1905-06: Beretning fra Fællesudvalget</title>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
+   <teiHeader xml:id="d1e3">
+      <fileDesc xml:id="d1e5">
+         <titleStmt xml:id="d1e7">
+            <title xml:id="d1e9">1905-06: Beretning fra Fællesudvalget</title>
          </titleStmt>
-         <publicationStmt>
-            <p/>
+         <publicationStmt xml:id="d1e12">
+            <p xml:id="d1e14"/>
          </publicationStmt>
-         <sourceDesc>
-            <bibl>
-               <title>1905-06: Beretning fra Fællesudvalget</title>
-               <date/>
+         <sourceDesc xml:id="d1e17">
+            <bibl xml:id="d1e19">
+               <title xml:id="d1e21">1905-06: Beretning fra Fællesudvalget</title>
+               <date xml:id="d1e23"/>
             </bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <text>
-      <body>
-         <div>
-            <div>
-               <head/>
-               <pb xml:id="idr17_00001_rigsdagtid_b_1905_06"
-                   facs="r17_00001_rigsdagtid_b_1905_06 "
-                   n=""/>
-               <fw type="head" place="top-left">2089</fw>
-               <fw type="head" place="top-middle"/>
-               <fw type="head" place="top-right">2090</fw>
-            </div>
+   <text xml:id="d1e29">
+      <body xml:id="d1e31">
+         <div xml:id="d1e33">
+            <head xml:id="d1e35">1905-06: Beretning fra Fællesudvalget</head>
+            
+               
+               <pb xml:id="idr17_00001_rigsdagtid_b_1905_06" facs="r17_00001_rigsdagtid_b_1905_06" n=""/>
+               <fw xml:id="d1e43" type="head" place="top-left">2089</fw>
+               <fw xml:id="d1e46" type="head" place="top-middle"/>
+               <fw xml:id="d1e48" type="head" place="top-right">2090</fw>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
-Fællesudvalget konstitueredes den 1. December 1905. I de paafølgende Møder<lb/>
-den 14. og 20. December forbandledes Sagen i sin Almindelighed og Uoverensstem-<lb/>
+         <div xml:id="d1e53">
+            <head xml:id="d1e55">
+XCIII. 
+Beretning 
+fra 
+Fællesudvalget angaaende Forslag til Lov om Rettens Pleje, 
+(Afgiven af Udvalgets Formand den 5. April 1906.)
+</head>
+            
+               
+               <p xml:id="d1e70">
+Fællesudvalget konstitueredes den 1. December 1905. I de paafølgende Møder<lb xml:id="d1e72"/>
+den 14. og 20. December forbandledes Sagen i sin Almindelighed og Uoverensstem-<lb xml:id="d1e74"/>
 melserne mellem Tingene i Særdeleshed.
 </p>
-               <p>
-Paa Forslag af Formanden valgtes i Mødet den 20. December et Underudvalg<lb/>
-paa 10 Medlemmer, hvis Opgave skulde være saa vidt muligt at tinde Vej til For-<lb/>
-staaelse og Enighed angaaende Lovforslagets Affattelse og derefter gøre Indstilling til<lb/>
+               <p xml:id="d1e77">
+Paa Forslag af Formanden valgtes i Mødet den 20. December et Underudvalg<lb xml:id="d1e79"/>
+paa 10 Medlemmer, hvis Opgave skulde være saa vidt muligt at tinde Vej til For-<lb xml:id="d1e81"/>
+staaelse og Enighed angaaende Lovforslagets Affattelse og derefter gøre Indstilling til<lb xml:id="d1e83"/>
 Fællesudvalget.
 </p>
-               <p>
-I Underudvalget var man enig om først at behandle de mere principielle<lb/>
+               <p xml:id="d1e86">
+I Underudvalget var man enig om først at behandle de mere principielle<lb xml:id="d1e88"/>
 Stridspunkter.
 </p>
-               <p>
-Efter Afholdelse af liere Møder, hvor man havde forhandlet Spørgsmaalet om<lb/>
-Nævningerne uden at komme til noget Resultat ud over et Par Antydninger af Mæg-<lb/>
-lingsforslag. som dog ikke viste sig at kunne føre til Maalet blot paa dette Punkt,<lb/>
+               <p xml:id="d1e91">
+Efter Afholdelse af liere Møder, hvor man havde forhandlet Spørgsmaalet om<lb xml:id="d1e93"/>
+Nævningerne uden at komme til noget Resultat ud over et Par Antydninger af Mæg-<lb xml:id="d1e95"/>
+lingsforslag. som dog ikke viste sig at kunne føre til Maalet blot paa dette Punkt,<lb xml:id="d1e97"/>
 maatte det synes unyttigt at forsøge videre angaaende andre Spørgsmaal.
 </p>
-               <p>
-Af den Grund, og da et af Underudvalgets Medlemmer paa Grund af Sygdom<lb/>
-havde nedlagt sit Mandat, besluttedes det i Mødet den 23. Februar at lade afholde<lb/>
+               <p xml:id="d1e101">
+Af den Grund, og da et af Underudvalgets Medlemmer paa Grund af Sygdom<lb xml:id="d1e103"/>
+havde nedlagt sit Mandat, besluttedes det i Mødet den 23. Februar at lade afholde<lb xml:id="d1e105"/>
 et Møde af hele Fællesudvalget.
 </p>
-               <p>
-I Fællesudvalgets derpaa den 1. Marts afholdte Møde, hvor Stillingen i Under-<lb/>
-udvalget refereredes, var der Enighed om, at det vilde være uden Udsigt til Resultat<lb/>
+               <p xml:id="d1e108">
+I Fællesudvalgets derpaa den 1. Marts afholdte Møde, hvor Stillingen i Under-<lb xml:id="d1e110"/>
+udvalget refereredes, var der Enighed om, at det vilde være uden Udsigt til Resultat<lb xml:id="d1e112"/>
 at forhandle videre.
 </p>
-               <signatur>
-L. Rasmussen,<lb/>
+               <signatur xml:id="d1e115">
+L. Rasmussen,<lb xml:id="d1e117"/>
 Formand.
 </signatur>
-            </div>
+            
          </div>
       </body>
    </text>

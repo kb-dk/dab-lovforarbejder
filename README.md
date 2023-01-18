@@ -1,7 +1,8 @@
 # Some Danish bills
 
-A text corpus comprising 19th century bills, i.e., proposed legal code.
-Among these are bills that eventually became the Danish Constitution.
+A text corpus comprising 19th century bills, i.e., proposed
+legalislation.  Among these are the bills that eventually became the
+Danish Constitution.
 
 I got a dump from a text database somewhere, with text snippets per
 page. There are 6727 of those in the directory [text-sources](text-sources)
