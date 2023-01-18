@@ -30,11 +30,11 @@ doing so, transforms them into [Text Encoding Initiative xml
 The resulting files are far from perfect. As of writing this, 28 of
 the files are invalid and only 5 are valid, namely
 
-[volumes/r06.xml](volumes/r06.xml)
-[volumes/r10.xml](volumes/r10.xml)
-[volumes/r15.xml](volumes/r15.xml)
-[volumes/r21.xml](volumes/r21.xml)
-[volumes/r22.xml](volumes/r22.xml)
+* [volumes/r06.xml](volumes/r06.xml)
+* [volumes/r10.xml](volumes/r10.xml)
+* [volumes/r15.xml](volumes/r15.xml)
+* [volumes/r21.xml](volumes/r21.xml)
+* [volumes/r22.xml](volumes/r22.xml)
 
 I expect the whole corpus will be good enough for search and
 presentation in spite of the fact that they are wanting in markup as
