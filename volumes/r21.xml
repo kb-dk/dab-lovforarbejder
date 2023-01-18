@@ -1,29 +1,57 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root"><?page  r21_00001_rigsdagtid_b2_1908_09 ?>
-<div type='page-placeholder'><h>
-<coll>1833</coll>
-<colr>1834</colr>
-</h>
-<title>
-XXXVIII.
-Erklæring
-over
-det fra Landstinget tilbagesendte
-Forslag til Lov om Rettens Pleje.
-(Afgiven af Folketingets Udvalg den 23. Marts 1909.)
-</title>
-<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:t="http://www.tei-c.org/ns/1.0"
+     xml:id="root">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1908-09: Erklæring (Folketinget)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1908-09: Erklæring (Folketinget)</title>
+               <date/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <div>
+               <head/>
+               <pb xml:id="idr21_00001_rigsdagtid_b2_1908_09"
+                   facs="r21_00001_rigsdagtid_b2_1908_09 "
+                   n=""/>
+               <fw type="head" place="top-left">1833</fw>
+               <fw type="head" place="top-middle"/>
+               <fw type="head" place="top-right">1834</fw>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+               <p>
 Udvalget undtagen Borgbjerg, Alfred Christensen. N. C. Christensen, P. Knud-
 sen og Krabbe indstiller Lovforslaget til uforandret Vedtagelse,
 </p>
-<p>
+               <p>
 Et Mindretal (Borgbjerg, Alfred Christensen. N. C. Christensen, P. Knudsen
 og Krabbe) indstiller Lovforslaget til Forkastelse.
 </p>
-<p>
+               <p>
 Borgbjerg.	Alfred Christensen.	N. C. Christensen.	Effersøe,
 Sekretær.
 Ellinger.  Ingvard Jensen.	Lars Jensen.	Laust Jensen.
 P. Knudsen.	Krabbe.	H. Madsen.	J. Nielsen.
 L. Rasmussen (Ribe A. 4. V.),	Emil Petersen.	Sveistrup,
 Formand.	Ordfører.
-</p></div></TEI>
+</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

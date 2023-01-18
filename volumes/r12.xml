@@ -1,2466 +1,3568 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root"><?page  r12_00001_rigsdagtid_b2_1901_02 ?>
-<div type='page-placeholder'><h>
-<coll>2363</coll>
-<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
-<colr>2364</colr>
-</h>
-<title>
-LXXXV.<lb/>
-Tillæg til Betænkninger<lb/>
-over<lb/>
-Lovforslagene om 1) Domsmagtens Ordning m. v., 2) den borgerlige<lb/>
-Retspleje og 3) Strafferetsplejen.
-</title>
-<p>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:t="http://www.tei-c.org/ns/1.0"
+     xml:id="root">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1901-02: Tillæg til betænkning (Folketinget)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>1901-02: Tillæg til betænkning (Folketinget)</title>
+               <date/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <div>
+               <head/>
+               <pb xml:id="idr12_00001_rigsdagtid_b2_1901_02"
+                   facs="r12_00001_rigsdagtid_b2_1901_02 "
+                   n=""/>
+               <fw type="head" place="top-left">2363</fw>
+               <fw type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw type="head" place="top-right">2364</fw>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+               <p>
 (Meddelt af det i Folketinget om de nævnte Lovforslag nedsatte Udvalgs Ordførere<lb/>
 den 17de Maj 1902).
 </p>
-<p>
+               <p>
 Saafreint de af Udvalget eller Udvalgets Flertal stillede Ændringsforslag ved-<lb/>
 tages, ville forskellige i Lovforslagenes Tekster forekommende Citater være at rette,<lb/>
 hvorom følgende Ændringsforslag stilles
 </p>
-<leftside>
-<p>
+               <milestone type="leftside"
+                          xml:id="startd1e37"
+                          next="endd1e37"
+                          n="2363"
+                          unit="column"/>
+               <p>
 af Ordførerne:
 </p>
-<undertitle>
+            </div>
+            <div>
+               <head>
 Ændringsforslag
 til
-</undertitle>
-<p>
+</head>
+               <p>
 2den Behandling af Forslag til Lov om<lb/>
 Domsmagtens, den offentlige Anklagemyn-<lb/>
 digheds, Politimyndighedens samt Sagfører-<lb/>
 væsenets Ordning.
 </p>
-<wtitle>Til § 9.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 9.</head>
+               <p>
 1.	Stk., L. 6: „§ 188" 1. „§ 306".
 </p>
-<wtitle>Til § 12.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 12.</head>
+               <p>
 2,	Stk.. L. 3: „§ 59", 1. „§ 179".
 </p>
-<wtitle>Til § 46.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 46.</head>
+               <p>
 L. 1: ,.§§ 47 og 48", 1. ,,§§ 48 og 49".
 </p>
-<wtitle>Til § 49.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 49.</head>
+               <p>
 1. Stk., L. 1: „§§ 50 ff.", 1. „§§ 51 ff."
 </p>
-<p>
+               <p>
 1.	Stk.. L. 2: „§§ 55 ff.", 1. „§§ 56 ff."
 </p>
-<p>
+               <p>
 2.	Stk., L. 1: „§§ 46 og 47", 1. „§§ 47<lb/>
 og 48".
 </p>
-<wtitle>Til § 50.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 50.</head>
+               <p>
 1. Stk., L. 5: ,,§§ 46 og 47", 1. ,.§§ 47<lb/>
 og 48".
 </p>
-</leftside>
-<rightside>
-<wtitle>Til § 51.</wtitle>
-<p>
+               <milestone type="leftside"
+                          xml:id="endd1e37"
+                          prev="startd1e37"
+                          n="2363"
+                          unit="column"/>
+               <milestone type="rightside"
+                          xml:id="startd1e85"
+                          next="endd1e85"
+                          n="2364"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 51.</head>
+               <p>
 1. Stk., L. 1: „§ 50", 1. „§ 51".
 </p>
-<p>
+               <p>
 3.	Stk.. L. 2: „§ 48", 1. „§ 49".
 </p>
-<p>
+               <p>
 4.	Stk., L. 2: „§ 50", 1. „§ 51".
 </p>
-<wtitle>Til § 52.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 52.</head>
+               <p>
 L. 2: „§ 50", 1. ,.§ 51".<lb/>
 L. 4: „§ 55", 1. „§ 56".<lb/>
 L. 5: „§ 51", 1. „§ 52".
 </p>
-<wtitle>Til § 54.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 54.</head>
+               <p>
 L. 2: „§ 51", 1. „§ 52".
 </p>
-<wtitle>Til § 56.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 56.</head>
+               <p>
 L. 1: „§ 55" 1. „§ 56".<lb/>
 L. 5: „§ 51" 1. „§ 52".<lb/>
 L. 7: „§48" 1. „§49" og „§49" 1. „§50".
 </p>
-<wtitle>Til § 57.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 57.</head>
+               <p>
 1. Stk., L. 2: „§§ 54 og 56" 1. „§§ 55 og<lb/>
 57".
 </p>
-<p>
+               <p>
 1. Stk.. L. 4: ..§§ 46 og 47" 1. „§§ 47 og<lb/>
 48".'
 </p>
-<wtitle>Til § 59.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 59.</head>
+               <p>
 L. 1: „Kap. III—V" 1. „Kap. 3—6".
 </p>
-</rightside></div><?page  r12_00002_rigsdagtid_b2_1901_02 ?>
-<div type='page-placeholder'><h>
-<coll>2365</coll>
-<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
-<colr>2366</colr>
-</h>
-<leftside>
-<wtitle>Til § 60.</wtitle>
-<p>
+               <milestone type="rightside"
+                          xml:id="endd1e85"
+                          prev="startd1e85"
+                          n="2364"
+                          unit="column"/>
+               <pb xml:id="idr12_00002_rigsdagtid_b2_1901_02"
+                   facs="r12_00002_rigsdagtid_b2_1901_02 "
+                   n=""/>
+               <fw type="head" place="top-left">2365</fw>
+               <fw type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw type="head" place="top-right">2366</fw>
+               <milestone type="leftside"
+                          xml:id="startd1e147"
+                          next="endd1e147"
+                          n="2365"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 60.</head>
+               <p>
 1. Stk., L. 2: ,,§ 55"1. „§ 56".
 </p>
-<p>
+               <p>
 1.	Stk., L. 6: „§ 48" 1. „§ 49".
 </p>
-<p>
+               <p>
 2.	Stk., L. 3: „§ 73" 1. „§ 74".
 </p>
-<wtitle>Til § 61.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 61.</head>
+               <p>
 L. 3: „§ 57" 1. „§ 58".
 </p>
-<wtitle>Til § 65.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 65.</head>
+               <p>
 1. Stk. L. 2: „§§ 81 ff." 1. „§§ 745 ff.".
 </p>
-<wtitle>Til § 67.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 67.</head>
+               <p>
 1. Stk., L. 3: „§ 54" 1. „§ 55".
 </p>
-<p>
+               <p>
 1.	Stk., L. 6: „§§ 60—63" 1. „§§ 61—64".
 </p>
-<p>
+               <p>
 2.	Stk., L. 2: „§§ 64 og 65" 1. „§§ 65 og 66".
 </p>
-<p>
+               <p>
 3.	Stk., L. 3: „§ 65" 1. „§ 66".
 </p>
-<wtitle>Til § 68.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 68.</head>
+               <p>
 L. 4: „§ 54" 1. „§ 55".
 </p>
-<wtitle>Til § 70.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 70.</head>
+               <p>
 L. 2: „§ 66" 1. „§ 67".
 </p>
-<wtitle>Til § 72.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 72.</head>
+               <p>
 L. 2: ,,§ 261" 1. „§ 926".<lb/>
 L. 5: „§ 63" 1. „§ 64".<lb/>
 L. 8: „§ 65" 1. „§ 66".
 </p>
-<wtitle>Til § 74.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 74.</head>
+               <p>
 L. 4: „§ 48 Nr. 6" 1. ,,§ 49 Nr. 6".
 </p>
-<wtitle>Til § 81.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 81.</head>
+               <p>
 2.	Stk., L. 3: „§ 93" 1. „§ 94".
 </p>
-<p>
+               <p>
 3.	Stk., L. 3: „§ 95" 1. „§ 96".
 </p>
-<wtitle>Til § 88.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 88.</head>
+               <p>
 L. 4: ,,§ 86, 3die Stykke" 1. ,,§ 87, 3die<lb/>
 Stykke".
 </p>
-<wtitle>Til § 93.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 93.</head>
+               <p>
 L. 7: „§ 96" 1. „§ 97".
 </p>
-<wtitle>Til § 104.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 104.</head>
+               <p>
 1. Stk., L. 2: „§§ 94, 99, 100 og 104" 1.<lb/>
 „§§ 95, 100, 101 og 104".
 </p>
-<p>
+               <p>
 1.	Stk., L. 5: „§ 100" 1. „§ 101".
 </p>
-<wtitle>Til § 113.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 113.</head>
+               <p>
 2.	Stk., L. 4: „Kapitel IV og V" 1. „Ka-<lb/>
 pitel 5 og 6".
 </p>
-</leftside>
-<rightside>
-<undertitle>
+               <milestone type="leftside"
+                          xml:id="endd1e147"
+                          prev="startd1e147"
+                          n="2365"
+                          unit="column"/>
+               <milestone type="rightside"
+                          xml:id="startd1e235"
+                          next="endd1e235"
+                          n="2366"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>
 Ændringsforslag
 til
-</undertitle>
-<p>
+</head>
+               <p>
 2den Behandling af Forslag til Lov om<lb/>
 den borgerlige Retspleje.
 </p>
-<wtitle>Til § 2.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 2.</head>
+               <p>
 I Nr. 4 ændres: „§ 293, jfr. § 290" til<lb/>
 „§ 411, jfr. 408".'
 </p>
-<p>
+               <p>
 I Nr. 5 ændres: ,,§ 295" til „§ 413".
 </p>
-<p>
+               <p>
 I Nr. 6 ændres: „§ 314" til „§ 432".
 </p>
-<p>
+               <p>
 I Nr. 9 ændres: „§ 35" til ,,§ 699".
 </p>
-<wtitle>Til § 4.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 4.</head>
+               <p>
 I Nr. 1 ændres: „§ 84" til „§ 204".
 </p>
-<wtitle>Til § 8.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 8.</head>
+               <p>
 1. Stk., L. 1: .,§ 2", 1. ,,§ 123".<lb/>
 1. Stk., L. 3: ,,§ 85", 1. „§ 205".<lb/>
 1. Stk., L. 6: „§ 2, jfr. §§ 3, 4 og 5",<lb/>
 1. „§ 123, jfr. §§ 124, 125 og 126".
 </p>
-<wtitle>Til § 9.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 9.</head>
+               <p>
 1.	Stk., L. 4: „§ 2", 1. „§ 123".
 </p>
-<p>
+               <p>
 2.	Stk., L. 2: ,.§ 2", 1. „§ 123".
 </p>
-<wtitle>Til § 11.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 11.</head>
+               <p>
 L. 3: ,.Kap. XXVII, og XXVIII", 1. ,.Kap.<lb/>
 40 og 41".
 </p>
-<p>
+               <p>
 L. 3: „§§ 504 og 516", 1. ,.§§ 626 og 636".
 </p>
-<wtitle>Til § 28.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 28.</head>
+               <p>
 1. Stk., L. 3: ..Kap. XIX.", 1. „Kap. 32".
 </p>
-<wtitle>Til § 29.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 29.</head>
+               <p>
 L. 3: „Kap. XIX.", 1. „Kap. 32".
 </p>
-<wtitle>Til § 30.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 30.</head>
+               <p>
 L. 5: „Kap. XIX.", 1. „Kap. 32".
 </p>
-<wtitle>Til § 31.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 31.</head>
+               <p>
 L. 2: „§ 94", 1. „§ 214".
 </p>
-<wtitle>Til § 34.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 34.</head>
+               <p>
 1.	Stk., L. 1: „§ 32" 1. „§ 153".
 </p>
-<p>
+               <p>
 2.	Stk., L. 2: „§ 33" 1. „§ 154" og ,,§ 32"
 </p>
-<p>
+               <p>
 3.	1. „153".
 </p>
-<wtitle>Til § 48.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 48.</head>
+               <p>
 L. 1: „§ 44" 1. „§ 165".
 </p>
-<wtitle>Til § 69.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 69.</head>
+               <p>
 L. 3: „§ 72" 1. „§ 192".
 </p>
-<wtitle>Til § 71.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 71.</head>
+               <p>
 L. 1: „§ 69" 1. „§ 189".
 </p>
-</rightside></div><?page  r12_00003_rigsdagtid_b2_1901_02 ?>
-<div type='page-placeholder'><h>
-<coll>2367</coll>
-<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
-<colr>2368</colr>
-</h>
-<leftside>
-<wtitle>Til § 73.</wtitle>
-<p>
+               <milestone type="rightside"
+                          xml:id="endd1e235"
+                          prev="startd1e235"
+                          n="2366"
+                          unit="column"/>
+               <pb xml:id="idr12_00003_rigsdagtid_b2_1901_02"
+                   facs="r12_00003_rigsdagtid_b2_1901_02 "
+                   n=""/>
+               <fw type="head" place="top-left">2367</fw>
+               <fw type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw type="head" place="top-right">2368</fw>
+               <milestone type="leftside"
+                          xml:id="startd1e340"
+                          next="endd1e340"
+                          n="2367"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 73.</head>
+               <p>
 Stk. 2, L, 1: „§ 72" 1. „§ 192".
 </p>
-<wtitle>Til § 75.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 75.</head>
+               <p>
 L. 2: „§ 72" 1. „§ 192".
 </p>
-<wtitle>Til § 76.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 76.</head>
+               <p>
 2. Stk., L. 2: „§ 75" 1. „§ 195".
 </p>
-<wtitle>Til § 77.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 77.</head>
+               <p>
 L. 2: „§ 72" 1. „§ 192".
 </p>
-<wtitle>Til § 78.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 78.</head>
+               <p>
 L. 1: ,,§§ 72—77" 1. ,,§§ 192—197«.
 </p>
-<wtitle>Til § 84.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 84.</head>
+               <p>
 1.	Stk., L. 2: „§ 200" 1. „§	318".
 </p>
-<p>
+               <p>
 2.	Stk.. L. 1: „§ 200" 1. „§	318".
 </p>
-<p>
+               <p>
 3.	Stk.. L. 1: ,,§ 273" 1. „§	391".
 </p>
-<p>
+               <p>
 4.	Stk., L. 4: „§ 240" 1. ,,§	358".
 </p>
-<wtitle>Til § 85.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 85.</head>
+               <p>
 2. Stk., L. 3: „§ 94" 1. ,.§ 214".
 </p>
-<wtitle>Til § 87.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 87.</head>
+               <p>
 4. Stk., L. 2: „§§ 32 og 34" 1. ,,§§ 153 og<lb/>
 155".
 </p>
-<wtitle>Til § 91.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 91.</head>
+               <p>
 2. Stk., L. 2: „§ 90" 1. „§ 210".
 </p>
-<wtitle>Til § 92.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 92.</head>
+               <p>
 L. 2: „§ 90" 1. ,.§ 210".
 </p>
-<wtitle>Til § 94.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 94.</head>
+               <p>
 1. Stk., L. 4: „§ 27" 1. „§ 148".
 </p>
-<wtitle>Til § 97.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 97.</head>
+               <p>
 L. 1: „§§ 94—96" 1. „§§ 214—216".
 </p>
-<wtitle>Til § 98.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 98.</head>
+               <p>
 1.	Stk., L. 1: „§§ 91 og 93—96" 1.<lb/>
 „§§ 211 og 213—246".
 </p>
-<p>
+               <p>
 2.	Stk., L. 2: „§§ 91 og 93—96" 1.<lb/>
 „§§ 211 og 213—216".
 </p>
-<p>
+               <p>
 3.	Stk., L. 1: „§§ 91 og 93—96" 1.<lb/>
 „§§ 211 og 213—216".
 </p>
-<wtitle>Til § 99.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 99.</head>
+               <p>
 1. Stk., L. 13: ,.§§ 171, 213—216, 236,<lb/>
 257, 258 og 281"' 1. ,.§§ 289, 331—334,<lb/>
 354, 375, 376 og 399".
 </p>
-<p>
+               <p>
 4.	Stk. L. 3: „§§ 135 og 172" 1. „§§ 255<lb/>
 og 290".
 </p>
-<wtitle>Til § 103.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 103.</head>
+               <p>
 1. Stk., L. 2: „§ 197" 1. „§ 315".
 </p>
-</leftside>
-<rightside>
-<wtitle>Til § 104.</wtitle>
-<p>
+               <milestone type="leftside"
+                          xml:id="endd1e340"
+                          prev="startd1e340"
+                          n="2367"
+                          unit="column"/>
+               <milestone type="rightside"
+                          xml:id="startd1e441"
+                          next="endd1e441"
+                          n="2368"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 104.</head>
+               <p>
 1.	Stk., L. 2: ,,§§ 239, 263 og 286" 1.<lb/>
 ,.§§ 357, 381 og 404".
 </p>
-<p>
+               <p>
 2.	Stk. L. 3: „§ 92" 1. „§ 212".
 </p>
-<wtitle>Til § 106.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 106.</head>
+               <p>
 L. 1: „§§ 26 og 27"' 1. „§§ 147 og 148".
 </p>
-<wtitle>Til § 107.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 107.</head>
+               <p>
 1.	Stk., L. 3: „§ 94" 1. „§ 214".
 </p>
-<wtitle>Til § 119.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 119.</head>
+               <p>
 L. 4: „§§ 113 til 117" 1. „§§ 234 til 238".
 </p>
-<wtitle>Til § 127.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 127.</head>
+               <p>
 L. 1: „§§ 125 og 126" 1. „§§ 246 og 247".
 </p>
-<wtitle>Til § 128.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 128.</head>
+               <p>
 L. 1.: „§§ 125 og 126" 1. „§§ 246 og 247".
 </p>
-<wtitle>Til § 137.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 137.</head>
+               <p>
 2.	Stk., L. 1: „§ 301 og § 303 jfr. § 312"<lb/>
 1. „§ 419 og § 421 jfr. § 430".
 </p>
-<wtitle>Til § 139.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 139.</head>
+               <p>
 L. 4: „Kap. XXV" 1. „Kap. 38".
 </p>
-<wtitle>Til § 144.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 144.</head>
+               <p>
 L. 2: „§ 330" 1. „§ 457".
 </p>
-<wtitle>Til § 149.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 149.</head>
+               <p>
 1.	Stk., L. 1: „§ 148" 1. „§ 266".
 </p>
-<p>
+               <p>
 2.	Stk., L. 3: „§ 148" 1. „§ 266".
 </p>
-<p>
+               <p>
 2.	Stk., L. 5. og 6: ,,§§ 237, 263 og 286"<lb/>
 1. „§§ 355, 381 og 404".
 </p>
-<wtitle>Til § 165.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 165.</head>
+               <p>
 3.	Stk., L. 2: „§ 164" 1. „§ 282".
 </p>
-<wtitle>Til § 166.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 166.</head>
+               <p>
 1. Stk., L. 7: „§ 153" 1. „§ 271".
 </p>
-<wtitle>Til § 168.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 168.</head>
+               <p>
 3. Stk., L. 3: „§ 149" 1. „§ 267".
 </p>
-<wtitle>Til § 169.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 169.</head>
+               <p>
 L. 2: „§ 149" 1. „§ 267".
 </p>
-<wtitle>Til § 170.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 170.</head>
+               <p>
 L. 7: „§ 148" 1. „§ 266".
 </p>
-<wtitle>Til § 171.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 171.</head>
+               <p>
 L. 2: „§§ 214, 257 og 281" 1. „§§ 332,<lb/>
 375 og 399".
 </p>
-</rightside></div><?page  r12_00004_rigsdagtid_b2_1901_02 ?>
-<div type='page-placeholder'><h>
-<coll>2369</coll>
-<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
-<colr>2370</colr>
-</h>
-<leftside>
-<wtitle>Til § 172.</wtitle>
-<p>
+               <milestone type="rightside"
+                          xml:id="endd1e441"
+                          prev="startd1e441"
+                          n="2368"
+                          unit="column"/>
+               <pb xml:id="idr12_00004_rigsdagtid_b2_1901_02"
+                   facs="r12_00004_rigsdagtid_b2_1901_02 "
+                   n=""/>
+               <fw type="head" place="top-left">2369</fw>
+               <fw type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw type="head" place="top-right">2370</fw>
+               <milestone type="leftside"
+                          xml:id="startd1e543"
+                          next="endd1e543"
+                          n="2369"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 172.</head>
+               <p>
 1.	Stk., L. 5: „§ 135" 1. „§ 255".
 </p>
-<wtitle>Til § 174.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 174.</head>
+               <p>
 L. 2 og 4: „§ 32" i. „§ 153"
 </p>
-<wtitle>Til § 179.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 179.</head>
+               <p>
 2.	Stk., L. 5: „§ 90" 1. „§ 210".
 </p>
-<p>
+               <p>
 3.	Stk., L. 4: ..§ 191" 1. „§ 309".
 </p>
-<p>
+               <p>
 3.	Stk.. L. 5: „§ 192" 1. „§ 310".
 </p>
-<p>
+               <p>
 4.	Stk., L. 2: ,,§ 180" 1. ,,§ 298".
 </p>
-<wtitle>Til § 181.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 181.</head>
+               <p>
 L. 2: „§ 164" 1. „§ 282".
 </p>
-<wtitle>Til § 182.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 182.</head>
+               <p>
 1. Stk., L. 6: „§§ 153 og 166" 1. ,,§§ 271<lb/>
 og 284"'.
 </p>
-<wtitle>Til § 183.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 183.</head>
+               <p>
 L. 2: ,,§ 153" 1. ,,§ 271".
 </p>
-<wtitle>Til § 185.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 185.</head>
+               <p>
 L. 4: „§ 171" 1. „§ 289".
 </p>
-<wtitle>Til § 187.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 187.</head>
+               <p>
 4. Stk., L. 2: „§ 117"' 1. „§ 238".
 </p>
-<wtitle>Til § 188.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 188.</head>
+               <p>
 L. 2: „§ 164" 1. „§ 282".
 </p>
-<wtitle>Til § 189.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 189.</head>
+               <p>
 L. 3: ,,§§ 211. 215. 258 og 280" 1. „§§329,<lb/>
 333, 376 og 398".
 </p>
-<wtitle>Til § 190.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 190.</head>
+               <p>
 1. Stk., L. 6: ,,§ 90"' 1. „§ 210".
 </p>
-<wtitle>Til § 192.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 192.</head>
+               <p>
 3.	Stk.. L. 3: „§§ 166 og 168" 1. „§§ 284<lb/>
 og 286".
 </p>
-<p>
+               <p>
 4.	Stk., L. 2: ,,§ 153" 1. „§ 271".
 </p>
-<wtitle>Til § 193.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 193.</head>
+               <p>
 1.	Stk.. L. 2: „§§ 146—152" 1. „§§ 264—<lb/>
 270"'.
 </p>
-<p>
+               <p>
 2.	Stk., L. 5: „§ 149" 1. ,,§ 267".
 </p>
-<p>
+               <p>
 2. Stk.. L. 6: ,,§ 148" 1. „§ 266".
 </p>
-<p>
+               <p>
 2.	Stk., L. 7: „§ 151" 1. „§ 269"'.
 </p>
-<p>
+               <p>
 3.	Stk., L. 2: ,.§§ 155, 156, 158—163 og<lb/>
 168" 1. „§§ 273, 274, 276-281 og 286".
 </p>
-<wtitle>Til § 194.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 194.</head>
+               <p>
 2. Stk., L. 2: ,.§ 193 og §§ 146—148" 1.<lb/>
 ,,§ 311 og §§ 264—266"!'
 </p>
-</leftside>
-<rightside>
-<wtitle>Til § 195.</wtitle>
-<p>
+               <milestone type="leftside"
+                          xml:id="endd1e543"
+                          prev="startd1e543"
+                          n="2369"
+                          unit="column"/>
+               <milestone type="rightside"
+                          xml:id="startd1e642"
+                          next="endd1e642"
+                          n="2370"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 195.</head>
+               <p>
 3.	Stk., L. 1: ,,§ 165" 1. ,,§ 283".
 </p>
-<p>
+               <p>
 4.	Stk., L. 1: „§ 164" 1. „§ 282".
 </p>
-<wtitle>Til § 198.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 198.</head>
+               <p>
 2.	Stk., L. 3: „§ 222" 1. ,,§ 340".
 </p>
-<wtitle>Til § 199.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 199.</head>
+               <p>
 L. 1: „§ 198" 1. „§ 316".
 </p>
-<wtitle>Til § 200.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 200.</head>
+               <p>
 1. Stk., L. 5: „§ 211" 1. ,,§ 329".
 </p>
-<wtitle>Til § 203.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 203.</head>
+               <p>
 1. Stk., L. 2: ,,§ 200" 1. ,,§ 318".
 </p>
-<wtitle>Til § 204.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 204.</head>
+               <p>
 3.	Stk., L. 3: „§ 221" 1. „§ 339".
 </p>
-<wtitle>Til § 206.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 206.</head>
+               <p>
 1. Stk., L. 2: ,,§ 208" 1. ,.§ 326".
 </p>
-<wtitle>Til § 209.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 209.</head>
+               <p>
 1. Stk., L. 3: ,,§ 207" 1. „§ 325".
 </p>
-<wtitle>Til § 213.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 213.</head>
+               <p>
 L. 9: „§ 214" 1. ,,§ 332".
 </p>
-<wtitle>Til § 214.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 214.</head>
+               <p>
 1. Stk., L. 2: „§§ 148, 149 og 173 ff."
 </p>
-<p>
+               <p>
 1. ,.§§ 266, 267'og 291 ff.".
 </p>
-<p>
+               <p>
 1. Stk., L. 3: ,,§ 193" 1. „§ 311".
 </p>
-<wtitle>Til § 215.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 215.</head>
+               <p>
 1.	Stk., L. 2: ,,§ 149" 1. „§ 267".
 </p>
-<p>
+               <p>
 2.	Stk., L. 3: ,.§ 211" 1. ,,§ 329".
 </p>
-<wtitle>Til § 216.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 216.</head>
+               <p>
 4.	Stk., L. 2: „§ 218" 1. ,.§ 336".
 </p>
-<wtitle>Til § 217.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 217.</head>
+               <p>
 3.	Stk., L. 5: „§ 204" 1. ,,§ 322".
 </p>
-<wtitle>Til § 223.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 223.</head>
+               <p>
 L. 1 og 4: ,.§ 222" 1. „§ 340".
 </p>
-<wtitle>Til § 224.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 224.</head>
+               <p>
 1. Stk., L. 7: „§ 208" 1. „§	326".
 </p>
-<p>
+               <p>
 3. Stk., L. 1: „§ 222" 1. „§	340".
 </p>
-<p>
+               <p>
 3. Stk., L. 2: ,,§ 223" 1. „§	341".
 </p>
-<wtitle>Til § 225.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 225.</head>
+               <p>
 L. 8: „§§ 222 og 223" 1. ,,§§ 340 og 341".
 </p>
-<wtitle>Til § 227.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 227.</head>
+               <p>
 L. 6: „§§ 206 og 208" 1. „§§ 324 og 326".<lb/>
 L. 7: „§ 207" 1. „§ 325". '
 </p>
-</rightside></div><?page  r12_00005_rigsdagtid_b2_1901_02 ?>
-<div type='page-placeholder'><h>
-<coll>2371</coll>
-<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
-<colr>2372</colr>
-</h>
-<leftside>
-<wtitle>Til § 228.</wtitle>
-<p>
+               <milestone type="rightside"
+                          xml:id="endd1e642"
+                          prev="startd1e642"
+                          n="2370"
+                          unit="column"/>
+               <pb xml:id="idr12_00005_rigsdagtid_b2_1901_02"
+                   facs="r12_00005_rigsdagtid_b2_1901_02 "
+                   n=""/>
+               <fw type="head" place="top-left">2371</fw>
+               <fw type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw type="head" place="top-right">2372</fw>
+               <milestone type="leftside"
+                          xml:id="startd1e745"
+                          next="endd1e745"
+                          n="2371"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 228.</head>
+               <p>
 L. 2: „§ 28" 1. „§ 149".
 </p>
-<wtitle>Til § 229.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 229.</head>
+               <p>
 2. Stk., L. 1: ,,§ 94" 1. „214".
 </p>
-<wtitle>Til § 231.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 231.</head>
+               <p>
 L. 2: „§ 29" 1. „§ 150".
 </p>
-<wtitle>Til § 232.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 232.</head>
+               <p>
 L. 4: „§§ 226, 229 og 230" 1. „§§ 344,<lb/>
 347 og 348".
 </p>
-<wtitle>Til § 236.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 236.</head>
+               <p>
 1. Stk., L. 3: „§ 213" 1. „§ 331".<lb/>
 1. Stk., L. 4: „§ 214" 1. „§ 332".
 </p>
-<wtitle>Til § 243.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 243.</head>
+               <p>
 1. Stk., L. 1: ,,§ 6" 1. „§ 127".
 </p>
-<wtitle>Til § 244.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 244.</head>
+               <p>
 1. Stk. L. 2: „§ 94" 1. „§ 214".
 </p>
-<wtitle>Til § 247.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 247.</head>
+               <p>
 1. Stk. L. 1: ,,§ 246" 1. „§	364".<lb/>
 1. Stk. L. 3: „§ 201" 1. ,,§ 319".
 </p>
-<p>
+               <p>
 3. Stk. L. 1: „§ 202" 1. „§	320".
 </p>
-<wtitle>Til § 248.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 248.</head>
+               <p>
 L. 1: „§§ 246 og 247" 1. „§§ 364 og 365".
 </p>
-<wtitle>Til § 254.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 254.</head>
+               <p>
 1. Stk., L. 1: „§ 253" 1. „§ 371".<lb/>
 1. Stk., L. 2: „§ 252" 1. ,.§ 370".
 </p>
-<p>
+               <p>
 4.	Stk., L. 5: „§§ 209, 210 og 211" 1. „§§<lb/>
 327, 328 og 329".
 </p>
-<p>
+               <p>
 5.	Stk., L. 3: ,,§ 218" 1. „§ 336".
 </p>
-<wtitle>Til § 255.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 255.</head>
+               <p>
 L. 3: ,,§ 252" 1. „§ 370".<lb/>
 L. 7: ,.§ 254" 1. „§ 372".
 </p>
-<wtitle>Til § 256.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 256.</head>
+               <p>
 L. 4: ,,§ 254" 1. „§ 372".
 </p>
-<wtitle>Til § 257.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 257.</head>
+               <p>
 1. Stk., L. 4: „§§ 148 og 149" 1. „§§ 266<lb/>
 og 267".
 </p>
-<p>
+               <p>
 1. Stk., L. 6: „§ 193" 1. „§ 311".
 </p>
-<wtitle>Til § 258.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 258.</head>
+               <p>
 1. Stk., L. 2: „§ 149" 1. „§ 267".<lb/>
 3. Stk., L. 3: „§ 218" 1. „§ 336".
 </p>
-</leftside>
-<rightside>
-<wtitle>Til § 259.</wtitle>
-<p>
+               <milestone type="leftside"
+                          xml:id="endd1e745"
+                          prev="startd1e745"
+                          n="2371"
+                          unit="column"/>
+               <milestone type="rightside"
+                          xml:id="startd1e841"
+                          next="endd1e841"
+                          n="2372"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 259.</head>
+               <p>
 1.	Stk., L. 1: „§ 212" 1. „§ 330".
 </p>
-<p>
+               <p>
 2.	Stk., L. 1: „§ 216" 1. „§ 334".
 </p>
-<p>
+               <p>
 3.	Stk., L. 1: „§§ 243 og 246" 1. „§§ 361<lb/>
 og 364".
 </p>
-<wtitle>Til § 260.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 260.</head>
+               <p>
 1.	Stk., L. 3: ,,§ 206" 1. „§ 324".
 </p>
-<p>
+               <p>
 2.	Stk., L. 2: „§§ 219 og 220" 1. „§§ 337<lb/>
 og 338".
 </p>
-<wtitle>Til § 261.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 261.</head>
+               <p>
 1. Stk., L. 3: ,,§§ 252 ff." 1. „§§ 370 ff."
 </p>
-<wtitle>Til § 263.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 263.</head>
+               <p>
 1. Stk., L. 2: „§ 252" 1. „§ 370".
 </p>
-<wtitle>Til § 265.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 265.</head>
+               <p>
 1. Stk., L. 3: „§ 243" 1. ,,§ 361".
 </p>
-<p>
+               <p>
 1.	Stk., L. 5: „§ 6" 1. „§ 127".
 </p>
-<wtitle>Til § 267.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 267.</head>
+               <p>
 L. 1: „§ 111, § 153 eller § 183" 1. „§ 232,<lb/>
 § 271 eller § 301".
 </p>
-<wtitle>Til § 269.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 269.</head>
+               <p>
 2.	Stk., L. 2: „§ 259" 1. „§ 377".
 </p>
-<wtitle>Til § 273.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 273.</head>
+               <p>
 1.	Stk., L. 2: „§ 2" 1. „§ 123".
 </p>
-<wtitle>Til § 275.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 275.</head>
+               <p>
 2.	Stk., L. 1: ,,§ 202" 1. „§ 320".
 </p>
-<wtitle>Til § 279.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 279.</head>
+               <p>
 1. Stk., L. 1: „§ 277" 1. „§ 395".
 </p>
-<p>
+               <p>
 3.	Stk., L. 1: „§§ 8 og 85" 1. „§§ 129 og<lb/>
 205".
 </p>
-<wtitle>Til § 281.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 281.</head>
+               <p>
 1.	Stk., L. 3: „§ 277" 1. „§ 395".
 </p>
-<p>
+               <p>
 2.	Stk., L. 3: „§§213—216" 1. „§§ 331—334".
 </p>
-<wtitle>Til § 282.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 282.</head>
+               <p>
 L. 2: „Kap. XVIII.—XX." 1. „Kap. 31<lb/>
 —33".
 </p>
-<wtitle>Til § 283.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 283.</head>
+               <p>
 1. Stk., L. 1: „§ 6" 1. „§ 127".
 </p>
-<p>
+               <p>
 1.	Stk., L. 5: ,.§§ 243, 244 og 245" 1.<lb/>
 „§§ 361, 362 og 363".
 </p>
-<p>
+               <p>
 2.	Stk., L. 3: „Kap. XXI." 1. „Kap. 34".
 </p>
-<p>
+               <p>
 3.	Stk., L. 1: „Kap. XXII." 1. „Kap. 35".
 </p>
-<wtitle>Til § 284.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 284.</head>
+               <p>
 L 1: „§ 246" 1. „§ 364".
 </p>
-</rightside></div><?page  r12_00006_rigsdagtid_b2_1901_02 ?>
-<div type='page-placeholder'><h>
-<coll>2373</coll>
-<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
-<colr>2374</colr>
-</h>
-<leftside>
-<wtitle>Til § 285.</wtitle>
-<p>
+               <milestone type="rightside"
+                          xml:id="endd1e841"
+                          prev="startd1e841"
+                          n="2372"
+                          unit="column"/>
+               <pb xml:id="idr12_00006_rigsdagtid_b2_1901_02"
+                   facs="r12_00006_rigsdagtid_b2_1901_02 "
+                   n=""/>
+               <fw type="head" place="top-left">2373</fw>
+               <fw type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw type="head" place="top-right">2374</fw>
+               <milestone type="leftside"
+                          xml:id="startd1e953"
+                          next="endd1e953"
+                          n="2373"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 285.</head>
+               <p>
 1. Stk.. L. 2: „§ 201" 1. „§ 319".<lb/>
 3. Stk.. L. 3: „§ 202" 1. „§ 320".
 </p>
-<wtitle>Til § 286.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 286.</head>
+               <p>
 1.	Stk., L. 2: „§§ 250 og 263" 1. ,,§§ 368<lb/>
 og 381".
 </p>
-<p>
+               <p>
 2.	Stk., L. 1: ,,§§ 256 og 260" 1. „88 374<lb/>
 og 378".
 </p>
-<p>
+               <p>
 1. Stk., L. 2: ,,§§ 261 og 264" 1. „88 379<lb/>
 og 382".
 </p>
-<wtitle>Til § 287.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 287.</head>
+               <p>
 L. 4.: ,.§ 254" 1. „§ 372".
 </p>
-<wtitle>Til § 288.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 288.</head>
+               <p>
 1.	Stk., L. 4: ,.§ 218" 1. ,,§ 336".
 </p>
-<p>
+               <p>
 2.	Stk., L. 2: ,.§ 200" 1. „§ 318".
 </p>
-<p>
+               <p>
 2. Stk.. L. 4: ,.§§ 210 og 218" 1. ..§§ 328<lb/>
 og 336".
 </p>
-<wtitle>Til § 291.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 291.</head>
+               <p>
 2. Stk., L. 4 og 3. Stk. L. 1: ,.§ 290"<lb/>
 1. ,.§ 408".
 </p>
-<wtitle>Til § 292.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 292.</head>
+               <p>
 L. 1 og 4: „§ 290" 1. ,.§ 408".<lb/>
 L. 3: ,.§§ 20, 30, 42, 45 og 75" 1. ,.§§ 141.<lb/>
 151, 163, 166 og 195".
 </p>
-<wtitle>Til § 293.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 293.</head>
+               <p>
 L. 2: „Kap. XXIV." 1. „Kap. 37".
 </p>
-<wtitle>Til § 298.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 298.</head>
+               <p>
 L. 5: „§ 299" 1. ,.§ 417".
 </p>
-<wtitle>Til § 299.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 299.</head>
+               <p>
 L. 4: „§ 194" 1. „§ 312".
 </p>
-<wtitle>Til § 300.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 300.</head>
+               <p>
 L. 1: „§§ 297 og 298" 1. „§§ 415 og 416".
 </p>
-<wtitle>Til § 301.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 301.</head>
+               <p>
 L. 1: „Kap. XIX." 1. „Kap. 32".
 </p>
-<wtitle>Til § 302.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 302.</head>
+               <p>
 L. 3: „§ 296" 1. „§ 414".
 </p>
-<wtitle>Til § 308.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 308.</head>
+               <p>
 L. 2: „§§ 306 og 307" 1. „§§ 424 og 425".
 </p>
-<wtitle>Til § 309.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 309.</head>
+               <p>
 L. 2: „§ 306" 1. „§ 424".<lb/>
 L. 3: „Kap. XI." 1. „Kap. 24".
 </p>
-<wtitle>Til § 312.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 312.</head>
+               <p>
 1. Stk., L. 2: „§ 303" 1. „§ 421".
 </p>
-</leftside>
-<rightside>
-<wtitle>Til § 315.</wtitle>
-<p>
+               <milestone type="leftside"
+                          xml:id="endd1e953"
+                          prev="startd1e953"
+                          n="2373"
+                          unit="column"/>
+               <milestone type="rightside"
+                          xml:id="startd1e1055"
+                          next="endd1e1055"
+                          n="2374"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 315.</head>
+               <p>
 L. 1: „§ 314" 1. „§ 432".
 </p>
-<wtitle>Til § 331.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 331.</head>
+               <p>
 L. 2: „§ 324" 1. „451".
 </p>
-<wtitle>Til § 332.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 332.</head>
+               <p>
 L. 3: „§ 325" 1. „§ 452".
 </p>
-<wtitle>Til § 333.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 333.</head>
+               <p>
 1. Stk. L. 3: „§ 109" 1. „§ 229".
 </p>
-<wtitle>Til § 334.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 334.</head>
+               <p>
 1.	Stk. L. 3: „§ 333" 1. „§ 460".
 </p>
-<wtitle>Til § 335.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 335.</head>
+               <p>
 2.	Stk.. L. 1: „§ 153, jfr. §§ 182 og 192"<lb/>
 1. „§' 271, jfr. §§ 300 og 310".
 </p>
-<p>
+               <p>
 2.	Stk., L. 2: ,.§ 153" 1. „§ 271".
 </p>
-<wtitle>Til § 336.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 336.</head>
+               <p>
 L. 5: „Kap. VIII." 1. Kap. 21".
 </p>
-<wtitle>Til § 339.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 339.</head>
+               <p>
 1. Stk., L. 2: „§§ 340—342" 1. „§§ 467—<lb/>
 469".
 </p>
-<p>
+               <p>
 1. Stk., L. 2: „Kap. XXXI." 1. „Kap. 45".
 </p>
-<p>
+               <p>
 3.	Stk., L. 1 og 3: „§ 326" 1. „§ 453".
 </p>
-<p>
+               <p>
 6. Stk., L. 2: „§ 345" 1. „§ 472„.
 </p>
-<wtitle>Til § 341.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 341.</head>
+               <p>
 L. 4: „§ 339" 1. „§ 466".
 </p>
-<wtitle>Til § 343.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 343.</head>
+               <p>
 L. 3: „339" 1. „§ 466".
 </p>
-<p>
+               <p>
 L. 4: „Kap. XXXI." 1. „Kap. 45".<lb/>
 L. 6: „§ 345" 1. „472".
 </p>
-<wtitle>Til § 344.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 344.</head>
+               <p>
 L. 3: „§§ 339—343" 1. „466—470".
 </p>
-<wtitle>Til § 345.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 345.</head>
+               <p>
 1. Stk., L. 4 og 11: „§§ 339—343" 1.<lb/>
 „§§ 466-470".
 </p>
-<wtitle>Til § 347.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 347.</head>
+               <p>
 1. Stk., L. 4: „§§ S84. 386 og 392" 1.<lb/>
 „§§ 514, 516 og 522".
 </p>
-<wtitle>Til § 349.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 349.</head>
+               <p>
 1. Stk., L. 4: „§§ 350, 403 og 404" 1. „§§ 477.<lb/>
 533 og 534".
 </p>
-<wtitle>Til § 351.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 351.</head>
+               <p>
 L. 4: „§ 403" 1. „§ 533".
 </p>
-</rightside></div><?page  r12_00007_rigsdagtid_b2_1901_02 ?>
-<div type='page-placeholder'><h>
-<coll>2375</coll>
-<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
-<colr>2376</colr>
-</h>
-<leftside>
-<wtitle>Til § 352.</wtitle>
-<p>
+               <milestone type="rightside"
+                          xml:id="endd1e1055"
+                          prev="startd1e1055"
+                          n="2374"
+                          unit="column"/>
+               <pb xml:id="idr12_00007_rigsdagtid_b2_1901_02"
+                   facs="r12_00007_rigsdagtid_b2_1901_02 "
+                   n=""/>
+               <fw type="head" place="top-left">2375</fw>
+               <fw type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw type="head" place="top-right">2376</fw>
+               <milestone type="leftside"
+                          xml:id="startd1e1162"
+                          next="endd1e1162"
+                          n="2375"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 352.</head>
+               <p>
 1. Stk., L. 2: „§ 363" 1. ,,§ 490".
 </p>
-<wtitle>Til § 354.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 354.</head>
+               <p>
 1. Stk., L. 1: „§ 350" 1. „§ 477".
 </p>
-<wtitle>Til § 364.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 364.</head>
+               <p>
 L. 5: „Kap. XXXI" 1. „Kap. 45".
 </p>
-<wtitle>Til § 368.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 368.</head>
+               <p>
 1.	Stk., L. 1 : „§ 329" 1. „§ 456".
 </p>
-<wtitle>Til § 374.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 374.</head>
+               <p>
 2.	Stk., L. 5: „§ 363" 1. „§ 490".
 </p>
-<wtitle>Til § 381.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 381.</head>
+               <p>
 L. 1: „§ 380, jfr. § 379" 1. „§ 507, jfr.<lb/>
 § 506".
 </p>
-<wtitle>Til § 384.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 384.</head>
+               <p>
 1.	Stk., L. 3: „§ 403" 1. „§ 533".
 </p>
-<p>
+               <p>
 4. Stk., L. 3: „§ 452" 1. „§ 578".
 </p>
-<wtitle>Til § 386.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 386.</head>
+               <p>
 2.	Stk., L. 2: „§ 326" 1. „§ 453".
 </p>
-<wtitle>Til § 387.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 387.</head>
+               <p>
 L. 1: „§ 328" 1. „§ 455".
 </p>
-<wtitle>Til § 390.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 390.</head>
+               <p>
 L. 2: „§ 384" 1. „§ 514" og „§ 402" 1.<lb/>
 „§ 532".
 </p>
-<wtitle>Til § 397.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 397.</head>
+               <p>
 1. Stk.. L. 6: „§ 400" 1. „§ 530".
 </p>
-<wtitle>Til § 398.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 398.</head>
+               <p>
 L. 3: „§ 397" 1. „§ 527".
 </p>
-<wtitle>Til § 401.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 401.</head>
+               <p>
 1.	Stk., L. 2: „§ 81" 1. „§ 201".
 </p>
-<wtitle>Til § 405.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 405.</head>
+               <p>
 L. 1: „§§ 403 og 404" 1. „§§ 533 og 534".<lb/>
 L. 2: „§§ 400 og 401" 1. „§§ 530 og 531".
 </p>
-<wtitle>Til § 406.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 406.</head>
+               <p>
 2.	Stk., L. 4: „§ 416" 1. „§ 546".
 </p>
-<wtitle>Til § 407.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 407.</head>
+               <p>
 1.	Stk., L. 1: „§ 406" 1. „§ 536".
 </p>
-<p>
+               <p>
 2.	Stk., L. 5: „§ 81" 1. „§ 201".
 </p>
-<p>
+               <p>
 2.	Stk., L. 9: „§§ 401 og 390" 1. „§§ 531<lb/>
 og 502".
 </p>
-<wtitle>Til § 408.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 408.</head>
+               <p>
 3.	Stk., L. 6: „§ 407" 1. „§ 537".
 </p>
-</leftside>
-<rightside>
-<wtitle>Til § 409.</wtitle>
-<p>
+               <milestone type="leftside"
+                          xml:id="endd1e1162"
+                          prev="startd1e1162"
+                          n="2375"
+                          unit="column"/>
+               <milestone type="rightside"
+                          xml:id="startd1e1257"
+                          next="endd1e1257"
+                          n="2376"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 409.</head>
+               <p>
 3. Stk., L. 4: „§ 427" 1. „§ 557".
 </p>
-<wtitle>Til § 410.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 410.</head>
+               <p>
 1. Stk., L. 2: „§ 408" 1. „§ 538".
 </p>
-<wtitle>Til § 411.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 411.</head>
+               <p>
 L. 1: „§§ 408—410" 1. „§§ 538—540".
 </p>
-<wtitle>Til § 412.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 412.</head>
+               <p>
 L. 1: „§ 407" 1. „§ 537".
 </p>
-<wtitle>Til § 413.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 413.</head>
+               <p>
 1. Stk., L. 5: „§§ 408—411" 1. „§§ 538<lb/>
 -541".
 </p>
-<p>
+               <p>
 3. Stk., L. 2: „§ 407" 1. „§ 537".
 </p>
-<p>
+               <p>
 3. Stk., L. 10: „§ 401" 1. „§ 531".
 </p>
-<wtitle>Til § 414.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 414.</head>
+               <p>
 L. 6: „§ 427" 1. „§ 557".
 </p>
-<wtitle>Til § 415.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 415.</head>
+               <p>
 L. 2: „§ 407" 1. „§ 537".
 </p>
-<wtitle>Til § 416.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 416.</head>
+               <p>
 1. Stk.. L. 5: „§ 407" 1. „§ 537".<lb/>
 1. Stk., L. 6: „§ 413" 1. „§ 543".
 </p>
-<wtitle>Til § 419.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 419.</head>
+               <p>
 1. Stk., L. 5: „§ 413" 1. „§ 543".<lb/>
 1. Stk., L. 8: „§ 414" 1. „§ 544".<lb/>
 1. Stk., L. 11: „§ 412" 1. „§ 542".<lb/>
 1. Stk., L. 21: „§ 417" 1. „§ 547".
 </p>
-<wtitle>Til § 421.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 421.</head>
+               <p>
 L. 1: „§ 416" 1. „§ 546".
 </p>
-<wtitle>Til § 422.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 422.</head>
+               <p>
 1. Stk., L. 7: „§ 416" 1. „§ 546".
 </p>
-<wtitle>Til § 423.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 423.</head>
+               <p>
 1.	Stk., L. 2: „§ 417" 1. „547".
 </p>
-<wtitle>Til § 425.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 425.</head>
+               <p>
 2.	Stk., L. 1: „§ 410" 1. „§ 540".
 </p>
-<wtitle>Til § 426.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 426.</head>
+               <p>
 L. 3: „§ 414" 1. „§ 544".
 </p>
-<wtitle>Til § 427.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 427.</head>
+               <p>
 1. Stk., L. 1: „§ 414" 1. „§ 544".
 </p>
-<p>
+               <p>
 1.	Stk., L. 11: „§ 81" 1. „§ 201".
 </p>
-<wtitle>Til § 428.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 428.</head>
+               <p>
 2.	Stk., L. 2: „§ 423" 1. „§ 553",
 </p>
-</rightside></div><?page  r12_00008_rigsdagtid_b2_1901_02 ?>
-<div type='page-placeholder'><h>
-<coll>2377</coll>
-<topmidle>Tillæg B. (150).	Ordentl. Samling 1901-02. </topmidle>
-<colr>2378</colr>
-</h>
-<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
-<leftside>
-<wtitle>Til § 429.</wtitle>
-<p>
+               <milestone type="rightside"
+                          xml:id="endd1e1257"
+                          prev="startd1e1257"
+                          n="2376"
+                          unit="column"/>
+               <pb xml:id="idr12_00008_rigsdagtid_b2_1901_02"
+                   facs="r12_00008_rigsdagtid_b2_1901_02 "
+                   n=""/>
+               <fw type="head" place="top-left">2377</fw>
+               <fw type="head" place="top-middle">Tillæg B. (150).	Ordentl. Samling 1901-02. </fw>
+               <fw type="head" place="top-right">2378</fw>
+               <topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
+               <milestone type="leftside"
+                          xml:id="startd1e1362"
+                          next="endd1e1362"
+                          n="2377"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 429.</head>
+               <p>
 1. Stk., L. 10: „§ 427" 1. „§ 557".
 </p>
-<wtitle>Til § 430.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 430.</head>
+               <p>
 L. 1: ,,§ 438" 1. „§ 568".
 </p>
-<wtitle>Til § 432.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 432.</head>
+               <p>
 1. Stk., L. 1: „Kap. XXXV." 1. „Kap. 50".
 </p>
-<wtitle>Til § 433.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 433.</head>
+               <p>
 L. 2: „§§ 368, 369 og 370" 1. „§§ 495,<lb/>
 496 og 497".
 </p>
-<wtitle>Til § 434.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 434.</head>
+               <p>
 1. Stk., L. 1: „§ 371" 1. „§ 498".
 </p>
-<wtitle>Til § 435.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 435.</head>
+               <p>
 L. 1: „§ 372" 1. „§ 499".
 </p>
-<wtitle>Til § 436.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 436.</head>
+               <p>
 L. 1: „§ 373" 1. „§ 500".
 </p>
-<wtitle>Til § 446.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 446.</head>
+               <p>
 1. Stk., L. 5: „Kap. VIII." 1. „Kap. 21".
 </p>
-<wtitle>Til § 449.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 449.</head>
+               <p>
 1. Stk., L. 5: ,,§ 446" 1. „§ 572".
 </p>
-<wtitle>Til § 450.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 450.</head>
+               <p>
 3. Stk., L. 2: „§ 445" 1. „§ 571".
 </p>
-<wtitle>Til § 452.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 452.</head>
+               <p>
 L. 2: „§ 451" 1. ,,§ 577".<lb/>
 L. 5: ,.§§ 453 og 454" 1. „§ 579".<lb/>
 L. 8: „Kap. XXXIII." 1. „Kap. 48".
 </p>
-<wtitle>Til § 460.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 460.</head>
+               <p>
 L. 1: „§ 459" 1. „§ 583".
 </p>
-<wtitle>Til § 472.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 472.</head>
+               <p>
 1.	Stk., L. 2: „§ 326" 1. „§ 453".
 </p>
-<p>
+               <p>
 2.	Stk., L. 1: „§ 326" 1. „§ 453".
 </p>
-<wtitle>Til § 473.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 473.</head>
+               <p>
 L. 2: „§ 327" 1. „§ 454".
 </p>
-<wtitle>Til § 474.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 474.</head>
+               <p>
 3.	Stk., L. 1: „§ 290" 1. „§ 408".
 </p>
-<p>
+               <p>
 3. Stk., L. 4: „Kap. XXV" 1. „Kap. 38".
 </p>
-<wtitle>Til § 476.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 476.</head>
+               <p>
 L. 1: „§ 363" 1. „§ 490".
 </p>
-<wtitle>Til § 479.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 479.</head>
+               <p>
 L. 2: „§§ 352 og 353" 1. „§§ 479 og 480".<lb/>
 L. 4: „§§ 365—373" 1. „§§ 492—500".
 </p>
-</leftside>
-<rightside>
-<wtitle>Til § 480.</wtitle>
-<p>
+               <milestone type="leftside"
+                          xml:id="endd1e1362"
+                          prev="startd1e1362"
+                          n="2377"
+                          unit="column"/>
+               <milestone type="rightside"
+                          xml:id="startd1e1454"
+                          next="endd1e1454"
+                          n="2378"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 480.</head>
+               <p>
 L. 7: „§ 363" 1. „§ 490".
 </p>
-<wtitle>Til § 481.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 481.</head>
+               <p>
 1.	Stk., L. 6: „§ 94" 1. „§ 214".
 </p>
-<p>
+               <p>
 2.	Stk., L. 5: „§§ 94 og 95" 1. „§§ 214 og<lb/>
 215".
 </p>
-<p>
+               <p>
 3.	Stk., L. 4: „§ 95" 1. „§ 215".
 </p>
-<wtitle>Til § 486.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 486.</head>
+               <p>
 L. 2: „§ 481" 1. „§ 605".
 </p>
-<wtitle>Til § 487.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 487.</head>
+               <p>
 L. 4: „§ 486" 1. „§ 610".
 </p>
-<wtitle>Til § 489.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 489.</head>
+               <p>
 L. 4: „§ 487" 1. „§ 611".
 </p>
-<wtitle>Til § 499.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 499.</head>
+               <p>
 L. 2: „§§ 472—476" 1. „§§ 596—600".<lb/>
 L. 2—3:'§§ 480—481" 1. „§§ 604—608".<lb/>
 L. 3: „§§ 483—492" 1. „§§ 608—614".
 </p>
-<wtitle>Til § 500.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 500.</head>
+               <p>
 L. 3: „§ 459" 1. „§ 583".
 </p>
-<wtitle>Til § 505.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 505.</head>
+               <p>
 1. Stk., L. 1: „§ 503" 1. „§ 625".
 </p>
-<wtitle>Til § 506.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 506.</head>
+               <p>
 1. Stk., L. 1: „§ 503" 1. ,,§ 625".
 </p>
-<wtitle>Til § 507.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 507.</head>
+               <p>
 L. 3: „§§ 502 og 503" 1. „§§ 624 og 625".
 </p>
-<wtitle>Til § 509.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 509.</head>
+               <p>
 3. Stk., L. 2: „§ 508" 1. „§ 630".
 </p>
-<wtitle>Til § 517.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 517.</head>
+               <p>
 1. Stk., L. 1: „§ 575" 1. „§ 635".
 </p>
-<wtitle>Til § 518.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 518.</head>
+               <p>
 1. Stk., L. 1: „§ 515" 1. „§ 635".
 </p>
-<wtitle>Til § 519.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 519.</head>
+               <p>
 L. 2: „§ 515,, 1. „§ 635".
 </p>
-<wtitle>Til § 526.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 526.</head>
+               <p>
 L. 3: „Kap. XXXIII.—XXXVI." 1. „Kap.<lb/>
 48—51".
 </p>
-<wtitle>Til § 531.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 531.</head>
+               <p>
 L. 2: „§ 84" 1. „§ 204".
 </p>
-<wtitle>Til § 532.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 532.</head>
+               <p>
 L. 4: „Kap. XXV." 1. „Kap. 38".
 </p>
-</rightside>
-<signatur>
+               <milestone type="rightside"
+                          xml:id="endd1e1454"
+                          prev="startd1e1454"
+                          n="2378"
+                          unit="column"/>
+               <signatur>
 Udvalgenes Betænkninger m. m.	150
-</signatur></div><?page  r12_00009_rigsdagtid_b2_1901_02 ?>
-<div type='page-placeholder'><h>
-<coll>2379</coll>
-<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
-<colr>2380</colr>
-</h>
-<leftside>
-<wtitle>Til § 533.</wtitle>
-<p>
+</signatur>
+               <pb xml:id="idr12_00009_rigsdagtid_b2_1901_02"
+                   facs="r12_00009_rigsdagtid_b2_1901_02 "
+                   n=""/>
+               <fw type="head" place="top-left">2379</fw>
+               <fw type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw type="head" place="top-right">2380</fw>
+               <milestone type="leftside"
+                          xml:id="startd1e1559"
+                          next="endd1e1559"
+                          n="2379"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 533.</head>
+               <p>
 L. 1: „§ 531" 1. „§ 659".
 </p>
-<wtitle>Til § 534.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 534.</head>
+               <p>
 1. Stk., L. 2: „§ 531" 1. „§ 659".
 </p>
-<wtitle>Til § 536.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 536.</head>
+               <p>
 L. 4: „§ 470" 1. „§ 594".
 </p>
-<undertitle>
+            </div>
+            <div>
+               <head>
 Ændringsforslag
 til
-</undertitle>
-<p>
+</head>
+               <p>
 2den Behandling af Forslag til Lov om<lb/>
 Strafferetsplejen.
 </p>
-<wtitle>Til § 3.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 3.</head>
+               <p>
 L. 2: „Kap. XXXII." 1. „Kap. 93".
 </p>
-<wtitle>Til § 5.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 5.</head>
+               <p>
 Stk. d., L. 3: „§ 2" 1. „§ 666".
 </p>
-<wtitle>Til § 6.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 6.</head>
+               <p>
 1.	Stk., L. 2: „§ 5" 1. „§ 669".
 </p>
-<wtitle>Til § 7.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 7.</head>
+               <p>
 L. 1: „§§ 5 og 6" 1. §§ 669 og 670".
 </p>
-<wtitle>Til § 14.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 14.</head>
+               <p>
 2.	Stk., L. 2: „§ 13" 1. „§ 677" og „§ 12"<lb/>
 1. „§ 676".
 </p>
-<wtitle>Til § 23.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 23.</head>
+               <p>
 2. Stk., L. 2: „§ 21" 1. „§ 685".
 </p>
-<wtitle>Til § 25.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 25.</head>
+               <p>
 1.	Stk., L. 3: ,,§ 31" 1. „§ 695".
 </p>
-<wtitle>Til § 27.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 27.</head>
+               <p>
 L. 3: „§§ 195 og 206" 1. „§§ 860 og 871".
 </p>
-<wtitle>Til § 30.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 30.</head>
+               <p>
 L. 2: „§§ 31 og 35" 1. ,,§§ 695 og 699".
 </p>
-<p>
+               <p>
 L. 5: „Kapitlerne XIX. og XX." 1. „Ka-<lb/>
 pitlerne 79 og 80".
 </p>
-<wtitle>Til § 31.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 31.</head>
+               <p>
 2.	Stk., L. 3: „§ 30" 1. ,,§ 694".
 </p>
-</leftside>
-<rightside>
-<wtitle>Til § 34.</wtitle>
-<p>
+               <milestone type="leftside"
+                          xml:id="endd1e1559"
+                          prev="startd1e1559"
+                          n="2379"
+                          unit="column"/>
+               <milestone type="rightside"
+                          xml:id="startd1e1633"
+                          next="endd1e1633"
+                          n="2380"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 34.</head>
+               <p>
 L. 1: „§ 31" 1. „§ 695".	„
 </p>
-<p>
+               <p>
 L. 4: „§ 366" 1. „§ 1032".
 </p>
-<wtitle>Til § 35.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 35.</head>
+               <p>
 1. Stk., L. 3: „§ 376" 1. „§ 1042".
 </p>
-<p>
+               <p>
 4. Stk., L. 4: .,§ 374" 1. „§ 1040" og<lb/>
 „§ 375" 1. „§ 1041".
 </p>
-<wtitle>Til § 36.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 36.</head>
+               <p>
 1. Stk., L. 2: „§ 33" 1. „§ 697".
 </p>
-<p>
+               <p>
 1. Stk., L. 5: „Kapitel XXXI." 1. „Kapitel<lb/>
 92".
 </p>
-<wtitle>Til § 38.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 38.</head>
+               <p>
 3. Stk., L. 3: „§ 12" 1. „§ 676".
 </p>
-<wtitle>Til § 42.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 42.</head>
+               <p>
 1. Stk., L. 7: „§ 12"' 1. „§ 676".
 </p>
-<wtitle>Til § 45.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 45.</head>
+               <p>
 1. Stk., L. 2: „§ 66" 1. „§ 730".<lb/>
 1. Stk., L. 3: „§ 207" 1. „§ 872".
 </p>
-<wtitle>Til § 47.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 47.</head>
+               <p>
 L. 3: „§ 144" 1. „§ 808".
 </p>
-<wtitle>Til § 54.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 54.</head>
+               <p>
 Stk. 2, L. 1: „§ 31" 1. „§ 695".<lb/>
 Stk. 3, L. 2: „§ 52" 1. „§ 716".
 </p>
-<wtitle>Til § 55.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 55.</head>
+               <p>
 L. 1: „§ 54" 1. „§ 718".
 </p>
-<wtitle>Til § 56.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 56.</head>
+               <p>
 L. 1: „§ 61" 1. „§ 725".
 </p>
-<wtitle>Til § 57.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 57.</head>
+               <p>
 3. Stk., L. 1: „§ 2" 1. „§ 666".<lb/>
 3. Stk., L. 2: „§§52—55" 1. „§§ 716—719".
 </p>
-<wtitle>Til § 58.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 58.</head>
+               <p>
 L. 4: „§ 96" 1. „§ 760".
 </p>
-<wtitle>Til § 59.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 59.</head>
+               <p>
 L. 6: „§ 96" 1. „§ 760".
 </p>
-<wtitle>Til § 60.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 60.</head>
+               <p>
 3. Stk., L. 4: „Kapitlerne XXVII—XXIX"<lb/>
 1. „Kapitlerne 88—90".
 </p>
-<wtitle>Til § 62.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 62.</head>
+               <p>
 L. 2: „§ 61" 1. „§ 725".
 </p>
-</rightside></div><?page  r12_00010_rigsdagtid_b2_1901_02 ?>
-<div type='page-placeholder'><h>
-<coll>2381</coll>
-<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
-<colr>2382</colr>
-</h>
-<leftside>
-<wtitle>Til § 63.</wtitle>
-<p>
+               <milestone type="rightside"
+                          xml:id="endd1e1633"
+                          prev="startd1e1633"
+                          n="2380"
+                          unit="column"/>
+               <pb xml:id="idr12_00010_rigsdagtid_b2_1901_02"
+                   facs="r12_00010_rigsdagtid_b2_1901_02 "
+                   n=""/>
+               <fw type="head" place="top-left">2381</fw>
+               <fw type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw type="head" place="top-right">2382</fw>
+               <milestone type="leftside"
+                          xml:id="startd1e1736"
+                          next="endd1e1736"
+                          n="2381"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 63.</head>
+               <p>
 2.	Stk., L. 3: „§ 61"" 1. ,.§ 725".
 </p>
-<p>
+               <p>
 3.	Stk., L. 5: „§ 96" 1. „§ 760".
 </p>
-<wtitle>Til § 64.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 64.</head>
+               <p>
 L. 1—2: „§§62 og 63" 1. „§§ 726 og 727"<lb/>
 L. 3: „§ 63" 1. „§ 727".
 </p>
-<wtitle>Til § 68.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 68.</head>
+               <p>
 2. Stk., L. 1 : „§ 12" 1. „§ 676".
 </p>
-<wtitle>Til § 73.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 73.</head>
+               <p>
 4. Stk., L. 6: „§ 284" 1. „§ 949".
 </p>
-<wtitle>Til § 77.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 77.</head>
+               <p>
 2. Stk., L. 3: ,.§§ 285 og 288—290" 1,<lb/>
 „§§ 950 og 953—955".
 </p>
-<wtitle>Til § 79.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 79.</head>
+               <p>
 4. Stk, L. 2: „§§ 12 og 14" 1. „§§ 676 og<lb/>
 678".
 </p>
-<wtitle>Til § 81.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 81.</head>
+               <p>
 1. Stk., L. 1: „§§87 og 88" 1. „§§751 og<lb/>
 752".
 </p>
-<p>
+               <p>
 1. Stk., L. 2: „§ 84" 1. „§ 748".<lb/>
-</p>
-<p>
+               </p>
+               <p>
 1. Stk., L. 5: „§ 323" 1. „§ 989".<lb/>
-</p>
-<p>
+               </p>
+               <p>
 1. Stk, L. 8: „'§ 106 jfr. § 113" 1. § 770<lb/>
 jfr. § 777".
 </p>
-<p>
+               <p>
 1. Stk, L. 10: „§ 373" 1. „§ 1039".
 </p>
-<wtitle>Til § 83.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 83.</head>
+               <p>
 1.	Stk, L. 1: ,,§ 81" 1. „§ 745".
 </p>
-<wtitle>Til § 85.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 85.</head>
+               <p>
 2.	Stk, L. 1 : „§ 84" 1. „§ 748".
 </p>
-<wtitle>Til § 87.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 87.</head>
+               <p>
 L. 2: „§ 84" 1. „§ 748".
 </p>
-<wtitle>Til § 88.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 88.</head>
+               <p>
 2. Stk, L. 2: „§ 87" 1. „§ 751".
 </p>
-<wtitle>Til § 102.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 102.</head>
+               <p>
 1. Stk, L. 1: ,§ 107" 1. „§ 765".
 </p>
-<p>
+               <p>
 1.	Stk, L. 2.: „§§ 330, 340, 344, 250 og<lb/>
 459" 1. „§§ 996, 1006, 1010, 1016 og<lb/>
 1025".
 </p>
-<p>
+               <p>
 2.	Stk, L. 4: „§ 50" 1. ,.§ 714".
 </p>
-<wtitle>Til § 111.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 111.</head>
+               <p>
 1. Stk., L. 5: „§ 68" 1. „§ 732".
 </p>
-<wtitle>Til § 112.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 112.</head>
+               <p>
 3.	Stk, L. 2: „§ 110"' 1. „§ 774".
 </p>
-</leftside>
-<rightside>
-<wtitle>Til § 113.</wtitle>
-<p>
+               <milestone type="leftside"
+                          xml:id="endd1e1736"
+                          prev="startd1e1736"
+                          n="2381"
+                          unit="column"/>
+               <milestone type="rightside"
+                          xml:id="startd1e1840"
+                          next="endd1e1840"
+                          n="2382"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 113.</head>
+               <p>
 1. Stk, L. 6: „§ 106" 1. „§ 770".
 </p>
-<wtitle>Til § 114.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 114.</head>
+               <p>
 1.	Stk, L. 7: „§ 107" 1. „§ 765".
 </p>
-<wtitle>Til § 115.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 115.</head>
+               <p>
 2.	Stk, L. 6: „§§ 4 og 50" 1. „§§ 668 og<lb/>
 714"'.
 </p>
-<p>
+               <p>
 3.	Stk, L. 3: „§ 68" 1. „§ 732".
 </p>
-<wtitle>Til § 117.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 117.</head>
+               <p>
 L. 2 og 4: „§ 12" 1. „§ 676".
 </p>
-<wtitle>Til § 124.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 124.</head>
+               <p>
 3. Stk, L. 1—2: „§§ 101 og 103" 1. „SS<lb/>
 765 og 767".
 </p>
-<wtitle>Til § 125.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 125.</head>
+               <p>
 L. 2: ,,§ 110" 1. „§ 774".<lb/>
 L. 6: „§ 68" 1. „§ 732"'.
 </p>
-<wtitle>Til § 127.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 127.</head>
+               <p>
 L. 6: „§§ 106 og 113" 1. „§§ 770 og 777".
 </p>
-<wtitle>Til § 129.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 129.</head>
+               <p>
 L. 13: „§ 200" 1. „§ 865".
 </p>
-<wtitle>Til § 130.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 130.</head>
+               <p>
 2. Stk, L. 2: „§ 117" 1. „§ 781".
 </p>
-<wtitle>Til § 132.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 132.</head>
+               <p>
 2. Stk., L. 1: „§ 99" 1. „§ 763".
 </p>
-<wtitle>Til § 135.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 135.</head>
+               <p>
 L. 1: „§ 132" 1. „§ 796".<lb/>
 L. 4: „§ 134" 1. „§ 798".
 </p>
-<wtitle>Til § 136.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 136.</head>
+               <p>
 2. Stk, L. 1: „§ 99" 1. „§ 763".
 </p>
-<wtitle>Til § 137.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 137.</head>
+               <p>
 1. Stk, L. 7: „§ 46" 1. „§ 710".
 </p>
-<wtitle>Til § 139.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 139.</head>
+               <p>
 1.	Stk, L. 4: „§ 68" 1. „§ 732".
 </p>
-<wtitle>Til § 140.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 140.</head>
+               <p>
 L. 7: „§ 136" 1. „§ 800".
 </p>
-<wtitle>Til § 145.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 145.</head>
+               <p>
 2.	Stk, L. 4: „§ 143" 1. „§ 807".
 </p>
-<wtitle>Til § 147.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 147.</head>
+               <p>
 4. Stk, L. 3: „§ 139" 1. „803".
 </p>
-</rightside></div><?page  r12_00011_rigsdagtid_b2_1901_02 ?>
-<div type='page-placeholder'><h>
-<coll>2365</coll>
-<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
-<colr>2366</colr>
-</h>
-<leftside>
-<wtitle>Til § 151.</wtitle>
-<p>
+               <milestone type="rightside"
+                          xml:id="endd1e1840"
+                          prev="startd1e1840"
+                          n="2382"
+                          unit="column"/>
+               <pb xml:id="idr12_00011_rigsdagtid_b2_1901_02"
+                   facs="r12_00011_rigsdagtid_b2_1901_02 "
+                   n=""/>
+               <fw type="head" place="top-left">2365</fw>
+               <fw type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw type="head" place="top-right">2366</fw>
+               <milestone type="leftside"
+                          xml:id="startd1e1941"
+                          next="endd1e1941"
+                          n="2365"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 151.</head>
+               <p>
 1.	Stk., L. 3: „Kapitel IX" 1. „Kapitel 69".
 </p>
-<wtitle>Til § 156.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 156.</head>
+               <p>
 2.	Stk., L. 2: „§ 31" 1. „§ 695".
 </p>
-<wtitle>Til § 158.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 158.</head>
+               <p>
 1. Stk., L. 3 og 7: „§ 156" 1. „§ 820".
 </p>
-<wtitle>Til § 160.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 160.</head>
+               <p>
 1. Stk., L. 3: „§ 143" 1. „§ 807".
 </p>
-<p>
+               <p>
 3.	Stk., L. 3: „88 145—148" 1. „88 809<lb/>
 —812".
 </p>
-<wtitle>Til § 164.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 164.</head>
+               <p>
 1.	Stk., L. 5: „§ 168" 1. „§ 832".
 </p>
-<p>
+               <p>
 2.	Stk., L. 1: „§ 157" 1. „§ 821".<lb/>
 2. Stk., L. 2: ,.§ 151" 1. „§ 825".
 </p>
-<wtitle>Til § 165.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 165.</head>
+               <p>
 1.	Stk.. L. 2: „§ 161" 1. „§ 825".<lb/>
 3. Stk.. L. 1: „§ 164" 1. „§ 828".
 </p>
-<p>
+               <p>
 3. Stk., L. 2: „§§ 172 fL" 1. „§§ 836 ff.".
 </p>
-<wtitle>Til § 168.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 168.</head>
+               <p>
 L. 3: „§ 254" 1. „§ 919".
 </p>
-<wtitle>Til § 169.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 169.</head>
+               <p>
 2.	Stk.. L. 3: ,.§§ 157, 159 og 160" 1. „§§<lb/>
 821, 823 og 824".
 </p>
-<wtitle>Til § 170.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 170.</head>
+               <p>
 1. Stk., L. 4: „§ 162" 1. „§ 826".
 </p>
-<wtitle>Til § 171.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 171.</head>
+               <p>
 1. Stk., L. 5 og 12: „§ 46" 1. „§ 710".
 </p>
-<p>
+               <p>
 3.	Stk., L. 2: „§ 200" l. „§ 865".
 </p>
-<wtitle>Til § 172.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 172.</head>
+               <p>
 1. Stk.. L. 7: „§§ 173 og 174" 1. „§§ 837<lb/>
 og 838".
 </p>
-<wtitle>Til § 173.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 173.</head>
+               <p>
 1.	—3.	Stk., L. 1: ,,§167-' 1. ,,§ 831«.
 </p>
-<wtitle>Til § 177.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 177.</head>
+               <p>
 3. Stk., L. 1: „§ 167« 1. „§ 831".
 </p>
-<wtitle>Til § 178.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 178.</head>
+               <p>
 2.	Stk., L. 3: „§ 173" 1. „§ 837".
 </p>
-<wtitle>Til § 179.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 179.</head>
+               <p>
 L. 3.: „§ 168" 1. „§ 832".
 </p>
-</leftside>
-<rightside>
-<wtitle>Til § 180.</wtitle>
-<p>
+               <milestone type="leftside"
+                          xml:id="endd1e1941"
+                          prev="startd1e1941"
+                          n="2365"
+                          unit="column"/>
+               <milestone type="rightside"
+                          xml:id="startd1e2032"
+                          next="endd1e2032"
+                          n="2366"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 180.</head>
+               <p>
 1. Stk., L. 5: „§ 88" 1. „§ 752".
 </p>
-<wtitle>Til § 189.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 189.</head>
+               <p>
 3. Stk., L. 3: „§ 195" 1. „§ 860".
 </p>
-<wtitle>Til § 190.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 190.</head>
+               <p>
 1. Stk., L. 2: „§ 32" 1. „§ 696«.<lb/>
 3. Stk., L. 4: „§ 32'' 1. „§ 696".
 </p>
-<wtitle>Til § 194.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 194.</head>
+               <p>
 L. 2: „§ 33" 1. ,,§ 697".
 </p>
-<wtitle>Til § 195.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 195.</head>
+               <p>
 1. Stk., L. 1: ,.§§ 187 og 188'' 1. ,.§§ 852<lb/>
 og 853''.
 </p>
-<p>
+               <p>
 1.	Stk., L. 2: ,,Kap. 11—17'' 1. ,.Kap. 71<lb/>
 —77''.
 </p>
-<p>
+               <p>
 2.	Stk., L. 2: ,,§ 203" 1. „§ 868".
 </p>
-<wtitle>Til § 196.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 196.</head>
+               <p>
 1.	Stk.. L. 3: „§§ 207—210" 1. ,.§§ 872—<lb/>
 875".
 </p>
-<wtitle>Til § 198.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 198.</head>
+               <p>
 2.	Stk., L. 1: „§ 31" 1. ,.§ 695".
 </p>
-<wtitle>Til § 199.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 199.</head>
+               <p>
 L. 8: „§ 195" 1. „§ 860".<lb/>
 L. 9: „§ 206" 1. ,,§ 871".
 </p>
-<wtitle>Til § 200.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 200.</head>
+               <p>
 2.	Stk., L. 1: ..§§ 133 og 145, jfr. § 160,<lb/>
 §§ 161 og 170'' 1. „§§ 797 og 809, jfr.<lb/>
 § 824, §§ 825 og 834".
 </p>
-<p>
+               <p>
 3.	Stk., L. 1: „§ 129" 1. „§ 793".
 </p>
-<wtitle>Til § 201.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 201.</head>
+               <p>
 1. Stk., L. 2: „§ 31" 1. „§ 695".
 </p>
-<wtitle>Til § 203.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 203.</head>
+               <p>
 L. 3: „§ 201'' 1. „§ 866".
 </p>
-<wtitle>Til § 207.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 207.</head>
+               <p>
 1.	Stk., L. 4: „§ 45'' 1. „§ 709''.
 </p>
-<p>
+               <p>
 2.	Stk., L. 2: „§ 71" 1. „§ 735".
 </p>
-<wtitle>Til § 208.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 208.</head>
+               <p>
 1. Stk., L. 3: „§ 151" 1. „§ 815".
 </p>
-<p>
+               <p>
 4.	Stk., L. 1: „§ 207" 1. „§ 872".
 </p>
-<wtitle>Til § 212.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 212.</head>
+               <p>
 L. 4: „§ 353" 1. „§ 1019".
 </p>
-</rightside></div><?page  r12_00012_rigsdagtid_b2_1901_02 ?>
-<div type='page-placeholder'><h>
-<coll>2385</coll>
-<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
-<colr>2386</colr>
-</h>
-<leftside>
-<wtitle>Til § 219.</wtitle>
-<p>
+               <milestone type="rightside"
+                          xml:id="endd1e2032"
+                          prev="startd1e2032"
+                          n="2366"
+                          unit="column"/>
+               <pb xml:id="idr12_00012_rigsdagtid_b2_1901_02"
+                   facs="r12_00012_rigsdagtid_b2_1901_02 "
+                   n=""/>
+               <fw type="head" place="top-left">2385</fw>
+               <fw type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw type="head" place="top-right">2386</fw>
+               <milestone type="leftside"
+                          xml:id="startd1e2138"
+                          next="endd1e2138"
+                          n="2385"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 219.</head>
+               <p>
 1.	Stk., L. 9: „§ 101" 1. „§ 765".
 </p>
-<wtitle>Til § 221.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 221.</head>
+               <p>
 3. Stk., L. 1 og 3: '„§ 58" 1. „§ 722".
 </p>
-<p>
+               <p>
 3.	Stk., L. 2: „§ 59" 1. „§ 723"'.
 </p>
-<wtitle>Til § 222.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 222.</head>
+               <p>
 2.	Stk., L. 2: „§ 221" 1. „§ 886".
 </p>
-<wtitle>Til § 223.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 223.</head>
+               <p>
 L. 5: „§§ 219—222" 1. „§§ 884—887".
 </p>
-<wtitle>Til § 224.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 224.</head>
+               <p>
 1.	Stk., L. 4—5: „§§ 219—223'' 1. ,.§§ 884<lb/>
 —888".
 </p>
-<p>
+               <p>
 2.	Stk., L. 1: „Kap. XX." 1. „Kap. 80".
 </p>
-<wtitle>Til § 230.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 230.</head>
+               <p>
 1.	Stk., L. 2: „§ 228" 1. „§ 893".
 </p>
-<p>
+               <p>
 2.	Stk., L. 4 og 7: „§§ 221 og 223" 1. „§§<lb/>
 886 og 888".
 </p>
-<wtitle>Til § 236.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 236.</head>
+               <p>
 1. Stk., L. 1: „§ 71" 1. „§ 735".
 </p>
-<wtitle>Til § 241.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 241.</head>
+               <p>
 4.	Stk., L. 2: „§ 228" 1. ,,§ 893".
 </p>
-<wtitle>Til § 245.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 245.</head>
+               <p>
 1.	Stk., L. 2: „§ 257" 1. „§ 916«.
 </p>
-<wtitle>Til § 248.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 248.</head>
+               <p>
 2.	Stk., L. 11: „§ 234" 1. „§ 899"-
 </p>
-<p>
+               <p>
 2. Stk., L. 15: „§ 102, jfr. §§ 124 og 131".
 </p>
-<p>
+               <p>
 1. „§§ 766, jfr. §§ 788 og 795".
 </p>
-<wtitle>Til § 249.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 249.</head>
+               <p>
 2. Stk., L. 1: „§ 248" 1. „§ 913".
 </p>
-<wtitle>Til § 254.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 254.</head>
+               <p>
 1.	Stk., L. 3: „§ 327" 1. „§ 993".
 </p>
-<wtitle>Til § 258.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 258.</head>
+               <p>
 2.	Stk, L. 3: „§ 267" 1. „§ 932".
 </p>
-<wtitle>Til § 260.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 260.</head>
+               <p>
 L. 7: „§ 12" 1. „§ 676".
 </p>
-<wtitle>Til § 261.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 261.</head>
+               <p>
 3.	Stk, L. 3 : „§ 72" 1. „§ 73".
 </p>
-<wtitle>Til § 264.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 264.</head>
+               <p>
 1. Stk, L. 1: „§ 263" 1. „§ 928".
 </p>
-</leftside>
-<rightside>
-<wtitle>Til § 265.</wtitle>
-<p>
+               <milestone type="leftside"
+                          xml:id="endd1e2138"
+                          prev="startd1e2138"
+                          n="2385"
+                          unit="column"/>
+               <milestone type="rightside"
+                          xml:id="startd1e2227"
+                          next="endd1e2227"
+                          n="2386"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 265.</head>
+               <p>
 L. 1: ,,§§ 263 og 264" 1. §§ 928 og 929".
 </p>
-<wtitle>Til § 269.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 269.</head>
+               <p>
 L. 1: „§ 152" 1. „§ 816".
 </p>
-<wtitle>Til § 270.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 270.</head>
+               <p>
 1.	Stk., L. 1: „§ 269" 1. „§ 934".
 </p>
-<p>
+               <p>
 2.	Stk., L. 6: „§ 110" 1. „§ 774".
 </p>
-<p>
+               <p>
 3.	Stk., L. 2: „§ 272" 1. „§ 937".
 </p>
-<wtitle>Til § 272.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 272.</head>
+               <p>
 1. Stk., L. 1: „§ 269" 1. „§ 934".<lb/>
 1. Stk., L. 3: „§ 242" 1. ,,§ 907".
 </p>
-<wtitle>Til § 275.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 275.</head>
+               <p>
 L. 5: „§ 257" 1. „§ 922".
 </p>
-<wtitle>Til § 279.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 279.</head>
+               <p>
 L. 1: „§§ 280 og 281" 1. „§§ 945 og 946".
 </p>
-<wtitle>Til § 285.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 285.</head>
+               <p>
 3. Stk., L. 1: ,,§§ 286—289" 1. „§§ 951<lb/>
 —954".
 </p>
-<wtitle>Til § 286.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 286.</head>
+               <p>
 3. Stk., L. 1: „§ 271" 1. „§ 936".
 </p>
-<p>
+               <p>
 5. Stk., L. 1: „§§ 286—289" 1. „951—954".
 </p>
-<wtitle>Til § 287.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 287.</head>
+               <p>
 3. Stk. L. 3.: „§§ 280 og 281" 1. „§§ 945<lb/>
 og 946".
 </p>
-<wtitle>Til § 293.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 293.</head>
+               <p>
 1.	Stk. L. 4: „§ 280" 1. „945".
 </p>
-<p>
+               <p>
 2.	Stk. L. 2: „§ 297" 1. „§ 962".
 </p>
-<wtitle>Til § 295.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 295.</head>
+               <p>
 2. Stk. L. 6: „§ 297'' 1. „§ 962''.
 </p>
-<wtitle>Til § 296.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 296.</head>
+               <p>
 1. Stk. L. 2: „§293'' 1. „§ 958" og ,.§295"<lb/>
 1. „§ 960".
 </p>
-<p>
+               <p>
 1. Stk. L. 3: „§ 294" 1. ,,§ 959".
 </p>
-<wtitle>Til § 298.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 298.</head>
+               <p>
 L. 3: „§ 301" 1. „§ 966".
 </p>
-<wtitle>Til § 299.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 299.</head>
+               <p>
 1.	Stk. L. 1: „§§ 258, 269 og 272—274"<lb/>
 1. „§ 923, 934 og 937—939".
 </p>
-<p>
+               <p>
 2.	Stk. L. 4: „§§ 274 og 296" 1. „§§ 939<lb/>
 og 961".
 </p>
-</rightside></div><?page  r12_00013_rigsdagtid_b2_1901_02 ?>
-<div type='page-placeholder'><h>
-<coll>2387</coll>
-<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
-<colr>2388</colr>
-</h>
-<leftside>
-<wtitle>Til § 302.</wtitle>
-<p>
+               <milestone type="rightside"
+                          xml:id="endd1e2227"
+                          prev="startd1e2227"
+                          n="2386"
+                          unit="column"/>
+               <pb xml:id="idr12_00013_rigsdagtid_b2_1901_02"
+                   facs="r12_00013_rigsdagtid_b2_1901_02 "
+                   n=""/>
+               <fw type="head" place="top-left">2387</fw>
+               <fw type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw type="head" place="top-right">2388</fw>
+               <milestone type="leftside"
+                          xml:id="startd1e2332"
+                          next="endd1e2332"
+                          n="2387"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 302.</head>
+               <p>
 1. Stk. L. 10: „Kapitel XX.'' 1. „Kapitel<lb/>
 80".
 </p>
-<p>
+               <p>
 1. Stk. L. 12 og 15: „§ 211" 1. „§ 876".
 </p>
-<wtitle>Til § 303.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 303.</head>
+               <p>
 1. Stk. L. 1: „§ 302" 1. ,,§ 967".
 </p>
-<p>
+               <p>
 1. Stk. L. 2: „§ 216" 1. „§ 881".
 </p>
-<p>
+               <p>
 1. Stk. L. 4: „§ 218" 1. „§ 883".
 </p>
-<p>
+               <p>
 3. Stk. L. 3: „Kapitlerne XXI. XXII og<lb/>
 XXIV" 1. „Kapitlerne 81, 82 og 84".
 </p>
-<wtitle>Til § 304.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 304.</head>
+               <p>
 L. 1: „§ 5" 1. „§ 679".<lb/>
 L. 8: „§ 230" 1. „§ 895".
 </p>
-<wtitle>Til § 305.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 305.</head>
+               <p>
 L. 4: „§ 228" 1. „§ 893".
 </p>
-<wtitle>Til § 309.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 309.</head>
+               <p>
 L. 3: „310" 1. „g 975".
 </p>
-<wtitle>Til § 310.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 310.</head>
+               <p>
 1. Stk. L. 2: „§ 228" 1. „§ 893".
 </p>
-<p>
+               <p>
 1.	Stk. L. 5: „§ 157" 1. „§ 815".
 </p>
-<wtitle>Til § 316.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 316.</head>
+               <p>
 2.	Stk. L. 2: „§§ 306 og 307" 1. „S§ 971<lb/>
 og 972".
 </p>
-<wtitle>Til § 317.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 317.</head>
+               <p>
 2. Stk. L. 2: „§ 294" 1. „§ 959".
 </p>
-<wtitle>Til § 319.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 319.</head>
+               <p>
 L. 4: „§ 334" 1. „§ 1000".
 </p>
-<wtitle>Til § 320.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 320.</head>
+               <p>
 1.	Stk. L. 7 og 17: „§ 276" 1. 8 941":<lb/>
 L. 9: „§ 297" 1. „§ 962"; L. 11 : „S 297"<lb/>
 1. „962" og L. 11: „§ 241" 1. „§ 906".
 </p>
-<p>
+               <p>
 2.	Stk. L. 3: „§ 276" 1. „§ 941".
 </p>
-<wtitle>Til § 323.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 323.</head>
+               <p>
 1.	Stk. L. 10: „§ 230" 1. „§ 895".
 </p>
-<p>
+               <p>
 2.	Stk. L. 2: „§ 322" 1. „§ 988".
 </p>
-<wtitle>Til § 324.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 324.</head>
+               <p>
 L. 1: „§§ 322 og 323" 1. „§§ 988 og 989".
 </p>
-<wtitle>Til § 325.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 325.</head>
+               <p>
 L. 2: „§§ 322 og 323" 1. „§§ 988 og 989".
 </p>
-<wtitle>Til § 326.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 326.</head>
+               <p>
 1.	Stk. L. 1: „§§ 322 og 323" 1. „SS 988<lb/>
 og 989".	™
 </p>
-<p>
+               <p>
 2.	Stk. L. 1: „§ 324" 1. § 990".
 </p>
-</leftside>
-<rightside>
-<wtitle>Til § 327.</wtitle>
-<p>
+               <milestone type="leftside"
+                          xml:id="endd1e2332"
+                          prev="startd1e2332"
+                          n="2387"
+                          unit="column"/>
+               <milestone type="rightside"
+                          xml:id="startd1e2433"
+                          next="endd1e2433"
+                          n="2388"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 327.</head>
+               <p>
 1. Stk. L. 2: „§§ 322 og 325" 1. „§§ 988<lb/>
 og 991".
 </p>
-<wtitle>Til § 329.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 329.</head>
+               <p>
 1.	Stk L. 4: „§ 332" 1. „§ 998".
 </p>
-<p>
+               <p>
 2.	Stk. L. 1: „§ 328" 1. „§ 994".
 </p>
-<p>
+               <p>
 2. Stk. L. 3: „§ 230" 1. „§ 895".
 </p>
-<wtitle>Til § 330.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 330.</head>
+               <p>
 2. Stk., L. 3: „Kap. XX." 1. „Kap. 80".
 </p>
-<wtitle>Til § 332.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 332.</head>
+               <p>
 1.	Stk., L. 3: „Kap. VIII." 1. „Kap. 68".
 </p>
-<p>
+               <p>
 2.	Stk., L. 2: „§§ 243 ff." 1. „§§ 908" ff."
 </p>
-<wtitle>Til § 333.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 333.</head>
+               <p>
 2. Stk., L. 2: „§ 325" 1. „§ 991".
 </p>
-<p>
+               <p>
 2. Stk., L. 5: „§ 334" 1. „§ 1000".
 </p>
-<wtitle>Til § 334.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 334.</head>
+               <p>
 1. Stk., L. 3: „§ 333" 1. „§ 999".<lb/>
 1. Stk., L. 4: „§ 320" 1. „§ 986".<lb/>
 1. Stk., L. 6: „§ 335" 1. „§ 1001".
 </p>
-<wtitle>Til § 335.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 335.</head>
+               <p>
 1.	Stk, L. 4: „§ 320" 1. „§ 986".
 </p>
-<wtitle>Til § 337.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 337.</head>
+               <p>
 2.	Stk., L. 7: „§ 96" 1. ;,§ 760".
 </p>
-<p>
+               <p>
 2. Stk, L. 11: „§§ 313—315" 1. „§§ 978<lb/>
 —980" og „§ 315" 1. „§ 980".
 </p>
-<wtitle>Til § 338.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 338.</head>
+               <p>
 1. Stk, L. 1: „§§ 318—326" 1. „§§ 984<lb/>
 —992".
 </p>
-<p>
+               <p>
 1. Stk, L. 4: „§ 323, jfr. § 325" 1. „§ 989,<lb/>
 jfr. § 991".
 </p>
-<p>
+               <p>
 1. Stk.', L. 20: „§ 337" 1. „§ 1003".
 </p>
-<wtitle>Til § 339.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 339.</head>
+               <p>
 L. 2: „§ 230" 1. „§ 895".
 </p>
-<p>
+               <p>
 L. 3: „§ 328" 1. „§ 994" og „§ 337" 1.<lb/>
 „§ 1003".
 </p>
-<wtitle>Til § 340.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 340.</head>
+               <p>
 1. Stk, L. 2: „§ 327" 1. „§ 993".
 </p>
-<p>
+               <p>
 1. Stk, L. 4: „§§ 329—331 og 333—336"<lb/>
 1. „§§ 995—997 og 999—1002".
 </p>
-<p>
+               <p>
 1.	Stk, L. 5: „§ 330" 1. „§ 996".
 </p>
-<p>
+               <p>
 2.	Stk, L, 2: „Kap. XXII." 1. „Kap. 82".
 </p>
-<p>
+               <p>
 3.	Stk, L. 2: „§ 40" 1. „§ 704".
 </p>
-</rightside></div><?page  r12_00014_rigsdagtid_b2_1901_02 ?>
-<div type='page-placeholder'><h>
-<coll>2389</coll>
-<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
-<colr>2390</colr>
-</h>
-<leftside>
-<wtitle>Til § 341.</wtitle>
-<p>
+               <milestone type="rightside"
+                          xml:id="endd1e2433"
+                          prev="startd1e2433"
+                          n="2388"
+                          unit="column"/>
+               <pb xml:id="idr12_00014_rigsdagtid_b2_1901_02"
+                   facs="r12_00014_rigsdagtid_b2_1901_02 "
+                   n=""/>
+               <fw type="head" place="top-left">2389</fw>
+               <fw type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw type="head" place="top-right">2390</fw>
+               <milestone type="leftside"
+                          xml:id="startd1e2543"
+                          next="endd1e2543"
+                          n="2389"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 341.</head>
+               <p>
 1. Stk., L. 3: „Kap. XXI., XXII. og<lb/>
 XXIV." 1. „Kap. 81, 82 og 84".
 </p>
-<wtitle>Til § 342.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 342.</head>
+               <p>
 1.	Stk., L. 2: „§ 216" 1. „§ 881".
 </p>
-<p>
+               <p>
 2.	Stk., L. 1: „§ 322" 1. „§ 988".
 </p>
-<wtitle>Til § 343.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 343.</head>
+               <p>
 1.	Stk., L. 1: „§ 219" 1. „§ 884" og „8 220"<lb/>
 1. „§ 885".
 </p>
-<p>
+               <p>
 2.	Stk., L. 2: „§ 228" 1. „§ 893".
 </p>
-<wtitle>Til § 344.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 344.</head>
+               <p>
 2. Stk., L. 5: „§ 248" 1. „§ 913".
 </p>
-<wtitle>Til § 345.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 345.</head>
+               <p>
 1. Stk, L. 2: „§ 96" 1. „§ 760".
 </p>
-<p>
+               <p>
 1.	Stk, L. 5 og 7: „8 337" 1. „8 1003",<lb/>
 „§ 338" 1. „§ 1004".
 </p>
-<p>
+               <p>
 2.	Stk, L. 1: „Kap. XXVII" 1. „Kap. 88".
 </p>
-<wtitle>Til § 346.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 346.</head>
+               <p>
 1. Stk, L. 3: ,,§§ 317 og 337" 1. „88 983<lb/>
 og 1003".
 </p>
-<p>
+               <p>
 1. Stk, L. 6 og 7: ,,§ 401" 1. ,,§ 1067" og<lb/>
 ,,§ 404" 1. „§ 1070".
 </p>
-<p>
+               <p>
 3.	Stk., L. 1: ,,§ 345" 1. ,,§ 1011".
 </p>
-<wtitle>Til § 347.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 347.</head>
+               <p>
 1.	Stk., L. 2: „§ 324" 1. „§ 990".
 </p>
-<wtitle>Til § 348.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 348.</head>
+               <p>
 2.	Stk, L. 4: „§ 230" 1. „§ 895".
 </p>
-<p>
+               <p>
 2. Stk, L. 6: „§ 318" 1. „§ 984".
 </p>
-<wtitle>Til § 349.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 349.</head>
+               <p>
 1. Stk, L. 1—2: „§ 95, 8 106 eller § 127"<lb/>
 1. „§ 759, § 770 eller § 791".
 </p>
-<wtitle>Til § 350.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 350.</head>
+               <p>
 1. Stk, L. 4: „§ 330, jfr. § 340" 1. „§996,<lb/>
 jfr. § 1006". 
 </p>
-<wtitle>Til § 351.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 351.</head>
+               <p>
 1.	Stk, L. 2: „§ 96" 1. ,,§ 760".
 </p>
-<p>
+               <p>
 2.	Stk, L. 1: „§ 328" 1. „§ 994".
 </p>
-<wtitle>Til § 353.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 353.</head>
+               <p>
 L. 2 og 8: ,.§ 211" 1. „§ 876".<lb/>
 L. 3: ,,§ 212" 1. ,.§ 877".<lb/>
 L. 5: ,,§ 354" 1. „§ 1020".<lb/>
 L. 7: „§ 203" 1. „§ 868".
 </p>
-</leftside>
-<rightside>
-<wtitle>Til § 355.</wtitle>
-<p>
+               <milestone type="leftside"
+                          xml:id="endd1e2543"
+                          prev="startd1e2543"
+                          n="2389"
+                          unit="column"/>
+               <milestone type="rightside"
+                          xml:id="startd1e2643"
+                          next="endd1e2643"
+                          n="2390"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 355.</head>
+               <p>
 1.	Stk, L. 6: „§ 354" 1. „§ 1020".
 </p>
-<p>
+               <p>
 2.	Stk, L. 1: „§ 318" 1. „§ 984".
 </p>
-<wtitle>Til § 357.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 357.</head>
+               <p>
 2. Stk, L. 3: „§ 230" 1. „§ 895".
 </p>
-<p>
+               <p>
 2. Stk.. L. 5: ,,§ 354 jfr. §355" 1. „81020<lb/>
 jfr. § 1021".' '
 </p>
-<wtitle>Til § 359.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 359.</head>
+               <p>
 1.	Stk, L. 6: „Kap. XX" 1. „Kap. 80".
 </p>
-<p>
+               <p>
 2.	Stk, L. 2: ,.§ 354 jfr. § 355" 1. „81020<lb/>
 jfr. § 1021".
 </p>
-<wtitle>Til § 361.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 361.</head>
+               <p>
 L. 4: „§ 6" 1. „§ 670".
 </p>
-<wtitle>Til § 362.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 362.</head>
+               <p>
 L. 2: „§ 318" 1. „§ 984".
 </p>
-<wtitle>Til § 363.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 363.</head>
+               <p>
 L. 3: „§ 96" 1. „§ 760".
 </p>
-<wtitle>Til § 364.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 364.</head>
+               <p>
 L. 3: „§ 354" 1. „§ 1020".<lb/>
 L. 4: „§ 355" 1. „§ 1021".
 </p>
-<wtitle>Til § 365.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 365.</head>
+               <p>
 L. 1: „§ 234" 1. „§ 899".
 </p>
-<p>
+               <p>
 L. 3: „Kapitel XXVIII" 1. „Kapitel 89".
 </p>
-<p>
+               <p>
 L. 7: „§ 323 jfr. § 324" 1. „§ 989 jfr.<lb/>
 § 990".
 </p>
-<p>
+               <p>
 L. 8: „§§ 357—360 og 363" 1. „§§ 1023—<lb/>
 1026 og 1029".
 </p>
-<wtitle>Til § 366.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 366.</head>
+               <p>
 1. Stk., L. 1: „§ 34" 1. „§ 698".
 </p>
-<p>
+               <p>
 1. Stk.. L. 4: „Kapitlerne XXVI. og XXVII.<lb/>
 —XXIX." 1. „Kapitlerne 86 og 88—90";<lb/>
 „§ 309" 1. „§ '974".
 </p>
-<wtitle>Til § 367.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 367.</head>
+               <p>
 1. og 2. Stk., L. 1: „§ 36" 1. „§ 700".
 </p>
-<p>
+               <p>
 1.	Stk., L. 4: „Kap. XX—XXIX" 1. „Kap.<lb/>
 80—90".
 </p>
-<wtitle>Til § 368.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 368.</head>
+               <p>
 3. Stk., L. 3: „Kap. XXI." 1. „Kap. 81".
 </p>
-<wtitle>Til § 369.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 369.</head>
+               <p>
 2.	Stk, L. 5: „§ 216" 1. „§ 881".
 </p>
-<p>
+               <p>
 3.	Stk, L. 1 : „§ 368" 1. „§ 1034".
 </p>
-<p>
+               <p>
 4.	Stk, L. 4: „§ 399" 1. „§ 1065".
 </p>
-</rightside></div><?page  r12_00015_rigsdagtid_b2_1901_02 ?>
-<div type='page-placeholder'><h>
-<coll>2391</coll>
-<topmidle>Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
-<colr>2392</colr>
-</h>
-<leftside>
-<wtitle>Til § 373.</wtitle>
-<p>
+               <milestone type="rightside"
+                          xml:id="endd1e2643"
+                          prev="startd1e2643"
+                          n="2390"
+                          unit="column"/>
+               <pb xml:id="idr12_00015_rigsdagtid_b2_1901_02"
+                   facs="r12_00015_rigsdagtid_b2_1901_02 "
+                   n=""/>
+               <fw type="head" place="top-left">2391</fw>
+               <fw type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw type="head" place="top-right">2392</fw>
+               <milestone type="leftside"
+                          xml:id="startd1e2753"
+                          next="endd1e2753"
+                          n="2391"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 373.</head>
+               <p>
 1. Stk., L. 1: „§§ 341 ff." 1. „§ 1007 ff.".
 </p>
-<p>
+               <p>
 1. Stk., L. 3: „§ 337" 1. „§ 1003".
 </p>
-<p>
+               <p>
 3. Stk., L. 2: „Kap. XXVII, og XXVIII."<lb/>
 1. „Kap. 88. og 89".
 </p>
-<wtitle>Til § 374.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 374.</head>
+               <p>
 1. Stk, L. 2: „S 36" 1. „§ 700".
 </p>
-<wtitle>Til § 375.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 375.</head>
+               <p>
 1.	og 2. Stk, L. 2: „§ 36" 1. „§ 700".
 </p>
-<p>
+               <p>
 2.	Stk, L. 4: „§ 373" 1. „§ 1039".<lb/>
 2. Stk, L. 6: „§ 354" 1. „§ 1020".
 </p>
-<wtitle>Til § 376.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 376.</head>
+               <p>
 1. Stk, L. 5: Kap. XXVIII, jfr. Kap.<lb/>
 XXVII." 1. „Kap. 89 jfr. Kap. 88".
 </p>
-<p>
+               <p>
 1.	Stk, L. 9: „§ 374" 1. „§ 1040".
 </p>
-<p>
+               <p>
 2.	Stk, L. 3: ,,§ 283" 1. „§ 401-'; „§ 345"<lb/>
 1. „§ 1011". '
 </p>
-<p>
+               <p>
 3.	Stk, L. 2: „§ 371" 1. „§ 1037".
 </p>
-<wtitle>Til § 377.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 377.</head>
+               <p>
 1.	Stk., L. 1: „§ 302" 1. „§ 967".
 </p>
-<p>
+               <p>
 3. Stk.. L. 3: ,.§§ 219 og 221" 1. „§§ 884<lb/>
 og 886".
 </p>
-<wtitle>Til § 378.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 378.</head>
+               <p>
 2.	Stk, L. 2: „§ 377" 1. „§ 1043".
 </p>
-<wtitle>Til § 382.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 382.</head>
+               <p>
 2. Stk, L. 2: „§ 378" 1. „§ 1044".
 </p>
-<p>
+               <p>
 2. Stk., L. 3: „§ 379" 1. „§ 1045".
 </p>
-<wtitle>Til § 385.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 385.</head>
+               <p>
 1. Stk, L. 7: „§§ 341 ff." 1. „§§ 1007 ff.".
 </p>
-</leftside>
-<rightside>
-<wtitle>Til § 386.</wtitle>
-<p>
+               <milestone type="leftside"
+                          xml:id="endd1e2753"
+                          prev="startd1e2753"
+                          n="2391"
+                          unit="column"/>
+               <milestone type="rightside"
+                          xml:id="startd1e2823"
+                          next="endd1e2823"
+                          n="2392"
+                          unit="column"/>
+            </div>
+            <div>
+               <head>Til § 386.</head>
+               <p>
 2. Stk, L. 2: „§ 323" 1. ,,§ 989".
 </p>
-<wtitle>Til § 389.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 389.</head>
+               <p>
 1. Stk, L. 5: „§§ 341 ff." 1. „§§ 1007 ff.".
 </p>
-<p>
+               <p>
 1.	Stk, L. 7: „Kap. XVIII" 1. „Kap. 78".
 </p>
-<p>
+               <p>
 2.	Stk, L. 3: „Kap. XVIII" 1. „Kap. 78".
 </p>
-<p>
+               <p>
 2. Stk, L. 5: „§ 182" 1. ,,§ 847".
 </p>
-<wtitle>Til § 393.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 393.</head>
+               <p>
 2. Stk, L. 1: „§ 106 jfr. § 127" 1. „8 770<lb/>
 jfr. § 791".
 </p>
-<p>
+               <p>
 2.	Stk, L. 3: „§ 106" 1. „§ 770".
 </p>
-<p>
+               <p>
 3.	Stk, L. 1: „§ 129" 1. ,,§ 793".
 </p>
-<wtitle>Til § 395.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 395.</head>
+               <p>
 2.	Stk, L. 3: „§ 397" 1. „§ 1063".
 </p>
-<p>
+               <p>
 3.	Stk, L. 5: „§ 318" 1. „§ 984".
 </p>
-<wtitle>Til § 398.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 398.</head>
+               <p>
 1. Stk, L. 3: „§ 106" 1. „§ 770".
 </p>
-<wtitle>Til § 399.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 399.</head>
+               <p>
 1. Stk, L. 1: „§ 36" 1. „§ 700".
 </p>
-<p>
+               <p>
 1. Stk, L. 2: „§ 394" 1. „§ 1060".
 </p>
-<wtitle>Til § 402.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 402.</head>
+               <p>
 L. 3: „Kap. XII" 1. „Kap. 72".
 </p>
-<wtitle>Til § 410.</wtitle>
-<p>
+            </div>
+            <div>
+               <head>Til § 410.</head>
+               <p>
 L. 2: „§ 409" 1. „§ 1073".<lb/>
 L. 3: „§ 318" 1. „§ 984".<lb/>
 L. 5: „Kap. XXX" 1. „Kap. 91".
 </p>
-</rightside>
-<signatur>
-<p>
+               <milestone type="rightside"
+                          xml:id="endd1e2823"
+                          prev="startd1e2823"
+                          n="2392"
+                          unit="column"/>
+               <signatur>
+                  <p>
 Rettelser.
 </p>
-<p>
+                  <p>
 Sp. 2198, Linie 5 f. o, „Nr. 36" ændres til: „Nr. 45".
 </p>
-<p>
+                  <p>
 —	2333, 3die Stk, Linie 1, „Ændringsforslaget til § 2" ændres til: „Ændringsforslaget under Nr. 536".
 </p>
-<p>
+                  <p>
 —	2360, over Ændringsforslag Nr. 655 til § 410 skal staa: „Af Udvalgets Flertal".
 </p>
-</signatur></div></TEI>
+               </signatur>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

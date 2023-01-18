@@ -1,2386 +1,2764 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root"><?page  r06_00001_proceskom_1892_1 ?>
-<div type='page-placeholder'>
-<title>Udkast til Lov
-</title>
-<p>om</p>
-<undertitle>Domsmagtens, den offentlige Anklagemyndigheds,<lb />
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:t="http://www.tei-c.org/ns/1.0"
+     xml:id="root">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proceskommissionen af 1892. Offentliggjort 1899</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Proceskommissionen af 1892. Offentliggjort 1899</title>
+               <date>1899</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <div>
+               <head/>
+               <pb xml:id="idr06_00001_proceskom_1892_1"
+                   facs="r06_00001_proceskom_1892_1 "
+                   n="1&#xA;"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+               <p>om</p>
+            </div>
+            <div>
+               <head>Domsmagtens, den offentlige Anklagemyndigheds,<lb/>
 Bolitimyndighedens samt Sag Sagførervæsnets Ordning.
-</undertitle>
-<p>(Udarbejdet af den ved allerhojeste Reskript af 11te Maj 1892 nedsatte
-<lb />Proceskommission).
+</head>
+               <p>(Udarbejdet af den ved allerhojeste Reskript af 11te Maj 1892 nedsatte
+<lb/>Proceskommission).
 </p>
-<undertitle>Kjøbenhavn.
-<lb />Trykt hos I.h. Sdjultz.<lb />
+            </div>
+            <div>
+               <head>Kjøbenhavn.
+<lb/>Trykt hos I.h. Sdjultz.<lb/>
 1899.
-</undertitle></div><?page  r06_00002_proceskom_1892_1 ?>
-<div type='page-placeholder'>
-<title>Indholdsoversigt.
-</title>
-<title>Første Afsnit.
-</title>
-<undertitle>Domstolenes Ordning.</undertitle>
-<p>Kapitel I.</p>
-<p>Retterne (§§ 1—27)	   S. 1—11.
+</head>
+               <pb xml:id="idr06_00002_proceskom_1892_1"
+                   facs="r06_00002_proceskom_1892_1 "
+                   n="1&#xA;"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Domstolenes Ordning.</head>
+               <p>Kapitel I.</p>
+               <p>Retterne (§§ 1—27)	   S. 1—11.
 </p>
-<p>Kapitel II.</p>
-<p>
+               <p>Kapitel II.</p>
+               <p>
 Dommere, Retsskrivere, Retsbude m. m. (§§ 23—44)	   S. 11—16.
 </p>
-<title>Andet Afsnit.
-</title>
-<undertitle>Nævningers Kaldelse.</undertitle>
-<p>Kapitel III.</p>
-<p>Almindelige Bestemmelser (§§ 45—49)	   S.  17—18.
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Nævningers Kaldelse.</head>
+               <p>Kapitel III.</p>
+               <p>Almindelige Bestemmelser (§§ 45—49)	   S.  17—18.
 </p>
-<p>Kapitel IV.<lb />
+               <p>Kapitel IV.<lb/>
 Grundlister (§§ 50—54)	   S. 18—20.
 </p>
-<p>Kapitel V.</p>
-<p>Nævningekredsens Aarsliste (§§ 55—59)  	   S. 21—22.
+               <p>Kapitel V.</p>
+               <p>Nævningekredsens Aarsliste (§§ 55—59)  	   S. 21—22.
 </p>
-<p>Kapitel VI.</p>
-<p>Nævninger for det enkelte Ting (§§ 60—75)	   S. 22-28.
+               <p>Kapitel VI.</p>
+               <p>Nævninger for det enkelte Ting (§§ 60—75)	   S. 22-28.
 </p>
-<title>Tredie Afsnit.
-</title>
-<undertitle>Anklagemyndigheden.</undertitle>
-<p>Kapitel VII.
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Anklagemyndigheden.</head>
+               <p>Kapitel VII.
 </p>
-<p>(§§  76—84)	   S.  28 — 30.
+               <p>(§§  76—84)	   S.  28 — 30.
 </p>
-<title>Fjerde Afsnit.
-</title>
-<undertitle>Politimyndigheden.</undertitle>
-<p>Kapitel VIII.
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Politimyndigheden.</head>
+               <p>Kapitel VIII.
 </p>
-<p>(§§  85—91)	   S.   30—32.
+               <p>(§§  85—91)	   S.   30—32.
 </p>
-<title>Femte Afsnit.
-</title>
-<undertitle>Sagførere.</undertitle>
-<p>Kapitel IX.</p>
-<p>Sagføreres Bestikkelse og Adgang til at benytte Fuldmægtig m. m. (§§ 92 — 104).   S. 33—37.
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Sagførere.</head>
+               <p>Kapitel IX.</p>
+               <p>Sagføreres Bestikkelse og Adgang til at benytte Fuldmægtig m. m. (§§ 92 — 104).   S. 33—37.
 </p>
-<p>Kapitel X.</p>
-<p>Sagføreres Rettigheder og Pligter (§§ 105 —110)	   S. 38—39.
+               <p>Kapitel X.</p>
+               <p>Sagføreres Rettigheder og Pligter (§§ 105 —110)	   S. 38—39.
 </p>
-<p>Kapitel XI.
+               <p>Kapitel XI.
 </p>
-<p>Ophør af Netten til Sagførervikfomhed (§§ 111—112)  	   S. 39—40.
+               <p>Ophør af Netten til Sagførervikfomhed (§§ 111—112)  	   S. 39—40.
 </p>
-<title>Sjette Afsnit.
-</title>
-<undertitle>Lovens Træden i Kraft, Overgangsbestemmelser.</undertitle>
-<p>Kapitel XII.</p>
-<p>(§§  113—121)	   S.  40—43.
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Lovens Træden i Kraft, Overgangsbestemmelser.</head>
+               <p>Kapitel XII.</p>
+               <p>(§§  113—121)	   S.  40—43.
 </p>
-<p>Furtsdiktionsliste 	   S. 43—46,
-</p></div><?page  r06_00003_proceskom_1892_1 ?>
-<div type='page-placeholder'><title>Første Afsnit
-</title>
-<undertitle>Domstolenes Ordning.
-</undertitle>
-<title>Kap. I.
-</title>
-<undertitle>Retterne.
-</undertitle>
-<wtitle>§ 1.</wtitle>
-<p>
+               <p>Furtsdiktionsliste 	   S. 43—46,
+</p>
+               <pb xml:id="idr06_00003_proceskom_1892_1"
+                   facs="r06_00003_proceskom_1892_1 "
+                   n="1&#xA;"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Domstolenes Ordning.
+</head>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Retterne.
+</head>
+            </div>
+            <div>
+               <head>§ 1.</head>
+               <p>
 Rigets almindelige Domstole ere højeste
 </p>
-<p>ret, Landsretterne og Underretterne (Kjøbenhavns Stadsret samt By- og Herredsretterne).
+               <p>ret, Landsretterne og Underretterne (Kjøbenhavns Stadsret samt By- og Herredsretterne).
 </p>
-<p>Rigsretten, Sessionerne, de gejstlige<lb />
-og militære Retter omfattes ikke af denne<lb />
-Lov. Det samme gælder om Landvæsenskommissioner og andre Myndigheder, som<lb />
-afgøre eller medvirke ved Afgørelsen af<lb />
-Anliggender, der ikke høre under nogen af<lb />
+               <p>Rigsretten, Sessionerne, de gejstlige<lb/>
+og militære Retter omfattes ikke af denne<lb/>
+Lov. Det samme gælder om Landvæsenskommissioner og andre Myndigheder, som<lb/>
+afgøre eller medvirke ved Afgørelsen af<lb/>
+Anliggender, der ikke høre under nogen af<lb/>
 de i denne Paragraf nævnte Retter.
 </p>
-<wtitle>§ 2.</wtitle>
-<p>Højesteret er, overensstemmende med<lb />
-Lovene om Retsplejen, øverste Domstol<lb />
-for hele Riget. Den har sit Sæde i<lb />
-Kjøbenhavn og bestaar af en Iustitiariusi<lb />
-12 andre ordentlige og indtil 12 overordentlige Højesteretsdommere. Til at træde i,<lb />
-Iustitiarii Sted i paakommende Tilfælde<lb />
-beskikker Kongen en af Rettens ordentlige<lb />
+            </div>
+            <div>
+               <head>§ 2.</head>
+               <p>Højesteret er, overensstemmende med<lb/>
+Lovene om Retsplejen, øverste Domstol<lb/>
+for hele Riget. Den har sit Sæde i<lb/>
+Kjøbenhavn og bestaar af en Iustitiariusi<lb/>
+12 andre ordentlige og indtil 12 overordentlige Højesteretsdommere. Til at træde i,<lb/>
+Iustitiarii Sted i paakommende Tilfælde<lb/>
+beskikker Kongen en af Rettens ordentlige<lb/>
 Dommere.
 </p>
-<p>I hver Sags Afgørelse ved Højesteret<lb />
-deltage, forsaavidt ikke andet særlig er bestemt, mindst 7 Dommere. Haves i nogen<lb />
-Sag ikke det fornødne Antal af Rettens<lb />
-ordentlige Dommere til Raadighed, kalder<lb />
-Iuftitiarius en eller flere overordentlige<lb />
+               <p>I hver Sags Afgørelse ved Højesteret<lb/>
+deltage, forsaavidt ikke andet særlig er bestemt, mindst 7 Dommere. Haves i nogen<lb/>
+Sag ikke det fornødne Antal af Rettens<lb/>
+ordentlige Dommere til Raadighed, kalder<lb/>
+Iuftitiarius en eller flere overordentlige<lb/>
 Dommere til at deltage i Sagens Behandling.
 </p>
-<pagename>1
-</pagename></div><?page  r06_00004_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<wtitle>§ 3.
-</wtitle>
-<p>Skriverforretningerne ved Højesteret<lb />
-samt Oppebørsel af og Regnskabsaflæggelse<lb />
-for Retsasgifter forestaas af en Justitssekretær. Ved Skriverkontoret ansættes 3<lb />
-Fuldmægtige og det øvrige fornødne Kontorpersonale. Højesterets Iustitiarius træffer<lb />
+               <pb xml:id="idr06_00004_proceskom_1892_1"
+                   facs="r06_00004_proceskom_1892_1 "
+                   n="9&#xA;"/>
+            </div>
+            <div>
+               <head>§ 3.
+</head>
+               <p>Skriverforretningerne ved Højesteret<lb/>
+samt Oppebørsel af og Regnskabsaflæggelse<lb/>
+for Retsasgifter forestaas af en Justitssekretær. Ved Skriverkontoret ansættes 3<lb/>
+Fuldmægtige og det øvrige fornødne Kontorpersonale. Højesterets Iustitiarius træffer<lb/>
 Bestemmelse om Forretningernes Fordeling.
 </p>
-<wtitle>§ 4.
-</wtitle>
-<p>Højesteret holder Møde til de samme<lb />
-Tider, som hidtil har været brugeligt; men<lb />
-Retten kan bestemme saadanne Forandringer<lb />
-heri, som- den maatte anse for hensigtsmæssige, hvorom det Fornødne bliver at<lb />
+            </div>
+            <div>
+               <head>§ 4.
+</head>
+               <p>Højesteret holder Møde til de samme<lb/>
+Tider, som hidtil har været brugeligt; men<lb/>
+Retten kan bestemme saadanne Forandringer<lb/>
+heri, som- den maatte anse for hensigtsmæssige, hvorom det Fornødne bliver at<lb/>
 bekendtgøre i Lovtidende.
 </p>
-<p>Beslutninger af Netten, som gaa ud<lb />
+               <p>Beslutninger af Netten, som gaa ud<lb/>
 paa i Henhold til Lovene om den borgerlige Retspleje og Strafferetsplejen at tilstede Afvigelser fra de almindelige processuelle Regler, ere ikke bundne til de foreskrevne eller, vedtagne Mødetider.
 </p>
-<wtitle>§ 5.
-</wtitle>
-<p>Riget inddeles i 2 Landsretskredse,<lb />
-den sjællandske, der omfatter Kjøbenhavn,<lb />
-Sjællands, Maribo og Bornholms Amter<lb />
-og den jydsk-fynske, der omfatter de jydste og<lb />
+            </div>
+            <div>
+               <head>§ 5.
+</head>
+               <p>Riget inddeles i 2 Landsretskredse,<lb/>
+den sjællandske, der omfatter Kjøbenhavn,<lb/>
+Sjællands, Maribo og Bornholms Amter<lb/>
+og den jydsk-fynske, der omfatter de jydste og<lb/>
 synste Amter.
 </p>
-<p>Den sjællandske Landsret, der har sit<lb />
-Sæde i Kjøbenhavn, bestaar af en Iustitiarius og 15 andre Landsdommere, og<lb />
-den jydsk-fynske Landsret, der har sit Sæde<lb />
-i Aarhus, as en Iustitiarius og 12 andre<lb />
+               <p>Den sjællandske Landsret, der har sit<lb/>
+Sæde i Kjøbenhavn, bestaar af en Iustitiarius og 15 andre Landsdommere, og<lb/>
+den jydsk-fynske Landsret, der har sit Sæde<lb/>
+i Aarhus, as en Iustitiarius og 12 andre<lb/>
 Landsdommere.
 </p>
-<p>I Iustitiarii Forfald troeder i fornødent Fald det ældste tilstedeværende<lb />
+               <p>I Iustitiarii Forfald troeder i fornødent Fald det ældste tilstedeværende<lb/>
 ordentlige Medlem af Retten i hans Sted.
 </p>
-<p>Til i Stedet for en Landsdommer at<lb />
-tiltræde Landsretten, naar denne i Medfør<lb />
-af § 12 holder Møde udenfor dens Hovedtingsted, kan Justitsministeren for hvert<lb />
+               <p>Til i Stedet for en Landsdommer at<lb/>
+tiltræde Landsretten, naar denne i Medfør<lb/>
+af § 12 holder Møde udenfor dens Hovedtingsted, kan Justitsministeren for hvert<lb/>
 enkelt Ting bestikke en af de i Landsretskredsen ansatte Underretsdommere.
 </p>
-<wtitle>§ 6.
-</wtitle>
-<p>Landsretternes Domsmyndighed omsatterdels Behandling og Paakendelse i første<lb />
+            </div>
+            <div>
+               <head>§ 6.
+</head>
+               <p>Landsretternes Domsmyndighed omsatterdels Behandling og Paakendelse i første<lb/>
 Instans af Retssager i det Omfang, som be-
 </p>
-</rightside></div><?page  r06_00005_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<p>stemmes ved Lovene om den borgerlige Retspleje og Strafferetsplejen, dels Prøvelse i anden Instans af Underretternes Behandlinger<lb />
-og Afgørelser overensstemmende med de nævnte<lb />
-Love. Endvidere kan Kære rejses for Landsretten over Underrettens Afgørelser vedrorende de i § 16 a, c, d og f ommeldte<lb />
+               <pb xml:id="idr06_00005_proceskom_1892_1"
+                   facs="r06_00005_proceskom_1892_1 "
+                   n="9&#xA;"/>
+               <p>stemmes ved Lovene om den borgerlige Retspleje og Strafferetsplejen, dels Prøvelse i anden Instans af Underretternes Behandlinger<lb/>
+og Afgørelser overensstemmende med de nævnte<lb/>
+Love. Endvidere kan Kære rejses for Landsretten over Underrettens Afgørelser vedrorende de i § 16 a, c, d og f ommeldte<lb/>
 Forhold.
 </p>
-<wtitle>§ 7.
-</wtitle>
-<p>Hvor ikke andet er særlig bestemt i<lb />
-Lovene om Retsplejen eller i denne Lov,<lb />
-deltage i de enkelte Landretssagers Behandling mindst 3 af Rettens Dommere. Sagernes<lb />
-Fordeling mellem Dommerne bestemmes af<lb />
-Iustitiarius efter Forhandling med Rettens<lb />
+            </div>
+            <div>
+               <head>§ 7.
+</head>
+               <p>Hvor ikke andet er særlig bestemt i<lb/>
+Lovene om Retsplejen eller i denne Lov,<lb/>
+deltage i de enkelte Landretssagers Behandling mindst 3 af Rettens Dommere. Sagernes<lb/>
+Fordeling mellem Dommerne bestemmes af<lb/>
+Iustitiarius efter Forhandling med Rettens<lb/>
 Medlemmer.
 </p>
-<wtitle>§ 8.
-</wtitle>
-<p>I de Sager, som indbringes for Landsretten i Medfør af Lov om Strafferetsplejen, beklædes Formandspladsen af en af<lb />
-Kongen blandt Rettens Medlemmer dertil<lb />
-for et Tidsrum af 5 Aar ad Gangen bestikket<lb />
-Formand. Ved hver Landsret kan beskikkes<lb />
+            </div>
+            <div>
+               <head>§ 8.
+</head>
+               <p>I de Sager, som indbringes for Landsretten i Medfør af Lov om Strafferetsplejen, beklædes Formandspladsen af en af<lb/>
+Kongen blandt Rettens Medlemmer dertil<lb/>
+for et Tidsrum af 5 Aar ad Gangen bestikket<lb/>
+Formand. Ved hver Landsret kan beskikkes<lb/>
 3 saadanne Formænd.
 </p>
-<wtitle>§ 9.
-</wtitle>
-<p>I Sø og Handelssager dannes den sjællandske Landsret af en blandt Rettens Dommere for 5 Aar ad Gangen af Kongen bestikket Formand og 4 sø- eller handelskyndige<lb />
-Dommere; dog kan Retten beklædes af Formanden alene, naar der ikke er Spørgsmaal<lb />
-om Vidneførsel, Syn og Skøn, Afhøring af<lb />
-Parter, Pars Ed, Kendelse om omtvistede<lb />
-Punkter eller Domsforhandling. Naar Søforklaringer skulle optages for Landsretten<lb />
-(jfr. § 188 i Lov om den borgerlige Retspleje) dannes Netten af Formanden og to<lb />
+            </div>
+            <div>
+               <head>§ 9.
+</head>
+               <p>I Sø og Handelssager dannes den sjællandske Landsret af en blandt Rettens Dommere for 5 Aar ad Gangen af Kongen bestikket Formand og 4 sø- eller handelskyndige<lb/>
+Dommere; dog kan Retten beklædes af Formanden alene, naar der ikke er Spørgsmaal<lb/>
+om Vidneførsel, Syn og Skøn, Afhøring af<lb/>
+Parter, Pars Ed, Kendelse om omtvistede<lb/>
+Punkter eller Domsforhandling. Naar Søforklaringer skulle optages for Landsretten<lb/>
+(jfr. § 188 i Lov om den borgerlige Retspleje) dannes Netten af Formanden og to<lb/>
 Myndige Medlemmer.
 </p>
-<p>De so- og handelskyndige Medlemmer<lb />
-vælges paa den i Lov 19. Februar 1861<lb />
-§ 3 angivne Maade og skulle have de i<lb />
-samme Lovs § 4 nævnte Egenskaber, ligesom<lb />
-Bestemmelserne i bemeldte Lovs § 6 og 7<lb />
-skulle gælde for dem, Deres samlede Antal<lb />
-og det i øvrigt fornødne fastsættes ved kgl.<lb />
+               <p>De so- og handelskyndige Medlemmer<lb/>
+vælges paa den i Lov 19. Februar 1861<lb/>
+§ 3 angivne Maade og skulle have de i<lb/>
+samme Lovs § 4 nævnte Egenskaber, ligesom<lb/>
+Bestemmelserne i bemeldte Lovs § 6 og 7<lb/>
+skulle gælde for dem, Deres samlede Antal<lb/>
+og det i øvrigt fornødne fastsættes ved kgl.<lb/>
 Anordning.
 </p>
-</leftside></div><?page  r06_00006_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<p>Ved So- og Handelssager forstaas i<lb />
-denne Lov de borgerlige Sager, i hvilke<lb />
-Fagkendstab henholdsvis til Søforhold og<lb />
-til Handelsforhold skønnes at være af Betydning; og ved Afgørelsen heraf vil der<lb />
-være at tage særligt Hensyn til, om begge<lb />
+               <pb xml:id="idr06_00006_proceskom_1892_1"
+                   facs="r06_00006_proceskom_1892_1 "
+                   n="9&#xA;"/>
+               <p>Ved So- og Handelssager forstaas i<lb/>
+denne Lov de borgerlige Sager, i hvilke<lb/>
+Fagkendstab henholdsvis til Søforhold og<lb/>
+til Handelsforhold skønnes at være af Betydning; og ved Afgørelsen heraf vil der<lb/>
+være at tage særligt Hensyn til, om begge<lb/>
 Parter ønske Behandling af Sagen som Sveller Handelssag.
 </p>
-<p>Ved kgl. Anordning kan det bestemmes,<lb />
-at den jydsk-fynske Landsret i Handels- og<lb />
-Søsager dannes paa samme Maade som<lb />
+               <p>Ved kgl. Anordning kan det bestemmes,<lb/>
+at den jydsk-fynske Landsret i Handels- og<lb/>
+Søsager dannes paa samme Maade som<lb/>
 ovenfor bestemt med Hensyn til den sjællandske Ret.
 </p>
-<wtitle>§ 10.
-</wtitle>
-<p>Er Formanden forhindret fra at fungere<lb />
-i nogen af de i de to foregaaende Paragraffer<lb />
-omhandlede Sager, kan Landsrettens Iustitiarius enten selv overtage dennes Hverv eller<lb />
-overdrage det til en anden af Rettens Dommere. I andre Sager beklædes Formands-pladsen af Nettens Iustitiarius eller, naar<lb />
-han ikke deltager i Behandlingen, af den<lb />
-efter Tjenestealder ældste af de 3 Dommere,<lb />
+            </div>
+            <div>
+               <head>§ 10.
+</head>
+               <p>Er Formanden forhindret fra at fungere<lb/>
+i nogen af de i de to foregaaende Paragraffer<lb/>
+omhandlede Sager, kan Landsrettens Iustitiarius enten selv overtage dennes Hverv eller<lb/>
+overdrage det til en anden af Rettens Dommere. I andre Sager beklædes Formands-pladsen af Nettens Iustitiarius eller, naar<lb/>
+han ikke deltager i Behandlingen, af den<lb/>
+efter Tjenestealder ældste af de 3 Dommere,<lb/>
 af hvem Retten dannes.
 </p>
-<wtitle>§ 11.
-</wtitle>
-<p>Oppebørsel af og Regnskabsaflæggelse<lb />
-for Retsafgifter forestaas ved hver Landsret af en Justitssekretær, der tillige er Retsskriver. Desuden ansættes der ved Landsretterne, foruden det i øvrigt fornødne<lb />
-Kontorpersonale, i Kjøbenhavn 6 og i<lb />
-Aarhus 3 Fuldmægtige. Landsrettens<lb />
+            </div>
+            <div>
+               <head>§ 11.
+</head>
+               <p>Oppebørsel af og Regnskabsaflæggelse<lb/>
+for Retsafgifter forestaas ved hver Landsret af en Justitssekretær, der tillige er Retsskriver. Desuden ansættes der ved Landsretterne, foruden det i øvrigt fornødne<lb/>
+Kontorpersonale, i Kjøbenhavn 6 og i<lb/>
+Aarhus 3 Fuldmægtige. Landsrettens<lb/>
 Iustitiarius træffer Bestemmelse om Forretningernes Fordeling.
 </p>
-<wtitle>§ 12.
-</wtitle>
-<p>Domsbehandling af Straffesager, i<lb />
-hvilke Bevisførelse skal finde Sted for Landsretten, foregaar dels paa det Sted, hvor<lb />
-Landsretten har sit Sæde, dels paa andre af<lb />
-Justitsministeren ved Anordning dertil fastsatte Steder i Landsretskredsen. I Anordningen bestemmes, hvilke Dele af Landsretskredsen der skulle henlægges til hvert af<lb />
-disse Tingsteder. Til Behandling af de her<lb />
-omhandlede Sager afholdes regelmæssigt Ting<lb />
+            </div>
+            <div>
+               <head>§ 12.
+</head>
+               <p>Domsbehandling af Straffesager, i<lb/>
+hvilke Bevisførelse skal finde Sted for Landsretten, foregaar dels paa det Sted, hvor<lb/>
+Landsretten har sit Sæde, dels paa andre af<lb/>
+Justitsministeren ved Anordning dertil fastsatte Steder i Landsretskredsen. I Anordningen bestemmes, hvilke Dele af Landsretskredsen der skulle henlægges til hvert af<lb/>
+disse Tingsteder. Til Behandling af de her<lb/>
+omhandlede Sager afholdes regelmæssigt Ting<lb/>
 af den sjællandske Landsret i Løbet af hver
 </p>
-</rightside></div><?page  r06_00007_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<p>Maaned i Kjøbenhavn, og i øvrigt af<lb />
-hver Landsret en Gang i Løbet af hver 3<lb />
-Maaneder paa hvert af Tingstederne udenfor Kjøbenhavn; dog afholdes paa Bornholm<lb />
-intet Ting i Maanederne December, Januar '<lb />
+               <pb xml:id="idr06_00007_proceskom_1892_1"
+                   facs="r06_00007_proceskom_1892_1 "
+                   n="9&#xA;"/>
+               <p>Maaned i Kjøbenhavn, og i øvrigt af<lb/>
+hver Landsret en Gang i Løbet af hver 3<lb/>
+Maaneder paa hvert af Tingstederne udenfor Kjøbenhavn; dog afholdes paa Bornholm<lb/>
+intet Ting i Maanederne December, Januar '<lb/>
 og Februar.
 </p>
-<p>Til Behandling og Paakendelse paa de<lb />
-Ting, der saaledes afholdes udenfor Landsrettens Hovedtingsted, kunne ogsaa henvises<lb />
-saadanne borgerlige Retssager, med Hensyn<lb />
-til hvilke Retten i Henhold til § 59 i Lov<lb />
-om den borgerlige Retspleje har bestemt, at<lb />
+               <p>Til Behandling og Paakendelse paa de<lb/>
+Ting, der saaledes afholdes udenfor Landsrettens Hovedtingsted, kunne ogsaa henvises<lb/>
+saadanne borgerlige Retssager, med Hensyn<lb/>
+til hvilke Retten i Henhold til § 59 i Lov<lb/>
+om den borgerlige Retspleje har bestemt, at<lb/>
 Domsbehandlingen stal foregaa udenfor Rettens Sæde.
 </p>
-<p>Tiden for de ovennævnte regelmæssige<lb />
-Tings Begyndelse bestemmes for hvert Fjerdingaar af Landsrettens Iustitiarius og<lb />
+               <p>Tiden for de ovennævnte regelmæssige<lb/>
+Tings Begyndelse bestemmes for hvert Fjerdingaar af Landsrettens Iustitiarius og<lb/>
 bringes til almindelig Kundskab.
 </p>
-<p>Overordentlige Ting til Domsbehandling af Straffesager, i hvilke Bevisførelse<lb />
-skal finde Sted for Landsretten, kunne afholdes saavel paa Rettens Hovedtingsted som<lb />
-paa dens andre Tingsteder, naar Landsrettens Iustitiarius finder dette fornødent. Paa<lb />
+               <p>Overordentlige Ting til Domsbehandling af Straffesager, i hvilke Bevisførelse<lb/>
+skal finde Sted for Landsretten, kunne afholdes saavel paa Rettens Hovedtingsted som<lb/>
+paa dens andre Tingsteder, naar Landsrettens Iustitiarius finder dette fornødent. Paa<lb/>
 disse Ting maa dog ikke foretages Nævninge-sager.
 </p>
-<wtitle>§  13.
-</wtitle>
-<p>Til Behandling af andre end de i<lb />
-§ 12 nævnte Sager afholder Landsretterne<lb />
-Moder til de Tider, som Retterne bestemme,<lb />
-og hvorom offentlig Bekendtgørelse finder<lb />
-Sted. Overordentlige Møder kan vedkommende Formand beramme, naar saadant af<lb />
-særegne Grunde findes fornødent. I Tiden<lb />
-fra 1ste Juli til 31te August behandles dog<lb />
-kun Sager, som indbringes i Medfør af<lb />
-Lov om Strafferetsplejen, samt følgende<lb />
-borgerlige Retssager: Sager om Forfølgning af Arrest og Forbud, Kæremaal og<lb />
-efter Begæring af en af Parterne saadanne<lb />
-Sager, hvis Foretagelse af Retten skønnes<lb />
+            </div>
+            <div>
+               <head>§  13.
+</head>
+               <p>Til Behandling af andre end de i<lb/>
+§ 12 nævnte Sager afholder Landsretterne<lb/>
+Moder til de Tider, som Retterne bestemme,<lb/>
+og hvorom offentlig Bekendtgørelse finder<lb/>
+Sted. Overordentlige Møder kan vedkommende Formand beramme, naar saadant af<lb/>
+særegne Grunde findes fornødent. I Tiden<lb/>
+fra 1ste Juli til 31te August behandles dog<lb/>
+kun Sager, som indbringes i Medfør af<lb/>
+Lov om Strafferetsplejen, samt følgende<lb/>
+borgerlige Retssager: Sager om Forfølgning af Arrest og Forbud, Kæremaal og<lb/>
+efter Begæring af en af Parterne saadanne<lb/>
+Sager, hvis Foretagelse af Retten skønnes<lb/>
 at være paatrængende.
 </p>
-<wtitle>§ 14.
-</wtitle>
-<p>Landsretskredfene inddeles i Underretskredse.
+            </div>
+            <div>
+               <head>§ 14.
+</head>
+               <p>Landsretskredfene inddeles i Underretskredse.
 </p>
-<p>Staden Kjøbenhavn udgør en Underretskreds;   dog  kunne  mindre   Dele  af det
+               <p>Staden Kjøbenhavn udgør en Underretskreds;   dog  kunne  mindre   Dele  af det
 </p>
-</leftside></div><?page  r06_00008_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<p>tilgrænsende Landdistrikt ved kgl. Anordning henlægges under Kjøbenhavns Stadsret, naar de stedlige Forhold tale derfor.<lb />
-I øvrigt deles Riget i 103 By- og Herreds-retskredse, saaledes som det angives paa den<lb />
-nærværende Lov vedføjede Tavle. Forandringer deri, hvorved Sogne eller mindre<lb />
-Dele af enkelte Sogne henlægges til en<lb />
-anden Retskreds, kunne, efter at vedkommende Amtsraads Betænkning er indhentet,<lb />
+               <pb xml:id="idr06_00008_proceskom_1892_1"
+                   facs="r06_00008_proceskom_1892_1 "
+                   n="9&#xA;"/>
+               <p>tilgrænsende Landdistrikt ved kgl. Anordning henlægges under Kjøbenhavns Stadsret, naar de stedlige Forhold tale derfor.<lb/>
+I øvrigt deles Riget i 103 By- og Herreds-retskredse, saaledes som det angives paa den<lb/>
+nærværende Lov vedføjede Tavle. Forandringer deri, hvorved Sogne eller mindre<lb/>
+Dele af enkelte Sogne henlægges til en<lb/>
+anden Retskreds, kunne, efter at vedkommende Amtsraads Betænkning er indhentet,<lb/>
 gøres ved kgl. Anordning.
 </p>
-<wtitle>§ 15.
-</wtitle>
-<p>Underrettens Virkekreds omfatter Behandling og Paakendelse af Retssager samt<lb />
-Foretagelse af Retshandlinger i det Omfang,<lb />
+            </div>
+            <div>
+               <head>§ 15.
+</head>
+               <p>Underrettens Virkekreds omfatter Behandling og Paakendelse af Retssager samt<lb/>
+Foretagelse af Retshandlinger i det Omfang,<lb/>
 som bestemmes ved Lovene om den borgerlige Retspleje og Strafferetsplejen.
 </p>
-<wtitle>§ 16.
-</wtitle>
-<p>Til Underretternes Virkekreds henhorer fremdeles udenfor den egentlige Retspleje:
+            </div>
+            <div>
+               <head>§ 16.
+</head>
+               <p>Til Underretternes Virkekreds henhorer fremdeles udenfor den egentlige Retspleje:
 </p>
-<p>a.	Tinglæsningsvæsnet;
+               <p>a.	Tinglæsningsvæsnet;
 </p>
-<p>b.	Formandskabet   i   Landvæsenskommissioner   overensstemmende med Lov  af<lb />
+               <p>b.	Formandskabet   i   Landvæsenskommissioner   overensstemmende med Lov  af<lb/>
 30. December 1858 § 2;
 </p>
-<p>c. De Retsbetjentene ved Lov af 23.<lb />
+               <p>c. De Retsbetjentene ved Lov af 23.<lb/>
 Januar 1862 angaaende Tiendevederlagets Berigtigelse paahvilende Forretninger;
 </p>
-<p>d. Udmeldelse  af Syns- og Skønsmænd<lb />
-udenfor Retsplejen, forsaavidt den ikke<lb />
-kan ske af Øvrigheden:<lb />
+               <p>d. Udmeldelse  af Syns- og Skønsmænd<lb/>
+udenfor Retsplejen, forsaavidt den ikke<lb/>
+kan ske af Øvrigheden:<lb/>
 samt  udenfor Kjøbenhavns Stadsrets Omraade:
 </p>
-<p>e. De ved Lov af 26. Maj 1868 om<lb />
-Umyndiges Midlers Forvaltning § 7,<lb />
-jfr. Bekendtgørelse af 11. Maj 1869,<lb />
+               <p>e. De ved Lov af 26. Maj 1868 om<lb/>
+Umyndiges Midlers Forvaltning § 7,<lb/>
+jfr. Bekendtgørelse af 11. Maj 1869,<lb/>
 og ved samme Lovs § 10 til Skifteretterne henlagte Forretninger, forsaavidt Loven om den borgerlige Retspleje  ikke medfører Forandring  heri;
 </p>
-<p>f. Notarialforretninger.
+               <p>f. Notarialforretninger.
 </p>
-<p>Notarialvæsnets Ordning i Kjøbenhavn<lb />
+               <p>Notarialvæsnets Ordning i Kjøbenhavn<lb/>
 fastsættes ved særlig Anordning.
 </p>
-</rightside></div><?page  r06_00009_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<wtitle>§ 17.
-</wtitle>
-<p>Kjøbenhavns Stadsret bestaar af en<lb />
-Iustitiarius og indtil 20 andre Dommere.<lb />
-Af disfe bestilles to til Fogder og to til<lb />
-Skifteforvaltere. Til Varetagelse af de<lb />
-øvrige i §§ 15 og 16 ommeldte Forretninger deles Stadsretten i indtil 16 Afdelinger, som hver beklædes af en enkelt<lb />
-Dommer, der behandler og paakender de<lb />
-til Afdelingen henlagte Sager. Forretningernes Fordeling mellem henholdsvis<lb />
-Fogderne, Skifteforvalterne og Afdelingerne<lb />
-bestemmes af Iustitiarius med Iustitsministevens Billigelse. Iustitiarius fordeler, efter<lb />
-Forhandling med Rettens øvrige Medlemmer,<lb />
-Afdelingerne imellem Medlemmerne. Naar<lb />
-det gøres fornødent, kan Iustitiarius overdrage til et Medlem af Netten midlertidig<lb />
-eller i enkelte Sager tillige at udføre Forretninger i en anden Afdeling end den ham<lb />
+               <pb xml:id="idr06_00009_proceskom_1892_1"
+                   facs="r06_00009_proceskom_1892_1 "
+                   n="9&#xA;"/>
+            </div>
+            <div>
+               <head>§ 17.
+</head>
+               <p>Kjøbenhavns Stadsret bestaar af en<lb/>
+Iustitiarius og indtil 20 andre Dommere.<lb/>
+Af disfe bestilles to til Fogder og to til<lb/>
+Skifteforvaltere. Til Varetagelse af de<lb/>
+øvrige i §§ 15 og 16 ommeldte Forretninger deles Stadsretten i indtil 16 Afdelinger, som hver beklædes af en enkelt<lb/>
+Dommer, der behandler og paakender de<lb/>
+til Afdelingen henlagte Sager. Forretningernes Fordeling mellem henholdsvis<lb/>
+Fogderne, Skifteforvalterne og Afdelingerne<lb/>
+bestemmes af Iustitiarius med Iustitsministevens Billigelse. Iustitiarius fordeler, efter<lb/>
+Forhandling med Rettens øvrige Medlemmer,<lb/>
+Afdelingerne imellem Medlemmerne. Naar<lb/>
+det gøres fornødent, kan Iustitiarius overdrage til et Medlem af Netten midlertidig<lb/>
+eller i enkelte Sager tillige at udføre Forretninger i en anden Afdeling end den ham<lb/>
 tildelte.
 </p>
-<p>I Sø- og Handelssager, som høre<lb />
-under Kjøbenhavns Stadsret, tiltroedes den<lb />
-paagældende Afdeling af Stadsretten af 2 sø-eller handelskyndige Medlemmer overensstemmende med de i § 9 givne Regler for<lb />
-den sjællandste Landsret, saaledes at det<lb />
-Medlem af Stadsretten, hvem Afdelingen<lb />
-er overdragen, er Formand. Ved den saaledes dannede Afdeling behandles endvidere<lb />
-Handlendes, Fabrikanters og Skibsrederes<lb />
+               <p>I Sø- og Handelssager, som høre<lb/>
+under Kjøbenhavns Stadsret, tiltroedes den<lb/>
+paagældende Afdeling af Stadsretten af 2 sø-eller handelskyndige Medlemmer overensstemmende med de i § 9 givne Regler for<lb/>
+den sjællandste Landsret, saaledes at det<lb/>
+Medlem af Stadsretten, hvem Afdelingen<lb/>
+er overdragen, er Formand. Ved den saaledes dannede Afdeling behandles endvidere<lb/>
+Handlendes, Fabrikanters og Skibsrederes<lb/>
 Konkursboer.
 </p>
-<wtitle>§ 18.
-</wtitle>
-<p>Til Stadsretten hører et Skriverkontor<lb />
+            </div>
+            <div>
+               <head>§ 18.
+</head>
+               <p>Til Stadsretten hører et Skriverkontor<lb/>
 samt et Pante- og Brevskriverkontor.
 </p>
-<p>Skriverkontoret, hvorunder Skriverforretningerne ved Stadsrettens forskellige<lb />
-Afdelinger samt Oppebørsel af og Regnskabs-aflæggelse for Retsafgister vedrørende Domssager og Skiftevæsnet høre, forestaas<lb />
-af en Justitssekretær; der ansættes indtil 21<lb />
-Fuldmægtige foruden det i øvrigt fornødne<lb />
-Kontorperfonale. Fogedforretninger og de<lb />
-til Skifteforvaltningen hørende Forretninger<lb />
-kunne, forsaavidt der ikke derved bliver<lb />
-Spørgsmaal om Afgørelse af Tvistigheder<lb />
+               <p>Skriverkontoret, hvorunder Skriverforretningerne ved Stadsrettens forskellige<lb/>
+Afdelinger samt Oppebørsel af og Regnskabs-aflæggelse for Retsafgister vedrørende Domssager og Skiftevæsnet høre, forestaas<lb/>
+af en Justitssekretær; der ansættes indtil 21<lb/>
+Fuldmægtige foruden det i øvrigt fornødne<lb/>
+Kontorperfonale. Fogedforretninger og de<lb/>
+til Skifteforvaltningen hørende Forretninger<lb/>
+kunne, forsaavidt der ikke derved bliver<lb/>
+Spørgsmaal om Afgørelse af Tvistigheder<lb/>
 efter  Dommerens   Bestemmelse   udføres   af
 </p>
-</leftside></div><?page  r06_00010_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<p>en Fuldmægtig eller en anden dertil af<lb />
-Stadsrettens Iustitiarius bemyndiget Person.<lb />
-Pante- og Brevskriverkontoret, hvorunder Skøde- og Pantebøgernes Førelse<lb />
-hører, forestaas af en Pante- og Brevskriver, og der ansættes 4 Fuldmægtige<lb />
-foruden det i øvrigt fornødne Kontorpersonale. Beslutninger vedkommende Bøgernes Førelse kunne tages af Pante- og<lb />
-Brevskriveren eller en Fuldmægtig. Tinglæsninger og Aflæsninger foregaa ved de Afdelinger, som behandle borgerlige Domssager;<lb />
-Rettens Iustitiarius fastsætter Fordelingen<lb />
+               <pb xml:id="idr06_00010_proceskom_1892_1"
+                   facs="r06_00010_proceskom_1892_1 "
+                   n="9&#xA;"/>
+               <p>en Fuldmægtig eller en anden dertil af<lb/>
+Stadsrettens Iustitiarius bemyndiget Person.<lb/>
+Pante- og Brevskriverkontoret, hvorunder Skøde- og Pantebøgernes Førelse<lb/>
+hører, forestaas af en Pante- og Brevskriver, og der ansættes 4 Fuldmægtige<lb/>
+foruden det i øvrigt fornødne Kontorpersonale. Beslutninger vedkommende Bøgernes Førelse kunne tages af Pante- og<lb/>
+Brevskriveren eller en Fuldmægtig. Tinglæsninger og Aflæsninger foregaa ved de Afdelinger, som behandle borgerlige Domssager;<lb/>
+Rettens Iustitiarius fastsætter Fordelingen<lb/>
 med Justitsministerens Billigelse.
 </p>
-<p>Fordelingen af de under Skriver-,<lb />
-Pante- og Brevskriver-Kontorerne hørende<lb />
-Forretninger fastsættes af Stadsrettens<lb />
+               <p>Fordelingen af de under Skriver-,<lb/>
+Pante- og Brevskriver-Kontorerne hørende<lb/>
+Forretninger fastsættes af Stadsrettens<lb/>
 Iustitiarius efter Forhandling med henholdsvis Justitssekretæren og Pante- og Brevskriveren.
 </p>
-<p>Oppebørsel af og Regnskabsaflæggelse<lb />
-for Retsafgifter forestaas for Fogedforretningers Vedkommende af Fogderne og for<lb />
+               <p>Oppebørsel af og Regnskabsaflæggelse<lb/>
+for Retsafgifter forestaas for Fogedforretningers Vedkommende af Fogderne og for<lb/>
 Pante- og Brevfkriverforretningernes Vedkommende af Pante- og Brevskriveren.
 </p>
-<wtitle>§ 19.
-</wtitle>
-<p>Bestemmelse om Tiden for ordentlige<lb />
-Moder i de Afdelinger af Stadsretten, der<lb />
-behandle Domssager, saavelsom om Bekendtgørelsen heraf træffes af Stadsrettens<lb />
-Iustitiarius med Justitsministerens Billigelse;<lb />
-overordentlige Møder kunne berammes af<lb />
-Dommeren i den paagældende Afdeling.<lb />
-Møder i andre Sager berammes af Dommeren overensstemmende med Lovene om<lb />
+            </div>
+            <div>
+               <head>§ 19.
+</head>
+               <p>Bestemmelse om Tiden for ordentlige<lb/>
+Moder i de Afdelinger af Stadsretten, der<lb/>
+behandle Domssager, saavelsom om Bekendtgørelsen heraf træffes af Stadsrettens<lb/>
+Iustitiarius med Justitsministerens Billigelse;<lb/>
+overordentlige Møder kunne berammes af<lb/>
+Dommeren i den paagældende Afdeling.<lb/>
+Møder i andre Sager berammes af Dommeren overensstemmende med Lovene om<lb/>
 Retsplejen.
 </p>
-<wtitle>§ 20.
-</wtitle>
-<p>By- og Herredsretterne bestaa hver<lb />
+            </div>
+            <div>
+               <head>§ 20.
+</head>
+               <p>By- og Herredsretterne bestaa hver<lb/>
 af en Dommer, der tillige er Retsskriver.
 </p>
-<p>Som Retsskriver har han at meddele<lb />
-Udskrifter af Retsbøgerne og besørge alle de<lb />
-under Retten hørende Skriverforretninger og<lb />
-Udfærdigelser. Han oppebærer de befalede<lb />
-Retsafgifter og aflægger Regnskab derfor;<lb />
-han forestaar og foretager de Tinglæsning<lb />
-og Aflæsning af Dokumenter vedkommende<lb />
+               <p>Som Retsskriver har han at meddele<lb/>
+Udskrifter af Retsbøgerne og besørge alle de<lb/>
+under Retten hørende Skriverforretninger og<lb/>
+Udfærdigelser. Han oppebærer de befalede<lb/>
+Retsafgifter og aflægger Regnskab derfor;<lb/>
+han forestaar og foretager de Tinglæsning<lb/>
+og Aflæsning af Dokumenter vedkommende<lb/>
 Forretninger, samt fører Skode- og Pante-
 </p>
-</rightside></div><?page  r06_00011_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>9
-</pagename>
-<p>bøgerne.    Endvidere forestaar han Notarial-forretningerne.
+               <pb xml:id="idr06_00011_proceskom_1892_1"
+                   facs="r06_00011_proceskom_1892_1 "
+                   n="9&#xA;"/>
+               <p>bøgerne.    Endvidere forestaar han Notarial-forretningerne.
 </p>
-<p>I Underretskredse, hvor Folketallet<lb />
-efter sidste Folketælling overstiger 35,000<lb />
-Indbyggere, ansættes en særlig Dommer,<lb />
-til hvilken henlægges de Dommeren og<lb />
+               <p>I Underretskredse, hvor Folketallet<lb/>
+efter sidste Folketælling overstiger 35,000<lb/>
+Indbyggere, ansættes en særlig Dommer,<lb/>
+til hvilken henlægges de Dommeren og<lb/>
 Skriveren ved Underretterne paahvilende Forretninger vedrørende Strafferetsplejen.
 </p>
-<p>Paa Underretsdommerens Begæring kan<lb />
-der af Landsrettens Iustitiarius meddeles<lb />
-dertil egnede Mænd (§ 32) Bemyndigelse<lb />
-til paa Dommerens Ansvar at udføre<lb />
-Fogedforretninger, de til Skifteforvaltningen<lb />
-horende Forretninger eller Dele af samme<lb />
+               <p>Paa Underretsdommerens Begæring kan<lb/>
+der af Landsrettens Iustitiarius meddeles<lb/>
+dertil egnede Mænd (§ 32) Bemyndigelse<lb/>
+til paa Dommerens Ansvar at udføre<lb/>
+Fogedforretninger, de til Skifteforvaltningen<lb/>
+horende Forretninger eller Dele af samme<lb/>
 samt Notarialforretninger.
 </p>
-<p>Med Hensyn til Udpantningers Foretagelse ved Sognefogden gælde Reglerne i<lb />
-Lov om den borgerlige Retspleje Kap.<lb />
+               <p>Med Hensyn til Udpantningers Foretagelse ved Sognefogden gælde Reglerne i<lb/>
+Lov om den borgerlige Retspleje Kap.<lb/>
 XXXVIII.
 </p>
-<wtitle>§ 21.
-</wtitle>
-<p>I Søsager tiltrædes Underretten udenfor Kjøbenhavn af 2 Myndige Mænd<lb />
-overensstemmende med Reglerne i Lov om<lb />
-Søretter af 12. April 1892 §§2, 3, 4<lb />
-og. 5, og saaledes at Retten kan beklædes<lb />
-af Formanden alene i de foran i § 9 angivne Tilfælde Forsaavidt handelskyndige<lb />
-Dommere skulle tiltroede en Landsret i<lb />
-Handelssager, kan det, hvor Forholdene tilstede det, ved kgl. Anordning bestemmes,<lb />
-at By- og Herredsretter i Landsretskredsen i Handelssager samt ved Konkursbehandling af Handlendes, Fabrikanters og<lb />
+            </div>
+            <div>
+               <head>§ 21.
+</head>
+               <p>I Søsager tiltrædes Underretten udenfor Kjøbenhavn af 2 Myndige Mænd<lb/>
+overensstemmende med Reglerne i Lov om<lb/>
+Søretter af 12. April 1892 §§2, 3, 4<lb/>
+og. 5, og saaledes at Retten kan beklædes<lb/>
+af Formanden alene i de foran i § 9 angivne Tilfælde Forsaavidt handelskyndige<lb/>
+Dommere skulle tiltroede en Landsret i<lb/>
+Handelssager, kan det, hvor Forholdene tilstede det, ved kgl. Anordning bestemmes,<lb/>
+at By- og Herredsretter i Landsretskredsen i Handelssager samt ved Konkursbehandling af Handlendes, Fabrikanters og<lb/>
 Skibsrederes Boer skulle tiltrædes af handels-kyndige Medlemmer.
 </p>
-<wtitle>§ 22.
-</wtitle>
-<p>Ved kgl. Anordning bestemmes Byog Herredskred senes Tingsteder.
+            </div>
+            <div>
+               <head>§ 22.
+</head>
+               <p>Ved kgl. Anordning bestemmes Byog Herredskred senes Tingsteder.
 </p>
-<p>Tildeles der en Retskreds flere Tingsteder, fastsætter Anordningen de Dele af<lb />
-Kredsen, som med Hensyn til Rettens ordentlige Møder skulle henhøre til ethvert af<lb />
-disse. Tinglæsning og Aflæsning af Dokumenter skal dog for hele Retskredsen fore-gaa ved det Tingsted, der i Anordningen<lb />
+               <p>Tildeles der en Retskreds flere Tingsteder, fastsætter Anordningen de Dele af<lb/>
+Kredsen, som med Hensyn til Rettens ordentlige Møder skulle henhøre til ethvert af<lb/>
+disse. Tinglæsning og Aflæsning af Dokumenter skal dog for hele Retskredsen fore-gaa ved det Tingsted, der i Anordningen<lb/>
 betegnes som Hovedtingsted; men Dommeren er pligtig ved de ordentlige Rets- møder paa ethvert  Tingsted   i  Kredsen at
 </p>
-<pagename>2
-</pagename>
-</leftside></div><?page  r06_00012_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>10
-</pagename>
-<p>modtage Dokumenter, som indleveres til Tinglæsning eller Aflæsning, samt efter Forud-begæring at udlevere tinglæste og aflæste<lb />
+               <pb xml:id="idr06_00012_proceskom_1892_1"
+                   facs="r06_00012_proceskom_1892_1 "
+                   n="10&#xA;"/>
+               <p>modtage Dokumenter, som indleveres til Tinglæsning eller Aflæsning, samt efter Forud-begæring at udlevere tinglæste og aflæste<lb/>
 Dokumnenter.
 </p>
-<p>Dommeren stal have Bolig ved Kredsens Tingsted eller, naar Kredsen har flere<lb />
-Tingsteder, ved Hovedtingstedet. Dog kan<lb />
+               <p>Dommeren stal have Bolig ved Kredsens Tingsted eller, naar Kredsen har flere<lb/>
+Tingsteder, ved Hovedtingstedet. Dog kan<lb/>
 Justitsministeren tilstede Afvigelse herfra.
 </p>
-<wtitle>§ 23.
-</wtitle>
-<p>Ved Anordning bestemmes Tiden for<lb />
-de ordentlige Retsmøder til Domssagers Behandling paa ethvert af Retskredsens Tingsteder; herved iagttages, at der fastsættes<lb />
-forskellige Tingdage for de forskellige Tingsteder. Dommeren berammer i hvert enkelt<lb />
+            </div>
+            <div>
+               <head>§ 23.
+</head>
+               <p>Ved Anordning bestemmes Tiden for<lb/>
+de ordentlige Retsmøder til Domssagers Behandling paa ethvert af Retskredsens Tingsteder; herved iagttages, at der fastsættes<lb/>
+forskellige Tingdage for de forskellige Tingsteder. Dommeren berammer i hvert enkelt<lb/>
 Tilfælde Tiden for andre Retsmøder.
 </p>
-<wtitle>§ 24.
-</wtitle>
-<p>Sø- og Handelssager kunne behandles<lb />
-ved de for almindelige borgerlige Retssager<lb />
-dannede Retter, naar begge Parter ere enige<lb />
+            </div>
+            <div>
+               <head>§ 24.
+</head>
+               <p>Sø- og Handelssager kunne behandles<lb/>
+ved de for almindelige borgerlige Retssager<lb/>
+dannede Retter, naar begge Parter ere enige<lb/>
 herom.
 </p>
-<p>Begæring om, at en Sag skal behandles som Sø- eller Handelssag, eller<lb />
-Indsigelse derimod stal fremsættes senest paa<lb />
-den første Tægtedag. Rettens Afgørelse<lb />
-af Spørgsmaal derom kan ikke medføre Afvisning af Sagen, men kun Henvisning af<lb />
+               <p>Begæring om, at en Sag skal behandles som Sø- eller Handelssag, eller<lb/>
+Indsigelse derimod stal fremsættes senest paa<lb/>
+den første Tægtedag. Rettens Afgørelse<lb/>
+af Spørgsmaal derom kan ikke medføre Afvisning af Sagen, men kun Henvisning af<lb/>
 dens videre Behandling til den rette Domstol.    Kærefristen er 3 Dage.
 </p>
-<wtitle>§ 25.
-</wtitle>
-<p>Regeringens Ret til, udenfor det i<lb />
-D. L. 1—2—1 omhandlede Tilfælde, at anordne ekstraordinære Retter bortfalder. Dog<lb />
-kan Kongen, foruden i det i Lov om Spare- og<lb />
-Laanekasser af 28. Maj 1880 § 8 ommeldte<lb />
-Tilfælde, undtagelsesvis, naar Begæring<lb />
-derom maatte indkomme, med Indvilgelse af<lb />
-samtlige de paa en dertil berammet Skiftesamling nødende Fordringshavere, bestikke<lb />
-Skiftekommissarier til i Stedet for den<lb />
-ordinære Skifteret at forestaa Behandlingen<lb />
-og Opgørelsen af et Konkursbo, der befindes<lb />
-at være af en særegen vidtløftig og indviklet Beskaffenhed. Ligeledes forbeholdes<lb />
+            </div>
+            <div>
+               <head>§ 25.
+</head>
+               <p>Regeringens Ret til, udenfor det i<lb/>
+D. L. 1—2—1 omhandlede Tilfælde, at anordne ekstraordinære Retter bortfalder. Dog<lb/>
+kan Kongen, foruden i det i Lov om Spare- og<lb/>
+Laanekasser af 28. Maj 1880 § 8 ommeldte<lb/>
+Tilfælde, undtagelsesvis, naar Begæring<lb/>
+derom maatte indkomme, med Indvilgelse af<lb/>
+samtlige de paa en dertil berammet Skiftesamling nødende Fordringshavere, bestikke<lb/>
+Skiftekommissarier til i Stedet for den<lb/>
+ordinære Skifteret at forestaa Behandlingen<lb/>
+og Opgørelsen af et Konkursbo, der befindes<lb/>
+at være af en særegen vidtløftig og indviklet Beskaffenhed. Ligeledes forbeholdes<lb/>
 der Regeringen Adgang til at tillægge Landvæsenskommissioner   dømmende   Myndighed
 </p>
-</rightside></div><?page  r06_00013_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>11
-</pagename>
-<p>til at afgøre de ved Inddæmnings- og Udtørrings- Foretagender opstaaende Spørgsmaal i samme Omfang som hidtil.
+               <pb xml:id="idr06_00013_proceskom_1892_1"
+                   facs="r06_00013_proceskom_1892_1 "
+                   n="11&#xA;"/>
+               <p>til at afgøre de ved Inddæmnings- og Udtørrings- Foretagender opstaaende Spørgsmaal i samme Omfang som hidtil.
 </p>
-<p>Endvidere kan Kongen, dels i Sager,<lb />
-i hvilke der foreligger Sigtelse for Overtrædelse af den borgerlige Lovgivning og<lb />
-tillige for Forhold, der vedrøre Sigtedes<lb />
-Stilling som gejstlig Embedsmand, dels i<lb />
-Sager, hvorunder Personer, af hvilke nogle<lb />
-henhøre under militære, andre under borgerlige Retter, sigtes for Delagtighed i samme<lb />
-forbryderske Forhold, bestemme, at Sagen i<lb />
-sin Helhed skal undersøges og paakendes ved<lb />
-borgerlig Ret. I saadanne Tilfælde kan<lb />
-Kongen tilforordne de Retter, til hvilke<lb />
-Sagens Undersøgelse og Paakendelse henvises, samt de Domstole, hvem Paakendelsen<lb />
-i.Tilfælde af Anke tilkommer, hver tvende<lb />
+               <p>Endvidere kan Kongen, dels i Sager,<lb/>
+i hvilke der foreligger Sigtelse for Overtrædelse af den borgerlige Lovgivning og<lb/>
+tillige for Forhold, der vedrøre Sigtedes<lb/>
+Stilling som gejstlig Embedsmand, dels i<lb/>
+Sager, hvorunder Personer, af hvilke nogle<lb/>
+henhøre under militære, andre under borgerlige Retter, sigtes for Delagtighed i samme<lb/>
+forbryderske Forhold, bestemme, at Sagen i<lb/>
+sin Helhed skal undersøges og paakendes ved<lb/>
+borgerlig Ret. I saadanne Tilfælde kan<lb/>
+Kongen tilforordne de Retter, til hvilke<lb/>
+Sagens Undersøgelse og Paakendelse henvises, samt de Domstole, hvem Paakendelsen<lb/>
+i.Tilfælde af Anke tilkommer, hver tvende<lb/>
 henholdsvis gejstlige eller militære Medlemmer som Dommere.
 </p>
-<wtitle>§ 26.
-</wtitle>
-<p>Paa Søn- og Helligdage afholdes ikke<lb />
+            </div>
+            <div>
+               <head>§ 26.
+</head>
+               <p>Paa Søn- og Helligdage afholdes ikke<lb/>
 Retsmøder undtagen i paatrængende Tilfælde. Om Tilfældet er paatrængende, afgøres af Retten eller dennes Formand.
 </p>
-<p>I den stille Uge og i Tiden fra 24.<lb />
-Decbr. til 6. Januar bortfalde de ordentlige<lb />
+               <p>I den stille Uge og i Tiden fra 24.<lb/>
+Decbr. til 6. Januar bortfalde de ordentlige<lb/>
 Retsmøder.
 </p>
-<wtitle>§ 27.
-</wtitle>
-<p>De Retsbøger, som føres, autoriseres<lb />
-ved de af flere Dommere bestaaende Retter<lb />
+            </div>
+            <div>
+               <head>§ 27.
+</head>
+               <p>De Retsbøger, som føres, autoriseres<lb/>
+ved de af flere Dommere bestaaende Retter<lb/>
 af vedkommende Iustitiarius og ved Byog Herredsretterne af By- eller Herredsdommeren.
 </p>
-<p>Retsbøgernes Indretning bestemmes,<lb />
-indenfor de ved Lov eller Anordning dragne<lb />
-Grænser, for de af flere Dommere bestaaende<lb />
+               <p>Retsbøgernes Indretning bestemmes,<lb/>
+indenfor de ved Lov eller Anordning dragne<lb/>
+Grænser, for de af flere Dommere bestaaende<lb/>
 Retter af Iustitiarius, for By- og Herreds-retternes Vedkommende af Landsrettens Iustitiarius.
 </p>
-<title>Kap. II.
-</title>
-<undertitle>Dommere, Retsskrivere, Netsbude m. m.
-</undertitle>
-<wtitle>§  28.</wtitle>
-<p>Faste Dommere ved Rigets almindelige<lb />
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Dommere, Retsskrivere, Netsbude m. m.
+</head>
+            </div>
+            <div>
+               <head>§  28.</head>
+               <p>Faste Dommere ved Rigets almindelige<lb/>
 Domstole bestikkes af Kongen.
 </p>
-</leftside></div><?page  r06_00014_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>12
-</pagename>
-<p>Kun fuldmyndige, uberygtede, vederhæstige Mænd, som have underkastet sig den<lb />
-fuldstændige juridiske Eksamen med bedste<lb />
+               <pb xml:id="idr06_00014_proceskom_1892_1"
+                   facs="r06_00014_proceskom_1892_1 "
+                   n="12&#xA;"/>
+               <p>Kun fuldmyndige, uberygtede, vederhæstige Mænd, som have underkastet sig den<lb/>
+fuldstændige juridiske Eksamen med bedste<lb/>
 Karakter, kunne beskikkes.
 </p>
-<p>Foranstaaende Regler gælde ogsaa om<lb />
+               <p>Foranstaaende Regler gælde ogsaa om<lb/>
 de overordentlige Medlemmer af højesteret.
 </p>
-<wtitle>§ 29.
-</wtitle>
-<p>I Reglen kunne kun Mænd, der have<lb />
-været Landsdommere i 3 Aar, beskikkes til<lb />
+            </div>
+            <div>
+               <head>§ 29.
+</head>
+               <p>I Reglen kunne kun Mænd, der have<lb/>
+været Landsdommere i 3 Aar, beskikkes til<lb/>
 ordentlige Højesteretsdommere.
 </p>
-<p>Forinden Nogen beskikkes til ordentlig<lb />
-højesteretsdommer, skal der gives højesteret<lb />
+               <p>Forinden Nogen beskikkes til ordentlig<lb/>
+højesteretsdommer, skal der gives højesteret<lb/>
 Lejlighed til at udtale sig om de paagældende Ansøgere.
 </p>
-<wtitle>§ 30.
-</wtitle>
-<p>Til midlertidig at beklæde et Dommerembede, naar det paa Grund af Embedsledighed eller en fast Dommers Forfald<lb />
+            </div>
+            <div>
+               <head>§ 30.
+</head>
+               <p>Til midlertidig at beklæde et Dommerembede, naar det paa Grund af Embedsledighed eller en fast Dommers Forfald<lb/>
 maatte være nødvendigt, meddeler Justitsministeren Beskikkelse.
 </p>
-<p>I paatrængende Tilfælde samt naar<lb />
-den faste Dommers Forfald skønnes at ville<lb />
-blive kortvarigt, kan Landsrettens Iustitiarius<lb />
-bemyndige til midlertidig at forestaa Dommerembedet ved en By- eller Herredsret.<lb />
+               <p>I paatrængende Tilfælde samt naar<lb/>
+den faste Dommers Forfald skønnes at ville<lb/>
+blive kortvarigt, kan Landsrettens Iustitiarius<lb/>
+bemyndige til midlertidig at forestaa Dommerembedet ved en By- eller Herredsret.<lb/>
 Herom stal Meddelelse straks ske til Justitsministeren, som træffer endelig Bestemmelse.
 </p>
-<p>Den, som beskikkes til midlertidig at<lb />
-beklæde et Dommerembede, maa være i Besiddelse af de samme Egenskaber, som ud-kræves til at beklæde Embedet som fast<lb />
-Dommer. Dog er det ved By- og Herreds-retterne med Hensyn til Eksamensfordringen<lb />
-tilstrækkeligt, at den Paagældende har underkastet sig den fuldstænbige juridiske Eksamen<lb />
-med Karakteren haud illaudabilis eller har<lb />
-opnaaet Karakteren „Bekvem" enten ved den<lb />
-juridiske Fællesprøve eller ved den tidligere<lb />
+               <p>Den, som beskikkes til midlertidig at<lb/>
+beklæde et Dommerembede, maa være i Besiddelse af de samme Egenskaber, som ud-kræves til at beklæde Embedet som fast<lb/>
+Dommer. Dog er det ved By- og Herreds-retterne med Hensyn til Eksamensfordringen<lb/>
+tilstrækkeligt, at den Paagældende har underkastet sig den fuldstænbige juridiske Eksamen<lb/>
+med Karakteren haud illaudabilis eller har<lb/>
+opnaaet Karakteren „Bekvem" enten ved den<lb/>
+juridiske Fællesprøve eller ved den tidligere<lb/>
 juridiske Eksamen for Ustuderede.
 </p>
-<wtitle>§  31.
-</wtitle>
-<p>Naar det paa Grund af en Dommers<lb />
+            </div>
+            <div>
+               <head>§  31.
+</head>
+               <p>Naar det paa Grund af en Dommers<lb/>
 Udelukkelse eller Fritagelse formedelst Inhabilitet maatte være nodveudigt, beskikker Justitsministeren eller, ved By- og Herredsretterne, Landsrettens Iustitiarius en Sættedommer.
 </p>
-</rightside></div><?page  r06_00015_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>13
-</pagename>
-<p>Med Hensyn til Sættedommerne finde<lb />
+               <pb xml:id="idr06_00015_proceskom_1892_1"
+                   facs="r06_00015_proceskom_1892_1 "
+                   n="13&#xA;"/>
+               <p>Med Hensyn til Sættedommerne finde<lb/>
 Reglerne i § 30, 3die Stykke, Anvendelse,
 </p>
-<wtitle>§ 32.
-</wtitle>
-<p>Den Bemyndigelse, som i Henhold til<lb />
-§ 20 kan gives til paa Dommerens Ansvar at udføre visse Dommeren ved en<lb />
-By- eller Herredsret paahvilende Embedsforretninger, kan kun meddeles- mænd, som<lb />
-have de i § 28 angivne Egenskaber; dog er<lb />
-det tilstrækkeligt, at den Paagældende fyldestgør den i § 30 i Slutningen angivne<lb />
+            </div>
+            <div>
+               <head>§ 32.
+</head>
+               <p>Den Bemyndigelse, som i Henhold til<lb/>
+§ 20 kan gives til paa Dommerens Ansvar at udføre visse Dommeren ved en<lb/>
+By- eller Herredsret paahvilende Embedsforretninger, kan kun meddeles- mænd, som<lb/>
+have de i § 28 angivne Egenskaber; dog er<lb/>
+det tilstrækkeligt, at den Paagældende fyldestgør den i § 30 i Slutningen angivne<lb/>
 Fordring med Hensyn til juridisk Eksamen.
 </p>
-<wtitle>§ 33.
-</wtitle>
-<p>Forfølgningen af det en Dommer for<lb />
-Overtrædelse af de ham efter Lovene paahvilende Pligter paadragne Strafansvar,<lb />
-der i alle Tilfælde bliver at bedømme efter<lb />
-Straffeloven, sker under en selvstændig<lb />
-Straffesag; dog kan Straffen, hvis den ej<lb />
-overstiger Bøder, i Tilfælde af Anke eller<lb />
-Kære, paalægges uden særligt Sagsanlæg,<lb />
-efter at her, om fornødent, er givet vedkommende Dommer Lejlighed til mundtligt<lb />
+            </div>
+            <div>
+               <head>§ 33.
+</head>
+               <p>Forfølgningen af det en Dommer for<lb/>
+Overtrædelse af de ham efter Lovene paahvilende Pligter paadragne Strafansvar,<lb/>
+der i alle Tilfælde bliver at bedømme efter<lb/>
+Straffeloven, sker under en selvstændig<lb/>
+Straffesag; dog kan Straffen, hvis den ej<lb/>
+overstiger Bøder, i Tilfælde af Anke eller<lb/>
+Kære, paalægges uden særligt Sagsanlæg,<lb/>
+efter at her, om fornødent, er givet vedkommende Dommer Lejlighed til mundtligt<lb/>
 eller skriftligt at udtale sig om det paagældende Forhold.
 </p>
-<p>Erstatningsansvar maa som hidtil gøres<lb />
-gældende ved Anke, forsaavidt det ikke enten<lb />
-efter Loven om Strafferetsplejen paakendes<lb />
-i Forbindelse med Spørgsmaal om Straf<lb />
-eller indtales, efter at Straffedom er fældet<lb />
+               <p>Erstatningsansvar maa som hidtil gøres<lb/>
+gældende ved Anke, forsaavidt det ikke enten<lb/>
+efter Loven om Strafferetsplejen paakendes<lb/>
+i Forbindelse med Spørgsmaal om Straf<lb/>
+eller indtales, efter at Straffedom er fældet<lb/>
 over den Paagældende.
 </p>
-<wtitle>§ 34.
-</wtitle>
-<p>Gør en Dommer sig skyldig i Forsømmelse eller Skødesløshed i Embedsførelse,<lb />
-der dog ikke er af saadan Beskaffenhed, at<lb />
-den ifølge Lovgivningen paadrager Straf,<lb />
-eller udviser han iøvrigt utilbørligt eller<lb />
-usømmeligt Forhold, paahviler det Iustitiarius<lb />
-i den Ret, hvoraf han er Medlem, med Hensyn til Landsretternes Iustitiarier Højesterets<lb />
-Iustitiarius, samt med Hensyn til Kjøbenhavns<lb />
-Stadsrets Iustitiarius og Dommere ved Byog Herredsretterne vedkommende Landsrets<lb />
-Iustitiarius i Stilhed at give ham fornøden<lb />
+            </div>
+            <div>
+               <head>§ 34.
+</head>
+               <p>Gør en Dommer sig skyldig i Forsømmelse eller Skødesløshed i Embedsførelse,<lb/>
+der dog ikke er af saadan Beskaffenhed, at<lb/>
+den ifølge Lovgivningen paadrager Straf,<lb/>
+eller udviser han iøvrigt utilbørligt eller<lb/>
+usømmeligt Forhold, paahviler det Iustitiarius<lb/>
+i den Ret, hvoraf han er Medlem, med Hensyn til Landsretternes Iustitiarier Højesterets<lb/>
+Iustitiarius, samt med Hensyn til Kjøbenhavns<lb/>
+Stadsrets Iustitiarius og Dommere ved Byog Herredsretterne vedkommende Landsrets<lb/>
+Iustitiarius i Stilhed at give ham fornøden<lb/>
 Advarsel.
 </p>
-</leftside></div><?page  r06_00016_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>14
-</pagename>
-<wtitle>§  35.
-</wtitle>
-<p>Viser saadan, efter Omstændighederne<lb />
-gentagen, Advarsel sig frugtesløs, eller har<lb />
-Dommeren gjort sig skyldig i et Forhold,<lb />
-der maa svække eller gøre ham uværdig til<lb />
-den Agtelse og Tillid, som Dommerkaldet<lb />
-forudsætter, kan dette drage til følge efter<lb />
-Omstændighederne Afskedigelse uden Pension<lb />
-eller med Pension, beregnet efter Pensions-lovens Regler, eller endelig saaledes, at<lb />
-Pensionens Størrelse bliver at bestemme ved<lb />
-særlig Lov. Er der Tale om et efter Straffeloven strafbart Forhold, bliver Sagen af<lb />
-Iustitiarius at overgive til vedkommende<lb />
-Overanklager for eventuelt at forfølges som<lb />
-selvstændig Straffesag. I andet Fald, eller<lb />
-naar Dommen i Straffesagen ikke lyder paa<lb />
-Embedsforbrydelse, afgøres Spørgsmaalet<lb />
-ifølge Justitsministerens nærmere Bestemmelse under en af det Offentlige mod Dommeren anlagt Sag. Sagen behandles efter<lb />
-de for Landsretsproceduren for borgerlige<lb />
+               <pb xml:id="idr06_00016_proceskom_1892_1"
+                   facs="r06_00016_proceskom_1892_1 "
+                   n="14&#xA;"/>
+            </div>
+            <div>
+               <head>§  35.
+</head>
+               <p>Viser saadan, efter Omstændighederne<lb/>
+gentagen, Advarsel sig frugtesløs, eller har<lb/>
+Dommeren gjort sig skyldig i et Forhold,<lb/>
+der maa svække eller gøre ham uværdig til<lb/>
+den Agtelse og Tillid, som Dommerkaldet<lb/>
+forudsætter, kan dette drage til følge efter<lb/>
+Omstændighederne Afskedigelse uden Pension<lb/>
+eller med Pension, beregnet efter Pensions-lovens Regler, eller endelig saaledes, at<lb/>
+Pensionens Størrelse bliver at bestemme ved<lb/>
+særlig Lov. Er der Tale om et efter Straffeloven strafbart Forhold, bliver Sagen af<lb/>
+Iustitiarius at overgive til vedkommende<lb/>
+Overanklager for eventuelt at forfølges som<lb/>
+selvstændig Straffesag. I andet Fald, eller<lb/>
+naar Dommen i Straffesagen ikke lyder paa<lb/>
+Embedsforbrydelse, afgøres Spørgsmaalet<lb/>
+ifølge Justitsministerens nærmere Bestemmelse under en af det Offentlige mod Dommeren anlagt Sag. Sagen behandles efter<lb/>
+de for Landsretsproceduren for borgerlige<lb/>
 Sager i 1ste Instans gældende Negler.
 </p>
-<p>I Overensstemmelse hermed bliver det<lb />
-fremdeles at afgøre, hvorvidt en Dommer<lb />
-bør afskediges paa Grund af vedvarende<lb />
+               <p>I Overensstemmelse hermed bliver det<lb/>
+fremdeles at afgøre, hvorvidt en Dommer<lb/>
+bør afskediges paa Grund af vedvarende<lb/>
 Aands- eller Legemssvaghed.
 </p>
-<wtitle>§ 36.
-</wtitle>
-<p>Naar Straffesag er rejst. mod en<lb />
-Dommer, eller naar han maa antages at<lb />
-have gjort sig skyldig i saadant utilbørligt<lb />
-Forhold, som omhandles i § 35, saavelsom<lb />
-naar han er bleven uvederheftig eller aandssvag, kan han suspenderes. Afgørelse herom<lb />
-træffes, naar Talen er om en Underretsdommer, af Landsrettens Iustitiarius og to<lb />
-af Rettens Medlemmer, og naar Talen er<lb />
-om en højesterets- eller Landsretsdommer,<lb />
-af højesterets Iustitiarius og to af Rettens<lb />
+            </div>
+            <div>
+               <head>§ 36.
+</head>
+               <p>Naar Straffesag er rejst. mod en<lb/>
+Dommer, eller naar han maa antages at<lb/>
+have gjort sig skyldig i saadant utilbørligt<lb/>
+Forhold, som omhandles i § 35, saavelsom<lb/>
+naar han er bleven uvederheftig eller aandssvag, kan han suspenderes. Afgørelse herom<lb/>
+træffes, naar Talen er om en Underretsdommer, af Landsrettens Iustitiarius og to<lb/>
+af Rettens Medlemmer, og naar Talen er<lb/>
+om en højesterets- eller Landsretsdommer,<lb/>
+af højesterets Iustitiarius og to af Rettens<lb/>
 Medlemmer.
 </p>
-<wtitle>§ 37.
-</wtitle>
-<p>Beslutning om Ophør af midlertidig<lb />
-Bestikkelse til at beklæde et Dommerembede<lb />
-(§30) eller af Bemyndigelse til at udføre Dommergærning efter § 20, 4de Stykke, kan tages<lb />
-af den Myndighed, der har meddelt den, dog,<lb />
+            </div>
+            <div>
+               <head>§ 37.
+</head>
+               <p>Beslutning om Ophør af midlertidig<lb/>
+Bestikkelse til at beklæde et Dommerembede<lb/>
+(§30) eller af Bemyndigelse til at udføre Dommergærning efter § 20, 4de Stykke, kan tages<lb/>
+af den Myndighed, der har meddelt den, dog,<lb/>
 forsaavidt det er Landsrettens Iustitiarius,
 </p>
-</rightside></div><?page  r06_00017_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>15
-</pagename>
-<p>med Ret for den  Paagældende til at forelægge Spørgsmaalet for Justitsministeren.
+               <pb xml:id="idr06_00017_proceskom_1892_1"
+                   facs="r06_00017_proceskom_1892_1 "
+                   n="15&#xA;"/>
+               <p>med Ret for den  Paagældende til at forelægge Spørgsmaalet for Justitsministeren.
 </p>
-<wtitle>§ 38.
-</wtitle>
-<p>Justitssekretærer ved højesteret, Landsretter og Kjøbenhavns Stadsret beskikkes af<lb />
-Kongen, Fuldmægtige ved de nævnte Retter<lb />
-af Kongen eller af Justitsministeren efter de<lb />
+            </div>
+            <div>
+               <head>§ 38.
+</head>
+               <p>Justitssekretærer ved højesteret, Landsretter og Kjøbenhavns Stadsret beskikkes af<lb/>
+Kongen, Fuldmægtige ved de nævnte Retter<lb/>
+af Kongen eller af Justitsministeren efter de<lb/>
 nærmere Regler, som fastsættes ved Lønnings-loven.
 </p>
-<p>Til midlertidig at beklæde et af de<lb />
-nævnte Embeder, naar det paa Grund af<lb />
-Embedsledighed eller Forfald maatte være<lb />
-nødvendigt, meddeler Justitsministeren Bestikkelse. I paatrængende Tilfælde samt naar<lb />
-Forfaldet skønnes at ville blive kortvarigt,<lb />
-kan vedkommende Rets Iustitiarius give<lb />
-den midlertidige Bemyndigelse. Herom skal<lb />
-Meddelelse straks ske til Justitsministeren,<lb />
+               <p>Til midlertidig at beklæde et af de<lb/>
+nævnte Embeder, naar det paa Grund af<lb/>
+Embedsledighed eller Forfald maatte være<lb/>
+nødvendigt, meddeler Justitsministeren Bestikkelse. I paatrængende Tilfælde samt naar<lb/>
+Forfaldet skønnes at ville blive kortvarigt,<lb/>
+kan vedkommende Rets Iustitiarius give<lb/>
+den midlertidige Bemyndigelse. Herom skal<lb/>
+Meddelelse straks ske til Justitsministeren,<lb/>
 som træffer endelig Bestemmelse.
 </p>
-<p>Til fast eller midlertidig at beklæde de<lb />
-i denne Paragraf nævnte Embeder udkræves,<lb />
-at Vedkommende er en fuldmyndig, uberygtet<lb />
-og vederhæftig Mand, samt at han har<lb />
-underkastet sig den fuldstændige juridiske<lb />
-Eksamen i det Mindste med Karakteren<lb />
+               <p>Til fast eller midlertidig at beklæde de<lb/>
+i denne Paragraf nævnte Embeder udkræves,<lb/>
+at Vedkommende er en fuldmyndig, uberygtet<lb/>
+og vederhæftig Mand, samt at han har<lb/>
+underkastet sig den fuldstændige juridiske<lb/>
+Eksamen i det Mindste med Karakteren<lb/>
 haud illaudabilis eller har opnaaet Karakteren „Bekvem" ved den juridiske Fælles-prøve eller ved den tidligere juridiske Eksamen for Ustuderede.
 </p>
-<wtitle>§ 39.
-</wtitle>
-<p>Naar nogen af de i § 38 nævnte Embedsmænd 'paa Grund af Inhabilitet er<lb />
-udelukket, beskikker vedkommende Rets Iustitiarius i fornødent Fald en Mand, som har<lb />
-de i § 38, 3die Stykke, angivne Egenskaber,<lb />
+            </div>
+            <div>
+               <head>§ 39.
+</head>
+               <p>Naar nogen af de i § 38 nævnte Embedsmænd 'paa Grund af Inhabilitet er<lb/>
+udelukket, beskikker vedkommende Rets Iustitiarius i fornødent Fald en Mand, som har<lb/>
+de i § 38, 3die Stykke, angivne Egenskaber,<lb/>
 til at fungere i Sagen.
 </p>
-<wtitle>§ 40.
-</wtitle>
-<p>For saa vidt Retsskriverembedet ikke<lb />
-er forenet med Dommerembedet, fremsættes<lb />
-Klager over Retsskriverens Afgørelser inden<lb />
-6 Maaneder for den Ret. ved hvilken Retsskriveren er ansat. Efter at have modtaget<lb />
-Retsskriverens Erklæring afgør Retten, for<lb />
-Kjøbenhavns Stadsrets Vedkommende Rettens Iustitiarius, Sagen ved Kendelse.<lb />
+            </div>
+            <div>
+               <head>§ 40.
+</head>
+               <p>For saa vidt Retsskriverembedet ikke<lb/>
+er forenet med Dommerembedet, fremsættes<lb/>
+Klager over Retsskriverens Afgørelser inden<lb/>
+6 Maaneder for den Ret. ved hvilken Retsskriveren er ansat. Efter at have modtaget<lb/>
+Retsskriverens Erklæring afgør Retten, for<lb/>
+Kjøbenhavns Stadsrets Vedkommende Rettens Iustitiarius, Sagen ved Kendelse.<lb/>
 Mod denne Kendelse kan   rejses Kæremaal.
 </p>
-</leftside></div><?page  r06_00018_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>16
-</pagename>
-<p>Er Retsskriverembedet forenet med Dommerembedet, afgøres deslige Klager ved Kære.<lb />
-Med Hensyn til Retsskriveres Ansvar<lb />
-til Straf og Erstatning for Overtrædelse af<lb />
-deres Embedspligter sinde Reglerne i § 33<lb />
+               <pb xml:id="idr06_00018_proceskom_1892_1"
+                   facs="r06_00018_proceskom_1892_1 "
+                   n="16&#xA;"/>
+               <p>Er Retsskriverembedet forenet med Dommerembedet, afgøres deslige Klager ved Kære.<lb/>
+Med Hensyn til Retsskriveres Ansvar<lb/>
+til Straf og Erstatning for Overtrædelse af<lb/>
+deres Embedspligter sinde Reglerne i § 33<lb/>
 tilsvarende Anvendelse.
 </p>
-<wtitle>§ 41.
-</wtitle>
-<p>Ved højesteret, Landsretterne og Kjø-
+            </div>
+            <div>
+               <head>§ 41.
+</head>
+               <p>Ved højesteret, Landsretterne og Kjø-
 </p>
-<p>benhavns Stadsret ansætter Rettens Iustitiarius det fastsatte Antal Retsbude. Ved<lb />
+               <p>benhavns Stadsret ansætter Rettens Iustitiarius det fastsatte Antal Retsbude. Ved<lb/>
 hver By- og Herredsret ansætter vedkommende Dommer et Retsbud.
 </p>
-<wtitle>§ 42.
-</wtitle>
-<p>I hver af de i § 14 ommeldte Retskredse<lb />
+            </div>
+            <div>
+               <head>§ 42.
+</head>
+               <p>I hver af de i § 14 ommeldte Retskredse<lb/>
 ansættes det fornødne Antal Stævningsmænd.
 </p>
-<p>De ved Landsretterne, Kjøbenhavns<lb />
-Stadsret samt By- og Herredsretterne ansatte Retsbude kunne benyttes som Stævningsmænd for vedkommende Rets Omraade<lb />
-i det Omfang og paa den Maade, som<lb />
-henholdsvis Rettens Iustitiarius eller By- eller<lb />
-Herredsdommeren nærmere bestemmer. De<lb />
-Stævningsmænd, som yderligere efter Justitsministerens Bestemmelse behøves, bestikkes af<lb />
-vedkomniende Iustitiarius eller Underretsdommer. Fortegnelse over Retskredsens<lb />
-Stævningsmænd opslaas paa Tingstederne<lb />
-samt henholdsvis i Landsretternes og Kjøbenhavns Stadsrets Lokaler, og bekendtgøres<lb />
-tillige aarlig og oftere, naar Forandring<lb />
+               <p>De ved Landsretterne, Kjøbenhavns<lb/>
+Stadsret samt By- og Herredsretterne ansatte Retsbude kunne benyttes som Stævningsmænd for vedkommende Rets Omraade<lb/>
+i det Omfang og paa den Maade, som<lb/>
+henholdsvis Rettens Iustitiarius eller By- eller<lb/>
+Herredsdommeren nærmere bestemmer. De<lb/>
+Stævningsmænd, som yderligere efter Justitsministerens Bestemmelse behøves, bestikkes af<lb/>
+vedkomniende Iustitiarius eller Underretsdommer. Fortegnelse over Retskredsens<lb/>
+Stævningsmænd opslaas paa Tingstederne<lb/>
+samt henholdsvis i Landsretternes og Kjøbenhavns Stadsrets Lokaler, og bekendtgøres<lb/>
+tillige aarlig og oftere, naar Forandring<lb/>
 sker, i de Aviser, fom dertil af Justitsministeren bestemmes.
 </p>
-<wtitle>§ 43.
-</wtitle>
-<p>Enhver Stævningsmand afgiver til<lb />
-vedkommende Iustitiarius eller Underretsdommer en edelig Erklæring om, at han<lb />
-med Troskab og Samvittighedsfuldhed vil<lb />
-opfylde de ham efter Lovene om Retsplejen<lb />
-og den ham meddelte Instruks paahvilende<lb />
-Pligter. Dommeren i Retskredsen har at<lb />
+            </div>
+            <div>
+               <head>§ 43.
+</head>
+               <p>Enhver Stævningsmand afgiver til<lb/>
+vedkommende Iustitiarius eller Underretsdommer en edelig Erklæring om, at han<lb/>
+med Troskab og Samvittighedsfuldhed vil<lb/>
+opfylde de ham efter Lovene om Retsplejen<lb/>
+og den ham meddelte Instruks paahvilende<lb/>
+Pligter. Dommeren i Retskredsen har at<lb/>
 vejlede dem med Hensyn til deres Pligter.
 </p>
-<wtitle>§ 44.
-</wtitle>
-<p>Det underordnede Personale ved højesterets, Landsretternes og Kjøbenhavns<lb />
+            </div>
+            <div>
+               <head>§ 44.
+</head>
+               <p>Det underordnede Personale ved højesterets, Landsretternes og Kjøbenhavns<lb/>
 Stadsrets Skriverkontorer ansættes af vedkommende Rets Iustitiarius.
 </p>
-</rightside></div><?page  r06_00019_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>17
-</pagename>
-<title>Andet Afsnit..<lb />
-Nævningers Kaldelse.<lb />
-Kap. III.
-</title>
-<undertitle>Almindelige Bestemmelser,
-</undertitle>
-<wtitle>§ 45.
-</wtitle>
-<p>For hvert Aar, regnet fra 1ste Juni<lb />
-til 31te Maj, vælges et Antal Mænd til<lb />
-til at udføre Nævningehvervet. Blandt disse<lb />
-udtages Nævningerne for det enkelte Ting<lb />
-ved Lodtrækning, og blandt de saaledes Udtagne atter Nævningerne for den enkelte<lb />
+               <pb xml:id="idr06_00019_proceskom_1892_1"
+                   facs="r06_00019_proceskom_1892_1 "
+                   n="17&#xA;"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Almindelige Bestemmelser,
+</head>
+            </div>
+            <div>
+               <head>§ 45.
+</head>
+               <p>For hvert Aar, regnet fra 1ste Juni<lb/>
+til 31te Maj, vælges et Antal Mænd til<lb/>
+til at udføre Nævningehvervet. Blandt disse<lb/>
+udtages Nævningerne for det enkelte Ting<lb/>
+ved Lodtrækning, og blandt de saaledes Udtagne atter Nævningerne for den enkelte<lb/>
 Sag, ligeledes ved Lodtrækning.
 </p>
-<p>Ved Nævningekreds forstaas den Del<lb />
-af en Landsretskreds, som er henlagt til<lb />
+               <p>Ved Nævningekreds forstaas den Del<lb/>
+af en Landsretskreds, som er henlagt til<lb/>
 samme  Landsretstingsted.
 </p>
-<wtitle>§ 46.
-</wtitle>
-<p>Til Nævning kan med de af §§ 47 og<lb />
-48 følgende Undtagelser kaldes Enhver, som<lb />
-har Valgret til Folketinget, medmindre han<lb />
-paa Grund af legemlige Mangler eller utilstrækkeligt Kendskab til det danske Sprog er<lb />
-ude af Stand til at fyldestgøre en Nævnings<lb />
-Pligter. Den for Valgretten gældende Betingelse med Hensyn til Boligen bliver her<lb />
-at anvende saaledes, at den Paagældende i<lb />
-det Nar, der gaar forud for Nævningeaarets<lb />
+            </div>
+            <div>
+               <head>§ 46.
+</head>
+               <p>Til Nævning kan med de af §§ 47 og<lb/>
+48 følgende Undtagelser kaldes Enhver, som<lb/>
+har Valgret til Folketinget, medmindre han<lb/>
+paa Grund af legemlige Mangler eller utilstrækkeligt Kendskab til det danske Sprog er<lb/>
+ude af Stand til at fyldestgøre en Nævnings<lb/>
+Pligter. Den for Valgretten gældende Betingelse med Hensyn til Boligen bliver her<lb/>
+at anvende saaledes, at den Paagældende i<lb/>
+det Nar, der gaar forud for Nævningeaarets<lb/>
 Begyndelse, stal have haft Bopæl i Nævningekredsen.
 </p>
-<wtitle>§ 47.
-</wtitle>
-<p>Udelukkede fra at være Nævninger ere:<lb />
-Ministre, Departementschefer, Medlemmer af<lb />
-højesteret samt Dommere i Landsretterne<lb />
+            </div>
+            <div>
+               <head>§ 47.
+</head>
+               <p>Udelukkede fra at være Nævninger ere:<lb/>
+Ministre, Departementschefer, Medlemmer af<lb/>
+højesteret samt Dommere i Landsretterne<lb/>
 og Underretterne, offentlige Anklagere, Overøvrigheder, Politiets Embeds- og Bestillings-mænd, Folkekirkens og de anerkendte Trossamfunds Gejstlige.
 </p>
-<wtitle>§ 48.
-</wtitle>
-<p>Følgende Personer   kunne  begære sig<lb />
+            </div>
+            <div>
+               <head>§ 48.
+</head>
+               <p>Følgende Personer   kunne  begære sig<lb/>
 fritagne for Nævningehvervet:
 </p>
-<p>1) Rigsdagsmænd, medens Rigsdagen<lb />
+               <p>1) Rigsdagsmænd, medens Rigsdagen<lb/>
 er samlet,
 </p>
-<pagename>3
-</pagename>
-</leftside></div><?page  r06_00020_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<p>18
+               <pb xml:id="idr06_00020_proceskom_1892_1"
+                   facs="r06_00020_proceskom_1892_1 "
+                   n="19&#xA;"/>
+               <p>18
 2)	</p>
-<p>Told-  og  Postembedsmænd,   faste<lb />
-Brandfolk, saavelsom de ved Jernbaner  og<lb />
+               <p>Told-  og  Postembedsmænd,   faste<lb/>
+Brandfolk, saavelsom de ved Jernbaner  og<lb/>
 Telegrafer samt Telefoner ansatte Personer,
 3)	</p>
-<p>Apotekere, der drive deres Næring<lb />
+               <p>Apotekere, der drive deres Næring<lb/>
 uden hjælp af en farmaceutisk Kandidat,
 4)	</p>
-<p>Lodser,
+               <p>Lodser,
 5)	</p>
-<p>de, som inden Nævningeaarets Begyndelse fylde 65 Aar,
+               <p>de, som inden Nævningeaarets Begyndelse fylde 65 Aar,
 6)	</p>
-<p>de, som paa Grund af deres Helbredstilstand   eller   Formue-  eller  Familieforhold   ikke   uden   Fare for deres Velfærd<lb />
+               <p>de, som paa Grund af deres Helbredstilstand   eller   Formue-  eller  Familieforhold   ikke   uden   Fare for deres Velfærd<lb/>
 kunne opfylde Nævningepligten,
 7)	</p>
-<p>de, som udelukkende eller væsenligst<lb />
+               <p>de, som udelukkende eller væsenligst<lb/>
 ernære sig ved deres Hænders Gærning,
 8)	</p>
-<p>de, som efter den kommunale Nævningekreds Berigtigelse have fæstet Bopæl i<lb />
+               <p>de, som efter den kommunale Nævningekreds Berigtigelse have fæstet Bopæl i<lb/>
 en anden Nævningekreds.
 </p>
-<wtitle>§ 49.
-</wtitle>
-<p>Ingen kan kaldes til Nævning, som<lb />
-ikke er optagen paa Grundlisten (§§ 50 ff.)<lb />
-og Nævningekredsens Aarsliste (§§ 55 ff).<lb />
-Efter den førstnævnte Listes endelige Berigtigelse af Kommunalbestyrelsen kan ingen<lb />
-optages paa den uden ifølge Forandring af<lb />
+            </div>
+            <div>
+               <head>§ 49.
+</head>
+               <p>Ingen kan kaldes til Nævning, som<lb/>
+ikke er optagen paa Grundlisten (§§ 50 ff.)<lb/>
+og Nævningekredsens Aarsliste (§§ 55 ff).<lb/>
+Efter den førstnævnte Listes endelige Berigtigelse af Kommunalbestyrelsen kan ingen<lb/>
+optages paa den uden ifølge Forandring af<lb/>
 Kommunalbestyrelsens Kendelse efter Anke.
 </p>
-<p>Grunde, der udelukke fra Nævningehvervet (§§ 46 og 47), men som maatte være<lb />
-blevne upaaagtede eller først ere opstaaede<lb />
-efter Udløbet af lovbestemt Frist, skulle af<lb />
+               <p>Grunde, der udelukke fra Nævningehvervet (§§ 46 og 47), men som maatte være<lb/>
+blevne upaaagtede eller først ere opstaaede<lb/>
+efter Udløbet af lovbestemt Frist, skulle af<lb/>
 den paagældende Myndighed tages i Betragtning uden Hensyn til nævnte Frist.
 </p>
-<p>Krav paa Fritagelse for Nævningehvervet af Grunde, som først ere opstaaede<lb />
-efter Udløbet af lovbestemt Frist, er ikke<lb />
+               <p>Krav paa Fritagelse for Nævningehvervet af Grunde, som først ere opstaaede<lb/>
+efter Udløbet af lovbestemt Frist, er ikke<lb/>
 afskaaret.
 </p>
-<title>Kap. IV.
-</title>
-<undertitle>Grundlister.
-</undertitle>
-<wtitle>§  50.
-</wtitle>
-<p>Kommunalbestyrelferne — i Kjøbenhavn den samlede Kommunalbestyrelse ved<lb />
-et Udvalg af 4 Medlemmer, af hvilke 2<lb />
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Grundlister.
+</head>
+            </div>
+            <div>
+               <head>§  50.
+</head>
+               <p>Kommunalbestyrelferne — i Kjøbenhavn den samlede Kommunalbestyrelse ved<lb/>
+et Udvalg af 4 Medlemmer, af hvilke 2<lb/>
 udnævnes af Magistraten og 2 af Borgerrepræsentanterne, saaledes at i Tilfælde af
 </p>
-</rightside></div><?page  r06_00021_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>19
-</pagename>
-<p>Stemmelighed Lodtrækning gør Udslaget —<lb />
-udvælge aarlig blandt de Personer, der ere<lb />
-opførte paa Folketingsvalglisten og opfylde de<lb />
-øvrige i §§ 46 og 47 forefkrevne Betingelser,<lb />
-mænd, der anses for særlig egnede og værdige<lb />
-til Nævningehvervet, nemlig i Kjøbenhavn<lb />
-1200 og 200 Suppleanter, paa Landet i hver<lb />
-Sogneraadskreds 5 (paa Bornholm dog 6)<lb />
-og, 2 Suppleanter, og i Købstæderne samt<lb />
-i Handelspladserne 1 for hvert fulde<lb />
-Antal af 250 Indbyggere og 1 Suppleant<lb />
+               <pb xml:id="idr06_00021_proceskom_1892_1"
+                   facs="r06_00021_proceskom_1892_1 "
+                   n="19&#xA;"/>
+               <p>Stemmelighed Lodtrækning gør Udslaget —<lb/>
+udvælge aarlig blandt de Personer, der ere<lb/>
+opførte paa Folketingsvalglisten og opfylde de<lb/>
+øvrige i §§ 46 og 47 forefkrevne Betingelser,<lb/>
+mænd, der anses for særlig egnede og værdige<lb/>
+til Nævningehvervet, nemlig i Kjøbenhavn<lb/>
+1200 og 200 Suppleanter, paa Landet i hver<lb/>
+Sogneraadskreds 5 (paa Bornholm dog 6)<lb/>
+og, 2 Suppleanter, og i Købstæderne samt<lb/>
+i Handelspladserne 1 for hvert fulde<lb/>
+Antal af 250 Indbyggere og 1 Suppleant<lb/>
 for hvert fulde Antal af 500 Indbyggere.
 </p>
-<p>De Landdistrikter, som med Hensyn til	X
+               <p>De Landdistrikter, som med Hensyn til	X
 </p>
-<p>Fattig- eller Skolevæsen have kommunal Bestyrelse fælles med en Købstad (Lov om<lb />
-Landkommunernes Styrelse af 6. Juli 1867<lb />
-§ 4, Lov om Købstadkommunernes Styrelse<lb />
-af 26. Maj 1868 § 15), henregnes i den her<lb />
+               <p>Fattig- eller Skolevæsen have kommunal Bestyrelse fælles med en Købstad (Lov om<lb/>
+Landkommunernes Styrelse af 6. Juli 1867<lb/>
+§ 4, Lov om Købstadkommunernes Styrelse<lb/>
+af 26. Maj 1868 § 15), henregnes i den her<lb/>
 omtalte Henseende til Købstaden.
 </p>
-<wtitle>§ 51.
-</wtitle>
-<p>Fortegnelse over de ifølge § 50<lb />
-valgte mænd (Grundlisten) skal fremlægges<lb />
-til almindeligt Eftersyn i Overensstemmelse<lb />
+            </div>
+            <div>
+               <head>§ 51.
+</head>
+               <p>Fortegnelse over de ifølge § 50<lb/>
+valgte mænd (Grundlisten) skal fremlægges<lb/>
+til almindeligt Eftersyn i Overensstemmelse<lb/>
 med de i Lov 12. Juli 1867 § 12 for Valglisterne til Folketinget foreskrevne Negler.
 </p>
-<p>Indsigelser mod Listen eller Begæringer<lb />
-om Fritagelse for Nævningehvervet skulle<lb />
-fremsættes skriftlig for Kommunalbestyrelsen<lb />
-under Angivelse af Grunden, hvorpaa de<lb />
-støttes, inden 3 Dage fra Udløbet af den<lb />
+               <p>Indsigelser mod Listen eller Begæringer<lb/>
+om Fritagelse for Nævningehvervet skulle<lb/>
+fremsættes skriftlig for Kommunalbestyrelsen<lb/>
+under Angivelse af Grunden, hvorpaa de<lb/>
+støttes, inden 3 Dage fra Udløbet af den<lb/>
 Tid, i hvilken Listen ligger fremme.
 </p>
-<p>Indsigelse kan fremsattes af Enhver,<lb />
-som anser sig uden føje optagen paa Listen,<lb />
-eller som efter § 48 mener at have Krav<lb />
-paa Fritagelse, saavelsom af enhver til Folketinget valgbar Beboer af Kommunen, som<lb />
-formener, at Nogen uberettiget er optagen<lb />
+               <p>Indsigelse kan fremsattes af Enhver,<lb/>
+som anser sig uden føje optagen paa Listen,<lb/>
+eller som efter § 48 mener at have Krav<lb/>
+paa Fritagelse, saavelsom af enhver til Folketinget valgbar Beboer af Kommunen, som<lb/>
+formener, at Nogen uberettiget er optagen<lb/>
 paa Listen.
 </p>
-<p>De fremkomne Indsigelser paakendes af<lb />
-Kommunalbestyrelsen, i Kjøbenhavn af det i<lb />
-§ 50 nævnte Udvalg, under Iagttagelse af<lb />
-de i Lov om Valgene til Rigsdagen af 12.<lb />
-Juli 1867 § 14 foreskrevne Regler. Kendelsen kan af den, hvem den gaar imod,<lb />
-indankes til Udvalget for Aarslistens Dannelse. Meddelelse om, at Anke vil finde<lb />
-Sted, skal inden 3 Dage efter Kendelsens<lb />
+               <p>De fremkomne Indsigelser paakendes af<lb/>
+Kommunalbestyrelsen, i Kjøbenhavn af det i<lb/>
+§ 50 nævnte Udvalg, under Iagttagelse af<lb/>
+de i Lov om Valgene til Rigsdagen af 12.<lb/>
+Juli 1867 § 14 foreskrevne Regler. Kendelsen kan af den, hvem den gaar imod,<lb/>
+indankes til Udvalget for Aarslistens Dannelse. Meddelelse om, at Anke vil finde<lb/>
+Sted, skal inden 3 Dage efter Kendelsens<lb/>
 Afsigelse gøres til Kommunalbestyrelsen.
 </p>
-</leftside></div><?page  r06_00022_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>20
-</pagename>
-<wtitle>§ 52.
-</wtitle>
-<p>Den efter Afgørelsen af fremfatte Indsigelser berigtigede Liste underskrives af Kommunalbestyrelsens — i Kjøbenhavn det i § 50<lb />
-ommeldte Udvalgs — Formand og indsendes<lb />
-af ham inden 1ste April til Formanden for<lb />
-Udvalget til Aarslistens Dannelse (§ 55).<lb />
-Saa stal og Afskrift af de Kendelser, mod<lb />
-hvilke Anke, overensstemmende med § 51 i<lb />
+               <pb xml:id="idr06_00022_proceskom_1892_1"
+                   facs="r06_00022_proceskom_1892_1 "
+                   n="20&#xA;"/>
+            </div>
+            <div>
+               <head>§ 52.
+</head>
+               <p>Den efter Afgørelsen af fremfatte Indsigelser berigtigede Liste underskrives af Kommunalbestyrelsens — i Kjøbenhavn det i § 50<lb/>
+ommeldte Udvalgs — Formand og indsendes<lb/>
+af ham inden 1ste April til Formanden for<lb/>
+Udvalget til Aarslistens Dannelse (§ 55).<lb/>
+Saa stal og Afskrift af de Kendelser, mod<lb/>
+hvilke Anke, overensstemmende med § 51 i<lb/>
 Slutningen, er anmeldt, indsendes med fornødne Oplysninger.
 </p>
-<wtitle>§ 53.
-</wtitle>
-<p>I Tilfælde af Forsømmelse med Listernes Indsendelse stal Formanden for Udvalget<lb />
-til Aarslistens Dannelses i fornødent Fald<lb />
-ved Anvendelse af passende Tvangsbøder,<lb />
-drage Omsorg for, at de savnede Lister uopholdelig indsendes. Findes det, at Listen<lb />
-i nogen Kommune ikke paa lovbefalet Maade<lb />
-er bragt istand, paalægger han, i fornødent<lb />
-Fald under Tvangsbøder, Kommunalbestyrelsen ufortøvet at træffe de i Loven<lb />
-befalede Foranstaltninger, om fornødent<lb />
-med Forkortelse af de lovbestemte Frister,<lb />
-og gør Indberetning herom til Justitsministeren, der afgør, om Strafansvar stal<lb />
-gøres gældende. Tvangsbøderne tilfalde<lb />
+            </div>
+            <div>
+               <head>§ 53.
+</head>
+               <p>I Tilfælde af Forsømmelse med Listernes Indsendelse stal Formanden for Udvalget<lb/>
+til Aarslistens Dannelses i fornødent Fald<lb/>
+ved Anvendelse af passende Tvangsbøder,<lb/>
+drage Omsorg for, at de savnede Lister uopholdelig indsendes. Findes det, at Listen<lb/>
+i nogen Kommune ikke paa lovbefalet Maade<lb/>
+er bragt istand, paalægger han, i fornødent<lb/>
+Fald under Tvangsbøder, Kommunalbestyrelsen ufortøvet at træffe de i Loven<lb/>
+befalede Foranstaltninger, om fornødent<lb/>
+med Forkortelse af de lovbestemte Frister,<lb/>
+og gør Indberetning herom til Justitsministeren, der afgør, om Strafansvar stal<lb/>
+gøres gældende. Tvangsbøderne tilfalde<lb/>
 Statskassen.
 </p>
-<wtitle>§ 54.
-</wtitle>
-<p>Dersom hidtil upaaagtede eller fenere<lb />
-opstaaede Grunde, som udelukke nogen paa<lb />
-Grundlisten opført Person fra Nævningehvervet, efter den i § 51 ommeldte Frists<lb />
-Udløb maatte komme til Kommunalbestyrelsens Kundskab, stal derom ved Indsendelse<lb />
-af Listen eller senere, saa snart ske kan,<lb />
-gøres Meddelelse, ledsaget af fornødne Oplysninger, til Formanden for Udvalget for<lb />
-Aarslistens Dannelse, saafremt enten Lodtrækningen til denne Liste endnu ikke har<lb />
-fundet Sted, eller den Paagældende ved Lodtrækningen er bleven optaget paa den. Herom<lb />
-skal Kommunalbestyrelsen samtidig underrette<lb />
+            </div>
+            <div>
+               <head>§ 54.
+</head>
+               <p>Dersom hidtil upaaagtede eller fenere<lb/>
+opstaaede Grunde, som udelukke nogen paa<lb/>
+Grundlisten opført Person fra Nævningehvervet, efter den i § 51 ommeldte Frists<lb/>
+Udløb maatte komme til Kommunalbestyrelsens Kundskab, stal derom ved Indsendelse<lb/>
+af Listen eller senere, saa snart ske kan,<lb/>
+gøres Meddelelse, ledsaget af fornødne Oplysninger, til Formanden for Udvalget for<lb/>
+Aarslistens Dannelse, saafremt enten Lodtrækningen til denne Liste endnu ikke har<lb/>
+fundet Sted, eller den Paagældende ved Lodtrækningen er bleven optaget paa den. Herom<lb/>
+skal Kommunalbestyrelsen samtidig underrette<lb/>
 den, om hvis Udelukkelse der er Tale.
 </p>
-</rightside></div><?page  r06_00023_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>21
-</pagename>
-<title>Kap. V.
-</title>
-<undertitle>Nævningekredsens Aarsliste.
-</undertitle>
-<wtitle>§ 55.
-</wtitle>
-<p>Til Afgørelse af, hvilke Mænd der<lb />
-skulle opføres paa Nævningekredsens Aarsliste, dannes for 3 Aar ad Gangen i hver<lb />
-Kreds et Udvalg, bestaaende af en af Kongen<lb />
-beskikket Formand, to af Landsrettens Iustitiarius og to af vedkommende Amtsraad og<lb />
+               <pb xml:id="idr06_00023_proceskom_1892_1"
+                   facs="r06_00023_proceskom_1892_1 "
+                   n="21&#xA;"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Nævningekredsens Aarsliste.
+</head>
+            </div>
+            <div>
+               <head>§ 55.
+</head>
+               <p>Til Afgørelse af, hvilke Mænd der<lb/>
+skulle opføres paa Nævningekredsens Aarsliste, dannes for 3 Aar ad Gangen i hver<lb/>
+Kreds et Udvalg, bestaaende af en af Kongen<lb/>
+beskikket Formand, to af Landsrettens Iustitiarius og to af vedkommende Amtsraad og<lb/>
 Købstad-Kommunalbestyrelser valgte Medlemmer.
 </p>
-<p>De nærmere fornødne Regler om de<lb />
-to sidstnævnte Udvalgsmedlemmers Valg<lb />
+               <p>De nærmere fornødne Regler om de<lb/>
+to sidstnævnte Udvalgsmedlemmers Valg<lb/>
 fastsættes af Justitsministeren.
 </p>
-<p>Udvalgets Medlemmer ere berettigede<lb />
-til Godtgørelse for Befordring med 1½  Kr.<lb />
-for hver løbende mil; de Udlæg, som Udførelse af de Udvalgets Formand i de følgende Paragrafer paalagte Forretninger<lb />
+               <p>Udvalgets Medlemmer ere berettigede<lb/>
+til Godtgørelse for Befordring med 1½  Kr.<lb/>
+for hver løbende mil; de Udlæg, som Udførelse af de Udvalgets Formand i de følgende Paragrafer paalagte Forretninger<lb/>
 medføre,  godtgøres efter Regning.
 </p>
-<wtitle>§ 56.
-</wtitle>
-<p>Formanden for det i § 55 nævnte Udvalg sammenkalder Møde af Udvalget paa<lb />
-Nævningekredsens Tingsted, saa betids, at<lb />
-Aarslisten kan være affattet inden 1ste Maj.<lb />
-Om Tid og Sted for Modet, som afholdes<lb />
-offentlig, skal mindst 1 Uge forud Bekendtgørelse indrykkes i de af Justitsministeren<lb />
-bestemte Aviser, med Opfordring til dem,<lb />
-som i medfør af § 51 i Slutningen agte<lb />
-at paaanke en Kendelse af Kommunalbestyrelsen, samt til de paa Grundlisterne opførte<lb />
-Personer, der maatte mene at have et ved<lb />
-§ 48 hjemlet og ikke ved Forsømmelse (§49<lb />
-i Slutningen) afstaaret Krav paa Fritagelse,<lb />
-om senest Dagen før det berammede møde<lb />
-skriftlig og med Angivelse af Grund at indgive deres Anke eller Begæring til Udvalgets<lb />
+            </div>
+            <div>
+               <head>§ 56.
+</head>
+               <p>Formanden for det i § 55 nævnte Udvalg sammenkalder Møde af Udvalget paa<lb/>
+Nævningekredsens Tingsted, saa betids, at<lb/>
+Aarslisten kan være affattet inden 1ste Maj.<lb/>
+Om Tid og Sted for Modet, som afholdes<lb/>
+offentlig, skal mindst 1 Uge forud Bekendtgørelse indrykkes i de af Justitsministeren<lb/>
+bestemte Aviser, med Opfordring til dem,<lb/>
+som i medfør af § 51 i Slutningen agte<lb/>
+at paaanke en Kendelse af Kommunalbestyrelsen, samt til de paa Grundlisterne opførte<lb/>
+Personer, der maatte mene at have et ved<lb/>
+§ 48 hjemlet og ikke ved Forsømmelse (§49<lb/>
+i Slutningen) afstaaret Krav paa Fritagelse,<lb/>
+om senest Dagen før det berammede møde<lb/>
+skriftlig og med Angivelse af Grund at indgive deres Anke eller Begæring til Udvalgets<lb/>
 Formand.
 </p>
-<wtitle>§  57.
-</wtitle>
-<p>Udvalget afgør først de Spørgsmaal<lb />
-vedrørende Optagelsen paa Grundlisten, som<lb />
-ifølge §§ 54 og 56 ere forelagte det, eller som<lb />
-det selv maatte sinde Anledning til at rejse<lb />
+            </div>
+            <div>
+               <head>§  57.
+</head>
+               <p>Udvalget afgør først de Spørgsmaal<lb/>
+vedrørende Optagelsen paa Grundlisten, som<lb/>
+ifølge §§ 54 og 56 ere forelagte det, eller som<lb/>
+det selv maatte sinde Anledning til at rejse<lb/>
 ifølge fremkomne, paa bestemte Kendsgærninger støttet Tvivl om, hvorvidt nogen af
 </p>
-</leftside></div><?page  r06_00024_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>22
-</pagename>
-<p>de paa Listen opførte mænd fyldestgør Betingelserne efter §§ 46 og 47 for at kunne være<lb />
-Nævning. Der gives dem, hvem Afgørelsen<lb />
-angaar, og som ere mødte eller have ladet<lb />
-møde, Lejlighed til at udtale sig og til at<lb />
+               <pb xml:id="idr06_00024_proceskom_1892_1"
+                   facs="r06_00024_proceskom_1892_1 "
+                   n="22&#xA;"/>
+               <p>de paa Listen opførte mænd fyldestgør Betingelserne efter §§ 46 og 47 for at kunne være<lb/>
+Nævning. Der gives dem, hvem Afgørelsen<lb/>
+angaar, og som ere mødte eller have ladet<lb/>
+møde, Lejlighed til at udtale sig og til at<lb/>
 fremføre medbragte Bevisligheder.
 </p>
-<p>Udvalgets Afgørelser, som paategnes<lb />
+               <p>Udvalgets Afgørelser, som paategnes<lb/>
 Grundlisten, kunne ikke paaankes.
 </p>
-<p>Naar der ved de Afgørelser, som træffes<lb />
-af Kommunalbestyrelsen eller Udvalget, udskydes nogen af de valgte, træder den paa<lb />
+               <p>Naar der ved de Afgørelser, som træffes<lb/>
+af Kommunalbestyrelsen eller Udvalget, udskydes nogen af de valgte, træder den paa<lb/>
 Listen først opførte Suppleant i den Udelukkedes Sted.
 </p>
-<wtitle>§ 58.
-</wtitle>
-<p>Naar de nævnte Fortegnelser paa den<lb />
-anførte Maade ere berigtigede, bliver af det<lb />
-hele for hver Nævningekreds særligt udpegede Antal mænd ved Lodtrækning at<lb />
-udtage, for den kjøbenhavnske Kreds 600, for<lb />
-den bornholmske Kreds 120 og for hver af<lb />
-de øvrige Nævningekredse 200. Listen offentliggøres i de dertil ved Anordning bestemte<lb />
+            </div>
+            <div>
+               <head>§ 58.
+</head>
+               <p>Naar de nævnte Fortegnelser paa den<lb/>
+anførte Maade ere berigtigede, bliver af det<lb/>
+hele for hver Nævningekreds særligt udpegede Antal mænd ved Lodtrækning at<lb/>
+udtage, for den kjøbenhavnske Kreds 600, for<lb/>
+den bornholmske Kreds 120 og for hver af<lb/>
+de øvrige Nævningekredse 200. Listen offentliggøres i de dertil ved Anordning bestemte<lb/>
 Aviser.
 </p>
-<p>De saaledes udtagne Mænd opføres<lb />
-med deres fulde Navn, Livsstilling og Bopæl efter Bogstavfølge og under Løbenumre<lb />
-paa en særegen Liste, som underskrives af<lb />
+               <p>De saaledes udtagne Mænd opføres<lb/>
+med deres fulde Navn, Livsstilling og Bopæl efter Bogstavfølge og under Løbenumre<lb/>
+paa en særegen Liste, som underskrives af<lb/>
 Udvalgets Medlemmer og udgør Nævningekredsens Aarsliste.
 </p>
-<wtitle>§ 59.
-</wtitle>
-<p>Viser Nogen Forsømmelse i Udførelsen<lb />
-af de ham efter Kap. III—V paahvilende Forretninger, bliver han, forsaavidt ikke højere<lb />
-Straf er forskyldt efter Lovgivningens almin<lb />
-delige Bestemmelser, at anse med Bøder fra<lb />
+            </div>
+            <div>
+               <head>§ 59.
+</head>
+               <p>Viser Nogen Forsømmelse i Udførelsen<lb/>
+af de ham efter Kap. III—V paahvilende Forretninger, bliver han, forsaavidt ikke højere<lb/>
+Straf er forskyldt efter Lovgivningens almin<lb/>
+delige Bestemmelser, at anse med Bøder fra<lb/>
 20—400 Kr., der tilfalde Statskassen.
 </p>
-<title>Kap. VI.
-</title>
-<undertitle>Nævninger for det enkelte Ting.
-</undertitle>
-<wtitle>§ 60.
-</wtitle>
-<p>Mindst en Uge før hvert Ting, paa<lb />
-hvilket Nævningesager skulle paakendes, afholder det i § 55 nævnte Udvalg et offentligt<lb />
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Nævninger for det enkelte Ting.
+</head>
+            </div>
+            <div>
+               <head>§ 60.
+</head>
+               <p>Mindst en Uge før hvert Ting, paa<lb/>
+hvilket Nævningesager skulle paakendes, afholder det i § 55 nævnte Udvalg et offentligt<lb/>
 møde paa Tingstedet,  for ved Lodtrækning
 </p>
-</rightside></div><?page  r06_00025_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>23
-</pagename>
-<p>at udtage Nævninger for det forestaaende<lb />
-Ting. mødets Tid og Sted lader Formanden mindst en Uge forud bekendtgøre i de<lb />
-af Justitsministeren bestemte Tidender med<lb />
-Opfordring til de paa Aarslisten opførte<lb />
-Perfoner, fom mene at have et ved § 48<lb />
-hjemlet og ikke ved Forsømmelse afskaaret<lb />
-Krav paa Fritagelse, om senest Dagen fsr<lb />
+               <pb xml:id="idr06_00025_proceskom_1892_1"
+                   facs="r06_00025_proceskom_1892_1 "
+                   n="23&#xA;"/>
+               <p>at udtage Nævninger for det forestaaende<lb/>
+Ting. mødets Tid og Sted lader Formanden mindst en Uge forud bekendtgøre i de<lb/>
+af Justitsministeren bestemte Tidender med<lb/>
+Opfordring til de paa Aarslisten opførte<lb/>
+Perfoner, fom mene at have et ved § 48<lb/>
+hjemlet og ikke ved Forsømmelse afskaaret<lb/>
+Krav paa Fritagelse, om senest Dagen fsr<lb/>
 det berammede møde skriftlig med Angivelse af Grund at indgive deres Begæring til Udvalgets Formand.
 </p>
-<p>Denne lader før Modet de Navne,<lb />
-som findes paa Aarslisten, og som ikke<lb />
-ifølge Afgørelser, trufne i Anledning af<lb />
-tidligere Ting i Nævningeaaret, eller i<lb />
-Medfør af Neglen i § 73 maatte være udgaaede, afskrive paa Sedler med deres paa<lb />
+               <p>Denne lader før Modet de Navne,<lb/>
+som findes paa Aarslisten, og som ikke<lb/>
+ifølge Afgørelser, trufne i Anledning af<lb/>
+tidligere Ting i Nævningeaaret, eller i<lb/>
+Medfør af Neglen i § 73 maatte være udgaaede, afskrive paa Sedler med deres paa<lb/>
 Aarslisten opførte Løbenumre.
 </p>
-<wtitle>§ 61.
-</wtitle>
-<p>Paa Modet afgør Udvalget først de<lb />
-mulig fremkomne Spørgsmaal om Fritagelser eller om Udslettelse af Aarslisten.<lb />
-Med Hensyn til disse Afgørelser gælde<lb />
+            </div>
+            <div>
+               <head>§ 61.
+</head>
+               <p>Paa Modet afgør Udvalget først de<lb/>
+mulig fremkomne Spørgsmaal om Fritagelser eller om Udslettelse af Aarslisten.<lb/>
+Med Hensyn til disse Afgørelser gælde<lb/>
 Reglerne i § 57
 </p>
-<wtitle>§ 62.
-</wtitle>
-<p>De Sedler, som ikke ifølge de i forrige<lb />
-Paragraf omtalte Afgørelser maatte blive<lb />
-at lægge til Side, sammenholdes derefter<lb />
-med Aarslisten og eftertælles, hvorefter der<lb />
+            </div>
+            <div>
+               <head>§ 62.
+</head>
+               <p>De Sedler, som ikke ifølge de i forrige<lb/>
+Paragraf omtalte Afgørelser maatte blive<lb/>
+at lægge til Side, sammenholdes derefter<lb/>
+med Aarslisten og eftertælles, hvorefter der<lb/>
 strides til Lodtrækning af 30 hovednævninger og 10 hjælpenævninger for det forestaaende Ting.
 </p>
-<p>Til den Ende blive fyrst de Sedler,<lb />
-der indeholde Navne paa Personer, som bo<lb />
-paa det Sted, hvor Netten skal holdes, eller<lb />
-i Nærheden af det, lagte i en Urne, og<lb />
-blandt dem 10 Sedler udtrukne af Formanden, en for en. Ethvert udtrukket<lb />
-Navn oplæses straks og optegnes paa en<lb />
-Liste. Derefter lægges ogsaa de andre<lb />
-Sedler i Urnen, og 30 Sedler udtages af<lb />
-Formanden, en for en; ethvert udtrukket<lb />
-Navn oplæses straks og optegnes paa en<lb />
-anden Liste. De udtrukne Numre forsynes<lb />
-med Løbenumre efter den Orden, i hvilken<lb />
+               <p>Til den Ende blive fyrst de Sedler,<lb/>
+der indeholde Navne paa Personer, som bo<lb/>
+paa det Sted, hvor Netten skal holdes, eller<lb/>
+i Nærheden af det, lagte i en Urne, og<lb/>
+blandt dem 10 Sedler udtrukne af Formanden, en for en. Ethvert udtrukket<lb/>
+Navn oplæses straks og optegnes paa en<lb/>
+Liste. Derefter lægges ogsaa de andre<lb/>
+Sedler i Urnen, og 30 Sedler udtages af<lb/>
+Formanden, en for en; ethvert udtrukket<lb/>
+Navn oplæses straks og optegnes paa en<lb/>
+anden Liste. De udtrukne Numre forsynes<lb/>
+med Løbenumre efter den Orden, i hvilken<lb/>
 de udtrækkes. 
 </p>
-</leftside></div><?page  r06_00026_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>24
-</pagename>
-<p>Den sidste Liste er Tingets Hovedliste,<lb />
-den første hjælpelisten. Begge Lifter underskrives af Udvalgets' Formand. De nævnte<lb />
-Lister gælde for hele det forestaaende Ting,<lb />
-om dette endog maatte fortsættes udover<lb />
+               <pb xml:id="idr06_00026_proceskom_1892_1"
+                   facs="r06_00026_proceskom_1892_1 "
+                   n="24&#xA;"/>
+               <p>Den sidste Liste er Tingets Hovedliste,<lb/>
+den første hjælpelisten. Begge Lifter underskrives af Udvalgets' Formand. De nævnte<lb/>
+Lister gælde for hele det forestaaende Ting,<lb/>
+om dette endog maatte fortsættes udover<lb/>
 den 31te Maj.
 </p>
-<wtitle>§ 63.
-</wtitle>
-<p>Ved Lodtrækningen . til hjælpelisten<lb />
-blive de Personer, som have været opførte<lb />
-paa Hjælpelisten ved tidligere Ting i Nævningeaaret, men ikke have været indkaldte,<lb />
-ikke medtagne, forsaavidt der foruden dem<lb />
-paa Aarslisten findes opført et tilstrækkeligt Antal saadanne Personer, som komme<lb />
+            </div>
+            <div>
+               <head>§ 63.
+</head>
+               <p>Ved Lodtrækningen . til hjælpelisten<lb/>
+blive de Personer, som have været opførte<lb/>
+paa Hjælpelisten ved tidligere Ting i Nævningeaaret, men ikke have været indkaldte,<lb/>
+ikke medtagne, forsaavidt der foruden dem<lb/>
+paa Aarslisten findes opført et tilstrækkeligt Antal saadanne Personer, som komme<lb/>
 i Betragtning til Hjælpelisten.
 </p>
-<wtitle>§ 64.
-</wtitle>
-<p>Genparter af Hovedliften og Hjælpelisten skulle mindst en Uge før Tingets Begyndelse tilstilles Landsretten og Overanklagerne. Tilsvarende Genparter tilstilles<lb />
-ved Foranstaltning af Formanden for det<lb />
-forestaaende Ting, mindst 6 Dage før Tinget eller Dagen, til hvilken Indstævning er<lb />
-sket, mulige private Sagsøgere samt hver af<lb />
-de Tiltalte og deres Forsvarere. Finder<lb />
-Indstævning med kortere Varsel Sted, afkortes denne Frist saaledes, at den bliver<lb />
-en Dag kortere end Varslet. Til de Tiltalte sker Meddelelsen paa den i Lov om<lb />
+            </div>
+            <div>
+               <head>§ 64.
+</head>
+               <p>Genparter af Hovedliften og Hjælpelisten skulle mindst en Uge før Tingets Begyndelse tilstilles Landsretten og Overanklagerne. Tilsvarende Genparter tilstilles<lb/>
+ved Foranstaltning af Formanden for det<lb/>
+forestaaende Ting, mindst 6 Dage før Tinget eller Dagen, til hvilken Indstævning er<lb/>
+sket, mulige private Sagsøgere samt hver af<lb/>
+de Tiltalte og deres Forsvarere. Finder<lb/>
+Indstævning med kortere Varsel Sted, afkortes denne Frist saaledes, at den bliver<lb/>
+en Dag kortere end Varslet. Til de Tiltalte sker Meddelelsen paa den i Lov om<lb/>
 Strafferetsplejen §§ 81 ff. foreskrevne Maade.
 </p>
-<wtitle>§ 65.
-</wtitle>
-<p>Udvalgets Formand drager Omsorg<lb />
-for, at de paa Hovedlisten opførte Personer<lb />
-paa den i Lov om Strafferetsplejen §§ 81 ff.<lb />
-foreskrevne Maade indkaldes med en Uges<lb />
-Varsel til at give møde i Netten ved en<lb />
-Tilsigelse, som angiver Tid og Sted for<lb />
-Rettens Holdelse og indeholder Paamindelse<lb />
-om Pligten til betimelig Angivelse af mulige<lb />
-Fritagelsesgrunde eller Forfald samt om<lb />
+            </div>
+            <div>
+               <head>§ 65.
+</head>
+               <p>Udvalgets Formand drager Omsorg<lb/>
+for, at de paa Hovedlisten opførte Personer<lb/>
+paa den i Lov om Strafferetsplejen §§ 81 ff.<lb/>
+foreskrevne Maade indkaldes med en Uges<lb/>
+Varsel til at give møde i Netten ved en<lb/>
+Tilsigelse, som angiver Tid og Sted for<lb/>
+Rettens Holdelse og indeholder Paamindelse<lb/>
+om Pligten til betimelig Angivelse af mulige<lb/>
+Fritagelsesgrunde eller Forfald samt om<lb/>
 Følgerne af Forsømmelse i denne Henseende    og    af   Udeblivelse    uden   lovligt
 </p>
-<p>Forfald.
+               <p>Forfald.
 </p>
-<p>Paa  lignende   Maade   gives   der   de<lb />
+               <p>Paa  lignende   Maade   gives   der   de<lb/>
 paa Hjælpelisten opførte Personer Tilsigelse
 </p>
-</rightside></div><?page  r06_00027_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>25
-</pagename>
-<p>om, at de under det forestaaende Ting<lb />
-skulle holde sig beredte til efter Indkaldelse<lb />
+               <pb xml:id="idr06_00027_proceskom_1892_1"
+                   facs="r06_00027_proceskom_1892_1 "
+                   n="25&#xA;"/>
+               <p>om, at de under det forestaaende Ting<lb/>
+skulle holde sig beredte til efter Indkaldelse<lb/>
 at møde  til  Udøvelse  af Nævningehvervet.
 </p>
-<wtitle>§ 66.
-</wtitle>
-<p>Hvis nogen af de tilsagte Hoved- eller<lb />
-Hjælpenævninger mener at have noget ikke<lb />
-ved Forsømmelse afskaaret Krav paa Fritagelse eller at have lovligt Forfald, bør<lb />
-han ved Tilsigelsens Forkyndelse eller saa<lb />
-snart, som det bliver ham muligt, opgive<lb />
-saadant enten for Stævningsmanden, der<lb />
-paategner Tilsigelsen Bemærkning herom,<lb />
-eller skriftligt til Udvalgets Formand, samt<lb />
-meddele de Oplysninger i saa Henseende,<lb />
+            </div>
+            <div>
+               <head>§ 66.
+</head>
+               <p>Hvis nogen af de tilsagte Hoved- eller<lb/>
+Hjælpenævninger mener at have noget ikke<lb/>
+ved Forsømmelse afskaaret Krav paa Fritagelse eller at have lovligt Forfald, bør<lb/>
+han ved Tilsigelsens Forkyndelse eller saa<lb/>
+snart, som det bliver ham muligt, opgive<lb/>
+saadant enten for Stævningsmanden, der<lb/>
+paategner Tilsigelsen Bemærkning herom,<lb/>
+eller skriftligt til Udvalgets Formand, samt<lb/>
+meddele de Oplysninger i saa Henseende,<lb/>
 som staa til hans Raadighed.
 </p>
-<p>Forsømmelse af betimelig Anmeldelse<lb />
+               <p>Forsømmelse af betimelig Anmeldelse<lb/>
 af Fritagelsesgrunde medfører deres Fortabelse.
 </p>
-<wtitle>§  67.
-</wtitle>
-<p>Finder Udvalgets Formand efter de<lb />
-foreliggende Oplysninger, at en fremsat<lb />
-Begæring om Fritagelse bor tages til<lb />
-Følge, eller at et opgivet Forfald er gyldigt, eller at det ved de i § 54 nævnte<lb />
-Meddelelser er oplyst, at Grunde ere forhaanden, som udelukke nogen af de udtrukne<lb />
-Hoved- eller Hjælpenævninger fra Nævningehvervet, foretager han i et offentligt,<lb />
-Dagen forud bekendtgjort møde paa lignende<lb />
-Maade, som i §§ 60—63 foreskrevet, ny<lb />
+            </div>
+            <div>
+               <head>§  67.
+</head>
+               <p>Finder Udvalgets Formand efter de<lb/>
+foreliggende Oplysninger, at en fremsat<lb/>
+Begæring om Fritagelse bor tages til<lb/>
+Følge, eller at et opgivet Forfald er gyldigt, eller at det ved de i § 54 nævnte<lb/>
+Meddelelser er oplyst, at Grunde ere forhaanden, som udelukke nogen af de udtrukne<lb/>
+Hoved- eller Hjælpenævninger fra Nævningehvervet, foretager han i et offentligt,<lb/>
+Dagen forud bekendtgjort møde paa lignende<lb/>
+Maade, som i §§ 60—63 foreskrevet, ny<lb/>
 Lodtrækning til Fuldstændiggørelse henholdsvis af Hovedliften og Hjælpelisten.
 </p>
-<p>Mod Hensyn til de ved denne Lodtrækning udtrukne Nævninger iagttages<lb />
-Reglerne i §§ 64 og 65 snarest muligt;<lb />
-de der ommeldte Frister forkortes saa meget,<lb />
+               <p>Mod Hensyn til de ved denne Lodtrækning udtrukne Nævninger iagttages<lb/>
+Reglerne i §§ 64 og 65 snarest muligt;<lb/>
+de der ommeldte Frister forkortes saa meget,<lb/>
 som Omstændighederne gøre nødvendigt.
 </p>
-<p>Finder Udvalgets Formand ikke tilstrækkelig Grund til at tage Hensyn til<lb />
-fremsatte Begæringer om Fritagelse eller<lb />
-opgivne Forfald, lader han Meddelelse<lb />
-derom forkynde for Paagældende paa den<lb />
-i § 65 bestemte Maade med Betydning om,<lb />
+               <p>Finder Udvalgets Formand ikke tilstrækkelig Grund til at tage Hensyn til<lb/>
+fremsatte Begæringer om Fritagelse eller<lb/>
+opgivne Forfald, lader han Meddelelse<lb/>
+derom forkynde for Paagældende paa den<lb/>
+i § 65 bestemte Maade med Betydning om,<lb/>
 at Spørgsmaalet kan indbringes til Afgørelse  af Retten ved Tingets Begyndelse.
 </p>
-<p>De af Formanden i Henhold til denne<lb />
+               <p>De af Formanden i Henhold til denne<lb/>
 Paragrafs første Stykke trufne Afgørelser om
 </p>
-<pagename>4
-</pagename>
-</leftside></div><?page  r06_00028_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>26
-</pagename>
-<p>Fritagelse  og  Udelukkelse have kun Gyldighed for det forestaaende Ting.
+               <pb xml:id="idr06_00028_proceskom_1892_1"
+                   facs="r06_00028_proceskom_1892_1 "
+                   n="26&#xA;"/>
+               <p>Fritagelse  og  Udelukkelse have kun Gyldighed for det forestaaende Ting.
 </p>
-<wtitle>§ 68.
-</wtitle>
-<p>Dagen før Tingets Begyndelse blive<lb />
-Aarslisten, den endelige Hovedliste og<lb />
-Hjælpeliste for Tinget og de paategnede<lb />
-Tilsigelser til Hoved- og Hjælpenævningerne at tilstille Nettens Formand.<lb />
-Fremdeles skal Udvalgets Formand til<lb />
-samme Tid eller senere snarest muligt tilstille Rettens Formand de Meddelelser, som<lb />
-efter § 54 maatte komme ham ihænde om<lb />
-tidligere upaaagtede eller senere opstaaede<lb />
-Grunde, som udelukke nogen af de paa<lb />
+            </div>
+            <div>
+               <head>§ 68.
+</head>
+               <p>Dagen før Tingets Begyndelse blive<lb/>
+Aarslisten, den endelige Hovedliste og<lb/>
+Hjælpeliste for Tinget og de paategnede<lb/>
+Tilsigelser til Hoved- og Hjælpenævningerne at tilstille Nettens Formand.<lb/>
+Fremdeles skal Udvalgets Formand til<lb/>
+samme Tid eller senere snarest muligt tilstille Rettens Formand de Meddelelser, som<lb/>
+efter § 54 maatte komme ham ihænde om<lb/>
+tidligere upaaagtede eller senere opstaaede<lb/>
+Grunde, som udelukke nogen af de paa<lb/>
 Tingets Lister opførte Personer fra Nævningehvervet.
 </p>
-<wtitle>§ 69.
-</wtitle>
-<p>Enhver Nævning, som udebliver efter<lb />
-behørig Indkaldelse, uden at lovligt Forfald<lb />
-oplyses, eller som, efter at være mødt, uden<lb />
-Orlov eller oplyst lovligt Forfald unddrager sig Opfyldelsen af de ham som<lb />
-Nævning paahvilende Pligter, ifalder en<lb />
-Bøde til Statskassen, første Gang fra 49<lb />
-til 400 Kr., og c Gentagelsestilfælde fra<lb />
+            </div>
+            <div>
+               <head>§ 69.
+</head>
+               <p>Enhver Nævning, som udebliver efter<lb/>
+behørig Indkaldelse, uden at lovligt Forfald<lb/>
+oplyses, eller som, efter at være mødt, uden<lb/>
+Orlov eller oplyst lovligt Forfald unddrager sig Opfyldelsen af de ham som<lb/>
+Nævning paahvilende Pligter, ifalder en<lb/>
+Bøde til Statskassen, første Gang fra 49<lb/>
+til 400 Kr., og c Gentagelsestilfælde fra<lb/>
 100 til 1000 Kr.   .
 </p>
-<p>Spørgsmaal om Nævningers Ansvar<lb />
-efter denne Paragraf afgøres af Retten<lb />
+               <p>Spørgsmaal om Nævningers Ansvar<lb/>
+efter denne Paragraf afgøres af Retten<lb/>
 uden Nævninger.
 </p>
-<p>Den afsagte Kendelse forkyndes snarest<lb />
-muligt for den paagældende Nævning. Denne<lb />
-har i 8 Dage fra Kendelsens Forkyndelse<lb />
-Adgang til at fremkomme med Oplysninger<lb />
-for Retten om, at behørig Indkaldelse ej<lb />
-har fundet Sted, eller at han har haft<lb />
-lovligt Forfald. Findes disse fyldestgørende,<lb />
-ophæver Retten sin Kendelse. De omhandlede Kendelser kunne ikke gøres til Genstand<lb />
+               <p>Den afsagte Kendelse forkyndes snarest<lb/>
+muligt for den paagældende Nævning. Denne<lb/>
+har i 8 Dage fra Kendelsens Forkyndelse<lb/>
+Adgang til at fremkomme med Oplysninger<lb/>
+for Retten om, at behørig Indkaldelse ej<lb/>
+har fundet Sted, eller at han har haft<lb/>
+lovligt Forfald. Findes disse fyldestgørende,<lb/>
+ophæver Retten sin Kendelse. De omhandlede Kendelser kunne ikke gøres til Genstand<lb/>
 or Anke eller Kære.
 </p>
-<wtitle>§ 70.
-</wtitle>
-<p>Har en udebleven Nævning, for hvis<lb />
-Vedkommende lovligt Forfald er oplyst,<lb />
-ikke opfyldt den ham efter § 66 paahvilende Pligt til betimelig Anmeldelse og<lb />
-Meddelelse af Oplysninger, eller nøder en<lb />
+            </div>
+            <div>
+               <head>§ 70.
+</head>
+               <p>Har en udebleven Nævning, for hvis<lb/>
+Vedkommende lovligt Forfald er oplyst,<lb/>
+ikke opfyldt den ham efter § 66 paahvilende Pligt til betimelig Anmeldelse og<lb/>
+Meddelelse af Oplysninger, eller nøder en<lb/>
 Nævning   for sent,   men inden Lodtrækning
 </p>
-</rightside></div><?page  r06_00029_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>27
-</pagename>
-<p>af Nævninger til nogen Sag er begyndt<lb />
-den paagældende Dag, kan Retten ved Kendelse idømme ham en Bøde af indtil 20 Kr.<lb />
-Denne Kendelse kan ikke omgøres af Retten,<lb />
+               <pb xml:id="idr06_00029_proceskom_1892_1"
+                   facs="r06_00029_proceskom_1892_1 "
+                   n="27&#xA;"/>
+               <p>af Nævninger til nogen Sag er begyndt<lb/>
+den paagældende Dag, kan Retten ved Kendelse idømme ham en Bøde af indtil 20 Kr.<lb/>
+Denne Kendelse kan ikke omgøres af Retten,<lb/>
 ej heller paaankes eller paakæres.
 </p>
-<wtitle>§  71.
-</wtitle>
-<p>Rettens Formand kan meddele en<lb />
-Nævning Orlov under Samlingen for en<lb />
+            </div>
+            <div>
+               <head>§  71.
+</head>
+               <p>Rettens Formand kan meddele en<lb/>
+Nævning Orlov under Samlingen for en<lb/>
 bestemt Tid.
 </p>
-<wtitle>§ 72.
-</wtitle>
-<p>Viser det sig under Tinget, at det til<lb />
-Lodtrækningen af Nævninger til en Sag<lb />
-fornødne Antal (Lov om Strafferetsplejen<lb />
-§ 261) ikke kan skaffes tilveje ved Indkaldelse af de tilsagte Hjælpenævninger, foranstalter Rettens Formand Tallet udfyldt<lb />
-ved Lodtrækning blandt de paa Aarslisten<lb />
-opførte Personer, som ere bosatte paa eller<lb />
-nærved det Sted, hvor Retten holdes.<lb />
-Herved bliver Reglen i § 63 at iagttage.<lb />
-De udtrukne Navne tilføres Hjælpelisten<lb />
-og meddeles straks Overanklageren, den eller<lb />
-de Tiltalte og deres beskikkede Forsvarere,<lb />
-hvorhos de Paagældende straks indkaldes<lb />
+            </div>
+            <div>
+               <head>§ 72.
+</head>
+               <p>Viser det sig under Tinget, at det til<lb/>
+Lodtrækningen af Nævninger til en Sag<lb/>
+fornødne Antal (Lov om Strafferetsplejen<lb/>
+§ 261) ikke kan skaffes tilveje ved Indkaldelse af de tilsagte Hjælpenævninger, foranstalter Rettens Formand Tallet udfyldt<lb/>
+ved Lodtrækning blandt de paa Aarslisten<lb/>
+opførte Personer, som ere bosatte paa eller<lb/>
+nærved det Sted, hvor Retten holdes.<lb/>
+Herved bliver Reglen i § 63 at iagttage.<lb/>
+De udtrukne Navne tilføres Hjælpelisten<lb/>
+og meddeles straks Overanklageren, den eller<lb/>
+de Tiltalte og deres beskikkede Forsvarere,<lb/>
+hvorhos de Paagældende straks indkaldes<lb/>
 efter Reglerne i   §   65 med Aftens Varsel.
 </p>
-<wtitle>§ 73.
-</wtitle>
-<p>Ved Tingets Slutning lader Rettens<lb />
-Formand Navnene paa de Nævninger, der<lb />
-efter Indkaldelse have givet behørigt møde<lb />
-paa Tinget, og ikke her efter Begæring paa<lb />
-Grund af en midlertidig Forhindring ere<lb />
-blevne fritagne for at gøre Tjeneste i Henhold til § 48 Nr. 6, udstryge paa Aarslisten.<lb />
-Tillige meddeles der de ovenmeldte Nævninger<lb />
-paa Forlangende uden Betaling Vidnesbyrd af Nettens Skriver om, at de have<lb />
+            </div>
+            <div>
+               <head>§ 73.
+</head>
+               <p>Ved Tingets Slutning lader Rettens<lb/>
+Formand Navnene paa de Nævninger, der<lb/>
+efter Indkaldelse have givet behørigt møde<lb/>
+paa Tinget, og ikke her efter Begæring paa<lb/>
+Grund af en midlertidig Forhindring ere<lb/>
+blevne fritagne for at gøre Tjeneste i Henhold til § 48 Nr. 6, udstryge paa Aarslisten.<lb/>
+Tillige meddeles der de ovenmeldte Nævninger<lb/>
+paa Forlangende uden Betaling Vidnesbyrd af Nettens Skriver om, at de have<lb/>
 givet behørigt Mode under Tinget.
 </p>
-<wtitle>§ 74.
-</wtitle>
-<p>Der tilkommer Nævninger 3 Kr. for<lb />
-hver Dag, de i Anledning af Nævningehvervet holdes borte fra Hjemmet, og endvidere, naar de give Mode over 1/4 Mil fra<lb />
-den By, hvori de bo, eller, naar de bo paa<lb />
+            </div>
+            <div>
+               <head>§ 74.
+</head>
+               <p>Der tilkommer Nævninger 3 Kr. for<lb/>
+hver Dag, de i Anledning af Nævningehvervet holdes borte fra Hjemmet, og endvidere, naar de give Mode over 1/4 Mil fra<lb/>
+den By, hvori de bo, eller, naar de bo paa<lb/>
 Landet, fra deres Hjem, Godtgørelse for Be-
 </p>
-</leftside></div><?page  r06_00030_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>28
-</pagename>
-<p>fordring frem og tilbage med 1½ Kr. for<lb />
+               <pb xml:id="idr06_00030_proceskom_1892_1"
+                   facs="r06_00030_proceskom_1892_1 "
+                   n="28&#xA;"/>
+               <p>fordring frem og tilbage med 1½ Kr. for<lb/>
 hver løbende Mil.
 </p>
-<wtitle>	§ 75.
-</wtitle>
-<p>Aarslisten samt Tingets Hovedliste<lb />
-og Hjælpeliste tilbagesendes efter Tingets<lb />
-Slutning til Formanden for Udvalget til<lb />
+            </div>
+            <div>
+               <head>	§ 75.
+</head>
+               <p>Aarslisten samt Tingets Hovedliste<lb/>
+og Hjælpeliste tilbagesendes efter Tingets<lb/>
+Slutning til Formanden for Udvalget til<lb/>
 Aarslistens Dannelse.
 </p>
-<title>Tredje Afsnit.</title>
-<undertitle>Anklagemyndigheden.</undertitle>
-<title>Kap. VII.</title>
-<wtitle>§  76.
-</wtitle>
-<p>De offentlige Anklagere ere Rigs-anklageren, Overanklagerne samt de til<lb />
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Anklagemyndigheden.</head>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>§  76.
+</head>
+               <p>De offentlige Anklagere ere Rigs-anklageren, Overanklagerne samt de til<lb/>
 disses Bistand bestikkede Mænd.
 </p>
-<wtitle>§  77.
-</wtitle>
-<p>Rigsanklageren beskikkes af Kongen.<lb />
-Til midlertidig at fungere som Rigsanklager<lb />
-i Tilfælde af Embedsledighed eller Forfald<lb />
+            </div>
+            <div>
+               <head>§  77.
+</head>
+               <p>Rigsanklageren beskikkes af Kongen.<lb/>
+Til midlertidig at fungere som Rigsanklager<lb/>
+i Tilfælde af Embedsledighed eller Forfald<lb/>
 kan Justitsministeren meddele Bestikkelse.
 </p>
-<p>Rigsanklageren virker ved Højesteret<lb />
-og fører Tilsynet med de offentlige Anklagere efter de nærmere Regler i Lovene<lb />
+               <p>Rigsanklageren virker ved Højesteret<lb/>
+og fører Tilsynet med de offentlige Anklagere efter de nærmere Regler i Lovene<lb/>
 om Retsplejen.
 </p>
-<p>Rigsanklageren har Embedskontor i<lb />
+               <p>Rigsanklageren har Embedskontor i<lb/>
 Kjøbenhavn.
 </p>
-<wtitle>§ 78.
-</wtitle>
-<p>Til Bistand ved Udførelsen af Rigsanklagerens Hverv beskikker Kongen en Overanklager.
+            </div>
+            <div>
+               <head>§ 78.
+</head>
+               <p>Til Bistand ved Udførelsen af Rigsanklagerens Hverv beskikker Kongen en Overanklager.
 </p>
-<p>Justitsministeren kan efter Forhandling med Rigsanklageren give ogsaa Andre<lb />
-Bemyndigelse til at optræde i en enkelt<lb />
+               <p>Justitsministeren kan efter Forhandling med Rigsanklageren give ogsaa Andre<lb/>
+Bemyndigelse til at optræde i en enkelt<lb/>
 Sag for Højesteret i Rigsanklagerens Sted.
 </p>
-<wtitle>§ 79.
-</wtitle>
-<p>For   den   sjællandske   Landsretskreds<lb />
+            </div>
+            <div>
+               <head>§ 79.
+</head>
+               <p>For   den   sjællandske   Landsretskreds<lb/>
 beskikker Kongen  3, og for den jydsk-fynske
 </p>
-</rightside></div><?page  r06_00031_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>29
-</pagename>
-<p>ligeledes 3 Overanklagere. Til midlertidig<lb />
-at fungere som Overanklager i Tilfælde af<lb />
+               <pb xml:id="idr06_00031_proceskom_1892_1"
+                   facs="r06_00031_proceskom_1892_1 "
+                   n="29&#xA;"/>
+               <p>ligeledes 3 Overanklagere. Til midlertidig<lb/>
+at fungere som Overanklager i Tilfælde af<lb/>
 Embedsledighed eller Forfald kan Justitsministeren meddele Bestikkelse.
 </p>
-<p>Overanklagerne virke ved Landsretterne<lb />
-og Underretterne efter de derom i Lovene<lb />
+               <p>Overanklagerne virke ved Landsretterne<lb/>
+og Underretterne efter de derom i Lovene<lb/>
 om Retsplejen givne Regler.
 </p>
-<p>Fordelingen af Forretningerne mellem<lb />
-Overanklagerne ved hver af Landsretterne<lb />
-saavelsom Stedet for deres Embedskontor<lb />
+               <p>Fordelingen af Forretningerne mellem<lb/>
+Overanklagerne ved hver af Landsretterne<lb/>
+saavelsom Stedet for deres Embedskontor<lb/>
 bestemmes af Justitsministeren.
 </p>
-<p>Bemyndigelse til i en enkelt Sag at<lb />
-optræde for Landsretten i Stedet for eller<lb />
+               <p>Bemyndigelse til i en enkelt Sag at<lb/>
+optræde for Landsretten i Stedet for eller<lb/>
 sammen med Overanklageren kan efter Forhandling med denne gives af Justitsministeren.
 </p>
-<wtitle>§ 80.
-</wtitle>
-<p>Justitsministeren beskikker de fornødne<lb />
+            </div>
+            <div>
+               <head>§ 80.
+</head>
+               <p>Justitsministeren beskikker de fornødne<lb/>
 Medhjælpere for Overanklagerne.
 </p>
-<p>Rigsanklageren beskikker efter Forslag<lb />
-af Overanklageren Anklagere ved Underretterne, een eller efter Omstændighederne<lb />
-flere ved hver Underretskreds, til efter Paalæg af Overanklageren at udføre Tiltale<lb />
-for Underretten. Saadan Beskikkelse kan<lb />
-meddeles een og samme Mand for flere<lb />
+               <p>Rigsanklageren beskikker efter Forslag<lb/>
+af Overanklageren Anklagere ved Underretterne, een eller efter Omstændighederne<lb/>
+flere ved hver Underretskreds, til efter Paalæg af Overanklageren at udføre Tiltale<lb/>
+for Underretten. Saadan Beskikkelse kan<lb/>
+meddeles een og samme Mand for flere<lb/>
 Underretskredse.
 </p>
-<p>Bemyndigelse til i en enkelt Sag at<lb />
-udføre en Sag for Underretten kan efter<lb />
-Forhandling med Overanklageren gives af<lb />
+               <p>Bemyndigelse til i en enkelt Sag at<lb/>
+udføre en Sag for Underretten kan efter<lb/>
+Forhandling med Overanklageren gives af<lb/>
 Rigsanklageren.
 </p>
-<wtitle>§ 81.
-</wtitle>
-<p>Kun uberygtede, vederhæftige Mænd<lb />
-kunne bestikkes til eller handle som offentlige<lb />
+            </div>
+            <div>
+               <head>§ 81.
+</head>
+               <p>Kun uberygtede, vederhæftige Mænd<lb/>
+kunne bestikkes til eller handle som offentlige<lb/>
 Anklagere.
 </p>
-<p>Den, der beskikkes til Rigsanklager eller<lb />
-Overanklager, eller som bemyndiges til at<lb />
-optræde for Højesteret eller Landsretten i en<lb />
-enkelt Sag, skal fyldestgøre de Betingelser,<lb />
+               <p>Den, der beskikkes til Rigsanklager eller<lb/>
+Overanklager, eller som bemyndiges til at<lb/>
+optræde for Højesteret eller Landsretten i en<lb/>
+enkelt Sag, skal fyldestgøre de Betingelser,<lb/>
 der ifølge § 93 udkræves for at blive højesteretssagfører.
 </p>
-<p>Den, der beskikkes til Medhjælper for<lb />
-en Overanklager eller til Anklager ved<lb />
-Underretten eller bemyndiges til i en enkelt<lb />
-Sag at udføre en Tiltale for Underretten,<lb />
-skal fyldestgøre de Betingelser, som ifølge<lb />
-§ 95 udkræves for at blive Sagfører ved<lb />
+               <p>Den, der beskikkes til Medhjælper for<lb/>
+en Overanklager eller til Anklager ved<lb/>
+Underretten eller bemyndiges til i en enkelt<lb/>
+Sag at udføre en Tiltale for Underretten,<lb/>
+skal fyldestgøre de Betingelser, som ifølge<lb/>
+§ 95 udkræves for at blive Sagfører ved<lb/>
 Underretterne.
 </p>
-</leftside></div><?page  r06_00032_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>30
-</pagename>
-<wtitle>§ 82.
-</wtitle>
-<p>Udøvelse af Sagførervirksolnhed er<lb />
-uforenelig med Stillingen som Rigsanklager<lb />
-eller Overanklager. Dog skal den Anklager,<lb />
-der har Bestikkelse som Sagfører, med sine<lb />
+               <pb xml:id="idr06_00032_proceskom_1892_1"
+                   facs="r06_00032_proceskom_1892_1 "
+                   n="30&#xA;"/>
+            </div>
+            <div>
+               <head>§ 82.
+</head>
+               <p>Udøvelse af Sagførervirksolnhed er<lb/>
+uforenelig med Stillingen som Rigsanklager<lb/>
+eller Overanklager. Dog skal den Anklager,<lb/>
+der har Bestikkelse som Sagfører, med sine<lb/>
 Foresattes Tilladelse kunne overtage Udførelsen af enkelte borgerlige Retssager.
 </p>
-<p>Virksomhed som Sagfører udelukker<lb />
-ikke fra Bestikkelse som Anklager ved Underretten, ej heller fra Bemyndigelse til ellers<lb />
+               <p>Virksomhed som Sagfører udelukker<lb/>
+ikke fra Bestikkelse som Anklager ved Underretten, ej heller fra Bemyndigelse til ellers<lb/>
 at optræde som Anklager i en enkelt Sag.
 </p>
-<wtitle>§ 83.
-</wtitle>
-<p>De offentlige Anklagere ere Justitsministeren underordnede og staa med Hensyn til deres Hvervs Udførelse under dennes<lb />
+            </div>
+            <div>
+               <head>§ 83.
+</head>
+               <p>De offentlige Anklagere ere Justitsministeren underordnede og staa med Hensyn til deres Hvervs Udførelse under dennes<lb/>
 Tilsyn.
 </p>
-<wtitle>§ 84.
-</wtitle>
-<p>Anklagere ved Underretterne samt de<lb />
-Mænd, der bemyndiges til at optræde som<lb />
-Anklagere i en enkelt Sag, erholde Vederlag<lb />
-af det Offentlige for den enkelte Sag. Retten<lb />
-fastsætter i Dommen eller, hvis Sagen afsluttes uden Dom, ved Kendelse Vederlaget<lb />
+            </div>
+            <div>
+               <head>§ 84.
+</head>
+               <p>Anklagere ved Underretterne samt de<lb/>
+Mænd, der bemyndiges til at optræde som<lb/>
+Anklagere i en enkelt Sag, erholde Vederlag<lb/>
+af det Offentlige for den enkelte Sag. Retten<lb/>
+fastsætter i Dommen eller, hvis Sagen afsluttes uden Dom, ved Kendelse Vederlaget<lb/>
 efter Arbejdets Betydning og Omfang.
 </p>
-<title>Fjerde Afsnit.
-</title>
-<undertitle>Politimyndigheden.</undertitle>
-<title>Kap. VIII.</title>
-<wtitle>§ 85.
-</wtitle>
-<p>Med Henfyn til Politiets Ordning<lb />
-og Virksomhed i Kjøbenhavn forbliver det<lb />
-indtil videre ved de nugældende Bestemmelser.<lb />
-Embedet som Vicepolitidirektør i Kjøbenhavn<lb />
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Politimyndigheden.</head>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>§ 85.
+</head>
+               <p>Med Henfyn til Politiets Ordning<lb/>
+og Virksomhed i Kjøbenhavn forbliver det<lb/>
+indtil videre ved de nugældende Bestemmelser.<lb/>
+Embedet som Vicepolitidirektør i Kjøbenhavn<lb/>
 opretholdes.
 </p>
-<wtitle>§ 86.
-</wtitle>
-<p>I øvrigt deles Riget i Politikredse,<lb />
+            </div>
+            <div>
+               <head>§ 86.
+</head>
+               <p>I øvrigt deles Riget i Politikredse,<lb/>
 der hver for sig forestaas af en Politimester.
 </p>
-<p>Enhver Underretskreds udenfor Kjøbenhavn udgør een Politikreds, naar ikke<lb />
+               <p>Enhver Underretskreds udenfor Kjøbenhavn udgør een Politikreds, naar ikke<lb/>
 andet særlig er bestemt.
 </p>
-<p>Politimestrene, der beskikkes af Kongen,
+               <p>Politimestrene, der beskikkes af Kongen,
 </p>
-</rightside></div><?page  r06_00033_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>31
-</pagename>
-<p>maa fyldestgøre de i § 28, 2det Stykke, jfr.<lb />
+               <pb xml:id="idr06_00033_proceskom_1892_1"
+                   facs="r06_00033_proceskom_1892_1 "
+                   n="31&#xA;"/>
+               <p>maa fyldestgøre de i § 28, 2det Stykke, jfr.<lb/>
 bog § 30, sidste Punktum, angivne. Fordringer.
 </p>
-<wtitle>§ 87.
-</wtitle>
-<p>Politiets Virksomhed omfatter dels<lb />
-udenfor Retsplejen Omsorg for offentlig<lb />
-Orden og Vel samt Lovenes Haandhævelse<lb />
-overensstemmende med de gældende Love<lb />
-og Vedtægter, dels Virksomhed i Retsplejen<lb />
-efter Lovene om denne, herunder særlig<lb />
+            </div>
+            <div>
+               <head>§ 87.
+</head>
+               <p>Politiets Virksomhed omfatter dels<lb/>
+udenfor Retsplejen Omsorg for offentlig<lb/>
+Orden og Vel samt Lovenes Haandhævelse<lb/>
+overensstemmende med de gældende Love<lb/>
+og Vedtægter, dels Virksomhed i Retsplejen<lb/>
+efter Lovene om denne, herunder særlig<lb/>
 Efterforskning og Forfølgning af Forbrydelser smut Bestyrelse af Arresthusene.
 </p>
-<p>Andre Forretninger end de forannævnte, som efter den hidtil gældende Net<lb />
-have været henlagte til Herredsfogden, Birkedommeren eller Byfogden, og som ikke ifølge<lb />
-Reglerne i denne Lovs 1ste Afsnit gaa over<lb />
-til Retterne, varetages indtil videre af Politimesteren, dog at udenfor Kjøbenhavn den<lb />
+               <p>Andre Forretninger end de forannævnte, som efter den hidtil gældende Net<lb/>
+have været henlagte til Herredsfogden, Birkedommeren eller Byfogden, og som ikke ifølge<lb/>
+Reglerne i denne Lovs 1ste Afsnit gaa over<lb/>
+til Retterne, varetages indtil videre af Politimesteren, dog at udenfor Kjøbenhavn den<lb/>
 øvrigheden efter D. L. 3—16—3 tilkommende Afgørelsesret gaar over til vedkommende Amtmand.
 </p>
-<p>I de Kommuner, i hvis Bestyrelse<lb />
-Underøvrigheden paa Laudet efter de hidtil<lb />
-gældende Regler indtræder som Formand<lb />
-med samme Stilling som Borgmesteren i<lb />
-Købstæderne, beskikkes Formanden for Fremtiden af Kongen, indtil anderledes bestemmes<lb />
+               <p>I de Kommuner, i hvis Bestyrelse<lb/>
+Underøvrigheden paa Laudet efter de hidtil<lb/>
+gældende Regler indtræder som Formand<lb/>
+med samme Stilling som Borgmesteren i<lb/>
+Købstæderne, beskikkes Formanden for Fremtiden af Kongen, indtil anderledes bestemmes<lb/>
 ved Lov.
 </p>
-<wtitle>§ 88.
-</wtitle>
-<p>Ten eller de af Politimesteren antagne<lb />
-Fuldmægtige kan der af Amtmanden meddeles Autorisation til paa Politimesterens<lb />
-Ansvar at udføre dennes Forretninger. For<lb />
-at kunne autoriseres som saadan udkræves,<lb />
-at den Paagældende fyldestgør de i § 86,<lb />
+            </div>
+            <div>
+               <head>§ 88.
+</head>
+               <p>Ten eller de af Politimesteren antagne<lb/>
+Fuldmægtige kan der af Amtmanden meddeles Autorisation til paa Politimesterens<lb/>
+Ansvar at udføre dennes Forretninger. For<lb/>
+at kunne autoriseres som saadan udkræves,<lb/>
+at den Paagældende fyldestgør de i § 86,<lb/>
 3die Stykke, stillede Betingelser.
 </p>
-<wtitle>§ 89.
-</wtitle>
-<p>I enhver Politikreds udenfor Kjøbenhavn ansættes det fornødne Antal Politibetjente, idet der for hver Kjøbstadkommune<lb />
-og Handelsplads i Kredsen med indtil 3000<lb />
-Indbyggere beregnes 2 Politibetjente og<lb />
-for Købstæder og Handelspladser med et<lb />
+            </div>
+            <div>
+               <head>§ 89.
+</head>
+               <p>I enhver Politikreds udenfor Kjøbenhavn ansættes det fornødne Antal Politibetjente, idet der for hver Kjøbstadkommune<lb/>
+og Handelsplads i Kredsen med indtil 3000<lb/>
+Indbyggere beregnes 2 Politibetjente og<lb/>
+for Købstæder og Handelspladser med et<lb/>
 større Indbyggertal desuden 1 for hver over-
 </p>
-</leftside></div><?page  r06_00034_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>32
-</pagename>
-<p>flydende 1500 Indbyggere, dog ikke mere end<lb />
-8 i alt, samt for Landet 1 bereden Politibetjent for hver 5000 Indbyggere, saaledes<lb />
-at et overskydende Antal regnes for fulde<lb />
-5000, naar det overstiger Halvdelen. — En<lb />
-Forøgelse af det fastfatte Antal Politibetjente<lb />
-kan med Justitsministerens Samtykke finde<lb />
+               <pb xml:id="idr06_00034_proceskom_1892_1"
+                   facs="r06_00034_proceskom_1892_1 "
+                   n="32&#xA;"/>
+               <p>flydende 1500 Indbyggere, dog ikke mere end<lb/>
+8 i alt, samt for Landet 1 bereden Politibetjent for hver 5000 Indbyggere, saaledes<lb/>
+at et overskydende Antal regnes for fulde<lb/>
+5000, naar det overstiger Halvdelen. — En<lb/>
+Forøgelse af det fastfatte Antal Politibetjente<lb/>
+kan med Justitsministerens Samtykke finde<lb/>
 Sted, naar vedkommende Købstad eller Amtsraad bevilger de dertil fornødne. Midler.
 </p>
-<p>Politibetjentene, der skulle have Indfødsret og være vederhæftige Mænd af uplettet<lb />
-Rygte, ansættes Paa 3 Maaneders Opsigelse.<lb />
-De antages og afskediges af Amtmanden<lb />
+               <p>Politibetjentene, der skulle have Indfødsret og være vederhæftige Mænd af uplettet<lb/>
+Rygte, ansættes Paa 3 Maaneders Opsigelse.<lb/>
+De antages og afskediges af Amtmanden<lb/>
 efter Politimestrenes Indstilling.
 </p>
-<p>Sognefogderne og lignende Bestillingsmænd bistaa Politiet efter de gældende Regler.<lb />
+               <p>Sognefogderne og lignende Bestillingsmænd bistaa Politiet efter de gældende Regler.<lb/>
 Det færegne Kystpoliti bortfalder.
 </p>
-<wtitle>§ 90.
-</wtitle>
-<p>I enhver Politikreds stal der være<lb />
-Station, med Vagtstue, Kontor og Opholdssted for Anholdte, paa det Sted, hvor<lb />
-Tingstedet eller, hvis der er flere Tingsteder<lb />
-indenfor Politikredsens Omraade, Hovedtingstedet i Kredsen er. Her skal ogsaa<lb />
+            </div>
+            <div>
+               <head>§ 90.
+</head>
+               <p>I enhver Politikreds stal der være<lb/>
+Station, med Vagtstue, Kontor og Opholdssted for Anholdte, paa det Sted, hvor<lb/>
+Tingstedet eller, hvis der er flere Tingsteder<lb/>
+indenfor Politikredsens Omraade, Hovedtingstedet i Kredsen er. Her skal ogsaa<lb/>
 Politimesteren have Bolig.
 </p>
-<wtitle>§ 91.
-</wtitle>
-<p>Politimyndighederne ere Justitsministeren underordnede og staa under hans<lb />
+            </div>
+            <div>
+               <head>§ 91.
+</head>
+               <p>Politimyndighederne ere Justitsministeren underordnede og staa under hans<lb/>
 øverste Tilsyn.
 </p>
-<p>Politiet udenfor Kjøbenhavns Politikreds staar i sin Virksomhed for Efterforskning og Forfølgning af de Forbrydelser,<lb />
-som høre under Overanklagerens Virkekreds,<lb />
-under dennes Overtilsyn. Med Hensyn til<lb />
-fin øvrige Virksomhed staar Politiet udenfor<lb />
-Kjøbenhavns Politikreds under Amtmandens<lb />
+               <p>Politiet udenfor Kjøbenhavns Politikreds staar i sin Virksomhed for Efterforskning og Forfølgning af de Forbrydelser,<lb/>
+som høre under Overanklagerens Virkekreds,<lb/>
+under dennes Overtilsyn. Med Hensyn til<lb/>
+fin øvrige Virksomhed staar Politiet udenfor<lb/>
+Kjøbenhavns Politikreds under Amtmandens<lb/>
 Overtilsyn.
 </p>
-</rightside></div><?page  r06_00035_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>33
-</pagename>
-<title>Femte Afsnit.</title>
-<undertitle>Sagførere.</undertitle>
-<title>Kap. IX.</title>
-<undertitle>Sagføreres Bestikkelse og Adgang til at<lb />
+               <pb xml:id="idr06_00035_proceskom_1892_1"
+                   facs="r06_00035_proceskom_1892_1 "
+                   n="33&#xA;"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Sagførere.</head>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Sagføreres Bestikkelse og Adgang til at<lb/>
 benytte Fuldmægtig m.m.
-</undertitle>
-<wtitle>§ 92.
-</wtitle>
-<p>Sagførere beskikkes af Justitsministeriet.<lb />
-Beskikkelse meddeles paa Begæring Enhver<lb />
-(Mand eller Kvinde), som har Indfødsret,<lb />
-har opnaaet 25 Aars Alderen, ikke er ude<lb />
-af Raadighed over sit Bo, ifølge paalidelige<lb />
-Vidnesbyrd har ftrt en retskaffen Vandel og<lb />
+</head>
+            </div>
+            <div>
+               <head>§ 92.
+</head>
+               <p>Sagførere beskikkes af Justitsministeriet.<lb/>
+Beskikkelse meddeles paa Begæring Enhver<lb/>
+(Mand eller Kvinde), som har Indfødsret,<lb/>
+har opnaaet 25 Aars Alderen, ikke er ude<lb/>
+af Raadighed over sit Bo, ifølge paalidelige<lb/>
+Vidnesbyrd har ftrt en retskaffen Vandel og<lb/>
 derhos opfylder de i de efterfølgende Para-grafer for de enkelte Stillinger foreskrevne Betingelser.
 </p>
-<wtitle>§ 93.
-</wtitle>
-<p>For at blive Højesteretssagfører ud-fordres, at den Paagældende har bestaaet den<lb />
-fuldstændige juridiske Eksamen med Karakteren laudabilis, samt at han enten i 3 Aar<lb />
-har været i Virksomhed som Sagfører ved<lb />
-Landsret eller Overanklager eller i lige<lb />
-Tid været i Virksomhed som Universitetslærer i Lovkyndighed eller Dommer,<lb />
-uden mod eget Ønske at være fjærnet fra<lb />
-disse Stillinger paa en saadan Maade, at<lb />
-den almindelige Pensionsret er gaaet tabt<lb />
-eller indskrænket, og endelig at han har<lb />
-bestaaet den nedenfor i § 96 omhandlede<lb />
+            </div>
+            <div>
+               <head>§ 93.
+</head>
+               <p>For at blive Højesteretssagfører ud-fordres, at den Paagældende har bestaaet den<lb/>
+fuldstændige juridiske Eksamen med Karakteren laudabilis, samt at han enten i 3 Aar<lb/>
+har været i Virksomhed som Sagfører ved<lb/>
+Landsret eller Overanklager eller i lige<lb/>
+Tid været i Virksomhed som Universitetslærer i Lovkyndighed eller Dommer,<lb/>
+uden mod eget Ønske at være fjærnet fra<lb/>
+disse Stillinger paa en saadan Maade, at<lb/>
+den almindelige Pensionsret er gaaet tabt<lb/>
+eller indskrænket, og endelig at han har<lb/>
+bestaaet den nedenfor i § 96 omhandlede<lb/>
 Prøve.
 </p>
-<wtitle>§ 94.
-</wtitle>
-<p>For at blive Sagfører ved Landsret<lb />
-udfordres, at den Paagældende har bestaaet<lb />
-den fuldstændige juridiske Eksamen, i det<lb />
-mindste med Karakteren haud iliaudadilis,<lb />
-samt at han enten i 3 Aar har været i<lb />
+            </div>
+            <div>
+               <head>§ 94.
+</head>
+               <p>For at blive Sagfører ved Landsret<lb/>
+udfordres, at den Paagældende har bestaaet<lb/>
+den fuldstændige juridiske Eksamen, i det<lb/>
+mindste med Karakteren haud iliaudadilis,<lb/>
+samt at han enten i 3 Aar har været i<lb/>
 Virksomhed   som   Sagfører    ved   Underret
 </p>
-<pagename>5
-</pagename>
-</leftside></div><?page  r06_00036_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>34
-</pagename>
-<p>eller som Anklager ved Underret eller i<lb />
-5 Aar — hvoraf mindst 2 Aar hos samme<lb />
-Principal — stadig har som autoriseret Fuldmægtig hos en Højesterets- eller Landsretssagfører eller som Medhjælper hos en Overanklager deltaget i Behandlingen af Retssager. Endvidere stal han have aflagt den<lb />
+               <pb xml:id="idr06_00036_proceskom_1892_1"
+                   facs="r06_00036_proceskom_1892_1 "
+                   n="34&#xA;"/>
+               <p>eller som Anklager ved Underret eller i<lb/>
+5 Aar — hvoraf mindst 2 Aar hos samme<lb/>
+Principal — stadig har som autoriseret Fuldmægtig hos en Højesterets- eller Landsretssagfører eller som Medhjælper hos en Overanklager deltaget i Behandlingen af Retssager. Endvidere stal han have aflagt den<lb/>
 i § 96 omhandlede Prøve.
 </p>
-<wtitle>§ 95.
-</wtitle>
-<p>For at blive Sagfører ved Underret<lb />
-udfordres, at den Paagældende har<lb />
-underkastet sig den fuldstændige juridiske<lb />
-Eksamen/ i det mindste med Karakteren<lb />
-haud iliaudabilis, eller har opnaaet Karakteren „Bekvem" enten ved den juridiske<lb />
-Fællesprøve eller ved den tidligere juridiske<lb />
-Eksamen for Ustuderede, samt at han enten<lb />
-i 5 Aar — hvoraf mindst 2 Aar hos samme<lb />
-Principal — stadig har som autoriseret<lb />
-Fuldmægtig hos en Sagfører deltaget i<lb />
-dennes Forretninger, derunder Behandlingen<lb />
-af Retssager, eller ogsaa, at han i lige Tid<lb />
-har været Retsskriver eller Politimester<lb />
-eller stadig har været i Virksomhed som<lb />
-Fuldmægtig under en Ret eller som autoriseret Fuldmægtig hos en Dommer eller<lb />
-Politimester, saaledes at han i mindst 2<lb />
+            </div>
+            <div>
+               <head>§ 95.
+</head>
+               <p>For at blive Sagfører ved Underret<lb/>
+udfordres, at den Paagældende har<lb/>
+underkastet sig den fuldstændige juridiske<lb/>
+Eksamen/ i det mindste med Karakteren<lb/>
+haud iliaudabilis, eller har opnaaet Karakteren „Bekvem" enten ved den juridiske<lb/>
+Fællesprøve eller ved den tidligere juridiske<lb/>
+Eksamen for Ustuderede, samt at han enten<lb/>
+i 5 Aar — hvoraf mindst 2 Aar hos samme<lb/>
+Principal — stadig har som autoriseret<lb/>
+Fuldmægtig hos en Sagfører deltaget i<lb/>
+dennes Forretninger, derunder Behandlingen<lb/>
+af Retssager, eller ogsaa, at han i lige Tid<lb/>
+har været Retsskriver eller Politimester<lb/>
+eller stadig har været i Virksomhed som<lb/>
+Fuldmægtig under en Ret eller som autoriseret Fuldmægtig hos en Dommer eller<lb/>
+Politimester, saaledes at han i mindst 2<lb/>
 Aar har gjort Tjeneste hos samme Embedsmand eller ved samme Embede.
 </p>
-<p>Den, der er i Besiddelse af de Egenskaber, som udfordres for en højere Art<lb />
-af Sagførervirksomhed, er altid berettiget<lb />
+               <p>Den, der er i Besiddelse af de Egenskaber, som udfordres for en højere Art<lb/>
+af Sagførervirksomhed, er altid berettiget<lb/>
 til at stedes til en ringere Art af Sagførervirksomhed.
 </p>
-<wtitle>§ 96.
-</wtitle>
-<p>Sagførerprøverne for Højesteret og<lb />
-Landsretterne bestaa i, at den Paagældende<lb />
-henholdsvis for Højesteret eller en Landsret<lb />
-udfører 3 med mundtlig Domsforhandling<lb />
-sluttende Sager, som han selv stal forskaffe<lb />
-sig, og af hvilke mindst 2 ere civile, deraf i<lb />
-alt Fald den ene for Sagsøgeren. Prøven<lb />
-er bestaaet, naar hans Udførelse af disse<lb />
+            </div>
+            <div>
+               <head>§ 96.
+</head>
+               <p>Sagførerprøverne for Højesteret og<lb/>
+Landsretterne bestaa i, at den Paagældende<lb/>
+henholdsvis for Højesteret eller en Landsret<lb/>
+udfører 3 med mundtlig Domsforhandling<lb/>
+sluttende Sager, som han selv stal forskaffe<lb/>
+sig, og af hvilke mindst 2 ere civile, deraf i<lb/>
+alt Fald den ene for Sagsøgeren. Prøven<lb/>
+er bestaaet, naar hans Udførelse af disse<lb/>
 Sager af vedkommende Domstol kendes forsvarlig.
 </p>
-<p>Saadan Prøve kan Ingen underkaste sig<lb />
+               <p>Saadan Prøve kan Ingen underkaste sig<lb/>
 oftere end 2 Gange, og Ingen erholder Ad-
 </p>
-</rightside></div><?page  r06_00037_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>35
-</pagename>
-<p>gang til Proven, forinden han har fremlagt Iustitsministeriets Tilkendegivelse om,<lb />
+               <pb xml:id="idr06_00037_proceskom_1892_1"
+                   facs="r06_00037_proceskom_1892_1 "
+                   n="35&#xA;"/>
+               <p>gang til Proven, forinden han har fremlagt Iustitsministeriets Tilkendegivelse om,<lb/>
 at han efter bestaaet Prøve vil kunne erholde Bestikkelse henholdsvis som Højesterets-eller Landsretssagfører.
 </p>
-<wtitle>§ 97.
-</wtitle>
-<p>For Bestikkelserne som Højesteretssagfører, Landsretssagfører og Underretssagfører erlægges Afgifter henholdsvis af 200,<lb />
+            </div>
+            <div>
+               <head>§ 97.
+</head>
+               <p>For Bestikkelserne som Højesteretssagfører, Landsretssagfører og Underretssagfører erlægges Afgifter henholdsvis af 200,<lb/>
 120 og 60 Kr. Afgifterne tilfalde Statskassen.
 </p>
-<p>Forinden Bestikkelsen udleveres til Vedkommende, har han at underskrive en edelig<lb />
-Forsikring om, at han med Flid og Troskab vil udfore de Sager, der betroes ham,<lb />
-og at han i det Hele vil samvittighedsfuldt<lb />
+               <p>Forinden Bestikkelsen udleveres til Vedkommende, har han at underskrive en edelig<lb/>
+Forsikring om, at han med Flid og Troskab vil udfore de Sager, der betroes ham,<lb/>
+og at han i det Hele vil samvittighedsfuldt<lb/>
 opfylde sine Pligter som Sagfører.
 </p>
-<wtitle>§ 98.
-</wtitle>
-<p>Udøvelsen af Sagførervirksomhed kan<lb />
-ikke forenes med noget Dommer- eller Rets-skriver-Embede, noget Embede som Rigsanklager eller Overanklager, nogen Øvrig-hedspost eller Ansættelse i Politiets Tjeneste,<lb />
-ej heller med noget Tjenesteforhold hos en<lb />
-Amtmand, Dommer, Politimester eller Rets-skriver. Hvorvidt for øvrigt nogen offentlig<lb />
-Embeds- eller Bestillingsmand tillige kan<lb />
-udøve Sagførervirkfomhed, bestemmes af<lb />
+            </div>
+            <div>
+               <head>§ 98.
+</head>
+               <p>Udøvelsen af Sagførervirksomhed kan<lb/>
+ikke forenes med noget Dommer- eller Rets-skriver-Embede, noget Embede som Rigsanklager eller Overanklager, nogen Øvrig-hedspost eller Ansættelse i Politiets Tjeneste,<lb/>
+ej heller med noget Tjenesteforhold hos en<lb/>
+Amtmand, Dommer, Politimester eller Rets-skriver. Hvorvidt for øvrigt nogen offentlig<lb/>
+Embeds- eller Bestillingsmand tillige kan<lb/>
+udøve Sagførervirkfomhed, bestemmes af<lb/>
 Kongen.
 </p>
-<p>Ønsker en Sagfører, som besinder sig<lb />
-i nogen af de Stillinger, med hvilke Udøvelse af Sagførervirksomhed i Almindelighed<lb />
-er uforenelig, i et enkelt Tilfælde at overtage Udførelsen af en Retssag, skal dette<lb />
-dog ikke være ham forment, naar han dertil<lb />
+               <p>Ønsker en Sagfører, som besinder sig<lb/>
+i nogen af de Stillinger, med hvilke Udøvelse af Sagførervirksomhed i Almindelighed<lb/>
+er uforenelig, i et enkelt Tilfælde at overtage Udførelsen af en Retssag, skal dette<lb/>
+dog ikke være ham forment, naar han dertil<lb/>
 erholder sine Foresattes Tilladelse.
 </p>
-<wtitle>§ 99.
-</wtitle>
-<p>Den, der beskikkes som Højesterets- eller<lb />
-Landsretssagfører, er, saa længe han vil<lb />
-benytte Bestikkelsen, forpligtet til at have<lb />
-Kontor i eller ved den Stad, hvor henholdsvis Højesteret eller en Landsret har sit<lb />
-Sæde. Underretssagførerne ere forpligtede<lb />
+            </div>
+            <div>
+               <head>§ 99.
+</head>
+               <p>Den, der beskikkes som Højesterets- eller<lb/>
+Landsretssagfører, er, saa længe han vil<lb/>
+benytte Bestikkelsen, forpligtet til at have<lb/>
+Kontor i eller ved den Stad, hvor henholdsvis Højesteret eller en Landsret har sit<lb/>
+Sæde. Underretssagførerne ere forpligtede<lb/>
 til, inden Beskikkelsen udleveres dem, at anmelde for Justitsministeriet, i hvilken Under-
 </p>
-</leftside></div><?page  r06_00038_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>36
-</pagename>
-<p>retskreds de ville have Kontor. Ingen<lb />
-Sagfører maa have Kontor i flere Underretskredse. Højesteretssagførere og Landsretssagførere, som ikke have Kontor i eller<lb />
-ved den Stad, hvor henholdsvis Højesteret<lb />
-eller en Landsret har Sæde, blive, saa længe<lb />
-de beholde Kontor udenfor de sidstnævnte<lb />
-Steder, at betragte som Underretssagførere;<lb />
-dog skulle Landsretssagførere, som have<lb />
-Kontor i en Underretskreds, i hvilken Landsretten holder regelmæssigt Ting udenfor sit<lb />
-Sæde, være berettigede til at møde for Landsretten i Sager, i hvilke Domsforhandling<lb />
-foregaar paa nævnte Tingsted. Enhver Sagfører, som flytter sit Kontor til en anden<lb />
+               <pb xml:id="idr06_00038_proceskom_1892_1"
+                   facs="r06_00038_proceskom_1892_1 "
+                   n="36&#xA;"/>
+               <p>retskreds de ville have Kontor. Ingen<lb/>
+Sagfører maa have Kontor i flere Underretskredse. Højesteretssagførere og Landsretssagførere, som ikke have Kontor i eller<lb/>
+ved den Stad, hvor henholdsvis Højesteret<lb/>
+eller en Landsret har Sæde, blive, saa længe<lb/>
+de beholde Kontor udenfor de sidstnævnte<lb/>
+Steder, at betragte som Underretssagførere;<lb/>
+dog skulle Landsretssagførere, som have<lb/>
+Kontor i en Underretskreds, i hvilken Landsretten holder regelmæssigt Ting udenfor sit<lb/>
+Sæde, være berettigede til at møde for Landsretten i Sager, i hvilke Domsforhandling<lb/>
+foregaar paa nævnte Tingsted. Enhver Sagfører, som flytter sit Kontor til en anden<lb/>
 Retskreds, skal inden 14 Dage efter Flytningen anmelde denne for Justitsministeriet.
 </p>
-<wtitle>§ 100.
-</wtitle>
-<p>Højesteretssagførerne ere berettigede til<lb />
-at give møde for alle Landets Domstole,<lb />
-Landsretssagførerne for begge Landsretter<lb />
-og alle Underretter, Underretsfagførerne for<lb />
+            </div>
+            <div>
+               <head>§ 100.
+</head>
+               <p>Højesteretssagførerne ere berettigede til<lb/>
+at give møde for alle Landets Domstole,<lb/>
+Landsretssagførerne for begge Landsretter<lb/>
+og alle Underretter, Underretsfagførerne for<lb/>
 enhver Underret udenfor Kjøbenhavn.
 </p>
-<p>Ingen Sagfører kan give møde eller<lb />
-lade møde for en af en enkelt Dommer beklædt Ret, i hvilken Dommeren er beslægtet<lb />
-eller besvogret med ham i anden Grad af<lb />
+               <p>Ingen Sagfører kan give møde eller<lb/>
+lade møde for en af en enkelt Dommer beklædt Ret, i hvilken Dommeren er beslægtet<lb/>
+eller besvogret med ham i anden Grad af<lb/>
 Sidelinien eller nærmere.
 </p>
-<wtitle>§  101.
-</wtitle>
-<p>Under mundtlig Forhandling i Domssager, er det ikke Sagførere tilladt at give<lb />
-møde ved en Anden, medmindre denne er<lb />
-en til møde for vedkommende Domstol berettiget Sagfører. Dog skal det være Sagførere tilladt ved enhver uberygtet Person<lb />
-at fremsætte og begrunde Begæring om<lb />
-Sagens Udsættelse paa Grund af Forhold,<lb />
-hvorved Sagføreren selv hindres i at give<lb />
+            </div>
+            <div>
+               <head>§  101.
+</head>
+               <p>Under mundtlig Forhandling i Domssager, er det ikke Sagførere tilladt at give<lb/>
+møde ved en Anden, medmindre denne er<lb/>
+en til møde for vedkommende Domstol berettiget Sagfører. Dog skal det være Sagførere tilladt ved enhver uberygtet Person<lb/>
+at fremsætte og begrunde Begæring om<lb/>
+Sagens Udsættelse paa Grund af Forhold,<lb/>
+hvorved Sagføreren selv hindres i at give<lb/>
 Møde.
 </p>
-<wtitle>§ 102.
-</wtitle>
-<p>Udenfor mundtlig Forhandling i Domssager er det Sagførere tilladt uden særlig<lb />
-Angivelse af Grund at lade møde for sig<lb />
+            </div>
+            <div>
+               <head>§ 102.
+</head>
+               <p>Udenfor mundtlig Forhandling i Domssager er det Sagførere tilladt uden særlig<lb/>
+Angivelse af Grund at lade møde for sig<lb/>
 ved deres autoriserede Fuldmægtige.
 </p>
-</rightside></div><?page  r06_00039_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>37
-</pagename>
-<p>Med Angivelse og i fornødent Fald<lb />
-Bevisliggørelse af lovligt Forfald kunne<lb />
-Sagførere under de i denne Paragraf omhandlede Rettergangsforetagender give møde<lb />
+               <pb xml:id="idr06_00039_proceskom_1892_1"
+                   facs="r06_00039_proceskom_1892_1 "
+                   n="37&#xA;"/>
+               <p>Med Angivelse og i fornødent Fald<lb/>
+Bevisliggørelse af lovligt Forfald kunne<lb/>
+Sagførere under de i denne Paragraf omhandlede Rettergangsforetagender give møde<lb/>
 ved enhver uberygtet myndig Mandsperson.
 </p>
-<wtitle>§ 103.
-</wtitle>
-<p>Enhver Sagfører er berettiget til at<lb />
-have en autoriseret Fuldmægtig, der skal være<lb />
-en uberygtet Person, som har underkastet<lb />
-sig den juridiske Fællesprøve eller den tidligere juridiske Eksamen for Ustuderede.<lb />
-Autorisationen meddeles for Fuldmægtige<lb />
-hos Højesteretssagførere af Højesterets Iustitiarius og hos Landsretssagførere samt<lb />
-de Underretssagførere, der have Kontor i<lb />
-Kjøbenhavn, af Iustitiarius i vedkommende<lb />
-Landsret, for Fuldmægtige hos andre<lb />
-Underretssagførere af Dommeren i den Retskreds, i hvilken vedkommende Sagfører har<lb />
-Kontor. De autoriserede Fuldmægtige skulle,<lb />
-saa længe de ville benytte Fuldmagten, have<lb />
-Bopæl i eller ved den Stad eller i den<lb />
+            </div>
+            <div>
+               <head>§ 103.
+</head>
+               <p>Enhver Sagfører er berettiget til at<lb/>
+have en autoriseret Fuldmægtig, der skal være<lb/>
+en uberygtet Person, som har underkastet<lb/>
+sig den juridiske Fællesprøve eller den tidligere juridiske Eksamen for Ustuderede.<lb/>
+Autorisationen meddeles for Fuldmægtige<lb/>
+hos Højesteretssagførere af Højesterets Iustitiarius og hos Landsretssagførere samt<lb/>
+de Underretssagførere, der have Kontor i<lb/>
+Kjøbenhavn, af Iustitiarius i vedkommende<lb/>
+Landsret, for Fuldmægtige hos andre<lb/>
+Underretssagførere af Dommeren i den Retskreds, i hvilken vedkommende Sagfører har<lb/>
+Kontor. De autoriserede Fuldmægtige skulle,<lb/>
+saa længe de ville benytte Fuldmagten, have<lb/>
+Bopæl i eller ved den Stad eller i den<lb/>
 Retskreds, hvor deres Principal har Kontor.
 </p>
-<wtitle>§ 104.
-</wtitle>
-<p>Udtrykkene „Højesteretssagfører" og<lb />
-„Sagfører ved Underretterne" („Underretssagfører") i §§ 94, 99, 100 og 103 stal forstaas som indbefattende de i Henhold til<lb />
-den hidtilværende Lovgivning beskikkede<lb />
-Sagførere af de tilsvarende Klasser. De i<lb />
-Henhold til den hidtilværende Lovgivning<lb />
-beskikkede Overretsprokuratorer og Overretssagførere skulle i Henseende til Møderet<lb />
-(§ 100) saavel som i øvrigt ved Anvendelsen af de foranstaaende Bestemmelser være<lb />
+            </div>
+            <div>
+               <head>§ 104.
+</head>
+               <p>Udtrykkene „Højesteretssagfører" og<lb/>
+„Sagfører ved Underretterne" („Underretssagfører") i §§ 94, 99, 100 og 103 stal forstaas som indbefattende de i Henhold til<lb/>
+den hidtilværende Lovgivning beskikkede<lb/>
+Sagførere af de tilsvarende Klasser. De i<lb/>
+Henhold til den hidtilværende Lovgivning<lb/>
+beskikkede Overretsprokuratorer og Overretssagførere skulle i Henseende til Møderet<lb/>
+(§ 100) saavel som i øvrigt ved Anvendelsen af de foranstaaende Bestemmelser være<lb/>
 ligestillede med Landsretssagførere.
 </p>
-<p>Sagførere, som forinden denne Lovs<lb />
-Ikrafttræden have været antagne til at udfore offentlige og beneficerede Sager, beholde<lb />
-dette Hverv, for Straffesagers Vedkommende<lb />
-dog kun som Forsvarere, saa længe ikke Iustitsministeren efter paagældende Retters Indstilling anser dem for uskikkede dertil. Efter<lb />
-paagældende Retters Indstilling kan Justitsministeren, efterhaanden som der findes<lb />
-Anledning dertil, antage andre Sagførere<lb />
+               <p>Sagførere, som forinden denne Lovs<lb/>
+Ikrafttræden have været antagne til at udfore offentlige og beneficerede Sager, beholde<lb/>
+dette Hverv, for Straffesagers Vedkommende<lb/>
+dog kun som Forsvarere, saa længe ikke Iustitsministeren efter paagældende Retters Indstilling anser dem for uskikkede dertil. Efter<lb/>
+paagældende Retters Indstilling kan Justitsministeren, efterhaanden som der findes<lb/>
+Anledning dertil, antage andre Sagførere<lb/>
 til at deltage i nævnte hverv.
 </p>
-</leftside></div><?page  r06_00040_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>38
-</pagename>
-<title>Kap. X.
-</title>
-<undertitle>Sagføreres Rettigheder og Pligter.
-</undertitle>
-<wtitle>§  105.
-</wtitle>
-<p>Sagførerne ere paa den Maade og<lb />
-med de Begrænsninger, som i Rettergangslovene bestemmes, eneberettigede til at udføre Retssager for Andre. En Bemyndigelse<lb />
-til i eget Navn at indtale en Fordring eller<lb />
-anden Rettighed („Mandatarfuldmagt") kan<lb />
-ikke give den, hvem Bemyndigelsen er given,<lb />
-Net til selv at møde i Sagen, naar han<lb />
-ikke er en til Mode ved den paagældende<lb />
+               <pb xml:id="idr06_00040_proceskom_1892_1"
+                   facs="r06_00040_proceskom_1892_1 "
+                   n="38&#xA;"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Sagføreres Rettigheder og Pligter.
+</head>
+            </div>
+            <div>
+               <head>§  105.
+</head>
+               <p>Sagførerne ere paa den Maade og<lb/>
+med de Begrænsninger, som i Rettergangslovene bestemmes, eneberettigede til at udføre Retssager for Andre. En Bemyndigelse<lb/>
+til i eget Navn at indtale en Fordring eller<lb/>
+anden Rettighed („Mandatarfuldmagt") kan<lb/>
+ikke give den, hvem Bemyndigelsen er given,<lb/>
+Net til selv at møde i Sagen, naar han<lb/>
+ikke er en til Mode ved den paagældende<lb/>
 Domstol berettiget Sagfører.
 </p>
-<p>Indgreb i Sagførernes Eneret, derunder<lb />
-indbefattet, at Nogen uberettiget offentlig betegner sig som Sagfører, anses med Bøder<lb />
-fra 50 til 200 Kr., hvilken Straf, naar<lb />
-Forseelsen er sket gennem Proformaretshandler, ved hvilke det er givet Udseende af,<lb />
-at Vedkommende optræder som Transporthaver, kan stige til 500 Kr. Overenskomster<lb />
-om, at Transportgiveren stal betale Bøden,<lb />
-ere ugyldige, og det i Tilfælde af saadant<lb />
-Proformaværk tilsagte Vederlag for Udførelse<lb />
-af Sager kan ikke syges betalt, samt kan,<lb />
+               <p>Indgreb i Sagførernes Eneret, derunder<lb/>
+indbefattet, at Nogen uberettiget offentlig betegner sig som Sagfører, anses med Bøder<lb/>
+fra 50 til 200 Kr., hvilken Straf, naar<lb/>
+Forseelsen er sket gennem Proformaretshandler, ved hvilke det er givet Udseende af,<lb/>
+at Vedkommende optræder som Transporthaver, kan stige til 500 Kr. Overenskomster<lb/>
+om, at Transportgiveren stal betale Bøden,<lb/>
+ere ugyldige, og det i Tilfælde af saadant<lb/>
+Proformaværk tilsagte Vederlag for Udførelse<lb/>
+af Sager kan ikke syges betalt, samt kan,<lb/>
 hvis det er erlagt, søges tilbage.
 </p>
-<wtitle>§ 106.
-</wtitle>
-<p>Ingen Sagfører er, bortset fra de Tilfælde, hvor han hertil kan beordres, pligtig<lb />
+            </div>
+            <div>
+               <head>§ 106.
+</head>
+               <p>Ingen Sagfører er, bortset fra de Tilfælde, hvor han hertil kan beordres, pligtig<lb/>
 at paatage sig Udførelsen af en Retssag.
 </p>
-<wtitle>§ 107.
-</wtitle>
-<p>Sagførere ere pligtige med Flid og<lb />
-Troskab at udføre de dem betroede Forretninger. De ere pligtige at fremme de<lb />
-dem betroede Retssager med den Hurtighed,<lb />
-som Tilfældets Beskaffenhed tillader. De<lb />
-maa som en Følge heraf ikke forhale Sagerne ved unødvendige Udsættelser, grundløse<lb />
-Formalitetsindsigelser eller andre Udflugter.<lb />
-De ere pligtige at vise Retten Hensyns-fuldhed og Agtelse. De skulle afholde sig<lb />
-fra usømmelig Tale og Skrivemaade for<lb />
-Retten og efterkomme de Paalæg, som særlig<lb />
+            </div>
+            <div>
+               <head>§ 107.
+</head>
+               <p>Sagførere ere pligtige med Flid og<lb/>
+Troskab at udføre de dem betroede Forretninger. De ere pligtige at fremme de<lb/>
+dem betroede Retssager med den Hurtighed,<lb/>
+som Tilfældets Beskaffenhed tillader. De<lb/>
+maa som en Følge heraf ikke forhale Sagerne ved unødvendige Udsættelser, grundløse<lb/>
+Formalitetsindsigelser eller andre Udflugter.<lb/>
+De ere pligtige at vise Retten Hensyns-fuldhed og Agtelse. De skulle afholde sig<lb/>
+fra usømmelig Tale og Skrivemaade for<lb/>
+Retten og efterkomme de Paalæg, som særlig<lb/>
 gives dem af Retten i Medfør af Rettergangslovene.
 </p>
-</rightside></div><?page  r06_00041_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>39
-</pagename>
-<wtitle>§108.
-</wtitle>
-<p>Hvad enten Overenskomst om Vederlag<lb />
-er sluttet i Forvejen eller ikke, maa ingen<lb />
-Sagfører kræve højere Betaling, end der<lb />
-skønnes billigt, for den Bistand og Tjeneste,<lb />
-han i saadan Egenskab yder, være sig i<lb />
+               <pb xml:id="idr06_00041_proceskom_1892_1"
+                   facs="r06_00041_proceskom_1892_1 "
+                   n="39&#xA;"/>
+            </div>
+            <div>
+               <head>§108.
+</head>
+               <p>Hvad enten Overenskomst om Vederlag<lb/>
+er sluttet i Forvejen eller ikke, maa ingen<lb/>
+Sagfører kræve højere Betaling, end der<lb/>
+skønnes billigt, for den Bistand og Tjeneste,<lb/>
+han i saadan Egenskab yder, være sig i<lb/>
 Udførelsen af Retssager eller ved Meddelelsen af Raad og Vejledning i andre juridiske Anliggender.
 </p>
-<p>Forøvrigt er det ikke forbudt at betinge<lb />
-sig højere Betaling for det Tilfælde, at<lb />
-Sagen vindes, end for det Tilfælde, at den<lb />
-i det Hele eller for en Del tabes, ligesaalidt som det er forbudt at betinge sig en<lb />
-vis Andel i Sagens Genstand, naar dog det<lb />
-Vederlag, som saaledes tilflyder Sagføreren,<lb />
+               <p>Forøvrigt er det ikke forbudt at betinge<lb/>
+sig højere Betaling for det Tilfælde, at<lb/>
+Sagen vindes, end for det Tilfælde, at den<lb/>
+i det Hele eller for en Del tabes, ligesaalidt som det er forbudt at betinge sig en<lb/>
+vis Andel i Sagens Genstand, naar dog det<lb/>
+Vederlag, som saaledes tilflyder Sagføreren,<lb/>
 ikke i det Hele skønnes at være ubilligt.
 </p>
-<wtitle>§ 109.
-</wtitle>
-<p>Sagførere, som overtræde de i nærværende Lov givne Forskrifter eller iøvrigt<lb />
-forse sig i deres Virksomhed som Sagførere,<lb />
+            </div>
+            <div>
+               <head>§ 109.
+</head>
+               <p>Sagførere, som overtræde de i nærværende Lov givne Forskrifter eller iøvrigt<lb/>
+forse sig i deres Virksomhed som Sagførere,<lb/>
 anses med de i Straffelovens § 144 omhandlede Straffe.
 </p>
-<wtitle>§ 110.
-</wtitle>
-<p>Naar den Straf, som skal paalægges<lb />
-en Sagfører, ikke er højere end Boder, og<lb />
-ingen særlig Bevisførelse udfordres for at<lb />
-oplyse det strafbare Forhold, kan Straffen<lb />
-paalægges under den Sag, med Hensyn til<lb />
-hvilken Forseelsen er begaaet, enten ved en<lb />
+            </div>
+            <div>
+               <head>§ 110.
+</head>
+               <p>Naar den Straf, som skal paalægges<lb/>
+en Sagfører, ikke er højere end Boder, og<lb/>
+ingen særlig Bevisførelse udfordres for at<lb/>
+oplyse det strafbare Forhold, kan Straffen<lb/>
+paalægges under den Sag, med Hensyn til<lb/>
+hvilken Forseelsen er begaaet, enten ved en<lb/>
 særskilt Kendelse eller ved den endelige Dom.
 </p>
-<title>Kap. XI.
-</title>
-<undertitle>Ophør af Retten til Sagførervirksomhed.
-</undertitle>
-<wtitle>§ 111.
-</wtitle>
-<p>Den Sagfører, som ved Dom findes<lb />
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Ophør af Retten til Sagførervirksomhed.
+</head>
+            </div>
+            <div>
+               <head>§ 111.
+</head>
+               <p>Den Sagfører, som ved Dom findes<lb/>
 skyldig i en i den offentlige Mening vanærende Handling, stal ved samme Dom frakendes Retten til at udøve Sagførervirksomhed.
 </p>
-</leftside></div><?page  r06_00042_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>40
-</pagename>
-<p>Har en Sagfører gjort sig skyldig i det<lb />
-Straffelovens § 253 omhandlede Forhold,<lb />
-bliver, selv om iøvrigt andet Strafansvar<lb />
-mod ham i Medfør af § 254 maatte bortfalde, Netten til Sagførervirksomhed ved<lb />
-Dom at frakende ham under den mod ham<lb />
-anlagte Straffesag, eller, hvis en saadan ikke<lb />
-maatte være anlagt, da under en særlig i<lb />
+               <pb xml:id="idr06_00042_proceskom_1892_1"
+                   facs="r06_00042_proceskom_1892_1 "
+                   n="40&#xA;"/>
+               <p>Har en Sagfører gjort sig skyldig i det<lb/>
+Straffelovens § 253 omhandlede Forhold,<lb/>
+bliver, selv om iøvrigt andet Strafansvar<lb/>
+mod ham i Medfør af § 254 maatte bortfalde, Netten til Sagførervirksomhed ved<lb/>
+Dom at frakende ham under den mod ham<lb/>
+anlagte Straffesag, eller, hvis en saadan ikke<lb/>
+maatte være anlagt, da under en særlig i<lb/>
 dette Øjemed ifølge Iustitsministerens Bestemmelse mod ham rejst Straffesag.
 </p>
-<p>Naar Dom til Fortabelse af Ret til<lb />
-Sagførervirksomhed er overgaaet en Sagfører, kan han ikke, selv om han paaanker<lb />
-saadan Dom, fortsætte sin Virksomhed, indtil<lb />
+               <p>Naar Dom til Fortabelse af Ret til<lb/>
+Sagførervirksomhed er overgaaet en Sagfører, kan han ikke, selv om han paaanker<lb/>
+saadan Dom, fortsætte sin Virksomhed, indtil<lb/>
 endelig Dom i Sagen er falden.
 </p>
-<wtitle>§ 112.
-</wtitle>
-<p>Kommer en Sagfører under Konkurs<lb />
-har Justitsministeren at fratage ham Retten<lb />
-til at udøve Sagførervirksomhed, der først<lb />
-kan generhverves, naar han fremskaffer Erklæring fra samtlige de i Konkursboet anmeldte Kreditorer om, at han har fyldestgjort dem for deres Krav. Bliver en Sagfører umyndiggjort har Justitsministeren<lb />
-ligeledes at fratage ham Retten til at udøve<lb />
+            </div>
+            <div>
+               <head>§ 112.
+</head>
+               <p>Kommer en Sagfører under Konkurs<lb/>
+har Justitsministeren at fratage ham Retten<lb/>
+til at udøve Sagførervirksomhed, der først<lb/>
+kan generhverves, naar han fremskaffer Erklæring fra samtlige de i Konkursboet anmeldte Kreditorer om, at han har fyldestgjort dem for deres Krav. Bliver en Sagfører umyndiggjort har Justitsministeren<lb/>
+ligeledes at fratage ham Retten til at udøve<lb/>
 Sagførervirksomhed, saa længe Umyndiggørelsen vedvarer.
 </p>
-<title>Sjette Afsnit.
-</title>
-<undertitle>Lovens  Tinden i  Kraft,   Overgangsbestemmelser.
-</undertitle>
-<title>Kap. XII.
-</title>
-<wtitle>§ 113.
-</wtitle>
-<p>Denne Lov træder i Kraft 2 Aar fra<lb />
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>Lovens  Tinden i  Kraft,   Overgangsbestemmelser.
+</head>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+            </div>
+            <div>
+               <head>§ 113.
+</head>
+               <p>Denne Lov træder i Kraft 2 Aar fra<lb/>
 den Dag at regne, da det Nummer af Lovtidenden udgaar, hvori den kundgøres.
 </p>
-<p>De i §§ 12, 22 og 23 ommeldte Anordninger og Bekendtgørelser udgaa i betimelig<lb />
-Tid før det Tidspunkt, da Loven efter foranstaaende Bestemmelse træder i Kraft.<lb />
-Fremdeles bliver der før det nævnte Tidspunkt at drage Omsorg for Affattelsen af<lb />
+               <p>De i §§ 12, 22 og 23 ommeldte Anordninger og Bekendtgørelser udgaa i betimelig<lb/>
+Tid før det Tidspunkt, da Loven efter foranstaaende Bestemmelse træder i Kraft.<lb/>
+Fremdeles bliver der før det nævnte Tidspunkt at drage Omsorg for Affattelsen af<lb/>
 de i Kap. IV og V omtalte Lister.
 </p>
-</rightside></div><?page  r06_00043_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>41
-</pagename>
-<p>Loven gælder ikke for Færøerne; den<lb />
+               <pb xml:id="idr06_00043_proceskom_1892_1"
+                   facs="r06_00043_proceskom_1892_1 "
+                   n="41&#xA;"/>
+               <p>Loven gælder ikke for Færøerne; den<lb/>
 sjællandske Landsret er Overret for Færøerne.
 </p>
-<wtitle>§ 114.
-</wtitle>
-<p>De Spørgsmaal, som opstaa ved Sammenligning eller Deling af hidtilværende<lb />
-Underretskredse med Hensyn til Bidrag til<lb />
-Arresthuses Opførelse eller Vedligeholdelse<lb />
-og andre for en Retskreds følles Anliggender<lb />
-afgøres af Iustitsministeren i Forening med<lb />
-Indenrigsministeren efter Forhandling med<lb />
+            </div>
+            <div>
+               <head>§ 114.
+</head>
+               <p>De Spørgsmaal, som opstaa ved Sammenligning eller Deling af hidtilværende<lb/>
+Underretskredse med Hensyn til Bidrag til<lb/>
+Arresthuses Opførelse eller Vedligeholdelse<lb/>
+og andre for en Retskreds følles Anliggender<lb/>
+afgøres af Iustitsministeren i Forening med<lb/>
+Indenrigsministeren efter Forhandling med<lb/>
 vedkommende kommunale Myndigheder.
 </p>
-<wtitle>§ 115.
-</wtitle>
-<p>Naar flere hidtilværende Underretskredse sammenlægges, gaa deres Skøde- og<lb />
-Panteprotokoller over til Hovedtingstedet for<lb />
-at afbenyttes for hele Retskredsen. Deles<lb />
-en hidtilværende Underretskreds, blive de<lb />
-fornødne Afskrifter af Skøde- og Pantebøgerne at udfærdige og Betalingen Herfor at<lb />
+            </div>
+            <div>
+               <head>§ 115.
+</head>
+               <p>Naar flere hidtilværende Underretskredse sammenlægges, gaa deres Skøde- og<lb/>
+Panteprotokoller over til Hovedtingstedet for<lb/>
+at afbenyttes for hele Retskredsen. Deles<lb/>
+en hidtilværende Underretskreds, blive de<lb/>
+fornødne Afskrifter af Skøde- og Pantebøgerne at udfærdige og Betalingen Herfor at<lb/>
 udrede af Statskassen.
 </p>
-<wtitle>§ 116.
-</wtitle>
-<p>Sager og Anliggender, som paa den<lb />
-Tid, da nærværende Lov troeder i Kraft,<lb />
-svæve for Retten, gaa over fra de hidtil<lb />
-bestaaende Retter til de nye efter følgende<lb />
+            </div>
+            <div>
+               <head>§ 116.
+</head>
+               <p>Sager og Anliggender, som paa den<lb/>
+Tid, da nærværende Lov troeder i Kraft,<lb/>
+svæve for Retten, gaa over fra de hidtil<lb/>
+bestaaende Retter til de nye efter følgende<lb/>
 Regler:
 </p>
-<p>1)	Sager og Anliggender, som svæve ved<lb />
-en Ret i første Instans, gaa efter Beskaffenheden af  de Regler,   der   sinde<lb />
-Anvendelse paa den fortfatte Behandling, over enten til den Landsret eller<lb />
-den Underret, under hvilken den paagældende Retskreds henlægges.  Finder<lb />
-en Deling Sted af   en  hidtilværende<lb />
-Underretskreds, sker Overgangen i alle<lb />
-Tilfælde, hvor Værnetinget beror paa<lb />
-stedlige Hensyn,   til   den Ret,   under<lb />
-hvilken den paagældende Del af Retskredsen henlægges, i andre Tilfælde til<lb />
-den Ret, under hvilken den større Del<lb />
+               <p>1)	Sager og Anliggender, som svæve ved<lb/>
+en Ret i første Instans, gaa efter Beskaffenheden af  de Regler,   der   sinde<lb/>
+Anvendelse paa den fortfatte Behandling, over enten til den Landsret eller<lb/>
+den Underret, under hvilken den paagældende Retskreds henlægges.  Finder<lb/>
+en Deling Sted af   en  hidtilværende<lb/>
+Underretskreds, sker Overgangen i alle<lb/>
+Tilfælde, hvor Værnetinget beror paa<lb/>
+stedlige Hensyn,   til   den Ret,   under<lb/>
+hvilken den paagældende Del af Retskredsen henlægges, i andre Tilfælde til<lb/>
+den Ret, under hvilken den større Del<lb/>
 af Retskredsen er henlagt;
 </p>
-<p>2)	Sager, som svæve ved Landsoverretten<lb />
+               <p>2)	Sager, som svæve ved Landsoverretten<lb/>
   i Kjøbenhavn eller i Viborg, gaa over
 </p>
-<p>henholdsvis til den sjællandske Lands</p>
-<p>ret eller den jydsk-fynske Landsret.
+               <p>henholdsvis til den sjællandske Lands</p>
+               <p>ret eller den jydsk-fynske Landsret.
 </p>
-<pagename>6
-</pagename>
-</leftside></div><?page  r06_00044_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>42
-</pagename>
-<wtitle>§ 117.
-</wtitle>
-<p>De nuværende Dommere og andre<lb />
-Embedsmænd ved Landsover- samt Hof- og<lb />
-Stadsretten i Kjøbenhavn, Kriminal- og<lb />
-Politiretten samt Sø- og Handelsretten<lb />
-sammesteds og Landsoverretten i Viborg<lb />
-ere pligtige at modtage Beskikkelse ved de<lb />
-nye Landsretter og Kjøbenhavns Stadsret,<lb />
-og de nuværende Underdommere og Underretsskrivere at modtage Beskikkelse ved de nye<lb />
-Underretter, dog uden Formindskelse i deres<lb />
-hidtil haste Embedsindtægter og saaledes,<lb />
-at den Embedstid, der med Hensyn til<lb />
-Beregning af Alderstillæg har været lagt<lb />
-til Grund for Udregningen af Embedslønningen i den Stilling, de hidtil have<lb />
-beklædt, ogsaa kommer dem til Gode i de<lb />
-nye Stillinger, i hvilke de saaledes ere<lb />
+               <pb xml:id="idr06_00044_proceskom_1892_1"
+                   facs="r06_00044_proceskom_1892_1 "
+                   n="42&#xA;"/>
+            </div>
+            <div>
+               <head>§ 117.
+</head>
+               <p>De nuværende Dommere og andre<lb/>
+Embedsmænd ved Landsover- samt Hof- og<lb/>
+Stadsretten i Kjøbenhavn, Kriminal- og<lb/>
+Politiretten samt Sø- og Handelsretten<lb/>
+sammesteds og Landsoverretten i Viborg<lb/>
+ere pligtige at modtage Beskikkelse ved de<lb/>
+nye Landsretter og Kjøbenhavns Stadsret,<lb/>
+og de nuværende Underdommere og Underretsskrivere at modtage Beskikkelse ved de nye<lb/>
+Underretter, dog uden Formindskelse i deres<lb/>
+hidtil haste Embedsindtægter og saaledes,<lb/>
+at den Embedstid, der med Hensyn til<lb/>
+Beregning af Alderstillæg har været lagt<lb/>
+til Grund for Udregningen af Embedslønningen i den Stilling, de hidtil have<lb/>
+beklædt, ogsaa kommer dem til Gode i de<lb/>
+nye Stillinger, i hvilke de saaledes ere<lb/>
 pligtige at modtage Beskikkelse.
 </p>
-<p>Forsaavidt der i nærværende Lov stilles<lb />
-strængere Fordringer i Henseende til juridisk<lb />
-Eksamen for Dommere og andre Retsembedsmænd end efter de hidtil gældende Regler,<lb />
-forbliver det dog ved disse med Hensyn til<lb />
+               <p>Forsaavidt der i nærværende Lov stilles<lb/>
+strængere Fordringer i Henseende til juridisk<lb/>
+Eksamen for Dommere og andre Retsembedsmænd end efter de hidtil gældende Regler,<lb/>
+forbliver det dog ved disse med Hensyn til<lb/>
 de Mænd, der alt ere beskikkede som saadanne.
 </p>
-<wtitle>§ 118.
-</wtitle>
-<p>De Spørgsmaal, som opstaa ved Sammenligning eller Deling af hidtilværende<lb />
-Politikredse med Hensyn til de for en Politikreds fælles Anliggender, afgøres af Iustitsministeren i Forening med Indenrigsministeren efter Forhandling med vedkommende<lb />
+            </div>
+            <div>
+               <head>§ 118.
+</head>
+               <p>De Spørgsmaal, som opstaa ved Sammenligning eller Deling af hidtilværende<lb/>
+Politikredse med Hensyn til de for en Politikreds fælles Anliggender, afgøres af Iustitsministeren i Forening med Indenrigsministeren efter Forhandling med vedkommende<lb/>
 kommunale Myndigheder.
 </p>
-<wtitle>§ 119.
-</wtitle>
-<p>De nuværende Underretsdommere ere<lb />
-pligtige at modtage Beskikkelse som Politimestre, dog uden Formindskelse i deres Embedsindtægter og saaledes, at den Embedstid, der med Hensyn til Beregning af Alderstillæg har været lagt til Grund for Udregningen af Embedslønningen i den Stilling, de hidtil have beklædt, ogsaa kommer<lb />
-dem til Gode i de nye Stillinger, i hvilke<lb />
+            </div>
+            <div>
+               <head>§ 119.
+</head>
+               <p>De nuværende Underretsdommere ere<lb/>
+pligtige at modtage Beskikkelse som Politimestre, dog uden Formindskelse i deres Embedsindtægter og saaledes, at den Embedstid, der med Hensyn til Beregning af Alderstillæg har været lagt til Grund for Udregningen af Embedslønningen i den Stilling, de hidtil have beklædt, ogsaa kommer<lb/>
+dem til Gode i de nye Stillinger, i hvilke<lb/>
 de saaledes ere pligtige at modtage Bestikkelse.
 </p>
-</rightside></div><?page  r06_00045_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>43
-</pagename>
-<wtitle>§  120.
-</wtitle>
-<p>Med Henfyn til dc Auktioner, der ikke<lb />
-ere omhandlede i Loven om den borgerlige<lb />
-Retspleje, forbeholdes det ved færlig Lov at<lb />
-træffe nærmere Bestemmelser om, ved hvem<lb />
+               <pb xml:id="idr06_00045_proceskom_1892_1"
+                   facs="r06_00045_proceskom_1892_1 "
+                   n="43&#xA;"/>
+            </div>
+            <div>
+               <head>§  120.
+</head>
+               <p>Med Henfyn til dc Auktioner, der ikke<lb/>
+ere omhandlede i Loven om den borgerlige<lb/>
+Retspleje, forbeholdes det ved færlig Lov at<lb/>
+træffe nærmere Bestemmelser om, ved hvem<lb/>
 og under hvilke Former de blive at afholde.
 </p>
-<wtitle>§ 121.
-</wtitle>
-<p>I det første Aar efter denne Lovs<lb />
-Ikrafttræden bliver, forsaavidt den Paagældende iøvrigt opfylder de Betingelser for<lb />
-at stedes til Sagførervirksomhed, som denne<lb />
-Lov foreskriver, Sagførerbeskikkelse at meddele Vedkommende, selv om han kun har<lb />
-gjort 3 Aars Tjeneste som Fuldmægtig hos<lb />
-en Amtmand eller som autoriseret Dommerfuldmægtig eller som autoriseret Fældmægtig<lb />
+            </div>
+            <div>
+               <head>§ 121.
+</head>
+               <p>I det første Aar efter denne Lovs<lb/>
+Ikrafttræden bliver, forsaavidt den Paagældende iøvrigt opfylder de Betingelser for<lb/>
+at stedes til Sagførervirksomhed, som denne<lb/>
+Lov foreskriver, Sagførerbeskikkelse at meddele Vedkommende, selv om han kun har<lb/>
+gjort 3 Aars Tjeneste som Fuldmægtig hos<lb/>
+en Amtmand eller som autoriseret Dommerfuldmægtig eller som autoriseret Fældmægtig<lb/>
 hos en Sagfører.
 </p>
-<title>Jurisdiktionerne*) forealaas ordnede paa<lb />
-følgende Maade:
-</title>
-<p>Sjælland og Møen:
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+               <p>Sjælland og Møen:
 </p>
-<p>1.    Amager c. 19,000.
+               <p>1.    Amager c. 19,000.
 </p>
-<p>2.    Frederiksberg Birk c. 56,000.
+               <p>2.    Frederiksberg Birk c. 56,000.
 </p>
-<p>3.    Nordre Birk med Hørsholm Birk c.<lb />
+               <p>3.    Nordre Birk med Hørsholm Birk c.<lb/>
 35,000.
 </p>
-<p>4.    Søndre Birk c. 20,000.
+               <p>4.    Søndre Birk c. 20,000.
 </p>
-<p>5.    Roskilde med Ramsø-Thune Herred<lb />
+               <p>5.    Roskilde med Ramsø-Thune Herred<lb/>
 c.  18,000.
 </p>
-<p>6.    Lejre Herred c.  18,000.
+               <p>6.    Lejre Herred c.  18,000.
 </p>
-<p>7.    Kjøge med Vallø Birk  og Bjeverskov<lb />
+               <p>7.    Kjøge med Vallø Birk  og Bjeverskov<lb/>
 Herred c.  16,000.
 </p>
-<p>8.    Helsingør c. 11,000.
+               <p>8.    Helsingør c. 11,000.
 </p>
-<p>9.    Kronborg østre Virk c. 12,500.
+               <p>9.    Kronborg østre Virk c. 12,500.
 </p>
-<p>
+               <p>
 </p>
-<p>10.    Kronborg vestre Birk c. 13,000.
+               <p>10.    Kronborg vestre Birk c. 13,000.
 </p>
-<p>11.    Hillerød   med   Frederiksborg   Birk   c.<lb />
+               <p>11.    Hillerød   med   Frederiksborg   Birk   c.<lb/>
 24,000.
 </p>
-<note rend="food">*) De af de nuværende Jurisdiktioner, der nedlægges<lb />
-ved at forenes med andre, ere betegnede ved at<lb />
+               <note rend="food">*) De af de nuværende Jurisdiktioner, der nedlægges<lb/>
+ved at forenes med andre, ere betegnede ved at<lb/>
 være fremhævede.
 </note>
-</leftside></div><?page  r06_00046_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>44
-</pagename>
-<p>
+               <pb xml:id="idr06_00046_proceskom_1892_1"
+                   facs="r06_00046_proceskom_1892_1 "
+                   n="44&#xA;"/>
+               <p>
 </p>
-<p>12.    Frederiksværk   med  Halsnæs  Birk c.<lb />
+               <p>12.    Frederiksværk   med  Halsnæs  Birk c.<lb/>
 5,000.
 </p>
-<p>13.    Frederikssund    og   Horns   Herred   c.<lb />
+               <p>13.    Frederikssund    og   Horns   Herred   c.<lb/>
 15,500.
 </p>
-<p>14.    Nykjøbing   med   Dragsholm   Birk   c.<lb />
+               <p>14.    Nykjøbing   med   Dragsholm   Birk   c.<lb/>
 18,000.
 </p>
-<p>15.    Holbæk og Merløse-Tudse Herred c.<lb />
+               <p>15.    Holbæk og Merløse-Tudse Herred c.<lb/>
 30,000.
 </p>
-<p>16.    Løve Herred c. 13,500.
+               <p>16.    Løve Herred c. 13,500.
 </p>
-<p>17.    Sorø med Birk c.  17,000.
+               <p>17.    Sorø med Birk c.  17,000.
 </p>
-<p>18.    Kallundborg  med   Arts-Skippinge<lb />
+               <p>18.    Kallundborg  med   Arts-Skippinge<lb/>
 Herred c. 22,800.
 </p>
-<p>19.    Samsø c. 7,000.
+               <p>19.    Samsø c. 7,000.
 </p>
-<p>20.    Korfør med Landdistrikt c. 8,500.
+               <p>20.    Korfør med Landdistrikt c. 8,500.
 </p>
-<p>21.    Slagelse   med   Antvorskov   Birk   c.<lb />
+               <p>21.    Slagelse   med   Antvorskov   Birk   c.<lb/>
 19,500.
 </p>
-<p>22.    Skjelskør, Besterflakkebjerg   Herred  og<lb />
+               <p>22.    Skjelskør, Besterflakkebjerg   Herred  og<lb/>
 Holsteinborg Birk c. 15,000.
 </p>
-<p>23.    Ringsted med Herred c.  15,500.
+               <p>23.    Ringsted med Herred c.  15,500.
 </p>
-<p>24.    Bregentved-Gisselfeld   Birk   c. 18,500.
+               <p>24.    Bregentved-Gisselfeld   Birk   c. 18,500.
 </p>
-<p>25.	Nestved og Tybjerg Herred samt Øster<lb />
+               <p>25.	Nestved og Tybjerg Herred samt Øster<lb/>
     Flakkebjerg Herred c. 25,500.
 </p>
-<p>26.    Storehedinge    og    Faxe    Herred    c.<lb />
+               <p>26.    Storehedinge    og    Faxe    Herred    c.<lb/>
 18,000.
 </p>
-<p>27.    Præstø  og Vordingborg  nordre  Birk<lb />
+               <p>27.    Præstø  og Vordingborg  nordre  Birk<lb/>
 c.  12,500.
 </p>
-<p>28.    Vordingborg  og   Vordingborg   søndre<lb />
+               <p>28.    Vordingborg  og   Vordingborg   søndre<lb/>
 Birk c.  17,000.
 </p>
-<p>29.    Møen c. 14,000.
+               <p>29.    Møen c. 14,000.
 </p>
-<title>Bornholm:</title>
-<p></p>
-<p>30.    Rønne med Vestre Herred c. 13,500.
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+               <p/>
+               <p>30.    Rønne med Vestre Herred c. 13,500.
 </p>
-<p>31.    Hasle med Nordre Herred c. 9,400.
+               <p>31.    Hasle med Nordre Herred c. 9,400.
 </p>
-<p>32.    Nexø med Søndre Herred og Svaneke<lb />
+               <p>32.    Nexø med Søndre Herred og Svaneke<lb/>
 med Østre Herred c. 17,000.
 </p>
-<p>(Egen Politimester i Svaneke).
+               <p>(Egen Politimester i Svaneke).
 </p>
-<title>Lolland-Falster:</title>
-<p></p>
-<p>33.    Nykjøbing med   Nykjøbing  Herred og<lb />
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+               <p/>
+               <p>33.    Nykjøbing med   Nykjøbing  Herred og<lb/>
 Vestre Herred c. 23,000.
 </p>
-<p>34.    Stubbekjøbing med  Herred c. 12,000.
+               <p>34.    Stubbekjøbing med  Herred c. 12,000.
 </p>
-<p>35.    Sarkjøbing    med   Musse   Herred   c.<lb />
+               <p>35.    Sarkjøbing    med   Musse   Herred   c.<lb/>
 12,000.
 </p>
-<p>36.    Nysted med Birk c. 7,000.
+               <p>36.    Nysted med Birk c. 7,000.
 </p>
-<p>37.    Maribo med Maribo Birk.
+               <p>37.    Maribo med Maribo Birk.
 </p>
-<p>
+               <p>
 </p>
-<p>38.    Rødby med Fuglse Herred  c. 10,000.
+               <p>38.    Rødby med Fuglse Herred  c. 10,000.
 </p>
-<p>39.    Nakskov    med    Søndre   Herred   c.
+               <p>39.    Nakskov    med    Søndre   Herred   c.
 </p>
-<p>17,300.<lb />
+               <p>17,300.<lb/>
 40.    Nordre Herred   med Fejø   c. 13,000.
 </p>
-</rightside></div><?page  r06_00047_proceskom_1892_1 ?>
-<div type='page-placeholder'><leftside>
-<pagename>45
-</pagename>
-<title>Fyen:</title>
-<p></p>
-<p>41.    Nyborg    med    Binding   Herred    c.<lb />
+               <pb xml:id="idr06_00047_proceskom_1892_1"
+                   facs="r06_00047_proceskom_1892_1 "
+                   n="45&#xA;"/>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+               <p/>
+               <p>41.    Nyborg    med    Binding   Herred    c.<lb/>
 20,500.
 </p>
-<p>42.    Sunds-Gudme Herred c. 28,000.
+               <p>42.    Sunds-Gudme Herred c. 28,000.
 </p>
-<p>43.    Svendborg    med   Taasinge    Birk   c.<lb />
+               <p>43.    Svendborg    med   Taasinge    Birk   c.<lb/>
 14,300.
 </p>
-<p>44.    Rudkjøbing  og Langelands Herred  c<lb />
+               <p>44.    Rudkjøbing  og Langelands Herred  c<lb/>
 20,000.
 </p>
-<p>45.    Ærøskjøbing med Ærø c. 12,000.
+               <p>45.    Ærøskjøbing med Ærø c. 12,000.
 </p>
-<p>46.    Faaborg   med    Salling    Herred    og<lb />
+               <p>46.    Faaborg   med    Salling    Herred    og<lb/>
 Muckadel Birk c. 27,500.
 </p>
-<p>47.    Odense c. 36,000.
+               <p>47.    Odense c. 36,000.
 </p>
-<p>48.    Odense Herred c. 18,500.
+               <p>48.    Odense Herred c. 18,500.
 </p>
-<p>49.    Bjerge-Aasum Herred c. 14,000.
+               <p>49.    Bjerge-Aasum Herred c. 14,000.
 </p>
-<p>50.    Kjerteminde og Hindsholm  Herred   c.<lb />
+               <p>50.    Kjerteminde og Hindsholm  Herred   c.<lb/>
 6,000.
 </p>
-<p>51.    Lunde-Skam Herred c. 13,500.
+               <p>51.    Lunde-Skam Herred c. 13,500.
 </p>
-<p>
+               <p>
 </p>
-<p>52.    Bogense og Skovby Herred c. 11,000.
+               <p>52.    Bogense og Skovby Herred c. 11,000.
 </p>
-<p>53.    Assens   med    Baag    Herred   og   as<lb />
-Wedellsborg    Birk    Kjerte,   Barløse,<lb />
-Sandager  og  Tanderup Sogne samt<lb />
+               <p>53.    Assens   med    Baag    Herred   og   as<lb/>
+Wedellsborg    Birk    Kjerte,   Barløse,<lb/>
+Sandager  og  Tanderup Sogne samt<lb/>
 Den Baagø c. 23,500.
 </p>
-<p>54.    Middelfart   med   Vends   Herred    og<lb />
-Resten   af   Wedellsborg   Birk   c.<lb />
+               <p>54.    Middelfart   med   Vends   Herred    og<lb/>
+Resten   af   Wedellsborg   Birk   c.<lb/>
 20,500.
 </p>
-<title>Jylland:</title>
-<p>
+            </div>
+         </div>
+         <div>
+            <div>
+               <head/>
+               <p>
 </p>
-<p>55.    Frederikshavn   og  Horns   Herred  og<lb />
+               <p>55.    Frederikshavn   og  Horns   Herred  og<lb/>
 Skagen c. 26,000.
 </p>
-<p>56.    Sæby   med   Dronninglund  Herred c.<lb />
+               <p>56.    Sæby   med   Dronninglund  Herred c.<lb/>
 23,000.
 </p>
-<p>57.    Læsø c. 2,500.
+               <p>57.    Læsø c. 2,500.
 </p>
-<p>58.    Hjørring   med   Vennebjerg   Herred c.<lb />
+               <p>58.    Hjørring   med   Vennebjerg   Herred c.<lb/>
 27,000.
 </p>
-<p>59.    Børglum Herred c. 24,000.
+               <p>59.    Børglum Herred c. 24,000.
 </p>
-<p>60.    Hvetbo Herred c. 9,000.
+               <p>60.    Hvetbo Herred c. 9,000.
 </p>
-<p>61.    Han Herrederne c. 17,500.
+               <p>61.    Han Herrederne c. 17,500.
 </p>
-<p>62.	 Thisted med Hillerslev-Hundborg Herred
+               <p>62.	 Thisted med Hillerslev-Hundborg Herred
 </p>
-<p>c.  23,000.
+               <p>c.  23,000.
 </p>
-<p>63.    Hassing-Refs Herred c. 16,500.
+               <p>63.    Hassing-Refs Herred c. 16,500.
 </p>
-<p>64.    Nykjøbing med Mors c. 21,500.
+               <p>64.    Nykjøbing med Mors c. 21,500.
 </p>
-<p>65.    Skive med Salling  Herred c. 24,000.
+               <p>65.    Skive med Salling  Herred c. 24,000.
 </p>
-<p>66.    Viborg med Fjends-Nørlyng Herred<lb />
+               <p>66.    Viborg med Fjends-Nørlyng Herred<lb/>
 c. 23,000.
 </p>
-<p>67.    Middelsom-Sønderlyngherred c. 16,000.
+               <p>67.    Middelsom-Sønderlyngherred c. 16,000.
 </p>
-<p>68.    Hobro med Rinds-Gislum  Herred   c.<lb />
+               <p>68.    Hobro med Rinds-Gislum  Herred   c.<lb/>
 20,500.
 </p>
-<p>69.    Lysgaard-hids Herred c. 21,500.
+               <p>69.    Lysgaard-hids Herred c. 21,500.
 </p>
-<p>70.    Hammerum Herred c. 21,000.
+               <p>70.    Hammerum Herred c. 21,000.
 71.	</p>
-</leftside></div><?page  r06_00048_proceskom_1892_1 ?>
-<div type='page-placeholder'><rightside>
-<pagename>46</pagename>
-<p>
+               <pb xml:id="idr06_00048_proceskom_1892_1"
+                   facs="r06_00048_proceskom_1892_1 "
+                   n="46"/>
+               <p>
 </p>
-<p>71.    Holstebro med Hjerm-Ginding Herred<lb />
+               <p>71.    Holstebro med Hjerm-Ginding Herred<lb/>
 c.  27,500.
 </p>
-<p>72.    Lemvig med Skodborg-Vandfuld Herred<lb />
+               <p>72.    Lemvig med Skodborg-Vandfuld Herred<lb/>
 c.  18,600.
 </p>
-<p>73.    Ringkjøbing  og  Ulfborg-hind  Herred<lb />
+               <p>73.    Ringkjøbing  og  Ulfborg-hind  Herred<lb/>
 c. 17,000.
 </p>
-<p>74.    Bølling-Nørre Herred c. 15,000.
+               <p>74.    Bølling-Nørre Herred c. 15,000.
 </p>
-<p>75.    Øster og Vester Herred samt Varde<lb />
+               <p>75.    Øster og Vester Herred samt Varde<lb/>
 med Landsogne c. 30,000.
 </p>
-<p>76.    Esbjerg med Skads Herred og Fanø<lb />
+               <p>76.    Esbjerg med Skads Herred og Fanø<lb/>
 c. 21,000.
 </p>
-<p>77.    Ribe med Ribe Herred c. 11,000.
+               <p>77.    Ribe med Ribe Herred c. 11,000.
 </p>
-<p>78.    Gjjørding-Malt Herred c. 13,500.
+               <p>78.    Gjjørding-Malt Herred c. 13,500.
 </p>
-<p>79.    Andst-Slangs Herred c.  19,000.
+               <p>79.    Andst-Slangs Herred c.  19,000.
 </p>
-<p>80.    Vejle med Nørvang-Tørrild Herred<lb />
+               <p>80.    Vejle med Nørvang-Tørrild Herred<lb/>
 c. 42,000.
 </p>
-<p>81.    Bjerge og Hatting Herreder c. 20,000.
+               <p>81.    Bjerge og Hatting Herreder c. 20,000.
 </p>
-<p>82.    Fredericia   og   Elbo,  Brusk,   Holmans Herreder c. 23,000.
+               <p>82.    Fredericia   og   Elbo,  Brusk,   Holmans Herreder c. 23,000.
 </p>
-<p>83.    Kolding og Kolding Herred c. 26,200.
+               <p>83.    Kolding og Kolding Herred c. 26,200.
 </p>
-<p>84.    Horsens c.  18,700.
+               <p>84.    Horsens c.  18,700.
 </p>
-<p>85.    Voer og Nim Herreder c. 18,000.
+               <p>85.    Voer og Nim Herreder c. 18,000.
 </p>
-<p>86.    Tyrsting-Vrads Herred c. 13,000.
+               <p>86.    Tyrsting-Vrads Herred c. 13,000.
 </p>
-<p>87.    Silkeborg Birk c. 13,400.
+               <p>87.    Silkeborg Birk c. 13,400.
 </p>
-<p>88.    Skanderborg    med    Hjelmslev-Gjern<lb />
+               <p>88.    Skanderborg    med    Hjelmslev-Gjern<lb/>
 Herred c. 14,000.
 </p>
-<p>89.    Hads Herred c. 13,000.
+               <p>89.    Hads Herred c. 13,000.
 </p>
-<p>90.    Hasle,   Vesterlisberg,   Framlev   samt<lb />
+               <p>90.    Hasle,   Vesterlisberg,   Framlev   samt<lb/>
 Ning Herreder c. 27,000.
 </p>
-<p>91.    Frijsenborg Birk c. 21,500.
+               <p>91.    Frijsenborg Birk c. 21,500.
 </p>
-<p>92.    Aarhus c.  36,500.
+               <p>92.    Aarhus c.  36,500.
 </p>
-<p>93.    Ebeltoft med Mols Herred c. 13,000.
+               <p>93.    Ebeltoft med Mols Herred c. 13,000.
 </p>
-<p>94.    Grenaa med Nørre Herred c. 18,000.
+               <p>94.    Grenaa med Nørre Herred c. 18,000.
 </p>
-<p>95.    Randers c.  18,000.
+               <p>95.    Randers c.  18,000.
 </p>
-<p>96.    Rougsø,   Sønderhald   og   Ø.  Lisberg<lb />
+               <p>96.    Rougsø,   Sønderhald   og   Ø.  Lisberg<lb/>
 Herreder e. 30,000.
 </p>
-<p>97.    Nørhald, Støvring og Galten Herreder<lb />
+               <p>97.    Nørhald, Støvring og Galten Herreder<lb/>
 e.  17,000.
 </p>
-<p>98.    Mariager  og   Gierlev-Onsild   Herred<lb />
+               <p>98.    Mariager  og   Gierlev-Onsild   Herred<lb/>
 c.  13,000.
 </p>
-<p>99.    Aalborg    med    Aalborg    Birk   og<lb />
+               <p>99.    Aalborg    med    Aalborg    Birk   og<lb/>
 Fleskum Herred c. 41,400.
 </p>
-<p>
+               <p>
 </p>
-<p>100.    Kjær Herred c. 20,000.
+               <p>100.    Kjær Herred c. 20,000.
 </p>
-<p>101.    Hellum-hindsted Herred e. 19,500.
+               <p>101.    Hellum-hindsted Herred e. 19,500.
 </p>
-<p>102.    Løgstør med Aars-Slet Herred c.. 13,900.
+               <p>102.    Løgstør med Aars-Slet Herred c.. 13,900.
 </p>
-<p>103.    Nibe med Hornum Herred  c. 13,500.
+               <p>103.    Nibe med Hornum Herred  c. 13,500.
 104.	</p>
-</rightside></div></TEI>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
