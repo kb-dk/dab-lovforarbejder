@@ -109,9 +109,8 @@
   </xsl:template>
   
   <xsl:template match="t:law">
-    <span type="law"><xsl:apply-templates select="@*"/></span> <xsl:apply-templates/>
+    <span type="law"><xsl:apply-templates select="@*"/><xsl:apply-templates/></span> 
   </xsl:template>
-
   
   <xsl:template match="t:signature|t:signaturlist">
     <p><xsl:comment> originally  signature or signaturlist</xsl:comment><xsl:apply-templates/></p>
@@ -139,7 +138,7 @@
   <xsl:template match="processing-instruction('page')">
     <xsl:element name="pb">
       <xsl:attribute name="xml:id">id<xsl:value-of select="."/></xsl:attribute>
-      <xsl:attribute name="facs"><xsl:value-of select="."/></xsl:attribute>
+      <xsl:attribute name="facs"><xsl:value-of select="normalize-space(.)"/></xsl:attribute>
     </xsl:element>
   </xsl:template>
   

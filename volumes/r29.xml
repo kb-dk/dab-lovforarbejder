@@ -1,1730 +1,1670 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:t="http://www.tei-c.org/ns/1.0"
-     xml:id="root">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>1915-16: Betænkning (Landstinget)</title>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
+   <teiHeader xml:id="d1e3">
+      <fileDesc xml:id="d1e5">
+         <titleStmt xml:id="d1e7">
+            <title xml:id="d1e9">1915-16: Betænkning (Landstinget)</title>
          </titleStmt>
-         <publicationStmt>
-            <p/>
+         <publicationStmt xml:id="d1e12">
+            <p xml:id="d1e14"/>
          </publicationStmt>
-         <sourceDesc>
-            <bibl>
-               <title>1915-16: Betænkning (Landstinget)</title>
-               <date>1915-1916</date>
+         <sourceDesc xml:id="d1e17">
+            <bibl xml:id="d1e19">
+               <title xml:id="d1e21">1915-16: Betænkning (Landstinget)</title>
+               <date xml:id="d1e23">1915-1916</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <text>
-      <body>
-         <div>
-            <div>
-               <head/>
-               <pb xml:id="idr29_00001_rigsdagtid_b2_1915_16"
-                   facs="r29_00001_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+   <text xml:id="d1e29">
+      <body xml:id="d1e31">
+         <div xml:id="d1e33">
+            <head xml:id="d1e35">1915-16: Betænkning (Landstinget)</head>
+            
+               
+               <pb xml:id="idr29_00001_rigsdagtid_b2_1915_16" facs="r29_00001_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e43" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Tillæg B. (128). Ordentlig Samling 1915—16.</fw>
-               <fw type="head" place="top-right">2034</fw>
-            </div>
+               <fw xml:id="d1e46" type="head" place="top-middle">Tillæg B. (128). Ordentlig Samling 1915—16.</fw>
+               <fw xml:id="d1e49" type="head" place="top-right">2034</fw>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
-A.	Forslag til Lov om Rettens Pleje.<lb/>
-B.	Forslag til Lønningslov for forskellige af de i Lov om Rettens<lb/>
-Pleje omhandlede Embeds= og Bestillingsmænd.<lb/>
-C.	Forslag til midlertidig Lov om offentlige Auktioner, der ikke<lb/>
-er Tvangsauktioner.<lb/>
-D.	Forslag til Lov om Retsafgifter i Domssager m. m.<lb/>
-E.	Forslag til Lov om Udgifterne i Strafferetsplejen.<lb/>
-F.	Forslag til Lov om Tilvejebringelse af Lokaler for Østre Landsret,<lb/>
-Sø= og Handelsretten i København og Københavns Byret m. m.<lb/>
+         <div xml:id="d1e54">
+            <head xml:id="d1e56">
+LVII. 
+Betænkning 
+over 
+            </head>
+            
+               
+               <p xml:id="d1e69">
+A.	Forslag til Lov om Rettens Pleje.<lb xml:id="d1e71"/>
+B.	Forslag til Lønningslov for forskellige af de i Lov om Rettens<lb xml:id="d1e73"/>
+Pleje omhandlede Embeds= og Bestillingsmænd.<lb xml:id="d1e75"/>
+C.	Forslag til midlertidig Lov om offentlige Auktioner, der ikke<lb xml:id="d1e77"/>
+er Tvangsauktioner.<lb xml:id="d1e79"/>
+D.	Forslag til Lov om Retsafgifter i Domssager m. m.<lb xml:id="d1e82"/>
+E.	Forslag til Lov om Udgifterne i Strafferetsplejen.<lb xml:id="d1e84"/>
+F.	Forslag til Lov om Tilvejebringelse af Lokaler for Østre Landsret,<lb xml:id="d1e86"/>
+Sø= og Handelsretten i København og Københavns Byret m. m.<lb xml:id="d1e88"/>
 (Afgiven af Landstingets Udvalg den 30. Marts 1916).
 </p>
-               <p>
-Til A. Forslag til Lov 0111 Rettens Pleje.<lb/>
-Det Forslag til Lov om Rettens Pleje,<lb/>
-som i indeværende Samling er forelagt for<lb/>
-Landstinget, afviger paa et Hovedpunkt<lb/>
-fra Loven om Rettens Pleje af 26. Marts<lb/>
-1909, en Lov, som vel er vedtaget, men<lb/>
-endnu ikke er traadt i Kraft, Fra Loven<lb/>
-af 1909 afviger nemlig det foreliggende<lb/>
-Forslag deri. at det gennemfører fuldstæn-<lb/>
-digt Anklageprincippet paa alle en Straffe-<lb/>
+               <p xml:id="d1e91">
+Til A. Forslag til Lov 0111 Rettens Pleje.<lb xml:id="d1e93"/>
+Det Forslag til Lov om Rettens Pleje,<lb xml:id="d1e95"/>
+som i indeværende Samling er forelagt for<lb xml:id="d1e97"/>
+Landstinget, afviger paa et Hovedpunkt<lb xml:id="d1e99"/>
+fra Loven om Rettens Pleje af 26. Marts<lb xml:id="d1e101"/>
+1909, en Lov, som vel er vedtaget, men<lb xml:id="d1e104"/>
+endnu ikke er traadt i Kraft, Fra Loven<lb xml:id="d1e106"/>
+af 1909 afviger nemlig det foreliggende<lb xml:id="d1e108"/>
+Forslag deri. at det gennemfører fuldstæn-<lb xml:id="d1e110"/>
+digt Anklageprincippet paa alle en Straffe-<lb xml:id="d1e112"/>
 sags Stadier og drager to vigtige organisa-
 </p>
-               <milestone type="rightside"
-                          xml:id="startd1e72"
-                          next="endd1e72"
-                          n="2034"
-                          unit="column"/>
-               <p>
-toriske Konsekvenser heraf. Hertil hører<lb/>
-for det første den fuldstændige Adskillelse<lb/>
-mellem Dommermyndighed og Politimyn-<lb/>
-dighed, hvilken nu efter Loven af 1909<lb/>
-udenfor Hovedstaden er en Undtagelse<lb/>
-(Grundlovens §§ 71 og 74, nye Grundlovs<lb/>
-§§ 69 og 72), for det andet Oprettelsen af<lb/>
-en særlig Anklagemyndighed, som med<lb/>
-Bistand af Politimyndighederne tager For-<lb/>
-følgningen af Forbrydelsen for Domstolene<lb/>
-i sin Haand *). Dette er i Forhold til Lo-<lb/>
+               <milestone type="rightside" xml:id="startd1e72" next="endd1e72" n="2034" unit="column"/>
+               <p xml:id="d1e117">
+toriske Konsekvenser heraf. Hertil hører<lb xml:id="d1e119"/>
+for det første den fuldstændige Adskillelse<lb xml:id="d1e121"/>
+mellem Dommermyndighed og Politimyn-<lb xml:id="d1e123"/>
+dighed, hvilken nu efter Loven af 1909<lb xml:id="d1e125"/>
+udenfor Hovedstaden er en Undtagelse<lb xml:id="d1e127"/>
+(Grundlovens §§ 71 og 74, nye Grundlovs<lb xml:id="d1e130"/>
+§§ 69 og 72), for det andet Oprettelsen af<lb xml:id="d1e132"/>
+en særlig Anklagemyndighed, som med<lb xml:id="d1e134"/>
+Bistand af Politimyndighederne tager For-<lb xml:id="d1e136"/>
+følgningen af Forbrydelsen for Domstolene<lb xml:id="d1e138"/>
+i sin Haand *). Dette er i Forhold til Lo-<lb xml:id="d1e140"/>
 ven af 1909 noget nyt, der særlig med-
 </p>
-               <milestone type="rightside"
-                          xml:id="endd1e72"
-                          prev="startd1e72"
-                          n="2034"
-                          unit="column"/>
-               <p>
-*)I en af Landstingets Udvalg over et<lb/>
-tidligere hermed stemmende Lovforslag<lb/>
-fremkommen Betænkning den 29. Maj<lb/>
-1914 udtaltes der af en Del af de da-<lb/>
-terende Udvalgsmedlemmer om denne<lb/>
-Forskel mellem Loven af 1909 og den<lb/>
-senere foreslaaede Gennemførelse af<lb/>
+               <milestone type="rightside" xml:id="endd1e72" prev="startd1e72" n="2034" unit="column"/>
+               <p xml:id="d1e146">
+*)I en af Landstingets Udvalg over et<lb xml:id="d1e148"/>
+tidligere hermed stemmende Lovforslag<lb xml:id="d1e150"/>
+fremkommen Betænkning den 29. Maj<lb xml:id="d1e152"/>
+1914 udtaltes der af en Del af de da-<lb xml:id="d1e154"/>
+terende Udvalgsmedlemmer om denne<lb xml:id="d1e156"/>
+Forskel mellem Loven af 1909 og den<lb xml:id="d1e159"/>
+senere foreslaaede Gennemførelse af<lb xml:id="d1e161"/>
 Anklageprincippet følgende: Utvivlsomt
 </p>
-               <milestone type="rightside"
-                          xml:id="startd1e123"
-                          next="endd1e123"
-                          n="2034"
-                          unit="column"/>
-               <p>
-betegner denne Tilbagevenden til tid-<lb/>
-ligere indtagne Standpunkter et betyde-<lb/>
-ligt Fremskridt mod det dobbelte Maal,<lb/>
-som i Strafferetsplejens Ordning maa<lb/>
-være det ledende, paa den ene Side en<lb/>
-retfærdig Behandling af en sigtet, men<lb/>
-endnu ikke domfældt, paa den anden<lb/>
+               <milestone type="rightside" xml:id="startd1e123" next="endd1e123" n="2034" unit="column"/>
+               <p xml:id="d1e166">
+betegner denne Tilbagevenden til tid-<lb xml:id="d1e168"/>
+ligere indtagne Standpunkter et betyde-<lb xml:id="d1e170"/>
+ligt Fremskridt mod det dobbelte Maal,<lb xml:id="d1e172"/>
+som i Strafferetsplejens Ordning maa<lb xml:id="d1e174"/>
+være det ledende, paa den ene Side en<lb xml:id="d1e176"/>
+retfærdig Behandling af en sigtet, men<lb xml:id="d1e179"/>
+endnu ikke domfældt, paa den anden<lb xml:id="d1e181"/>
 Side Samfundets Krav paa Retssikker-
 </p>
-               <milestone type="rightside"
-                          xml:id="endd1e123"
-                          prev="startd1e123"
-                          n="2034"
-                          unit="column"/>
-               <p>
+               <milestone type="rightside" xml:id="endd1e123" prev="startd1e123" n="2034" unit="column"/>
+               <p xml:id="d1e186">
 Udvalgenes Betænkninger m. m.	128
 </p>
-               <pb xml:id="idr29_00002_rigsdagtid_b2_1915_16"
-                   facs="r29_00002_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <pb xml:id="idr29_00002_rigsdagtid_b2_1915_16" facs="r29_00002_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e191" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bet. o. Lovf. om Rettens Pleje m. m.</fw>
-               <fw type="head" place="top-right">2036</fw>
-               <p>
-fører Ændringer i 1ste og 4de Bog af<lb/>
+               <fw xml:id="d1e194" type="head" place="top-middle">Bet. o. Lovf. om Rettens Pleje m. m.</fw>
+               <fw xml:id="d1e197" type="head" place="top-right">2036</fw>
+               <p xml:id="d1e200">
+fører Ændringer i 1ste og 4de Bog af<lb xml:id="d1e202"/>
 Loven af 1909; men set i Forhold til tid-
 </p>
-               <milestone type="rightside"
-                          xml:id="startd1e165"
-                          next="endd1e165"
-                          n="2036"
-                          unit="column"/>
-               <p>
-ligere Forhandlinger om en Reform af<lb/>
+               <milestone type="rightside" xml:id="startd1e165" next="endd1e165" n="2036" unit="column"/>
+               <p xml:id="d1e208">
+ligere Forhandlinger om en Reform af<lb xml:id="d1e210"/>
 Retsplejen er det ikke noget nyt. An-
 </p>
-               <milestone type="rightside"
-                          xml:id="endd1e165"
-                          prev="startd1e165"
-                          n="2036"
-                          unit="column"/>
-               <p>
-hed. Vel vilde det være en Ubillighed<lb/>
-lige overfor Loven af 1909, om det mis-<lb/>
-kendtes, at den med Hensyn til Maaden,<lb/>
-hvorpaa den stiller den sigtede i en<lb/>
-Straffesag, indeholder Fremskridt i For-<lb/>
-hold til den nu gældende Eet. Efter<lb/>
-nævnte Lov bortfalder det egentlig in-<lb/>
-kvisitoriske Forhør, og i Stedet træder<lb/>
-en Afhørelse i den Forstand, som An-<lb/>
-klageprincippet hjemler (Lovens § 748).<lb/>
-Den sigtede udrustes allerede under de<lb/>
-Domsforhandlingen forudgaaende Rets-<lb/>
-handlinger med Partsrettigheder, som<lb/>
-Inkvisitionsprocessen, for hvilken den<lb/>
-sigtede kun er Undersøgelsesgenstand,<lb/>
-ikke Part, ikke kender (se Lovens §§<lb/>
-714—716 og § 804 o. f.). Varetægts-<lb/>
-fængselets Anvendelse er mere betinget<lb/>
-og begrænset, end det kan være i In-<lb/>
-kvisitionsprocessen (se Lovens §§ 763 og<lb/>
-773). Men paa Grund af den Omstæn-<lb/>
-dighed, at Anklager og Dommer efter<lb/>
-Loven af 1909 indtil Domsbehandlingen<lb/>
-i større Sager i Regelen er den samme<lb/>
-Person, løbes der ved denne Lovs Ord-<lb/>
-ning uundgaaeligt den Fare, enten at<lb/>
-de nævnte Goder, som tilsiges den sig-<lb/>
-tede, bliver mere Skin end Virkelighed,<lb/>
-eller at Retssikkerheden kommer til at<lb/>
-lide ved Anklagerens Passivitet. Græn-<lb/>
-sen mellem det inkvisitoriske Forhør og<lb/>
-Anklageprocessens Afhørelse, Betingel-<lb/>
-serne og Grænserne for Varetægtsfæng-<lb/>
-selets Anvendelse, Omfanget af og Und-<lb/>
-tagelserne fra den sigtedes Partsrettig-<lb/>
-heder kan — som de anførte Bud i<lb/>
-Loven af 1909 noksom viser — langtfra<lb/>
-altid fastsættes ved aldeles bestemte<lb/>
-Lovregler. Meget ofte beror det her<lb/>
-paa et Skøn efter de foreliggende Om-<lb/>
-stændigheder. De Krav til Ugunst for<lb/>
-den sigtede, som Anklageren ved Ud-<lb/>
-øvelsen af dette Skøn finder sig be-<lb/>
-rettiget og derfor ogsaa pligtig til som<lb/>
-Anklager at gøre gældende, er det<lb/>
-utænkeligt, at han selv som Dommer<lb/>
-skulde underkende. Dommerkontrollen<lb/>
-med Anklageren bliver da i slige Tilfælde<lb/>
-intetsigende og den Ret, som er tilsagt,<lb/>
-kun et Skin. Denne illusoriske Selvkon-<lb/>
-trol kan Dommeren kun slippe fra ved at<lb/>
-være mindre nøjeregnende med sin Pligt<lb/>
-som Anklager, saa at han undlader<lb/>
-at foretage Skridt imod den sigtede, som<lb/>
+               <milestone type="rightside" xml:id="endd1e165" prev="startd1e165" n="2036" unit="column"/>
+               <p xml:id="d1e215">
+hed. Vel vilde det være en Ubillighed<lb xml:id="d1e217"/>
+lige overfor Loven af 1909, om det mis-<lb xml:id="d1e219"/>
+kendtes, at den med Hensyn til Maaden,<lb xml:id="d1e221"/>
+hvorpaa den stiller den sigtede i en<lb xml:id="d1e223"/>
+Straffesag, indeholder Fremskridt i For-<lb xml:id="d1e225"/>
+hold til den nu gældende Eet. Efter<lb xml:id="d1e228"/>
+nævnte Lov bortfalder det egentlig in-<lb xml:id="d1e230"/>
+kvisitoriske Forhør, og i Stedet træder<lb xml:id="d1e232"/>
+en Afhørelse i den Forstand, som An-<lb xml:id="d1e234"/>
+klageprincippet hjemler (Lovens § 748).<lb xml:id="d1e236"/>
+Den sigtede udrustes allerede under de<lb xml:id="d1e238"/>
+Domsforhandlingen forudgaaende Rets-<lb xml:id="d1e241"/>
+handlinger med Partsrettigheder, som<lb xml:id="d1e243"/>
+Inkvisitionsprocessen, for hvilken den<lb xml:id="d1e245"/>
+sigtede kun er Undersøgelsesgenstand,<lb xml:id="d1e247"/>
+ikke Part, ikke kender (se Lovens §§<lb xml:id="d1e249"/>
+714—716 og § 804 o. f.). Varetægts-<lb xml:id="d1e251"/>
+fængselets Anvendelse er mere betinget<lb xml:id="d1e254"/>
+og begrænset, end det kan være i In-<lb xml:id="d1e256"/>
+kvisitionsprocessen (se Lovens §§ 763 og<lb xml:id="d1e258"/>
+773). Men paa Grund af den Omstæn-<lb xml:id="d1e260"/>
+dighed, at Anklager og Dommer efter<lb xml:id="d1e262"/>
+Loven af 1909 indtil Domsbehandlingen<lb xml:id="d1e264"/>
+i større Sager i Regelen er den samme<lb xml:id="d1e267"/>
+Person, løbes der ved denne Lovs Ord-<lb xml:id="d1e269"/>
+ning uundgaaeligt den Fare, enten at<lb xml:id="d1e271"/>
+de nævnte Goder, som tilsiges den sig-<lb xml:id="d1e273"/>
+tede, bliver mere Skin end Virkelighed,<lb xml:id="d1e275"/>
+eller at Retssikkerheden kommer til at<lb xml:id="d1e277"/>
+lide ved Anklagerens Passivitet. Græn-<lb xml:id="d1e280"/>
+sen mellem det inkvisitoriske Forhør og<lb xml:id="d1e282"/>
+Anklageprocessens Afhørelse, Betingel-<lb xml:id="d1e284"/>
+serne og Grænserne for Varetægtsfæng-<lb xml:id="d1e286"/>
+selets Anvendelse, Omfanget af og Und-<lb xml:id="d1e288"/>
+tagelserne fra den sigtedes Partsrettig-<lb xml:id="d1e290"/>
+heder kan — som de anførte Bud i<lb xml:id="d1e293"/>
+Loven af 1909 noksom viser — langtfra<lb xml:id="d1e295"/>
+altid fastsættes ved aldeles bestemte<lb xml:id="d1e297"/>
+Lovregler. Meget ofte beror det her<lb xml:id="d1e299"/>
+paa et Skøn efter de foreliggende Om-<lb xml:id="d1e301"/>
+stændigheder. De Krav til Ugunst for<lb xml:id="d1e303"/>
+den sigtede, som Anklageren ved Ud-<lb xml:id="d1e306"/>
+øvelsen af dette Skøn finder sig be-<lb xml:id="d1e308"/>
+rettiget og derfor ogsaa pligtig til som<lb xml:id="d1e310"/>
+Anklager at gøre gældende, er det<lb xml:id="d1e312"/>
+utænkeligt, at han selv som Dommer<lb xml:id="d1e314"/>
+skulde underkende. Dommerkontrollen<lb xml:id="d1e316"/>
+med Anklageren bliver da i slige Tilfælde<lb xml:id="d1e319"/>
+intetsigende og den Ret, som er tilsagt,<lb xml:id="d1e321"/>
+kun et Skin. Denne illusoriske Selvkon-<lb xml:id="d1e323"/>
+trol kan Dommeren kun slippe fra ved at<lb xml:id="d1e325"/>
+være mindre nøjeregnende med sin Pligt<lb xml:id="d1e327"/>
+som Anklager, saa at han undlader<lb xml:id="d1e329"/>
+at foretage Skridt imod den sigtede, som<lb xml:id="d1e332"/>
 han er berettiget og derfor i Virkeligheden
 </p>
-               <milestone type="rightside"
-                          xml:id="startd1e296"
-                          next="endd1e296"
-                          n="2036"
-                          unit="column"/>
-               <p>
-ogsaa pligtig at foretage. Men ved en<lb/>
-saadan vidtgaaende Hensyntagen til den<lb/>
-sigtede lider Retssikkerheden, hvis Vare-<lb/>
-tagelse ved Loven af 1909 saa at sige<lb/>
-alene er lagt i hans Haand. Der gives-<lb/>
-da, saa snart den sigtede skal opfattes<lb/>
-som Part og udrustes med Partsrettig-<lb/>
-heder, kun eet Middel til at naa til vir-<lb/>
-kelig Ligevægt mellem de to Maal i<lb/>
-Strafferetsplejen, Retfærdighed mod den<lb/>
-sigtede og Retssikkerhedens Krav, nem-<lb/>
-lig den gennemførte Sondring mellem<lb/>
-Anklager og den kontrolerende Dommer,<lb/>
-derfor Udskillelse af Politimyndigheden<lb/>
-fra Dommermyndigheden, og Organisa-<lb/>
-tionen af en selvstændig Anklagemyndig-<lb/>
-hed, i hvilken Politimesteren indordnes<lb/>
-som Led. Det er dette, som er sket ved<lb/>
-det nu foreliggende Lovforslag i Over-<lb/>
-ensstemmelse med alle ældre Forslag.<lb/>
-Det er derved, at dette Lovforslag staar<lb/>
-saa betydelig højere end Loven af 1909<lb/>
-med Hensyn til en fyldestgørende Ord-<lb/>
-ning af Strafferetsplejen. Dette mis-<lb/>
-kendtes heller ikke af Landstinget, da<lb/>
-det vedtog Forslagene af 1908 og 1909.<lb/>
-Af de da stedfundne Forhandlinger frem-<lb/>
-gaar det, at man ikke ansaa Opgivelsen<lb/>
-af Anklageprincippet for en Vinding,<lb/>
-men som noget, man gik med til, fordi<lb/>
-den saa længe forhalede Reform af<lb/>
-Retsplejen kun kunde naas paa Betin-<lb/>
-gelse af dette og andre Afslag paa den<lb/>
-fulde Gennemførelse af de ledende<lb/>
-Grundsætninger. Man nøjedes da med<lb/>
-Haabet om, at dette kun vilde være<lb/>
-en Overgang, og at Udviklingen, særlig<lb/>
-ved Bistand af det i Lovens § 1000 om-<lb/>
-talte Udvalg, vilde føre til, at Manglerne<lb/>
-ved Loven af 1909 blev afhjulpet<lb/>
-Man kunde yderligere slaa sig til<lb/>
-Ro ved den Betragtning, at den<lb/>
-Modsigelse, der ligger i at forene Ankla-<lb/>
-ger og Dommer i den samme Person, i<lb/>
-alle Tilfælde, hvor Sagen fra Begyndelsen<lb/>
-er rede og klar , navnlig paa Grund af en<lb/>
-straks afgiven frivillig og troværdig Til-<lb/>
-staaelse, ikke vilde fremtræde paa en<lb/>
-Retsfølelsen stødende eller Konflikt med-<lb/>
-førende Maade. Det er da kun i Over-<lb/>
-ensstemmelse med Landstingets Opfat-<lb/>
-telse ved Vedtagelsen af Forslagene i<lb/>
-1908 og 1909, naar det nu foretrækker<lb/>
-det foreliggende Forslag, for saa vidt<lb/>
+               <milestone type="rightside" xml:id="startd1e296" next="endd1e296" n="2036" unit="column"/>
+               <p xml:id="d1e337">
+ogsaa pligtig at foretage. Men ved en<lb xml:id="d1e339"/>
+saadan vidtgaaende Hensyntagen til den<lb xml:id="d1e341"/>
+sigtede lider Retssikkerheden, hvis Vare-<lb xml:id="d1e343"/>
+tagelse ved Loven af 1909 saa at sige<lb xml:id="d1e345"/>
+alene er lagt i hans Haand. Der gives-<lb xml:id="d1e347"/>
+da, saa snart den sigtede skal opfattes<lb xml:id="d1e350"/>
+som Part og udrustes med Partsrettig-<lb xml:id="d1e352"/>
+heder, kun eet Middel til at naa til vir-<lb xml:id="d1e354"/>
+kelig Ligevægt mellem de to Maal i<lb xml:id="d1e356"/>
+Strafferetsplejen, Retfærdighed mod den<lb xml:id="d1e358"/>
+sigtede og Retssikkerhedens Krav, nem-<lb xml:id="d1e360"/>
+lig den gennemførte Sondring mellem<lb xml:id="d1e363"/>
+Anklager og den kontrolerende Dommer,<lb xml:id="d1e365"/>
+derfor Udskillelse af Politimyndigheden<lb xml:id="d1e367"/>
+fra Dommermyndigheden, og Organisa-<lb xml:id="d1e369"/>
+tionen af en selvstændig Anklagemyndig-<lb xml:id="d1e371"/>
+hed, i hvilken Politimesteren indordnes<lb xml:id="d1e373"/>
+som Led. Det er dette, som er sket ved<lb xml:id="d1e376"/>
+det nu foreliggende Lovforslag i Over-<lb xml:id="d1e378"/>
+ensstemmelse med alle ældre Forslag.<lb xml:id="d1e380"/>
+Det er derved, at dette Lovforslag staar<lb xml:id="d1e382"/>
+saa betydelig højere end Loven af 1909<lb xml:id="d1e384"/>
+med Hensyn til en fyldestgørende Ord-<lb xml:id="d1e386"/>
+ning af Strafferetsplejen. Dette mis-<lb xml:id="d1e389"/>
+kendtes heller ikke af Landstinget, da<lb xml:id="d1e391"/>
+det vedtog Forslagene af 1908 og 1909.<lb xml:id="d1e393"/>
+Af de da stedfundne Forhandlinger frem-<lb xml:id="d1e395"/>
+gaar det, at man ikke ansaa Opgivelsen<lb xml:id="d1e397"/>
+af Anklageprincippet for en Vinding,<lb xml:id="d1e399"/>
+men som noget, man gik med til, fordi<lb xml:id="d1e402"/>
+den saa længe forhalede Reform af<lb xml:id="d1e404"/>
+Retsplejen kun kunde naas paa Betin-<lb xml:id="d1e406"/>
+gelse af dette og andre Afslag paa den<lb xml:id="d1e408"/>
+fulde Gennemførelse af de ledende<lb xml:id="d1e410"/>
+Grundsætninger. Man nøjedes da med<lb xml:id="d1e412"/>
+Haabet om, at dette kun vilde være<lb xml:id="d1e415"/>
+en Overgang, og at Udviklingen, særlig<lb xml:id="d1e417"/>
+ved Bistand af det i Lovens § 1000 om-<lb xml:id="d1e419"/>
+talte Udvalg, vilde føre til, at Manglerne<lb xml:id="d1e421"/>
+ved Loven af 1909 blev afhjulpet<lb xml:id="d1e423"/>
+Man kunde yderligere slaa sig til<lb xml:id="d1e425"/>
+Ro ved den Betragtning, at den<lb xml:id="d1e428"/>
+Modsigelse, der ligger i at forene Ankla-<lb xml:id="d1e430"/>
+ger og Dommer i den samme Person, i<lb xml:id="d1e432"/>
+alle Tilfælde, hvor Sagen fra Begyndelsen<lb xml:id="d1e434"/>
+er rede og klar , navnlig paa Grund af en<lb xml:id="d1e436"/>
+straks afgiven frivillig og troværdig Til-<lb xml:id="d1e438"/>
+staaelse, ikke vilde fremtræde paa en<lb xml:id="d1e441"/>
+Retsfølelsen stødende eller Konflikt med-<lb xml:id="d1e443"/>
+førende Maade. Det er da kun i Over-<lb xml:id="d1e445"/>
+ensstemmelse med Landstingets Opfat-<lb xml:id="d1e447"/>
+telse ved Vedtagelsen af Forslagene i<lb xml:id="d1e449"/>
+1908 og 1909, naar det nu foretrækker<lb xml:id="d1e451"/>
+det foreliggende Forslag, for saa vidt<lb xml:id="d1e454"/>
 angaar Ordningen af Strafferetsplejen,
 </p>
-               <milestone type="rightside"
-                          xml:id="endd1e296"
-                          prev="startd1e296"
-                          n="2036"
-                          unit="column"/>
-               <pb xml:id="idr29_00003_rigsdagtid_b2_1915_16"
-                   facs="r29_00003_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <milestone type="rightside" xml:id="endd1e296" prev="startd1e296" n="2036" unit="column"/>
+               <pb xml:id="idr29_00003_rigsdagtid_b2_1915_16" facs="r29_00003_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e462" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bet. o. Lovf. om Rettens Pleje m. m.</fw>
-               <fw type="head" place="top-right">2038</fw>
-               <p>
-klageprincippet med de nævnte organisa-<lb/>
-toriske Konsekvenser er tværtimod hævdet<lb/>
-baade i den ældre og i den senere Kom-<lb/>
-missions Forslag (Kommissionerne af 1868<lb/>
-og 1892). Det har været optaget i alle<lb/>
-de Forslag til Retsplejens Reform, som<lb/>
-indtil Samlingen 1906—07 har været frem-<lb/>
-satte for Rigsdagen, og har her vundet<lb/>
-Tilslutning i de Vedtagelser, der indtil<lb/>
-nævnte Tidspunkt har fundet Sted fra<lb/>
-begge Tings Side. Naar disse Lovforslag<lb/>
-strandede uden at blive til Lov, var Grun-<lb/>
-den ikke Uenighed med Hensyn til An-<lb/>
-klageprincippet og dets nævnte Konsekven-<lb/>
-ser, men den nu udjævnede Uenighed med<lb/>
-Hensyn til Nævningernes Udtagelse. Det<lb/>
-var først i det Forslag, der fremkom i<lb/>
-Samlingen 1906—07. at Princippet og de<lb/>
-nævnte Konsekvenser opgaves, saa man i<lb/>
-Vedtagelserne af 1908 og 1909 lod sig nøje<lb/>
-med at reformere Strafferetsplejen indenfor<lb/>
-snævrere Grænser. Det foreliggende For-<lb/>
-slag vender saaledes for saa vidt tilbage til,<lb/>
-hvad der lige til Vedtagelserne i 1908 havde<lb/>
-været begge Tings Standpunkt. — En videre<lb/>
-Følge af Gennemførelsen af Anklageprin-<lb/>
-cippet er denne, at Tallet af By- og Her-<lb/>
-redsretskredsene har maattet begrænses<lb/>
-en Del (til 88), medens der samtidig er<lb/>
+               <fw xml:id="d1e465" type="head" place="top-middle">Bet. o. Lovf. om Rettens Pleje m. m.</fw>
+               <fw xml:id="d1e468" type="head" place="top-right">2038</fw>
+               <p xml:id="d1e471">
+klageprincippet med de nævnte organisa-<lb xml:id="d1e473"/>
+toriske Konsekvenser er tværtimod hævdet<lb xml:id="d1e475"/>
+baade i den ældre og i den senere Kom-<lb xml:id="d1e477"/>
+missions Forslag (Kommissionerne af 1868<lb xml:id="d1e479"/>
+og 1892). Det har været optaget i alle<lb xml:id="d1e481"/>
+de Forslag til Retsplejens Reform, som<lb xml:id="d1e484"/>
+indtil Samlingen 1906—07 har været frem-<lb xml:id="d1e486"/>
+satte for Rigsdagen, og har her vundet<lb xml:id="d1e488"/>
+Tilslutning i de Vedtagelser, der indtil<lb xml:id="d1e490"/>
+nævnte Tidspunkt har fundet Sted fra<lb xml:id="d1e492"/>
+begge Tings Side. Naar disse Lovforslag<lb xml:id="d1e494"/>
+strandede uden at blive til Lov, var Grun-<lb xml:id="d1e497"/>
+den ikke Uenighed med Hensyn til An-<lb xml:id="d1e499"/>
+klageprincippet og dets nævnte Konsekven-<lb xml:id="d1e501"/>
+ser, men den nu udjævnede Uenighed med<lb xml:id="d1e503"/>
+Hensyn til Nævningernes Udtagelse. Det<lb xml:id="d1e505"/>
+var først i det Forslag, der fremkom i<lb xml:id="d1e507"/>
+Samlingen 1906—07. at Princippet og de<lb xml:id="d1e510"/>
+nævnte Konsekvenser opgaves, saa man i<lb xml:id="d1e512"/>
+Vedtagelserne af 1908 og 1909 lod sig nøje<lb xml:id="d1e514"/>
+med at reformere Strafferetsplejen indenfor<lb xml:id="d1e516"/>
+snævrere Grænser. Det foreliggende For-<lb xml:id="d1e518"/>
+slag vender saaledes for saa vidt tilbage til,<lb xml:id="d1e520"/>
+hvad der lige til Vedtagelserne i 1908 havde<lb xml:id="d1e523"/>
+været begge Tings Standpunkt. — En videre<lb xml:id="d1e525"/>
+Følge af Gennemførelsen af Anklageprin-<lb xml:id="d1e527"/>
+cippet er denne, at Tallet af By- og Her-<lb xml:id="d1e529"/>
+redsretskredsene har maattet begrænses<lb xml:id="d1e531"/>
+en Del (til 88), medens der samtidig er<lb xml:id="d1e533"/>
 oprettet et Antal særlige Politikredse (65).
 </p>
-               <milestone type="rightside"
-                          xml:id="startd1e498"
-                          next="endd1e498"
-                          n="2038"
-                          unit="column"/>
-               <p>
-Bortset fra denne Hovedafvigelse fra<lb/>
-Loven af 1909 opretholder i øvrigt det<lb/>
-foreliggende Lovforslag i Realiteten i alt<lb/>
-væsentligt, hvad der allerede indeholdtes i<lb/>
-hin Lov. Dette gælder særlig om den vig-<lb/>
-tige Del af Lovforslagets 1ste Bog, der<lb/>
-handler om Nævningernes Udtagelse. I<lb/>
-Modsætning til tidligere Forslag godkendte<lb/>
-Loven af 1909 det Princip, at Dannelsen<lb/>
-af Grundlisten for Nævningers Udtagelse<lb/>
-skulde ske ved en Kommission, ikke ved<lb/>
-Folkevalg (Kommunevalg). Paa dette Prin-<lb/>
-cip har der under denne Sags Forhand-<lb/>
-ling gennem Tiderne fra Landstingets Side<lb/>
-altid været lagt den største Vægt, fordi<lb/>
-Nævningernes Udtagelse kun derved be-<lb/>
-trygges mod at ske efter politiske Hensyn<lb/>
-og mod deraf flydende Forvanskning af<lb/>
-den Tanke, hvorpaa Nævningeinstitutionen<lb/>
-hviler. Ved Lovforslaget, som det nu<lb/>
-foreligger, er denne Regel fra Loven af<lb/>
-1909 opretholdt. Landstinget hilser denne<lb/>
-Ordning med Glæde, idet derved en af de<lb/>
-tidligere Anstødsstene for denne Sags en-<lb/>
-delige Ordning nu tør antages at være<lb/>
-ryddet af Vejen. Den Ændring med Hen-<lb/>
-syn til Kommissionens Sammensætning, at<lb/>
-Formanden for Landsretten er traadt i<lb/>
-Stedet for Amtmanden, henholdsvis Over-<lb/>
+               <milestone type="rightside" xml:id="startd1e498" next="endd1e498" n="2038" unit="column"/>
+               <p xml:id="d1e539">
+Bortset fra denne Hovedafvigelse fra<lb xml:id="d1e541"/>
+Loven af 1909 opretholder i øvrigt det<lb xml:id="d1e543"/>
+foreliggende Lovforslag i Realiteten i alt<lb xml:id="d1e545"/>
+væsentligt, hvad der allerede indeholdtes i<lb xml:id="d1e547"/>
+hin Lov. Dette gælder særlig om den vig-<lb xml:id="d1e549"/>
+tige Del af Lovforslagets 1ste Bog, der<lb xml:id="d1e552"/>
+handler om Nævningernes Udtagelse. I<lb xml:id="d1e554"/>
+Modsætning til tidligere Forslag godkendte<lb xml:id="d1e556"/>
+Loven af 1909 det Princip, at Dannelsen<lb xml:id="d1e558"/>
+af Grundlisten for Nævningers Udtagelse<lb xml:id="d1e560"/>
+skulde ske ved en Kommission, ikke ved<lb xml:id="d1e562"/>
+Folkevalg (Kommunevalg). Paa dette Prin-<lb xml:id="d1e565"/>
+cip har der under denne Sags Forhand-<lb xml:id="d1e567"/>
+ling gennem Tiderne fra Landstingets Side<lb xml:id="d1e569"/>
+altid været lagt den største Vægt, fordi<lb xml:id="d1e571"/>
+Nævningernes Udtagelse kun derved be-<lb xml:id="d1e573"/>
+trygges mod at ske efter politiske Hensyn<lb xml:id="d1e575"/>
+og mod deraf flydende Forvanskning af<lb xml:id="d1e578"/>
+den Tanke, hvorpaa Nævningeinstitutionen<lb xml:id="d1e580"/>
+hviler. Ved Lovforslaget, som det nu<lb xml:id="d1e582"/>
+foreligger, er denne Regel fra Loven af<lb xml:id="d1e584"/>
+1909 opretholdt. Landstinget hilser denne<lb xml:id="d1e586"/>
+Ordning med Glæde, idet derved en af de<lb xml:id="d1e588"/>
+tidligere Anstødsstene for denne Sags en-<lb xml:id="d1e591"/>
+delige Ordning nu tør antages at være<lb xml:id="d1e593"/>
+ryddet af Vejen. Den Ændring med Hen-<lb xml:id="d1e595"/>
+syn til Kommissionens Sammensætning, at<lb xml:id="d1e597"/>
+Formanden for Landsretten er traadt i<lb xml:id="d1e599"/>
+Stedet for Amtmanden, henholdsvis Over-<lb xml:id="d1e601"/>
 præsidenten, forandrer intet væsentligt her i
 </p>
-               <milestone type="rightside"
-                          xml:id="endd1e498"
-                          prev="startd1e498"
-                          n="2038"
-                          unit="column"/>
-               <p>
-for Loven af 26. Marts 1909. Dertil<lb/>
-kommer, at der i Løbet af de Aar, i<lb/>
-hvilke denne Lov kun har haft en Skin-<lb/>
-tilværelse, har gjort sig en stærk Mis-<lb/>
-stemning gældende hos Dommere lige<lb/>
-overfor den Stilling, Loven tillægger dem<lb/>
-i Straffesager, at være samtidig Ankla-<lb/>
-ger og Dommer. Et kraftigt Udtryk<lb/>
-har denne Misstemning givet sig i den<lb/>
-Henvendelse, som Udvalget har mod-<lb/>
-taget fra Formændene i Rigets kolle-<lb/>
-giale Retter: Højesteret, Overretterne<lb/>
-i København og Viborg, Kriminal- og<lb/>
-Politiretten samt Sø- og Handelsret-<lb/>
-ten i København. Næst at udtale, at<lb/>
-der efter Retternes Formening trænges<lb/>
-til en grundig og hurtig Reform af<lb/>
-vor Retspleje, erklærer Formændene for<lb/>
-disse Retter — hvad der i denne For-<lb/>
-bindelse har særlig Betydning —, „at<lb/>
-det Rigsdagen for Tiden forelagte For-<lb/>
+               <milestone type="rightside" xml:id="endd1e498" prev="startd1e498" n="2038" unit="column"/>
+               <p xml:id="d1e606">
+for Loven af 26. Marts 1909. Dertil<lb xml:id="d1e608"/>
+kommer, at der i Løbet af de Aar, i<lb xml:id="d1e610"/>
+hvilke denne Lov kun har haft en Skin-<lb xml:id="d1e612"/>
+tilværelse, har gjort sig en stærk Mis-<lb xml:id="d1e614"/>
+stemning gældende hos Dommere lige<lb xml:id="d1e616"/>
+overfor den Stilling, Loven tillægger dem<lb xml:id="d1e619"/>
+i Straffesager, at være samtidig Ankla-<lb xml:id="d1e621"/>
+ger og Dommer. Et kraftigt Udtryk<lb xml:id="d1e623"/>
+har denne Misstemning givet sig i den<lb xml:id="d1e625"/>
+Henvendelse, som Udvalget har mod-<lb xml:id="d1e627"/>
+taget fra Formændene i Rigets kolle-<lb xml:id="d1e629"/>
+giale Retter: Højesteret, Overretterne<lb xml:id="d1e632"/>
+i København og Viborg, Kriminal- og<lb xml:id="d1e634"/>
+Politiretten samt Sø- og Handelsret-<lb xml:id="d1e636"/>
+ten i København. Næst at udtale, at<lb xml:id="d1e638"/>
+der efter Retternes Formening trænges<lb xml:id="d1e640"/>
+til en grundig og hurtig Reform af<lb xml:id="d1e642"/>
+vor Retspleje, erklærer Formændene for<lb xml:id="d1e645"/>
+disse Retter — hvad der i denne For-<lb xml:id="d1e647"/>
+bindelse har særlig Betydning —, „at<lb xml:id="d1e649"/>
+det Rigsdagen for Tiden forelagte For-<lb xml:id="d1e651"/>
 slag til en Reform utvivlsomt fortjener
 </p>
-               <milestone type="rightside"
-                          xml:id="startd1e617"
-                          next="endd1e617"
-                          n="2038"
-                          unit="column"/>
-               <p>
-Fortrinet tremtor den ved Loven af 26.<lb/>
-Marts 1909 trufne Ordning saavel ved<lb/>
-dets Bestemmelser om AdsMllelsen af<lb/>
-Domsmagten fra Administrationen som<lb/>
-ved dets Bestemmelser om Indførelsen af<lb/>
-en fast AnklagemagtI Overensstem-<lb/>
-melse hermed har endvidere Bestyrelsen<lb/>
-for Underretsdommerforeningen i Skri-<lb/>
-velse af 23. Maj 1914 udtalt, „at det<lb/>
-Rigsdagen forelagte og af Folketinget<lb/>
-vedtagne Forslag til Retsreform med<lb/>
-dets Indførelse af Anklageprincippet i<lb/>
-den kriminelle Retspleje og dets gen-<lb/>
-nemførte Adskillelse af den administra-<lb/>
-tive og dømmende Myndighed maa an-<lb/>
-ses for et væsentligt og meget betydeligt<lb/>
-Fremskridt fra den tidligere vedtagne Lov<lb/>
-om Rettens Pleje af 1909, og man<lb/>
-maa i høj Grad anbefale, at Sagen søges<lb/>
-gennemført i indeværende Bigsdagssam-<lb/>
+               <milestone type="rightside" xml:id="startd1e617" next="endd1e617" n="2038" unit="column"/>
+               <p xml:id="d1e656">
+Fortrinet tremtor den ved Loven af 26.<lb xml:id="d1e658"/>
+Marts 1909 trufne Ordning saavel ved<lb xml:id="d1e660"/>
+dets Bestemmelser om AdsMllelsen af<lb xml:id="d1e662"/>
+Domsmagten fra Administrationen som<lb xml:id="d1e664"/>
+ved dets Bestemmelser om Indførelsen af<lb xml:id="d1e666"/>
+en fast AnklagemagtI Overensstem-<lb xml:id="d1e669"/>
+melse hermed har endvidere Bestyrelsen<lb xml:id="d1e671"/>
+for Underretsdommerforeningen i Skri-<lb xml:id="d1e673"/>
+velse af 23. Maj 1914 udtalt, „at det<lb xml:id="d1e675"/>
+Rigsdagen forelagte og af Folketinget<lb xml:id="d1e677"/>
+vedtagne Forslag til Retsreform med<lb xml:id="d1e679"/>
+dets Indførelse af Anklageprincippet i<lb xml:id="d1e682"/>
+den kriminelle Retspleje og dets gen-<lb xml:id="d1e684"/>
+nemførte Adskillelse af den administra-<lb xml:id="d1e686"/>
+tive og dømmende Myndighed maa an-<lb xml:id="d1e688"/>
+ses for et væsentligt og meget betydeligt<lb xml:id="d1e690"/>
+Fremskridt fra den tidligere vedtagne Lov<lb xml:id="d1e692"/>
+om Rettens Pleje af 1909, og man<lb xml:id="d1e695"/>
+maa i høj Grad anbefale, at Sagen søges<lb xml:id="d1e697"/>
+gennemført i indeværende Bigsdagssam-<lb xml:id="d1e699"/>
 ling".
 </p>
-               <milestone type="rightside"
-                          xml:id="endd1e617"
-                          prev="startd1e617"
-                          n="2038"
-                          unit="column"/>
-               <pb xml:id="idr29_00004_rigsdagtid_b2_1915_16"
-                   facs="r29_00004_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <milestone type="rightside" xml:id="endd1e617" prev="startd1e617" n="2038" unit="column"/>
+               <pb xml:id="idr29_00004_rigsdagtid_b2_1915_16" facs="r29_00004_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e707" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bet. o. Lovf. om Rettens Pleje m. m.</fw>
-               <fw type="head" place="top-right">2040</fw>
-               <p>
-Forandringen maa snarest anses for prin-<lb/>
+               <fw xml:id="d1e710" type="head" place="top-middle">Bet. o. Lovf. om Rettens Pleje m. m.</fw>
+               <fw xml:id="d1e713" type="head" place="top-right">2040</fw>
+               <p xml:id="d1e716">
+Forandringen maa snarest anses for prin-<lb xml:id="d1e718"/>
 ciprigtigere og derfor som en Forbedring.
 </p>
-               <p>
-Et andet vigtigt Punkt, som Lovfor-<lb/>
-slaget har tilfælles med Loven af 1909, er<lb/>
-det Afslag i en Del af Mundtlighedsprin-<lb/>
-cippets Gennemførelse, som ligger i den<lb/>
-ret store Begrænsning af Bevisumiddelbar-<lb/>
-heden, der finder Sted saavel i borgerlige<lb/>
-Sager som i Straffesager udenfor Nævnin-<lb/>
-gesager. Denne Begrænsning indførtes i<lb/>
-Loven af 1909 og er senere fastholdt. At<lb/>
-det er berettiget at tage visse Hensyn<lb/>
-ved Bestemmelsen af det Omfang, hvori<lb/>
-Mundtligheden bør gennemføres, aner-<lb/>
-kender Grundloven („saasnart og saa<lb/>
-vidt som muligt"). Der kan med Føje<lb/>
-herved tages Hensyn til den tilvante og<lb/>
-mindre bekostelige Ordning.. En Ud-<lb/>
-videlse af Umiddelbarhedsprincippet kan,<lb/>
-naar Forholdene maatte gøre det ønskeligt,<lb/>
-og det maatte være stemmende med Tidens<lb/>
-Krav, senere gennemføres. Et Hjælpemid-<lb/>
-del dertil ligger i Lovforslagets § 1023<lb/>
-(Loven af 1909 § 1000), der indretter en<lb/>
-staaende Institution med den Opgave at<lb/>
-drøfte de Ændringer i og Tilføjelser til<lb/>
-den gældende Lov, som der ved Lovens<lb/>
-Anvendelse maatte vise sig Trang til. Her-<lb/>
-ved er der givet betydningsfuld Plads for<lb/>
+               <p xml:id="d1e721">
+Et andet vigtigt Punkt, som Lovfor-<lb xml:id="d1e723"/>
+slaget har tilfælles med Loven af 1909, er<lb xml:id="d1e725"/>
+det Afslag i en Del af Mundtlighedsprin-<lb xml:id="d1e727"/>
+cippets Gennemførelse, som ligger i den<lb xml:id="d1e729"/>
+ret store Begrænsning af Bevisumiddelbar-<lb xml:id="d1e731"/>
+heden, der finder Sted saavel i borgerlige<lb xml:id="d1e734"/>
+Sager som i Straffesager udenfor Nævnin-<lb xml:id="d1e736"/>
+gesager. Denne Begrænsning indførtes i<lb xml:id="d1e738"/>
+Loven af 1909 og er senere fastholdt. At<lb xml:id="d1e740"/>
+det er berettiget at tage visse Hensyn<lb xml:id="d1e742"/>
+ved Bestemmelsen af det Omfang, hvori<lb xml:id="d1e744"/>
+Mundtligheden bør gennemføres, aner-<lb xml:id="d1e747"/>
+kender Grundloven („saasnart og saa<lb xml:id="d1e749"/>
+vidt som muligt"). Der kan med Føje<lb xml:id="d1e751"/>
+herved tages Hensyn til den tilvante og<lb xml:id="d1e753"/>
+mindre bekostelige Ordning.. En Ud-<lb xml:id="d1e755"/>
+videlse af Umiddelbarhedsprincippet kan,<lb xml:id="d1e757"/>
+naar Forholdene maatte gøre det ønskeligt,<lb xml:id="d1e760"/>
+og det maatte være stemmende med Tidens<lb xml:id="d1e762"/>
+Krav, senere gennemføres. Et Hjælpemid-<lb xml:id="d1e764"/>
+del dertil ligger i Lovforslagets § 1023<lb xml:id="d1e766"/>
+(Loven af 1909 § 1000), der indretter en<lb xml:id="d1e768"/>
+staaende Institution med den Opgave at<lb xml:id="d1e770"/>
+drøfte de Ændringer i og Tilføjelser til<lb xml:id="d1e773"/>
+den gældende Lov, som der ved Lovens<lb xml:id="d1e775"/>
+Anvendelse maatte vise sig Trang til. Her-<lb xml:id="d1e777"/>
+ved er der givet betydningsfuld Plads for<lb xml:id="d1e779"/>
 Udviklingens Lov.
 </p>
-               <p>
-I alle de nævnte Hovedpunkter frem-<lb/>
-byder det foreliggende Lovforslag saale-<lb/>
-des en fyldestgørende Ordning af denne<lb/>
+               <p xml:id="d1e783">
+I alle de nævnte Hovedpunkter frem-<lb xml:id="d1e785"/>
+byder det foreliggende Lovforslag saale-<lb xml:id="d1e787"/>
+des en fyldestgørende Ordning af denne<lb xml:id="d1e789"/>
 vigtige Sag.
 </p>
-               <p>
-Af de Afvigelser fra Ordningen af<lb/>
-Nævningernes Udtagelse, som fandt Udtryk<lb/>
-i Landstingets Betænkning af 1914, er der<lb/>
-kun to, der har principiel Betydning; men<lb/>
-begge disse kan Udvalget bifalde. Den ene<lb/>
-er den alt omtalte Ombytning af Amtman-<lb/>
-den (Overpræsidenten) med Formanden for<lb/>
-Landsretten. Den anden er den i Lovfor-<lb/>
-slagets § 85 foreslaaede Udskydelsesret<lb/>
-ved Udtagelse af Nævninger for det en-<lb/>
-kelte Ting. Betænkningen af 1914 fandt<lb/>
-det ikke nødvendigt at bibeholde denne<lb/>
-Udskydelsesret. Men da det kan tjene til<lb/>
-yderligere Betryggelse mod mulig Partisk-<lb/>
-hed, har Udvalget ogsaa kunnet bifalde<lb/>
+               <p xml:id="d1e792">
+Af de Afvigelser fra Ordningen af<lb xml:id="d1e794"/>
+Nævningernes Udtagelse, som fandt Udtryk<lb xml:id="d1e796"/>
+i Landstingets Betænkning af 1914, er der<lb xml:id="d1e798"/>
+kun to, der har principiel Betydning; men<lb xml:id="d1e800"/>
+begge disse kan Udvalget bifalde. Den ene<lb xml:id="d1e802"/>
+er den alt omtalte Ombytning af Amtman-<lb xml:id="d1e805"/>
+den (Overpræsidenten) med Formanden for<lb xml:id="d1e807"/>
+Landsretten. Den anden er den i Lovfor-<lb xml:id="d1e809"/>
+slagets § 85 foreslaaede Udskydelsesret<lb xml:id="d1e811"/>
+ved Udtagelse af Nævninger for det en-<lb xml:id="d1e813"/>
+kelte Ting. Betænkningen af 1914 fandt<lb xml:id="d1e815"/>
+det ikke nødvendigt at bibeholde denne<lb xml:id="d1e818"/>
+Udskydelsesret. Men da det kan tjene til<lb xml:id="d1e820"/>
+yderligere Betryggelse mod mulig Partisk-<lb xml:id="d1e822"/>
+hed, har Udvalget ogsaa kunnet bifalde<lb xml:id="d1e824"/>
 denne Bestemmelse.
 </p>
-               <milestone type="rightside"
-                          xml:id="startd1e791"
-                          next="endd1e791"
-                          n="2040"
-                          unit="column"/>
-               <p>
-Nogle af Udvalgets Medlemmer mener<lb/>
-at den, der en Gang er endelig frifundet<lb/>
-under en Straffesag, ikke —"bortset fråde<lb/>
-Tilfælde, hvor Misligheder maatte have<lb/>
-fundet Sted (§ 976, Nr. 2) — paa ny bør<lb/>
-underkastes det store Onde, som en<lb/>
-Straffeforfølgning er, medmindre der<lb/>
-foreligger aldeles klart Bevis for hans<lb/>
-Skyld. Disse Medlemmer mener derfor,<lb/>
-at Bestemmelsen i § 976, Nr. 1, gaar for<lb/>
-vidt i Retning af at indrømme Genop-<lb/>
-tagelse til Ugunst for den sigtede og<lb/>
-kunde i og for sig meget ønske Bestem-<lb/>
-melsen stærkere begrænset, overensstem-<lb/>
-mende med, hvad der er Tilfældet i næsten<lb/>
-alle fremmede Lovgivninger. Men da der<lb/>
-i øvrigt ikke er stillet Ændringsforslag til<lb/>
-Lovforslaget, har de nævnte Medlemmer<lb/>
-dog ikke anset det rigtigt nu at foreslaa<lb/>
+               <milestone type="rightside" xml:id="startd1e791" next="endd1e791" n="2040" unit="column"/>
+               <p xml:id="d1e829">
+Nogle af Udvalgets Medlemmer mener<lb xml:id="d1e831"/>
+at den, der en Gang er endelig frifundet<lb xml:id="d1e833"/>
+under en Straffesag, ikke —"bortset fråde<lb xml:id="d1e835"/>
+Tilfælde, hvor Misligheder maatte have<lb xml:id="d1e837"/>
+fundet Sted (§ 976, Nr. 2) — paa ny bør<lb xml:id="d1e839"/>
+underkastes det store Onde, som en<lb xml:id="d1e842"/>
+Straffeforfølgning er, medmindre der<lb xml:id="d1e844"/>
+foreligger aldeles klart Bevis for hans<lb xml:id="d1e846"/>
+Skyld. Disse Medlemmer mener derfor,<lb xml:id="d1e848"/>
+at Bestemmelsen i § 976, Nr. 1, gaar for<lb xml:id="d1e850"/>
+vidt i Retning af at indrømme Genop-<lb xml:id="d1e852"/>
+tagelse til Ugunst for den sigtede og<lb xml:id="d1e855"/>
+kunde i og for sig meget ønske Bestem-<lb xml:id="d1e857"/>
+melsen stærkere begrænset, overensstem-<lb xml:id="d1e859"/>
+mende med, hvad der er Tilfældet i næsten<lb xml:id="d1e861"/>
+alle fremmede Lovgivninger. Men da der<lb xml:id="d1e863"/>
+i øvrigt ikke er stillet Ændringsforslag til<lb xml:id="d1e865"/>
+Lovforslaget, har de nævnte Medlemmer<lb xml:id="d1e868"/>
+dog ikke anset det rigtigt nu at foreslaa<lb xml:id="d1e870"/>
 Ændringer med Hensyn til dette Punkt.
 </p>
-               <p>
-I Samlingen 1913—14 blev der af det<lb/>
-daværende Landstingsudvalg stillet en<lb/>
-Række Ændringsforslag af sekundær Art<lb/>
-om Forandringer i de enkelte Paragraffer.<lb/>
-Det store Flertal af disse Ændringsforslag<lb/>
-er taget uforandret til Følge i det nu af<lb/>
-Folketinget vedtagne Lovforslag, medens<lb/>
-Folketinget i enkelte andre har rettet nogle<lb/>
-indløbne Ukorrektheder. Kun en af Folke-<lb/>
-tingets Ændringer har noget større Be-<lb/>
-tydning, nemlig den, som berører Lov-<lb/>
-forslagets § 17, 2det Stykke. Men ogsaa<lb/>
-denne har hovedsagelig formel Betydning<lb/>
+               <p xml:id="d1e873">
+I Samlingen 1913—14 blev der af det<lb xml:id="d1e875"/>
+daværende Landstingsudvalg stillet en<lb xml:id="d1e877"/>
+Række Ændringsforslag af sekundær Art<lb xml:id="d1e879"/>
+om Forandringer i de enkelte Paragraffer.<lb xml:id="d1e881"/>
+Det store Flertal af disse Ændringsforslag<lb xml:id="d1e883"/>
+er taget uforandret til Følge i det nu af<lb xml:id="d1e886"/>
+Folketinget vedtagne Lovforslag, medens<lb xml:id="d1e888"/>
+Folketinget i enkelte andre har rettet nogle<lb xml:id="d1e890"/>
+indløbne Ukorrektheder. Kun en af Folke-<lb xml:id="d1e892"/>
+tingets Ændringer har noget større Be-<lb xml:id="d1e894"/>
+tydning, nemlig den, som berører Lov-<lb xml:id="d1e896"/>
+forslagets § 17, 2det Stykke. Men ogsaa<lb xml:id="d1e899"/>
+denne har hovedsagelig formel Betydning<lb xml:id="d1e901"/>
 og giver ingen Anledning til Uenighed.
 </p>
-               <p>
-Særlig Omtale fortjener det Tilbehør<lb/>
-til Lovforslagets Paragraffer, som indeholdes<lb/>
-dels i Tavlen over By- og Herredsretskred-<lb/>
-sene, dels i Tavlen over Politikredsene. Begge<lb/>
-Tavlerne er Dele af Lovforslaget, se hen-<lb/>
-holdsvis Forslagets § 12 og § 109, dog<lb/>
-med Adgang til at forandre de paagæl-<lb/>
-dende Kredses Omraade ved kgl. Anord-<lb/>
+               <p xml:id="d1e904">
+Særlig Omtale fortjener det Tilbehør<lb xml:id="d1e906"/>
+til Lovforslagets Paragraffer, som indeholdes<lb xml:id="d1e908"/>
+dels i Tavlen over By- og Herredsretskred-<lb xml:id="d1e910"/>
+sene, dels i Tavlen over Politikredsene. Begge<lb xml:id="d1e912"/>
+Tavlerne er Dele af Lovforslaget, se hen-<lb xml:id="d1e914"/>
+holdsvis Forslagets § 12 og § 109, dog<lb xml:id="d1e917"/>
+med Adgang til at forandre de paagæl-<lb xml:id="d1e919"/>
+dende Kredses Omraade ved kgl. Anord-<lb xml:id="d1e921"/>
 ning.
 </p>
-               <p>
-De Forhandlinger om By- og Herreds-<lb/>
-retskredsenes Antal og Grænser, som førtes<lb/>
-først i 1913-14 og derefter i 1915—16, har<lb/>
-ført til, at Tallet i det foreliggende Lovfor-<lb/>
-slag er sat til 88, hvilket Tal ikke uden sær-<lb/>
-lig Lov kan forøges, se den tidligere omtalte<lb/>
+               <p xml:id="d1e925">
+De Forhandlinger om By- og Herreds-<lb xml:id="d1e927"/>
+retskredsenes Antal og Grænser, som førtes<lb xml:id="d1e929"/>
+først i 1913-14 og derefter i 1915—16, har<lb xml:id="d1e931"/>
+ført til, at Tallet i det foreliggende Lovfor-<lb xml:id="d1e933"/>
+slag er sat til 88, hvilket Tal ikke uden sær-<lb xml:id="d1e935"/>
+lig Lov kan forøges, se den tidligere omtalte<lb xml:id="d1e938"/>
 Ændring i § 17, 2det Stykke. Grænserne for
 </p>
-               <milestone type="rightside"
-                          xml:id="endd1e791"
-                          prev="startd1e791"
-                          n="2040"
-                          unit="column"/>
-               <pb xml:id="idr29_00005_rigsdagtid_b2_1915_16"
-                   facs="r29_00005_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <milestone type="rightside" xml:id="endd1e791" prev="startd1e791" n="2040" unit="column"/>
+               <pb xml:id="idr29_00005_rigsdagtid_b2_1915_16" facs="r29_00005_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e945" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bet. o. Lovf. om Rettens Pleje m. m.</fw>
-               <fw type="head" place="top-right">2042</fw>
-               <p>
-disse Retskredse er i det foreliggende Lov-<lb/>
-forslag undergaaet to Forandringer i For-<lb/>
-hold til det af Regeringen foreslaaede. Den<lb/>
-ene gaar ud paa, at Delingen af Hjørring<lb/>
-og Børglum i to Retskredse af Folketinget<lb/>
-er opgivet, i Overensstemmelse med Tan-<lb/>
-ken i § 17, 2det Stykke. Tallet er dog<lb/>
-blevet det samme derved, at de to Kredse<lb/>
-59 og 60 er kommet i Stedet for den tid-<lb/>
-ligere ene Kreds 59. Mod denne Ændring<lb/>
-er der fra Udvalgets Side intet at erindre.<lb/>
-Den anden Ændring gaar ud paa, at Hids<lb/>
-Herred, der var foreslaaet forenet med<lb/>
-Lysgaard Herred, er foreslaaet forenet<lb/>
-med Silkeborg Købstad og Birk. Som de<lb/>
-trykte Bilag (Nr. 5 og 6) viser, har Spørgs-<lb/>
-maalet om den rette Plads for Hids Kreds<lb/>
-givet Anledning til megen Uenighed. To<lb/>
-Medlemmer af Udvalget, Jørgen Berthel-<lb/>
-sen og Hans Jensen, har særlig taget Or-<lb/>
-det for at vende tilbage til det oprinde-<lb/>
-lige Forslag. Der frembyder sig dog en<lb/>
-Løsning af Sagen, der synes at kunne til-<lb/>
-fredsstille de delte Meninger, nemlig ved<lb/>
-Omlægning af Grænsen for nogle Sogne,<lb/>
-der hører til Hids Herred. Under disse<lb/>
-Omstændigheder har de nævnte to Med-<lb/>
-lemmer af Udvalget ikke fastholdt deres<lb/>
-Ændringsforslag i nævnte Henseende, i<lb/>
-det Haab, at en saadan Forandring i<lb/>
-Retskredsenes Omraade maatte kunne op-<lb/>
-naas. En saadan Ændring kræver ikke<lb/>
-Lov, men kan iværksættes ved kgl. An-<lb/>
-ordning. Udvalget forudsætter, at det vil<lb/>
-blive gjort til Genstand for omhyggelig<lb/>
-Overvejelse, om en saadan Grænseændring<lb/>
-kan gennemføres uden at volde praktiske<lb/>
+               <fw xml:id="d1e948" type="head" place="top-middle">Bet. o. Lovf. om Rettens Pleje m. m.</fw>
+               <fw xml:id="d1e951" type="head" place="top-right">2042</fw>
+               <p xml:id="d1e955">
+disse Retskredse er i det foreliggende Lov-<lb xml:id="d1e957"/>
+forslag undergaaet to Forandringer i For-<lb xml:id="d1e959"/>
+hold til det af Regeringen foreslaaede. Den<lb xml:id="d1e961"/>
+ene gaar ud paa, at Delingen af Hjørring<lb xml:id="d1e963"/>
+og Børglum i to Retskredse af Folketinget<lb xml:id="d1e965"/>
+er opgivet, i Overensstemmelse med Tan-<lb xml:id="d1e968"/>
+ken i § 17, 2det Stykke. Tallet er dog<lb xml:id="d1e970"/>
+blevet det samme derved, at de to Kredse<lb xml:id="d1e972"/>
+59 og 60 er kommet i Stedet for den tid-<lb xml:id="d1e974"/>
+ligere ene Kreds 59. Mod denne Ændring<lb xml:id="d1e976"/>
+er der fra Udvalgets Side intet at erindre.<lb xml:id="d1e978"/>
+Den anden Ændring gaar ud paa, at Hids<lb xml:id="d1e981"/>
+Herred, der var foreslaaet forenet med<lb xml:id="d1e983"/>
+Lysgaard Herred, er foreslaaet forenet<lb xml:id="d1e985"/>
+med Silkeborg Købstad og Birk. Som de<lb xml:id="d1e987"/>
+trykte Bilag (Nr. 5 og 6) viser, har Spørgs-<lb xml:id="d1e989"/>
+maalet om den rette Plads for Hids Kreds<lb xml:id="d1e991"/>
+givet Anledning til megen Uenighed. To<lb xml:id="d1e994"/>
+Medlemmer af Udvalget, Jørgen Berthel-<lb xml:id="d1e996"/>
+sen og Hans Jensen, har særlig taget Or-<lb xml:id="d1e998"/>
+det for at vende tilbage til det oprinde-<lb xml:id="d1e1000"/>
+lige Forslag. Der frembyder sig dog en<lb xml:id="d1e1002"/>
+Løsning af Sagen, der synes at kunne til-<lb xml:id="d1e1004"/>
+fredsstille de delte Meninger, nemlig ved<lb xml:id="d1e1007"/>
+Omlægning af Grænsen for nogle Sogne,<lb xml:id="d1e1009"/>
+der hører til Hids Herred. Under disse<lb xml:id="d1e1011"/>
+Omstændigheder har de nævnte to Med-<lb xml:id="d1e1013"/>
+lemmer af Udvalget ikke fastholdt deres<lb xml:id="d1e1015"/>
+Ændringsforslag i nævnte Henseende, i<lb xml:id="d1e1017"/>
+det Haab, at en saadan Forandring i<lb xml:id="d1e1020"/>
+Retskredsenes Omraade maatte kunne op-<lb xml:id="d1e1022"/>
+naas. En saadan Ændring kræver ikke<lb xml:id="d1e1024"/>
+Lov, men kan iværksættes ved kgl. An-<lb xml:id="d1e1026"/>
+ordning. Udvalget forudsætter, at det vil<lb xml:id="d1e1028"/>
+blive gjort til Genstand for omhyggelig<lb xml:id="d1e1030"/>
+Overvejelse, om en saadan Grænseændring<lb xml:id="d1e1033"/>
+kan gennemføres uden at volde praktiske<lb xml:id="d1e1035"/>
 Ulemper.
 </p>
-               <p>
-Flere andre Ændringer i selve Tavlen<lb/>
-har allerede tidligere været paa Tale, men<lb/>
-uden at dette har ført til noget Resultat.<lb/>
-Udvalget finder ikke tilstrækkelig Grund<lb/>
-til nu at forandre sin Opfattelse. Det<lb/>
-gælder saaledes med Hensyn til Oprethol-<lb/>
-delse af Holsteinborg Birk som selvstændig<lb/>
-Retskreds, om de fornyede Andragender,<lb/>
-som Odense Byraad har tilsendt Udvalget,<lb/>
-og om visse større Omlægninger, som antydes<lb/>
-med Hensyn til Gjørding-Malt Herreds-<lb/>
+               <p xml:id="d1e1038">
+Flere andre Ændringer i selve Tavlen<lb xml:id="d1e1040"/>
+har allerede tidligere været paa Tale, men<lb xml:id="d1e1042"/>
+uden at dette har ført til noget Resultat.<lb xml:id="d1e1044"/>
+Udvalget finder ikke tilstrækkelig Grund<lb xml:id="d1e1046"/>
+til nu at forandre sin Opfattelse. Det<lb xml:id="d1e1048"/>
+gælder saaledes med Hensyn til Oprethol-<lb xml:id="d1e1051"/>
+delse af Holsteinborg Birk som selvstændig<lb xml:id="d1e1053"/>
+Retskreds, om de fornyede Andragender,<lb xml:id="d1e1055"/>
+som Odense Byraad har tilsendt Udvalget,<lb xml:id="d1e1057"/>
+og om visse større Omlægninger, som antydes<lb xml:id="d1e1059"/>
+med Hensyn til Gjørding-Malt Herreds-<lb xml:id="d1e1061"/>
 kreds (Vejen). Om mindre Forandringer
 </p>
-               <milestone type="rightside"
-                          xml:id="startd1e1028"
-                          next="endd1e1028"
-                          n="2042"
-                          unit="column"/>
-               <p>
-i Retskredsens Omraade, hvorom der er<lb/>
-andraget med Hensyn til Ning Herred i<lb/>
-Forhold til Hads Herred (Odder), og hvor-<lb/>
-til endelig ogsaa Spørgsmaalene vedrørende<lb/>
-Odense og Gjørding-Malt Herreder hører,<lb/>
-kan det forudsættes, at disse Spørgsmaal<lb/>
-vil blive gjort til Genstand for fornøden<lb/>
-Overvejelse ved Udfærdigelsen af den kgl.<lb/>
-Anordning, hvortil herhen hørende Spørgs-<lb/>
+               <milestone type="rightside" xml:id="startd1e1028" next="endd1e1028" n="2042" unit="column"/>
+               <p xml:id="d1e1066">
+i Retskredsens Omraade, hvorom der er<lb xml:id="d1e1068"/>
+andraget med Hensyn til Ning Herred i<lb xml:id="d1e1070"/>
+Forhold til Hads Herred (Odder), og hvor-<lb xml:id="d1e1072"/>
+til endelig ogsaa Spørgsmaalene vedrørende<lb xml:id="d1e1074"/>
+Odense og Gjørding-Malt Herreder hører,<lb xml:id="d1e1076"/>
+kan det forudsættes, at disse Spørgsmaal<lb xml:id="d1e1079"/>
+vil blive gjort til Genstand for fornøden<lb xml:id="d1e1081"/>
+Overvejelse ved Udfærdigelsen af den kgl.<lb xml:id="d1e1083"/>
+Anordning, hvortil herhen hørende Spørgs-<lb xml:id="d1e1085"/>
 maals Afgørelse er henvist.
 </p>
-               <p>
-Udenfor den med Hensyn til By- og<lb/>
-Herredsretskredsenes Tavle trufne Lov-<lb/>
-ordning staar alt, hvad der angaar<lb/>
-Tingstedernes Bestemmelse. Ændringer<lb/>
-i saa Henseende er ved Lovforslagets<lb/>
-§ 19 med visse nærmere Forpligtelser<lb/>
-henviste til i sin Helhed at afgøres ved<lb/>
-kgl. Anordning, henholdsvis af Justits-<lb/>
-ministeren, baade hvad angaar Hoved-<lb/>
-tingsteder, Bitingsteder og Afdelinger af<lb/>
-Retternes Embedskontor. Det følger her-<lb/>
-af. at den Orden, hvori paa Tavlen flere<lb/>
-Stedsangivelser findes angivet for den en-<lb/>
-kelte Retskreds' Vedkommende, ikke med-<lb/>
-fører nogen Begrænsning i den kgl. Anord-<lb/>
-nings Frihed til at bestemme, hvor<lb/>
-en Retskreds' Hovedtingsted lægges. En<lb/>
-saadan Indskrænkning i den kgl. Anord-<lb/>
-nings Frihed følger saaledes heller ikke<lb/>
-af den Omordning af Stedsangivelserne i<lb/>
-Tavlens Nr. 16, ved hvilken ifølge en af<lb/>
-Folketinget vedtagen Ændring Skelskør<lb/>
-har faaet Plads foran Korsør, Den sted-<lb/>
-fundne Forandring i Stedsangivelsen har<lb/>
-givet Anledning til en Henvendelse til Ud-<lb/>
-valget fra Korsør Byraad, hvori vægtige<lb/>
-Hensyn til den Betydning, Korsør Køb-<lb/>
-stad har fremfor Skelskør ved de hyp-<lb/>
-pige, ofte hastende judicielle Akter sær-<lb/>
-lig i forefaldende Søsager o. 1., fremhæves<lb/>
-(se Bilag 8). Udvalget har den samme<lb/>
-Opfattelse, at det vilde medføre mange<lb/>
-Ulemper, om Hovedtingstedet henlagdes til<lb/>
-Skelskør fremfor Korsør. Udvalget hen-<lb/>
-leder den afgørende Myndigheds særlige<lb/>
+               <p xml:id="d1e1088">
+Udenfor den med Hensyn til By- og<lb xml:id="d1e1090"/>
+Herredsretskredsenes Tavle trufne Lov-<lb xml:id="d1e1092"/>
+ordning staar alt, hvad der angaar<lb xml:id="d1e1094"/>
+Tingstedernes Bestemmelse. Ændringer<lb xml:id="d1e1096"/>
+i saa Henseende er ved Lovforslagets<lb xml:id="d1e1098"/>
+§ 19 med visse nærmere Forpligtelser<lb xml:id="d1e1101"/>
+henviste til i sin Helhed at afgøres ved<lb xml:id="d1e1103"/>
+kgl. Anordning, henholdsvis af Justits-<lb xml:id="d1e1105"/>
+ministeren, baade hvad angaar Hoved-<lb xml:id="d1e1107"/>
+tingsteder, Bitingsteder og Afdelinger af<lb xml:id="d1e1109"/>
+Retternes Embedskontor. Det følger her-<lb xml:id="d1e1111"/>
+af. at den Orden, hvori paa Tavlen flere<lb xml:id="d1e1114"/>
+Stedsangivelser findes angivet for den en-<lb xml:id="d1e1116"/>
+kelte Retskreds' Vedkommende, ikke med-<lb xml:id="d1e1118"/>
+fører nogen Begrænsning i den kgl. Anord-<lb xml:id="d1e1120"/>
+nings Frihed til at bestemme, hvor<lb xml:id="d1e1122"/>
+en Retskreds' Hovedtingsted lægges. En<lb xml:id="d1e1124"/>
+saadan Indskrænkning i den kgl. Anord-<lb xml:id="d1e1127"/>
+nings Frihed følger saaledes heller ikke<lb xml:id="d1e1129"/>
+af den Omordning af Stedsangivelserne i<lb xml:id="d1e1131"/>
+Tavlens Nr. 16, ved hvilken ifølge en af<lb xml:id="d1e1133"/>
+Folketinget vedtagen Ændring Skelskør<lb xml:id="d1e1135"/>
+har faaet Plads foran Korsør, Den sted-<lb xml:id="d1e1137"/>
+fundne Forandring i Stedsangivelsen har<lb xml:id="d1e1140"/>
+givet Anledning til en Henvendelse til Ud-<lb xml:id="d1e1142"/>
+valget fra Korsør Byraad, hvori vægtige<lb xml:id="d1e1144"/>
+Hensyn til den Betydning, Korsør Køb-<lb xml:id="d1e1146"/>
+stad har fremfor Skelskør ved de hyp-<lb xml:id="d1e1148"/>
+pige, ofte hastende judicielle Akter sær-<lb xml:id="d1e1150"/>
+lig i forefaldende Søsager o. 1., fremhæves<lb xml:id="d1e1153"/>
+(se Bilag 8). Udvalget har den samme<lb xml:id="d1e1155"/>
+Opfattelse, at det vilde medføre mange<lb xml:id="d1e1157"/>
+Ulemper, om Hovedtingstedet henlagdes til<lb xml:id="d1e1159"/>
+Skelskør fremfor Korsør. Udvalget hen-<lb xml:id="d1e1161"/>
+leder den afgørende Myndigheds særlige<lb xml:id="d1e1163"/>
 Opmærksomhed herpaa.
 </p>
-               <p>
-Med Hensyn til andre Henvendelser<lb/>
-om Tingstedernes Plads henledes i øvrigt<lb/>
-Opmærksomheden paa Andragendet om<lb/>
+               <p xml:id="d1e1166">
+Med Hensyn til andre Henvendelser<lb xml:id="d1e1168"/>
+om Tingstedernes Plads henledes i øvrigt<lb xml:id="d1e1170"/>
+Opmærksomheden paa Andragendet om<lb xml:id="d1e1172"/>
 Hovedtingstedets Flytning fra Holsted til
 </p>
-               <milestone type="rightside"
-                          xml:id="endd1e1028"
-                          prev="startd1e1028"
-                          n="2042"
-                          unit="column"/>
-               <pb xml:id="idr29_00006_rigsdagtid_b2_1915_16"
-                   facs="r29_00006_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <milestone type="rightside" xml:id="endd1e1028" prev="startd1e1028" n="2042" unit="column"/>
+               <pb xml:id="idr29_00006_rigsdagtid_b2_1915_16" facs="r29_00006_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e1180" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bet. o. Lovf. om ettens Pleje m. m.</fw>
-               <fw type="head" place="top-right">2044</fw>
-               <p>
-Vejen, om eventuelle Bitingsteder i Odense<lb/>
-By og om Bitingsted i Holsteinborg Birk.<lb/>
-I sidstnævnte Henseende bemærkes, at et<lb/>
-Bitingsteds Oprettelse i dette Birk ifølge<lb/>
-§ 19, 1ste Stykke, skal finde Sted, naar —<lb/>
-som det kan forudses — Tingstedet for<lb/>
-dette i Tavlens Nr. 16 indlemmede Birk<lb/>
+               <fw xml:id="d1e1183" type="head" place="top-middle">Bet. o. Lovf. om ettens Pleje m. m.</fw>
+               <fw xml:id="d1e1186" type="head" place="top-right">2044</fw>
+               <p xml:id="d1e1189">
+Vejen, om eventuelle Bitingsteder i Odense<lb xml:id="d1e1191"/>
+By og om Bitingsted i Holsteinborg Birk.<lb xml:id="d1e1193"/>
+I sidstnævnte Henseende bemærkes, at et<lb xml:id="d1e1195"/>
+Bitingsteds Oprettelse i dette Birk ifølge<lb xml:id="d1e1197"/>
+§ 19, 1ste Stykke, skal finde Sted, naar —<lb xml:id="d1e1199"/>
+som det kan forudses — Tingstedet for<lb xml:id="d1e1202"/>
+dette i Tavlens Nr. 16 indlemmede Birk<lb xml:id="d1e1204"/>
 ikke bliver i dette Birk.
 </p>
-               <p>
-Med Hensyn til Tavlen over Politikred-<lb/>
-sene sætter de i 1913—14 og 1915—16<lb/>
-stedfundne Forhandlinger ligesom Lovfor-<lb/>
-slaget Tallet til 65. Med Hensyn til<lb/>
-Politikredsenes almindelige Omraade er<lb/>
-der af Folketinget kun foretaget een Æn-<lb/>
-dring, nemlig svarende til den, der er fore-<lb/>
-taget med Hensyn til Hids Herreds Plads<lb/>
-i Retskredsene. Under Hensyn til. hvad<lb/>
-der om den tilsvarende Retskreds ovenfor<lb/>
-er bemærket, bliver der heller ikke ved<lb/>
-den tilsvarende Politikreds' Omraade Spørgs-<lb/>
-maal om nogen Lovændring. Det henstil-<lb/>
-les til Overvejelse, hvorvidt en tilsvarende<lb/>
-mindre Forandring af Grænsen er prak-<lb/>
-tisk med Hensyn til Politikredsen (§ 109)<lb/>
+               <p xml:id="d1e1208">
+Med Hensyn til Tavlen over Politikred-<lb xml:id="d1e1210"/>
+sene sætter de i 1913—14 og 1915—16<lb xml:id="d1e1212"/>
+stedfundne Forhandlinger ligesom Lovfor-<lb xml:id="d1e1214"/>
+slaget Tallet til 65. Med Hensyn til<lb xml:id="d1e1216"/>
+Politikredsenes almindelige Omraade er<lb xml:id="d1e1218"/>
+der af Folketinget kun foretaget een Æn-<lb xml:id="d1e1221"/>
+dring, nemlig svarende til den, der er fore-<lb xml:id="d1e1223"/>
+taget med Hensyn til Hids Herreds Plads<lb xml:id="d1e1225"/>
+i Retskredsene. Under Hensyn til. hvad<lb xml:id="d1e1227"/>
+der om den tilsvarende Retskreds ovenfor<lb xml:id="d1e1229"/>
+er bemærket, bliver der heller ikke ved<lb xml:id="d1e1231"/>
+den tilsvarende Politikreds' Omraade Spørgs-<lb xml:id="d1e1234"/>
+maal om nogen Lovændring. Det henstil-<lb xml:id="d1e1236"/>
+les til Overvejelse, hvorvidt en tilsvarende<lb xml:id="d1e1238"/>
+mindre Forandring af Grænsen er prak-<lb xml:id="d1e1240"/>
+tisk med Hensyn til Politikredsen (§ 109)<lb xml:id="d1e1242"/>
 som med Hensyn til Retskredsen (§ 12).
 </p>
-               <p>
-Ved Forhandlingerne i Landstingsud-<lb/>
-valget 1914 stillede nogle Medlemmer af det<lb/>
-daværende Udvalg et principalt Forslag<lb/>
-om Forøgelse af Politikredsenes Tal til<lb/>
-78 samt en Bestemmelse om. at for saa<lb/>
-vidt der findes en Købstad i Politi-<lb/>
-kredsen, skal Politimesteren have Hoved-<lb/>
-kontor i denne. I Overensstemmelse her-<lb/>
-med har et Medlem, Oluf Jensen, af det<lb/>
-nuværende Landstingsudvalg rejst Spørgs-<lb/>
-maal om at genoptage disse Forslag med<lb/>
-Hensyn til Politikredsenes Tal og even-<lb/>
-tuelle Hovedkontor. Det paagældende<lb/>
-Medlem finder yderligere Lovforslagets<lb/>
-Bestemmelser i § 109, 1ste Stykke, i flere<lb/>
-andre Henseender ufyldestgørende og fin-<lb/>
-der de Mangler, han paaanker, ikke til-<lb/>
-strækkelig afhjulpne ved de i Justitsmini-<lb/>
-steriets Skrivelse af 30. April 1914 (Styk-<lb/>
-kerne S. 35) meddelte Oplysninger. Senere<lb/>
-udførligere Oplysninger i saa Henseende<lb/>
-foreligger ikke. Dette Medlem af Udvalget<lb/>
-tillægger en mere gennemgribende Ordning<lb/>
-af Politivæsenets Ordning dels i Alminde-<lb/>
+               <p xml:id="d1e1245">
+Ved Forhandlingerne i Landstingsud-<lb xml:id="d1e1247"/>
+valget 1914 stillede nogle Medlemmer af det<lb xml:id="d1e1249"/>
+daværende Udvalg et principalt Forslag<lb xml:id="d1e1251"/>
+om Forøgelse af Politikredsenes Tal til<lb xml:id="d1e1253"/>
+78 samt en Bestemmelse om. at for saa<lb xml:id="d1e1255"/>
+vidt der findes en Købstad i Politi-<lb xml:id="d1e1258"/>
+kredsen, skal Politimesteren have Hoved-<lb xml:id="d1e1260"/>
+kontor i denne. I Overensstemmelse her-<lb xml:id="d1e1262"/>
+med har et Medlem, Oluf Jensen, af det<lb xml:id="d1e1264"/>
+nuværende Landstingsudvalg rejst Spørgs-<lb xml:id="d1e1266"/>
+maal om at genoptage disse Forslag med<lb xml:id="d1e1268"/>
+Hensyn til Politikredsenes Tal og even-<lb xml:id="d1e1271"/>
+tuelle Hovedkontor. Det paagældende<lb xml:id="d1e1273"/>
+Medlem finder yderligere Lovforslagets<lb xml:id="d1e1275"/>
+Bestemmelser i § 109, 1ste Stykke, i flere<lb xml:id="d1e1277"/>
+andre Henseender ufyldestgørende og fin-<lb xml:id="d1e1279"/>
+der de Mangler, han paaanker, ikke til-<lb xml:id="d1e1281"/>
+strækkelig afhjulpne ved de i Justitsmini-<lb xml:id="d1e1284"/>
+steriets Skrivelse af 30. April 1914 (Styk-<lb xml:id="d1e1286"/>
+kerne S. 35) meddelte Oplysninger. Senere<lb xml:id="d1e1288"/>
+udførligere Oplysninger i saa Henseende<lb xml:id="d1e1290"/>
+foreligger ikke. Dette Medlem af Udvalget<lb xml:id="d1e1292"/>
+tillægger en mere gennemgribende Ordning<lb xml:id="d1e1294"/>
+af Politivæsenets Ordning dels i Alminde-<lb xml:id="d1e1297"/>
 lighed dels med Hensyn til dets Betydning
 </p>
-               <milestone type="rightside"
-                          xml:id="startd1e1264"
-                          next="endd1e1264"
-                          n="2044"
-                          unit="column"/>
-               <p>
-for den nye Retspleje en saadan Vægt,<lb/>
-at han ikke mener at kunne for-<lb/>
-svare at undlade at fremdrage dette.<lb/>
-Men da det bebudes, at der, saa snart<lb/>
-Forholdene tillader det, vil blive nedsat en<lb/>
-Kommission herom, og en Fremdragelse<lb/>
-af enkelte Punkter ikke vil kunne blive<lb/>
-fyldestgørende, stiller han ikke nu her-<lb/>
-henhørende Ændringsforslag, men forbe-<lb/>
-holder sig, naar Lovforslaget kommer til<lb/>
-anden Behandling, at fremstille de Mang-<lb/>
-ler, han i saa Henseende forefinder, hvilke<lb/>
-han saa haaber i den bebudede Kommis-<lb/>
+               <milestone type="rightside" xml:id="startd1e1264" next="endd1e1264" n="2044" unit="column"/>
+               <p xml:id="d1e1302">
+for den nye Retspleje en saadan Vægt,<lb xml:id="d1e1304"/>
+at han ikke mener at kunne for-<lb xml:id="d1e1306"/>
+svare at undlade at fremdrage dette.<lb xml:id="d1e1308"/>
+Men da det bebudes, at der, saa snart<lb xml:id="d1e1310"/>
+Forholdene tillader det, vil blive nedsat en<lb xml:id="d1e1312"/>
+Kommission herom, og en Fremdragelse<lb xml:id="d1e1315"/>
+af enkelte Punkter ikke vil kunne blive<lb xml:id="d1e1317"/>
+fyldestgørende, stiller han ikke nu her-<lb xml:id="d1e1319"/>
+henhørende Ændringsforslag, men forbe-<lb xml:id="d1e1321"/>
+holder sig, naar Lovforslaget kommer til<lb xml:id="d1e1323"/>
+anden Behandling, at fremstille de Mang-<lb xml:id="d1e1325"/>
+ler, han i saa Henseende forefinder, hvilke<lb xml:id="d1e1328"/>
+han saa haaber i den bebudede Kommis-<lb xml:id="d1e1330"/>
 sion vil blive drøftet i deres hele Omfang.
 </p>
-               <p>
-Udenfor de til Bestemmelserne i Lov-<lb/>
-forslaget om Rettens Pleje hørende Punk-<lb/>
-ter har der paa given Anledning fundet<lb/>
-Samraad Sted med Justitsministeren om<lb/>
-forskellige Anliggender,. som i øvrigt har<lb/>
+               <p xml:id="d1e1333">
+Udenfor de til Bestemmelserne i Lov-<lb xml:id="d1e1335"/>
+forslaget om Rettens Pleje hørende Punk-<lb xml:id="d1e1337"/>
+ter har der paa given Anledning fundet<lb xml:id="d1e1339"/>
+Samraad Sted med Justitsministeren om<lb xml:id="d1e1341"/>
+forskellige Anliggender,. som i øvrigt har<lb xml:id="d1e1343"/>
 Betydning for dette Lovforslag.
 </p>
-               <p>
-Et Udvalg af Sagførerforeningen har<lb/>
-forebragt Udvalget forskellige Oplysninger<lb/>
-angaaende Retsbetjentfuldmægtigenes pri-<lb/>
-vate Praksis og udtalt Ønsket om en Lov-<lb/>
-ordning med Hensyn til dette Forhold.<lb/>
-I saa Henseende har Udvalget med Til-<lb/>
-fredshed erfaret, at der, saa snart For-<lb/>
-holdene tillader det, vil blive nedsat en<lb/>
-Kommission til Ordning af dette Forhold i<lb/>
+               <p xml:id="d1e1346">
+Et Udvalg af Sagførerforeningen har<lb xml:id="d1e1348"/>
+forebragt Udvalget forskellige Oplysninger<lb xml:id="d1e1350"/>
+angaaende Retsbetjentfuldmægtigenes pri-<lb xml:id="d1e1352"/>
+vate Praksis og udtalt Ønsket om en Lov-<lb xml:id="d1e1354"/>
+ordning med Hensyn til dette Forhold.<lb xml:id="d1e1356"/>
+I saa Henseende har Udvalget med Til-<lb xml:id="d1e1359"/>
+fredshed erfaret, at der, saa snart For-<lb xml:id="d1e1361"/>
+holdene tillader det, vil blive nedsat en<lb xml:id="d1e1363"/>
+Kommission til Ordning af dette Forhold i<lb xml:id="d1e1365"/>
 sin Helhed.
 </p>
-               <p>
-Fra „Dansk Politiforening" er ved Be-<lb/>
-styrelsen forebragt Ønsket om en om-<lb/>
-fattende Ordning af Politivæsenet ved<lb/>
-en Kommission. Det meddeltes, at Ned-<lb/>
-sættelse af en saadan Kommission er lovet<lb/>
-og vil finde Sted, saa snart Forholdene til-<lb/>
-lader det. Det vil blive taget under Over-<lb/>
-vejelse, om det kan fremme Sagen, hvis<lb/>
-denne og den foran omtalte Kommission<lb/>
+               <p xml:id="d1e1369">
+Fra „Dansk Politiforening" er ved Be-<lb xml:id="d1e1371"/>
+styrelsen forebragt Ønsket om en om-<lb xml:id="d1e1373"/>
+fattende Ordning af Politivæsenet ved<lb xml:id="d1e1375"/>
+en Kommission. Det meddeltes, at Ned-<lb xml:id="d1e1377"/>
+sættelse af en saadan Kommission er lovet<lb xml:id="d1e1379"/>
+og vil finde Sted, saa snart Forholdene til-<lb xml:id="d1e1382"/>
+lader det. Det vil blive taget under Over-<lb xml:id="d1e1384"/>
+vejelse, om det kan fremme Sagen, hvis<lb xml:id="d1e1386"/>
+denne og den foran omtalte Kommission<lb xml:id="d1e1388"/>
 forenes til en fælles Kommission.
 </p>
-               <p>
-Private Sagførere har rejst Spørgs-<lb/>
-maal om Sagføreres Ret til at have Kon-<lb/>
-tor mere end eet Sted, særlig under de nye<lb/>
-Forhold, som en Lov om Rettens Pleje vil<lb/>
-medføre. En Skrivelse af 21. d. M. fra<lb/>
-Justitsministeren (Bilag 1) besvarer Sagen<lb/>
-for den gældende Rets Vedkommende. Det<lb/>
-vil blive overvejet, hvorledes Sagen herefter<lb/>
-stiller sig eller eventuelt kunde ændres<lb/>
+               <p xml:id="d1e1391">
+Private Sagførere har rejst Spørgs-<lb xml:id="d1e1393"/>
+maal om Sagføreres Ret til at have Kon-<lb xml:id="d1e1395"/>
+tor mere end eet Sted, særlig under de nye<lb xml:id="d1e1397"/>
+Forhold, som en Lov om Rettens Pleje vil<lb xml:id="d1e1399"/>
+medføre. En Skrivelse af 21. d. M. fra<lb xml:id="d1e1401"/>
+Justitsministeren (Bilag 1) besvarer Sagen<lb xml:id="d1e1404"/>
+for den gældende Rets Vedkommende. Det<lb xml:id="d1e1406"/>
+vil blive overvejet, hvorledes Sagen herefter<lb xml:id="d1e1408"/>
+stiller sig eller eventuelt kunde ændres<lb xml:id="d1e1410"/>
 ved en ny Lov (se §§ 126 og 130).
 </p>
-               <milestone type="rightside"
-                          xml:id="endd1e1264"
-                          prev="startd1e1264"
-                          n="2044"
-                          unit="column"/>
-               <pb xml:id="idr29_00007_rigsdagtid_b2_1915_16"
-                   facs="r29_00007_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <milestone type="rightside" xml:id="endd1e1264" prev="startd1e1264" n="2044" unit="column"/>
+               <pb xml:id="idr29_00007_rigsdagtid_b2_1915_16" facs="r29_00007_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e1417" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bet. o. Lof. om ettens Pleje m. m.</fw>
-               <fw type="head" place="top-right">2046</fw>
-               <p>
-I Anledning af en Henvendelse fra 5<lb/>
-Politiassistenter om Adgang til Ansættelse<lb/>
-i Embede som Politimester efter Retspleje-<lb/>
-reformen er det meddelt, at Lovforslaget<lb/>
-ikke aabner Adgang hertil for nogen, som<lb/>
-ikke er i Besiddelse af de lovbestemte Be-<lb/>
+               <fw xml:id="d1e1420" type="head" place="top-middle">Bet. o. Lof. om ettens Pleje m. m.</fw>
+               <fw xml:id="d1e1424" type="head" place="top-right">2046</fw>
+               <p xml:id="d1e1427">
+I Anledning af en Henvendelse fra 5<lb xml:id="d1e1429"/>
+Politiassistenter om Adgang til Ansættelse<lb xml:id="d1e1431"/>
+i Embede som Politimester efter Retspleje-<lb xml:id="d1e1433"/>
+reformen er det meddelt, at Lovforslaget<lb xml:id="d1e1435"/>
+ikke aabner Adgang hertil for nogen, som<lb xml:id="d1e1437"/>
+ikke er i Besiddelse af de lovbestemte Be-<lb xml:id="d1e1440"/>
 tingelser (§ 109, 2det Stykke).
 </p>
-               <p>
-I Henhold til det ovenfor bemærkede<lb/>
-indstiller Udvalget Forslaget til Lov om<lb/>
-Rettens Pleje til uforandret Vedtagelse,<lb/>
-idet dog Medlem af Udvalget Oluf Jensen<lb/>
-ikke kan stemme for Forslaget, men ved<lb/>
-dets anden Behandling forbeholder sig<lb/>
+               <p xml:id="d1e1443">
+I Henhold til det ovenfor bemærkede<lb xml:id="d1e1445"/>
+indstiller Udvalget Forslaget til Lov om<lb xml:id="d1e1447"/>
+Rettens Pleje til uforandret Vedtagelse,<lb xml:id="d1e1449"/>
+idet dog Medlem af Udvalget Oluf Jensen<lb xml:id="d1e1451"/>
+ikke kan stemme for Forslaget, men ved<lb xml:id="d1e1453"/>
+dets anden Behandling forbeholder sig<lb xml:id="d1e1456"/>
 nærmere at motivere sin Stilling til samme.
 </p>
-            </div>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
-1 det paa Grundlag af Forhandlin-<lb/>
-gerne 1913—14 fremsatte Lovforslag er<lb/>
-der af Folketinget vedtaget dels to Æn-<lb/>
-dringer i Lovforslagets Paragraffer, dels<lb/>
-nogle Ændringer i de dertil knyttede Tavler.<lb/>
-I § 5 er der foretaget en til Ændringen i<lb/>
-Lovforslaget om Retsplejens Ordning § 17<lb/>
-svarende Ændring, til hvilken Udvalget,<lb/>
-som paa sit Sted omtalt, har sluttet sig.<lb/>
-Dernæst er i § 9 Bestemmelsen om en<lb/>
-3die lavere Lønningsklasse for Politimestre<lb/>
-fjernet. Herimod har Udvalget intet at<lb/>
-erindre. Hvad Tavlerne angaar, er Tavlen<lb/>
-for Politimestre som Følge heraf undergaaet<lb/>
-den Forandring, at de 9 før til Politimestre<lb/>
-af 3die Lønningsklasse henførte er over-<lb/>
-flyttede til 2den Lønningsklasse (Tavle D).<lb/>
-i Tavlen for Dommere er der for at til-<lb/>
-vejebringe et mere ligeligt Forhold sket<lb/>
-den Ændring, at Tallet af Dommere i<lb/>
-1ste Lønningsklasse er gaaet ned fra 57<lb/>
-til 51, medens Tallet for Dommere<lb/>
-af 2den Lønningsklasse er steget fra<lb/>
-41 til 48. Den større, paa Retskredsenes<lb/>
-Folketal hvilende Ligelighed giver ikke<lb/>
-Anledning til Bemærkninger. Kun ligger<lb/>
-det i Forholdets Natur, at betydeligere<lb/>
-Forskydninger i Folketallet kan foranledige<lb/>
+         <div xml:id="d1e1461">
+            <head xml:id="d1e1463">
+Til B. Forslag til Lønningslov for for- 
+skellige af de i Lov om Rettens Pleje 
+omhandlede Embeds- og Bestillings- 
+mænd.
+</head>
+            
+               
+               <p xml:id="d1e1476">
+1 det paa Grundlag af Forhandlin-<lb xml:id="d1e1478"/>
+gerne 1913—14 fremsatte Lovforslag er<lb xml:id="d1e1480"/>
+der af Folketinget vedtaget dels to Æn-<lb xml:id="d1e1482"/>
+dringer i Lovforslagets Paragraffer, dels<lb xml:id="d1e1484"/>
+nogle Ændringer i de dertil knyttede Tavler.<lb xml:id="d1e1486"/>
+I § 5 er der foretaget en til Ændringen i<lb xml:id="d1e1489"/>
+Lovforslaget om Retsplejens Ordning § 17<lb xml:id="d1e1491"/>
+svarende Ændring, til hvilken Udvalget,<lb xml:id="d1e1493"/>
+som paa sit Sted omtalt, har sluttet sig.<lb xml:id="d1e1495"/>
+Dernæst er i § 9 Bestemmelsen om en<lb xml:id="d1e1497"/>
+3die lavere Lønningsklasse for Politimestre<lb xml:id="d1e1499"/>
+fjernet. Herimod har Udvalget intet at<lb xml:id="d1e1502"/>
+erindre. Hvad Tavlerne angaar, er Tavlen<lb xml:id="d1e1504"/>
+for Politimestre som Følge heraf undergaaet<lb xml:id="d1e1506"/>
+den Forandring, at de 9 før til Politimestre<lb xml:id="d1e1508"/>
+af 3die Lønningsklasse henførte er over-<lb xml:id="d1e1510"/>
+flyttede til 2den Lønningsklasse (Tavle D).<lb xml:id="d1e1512"/>
+i Tavlen for Dommere er der for at til-<lb xml:id="d1e1515"/>
+vejebringe et mere ligeligt Forhold sket<lb xml:id="d1e1517"/>
+den Ændring, at Tallet af Dommere i<lb xml:id="d1e1519"/>
+1ste Lønningsklasse er gaaet ned fra 57<lb xml:id="d1e1521"/>
+til 51, medens Tallet for Dommere<lb xml:id="d1e1523"/>
+af 2den Lønningsklasse er steget fra<lb xml:id="d1e1525"/>
+41 til 48. Den større, paa Retskredsenes<lb xml:id="d1e1528"/>
+Folketal hvilende Ligelighed giver ikke<lb xml:id="d1e1530"/>
+Anledning til Bemærkninger. Kun ligger<lb xml:id="d1e1532"/>
+det i Forholdets Natur, at betydeligere<lb xml:id="d1e1534"/>
+Forskydninger i Folketallet kan foranledige<lb xml:id="d1e1536"/>
 Ændringer i Førstefordelingen ved en-
 </p>
-               <milestone type="rightside"
-                          xml:id="startd1e1495"
-                          next="endd1e1495"
-                          n="2046"
-                          unit="column"/>
-               <p>
-kelte Lovforandringer. Ad administrativ<lb/>
+               <milestone type="rightside" xml:id="startd1e1495" next="endd1e1495" n="2046" unit="column"/>
+               <p xml:id="d1e1541">
+kelte Lovforandringer. Ad administrativ<lb xml:id="d1e1543"/>
 Vej kan saadan Ændring ikke foretages.
 </p>
-               <p>
-Et Ønske, udtalt af Underdommerfor-<lb/>
-eningen om en Ændring i Sammensæt-<lb/>
-ningen af det ved § 20 indrettede Raad<lb/>
-(de 5 Retsformænd) har ikke fundet Til-<lb/>
+               <p xml:id="d1e1546">
+Et Ønske, udtalt af Underdommerfor-<lb xml:id="d1e1548"/>
+eningen om en Ændring i Sammensæt-<lb xml:id="d1e1550"/>
+ningen af det ved § 20 indrettede Raad<lb xml:id="d1e1552"/>
+(de 5 Retsformænd) har ikke fundet Til-<lb xml:id="d1e1554"/>
 slutning hos Udvalget.
 </p>
-               <p>
-Lovforslaget indstilles til uforandret<lb/>
+               <p xml:id="d1e1558">
+Lovforslaget indstilles til uforandret<lb xml:id="d1e1560"/>
 Vedtagelse.
 </p>
-            </div>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
-Lovforslaget indstilles til uforandret<lb/>
+         <div xml:id="d1e1565">
+            <head xml:id="d1e1567">
+Til C. Forslag til midlertidig Lov om 
+offentlige Auktioner, der ikke er 
+Tvangsauktioner.
+</head>
+            
+               
+               <p xml:id="d1e1578">
+Lovforslaget indstilles til uforandret<lb xml:id="d1e1580"/>
 Vedtagelse.
 </p>
-            </div>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
-Heller ikke med Hensyn til dette Lov-<lb/>
-forslag er der foretaget Ændringer i det<lb/>
-Forslag, som med ganske uvæsentlige Æn-<lb/>
-dringer er fremgaaet af Forhandlingerne<lb/>
+         <div xml:id="d1e1585">
+            <head xml:id="d1e1587">
+Til D. Forslag til Lov om Retsafgifter 
+i Domssager m. m.
+</head>
+            
+               
+               <p xml:id="d1e1596">
+Heller ikke med Hensyn til dette Lov-<lb xml:id="d1e1598"/>
+forslag er der foretaget Ændringer i det<lb xml:id="d1e1600"/>
+Forslag, som med ganske uvæsentlige Æn-<lb xml:id="d1e1602"/>
+dringer er fremgaaet af Forhandlingerne<lb xml:id="d1e1604"/>
 i 1913—14.
 </p>
-               <p>
-Lovforslaget indstilles til uforandret<lb/>
+               <p xml:id="d1e1607">
+Lovforslaget indstilles til uforandret<lb xml:id="d1e1609"/>
 Vedtagelse.
 </p>
-            </div>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
-I det af Forhandlingerne 1913—14<lb/>
-fremgaaede, i 1915 fremsatte Lovforslag er<lb/>
-der af Folketinget indført en Ændring i<lb/>
-§ 3, der gaar ud paa, at Københavns<lb/>
-Kommune godtgør Statskassen Halvdelen<lb/>
-af den Løn, som udredes til de 9 Politi-<lb/>
-fuldmægtige, som er til Hjælp for Politi-<lb/>
-direktøren ved Paatale af Straffesager, se<lb/>
-Forslag om Rettens Pleje § 108, 2det Stykke.<lb/>
-Det hertil for Københavns Kommunes Ved-<lb/>
-kommende medgaaende Beløb udgør 13,500<lb/>
-Kr. Udvalget kan tiltræde dette Forslag.<lb/>
-Det bliver i øvrigt efter Forslaget om Ret-<lb/>
-tens Pleje § 108, 1ste Stykke, staaende ved<lb/>
-Magt, at det forbeholdes at underkaste Be-<lb/>
-stemmelserne om Statens Tilskud til Kø-<lb/>
+         <div xml:id="d1e1615">
+            <head xml:id="d1e1617">
+Til E. Forslag til Lov om Udgifterne 
+i Strafferetsplejen.
+</head>
+            
+               
+               <p xml:id="d1e1626">
+I det af Forhandlingerne 1913—14<lb xml:id="d1e1628"/>
+fremgaaede, i 1915 fremsatte Lovforslag er<lb xml:id="d1e1630"/>
+der af Folketinget indført en Ændring i<lb xml:id="d1e1632"/>
+§ 3, der gaar ud paa, at Københavns<lb xml:id="d1e1634"/>
+Kommune godtgør Statskassen Halvdelen<lb xml:id="d1e1636"/>
+af den Løn, som udredes til de 9 Politi-<lb xml:id="d1e1639"/>
+fuldmægtige, som er til Hjælp for Politi-<lb xml:id="d1e1641"/>
+direktøren ved Paatale af Straffesager, se<lb xml:id="d1e1643"/>
+Forslag om Rettens Pleje § 108, 2det Stykke.<lb xml:id="d1e1645"/>
+Det hertil for Københavns Kommunes Ved-<lb xml:id="d1e1647"/>
+kommende medgaaende Beløb udgør 13,500<lb xml:id="d1e1649"/>
+Kr. Udvalget kan tiltræde dette Forslag.<lb xml:id="d1e1652"/>
+Det bliver i øvrigt efter Forslaget om Ret-<lb xml:id="d1e1654"/>
+tens Pleje § 108, 1ste Stykke, staaende ved<lb xml:id="d1e1656"/>
+Magt, at det forbeholdes at underkaste Be-<lb xml:id="d1e1658"/>
+stemmelserne om Statens Tilskud til Kø-<lb xml:id="d1e1660"/>
 benhavns Politi et Gennemsyn.
 </p>
-               <p>
-Lovforslaget indstilles til uændret<lb/>
+               <p xml:id="d1e1663">
+Lovforslaget indstilles til uændret<lb xml:id="d1e1665"/>
 Vedtagelse.
 </p>
-               <milestone type="rightside"
-                          xml:id="endd1e1495"
-                          prev="startd1e1495"
-                          n="2046"
-                          unit="column"/>
-               <pb xml:id="idr29_00008_rigsdagtid_b2_1915_16"
-                   facs="r29_00008_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <milestone type="rightside" xml:id="endd1e1495" prev="startd1e1495" n="2046" unit="column"/>
+               <pb xml:id="idr29_00008_rigsdagtid_b2_1915_16" facs="r29_00008_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e1673" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bet. o. Lovf. om Rettens Pleje m. m.</fw>
-               <fw type="head" place="top-right">2048</fw>
-            </div>
+               <fw xml:id="d1e1676" type="head" place="top-middle">Bet. o. Lovf. om Rettens Pleje m. m.</fw>
+               <fw xml:id="d1e1679" type="head" place="top-right">2048</fw>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
-Det ifølge tidligere Forhandlinger be-<lb/>
-regnede Beløb af 250,000 Kr. til de i Lov-<lb/>
-forslaget nævnte Byggeforetagender er af<lb/>
-Regeringen i det i 1915 fremsatte Lovfor-<lb/>
-slag foreslaaet og af Folketinget vedtaget<lb/>
-forhøjet til 300,000 Kr. under Hensyn til de<lb/>
-forhøjede Priser paa Byggematerialier og<lb/>
-Stigningen i Arbejdsløn. Udvalget tiltæ-<lb/>
+         <div xml:id="d1e1684">
+            <head xml:id="d1e1686">
+Til F. Forslag til Lov om Tilvejebrin- 
+gelse af Lokaler for Østre Landsret, Sø- 
+og Handelsretten i København og Kø- 
+benhavns Byret m. m.
+</head>
+            
+               
+               <p xml:id="d1e1699">
+Det ifølge tidligere Forhandlinger be-<lb xml:id="d1e1701"/>
+regnede Beløb af 250,000 Kr. til de i Lov-<lb xml:id="d1e1703"/>
+forslaget nævnte Byggeforetagender er af<lb xml:id="d1e1705"/>
+Regeringen i det i 1915 fremsatte Lovfor-<lb xml:id="d1e1707"/>
+slag foreslaaet og af Folketinget vedtaget<lb xml:id="d1e1709"/>
+forhøjet til 300,000 Kr. under Hensyn til de<lb xml:id="d1e1712"/>
+forhøjede Priser paa Byggematerialier og<lb xml:id="d1e1714"/>
+Stigningen i Arbejdsløn. Udvalget tiltæ-<lb xml:id="d1e1716"/>
 der dette.
 </p>
-               <p>
-I Landstingsudvalgets Betænkning i<lb/>
-1914 henledes Regeringens Opmærksomhed<lb/>
-paa, at et Beløb til Lokaler for Vestre<lb/>
-Landsret og til fornøden Montering af<lb/>
-samtlige der omtalte Retslokaler og Kon-<lb/>
+               <p xml:id="d1e1719">
+I Landstingsudvalgets Betænkning i<lb xml:id="d1e1721"/>
+1914 henledes Regeringens Opmærksomhed<lb xml:id="d1e1723"/>
+paa, at et Beløb til Lokaler for Vestre<lb xml:id="d1e1725"/>
+Landsret og til fornøden Montering af<lb xml:id="d1e1727"/>
+samtlige der omtalte Retslokaler og Kon-<lb xml:id="d1e1729"/>
 torer vilde kræves. Et særligt Lovforslag
 </p>
-               <milestone type="rightside"
-                          xml:id="startd1e1657"
-                          next="endd1e1657"
-                          n="2048"
-                          unit="column"/>
-               <p>
-herom er ikke blevet fremsat, men i Be-<lb/>
-regningen af de med Retsplejens Omord-<lb/>
-ning forbundne Udgifter en Gang for alle<lb/>
-er et fornødent Beløb i saa Henseende nu<lb/>
-opført i Folketingets Overslag og vil i<lb/>
-sin Tid komme i tilbørlig Betragtning.<lb/>
-Det foreliggende Lovforslag indstilles,<lb/>
-ligesom de forannævnte, til uændret Ved-<lb/>
+               <milestone type="rightside" xml:id="startd1e1657" next="endd1e1657" n="2048" unit="column"/>
+               <p xml:id="d1e1734">
+herom er ikke blevet fremsat, men i Be-<lb xml:id="d1e1736"/>
+regningen af de med Retsplejens Omord-<lb xml:id="d1e1738"/>
+ning forbundne Udgifter en Gang for alle<lb xml:id="d1e1740"/>
+er et fornødent Beløb i saa Henseende nu<lb xml:id="d1e1742"/>
+opført i Folketingets Overslag og vil i<lb xml:id="d1e1744"/>
+sin Tid komme i tilbørlig Betragtning.<lb xml:id="d1e1747"/>
+Det foreliggende Lovforslag indstilles,<lb xml:id="d1e1749"/>
+ligesom de forannævnte, til uændret Ved-<lb xml:id="d1e1751"/>
 tagelse.
 </p>
-               <p>
-En Opgørelse af samtlige Udgifter,<lb/>
-dels en Gang for alle, dels den aarlige<lb/>
-Merudgift, som hidrører fra Omordningen<lb/>
-af Rettens Pleje, skal til Slutning frem-<lb/>
-sættes (se næste Side). Det nærmere frem-<lb/>
-gaar af, hvad der paa forskellige Steder<lb/>
+               <p xml:id="d1e1755">
+En Opgørelse af samtlige Udgifter,<lb xml:id="d1e1757"/>
+dels en Gang for alle, dels den aarlige<lb xml:id="d1e1759"/>
+Merudgift, som hidrører fra Omordningen<lb xml:id="d1e1761"/>
+af Rettens Pleje, skal til Slutning frem-<lb xml:id="d1e1763"/>
+sættes (se næste Side). Det nærmere frem-<lb xml:id="d1e1765"/>
+gaar af, hvad der paa forskellige Steder<lb xml:id="d1e1768"/>
 er beregnet.
 </p>
-               <milestone type="rightside"
-                          xml:id="endd1e1657"
-                          prev="startd1e1657"
-                          n="2048"
-                          unit="column"/>
-               <p>
-Jørgen Berthelsen. Deuntzer.	Docker. Falbe Hansen.<lb/>
-Godskesen. Goos, N. Hansen.	Hey. Hans Jensen.<lb/>
-Formand og Ordfører.<lb/>
-Harald Jensen. Oluf Jensen.	Carl Madsen. Nygart.<lb/>
-Poul Rasmusen.	Sonne.<lb/>
+               <milestone type="rightside" xml:id="endd1e1657" prev="startd1e1657" n="2048" unit="column"/>
+               <p xml:id="d1e1773">
+Jørgen Berthelsen. Deuntzer.	Docker. Falbe Hansen.<lb xml:id="d1e1775"/>
+Godskesen. Goos, N. Hansen.	Hey. Hans Jensen.<lb xml:id="d1e1777"/>
+Formand og Ordfører.<lb xml:id="d1e1779"/>
+Harald Jensen. Oluf Jensen.	Carl Madsen. Nygart.<lb xml:id="d1e1781"/>
+Poul Rasmusen.	Sonne.<lb xml:id="d1e1783"/>
 Sekretær.
 </p>
-               <pb xml:id="idr29_00009_rigsdagtid_b2_1915_16"
-                   facs="r29_00009_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <p>
+               <pb xml:id="idr29_00009_rigsdagtid_b2_1915_16" facs="r29_00009_rigsdagtid_b2_1915_16" n=""/>
+               <p xml:id="d1e1788">
 Aarlig Merudgift.
 </p>
-               <p>
-Regeringens Overslag 1914 	 1,230,200 Kr.<lb/>
-÷ 170,000 —<lb/>
+               <p xml:id="d1e1790">
+Regeringens Overslag 1914 	 1,230,200 Kr.<lb xml:id="d1e1792"/>
+÷ 170,000 —<lb xml:id="d1e1794"/>
 1,000,200 Kr.
 </p>
-               <p>
-Landstingets Udvalgs Betænkning			 1 304,800 Kr.<lb/>
-÷ 170,000 —<lb/>
+               <p xml:id="d1e1798">
+Landstingets Udvalgs Betænkning			 1 304,800 Kr.<lb xml:id="d1e1800"/>
+÷ 170,000 —<lb xml:id="d1e1802"/>
 1,134,800 Kr.
 </p>
-               <p>
-Forskellen skyldes væsentlig Forhøjelse af Udgiften paa<lb/>
+               <p xml:id="d1e1805">
+Forskellen skyldes væsentlig Forhøjelse af Udgiften paa<lb xml:id="d1e1807"/>
 Kontoen: Lønning og Kontorhold.
 </p>
-               <p>
-Folketingets Udvalgs Overslag nu	 1,340,950 Kr.<lb/>
-÷    170,000_—<lb/>
+               <p xml:id="d1e1810">
+Folketingets Udvalgs Overslag nu	 1,340,950 Kr.<lb xml:id="d1e1812"/>
+÷    170,000_—<lb xml:id="d1e1814"/>
 1,170,950 Kr.
 </p>
-               <p>
-I Sammenligning med Landstingsudvalgets Overslag er Løn-<lb/>
-ningerne til Dommere og Politimestre forøgede med 9,650 Kr.,<lb/>
-Kontorhold med 40,000 Kr. Derimod fremkommer en Nedsæt-<lb/>
-telse paa 13,500 Kr. som Følge af det af Folketinget vedtagne Æn-<lb/>
-dringsforslag til Lovforslaget om Udgifterne i Strafferetsplejen, § 3,<lb/>
-hvorefter Statskassen faar Halvdelen af de Udgifter, som med-<lb/>
-gaar til Lønning af de i § 108, 2det Stykke, nævnte Fuldmæg-<lb/>
+               <p xml:id="d1e1817">
+I Sammenligning med Landstingsudvalgets Overslag er Løn-<lb xml:id="d1e1819"/>
+ningerne til Dommere og Politimestre forøgede med 9,650 Kr.,<lb xml:id="d1e1821"/>
+Kontorhold med 40,000 Kr. Derimod fremkommer en Nedsæt-<lb xml:id="d1e1823"/>
+telse paa 13,500 Kr. som Følge af det af Folketinget vedtagne Æn-<lb xml:id="d1e1825"/>
+dringsforslag til Lovforslaget om Udgifterne i Strafferetsplejen, § 3,<lb xml:id="d1e1827"/>
+hvorefter Statskassen faar Halvdelen af de Udgifter, som med-<lb xml:id="d1e1830"/>
+gaar til Lønning af de i § 108, 2det Stykke, nævnte Fuldmæg-<lb xml:id="d1e1832"/>
 tige, refunderet af Københavns Kommune.
 </p>
-               <p>
+               <p xml:id="d1e1835">
 Udgift en Gang for alle.
 </p>
-               <p>
-Regeringens Overslag 1914		 1 231,430 Kr.<lb/>
+               <p xml:id="d1e1837">
+Regeringens Overslag 1914		 1 231,430 Kr.<lb xml:id="d1e1839"/>
 Rigsdagsbygningen ...... 1,000,000 -
 </p>
-               <p>
-Landstingets Udvalgs Betænkning	 Samme Beløb,<lb/>
-(se Betænkningen men Udvalget henleder Opmærksomheden<lb/>
-1914 Pag. 7). paa Ministeriets Udtalelse, at der ud over<lb/>
-de i Lovforslaget omtalte Udgifter vil kræ-<lb/>
-ves Bevilling af et Beløb til Tilvejebrin-<lb/>
-gelse af Lokaler for Vestre Landsret og<lb/>
-til Montering af samtlige de her omtalte<lb/>
-Retslokaler og Kontorer, og at Ministeriet<lb/>
-forbeholder sig senere at fremsætte For-<lb/>
+               <p xml:id="d1e1843">
+Landstingets Udvalgs Betænkning	 Samme Beløb,<lb xml:id="d1e1845"/>
+(se Betænkningen men Udvalget henleder Opmærksomheden<lb xml:id="d1e1847"/>
+1914 Pag. 7). paa Ministeriets Udtalelse, at der ud over<lb xml:id="d1e1849"/>
+de i Lovforslaget omtalte Udgifter vil kræ-<lb xml:id="d1e1851"/>
+ves Bevilling af et Beløb til Tilvejebrin-<lb xml:id="d1e1853"/>
+gelse af Lokaler for Vestre Landsret og<lb xml:id="d1e1856"/>
+til Montering af samtlige de her omtalte<lb xml:id="d1e1858"/>
+Retslokaler og Kontorer, og at Ministeriet<lb xml:id="d1e1860"/>
+forbeholder sig senere at fremsætte For-<lb xml:id="d1e1862"/>
 slag herom.
 </p>
-               <p>
-Regeringens Overslag nu	 1,231,430 Kr.<lb/>
-(efter Folketings- + Rigsdagsbygningen	 1,000,000 —<lb/>
-udvalgets Be- bortset fra de Besparelser,<lb/>
-tænkning.)	som Fritagelse af Lejeudgif-<lb/>
-ter m. m. medfører + Byg-<lb/>
-geudgifter i Viborg samt<lb/>
-Montering af Lokaler, der<lb/>
-sættes til	 500,000 —<lb/>
-+ Forhøjelse paa Grund af<lb/>
-Materialprisernes Stigning..       50,000 —<lb/>
+               <p xml:id="d1e1865">
+Regeringens Overslag nu	 1,231,430 Kr.<lb xml:id="d1e1867"/>
+(efter Folketings- + Rigsdagsbygningen	 1,000,000 —<lb xml:id="d1e1869"/>
+udvalgets Be- bortset fra de Besparelser,<lb xml:id="d1e1871"/>
+tænkning.)	som Fritagelse af Lejeudgif-<lb xml:id="d1e1873"/>
+ter m. m. medfører + Byg-<lb xml:id="d1e1875"/>
+geudgifter i Viborg samt<lb xml:id="d1e1878"/>
+Montering af Lokaler, der<lb xml:id="d1e1880"/>
+sættes til	 500,000 —<lb xml:id="d1e1882"/>
++ Forhøjelse paa Grund af<lb xml:id="d1e1884"/>
+Materialprisernes Stigning..       50,000 —<lb xml:id="d1e1886"/>
 I alt... 2 781,430 Kr.
 </p>
-               <pb xml:id="idr29_00010_rigsdagtid_b2_1915_16"
-                   facs="r29_00010_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <pb xml:id="idr29_00010_rigsdagtid_b2_1915_16" facs="r29_00010_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e1891" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bilag til Bet. o. Lovf.om etten Pleje m. m.</fw>
-               <fw type="head" place="top-right">2052</fw>
-            </div>
+               <fw xml:id="d1e1894" type="head" place="top-middle">Bilag til Bet. o. Lovf.om etten Pleje m. m.</fw>
+               <fw xml:id="d1e1897" type="head" place="top-right">2052</fw>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
+         <div xml:id="d1e1902">
+            <head xml:id="d1e1904">
+Bilag. 
+1.
+</head>
+            
+               
+               <p xml:id="d1e1913">
 Justitsministeriet.
 </p>
-               <p>
+               <p xml:id="d1e1915">
 København, den 21. Marts 1916.
 </p>
-               <p>
-Paa dertil given Foranledning skal man meddele, at Bestemmelserne i<lb/>
-§ 8 i Lov om Adgang til Sagførervirksomhed, af 26. Maj 1868, jfr. ogsaa Lovens<lb/>
-§ 10 in fine, efter Justitsministeriets Formening medfører, at Underretssagførere<lb/>
-ikke har Ret til at have Kontor mere end eet Sted. De paagældende Sagførere<lb/>
-er saaledes udelukkede fra baade at have flere Kontorer i samme Jurisdiktion og<lb/>
-at have et Kontor i flere Jurisdiktioner. Derimod er de berettigede til at ind-<lb/>
-finde sig til opgivne Tider paa Steder udenfor deres Kontor for der at modtage<lb/>
+               <p xml:id="d1e1917">
+Paa dertil given Foranledning skal man meddele, at Bestemmelserne i<lb xml:id="d1e1919"/>
+§ 8 i Lov om Adgang til Sagførervirksomhed, af 26. Maj 1868, jfr. ogsaa Lovens<lb xml:id="d1e1921"/>
+§ 10 in fine, efter Justitsministeriets Formening medfører, at Underretssagførere<lb xml:id="d1e1923"/>
+ikke har Ret til at have Kontor mere end eet Sted. De paagældende Sagførere<lb xml:id="d1e1925"/>
+er saaledes udelukkede fra baade at have flere Kontorer i samme Jurisdiktion og<lb xml:id="d1e1927"/>
+at have et Kontor i flere Jurisdiktioner. Derimod er de berettigede til at ind-<lb xml:id="d1e1930"/>
+finde sig til opgivne Tider paa Steder udenfor deres Kontor for der at modtage<lb xml:id="d1e1932"/>
 Kunder og yde Assistance.
 </p>
-               <signatur>
+               <signatur xml:id="d1e1935">
 Zahle.
 </signatur>
-               <signatur>
+               <signatur xml:id="d1e1938">
 V. Topsøe-Jensen.
 </signatur>
-               <p>
-Til Landstingets Udvalg angaaende Forslag til Lov<lb/>
+               <p xml:id="d1e1940">
+Til Landstingets Udvalg angaaende Forslag til Lov<lb xml:id="d1e1942"/>
 om Bettens Pleje.
 </p>
-               <pb xml:id="idr29_00011_rigsdagtid_b2_1915_16"
-                   facs="r29_00011_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <pb xml:id="idr29_00011_rigsdagtid_b2_1915_16" facs="r29_00011_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e1947" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bilag til Bet. o. Lovf. om Retten3 Pleje m. m.</fw>
-               <fw type="head" place="top-right">2054</fw>
-            </div>
+               <fw xml:id="d1e1950" type="head" place="top-middle">Bilag til Bet. o. Lovf. om Retten3 Pleje m. m.</fw>
+               <fw xml:id="d1e1953" type="head" place="top-right">2054</fw>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
+         <div xml:id="d1e1958">
+            <head xml:id="d1e1960">
+2.
+</head>
+            
+               
+               <p xml:id="d1e1966">
 foreningen af Underretsdommere.
 </p>
-               <p>
+               <p xml:id="d1e1968">
 3. Marts 1916.
 </p>
-               <p>
-Ved Lønningsloven indføies et Nævn til at skønne over, hvorvidt Underrets-<lb/>
-betjentene kan have Adgang til et Bierhverv, men synes Sammensætningen af<lb/>
-dette Nævn at burde ændres saaledes, at det tiltrædes af 1 eller 2 Repræsen-<lb/>
+               <p xml:id="d1e1970">
+Ved Lønningsloven indføies et Nævn til at skønne over, hvorvidt Underrets-<lb xml:id="d1e1972"/>
+betjentene kan have Adgang til et Bierhverv, men synes Sammensætningen af<lb xml:id="d1e1974"/>
+dette Nævn at burde ændres saaledes, at det tiltrædes af 1 eller 2 Repræsen-<lb xml:id="d1e1976"/>
 tanter for Underretsdommerne udenfor København.
 </p>
-               <p>
-Den københavnske Underret er repræsenteret, og det synes da natur-<lb/>
-ligt, at ogsaa Underretsdommere udenfor København, hvis Embeder for en<lb/>
-stor Del er mere omfattende end en københavnsk Byretsdommers, repræsen-<lb/>
-teres, særlig ogsaa da disse tidt burde være mere bekendte med, hvorvidt en<lb/>
+               <p xml:id="d1e1979">
+Den københavnske Underret er repræsenteret, og det synes da natur-<lb xml:id="d1e1981"/>
+ligt, at ogsaa Underretsdommere udenfor København, hvis Embeder for en<lb xml:id="d1e1983"/>
+stor Del er mere omfattende end en københavnsk Byretsdommers, repræsen-<lb xml:id="d1e1985"/>
+teres, særlig ogsaa da disse tidt burde være mere bekendte med, hvorvidt en<lb xml:id="d1e1987"/>
 saadan Tilladelse kan gives uden Skade for Embedets Styrelse.
 </p>
-               <p>
+               <p xml:id="d1e1991">
 P. B. V.
 </p>
-               <p>
-O. Neumann,	Risom,<lb/>
+               <p xml:id="d1e1993">
+O. Neumann,	Risom,<lb xml:id="d1e1995"/>
 p. t. Formand.	p. t. Næstformand.
 </p>
-               <p>
+               <p xml:id="d1e1998">
 Justitsministeriet.
 </p>
-            </div>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
+         <div xml:id="d1e2002">
+            <head xml:id="d1e2004">
+3.
+</head>
+            
+               
+               <p xml:id="d1e2010">
 Til Regering og Rigsdag.
 </p>
-               <p>
-Foranlediget ved Meddelelser i Pressen om, at der er Udsigt til Retsrefor-<lb/>
-mens Vedtagelse i indeværende Rigsdagssamling, tillader vi undertegnede Politiassi-<lb/>
-stenter i Aarhus, Randers, Horsens, Vejle og i Hellerup, der alle er eksaminati juris,<lb/>
-os at ansøge den høje Regering og Rigsdag om, at der maa blive givet os Adgang til<lb/>
-at komme i Betragtning ved Besættelse af Politimesterembeder efter den nye<lb/>
+               <p xml:id="d1e2012">
+Foranlediget ved Meddelelser i Pressen om, at der er Udsigt til Retsrefor-<lb xml:id="d1e2014"/>
+mens Vedtagelse i indeværende Rigsdagssamling, tillader vi undertegnede Politiassi-<lb xml:id="d1e2016"/>
+stenter i Aarhus, Randers, Horsens, Vejle og i Hellerup, der alle er eksaminati juris,<lb xml:id="d1e2018"/>
+os at ansøge den høje Regering og Rigsdag om, at der maa blive givet os Adgang til<lb xml:id="d1e2020"/>
+at komme i Betragtning ved Besættelse af Politimesterembeder efter den nye<lb xml:id="d1e2022"/>
 Retsreform.
 </p>
-               <p>
-Vi tillader os at begrunde vort Andragende med, at vi i mange Aar har virket<lb/>
-i det offentliges Interesse som Politiassistenter med en Politistyrke under os, at vi<lb/>
-tidligere har haft Ansættelse som Retsbetjentfuldmægtige eller som Sagførere, og at<lb/>
-vi efter vor mangeaarige Virksomhed som overordnede Politimænd har indhøstet saa<lb/>
-megen Erfaring og Dygtighed, at vi maa anses som kvalificerede til Bestridelse af<lb/>
+               <p xml:id="d1e2025">
+Vi tillader os at begrunde vort Andragende med, at vi i mange Aar har virket<lb xml:id="d1e2027"/>
+i det offentliges Interesse som Politiassistenter med en Politistyrke under os, at vi<lb xml:id="d1e2029"/>
+tidligere har haft Ansættelse som Retsbetjentfuldmægtige eller som Sagførere, og at<lb xml:id="d1e2031"/>
+vi efter vor mangeaarige Virksomhed som overordnede Politimænd har indhøstet saa<lb xml:id="d1e2033"/>
+megen Erfaring og Dygtighed, at vi maa anses som kvalificerede til Bestridelse af<lb xml:id="d1e2035"/>
 Embederne som Politimestre efter Retsreformen.
 </p>
-               <p>
+               <p xml:id="d1e2038">
 Aarhus, Randers, Horsens, Vejle, Hellerup. Februar 1916.
 </p>
-               <p>
-Allerærbødigst<lb/>
+               <p xml:id="d1e2041">
+Allerærbødigst<lb xml:id="d1e2043"/>
 (Underskrifter).
 </p>
-               <pb xml:id="idr29_00012_rigsdagtid_b2_1915_16"
-                   facs="r29_00012_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <pb xml:id="idr29_00012_rigsdagtid_b2_1915_16" facs="r29_00012_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e2048" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bilag til Bet. o. Lovf. om etten Pleje m. m.</fw>
-               <fw type="head" place="top-right">2056</fw>
-            </div>
+               <fw xml:id="d1e2051" type="head" place="top-middle">Bilag til Bet. o. Lovf. om etten Pleje m. m.</fw>
+               <fw xml:id="d1e2054" type="head" place="top-right">2056</fw>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
+         <div xml:id="d1e2059">
+            <head xml:id="d1e2061">
+4.
+</head>
+            
+               
+               <p xml:id="d1e2067">
 "Dansk Politiforening.
 </p>
-               <p>
+               <p xml:id="d1e2069">
 3. Marts 1916.
 </p>
-               <p>
+               <p xml:id="d1e2071">
 Til Landstinget.
 </p>
-               <p>
-Dansk Politiforening, der omfatter Landets Politifunktionærer og Arrest-<lb/>
-forvarere i og udenfor Hovedstaden, tillader sig herved at ansøge om, at fjerde<lb/>
-Afsnit om Politimyndigheden i Forslag til Lov om Rettens Pleje maa udgaa og<lb/>
+               <p xml:id="d1e2073">
+Dansk Politiforening, der omfatter Landets Politifunktionærer og Arrest-<lb xml:id="d1e2075"/>
+forvarere i og udenfor Hovedstaden, tillader sig herved at ansøge om, at fjerde<lb xml:id="d1e2077"/>
+Afsnit om Politimyndigheden i Forslag til Lov om Rettens Pleje maa udgaa og<lb xml:id="d1e2079"/>
 blive henvist til en særlig Lov.
 </p>
-               <p>
-	— D 22. November f. A. indgav vi til Justitsministeriet et Andra-<lb/>
-gende om Nedsættelse af en Kommission eller et Udvalg, hvori Repræsentanter,<lb/>
-valgte af Foreningen, ogsaa fik Sæde, til at fremkomme med Forslag til Lov om<lb/>
-Politiets Ordning. Saavel Justitsminister Zahle som Departementschef Schrøder<lb/>
-udtalte ved den Lejlighed, at Forholdene for Politifunktionærerne og Arrestfor-<lb/>
-varerne var uklare, navnlig med Hensyn til Lønningsforholdene og Sammenblan-<lb/>
-ding af Stats- og kommunale Opgaver. De indsaa derfor Nødvendigheden af og<lb/>
-vilde støtte Andragendet om, at der blev nedsat en Kommission til at klare For-<lb/>
-holdene og til at fremkomme med Forslag. Adskillige Rigsdagsmænd har udtalt<lb/>
+               <p xml:id="d1e2083">
+	— D 22. November f. A. indgav vi til Justitsministeriet et Andra-<lb xml:id="d1e2085"/>
+gende om Nedsættelse af en Kommission eller et Udvalg, hvori Repræsentanter,<lb xml:id="d1e2087"/>
+valgte af Foreningen, ogsaa fik Sæde, til at fremkomme med Forslag til Lov om<lb xml:id="d1e2089"/>
+Politiets Ordning. Saavel Justitsminister Zahle som Departementschef Schrøder<lb xml:id="d1e2091"/>
+udtalte ved den Lejlighed, at Forholdene for Politifunktionærerne og Arrestfor-<lb xml:id="d1e2093"/>
+varerne var uklare, navnlig med Hensyn til Lønningsforholdene og Sammenblan-<lb xml:id="d1e2096"/>
+ding af Stats- og kommunale Opgaver. De indsaa derfor Nødvendigheden af og<lb xml:id="d1e2098"/>
+vilde støtte Andragendet om, at der blev nedsat en Kommission til at klare For-<lb xml:id="d1e2100"/>
+holdene og til at fremkomme med Forslag. Adskillige Rigsdagsmænd har udtalt<lb xml:id="d1e2102"/>
 sig i samme Retning.
 </p>
-               <p>
-At Samarbejdet mellem Statspolitiet, det kommunale Politi, Chefen for<lb/>
-Statspolitiet og Politimestrene alt i alt ikke har været godt eller er godt er en<lb/>
-Kendsgerning, som ogsaa vides i Justitsministeriet, og den Omstændighed, at<lb/>
-Statspolitiet kan forøges indtil 200 Mand, og at der ansættes en Politiinspektør i<lb/>
-Statspolitiet, vil sikkert kun bidrage til at forværre Forholdene til Skade for Tje-<lb/>
-nesten og for Politiet i sin Helhed. Endelig mener vi, at det i Lighed, hvad der<lb/>
-er Tilfældet baade i England, Frankrig og til Dels ogsaa i Tyskland, burde mu-<lb/>
-liggøres dygtige Folk indenfor Politietaten ogsaa uden juridisk Eksamen at kunne<lb/>
+               <p xml:id="d1e2105">
+At Samarbejdet mellem Statspolitiet, det kommunale Politi, Chefen for<lb xml:id="d1e2107"/>
+Statspolitiet og Politimestrene alt i alt ikke har været godt eller er godt er en<lb xml:id="d1e2109"/>
+Kendsgerning, som ogsaa vides i Justitsministeriet, og den Omstændighed, at<lb xml:id="d1e2111"/>
+Statspolitiet kan forøges indtil 200 Mand, og at der ansættes en Politiinspektør i<lb xml:id="d1e2113"/>
+Statspolitiet, vil sikkert kun bidrage til at forværre Forholdene til Skade for Tje-<lb xml:id="d1e2115"/>
+nesten og for Politiet i sin Helhed. Endelig mener vi, at det i Lighed, hvad der<lb xml:id="d1e2118"/>
+er Tilfældet baade i England, Frankrig og til Dels ogsaa i Tyskland, burde mu-<lb xml:id="d1e2120"/>
+liggøres dygtige Folk indenfor Politietaten ogsaa uden juridisk Eksamen at kunne<lb xml:id="d1e2122"/>
 tjene sig op til at blive Politimester.
 </p>
-               <p>
-Vi formener derfor, at hverken Lovgivningsmagten, Befolkningen eller<lb/>
-Politiet kan være tjente med en yderligere Tilsidesættelse og Forbigaaen af vore<lb/>
+               <p xml:id="d1e2125">
+Vi formener derfor, at hverken Lovgivningsmagten, Befolkningen eller<lb xml:id="d1e2127"/>
+Politiet kan være tjente med en yderligere Tilsidesættelse og Forbigaaen af vore<lb xml:id="d1e2129"/>
 i mange Aar fremsatte Ønsker		—
 </p>
-               <p>
+               <p xml:id="d1e2132">
 (Underskrifter.)
 </p>
-               <pb xml:id="idr29_00013_rigsdagtid_b2_1915_16"
-                   facs="r29_00013_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <pb xml:id="idr29_00013_rigsdagtid_b2_1915_16" facs="r29_00013_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e2136" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bilag til Bet. o. Lovf. om etten Pleje m. m.</fw>
-               <fw type="head" place="top-right">2058</fw>
-            </div>
+               <fw xml:id="d1e2140" type="head" place="top-middle">Bilag til Bet. o. Lovf. om etten Pleje m. m.</fw>
+               <fw xml:id="d1e2143" type="head" place="top-right">2058</fw>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
+         <div xml:id="d1e2149">
+            <head xml:id="d1e2151">
+5. 
+Hids Herred.
+</head>
+            
+               
+               <p xml:id="d1e2160">
 Til Landstingets Udvalg angaaende Retepiejeloven.
 </p>
-               <p>
-Da Retsplejeloven for 2 Aar siden fremførtes til Behandling i Landstinget,<lb/>
-var den af Folketingnt vedtagne Retskredsinddeling saaledes, at Lysgaard og Hids<lb/>
+               <p xml:id="d1e2162">
+Da Retsplejeloven for 2 Aar siden fremførtes til Behandling i Landstinget,<lb xml:id="d1e2164"/>
+var den af Folketingnt vedtagne Retskredsinddeling saaledes, at Lysgaard og Hids<lb xml:id="d1e2166"/>
 Herred henlagdes til Silkeborg.
 </p>
-               <p>
-—	Landstingets Udvalg tilbageførte Lysgaard<lb/>
-og Hids Herreders Domicil til Kellerup	; at ogsaa Justitsministeren<lb/>
-har anset den skete Tilbageførelse retfærdig, tør maaske udledes deraf, at da Rets-<lb/>
-plejeloven [i Aar igen forelagdes Folketinget, var det med den samlede Jurisdiktions<lb/>
+               <p xml:id="d1e2169">
+—	Landstingets Udvalg tilbageførte Lysgaard<lb xml:id="d1e2171"/>
+og Hids Herreders Domicil til Kellerup	; at ogsaa Justitsministeren<lb xml:id="d1e2173"/>
+har anset den skete Tilbageførelse retfærdig, tør maaske udledes deraf, at da Rets-<lb xml:id="d1e2175"/>
+plejeloven [i Aar igen forelagdes Folketinget, var det med den samlede Jurisdiktions<lb xml:id="d1e2177"/>
 Forbliven i Kellerup.
 </p>
-               <p>
-—	Folketinget har atter fundet Anledning til om ikke helt at fratage<lb/>
-Kellerup sin Jurisdiktion, saa dog at henlægge en Del deraf, nemlig Hids Herred,<lb/>
+               <p xml:id="d1e2180">
+—	Folketinget har atter fundet Anledning til om ikke helt at fratage<lb xml:id="d1e2182"/>
+Kellerup sin Jurisdiktion, saa dog at henlægge en Del deraf, nemlig Hids Herred,<lb xml:id="d1e2184"/>
 under Silkeborg Birk			—
 </p>
-               <p>
-Naar	det erindres, at Afstanden mellem Kellerup og Silkeborg kun<lb/>
-er 15 km, og at de mod Kellerup [liggende Sogne af Hids Herred dels har kortere,<lb/>
-dels lige langt og andre kun 1 a 2 km længere hertil end til Silkeborg, vil man se,<lb/>
-at det for Beboerne har saare lidt Betydning, at en Omlægning sker; det kan i alt<lb/>
-Fald kun have særlig Interesse for de Sogne, der direkte grænser til Siikeborg.<lb/>
+               <p xml:id="d1e2188">
+Naar	det erindres, at Afstanden mellem Kellerup og Silkeborg kun<lb xml:id="d1e2190"/>
+er 15 km, og at de mod Kellerup [liggende Sogne af Hids Herred dels har kortere,<lb xml:id="d1e2192"/>
+dels lige langt og andre kun 1 a 2 km længere hertil end til Silkeborg, vil man se,<lb xml:id="d1e2194"/>
+at det for Beboerne har saare lidt Betydning, at en Omlægning sker; det kan i alt<lb xml:id="d1e2196"/>
+Fald kun have særlig Interesse for de Sogne, der direkte grænser til Siikeborg.<lb xml:id="d1e2198"/>
 Det er vort Haab, —	— — — — — — —	— — — —
 </p>
-               <p>
-	at Herredet, der i umindelige Tider har været et Hele, ogsaa i Frem-<lb/>
-tiden maa vedblive at være det.<lb/>
-Dertil bør dog føjes, at vi, om det synes bedst foreneligt med Ret og Skel,<lb/>
-paa Forhaand kan tænke os at give Afkald paa de Sogne, som ligger ind til Silke-<lb/>
-borg, og som er Svostrup, Gødval-Balle og Funder.<lb/>
-Hørup Sogneraad, Kellerup, den 9. Marts 1916.<lb/>
+               <p xml:id="d1e2201">
+	at Herredet, der i umindelige Tider har været et Hele, ogsaa i Frem-<lb xml:id="d1e2203"/>
+tiden maa vedblive at være det.<lb xml:id="d1e2205"/>
+Dertil bør dog føjes, at vi, om det synes bedst foreneligt med Ret og Skel,<lb xml:id="d1e2207"/>
+paa Forhaand kan tænke os at give Afkald paa de Sogne, som ligger ind til Silke-<lb xml:id="d1e2209"/>
+borg, og som er Svostrup, Gødval-Balle og Funder.<lb xml:id="d1e2211"/>
+Hørup Sogneraad, Kellerup, den 9. Marts 1916.<lb xml:id="d1e2214"/>
 David Christensn.
 </p>
-               <p>
-Idet man herfra i det hele kan tiltræde, hvad Sogneraadet i sin foranstaaende<lb/>
-Skrivelse har anført, vedlægges Genpart af Skrivelse herfra af 11. December 1909<lb/>
-til hvilken Skrivelse man i øvrigt skal tillade sig at henvise.<lb/>
-Lysgaard m. fl. Herreders Kontor i Kellerup cl. u. s.<lb/>
+               <p xml:id="d1e2217">
+Idet man herfra i det hele kan tiltræde, hvad Sogneraadet i sin foranstaaende<lb xml:id="d1e2219"/>
+Skrivelse har anført, vedlægges Genpart af Skrivelse herfra af 11. December 1909<lb xml:id="d1e2221"/>
+til hvilken Skrivelse man i øvrigt skal tillade sig at henvise.<lb xml:id="d1e2223"/>
+Lysgaard m. fl. Herreders Kontor i Kellerup cl. u. s.<lb xml:id="d1e2225"/>
 Bülow.
 </p>
-               <p>
-		Viborg Amtsraad kan ganske slutte sig<lb/>
-til, hvad der foran er udtalt af Hørup Sogneraad og Herredsfogeden i Lysgaard m. fl.<lb/>
-Herreder, og maa indtrængende anbefale, at der tages Hensyn til Sogneraadets<lb/>
+               <p xml:id="d1e2228">
+		Viborg Amtsraad kan ganske slutte sig<lb xml:id="d1e2230"/>
+til, hvad der foran er udtalt af Hørup Sogneraad og Herredsfogeden i Lysgaard m. fl.<lb xml:id="d1e2232"/>
+Herreder, og maa indtrængende anbefale, at der tages Hensyn til Sogneraadets<lb xml:id="d1e2234"/>
 Andragende.
 </p>
-               <p>
+               <p xml:id="d1e2237">
 Viborg Stiftamt, den 10. Marts 1916.
 </p>
-               <signatur>
+               <signatur xml:id="d1e2239">
 Howard Grøn.
 </signatur>
-               <pb xml:id="idr29_00014_rigsdagtid_b2_1915_16"
-                   facs="r29_00014_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <pb xml:id="idr29_00014_rigsdagtid_b2_1915_16" facs="r29_00014_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e2244" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bilag til Bet. o. Lovf. om etten Pleje m. m.</fw>
-               <fw type="head" place="top-right">2060</fw>
-               <p>
+               <fw xml:id="d1e2247" type="head" place="top-middle">Bilag til Bet. o. Lovf. om etten Pleje m. m.</fw>
+               <fw xml:id="d1e2250" type="head" place="top-right">2060</fw>
+               <p xml:id="d1e2253">
 Underbilag.
 </p>
-               <p>
+               <p xml:id="d1e2255">
 Lysgaard m, fl. Herreders Skrivelse af 11. December 1909 til Viborg Stiftamt.
 </p>
-               <p>
-Beboerne i Hids Herred har kun fra 2/3 til 21/3 Mil til Herredskontoret i Kellerup,<lb/>
-medens de, saafremt Omlægningen bragtes til Udførelse, vilde faa fra 1/8 til 22/3 Mil<lb/>
-til Retskontoret i Silkeborg, og hertil kan føjes, at langt den største Del af Krage-<lb/>
-lund Sogn, den største Sel af Serup Sogn, en meget stor Del af Lemming Sogn samt<lb/>
-Dele af Svostrup Sogn og Sinding Sogne ligger nærmere Kelleriip end Silkeborg.<lb/>
-Gennemgaaende kan det saaledes ikke siges, at der for Hids Herreds Beboere vilde<lb/>
-opnaas nogen Afstandsformindskelse af nogen som helst Betydning. Vejforholdene<lb/>
-for Hids Herred til Kellerup er overalt gode,		<lb/>
-Det kan vistnok siges, at der neppe indfinder sig 3 Personer daglig fra Hids Herred<lb/>
-i Ærinde til Herredskontoret eller Tingstedet. Men heraf, og naar erindres de gode<lb/>
-Vejforbindelser, Nutidens bekvemme Befordringsmidler og de i det hele korte Af-<lb/>
-stande, fremgaar, at hele Spørgsmalet er ganske uden praktisk Betydning for den en-<lb/>
-kelte Mand. Det er jo kun de færreste, som overhovedet nogen Sinde faar Ærinde<lb/>
+               <p xml:id="d1e2258">
+Beboerne i Hids Herred har kun fra 2/3 til 21/3 Mil til Herredskontoret i Kellerup,<lb xml:id="d1e2260"/>
+medens de, saafremt Omlægningen bragtes til Udførelse, vilde faa fra 1/8 til 22/3 Mil<lb xml:id="d1e2262"/>
+til Retskontoret i Silkeborg, og hertil kan føjes, at langt den største Del af Krage-<lb xml:id="d1e2264"/>
+lund Sogn, den største Sel af Serup Sogn, en meget stor Del af Lemming Sogn samt<lb xml:id="d1e2266"/>
+Dele af Svostrup Sogn og Sinding Sogne ligger nærmere Kelleriip end Silkeborg.<lb xml:id="d1e2268"/>
+Gennemgaaende kan det saaledes ikke siges, at der for Hids Herreds Beboere vilde<lb xml:id="d1e2271"/>
+opnaas nogen Afstandsformindskelse af nogen som helst Betydning. Vejforholdene<lb xml:id="d1e2273"/>
+for Hids Herred til Kellerup er overalt gode,		<lb xml:id="d1e2275"/>
+Det kan vistnok siges, at der neppe indfinder sig 3 Personer daglig fra Hids Herred<lb xml:id="d1e2277"/>
+i Ærinde til Herredskontoret eller Tingstedet. Men heraf, og naar erindres de gode<lb xml:id="d1e2279"/>
+Vejforbindelser, Nutidens bekvemme Befordringsmidler og de i det hele korte Af-<lb xml:id="d1e2281"/>
+stande, fremgaar, at hele Spørgsmalet er ganske uden praktisk Betydning for den en-<lb xml:id="d1e2284"/>
+kelte Mand. Det er jo kun de færreste, som overhovedet nogen Sinde faar Ærinde<lb xml:id="d1e2286"/>
 til Herredskontor eller Tingsted, og det er kun faa, som ofte faar saadant Ærinde.
 </p>
-               <p>
-At Kellerup. som Kortet viser, ligger ganske centralt i Jurisdiktionen med<lb/>
-fortrinlig Vejforbindelse til alle Sider, saaledes at der neppe findes nogen Jurisdiktion,<lb/>
-for hvis Beboere Herredskontor og Tingsted ligger saa bekvemt som i nærværende, er<lb/>
+               <p xml:id="d1e2289">
+At Kellerup. som Kortet viser, ligger ganske centralt i Jurisdiktionen med<lb xml:id="d1e2291"/>
+fortrinlig Vejforbindelse til alle Sider, saaledes at der neppe findes nogen Jurisdiktion,<lb xml:id="d1e2293"/>
+for hvis Beboere Herredskontor og Tingsted ligger saa bekvemt som i nærværende, er<lb xml:id="d1e2295"/>
 fremhævet i tidligere Erklæringer herfra.
 </p>
-               <p>
-Efter det anførte — — — — —		<lb/>
-ses der ikke at være Trang for eller at være rimelig Grund til Iværksættelse af nogen<lb/>
+               <p xml:id="d1e2298">
+Efter det anførte — — — — —		<lb xml:id="d1e2300"/>
+ses der ikke at være Trang for eller at være rimelig Grund til Iværksættelse af nogen<lb xml:id="d1e2302"/>
 som helst Jurisdiktionsomlæggelse, som derfor maa fraraades.
 </p>
-               <pb xml:id="idr29_00015_rigsdagtid_b2_1915_16"
-                   facs="r29_00015_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <pb xml:id="idr29_00015_rigsdagtid_b2_1915_16" facs="r29_00015_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e2307" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bilag til Bet o. Lovf. om etten Pleje m. m.</fw>
-               <fw type="head" place="top-right">2062</fw>
-            </div>
+               <fw xml:id="d1e2310" type="head" place="top-middle">Bilag til Bet o. Lovf. om etten Pleje m. m.</fw>
+               <fw xml:id="d1e2314" type="head" place="top-right">2062</fw>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
+         <div xml:id="d1e2319">
+            <head xml:id="d1e2321">
+6. 
+Hids Herred.
+</head>
+            
+               
+               <p xml:id="d1e2330">
 Til Landstingsudvalget for Retsreformen.
 </p>
-               <p>
-Underskrevne Sogneraad for Kommunerne i Hids Herred finder Anledning til<lb/>
-at meddele det ærede Udvalg, at de Ønsker, som næredes om Herredets Inddragelse<lb/>
-under Silkeborg Købstads Jurisdiktion, saavel da der i November 1909 blev indgivet<lb/>
-Andragende derom som ved senere Henvendelser til Regering og Rigsdag, sidst af<lb/>
-27. April 1914, fremdeles er til Stede, ligesom de Grunde for Inddragelsen, der tid-<lb/>
+               <p xml:id="d1e2332">
+Underskrevne Sogneraad for Kommunerne i Hids Herred finder Anledning til<lb xml:id="d1e2334"/>
+at meddele det ærede Udvalg, at de Ønsker, som næredes om Herredets Inddragelse<lb xml:id="d1e2336"/>
+under Silkeborg Købstads Jurisdiktion, saavel da der i November 1909 blev indgivet<lb xml:id="d1e2338"/>
+Andragende derom som ved senere Henvendelser til Regering og Rigsdag, sidst af<lb xml:id="d1e2340"/>
+27. April 1914, fremdeles er til Stede, ligesom de Grunde for Inddragelsen, der tid-<lb xml:id="d1e2342"/>
 ligere er blevet fremdraget til Støtte for Andragendet, fremdeles er gældende.
 </p>
-               <p>
-Man beder derfor det ærede Udvalg om ved Behandlingen af dette Juris-<lb/>
-diktionsspørgsmaal om muligt at lade Herredets Beboeres Tarv være det afgørende<lb/>
+               <p xml:id="d1e2345">
+Man beder derfor det ærede Udvalg om ved Behandlingen af dette Juris-<lb xml:id="d1e2347"/>
+diktionsspørgsmaal om muligt at lade Herredets Beboeres Tarv være det afgørende<lb xml:id="d1e2349"/>
 og tiltræde Lovforslagets Affattelse om Inddragelsen under Silkeborg.
 </p>
-               <p>
-For Gødvad-Balle Sogneraad den 11. Marts 1916.<lb/>
-P. S. V.<lb/>
-H. Skau,<lb/>
+               <p xml:id="d1e2352">
+For Gødvad-Balle Sogneraad den 11. Marts 1916.<lb xml:id="d1e2354"/>
+P. S. V.<lb xml:id="d1e2356"/>
+H. Skau,<lb xml:id="d1e2358"/>
 Formand.
 </p>
-               <p>
-Svastrup Sogneraad den 11. Marts 1916.<lb/>
-P. S. V.<lb/>
-S. D. Kristensen,<lb/>
+               <p xml:id="d1e2362">
+Svastrup Sogneraad den 11. Marts 1916.<lb xml:id="d1e2364"/>
+P. S. V.<lb xml:id="d1e2366"/>
+S. D. Kristensen,<lb xml:id="d1e2368"/>
 Formand.
 </p>
-               <p>
-For Serup Lemming Sogneraad den 11. Marts 1916.<lb/>
-P. S. V.<lb/>
-Niels Jensen,<lb/>
+               <p xml:id="d1e2371">
+For Serup Lemming Sogneraad den 11. Marts 1916.<lb xml:id="d1e2373"/>
+P. S. V.<lb xml:id="d1e2375"/>
+Niels Jensen,<lb xml:id="d1e2377"/>
 Formand.
 </p>
-               <p>
-For Sejling Sending Sogneraad den 11. Marts 1916.<lb/>
-P. S. V.<lb/>
-M. Mikkelsen,<lb/>
+               <p xml:id="d1e2380">
+For Sejling Sending Sogneraad den 11. Marts 1916.<lb xml:id="d1e2382"/>
+P. S. V.<lb xml:id="d1e2384"/>
+M. Mikkelsen,<lb xml:id="d1e2386"/>
 Formand.
 </p>
-               <p>
-Kan tiltrædes, dog med dette Forbehold, at den nordre Del af Kommunen,<lb/>
-Byerne Frederiksdal, Stenholt og Kristianshøj, ønsker at forblive ved Tingstedet i<lb/>
+               <p xml:id="d1e2389">
+Kan tiltrædes, dog med dette Forbehold, at den nordre Del af Kommunen,<lb xml:id="d1e2391"/>
+Byerne Frederiksdal, Stenholt og Kristianshøj, ønsker at forblive ved Tingstedet i<lb xml:id="d1e2393"/>
 Kellerup.
 </p>
-               <p>
-Kragelund Sogneraad den 12. Marts 1916.<lb/>
-P. S. V.<lb/>
-J. Jensen,<lb/>
+               <p xml:id="d1e2396">
+Kragelund Sogneraad den 12. Marts 1916.<lb xml:id="d1e2398"/>
+P. S. V.<lb xml:id="d1e2400"/>
+J. Jensen,<lb xml:id="d1e2402"/>
 Formand.
 </p>
-               <p>
+               <p xml:id="d1e2405">
 Ovenstaaende Andragende kan fuldt ud tiltrædes.
 </p>
-               <p>
-Engesvang Sogneraad den 12. Marts 1916.<lb/>
-P. S. V.<lb/>
+               <p xml:id="d1e2408">
+Engesvang Sogneraad den 12. Marts 1916.<lb xml:id="d1e2410"/>
+P. S. V.<lb xml:id="d1e2412"/>
 Niels P. Møller.
 </p>
-               <pb xml:id="idr29_00016_rigsdagtid_b2_1915_16"
-                   facs="r29_00016_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <pb xml:id="idr29_00016_rigsdagtid_b2_1915_16" facs="r29_00016_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e2417" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bilag til Bet. o. Lovf. om Retten Pleje m. m.</fw>
-               <fw type="head" place="top-right">2064</fw>
-               <p>
+               <fw xml:id="d1e2420" type="head" place="top-middle">Bilag til Bet. o. Lovf. om Retten Pleje m. m.</fw>
+               <fw xml:id="d1e2423" type="head" place="top-right">2064</fw>
+               <p xml:id="d1e2426">
 Ovenstaaende Andragende kan fuldt ud tiltrædes.
 </p>
-               <p>
-Funder Sogneraad den 12. Marts 1916.<lb/>
-P. S. V.<lb/>
-Mads Madsen.<lb/>
+               <p xml:id="d1e2429">
+Funder Sogneraad den 12. Marts 1916.<lb xml:id="d1e2431"/>
+P. S. V.<lb xml:id="d1e2433"/>
+Mads Madsen.<lb xml:id="d1e2435"/>
 Formand.
 </p>
-               <p>
-Silkeborg Byraad har vedtaget — ligesom hidtil — at tiltræde foranstaaende<lb/>
-Andragende om Hids Herreds Indlemmelse under Silkeborg Købstads Retskreds.<lb/>
+               <p xml:id="d1e2438">
+Silkeborg Byraad har vedtaget — ligesom hidtil — at tiltræde foranstaaende<lb xml:id="d1e2440"/>
+Andragende om Hids Herreds Indlemmelse under Silkeborg Købstads Retskreds.<lb xml:id="d1e2442"/>
 Silkeborg Byraad den 12. Marts 1916.
 </p>
-               <signatur>
-Paa Byraadets Tegne.<lb/>
-Hejde Jørgensen.<lb/>
+               <signatur xml:id="d1e2445">
+Paa Byraadets Tegne.<lb xml:id="d1e2447"/>
+Hejde Jørgensen.<lb xml:id="d1e2449"/>
 Formand.
 </signatur>
-            </div>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
-Andragendet har væsentlig samme Indhold som det i Landstingsudvalgets Be-<lb/>
-tænkning af 29. Maj 1914, Pag. 102 (Tillæg B. 1913—14, Sp. 2995) gengivne, hvortil<lb/>
-henvises. Til Slutningen er dog føjet:<lb/>
-„I hvert Tilfælde skal man foreslaa, at der for de nye Retskredse søges op-<lb/>
-rettet Bitingsteder i Odense By, saaledes at den Befolkning, der hidtil har søgt til<lb/>
-Odense i retslige Anliggender, ikke henvises til andre Byer, eller at i alt Fald den Del<lb/>
-af bemeldte Befolkning, som bor nærmere Odense end henholdsvis Bogense og Kerte-<lb/>
+         <div xml:id="d1e2454">
+            <head xml:id="d1e2456">
+7. 
+Odense.
+</head>
+            
+               
+               <p xml:id="d1e2465">
+Andragendet har væsentlig samme Indhold som det i Landstingsudvalgets Be-<lb xml:id="d1e2467"/>
+tænkning af 29. Maj 1914, Pag. 102 (Tillæg B. 1913—14, Sp. 2995) gengivne, hvortil<lb xml:id="d1e2469"/>
+henvises. Til Slutningen er dog føjet:<lb xml:id="d1e2471"/>
+„I hvert Tilfælde skal man foreslaa, at der for de nye Retskredse søges op-<lb xml:id="d1e2473"/>
+rettet Bitingsteder i Odense By, saaledes at den Befolkning, der hidtil har søgt til<lb xml:id="d1e2475"/>
+Odense i retslige Anliggender, ikke henvises til andre Byer, eller at i alt Fald den Del<lb xml:id="d1e2478"/>
+af bemeldte Befolkning, som bor nærmere Odense end henholdsvis Bogense og Kerte-<lb xml:id="d1e2480"/>
 minde, fremdeles kan bevare Tingsted i Odense." — —	—	
 </p>
-               <p>
-„For saa vidt de af Byraadet udtalte Ønsker ikke for Tiden skulde kunne<lb/>
-imødekommes, og for saa vidt yderligere Lovbestemmelser i denne Henseende til Sup-<lb/>
-plering eller Ændring af den eventuelle Retsplejelovs Bestemmelser ej heller skulde<lb/>
-være gennemførlige, vil man med Henhold til Bestemmelsen i Retsplejelovforslagets §<lb/>
-12, sidste Punktum, om, at Forandring i Underretskredsenes Omraade kan ske ved kon-<lb/>
-gelig Anordning, forbeholde sig senere at fremkomme med Forslag sigtende til, at de<lb/>
-i Odense Bys Omegn liggende og til Byens naturlige Opland hørende Landsogne hen-<lb/>
+               <p xml:id="d1e2483">
+„For saa vidt de af Byraadet udtalte Ønsker ikke for Tiden skulde kunne<lb xml:id="d1e2485"/>
+imødekommes, og for saa vidt yderligere Lovbestemmelser i denne Henseende til Sup-<lb xml:id="d1e2487"/>
+plering eller Ændring af den eventuelle Retsplejelovs Bestemmelser ej heller skulde<lb xml:id="d1e2489"/>
+være gennemførlige, vil man med Henhold til Bestemmelsen i Retsplejelovforslagets §<lb xml:id="d1e2491"/>
+12, sidste Punktum, om, at Forandring i Underretskredsenes Omraade kan ske ved kon-<lb xml:id="d1e2493"/>
+gelig Anordning, forbeholde sig senere at fremkomme med Forslag sigtende til, at de<lb xml:id="d1e2496"/>
+i Odense Bys Omegn liggende og til Byens naturlige Opland hørende Landsogne hen-<lb xml:id="d1e2498"/>
 lægges til Byens eller Odense Herreds Jurisdiktioner."
 </p>
-               <signatur>
-P. B. V.<lb/>
+               <signatur xml:id="d1e2501">
+P. B. V.<lb xml:id="d1e2503"/>
 Bloch.
 </signatur>
-               <pb xml:id="idr29_00017_rigsdagtid_b2_1915_16"
-                   facs="r29_00017_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <pb xml:id="idr29_00017_rigsdagtid_b2_1915_16" facs="r29_00017_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e2509" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Tillæg B. (130).	Ordentlig Samling 1915—16.</fw>
-               <fw type="head" place="top-right">2066</fw>
-               <topmidle>
+               <fw xml:id="d1e2512" type="head" place="top-middle">Tillæg B. (130).	Ordentlig Samling 1915—16.</fw>
+               <fw xml:id="d1e2515" type="head" place="top-right">2066</fw>
+               <topmidle xml:id="d1e2518">
 Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
 </topmidle>
-            </div>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
-Til Landstingets Udvalg angaaende Forslag til Lov om Rettens Pleje.<lb/>
-Efter at vi undertegnede paa Korsør Byraads Vegne havde fremsat Anmod-<lb/>
-ning om, at Udvalget vilde gøre sit til, at Korsør kan blive Hovedtingsted i den nye<lb/>
-Retskreds, bestaaende af Korsør Købstad og Landjurisdiktion, Skelskør Købstad med<lb/>
-Vester Flakkebjerg Herred og Holsteinborg Birk, i hvilken Henseende vi tillod os at<lb/>
+         <div xml:id="d1e2522">
+            <head xml:id="d1e2524">
+8. 
+Korsør, Skelskør.
+</head>
+            
+               
+               <p xml:id="d1e2533">
+Til Landstingets Udvalg angaaende Forslag til Lov om Rettens Pleje.<lb xml:id="d1e2535"/>
+Efter at vi undertegnede paa Korsør Byraads Vegne havde fremsat Anmod-<lb xml:id="d1e2537"/>
+ning om, at Udvalget vilde gøre sit til, at Korsør kan blive Hovedtingsted i den nye<lb xml:id="d1e2539"/>
+Retskreds, bestaaende af Korsør Købstad og Landjurisdiktion, Skelskør Købstad med<lb xml:id="d1e2541"/>
+Vester Flakkebjerg Herred og Holsteinborg Birk, i hvilken Henseende vi tillod os at<lb xml:id="d1e2543"/>
 pege paa,
 </p>
-               <p>
-at nuværende Korsør Jurisdiktion efter Folketællingen 1911 har ca. 12,000<lb/>
-Indbyggere — Korsør Købstad alene ca. 8,100 —, medens Skelskør By og Vester<lb/>
-Flakkebjerg Herred kun har ca. 9,100 Indbyggere — Skelskør Købstad alene kun ca.<lb/>
-2,600 — og Holsteinborg Birk kun 6,600. saa at Korsør er langt den største Køb-<lb/>
+               <p xml:id="d1e2546">
+at nuværende Korsør Jurisdiktion efter Folketællingen 1911 har ca. 12,000<lb xml:id="d1e2548"/>
+Indbyggere — Korsør Købstad alene ca. 8,100 —, medens Skelskør By og Vester<lb xml:id="d1e2550"/>
+Flakkebjerg Herred kun har ca. 9,100 Indbyggere — Skelskør Købstad alene kun ca.<lb xml:id="d1e2552"/>
+2,600 — og Holsteinborg Birk kun 6,600. saa at Korsør er langt den største Køb-<lb xml:id="d1e2554"/>
 stad, og Korsør Jurisdiktion betydeligt større end hver af de to andre Jurisdiktioner,
 </p>
-               <p>
-at Vej- og Jernbaneforbindelser til Skelskør er vanskelige, medens Korsør<lb/>
+               <p xml:id="d1e2557">
+at Vej- og Jernbaneforbindelser til Skelskør er vanskelige, medens Korsør<lb xml:id="d1e2559"/>
 ligger paa Hovedruten,
 </p>
-               <p>
-at de judicielle Forretningers Antal og Betydning er langt større i Korsør<lb/>
-Jurisdiktion end i nogen af de andre Jurisdiktioner, saa at det endog er sandsynligt,<lb/>
-at Statskassen vil kunne spare Penge ved at lægge Hovedtingstedet dèr, hvor Forret-<lb/>
+               <p xml:id="d1e2562">
+at de judicielle Forretningers Antal og Betydning er langt større i Korsør<lb xml:id="d1e2564"/>
+Jurisdiktion end i nogen af de andre Jurisdiktioner, saa at det endog er sandsynligt,<lb xml:id="d1e2566"/>
+at Statskassen vil kunne spare Penge ved at lægge Hovedtingstedet dèr, hvor Forret-<lb xml:id="d1e2568"/>
 ningerne er flest, og navnlig
 </p>
-               <p>
-at den store og dybe Havn ved Korsør bevirker, at der i Korsør er en Række<lb/>
-Søretssager — Udmeldelser og Søforklaringer —, hvis hurtige Afgørelse er af overordentlig<lb/>
-stor Betydning for Handel og Omsætning ogsaa i Riget udenfor Korsør,<lb/>
-har Byraadet fra Borgmesteren i Skelskør modtaget den vedlagte Henvendelse til Re-<lb/>
-gering og Rigsdag af 21. April 1914, hvis Eksistens Korsør Byraad ikke tidligere har<lb/>
-kendt, Byraadet vilde nemlig i saa Fald have sluttet sig til Henvendelsen, og til<lb/>
+               <p xml:id="d1e2572">
+at den store og dybe Havn ved Korsør bevirker, at der i Korsør er en Række<lb xml:id="d1e2574"/>
+Søretssager — Udmeldelser og Søforklaringer —, hvis hurtige Afgørelse er af overordentlig<lb xml:id="d1e2576"/>
+stor Betydning for Handel og Omsætning ogsaa i Riget udenfor Korsør,<lb xml:id="d1e2578"/>
+har Byraadet fra Borgmesteren i Skelskør modtaget den vedlagte Henvendelse til Re-<lb xml:id="d1e2580"/>
+gering og Rigsdag af 21. April 1914, hvis Eksistens Korsør Byraad ikke tidligere har<lb xml:id="d1e2582"/>
+kendt, Byraadet vilde nemlig i saa Fald have sluttet sig til Henvendelsen, og til<lb xml:id="d1e2585"/>
 denne skal Byraadet nu tillade sig at føje følgende:
 </p>
-               <p>
-Under de sidste to Behandlinger af Lovforslaget vedrørende Rettens Pleje er<lb/>
-Dommerkredsenes Antal foreslaaet forøget fra 82 til 99, og det er tilstræbt, at Køb-<lb/>
-stæderne kan bevares som Hovedtingsteder, saa at, som Forslaget nu foreligger, saa-<lb/>
-vidt Byraadet ved, kun følgende Byer ikke vil faa noget Hovedtingsted, nemlig Frede-<lb/>
-riksværk, Rødby, Nysted, Hasle, Svaneke, Skagen og — Korsør. Og vi tillader os<lb/>
-dog at formene, at Korsør baade paa Grund af sin Størrelse og paa Grund af sin<lb/>
-Havn og den derved bevirkede store Trafik ikke bør stilles i Klasse med de nævnte<lb/>
-Smaabyer.<lb/>
-Endvidere tillader vi os at gøre opmærksom paa, at der af de foreslaaede<lb/>
-Retskredse kun vil være 2, der bestaar af 2 Købstad- og 1 Landjurisdiktion, nemlig<lb/>
-Frederikshavns Retskreds, bestaaende af Frederikshavn, Skagen og Læsø, og Skelskør<lb/>
-Retskreds med Korsør og Holsteinborg Birk, og at de samme Grunde, som har ført<lb/>
-til andetsteds kun at slaa een Købstadjurisdiktion sammen med Landjurisdiktion,<lb/>
-ogsaa gælder for Korsør—Skelskør Retskreds, ligesom de Grunde, der taler for at<lb/>
-lægge Hovedtingstedet i Frederikshavn, ogsaa taler for at lægge Hovedtingstedet i<lb/>
+               <p xml:id="d1e2588">
+Under de sidste to Behandlinger af Lovforslaget vedrørende Rettens Pleje er<lb xml:id="d1e2590"/>
+Dommerkredsenes Antal foreslaaet forøget fra 82 til 99, og det er tilstræbt, at Køb-<lb xml:id="d1e2592"/>
+stæderne kan bevares som Hovedtingsteder, saa at, som Forslaget nu foreligger, saa-<lb xml:id="d1e2594"/>
+vidt Byraadet ved, kun følgende Byer ikke vil faa noget Hovedtingsted, nemlig Frede-<lb xml:id="d1e2596"/>
+riksværk, Rødby, Nysted, Hasle, Svaneke, Skagen og — Korsør. Og vi tillader os<lb xml:id="d1e2598"/>
+dog at formene, at Korsør baade paa Grund af sin Størrelse og paa Grund af sin<lb xml:id="d1e2601"/>
+Havn og den derved bevirkede store Trafik ikke bør stilles i Klasse med de nævnte<lb xml:id="d1e2603"/>
+Smaabyer.<lb xml:id="d1e2605"/>
+Endvidere tillader vi os at gøre opmærksom paa, at der af de foreslaaede<lb xml:id="d1e2607"/>
+Retskredse kun vil være 2, der bestaar af 2 Købstad- og 1 Landjurisdiktion, nemlig<lb xml:id="d1e2609"/>
+Frederikshavns Retskreds, bestaaende af Frederikshavn, Skagen og Læsø, og Skelskør<lb xml:id="d1e2611"/>
+Retskreds med Korsør og Holsteinborg Birk, og at de samme Grunde, som har ført<lb xml:id="d1e2614"/>
+til andetsteds kun at slaa een Købstadjurisdiktion sammen med Landjurisdiktion,<lb xml:id="d1e2616"/>
+ogsaa gælder for Korsør—Skelskør Retskreds, ligesom de Grunde, der taler for at<lb xml:id="d1e2618"/>
+lægge Hovedtingstedet i Frederikshavn, ogsaa taler for at lægge Hovedtingstedet i<lb xml:id="d1e2620"/>
 Korsør, hvis den foreslaaede Retskreds skal forblive uforandret.
 </p>
-               <p>
+               <p xml:id="d1e2623">
 Udvalgenes Betænkninger m. m.  130
 </p>
-               <pb xml:id="idr29_00018_rigsdagtid_b2_1915_16"
-                   facs="r29_00018_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <pb xml:id="idr29_00018_rigsdagtid_b2_1915_16" facs="r29_00018_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e2627" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bilag til Bet. o. Lovf. om etten Pleje m. m.</fw>
-               <fw type="head" place="top-right">2068</fw>
-               <p>
-Endelig tillader Byraadet sig at gøre opmærksom paa, at Korsør Jurisdiktion<lb/>
-hvis den bliver en selvstændig Retskreds, dog vil faa over 12,000 Indbyggere og blive<lb/>
-større end f. Eks. Hørsholm Birk, der kun har 10,932.<lb/>
-Byraadet tillader sig derfor i al Ærbødighed at anmode om, at Udvalget vilde<lb/>
-virke hen til, at Korsør Købstad med tilhørende Landjurisdiktion maa blive en særlig<lb/>
+               <fw xml:id="d1e2630" type="head" place="top-middle">Bilag til Bet. o. Lovf. om etten Pleje m. m.</fw>
+               <fw xml:id="d1e2634" type="head" place="top-right">2068</fw>
+               <p xml:id="d1e2637">
+Endelig tillader Byraadet sig at gøre opmærksom paa, at Korsør Jurisdiktion<lb xml:id="d1e2639"/>
+hvis den bliver en selvstændig Retskreds, dog vil faa over 12,000 Indbyggere og blive<lb xml:id="d1e2641"/>
+større end f. Eks. Hørsholm Birk, der kun har 10,932.<lb xml:id="d1e2643"/>
+Byraadet tillader sig derfor i al Ærbødighed at anmode om, at Udvalget vilde<lb xml:id="d1e2645"/>
+virke hen til, at Korsør Købstad med tilhørende Landjurisdiktion maa blive en særlig<lb xml:id="d1e2647"/>
 Retskreds, hvis Hovedtingstedet i den nu foreslaaede Kreds ikke lægges i Korsør.
 </p>
-               <signatur>
-P. B. V.<lb/>
+               <signatur xml:id="d1e2650">
+P. B. V.<lb xml:id="d1e2652"/>
 Nanke.	Kjærgaard.	Adam Jensen.
 </signatur>
-               <p>
+               <p xml:id="d1e2655">
 Underbilag.
 </p>
-               <p>
-Andragende fra Skelskør Byraad og Sogneraadene i Vester Flakkebjerg Herred<lb/>
-om, at Skelskør Købstad med Vester Flakkebjerg Herred og Holsteinborg Birk —<lb/>
-under Forudsætning af, at Hovedtingstedet og Dommerens Hovedkontor i den fore-<lb/>
-slaaede nye Retskreds skal være i Korsør — maa komme til at udgøre en selvstændig<lb/>
-Retskreds (se Landstingsudvalgets Betænkning af 29. Maj 1914 pag. 99 [Tillæg B.<lb/>
+               <p xml:id="d1e2657">
+Andragende fra Skelskør Byraad og Sogneraadene i Vester Flakkebjerg Herred<lb xml:id="d1e2659"/>
+om, at Skelskør Købstad med Vester Flakkebjerg Herred og Holsteinborg Birk —<lb xml:id="d1e2661"/>
+under Forudsætning af, at Hovedtingstedet og Dommerens Hovedkontor i den fore-<lb xml:id="d1e2663"/>
+slaaede nye Retskreds skal være i Korsør — maa komme til at udgøre en selvstændig<lb xml:id="d1e2665"/>
+Retskreds (se Landstingsudvalgets Betænkning af 29. Maj 1914 pag. 99 [Tillæg B.<lb xml:id="d1e2667"/>
 1913—14 Sp. 2889]).
 </p>
-            </div>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
-Blandt de nye Retskredse, som agtes oprettede, er utvivlsomt den, der vil<lb/>
-komme til at omfatte det egentlige Sydvestsjælland med Købstæderne Korsør og<lb/>
-Skelskør og med en Kyststrækning lige fra førstnævnte By til Karrebæk Sogn, en af<lb/>
+         <div xml:id="d1e2672">
+            <head xml:id="d1e2674">
+9, 
+Holsteinborg Birk.
+</head>
+            
+               
+               <p xml:id="d1e2683">
+Blandt de nye Retskredse, som agtes oprettede, er utvivlsomt den, der vil<lb xml:id="d1e2685"/>
+komme til at omfatte det egentlige Sydvestsjælland med Købstæderne Korsør og<lb xml:id="d1e2687"/>
+Skelskør og med en Kyststrækning lige fra førstnævnte By til Karrebæk Sogn, en af<lb xml:id="d1e2689"/>
 de uheldigste baade med Hensyn til Form og Jernbaneforbindelse.
 </p>
-               <p>
-Men særlig vil den sydøstlige Del af Retskredsen, nemlig det nuværende Hol-<lb/>
-steinborg Birk, komme til at lide under disse Forhold, idet Befolkningen i de paagæl-<lb/>
-dende Sogne, søm er vant til at have baade Rets- og Politikontoret i sin Midte, for<lb/>
-Fremtiden vil blive henvist henholdsvis til det fraliggende Skelskør og det dobbelt<lb/>
+               <p xml:id="d1e2692">
+Men særlig vil den sydøstlige Del af Retskredsen, nemlig det nuværende Hol-<lb xml:id="d1e2694"/>
+steinborg Birk, komme til at lide under disse Forhold, idet Befolkningen i de paagæl-<lb xml:id="d1e2696"/>
+dende Sogne, søm er vant til at have baade Rets- og Politikontoret i sin Midte, for<lb xml:id="d1e2698"/>
+Fremtiden vil blive henvist henholdsvis til det fraliggende Skelskør og det dobbelt<lb xml:id="d1e2700"/>
 saa fjernt liggende Korsør.
 </p>
-               <p>
-Undertegnede Sogneraadsformand for Ørslev-Bjerge, Høve, Hyllested, Horslev-<lb/>
-Tingjellinge, Kvislemark-Fuirendal, Holsteinborg-Venslev og Marvede Kommuner til-<lb/>
-lader sig derfor som Repræsentanter for den paagældende Befolknings Ønsker at hen-<lb/>
-stille til den høje Regering og Rigsdag at overveje endnu en Gang, om det ikke vilde<lb/>
-være muligt og fuldt ud forsvarligt at opretholde Helsteinborg Birk som en lille selv-<lb/>
+               <p xml:id="d1e2703">
+Undertegnede Sogneraadsformand for Ørslev-Bjerge, Høve, Hyllested, Horslev-<lb xml:id="d1e2705"/>
+Tingjellinge, Kvislemark-Fuirendal, Holsteinborg-Venslev og Marvede Kommuner til-<lb xml:id="d1e2707"/>
+lader sig derfor som Repræsentanter for den paagældende Befolknings Ønsker at hen-<lb xml:id="d1e2709"/>
+stille til den høje Regering og Rigsdag at overveje endnu en Gang, om det ikke vilde<lb xml:id="d1e2711"/>
+være muligt og fuldt ud forsvarligt at opretholde Helsteinborg Birk som en lille selv-<lb xml:id="d1e2713"/>
 stændig Retskreds —						
 </p>
-               <p>
-Imødekommes dette Ønske ikke, maa vi gaa ud fra, at der paa anden Maade<lb/>
-vil blive taget Hensyn til Befolkningens Tarv		—		— —<lb/>
-Ligesom det jo sikkert vil vise sig nødvendigt at ansætte en Politiassistent eller anden<lb/>
+               <p xml:id="d1e2716">
+Imødekommes dette Ønske ikke, maa vi gaa ud fra, at der paa anden Maade<lb xml:id="d1e2718"/>
+vil blive taget Hensyn til Befolkningens Tarv		—		— —<lb xml:id="d1e2720"/>
+Ligesom det jo sikkert vil vise sig nødvendigt at ansætte en Politiassistent eller anden<lb xml:id="d1e2722"/>
 Politimyndighed i Nærheden af Rude Ting og Arresthus, saaledes maa vi ogsaa ansøge
 </p>
-               <pb xml:id="idr29_00019_rigsdagtid_b2_1915_16"
-                   facs="r29_00019_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <pb xml:id="idr29_00019_rigsdagtid_b2_1915_16" facs="r29_00019_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e2728" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bilag til Bet. o. Lovf. om etten Pleje m. m.</fw>
-               <fw type="head" place="top-right">2070</fw>
-               <p>
-om, at der, dersom Holsteinborg Birk ophæves, i Stedet herfor maa blive oprettet et<lb/>
-Bitingsted i Sterrede, ligesom vi ogsaa indtrængende maa anmode om, at Panteregi-<lb/>
-strene eller i alt Fald en Afskrift af disse maa forblive ved Bitingstedet, samt at der<lb/>
-ansættes en Fuldmægtig ved dette med fast Bopæl i Sterrede for at varetage Birke-<lb/>
-dommerens hidtidige Virksomhed som Retsskriver, Skifteforvalter, Stempelpapirfor-<lb/>
-handler m. m., for at Befolkningen ikke med Hensyn til her henhørende Anliggender,<lb/>
-saasom Indlevering af Tinglæsningsdokumenter, Stempling af Dokumenter, Anmeldelse<lb/>
-af Dødsfald, Udfærdigelse af Næringsbeviser, Ind- og Udbetaling af Alimentations-<lb/>
-bidrag og Renter og Kapitaler af umyndiges og under Værgemaal værende Midler<lb/>
-samt lignende, skal være nødsaget til at tilbagelægge den lange Vej til Skelskør, til<lb/>
+               <fw xml:id="d1e2731" type="head" place="top-middle">Bilag til Bet. o. Lovf. om etten Pleje m. m.</fw>
+               <fw xml:id="d1e2734" type="head" place="top-right">2070</fw>
+               <p xml:id="d1e2737">
+om, at der, dersom Holsteinborg Birk ophæves, i Stedet herfor maa blive oprettet et<lb xml:id="d1e2739"/>
+Bitingsted i Sterrede, ligesom vi ogsaa indtrængende maa anmode om, at Panteregi-<lb xml:id="d1e2741"/>
+strene eller i alt Fald en Afskrift af disse maa forblive ved Bitingstedet, samt at der<lb xml:id="d1e2743"/>
+ansættes en Fuldmægtig ved dette med fast Bopæl i Sterrede for at varetage Birke-<lb xml:id="d1e2745"/>
+dommerens hidtidige Virksomhed som Retsskriver, Skifteforvalter, Stempelpapirfor-<lb xml:id="d1e2747"/>
+handler m. m., for at Befolkningen ikke med Hensyn til her henhørende Anliggender,<lb xml:id="d1e2750"/>
+saasom Indlevering af Tinglæsningsdokumenter, Stempling af Dokumenter, Anmeldelse<lb xml:id="d1e2752"/>
+af Dødsfald, Udfærdigelse af Næringsbeviser, Ind- og Udbetaling af Alimentations-<lb xml:id="d1e2754"/>
+bidrag og Renter og Kapitaler af umyndiges og under Værgemaal værende Midler<lb xml:id="d1e2756"/>
+samt lignende, skal være nødsaget til at tilbagelægge den lange Vej til Skelskør, til<lb xml:id="d1e2758"/>
 Fods, til Vogns eller pr. Cykle		—		
 </p>
-               <p>
-Hensynet til de her nævnte Forhold vil ikke kunne fyldestgøres i Forbindelse<lb/>
+               <p xml:id="d1e2761">
+Hensynet til de her nævnte Forhold vil ikke kunne fyldestgøres i Forbindelse<lb xml:id="d1e2763"/>
 med ugentlige Retsdage, men kun ved fast Ansættelse af en Retsbetjent,
 </p>
-               <signaturdato>
+               <signaturdato xml:id="d1e2767">
 I Februar 1916.
 </signaturdato>
-               <signatur>
+               <signatur xml:id="d1e2769">
 Underskrifter.
 </signatur>
-            </div>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
+         <div xml:id="d1e2773">
+            <head xml:id="d1e2775">
+10. 
+Herredskontor i Vejen.
+</head>
+            
+               
+               <p xml:id="d1e2784">
 Til Landstingets Udvalg angaaende Retsreformen.
 </p>
-               <p>
-Folketingets Vedtagelse med Hensyn til Inddelingen af Retskredsene i Ribe<lb/>
-Amt gaar ud paa at opretholde de bestaaende Retssteder, saaledes at der vedbliver<lb/>
+               <p xml:id="d1e2786">
+Folketingets Vedtagelse med Hensyn til Inddelingen af Retskredsene i Ribe<lb xml:id="d1e2788"/>
+Amt gaar ud paa at opretholde de bestaaende Retssteder, saaledes at der vedbliver<lb xml:id="d1e2790"/>
 at være Retssteder i Ribe, Esbjerg, Varde og Kolding samt Holsted.
 </p>
-               <p>
-Imidlertid formener vi, at for den østligste Del af Ribe Amt, nemlig Malt Her-<lb/>
-red og en stor Del af Andst og Slaugs Herred, vil Vejen være meget mere centralt<lb/>
-beliggende, særlig nu, naar Privatbanen fra Vejen mod Nord over Grindsted bliver<lb/>
+               <p xml:id="d1e2793">
+Imidlertid formener vi, at for den østligste Del af Ribe Amt, nemlig Malt Her-<lb xml:id="d1e2795"/>
+red og en stor Del af Andst og Slaugs Herred, vil Vejen være meget mere centralt<lb xml:id="d1e2797"/>
+beliggende, særlig nu, naar Privatbanen fra Vejen mod Nord over Grindsted bliver<lb xml:id="d1e2799"/>
 aabnet for Driften, medens derimod Holsted ligger for vestlig i Retskredsen.
 </p>
-               <p>
-Den Tanke, at forlægge Retsstedet for den østligste Del af Amtet til Vejen,<lb/>
-har ogsaa tidligere været fremsat af Hr. Kammerherre, Stiftamtmand Stemann i<lb/>
+               <p xml:id="d1e2802">
+Den Tanke, at forlægge Retsstedet for den østligste Del af Amtet til Vejen,<lb xml:id="d1e2804"/>
+har ogsaa tidligere været fremsat af Hr. Kammerherre, Stiftamtmand Stemann i<lb xml:id="d1e2806"/>
 Ribe	— —			 		
 </p>
-               <p>
+               <p xml:id="d1e2810">
 Vejen Sognerasd, den 14. Marts 1916.
 </p>
-               <signatur>
-L. D. Pedersen,<lb/>
+               <signatur xml:id="d1e2812">
+L. D. Pedersen,<lb xml:id="d1e2814"/>
 Formand.
 </signatur>
-               <pb xml:id="idr29_00020_rigsdagtid_b2_1915_16"
-                   facs="r29_00020_rigsdagtid_b2_1915_16 "
-                   n=""/>
-               <fw type="head" place="top-left">
+               <pb xml:id="idr29_00020_rigsdagtid_b2_1915_16" facs="r29_00020_rigsdagtid_b2_1915_16" n=""/>
+               <fw xml:id="d1e2819" type="head" place="top-left">
 </fw>
-               <fw type="head" place="top-middle">Bilag til Bet. o. Lovf. om etten Pleje m. m.</fw>
-               <fw type="head" place="top-right">2072</fw>
-               <p>
-Henvendelse fra Aarhus Amtsraad, Hads Herreds Landboforening, Odder Sogneraad<lb/>
+               <fw xml:id="d1e2822" type="head" place="top-middle">Bilag til Bet. o. Lovf. om etten Pleje m. m.</fw>
+               <fw xml:id="d1e2825" type="head" place="top-right">2072</fw>
+               <p xml:id="d1e2829">
+Henvendelse fra Aarhus Amtsraad, Hads Herreds Landboforening, Odder Sogneraad<lb xml:id="d1e2831"/>
 og Astrup-Tulstrup-Hvilsted Sogneraad.
 </p>
-            </div>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
+         <div xml:id="d1e2837">
+            <head xml:id="d1e2839">
+11.
+</head>
+            
+               
+               <p xml:id="d1e2845">
 Til Landstingets Udvalg for Retsreformen.
 </p>
-               <p>
-I April Maaned 1914 vedtog Aarhus Amtsraad enstemmigt i Anledning af en<lb/>
-Forespørgsel fra Justitsministeriet at udtale Ønsket om, at de 2 sydligste Kommuner<lb/>
-i Ning Herred: Astrap-Tulstrup-Hvilsted og Beder-Malling Sogne, henlagdes under Rets-<lb/>
-kredsen i Odder. I den derpaa følgende Maj Maaned henvendte Odder Sogneraad sig<lb/>
-ved et Udvalg i Justitsministeriet for at give dette Ønske sin Tilslutning og motiverede<lb/>
-bl. a. denne ved, at det vilde være en Lettelse for Befolkningen derved at faa den<lb/>
-korteste Afstand til Retskredsens Sæde, idet der er meget længere til Aarhus end til<lb/>
-Odder, og en stor Bekvemmelighed at kunne ordne sine jurisdiktionelle Sager der, hvor<lb/>
+               <p xml:id="d1e2847">
+I April Maaned 1914 vedtog Aarhus Amtsraad enstemmigt i Anledning af en<lb xml:id="d1e2849"/>
+Forespørgsel fra Justitsministeriet at udtale Ønsket om, at de 2 sydligste Kommuner<lb xml:id="d1e2851"/>
+i Ning Herred: Astrap-Tulstrup-Hvilsted og Beder-Malling Sogne, henlagdes under Rets-<lb xml:id="d1e2853"/>
+kredsen i Odder. I den derpaa følgende Maj Maaned henvendte Odder Sogneraad sig<lb xml:id="d1e2855"/>
+ved et Udvalg i Justitsministeriet for at give dette Ønske sin Tilslutning og motiverede<lb xml:id="d1e2857"/>
+bl. a. denne ved, at det vilde være en Lettelse for Befolkningen derved at faa den<lb xml:id="d1e2860"/>
+korteste Afstand til Retskredsens Sæde, idet der er meget længere til Aarhus end til<lb xml:id="d1e2862"/>
+Odder, og en stor Bekvemmelighed at kunne ordne sine jurisdiktionelle Sager der, hvor<lb xml:id="d1e2864"/>
 man har sin Omsætning.
 </p>
-               <p>
-Af Beliggenheden følger, at den paagældende Befolkning har saa at sige dagligt<lb/>
+               <p xml:id="d1e2867">
+Af Beliggenheden følger, at den paagældende Befolkning har saa at sige dagligt<lb xml:id="d1e2869"/>
 Ærinde i Odder; her findes:
 </p>
-               <p>
-deres Andelssvineslagteri —	—,<lb/>
-dens Andels-Korn- og Foderstofforretning,<lb/>
-Hads Herreds Landboforening med —	,<lb/>
-Underafdelinger for Hesteavl-, Kontrol-, Planteavls- og Regnskabsforeninger,<lb/>
-en Sparekasse	— og<lb/>
-to Banker	,<lb/>
-Realskole	og<lb/>
-Postkontor	samt<lb/>
+               <p xml:id="d1e2872">
+deres Andelssvineslagteri —	—,<lb xml:id="d1e2874"/>
+dens Andels-Korn- og Foderstofforretning,<lb xml:id="d1e2876"/>
+Hads Herreds Landboforening med —	,<lb xml:id="d1e2878"/>
+Underafdelinger for Hesteavl-, Kontrol-, Planteavls- og Regnskabsforeninger,<lb xml:id="d1e2880"/>
+en Sparekasse	— og<lb xml:id="d1e2882"/>
+to Banker	,<lb xml:id="d1e2885"/>
+Realskole	og<lb xml:id="d1e2887"/>
+Postkontor	samt<lb xml:id="d1e2889"/>
 Elektrisk Fælles-Kraftstation	— —.
 </p>
-               <p>
-Alt dette, saavel som at Aarhus Amts 1ste Valgkreds, der hidtil har haft<lb/>
-Valgsted i Odder, omfatter 2 Sogne, der ligger endnu nordligere end foran omhandlede<lb/>
-5 Sogne, beviser, at Odder By i det hele har saa central en Beliggende, som i ansøgte<lb/>
+               <p xml:id="d1e2893">
+Alt dette, saavel som at Aarhus Amts 1ste Valgkreds, der hidtil har haft<lb xml:id="d1e2895"/>
+Valgsted i Odder, omfatter 2 Sogne, der ligger endnu nordligere end foran omhandlede<lb xml:id="d1e2897"/>
+5 Sogne, beviser, at Odder By i det hele har saa central en Beliggende, som i ansøgte<lb xml:id="d1e2899"/>
 Øjemed kan ønskes.
 </p>
-               <p>
-At Hads Herreds Retskreds i dens nu foreslaaede Omfang kun har 14,000 Ind-<lb/>
-vaanere, medens den ansøgte Udvidelse forøger dette Tal med 4,000, hvorved Hasle m. fl-<lb/>
-og Ning Herreds Retskreds formindskes tilsvarende fra 32,000 til 28,000 Indvaanere,<lb/>
+               <p xml:id="d1e2902">
+At Hads Herreds Retskreds i dens nu foreslaaede Omfang kun har 14,000 Ind-<lb xml:id="d1e2904"/>
+vaanere, medens den ansøgte Udvidelse forøger dette Tal med 4,000, hvorved Hasle m. fl-<lb xml:id="d1e2906"/>
+og Ning Herreds Retskreds formindskes tilsvarende fra 32,000 til 28,000 Indvaanere,<lb xml:id="d1e2908"/>
 er man ligeledes saa fri at paaberaabe sig til Støtte for Sagen.
 </p>
-            </div>
+            
          </div>
       </body>
    </text>

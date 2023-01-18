@@ -1,48 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:t="http://www.tei-c.org/ns/1.0"
-     xml:id="root">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>1908-09: Erklæring (Folketinget)</title>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
+   <teiHeader xml:id="d1e3">
+      <fileDesc xml:id="d1e5">
+         <titleStmt xml:id="d1e7">
+            <title xml:id="d1e9">1908-09: Erklæring (Folketinget)</title>
          </titleStmt>
-         <publicationStmt>
-            <p/>
+         <publicationStmt xml:id="d1e12">
+            <p xml:id="d1e14"/>
          </publicationStmt>
-         <sourceDesc>
-            <bibl>
-               <title>1908-09: Erklæring (Folketinget)</title>
-               <date/>
+         <sourceDesc xml:id="d1e17">
+            <bibl xml:id="d1e19">
+               <title xml:id="d1e21">1908-09: Erklæring (Folketinget)</title>
+               <date xml:id="d1e23"/>
             </bibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <text>
-      <body>
-         <div>
-            <div>
-               <head/>
-               <pb xml:id="idr21_00001_rigsdagtid_b2_1908_09"
-                   facs="r21_00001_rigsdagtid_b2_1908_09 "
-                   n=""/>
-               <fw type="head" place="top-left">1833</fw>
-               <fw type="head" place="top-middle"/>
-               <fw type="head" place="top-right">1834</fw>
-            </div>
+   <text xml:id="d1e29">
+      <body xml:id="d1e31">
+         <div xml:id="d1e33">
+            <head xml:id="d1e35">1908-09: Erklæring (Folketinget)</head>
+            
+               
+               <pb xml:id="idr21_00001_rigsdagtid_b2_1908_09" facs="r21_00001_rigsdagtid_b2_1908_09" n=""/>
+               <fw xml:id="d1e43" type="head" place="top-left">1833</fw>
+               <fw xml:id="d1e46" type="head" place="top-middle"/>
+               <fw xml:id="d1e48" type="head" place="top-right">1834</fw>
+            
          </div>
-         <div>
-            <div>
-               <head/>
-               <p>
+         <div xml:id="d1e53">
+            <head xml:id="d1e55">
+XXXVIII.
+Erklæring
+over
+det fra Landstinget tilbagesendte
+Forslag til Lov om Rettens Pleje.
+(Afgiven af Folketingets Udvalg den 23. Marts 1909.)
+</head>
+            
+               
+               <p xml:id="d1e61">
 Udvalget undtagen Borgbjerg, Alfred Christensen. N. C. Christensen, P. Knud-
 sen og Krabbe indstiller Lovforslaget til uforandret Vedtagelse,
 </p>
-               <p>
+               <p xml:id="d1e63">
 Et Mindretal (Borgbjerg, Alfred Christensen. N. C. Christensen, P. Knudsen
 og Krabbe) indstiller Lovforslaget til Forkastelse.
 </p>
-               <p>
+               <p xml:id="d1e65">
 Borgbjerg.	Alfred Christensen.	N. C. Christensen.	Effersøe,
 Sekretær.
 Ellinger.  Ingvard Jensen.	Lars Jensen.	Laust Jensen.
@@ -50,7 +54,7 @@ P. Knudsen.	Krabbe.	H. Madsen.	J. Nielsen.
 L. Rasmussen (Ribe A. 4. V.),	Emil Petersen.	Sveistrup,
 Formand.	Ordfører.
 </p>
-            </div>
+            
          </div>
       </body>
    </text>
