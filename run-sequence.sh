@@ -14,4 +14,6 @@ for filename in ./volumes/[gr]*.xml; do
     $SAXON  "volumes/step2-$result.xml" \
 	    chapters-into-sections.xsl "volume_number=$result" > "$filename"
 
+    rm "volumes/step1-$result.xml" "volumes/step2-$result.xml"
+    
 done
