@@ -10,25 +10,40 @@
          <sourceDesc xml:id="d1e17">
             <bibl xml:id="d1e19">
                <title xml:id="d1e21">1908-09: Erklæring (Folketinget)</title>
-               <date xml:id="d1e23"/>
+               <date xml:id="d1e23">1908</date>
             </bibl>
+            <listBibl xml:id="d1e26">
+               <bibl xml:id="bibl-chptrd1e33">
+                  <title xml:id="d1e30">1908-09: Erklæring (Folketinget)</title>
+               </bibl>
+               <bibl xml:id="bibl-chptrd1e51">
+                  <title xml:id="d1e35">
+XXXVIII.
+Erklæring
+over
+det fra Landstinget tilbagesendte
+Forslag til Lov om Rettens Pleje.
+(Afgiven af Folketingets Udvalg den 23. Marts 1909.)
+</title>
+               </bibl>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <text xml:id="d1e29">
-      <body xml:id="d1e31">
-         <div xml:id="d1e33">
-            <head xml:id="d1e35">1908-09: Erklæring (Folketinget)</head>
+   <text xml:id="d1e42">
+      <body xml:id="d1e44">
+         <div xml:id="chptrd1e33" decls="bibl-chptrd1e33">
+            <head xml:id="d1e48">1908-09: Erklæring (Folketinget)</head>
             
                
                <pb xml:id="idr21_00001_rigsdagtid_b2_1908_09" facs="r21_00001_rigsdagtid_b2_1908_09" n=""/>
-               <fw xml:id="d1e43" type="head" place="top-left">1833</fw>
-               <fw xml:id="d1e46" type="head" place="top-middle"/>
-               <fw xml:id="d1e48" type="head" place="top-right">1834</fw>
+               <fw xml:id="d1e56" type="head" place="top-left">1833</fw>
+               <fw xml:id="d1e59" type="head" place="top-middle"/>
+               <fw xml:id="d1e61" type="head" place="top-right">1834</fw>
             
          </div>
-         <div xml:id="d1e53">
-            <head xml:id="d1e55">
+         <div xml:id="chptrd1e51" decls="bibl-chptrd1e51">
+            <head xml:id="d1e68">
 XXXVIII.
 Erklæring
 over
@@ -38,15 +53,15 @@ Forslag til Lov om Rettens Pleje.
 </head>
             
                
-               <p xml:id="d1e61">
+               <p xml:id="d1e74">
 Udvalget undtagen Borgbjerg, Alfred Christensen. N. C. Christensen, P. Knud-
 sen og Krabbe indstiller Lovforslaget til uforandret Vedtagelse,
 </p>
-               <p xml:id="d1e63">
+               <p xml:id="d1e76">
 Et Mindretal (Borgbjerg, Alfred Christensen. N. C. Christensen, P. Knudsen
 og Krabbe) indstiller Lovforslaget til Forkastelse.
 </p>
-               <p xml:id="d1e65">
+               <p xml:id="d1e78">
 Borgbjerg.	Alfred Christensen.	N. C. Christensen.	Effersøe,
 Sekretær.
 Ellinger.  Ingvard Jensen.	Lars Jensen.	Laust Jensen.

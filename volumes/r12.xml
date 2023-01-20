@@ -10,25 +10,39 @@
          <sourceDesc xml:id="d1e17">
             <bibl xml:id="d1e19">
                <title xml:id="d1e21">1901-02: Tillæg til betænkning (Folketinget)</title>
-               <date xml:id="d1e23"/>
+               <date xml:id="d1e23">1901</date>
             </bibl>
+            <listBibl xml:id="d1e26">
+               <bibl xml:id="bibl-chptrd1e33">
+                  <title xml:id="d1e30">1901-02: Tillæg til betænkning (Folketinget)</title>
+               </bibl>
+               <bibl xml:id="bibl-chptrd1e52">
+                  <title xml:id="d1e35">
+LXXXV.
+Tillæg til Betænkninger
+over
+Lovforslagene om 1) Domsmagtens Ordning m. v., 2) den borgerlige
+Retspleje og 3) Strafferetsplejen.
+</title>
+               </bibl>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <text xml:id="d1e29">
-      <body xml:id="d1e31">
-         <div xml:id="d1e33">
-            <head xml:id="d1e35">1901-02: Tillæg til betænkning (Folketinget)</head>
+   <text xml:id="d1e42">
+      <body xml:id="d1e44">
+         <div xml:id="chptrd1e33" decls="bibl-chptrd1e33">
+            <head xml:id="d1e48">1901-02: Tillæg til betænkning (Folketinget)</head>
             
                
                <pb xml:id="idr12_00001_rigsdagtid_b2_1901_02" facs="r12_00001_rigsdagtid_b2_1901_02" n=""/>
-               <fw xml:id="d1e43" type="head" place="top-left">2363</fw>
-               <fw xml:id="d1e46" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
-               <fw xml:id="d1e49" type="head" place="top-right">2364</fw>
+               <fw xml:id="d1e56" type="head" place="top-left">2363</fw>
+               <fw xml:id="d1e59" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw xml:id="d1e62" type="head" place="top-right">2364</fw>
             
          </div>
-         <div xml:id="d1e54">
-            <head xml:id="d1e56">
+         <div xml:id="chptrd1e52" decls="bibl-chptrd1e52">
+            <head xml:id="d1e69">
 LXXXV. 
 Tillæg til Betænkninger 
 over 
@@ -37,3262 +51,3262 @@ Retspleje og 3) Strafferetsplejen.
 </head>
             
                
-               <p xml:id="d1e71">
-(Meddelt af det i Folketinget om de nævnte Lovforslag nedsatte Udvalgs Ordførere<lb xml:id="d1e73"/>
+               <p xml:id="d1e84">
+(Meddelt af det i Folketinget om de nævnte Lovforslag nedsatte Udvalgs Ordførere<lb xml:id="d1e86"/>
 den 17de Maj 1902).
 </p>
-               <p xml:id="d1e76">
-Saafreint de af Udvalget eller Udvalgets Flertal stillede Ændringsforslag ved-<lb xml:id="d1e78"/>
-tages, ville forskellige i Lovforslagenes Tekster forekommende Citater være at rette,<lb xml:id="d1e80"/>
+               <p xml:id="d1e89">
+Saafreint de af Udvalget eller Udvalgets Flertal stillede Ændringsforslag ved-<lb xml:id="d1e91"/>
+tages, ville forskellige i Lovforslagenes Tekster forekommende Citater være at rette,<lb xml:id="d1e93"/>
 hvorom følgende Ændringsforslag stilles
 </p>
                <milestone type="leftside" xml:id="startd1e37" next="endd1e37" n="2363" unit="column"/>
-               <p xml:id="d1e85">
+               <p xml:id="d1e98">
 af Ordførerne:
 </p>
             
-            <div xml:id="d1e88">
-               <head xml:id="d1e90">
+            <div xml:id="d1e101">
+               <head xml:id="d1e103">
 Ændringsforslag
 til
 </head>
-               <p xml:id="d1e92">
-2den Behandling af Forslag til Lov om<lb xml:id="d1e94"/>
-Domsmagtens, den offentlige Anklagemyn-<lb xml:id="d1e96"/>
-digheds, Politimyndighedens samt Sagfører-<lb xml:id="d1e98"/>
+               <p xml:id="d1e105">
+2den Behandling af Forslag til Lov om<lb xml:id="d1e107"/>
+Domsmagtens, den offentlige Anklagemyn-<lb xml:id="d1e109"/>
+digheds, Politimyndighedens samt Sagfører-<lb xml:id="d1e111"/>
 væsenets Ordning.
 </p>
             </div>
-            <div xml:id="d1e102">
-               <head xml:id="d1e104">Til § 9.</head>
-               <p xml:id="d1e106">
+            <div xml:id="d1e115">
+               <head xml:id="d1e117">Til § 9.</head>
+               <p xml:id="d1e119">
 1.	Stk., L. 6: „§ 188" 1. „§ 306".
 </p>
             </div>
-            <div xml:id="d1e109">
-               <head xml:id="d1e111">Til § 12.</head>
-               <p xml:id="d1e113">
+            <div xml:id="d1e122">
+               <head xml:id="d1e124">Til § 12.</head>
+               <p xml:id="d1e126">
 2,	Stk.. L. 3: „§ 59", 1. „§ 179".
 </p>
             </div>
-            <div xml:id="d1e117">
-               <head xml:id="d1e119">Til § 46.</head>
-               <p xml:id="d1e121">
+            <div xml:id="d1e130">
+               <head xml:id="d1e132">Til § 46.</head>
+               <p xml:id="d1e134">
 L. 1: ,.§§ 47 og 48", 1. ,,§§ 48 og 49".
 </p>
             </div>
-            <div xml:id="d1e124">
-               <head xml:id="d1e126">Til § 49.</head>
-               <p xml:id="d1e128">
+            <div xml:id="d1e137">
+               <head xml:id="d1e139">Til § 49.</head>
+               <p xml:id="d1e141">
 1. Stk., L. 1: „§§ 50 ff.", 1. „§§ 51 ff."
 </p>
-               <p xml:id="d1e130">
+               <p xml:id="d1e143">
 1.	Stk.. L. 2: „§§ 55 ff.", 1. „§§ 56 ff."
 </p>
-               <p xml:id="d1e132">
-2.	Stk., L. 1: „§§ 46 og 47", 1. „§§ 47<lb xml:id="d1e134"/>
+               <p xml:id="d1e145">
+2.	Stk., L. 1: „§§ 46 og 47", 1. „§§ 47<lb xml:id="d1e147"/>
 og 48".
 </p>
             </div>
-            <div xml:id="d1e138">
-               <head xml:id="d1e140">Til § 50.</head>
-               <p xml:id="d1e142">
-1. Stk., L. 5: ,,§§ 46 og 47", 1. ,.§§ 47<lb xml:id="d1e144"/>
+            <div xml:id="d1e151">
+               <head xml:id="d1e153">Til § 50.</head>
+               <p xml:id="d1e155">
+1. Stk., L. 5: ,,§§ 46 og 47", 1. ,.§§ 47<lb xml:id="d1e157"/>
 og 48".
 </p>
                <milestone type="leftside" xml:id="endd1e37" prev="startd1e37" n="2363" unit="column"/>
                <milestone type="rightside" xml:id="startd1e85" next="endd1e85" n="2364" unit="column"/>
             </div>
-            <div xml:id="d1e152">
-               <head xml:id="d1e154">Til § 51.</head>
-               <p xml:id="d1e156">
+            <div xml:id="d1e165">
+               <head xml:id="d1e167">Til § 51.</head>
+               <p xml:id="d1e169">
 1. Stk., L. 1: „§ 50", 1. „§ 51".
 </p>
-               <p xml:id="d1e158">
+               <p xml:id="d1e171">
 3.	Stk.. L. 2: „§ 48", 1. „§ 49".
 </p>
-               <p xml:id="d1e160">
+               <p xml:id="d1e173">
 4.	Stk., L. 2: „§ 50", 1. „§ 51".
 </p>
             </div>
-            <div xml:id="d1e163">
-               <head xml:id="d1e165">Til § 52.</head>
-               <p xml:id="d1e167">
-L. 2: „§ 50", 1. ,.§ 51".<lb xml:id="d1e169"/>
-L. 4: „§ 55", 1. „§ 56".<lb xml:id="d1e171"/>
+            <div xml:id="d1e176">
+               <head xml:id="d1e178">Til § 52.</head>
+               <p xml:id="d1e180">
+L. 2: „§ 50", 1. ,.§ 51".<lb xml:id="d1e182"/>
+L. 4: „§ 55", 1. „§ 56".<lb xml:id="d1e184"/>
 L. 5: „§ 51", 1. „§ 52".
 </p>
             </div>
-            <div xml:id="d1e175">
-               <head xml:id="d1e177">Til § 54.</head>
-               <p xml:id="d1e179">
+            <div xml:id="d1e188">
+               <head xml:id="d1e190">Til § 54.</head>
+               <p xml:id="d1e192">
 L. 2: „§ 51", 1. „§ 52".
 </p>
             </div>
-            <div xml:id="d1e183">
-               <head xml:id="d1e185">Til § 56.</head>
-               <p xml:id="d1e187">
-L. 1: „§ 55" 1. „§ 56".<lb xml:id="d1e189"/>
-L. 5: „§ 51" 1. „§ 52".<lb xml:id="d1e191"/>
+            <div xml:id="d1e196">
+               <head xml:id="d1e198">Til § 56.</head>
+               <p xml:id="d1e200">
+L. 1: „§ 55" 1. „§ 56".<lb xml:id="d1e202"/>
+L. 5: „§ 51" 1. „§ 52".<lb xml:id="d1e204"/>
 L. 7: „§48" 1. „§49" og „§49" 1. „§50".
 </p>
             </div>
-            <div xml:id="d1e195">
-               <head xml:id="d1e197">Til § 57.</head>
-               <p xml:id="d1e199">
-1. Stk., L. 2: „§§ 54 og 56" 1. „§§ 55 og<lb xml:id="d1e201"/>
+            <div xml:id="d1e208">
+               <head xml:id="d1e210">Til § 57.</head>
+               <p xml:id="d1e212">
+1. Stk., L. 2: „§§ 54 og 56" 1. „§§ 55 og<lb xml:id="d1e214"/>
 57".
 </p>
-               <p xml:id="d1e204">
-1. Stk.. L. 4: ..§§ 46 og 47" 1. „§§ 47 og<lb xml:id="d1e206"/>
+               <p xml:id="d1e217">
+1. Stk.. L. 4: ..§§ 46 og 47" 1. „§§ 47 og<lb xml:id="d1e219"/>
 48".'
 </p>
             </div>
-            <div xml:id="d1e210">
-               <head xml:id="d1e212">Til § 59.</head>
-               <p xml:id="d1e214">
+            <div xml:id="d1e223">
+               <head xml:id="d1e225">Til § 59.</head>
+               <p xml:id="d1e227">
 L. 1: „Kap. III—V" 1. „Kap. 3—6".
 </p>
                <milestone type="rightside" xml:id="endd1e85" prev="startd1e85" n="2364" unit="column"/>
                <pb xml:id="idr12_00002_rigsdagtid_b2_1901_02" facs="r12_00002_rigsdagtid_b2_1901_02" n=""/>
-               <fw xml:id="d1e220" type="head" place="top-left">2365</fw>
-               <fw xml:id="d1e224" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
-               <fw xml:id="d1e227" type="head" place="top-right">2366</fw>
+               <fw xml:id="d1e233" type="head" place="top-left">2365</fw>
+               <fw xml:id="d1e237" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw xml:id="d1e240" type="head" place="top-right">2366</fw>
                <milestone type="leftside" xml:id="startd1e147" next="endd1e147" n="2365" unit="column"/>
             </div>
-            <div xml:id="d1e233">
-               <head xml:id="d1e235">Til § 60.</head>
-               <p xml:id="d1e237">
+            <div xml:id="d1e246">
+               <head xml:id="d1e248">Til § 60.</head>
+               <p xml:id="d1e250">
 1. Stk., L. 2: ,,§ 55"1. „§ 56".
 </p>
-               <p xml:id="d1e239">
+               <p xml:id="d1e252">
 1.	Stk., L. 6: „§ 48" 1. „§ 49".
 </p>
-               <p xml:id="d1e241">
+               <p xml:id="d1e254">
 2.	Stk., L. 3: „§ 73" 1. „§ 74".
 </p>
             </div>
-            <div xml:id="d1e244">
-               <head xml:id="d1e246">Til § 61.</head>
-               <p xml:id="d1e248">
+            <div xml:id="d1e257">
+               <head xml:id="d1e259">Til § 61.</head>
+               <p xml:id="d1e261">
 L. 3: „§ 57" 1. „§ 58".
 </p>
             </div>
-            <div xml:id="d1e251">
-               <head xml:id="d1e253">Til § 65.</head>
-               <p xml:id="d1e255">
+            <div xml:id="d1e264">
+               <head xml:id="d1e266">Til § 65.</head>
+               <p xml:id="d1e268">
 1. Stk. L. 2: „§§ 81 ff." 1. „§§ 745 ff.".
 </p>
             </div>
-            <div xml:id="d1e259">
-               <head xml:id="d1e261">Til § 67.</head>
-               <p xml:id="d1e263">
+            <div xml:id="d1e272">
+               <head xml:id="d1e274">Til § 67.</head>
+               <p xml:id="d1e276">
 1. Stk., L. 3: „§ 54" 1. „§ 55".
 </p>
-               <p xml:id="d1e265">
+               <p xml:id="d1e278">
 1.	Stk., L. 6: „§§ 60—63" 1. „§§ 61—64".
 </p>
-               <p xml:id="d1e267">
+               <p xml:id="d1e280">
 2.	Stk., L. 2: „§§ 64 og 65" 1. „§§ 65 og 66".
 </p>
-               <p xml:id="d1e269">
+               <p xml:id="d1e282">
 3.	Stk., L. 3: „§ 65" 1. „§ 66".
 </p>
             </div>
-            <div xml:id="d1e272">
-               <head xml:id="d1e274">Til § 68.</head>
-               <p xml:id="d1e276">
+            <div xml:id="d1e285">
+               <head xml:id="d1e287">Til § 68.</head>
+               <p xml:id="d1e289">
 L. 4: „§ 54" 1. „§ 55".
 </p>
             </div>
-            <div xml:id="d1e279">
-               <head xml:id="d1e281">Til § 70.</head>
-               <p xml:id="d1e283">
+            <div xml:id="d1e292">
+               <head xml:id="d1e294">Til § 70.</head>
+               <p xml:id="d1e296">
 L. 2: „§ 66" 1. „§ 67".
 </p>
             </div>
-            <div xml:id="d1e286">
-               <head xml:id="d1e288">Til § 72.</head>
-               <p xml:id="d1e290">
-L. 2: ,,§ 261" 1. „§ 926".<lb xml:id="d1e292"/>
-L. 5: „§ 63" 1. „§ 64".<lb xml:id="d1e294"/>
+            <div xml:id="d1e299">
+               <head xml:id="d1e301">Til § 72.</head>
+               <p xml:id="d1e303">
+L. 2: ,,§ 261" 1. „§ 926".<lb xml:id="d1e305"/>
+L. 5: „§ 63" 1. „§ 64".<lb xml:id="d1e307"/>
 L. 8: „§ 65" 1. „§ 66".
 </p>
             </div>
-            <div xml:id="d1e298">
-               <head xml:id="d1e300">Til § 74.</head>
-               <p xml:id="d1e302">
+            <div xml:id="d1e311">
+               <head xml:id="d1e313">Til § 74.</head>
+               <p xml:id="d1e315">
 L. 4: „§ 48 Nr. 6" 1. ,,§ 49 Nr. 6".
 </p>
             </div>
-            <div xml:id="d1e305">
-               <head xml:id="d1e307">Til § 81.</head>
-               <p xml:id="d1e309">
+            <div xml:id="d1e318">
+               <head xml:id="d1e320">Til § 81.</head>
+               <p xml:id="d1e322">
 2.	Stk., L. 3: „§ 93" 1. „§ 94".
 </p>
-               <p xml:id="d1e311">
+               <p xml:id="d1e324">
 3.	Stk., L. 3: „§ 95" 1. „§ 96".
 </p>
             </div>
-            <div xml:id="d1e315">
-               <head xml:id="d1e317">Til § 88.</head>
-               <p xml:id="d1e319">
-L. 4: ,,§ 86, 3die Stykke" 1. ,,§ 87, 3die<lb xml:id="d1e321"/>
+            <div xml:id="d1e328">
+               <head xml:id="d1e330">Til § 88.</head>
+               <p xml:id="d1e332">
+L. 4: ,,§ 86, 3die Stykke" 1. ,,§ 87, 3die<lb xml:id="d1e334"/>
 Stykke".
 </p>
             </div>
-            <div xml:id="d1e325">
-               <head xml:id="d1e327">Til § 93.</head>
-               <p xml:id="d1e329">
+            <div xml:id="d1e338">
+               <head xml:id="d1e340">Til § 93.</head>
+               <p xml:id="d1e342">
 L. 7: „§ 96" 1. „§ 97".
 </p>
             </div>
-            <div xml:id="d1e332">
-               <head xml:id="d1e334">Til § 104.</head>
-               <p xml:id="d1e336">
-1. Stk., L. 2: „§§ 94, 99, 100 og 104" 1.<lb xml:id="d1e338"/>
+            <div xml:id="d1e345">
+               <head xml:id="d1e347">Til § 104.</head>
+               <p xml:id="d1e349">
+1. Stk., L. 2: „§§ 94, 99, 100 og 104" 1.<lb xml:id="d1e351"/>
 „§§ 95, 100, 101 og 104".
 </p>
-               <p xml:id="d1e341">
+               <p xml:id="d1e354">
 1.	Stk., L. 5: „§ 100" 1. „§ 101".
 </p>
             </div>
-            <div xml:id="d1e344">
-               <head xml:id="d1e346">Til § 113.</head>
-               <p xml:id="d1e348">
-2.	Stk., L. 4: „Kapitel IV og V" 1. „Ka-<lb xml:id="d1e350"/>
+            <div xml:id="d1e357">
+               <head xml:id="d1e359">Til § 113.</head>
+               <p xml:id="d1e361">
+2.	Stk., L. 4: „Kapitel IV og V" 1. „Ka-<lb xml:id="d1e363"/>
 pitel 5 og 6".
 </p>
                <milestone type="leftside" xml:id="endd1e147" prev="startd1e147" n="2365" unit="column"/>
                <milestone type="rightside" xml:id="startd1e235" next="endd1e235" n="2366" unit="column"/>
             </div>
-            <div xml:id="d1e358">
-               <head xml:id="d1e360">
+            <div xml:id="d1e371">
+               <head xml:id="d1e373">
 Ændringsforslag
 til
 </head>
-               <p xml:id="d1e362">
-2den Behandling af Forslag til Lov om<lb xml:id="d1e364"/>
+               <p xml:id="d1e375">
+2den Behandling af Forslag til Lov om<lb xml:id="d1e377"/>
 den borgerlige Retspleje.
 </p>
             </div>
-            <div xml:id="d1e368">
-               <head xml:id="d1e370">Til § 2.</head>
-               <p xml:id="d1e372">
-I Nr. 4 ændres: „§ 293, jfr. § 290" til<lb xml:id="d1e374"/>
+            <div xml:id="d1e381">
+               <head xml:id="d1e383">Til § 2.</head>
+               <p xml:id="d1e385">
+I Nr. 4 ændres: „§ 293, jfr. § 290" til<lb xml:id="d1e387"/>
 „§ 411, jfr. 408".'
 </p>
-               <p xml:id="d1e377">
+               <p xml:id="d1e390">
 I Nr. 5 ændres: ,,§ 295" til „§ 413".
 </p>
-               <p xml:id="d1e379">
+               <p xml:id="d1e392">
 I Nr. 6 ændres: „§ 314" til „§ 432".
 </p>
-               <p xml:id="d1e381">
+               <p xml:id="d1e394">
 I Nr. 9 ændres: „§ 35" til ,,§ 699".
 </p>
             </div>
-            <div xml:id="d1e385">
-               <head xml:id="d1e387">Til § 4.</head>
-               <p xml:id="d1e389">
+            <div xml:id="d1e398">
+               <head xml:id="d1e400">Til § 4.</head>
+               <p xml:id="d1e402">
 I Nr. 1 ændres: „§ 84" til „§ 204".
 </p>
             </div>
-            <div xml:id="d1e392">
-               <head xml:id="d1e394">Til § 8.</head>
-               <p xml:id="d1e396">
-1. Stk., L. 1: .,§ 2", 1. ,,§ 123".<lb xml:id="d1e398"/>
-1. Stk., L. 3: ,,§ 85", 1. „§ 205".<lb xml:id="d1e400"/>
-1. Stk., L. 6: „§ 2, jfr. §§ 3, 4 og 5",<lb xml:id="d1e402"/>
+            <div xml:id="d1e405">
+               <head xml:id="d1e407">Til § 8.</head>
+               <p xml:id="d1e409">
+1. Stk., L. 1: .,§ 2", 1. ,,§ 123".<lb xml:id="d1e411"/>
+1. Stk., L. 3: ,,§ 85", 1. „§ 205".<lb xml:id="d1e413"/>
+1. Stk., L. 6: „§ 2, jfr. §§ 3, 4 og 5",<lb xml:id="d1e415"/>
 1. „§ 123, jfr. §§ 124, 125 og 126".
 </p>
             </div>
-            <div xml:id="d1e406">
-               <head xml:id="d1e408">Til § 9.</head>
-               <p xml:id="d1e410">
+            <div xml:id="d1e419">
+               <head xml:id="d1e421">Til § 9.</head>
+               <p xml:id="d1e423">
 1.	Stk., L. 4: „§ 2", 1. „§ 123".
 </p>
-               <p xml:id="d1e412">
+               <p xml:id="d1e425">
 2.	Stk., L. 2: ,.§ 2", 1. „§ 123".
 </p>
             </div>
-            <div xml:id="d1e415">
-               <head xml:id="d1e417">Til § 11.</head>
-               <p xml:id="d1e419">
-L. 3: ,.Kap. XXVII, og XXVIII", 1. ,.Kap.<lb xml:id="d1e421"/>
+            <div xml:id="d1e428">
+               <head xml:id="d1e430">Til § 11.</head>
+               <p xml:id="d1e432">
+L. 3: ,.Kap. XXVII, og XXVIII", 1. ,.Kap.<lb xml:id="d1e434"/>
 40 og 41".
 </p>
-               <p xml:id="d1e424">
+               <p xml:id="d1e437">
 L. 3: „§§ 504 og 516", 1. ,.§§ 626 og 636".
 </p>
             </div>
-            <div xml:id="d1e427">
-               <head xml:id="d1e429">Til § 28.</head>
-               <p xml:id="d1e431">
+            <div xml:id="d1e440">
+               <head xml:id="d1e442">Til § 28.</head>
+               <p xml:id="d1e444">
 1. Stk., L. 3: ..Kap. XIX.", 1. „Kap. 32".
 </p>
             </div>
-            <div xml:id="d1e434">
-               <head xml:id="d1e436">Til § 29.</head>
-               <p xml:id="d1e438">
+            <div xml:id="d1e447">
+               <head xml:id="d1e449">Til § 29.</head>
+               <p xml:id="d1e451">
 L. 3: „Kap. XIX.", 1. „Kap. 32".
 </p>
             </div>
-            <div xml:id="d1e442">
-               <head xml:id="d1e444">Til § 30.</head>
-               <p xml:id="d1e446">
+            <div xml:id="d1e455">
+               <head xml:id="d1e457">Til § 30.</head>
+               <p xml:id="d1e459">
 L. 5: „Kap. XIX.", 1. „Kap. 32".
 </p>
             </div>
-            <div xml:id="d1e449">
-               <head xml:id="d1e451">Til § 31.</head>
-               <p xml:id="d1e453">
+            <div xml:id="d1e462">
+               <head xml:id="d1e464">Til § 31.</head>
+               <p xml:id="d1e466">
 L. 2: „§ 94", 1. „§ 214".
 </p>
             </div>
-            <div xml:id="d1e456">
-               <head xml:id="d1e458">Til § 34.</head>
-               <p xml:id="d1e460">
+            <div xml:id="d1e469">
+               <head xml:id="d1e471">Til § 34.</head>
+               <p xml:id="d1e473">
 1.	Stk., L. 1: „§ 32" 1. „§ 153".
 </p>
-               <p xml:id="d1e462">
+               <p xml:id="d1e475">
 2.	Stk., L. 2: „§ 33" 1. „§ 154" og ,,§ 32"
 </p>
-               <p xml:id="d1e464">
+               <p xml:id="d1e477">
 3.	1. „153".
 </p>
             </div>
-            <div xml:id="d1e467">
-               <head xml:id="d1e469">Til § 48.</head>
-               <p xml:id="d1e471">
+            <div xml:id="d1e480">
+               <head xml:id="d1e482">Til § 48.</head>
+               <p xml:id="d1e484">
 L. 1: „§ 44" 1. „§ 165".
 </p>
             </div>
-            <div xml:id="d1e474">
-               <head xml:id="d1e476">Til § 69.</head>
-               <p xml:id="d1e478">
+            <div xml:id="d1e487">
+               <head xml:id="d1e489">Til § 69.</head>
+               <p xml:id="d1e491">
 L. 3: „§ 72" 1. „§ 192".
 </p>
             </div>
-            <div xml:id="d1e481">
-               <head xml:id="d1e483">Til § 71.</head>
-               <p xml:id="d1e485">
+            <div xml:id="d1e494">
+               <head xml:id="d1e496">Til § 71.</head>
+               <p xml:id="d1e498">
 L. 1: „§ 69" 1. „§ 189".
 </p>
                <milestone type="rightside" xml:id="endd1e235" prev="startd1e235" n="2366" unit="column"/>
                <pb xml:id="idr12_00003_rigsdagtid_b2_1901_02" facs="r12_00003_rigsdagtid_b2_1901_02" n=""/>
-               <fw xml:id="d1e491" type="head" place="top-left">2367</fw>
-               <fw xml:id="d1e495" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
-               <fw xml:id="d1e498" type="head" place="top-right">2368</fw>
+               <fw xml:id="d1e504" type="head" place="top-left">2367</fw>
+               <fw xml:id="d1e508" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw xml:id="d1e511" type="head" place="top-right">2368</fw>
                <milestone type="leftside" xml:id="startd1e340" next="endd1e340" n="2367" unit="column"/>
             </div>
-            <div xml:id="d1e505">
-               <head xml:id="d1e507">Til § 73.</head>
-               <p xml:id="d1e509">
+            <div xml:id="d1e518">
+               <head xml:id="d1e520">Til § 73.</head>
+               <p xml:id="d1e522">
 Stk. 2, L, 1: „§ 72" 1. „§ 192".
 </p>
             </div>
-            <div xml:id="d1e512">
-               <head xml:id="d1e514">Til § 75.</head>
-               <p xml:id="d1e516">
+            <div xml:id="d1e525">
+               <head xml:id="d1e527">Til § 75.</head>
+               <p xml:id="d1e529">
 L. 2: „§ 72" 1. „§ 192".
 </p>
             </div>
-            <div xml:id="d1e519">
-               <head xml:id="d1e521">Til § 76.</head>
-               <p xml:id="d1e523">
+            <div xml:id="d1e532">
+               <head xml:id="d1e534">Til § 76.</head>
+               <p xml:id="d1e536">
 2. Stk., L. 2: „§ 75" 1. „§ 195".
 </p>
             </div>
-            <div xml:id="d1e526">
-               <head xml:id="d1e528">Til § 77.</head>
-               <p xml:id="d1e530">
+            <div xml:id="d1e539">
+               <head xml:id="d1e541">Til § 77.</head>
+               <p xml:id="d1e543">
 L. 2: „§ 72" 1. „§ 192".
 </p>
             </div>
-            <div xml:id="d1e533">
-               <head xml:id="d1e535">Til § 78.</head>
-               <p xml:id="d1e537">
+            <div xml:id="d1e546">
+               <head xml:id="d1e548">Til § 78.</head>
+               <p xml:id="d1e550">
 L. 1: ,,§§ 72—77" 1. ,,§§ 192—197«.
 </p>
             </div>
-            <div xml:id="d1e540">
-               <head xml:id="d1e542">Til § 84.</head>
-               <p xml:id="d1e544">
+            <div xml:id="d1e553">
+               <head xml:id="d1e555">Til § 84.</head>
+               <p xml:id="d1e557">
 1.	Stk., L. 2: „§ 200" 1. „§	318".
 </p>
-               <p xml:id="d1e546">
+               <p xml:id="d1e559">
 2.	Stk.. L. 1: „§ 200" 1. „§	318".
 </p>
-               <p xml:id="d1e548">
+               <p xml:id="d1e561">
 3.	Stk.. L. 1: ,,§ 273" 1. „§	391".
 </p>
-               <p xml:id="d1e550">
+               <p xml:id="d1e563">
 4.	Stk., L. 4: „§ 240" 1. ,,§	358".
 </p>
             </div>
-            <div xml:id="d1e554">
-               <head xml:id="d1e556">Til § 85.</head>
-               <p xml:id="d1e558">
+            <div xml:id="d1e567">
+               <head xml:id="d1e569">Til § 85.</head>
+               <p xml:id="d1e571">
 2. Stk., L. 3: „§ 94" 1. ,.§ 214".
 </p>
             </div>
-            <div xml:id="d1e561">
-               <head xml:id="d1e563">Til § 87.</head>
-               <p xml:id="d1e565">
-4. Stk., L. 2: „§§ 32 og 34" 1. ,,§§ 153 og<lb xml:id="d1e567"/>
+            <div xml:id="d1e574">
+               <head xml:id="d1e576">Til § 87.</head>
+               <p xml:id="d1e578">
+4. Stk., L. 2: „§§ 32 og 34" 1. ,,§§ 153 og<lb xml:id="d1e580"/>
 155".
 </p>
             </div>
-            <div xml:id="d1e571">
-               <head xml:id="d1e573">Til § 91.</head>
-               <p xml:id="d1e575">
+            <div xml:id="d1e584">
+               <head xml:id="d1e586">Til § 91.</head>
+               <p xml:id="d1e588">
 2. Stk., L. 2: „§ 90" 1. „§ 210".
 </p>
             </div>
-            <div xml:id="d1e578">
-               <head xml:id="d1e580">Til § 92.</head>
-               <p xml:id="d1e582">
+            <div xml:id="d1e591">
+               <head xml:id="d1e593">Til § 92.</head>
+               <p xml:id="d1e595">
 L. 2: „§ 90" 1. ,.§ 210".
 </p>
             </div>
-            <div xml:id="d1e585">
-               <head xml:id="d1e587">Til § 94.</head>
-               <p xml:id="d1e589">
+            <div xml:id="d1e598">
+               <head xml:id="d1e600">Til § 94.</head>
+               <p xml:id="d1e602">
 1. Stk., L. 4: „§ 27" 1. „§ 148".
 </p>
             </div>
-            <div xml:id="d1e592">
-               <head xml:id="d1e594">Til § 97.</head>
-               <p xml:id="d1e596">
+            <div xml:id="d1e605">
+               <head xml:id="d1e607">Til § 97.</head>
+               <p xml:id="d1e609">
 L. 1: „§§ 94—96" 1. „§§ 214—216".
 </p>
             </div>
-            <div xml:id="d1e600">
-               <head xml:id="d1e602">Til § 98.</head>
-               <p xml:id="d1e604">
-1.	Stk., L. 1: „§§ 91 og 93—96" 1.<lb xml:id="d1e606"/>
+            <div xml:id="d1e613">
+               <head xml:id="d1e615">Til § 98.</head>
+               <p xml:id="d1e617">
+1.	Stk., L. 1: „§§ 91 og 93—96" 1.<lb xml:id="d1e619"/>
 „§§ 211 og 213—246".
 </p>
-               <p xml:id="d1e609">
-2.	Stk., L. 2: „§§ 91 og 93—96" 1.<lb xml:id="d1e611"/>
+               <p xml:id="d1e622">
+2.	Stk., L. 2: „§§ 91 og 93—96" 1.<lb xml:id="d1e624"/>
 „§§ 211 og 213—216".
 </p>
-               <p xml:id="d1e614">
-3.	Stk., L. 1: „§§ 91 og 93—96" 1.<lb xml:id="d1e616"/>
+               <p xml:id="d1e627">
+3.	Stk., L. 1: „§§ 91 og 93—96" 1.<lb xml:id="d1e629"/>
 „§§ 211 og 213—216".
 </p>
             </div>
-            <div xml:id="d1e620">
-               <head xml:id="d1e622">Til § 99.</head>
-               <p xml:id="d1e624">
-1. Stk., L. 13: ,.§§ 171, 213—216, 236,<lb xml:id="d1e626"/>
-257, 258 og 281"' 1. ,.§§ 289, 331—334,<lb xml:id="d1e628"/>
+            <div xml:id="d1e633">
+               <head xml:id="d1e635">Til § 99.</head>
+               <p xml:id="d1e637">
+1. Stk., L. 13: ,.§§ 171, 213—216, 236,<lb xml:id="d1e639"/>
+257, 258 og 281"' 1. ,.§§ 289, 331—334,<lb xml:id="d1e641"/>
 354, 375, 376 og 399".
 </p>
-               <p xml:id="d1e631">
-4.	Stk. L. 3: „§§ 135 og 172" 1. „§§ 255<lb xml:id="d1e633"/>
+               <p xml:id="d1e644">
+4.	Stk. L. 3: „§§ 135 og 172" 1. „§§ 255<lb xml:id="d1e646"/>
 og 290".
 </p>
             </div>
-            <div xml:id="d1e637">
-               <head xml:id="d1e639">Til § 103.</head>
-               <p xml:id="d1e641">
+            <div xml:id="d1e650">
+               <head xml:id="d1e652">Til § 103.</head>
+               <p xml:id="d1e654">
 1. Stk., L. 2: „§ 197" 1. „§ 315".
 </p>
                <milestone type="leftside" xml:id="endd1e340" prev="startd1e340" n="2367" unit="column"/>
                <milestone type="rightside" xml:id="startd1e441" next="endd1e441" n="2368" unit="column"/>
             </div>
-            <div xml:id="d1e648">
-               <head xml:id="d1e650">Til § 104.</head>
-               <p xml:id="d1e652">
-1.	Stk., L. 2: ,,§§ 239, 263 og 286" 1.<lb xml:id="d1e654"/>
+            <div xml:id="d1e661">
+               <head xml:id="d1e663">Til § 104.</head>
+               <p xml:id="d1e665">
+1.	Stk., L. 2: ,,§§ 239, 263 og 286" 1.<lb xml:id="d1e667"/>
 ,.§§ 357, 381 og 404".
 </p>
-               <p xml:id="d1e657">
+               <p xml:id="d1e670">
 2.	Stk. L. 3: „§ 92" 1. „§ 212".
 </p>
             </div>
-            <div xml:id="d1e660">
-               <head xml:id="d1e662">Til § 106.</head>
-               <p xml:id="d1e664">
+            <div xml:id="d1e673">
+               <head xml:id="d1e675">Til § 106.</head>
+               <p xml:id="d1e677">
 L. 1: „§§ 26 og 27"' 1. „§§ 147 og 148".
 </p>
             </div>
-            <div xml:id="d1e667">
-               <head xml:id="d1e669">Til § 107.</head>
-               <p xml:id="d1e671">
+            <div xml:id="d1e680">
+               <head xml:id="d1e682">Til § 107.</head>
+               <p xml:id="d1e684">
 1.	Stk., L. 3: „§ 94" 1. „§ 214".
 </p>
             </div>
-            <div xml:id="d1e675">
-               <head xml:id="d1e677">Til § 119.</head>
-               <p xml:id="d1e679">
+            <div xml:id="d1e688">
+               <head xml:id="d1e690">Til § 119.</head>
+               <p xml:id="d1e692">
 L. 4: „§§ 113 til 117" 1. „§§ 234 til 238".
 </p>
             </div>
-            <div xml:id="d1e682">
-               <head xml:id="d1e684">Til § 127.</head>
-               <p xml:id="d1e686">
+            <div xml:id="d1e695">
+               <head xml:id="d1e697">Til § 127.</head>
+               <p xml:id="d1e699">
 L. 1: „§§ 125 og 126" 1. „§§ 246 og 247".
 </p>
             </div>
-            <div xml:id="d1e689">
-               <head xml:id="d1e691">Til § 128.</head>
-               <p xml:id="d1e693">
+            <div xml:id="d1e702">
+               <head xml:id="d1e704">Til § 128.</head>
+               <p xml:id="d1e706">
 L. 1.: „§§ 125 og 126" 1. „§§ 246 og 247".
 </p>
             </div>
-            <div xml:id="d1e696">
-               <head xml:id="d1e698">Til § 137.</head>
-               <p xml:id="d1e700">
-2.	Stk., L. 1: „§ 301 og § 303 jfr. § 312"<lb xml:id="d1e702"/>
+            <div xml:id="d1e709">
+               <head xml:id="d1e711">Til § 137.</head>
+               <p xml:id="d1e713">
+2.	Stk., L. 1: „§ 301 og § 303 jfr. § 312"<lb xml:id="d1e715"/>
 1. „§ 419 og § 421 jfr. § 430".
 </p>
             </div>
-            <div xml:id="d1e706">
-               <head xml:id="d1e708">Til § 139.</head>
-               <p xml:id="d1e710">
+            <div xml:id="d1e719">
+               <head xml:id="d1e721">Til § 139.</head>
+               <p xml:id="d1e723">
 L. 4: „Kap. XXV" 1. „Kap. 38".
 </p>
             </div>
-            <div xml:id="d1e713">
-               <head xml:id="d1e715">Til § 144.</head>
-               <p xml:id="d1e717">
+            <div xml:id="d1e726">
+               <head xml:id="d1e728">Til § 144.</head>
+               <p xml:id="d1e730">
 L. 2: „§ 330" 1. „§ 457".
 </p>
             </div>
-            <div xml:id="d1e721">
-               <head xml:id="d1e723">Til § 149.</head>
-               <p xml:id="d1e725">
+            <div xml:id="d1e734">
+               <head xml:id="d1e736">Til § 149.</head>
+               <p xml:id="d1e738">
 1.	Stk., L. 1: „§ 148" 1. „§ 266".
 </p>
-               <p xml:id="d1e727">
+               <p xml:id="d1e740">
 2.	Stk., L. 3: „§ 148" 1. „§ 266".
 </p>
-               <p xml:id="d1e729">
-2.	Stk., L. 5. og 6: ,,§§ 237, 263 og 286"<lb xml:id="d1e731"/>
+               <p xml:id="d1e742">
+2.	Stk., L. 5. og 6: ,,§§ 237, 263 og 286"<lb xml:id="d1e744"/>
 1. „§§ 355, 381 og 404".
 </p>
             </div>
-            <div xml:id="d1e735">
-               <head xml:id="d1e737">Til § 165.</head>
-               <p xml:id="d1e739">
+            <div xml:id="d1e748">
+               <head xml:id="d1e750">Til § 165.</head>
+               <p xml:id="d1e752">
 3.	Stk., L. 2: „§ 164" 1. „§ 282".
 </p>
             </div>
-            <div xml:id="d1e742">
-               <head xml:id="d1e744">Til § 166.</head>
-               <p xml:id="d1e746">
+            <div xml:id="d1e755">
+               <head xml:id="d1e757">Til § 166.</head>
+               <p xml:id="d1e759">
 1. Stk., L. 7: „§ 153" 1. „§ 271".
 </p>
             </div>
-            <div xml:id="d1e749">
-               <head xml:id="d1e751">Til § 168.</head>
-               <p xml:id="d1e753">
+            <div xml:id="d1e762">
+               <head xml:id="d1e764">Til § 168.</head>
+               <p xml:id="d1e766">
 3. Stk., L. 3: „§ 149" 1. „§ 267".
 </p>
             </div>
-            <div xml:id="d1e756">
-               <head xml:id="d1e758">Til § 169.</head>
-               <p xml:id="d1e760">
+            <div xml:id="d1e769">
+               <head xml:id="d1e771">Til § 169.</head>
+               <p xml:id="d1e773">
 L. 2: „§ 149" 1. „§ 267".
 </p>
             </div>
-            <div xml:id="d1e763">
-               <head xml:id="d1e765">Til § 170.</head>
-               <p xml:id="d1e767">
+            <div xml:id="d1e776">
+               <head xml:id="d1e778">Til § 170.</head>
+               <p xml:id="d1e780">
 L. 7: „§ 148" 1. „§ 266".
 </p>
             </div>
-            <div xml:id="d1e771">
-               <head xml:id="d1e773">Til § 171.</head>
-               <p xml:id="d1e775">
-L. 2: „§§ 214, 257 og 281" 1. „§§ 332,<lb xml:id="d1e777"/>
+            <div xml:id="d1e784">
+               <head xml:id="d1e786">Til § 171.</head>
+               <p xml:id="d1e788">
+L. 2: „§§ 214, 257 og 281" 1. „§§ 332,<lb xml:id="d1e790"/>
 375 og 399".
 </p>
                <milestone type="rightside" xml:id="endd1e441" prev="startd1e441" n="2368" unit="column"/>
                <pb xml:id="idr12_00004_rigsdagtid_b2_1901_02" facs="r12_00004_rigsdagtid_b2_1901_02" n=""/>
-               <fw xml:id="d1e784" type="head" place="top-left">2369</fw>
-               <fw xml:id="d1e788" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
-               <fw xml:id="d1e791" type="head" place="top-right">2370</fw>
+               <fw xml:id="d1e797" type="head" place="top-left">2369</fw>
+               <fw xml:id="d1e801" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw xml:id="d1e804" type="head" place="top-right">2370</fw>
                <milestone type="leftside" xml:id="startd1e543" next="endd1e543" n="2369" unit="column"/>
             </div>
-            <div xml:id="d1e797">
-               <head xml:id="d1e799">Til § 172.</head>
-               <p xml:id="d1e801">
+            <div xml:id="d1e810">
+               <head xml:id="d1e812">Til § 172.</head>
+               <p xml:id="d1e814">
 1.	Stk., L. 5: „§ 135" 1. „§ 255".
 </p>
             </div>
-            <div xml:id="d1e804">
-               <head xml:id="d1e806">Til § 174.</head>
-               <p xml:id="d1e808">
+            <div xml:id="d1e817">
+               <head xml:id="d1e819">Til § 174.</head>
+               <p xml:id="d1e821">
 L. 2 og 4: „§ 32" i. „§ 153"
 </p>
             </div>
-            <div xml:id="d1e811">
-               <head xml:id="d1e813">Til § 179.</head>
-               <p xml:id="d1e815">
+            <div xml:id="d1e824">
+               <head xml:id="d1e826">Til § 179.</head>
+               <p xml:id="d1e828">
 2.	Stk., L. 5: „§ 90" 1. „§ 210".
 </p>
-               <p xml:id="d1e817">
+               <p xml:id="d1e830">
 3.	Stk., L. 4: ..§ 191" 1. „§ 309".
 </p>
-               <p xml:id="d1e819">
+               <p xml:id="d1e832">
 3.	Stk.. L. 5: „§ 192" 1. „§ 310".
 </p>
-               <p xml:id="d1e821">
+               <p xml:id="d1e834">
 4.	Stk., L. 2: ,,§ 180" 1. ,,§ 298".
 </p>
             </div>
-            <div xml:id="d1e824">
-               <head xml:id="d1e826">Til § 181.</head>
-               <p xml:id="d1e828">
+            <div xml:id="d1e837">
+               <head xml:id="d1e839">Til § 181.</head>
+               <p xml:id="d1e841">
 L. 2: „§ 164" 1. „§ 282".
 </p>
             </div>
-            <div xml:id="d1e831">
-               <head xml:id="d1e833">Til § 182.</head>
-               <p xml:id="d1e835">
-1. Stk., L. 6: „§§ 153 og 166" 1. ,,§§ 271<lb xml:id="d1e837"/>
+            <div xml:id="d1e844">
+               <head xml:id="d1e846">Til § 182.</head>
+               <p xml:id="d1e848">
+1. Stk., L. 6: „§§ 153 og 166" 1. ,,§§ 271<lb xml:id="d1e850"/>
 og 284"'.
 </p>
             </div>
-            <div xml:id="d1e842">
-               <head xml:id="d1e844">Til § 183.</head>
-               <p xml:id="d1e846">
+            <div xml:id="d1e855">
+               <head xml:id="d1e857">Til § 183.</head>
+               <p xml:id="d1e859">
 L. 2: ,,§ 153" 1. ,,§ 271".
 </p>
             </div>
-            <div xml:id="d1e849">
-               <head xml:id="d1e851">Til § 185.</head>
-               <p xml:id="d1e853">
+            <div xml:id="d1e862">
+               <head xml:id="d1e864">Til § 185.</head>
+               <p xml:id="d1e866">
 L. 4: „§ 171" 1. „§ 289".
 </p>
             </div>
-            <div xml:id="d1e856">
-               <head xml:id="d1e858">Til § 187.</head>
-               <p xml:id="d1e860">
+            <div xml:id="d1e869">
+               <head xml:id="d1e871">Til § 187.</head>
+               <p xml:id="d1e873">
 4. Stk., L. 2: „§ 117"' 1. „§ 238".
 </p>
             </div>
-            <div xml:id="d1e863">
-               <head xml:id="d1e865">Til § 188.</head>
-               <p xml:id="d1e867">
+            <div xml:id="d1e876">
+               <head xml:id="d1e878">Til § 188.</head>
+               <p xml:id="d1e880">
 L. 2: „§ 164" 1. „§ 282".
 </p>
             </div>
-            <div xml:id="d1e870">
-               <head xml:id="d1e872">Til § 189.</head>
-               <p xml:id="d1e874">
-L. 3: ,,§§ 211. 215. 258 og 280" 1. „§§329,<lb xml:id="d1e876"/>
+            <div xml:id="d1e883">
+               <head xml:id="d1e885">Til § 189.</head>
+               <p xml:id="d1e887">
+L. 3: ,,§§ 211. 215. 258 og 280" 1. „§§329,<lb xml:id="d1e889"/>
 333, 376 og 398".
 </p>
             </div>
-            <div xml:id="d1e880">
-               <head xml:id="d1e882">Til § 190.</head>
-               <p xml:id="d1e884">
+            <div xml:id="d1e893">
+               <head xml:id="d1e895">Til § 190.</head>
+               <p xml:id="d1e897">
 1. Stk., L. 6: ,,§ 90"' 1. „§ 210".
 </p>
             </div>
-            <div xml:id="d1e888">
-               <head xml:id="d1e890">Til § 192.</head>
-               <p xml:id="d1e892">
-3.	Stk.. L. 3: „§§ 166 og 168" 1. „§§ 284<lb xml:id="d1e894"/>
+            <div xml:id="d1e901">
+               <head xml:id="d1e903">Til § 192.</head>
+               <p xml:id="d1e905">
+3.	Stk.. L. 3: „§§ 166 og 168" 1. „§§ 284<lb xml:id="d1e907"/>
 og 286".
 </p>
-               <p xml:id="d1e897">
+               <p xml:id="d1e910">
 4.	Stk., L. 2: ,,§ 153" 1. „§ 271".
 </p>
             </div>
-            <div xml:id="d1e900">
-               <head xml:id="d1e902">Til § 193.</head>
-               <p xml:id="d1e904">
-1.	Stk.. L. 2: „§§ 146—152" 1. „§§ 264—<lb xml:id="d1e906"/>
+            <div xml:id="d1e913">
+               <head xml:id="d1e915">Til § 193.</head>
+               <p xml:id="d1e917">
+1.	Stk.. L. 2: „§§ 146—152" 1. „§§ 264—<lb xml:id="d1e919"/>
 270"'.
 </p>
-               <p xml:id="d1e909">
+               <p xml:id="d1e922">
 2.	Stk., L. 5: „§ 149" 1. ,,§ 267".
 </p>
-               <p xml:id="d1e911">
+               <p xml:id="d1e924">
 2. Stk.. L. 6: ,,§ 148" 1. „§ 266".
 </p>
-               <p xml:id="d1e913">
+               <p xml:id="d1e926">
 2.	Stk., L. 7: „§ 151" 1. „§ 269"'.
 </p>
-               <p xml:id="d1e916">
-3.	Stk., L. 2: ,.§§ 155, 156, 158—163 og<lb xml:id="d1e918"/>
+               <p xml:id="d1e929">
+3.	Stk., L. 2: ,.§§ 155, 156, 158—163 og<lb xml:id="d1e931"/>
 168" 1. „§§ 273, 274, 276-281 og 286".
 </p>
             </div>
-            <div xml:id="d1e922">
-               <head xml:id="d1e924">Til § 194.</head>
-               <p xml:id="d1e926">
-2. Stk., L. 2: ,.§ 193 og §§ 146—148" 1.<lb xml:id="d1e928"/>
+            <div xml:id="d1e935">
+               <head xml:id="d1e937">Til § 194.</head>
+               <p xml:id="d1e939">
+2. Stk., L. 2: ,.§ 193 og §§ 146—148" 1.<lb xml:id="d1e941"/>
 ,,§ 311 og §§ 264—266"!'
 </p>
                <milestone type="leftside" xml:id="endd1e543" prev="startd1e543" n="2369" unit="column"/>
                <milestone type="rightside" xml:id="startd1e642" next="endd1e642" n="2370" unit="column"/>
             </div>
-            <div xml:id="d1e936">
-               <head xml:id="d1e938">Til § 195.</head>
-               <p xml:id="d1e940">
+            <div xml:id="d1e949">
+               <head xml:id="d1e951">Til § 195.</head>
+               <p xml:id="d1e953">
 3.	Stk., L. 1: ,,§ 165" 1. ,,§ 283".
 </p>
-               <p xml:id="d1e942">
+               <p xml:id="d1e955">
 4.	Stk., L. 1: „§ 164" 1. „§ 282".
 </p>
             </div>
-            <div xml:id="d1e945">
-               <head xml:id="d1e947">Til § 198.</head>
-               <p xml:id="d1e949">
+            <div xml:id="d1e958">
+               <head xml:id="d1e960">Til § 198.</head>
+               <p xml:id="d1e962">
 2.	Stk., L. 3: „§ 222" 1. ,,§ 340".
 </p>
             </div>
-            <div xml:id="d1e952">
-               <head xml:id="d1e954">Til § 199.</head>
-               <p xml:id="d1e956">
+            <div xml:id="d1e965">
+               <head xml:id="d1e967">Til § 199.</head>
+               <p xml:id="d1e969">
 L. 1: „§ 198" 1. „§ 316".
 </p>
             </div>
-            <div xml:id="d1e960">
-               <head xml:id="d1e962">Til § 200.</head>
-               <p xml:id="d1e964">
+            <div xml:id="d1e973">
+               <head xml:id="d1e975">Til § 200.</head>
+               <p xml:id="d1e977">
 1. Stk., L. 5: „§ 211" 1. ,,§ 329".
 </p>
             </div>
-            <div xml:id="d1e967">
-               <head xml:id="d1e969">Til § 203.</head>
-               <p xml:id="d1e971">
+            <div xml:id="d1e980">
+               <head xml:id="d1e982">Til § 203.</head>
+               <p xml:id="d1e984">
 1. Stk., L. 2: ,,§ 200" 1. ,,§ 318".
 </p>
             </div>
-            <div xml:id="d1e974">
-               <head xml:id="d1e976">Til § 204.</head>
-               <p xml:id="d1e978">
+            <div xml:id="d1e987">
+               <head xml:id="d1e989">Til § 204.</head>
+               <p xml:id="d1e991">
 3.	Stk., L. 3: „§ 221" 1. „§ 339".
 </p>
             </div>
-            <div xml:id="d1e981">
-               <head xml:id="d1e983">Til § 206.</head>
-               <p xml:id="d1e985">
+            <div xml:id="d1e994">
+               <head xml:id="d1e996">Til § 206.</head>
+               <p xml:id="d1e998">
 1. Stk., L. 2: ,,§ 208" 1. ,.§ 326".
 </p>
             </div>
-            <div xml:id="d1e988">
-               <head xml:id="d1e990">Til § 209.</head>
-               <p xml:id="d1e992">
+            <div xml:id="d1e1001">
+               <head xml:id="d1e1003">Til § 209.</head>
+               <p xml:id="d1e1005">
 1. Stk., L. 3: ,,§ 207" 1. „§ 325".
 </p>
             </div>
-            <div xml:id="d1e995">
-               <head xml:id="d1e997">Til § 213.</head>
-               <p xml:id="d1e999">
+            <div xml:id="d1e1008">
+               <head xml:id="d1e1010">Til § 213.</head>
+               <p xml:id="d1e1012">
 L. 9: „§ 214" 1. ,,§ 332".
 </p>
             </div>
-            <div xml:id="d1e1003">
-               <head xml:id="d1e1005">Til § 214.</head>
-               <p xml:id="d1e1007">
+            <div xml:id="d1e1016">
+               <head xml:id="d1e1018">Til § 214.</head>
+               <p xml:id="d1e1020">
 1. Stk., L. 2: „§§ 148, 149 og 173 ff."
 </p>
-               <p xml:id="d1e1009">
+               <p xml:id="d1e1022">
 1. ,.§§ 266, 267'og 291 ff.".
 </p>
-               <p xml:id="d1e1011">
+               <p xml:id="d1e1024">
 1. Stk., L. 3: ,,§ 193" 1. „§ 311".
 </p>
             </div>
-            <div xml:id="d1e1014">
-               <head xml:id="d1e1016">Til § 215.</head>
-               <p xml:id="d1e1018">
+            <div xml:id="d1e1027">
+               <head xml:id="d1e1029">Til § 215.</head>
+               <p xml:id="d1e1031">
 1.	Stk., L. 2: ,,§ 149" 1. „§ 267".
 </p>
-               <p xml:id="d1e1020">
+               <p xml:id="d1e1033">
 2.	Stk., L. 3: ,.§ 211" 1. ,,§ 329".
 </p>
             </div>
-            <div xml:id="d1e1023">
-               <head xml:id="d1e1025">Til § 216.</head>
-               <p xml:id="d1e1027">
+            <div xml:id="d1e1036">
+               <head xml:id="d1e1038">Til § 216.</head>
+               <p xml:id="d1e1040">
 4.	Stk., L. 2: „§ 218" 1. ,.§ 336".
 </p>
             </div>
-            <div xml:id="d1e1030">
-               <head xml:id="d1e1032">Til § 217.</head>
-               <p xml:id="d1e1034">
+            <div xml:id="d1e1043">
+               <head xml:id="d1e1045">Til § 217.</head>
+               <p xml:id="d1e1047">
 3.	Stk., L. 5: „§ 204" 1. ,,§ 322".
 </p>
             </div>
-            <div xml:id="d1e1037">
-               <head xml:id="d1e1039">Til § 223.</head>
-               <p xml:id="d1e1041">
+            <div xml:id="d1e1050">
+               <head xml:id="d1e1052">Til § 223.</head>
+               <p xml:id="d1e1054">
 L. 1 og 4: ,.§ 222" 1. „§ 340".
 </p>
             </div>
-            <div xml:id="d1e1044">
-               <head xml:id="d1e1046">Til § 224.</head>
-               <p xml:id="d1e1048">
+            <div xml:id="d1e1057">
+               <head xml:id="d1e1059">Til § 224.</head>
+               <p xml:id="d1e1061">
 1. Stk., L. 7: „§ 208" 1. „§	326".
 </p>
-               <p xml:id="d1e1050">
+               <p xml:id="d1e1063">
 3. Stk., L. 1: „§ 222" 1. „§	340".
 </p>
-               <p xml:id="d1e1052">
+               <p xml:id="d1e1065">
 3. Stk., L. 2: ,,§ 223" 1. „§	341".
 </p>
             </div>
-            <div xml:id="d1e1056">
-               <head xml:id="d1e1058">Til § 225.</head>
-               <p xml:id="d1e1060">
+            <div xml:id="d1e1069">
+               <head xml:id="d1e1071">Til § 225.</head>
+               <p xml:id="d1e1073">
 L. 8: „§§ 222 og 223" 1. ,,§§ 340 og 341".
 </p>
             </div>
-            <div xml:id="d1e1063">
-               <head xml:id="d1e1065">Til § 227.</head>
-               <p xml:id="d1e1067">
-L. 6: „§§ 206 og 208" 1. „§§ 324 og 326".<lb xml:id="d1e1069"/>
+            <div xml:id="d1e1076">
+               <head xml:id="d1e1078">Til § 227.</head>
+               <p xml:id="d1e1080">
+L. 6: „§§ 206 og 208" 1. „§§ 324 og 326".<lb xml:id="d1e1082"/>
 L. 7: „§ 207" 1. „§ 325". '
 </p>
                <milestone type="rightside" xml:id="endd1e642" prev="startd1e642" n="2370" unit="column"/>
                <pb xml:id="idr12_00005_rigsdagtid_b2_1901_02" facs="r12_00005_rigsdagtid_b2_1901_02" n=""/>
-               <fw xml:id="d1e1076" type="head" place="top-left">2371</fw>
-               <fw xml:id="d1e1080" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
-               <fw xml:id="d1e1083" type="head" place="top-right">2372</fw>
+               <fw xml:id="d1e1089" type="head" place="top-left">2371</fw>
+               <fw xml:id="d1e1093" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw xml:id="d1e1096" type="head" place="top-right">2372</fw>
                <milestone type="leftside" xml:id="startd1e745" next="endd1e745" n="2371" unit="column"/>
             </div>
-            <div xml:id="d1e1089">
-               <head xml:id="d1e1091">Til § 228.</head>
-               <p xml:id="d1e1093">
+            <div xml:id="d1e1102">
+               <head xml:id="d1e1104">Til § 228.</head>
+               <p xml:id="d1e1106">
 L. 2: „§ 28" 1. „§ 149".
 </p>
             </div>
-            <div xml:id="d1e1096">
-               <head xml:id="d1e1098">Til § 229.</head>
-               <p xml:id="d1e1100">
+            <div xml:id="d1e1109">
+               <head xml:id="d1e1111">Til § 229.</head>
+               <p xml:id="d1e1113">
 2. Stk., L. 1: ,,§ 94" 1. „214".
 </p>
             </div>
-            <div xml:id="d1e1103">
-               <head xml:id="d1e1105">Til § 231.</head>
-               <p xml:id="d1e1107">
+            <div xml:id="d1e1116">
+               <head xml:id="d1e1118">Til § 231.</head>
+               <p xml:id="d1e1120">
 L. 2: „§ 29" 1. „§ 150".
 </p>
             </div>
-            <div xml:id="d1e1110">
-               <head xml:id="d1e1112">Til § 232.</head>
-               <p xml:id="d1e1114">
-L. 4: „§§ 226, 229 og 230" 1. „§§ 344,<lb xml:id="d1e1116"/>
+            <div xml:id="d1e1123">
+               <head xml:id="d1e1125">Til § 232.</head>
+               <p xml:id="d1e1127">
+L. 4: „§§ 226, 229 og 230" 1. „§§ 344,<lb xml:id="d1e1129"/>
 347 og 348".
 </p>
             </div>
-            <div xml:id="d1e1121">
-               <head xml:id="d1e1123">Til § 236.</head>
-               <p xml:id="d1e1125">
-1. Stk., L. 3: „§ 213" 1. „§ 331".<lb xml:id="d1e1127"/>
+            <div xml:id="d1e1134">
+               <head xml:id="d1e1136">Til § 236.</head>
+               <p xml:id="d1e1138">
+1. Stk., L. 3: „§ 213" 1. „§ 331".<lb xml:id="d1e1140"/>
 1. Stk., L. 4: „§ 214" 1. „§ 332".
 </p>
             </div>
-            <div xml:id="d1e1131">
-               <head xml:id="d1e1133">Til § 243.</head>
-               <p xml:id="d1e1135">
+            <div xml:id="d1e1144">
+               <head xml:id="d1e1146">Til § 243.</head>
+               <p xml:id="d1e1148">
 1. Stk., L. 1: ,,§ 6" 1. „§ 127".
 </p>
             </div>
-            <div xml:id="d1e1138">
-               <head xml:id="d1e1140">Til § 244.</head>
-               <p xml:id="d1e1142">
+            <div xml:id="d1e1151">
+               <head xml:id="d1e1153">Til § 244.</head>
+               <p xml:id="d1e1155">
 1. Stk. L. 2: „§ 94" 1. „§ 214".
 </p>
             </div>
-            <div xml:id="d1e1145">
-               <head xml:id="d1e1147">Til § 247.</head>
-               <p xml:id="d1e1149">
-1. Stk. L. 1: ,,§ 246" 1. „§	364".<lb xml:id="d1e1151"/>
+            <div xml:id="d1e1158">
+               <head xml:id="d1e1160">Til § 247.</head>
+               <p xml:id="d1e1162">
+1. Stk. L. 1: ,,§ 246" 1. „§	364".<lb xml:id="d1e1164"/>
 1. Stk. L. 3: „§ 201" 1. ,,§ 319".
 </p>
-               <p xml:id="d1e1154">
+               <p xml:id="d1e1167">
 3. Stk. L. 1: „§ 202" 1. „§	320".
 </p>
             </div>
-            <div xml:id="d1e1157">
-               <head xml:id="d1e1159">Til § 248.</head>
-               <p xml:id="d1e1161">
+            <div xml:id="d1e1170">
+               <head xml:id="d1e1172">Til § 248.</head>
+               <p xml:id="d1e1174">
 L. 1: „§§ 246 og 247" 1. „§§ 364 og 365".
 </p>
             </div>
-            <div xml:id="d1e1164">
-               <head xml:id="d1e1166">Til § 254.</head>
-               <p xml:id="d1e1168">
-1. Stk., L. 1: „§ 253" 1. „§ 371".<lb xml:id="d1e1170"/>
+            <div xml:id="d1e1177">
+               <head xml:id="d1e1179">Til § 254.</head>
+               <p xml:id="d1e1181">
+1. Stk., L. 1: „§ 253" 1. „§ 371".<lb xml:id="d1e1183"/>
 1. Stk., L. 2: „§ 252" 1. ,.§ 370".
 </p>
-               <p xml:id="d1e1173">
-4.	Stk., L. 5: „§§ 209, 210 og 211" 1. „§§<lb xml:id="d1e1175"/>
+               <p xml:id="d1e1186">
+4.	Stk., L. 5: „§§ 209, 210 og 211" 1. „§§<lb xml:id="d1e1188"/>
 327, 328 og 329".
 </p>
-               <p xml:id="d1e1178">
+               <p xml:id="d1e1191">
 5.	Stk., L. 3: ,,§ 218" 1. „§ 336".
 </p>
             </div>
-            <div xml:id="d1e1182">
-               <head xml:id="d1e1184">Til § 255.</head>
-               <p xml:id="d1e1186">
-L. 3: ,,§ 252" 1. „§ 370".<lb xml:id="d1e1188"/>
+            <div xml:id="d1e1195">
+               <head xml:id="d1e1197">Til § 255.</head>
+               <p xml:id="d1e1199">
+L. 3: ,,§ 252" 1. „§ 370".<lb xml:id="d1e1201"/>
 L. 7: ,.§ 254" 1. „§ 372".
 </p>
             </div>
-            <div xml:id="d1e1192">
-               <head xml:id="d1e1194">Til § 256.</head>
-               <p xml:id="d1e1196">
+            <div xml:id="d1e1205">
+               <head xml:id="d1e1207">Til § 256.</head>
+               <p xml:id="d1e1209">
 L. 4: ,,§ 254" 1. „§ 372".
 </p>
             </div>
-            <div xml:id="d1e1199">
-               <head xml:id="d1e1201">Til § 257.</head>
-               <p xml:id="d1e1203">
-1. Stk., L. 4: „§§ 148 og 149" 1. „§§ 266<lb xml:id="d1e1205"/>
+            <div xml:id="d1e1212">
+               <head xml:id="d1e1214">Til § 257.</head>
+               <p xml:id="d1e1216">
+1. Stk., L. 4: „§§ 148 og 149" 1. „§§ 266<lb xml:id="d1e1218"/>
 og 267".
 </p>
-               <p xml:id="d1e1208">
+               <p xml:id="d1e1221">
 1. Stk., L. 6: „§ 193" 1. „§ 311".
 </p>
             </div>
-            <div xml:id="d1e1211">
-               <head xml:id="d1e1213">Til § 258.</head>
-               <p xml:id="d1e1215">
-1. Stk., L. 2: „§ 149" 1. „§ 267".<lb xml:id="d1e1217"/>
+            <div xml:id="d1e1224">
+               <head xml:id="d1e1226">Til § 258.</head>
+               <p xml:id="d1e1228">
+1. Stk., L. 2: „§ 149" 1. „§ 267".<lb xml:id="d1e1230"/>
 3. Stk., L. 3: „§ 218" 1. „§ 336".
 </p>
                <milestone type="leftside" xml:id="endd1e745" prev="startd1e745" n="2371" unit="column"/>
                <milestone type="rightside" xml:id="startd1e841" next="endd1e841" n="2372" unit="column"/>
             </div>
-            <div xml:id="d1e1225">
-               <head xml:id="d1e1227">Til § 259.</head>
-               <p xml:id="d1e1229">
+            <div xml:id="d1e1238">
+               <head xml:id="d1e1240">Til § 259.</head>
+               <p xml:id="d1e1242">
 1.	Stk., L. 1: „§ 212" 1. „§ 330".
 </p>
-               <p xml:id="d1e1231">
+               <p xml:id="d1e1244">
 2.	Stk., L. 1: „§ 216" 1. „§ 334".
 </p>
-               <p xml:id="d1e1233">
-3.	Stk., L. 1: „§§ 243 og 246" 1. „§§ 361<lb xml:id="d1e1235"/>
+               <p xml:id="d1e1246">
+3.	Stk., L. 1: „§§ 243 og 246" 1. „§§ 361<lb xml:id="d1e1248"/>
 og 364".
 </p>
             </div>
-            <div xml:id="d1e1239">
-               <head xml:id="d1e1241">Til § 260.</head>
-               <p xml:id="d1e1243">
+            <div xml:id="d1e1252">
+               <head xml:id="d1e1254">Til § 260.</head>
+               <p xml:id="d1e1256">
 1.	Stk., L. 3: ,,§ 206" 1. „§ 324".
 </p>
-               <p xml:id="d1e1245">
-2.	Stk., L. 2: „§§ 219 og 220" 1. „§§ 337<lb xml:id="d1e1247"/>
+               <p xml:id="d1e1258">
+2.	Stk., L. 2: „§§ 219 og 220" 1. „§§ 337<lb xml:id="d1e1260"/>
 og 338".
 </p>
             </div>
-            <div xml:id="d1e1252">
-               <head xml:id="d1e1254">Til § 261.</head>
-               <p xml:id="d1e1256">
+            <div xml:id="d1e1265">
+               <head xml:id="d1e1267">Til § 261.</head>
+               <p xml:id="d1e1269">
 1. Stk., L. 3: ,,§§ 252 ff." 1. „§§ 370 ff."
 </p>
             </div>
-            <div xml:id="d1e1259">
-               <head xml:id="d1e1261">Til § 263.</head>
-               <p xml:id="d1e1263">
+            <div xml:id="d1e1272">
+               <head xml:id="d1e1274">Til § 263.</head>
+               <p xml:id="d1e1276">
 1. Stk., L. 2: „§ 252" 1. „§ 370".
 </p>
             </div>
-            <div xml:id="d1e1266">
-               <head xml:id="d1e1268">Til § 265.</head>
-               <p xml:id="d1e1270">
+            <div xml:id="d1e1279">
+               <head xml:id="d1e1281">Til § 265.</head>
+               <p xml:id="d1e1283">
 1. Stk., L. 3: „§ 243" 1. ,,§ 361".
 </p>
-               <p xml:id="d1e1272">
+               <p xml:id="d1e1285">
 1.	Stk., L. 5: „§ 6" 1. „§ 127".
 </p>
             </div>
-            <div xml:id="d1e1275">
-               <head xml:id="d1e1277">Til § 267.</head>
-               <p xml:id="d1e1279">
-L. 1: „§ 111, § 153 eller § 183" 1. „§ 232,<lb xml:id="d1e1281"/>
+            <div xml:id="d1e1288">
+               <head xml:id="d1e1290">Til § 267.</head>
+               <p xml:id="d1e1292">
+L. 1: „§ 111, § 153 eller § 183" 1. „§ 232,<lb xml:id="d1e1294"/>
 § 271 eller § 301".
 </p>
             </div>
-            <div xml:id="d1e1285">
-               <head xml:id="d1e1287">Til § 269.</head>
-               <p xml:id="d1e1289">
+            <div xml:id="d1e1298">
+               <head xml:id="d1e1300">Til § 269.</head>
+               <p xml:id="d1e1302">
 2.	Stk., L. 2: „§ 259" 1. „§ 377".
 </p>
             </div>
-            <div xml:id="d1e1292">
-               <head xml:id="d1e1294">Til § 273.</head>
-               <p xml:id="d1e1296">
+            <div xml:id="d1e1305">
+               <head xml:id="d1e1307">Til § 273.</head>
+               <p xml:id="d1e1309">
 1.	Stk., L. 2: „§ 2" 1. „§ 123".
 </p>
             </div>
-            <div xml:id="d1e1300">
-               <head xml:id="d1e1302">Til § 275.</head>
-               <p xml:id="d1e1304">
+            <div xml:id="d1e1313">
+               <head xml:id="d1e1315">Til § 275.</head>
+               <p xml:id="d1e1317">
 2.	Stk., L. 1: ,,§ 202" 1. „§ 320".
 </p>
             </div>
-            <div xml:id="d1e1307">
-               <head xml:id="d1e1309">Til § 279.</head>
-               <p xml:id="d1e1311">
+            <div xml:id="d1e1320">
+               <head xml:id="d1e1322">Til § 279.</head>
+               <p xml:id="d1e1324">
 1. Stk., L. 1: „§ 277" 1. „§ 395".
 </p>
-               <p xml:id="d1e1313">
-3.	Stk., L. 1: „§§ 8 og 85" 1. „§§ 129 og<lb xml:id="d1e1315"/>
+               <p xml:id="d1e1326">
+3.	Stk., L. 1: „§§ 8 og 85" 1. „§§ 129 og<lb xml:id="d1e1328"/>
 205".
 </p>
             </div>
-            <div xml:id="d1e1319">
-               <head xml:id="d1e1321">Til § 281.</head>
-               <p xml:id="d1e1323">
+            <div xml:id="d1e1332">
+               <head xml:id="d1e1334">Til § 281.</head>
+               <p xml:id="d1e1336">
 1.	Stk., L. 3: „§ 277" 1. „§ 395".
 </p>
-               <p xml:id="d1e1325">
+               <p xml:id="d1e1338">
 2.	Stk., L. 3: „§§213—216" 1. „§§ 331—334".
 </p>
             </div>
-            <div xml:id="d1e1328">
-               <head xml:id="d1e1330">Til § 282.</head>
-               <p xml:id="d1e1332">
-L. 2: „Kap. XVIII.—XX." 1. „Kap. 31<lb xml:id="d1e1334"/>
+            <div xml:id="d1e1341">
+               <head xml:id="d1e1343">Til § 282.</head>
+               <p xml:id="d1e1345">
+L. 2: „Kap. XVIII.—XX." 1. „Kap. 31<lb xml:id="d1e1347"/>
 —33".
 </p>
             </div>
-            <div xml:id="d1e1338">
-               <head xml:id="d1e1340">Til § 283.</head>
-               <p xml:id="d1e1342">
+            <div xml:id="d1e1351">
+               <head xml:id="d1e1353">Til § 283.</head>
+               <p xml:id="d1e1355">
 1. Stk., L. 1: „§ 6" 1. „§ 127".
 </p>
-               <p xml:id="d1e1344">
-1.	Stk., L. 5: ,.§§ 243, 244 og 245" 1.<lb xml:id="d1e1346"/>
+               <p xml:id="d1e1357">
+1.	Stk., L. 5: ,.§§ 243, 244 og 245" 1.<lb xml:id="d1e1359"/>
 „§§ 361, 362 og 363".
 </p>
-               <p xml:id="d1e1349">
+               <p xml:id="d1e1362">
 2.	Stk., L. 3: „Kap. XXI." 1. „Kap. 34".
 </p>
-               <p xml:id="d1e1351">
+               <p xml:id="d1e1364">
 3.	Stk., L. 1: „Kap. XXII." 1. „Kap. 35".
 </p>
             </div>
-            <div xml:id="d1e1354">
-               <head xml:id="d1e1356">Til § 284.</head>
-               <p xml:id="d1e1358">
+            <div xml:id="d1e1367">
+               <head xml:id="d1e1369">Til § 284.</head>
+               <p xml:id="d1e1371">
 L 1: „§ 246" 1. „§ 364".
 </p>
                <milestone type="rightside" xml:id="endd1e841" prev="startd1e841" n="2372" unit="column"/>
                <pb xml:id="idr12_00006_rigsdagtid_b2_1901_02" facs="r12_00006_rigsdagtid_b2_1901_02" n=""/>
-               <fw xml:id="d1e1364" type="head" place="top-left">2373</fw>
-               <fw xml:id="d1e1368" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
-               <fw xml:id="d1e1371" type="head" place="top-right">2374</fw>
+               <fw xml:id="d1e1377" type="head" place="top-left">2373</fw>
+               <fw xml:id="d1e1381" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw xml:id="d1e1384" type="head" place="top-right">2374</fw>
                <milestone type="leftside" xml:id="startd1e953" next="endd1e953" n="2373" unit="column"/>
             </div>
-            <div xml:id="d1e1378">
-               <head xml:id="d1e1380">Til § 285.</head>
-               <p xml:id="d1e1382">
-1. Stk.. L. 2: „§ 201" 1. „§ 319".<lb xml:id="d1e1384"/>
+            <div xml:id="d1e1391">
+               <head xml:id="d1e1393">Til § 285.</head>
+               <p xml:id="d1e1395">
+1. Stk.. L. 2: „§ 201" 1. „§ 319".<lb xml:id="d1e1397"/>
 3. Stk.. L. 3: „§ 202" 1. „§ 320".
 </p>
             </div>
-            <div xml:id="d1e1388">
-               <head xml:id="d1e1390">Til § 286.</head>
-               <p xml:id="d1e1392">
-1.	Stk., L. 2: „§§ 250 og 263" 1. ,,§§ 368<lb xml:id="d1e1394"/>
+            <div xml:id="d1e1401">
+               <head xml:id="d1e1403">Til § 286.</head>
+               <p xml:id="d1e1405">
+1.	Stk., L. 2: „§§ 250 og 263" 1. ,,§§ 368<lb xml:id="d1e1407"/>
 og 381".
 </p>
-               <p xml:id="d1e1397">
-2.	Stk., L. 1: ,,§§ 256 og 260" 1. „88 374<lb xml:id="d1e1399"/>
+               <p xml:id="d1e1410">
+2.	Stk., L. 1: ,,§§ 256 og 260" 1. „88 374<lb xml:id="d1e1412"/>
 og 378".
 </p>
-               <p xml:id="d1e1402">
-1. Stk., L. 2: ,,§§ 261 og 264" 1. „88 379<lb xml:id="d1e1404"/>
+               <p xml:id="d1e1415">
+1. Stk., L. 2: ,,§§ 261 og 264" 1. „88 379<lb xml:id="d1e1417"/>
 og 382".
 </p>
             </div>
-            <div xml:id="d1e1408">
-               <head xml:id="d1e1410">Til § 287.</head>
-               <p xml:id="d1e1412">
+            <div xml:id="d1e1421">
+               <head xml:id="d1e1423">Til § 287.</head>
+               <p xml:id="d1e1425">
 L. 4.: ,.§ 254" 1. „§ 372".
 </p>
             </div>
-            <div xml:id="d1e1415">
-               <head xml:id="d1e1417">Til § 288.</head>
-               <p xml:id="d1e1419">
+            <div xml:id="d1e1428">
+               <head xml:id="d1e1430">Til § 288.</head>
+               <p xml:id="d1e1432">
 1.	Stk., L. 4: ,.§ 218" 1. ,,§ 336".
 </p>
-               <p xml:id="d1e1421">
+               <p xml:id="d1e1434">
 2.	Stk., L. 2: ,.§ 200" 1. „§ 318".
 </p>
-               <p xml:id="d1e1423">
-2. Stk.. L. 4: ,.§§ 210 og 218" 1. ..§§ 328<lb xml:id="d1e1425"/>
+               <p xml:id="d1e1436">
+2. Stk.. L. 4: ,.§§ 210 og 218" 1. ..§§ 328<lb xml:id="d1e1438"/>
 og 336".
 </p>
             </div>
-            <div xml:id="d1e1429">
-               <head xml:id="d1e1431">Til § 291.</head>
-               <p xml:id="d1e1433">
-2. Stk., L. 4 og 3. Stk. L. 1: ,.§ 290"<lb xml:id="d1e1435"/>
+            <div xml:id="d1e1442">
+               <head xml:id="d1e1444">Til § 291.</head>
+               <p xml:id="d1e1446">
+2. Stk., L. 4 og 3. Stk. L. 1: ,.§ 290"<lb xml:id="d1e1448"/>
 1. ,.§ 408".
 </p>
             </div>
-            <div xml:id="d1e1439">
-               <head xml:id="d1e1441">Til § 292.</head>
-               <p xml:id="d1e1443">
-L. 1 og 4: „§ 290" 1. ,.§ 408".<lb xml:id="d1e1445"/>
-L. 3: ,.§§ 20, 30, 42, 45 og 75" 1. ,.§§ 141.<lb xml:id="d1e1447"/>
+            <div xml:id="d1e1452">
+               <head xml:id="d1e1454">Til § 292.</head>
+               <p xml:id="d1e1456">
+L. 1 og 4: „§ 290" 1. ,.§ 408".<lb xml:id="d1e1458"/>
+L. 3: ,.§§ 20, 30, 42, 45 og 75" 1. ,.§§ 141.<lb xml:id="d1e1460"/>
 151, 163, 166 og 195".
 </p>
             </div>
-            <div xml:id="d1e1452">
-               <head xml:id="d1e1454">Til § 293.</head>
-               <p xml:id="d1e1456">
+            <div xml:id="d1e1465">
+               <head xml:id="d1e1467">Til § 293.</head>
+               <p xml:id="d1e1469">
 L. 2: „Kap. XXIV." 1. „Kap. 37".
 </p>
             </div>
-            <div xml:id="d1e1459">
-               <head xml:id="d1e1461">Til § 298.</head>
-               <p xml:id="d1e1463">
+            <div xml:id="d1e1472">
+               <head xml:id="d1e1474">Til § 298.</head>
+               <p xml:id="d1e1476">
 L. 5: „§ 299" 1. ,.§ 417".
 </p>
             </div>
-            <div xml:id="d1e1466">
-               <head xml:id="d1e1468">Til § 299.</head>
-               <p xml:id="d1e1470">
+            <div xml:id="d1e1479">
+               <head xml:id="d1e1481">Til § 299.</head>
+               <p xml:id="d1e1483">
 L. 4: „§ 194" 1. „§ 312".
 </p>
             </div>
-            <div xml:id="d1e1473">
-               <head xml:id="d1e1475">Til § 300.</head>
-               <p xml:id="d1e1477">
+            <div xml:id="d1e1486">
+               <head xml:id="d1e1488">Til § 300.</head>
+               <p xml:id="d1e1490">
 L. 1: „§§ 297 og 298" 1. „§§ 415 og 416".
 </p>
             </div>
-            <div xml:id="d1e1480">
-               <head xml:id="d1e1482">Til § 301.</head>
-               <p xml:id="d1e1484">
+            <div xml:id="d1e1493">
+               <head xml:id="d1e1495">Til § 301.</head>
+               <p xml:id="d1e1497">
 L. 1: „Kap. XIX." 1. „Kap. 32".
 </p>
             </div>
-            <div xml:id="d1e1487">
-               <head xml:id="d1e1489">Til § 302.</head>
-               <p xml:id="d1e1491">
+            <div xml:id="d1e1500">
+               <head xml:id="d1e1502">Til § 302.</head>
+               <p xml:id="d1e1504">
 L. 3: „§ 296" 1. „§ 414".
 </p>
             </div>
-            <div xml:id="d1e1495">
-               <head xml:id="d1e1497">Til § 308.</head>
-               <p xml:id="d1e1499">
+            <div xml:id="d1e1508">
+               <head xml:id="d1e1510">Til § 308.</head>
+               <p xml:id="d1e1512">
 L. 2: „§§ 306 og 307" 1. „§§ 424 og 425".
 </p>
             </div>
-            <div xml:id="d1e1502">
-               <head xml:id="d1e1504">Til § 309.</head>
-               <p xml:id="d1e1506">
-L. 2: „§ 306" 1. „§ 424".<lb xml:id="d1e1508"/>
+            <div xml:id="d1e1515">
+               <head xml:id="d1e1517">Til § 309.</head>
+               <p xml:id="d1e1519">
+L. 2: „§ 306" 1. „§ 424".<lb xml:id="d1e1521"/>
 L. 3: „Kap. XI." 1. „Kap. 24".
 </p>
             </div>
-            <div xml:id="d1e1512">
-               <head xml:id="d1e1514">Til § 312.</head>
-               <p xml:id="d1e1516">
+            <div xml:id="d1e1525">
+               <head xml:id="d1e1527">Til § 312.</head>
+               <p xml:id="d1e1529">
 1. Stk., L. 2: „§ 303" 1. „§ 421".
 </p>
                <milestone type="leftside" xml:id="endd1e953" prev="startd1e953" n="2373" unit="column"/>
                <milestone type="rightside" xml:id="startd1e1055" next="endd1e1055" n="2374" unit="column"/>
             </div>
-            <div xml:id="d1e1523">
-               <head xml:id="d1e1525">Til § 315.</head>
-               <p xml:id="d1e1527">
+            <div xml:id="d1e1536">
+               <head xml:id="d1e1538">Til § 315.</head>
+               <p xml:id="d1e1540">
 L. 1: „§ 314" 1. „§ 432".
 </p>
             </div>
-            <div xml:id="d1e1530">
-               <head xml:id="d1e1532">Til § 331.</head>
-               <p xml:id="d1e1534">
+            <div xml:id="d1e1543">
+               <head xml:id="d1e1545">Til § 331.</head>
+               <p xml:id="d1e1547">
 L. 2: „§ 324" 1. „451".
 </p>
             </div>
-            <div xml:id="d1e1537">
-               <head xml:id="d1e1539">Til § 332.</head>
-               <p xml:id="d1e1541">
+            <div xml:id="d1e1550">
+               <head xml:id="d1e1552">Til § 332.</head>
+               <p xml:id="d1e1554">
 L. 3: „§ 325" 1. „§ 452".
 </p>
             </div>
-            <div xml:id="d1e1545">
-               <head xml:id="d1e1547">Til § 333.</head>
-               <p xml:id="d1e1549">
+            <div xml:id="d1e1558">
+               <head xml:id="d1e1560">Til § 333.</head>
+               <p xml:id="d1e1562">
 1. Stk. L. 3: „§ 109" 1. „§ 229".
 </p>
             </div>
-            <div xml:id="d1e1552">
-               <head xml:id="d1e1554">Til § 334.</head>
-               <p xml:id="d1e1556">
+            <div xml:id="d1e1565">
+               <head xml:id="d1e1567">Til § 334.</head>
+               <p xml:id="d1e1569">
 1.	Stk. L. 3: „§ 333" 1. „§ 460".
 </p>
             </div>
-            <div xml:id="d1e1559">
-               <head xml:id="d1e1561">Til § 335.</head>
-               <p xml:id="d1e1563">
-2.	Stk.. L. 1: „§ 153, jfr. §§ 182 og 192"<lb xml:id="d1e1565"/>
+            <div xml:id="d1e1572">
+               <head xml:id="d1e1574">Til § 335.</head>
+               <p xml:id="d1e1576">
+2.	Stk.. L. 1: „§ 153, jfr. §§ 182 og 192"<lb xml:id="d1e1578"/>
 1. „§' 271, jfr. §§ 300 og 310".
 </p>
-               <p xml:id="d1e1568">
+               <p xml:id="d1e1581">
 2.	Stk., L. 2: ,.§ 153" 1. „§ 271".
 </p>
             </div>
-            <div xml:id="d1e1571">
-               <head xml:id="d1e1573">Til § 336.</head>
-               <p xml:id="d1e1575">
+            <div xml:id="d1e1584">
+               <head xml:id="d1e1586">Til § 336.</head>
+               <p xml:id="d1e1588">
 L. 5: „Kap. VIII." 1. Kap. 21".
 </p>
             </div>
-            <div xml:id="d1e1578">
-               <head xml:id="d1e1580">Til § 339.</head>
-               <p xml:id="d1e1582">
-1. Stk., L. 2: „§§ 340—342" 1. „§§ 467—<lb xml:id="d1e1584"/>
+            <div xml:id="d1e1591">
+               <head xml:id="d1e1593">Til § 339.</head>
+               <p xml:id="d1e1595">
+1. Stk., L. 2: „§§ 340—342" 1. „§§ 467—<lb xml:id="d1e1597"/>
 469".
 </p>
-               <p xml:id="d1e1587">
+               <p xml:id="d1e1600">
 1. Stk., L. 2: „Kap. XXXI." 1. „Kap. 45".
 </p>
-               <p xml:id="d1e1589">
+               <p xml:id="d1e1602">
 3.	Stk., L. 1 og 3: „§ 326" 1. „§ 453".
 </p>
-               <p xml:id="d1e1591">
+               <p xml:id="d1e1604">
 6. Stk., L. 2: „§ 345" 1. „§ 472„.
 </p>
             </div>
-            <div xml:id="d1e1594">
-               <head xml:id="d1e1596">Til § 341.</head>
-               <p xml:id="d1e1598">
+            <div xml:id="d1e1607">
+               <head xml:id="d1e1609">Til § 341.</head>
+               <p xml:id="d1e1611">
 L. 4: „§ 339" 1. „§ 466".
 </p>
             </div>
-            <div xml:id="d1e1602">
-               <head xml:id="d1e1604">Til § 343.</head>
-               <p xml:id="d1e1606">
+            <div xml:id="d1e1615">
+               <head xml:id="d1e1617">Til § 343.</head>
+               <p xml:id="d1e1619">
 L. 3: „339" 1. „§ 466".
 </p>
-               <p xml:id="d1e1608">
-L. 4: „Kap. XXXI." 1. „Kap. 45".<lb xml:id="d1e1610"/>
+               <p xml:id="d1e1621">
+L. 4: „Kap. XXXI." 1. „Kap. 45".<lb xml:id="d1e1623"/>
 L. 6: „§ 345" 1. „472".
 </p>
             </div>
-            <div xml:id="d1e1614">
-               <head xml:id="d1e1616">Til § 344.</head>
-               <p xml:id="d1e1618">
+            <div xml:id="d1e1627">
+               <head xml:id="d1e1629">Til § 344.</head>
+               <p xml:id="d1e1631">
 L. 3: „§§ 339—343" 1. „466—470".
 </p>
             </div>
-            <div xml:id="d1e1621">
-               <head xml:id="d1e1623">Til § 345.</head>
-               <p xml:id="d1e1625">
-1. Stk., L. 4 og 11: „§§ 339—343" 1.<lb xml:id="d1e1627"/>
+            <div xml:id="d1e1634">
+               <head xml:id="d1e1636">Til § 345.</head>
+               <p xml:id="d1e1638">
+1. Stk., L. 4 og 11: „§§ 339—343" 1.<lb xml:id="d1e1640"/>
 „§§ 466-470".
 </p>
             </div>
-            <div xml:id="d1e1631">
-               <head xml:id="d1e1633">Til § 347.</head>
-               <p xml:id="d1e1635">
-1. Stk., L. 4: „§§ S84. 386 og 392" 1.<lb xml:id="d1e1637"/>
+            <div xml:id="d1e1644">
+               <head xml:id="d1e1646">Til § 347.</head>
+               <p xml:id="d1e1648">
+1. Stk., L. 4: „§§ S84. 386 og 392" 1.<lb xml:id="d1e1650"/>
 „§§ 514, 516 og 522".
 </p>
             </div>
-            <div xml:id="d1e1641">
-               <head xml:id="d1e1643">Til § 349.</head>
-               <p xml:id="d1e1645">
-1. Stk., L. 4: „§§ 350, 403 og 404" 1. „§§ 477.<lb xml:id="d1e1647"/>
+            <div xml:id="d1e1654">
+               <head xml:id="d1e1656">Til § 349.</head>
+               <p xml:id="d1e1658">
+1. Stk., L. 4: „§§ 350, 403 og 404" 1. „§§ 477.<lb xml:id="d1e1660"/>
 533 og 534".
 </p>
             </div>
-            <div xml:id="d1e1651">
-               <head xml:id="d1e1653">Til § 351.</head>
-               <p xml:id="d1e1655">
+            <div xml:id="d1e1664">
+               <head xml:id="d1e1666">Til § 351.</head>
+               <p xml:id="d1e1668">
 L. 4: „§ 403" 1. „§ 533".
 </p>
                <milestone type="rightside" xml:id="endd1e1055" prev="startd1e1055" n="2374" unit="column"/>
                <pb xml:id="idr12_00007_rigsdagtid_b2_1901_02" facs="r12_00007_rigsdagtid_b2_1901_02" n=""/>
-               <fw xml:id="d1e1661" type="head" place="top-left">2375</fw>
-               <fw xml:id="d1e1665" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
-               <fw xml:id="d1e1668" type="head" place="top-right">2376</fw>
+               <fw xml:id="d1e1674" type="head" place="top-left">2375</fw>
+               <fw xml:id="d1e1678" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw xml:id="d1e1681" type="head" place="top-right">2376</fw>
                <milestone type="leftside" xml:id="startd1e1162" next="endd1e1162" n="2375" unit="column"/>
             </div>
-            <div xml:id="d1e1675">
-               <head xml:id="d1e1677">Til § 352.</head>
-               <p xml:id="d1e1679">
+            <div xml:id="d1e1688">
+               <head xml:id="d1e1690">Til § 352.</head>
+               <p xml:id="d1e1692">
 1. Stk., L. 2: „§ 363" 1. ,,§ 490".
 </p>
             </div>
-            <div xml:id="d1e1682">
-               <head xml:id="d1e1684">Til § 354.</head>
-               <p xml:id="d1e1686">
+            <div xml:id="d1e1695">
+               <head xml:id="d1e1697">Til § 354.</head>
+               <p xml:id="d1e1699">
 1. Stk., L. 1: „§ 350" 1. „§ 477".
 </p>
             </div>
-            <div xml:id="d1e1689">
-               <head xml:id="d1e1691">Til § 364.</head>
-               <p xml:id="d1e1693">
+            <div xml:id="d1e1702">
+               <head xml:id="d1e1704">Til § 364.</head>
+               <p xml:id="d1e1706">
 L. 5: „Kap. XXXI" 1. „Kap. 45".
 </p>
             </div>
-            <div xml:id="d1e1696">
-               <head xml:id="d1e1698">Til § 368.</head>
-               <p xml:id="d1e1700">
+            <div xml:id="d1e1709">
+               <head xml:id="d1e1711">Til § 368.</head>
+               <p xml:id="d1e1713">
 1.	Stk., L. 1 : „§ 329" 1. „§ 456".
 </p>
             </div>
-            <div xml:id="d1e1703">
-               <head xml:id="d1e1705">Til § 374.</head>
-               <p xml:id="d1e1707">
+            <div xml:id="d1e1716">
+               <head xml:id="d1e1718">Til § 374.</head>
+               <p xml:id="d1e1720">
 2.	Stk., L. 5: „§ 363" 1. „§ 490".
 </p>
             </div>
-            <div xml:id="d1e1710">
-               <head xml:id="d1e1712">Til § 381.</head>
-               <p xml:id="d1e1714">
-L. 1: „§ 380, jfr. § 379" 1. „§ 507, jfr.<lb xml:id="d1e1716"/>
+            <div xml:id="d1e1723">
+               <head xml:id="d1e1725">Til § 381.</head>
+               <p xml:id="d1e1727">
+L. 1: „§ 380, jfr. § 379" 1. „§ 507, jfr.<lb xml:id="d1e1729"/>
 § 506".
 </p>
             </div>
-            <div xml:id="d1e1721">
-               <head xml:id="d1e1723">Til § 384.</head>
-               <p xml:id="d1e1725">
+            <div xml:id="d1e1734">
+               <head xml:id="d1e1736">Til § 384.</head>
+               <p xml:id="d1e1738">
 1.	Stk., L. 3: „§ 403" 1. „§ 533".
 </p>
-               <p xml:id="d1e1727">
+               <p xml:id="d1e1740">
 4. Stk., L. 3: „§ 452" 1. „§ 578".
 </p>
             </div>
-            <div xml:id="d1e1730">
-               <head xml:id="d1e1732">Til § 386.</head>
-               <p xml:id="d1e1734">
+            <div xml:id="d1e1743">
+               <head xml:id="d1e1745">Til § 386.</head>
+               <p xml:id="d1e1747">
 2.	Stk., L. 2: „§ 326" 1. „§ 453".
 </p>
             </div>
-            <div xml:id="d1e1737">
-               <head xml:id="d1e1739">Til § 387.</head>
-               <p xml:id="d1e1741">
+            <div xml:id="d1e1750">
+               <head xml:id="d1e1752">Til § 387.</head>
+               <p xml:id="d1e1754">
 L. 1: „§ 328" 1. „§ 455".
 </p>
             </div>
-            <div xml:id="d1e1744">
-               <head xml:id="d1e1746">Til § 390.</head>
-               <p xml:id="d1e1748">
-L. 2: „§ 384" 1. „§ 514" og „§ 402" 1.<lb xml:id="d1e1750"/>
+            <div xml:id="d1e1757">
+               <head xml:id="d1e1759">Til § 390.</head>
+               <p xml:id="d1e1761">
+L. 2: „§ 384" 1. „§ 514" og „§ 402" 1.<lb xml:id="d1e1763"/>
 „§ 532".
 </p>
             </div>
-            <div xml:id="d1e1754">
-               <head xml:id="d1e1756">Til § 397.</head>
-               <p xml:id="d1e1758">
+            <div xml:id="d1e1767">
+               <head xml:id="d1e1769">Til § 397.</head>
+               <p xml:id="d1e1771">
 1. Stk.. L. 6: „§ 400" 1. „§ 530".
 </p>
             </div>
-            <div xml:id="d1e1761">
-               <head xml:id="d1e1763">Til § 398.</head>
-               <p xml:id="d1e1765">
+            <div xml:id="d1e1774">
+               <head xml:id="d1e1776">Til § 398.</head>
+               <p xml:id="d1e1778">
 L. 3: „§ 397" 1. „§ 527".
 </p>
             </div>
-            <div xml:id="d1e1769">
-               <head xml:id="d1e1771">Til § 401.</head>
-               <p xml:id="d1e1773">
+            <div xml:id="d1e1782">
+               <head xml:id="d1e1784">Til § 401.</head>
+               <p xml:id="d1e1786">
 1.	Stk., L. 2: „§ 81" 1. „§ 201".
 </p>
             </div>
-            <div xml:id="d1e1776">
-               <head xml:id="d1e1778">Til § 405.</head>
-               <p xml:id="d1e1780">
-L. 1: „§§ 403 og 404" 1. „§§ 533 og 534".<lb xml:id="d1e1782"/>
+            <div xml:id="d1e1789">
+               <head xml:id="d1e1791">Til § 405.</head>
+               <p xml:id="d1e1793">
+L. 1: „§§ 403 og 404" 1. „§§ 533 og 534".<lb xml:id="d1e1795"/>
 L. 2: „§§ 400 og 401" 1. „§§ 530 og 531".
 </p>
             </div>
-            <div xml:id="d1e1786">
-               <head xml:id="d1e1788">Til § 406.</head>
-               <p xml:id="d1e1790">
+            <div xml:id="d1e1799">
+               <head xml:id="d1e1801">Til § 406.</head>
+               <p xml:id="d1e1803">
 2.	Stk., L. 4: „§ 416" 1. „§ 546".
 </p>
             </div>
-            <div xml:id="d1e1793">
-               <head xml:id="d1e1795">Til § 407.</head>
-               <p xml:id="d1e1797">
+            <div xml:id="d1e1806">
+               <head xml:id="d1e1808">Til § 407.</head>
+               <p xml:id="d1e1810">
 1.	Stk., L. 1: „§ 406" 1. „§ 536".
 </p>
-               <p xml:id="d1e1799">
+               <p xml:id="d1e1812">
 2.	Stk., L. 5: „§ 81" 1. „§ 201".
 </p>
-               <p xml:id="d1e1801">
-2.	Stk., L. 9: „§§ 401 og 390" 1. „§§ 531<lb xml:id="d1e1803"/>
+               <p xml:id="d1e1814">
+2.	Stk., L. 9: „§§ 401 og 390" 1. „§§ 531<lb xml:id="d1e1816"/>
 og 502".
 </p>
             </div>
-            <div xml:id="d1e1807">
-               <head xml:id="d1e1809">Til § 408.</head>
-               <p xml:id="d1e1811">
+            <div xml:id="d1e1820">
+               <head xml:id="d1e1822">Til § 408.</head>
+               <p xml:id="d1e1824">
 3.	Stk., L. 6: „§ 407" 1. „§ 537".
 </p>
                <milestone type="leftside" xml:id="endd1e1162" prev="startd1e1162" n="2375" unit="column"/>
                <milestone type="rightside" xml:id="startd1e1257" next="endd1e1257" n="2376" unit="column"/>
             </div>
-            <div xml:id="d1e1818">
-               <head xml:id="d1e1820">Til § 409.</head>
-               <p xml:id="d1e1822">
+            <div xml:id="d1e1831">
+               <head xml:id="d1e1833">Til § 409.</head>
+               <p xml:id="d1e1835">
 3. Stk., L. 4: „§ 427" 1. „§ 557".
 </p>
             </div>
-            <div xml:id="d1e1826">
-               <head xml:id="d1e1828">Til § 410.</head>
-               <p xml:id="d1e1830">
+            <div xml:id="d1e1839">
+               <head xml:id="d1e1841">Til § 410.</head>
+               <p xml:id="d1e1843">
 1. Stk., L. 2: „§ 408" 1. „§ 538".
 </p>
             </div>
-            <div xml:id="d1e1833">
-               <head xml:id="d1e1835">Til § 411.</head>
-               <p xml:id="d1e1837">
+            <div xml:id="d1e1846">
+               <head xml:id="d1e1848">Til § 411.</head>
+               <p xml:id="d1e1850">
 L. 1: „§§ 408—410" 1. „§§ 538—540".
 </p>
             </div>
-            <div xml:id="d1e1840">
-               <head xml:id="d1e1842">Til § 412.</head>
-               <p xml:id="d1e1844">
+            <div xml:id="d1e1853">
+               <head xml:id="d1e1855">Til § 412.</head>
+               <p xml:id="d1e1857">
 L. 1: „§ 407" 1. „§ 537".
 </p>
             </div>
-            <div xml:id="d1e1847">
-               <head xml:id="d1e1849">Til § 413.</head>
-               <p xml:id="d1e1851">
-1. Stk., L. 5: „§§ 408—411" 1. „§§ 538<lb xml:id="d1e1853"/>
+            <div xml:id="d1e1860">
+               <head xml:id="d1e1862">Til § 413.</head>
+               <p xml:id="d1e1864">
+1. Stk., L. 5: „§§ 408—411" 1. „§§ 538<lb xml:id="d1e1866"/>
 -541".
 </p>
-               <p xml:id="d1e1856">
+               <p xml:id="d1e1869">
 3. Stk., L. 2: „§ 407" 1. „§ 537".
 </p>
-               <p xml:id="d1e1858">
+               <p xml:id="d1e1871">
 3. Stk., L. 10: „§ 401" 1. „§ 531".
 </p>
             </div>
-            <div xml:id="d1e1861">
-               <head xml:id="d1e1863">Til § 414.</head>
-               <p xml:id="d1e1865">
+            <div xml:id="d1e1874">
+               <head xml:id="d1e1876">Til § 414.</head>
+               <p xml:id="d1e1878">
 L. 6: „§ 427" 1. „§ 557".
 </p>
             </div>
-            <div xml:id="d1e1868">
-               <head xml:id="d1e1870">Til § 415.</head>
-               <p xml:id="d1e1872">
+            <div xml:id="d1e1881">
+               <head xml:id="d1e1883">Til § 415.</head>
+               <p xml:id="d1e1885">
 L. 2: „§ 407" 1. „§ 537".
 </p>
             </div>
-            <div xml:id="d1e1876">
-               <head xml:id="d1e1878">Til § 416.</head>
-               <p xml:id="d1e1880">
-1. Stk.. L. 5: „§ 407" 1. „§ 537".<lb xml:id="d1e1882"/>
+            <div xml:id="d1e1889">
+               <head xml:id="d1e1891">Til § 416.</head>
+               <p xml:id="d1e1893">
+1. Stk.. L. 5: „§ 407" 1. „§ 537".<lb xml:id="d1e1895"/>
 1. Stk., L. 6: „§ 413" 1. „§ 543".
 </p>
             </div>
-            <div xml:id="d1e1886">
-               <head xml:id="d1e1888">Til § 419.</head>
-               <p xml:id="d1e1890">
-1. Stk., L. 5: „§ 413" 1. „§ 543".<lb xml:id="d1e1892"/>
-1. Stk., L. 8: „§ 414" 1. „§ 544".<lb xml:id="d1e1894"/>
-1. Stk., L. 11: „§ 412" 1. „§ 542".<lb xml:id="d1e1896"/>
+            <div xml:id="d1e1899">
+               <head xml:id="d1e1901">Til § 419.</head>
+               <p xml:id="d1e1903">
+1. Stk., L. 5: „§ 413" 1. „§ 543".<lb xml:id="d1e1905"/>
+1. Stk., L. 8: „§ 414" 1. „§ 544".<lb xml:id="d1e1907"/>
+1. Stk., L. 11: „§ 412" 1. „§ 542".<lb xml:id="d1e1909"/>
 1. Stk., L. 21: „§ 417" 1. „§ 547".
 </p>
             </div>
-            <div xml:id="d1e1900">
-               <head xml:id="d1e1902">Til § 421.</head>
-               <p xml:id="d1e1904">
+            <div xml:id="d1e1913">
+               <head xml:id="d1e1915">Til § 421.</head>
+               <p xml:id="d1e1917">
 L. 1: „§ 416" 1. „§ 546".
 </p>
             </div>
-            <div xml:id="d1e1907">
-               <head xml:id="d1e1909">Til § 422.</head>
-               <p xml:id="d1e1911">
+            <div xml:id="d1e1920">
+               <head xml:id="d1e1922">Til § 422.</head>
+               <p xml:id="d1e1924">
 1. Stk., L. 7: „§ 416" 1. „§ 546".
 </p>
             </div>
-            <div xml:id="d1e1914">
-               <head xml:id="d1e1916">Til § 423.</head>
-               <p xml:id="d1e1918">
+            <div xml:id="d1e1927">
+               <head xml:id="d1e1929">Til § 423.</head>
+               <p xml:id="d1e1931">
 1.	Stk., L. 2: „§ 417" 1. „547".
 </p>
             </div>
-            <div xml:id="d1e1921">
-               <head xml:id="d1e1923">Til § 425.</head>
-               <p xml:id="d1e1925">
+            <div xml:id="d1e1934">
+               <head xml:id="d1e1936">Til § 425.</head>
+               <p xml:id="d1e1938">
 2.	Stk., L. 1: „§ 410" 1. „§ 540".
 </p>
             </div>
-            <div xml:id="d1e1929">
-               <head xml:id="d1e1931">Til § 426.</head>
-               <p xml:id="d1e1933">
+            <div xml:id="d1e1942">
+               <head xml:id="d1e1944">Til § 426.</head>
+               <p xml:id="d1e1946">
 L. 3: „§ 414" 1. „§ 544".
 </p>
             </div>
-            <div xml:id="d1e1936">
-               <head xml:id="d1e1938">Til § 427.</head>
-               <p xml:id="d1e1940">
+            <div xml:id="d1e1949">
+               <head xml:id="d1e1951">Til § 427.</head>
+               <p xml:id="d1e1953">
 1. Stk., L. 1: „§ 414" 1. „§ 544".
 </p>
-               <p xml:id="d1e1942">
+               <p xml:id="d1e1955">
 1.	Stk., L. 11: „§ 81" 1. „§ 201".
 </p>
             </div>
-            <div xml:id="d1e1945">
-               <head xml:id="d1e1947">Til § 428.</head>
-               <p xml:id="d1e1949">
+            <div xml:id="d1e1958">
+               <head xml:id="d1e1960">Til § 428.</head>
+               <p xml:id="d1e1962">
 2.	Stk., L. 2: „§ 423" 1. „§ 553",
 </p>
                <milestone type="rightside" xml:id="endd1e1257" prev="startd1e1257" n="2376" unit="column"/>
                <pb xml:id="idr12_00008_rigsdagtid_b2_1901_02" facs="r12_00008_rigsdagtid_b2_1901_02" n=""/>
-               <fw xml:id="d1e1955" type="head" place="top-left">2377</fw>
-               <fw xml:id="d1e1959" type="head" place="top-middle">Tillæg B. (150).	Ordentl. Samling 1901-02. </fw>
-               <fw xml:id="d1e1962" type="head" place="top-right">2378</fw>
-               <topmidle xml:id="d1e1965">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
+               <fw xml:id="d1e1968" type="head" place="top-left">2377</fw>
+               <fw xml:id="d1e1972" type="head" place="top-middle">Tillæg B. (150).	Ordentl. Samling 1901-02. </fw>
+               <fw xml:id="d1e1975" type="head" place="top-right">2378</fw>
+               <topmidle xml:id="d1e1978">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</topmidle>
                <milestone type="leftside" xml:id="startd1e1362" next="endd1e1362" n="2377" unit="column"/>
             </div>
-            <div xml:id="d1e1970">
-               <head xml:id="d1e1972">Til § 429.</head>
-               <p xml:id="d1e1974">
+            <div xml:id="d1e1983">
+               <head xml:id="d1e1985">Til § 429.</head>
+               <p xml:id="d1e1987">
 1. Stk., L. 10: „§ 427" 1. „§ 557".
 </p>
             </div>
-            <div xml:id="d1e1977">
-               <head xml:id="d1e1979">Til § 430.</head>
-               <p xml:id="d1e1981">
+            <div xml:id="d1e1990">
+               <head xml:id="d1e1992">Til § 430.</head>
+               <p xml:id="d1e1994">
 L. 1: ,,§ 438" 1. „§ 568".
 </p>
             </div>
-            <div xml:id="d1e1984">
-               <head xml:id="d1e1986">Til § 432.</head>
-               <p xml:id="d1e1988">
+            <div xml:id="d1e1997">
+               <head xml:id="d1e1999">Til § 432.</head>
+               <p xml:id="d1e2001">
 1. Stk., L. 1: „Kap. XXXV." 1. „Kap. 50".
 </p>
             </div>
-            <div xml:id="d1e1992">
-               <head xml:id="d1e1994">Til § 433.</head>
-               <p xml:id="d1e1996">
-L. 2: „§§ 368, 369 og 370" 1. „§§ 495,<lb xml:id="d1e1998"/>
+            <div xml:id="d1e2005">
+               <head xml:id="d1e2007">Til § 433.</head>
+               <p xml:id="d1e2009">
+L. 2: „§§ 368, 369 og 370" 1. „§§ 495,<lb xml:id="d1e2011"/>
 496 og 497".
 </p>
             </div>
-            <div xml:id="d1e2002">
-               <head xml:id="d1e2004">Til § 434.</head>
-               <p xml:id="d1e2006">
+            <div xml:id="d1e2015">
+               <head xml:id="d1e2017">Til § 434.</head>
+               <p xml:id="d1e2019">
 1. Stk., L. 1: „§ 371" 1. „§ 498".
 </p>
             </div>
-            <div xml:id="d1e2009">
-               <head xml:id="d1e2011">Til § 435.</head>
-               <p xml:id="d1e2013">
+            <div xml:id="d1e2022">
+               <head xml:id="d1e2024">Til § 435.</head>
+               <p xml:id="d1e2026">
 L. 1: „§ 372" 1. „§ 499".
 </p>
             </div>
-            <div xml:id="d1e2016">
-               <head xml:id="d1e2018">Til § 436.</head>
-               <p xml:id="d1e2020">
+            <div xml:id="d1e2029">
+               <head xml:id="d1e2031">Til § 436.</head>
+               <p xml:id="d1e2033">
 L. 1: „§ 373" 1. „§ 500".
 </p>
             </div>
-            <div xml:id="d1e2023">
-               <head xml:id="d1e2025">Til § 446.</head>
-               <p xml:id="d1e2027">
+            <div xml:id="d1e2036">
+               <head xml:id="d1e2038">Til § 446.</head>
+               <p xml:id="d1e2040">
 1. Stk., L. 5: „Kap. VIII." 1. „Kap. 21".
 </p>
             </div>
-            <div xml:id="d1e2030">
-               <head xml:id="d1e2032">Til § 449.</head>
-               <p xml:id="d1e2034">
+            <div xml:id="d1e2043">
+               <head xml:id="d1e2045">Til § 449.</head>
+               <p xml:id="d1e2047">
 1. Stk., L. 5: ,,§ 446" 1. „§ 572".
 </p>
             </div>
-            <div xml:id="d1e2038">
-               <head xml:id="d1e2040">Til § 450.</head>
-               <p xml:id="d1e2042">
+            <div xml:id="d1e2051">
+               <head xml:id="d1e2053">Til § 450.</head>
+               <p xml:id="d1e2055">
 3. Stk., L. 2: „§ 445" 1. „§ 571".
 </p>
             </div>
-            <div xml:id="d1e2045">
-               <head xml:id="d1e2047">Til § 452.</head>
-               <p xml:id="d1e2049">
-L. 2: „§ 451" 1. ,,§ 577".<lb xml:id="d1e2051"/>
-L. 5: ,.§§ 453 og 454" 1. „§ 579".<lb xml:id="d1e2053"/>
+            <div xml:id="d1e2058">
+               <head xml:id="d1e2060">Til § 452.</head>
+               <p xml:id="d1e2062">
+L. 2: „§ 451" 1. ,,§ 577".<lb xml:id="d1e2064"/>
+L. 5: ,.§§ 453 og 454" 1. „§ 579".<lb xml:id="d1e2066"/>
 L. 8: „Kap. XXXIII." 1. „Kap. 48".
 </p>
             </div>
-            <div xml:id="d1e2057">
-               <head xml:id="d1e2059">Til § 460.</head>
-               <p xml:id="d1e2061">
+            <div xml:id="d1e2070">
+               <head xml:id="d1e2072">Til § 460.</head>
+               <p xml:id="d1e2074">
 L. 1: „§ 459" 1. „§ 583".
 </p>
             </div>
-            <div xml:id="d1e2064">
-               <head xml:id="d1e2066">Til § 472.</head>
-               <p xml:id="d1e2068">
+            <div xml:id="d1e2077">
+               <head xml:id="d1e2079">Til § 472.</head>
+               <p xml:id="d1e2081">
 1.	Stk., L. 2: „§ 326" 1. „§ 453".
 </p>
-               <p xml:id="d1e2070">
+               <p xml:id="d1e2083">
 2.	Stk., L. 1: „§ 326" 1. „§ 453".
 </p>
             </div>
-            <div xml:id="d1e2073">
-               <head xml:id="d1e2075">Til § 473.</head>
-               <p xml:id="d1e2077">
+            <div xml:id="d1e2086">
+               <head xml:id="d1e2088">Til § 473.</head>
+               <p xml:id="d1e2090">
 L. 2: „§ 327" 1. „§ 454".
 </p>
             </div>
-            <div xml:id="d1e2080">
-               <head xml:id="d1e2082">Til § 474.</head>
-               <p xml:id="d1e2084">
+            <div xml:id="d1e2093">
+               <head xml:id="d1e2095">Til § 474.</head>
+               <p xml:id="d1e2097">
 3.	Stk., L. 1: „§ 290" 1. „§ 408".
 </p>
-               <p xml:id="d1e2086">
+               <p xml:id="d1e2099">
 3. Stk., L. 4: „Kap. XXV" 1. „Kap. 38".
 </p>
             </div>
-            <div xml:id="d1e2090">
-               <head xml:id="d1e2092">Til § 476.</head>
-               <p xml:id="d1e2094">
+            <div xml:id="d1e2103">
+               <head xml:id="d1e2105">Til § 476.</head>
+               <p xml:id="d1e2107">
 L. 1: „§ 363" 1. „§ 490".
 </p>
             </div>
-            <div xml:id="d1e2097">
-               <head xml:id="d1e2099">Til § 479.</head>
-               <p xml:id="d1e2101">
-L. 2: „§§ 352 og 353" 1. „§§ 479 og 480".<lb xml:id="d1e2103"/>
+            <div xml:id="d1e2110">
+               <head xml:id="d1e2112">Til § 479.</head>
+               <p xml:id="d1e2114">
+L. 2: „§§ 352 og 353" 1. „§§ 479 og 480".<lb xml:id="d1e2116"/>
 L. 4: „§§ 365—373" 1. „§§ 492—500".
 </p>
                <milestone type="leftside" xml:id="endd1e1362" prev="startd1e1362" n="2377" unit="column"/>
                <milestone type="rightside" xml:id="startd1e1454" next="endd1e1454" n="2378" unit="column"/>
             </div>
-            <div xml:id="d1e2111">
-               <head xml:id="d1e2113">Til § 480.</head>
-               <p xml:id="d1e2115">
+            <div xml:id="d1e2124">
+               <head xml:id="d1e2126">Til § 480.</head>
+               <p xml:id="d1e2128">
 L. 7: „§ 363" 1. „§ 490".
 </p>
             </div>
-            <div xml:id="d1e2118">
-               <head xml:id="d1e2120">Til § 481.</head>
-               <p xml:id="d1e2122">
+            <div xml:id="d1e2131">
+               <head xml:id="d1e2133">Til § 481.</head>
+               <p xml:id="d1e2135">
 1.	Stk., L. 6: „§ 94" 1. „§ 214".
 </p>
-               <p xml:id="d1e2124">
-2.	Stk., L. 5: „§§ 94 og 95" 1. „§§ 214 og<lb xml:id="d1e2126"/>
+               <p xml:id="d1e2137">
+2.	Stk., L. 5: „§§ 94 og 95" 1. „§§ 214 og<lb xml:id="d1e2139"/>
 215".
 </p>
-               <p xml:id="d1e2129">
+               <p xml:id="d1e2142">
 3.	Stk., L. 4: „§ 95" 1. „§ 215".
 </p>
             </div>
-            <div xml:id="d1e2132">
-               <head xml:id="d1e2134">Til § 486.</head>
-               <p xml:id="d1e2136">
+            <div xml:id="d1e2145">
+               <head xml:id="d1e2147">Til § 486.</head>
+               <p xml:id="d1e2149">
 L. 2: „§ 481" 1. „§ 605".
 </p>
             </div>
-            <div xml:id="d1e2139">
-               <head xml:id="d1e2141">Til § 487.</head>
-               <p xml:id="d1e2143">
+            <div xml:id="d1e2152">
+               <head xml:id="d1e2154">Til § 487.</head>
+               <p xml:id="d1e2156">
 L. 4: „§ 486" 1. „§ 610".
 </p>
             </div>
-            <div xml:id="d1e2147">
-               <head xml:id="d1e2149">Til § 489.</head>
-               <p xml:id="d1e2151">
+            <div xml:id="d1e2160">
+               <head xml:id="d1e2162">Til § 489.</head>
+               <p xml:id="d1e2164">
 L. 4: „§ 487" 1. „§ 611".
 </p>
             </div>
-            <div xml:id="d1e2154">
-               <head xml:id="d1e2156">Til § 499.</head>
-               <p xml:id="d1e2158">
-L. 2: „§§ 472—476" 1. „§§ 596—600".<lb xml:id="d1e2160"/>
-L. 2—3:'§§ 480—481" 1. „§§ 604—608".<lb xml:id="d1e2162"/>
+            <div xml:id="d1e2167">
+               <head xml:id="d1e2169">Til § 499.</head>
+               <p xml:id="d1e2171">
+L. 2: „§§ 472—476" 1. „§§ 596—600".<lb xml:id="d1e2173"/>
+L. 2—3:'§§ 480—481" 1. „§§ 604—608".<lb xml:id="d1e2175"/>
 L. 3: „§§ 483—492" 1. „§§ 608—614".
 </p>
             </div>
-            <div xml:id="d1e2166">
-               <head xml:id="d1e2168">Til § 500.</head>
-               <p xml:id="d1e2170">
+            <div xml:id="d1e2179">
+               <head xml:id="d1e2181">Til § 500.</head>
+               <p xml:id="d1e2183">
 L. 3: „§ 459" 1. „§ 583".
 </p>
             </div>
-            <div xml:id="d1e2173">
-               <head xml:id="d1e2175">Til § 505.</head>
-               <p xml:id="d1e2177">
+            <div xml:id="d1e2186">
+               <head xml:id="d1e2188">Til § 505.</head>
+               <p xml:id="d1e2190">
 1. Stk., L. 1: „§ 503" 1. „§ 625".
 </p>
             </div>
-            <div xml:id="d1e2180">
-               <head xml:id="d1e2182">Til § 506.</head>
-               <p xml:id="d1e2184">
+            <div xml:id="d1e2193">
+               <head xml:id="d1e2195">Til § 506.</head>
+               <p xml:id="d1e2197">
 1. Stk., L. 1: „§ 503" 1. ,,§ 625".
 </p>
             </div>
-            <div xml:id="d1e2187">
-               <head xml:id="d1e2189">Til § 507.</head>
-               <p xml:id="d1e2191">
+            <div xml:id="d1e2200">
+               <head xml:id="d1e2202">Til § 507.</head>
+               <p xml:id="d1e2204">
 L. 3: „§§ 502 og 503" 1. „§§ 624 og 625".
 </p>
             </div>
-            <div xml:id="d1e2195">
-               <head xml:id="d1e2197">Til § 509.</head>
-               <p xml:id="d1e2199">
+            <div xml:id="d1e2208">
+               <head xml:id="d1e2210">Til § 509.</head>
+               <p xml:id="d1e2212">
 3. Stk., L. 2: „§ 508" 1. „§ 630".
 </p>
             </div>
-            <div xml:id="d1e2202">
-               <head xml:id="d1e2204">Til § 517.</head>
-               <p xml:id="d1e2206">
+            <div xml:id="d1e2215">
+               <head xml:id="d1e2217">Til § 517.</head>
+               <p xml:id="d1e2219">
 1. Stk., L. 1: „§ 575" 1. „§ 635".
 </p>
             </div>
-            <div xml:id="d1e2209">
-               <head xml:id="d1e2211">Til § 518.</head>
-               <p xml:id="d1e2213">
+            <div xml:id="d1e2222">
+               <head xml:id="d1e2224">Til § 518.</head>
+               <p xml:id="d1e2226">
 1. Stk., L. 1: „§ 515" 1. „§ 635".
 </p>
             </div>
-            <div xml:id="d1e2216">
-               <head xml:id="d1e2218">Til § 519.</head>
-               <p xml:id="d1e2220">
+            <div xml:id="d1e2229">
+               <head xml:id="d1e2231">Til § 519.</head>
+               <p xml:id="d1e2233">
 L. 2: „§ 515,, 1. „§ 635".
 </p>
             </div>
-            <div xml:id="d1e2223">
-               <head xml:id="d1e2225">Til § 526.</head>
-               <p xml:id="d1e2227">
-L. 3: „Kap. XXXIII.—XXXVI." 1. „Kap.<lb xml:id="d1e2229"/>
+            <div xml:id="d1e2236">
+               <head xml:id="d1e2238">Til § 526.</head>
+               <p xml:id="d1e2240">
+L. 3: „Kap. XXXIII.—XXXVI." 1. „Kap.<lb xml:id="d1e2242"/>
 48—51".
 </p>
             </div>
-            <div xml:id="d1e2233">
-               <head xml:id="d1e2235">Til § 531.</head>
-               <p xml:id="d1e2237">
+            <div xml:id="d1e2246">
+               <head xml:id="d1e2248">Til § 531.</head>
+               <p xml:id="d1e2250">
 L. 2: „§ 84" 1. „§ 204".
 </p>
             </div>
-            <div xml:id="d1e2241">
-               <head xml:id="d1e2243">Til § 532.</head>
-               <p xml:id="d1e2245">
+            <div xml:id="d1e2254">
+               <head xml:id="d1e2256">Til § 532.</head>
+               <p xml:id="d1e2258">
 L. 4: „Kap. XXV." 1. „Kap. 38".
 </p>
                <milestone type="rightside" xml:id="endd1e1454" prev="startd1e1454" n="2378" unit="column"/>
-               <signatur xml:id="d1e2249">
+               <signatur xml:id="d1e2262">
 Udvalgenes Betænkninger m. m.	150
 </signatur>
                <pb xml:id="idr12_00009_rigsdagtid_b2_1901_02" facs="r12_00009_rigsdagtid_b2_1901_02" n=""/>
-               <fw xml:id="d1e2254" type="head" place="top-left">2379</fw>
-               <fw xml:id="d1e2257" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
-               <fw xml:id="d1e2260" type="head" place="top-right">2380</fw>
+               <fw xml:id="d1e2267" type="head" place="top-left">2379</fw>
+               <fw xml:id="d1e2270" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw xml:id="d1e2273" type="head" place="top-right">2380</fw>
                <milestone type="leftside" xml:id="startd1e1559" next="endd1e1559" n="2379" unit="column"/>
             </div>
-            <div xml:id="d1e2266">
-               <head xml:id="d1e2268">Til § 533.</head>
-               <p xml:id="d1e2270">
+            <div xml:id="d1e2279">
+               <head xml:id="d1e2281">Til § 533.</head>
+               <p xml:id="d1e2283">
 L. 1: „§ 531" 1. „§ 659".
 </p>
             </div>
-            <div xml:id="d1e2273">
-               <head xml:id="d1e2275">Til § 534.</head>
-               <p xml:id="d1e2277">
+            <div xml:id="d1e2286">
+               <head xml:id="d1e2288">Til § 534.</head>
+               <p xml:id="d1e2290">
 1. Stk., L. 2: „§ 531" 1. „§ 659".
 </p>
             </div>
-            <div xml:id="d1e2280">
-               <head xml:id="d1e2282">Til § 536.</head>
-               <p xml:id="d1e2284">
+            <div xml:id="d1e2293">
+               <head xml:id="d1e2295">Til § 536.</head>
+               <p xml:id="d1e2297">
 L. 4: „§ 470" 1. „§ 594".
 </p>
             </div>
-            <div xml:id="d1e2287">
-               <head xml:id="d1e2289">
+            <div xml:id="d1e2300">
+               <head xml:id="d1e2302">
 Ændringsforslag
 til
 </head>
-               <p xml:id="d1e2291">
-2den Behandling af Forslag til Lov om<lb xml:id="d1e2293"/>
+               <p xml:id="d1e2304">
+2den Behandling af Forslag til Lov om<lb xml:id="d1e2306"/>
 Strafferetsplejen.
 </p>
             </div>
-            <div xml:id="d1e2297">
-               <head xml:id="d1e2299">Til § 3.</head>
-               <p xml:id="d1e2301">
+            <div xml:id="d1e2310">
+               <head xml:id="d1e2312">Til § 3.</head>
+               <p xml:id="d1e2314">
 L. 2: „Kap. XXXII." 1. „Kap. 93".
 </p>
             </div>
-            <div xml:id="d1e2305">
-               <head xml:id="d1e2307">Til § 5.</head>
-               <p xml:id="d1e2309">
+            <div xml:id="d1e2318">
+               <head xml:id="d1e2320">Til § 5.</head>
+               <p xml:id="d1e2322">
 Stk. d., L. 3: „§ 2" 1. „§ 666".
 </p>
             </div>
-            <div xml:id="d1e2312">
-               <head xml:id="d1e2314">Til § 6.</head>
-               <p xml:id="d1e2316">
+            <div xml:id="d1e2325">
+               <head xml:id="d1e2327">Til § 6.</head>
+               <p xml:id="d1e2329">
 1.	Stk., L. 2: „§ 5" 1. „§ 669".
 </p>
             </div>
-            <div xml:id="d1e2319">
-               <head xml:id="d1e2321">Til § 7.</head>
-               <p xml:id="d1e2323">
+            <div xml:id="d1e2332">
+               <head xml:id="d1e2334">Til § 7.</head>
+               <p xml:id="d1e2336">
 L. 1: „§§ 5 og 6" 1. §§ 669 og 670".
 </p>
             </div>
-            <div xml:id="d1e2326">
-               <head xml:id="d1e2328">Til § 14.</head>
-               <p xml:id="d1e2330">
-2.	Stk., L. 2: „§ 13" 1. „§ 677" og „§ 12"<lb xml:id="d1e2332"/>
+            <div xml:id="d1e2339">
+               <head xml:id="d1e2341">Til § 14.</head>
+               <p xml:id="d1e2343">
+2.	Stk., L. 2: „§ 13" 1. „§ 677" og „§ 12"<lb xml:id="d1e2345"/>
 1. „§ 676".
 </p>
             </div>
-            <div xml:id="d1e2336">
-               <head xml:id="d1e2338">Til § 23.</head>
-               <p xml:id="d1e2340">
+            <div xml:id="d1e2349">
+               <head xml:id="d1e2351">Til § 23.</head>
+               <p xml:id="d1e2353">
 2. Stk., L. 2: „§ 21" 1. „§ 685".
 </p>
             </div>
-            <div xml:id="d1e2343">
-               <head xml:id="d1e2345">Til § 25.</head>
-               <p xml:id="d1e2347">
+            <div xml:id="d1e2356">
+               <head xml:id="d1e2358">Til § 25.</head>
+               <p xml:id="d1e2360">
 1.	Stk., L. 3: ,,§ 31" 1. „§ 695".
 </p>
             </div>
-            <div xml:id="d1e2351">
-               <head xml:id="d1e2353">Til § 27.</head>
-               <p xml:id="d1e2355">
+            <div xml:id="d1e2364">
+               <head xml:id="d1e2366">Til § 27.</head>
+               <p xml:id="d1e2368">
 L. 3: „§§ 195 og 206" 1. „§§ 860 og 871".
 </p>
             </div>
-            <div xml:id="d1e2358">
-               <head xml:id="d1e2360">Til § 30.</head>
-               <p xml:id="d1e2362">
+            <div xml:id="d1e2371">
+               <head xml:id="d1e2373">Til § 30.</head>
+               <p xml:id="d1e2375">
 L. 2: „§§ 31 og 35" 1. ,,§§ 695 og 699".
 </p>
-               <p xml:id="d1e2364">
-L. 5: „Kapitlerne XIX. og XX." 1. „Ka-<lb xml:id="d1e2366"/>
+               <p xml:id="d1e2377">
+L. 5: „Kapitlerne XIX. og XX." 1. „Ka-<lb xml:id="d1e2379"/>
 pitlerne 79 og 80".
 </p>
             </div>
-            <div xml:id="d1e2370">
-               <head xml:id="d1e2372">Til § 31.</head>
-               <p xml:id="d1e2374">
+            <div xml:id="d1e2383">
+               <head xml:id="d1e2385">Til § 31.</head>
+               <p xml:id="d1e2387">
 2.	Stk., L. 3: „§ 30" 1. ,,§ 694".
 </p>
                <milestone type="leftside" xml:id="endd1e1559" prev="startd1e1559" n="2379" unit="column"/>
                <milestone type="rightside" xml:id="startd1e1633" next="endd1e1633" n="2380" unit="column"/>
             </div>
-            <div xml:id="d1e2381">
-               <head xml:id="d1e2383">Til § 34.</head>
-               <p xml:id="d1e2385">
+            <div xml:id="d1e2394">
+               <head xml:id="d1e2396">Til § 34.</head>
+               <p xml:id="d1e2398">
 L. 1: „§ 31" 1. „§ 695".	„
 </p>
-               <p xml:id="d1e2387">
+               <p xml:id="d1e2400">
 L. 4: „§ 366" 1. „§ 1032".
 </p>
             </div>
-            <div xml:id="d1e2390">
-               <head xml:id="d1e2392">Til § 35.</head>
-               <p xml:id="d1e2394">
+            <div xml:id="d1e2403">
+               <head xml:id="d1e2405">Til § 35.</head>
+               <p xml:id="d1e2407">
 1. Stk., L. 3: „§ 376" 1. „§ 1042".
 </p>
-               <p xml:id="d1e2396">
-4. Stk., L. 4: .,§ 374" 1. „§ 1040" og<lb xml:id="d1e2398"/>
+               <p xml:id="d1e2409">
+4. Stk., L. 4: .,§ 374" 1. „§ 1040" og<lb xml:id="d1e2411"/>
 „§ 375" 1. „§ 1041".
 </p>
             </div>
-            <div xml:id="d1e2402">
-               <head xml:id="d1e2404">Til § 36.</head>
-               <p xml:id="d1e2406">
+            <div xml:id="d1e2415">
+               <head xml:id="d1e2417">Til § 36.</head>
+               <p xml:id="d1e2419">
 1. Stk., L. 2: „§ 33" 1. „§ 697".
 </p>
-               <p xml:id="d1e2408">
-1. Stk., L. 5: „Kapitel XXXI." 1. „Kapitel<lb xml:id="d1e2410"/>
+               <p xml:id="d1e2421">
+1. Stk., L. 5: „Kapitel XXXI." 1. „Kapitel<lb xml:id="d1e2423"/>
 92".
 </p>
             </div>
-            <div xml:id="d1e2415">
-               <head xml:id="d1e2417">Til § 38.</head>
-               <p xml:id="d1e2419">
+            <div xml:id="d1e2428">
+               <head xml:id="d1e2430">Til § 38.</head>
+               <p xml:id="d1e2432">
 3. Stk., L. 3: „§ 12" 1. „§ 676".
 </p>
             </div>
-            <div xml:id="d1e2422">
-               <head xml:id="d1e2424">Til § 42.</head>
-               <p xml:id="d1e2426">
+            <div xml:id="d1e2435">
+               <head xml:id="d1e2437">Til § 42.</head>
+               <p xml:id="d1e2439">
 1. Stk., L. 7: „§ 12"' 1. „§ 676".
 </p>
             </div>
-            <div xml:id="d1e2429">
-               <head xml:id="d1e2431">Til § 45.</head>
-               <p xml:id="d1e2433">
-1. Stk., L. 2: „§ 66" 1. „§ 730".<lb xml:id="d1e2435"/>
+            <div xml:id="d1e2442">
+               <head xml:id="d1e2444">Til § 45.</head>
+               <p xml:id="d1e2446">
+1. Stk., L. 2: „§ 66" 1. „§ 730".<lb xml:id="d1e2448"/>
 1. Stk., L. 3: „§ 207" 1. „§ 872".
 </p>
             </div>
-            <div xml:id="d1e2439">
-               <head xml:id="d1e2441">Til § 47.</head>
-               <p xml:id="d1e2443">
+            <div xml:id="d1e2452">
+               <head xml:id="d1e2454">Til § 47.</head>
+               <p xml:id="d1e2456">
 L. 3: „§ 144" 1. „§ 808".
 </p>
             </div>
-            <div xml:id="d1e2446">
-               <head xml:id="d1e2448">Til § 54.</head>
-               <p xml:id="d1e2450">
-Stk. 2, L. 1: „§ 31" 1. „§ 695".<lb xml:id="d1e2452"/>
+            <div xml:id="d1e2459">
+               <head xml:id="d1e2461">Til § 54.</head>
+               <p xml:id="d1e2463">
+Stk. 2, L. 1: „§ 31" 1. „§ 695".<lb xml:id="d1e2465"/>
 Stk. 3, L. 2: „§ 52" 1. „§ 716".
 </p>
             </div>
-            <div xml:id="d1e2456">
-               <head xml:id="d1e2458">Til § 55.</head>
-               <p xml:id="d1e2460">
+            <div xml:id="d1e2469">
+               <head xml:id="d1e2471">Til § 55.</head>
+               <p xml:id="d1e2473">
 L. 1: „§ 54" 1. „§ 718".
 </p>
             </div>
-            <div xml:id="d1e2464">
-               <head xml:id="d1e2466">Til § 56.</head>
-               <p xml:id="d1e2468">
+            <div xml:id="d1e2477">
+               <head xml:id="d1e2479">Til § 56.</head>
+               <p xml:id="d1e2481">
 L. 1: „§ 61" 1. „§ 725".
 </p>
             </div>
-            <div xml:id="d1e2471">
-               <head xml:id="d1e2473">Til § 57.</head>
-               <p xml:id="d1e2475">
-3. Stk., L. 1: „§ 2" 1. „§ 666".<lb xml:id="d1e2477"/>
+            <div xml:id="d1e2484">
+               <head xml:id="d1e2486">Til § 57.</head>
+               <p xml:id="d1e2488">
+3. Stk., L. 1: „§ 2" 1. „§ 666".<lb xml:id="d1e2490"/>
 3. Stk., L. 2: „§§52—55" 1. „§§ 716—719".
 </p>
             </div>
-            <div xml:id="d1e2481">
-               <head xml:id="d1e2483">Til § 58.</head>
-               <p xml:id="d1e2485">
+            <div xml:id="d1e2494">
+               <head xml:id="d1e2496">Til § 58.</head>
+               <p xml:id="d1e2498">
 L. 4: „§ 96" 1. „§ 760".
 </p>
             </div>
-            <div xml:id="d1e2488">
-               <head xml:id="d1e2490">Til § 59.</head>
-               <p xml:id="d1e2492">
+            <div xml:id="d1e2501">
+               <head xml:id="d1e2503">Til § 59.</head>
+               <p xml:id="d1e2505">
 L. 6: „§ 96" 1. „§ 760".
 </p>
             </div>
-            <div xml:id="d1e2495">
-               <head xml:id="d1e2497">Til § 60.</head>
-               <p xml:id="d1e2499">
-3. Stk., L. 4: „Kapitlerne XXVII—XXIX"<lb xml:id="d1e2501"/>
+            <div xml:id="d1e2508">
+               <head xml:id="d1e2510">Til § 60.</head>
+               <p xml:id="d1e2512">
+3. Stk., L. 4: „Kapitlerne XXVII—XXIX"<lb xml:id="d1e2514"/>
 1. „Kapitlerne 88—90".
 </p>
             </div>
-            <div xml:id="d1e2505">
-               <head xml:id="d1e2507">Til § 62.</head>
-               <p xml:id="d1e2509">
+            <div xml:id="d1e2518">
+               <head xml:id="d1e2520">Til § 62.</head>
+               <p xml:id="d1e2522">
 L. 2: „§ 61" 1. „§ 725".
 </p>
                <milestone type="rightside" xml:id="endd1e1633" prev="startd1e1633" n="2380" unit="column"/>
                <pb xml:id="idr12_00010_rigsdagtid_b2_1901_02" facs="r12_00010_rigsdagtid_b2_1901_02" n=""/>
-               <fw xml:id="d1e2515" type="head" place="top-left">2381</fw>
-               <fw xml:id="d1e2519" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
-               <fw xml:id="d1e2522" type="head" place="top-right">2382</fw>
+               <fw xml:id="d1e2528" type="head" place="top-left">2381</fw>
+               <fw xml:id="d1e2532" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw xml:id="d1e2535" type="head" place="top-right">2382</fw>
                <milestone type="leftside" xml:id="startd1e1736" next="endd1e1736" n="2381" unit="column"/>
             </div>
-            <div xml:id="d1e2529">
-               <head xml:id="d1e2531">Til § 63.</head>
-               <p xml:id="d1e2533">
+            <div xml:id="d1e2542">
+               <head xml:id="d1e2544">Til § 63.</head>
+               <p xml:id="d1e2546">
 2.	Stk., L. 3: „§ 61"" 1. ,.§ 725".
 </p>
-               <p xml:id="d1e2535">
+               <p xml:id="d1e2548">
 3.	Stk., L. 5: „§ 96" 1. „§ 760".
 </p>
             </div>
-            <div xml:id="d1e2538">
-               <head xml:id="d1e2540">Til § 64.</head>
-               <p xml:id="d1e2542">
-L. 1—2: „§§62 og 63" 1. „§§ 726 og 727"<lb xml:id="d1e2544"/>
+            <div xml:id="d1e2551">
+               <head xml:id="d1e2553">Til § 64.</head>
+               <p xml:id="d1e2555">
+L. 1—2: „§§62 og 63" 1. „§§ 726 og 727"<lb xml:id="d1e2557"/>
 L. 3: „§ 63" 1. „§ 727".
 </p>
             </div>
-            <div xml:id="d1e2548">
-               <head xml:id="d1e2550">Til § 68.</head>
-               <p xml:id="d1e2552">
+            <div xml:id="d1e2561">
+               <head xml:id="d1e2563">Til § 68.</head>
+               <p xml:id="d1e2565">
 2. Stk., L. 1 : „§ 12" 1. „§ 676".
 </p>
             </div>
-            <div xml:id="d1e2555">
-               <head xml:id="d1e2557">Til § 73.</head>
-               <p xml:id="d1e2559">
+            <div xml:id="d1e2568">
+               <head xml:id="d1e2570">Til § 73.</head>
+               <p xml:id="d1e2572">
 4. Stk., L. 6: „§ 284" 1. „§ 949".
 </p>
             </div>
-            <div xml:id="d1e2562">
-               <head xml:id="d1e2564">Til § 77.</head>
-               <p xml:id="d1e2566">
-2. Stk., L. 3: ,.§§ 285 og 288—290" 1,<lb xml:id="d1e2568"/>
+            <div xml:id="d1e2575">
+               <head xml:id="d1e2577">Til § 77.</head>
+               <p xml:id="d1e2579">
+2. Stk., L. 3: ,.§§ 285 og 288—290" 1,<lb xml:id="d1e2581"/>
 „§§ 950 og 953—955".
 </p>
             </div>
-            <div xml:id="d1e2572">
-               <head xml:id="d1e2574">Til § 79.</head>
-               <p xml:id="d1e2576">
-4. Stk, L. 2: „§§ 12 og 14" 1. „§§ 676 og<lb xml:id="d1e2578"/>
+            <div xml:id="d1e2585">
+               <head xml:id="d1e2587">Til § 79.</head>
+               <p xml:id="d1e2589">
+4. Stk, L. 2: „§§ 12 og 14" 1. „§§ 676 og<lb xml:id="d1e2591"/>
 678".
 </p>
             </div>
-            <div xml:id="d1e2583">
-               <head xml:id="d1e2585">Til § 81.</head>
-               <p xml:id="d1e2587">
-1. Stk., L. 1: „§§87 og 88" 1. „§§751 og<lb xml:id="d1e2589"/>
+            <div xml:id="d1e2596">
+               <head xml:id="d1e2598">Til § 81.</head>
+               <p xml:id="d1e2600">
+1. Stk., L. 1: „§§87 og 88" 1. „§§751 og<lb xml:id="d1e2602"/>
 752".
 </p>
-               <p xml:id="d1e2592">
-1. Stk., L. 2: „§ 84" 1. „§ 748".<lb xml:id="d1e2594"/>
+               <p xml:id="d1e2605">
+1. Stk., L. 2: „§ 84" 1. „§ 748".<lb xml:id="d1e2607"/>
                </p>
-               <p xml:id="d1e2597">
-1. Stk., L. 5: „§ 323" 1. „§ 989".<lb xml:id="d1e2599"/>
+               <p xml:id="d1e2610">
+1. Stk., L. 5: „§ 323" 1. „§ 989".<lb xml:id="d1e2612"/>
                </p>
-               <p xml:id="d1e2602">
-1. Stk, L. 8: „'§ 106 jfr. § 113" 1. § 770<lb xml:id="d1e2604"/>
+               <p xml:id="d1e2615">
+1. Stk, L. 8: „'§ 106 jfr. § 113" 1. § 770<lb xml:id="d1e2617"/>
 jfr. § 777".
 </p>
-               <p xml:id="d1e2608">
+               <p xml:id="d1e2621">
 1. Stk, L. 10: „§ 373" 1. „§ 1039".
 </p>
             </div>
-            <div xml:id="d1e2611">
-               <head xml:id="d1e2613">Til § 83.</head>
-               <p xml:id="d1e2615">
+            <div xml:id="d1e2624">
+               <head xml:id="d1e2626">Til § 83.</head>
+               <p xml:id="d1e2628">
 1.	Stk, L. 1: ,,§ 81" 1. „§ 745".
 </p>
             </div>
-            <div xml:id="d1e2618">
-               <head xml:id="d1e2620">Til § 85.</head>
-               <p xml:id="d1e2622">
+            <div xml:id="d1e2631">
+               <head xml:id="d1e2633">Til § 85.</head>
+               <p xml:id="d1e2635">
 2.	Stk, L. 1 : „§ 84" 1. „§ 748".
 </p>
             </div>
-            <div xml:id="d1e2625">
-               <head xml:id="d1e2627">Til § 87.</head>
-               <p xml:id="d1e2629">
+            <div xml:id="d1e2638">
+               <head xml:id="d1e2640">Til § 87.</head>
+               <p xml:id="d1e2642">
 L. 2: „§ 84" 1. „§ 748".
 </p>
             </div>
-            <div xml:id="d1e2632">
-               <head xml:id="d1e2634">Til § 88.</head>
-               <p xml:id="d1e2636">
+            <div xml:id="d1e2645">
+               <head xml:id="d1e2647">Til § 88.</head>
+               <p xml:id="d1e2649">
 2. Stk, L. 2: „§ 87" 1. „§ 751".
 </p>
             </div>
-            <div xml:id="d1e2639">
-               <head xml:id="d1e2641">Til § 102.</head>
-               <p xml:id="d1e2643">
+            <div xml:id="d1e2652">
+               <head xml:id="d1e2654">Til § 102.</head>
+               <p xml:id="d1e2656">
 1. Stk, L. 1: ,§ 107" 1. „§ 765".
 </p>
-               <p xml:id="d1e2645">
-1.	Stk, L. 2.: „§§ 330, 340, 344, 250 og<lb xml:id="d1e2647"/>
-459" 1. „§§ 996, 1006, 1010, 1016 og<lb xml:id="d1e2649"/>
+               <p xml:id="d1e2658">
+1.	Stk, L. 2.: „§§ 330, 340, 344, 250 og<lb xml:id="d1e2660"/>
+459" 1. „§§ 996, 1006, 1010, 1016 og<lb xml:id="d1e2662"/>
 1025".
 </p>
-               <p xml:id="d1e2652">
+               <p xml:id="d1e2665">
 2.	Stk, L. 4: „§ 50" 1. ,.§ 714".
 </p>
             </div>
-            <div xml:id="d1e2656">
-               <head xml:id="d1e2658">Til § 111.</head>
-               <p xml:id="d1e2660">
+            <div xml:id="d1e2669">
+               <head xml:id="d1e2671">Til § 111.</head>
+               <p xml:id="d1e2673">
 1. Stk., L. 5: „§ 68" 1. „§ 732".
 </p>
             </div>
-            <div xml:id="d1e2663">
-               <head xml:id="d1e2665">Til § 112.</head>
-               <p xml:id="d1e2667">
+            <div xml:id="d1e2676">
+               <head xml:id="d1e2678">Til § 112.</head>
+               <p xml:id="d1e2680">
 3.	Stk, L. 2: „§ 110"' 1. „§ 774".
 </p>
                <milestone type="leftside" xml:id="endd1e1736" prev="startd1e1736" n="2381" unit="column"/>
                <milestone type="rightside" xml:id="startd1e1840" next="endd1e1840" n="2382" unit="column"/>
             </div>
-            <div xml:id="d1e2674">
-               <head xml:id="d1e2676">Til § 113.</head>
-               <p xml:id="d1e2678">
+            <div xml:id="d1e2687">
+               <head xml:id="d1e2689">Til § 113.</head>
+               <p xml:id="d1e2691">
 1. Stk, L. 6: „§ 106" 1. „§ 770".
 </p>
             </div>
-            <div xml:id="d1e2681">
-               <head xml:id="d1e2683">Til § 114.</head>
-               <p xml:id="d1e2685">
+            <div xml:id="d1e2694">
+               <head xml:id="d1e2696">Til § 114.</head>
+               <p xml:id="d1e2698">
 1.	Stk, L. 7: „§ 107" 1. „§ 765".
 </p>
             </div>
-            <div xml:id="d1e2688">
-               <head xml:id="d1e2690">Til § 115.</head>
-               <p xml:id="d1e2692">
-2.	Stk, L. 6: „§§ 4 og 50" 1. „§§ 668 og<lb xml:id="d1e2694"/>
+            <div xml:id="d1e2701">
+               <head xml:id="d1e2703">Til § 115.</head>
+               <p xml:id="d1e2705">
+2.	Stk, L. 6: „§§ 4 og 50" 1. „§§ 668 og<lb xml:id="d1e2707"/>
 714"'.
 </p>
-               <p xml:id="d1e2697">
+               <p xml:id="d1e2710">
 3.	Stk, L. 3: „§ 68" 1. „§ 732".
 </p>
             </div>
-            <div xml:id="d1e2700">
-               <head xml:id="d1e2702">Til § 117.</head>
-               <p xml:id="d1e2704">
+            <div xml:id="d1e2713">
+               <head xml:id="d1e2715">Til § 117.</head>
+               <p xml:id="d1e2717">
 L. 2 og 4: „§ 12" 1. „§ 676".
 </p>
             </div>
-            <div xml:id="d1e2708">
-               <head xml:id="d1e2710">Til § 124.</head>
-               <p xml:id="d1e2712">
-3. Stk, L. 1—2: „§§ 101 og 103" 1. „SS<lb xml:id="d1e2714"/>
+            <div xml:id="d1e2721">
+               <head xml:id="d1e2723">Til § 124.</head>
+               <p xml:id="d1e2725">
+3. Stk, L. 1—2: „§§ 101 og 103" 1. „SS<lb xml:id="d1e2727"/>
 765 og 767".
 </p>
             </div>
-            <div xml:id="d1e2718">
-               <head xml:id="d1e2720">Til § 125.</head>
-               <p xml:id="d1e2722">
-L. 2: ,,§ 110" 1. „§ 774".<lb xml:id="d1e2724"/>
+            <div xml:id="d1e2731">
+               <head xml:id="d1e2733">Til § 125.</head>
+               <p xml:id="d1e2735">
+L. 2: ,,§ 110" 1. „§ 774".<lb xml:id="d1e2737"/>
 L. 6: „§ 68" 1. „§ 732"'.
 </p>
             </div>
-            <div xml:id="d1e2728">
-               <head xml:id="d1e2730">Til § 127.</head>
-               <p xml:id="d1e2732">
+            <div xml:id="d1e2741">
+               <head xml:id="d1e2743">Til § 127.</head>
+               <p xml:id="d1e2745">
 L. 6: „§§ 106 og 113" 1. „§§ 770 og 777".
 </p>
             </div>
-            <div xml:id="d1e2735">
-               <head xml:id="d1e2737">Til § 129.</head>
-               <p xml:id="d1e2739">
+            <div xml:id="d1e2748">
+               <head xml:id="d1e2750">Til § 129.</head>
+               <p xml:id="d1e2752">
 L. 13: „§ 200" 1. „§ 865".
 </p>
             </div>
-            <div xml:id="d1e2742">
-               <head xml:id="d1e2744">Til § 130.</head>
-               <p xml:id="d1e2746">
+            <div xml:id="d1e2755">
+               <head xml:id="d1e2757">Til § 130.</head>
+               <p xml:id="d1e2759">
 2. Stk, L. 2: „§ 117" 1. „§ 781".
 </p>
             </div>
-            <div xml:id="d1e2749">
-               <head xml:id="d1e2751">Til § 132.</head>
-               <p xml:id="d1e2753">
+            <div xml:id="d1e2762">
+               <head xml:id="d1e2764">Til § 132.</head>
+               <p xml:id="d1e2766">
 2. Stk., L. 1: „§ 99" 1. „§ 763".
 </p>
             </div>
-            <div xml:id="d1e2757">
-               <head xml:id="d1e2759">Til § 135.</head>
-               <p xml:id="d1e2761">
-L. 1: „§ 132" 1. „§ 796".<lb xml:id="d1e2763"/>
+            <div xml:id="d1e2770">
+               <head xml:id="d1e2772">Til § 135.</head>
+               <p xml:id="d1e2774">
+L. 1: „§ 132" 1. „§ 796".<lb xml:id="d1e2776"/>
 L. 4: „§ 134" 1. „§ 798".
 </p>
             </div>
-            <div xml:id="d1e2767">
-               <head xml:id="d1e2769">Til § 136.</head>
-               <p xml:id="d1e2771">
+            <div xml:id="d1e2780">
+               <head xml:id="d1e2782">Til § 136.</head>
+               <p xml:id="d1e2784">
 2. Stk, L. 1: „§ 99" 1. „§ 763".
 </p>
             </div>
-            <div xml:id="d1e2774">
-               <head xml:id="d1e2776">Til § 137.</head>
-               <p xml:id="d1e2778">
+            <div xml:id="d1e2787">
+               <head xml:id="d1e2789">Til § 137.</head>
+               <p xml:id="d1e2791">
 1. Stk, L. 7: „§ 46" 1. „§ 710".
 </p>
             </div>
-            <div xml:id="d1e2781">
-               <head xml:id="d1e2783">Til § 139.</head>
-               <p xml:id="d1e2785">
+            <div xml:id="d1e2794">
+               <head xml:id="d1e2796">Til § 139.</head>
+               <p xml:id="d1e2798">
 1.	Stk, L. 4: „§ 68" 1. „§ 732".
 </p>
             </div>
-            <div xml:id="d1e2788">
-               <head xml:id="d1e2790">Til § 140.</head>
-               <p xml:id="d1e2792">
+            <div xml:id="d1e2801">
+               <head xml:id="d1e2803">Til § 140.</head>
+               <p xml:id="d1e2805">
 L. 7: „§ 136" 1. „§ 800".
 </p>
             </div>
-            <div xml:id="d1e2795">
-               <head xml:id="d1e2797">Til § 145.</head>
-               <p xml:id="d1e2799">
+            <div xml:id="d1e2808">
+               <head xml:id="d1e2810">Til § 145.</head>
+               <p xml:id="d1e2812">
 2.	Stk, L. 4: „§ 143" 1. „§ 807".
 </p>
             </div>
-            <div xml:id="d1e2803">
-               <head xml:id="d1e2805">Til § 147.</head>
-               <p xml:id="d1e2807">
+            <div xml:id="d1e2816">
+               <head xml:id="d1e2818">Til § 147.</head>
+               <p xml:id="d1e2820">
 4. Stk, L. 3: „§ 139" 1. „803".
 </p>
                <milestone type="rightside" xml:id="endd1e1840" prev="startd1e1840" n="2382" unit="column"/>
                <pb xml:id="idr12_00011_rigsdagtid_b2_1901_02" facs="r12_00011_rigsdagtid_b2_1901_02" n=""/>
-               <fw xml:id="d1e2813" type="head" place="top-left">2365</fw>
-               <fw xml:id="d1e2817" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
-               <fw xml:id="d1e2820" type="head" place="top-right">2366</fw>
+               <fw xml:id="d1e2826" type="head" place="top-left">2365</fw>
+               <fw xml:id="d1e2830" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw xml:id="d1e2833" type="head" place="top-right">2366</fw>
                <milestone type="leftside" xml:id="startd1e1941" next="endd1e1941" n="2365" unit="column"/>
             </div>
-            <div xml:id="d1e2826">
-               <head xml:id="d1e2828">Til § 151.</head>
-               <p xml:id="d1e2830">
+            <div xml:id="d1e2839">
+               <head xml:id="d1e2841">Til § 151.</head>
+               <p xml:id="d1e2843">
 1.	Stk., L. 3: „Kapitel IX" 1. „Kapitel 69".
 </p>
             </div>
-            <div xml:id="d1e2833">
-               <head xml:id="d1e2835">Til § 156.</head>
-               <p xml:id="d1e2837">
+            <div xml:id="d1e2846">
+               <head xml:id="d1e2848">Til § 156.</head>
+               <p xml:id="d1e2850">
 2.	Stk., L. 2: „§ 31" 1. „§ 695".
 </p>
             </div>
-            <div xml:id="d1e2840">
-               <head xml:id="d1e2842">Til § 158.</head>
-               <p xml:id="d1e2844">
+            <div xml:id="d1e2853">
+               <head xml:id="d1e2855">Til § 158.</head>
+               <p xml:id="d1e2857">
 1. Stk., L. 3 og 7: „§ 156" 1. „§ 820".
 </p>
             </div>
-            <div xml:id="d1e2847">
-               <head xml:id="d1e2849">Til § 160.</head>
-               <p xml:id="d1e2851">
+            <div xml:id="d1e2860">
+               <head xml:id="d1e2862">Til § 160.</head>
+               <p xml:id="d1e2864">
 1. Stk., L. 3: „§ 143" 1. „§ 807".
 </p>
-               <p xml:id="d1e2853">
-3.	Stk., L. 3: „88 145—148" 1. „88 809<lb xml:id="d1e2855"/>
+               <p xml:id="d1e2866">
+3.	Stk., L. 3: „88 145—148" 1. „88 809<lb xml:id="d1e2868"/>
 —812".
 </p>
             </div>
-            <div xml:id="d1e2859">
-               <head xml:id="d1e2861">Til § 164.</head>
-               <p xml:id="d1e2863">
+            <div xml:id="d1e2872">
+               <head xml:id="d1e2874">Til § 164.</head>
+               <p xml:id="d1e2876">
 1.	Stk., L. 5: „§ 168" 1. „§ 832".
 </p>
-               <p xml:id="d1e2865">
-2.	Stk., L. 1: „§ 157" 1. „§ 821".<lb xml:id="d1e2867"/>
+               <p xml:id="d1e2878">
+2.	Stk., L. 1: „§ 157" 1. „§ 821".<lb xml:id="d1e2880"/>
 2. Stk., L. 2: ,.§ 151" 1. „§ 825".
 </p>
             </div>
-            <div xml:id="d1e2872">
-               <head xml:id="d1e2874">Til § 165.</head>
-               <p xml:id="d1e2876">
-1.	Stk.. L. 2: „§ 161" 1. „§ 825".<lb xml:id="d1e2878"/>
+            <div xml:id="d1e2885">
+               <head xml:id="d1e2887">Til § 165.</head>
+               <p xml:id="d1e2889">
+1.	Stk.. L. 2: „§ 161" 1. „§ 825".<lb xml:id="d1e2891"/>
 3. Stk.. L. 1: „§ 164" 1. „§ 828".
 </p>
-               <p xml:id="d1e2881">
+               <p xml:id="d1e2894">
 3. Stk., L. 2: „§§ 172 fL" 1. „§§ 836 ff.".
 </p>
             </div>
-            <div xml:id="d1e2884">
-               <head xml:id="d1e2886">Til § 168.</head>
-               <p xml:id="d1e2888">
+            <div xml:id="d1e2897">
+               <head xml:id="d1e2899">Til § 168.</head>
+               <p xml:id="d1e2901">
 L. 3: „§ 254" 1. „§ 919".
 </p>
             </div>
-            <div xml:id="d1e2891">
-               <head xml:id="d1e2893">Til § 169.</head>
-               <p xml:id="d1e2895">
-2.	Stk.. L. 3: ,.§§ 157, 159 og 160" 1. „§§<lb xml:id="d1e2897"/>
+            <div xml:id="d1e2904">
+               <head xml:id="d1e2906">Til § 169.</head>
+               <p xml:id="d1e2908">
+2.	Stk.. L. 3: ,.§§ 157, 159 og 160" 1. „§§<lb xml:id="d1e2910"/>
 821, 823 og 824".
 </p>
             </div>
-            <div xml:id="d1e2901">
-               <head xml:id="d1e2903">Til § 170.</head>
-               <p xml:id="d1e2905">
+            <div xml:id="d1e2914">
+               <head xml:id="d1e2916">Til § 170.</head>
+               <p xml:id="d1e2918">
 1. Stk., L. 4: „§ 162" 1. „§ 826".
 </p>
             </div>
-            <div xml:id="d1e2908">
-               <head xml:id="d1e2910">Til § 171.</head>
-               <p xml:id="d1e2912">
+            <div xml:id="d1e2921">
+               <head xml:id="d1e2923">Til § 171.</head>
+               <p xml:id="d1e2925">
 1. Stk., L. 5 og 12: „§ 46" 1. „§ 710".
 </p>
-               <p xml:id="d1e2914">
+               <p xml:id="d1e2927">
 3.	Stk., L. 2: „§ 200" l. „§ 865".
 </p>
             </div>
-            <div xml:id="d1e2917">
-               <head xml:id="d1e2919">Til § 172.</head>
-               <p xml:id="d1e2921">
-1. Stk.. L. 7: „§§ 173 og 174" 1. „§§ 837<lb xml:id="d1e2923"/>
+            <div xml:id="d1e2930">
+               <head xml:id="d1e2932">Til § 172.</head>
+               <p xml:id="d1e2934">
+1. Stk.. L. 7: „§§ 173 og 174" 1. „§§ 837<lb xml:id="d1e2936"/>
 og 838".
 </p>
             </div>
-            <div xml:id="d1e2928">
-               <head xml:id="d1e2930">Til § 173.</head>
-               <p xml:id="d1e2932">
+            <div xml:id="d1e2941">
+               <head xml:id="d1e2943">Til § 173.</head>
+               <p xml:id="d1e2945">
 1.	—3.	Stk., L. 1: ,,§167-' 1. ,,§ 831«.
 </p>
             </div>
-            <div xml:id="d1e2935">
-               <head xml:id="d1e2937">Til § 177.</head>
-               <p xml:id="d1e2939">
+            <div xml:id="d1e2948">
+               <head xml:id="d1e2950">Til § 177.</head>
+               <p xml:id="d1e2952">
 3. Stk., L. 1: „§ 167« 1. „§ 831".
 </p>
             </div>
-            <div xml:id="d1e2942">
-               <head xml:id="d1e2944">Til § 178.</head>
-               <p xml:id="d1e2946">
+            <div xml:id="d1e2955">
+               <head xml:id="d1e2957">Til § 178.</head>
+               <p xml:id="d1e2959">
 2.	Stk., L. 3: „§ 173" 1. „§ 837".
 </p>
             </div>
-            <div xml:id="d1e2949">
-               <head xml:id="d1e2951">Til § 179.</head>
-               <p xml:id="d1e2953">
+            <div xml:id="d1e2962">
+               <head xml:id="d1e2964">Til § 179.</head>
+               <p xml:id="d1e2966">
 L. 3.: „§ 168" 1. „§ 832".
 </p>
                <milestone type="leftside" xml:id="endd1e1941" prev="startd1e1941" n="2365" unit="column"/>
                <milestone type="rightside" xml:id="startd1e2032" next="endd1e2032" n="2366" unit="column"/>
             </div>
-            <div xml:id="d1e2960">
-               <head xml:id="d1e2962">Til § 180.</head>
-               <p xml:id="d1e2964">
+            <div xml:id="d1e2973">
+               <head xml:id="d1e2975">Til § 180.</head>
+               <p xml:id="d1e2977">
 1. Stk., L. 5: „§ 88" 1. „§ 752".
 </p>
             </div>
-            <div xml:id="d1e2967">
-               <head xml:id="d1e2969">Til § 189.</head>
-               <p xml:id="d1e2971">
+            <div xml:id="d1e2980">
+               <head xml:id="d1e2982">Til § 189.</head>
+               <p xml:id="d1e2984">
 3. Stk., L. 3: „§ 195" 1. „§ 860".
 </p>
             </div>
-            <div xml:id="d1e2975">
-               <head xml:id="d1e2977">Til § 190.</head>
-               <p xml:id="d1e2979">
-1. Stk., L. 2: „§ 32" 1. „§ 696«.<lb xml:id="d1e2981"/>
+            <div xml:id="d1e2988">
+               <head xml:id="d1e2990">Til § 190.</head>
+               <p xml:id="d1e2992">
+1. Stk., L. 2: „§ 32" 1. „§ 696«.<lb xml:id="d1e2994"/>
 3. Stk., L. 4: „§ 32'' 1. „§ 696".
 </p>
             </div>
-            <div xml:id="d1e2985">
-               <head xml:id="d1e2987">Til § 194.</head>
-               <p xml:id="d1e2989">
+            <div xml:id="d1e2998">
+               <head xml:id="d1e3000">Til § 194.</head>
+               <p xml:id="d1e3002">
 L. 2: „§ 33" 1. ,,§ 697".
 </p>
             </div>
-            <div xml:id="d1e2992">
-               <head xml:id="d1e2994">Til § 195.</head>
-               <p xml:id="d1e2996">
-1. Stk., L. 1: ,.§§ 187 og 188'' 1. ,.§§ 852<lb xml:id="d1e2998"/>
+            <div xml:id="d1e3005">
+               <head xml:id="d1e3007">Til § 195.</head>
+               <p xml:id="d1e3009">
+1. Stk., L. 1: ,.§§ 187 og 188'' 1. ,.§§ 852<lb xml:id="d1e3011"/>
 og 853''.
 </p>
-               <p xml:id="d1e3001">
-1.	Stk., L. 2: ,,Kap. 11—17'' 1. ,.Kap. 71<lb xml:id="d1e3003"/>
+               <p xml:id="d1e3014">
+1.	Stk., L. 2: ,,Kap. 11—17'' 1. ,.Kap. 71<lb xml:id="d1e3016"/>
 —77''.
 </p>
-               <p xml:id="d1e3006">
+               <p xml:id="d1e3019">
 2.	Stk., L. 2: ,,§ 203" 1. „§ 868".
 </p>
             </div>
-            <div xml:id="d1e3009">
-               <head xml:id="d1e3011">Til § 196.</head>
-               <p xml:id="d1e3013">
-1.	Stk.. L. 3: „§§ 207—210" 1. ,.§§ 872—<lb xml:id="d1e3015"/>
+            <div xml:id="d1e3022">
+               <head xml:id="d1e3024">Til § 196.</head>
+               <p xml:id="d1e3026">
+1.	Stk.. L. 3: „§§ 207—210" 1. ,.§§ 872—<lb xml:id="d1e3028"/>
 875".
 </p>
             </div>
-            <div xml:id="d1e3019">
-               <head xml:id="d1e3021">Til § 198.</head>
-               <p xml:id="d1e3023">
+            <div xml:id="d1e3032">
+               <head xml:id="d1e3034">Til § 198.</head>
+               <p xml:id="d1e3036">
 2.	Stk., L. 1: „§ 31" 1. ,.§ 695".
 </p>
             </div>
-            <div xml:id="d1e3026">
-               <head xml:id="d1e3028">Til § 199.</head>
-               <p xml:id="d1e3030">
-L. 8: „§ 195" 1. „§ 860".<lb xml:id="d1e3032"/>
+            <div xml:id="d1e3039">
+               <head xml:id="d1e3041">Til § 199.</head>
+               <p xml:id="d1e3043">
+L. 8: „§ 195" 1. „§ 860".<lb xml:id="d1e3045"/>
 L. 9: „§ 206" 1. ,,§ 871".
 </p>
             </div>
-            <div xml:id="d1e3037">
-               <head xml:id="d1e3039">Til § 200.</head>
-               <p xml:id="d1e3041">
-2.	Stk., L. 1: ..§§ 133 og 145, jfr. § 160,<lb xml:id="d1e3043"/>
-§§ 161 og 170'' 1. „§§ 797 og 809, jfr.<lb xml:id="d1e3045"/>
+            <div xml:id="d1e3050">
+               <head xml:id="d1e3052">Til § 200.</head>
+               <p xml:id="d1e3054">
+2.	Stk., L. 1: ..§§ 133 og 145, jfr. § 160,<lb xml:id="d1e3056"/>
+§§ 161 og 170'' 1. „§§ 797 og 809, jfr.<lb xml:id="d1e3058"/>
 § 824, §§ 825 og 834".
 </p>
-               <p xml:id="d1e3048">
+               <p xml:id="d1e3061">
 3.	Stk., L. 1: „§ 129" 1. „§ 793".
 </p>
             </div>
-            <div xml:id="d1e3051">
-               <head xml:id="d1e3053">Til § 201.</head>
-               <p xml:id="d1e3055">
+            <div xml:id="d1e3064">
+               <head xml:id="d1e3066">Til § 201.</head>
+               <p xml:id="d1e3068">
 1. Stk., L. 2: „§ 31" 1. „§ 695".
 </p>
             </div>
-            <div xml:id="d1e3058">
-               <head xml:id="d1e3060">Til § 203.</head>
-               <p xml:id="d1e3062">
+            <div xml:id="d1e3071">
+               <head xml:id="d1e3073">Til § 203.</head>
+               <p xml:id="d1e3075">
 L. 3: „§ 201'' 1. „§ 866".
 </p>
             </div>
-            <div xml:id="d1e3065">
-               <head xml:id="d1e3067">Til § 207.</head>
-               <p xml:id="d1e3069">
+            <div xml:id="d1e3078">
+               <head xml:id="d1e3080">Til § 207.</head>
+               <p xml:id="d1e3082">
 1.	Stk., L. 4: „§ 45'' 1. „§ 709''.
 </p>
-               <p xml:id="d1e3071">
+               <p xml:id="d1e3084">
 2.	Stk., L. 2: „§ 71" 1. „§ 735".
 </p>
             </div>
-            <div xml:id="d1e3074">
-               <head xml:id="d1e3076">Til § 208.</head>
-               <p xml:id="d1e3078">
+            <div xml:id="d1e3087">
+               <head xml:id="d1e3089">Til § 208.</head>
+               <p xml:id="d1e3091">
 1. Stk., L. 3: „§ 151" 1. „§ 815".
 </p>
-               <p xml:id="d1e3080">
+               <p xml:id="d1e3093">
 4.	Stk., L. 1: „§ 207" 1. „§ 872".
 </p>
             </div>
-            <div xml:id="d1e3083">
-               <head xml:id="d1e3085">Til § 212.</head>
-               <p xml:id="d1e3087">
+            <div xml:id="d1e3096">
+               <head xml:id="d1e3098">Til § 212.</head>
+               <p xml:id="d1e3100">
 L. 4: „§ 353" 1. „§ 1019".
 </p>
                <milestone type="rightside" xml:id="endd1e2032" prev="startd1e2032" n="2366" unit="column"/>
                <pb xml:id="idr12_00012_rigsdagtid_b2_1901_02" facs="r12_00012_rigsdagtid_b2_1901_02" n=""/>
-               <fw xml:id="d1e3093" type="head" place="top-left">2385</fw>
-               <fw xml:id="d1e3097" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
-               <fw xml:id="d1e3100" type="head" place="top-right">2386</fw>
+               <fw xml:id="d1e3106" type="head" place="top-left">2385</fw>
+               <fw xml:id="d1e3110" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw xml:id="d1e3113" type="head" place="top-right">2386</fw>
                <milestone type="leftside" xml:id="startd1e2138" next="endd1e2138" n="2385" unit="column"/>
             </div>
-            <div xml:id="d1e3107">
-               <head xml:id="d1e3109">Til § 219.</head>
-               <p xml:id="d1e3111">
+            <div xml:id="d1e3120">
+               <head xml:id="d1e3122">Til § 219.</head>
+               <p xml:id="d1e3124">
 1.	Stk., L. 9: „§ 101" 1. „§ 765".
 </p>
             </div>
-            <div xml:id="d1e3114">
-               <head xml:id="d1e3116">Til § 221.</head>
-               <p xml:id="d1e3118">
+            <div xml:id="d1e3127">
+               <head xml:id="d1e3129">Til § 221.</head>
+               <p xml:id="d1e3131">
 3. Stk., L. 1 og 3: '„§ 58" 1. „§ 722".
 </p>
-               <p xml:id="d1e3120">
+               <p xml:id="d1e3133">
 3.	Stk., L. 2: „§ 59" 1. „§ 723"'.
 </p>
             </div>
-            <div xml:id="d1e3123">
-               <head xml:id="d1e3125">Til § 222.</head>
-               <p xml:id="d1e3127">
+            <div xml:id="d1e3136">
+               <head xml:id="d1e3138">Til § 222.</head>
+               <p xml:id="d1e3140">
 2.	Stk., L. 2: „§ 221" 1. „§ 886".
 </p>
             </div>
-            <div xml:id="d1e3130">
-               <head xml:id="d1e3132">Til § 223.</head>
-               <p xml:id="d1e3134">
+            <div xml:id="d1e3143">
+               <head xml:id="d1e3145">Til § 223.</head>
+               <p xml:id="d1e3147">
 L. 5: „§§ 219—222" 1. „§§ 884—887".
 </p>
             </div>
-            <div xml:id="d1e3137">
-               <head xml:id="d1e3139">Til § 224.</head>
-               <p xml:id="d1e3141">
-1.	Stk., L. 4—5: „§§ 219—223'' 1. ,.§§ 884<lb xml:id="d1e3143"/>
+            <div xml:id="d1e3150">
+               <head xml:id="d1e3152">Til § 224.</head>
+               <p xml:id="d1e3154">
+1.	Stk., L. 4—5: „§§ 219—223'' 1. ,.§§ 884<lb xml:id="d1e3156"/>
 —888".
 </p>
-               <p xml:id="d1e3146">
+               <p xml:id="d1e3159">
 2.	Stk., L. 1: „Kap. XX." 1. „Kap. 80".
 </p>
             </div>
-            <div xml:id="d1e3149">
-               <head xml:id="d1e3151">Til § 230.</head>
-               <p xml:id="d1e3153">
+            <div xml:id="d1e3162">
+               <head xml:id="d1e3164">Til § 230.</head>
+               <p xml:id="d1e3166">
 1.	Stk., L. 2: „§ 228" 1. „§ 893".
 </p>
-               <p xml:id="d1e3155">
-2.	Stk., L. 4 og 7: „§§ 221 og 223" 1. „§§<lb xml:id="d1e3157"/>
+               <p xml:id="d1e3168">
+2.	Stk., L. 4 og 7: „§§ 221 og 223" 1. „§§<lb xml:id="d1e3170"/>
 886 og 888".
 </p>
             </div>
-            <div xml:id="d1e3162">
-               <head xml:id="d1e3164">Til § 236.</head>
-               <p xml:id="d1e3166">
+            <div xml:id="d1e3175">
+               <head xml:id="d1e3177">Til § 236.</head>
+               <p xml:id="d1e3179">
 1. Stk., L. 1: „§ 71" 1. „§ 735".
 </p>
             </div>
-            <div xml:id="d1e3169">
-               <head xml:id="d1e3171">Til § 241.</head>
-               <p xml:id="d1e3173">
+            <div xml:id="d1e3182">
+               <head xml:id="d1e3184">Til § 241.</head>
+               <p xml:id="d1e3186">
 4.	Stk., L. 2: „§ 228" 1. ,,§ 893".
 </p>
             </div>
-            <div xml:id="d1e3176">
-               <head xml:id="d1e3178">Til § 245.</head>
-               <p xml:id="d1e3180">
+            <div xml:id="d1e3189">
+               <head xml:id="d1e3191">Til § 245.</head>
+               <p xml:id="d1e3193">
 1.	Stk., L. 2: „§ 257" 1. „§ 916«.
 </p>
             </div>
-            <div xml:id="d1e3183">
-               <head xml:id="d1e3185">Til § 248.</head>
-               <p xml:id="d1e3187">
+            <div xml:id="d1e3196">
+               <head xml:id="d1e3198">Til § 248.</head>
+               <p xml:id="d1e3200">
 2.	Stk., L. 11: „§ 234" 1. „§ 899"-
 </p>
-               <p xml:id="d1e3189">
+               <p xml:id="d1e3202">
 2. Stk., L. 15: „§ 102, jfr. §§ 124 og 131".
 </p>
-               <p xml:id="d1e3191">
+               <p xml:id="d1e3204">
 1. „§§ 766, jfr. §§ 788 og 795".
 </p>
             </div>
-            <div xml:id="d1e3194">
-               <head xml:id="d1e3196">Til § 249.</head>
-               <p xml:id="d1e3198">
+            <div xml:id="d1e3207">
+               <head xml:id="d1e3209">Til § 249.</head>
+               <p xml:id="d1e3211">
 2. Stk., L. 1: „§ 248" 1. „§ 913".
 </p>
             </div>
-            <div xml:id="d1e3201">
-               <head xml:id="d1e3203">Til § 254.</head>
-               <p xml:id="d1e3205">
+            <div xml:id="d1e3214">
+               <head xml:id="d1e3216">Til § 254.</head>
+               <p xml:id="d1e3218">
 1.	Stk., L. 3: „§ 327" 1. „§ 993".
 </p>
             </div>
-            <div xml:id="d1e3209">
-               <head xml:id="d1e3211">Til § 258.</head>
-               <p xml:id="d1e3213">
+            <div xml:id="d1e3222">
+               <head xml:id="d1e3224">Til § 258.</head>
+               <p xml:id="d1e3226">
 2.	Stk, L. 3: „§ 267" 1. „§ 932".
 </p>
             </div>
-            <div xml:id="d1e3216">
-               <head xml:id="d1e3218">Til § 260.</head>
-               <p xml:id="d1e3220">
+            <div xml:id="d1e3229">
+               <head xml:id="d1e3231">Til § 260.</head>
+               <p xml:id="d1e3233">
 L. 7: „§ 12" 1. „§ 676".
 </p>
             </div>
-            <div xml:id="d1e3223">
-               <head xml:id="d1e3225">Til § 261.</head>
-               <p xml:id="d1e3227">
+            <div xml:id="d1e3236">
+               <head xml:id="d1e3238">Til § 261.</head>
+               <p xml:id="d1e3240">
 3.	Stk, L. 3 : „§ 72" 1. „§ 73".
 </p>
             </div>
-            <div xml:id="d1e3230">
-               <head xml:id="d1e3232">Til § 264.</head>
-               <p xml:id="d1e3234">
+            <div xml:id="d1e3243">
+               <head xml:id="d1e3245">Til § 264.</head>
+               <p xml:id="d1e3247">
 1. Stk, L. 1: „§ 263" 1. „§ 928".
 </p>
                <milestone type="leftside" xml:id="endd1e2138" prev="startd1e2138" n="2385" unit="column"/>
                <milestone type="rightside" xml:id="startd1e2227" next="endd1e2227" n="2386" unit="column"/>
             </div>
-            <div xml:id="d1e3241">
-               <head xml:id="d1e3243">Til § 265.</head>
-               <p xml:id="d1e3245">
+            <div xml:id="d1e3254">
+               <head xml:id="d1e3256">Til § 265.</head>
+               <p xml:id="d1e3258">
 L. 1: ,,§§ 263 og 264" 1. §§ 928 og 929".
 </p>
             </div>
-            <div xml:id="d1e3248">
-               <head xml:id="d1e3250">Til § 269.</head>
-               <p xml:id="d1e3252">
+            <div xml:id="d1e3261">
+               <head xml:id="d1e3263">Til § 269.</head>
+               <p xml:id="d1e3265">
 L. 1: „§ 152" 1. „§ 816".
 </p>
             </div>
-            <div xml:id="d1e3256">
-               <head xml:id="d1e3258">Til § 270.</head>
-               <p xml:id="d1e3260">
+            <div xml:id="d1e3269">
+               <head xml:id="d1e3271">Til § 270.</head>
+               <p xml:id="d1e3273">
 1.	Stk., L. 1: „§ 269" 1. „§ 934".
 </p>
-               <p xml:id="d1e3262">
+               <p xml:id="d1e3275">
 2.	Stk., L. 6: „§ 110" 1. „§ 774".
 </p>
-               <p xml:id="d1e3264">
+               <p xml:id="d1e3277">
 3.	Stk., L. 2: „§ 272" 1. „§ 937".
 </p>
             </div>
-            <div xml:id="d1e3267">
-               <head xml:id="d1e3269">Til § 272.</head>
-               <p xml:id="d1e3271">
-1. Stk., L. 1: „§ 269" 1. „§ 934".<lb xml:id="d1e3273"/>
+            <div xml:id="d1e3280">
+               <head xml:id="d1e3282">Til § 272.</head>
+               <p xml:id="d1e3284">
+1. Stk., L. 1: „§ 269" 1. „§ 934".<lb xml:id="d1e3286"/>
 1. Stk., L. 3: „§ 242" 1. ,,§ 907".
 </p>
             </div>
-            <div xml:id="d1e3277">
-               <head xml:id="d1e3279">Til § 275.</head>
-               <p xml:id="d1e3281">
+            <div xml:id="d1e3290">
+               <head xml:id="d1e3292">Til § 275.</head>
+               <p xml:id="d1e3294">
 L. 5: „§ 257" 1. „§ 922".
 </p>
             </div>
-            <div xml:id="d1e3284">
-               <head xml:id="d1e3286">Til § 279.</head>
-               <p xml:id="d1e3288">
+            <div xml:id="d1e3297">
+               <head xml:id="d1e3299">Til § 279.</head>
+               <p xml:id="d1e3301">
 L. 1: „§§ 280 og 281" 1. „§§ 945 og 946".
 </p>
             </div>
-            <div xml:id="d1e3291">
-               <head xml:id="d1e3293">Til § 285.</head>
-               <p xml:id="d1e3295">
-3. Stk., L. 1: ,,§§ 286—289" 1. „§§ 951<lb xml:id="d1e3297"/>
+            <div xml:id="d1e3304">
+               <head xml:id="d1e3306">Til § 285.</head>
+               <p xml:id="d1e3308">
+3. Stk., L. 1: ,,§§ 286—289" 1. „§§ 951<lb xml:id="d1e3310"/>
 —954".
 </p>
             </div>
-            <div xml:id="d1e3301">
-               <head xml:id="d1e3303">Til § 286.</head>
-               <p xml:id="d1e3305">
+            <div xml:id="d1e3314">
+               <head xml:id="d1e3316">Til § 286.</head>
+               <p xml:id="d1e3318">
 3. Stk., L. 1: „§ 271" 1. „§ 936".
 </p>
-               <p xml:id="d1e3307">
+               <p xml:id="d1e3320">
 5. Stk., L. 1: „§§ 286—289" 1. „951—954".
 </p>
             </div>
-            <div xml:id="d1e3311">
-               <head xml:id="d1e3313">Til § 287.</head>
-               <p xml:id="d1e3315">
-3. Stk. L. 3.: „§§ 280 og 281" 1. „§§ 945<lb xml:id="d1e3317"/>
+            <div xml:id="d1e3324">
+               <head xml:id="d1e3326">Til § 287.</head>
+               <p xml:id="d1e3328">
+3. Stk. L. 3.: „§§ 280 og 281" 1. „§§ 945<lb xml:id="d1e3330"/>
 og 946".
 </p>
             </div>
-            <div xml:id="d1e3321">
-               <head xml:id="d1e3323">Til § 293.</head>
-               <p xml:id="d1e3325">
+            <div xml:id="d1e3334">
+               <head xml:id="d1e3336">Til § 293.</head>
+               <p xml:id="d1e3338">
 1.	Stk. L. 4: „§ 280" 1. „945".
 </p>
-               <p xml:id="d1e3327">
+               <p xml:id="d1e3340">
 2.	Stk. L. 2: „§ 297" 1. „§ 962".
 </p>
             </div>
-            <div xml:id="d1e3330">
-               <head xml:id="d1e3332">Til § 295.</head>
-               <p xml:id="d1e3334">
+            <div xml:id="d1e3343">
+               <head xml:id="d1e3345">Til § 295.</head>
+               <p xml:id="d1e3347">
 2. Stk. L. 6: „§ 297'' 1. „§ 962''.
 </p>
             </div>
-            <div xml:id="d1e3337">
-               <head xml:id="d1e3339">Til § 296.</head>
-               <p xml:id="d1e3341">
-1. Stk. L. 2: „§293'' 1. „§ 958" og ,.§295"<lb xml:id="d1e3343"/>
+            <div xml:id="d1e3350">
+               <head xml:id="d1e3352">Til § 296.</head>
+               <p xml:id="d1e3354">
+1. Stk. L. 2: „§293'' 1. „§ 958" og ,.§295"<lb xml:id="d1e3356"/>
 1. „§ 960".
 </p>
-               <p xml:id="d1e3346">
+               <p xml:id="d1e3359">
 1. Stk. L. 3: „§ 294" 1. ,,§ 959".
 </p>
             </div>
-            <div xml:id="d1e3349">
-               <head xml:id="d1e3351">Til § 298.</head>
-               <p xml:id="d1e3353">
+            <div xml:id="d1e3362">
+               <head xml:id="d1e3364">Til § 298.</head>
+               <p xml:id="d1e3366">
 L. 3: „§ 301" 1. „§ 966".
 </p>
             </div>
-            <div xml:id="d1e3356">
-               <head xml:id="d1e3358">Til § 299.</head>
-               <p xml:id="d1e3360">
-1.	Stk. L. 1: „§§ 258, 269 og 272—274"<lb xml:id="d1e3362"/>
+            <div xml:id="d1e3369">
+               <head xml:id="d1e3371">Til § 299.</head>
+               <p xml:id="d1e3373">
+1.	Stk. L. 1: „§§ 258, 269 og 272—274"<lb xml:id="d1e3375"/>
 1. „§ 923, 934 og 937—939".
 </p>
-               <p xml:id="d1e3365">
-2.	Stk. L. 4: „§§ 274 og 296" 1. „§§ 939<lb xml:id="d1e3367"/>
+               <p xml:id="d1e3378">
+2.	Stk. L. 4: „§§ 274 og 296" 1. „§§ 939<lb xml:id="d1e3380"/>
 og 961".
 </p>
                <milestone type="rightside" xml:id="endd1e2227" prev="startd1e2227" n="2386" unit="column"/>
                <pb xml:id="idr12_00013_rigsdagtid_b2_1901_02" facs="r12_00013_rigsdagtid_b2_1901_02" n=""/>
-               <fw xml:id="d1e3375" type="head" place="top-left">2387</fw>
-               <fw xml:id="d1e3378" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
-               <fw xml:id="d1e3381" type="head" place="top-right">2388</fw>
+               <fw xml:id="d1e3388" type="head" place="top-left">2387</fw>
+               <fw xml:id="d1e3391" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw xml:id="d1e3394" type="head" place="top-right">2388</fw>
                <milestone type="leftside" xml:id="startd1e2332" next="endd1e2332" n="2387" unit="column"/>
             </div>
-            <div xml:id="d1e3388">
-               <head xml:id="d1e3390">Til § 302.</head>
-               <p xml:id="d1e3392">
-1. Stk. L. 10: „Kapitel XX.'' 1. „Kapitel<lb xml:id="d1e3394"/>
+            <div xml:id="d1e3401">
+               <head xml:id="d1e3403">Til § 302.</head>
+               <p xml:id="d1e3405">
+1. Stk. L. 10: „Kapitel XX.'' 1. „Kapitel<lb xml:id="d1e3407"/>
 80".
 </p>
-               <p xml:id="d1e3397">
+               <p xml:id="d1e3410">
 1. Stk. L. 12 og 15: „§ 211" 1. „§ 876".
 </p>
             </div>
-            <div xml:id="d1e3400">
-               <head xml:id="d1e3402">Til § 303.</head>
-               <p xml:id="d1e3404">
+            <div xml:id="d1e3413">
+               <head xml:id="d1e3415">Til § 303.</head>
+               <p xml:id="d1e3417">
 1. Stk. L. 1: „§ 302" 1. ,,§ 967".
 </p>
-               <p xml:id="d1e3406">
+               <p xml:id="d1e3419">
 1. Stk. L. 2: „§ 216" 1. „§ 881".
 </p>
-               <p xml:id="d1e3408">
+               <p xml:id="d1e3421">
 1. Stk. L. 4: „§ 218" 1. „§ 883".
 </p>
-               <p xml:id="d1e3410">
-3. Stk. L. 3: „Kapitlerne XXI. XXII og<lb xml:id="d1e3412"/>
+               <p xml:id="d1e3423">
+3. Stk. L. 3: „Kapitlerne XXI. XXII og<lb xml:id="d1e3425"/>
 XXIV" 1. „Kapitlerne 81, 82 og 84".
 </p>
             </div>
-            <div xml:id="d1e3416">
-               <head xml:id="d1e3418">Til § 304.</head>
-               <p xml:id="d1e3420">
-L. 1: „§ 5" 1. „§ 679".<lb xml:id="d1e3422"/>
+            <div xml:id="d1e3429">
+               <head xml:id="d1e3431">Til § 304.</head>
+               <p xml:id="d1e3433">
+L. 1: „§ 5" 1. „§ 679".<lb xml:id="d1e3435"/>
 L. 8: „§ 230" 1. „§ 895".
 </p>
             </div>
-            <div xml:id="d1e3426">
-               <head xml:id="d1e3428">Til § 305.</head>
-               <p xml:id="d1e3430">
+            <div xml:id="d1e3439">
+               <head xml:id="d1e3441">Til § 305.</head>
+               <p xml:id="d1e3443">
 L. 4: „§ 228" 1. „§ 893".
 </p>
             </div>
-            <div xml:id="d1e3433">
-               <head xml:id="d1e3435">Til § 309.</head>
-               <p xml:id="d1e3437">
+            <div xml:id="d1e3446">
+               <head xml:id="d1e3448">Til § 309.</head>
+               <p xml:id="d1e3450">
 L. 3: „310" 1. „g 975".
 </p>
             </div>
-            <div xml:id="d1e3440">
-               <head xml:id="d1e3442">Til § 310.</head>
-               <p xml:id="d1e3444">
+            <div xml:id="d1e3453">
+               <head xml:id="d1e3455">Til § 310.</head>
+               <p xml:id="d1e3457">
 1. Stk. L. 2: „§ 228" 1. „§ 893".
 </p>
-               <p xml:id="d1e3446">
+               <p xml:id="d1e3459">
 1.	Stk. L. 5: „§ 157" 1. „§ 815".
 </p>
             </div>
-            <div xml:id="d1e3450">
-               <head xml:id="d1e3452">Til § 316.</head>
-               <p xml:id="d1e3454">
-2.	Stk. L. 2: „§§ 306 og 307" 1. „S§ 971<lb xml:id="d1e3456"/>
+            <div xml:id="d1e3463">
+               <head xml:id="d1e3465">Til § 316.</head>
+               <p xml:id="d1e3467">
+2.	Stk. L. 2: „§§ 306 og 307" 1. „S§ 971<lb xml:id="d1e3469"/>
 og 972".
 </p>
             </div>
-            <div xml:id="d1e3460">
-               <head xml:id="d1e3462">Til § 317.</head>
-               <p xml:id="d1e3464">
+            <div xml:id="d1e3473">
+               <head xml:id="d1e3475">Til § 317.</head>
+               <p xml:id="d1e3477">
 2. Stk. L. 2: „§ 294" 1. „§ 959".
 </p>
             </div>
-            <div xml:id="d1e3467">
-               <head xml:id="d1e3469">Til § 319.</head>
-               <p xml:id="d1e3471">
+            <div xml:id="d1e3480">
+               <head xml:id="d1e3482">Til § 319.</head>
+               <p xml:id="d1e3484">
 L. 4: „§ 334" 1. „§ 1000".
 </p>
             </div>
-            <div xml:id="d1e3474">
-               <head xml:id="d1e3476">Til § 320.</head>
-               <p xml:id="d1e3478">
-1.	Stk. L. 7 og 17: „§ 276" 1. 8 941":<lb xml:id="d1e3480"/>
-L. 9: „§ 297" 1. „§ 962"; L. 11 : „S 297"<lb xml:id="d1e3482"/>
+            <div xml:id="d1e3487">
+               <head xml:id="d1e3489">Til § 320.</head>
+               <p xml:id="d1e3491">
+1.	Stk. L. 7 og 17: „§ 276" 1. 8 941":<lb xml:id="d1e3493"/>
+L. 9: „§ 297" 1. „§ 962"; L. 11 : „S 297"<lb xml:id="d1e3495"/>
 1. „962" og L. 11: „§ 241" 1. „§ 906".
 </p>
-               <p xml:id="d1e3485">
+               <p xml:id="d1e3498">
 2.	Stk. L. 3: „§ 276" 1. „§ 941".
 </p>
             </div>
-            <div xml:id="d1e3488">
-               <head xml:id="d1e3490">Til § 323.</head>
-               <p xml:id="d1e3492">
+            <div xml:id="d1e3501">
+               <head xml:id="d1e3503">Til § 323.</head>
+               <p xml:id="d1e3505">
 1.	Stk. L. 10: „§ 230" 1. „§ 895".
 </p>
-               <p xml:id="d1e3494">
+               <p xml:id="d1e3507">
 2.	Stk. L. 2: „§ 322" 1. „§ 988".
 </p>
             </div>
-            <div xml:id="d1e3497">
-               <head xml:id="d1e3499">Til § 324.</head>
-               <p xml:id="d1e3501">
+            <div xml:id="d1e3510">
+               <head xml:id="d1e3512">Til § 324.</head>
+               <p xml:id="d1e3514">
 L. 1: „§§ 322 og 323" 1. „§§ 988 og 989".
 </p>
             </div>
-            <div xml:id="d1e3505">
-               <head xml:id="d1e3507">Til § 325.</head>
-               <p xml:id="d1e3509">
+            <div xml:id="d1e3518">
+               <head xml:id="d1e3520">Til § 325.</head>
+               <p xml:id="d1e3522">
 L. 2: „§§ 322 og 323" 1. „§§ 988 og 989".
 </p>
             </div>
-            <div xml:id="d1e3512">
-               <head xml:id="d1e3514">Til § 326.</head>
-               <p xml:id="d1e3516">
-1.	Stk. L. 1: „§§ 322 og 323" 1. „SS 988<lb xml:id="d1e3518"/>
+            <div xml:id="d1e3525">
+               <head xml:id="d1e3527">Til § 326.</head>
+               <p xml:id="d1e3529">
+1.	Stk. L. 1: „§§ 322 og 323" 1. „SS 988<lb xml:id="d1e3531"/>
 og 989".	™
 </p>
-               <p xml:id="d1e3521">
+               <p xml:id="d1e3534">
 2.	Stk. L. 1: „§ 324" 1. § 990".
 </p>
                <milestone type="leftside" xml:id="endd1e2332" prev="startd1e2332" n="2387" unit="column"/>
                <milestone type="rightside" xml:id="startd1e2433" next="endd1e2433" n="2388" unit="column"/>
             </div>
-            <div xml:id="d1e3528">
-               <head xml:id="d1e3530">Til § 327.</head>
-               <p xml:id="d1e3532">
-1. Stk. L. 2: „§§ 322 og 325" 1. „§§ 988<lb xml:id="d1e3534"/>
+            <div xml:id="d1e3541">
+               <head xml:id="d1e3543">Til § 327.</head>
+               <p xml:id="d1e3545">
+1. Stk. L. 2: „§§ 322 og 325" 1. „§§ 988<lb xml:id="d1e3547"/>
 og 991".
 </p>
             </div>
-            <div xml:id="d1e3538">
-               <head xml:id="d1e3540">Til § 329.</head>
-               <p xml:id="d1e3542">
+            <div xml:id="d1e3551">
+               <head xml:id="d1e3553">Til § 329.</head>
+               <p xml:id="d1e3555">
 1.	Stk L. 4: „§ 332" 1. „§ 998".
 </p>
-               <p xml:id="d1e3544">
+               <p xml:id="d1e3557">
 2.	Stk. L. 1: „§ 328" 1. „§ 994".
 </p>
-               <p xml:id="d1e3546">
+               <p xml:id="d1e3559">
 2. Stk. L. 3: „§ 230" 1. „§ 895".
 </p>
             </div>
-            <div xml:id="d1e3549">
-               <head xml:id="d1e3551">Til § 330.</head>
-               <p xml:id="d1e3553">
+            <div xml:id="d1e3562">
+               <head xml:id="d1e3564">Til § 330.</head>
+               <p xml:id="d1e3566">
 2. Stk., L. 3: „Kap. XX." 1. „Kap. 80".
 </p>
             </div>
-            <div xml:id="d1e3556">
-               <head xml:id="d1e3558">Til § 332.</head>
-               <p xml:id="d1e3560">
+            <div xml:id="d1e3569">
+               <head xml:id="d1e3571">Til § 332.</head>
+               <p xml:id="d1e3573">
 1.	Stk., L. 3: „Kap. VIII." 1. „Kap. 68".
 </p>
-               <p xml:id="d1e3562">
+               <p xml:id="d1e3575">
 2.	Stk., L. 2: „§§ 243 ff." 1. „§§ 908" ff."
 </p>
             </div>
-            <div xml:id="d1e3566">
-               <head xml:id="d1e3568">Til § 333.</head>
-               <p xml:id="d1e3570">
+            <div xml:id="d1e3579">
+               <head xml:id="d1e3581">Til § 333.</head>
+               <p xml:id="d1e3583">
 2. Stk., L. 2: „§ 325" 1. „§ 991".
 </p>
-               <p xml:id="d1e3572">
+               <p xml:id="d1e3585">
 2. Stk., L. 5: „§ 334" 1. „§ 1000".
 </p>
             </div>
-            <div xml:id="d1e3575">
-               <head xml:id="d1e3577">Til § 334.</head>
-               <p xml:id="d1e3579">
-1. Stk., L. 3: „§ 333" 1. „§ 999".<lb xml:id="d1e3581"/>
-1. Stk., L. 4: „§ 320" 1. „§ 986".<lb xml:id="d1e3583"/>
+            <div xml:id="d1e3588">
+               <head xml:id="d1e3590">Til § 334.</head>
+               <p xml:id="d1e3592">
+1. Stk., L. 3: „§ 333" 1. „§ 999".<lb xml:id="d1e3594"/>
+1. Stk., L. 4: „§ 320" 1. „§ 986".<lb xml:id="d1e3596"/>
 1. Stk., L. 6: „§ 335" 1. „§ 1001".
 </p>
             </div>
-            <div xml:id="d1e3587">
-               <head xml:id="d1e3589">Til § 335.</head>
-               <p xml:id="d1e3591">
+            <div xml:id="d1e3600">
+               <head xml:id="d1e3602">Til § 335.</head>
+               <p xml:id="d1e3604">
 1.	Stk, L. 4: „§ 320" 1. „§ 986".
 </p>
             </div>
-            <div xml:id="d1e3594">
-               <head xml:id="d1e3596">Til § 337.</head>
-               <p xml:id="d1e3598">
+            <div xml:id="d1e3607">
+               <head xml:id="d1e3609">Til § 337.</head>
+               <p xml:id="d1e3611">
 2.	Stk., L. 7: „§ 96" 1. ;,§ 760".
 </p>
-               <p xml:id="d1e3600">
-2. Stk, L. 11: „§§ 313—315" 1. „§§ 978<lb xml:id="d1e3602"/>
+               <p xml:id="d1e3613">
+2. Stk, L. 11: „§§ 313—315" 1. „§§ 978<lb xml:id="d1e3615"/>
 —980" og „§ 315" 1. „§ 980".
 </p>
             </div>
-            <div xml:id="d1e3606">
-               <head xml:id="d1e3608">Til § 338.</head>
-               <p xml:id="d1e3610">
-1. Stk, L. 1: „§§ 318—326" 1. „§§ 984<lb xml:id="d1e3612"/>
+            <div xml:id="d1e3619">
+               <head xml:id="d1e3621">Til § 338.</head>
+               <p xml:id="d1e3623">
+1. Stk, L. 1: „§§ 318—326" 1. „§§ 984<lb xml:id="d1e3625"/>
 —992".
 </p>
-               <p xml:id="d1e3615">
-1. Stk, L. 4: „§ 323, jfr. § 325" 1. „§ 989,<lb xml:id="d1e3617"/>
+               <p xml:id="d1e3628">
+1. Stk, L. 4: „§ 323, jfr. § 325" 1. „§ 989,<lb xml:id="d1e3630"/>
 jfr. § 991".
 </p>
-               <p xml:id="d1e3620">
+               <p xml:id="d1e3633">
 1. Stk.', L. 20: „§ 337" 1. „§ 1003".
 </p>
             </div>
-            <div xml:id="d1e3623">
-               <head xml:id="d1e3625">Til § 339.</head>
-               <p xml:id="d1e3627">
+            <div xml:id="d1e3636">
+               <head xml:id="d1e3638">Til § 339.</head>
+               <p xml:id="d1e3640">
 L. 2: „§ 230" 1. „§ 895".
 </p>
-               <p xml:id="d1e3629">
-L. 3: „§ 328" 1. „§ 994" og „§ 337" 1.<lb xml:id="d1e3631"/>
+               <p xml:id="d1e3642">
+L. 3: „§ 328" 1. „§ 994" og „§ 337" 1.<lb xml:id="d1e3644"/>
 „§ 1003".
 </p>
             </div>
-            <div xml:id="d1e3636">
-               <head xml:id="d1e3638">Til § 340.</head>
-               <p xml:id="d1e3640">
+            <div xml:id="d1e3649">
+               <head xml:id="d1e3651">Til § 340.</head>
+               <p xml:id="d1e3653">
 1. Stk, L. 2: „§ 327" 1. „§ 993".
 </p>
-               <p xml:id="d1e3642">
-1. Stk, L. 4: „§§ 329—331 og 333—336"<lb xml:id="d1e3644"/>
+               <p xml:id="d1e3655">
+1. Stk, L. 4: „§§ 329—331 og 333—336"<lb xml:id="d1e3657"/>
 1. „§§ 995—997 og 999—1002".
 </p>
-               <p xml:id="d1e3647">
+               <p xml:id="d1e3660">
 1.	Stk, L. 5: „§ 330" 1. „§ 996".
 </p>
-               <p xml:id="d1e3649">
+               <p xml:id="d1e3662">
 2.	Stk, L, 2: „Kap. XXII." 1. „Kap. 82".
 </p>
-               <p xml:id="d1e3652">
+               <p xml:id="d1e3665">
 3.	Stk, L. 2: „§ 40" 1. „§ 704".
 </p>
                <milestone type="rightside" xml:id="endd1e2433" prev="startd1e2433" n="2388" unit="column"/>
                <pb xml:id="idr12_00014_rigsdagtid_b2_1901_02" facs="r12_00014_rigsdagtid_b2_1901_02" n=""/>
-               <fw xml:id="d1e3658" type="head" place="top-left">2389</fw>
-               <fw xml:id="d1e3661" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
-               <fw xml:id="d1e3664" type="head" place="top-right">2390</fw>
+               <fw xml:id="d1e3671" type="head" place="top-left">2389</fw>
+               <fw xml:id="d1e3674" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw xml:id="d1e3677" type="head" place="top-right">2390</fw>
                <milestone type="leftside" xml:id="startd1e2543" next="endd1e2543" n="2389" unit="column"/>
             </div>
-            <div xml:id="d1e3671">
-               <head xml:id="d1e3673">Til § 341.</head>
-               <p xml:id="d1e3675">
-1. Stk., L. 3: „Kap. XXI., XXII. og<lb xml:id="d1e3677"/>
+            <div xml:id="d1e3684">
+               <head xml:id="d1e3686">Til § 341.</head>
+               <p xml:id="d1e3688">
+1. Stk., L. 3: „Kap. XXI., XXII. og<lb xml:id="d1e3690"/>
 XXIV." 1. „Kap. 81, 82 og 84".
 </p>
             </div>
-            <div xml:id="d1e3681">
-               <head xml:id="d1e3683">Til § 342.</head>
-               <p xml:id="d1e3685">
+            <div xml:id="d1e3694">
+               <head xml:id="d1e3696">Til § 342.</head>
+               <p xml:id="d1e3698">
 1.	Stk., L. 2: „§ 216" 1. „§ 881".
 </p>
-               <p xml:id="d1e3687">
+               <p xml:id="d1e3700">
 2.	Stk., L. 1: „§ 322" 1. „§ 988".
 </p>
             </div>
-            <div xml:id="d1e3690">
-               <head xml:id="d1e3692">Til § 343.</head>
-               <p xml:id="d1e3694">
-1.	Stk., L. 1: „§ 219" 1. „§ 884" og „8 220"<lb xml:id="d1e3696"/>
+            <div xml:id="d1e3703">
+               <head xml:id="d1e3705">Til § 343.</head>
+               <p xml:id="d1e3707">
+1.	Stk., L. 1: „§ 219" 1. „§ 884" og „8 220"<lb xml:id="d1e3709"/>
 1. „§ 885".
 </p>
-               <p xml:id="d1e3699">
+               <p xml:id="d1e3712">
 2.	Stk., L. 2: „§ 228" 1. „§ 893".
 </p>
             </div>
-            <div xml:id="d1e3702">
-               <head xml:id="d1e3704">Til § 344.</head>
-               <p xml:id="d1e3706">
+            <div xml:id="d1e3715">
+               <head xml:id="d1e3717">Til § 344.</head>
+               <p xml:id="d1e3719">
 2. Stk., L. 5: „§ 248" 1. „§ 913".
 </p>
             </div>
-            <div xml:id="d1e3709">
-               <head xml:id="d1e3711">Til § 345.</head>
-               <p xml:id="d1e3713">
+            <div xml:id="d1e3722">
+               <head xml:id="d1e3724">Til § 345.</head>
+               <p xml:id="d1e3726">
 1. Stk, L. 2: „§ 96" 1. „§ 760".
 </p>
-               <p xml:id="d1e3715">
-1.	Stk, L. 5 og 7: „8 337" 1. „8 1003",<lb xml:id="d1e3717"/>
+               <p xml:id="d1e3728">
+1.	Stk, L. 5 og 7: „8 337" 1. „8 1003",<lb xml:id="d1e3730"/>
 „§ 338" 1. „§ 1004".
 </p>
-               <p xml:id="d1e3720">
+               <p xml:id="d1e3733">
 2.	Stk, L. 1: „Kap. XXVII" 1. „Kap. 88".
 </p>
             </div>
-            <div xml:id="d1e3724">
-               <head xml:id="d1e3726">Til § 346.</head>
-               <p xml:id="d1e3728">
-1. Stk, L. 3: ,,§§ 317 og 337" 1. „88 983<lb xml:id="d1e3730"/>
+            <div xml:id="d1e3737">
+               <head xml:id="d1e3739">Til § 346.</head>
+               <p xml:id="d1e3741">
+1. Stk, L. 3: ,,§§ 317 og 337" 1. „88 983<lb xml:id="d1e3743"/>
 og 1003".
 </p>
-               <p xml:id="d1e3733">
-1. Stk, L. 6 og 7: ,,§ 401" 1. ,,§ 1067" og<lb xml:id="d1e3735"/>
+               <p xml:id="d1e3746">
+1. Stk, L. 6 og 7: ,,§ 401" 1. ,,§ 1067" og<lb xml:id="d1e3748"/>
 ,,§ 404" 1. „§ 1070".
 </p>
-               <p xml:id="d1e3738">
+               <p xml:id="d1e3751">
 3.	Stk., L. 1: ,,§ 345" 1. ,,§ 1011".
 </p>
             </div>
-            <div xml:id="d1e3741">
-               <head xml:id="d1e3743">Til § 347.</head>
-               <p xml:id="d1e3745">
+            <div xml:id="d1e3754">
+               <head xml:id="d1e3756">Til § 347.</head>
+               <p xml:id="d1e3758">
 1.	Stk., L. 2: „§ 324" 1. „§ 990".
 </p>
             </div>
-            <div xml:id="d1e3748">
-               <head xml:id="d1e3750">Til § 348.</head>
-               <p xml:id="d1e3752">
+            <div xml:id="d1e3761">
+               <head xml:id="d1e3763">Til § 348.</head>
+               <p xml:id="d1e3765">
 2.	Stk, L. 4: „§ 230" 1. „§ 895".
 </p>
-               <p xml:id="d1e3754">
+               <p xml:id="d1e3767">
 2. Stk, L. 6: „§ 318" 1. „§ 984".
 </p>
             </div>
-            <div xml:id="d1e3757">
-               <head xml:id="d1e3759">Til § 349.</head>
-               <p xml:id="d1e3761">
-1. Stk, L. 1—2: „§ 95, 8 106 eller § 127"<lb xml:id="d1e3763"/>
+            <div xml:id="d1e3770">
+               <head xml:id="d1e3772">Til § 349.</head>
+               <p xml:id="d1e3774">
+1. Stk, L. 1—2: „§ 95, 8 106 eller § 127"<lb xml:id="d1e3776"/>
 1. „§ 759, § 770 eller § 791".
 </p>
             </div>
-            <div xml:id="d1e3767">
-               <head xml:id="d1e3769">Til § 350.</head>
-               <p xml:id="d1e3771">
-1. Stk, L. 4: „§ 330, jfr. § 340" 1. „§996,<lb xml:id="d1e3773"/>
+            <div xml:id="d1e3780">
+               <head xml:id="d1e3782">Til § 350.</head>
+               <p xml:id="d1e3784">
+1. Stk, L. 4: „§ 330, jfr. § 340" 1. „§996,<lb xml:id="d1e3786"/>
 jfr. § 1006". 
 </p>
             </div>
-            <div xml:id="d1e3777">
-               <head xml:id="d1e3779">Til § 351.</head>
-               <p xml:id="d1e3781">
+            <div xml:id="d1e3790">
+               <head xml:id="d1e3792">Til § 351.</head>
+               <p xml:id="d1e3794">
 1.	Stk, L. 2: „§ 96" 1. ,,§ 760".
 </p>
-               <p xml:id="d1e3783">
+               <p xml:id="d1e3796">
 2.	Stk, L. 1: „§ 328" 1. „§ 994".
 </p>
             </div>
-            <div xml:id="d1e3787">
-               <head xml:id="d1e3789">Til § 353.</head>
-               <p xml:id="d1e3791">
-L. 2 og 8: ,.§ 211" 1. „§ 876".<lb xml:id="d1e3793"/>
-L. 3: ,,§ 212" 1. ,.§ 877".<lb xml:id="d1e3795"/>
-L. 5: ,,§ 354" 1. „§ 1020".<lb xml:id="d1e3797"/>
+            <div xml:id="d1e3800">
+               <head xml:id="d1e3802">Til § 353.</head>
+               <p xml:id="d1e3804">
+L. 2 og 8: ,.§ 211" 1. „§ 876".<lb xml:id="d1e3806"/>
+L. 3: ,,§ 212" 1. ,.§ 877".<lb xml:id="d1e3808"/>
+L. 5: ,,§ 354" 1. „§ 1020".<lb xml:id="d1e3810"/>
 L. 7: „§ 203" 1. „§ 868".
 </p>
                <milestone type="leftside" xml:id="endd1e2543" prev="startd1e2543" n="2389" unit="column"/>
                <milestone type="rightside" xml:id="startd1e2643" next="endd1e2643" n="2390" unit="column"/>
             </div>
-            <div xml:id="d1e3805">
-               <head xml:id="d1e3807">Til § 355.</head>
-               <p xml:id="d1e3809">
+            <div xml:id="d1e3818">
+               <head xml:id="d1e3820">Til § 355.</head>
+               <p xml:id="d1e3822">
 1.	Stk, L. 6: „§ 354" 1. „§ 1020".
 </p>
-               <p xml:id="d1e3811">
+               <p xml:id="d1e3824">
 2.	Stk, L. 1: „§ 318" 1. „§ 984".
 </p>
             </div>
-            <div xml:id="d1e3814">
-               <head xml:id="d1e3816">Til § 357.</head>
-               <p xml:id="d1e3818">
+            <div xml:id="d1e3827">
+               <head xml:id="d1e3829">Til § 357.</head>
+               <p xml:id="d1e3831">
 2. Stk, L. 3: „§ 230" 1. „§ 895".
 </p>
-               <p xml:id="d1e3820">
-2. Stk.. L. 5: ,,§ 354 jfr. §355" 1. „81020<lb xml:id="d1e3822"/>
+               <p xml:id="d1e3833">
+2. Stk.. L. 5: ,,§ 354 jfr. §355" 1. „81020<lb xml:id="d1e3835"/>
 jfr. § 1021".' '
 </p>
             </div>
-            <div xml:id="d1e3826">
-               <head xml:id="d1e3828">Til § 359.</head>
-               <p xml:id="d1e3830">
+            <div xml:id="d1e3839">
+               <head xml:id="d1e3841">Til § 359.</head>
+               <p xml:id="d1e3843">
 1.	Stk, L. 6: „Kap. XX" 1. „Kap. 80".
 </p>
-               <p xml:id="d1e3832">
-2.	Stk, L. 2: ,.§ 354 jfr. § 355" 1. „81020<lb xml:id="d1e3834"/>
+               <p xml:id="d1e3845">
+2.	Stk, L. 2: ,.§ 354 jfr. § 355" 1. „81020<lb xml:id="d1e3847"/>
 jfr. § 1021".
 </p>
             </div>
-            <div xml:id="d1e3838">
-               <head xml:id="d1e3840">Til § 361.</head>
-               <p xml:id="d1e3842">
+            <div xml:id="d1e3851">
+               <head xml:id="d1e3853">Til § 361.</head>
+               <p xml:id="d1e3855">
 L. 4: „§ 6" 1. „§ 670".
 </p>
             </div>
-            <div xml:id="d1e3845">
-               <head xml:id="d1e3847">Til § 362.</head>
-               <p xml:id="d1e3849">
+            <div xml:id="d1e3858">
+               <head xml:id="d1e3860">Til § 362.</head>
+               <p xml:id="d1e3862">
 L. 2: „§ 318" 1. „§ 984".
 </p>
             </div>
-            <div xml:id="d1e3853">
-               <head xml:id="d1e3855">Til § 363.</head>
-               <p xml:id="d1e3857">
+            <div xml:id="d1e3866">
+               <head xml:id="d1e3868">Til § 363.</head>
+               <p xml:id="d1e3870">
 L. 3: „§ 96" 1. „§ 760".
 </p>
             </div>
-            <div xml:id="d1e3860">
-               <head xml:id="d1e3862">Til § 364.</head>
-               <p xml:id="d1e3864">
-L. 3: „§ 354" 1. „§ 1020".<lb xml:id="d1e3866"/>
+            <div xml:id="d1e3873">
+               <head xml:id="d1e3875">Til § 364.</head>
+               <p xml:id="d1e3877">
+L. 3: „§ 354" 1. „§ 1020".<lb xml:id="d1e3879"/>
 L. 4: „§ 355" 1. „§ 1021".
 </p>
             </div>
-            <div xml:id="d1e3870">
-               <head xml:id="d1e3872">Til § 365.</head>
-               <p xml:id="d1e3874">
+            <div xml:id="d1e3883">
+               <head xml:id="d1e3885">Til § 365.</head>
+               <p xml:id="d1e3887">
 L. 1: „§ 234" 1. „§ 899".
 </p>
-               <p xml:id="d1e3876">
+               <p xml:id="d1e3889">
 L. 3: „Kapitel XXVIII" 1. „Kapitel 89".
 </p>
-               <p xml:id="d1e3878">
-L. 7: „§ 323 jfr. § 324" 1. „§ 989 jfr.<lb xml:id="d1e3880"/>
+               <p xml:id="d1e3891">
+L. 7: „§ 323 jfr. § 324" 1. „§ 989 jfr.<lb xml:id="d1e3893"/>
 § 990".
 </p>
-               <p xml:id="d1e3883">
-L. 8: „§§ 357—360 og 363" 1. „§§ 1023—<lb xml:id="d1e3885"/>
+               <p xml:id="d1e3896">
+L. 8: „§§ 357—360 og 363" 1. „§§ 1023—<lb xml:id="d1e3898"/>
 1026 og 1029".
 </p>
             </div>
-            <div xml:id="d1e3889">
-               <head xml:id="d1e3891">Til § 366.</head>
-               <p xml:id="d1e3893">
+            <div xml:id="d1e3902">
+               <head xml:id="d1e3904">Til § 366.</head>
+               <p xml:id="d1e3906">
 1. Stk., L. 1: „§ 34" 1. „§ 698".
 </p>
-               <p xml:id="d1e3895">
-1. Stk.. L. 4: „Kapitlerne XXVI. og XXVII.<lb xml:id="d1e3897"/>
-—XXIX." 1. „Kapitlerne 86 og 88—90";<lb xml:id="d1e3899"/>
+               <p xml:id="d1e3908">
+1. Stk.. L. 4: „Kapitlerne XXVI. og XXVII.<lb xml:id="d1e3910"/>
+—XXIX." 1. „Kapitlerne 86 og 88—90";<lb xml:id="d1e3912"/>
 „§ 309" 1. „§ '974".
 </p>
             </div>
-            <div xml:id="d1e3903">
-               <head xml:id="d1e3905">Til § 367.</head>
-               <p xml:id="d1e3907">
+            <div xml:id="d1e3916">
+               <head xml:id="d1e3918">Til § 367.</head>
+               <p xml:id="d1e3920">
 1. og 2. Stk., L. 1: „§ 36" 1. „§ 700".
 </p>
-               <p xml:id="d1e3909">
-1.	Stk., L. 4: „Kap. XX—XXIX" 1. „Kap.<lb xml:id="d1e3911"/>
+               <p xml:id="d1e3922">
+1.	Stk., L. 4: „Kap. XX—XXIX" 1. „Kap.<lb xml:id="d1e3924"/>
 80—90".
 </p>
             </div>
-            <div xml:id="d1e3915">
-               <head xml:id="d1e3917">Til § 368.</head>
-               <p xml:id="d1e3919">
+            <div xml:id="d1e3928">
+               <head xml:id="d1e3930">Til § 368.</head>
+               <p xml:id="d1e3932">
 3. Stk., L. 3: „Kap. XXI." 1. „Kap. 81".
 </p>
             </div>
-            <div xml:id="d1e3923">
-               <head xml:id="d1e3925">Til § 369.</head>
-               <p xml:id="d1e3927">
+            <div xml:id="d1e3936">
+               <head xml:id="d1e3938">Til § 369.</head>
+               <p xml:id="d1e3940">
 2.	Stk, L. 5: „§ 216" 1. „§ 881".
 </p>
-               <p xml:id="d1e3929">
+               <p xml:id="d1e3942">
 3.	Stk, L. 1 : „§ 368" 1. „§ 1034".
 </p>
-               <p xml:id="d1e3931">
+               <p xml:id="d1e3944">
 4.	Stk, L. 4: „§ 399" 1. „§ 1065".
 </p>
                <milestone type="rightside" xml:id="endd1e2643" prev="startd1e2643" n="2390" unit="column"/>
                <pb xml:id="idr12_00015_rigsdagtid_b2_1901_02" facs="r12_00015_rigsdagtid_b2_1901_02" n=""/>
-               <fw xml:id="d1e3938" type="head" place="top-left">2391</fw>
-               <fw xml:id="d1e3941" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
-               <fw xml:id="d1e3944" type="head" place="top-right">2392</fw>
+               <fw xml:id="d1e3951" type="head" place="top-left">2391</fw>
+               <fw xml:id="d1e3954" type="head" place="top-middle">Tillæg til Betænkninger o. Lovf. om Domsmagtens Ordning m. fl.</fw>
+               <fw xml:id="d1e3957" type="head" place="top-right">2392</fw>
                <milestone type="leftside" xml:id="startd1e2753" next="endd1e2753" n="2391" unit="column"/>
             </div>
-            <div xml:id="d1e3950">
-               <head xml:id="d1e3952">Til § 373.</head>
-               <p xml:id="d1e3954">
+            <div xml:id="d1e3963">
+               <head xml:id="d1e3965">Til § 373.</head>
+               <p xml:id="d1e3967">
 1. Stk., L. 1: „§§ 341 ff." 1. „§ 1007 ff.".
 </p>
-               <p xml:id="d1e3956">
+               <p xml:id="d1e3969">
 1. Stk., L. 3: „§ 337" 1. „§ 1003".
 </p>
-               <p xml:id="d1e3958">
-3. Stk., L. 2: „Kap. XXVII, og XXVIII."<lb xml:id="d1e3960"/>
+               <p xml:id="d1e3971">
+3. Stk., L. 2: „Kap. XXVII, og XXVIII."<lb xml:id="d1e3973"/>
 1. „Kap. 88. og 89".
 </p>
             </div>
-            <div xml:id="d1e3964">
-               <head xml:id="d1e3966">Til § 374.</head>
-               <p xml:id="d1e3968">
+            <div xml:id="d1e3977">
+               <head xml:id="d1e3979">Til § 374.</head>
+               <p xml:id="d1e3981">
 1. Stk, L. 2: „S 36" 1. „§ 700".
 </p>
             </div>
-            <div xml:id="d1e3971">
-               <head xml:id="d1e3973">Til § 375.</head>
-               <p xml:id="d1e3975">
+            <div xml:id="d1e3984">
+               <head xml:id="d1e3986">Til § 375.</head>
+               <p xml:id="d1e3988">
 1.	og 2. Stk, L. 2: „§ 36" 1. „§ 700".
 </p>
-               <p xml:id="d1e3977">
-2.	Stk, L. 4: „§ 373" 1. „§ 1039".<lb xml:id="d1e3979"/>
+               <p xml:id="d1e3990">
+2.	Stk, L. 4: „§ 373" 1. „§ 1039".<lb xml:id="d1e3992"/>
 2. Stk, L. 6: „§ 354" 1. „§ 1020".
 </p>
             </div>
-            <div xml:id="d1e3983">
-               <head xml:id="d1e3985">Til § 376.</head>
-               <p xml:id="d1e3987">
-1. Stk, L. 5: Kap. XXVIII, jfr. Kap.<lb xml:id="d1e3989"/>
+            <div xml:id="d1e3996">
+               <head xml:id="d1e3998">Til § 376.</head>
+               <p xml:id="d1e4000">
+1. Stk, L. 5: Kap. XXVIII, jfr. Kap.<lb xml:id="d1e4002"/>
 XXVII." 1. „Kap. 89 jfr. Kap. 88".
 </p>
-               <p xml:id="d1e3992">
+               <p xml:id="d1e4005">
 1.	Stk, L. 9: „§ 374" 1. „§ 1040".
 </p>
-               <p xml:id="d1e3994">
-2.	Stk, L. 3: ,,§ 283" 1. „§ 401-'; „§ 345"<lb xml:id="d1e3996"/>
+               <p xml:id="d1e4007">
+2.	Stk, L. 3: ,,§ 283" 1. „§ 401-'; „§ 345"<lb xml:id="d1e4009"/>
 1. „§ 1011". '
 </p>
-               <p xml:id="d1e3999">
+               <p xml:id="d1e4012">
 3.	Stk, L. 2: „§ 371" 1. „§ 1037".
 </p>
             </div>
-            <div xml:id="d1e4002">
-               <head xml:id="d1e4004">Til § 377.</head>
-               <p xml:id="d1e4006">
+            <div xml:id="d1e4015">
+               <head xml:id="d1e4017">Til § 377.</head>
+               <p xml:id="d1e4019">
 1.	Stk., L. 1: „§ 302" 1. „§ 967".
 </p>
-               <p xml:id="d1e4008">
-3. Stk.. L. 3: ,.§§ 219 og 221" 1. „§§ 884<lb xml:id="d1e4010"/>
+               <p xml:id="d1e4021">
+3. Stk.. L. 3: ,.§§ 219 og 221" 1. „§§ 884<lb xml:id="d1e4023"/>
 og 886".
 </p>
             </div>
-            <div xml:id="d1e4015">
-               <head xml:id="d1e4017">Til § 378.</head>
-               <p xml:id="d1e4019">
+            <div xml:id="d1e4028">
+               <head xml:id="d1e4030">Til § 378.</head>
+               <p xml:id="d1e4032">
 2.	Stk, L. 2: „§ 377" 1. „§ 1043".
 </p>
             </div>
-            <div xml:id="d1e4022">
-               <head xml:id="d1e4024">Til § 382.</head>
-               <p xml:id="d1e4026">
+            <div xml:id="d1e4035">
+               <head xml:id="d1e4037">Til § 382.</head>
+               <p xml:id="d1e4039">
 2. Stk, L. 2: „§ 378" 1. „§ 1044".
 </p>
-               <p xml:id="d1e4028">
+               <p xml:id="d1e4041">
 2. Stk., L. 3: „§ 379" 1. „§ 1045".
 </p>
             </div>
-            <div xml:id="d1e4031">
-               <head xml:id="d1e4033">Til § 385.</head>
-               <p xml:id="d1e4035">
+            <div xml:id="d1e4044">
+               <head xml:id="d1e4046">Til § 385.</head>
+               <p xml:id="d1e4048">
 1. Stk, L. 7: „§§ 341 ff." 1. „§§ 1007 ff.".
 </p>
                <milestone type="leftside" xml:id="endd1e2753" prev="startd1e2753" n="2391" unit="column"/>
                <milestone type="rightside" xml:id="startd1e2823" next="endd1e2823" n="2392" unit="column"/>
             </div>
-            <div xml:id="d1e4042">
-               <head xml:id="d1e4044">Til § 386.</head>
-               <p xml:id="d1e4046">
+            <div xml:id="d1e4055">
+               <head xml:id="d1e4057">Til § 386.</head>
+               <p xml:id="d1e4059">
 2. Stk, L. 2: „§ 323" 1. ,,§ 989".
 </p>
             </div>
-            <div xml:id="d1e4049">
-               <head xml:id="d1e4051">Til § 389.</head>
-               <p xml:id="d1e4053">
+            <div xml:id="d1e4062">
+               <head xml:id="d1e4064">Til § 389.</head>
+               <p xml:id="d1e4066">
 1. Stk, L. 5: „§§ 341 ff." 1. „§§ 1007 ff.".
 </p>
-               <p xml:id="d1e4055">
+               <p xml:id="d1e4068">
 1.	Stk, L. 7: „Kap. XVIII" 1. „Kap. 78".
 </p>
-               <p xml:id="d1e4057">
+               <p xml:id="d1e4070">
 2.	Stk, L. 3: „Kap. XVIII" 1. „Kap. 78".
 </p>
-               <p xml:id="d1e4059">
+               <p xml:id="d1e4072">
 2. Stk, L. 5: „§ 182" 1. ,,§ 847".
 </p>
             </div>
-            <div xml:id="d1e4062">
-               <head xml:id="d1e4064">Til § 393.</head>
-               <p xml:id="d1e4066">
-2. Stk, L. 1: „§ 106 jfr. § 127" 1. „8 770<lb xml:id="d1e4068"/>
+            <div xml:id="d1e4075">
+               <head xml:id="d1e4077">Til § 393.</head>
+               <p xml:id="d1e4079">
+2. Stk, L. 1: „§ 106 jfr. § 127" 1. „8 770<lb xml:id="d1e4081"/>
 jfr. § 791".
 </p>
-               <p xml:id="d1e4071">
+               <p xml:id="d1e4084">
 2.	Stk, L. 3: „§ 106" 1. „§ 770".
 </p>
-               <p xml:id="d1e4073">
+               <p xml:id="d1e4086">
 3.	Stk, L. 1: „§ 129" 1. ,,§ 793".
 </p>
             </div>
-            <div xml:id="d1e4077">
-               <head xml:id="d1e4079">Til § 395.</head>
-               <p xml:id="d1e4081">
+            <div xml:id="d1e4090">
+               <head xml:id="d1e4092">Til § 395.</head>
+               <p xml:id="d1e4094">
 2.	Stk, L. 3: „§ 397" 1. „§ 1063".
 </p>
-               <p xml:id="d1e4083">
+               <p xml:id="d1e4096">
 3.	Stk, L. 5: „§ 318" 1. „§ 984".
 </p>
             </div>
-            <div xml:id="d1e4086">
-               <head xml:id="d1e4088">Til § 398.</head>
-               <p xml:id="d1e4090">
+            <div xml:id="d1e4099">
+               <head xml:id="d1e4101">Til § 398.</head>
+               <p xml:id="d1e4103">
 1. Stk, L. 3: „§ 106" 1. „§ 770".
 </p>
             </div>
-            <div xml:id="d1e4093">
-               <head xml:id="d1e4095">Til § 399.</head>
-               <p xml:id="d1e4097">
+            <div xml:id="d1e4106">
+               <head xml:id="d1e4108">Til § 399.</head>
+               <p xml:id="d1e4110">
 1. Stk, L. 1: „§ 36" 1. „§ 700".
 </p>
-               <p xml:id="d1e4099">
+               <p xml:id="d1e4112">
 1. Stk, L. 2: „§ 394" 1. „§ 1060".
 </p>
             </div>
-            <div xml:id="d1e4102">
-               <head xml:id="d1e4104">Til § 402.</head>
-               <p xml:id="d1e4106">
+            <div xml:id="d1e4115">
+               <head xml:id="d1e4117">Til § 402.</head>
+               <p xml:id="d1e4119">
 L. 3: „Kap. XII" 1. „Kap. 72".
 </p>
             </div>
-            <div xml:id="d1e4109">
-               <head xml:id="d1e4111">Til § 410.</head>
-               <p xml:id="d1e4113">
-L. 2: „§ 409" 1. „§ 1073".<lb xml:id="d1e4115"/>
-L. 3: „§ 318" 1. „§ 984".<lb xml:id="d1e4117"/>
+            <div xml:id="d1e4122">
+               <head xml:id="d1e4124">Til § 410.</head>
+               <p xml:id="d1e4126">
+L. 2: „§ 409" 1. „§ 1073".<lb xml:id="d1e4128"/>
+L. 3: „§ 318" 1. „§ 984".<lb xml:id="d1e4130"/>
 L. 5: „Kap. XXX" 1. „Kap. 91".
 </p>
                <milestone type="rightside" xml:id="endd1e2823" prev="startd1e2823" n="2392" unit="column"/>
-               <signatur xml:id="d1e4122">
-                  <p xml:id="d1e4124">
+               <signatur xml:id="d1e4135">
+                  <p xml:id="d1e4137">
 Rettelser.
 </p>
-                  <p xml:id="d1e4126">
+                  <p xml:id="d1e4139">
 Sp. 2198, Linie 5 f. o, „Nr. 36" ændres til: „Nr. 45".
 </p>
-                  <p xml:id="d1e4128">
+                  <p xml:id="d1e4141">
 —	2333, 3die Stk, Linie 1, „Ændringsforslaget til § 2" ændres til: „Ændringsforslaget under Nr. 536".
 </p>
-                  <p xml:id="d1e4130">
+                  <p xml:id="d1e4143">
 —	2360, over Ændringsforslag Nr. 655 til § 410 skal staa: „Af Udvalgets Flertal".
 </p>
                </signatur>

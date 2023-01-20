@@ -16,6 +16,9 @@ while(my $file = <$PAGES>) {
     $file =~ m/(text-sources\/)(.+?)(.txt$)/;
     my $page_id = $2;
 
+    $file =~ m/^.*?(1[89]\d\d)[\.\_]/;
+    my $year = $1;
+    print "$year\n";
     # print "$page_id\n";
 
     if($page_id =~ m/((g|r)\d\d)/) {
