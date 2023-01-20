@@ -27,7 +27,15 @@
                 <xsl:value-of select="$registrant//row[contains(Filnavne,$volume_number)]/Titel"/>
               </title>
               <date>
-                <xsl:value-of select="$registrant//row[contains(Filnavne,$volume_number)]/Udgivelsesår"/>
+                <xsl:choose>
+                  <xsl:when test="$registrant//row[contains(Filnavne,$volume_number)]/Udgivelsesår">
+                    <xsl:value-of select="$registrant//row[contains(Filnavne,$volume_number)]/Udgivelsesår"/>
+                  </xsl:when>
+                  <xsl:when test="$registrant//row[contains(Filnavne,$volume_number)]/Skrevet/fremsatDato">
+                    <xsl:value-of select="$registrant//row[contains(Filnavne,$volume_number)]/Skrevet/fremsatDato"/>
+                  </xsl:when>
+                  <xsl:otherwise>qwertyqwerty</xsl:otherwise>
+                </xsl:choose>
               </date>
             </bibl>
           </sourceDesc>

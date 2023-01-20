@@ -23,6 +23,7 @@
 
   <xsl:template match="t:div">
     <div>
+      <xsl:apply-templates select="@*"/>
       <xsl:apply-templates select="t:head"/>
       <xsl:apply-templates select="t:title[1]"/>
     </div>
