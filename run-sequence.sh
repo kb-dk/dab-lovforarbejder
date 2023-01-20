@@ -13,8 +13,11 @@ for filename in ./volumes/[gr]*.xml; do
     
     $SAXON  "volumes/step1-$result.xml" \
 	    split-into-chapters.xsl "volume_number=$result" > "volumes/step2-$result.xml"
-    
+
     $SAXON  "volumes/step2-$result.xml" \
+	    extract-metadata.xsl "volume_number=$result" > "volumes/step2a-$result.xml"
+    
+    $SAXON  "volumes/step2a-$result.xml" \
 	    chapters-into-sections.xsl "volume_number=$result" > "volumes/step3-$result.xml" 
 
     $SAXON  "volumes/step3-$result.xml" \
@@ -26,6 +29,7 @@ for filename in ./volumes/[gr]*.xml; do
     
     rm "volumes/step1-$result.xml" \
        "volumes/step2-$result.xml" \
+       "volumes/step2a-$result.xml" \
        "volumes/step3-$result.xml" \
        "volumes/step4-$result.xml"
     
