@@ -27,15 +27,6 @@ into 33 volumes stored in the directory [volumes](volumes), and while
 doing so, transforms them into [Text Encoding Initiative xml
 (TEI)](https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html).
 
-The resulting files are far from perfect. As of writing this, 28 of
-the files are invalid and only 5 are valid, namely
-
-* [volumes/r06.xml](volumes/r06.xml)
-* [volumes/r10.xml](volumes/r10.xml)
-* [volumes/r15.xml](volumes/r15.xml)
-* [volumes/r21.xml](volumes/r21.xml)
-* [volumes/r22.xml](volumes/r22.xml)
-
 I expect the whole corpus will be good enough for search and
 presentation in spite of the fact that they are wanting in markup as
 well as proofreading.
