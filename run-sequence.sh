@@ -5,8 +5,9 @@ source "parameters.sh"
 rm volumes/*.xml ; ./aggregate-volumes.pl
 
 for filename in ./volumes/[gr]*.xml; do
-# for filename in ./volumes/g01.xml; do
+# for filename in ./volumes/r31.xml; do
     echo "$filename"
+
     result=`basename $filename .xml`
 
     $SAXON  $filename  add-structure.xsl  "volume_number=$result" > "volumes/step1-$result.xml"

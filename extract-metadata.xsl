@@ -37,17 +37,19 @@
   </xsl:template>
 
   <xsl:template match="t:fileDesc/t:sourceDesc">
-    <xsl:copy-of select="t:bibl"/>
-    <xsl:element name="listBibl">
-      <xsl:for-each select="//t:text/t:body/t:div">
-        <bibl>
-          <xsl:attribute name="xml:id">
-            <xsl:value-of select="concat('bibl-chptr',generate-id(.))"/>
-          </xsl:attribute>
-          <title><xsl:value-of select="t:head[1]"/></title>
-        </bibl>
-      </xsl:for-each>
-    </xsl:element>
+    <sourceDesc>
+      <xsl:copy-of select="t:bibl"/>
+      <xsl:element name="listBibl">
+        <xsl:for-each select="//t:text/t:body/t:div">
+          <bibl>
+            <xsl:attribute name="xml:id">
+              <xsl:value-of select="concat('bibl-chptr',generate-id(.))"/>
+            </xsl:attribute>
+            <title><xsl:value-of select="t:head[1]"/></title>
+          </bibl>
+        </xsl:for-each>
+      </xsl:element>
+    </sourceDesc>
   </xsl:template>
   
   <xsl:template match="node()|@*">

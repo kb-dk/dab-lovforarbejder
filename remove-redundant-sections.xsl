@@ -24,6 +24,8 @@
 
   <xsl:template match="t:head[string-length(.) = 0]"/>
   <xsl:template match="t:head/t:lb"><xsl:text> </xsl:text></xsl:template>
+  <xsl:template match="t:head/t:p"><xsl:text>
+  </xsl:text></xsl:template>
   
   <xsl:template match="node()|@*">
     <xsl:copy>
