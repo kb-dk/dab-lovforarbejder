@@ -28,7 +28,7 @@
             <xsl:value-of select="concat('chptr',generate-id(.))"/>
           </xsl:attribute>
           <xsl:attribute name="decls">
-            <xsl:value-of select="concat('bibl-chptr',generate-id(.))"/>
+            <xsl:value-of select="concat('#bibl-chptr',generate-id(.))"/>
           </xsl:attribute>
           <xsl:apply-templates/>
         </div>

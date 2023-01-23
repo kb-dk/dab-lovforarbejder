@@ -28,7 +28,7 @@
    </teiHeader>
    <text xml:id="d1e47">
       <body xml:id="d1e49">
-         <div xml:id="chptrd1e33" decls="bibl-chptrd1e33">
+         <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
             <head xml:id="d1e53">1901-02: Betænkning (Folketinget)</head>
             
                
@@ -38,23 +38,23 @@
                <fw xml:id="d1e67" type="head" place="top-right">2260</fw>
             
          </div>
-         <div xml:id="chptrd1e52" decls="bibl-chptrd1e52">
+         <div xml:id="chptrd1e52" decls="#bibl-chptrd1e52">
             <head xml:id="d1e74">LXXXIII.</head>
             
                
             
          </div>
-         <div xml:id="chptrd1e59" decls="bibl-chptrd1e59">
+         <div xml:id="chptrd1e59" decls="#bibl-chptrd1e59">
             <head xml:id="d1e84">Betænkning</head>
             
                
             
-            <div xml:id="d1e91">
+            
                <head xml:id="d1e93">over</head>
-            </div>
-            <div xml:id="d1e96">
+            
+            
                <head xml:id="d1e98">Forslag til Lov om den borgerlige Retspleje.</head>
-            </div>
+            
             <div xml:id="d1e101">
                <head xml:id="d1e103">(Afgiven af Folketingets Udvalg den 14de Maj 1902.)</head>
                <milestone type="leftside" xml:id="startd1e25" next="endd1e25" n="2259" unit="column"/>

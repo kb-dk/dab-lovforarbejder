@@ -18,7 +18,7 @@
     </TEI>
   </xsl:template>
 
-  <xsl:template match="t:div/t:div[string-length(t:head) = 0]">
+  <xsl:template match="t:div/t:div[string-length(t:head) = 0]|t:div/t:div[count(t:p) = 0]">
     <xsl:apply-templates/>
   </xsl:template>
 

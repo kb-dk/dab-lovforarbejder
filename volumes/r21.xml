@@ -32,7 +32,7 @@ Forslag til Lov om Rettens Pleje.
    </teiHeader>
    <text xml:id="d1e42">
       <body xml:id="d1e44">
-         <div xml:id="chptrd1e33" decls="bibl-chptrd1e33">
+         <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
             <head xml:id="d1e48">1908-09: Erklæring (Folketinget)</head>
             
                
@@ -42,7 +42,7 @@ Forslag til Lov om Rettens Pleje.
                <fw xml:id="d1e61" type="head" place="top-right">1834</fw>
             
          </div>
-         <div xml:id="chptrd1e51" decls="bibl-chptrd1e51">
+         <div xml:id="chptrd1e51" decls="#bibl-chptrd1e51">
             <head xml:id="d1e68">
 XXXVIII.
 Erklæring

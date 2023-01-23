@@ -409,7 +409,7 @@ Sagsomkostninger og Rettergangsbøder i Straffesager.
    </teiHeader>
    <text xml:id="d1e621">
       <body xml:id="d1e623">
-         <div xml:id="chptrd1e33" decls="bibl-chptrd1e33">
+         <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
             <head xml:id="d1e627">1908-09: Lovforslag</head>
             
                
@@ -421,7 +421,7 @@ Sagsomkostninger og Rettergangsbøder i Straffesager.
 </fw>
             
          </div>
-         <div xml:id="chptrd1e51" decls="bibl-chptrd1e51">
+         <div xml:id="chptrd1e51" decls="#bibl-chptrd1e51">
             <head xml:id="d1e647">
 XIII,
 Forslag til Lov
@@ -431,41 +431,41 @@ Rettens Pleje.
             
                
             
-            <div xml:id="d1e654">
+            
                <head xml:id="d1e656">
 (Fremsat i Landstinget den 23. Oktober 1908 af Justitsminister Svend Høgsbro.)
 </head>
-            </div>
-            <div xml:id="d1e659">
+            
+            
                <head xml:id="d1e661">
 Første Bog. 
 Domsmagten m. m.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e65" decls="bibl-chptrd1e65">
+         <div xml:id="chptrd1e65" decls="#bibl-chptrd1e65">
             <head xml:id="d1e670">
 Første Afsnit.
 </head>
             
                
             
-            <div xml:id="d1e677">
+            
                <head xml:id="d1e679">
 Domstolenes Ordning.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e74" decls="bibl-chptrd1e74">
+         <div xml:id="chptrd1e74" decls="#bibl-chptrd1e74">
             <head xml:id="d1e685">Kapital 1.</head>
             
                
             
-            <div xml:id="d1e692">
+            
                <head xml:id="d1e694">
 Retterne.
 </head>
-            </div>
+            
             <div xml:id="d1e697">
                <head xml:id="d1e699">§ 1.</head>
                <p xml:id="d1e701">
@@ -913,16 +913,16 @@ mester ; Forretningernes Fordeling mellem Dommerne fastsættes ved kongelig Anor
 </fw>
             </div>
          </div>
-         <div xml:id="chptrd1e723" decls="bibl-chptrd1e723">
+         <div xml:id="chptrd1e723" decls="#bibl-chptrd1e723">
             <head xml:id="d1e1402">Kapital 2.</head>
             
                
             
-            <div xml:id="d1e1409">
+            
                <head xml:id="d1e1411">
 Retsmøder.
 </head>
-            </div>
+            
             <div xml:id="d1e1414">
                <head xml:id="d1e1416">§ 23.</head>
                <p xml:id="d1e1418">
@@ -1090,16 +1090,16 @@ tallet af de Personer, der indlades.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e980" decls="bibl-chptrd1e980">
+         <div xml:id="chptrd1e980" decls="#bibl-chptrd1e980">
             <head xml:id="d1e1696">Kapitel 3.</head>
             
                
             
-            <div xml:id="d1e1703">
+            
                <head xml:id="d1e1705">
 Retsbøger.
 </head>
-            </div>
+            
             <div xml:id="d1e1708">
                <head xml:id="d1e1710">§ 34.</head>
                <p xml:id="d1e1712">
@@ -1230,16 +1230,16 @@ Dokumenter.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e1155" decls="bibl-chptrd1e1155">
+         <div xml:id="chptrd1e1155" decls="#bibl-chptrd1e1155">
             <head xml:id="d1e1903">Kapitel 4.</head>
             
                
             
-            <div xml:id="d1e1910">
+            
                <head xml:id="d1e1912">
 Dommere, Retsskrivere, Retsvidner og Retsbude m. m.
 </head>
-            </div>
+            
             <div xml:id="d1e1915">
                <head xml:id="d1e1917">§ 43.</head>
                <p xml:id="d1e1919">
@@ -1590,16 +1590,16 @@ rettens og Københavns Byrets Skriverkontorer ansættes af vedkommende Rets Form
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e1701" decls="bibl-chptrd1e1701">
+         <div xml:id="chptrd1e1701" decls="#bibl-chptrd1e1701">
             <head xml:id="d1e2504">Kapitel 5.</head>
             
                
             
-            <div xml:id="d1e2511">
+            
                <head xml:id="d1e2513">
 Tilfælde, hvor Rettens Personer skulle eller kunne vige deres Sæde.
 </head>
-            </div>
+            
             <div xml:id="d1e2516">
                <head xml:id="d1e2518">§ 61.</head>
                <p xml:id="d1e2520">
@@ -1722,13 +1722,13 @@ eller nedstigende Linie eller i første Sidelinie, eller han selv er Part i Sage
 interesseret i dens Udfald.
 </p>
             </div>
-            <div xml:id="d1e2719">
+            
                <head xml:id="d1e2721">
 Andet Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e1891" decls="bibl-chptrd1e1891">
+         <div xml:id="chptrd1e1891" decls="#bibl-chptrd1e1891">
             <head xml:id="d1e2727">
 Nævningers Kaldelse.
 </head>
@@ -1736,16 +1736,16 @@ Nævningers Kaldelse.
                
             
          </div>
-         <div xml:id="chptrd1e1898" decls="bibl-chptrd1e1898">
+         <div xml:id="chptrd1e1898" decls="#bibl-chptrd1e1898">
             <head xml:id="d1e2737">Kapitel 6.</head>
             
                
             
-            <div xml:id="d1e2744">
+            
                <head xml:id="d1e2746">
 Almindelige Bestemmelser.
 </head>
-            </div>
+            
             <div xml:id="d1e2749">
                <head xml:id="d1e2751">§ 69.</head>
                <p xml:id="d1e2753">
@@ -1841,16 +1841,16 @@ efter Udløbet af lovbestemt Frist, er ikke afskaaret.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e2024" decls="bibl-chptrd1e2024">
+         <div xml:id="chptrd1e2024" decls="#bibl-chptrd1e2024">
             <head xml:id="d1e2883">Kapital 7.</head>
             
                
             
-            <div xml:id="d1e2890">
+            
                <head xml:id="d1e2892">
 Grundlister.
 </head>
-            </div>
+            
             <div xml:id="d1e2895">
                <head xml:id="d1e2897">§ 74.</head>
                <p xml:id="d1e2899">
@@ -1966,16 +1966,16 @@ Udelukkelse der er Tale.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e2223" decls="bibl-chptrd1e2223">
+         <div xml:id="chptrd1e2223" decls="#bibl-chptrd1e2223">
             <head xml:id="d1e3102">Kapitel 8.</head>
             
                
             
-            <div xml:id="d1e3109">
+            
                <head xml:id="d1e3111">
 Nævningekredsens Aarsliste.
 </head>
-            </div>
+            
             <div xml:id="d1e3114">
                <head xml:id="d1e3116">§ 79.</head>
                <p xml:id="d1e3118">
@@ -2058,16 +2058,16 @@ Lovgivningens almindelige Bestemmelser, at anse med Bøder fra 20 til 400 Kr.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e2345" decls="bibl-chptrd1e2345">
+         <div xml:id="chptrd1e2345" decls="#bibl-chptrd1e2345">
             <head xml:id="d1e3244">Kapitel 9.</head>
             
                
             
-            <div xml:id="d1e3251">
+            
                <head xml:id="d1e3253">
 Udtagelse af Nævninger for det enkelte Ting og for den enkelte Sag.
 </head>
-            </div>
+            
             <div xml:id="d1e3256">
                <head xml:id="d1e3258">§ 84.</head>
                <p xml:id="d1e3260">
@@ -2413,13 +2413,13 @@ Aarslisten samt Tingets Hovedliste og Hjælpeliste tilbagesendes efter Tingets<l
 Slutning til Formanden for Udvalget til Aarslistens Dannelse.
 </p>
             </div>
-            <div xml:id="d1e3824">
+            
                <head xml:id="d1e3826">
 Tredie Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e2863" decls="bibl-chptrd1e2863">
+         <div xml:id="chptrd1e2863" decls="#bibl-chptrd1e2863">
             <head xml:id="d1e3832">
 Sagførere. 
             </head>
@@ -2427,16 +2427,16 @@ Sagførere.
                
             
          </div>
-         <div xml:id="chptrd1e2873" decls="bibl-chptrd1e2873">
+         <div xml:id="chptrd1e2873" decls="#bibl-chptrd1e2873">
             <head xml:id="d1e3845">Kapitel 10.</head>
             
                
             
-            <div xml:id="d1e3852">
+            
                <head xml:id="d1e3854">
 Sagføreres Beskikkelse og Adgang til at benytte Fuldmægtig m. m.
 </head>
-            </div>
+            
             <div xml:id="d1e3857">
                <head xml:id="d1e3859">§ 106.</head>
                <p xml:id="d1e3861">
@@ -2627,16 +2627,16 @@ Stad eller i den Retskreds, hvor deres Principal har Kontor.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e3175" decls="bibl-chptrd1e3175">
+         <div xml:id="chptrd1e3175" decls="#bibl-chptrd1e3175">
             <head xml:id="d1e4186">Kapitel 11.</head>
             
                
             
-            <div xml:id="d1e4193">
+            
                <head xml:id="d1e4195">
 Sagføreres Rettigheder og Pligter.
 </head>
-            </div>
+            
             <div xml:id="d1e4198">
                <head xml:id="d1e4200">§ 118.</head>
                <p xml:id="d1e4202">
@@ -2733,16 +2733,16 @@ en særskilt Kendelse eller ved den endelige Dom.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e3321" decls="bibl-chptrd1e3321">
+         <div xml:id="chptrd1e3321" decls="#bibl-chptrd1e3321">
             <head xml:id="d1e4354">Kapitel 12.</head>
             
                
             
-            <div xml:id="d1e4361">
+            
                <head xml:id="d1e4363">
 Ophør af Retten til Sagførervirksomhed.
 </head>
-            </div>
+            
             <div xml:id="d1e4366">
                <head xml:id="d1e4368">§ 124.</head>
                <p xml:id="d1e4370">
@@ -2780,16 +2780,16 @@ tage ham Retten til at udøve Sagførervirksomhed, saa længe Umyndiggørelsen v
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e3388" decls="bibl-chptrd1e3388">
+         <div xml:id="chptrd1e3388" decls="#bibl-chptrd1e3388">
             <head xml:id="d1e4432">Kapitel 13.</head>
             
                
             
-            <div xml:id="d1e4439">
+            
                <head xml:id="d1e4441">
 Sagførersamfund og Sagførerraad.
 </head>
-            </div>
+            
             <div xml:id="d1e4444">
                <head xml:id="d1e4446">§ 126.</head>
                <p xml:id="d1e4448">
@@ -2923,13 +2923,13 @@ paa et almindeligt Møde og derefter forelægges Kongen, som enten stadfæster d
 eller nægter dem Stadfæstelse.
 </p>
             </div>
-            <div xml:id="d1e4657">
+            
                <head xml:id="d1e4659">
 Fjerde Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e3587" decls="bibl-chptrd1e3587">
+         <div xml:id="chptrd1e3587" decls="#bibl-chptrd1e3587">
             <head xml:id="d1e4665">
 Politimyndigheden.
 </head>
@@ -2937,7 +2937,7 @@ Politimyndigheden.
                
             
          </div>
-         <div xml:id="chptrd1e3594" decls="bibl-chptrd1e3594">
+         <div xml:id="chptrd1e3594" decls="#bibl-chptrd1e3594">
             <head xml:id="d1e4675">Kapitel 14.</head>
             
                
@@ -2990,16 +2990,16 @@ Straffesager.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e3662" decls="bibl-chptrd1e3662">
+         <div xml:id="chptrd1e3662" decls="#bibl-chptrd1e3662">
             <head xml:id="d1e4758">Kapitel 15.</head>
             
                
             
-            <div xml:id="d1e4765">
+            
                <head xml:id="d1e4767">
 Almindelige Bestemmelser om Procesmaaden.
 </head>
-            </div>
+            
             <div xml:id="d1e4770">
                <head xml:id="d1e4772">§ 139.</head>
                <p xml:id="d1e4774">
@@ -3099,16 +3099,16 @@ naar Retten beklædes af en Enkeltdommer, af denne.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e3805" decls="bibl-chptrd1e3805">
+         <div xml:id="chptrd1e3805" decls="#bibl-chptrd1e3805">
             <head xml:id="d1e4921">Kapital 16.</head>
             
                
             
-            <div xml:id="d1e4928">
+            
                <head xml:id="d1e4930">
 Forkyndelser og Meddelelser.
 </head>
-            </div>
+            
             <div xml:id="d1e4933">
                <head xml:id="d1e4935">§ 144.</head>
                <p xml:id="d1e4937">
@@ -3382,16 +3382,16 @@ hvor saadant gøres fornødent.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e4224" decls="bibl-chptrd1e4224">
+         <div xml:id="chptrd1e4224" decls="#bibl-chptrd1e4224">
             <head xml:id="d1e5389">Kapital 17.</head>
             
                
             
-            <div xml:id="d1e5396">
+            
                <head xml:id="d1e5398">
 Vidner.
 </head>
-            </div>
+            
             <div xml:id="d1e5401">
                <head xml:id="d1e5403">§ 159.</head>
                <p xml:id="d1e5405">
@@ -3994,16 +3994,16 @@ at være utilstedeligt efter de derom gældende Lovbestemmelser.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e5128" decls="bibl-chptrd1e5128">
+         <div xml:id="chptrd1e5128" decls="#bibl-chptrd1e5128">
             <head xml:id="d1e6375">Kapital 18.</head>
             
                
             
-            <div xml:id="d1e6382">
+            
                <head xml:id="d1e6384">
 Syn og Skøu.
 </head>
-            </div>
+            
             <div xml:id="d1e6387">
                <head xml:id="d1e6389">§ 187.</head>
                <p xml:id="d1e6391">
@@ -4355,16 +4355,16 @@ i Tilfælde, hvor der ikke er rejst Retssag, jvf. dog § 18.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e5676" decls="bibl-chptrd1e5676">
+         <div xml:id="chptrd1e5676" decls="#bibl-chptrd1e5676">
             <head xml:id="d1e6978">Kapitel 19.</head>
             
                
             
-            <div xml:id="d1e6985">
+            
                <head xml:id="d1e6987">
 Rettens Raadslagninger og Afgørelser.
 </head>
-            </div>
+            
             <div xml:id="d1e6990">
                <head xml:id="d1e6992">§ 205.</head>
                <p xml:id="d1e6994">
@@ -4560,13 +4560,13 @@ Tredie Bog.<lb xml:id="d1e7302"/>
 Den borgerlige Retspleje.
 </p>
             </div>
-            <div xml:id="d1e7306">
+            
                <head xml:id="d1e7308">
 Første Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e5976" decls="bibl-chptrd1e5976">
+         <div xml:id="chptrd1e5976" decls="#bibl-chptrd1e5976">
             <head xml:id="d1e7314">
 Almindelige Bestemmelser.
 </head>
@@ -4574,16 +4574,16 @@ Almindelige Bestemmelser.
                
             
          </div>
-         <div xml:id="chptrd1e5983" decls="bibl-chptrd1e5983">
+         <div xml:id="chptrd1e5983" decls="#bibl-chptrd1e5983">
             <head xml:id="d1e7324">Kapitel 20.</head>
             
                
             
-            <div xml:id="d1e7331">
+            
                <head xml:id="d1e7333">
 Retternes Virkekreds.
 </head>
-            </div>
+            
             <div xml:id="d1e7336">
                <head xml:id="d1e7338">§ 215.</head>
                <p xml:id="d1e7340">
@@ -4761,16 +4761,16 @@ tagelse af de i Kapitel 42 og 43 nævnte Sager (jvf. endvidere §§ 648 og 660).
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e6222" decls="bibl-chptrd1e6222">
+         <div xml:id="chptrd1e6222" decls="#bibl-chptrd1e6222">
             <head xml:id="d1e7600">Kapitel 21.</head>
             
                
             
-            <div xml:id="d1e7607">
+            
                <head xml:id="d1e7609">
 Værneting.
 </head>
-            </div>
+            
             <div xml:id="d1e7612">
                <head xml:id="d1e7614">§ 226.</head>
                <p xml:id="d1e7616">
@@ -4944,16 +4944,16 @@ svenske Dommes Fuldbyrdelse m. v. af 19. Februar 1861 § 6.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e6464" decls="bibl-chptrd1e6464">
+         <div xml:id="chptrd1e6464" decls="#bibl-chptrd1e6464">
             <head xml:id="d1e7886">Kapitel 22.</head>
             
                
             
-            <div xml:id="d1e7893">
+            
                <head xml:id="d1e7895">
 Forening af flere Krav under samme Retssag.
 </head>
-            </div>
+            
             <div xml:id="d1e7898">
                <head xml:id="d1e7900">§ 240.</head>
                <p xml:id="d1e7902">
@@ -5021,16 +5021,16 @@ Retten den Myndighed, som er tillagt den i § 277.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e6564" decls="bibl-chptrd1e6564">
+         <div xml:id="chptrd1e6564" decls="#bibl-chptrd1e6564">
             <head xml:id="d1e8009">Kapitel 23.</head>
             
                
             
-            <div xml:id="d1e8016">
+            
                <head xml:id="d1e8018">
 Sagens Parter.
 </head>
-            </div>
+            
             <div xml:id="d1e8021">
                <head xml:id="d1e8023">§ 246.</head>
                <p xml:id="d1e8025">
@@ -5098,16 +5098,16 @@ Forhandling.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e6667" decls="bibl-chptrd1e6667">
+         <div xml:id="chptrd1e6667" decls="#bibl-chptrd1e6667">
             <head xml:id="d1e8132">Kapital 24.</head>
             
                
             
-            <div xml:id="d1e8139">
+            
                <head xml:id="d1e8141">
 Rettergangsfuldmægtige.
 </head>
-            </div>
+            
             <div xml:id="d1e8144">
                <head xml:id="d1e8146">§ 251.</head>
                <p xml:id="d1e8148">
@@ -5233,16 +5233,16 @@ Forelagte Lovforslag m. m.	142
                <fw xml:id="d1e8342" type="head" place="top-right">2260</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e6857" decls="bibl-chptrd1e6857">
+         <div xml:id="chptrd1e6857" decls="#bibl-chptrd1e6857">
             <head xml:id="d1e8349">Kapital 25.</head>
             
                
             
-            <div xml:id="d1e8356">
+            
                <head xml:id="d1e8358">
 Forligsmægling.
 </head>
-            </div>
+            
             <div xml:id="d1e8361">
                <head xml:id="d1e8363">§ 259.</head>
                <p xml:id="d1e8365">
@@ -5454,16 +5454,16 @@ ligskommission, under hvilken enten Kreditor eller Skyldneren hører.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e7160" decls="bibl-chptrd1e7160">
+         <div xml:id="chptrd1e7160" decls="#bibl-chptrd1e7160">
             <head xml:id="d1e8682">Kapitel 26.</head>
             
                
             
-            <div xml:id="d1e8689">
+            
                <head xml:id="d1e8691">
 Procesmaaden i Almindelighed.
 </head>
-            </div>
+            
             <div xml:id="d1e8694">
                <head xml:id="d1e8696">§ 268.</head>
                <p xml:id="d1e8698">
@@ -5800,16 +5800,16 @@ melser, jvf. i øvrigt § 186.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e7656" decls="bibl-chptrd1e7656">
+         <div xml:id="chptrd1e7656" decls="#bibl-chptrd1e7656">
             <head xml:id="d1e9238">Kapitel 27.</head>
             
                
             
-            <div xml:id="d1e9245">
+            
                <head xml:id="d1e9247">
 Om Parternes og Trediemands Forpligtelse til at fremlægge synbare Bevismidler.
 </head>
-            </div>
+            
             <div xml:id="d1e9250">
                <head xml:id="d1e9252">§ 288.</head>
                <p xml:id="d1e9254">
@@ -5912,16 +5912,16 @@ inden en vis Frist. De i § 291 givne Regler blive i øvrigt i saadant Tilfælde
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e7820" decls="bibl-chptrd1e7820">
+         <div xml:id="chptrd1e7820" decls="#bibl-chptrd1e7820">
             <head xml:id="d1e9421">Kapitel 28.</head>
             
                
             
-            <div xml:id="d1e9428">
+            
                <head xml:id="d1e9430">
 Afhøring af Parter og Parts Ed.
 </head>
-            </div>
+            
             <div xml:id="d1e9433">
                <head xml:id="d1e9435">§ 293.</head>
                <p xml:id="d1e9437">
@@ -6127,16 +6127,16 @@ er den endelige Dom i Sagen, og fra den regnes Fuldbyrdelsesfristen samt Ankefri
                <fw xml:id="d1e9767" type="head" place="top-right">2282</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e8143" decls="bibl-chptrd1e8143">
+         <div xml:id="chptrd1e8143" decls="#bibl-chptrd1e8143">
             <head xml:id="d1e9775">Kapitel 29.</head>
             
                
             
-            <div xml:id="d1e9782">
+            
                <head xml:id="d1e9784">
 Sagsomkostninger og Rettergangsbøder.
 </head>
-            </div>
+            
             <div xml:id="d1e9787">
                <head xml:id="d1e9789">§ 302.</head>
                <p xml:id="d1e9791">
@@ -6355,7 +6355,7 @@ serne i nærværende Kapitel Anvendelse i Overensstemmelse med de i §§ 518, 64
                <fw xml:id="d1e10137" type="head" place="top-right">2288</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e8452" decls="bibl-chptrd1e8452">
+         <div xml:id="chptrd1e8452" decls="#bibl-chptrd1e8452">
             <head xml:id="d1e10144">Kapitel 30.</head>
             
                
@@ -6478,13 +6478,13 @@ Bestemmelserne i Lov om Sagførersalær m. m. af 24. Maj 1879 forblive gæl-<lb 
 dende i borgerlige Sager.
 </p>
             </div>
-            <div xml:id="d1e10322">
+            
                <head xml:id="d1e10324">
 Andet Afsnit. 
                </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e8616" decls="bibl-chptrd1e8616">
+         <div xml:id="chptrd1e8616" decls="#bibl-chptrd1e8616">
             <head xml:id="d1e10333">
 Rettergangsmaaden.
 </head>
@@ -6492,17 +6492,17 @@ Rettergangsmaaden.
                
             
          </div>
-         <div xml:id="chptrd1e8623" decls="bibl-chptrd1e8623">
+         <div xml:id="chptrd1e8623" decls="#bibl-chptrd1e8623">
             <head xml:id="d1e10343">Kapitel 31.</head>
             
                
             
-            <div xml:id="d1e10350">
+            
                <head xml:id="d1e10352">
 Forberedelse af Domsforhandling i Sager, der i første Instans henhøre
 under Landsretterne.
 </head>
-            </div>
+            
             <div xml:id="d1e10355">
                <head xml:id="d1e10357">§ 328.</head>
                <p xml:id="d1e10359">
@@ -6985,7 +6985,7 @@ Eksemplar af hvert af de af ham fremlagte Processkrifter til Afbenyttelse for Re
                <fw xml:id="d1e11158" type="head" place="top-right">2304</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e9368" decls="bibl-chptrd1e9368">
+         <div xml:id="chptrd1e9368" decls="#bibl-chptrd1e9368">
             <head xml:id="d1e11165">Kapitel 32.</head>
             
                
@@ -7232,16 +7232,16 @@ de fornødne Bestemmelser om Sagens Fortsættelse, jvf. §§ 364 og 365.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e9733" decls="bibl-chptrd1e9733">
+         <div xml:id="chptrd1e9733" decls="#bibl-chptrd1e9733">
             <head xml:id="d1e11571">Kapitel 33.</head>
             
                
             
-            <div xml:id="d1e11578">
+            
                <head xml:id="d1e11580">
 Intervention og Tilstævning af Trediemand i Landsretssager i første Instans.
 </head>
-            </div>
+            
             <div xml:id="d1e11583">
                <head xml:id="d1e11585">§ 368.</head>
                <p xml:id="d1e11587">
@@ -7327,16 +7327,16 @@ dette Kapitels Regler til Anvendelse.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e9857" decls="bibl-chptrd1e9857">
+         <div xml:id="chptrd1e9857" decls="#bibl-chptrd1e9857">
             <head xml:id="d1e11723">Kapitel 34.</head>
             
                
             
-            <div xml:id="d1e11730">
+            
                <head xml:id="d1e11732">
 Skriftlig Behandling af Sager ved Landsretterne i første Instans.
 </head>
-            </div>
+            
             <div xml:id="d1e11735">
                <head xml:id="d1e11737">§ 376.</head>
                <p xml:id="d1e11739">
@@ -7458,16 +7458,16 @@ Med Hensyn til Anke og Kære forholdes der efter de almindelige Regler.
                <fw xml:id="d1e11923" type="head" place="top-right">2316</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e10033" decls="bibl-chptrd1e10033">
+         <div xml:id="chptrd1e10033" decls="#bibl-chptrd1e10033">
             <head xml:id="d1e11930">Kapital 35.</head>
             
                
             
-            <div xml:id="d1e11937">
+            
                <head xml:id="d1e11939">
 Anke til Højesteret.
 </head>
-            </div>
+            
             <div xml:id="d1e11942">
                <head xml:id="d1e11944">§ 385.</head>
                <p xml:id="d1e11946">
@@ -7852,16 +7852,16 @@ fremmes derefter i Overensstemmelse med de almindelige Regler.
                <fw xml:id="d1e12552" type="head" place="top-right">2326</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e10593" decls="bibl-chptrd1e10593">
+         <div xml:id="chptrd1e10593" decls="#bibl-chptrd1e10593">
             <head xml:id="d1e12559">Kapitel 36.</head>
             
                
             
-            <div xml:id="d1e12566">
+            
                <head xml:id="d1e12568">
 Kære til Højesteret.
 </head>
-            </div>
+            
             <div xml:id="d1e12571">
                <head xml:id="d1e12573">§ 408.</head>
                <p xml:id="d1e12575">
@@ -7949,16 +7949,16 @@ Adgang til Kære fortabes, naar en til den given Udsættelse ikke benyttes.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e10719" decls="bibl-chptrd1e10719">
+         <div xml:id="chptrd1e10719" decls="#bibl-chptrd1e10719">
             <head xml:id="d1e12707">Kapital 37.</head>
             
                
             
-            <div xml:id="d1e12714">
+            
                <head xml:id="d1e12716">
 Ny Foretagelse ved Højesteret.
 </head>
-            </div>
+            
             <div xml:id="d1e12719">
                <head xml:id="d1e12721">§ 414.</head>
                <p xml:id="d1e12723">
@@ -7999,7 +7999,7 @@ foreligge, afviser Retten Sagen.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e10782" decls="bibl-chptrd1e10782">
+         <div xml:id="chptrd1e10782" decls="#bibl-chptrd1e10782">
             <head xml:id="d1e12781">Kapitel 38.</head>
             
                
@@ -8294,16 +8294,16 @@ Landsrettens Afgørelse i Anledning af Kære kan ikke indbringes for Højesteret
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e11198" decls="bibl-chptrd1e11198">
+         <div xml:id="chptrd1e11198" decls="#bibl-chptrd1e11198">
             <head xml:id="d1e13246">Kapitel 39.</head>
             
                
             
-            <div xml:id="d1e13253">
+            
                <head xml:id="d1e13255">
 Behandlingen af Sager, der paakendes ved Sø- og Handelsretten.
 </head>
-            </div>
+            
             <div xml:id="d1e13258">
                <head xml:id="d1e13260">§ 433.</head>
                <p xml:id="d1e13262">
@@ -8320,16 +8320,16 @@ til Østre Landsret efter de i Kapitel 38 givne Regler.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e11229" decls="bibl-chptrd1e11229">
+         <div xml:id="chptrd1e11229" decls="#bibl-chptrd1e11229">
             <head xml:id="d1e13285">Kapitel 40.</head>
             
                
             
-            <div xml:id="d1e13292">
+            
                <head xml:id="d1e13294">
 Sager om Veksler og visse andre Gældsbreve.
 </head>
-            </div>
+            
             <div xml:id="d1e13297">
                <head xml:id="d1e13299">§ 434.</head>
                <p xml:id="d1e13301">
@@ -8427,17 +8427,17 @@ Forelagte Lovforslag m. m.	147
                <fw xml:id="d1e13453" type="head" place="top-right">2340</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e11383" decls="bibl-chptrd1e11383">
+         <div xml:id="chptrd1e11383" decls="#bibl-chptrd1e11383">
             <head xml:id="d1e13460">Kapitel 41.</head>
             
                
             
-            <div xml:id="d1e13467">
+            
                <head xml:id="d1e13469">
 Ægteskabssager samt Sager, hvorunder Arvinger søge sig en bortebleven Persons
 Formue tilkendt.
 </head>
-            </div>
+            
             <div xml:id="d1e13472">
                <head xml:id="d1e13474">§ 439.</head>
                <p xml:id="d1e13476">
@@ -8532,17 +8532,17 @@ stændigheder, paa hvilke Sagens Afgørelse beror.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e11520" decls="bibl-chptrd1e11520">
+         <div xml:id="chptrd1e11520" decls="#bibl-chptrd1e11520">
             <head xml:id="d1e13629">Kapitel 42.</head>
             
                
             
-            <div xml:id="d1e13636">
+            
                <head xml:id="d1e13638">
 Fremgangsmaaden, naar nogen skal umyndiggøres, eller Enke skal sættes
 under fast Lavværgemaal.
 </head>
-            </div>
+            
             <div xml:id="d1e13641">
                <head xml:id="d1e13643">§ 448.</head>
                <p xml:id="d1e13645">
@@ -8698,16 +8698,16 @@ svarende Anvendelse.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e11750" decls="bibl-chptrd1e11750">
+         <div xml:id="chptrd1e11750" decls="#bibl-chptrd1e11750">
             <head xml:id="d1e13896">Kapitel 43.</head>
             
                
             
-            <div xml:id="d1e13903">
+            
                <head xml:id="d1e13905">
 Fremgangsmaaden ved at erhverve Mortifikations- eller Ejendonisdom.
 </head>
-            </div>
+            
             <div xml:id="d1e13908">
                <head xml:id="d1e13910">§ 459.</head>
                <p xml:id="d1e13912">
@@ -8846,13 +8846,13 @@ velse af Mortifikationsdom uden særlig Indstævning træder en af vedkommende R
 Overensstemmelse med § 462 meddelt Tilladelse.
 </p>
             </div>
-            <div xml:id="d1e14134">
+            
                <head xml:id="d1e14136">
 Tredie Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e11959" decls="bibl-chptrd1e11959">
+         <div xml:id="chptrd1e11959" decls="#bibl-chptrd1e11959">
             <head xml:id="d1e14142">
 Eksekution og Tvangsauktion.
 </head>
@@ -8860,16 +8860,16 @@ Eksekution og Tvangsauktion.
                
             
          </div>
-         <div xml:id="chptrd1e11966" decls="bibl-chptrd1e11966">
+         <div xml:id="chptrd1e11966" decls="#bibl-chptrd1e11966">
             <head xml:id="d1e14152">Kapitel 44.</head>
             
                
             
-            <div xml:id="d1e14159">
+            
                <head xml:id="d1e14161">
 Almindelige Betingelser for Eksekution.
 </head>
-            </div>
+            
             <div xml:id="d1e14164">
                <head xml:id="d1e14166">§ 469.</head>
                <p xml:id="d1e14168">
@@ -9146,16 +9146,16 @@ holdets Natur.
                <fw xml:id="d1e14606" type="head" place="top-right">2358</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e12379" decls="bibl-chptrd1e12379">
+         <div xml:id="chptrd1e12379" decls="#bibl-chptrd1e12379">
             <head xml:id="d1e14614">Kapitel 45.</head>
             
                
             
-            <div xml:id="d1e14621">
+            
                <head xml:id="d1e14623">
 Fuldbyrdelse af Domme, der ikke lyde paa Udredelse af Penge.
 </head>
-            </div>
+            
             <div xml:id="d1e14626">
                <head xml:id="d1e14628">§ 484.</head>
                <p xml:id="d1e14630">
@@ -9305,16 +9305,16 @@ sig i Henseende til Dommens Efterkommeise.
                <fw xml:id="d1e14873" type="head" place="top-right">2362</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e12617" decls="bibl-chptrd1e12617">
+         <div xml:id="chptrd1e12617" decls="#bibl-chptrd1e12617">
             <head xml:id="d1e14880">Kapitel 46.</head>
             
                
             
-            <div xml:id="d1e14887">
+            
                <head xml:id="d1e14889">
 Fuldbyrdelse af Domme, der lyde paa Udredelse af Penge.
 </head>
-            </div>
+            
             <div xml:id="d1e14892">
                <head xml:id="d1e14894">§ 492.</head>
                <p xml:id="d1e14896">
@@ -9591,16 +9591,16 @@ derfor haves, eller saadant maatte følge af den borgerlige Rets Regler.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e13027" decls="bibl-chptrd1e13027">
+         <div xml:id="chptrd1e13027" decls="#bibl-chptrd1e13027">
             <head xml:id="d1e15337">Kapitel 47.</head>
             
                
             
-            <div xml:id="d1e15344">
+            
                <head xml:id="d1e15346">
 Eksekutionsforretningens Foretagelse og Proceduren under samme.
 </head>
-            </div>
+            
             <div xml:id="d1e15349">
                <head xml:id="d1e15351">§ 507.</head>
                <p xml:id="d1e15353">
@@ -10022,16 +10022,16 @@ herfor.
                <fw xml:id="d1e16034" type="head" place="top-right">2380</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e13665" decls="bibl-chptrd1e13665">
+         <div xml:id="chptrd1e13665" decls="#bibl-chptrd1e13665">
             <head xml:id="d1e16041">Kapitel 48.</head>
             
                
             
-            <div xml:id="d1e16048">
+            
                <head xml:id="d1e16050">
 Almindelige Bestemmelser for Tvangsauktion.
 </head>
-            </div>
+            
             <div xml:id="d1e16053">
                <head xml:id="d1e16055">§ 529.</head>
                <p xml:id="d1e16057">
@@ -10141,16 +10141,16 @@ for saa vidt den, der har udredet dem, har Krav paa Andel i Købesummen.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e13824" decls="bibl-chptrd1e13824">
+         <div xml:id="chptrd1e13824" decls="#bibl-chptrd1e13824">
             <head xml:id="d1e16222">Kapitel 49.</head>
             
                
             
-            <div xml:id="d1e16229">
+            
                <head xml:id="d1e16231">
 Tvangsauktion over Løsøre.
 </head>
-            </div>
+            
             <div xml:id="d1e16234">
                <head xml:id="d1e16236">§ 535.</head>
                <p xml:id="d1e16238">
@@ -10382,16 +10382,16 @@ betales til Fogden, som derefter har at gaa frem efter Reglerne i §§ 545 og 54
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e14160" decls="bibl-chptrd1e14160">
+         <div xml:id="chptrd1e14160" decls="#bibl-chptrd1e14160">
             <head xml:id="d1e16608">Kapital 50.</head>
             
                
             
-            <div xml:id="d1e16615">
+            
                <head xml:id="d1e16617">
 Tvangsauktion over fast Ejendom.
 </head>
-            </div>
+            
             <div xml:id="d1e16620">
                <head xml:id="d1e16622">§ 551.</head>
                <p xml:id="d1e16624">
@@ -11028,16 +11028,16 @@ komst ikke kan opnaas ved hans Mægling, Spørgsmaal herom ved Kendelse.
                <fw xml:id="d1e17736" type="head" place="top-right">2406</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e15219" decls="bibl-chptrd1e15219">
+         <div xml:id="chptrd1e15219" decls="#bibl-chptrd1e15219">
             <head xml:id="d1e17744">Kapitel 51.</head>
             
                
             
-            <div xml:id="d1e17751">
+            
                <head xml:id="d1e17753">
 Proceduren af Tvistigheder, der opstaa under Tvangsauktionen.
 </head>
-            </div>
+            
             <div xml:id="d1e17756">
                <head xml:id="d1e17758">§ 577.</head>
                <p xml:id="d1e17760">
@@ -11113,17 +11113,17 @@ Maade, som i § 528, 2det Stykke, er bestemt om Udlæg.
                <fw xml:id="d1e17864" type="head" place="top-right">2408</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e15321" decls="bibl-chptrd1e15321">
+         <div xml:id="chptrd1e15321" decls="#bibl-chptrd1e15321">
             <head xml:id="d1e17871">Kapitel 52.</head>
             
                
             
-            <div xml:id="d1e17878">
+            
                <head xml:id="d1e17880">
 Retsmidlerne imod de til Dommes tvungne Fuldbyrdelse henhørende 
 Fogedforretninger m. m.
 </head>
-            </div>
+            
             <div xml:id="d1e17886">
                <head xml:id="d1e17888">§ 584.</head>
                <p xml:id="d1e17890">
@@ -11171,13 +11171,13 @@ Landsrettens Afgørelse i Anledning af Kære er ikke Genstand for yderligere<lb 
 Kære til Højesteret, medmindre Justitsministeren undtagelsesvis meddeler Tilladelse hertil.
 </p>
             </div>
-            <div xml:id="d1e17957">
+            
                <head xml:id="d1e17959">
 Fjerde Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e15398" decls="bibl-chptrd1e15398">
+         <div xml:id="chptrd1e15398" decls="#bibl-chptrd1e15398">
             <head xml:id="d1e17965">
 Udpantning samt Indsættelses- og Udsættelsesforretninger.
 </head>
@@ -11185,16 +11185,16 @@ Udpantning samt Indsættelses- og Udsættelsesforretninger.
                
             
          </div>
-         <div xml:id="chptrd1e15405" decls="bibl-chptrd1e15405">
+         <div xml:id="chptrd1e15405" decls="#bibl-chptrd1e15405">
             <head xml:id="d1e17975">Kapital 53.</head>
             
                
             
-            <div xml:id="d1e17982">
+            
                <head xml:id="d1e17984">
 Udpantning.
 </head>
-            </div>
+            
             <div xml:id="d1e17987">
                <head xml:id="d1e17989">§ 587.</head>
                <p xml:id="d1e17991">
@@ -11478,16 +11478,16 @@ telse af Retsforholdet, som Rekvirenten har gjort gældende.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e15874" decls="bibl-chptrd1e15874">
+         <div xml:id="chptrd1e15874" decls="#bibl-chptrd1e15874">
             <head xml:id="d1e18485">Kapital 54.</head>
             
                
             
-            <div xml:id="d1e18492">
+            
                <head xml:id="d1e18494">
 Indsættelses- og Udsættelsesforretninger.
 </head>
-            </div>
+            
             <div xml:id="d1e18497">
                <head xml:id="d1e18499">§ 600.</head>
                <p xml:id="d1e18501">
@@ -11537,13 +11537,13 @@ om Retsmidler imod de til Dommes Fuldbyrdelse sigtende Fogedforretninger (jvf.<l
 navnlig §§ 584 ff.).
 </p>
             </div>
-            <div xml:id="d1e18583">
+            
                <head xml:id="d1e18585">
 Femte Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e15962" decls="bibl-chptrd1e15962">
+         <div xml:id="chptrd1e15962" decls="#bibl-chptrd1e15962">
             <head xml:id="d1e18591">
 De foreløbige Retsmidler.
 </head>
@@ -11551,16 +11551,16 @@ De foreløbige Retsmidler.
                
             
          </div>
-         <div xml:id="chptrd1e15970" decls="bibl-chptrd1e15970">
+         <div xml:id="chptrd1e15970" decls="#bibl-chptrd1e15970">
             <head xml:id="d1e18602">Kapitel 55.</head>
             
                
             
-            <div xml:id="d1e18609">
+            
                <head xml:id="d1e18611">
 Arrest.
 </head>
-            </div>
+            
             <div xml:id="d1e18614">
                <head xml:id="d1e18616">§ 603.</head>
                <p xml:id="d1e18618">
@@ -12059,16 +12059,16 @@ Fogdens Nægtelse af Arrest er Genstand for Kære efter Reglerne i Kapitel 52.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e16674" decls="bibl-chptrd1e16674">
+         <div xml:id="chptrd1e16674" decls="#bibl-chptrd1e16674">
             <head xml:id="d1e19405">Kapitel 56.</head>
             
                
             
-            <div xml:id="d1e19412">
+            
                <head xml:id="d1e19414">
 Forbud.
 </head>
-            </div>
+            
             <div xml:id="d1e19417">
                <head xml:id="d1e19419">§ 637.</head>
                <p xml:id="d1e19421">
@@ -12173,13 +12173,13 @@ forrige Kapitel om Arrest givne Regler i alle Henseender at anvende paa saadanne
 Forretninger.
 </p>
             </div>
-            <div xml:id="d1e19588">
+            
                <head xml:id="d1e19590">
 Sjette Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e16833" decls="bibl-chptrd1e16833">
+         <div xml:id="chptrd1e16833" decls="#bibl-chptrd1e16833">
             <head xml:id="d1e19596">
 Skifte af Dødsbo og Fællesbo m. v., Tvangsakkord udenfor 
 Konkurs samt Konkurs og frivillige Auktioner.
@@ -12188,16 +12188,16 @@ Konkurs samt Konkurs og frivillige Auktioner.
                
             
          </div>
-         <div xml:id="chptrd1e16843" decls="bibl-chptrd1e16843">
+         <div xml:id="chptrd1e16843" decls="#bibl-chptrd1e16843">
             <head xml:id="d1e19609">Kapitel 57.</head>
             
                
             
-            <div xml:id="d1e19616">
+            
                <head xml:id="d1e19618">
 Skifte af Dødsbo og Fællesbo in. v. og Tvangsakkord udenfor Konkurs.
 </head>
-            </div>
+            
             <div xml:id="d1e19621">
                <head xml:id="d1e19623">§ 645.</head>
                <p xml:id="d1e19625">
@@ -12412,16 +12412,16 @@ Forsl. t. L. om Retten Pleje
 </fw>
             </div>
          </div>
-         <div xml:id="chptrd1e17151" decls="bibl-chptrd1e17151">
+         <div xml:id="chptrd1e17151" decls="#bibl-chptrd1e17151">
             <head xml:id="d1e19958">Kapitel 58.</head>
             
                
             
-            <div xml:id="d1e19965">
+            
                <head xml:id="d1e19967">
 Konkurs.
 </head>
-            </div>
+            
             <div xml:id="d1e19970">
                <head xml:id="d1e19972">§ 658.</head>
                <p xml:id="d1e19974">
@@ -12617,16 +12617,16 @@ Fra Sø- og Handelsrettens Skiftekommission finder Anke og Kære Sted til<lb xml
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e17442" decls="bibl-chptrd1e17442">
+         <div xml:id="chptrd1e17442" decls="#bibl-chptrd1e17442">
             <head xml:id="d1e20287">Kapitel 59.</head>
             
                
             
-            <div xml:id="d1e20294">
+            
                <head xml:id="d1e20296">
 Auktioner i Dødsboer m. m. og i Konkursboer samt frivillige Auktioner.
 </head>
-            </div>
+            
             <div xml:id="d1e20299">
                <head xml:id="d1e20301">§ 670.</head>
                <p xml:id="d1e20303">
@@ -12713,13 +12713,13 @@ Fjerde Bog.<lb xml:id="d1e20457"/>
 Strafferetsplejen.
 </p>
             </div>
-            <div xml:id="d1e20461">
+            
                <head xml:id="d1e20463">
 Første Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e17604" decls="bibl-chptrd1e17604">
+         <div xml:id="chptrd1e17604" decls="#bibl-chptrd1e17604">
             <head xml:id="d1e20470">
 Almindelige Bestemmelser.
 </head>
@@ -12727,16 +12727,16 @@ Almindelige Bestemmelser.
                
             
          </div>
-         <div xml:id="chptrd1e17611" decls="bibl-chptrd1e17611">
+         <div xml:id="chptrd1e17611" decls="#bibl-chptrd1e17611">
             <head xml:id="d1e20480">Kapitel 60.</head>
             
                
             
-            <div xml:id="d1e20487">
+            
                <head xml:id="d1e20489">
 Strafferetsplejens Omraade.
 </head>
-            </div>
+            
             <div xml:id="d1e20492">
                <head xml:id="d1e20494">§ 674.</head>
                <p xml:id="d1e20496">
@@ -12819,16 +12819,16 @@ nærmere Regler.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e17719" decls="bibl-chptrd1e17719">
+         <div xml:id="chptrd1e17719" decls="#bibl-chptrd1e17719">
             <head xml:id="d1e20603">Kapitel 61.</head>
             
                
             
-            <div xml:id="d1e20610">
+            
                <head xml:id="d1e20612">
 Retternes Virkekreds.
 </head>
-            </div>
+            
             <div xml:id="d1e20615">
                <head xml:id="d1e20617">§ 677.</head>
                <p xml:id="d1e20619">
@@ -13008,16 +13008,16 @@ som Undersøgelsesdommer.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e17975" decls="bibl-chptrd1e17975">
+         <div xml:id="chptrd1e17975" decls="#bibl-chptrd1e17975">
             <head xml:id="d1e20887">Kapitel 62.</head>
             
                
             
-            <div xml:id="d1e20894">
+            
                <head xml:id="d1e20896">
 Værneting og Forening af Straffesager.
 </head>
-            </div>
+            
             <div xml:id="d1e20899">
                <head xml:id="d1e20901">§ 685.</head>
                <p xml:id="d1e20903">
@@ -13261,16 +13261,16 @@ dende Kreds.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e18343" decls="bibl-chptrd1e18343">
+         <div xml:id="chptrd1e18343" decls="#bibl-chptrd1e18343">
             <head xml:id="d1e21306">Kapitel 63.</head>
             
                
             
-            <div xml:id="d1e21313">
+            
                <head xml:id="d1e21315">
 Paatalen.
 </head>
-            </div>
+            
             <div xml:id="d1e21318">
                <head xml:id="d1e21320">§ 701.</head>
                <p xml:id="d1e21322">
@@ -13651,16 +13651,16 @@ nærværende Lov givne Paalæg.
                <fw xml:id="d1e21875" type="head" place="top-right">2470</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e18879" decls="bibl-chptrd1e18879">
+         <div xml:id="chptrd1e18879" decls="#bibl-chptrd1e18879">
             <head xml:id="d1e21882">Kapital 64.</head>
             
                
             
-            <div xml:id="d1e21889">
+            
                <head xml:id="d1e21891">
 Sigtede og hans Forsvar.
 </head>
-            </div>
+            
             <div xml:id="d1e21894">
                <head xml:id="d1e21896">§ 713.</head>
                <p xml:id="d1e21898">
@@ -13868,13 +13868,13 @@ at foretage de Handlinger, som han anser for nødvendige eller hensigtsmæssige 
 dennes Tarv.
 </p>
             </div>
-            <div xml:id="d1e22219">
+            
                <head xml:id="d1e22221">
 Andet Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e19183" decls="bibl-chptrd1e19183">
+         <div xml:id="chptrd1e19183" decls="#bibl-chptrd1e19183">
             <head xml:id="d1e22228">
 Midler til Sagens Oplysning m. m.
 </head>
@@ -13882,16 +13882,16 @@ Midler til Sagens Oplysning m. m.
                
             
          </div>
-         <div xml:id="chptrd1e19190" decls="bibl-chptrd1e19190">
+         <div xml:id="chptrd1e19190" decls="#bibl-chptrd1e19190">
             <head xml:id="d1e22238">Kapital 65.</head>
             
                
             
-            <div xml:id="d1e22245">
+            
                <head xml:id="d1e22247">
 Besigtigelse.
 </head>
-            </div>
+            
             <div xml:id="d1e22250">
                <head xml:id="d1e22252">§ 725.</head>
                <p xml:id="d1e22254">
@@ -13946,16 +13946,16 @@ hedsmyndighed — erklære sig derfor.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e19274" decls="bibl-chptrd1e19274">
+         <div xml:id="chptrd1e19274" decls="#bibl-chptrd1e19274">
             <head xml:id="d1e22337">Kapital 66.</head>
             
                
             
-            <div xml:id="d1e22344">
+            
                <head xml:id="d1e22346">
 Beslaglæggelse.
 </head>
-            </div>
+            
             <div xml:id="d1e22349">
                <head xml:id="d1e22351">§ 728.</head>
                <p xml:id="d1e22353">
@@ -14115,7 +14115,7 @@ Kendelse.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e19508" decls="bibl-chptrd1e19508">
+         <div xml:id="chptrd1e19508" decls="#bibl-chptrd1e19508">
             <head xml:id="d1e22605">Kapitel 67.</head>
             
                
@@ -14293,16 +14293,16 @@ værelse af Mænd, jvf. § 190.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e19735" decls="bibl-chptrd1e19735">
+         <div xml:id="chptrd1e19735" decls="#bibl-chptrd1e19735">
             <head xml:id="d1e22855">Kapitel 68.</head>
             
                
             
-            <div xml:id="d1e22862">
+            
                <head xml:id="d1e22864">
 Sigtedes Indkaldelse og Afhørelse for Retten.
 </head>
-            </div>
+            
             <div xml:id="d1e22867">
                <head xml:id="d1e22869">§ 745.</head>
                <p xml:id="d1e22871">
@@ -14402,16 +14402,16 @@ umiddelbare Besvarelse af de ham gjorte Spørgsmaal.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e19872" decls="bibl-chptrd1e19872">
+         <div xml:id="chptrd1e19872" decls="#bibl-chptrd1e19872">
             <head xml:id="d1e23014">Kapital 69.</head>
             
                
             
-            <div xml:id="d1e23021">
+            
                <head xml:id="d1e23023">
 Anholdelse.
 </head>
-            </div>
+            
             <div xml:id="d1e23026">
                <head xml:id="d1e23028">§ 751.</head>
                <p xml:id="d1e23030">
@@ -14620,16 +14620,16 @@ den her omhandlede Erstatning.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e20191" decls="bibl-chptrd1e20191">
+         <div xml:id="chptrd1e20191" decls="#bibl-chptrd1e20191">
             <head xml:id="d1e23369">Kapitel 70.</head>
             
                
             
-            <div xml:id="d1e23376">
+            
                <head xml:id="d1e23378">
 Fængsling.
 </head>
-            </div>
+            
             <div xml:id="d1e23381">
                <head xml:id="d1e23383">§ 762.</head>
                <p xml:id="d1e23385">
@@ -15025,16 +15025,16 @@ straffes med Bøder fra 100 til 1,000 Kr.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e20791" decls="bibl-chptrd1e20791">
+         <div xml:id="chptrd1e20791" decls="#bibl-chptrd1e20791">
             <head xml:id="d1e24015">Kapitel 71.</head>
             
                
             
-            <div xml:id="d1e24022">
+            
                <head xml:id="d1e24024">
 Beslag paa Sigtedes Formue og Forbud mod Foreninger og Skrifter.
 </head>
-            </div>
+            
             <div xml:id="d1e24027">
                <head xml:id="d1e24029">§ 777.</head>
                <p xml:id="d1e24031">
@@ -15142,13 +15142,13 @@ ikke iværksættes inden den foreskrevne Frist, eller naar den frafaldes. Den i 
 Overtrædelse af det foreløbige Forbud.
 </p>
             </div>
-            <div xml:id="d1e24189">
+            
                <head xml:id="d1e24191">
 Tredie Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e20945" decls="bibl-chptrd1e20945">
+         <div xml:id="chptrd1e20945" decls="#bibl-chptrd1e20945">
             <head xml:id="d1e24197">
 Undersøgelse, førend Tiltale er rejst, i Sager, som forfølges 
 af Overøvrigheden eller Politiet.
@@ -15157,16 +15157,16 @@ af Overøvrigheden eller Politiet.
                
             
          </div>
-         <div xml:id="chptrd1e20955" decls="bibl-chptrd1e20955">
+         <div xml:id="chptrd1e20955" decls="#bibl-chptrd1e20955">
             <head xml:id="d1e24210">Kapital 72.</head>
             
                
             
-            <div xml:id="d1e24217">
+            
                <head xml:id="d1e24219">
 Efterforskning.
 </head>
-            </div>
+            
             <div xml:id="d1e24222">
                <head xml:id="d1e24224">§ 784.</head>
                <p xml:id="d1e24226">
@@ -15420,16 +15420,16 @@ for Efterforskningen, tingfæstes.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e21325" decls="bibl-chptrd1e21325">
+         <div xml:id="chptrd1e21325" decls="#bibl-chptrd1e21325">
             <head xml:id="d1e24623">Kapitel 73.</head>
             
                
             
-            <div xml:id="d1e24630">
+            
                <head xml:id="d1e24632">
 Forundersøgelse ved Retten.
 </head>
-            </div>
+            
             <div xml:id="d1e24635">
                <head xml:id="d1e24637">§ 798.</head>
                <p xml:id="d1e24639">
@@ -15750,13 +15750,13 @@ nødne nye Oplysninger. Den, der kræver Erstatning eller anden Oprejsning, har 
 til at forlange, at der skal foretages Afhøring af ham selv eller andre opgivne Personer.
 </p>
             </div>
-            <div xml:id="d1e25150">
+            
                <head xml:id="d1e25152">
 Fjerde Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e21810" decls="bibl-chptrd1e21810">
+         <div xml:id="chptrd1e21810" decls="#bibl-chptrd1e21810">
             <head xml:id="d1e25158">
 Tiltale og Domsforhandling ved Landsret.
 </head>
@@ -15764,17 +15764,17 @@ Tiltale og Domsforhandling ved Landsret.
                
             
          </div>
-         <div xml:id="chptrd1e21818" decls="bibl-chptrd1e21818">
+         <div xml:id="chptrd1e21818" decls="#bibl-chptrd1e21818">
             <head xml:id="d1e25169">Kapitel 74.</head>
             
                
             
-            <div xml:id="d1e25176">
+            
                <head xml:id="d1e25178">
 Iværksættelse af Tiltale og Forberedelse af Domsforhandling for Landsret i 
 Sager, ved hvis Paadømmelse Nævninger skulle medvirke.
 </head>
-            </div>
+            
             <div xml:id="d1e25184">
                <head xml:id="d1e25186">§ 813.</head>
                <p xml:id="d1e25188">
@@ -16110,16 +16110,16 @@ i §§ 818 og 820 omhandlede Tilfælde tillige Anklageren.
                <fw xml:id="d1e25724" type="head" place="top-right">2528</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e22335" decls="bibl-chptrd1e22335">
+         <div xml:id="chptrd1e22335" decls="#bibl-chptrd1e22335">
             <head xml:id="d1e25731">Kapitel 75.</head>
             
                
             
-            <div xml:id="d1e25738">
+            
                <head xml:id="d1e25740">
 Bestemmelser om Domsforhandling ved Landsret i Nævningesager.
 </head>
-            </div>
+            
             <div xml:id="d1e25743">
                <head xml:id="d1e25745">§ 827.</head>
                <p xml:id="d1e25747">
@@ -17092,17 +17092,17 @@ melser anføres, som bringes i Anvendelse.
                <fw xml:id="d1e27285" type="head" place="top-right">2552</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e23715" decls="bibl-chptrd1e23715">
+         <div xml:id="chptrd1e23715" decls="#bibl-chptrd1e23715">
             <head xml:id="d1e27292">Kapitel 76.</head>
             
                
             
-            <div xml:id="d1e27299">
+            
                <head xml:id="d1e27301">
 Bestemmelser om Iværksættelse af Tiltale og Forberedelse af Domsforhandling 
 for Landsret i Sager, hvori Nævninger ikke medvirke.
 </head>
-            </div>
+            
             <div xml:id="d1e27307">
                <head xml:id="d1e27309">§ 890.</head>
                <p xml:id="d1e27311">
@@ -17241,16 +17241,16 @@ ved hvilke Nævninger ikke skulle medvirke.
                <fw xml:id="d1e27537" type="head" place="top-right">2556</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e23942" decls="bibl-chptrd1e23942">
+         <div xml:id="chptrd1e23942" decls="#bibl-chptrd1e23942">
             <head xml:id="d1e27544">Kapitel 77.</head>
             
                
             
-            <div xml:id="d1e27551">
+            
                <head xml:id="d1e27553">
 Bestemmelser om Domsforhandling nden Nævninger.
 </head>
-            </div>
+            
             <div xml:id="d1e27556">
                <head xml:id="d1e27558">§ 897.</head>
                <p xml:id="d1e27560">
@@ -17371,13 +17371,13 @@ Parterne Lejlighed til at udtale sig, Dom herom, hvorefter Paatalemyndigheden dr
 Omsorg for, at ny Tiltale iværksættes overensstemmende med Reglerne i Kapitel 74.
 </p>
             </div>
-            <div xml:id="d1e27739">
+            
                <head xml:id="d1e27741">
 Femte Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e24121" decls="bibl-chptrd1e24121">
+         <div xml:id="chptrd1e24121" decls="#bibl-chptrd1e24121">
             <head xml:id="d1e27747">
 Tiltale og Domsforhandling ved Underret samt ved Sø- og
 Handelsretten.
@@ -17386,17 +17386,17 @@ Handelsretten.
                
             
          </div>
-         <div xml:id="chptrd1e24128" decls="bibl-chptrd1e24128">
+         <div xml:id="chptrd1e24128" decls="#bibl-chptrd1e24128">
             <head xml:id="d1e27757">Kapitel 78.</head>
             
                
             
-            <div xml:id="d1e27764">
+            
                <head xml:id="d1e27766">
 Tiltale og Domsforhandling for Underret samt Sø- og Handelsretten i Sager, som 
 ikke i Medfør af § 704 paatales af Politimesteren.
 </head>
-            </div>
+            
             <div xml:id="d1e27772">
                <head xml:id="d1e27774">§ 903.</head>
                <p xml:id="d1e27776">
@@ -17515,17 +17515,17 @@ eller Fremme,
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e24326" decls="bibl-chptrd1e24326">
+         <div xml:id="chptrd1e24326" decls="#bibl-chptrd1e24326">
             <head xml:id="d1e27975">Kapitel 79.</head>
             
                
             
-            <div xml:id="d1e27982">
+            
                <head xml:id="d1e27984">
 Tiltale og Domsforhandling for Underret henholdsvis Sø- og Handelsretten
 i offentlige Politisager.
 </head>
-            </div>
+            
             <div xml:id="d1e27987">
                <head xml:id="d1e27989">§ 908.</head>
                <p xml:id="d1e27991">
@@ -17672,13 +17672,13 @@ retssager, ogsaa komme til Anvendelse i offentlige Politisager.
                <fw xml:id="d1e28218" type="head" place="top-middle">Forsl. t. L. om Rettens Pleje.</fw>
                <fw xml:id="d1e28222" type="head" place="top-right">2566</fw>
             </div>
-            <div xml:id="d1e28226">
+            
                <head xml:id="d1e28228">
 Sjette Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e24551" decls="bibl-chptrd1e24551">
+         <div xml:id="chptrd1e24551" decls="#bibl-chptrd1e24551">
             <head xml:id="d1e28234">
 Retsmidler mod trufne Afgørelser.
 </head>
@@ -17686,16 +17686,16 @@ Retsmidler mod trufne Afgørelser.
                
             
          </div>
-         <div xml:id="chptrd1e24558" decls="bibl-chptrd1e24558">
+         <div xml:id="chptrd1e24558" decls="#bibl-chptrd1e24558">
             <head xml:id="d1e28244">Kapitel 80.</head>
             
                
             
-            <div xml:id="d1e28251">
+            
                <head xml:id="d1e28253">
 Paaauke af Domme, afsagte af Landsretterne i første Instans.
 </head>
-            </div>
+            
             <div xml:id="d1e28256">
                <head xml:id="d1e28258">§ 917.</head>
                <p xml:id="d1e28260">
@@ -18126,16 +18126,16 @@ medvirke, som har deltaget i den tidligere Domsforhandling.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e25197" decls="bibl-chptrd1e25197">
+         <div xml:id="chptrd1e25197" decls="#bibl-chptrd1e25197">
             <head xml:id="d1e28949">Kapitel 81.</head>
             
                
             
-            <div xml:id="d1e28956">
+            
                <head xml:id="d1e28958">
 Paaanke af Domme, afsagte af Underretterne.
 </head>
-            </div>
+            
             <div xml:id="d1e28961">
                <head xml:id="d1e28963">§ 939.</head>
                <p xml:id="d1e28965">
@@ -18250,16 +18250,16 @@ som iværksættes i Henhold til nærværende Paragraf.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e25379" decls="bibl-chptrd1e25379">
+         <div xml:id="chptrd1e25379" decls="#bibl-chptrd1e25379">
             <head xml:id="d1e29150">Kapitel 82.</head>
             
                
             
-            <div xml:id="d1e29157">
+            
                <head xml:id="d1e29159">
 Paaanke af Domme, afsagte af Sø- og Handelsretten.
 </head>
-            </div>
+            
             <div xml:id="d1e29162">
                <head xml:id="d1e29164">§ 944.</head>
                <p xml:id="d1e29166">
@@ -18269,16 +18269,16 @@ søkyndige Dommere (jvf. § 9), til Højesteret efter Reglerne i Kapitel 80.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e25397" decls="bibl-chptrd1e25397">
+         <div xml:id="chptrd1e25397" decls="#bibl-chptrd1e25397">
             <head xml:id="d1e29177">Kapitel 83.</head>
             
                
             
-            <div xml:id="d1e29184">
+            
                <head xml:id="d1e29186">
 Kære til højere Ret.
 </head>
-            </div>
+            
             <div xml:id="d1e29189">
                <head xml:id="d1e29191">§ 945.</head>
                <p xml:id="d1e29193">
@@ -18412,16 +18412,16 @@ Landsrettens eller af Højesterets Formand.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e25608" decls="bibl-chptrd1e25608">
+         <div xml:id="chptrd1e25608" decls="#bibl-chptrd1e25608">
             <head xml:id="d1e29413">Kapital 84.</head>
             
                
             
-            <div xml:id="d1e29420">
+            
                <head xml:id="d1e29422">
 Genoptagelse.
 </head>
-            </div>
+            
             <div xml:id="d1e29425">
                <head xml:id="d1e29427">§ 952.</head>
                <p xml:id="d1e29429">
@@ -18658,13 +18658,13 @@ i Anledning af en tidligere i samme Sag stedfunden Anholdelse eller Fængsling, 
 Dommen at bestemme, at Erstatningen skal tilbagebetales til Statskassen.
 </p>
             </div>
-            <div xml:id="d1e29810">
+            
                <head xml:id="d1e29812">
 Syvende Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e25965" decls="bibl-chptrd1e25965">
+         <div xml:id="chptrd1e25965" decls="#bibl-chptrd1e25965">
             <head xml:id="d1e29818">
 Regler om Paatale af særlige Myndigheder og om Anke af 
 visse private Straffesager samt om Forfølgning af borgerlige
@@ -18674,16 +18674,16 @@ Krav under Straffesager.
                
             
          </div>
-         <div xml:id="chptrd1e25975" decls="bibl-chptrd1e25975">
+         <div xml:id="chptrd1e25975" decls="#bibl-chptrd1e25975">
             <head xml:id="d1e29831">Kapitel 85.</head>
             
                
             
-            <div xml:id="d1e29838">
+            
                <head xml:id="d1e29840">
 Behandling af Sager, som paatales af en særlig offentlig Myndighed.
 </head>
-            </div>
+            
             <div xml:id="d1e29843">
                <head xml:id="d1e29845">§ 966.</head>
                <p xml:id="d1e29847">
@@ -18708,16 +18708,16 @@ efter at Sagen er hævet.
                <fw xml:id="d1e29879" type="head" place="top-right">2592</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e26021" decls="bibl-chptrd1e26021">
+         <div xml:id="chptrd1e26021" decls="#bibl-chptrd1e26021">
             <head xml:id="d1e29886">Kapitel 86.</head>
             
                
             
-            <div xml:id="d1e29893">
+            
                <head xml:id="d1e29895">
 Regler om Anke af visse private Straffesager.
 </head>
-            </div>
+            
             <div xml:id="d1e29898">
                <head xml:id="d1e29900">§ 967.</head>
                <p xml:id="d1e29902">
@@ -18743,16 +18743,16 @@ Den private Sagsøger kan uanset denne sin Stilling afhøres som Vidne i Sagen.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e26066" decls="bibl-chptrd1e26066">
+         <div xml:id="chptrd1e26066" decls="#bibl-chptrd1e26066">
             <head xml:id="d1e29939">Kapitel 87.</head>
             
                
             
-            <div xml:id="d1e29946">
+            
                <head xml:id="d1e29948">
 Paatale af borgerlige Krav under Straffesager.
 </head>
-            </div>
+            
             <div xml:id="d1e29951">
                <head xml:id="d1e29953">§ 968.</head>
                <p xml:id="d1e29955">
@@ -18869,13 +18869,13 @@ Forelagte Lovforslag m. m.   163
                <fw xml:id="d1e30133" type="head" place="top-middle">Forsl. t. L. om Rettens Pleje.</fw>
                <fw xml:id="d1e30136" type="head" place="top-right">2596</fw>
             </div>
-            <div xml:id="d1e30140">
+            
                <head xml:id="d1e30142">
 Ottende Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e26250" decls="bibl-chptrd1e26250">
+         <div xml:id="chptrd1e26250" decls="#bibl-chptrd1e26250">
             <head xml:id="d1e30148">
 Fuldbyrdelsen af Domme i Straffesager.
 </head>
@@ -18883,7 +18883,7 @@ Fuldbyrdelsen af Domme i Straffesager.
                
             
          </div>
-         <div xml:id="chptrd1e26258" decls="bibl-chptrd1e26258">
+         <div xml:id="chptrd1e26258" decls="#bibl-chptrd1e26258">
             <head xml:id="d1e30159">Kapitel 88.</head>
             
                
@@ -19075,13 +19075,13 @@ Med Hensyn til Fuldbyrdelsen af de i §§ 185 og 203 ommeldte Bødepaalæg for-<
 holdes efter de almindelige Regler om Bøder, som paalægges af Øvrighedsmyndigheder.
 </p>
             </div>
-            <div xml:id="d1e30476">
+            
                <head xml:id="d1e30478">
 Niende Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e26550" decls="bibl-chptrd1e26550">
+         <div xml:id="chptrd1e26550" decls="#bibl-chptrd1e26550">
             <head xml:id="d1e30484">
 Sagsomkostninger og Rettergangsbøder i Straffesager.
 </head>
@@ -19089,16 +19089,16 @@ Sagsomkostninger og Rettergangsbøder i Straffesager.
                
             
          </div>
-         <div xml:id="chptrd1e26557" decls="bibl-chptrd1e26557">
+         <div xml:id="chptrd1e26557" decls="#bibl-chptrd1e26557">
             <head xml:id="d1e30494">Kapitel 89.</head>
             
                
             
-            <div xml:id="d1e30501">
+            
                <head xml:id="d1e30503">
 Sagsomkostninger.
 </head>
-            </div>
+            
             <div xml:id="d1e30506">
                <head xml:id="d1e30508">§ 984.</head>
                <p xml:id="d1e30510">
@@ -19246,16 +19246,16 @@ fri Proces meddeles overensstemmende med Reglerne i Kapitel 30.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e26779" decls="bibl-chptrd1e26779">
+         <div xml:id="chptrd1e26779" decls="#bibl-chptrd1e26779">
             <head xml:id="d1e30744">Kapitel 90.</head>
             
                
             
-            <div xml:id="d1e30751">
+            
                <head xml:id="d1e30753">
 Rettergangsbøder m. m.
 </head>
-            </div>
+            
             <div xml:id="d1e30756">
                <head xml:id="d1e30758">§ 992.</head>
                <p xml:id="d1e30760">
@@ -19296,22 +19296,22 @@ lægge Hindringer i Vejen for en uhildet Afgørelse af den, straffes med Bøder 
 100 til 1,000 Kr. eller med simpelt Fængsel.
 </p>
             </div>
-            <div xml:id="d1e30826">
+            
                <head xml:id="d1e30828">
 Tiende Afsnit.
 </head>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e26851" decls="bibl-chptrd1e26851">
+         <div xml:id="chptrd1e26851" decls="#bibl-chptrd1e26851">
             <head xml:id="d1e30834">Kapitel 91.</head>
             
                
             
-            <div xml:id="d1e30841">
+            
                <head xml:id="d1e30843">
 Særlige Bestemmelser om nogle Forhør m. m.
 </head>
-            </div>
+            
             <div xml:id="d1e30846">
                <head xml:id="d1e30848">§ 995.</head>
                <p xml:id="d1e30850">
@@ -19338,16 +19338,16 @@ Slutnings- og Overgangsbestemmelser.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e26897" decls="bibl-chptrd1e26897">
+         <div xml:id="chptrd1e26897" decls="#bibl-chptrd1e26897">
             <head xml:id="d1e30889">Kapitel 92.</head>
             
                
             
-            <div xml:id="d1e30896">
+            
                <head xml:id="d1e30898">
 Slutnmgsbestemmelser.
 </head>
-            </div>
+            
             <div xml:id="d1e30901">
                <head xml:id="d1e30903">§ 996.</head>
                <p xml:id="d1e30905">
@@ -19425,16 +19425,16 @@ Forslag ikke har fundet Støtte hos Udvalget,
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e27018" decls="bibl-chptrd1e27018">
+         <div xml:id="chptrd1e27018" decls="#bibl-chptrd1e27018">
             <head xml:id="d1e31030">Kapitel 93.</head>
             
                
             
-            <div xml:id="d1e31037">
+            
                <head xml:id="d1e31039">
 Overgangsbestemmelser.
 </head>
-            </div>
+            
             <div xml:id="d1e31042">
                <head xml:id="d1e31044">§ 1001.</head>
                <p xml:id="d1e31046">

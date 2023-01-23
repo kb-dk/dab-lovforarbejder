@@ -77,7 +77,7 @@ Bilag 5.
    </teiHeader>
    <text xml:id="d1e94">
       <body xml:id="d1e96">
-         <div xml:id="chptrd1e33" decls="bibl-chptrd1e33">
+         <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
             <head xml:id="d1e100">1913-14: Betænkning (Folketinget)</head>
             
                
@@ -87,7 +87,7 @@ Bilag 5.
                <fw xml:id="d1e113" type="head" place="top-right">1910</fw>
             
          </div>
-         <div xml:id="chptrd1e51" decls="bibl-chptrd1e51">
+         <div xml:id="chptrd1e51" decls="#bibl-chptrd1e51">
             <head xml:id="d1e120">
 LVIII.
 </head>
@@ -2125,7 +2125,7 @@ som nedenfor angivet.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e3453" decls="bibl-chptrd1e3453">
+         <div xml:id="chptrd1e3453" decls="#bibl-chptrd1e3453">
             <head xml:id="d1e3624">
 Tavle over By- og Herredsretskredsene,
 </head>
@@ -2443,7 +2443,7 @@ Af Flertallet under Nr. 2:
 </p>
             
          </div>
-         <div xml:id="chptrd1e3758" decls="bibl-chptrd1e3758">
+         <div xml:id="chptrd1e3758" decls="#bibl-chptrd1e3758">
             <head xml:id="d1e3932">
 Tavle over Politikredsene,
 </head>
@@ -2674,12 +2674,12 @@ Herreder.
                <fw xml:id="d1e4185" type="head" place="top-right">1950</fw>
                <milestone type="leftside" xml:id="startd1e3898" next="endd1e3898" n="1949" unit="column"/>
             
-            <div xml:id="d1e4191">
+            
                <head xml:id="d1e4193">
 Til B. 45. Forslag til Lov om Udgif- 
 terne i Strafferetsplejen.
 </head>
-            </div>
+            
             <div xml:id="d1e4199">
                <head xml:id="d1e4201">
 Til § 1.
@@ -2723,7 +2723,7 @@ Principalt:<lb xml:id="d1e4249"/>
 Lovforslaget affattes saaledes:
 </p>
             </div>
-            <div xml:id="d1e4254">
+            
                <head xml:id="d1e4256">
 „Forslag til Lønningslov 
 for 
@@ -2731,7 +2731,7 @@ forskellige af de i Lov om Rettens
 Pleje omhandlede Einheds- og Bestil- 
 lingsmænd.
 </head>
-            </div>
+            
             <div xml:id="d1e4268">
                <head xml:id="d1e4270">
 § 1.
@@ -3236,7 +3236,7 @@ Af Flertallet under Nr. 2 og subsidiært af Mindretallet under Nr. 1:
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e4849" decls="bibl-chptrd1e4849">
+         <div xml:id="chptrd1e4849" decls="#bibl-chptrd1e4849">
             <head xml:id="d1e5081">
 Tavle A.
 </head>
@@ -3447,7 +3447,7 @@ Jylland.
                <fw xml:id="d1e5251" type="head" place="top-right">1960</fw>
             
          </div>
-         <div xml:id="chptrd1e5024" decls="bibl-chptrd1e5024">
+         <div xml:id="chptrd1e5024" decls="#bibl-chptrd1e5024">
             <head xml:id="d1e5259">
 Tavle B.
 </head>
@@ -3582,7 +3582,7 @@ Jylland.
 </p>
             
          </div>
-         <div xml:id="chptrd1e5131" decls="bibl-chptrd1e5131">
+         <div xml:id="chptrd1e5131" decls="#bibl-chptrd1e5131">
             <head xml:id="d1e5369">
 Tavle C.
 </head>
@@ -3735,7 +3735,7 @@ Jylland.
 </p>
             
          </div>
-         <div xml:id="chptrd1e5251" decls="bibl-chptrd1e5251">
+         <div xml:id="chptrd1e5251" decls="#bibl-chptrd1e5251">
             <head xml:id="d1e5492">
 Tavle D.
 </head>
@@ -3827,7 +3827,7 @@ Pinstrup.  L. Rasmussen (Ribe A. 4. V.).
                <fw xml:id="d1e5582" type="head" place="top-right">1968</fw>
             </div>
          </div>
-         <div xml:id="chptrd1e5343" decls="bibl-chptrd1e5343">
+         <div xml:id="chptrd1e5343" decls="#bibl-chptrd1e5343">
             <head xml:id="d1e5589">
 Bilag 1.
 </head>
@@ -4060,7 +4060,7 @@ om Bettens Pleje m. m.
                <fw xml:id="d1e6007" type="head" place="top-right">1974</fw>
             
          </div>
-         <div xml:id="chptrd1e5766" decls="bibl-chptrd1e5766">
+         <div xml:id="chptrd1e5766" decls="#bibl-chptrd1e5766">
             <head xml:id="d1e6014">
 Bilag 2.
 </head>
@@ -4258,7 +4258,7 @@ Til Retsplejeudvalget.
                <fw xml:id="d1e6270" type="head" place="top-right">1980</fw>
             
          </div>
-         <div xml:id="chptrd1e6026" decls="bibl-chptrd1e6026">
+         <div xml:id="chptrd1e6026" decls="#bibl-chptrd1e6026">
             <head xml:id="d1e6277">
 Bilag 4.
 </head>
@@ -4311,7 +4311,7 @@ om Rettens Pleje.
                <fw xml:id="d1e6345" type="head" place="top-right">1982</fw>
             
          </div>
-         <div xml:id="chptrd1e6099" decls="bibl-chptrd1e6099">
+         <div xml:id="chptrd1e6099" decls="#bibl-chptrd1e6099">
             <head xml:id="d1e6353">
 Bilag 5.
 </head>

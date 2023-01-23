@@ -242,7 +242,7 @@ Bilag IX.
    </teiHeader>
    <text xml:id="d1e264">
       <body xml:id="d1e266">
-         <div xml:id="chptrd1e33" decls="bibl-chptrd1e33">
+         <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
             <head xml:id="d1e270">1915-16: Betænkning (Folketinget)</head>
             
                
@@ -254,7 +254,7 @@ Bilag IX.
 </fw>
             
          </div>
-         <div xml:id="chptrd1e51" decls="bibl-chptrd1e51">
+         <div xml:id="chptrd1e51" decls="#bibl-chptrd1e51">
             <head xml:id="d1e290">
 XXVIII.
 </head>
@@ -1416,7 +1416,7 @@ Af Udvalget:
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e2185" decls="bibl-chptrd1e2185">
+         <div xml:id="chptrd1e2185" decls="#bibl-chptrd1e2185">
             <head xml:id="d1e2446">
 Til § 17.
 </head>
@@ -1428,7 +1428,7 @@ Til § 17.
 </p>
             
          </div>
-         <div xml:id="chptrd1e2197" decls="bibl-chptrd1e2197">
+         <div xml:id="chptrd1e2197" decls="#bibl-chptrd1e2197">
             <head xml:id="d1e2461">
 Til § 72.
 </head>
@@ -1443,7 +1443,7 @@ Linie, ændres „Kommunalbestyrelsens" til:<lb xml:id="d1e2475"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e2217" decls="bibl-chptrd1e2217">
+         <div xml:id="chptrd1e2217" decls="#bibl-chptrd1e2217">
             <head xml:id="d1e2484">
 Til § 73.
 </head>
@@ -1530,7 +1530,7 @@ der fra 100 til 1000 Kr."<lb xml:id="d1e2648"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e2386" decls="bibl-chptrd1e2386">
+         <div xml:id="chptrd1e2386" decls="#bibl-chptrd1e2386">
             <head xml:id="d1e2656">
 Til § 74.
 </head>
@@ -1581,7 +1581,7 @@ Bet. o. Lovf. om Rettens Pleje m. m.
 </fw>
             
          </div>
-         <div xml:id="chptrd1e2469" decls="bibl-chptrd1e2469">
+         <div xml:id="chptrd1e2469" decls="#bibl-chptrd1e2469">
             <head xml:id="d1e2742">
 Til § 75.
 </head>
@@ -1594,7 +1594,7 @@ ommeldte Udvalgs —" til: „Udvalgets".<lb xml:id="d1e2754"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e2485" decls="bibl-chptrd1e2485">
+         <div xml:id="chptrd1e2485" decls="#bibl-chptrd1e2485">
             <head xml:id="d1e2761">
 Til § 76.
 </head>
@@ -1606,7 +1606,7 @@ bestyrelsen" til: „Udvalget".<lb xml:id="d1e2771"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e2499" decls="bibl-chptrd1e2499">
+         <div xml:id="chptrd1e2499" decls="#bibl-chptrd1e2499">
             <head xml:id="d1e2778">
 Til § 77.
 </head>
@@ -1619,7 +1619,7 @@ bestyrelsens" til: „Udvalgets" og i 7de Linie<lb xml:id="d1e2788"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e2515" decls="bibl-chptrd1e2515">
+         <div xml:id="chptrd1e2515" decls="#bibl-chptrd1e2515">
             <head xml:id="d1e2797">
 Til § 79.
 </head>
@@ -1632,7 +1632,7 @@ listens Dannelse".<lb xml:id="d1e2809"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e2531" decls="bibl-chptrd1e2531">
+         <div xml:id="chptrd1e2531" decls="#bibl-chptrd1e2531">
             <head xml:id="d1e2816">
 Til § 80.
 </head>
@@ -1645,7 +1645,7 @@ Til § 80.
                </p>
             
          </div>
-         <div xml:id="chptrd1e2548" decls="bibl-chptrd1e2548">
+         <div xml:id="chptrd1e2548" decls="#bibl-chptrd1e2548">
             <head xml:id="d1e2836">
 Til § 85.
 </head>
@@ -1683,7 +1683,7 @@ dres „sidste" til: „større" og „første" til:<lb xml:id="d1e2893"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e2612" decls="bibl-chptrd1e2612">
+         <div xml:id="chptrd1e2612" decls="#bibl-chptrd1e2612">
             <head xml:id="d1e2902">
 Til § 108.
 </head>
@@ -1697,7 +1697,7 @@ retsplejen)".<lb xml:id="d1e2916"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e2630" decls="bibl-chptrd1e2630">
+         <div xml:id="chptrd1e2630" decls="#bibl-chptrd1e2630">
             <head xml:id="d1e2923">
 Til § 544.
 </head>
@@ -1710,7 +1710,7 @@ flere af de mere udbredte stedlige Blade".<lb xml:id="d1e2935"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e2646" decls="bibl-chptrd1e2646">
+         <div xml:id="chptrd1e2646" decls="#bibl-chptrd1e2646">
             <head xml:id="d1e2942">
 Til § 778.
 </head>
@@ -1801,7 +1801,7 @@ Af Udvalget:<lb xml:id="d1e3089"/>
                </p>
             </div>
          </div>
-         <div xml:id="chptrd1e2794" decls="bibl-chptrd1e2794">
+         <div xml:id="chptrd1e2794" decls="#bibl-chptrd1e2794">
             <head xml:id="d1e3096">
 Til § 9.
 </head>
@@ -1830,7 +1830,7 @@ Tavle A.<lb xml:id="d1e3128"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e2835" decls="bibl-chptrd1e2835">
+         <div xml:id="chptrd1e2835" decls="#bibl-chptrd1e2835">
             <head xml:id="d1e3140">
 Sjælland.
 </head>
@@ -1871,7 +1871,7 @@ Sjælland.
                </p>
             
          </div>
-         <div xml:id="chptrd1e2900" decls="bibl-chptrd1e2900">
+         <div xml:id="chptrd1e2900" decls="#bibl-chptrd1e2900">
             <head xml:id="d1e3208">
 Bornholm.
 </head>
@@ -1894,7 +1894,7 @@ Lolland—Falster.<lb xml:id="d1e3221"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e2933" decls="bibl-chptrd1e2933">
+         <div xml:id="chptrd1e2933" decls="#bibl-chptrd1e2933">
             <head xml:id="d1e3244">
 Fyn.
 </head>
@@ -1928,7 +1928,7 @@ Bet. o. Lovf. om Rettens Pleje m. m.
 </fw>
             
          </div>
-         <div xml:id="chptrd1e2983" decls="bibl-chptrd1e2983">
+         <div xml:id="chptrd1e2983" decls="#bibl-chptrd1e2983">
             <head xml:id="d1e3296">
 Jylland.
 </head>
@@ -2026,7 +2026,7 @@ Tavle B.<lb xml:id="d1e3449"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e3145" decls="bibl-chptrd1e3145">
+         <div xml:id="chptrd1e3145" decls="#bibl-chptrd1e3145">
             <head xml:id="d1e3461">
 Sjælland og Møen,
 </head>
@@ -2086,7 +2086,7 @@ Bet. o. Lovf. om Rettens Pleje m. m.</fw>
                </p>
             
          </div>
-         <div xml:id="chptrd1e3241" decls="bibl-chptrd1e3241">
+         <div xml:id="chptrd1e3241" decls="#bibl-chptrd1e3241">
             <head xml:id="d1e3560">
 Bornholm.
 </head>
@@ -2097,7 +2097,7 @@ Bornholm.
                </p>
             
          </div>
-         <div xml:id="chptrd1e3253" decls="bibl-chptrd1e3253">
+         <div xml:id="chptrd1e3253" decls="#bibl-chptrd1e3253">
             <head xml:id="d1e3575">
 Lolland-Falster.
 </head>
@@ -2111,7 +2111,7 @@ Lolland-Falster.
                </p>
             
          </div>
-         <div xml:id="chptrd1e3271" decls="bibl-chptrd1e3271">
+         <div xml:id="chptrd1e3271" decls="#bibl-chptrd1e3271">
             <head xml:id="d1e3596">
 Fyn.
 </head>
@@ -2140,7 +2140,7 @@ Fyn.
                </p>
             
          </div>
-         <div xml:id="chptrd1e3314" decls="bibl-chptrd1e3314">
+         <div xml:id="chptrd1e3314" decls="#bibl-chptrd1e3314">
             <head xml:id="d1e3642">
 Jylland.
 </head>
@@ -2229,7 +2229,7 @@ Tavle C.
                </p>
             
          </div>
-         <div xml:id="chptrd1e3457" decls="bibl-chptrd1e3457">
+         <div xml:id="chptrd1e3457" decls="#bibl-chptrd1e3457">
             <head xml:id="d1e3787">
 Sjælland,
 </head>
@@ -2264,7 +2264,7 @@ Sjælland,
                </p>
             
          </div>
-         <div xml:id="chptrd1e3510" decls="bibl-chptrd1e3510">
+         <div xml:id="chptrd1e3510" decls="#bibl-chptrd1e3510">
             <head xml:id="d1e3843">
 Bornholm.
 </head>
@@ -2284,7 +2284,7 @@ Lolland-Falster.<lb xml:id="d1e3856"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e3538" decls="bibl-chptrd1e3538">
+         <div xml:id="chptrd1e3538" decls="#bibl-chptrd1e3538">
             <head xml:id="d1e3873">
 Fyn.
 </head>
@@ -2298,7 +2298,7 @@ Fyn.
                </p>
             
          </div>
-         <div xml:id="chptrd1e3555" decls="bibl-chptrd1e3555">
+         <div xml:id="chptrd1e3555" decls="#bibl-chptrd1e3555">
             <head xml:id="d1e3893">
 Jylland.
 </head>
@@ -2380,7 +2380,7 @@ Tavle D.
                </p>
             
          </div>
-         <div xml:id="chptrd1e3683" decls="bibl-chptrd1e3683">
+         <div xml:id="chptrd1e3683" decls="#bibl-chptrd1e3683">
             <head xml:id="d1e4024">
 Sjælland og Møen.
 </head>
@@ -2412,7 +2412,7 @@ Sjælland og Møen.
                </p>
             
          </div>
-         <div xml:id="chptrd1e3731" decls="bibl-chptrd1e3731">
+         <div xml:id="chptrd1e3731" decls="#bibl-chptrd1e3731">
             <head xml:id="d1e4075">
 Lolland-Falster.
 </head>
@@ -2424,7 +2424,7 @@ Lolland-Falster.
                </p>
             
          </div>
-         <div xml:id="chptrd1e3745" decls="bibl-chptrd1e3745">
+         <div xml:id="chptrd1e3745" decls="#bibl-chptrd1e3745">
             <head xml:id="d1e4092">
 Fyn.
 </head>
@@ -2456,7 +2456,7 @@ Fyn.
                </p>
             
          </div>
-         <div xml:id="chptrd1e3793" decls="bibl-chptrd1e3793">
+         <div xml:id="chptrd1e3793" decls="#bibl-chptrd1e3793">
             <head xml:id="d1e4143">
 Jylland.
 </head>
@@ -2518,7 +2518,7 @@ Af Udvalget:<lb xml:id="d1e4234"/>
                </p>
             </div>
          </div>
-         <div xml:id="chptrd1e3886" decls="bibl-chptrd1e3886">
+         <div xml:id="chptrd1e3886" decls="#bibl-chptrd1e3886">
             <head xml:id="d1e4241">
 Til § 3.
 </head>
@@ -2545,7 +2545,7 @@ Af Udvalget undtagen Ellinger:<lb xml:id="d1e4277"/>
                </p>
             </div>
          </div>
-         <div xml:id="chptrd1e3923" decls="bibl-chptrd1e3923">
+         <div xml:id="chptrd1e3923" decls="#bibl-chptrd1e3923">
             <head xml:id="d1e4284">
 Til § 1.
 </head>
@@ -2557,7 +2557,7 @@ Til § 1.
                </p>
             
          </div>
-         <div xml:id="chptrd1e3938" decls="bibl-chptrd1e3938">
+         <div xml:id="chptrd1e3938" decls="#bibl-chptrd1e3938">
             <head xml:id="d1e4302">
 Til § 3.
 </head>
@@ -2600,7 +2600,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
 </fw>
             
          </div>
-         <div xml:id="chptrd1e4004" decls="bibl-chptrd1e4004">
+         <div xml:id="chptrd1e4004" decls="#bibl-chptrd1e4004">
             <head xml:id="d1e4371">
 Bilag IX. 
             </head>
@@ -2706,7 +2706,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
 </fw>
             
          </div>
-         <div xml:id="chptrd1e4187" decls="bibl-chptrd1e4187">
+         <div xml:id="chptrd1e4187" decls="#bibl-chptrd1e4187">
             <head xml:id="d1e4557">
 Bilag IX. 
             </head>
@@ -2782,7 +2782,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
 </fw>
             
          </div>
-         <div xml:id="chptrd1e4304" decls="bibl-chptrd1e4304">
+         <div xml:id="chptrd1e4304" decls="#bibl-chptrd1e4304">
             <head xml:id="d1e4677">
 Bilag IX. 
             </head>
@@ -3021,7 +3021,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
 </topmidle>
             
          </div>
-         <div xml:id="chptrd1e4714" decls="bibl-chptrd1e4714">
+         <div xml:id="chptrd1e4714" decls="#bibl-chptrd1e4714">
             <head xml:id="d1e5090">
 Bilag IX. 
             </head>
@@ -3124,7 +3124,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
 </fw>
             
          </div>
-         <div xml:id="chptrd1e4899" decls="bibl-chptrd1e4899">
+         <div xml:id="chptrd1e4899" decls="#bibl-chptrd1e4899">
             <head xml:id="d1e5278">
 Bilag IX. 
             </head>
@@ -3189,7 +3189,7 @@ Bilag til Bet. o. Lovf. om Rettens Plje m. m.
 </fw>
             
          </div>
-         <div xml:id="chptrd1e5013" decls="bibl-chptrd1e5013">
+         <div xml:id="chptrd1e5013" decls="#bibl-chptrd1e5013">
             <head xml:id="d1e5395">
 Bilag IX. 
             </head>
@@ -3246,7 +3246,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
 </fw>
             
          </div>
-         <div xml:id="chptrd1e5108" decls="bibl-chptrd1e5108">
+         <div xml:id="chptrd1e5108" decls="#bibl-chptrd1e5108">
             <head xml:id="d1e5493">
 Bilag VII. 
             </head>
@@ -3300,7 +3300,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
 </fw>
             
          </div>
-         <div xml:id="chptrd1e5195" decls="bibl-chptrd1e5195">
+         <div xml:id="chptrd1e5195" decls="#bibl-chptrd1e5195">
             <head xml:id="d1e5583">
 Bilag VIII. 
             </head>
@@ -3341,7 +3341,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
 </fw>
             
          </div>
-         <div xml:id="chptrd1e5257" decls="bibl-chptrd1e5257">
+         <div xml:id="chptrd1e5257" decls="#bibl-chptrd1e5257">
             <head xml:id="d1e5647">
 Bilag IX. 
             </head>

@@ -77,7 +77,7 @@ Udkast til Lov om Strafferetsplejen
    </teiHeader>
    <text xml:id="d1e83">
       <body xml:id="d1e85">
-         <div xml:id="chptrd1e33" decls="bibl-chptrd1e33">
+         <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
             <head xml:id="d1e89">Retspleje-Reformen. En Oversigt. Offentliggjort 1901</head>
             
                
@@ -87,34 +87,34 @@ Udkast til Lov om Strafferetsplejen
                <fw xml:id="d1e103" type="head" place="top-right">8210</fw>
             
          </div>
-         <div xml:id="chptrd1e52" decls="bibl-chptrd1e52">
+         <div xml:id="chptrd1e52" decls="#bibl-chptrd1e52">
             <head xml:id="d1e110">
 Bilag VII.
 </head>
             
                
             
-            <div xml:id="d1e117">
+            
                <head xml:id="d1e119">
 Retspleje-Reformen.
 </head>
-            </div>
-            <div xml:id="d1e122">
+            
+            
                <head xml:id="d1e124">
 En Oversigt,
 udarbejdet af
 Sekretæren ved den ifølge allerhøjeste Reskript af 11. Maj 1892 
 nedsatte Proceskommission.
 </head>
-            </div>
-            <div xml:id="d1e130">
+            
+            
                <head xml:id="d1e132">
 Forelagte Lovforslag m. m.  202
 </head>
                <pb xml:id="idr07_00002_proceskom_1892_4" facs="r07_00002_proceskom_1892_4" n=""/>
-            </div>
+            
          </div>
-         <div xml:id="chptrd1e71" decls="bibl-chptrd1e71">
+         <div xml:id="chptrd1e71" decls="#bibl-chptrd1e71">
             <head xml:id="d1e140">
 Indhold.
 </head>
@@ -295,7 +295,7 @@ Sagregister til Udkast til Lov om Strafferetsplejen
                <fw xml:id="d1e302" type="head" place="top-right">3218</fw>
             
          </div>
-         <div xml:id="chptrd1e237" decls="bibl-chptrd1e237">
+         <div xml:id="chptrd1e237" decls="#bibl-chptrd1e237">
             <head xml:id="d1e309">
 De danske Reformbestræbelsers Historie.
 </head>
@@ -686,7 +686,7 @@ gældende Ret, findes fremstillet neden for.
                <fw xml:id="d1e968" type="head" place="top-right">3230</fw>
             
          </div>
-         <div xml:id="chptrd1e900" decls="bibl-chptrd1e900">
+         <div xml:id="chptrd1e900" decls="#bibl-chptrd1e900">
             <head xml:id="d1e975">
 Udlandets Proeeslovgivning.
 </head>
@@ -1003,7 +1003,7 @@ Meddelelser mellem Ægtefællerne under Ægteskabet,
                <fw xml:id="d1e1508" type="head" place="top-right">3240</fw>
             
          </div>
-         <div xml:id="chptrd1e1438" decls="bibl-chptrd1e1438">
+         <div xml:id="chptrd1e1438" decls="#bibl-chptrd1e1438">
             <head xml:id="d1e1516">
 Hovedindholdet af de af Proceskommissionen 
 af 1892 udarbejdede Lovudkast.*)
@@ -4165,7 +4165,7 @@ Afsked o. s. fr.
                <fw xml:id="d1e7387" type="head" place="top-right">3344</fw>
             
          </div>
-         <div xml:id="chptrd1e7313" decls="bibl-chptrd1e7313">
+         <div xml:id="chptrd1e7313" decls="#bibl-chptrd1e7313">
             <head xml:id="d1e7394">
 Uddrag af den norske Straffeproces-Statistik.
 </head>
@@ -4524,7 +4524,7 @@ sultat som ved underordnet Ret 					1	,,
                <fw xml:id="d1e7822" type="head" place="top-right">3354</fw>
             
          </div>
-         <div xml:id="chptrd1e7745" decls="bibl-chptrd1e7745">
+         <div xml:id="chptrd1e7745" decls="#bibl-chptrd1e7745">
             <head xml:id="d1e7829">
 Sagregister 
 til
@@ -5210,7 +5210,7 @@ Vicepolitidirektøren 								85
                <fw xml:id="d1e8369" type="head" place="top-right">3364</fw>
             
          </div>
-         <div xml:id="chptrd1e8290" decls="bibl-chptrd1e8290">
+         <div xml:id="chptrd1e8290" decls="#bibl-chptrd1e8290">
             <head xml:id="d1e8376">
 Sagregister 
 til
@@ -6929,7 +6929,7 @@ Værneting	 Kap. II, 171, 295, 304, 314, 323, 454, 481, 504, 516
                <fw xml:id="d1e9729" type="head" place="top-right">3386</fw>
             
          </div>
-         <div xml:id="chptrd1e9647" decls="bibl-chptrd1e9647">
+         <div xml:id="chptrd1e9647" decls="#bibl-chptrd1e9647">
             <head xml:id="d1e9736">
 Sagregister 
 til

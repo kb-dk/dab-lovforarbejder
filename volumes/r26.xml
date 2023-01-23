@@ -612,7 +612,7 @@ Landstingets Udvalg angaaende Forslag til Lov om Rettens Pleje m. m.
    </teiHeader>
    <text xml:id="d1e600">
       <body xml:id="d1e602">
-         <div xml:id="chptrd1e33" decls="bibl-chptrd1e33">
+         <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
             <head xml:id="d1e606">1913-14: Betænkning (Landstinget)</head>
             
                
@@ -1025,7 +1025,7 @@ forslag som Helhed foregrebet.
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e804" decls="bibl-chptrd1e804">
+         <div xml:id="chptrd1e804" decls="#bibl-chptrd1e804">
             <head xml:id="d1e1386">
 I. Forslag til Lov om Rettens Pleje.
 </head>
@@ -1391,7 +1391,7 @@ værende Uklarhed og formelle Mangler.
                <milestone type="rightside" xml:id="startd1e1407" next="endd1e1407" n="2814" unit="column"/>
             
          </div>
-         <div xml:id="chptrd1e1476" decls="bibl-chptrd1e1476">
+         <div xml:id="chptrd1e1476" decls="#bibl-chptrd1e1476">
             <head xml:id="d1e2061">
 II. Forslag til Lov om Udgifterne i 
 Strafferetsplej en.
@@ -1411,7 +1411,7 @@ Lovforslaget indstilles til Vedtagelse.
 </p>
             
          </div>
-         <div xml:id="chptrd1e1506" decls="bibl-chptrd1e1506">
+         <div xml:id="chptrd1e1506" decls="#bibl-chptrd1e1506">
             <head xml:id="d1e2094">
 III.	Forslag til Lov om Tilvejebringelse 
 af Lokaler for Østre Landsret, Sø- og 
@@ -1447,7 +1447,7 @@ fremsætte Forslag herom.
 </p>
             
          </div>
-         <div xml:id="chptrd1e1570" decls="bibl-chptrd1e1570">
+         <div xml:id="chptrd1e1570" decls="#bibl-chptrd1e1570">
             <head xml:id="d1e2161">
 IV.	Forslag til Lov om Retsafgifter i
 Domssager m. m.
@@ -1495,7 +1495,7 @@ for Lovforslaget til uforandret Vedtagelse.
 </p>
             
          </div>
-         <div xml:id="chptrd1e1653" decls="bibl-chptrd1e1653">
+         <div xml:id="chptrd1e1653" decls="#bibl-chptrd1e1653">
             <head xml:id="d1e2247">
 V. Forslag til Lønnrngslov for forskel- 
 lige af de i Lov om Rettens Pleje om- 
@@ -1739,7 +1739,7 @@ nugældende Ret.
 </p>
             
          </div>
-         <div xml:id="chptrd1e2107" decls="bibl-chptrd1e2107">
+         <div xml:id="chptrd1e2107" decls="#bibl-chptrd1e2107">
             <head xml:id="d1e2704">
 Ændringsforslag 
 til 
@@ -2657,7 +2657,7 @@ som nedenfor angivet:
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e3203" decls="bibl-chptrd1e3203">
+         <div xml:id="chptrd1e3203" decls="#bibl-chptrd1e3203">
             <head xml:id="d1e3952">
 Tavle over By- og Herredsretskredsene,
 jfr. Lovens § 12.
@@ -2667,7 +2667,7 @@ jfr. Lovens § 12.
                
             
          </div>
-         <div xml:id="chptrd1e3210" decls="bibl-chptrd1e3210">
+         <div xml:id="chptrd1e3210" decls="#bibl-chptrd1e3210">
             <head xml:id="d1e3962">
 Sjælland og Møen.
 </head>
@@ -2749,7 +2749,7 @@ Herred samt Holsteinborg Birk, 27,722 Indb.
 </p>
             
          </div>
-         <div xml:id="chptrd1e3275" decls="bibl-chptrd1e3275">
+         <div xml:id="chptrd1e3275" decls="#bibl-chptrd1e3275">
             <head xml:id="d1e4030">
 Bornholm.
 </head>
@@ -2771,7 +2771,7 @@ Bet. o. Lovf. om	Rettens Pleje m. m.
                <fw xml:id="d1e4055" type="head" place="top-right">2832</fw>
             
          </div>
-         <div xml:id="chptrd1e3304" decls="bibl-chptrd1e3304">
+         <div xml:id="chptrd1e3304" decls="#bibl-chptrd1e3304">
             <head xml:id="d1e4062">
 Lolland-Falster.
 </head>
@@ -2795,7 +2795,7 @@ Lolland-Falster.
 </p>
             
          </div>
-         <div xml:id="chptrd1e3326" decls="bibl-chptrd1e3326">
+         <div xml:id="chptrd1e3326" decls="#bibl-chptrd1e3326">
             <head xml:id="d1e4087">
 Fyn.
 </head>
@@ -2845,7 +2845,7 @@ Sogne af Wedellsborg Birk, 25,095 Indb.
 </p>
             
          </div>
-         <div xml:id="chptrd1e3377" decls="bibl-chptrd1e3377">
+         <div xml:id="chptrd1e3377" decls="#bibl-chptrd1e3377">
             <head xml:id="d1e4141">
 Jylland.
 </head>
@@ -2993,7 +2993,7 @@ af Gjerlev-Onsild Herreder, 29,689 Indb.
 </p>
             
          </div>
-         <div xml:id="chptrd1e3504" decls="bibl-chptrd1e3504">
+         <div xml:id="chptrd1e3504" decls="#bibl-chptrd1e3504">
             <head xml:id="d1e4271">
 [Redegørelse
 for
@@ -3048,7 +3048,7 @@ for angivet.
 </p>
             
          </div>
-         <div xml:id="chptrd1e3574" decls="bibl-chptrd1e3574">
+         <div xml:id="chptrd1e3574" decls="#bibl-chptrd1e3574">
             <head xml:id="d1e4344">
 Tavle over Politikredsene,
 jfr. Lovens § 109. 
@@ -3057,7 +3057,7 @@ jfr. Lovens § 109.
                
             
          </div>
-         <div xml:id="chptrd1e3584" decls="bibl-chptrd1e3584">
+         <div xml:id="chptrd1e3584" decls="#bibl-chptrd1e3584">
             <head xml:id="d1e4357">
 Sjælland og Møen.
 </head>
@@ -3129,7 +3129,7 @@ Bet. o. Lovf. om	Rettens Pleje m. m.
                <fw xml:id="d1e4429" type="head" place="top-right">2838</fw>
             
          </div>
-         <div xml:id="chptrd1e3660" decls="bibl-chptrd1e3660">
+         <div xml:id="chptrd1e3660" decls="#bibl-chptrd1e3660">
             <head xml:id="d1e4436">
 Bornholm.
 </head>
@@ -3142,7 +3142,7 @@ samt Aakirkeby Købstad.
 </p>
             
          </div>
-         <div xml:id="chptrd1e3675" decls="bibl-chptrd1e3675">
+         <div xml:id="chptrd1e3675" decls="#bibl-chptrd1e3675">
             <head xml:id="d1e4454">
 Lolland-Falster.
 </head>
@@ -3163,7 +3163,7 @@ Vester Herred.
 </p>
             
          </div>
-         <div xml:id="chptrd1e3694" decls="bibl-chptrd1e3694">
+         <div xml:id="chptrd1e3694" decls="#bibl-chptrd1e3694">
             <head xml:id="d1e4475">
 Fyn.
 </head>
@@ -3207,7 +3207,7 @@ Sogne af Wedellsborg Birk.
 </p>
             
          </div>
-         <div xml:id="chptrd1e3741" decls="bibl-chptrd1e3741">
+         <div xml:id="chptrd1e3741" decls="#bibl-chptrd1e3741">
             <head xml:id="d1e4524">
 Jylland.
 </head>
@@ -3326,7 +3326,7 @@ Herreder.
 </p>
             
          </div>
-         <div xml:id="chptrd1e3855" decls="bibl-chptrd1e3855">
+         <div xml:id="chptrd1e3855" decls="#bibl-chptrd1e3855">
             <head xml:id="d1e4641">
 [Redegørelse
 for
@@ -3414,7 +3414,7 @@ Resultat: Forøgelse med 10 Politikredse (10 Politimestre).]
                <milestone type="leftside" xml:id="startd1e3776" next="endd1e3776" n="2841" unit="column"/>
             
          </div>
-         <div xml:id="chptrd1e3966" decls="bibl-chptrd1e3966">
+         <div xml:id="chptrd1e3966" decls="#bibl-chptrd1e3966">
             <head xml:id="d1e4755">
 Ændringsforslag 
 til
@@ -3448,7 +3448,7 @@ til 4de Stykke".
                <milestone type="rightside" xml:id="startd1e3803" next="endd1e3803" n="2842" unit="column"/>
             </div>
          </div>
-         <div xml:id="chptrd1e3999" decls="bibl-chptrd1e3999">
+         <div xml:id="chptrd1e3999" decls="#bibl-chptrd1e3999">
             <head xml:id="d1e4796">
 Ændringsforslag 
 til
@@ -3881,7 +3881,7 @@ Af Udvalget:
 </p>
             </div>
          </div>
-         <div xml:id="chptrd1e4653" decls="bibl-chptrd1e4653">
+         <div xml:id="chptrd1e4653" decls="#bibl-chptrd1e4653">
             <head xml:id="d1e5490">
 Tavle A.
 (Dommere i 1ste Lønningsklasse).
@@ -3890,7 +3890,7 @@ Tavle A.
                
             
          </div>
-         <div xml:id="chptrd1e4660" decls="bibl-chptrd1e4660">
+         <div xml:id="chptrd1e4660" decls="#bibl-chptrd1e4660">
             <head xml:id="d1e5500">
 Sjælland.
 </head>
@@ -3937,7 +3937,7 @@ Sjælland.
 </p>
             
          </div>
-         <div xml:id="chptrd1e4695" decls="bibl-chptrd1e4695">
+         <div xml:id="chptrd1e4695" decls="#bibl-chptrd1e4695">
             <head xml:id="d1e5538">
 Bornholm.
 </head>
@@ -3948,7 +3948,7 @@ Bornholm.
 </p>
             
          </div>
-         <div xml:id="chptrd1e4704" decls="bibl-chptrd1e4704">
+         <div xml:id="chptrd1e4704" decls="#bibl-chptrd1e4704">
             <head xml:id="d1e5550">
 Lolland—Falster.
 </head>
@@ -3965,7 +3965,7 @@ Lolland—Falster.
 </p>
             
          </div>
-         <div xml:id="chptrd1e4717" decls="bibl-chptrd1e4717">
+         <div xml:id="chptrd1e4717" decls="#bibl-chptrd1e4717">
             <head xml:id="d1e5566">
 Fyn.
 </head>
@@ -3999,7 +3999,7 @@ Bet. o. Lovf. om Rettens Pleje m. m.</fw>
                <fw xml:id="d1e5596" type="head" place="top-right">2850</fw>
             
          </div>
-         <div xml:id="chptrd1e4751" decls="bibl-chptrd1e4751">
+         <div xml:id="chptrd1e4751" decls="#bibl-chptrd1e4751">
             <head xml:id="d1e5603">
 Jylland.
 </head>
@@ -4100,7 +4100,7 @@ Jylland.
 </p>
             
          </div>
-         <div xml:id="chptrd1e4826" decls="bibl-chptrd1e4826">
+         <div xml:id="chptrd1e4826" decls="#bibl-chptrd1e4826">
             <head xml:id="d1e5681">
 Tavle B.
 (Dommere i 2den Lønningsklasse).
@@ -4109,7 +4109,7 @@ Tavle B.
                
             
          </div>
-         <div xml:id="chptrd1e4833" decls="bibl-chptrd1e4833">
+         <div xml:id="chptrd1e4833" decls="#bibl-chptrd1e4833">
             <head xml:id="d1e5691">
 Sjælland og Møen.
 </head>
@@ -4159,7 +4159,7 @@ Udvalgenes Betænkninger m m.	179
 </p>
             
          </div>
-         <div xml:id="chptrd1e4887" decls="bibl-chptrd1e4887">
+         <div xml:id="chptrd1e4887" decls="#bibl-chptrd1e4887">
             <head xml:id="d1e5748">
 Bornholm.
 </head>
@@ -4170,7 +4170,7 @@ Bornholm.
 </p>
             
          </div>
-         <div xml:id="chptrd1e4896" decls="bibl-chptrd1e4896">
+         <div xml:id="chptrd1e4896" decls="#bibl-chptrd1e4896">
             <head xml:id="d1e5760">
 Lolland—Falster.
 </head>
@@ -4184,7 +4184,7 @@ Lolland—Falster.
 </p>
             
          </div>
-         <div xml:id="chptrd1e4907" decls="bibl-chptrd1e4907">
+         <div xml:id="chptrd1e4907" decls="#bibl-chptrd1e4907">
             <head xml:id="d1e5774">
 Fyn.
 </head>
@@ -4210,7 +4210,7 @@ Fyn.
 </p>
             
          </div>
-         <div xml:id="chptrd1e4927" decls="bibl-chptrd1e4927">
+         <div xml:id="chptrd1e4927" decls="#bibl-chptrd1e4927">
             <head xml:id="d1e5797">
 Jylland.
 </head>
@@ -4275,7 +4275,7 @@ Jylland.
 </p>
             
          </div>
-         <div xml:id="chptrd1e4976" decls="bibl-chptrd1e4976">
+         <div xml:id="chptrd1e4976" decls="#bibl-chptrd1e4976">
             <head xml:id="d1e5849">
 Tavle C.
 (Politimestre i 1ste Lønningsklasse).
@@ -4284,7 +4284,7 @@ Tavle C.
                
             
          </div>
-         <div xml:id="chptrd1e4983" decls="bibl-chptrd1e4983">
+         <div xml:id="chptrd1e4983" decls="#bibl-chptrd1e4983">
             <head xml:id="d1e5859">
 Sjælland.
 </head>
@@ -4325,7 +4325,7 @@ Bet. o. Lovf. om	Rettens Pleje m. m.
 </p>
             
          </div>
-         <div xml:id="chptrd1e5021" decls="bibl-chptrd1e5021">
+         <div xml:id="chptrd1e5021" decls="#bibl-chptrd1e5021">
             <head xml:id="d1e5900">
 Bornholm.
 </head>
@@ -4336,7 +4336,7 @@ Bornholm.
 </p>
             
          </div>
-         <div xml:id="chptrd1e5030" decls="bibl-chptrd1e5030">
+         <div xml:id="chptrd1e5030" decls="#bibl-chptrd1e5030">
             <head xml:id="d1e5912">
 Lolland-Falster.
 </head>
@@ -4350,7 +4350,7 @@ Lolland-Falster.
 </p>
             
          </div>
-         <div xml:id="chptrd1e5041" decls="bibl-chptrd1e5041">
+         <div xml:id="chptrd1e5041" decls="#bibl-chptrd1e5041">
             <head xml:id="d1e5926">
 Fyn.
 </head>
@@ -4364,7 +4364,7 @@ Fyn.
 </p>
             
          </div>
-         <div xml:id="chptrd1e5052" decls="bibl-chptrd1e5052">
+         <div xml:id="chptrd1e5052" decls="#bibl-chptrd1e5052">
             <head xml:id="d1e5940">
 Jylland.
 </head>
@@ -4432,7 +4432,7 @@ Jylland.
 </p>
             
          </div>
-         <div xml:id="chptrd1e5103" decls="bibl-chptrd1e5103">
+         <div xml:id="chptrd1e5103" decls="#bibl-chptrd1e5103">
             <head xml:id="d1e5994">
 Tavle D.
 (Politimestre i 2den Lønningsklasse).
@@ -4441,7 +4441,7 @@ Tavle D.
                
             
          </div>
-         <div xml:id="chptrd1e5110" decls="bibl-chptrd1e5110">
+         <div xml:id="chptrd1e5110" decls="#bibl-chptrd1e5110">
             <head xml:id="d1e6004">
 Sjælland og Møen.
 </head>
@@ -4471,7 +4471,7 @@ Sjælland og Møen.
                <fw xml:id="d1e6046" type="head" place="top-right">2856</fw>
             
          </div>
-         <div xml:id="chptrd1e5157" decls="bibl-chptrd1e5157">
+         <div xml:id="chptrd1e5157" decls="#bibl-chptrd1e5157">
             <head xml:id="d1e6053">
 Lolland—Falster.
 </head>
@@ -4485,7 +4485,7 @@ Lolland—Falster.
 </p>
             
          </div>
-         <div xml:id="chptrd1e5168" decls="bibl-chptrd1e5168">
+         <div xml:id="chptrd1e5168" decls="#bibl-chptrd1e5168">
             <head xml:id="d1e6067">
 Fyn.
 </head>
@@ -4505,7 +4505,7 @@ Fyn.
 </p>
             
          </div>
-         <div xml:id="chptrd1e5184" decls="bibl-chptrd1e5184">
+         <div xml:id="chptrd1e5184" decls="#bibl-chptrd1e5184">
             <head xml:id="d1e6085">
 Jylland.
 </head>
@@ -4543,7 +4543,7 @@ Jylland.
 </p>
             
          </div>
-         <div xml:id="chptrd1e5213" decls="bibl-chptrd1e5213">
+         <div xml:id="chptrd1e5213" decls="#bibl-chptrd1e5213">
             <head xml:id="d1e6116">
 Tavle E
 (Politimestre i 3die Lønningsklasse).
@@ -4552,7 +4552,7 @@ Tavle E
                
             
          </div>
-         <div xml:id="chptrd1e5221" decls="bibl-chptrd1e5221">
+         <div xml:id="chptrd1e5221" decls="#bibl-chptrd1e5221">
             <head xml:id="d1e6127">
 Sjælland.
 </head>
@@ -4566,7 +4566,7 @@ Sjælland.
 </p>
             
          </div>
-         <div xml:id="chptrd1e5232" decls="bibl-chptrd1e5232">
+         <div xml:id="chptrd1e5232" decls="#bibl-chptrd1e5232">
             <head xml:id="d1e6141">
 Fyn.
 </head>
@@ -4586,7 +4586,7 @@ Fyn.
 </p>
             
          </div>
-         <div xml:id="chptrd1e5248" decls="bibl-chptrd1e5248">
+         <div xml:id="chptrd1e5248" decls="#bibl-chptrd1e5248">
             <head xml:id="d1e6159">
 Jylland.
 </head>
@@ -4609,7 +4609,7 @@ Bet. o. Lovf. om	Rettens Pleje m. m.
                <fw xml:id="d1e6180" type="head" place="top-right">2858</fw>
             
          </div>
-         <div xml:id="chptrd1e5273" decls="bibl-chptrd1e5273">
+         <div xml:id="chptrd1e5273" decls="#bibl-chptrd1e5273">
             <head xml:id="d1e6187">
 [Redegørelse
 for
@@ -4714,7 +4714,7 @@ d. v. s. aarlig Merudgift til Lønninger
                <milestone type="rightside" xml:id="endd1e4966" prev="startd1e4966" n="2858" unit="column"/>
             
          </div>
-         <div xml:id="chptrd1e5366" decls="bibl-chptrd1e5366">
+         <div xml:id="chptrd1e5366" decls="#bibl-chptrd1e5366">
             <head xml:id="d1e6283">
 [Redegørelse
 for
@@ -4946,7 +4946,7 @@ Bilag I.
 </p>
             
          </div>
-         <div xml:id="chptrd1e5565" decls="bibl-chptrd1e5565">
+         <div xml:id="chptrd1e5565" decls="#bibl-chptrd1e5565">
             <head xml:id="d1e6485">
 Erklæringer,
 modtagne fra
@@ -4967,7 +4967,7 @@ D.	Det rets- og statsvidenskabelige Fakultet.
 </p>
             
          </div>
-         <div xml:id="chptrd1e5585" decls="bibl-chptrd1e5585">
+         <div xml:id="chptrd1e5585" decls="#bibl-chptrd1e5585">
             <head xml:id="d1e6507">
 A.
 </head>
@@ -5025,7 +5025,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
                <fw xml:id="d1e6563" type="head" place="top-right">2864</fw>
             
          </div>
-         <div xml:id="chptrd1e5645" decls="bibl-chptrd1e5645">
+         <div xml:id="chptrd1e5645" decls="#bibl-chptrd1e5645">
             <head xml:id="d1e6570">
 B.
 </head>
@@ -5053,7 +5053,7 @@ Forslaget til Lov om Rettens Pleje.
 </p>
             
          </div>
-         <div xml:id="chptrd1e5676" decls="bibl-chptrd1e5676">
+         <div xml:id="chptrd1e5676" decls="#bibl-chptrd1e5676">
             <head xml:id="d1e6604">
 C.
 </head>
@@ -5084,7 +5084,7 @@ Til Landstingets Retsreformudvalg.
 </p>
             
          </div>
-         <div xml:id="chptrd1e5713" decls="bibl-chptrd1e5713">
+         <div xml:id="chptrd1e5713" decls="#bibl-chptrd1e5713">
             <head xml:id="d1e6644">
 D.
 </head>
@@ -6192,7 +6192,7 @@ Underbilag II.
 </p>
             
          </div>
-         <div xml:id="chptrd1e7168" decls="bibl-chptrd1e7168">
+         <div xml:id="chptrd1e7168" decls="#bibl-chptrd1e7168">
             <head xml:id="d1e8102">
 Sammenlignende Oversigt
 over
@@ -6301,7 +6301,7 @@ Formanden har ladet udarbejde følgende
 </p>
             
          </div>
-         <div xml:id="chptrd1e7280" decls="bibl-chptrd1e7280">
+         <div xml:id="chptrd1e7280" decls="#bibl-chptrd1e7280">
             <head xml:id="d1e8217">
 Sammenstilling
 af
@@ -7055,7 +7055,7 @@ Bilag VII.
 </p>
             
          </div>
-         <div xml:id="chptrd1e8294" decls="bibl-chptrd1e8294">
+         <div xml:id="chptrd1e8294" decls="#bibl-chptrd1e8294">
             <head xml:id="d1e9234">
 Erklæringer
 fra
@@ -7120,7 +7120,7 @@ I.
 </p>
             
          </div>
-         <div xml:id="chptrd1e8384" decls="bibl-chptrd1e8384">
+         <div xml:id="chptrd1e8384" decls="#bibl-chptrd1e8384">
             <head xml:id="d1e9327">
 Amtsraadenes Erklæringer.
 </head>
@@ -7128,7 +7128,7 @@ Amtsraadenes Erklæringer.
                
             
          </div>
-         <div xml:id="chptrd1e8391" decls="bibl-chptrd1e8391">
+         <div xml:id="chptrd1e8391" decls="#bibl-chptrd1e8391">
             <head xml:id="d1e9337">
 1.
 </head>
@@ -7153,7 +7153,7 @@ Justitsministenet.
 </p>
             
          </div>
-         <div xml:id="chptrd1e8419" decls="bibl-chptrd1e8419">
+         <div xml:id="chptrd1e8419" decls="#bibl-chptrd1e8419">
             <head xml:id="d1e9367">
 2.
 </head>
@@ -7186,7 +7186,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
                <fw xml:id="d1e9401" type="head" place="top-right">2908</fw>
             
          </div>
-         <div xml:id="chptrd1e8457" decls="bibl-chptrd1e8457">
+         <div xml:id="chptrd1e8457" decls="#bibl-chptrd1e8457">
             <head xml:id="d1e9408">
 3.
 </head>
@@ -7282,7 +7282,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
                <fw xml:id="d1e9543" type="head" place="top-right">2910</fw>
             
          </div>
-         <div xml:id="chptrd1e8597" decls="bibl-chptrd1e8597">
+         <div xml:id="chptrd1e8597" decls="#bibl-chptrd1e8597">
             <head xml:id="d1e9550">
 4.	
 </head>
@@ -7356,7 +7356,7 @@ Am m en torp.
 </p>
             
          </div>
-         <div xml:id="chptrd1e8680" decls="bibl-chptrd1e8680">
+         <div xml:id="chptrd1e8680" decls="#bibl-chptrd1e8680">
             <head xml:id="d1e9635">
 5.	
 </head>
@@ -7395,7 +7395,7 @@ A. Bille Brahe.
                <fw xml:id="d1e9687" type="head" place="top-right">2912</fw>
             
          </div>
-         <div xml:id="chptrd1e8736" decls="bibl-chptrd1e8736">
+         <div xml:id="chptrd1e8736" decls="#bibl-chptrd1e8736">
             <head xml:id="d1e9694">
 6.
 </head>
@@ -7671,7 +7671,7 @@ Til Præstø Amt.
 </p>
             
          </div>
-         <div xml:id="chptrd1e9118" decls="bibl-chptrd1e9118">
+         <div xml:id="chptrd1e9118" decls="#bibl-chptrd1e9118">
             <head xml:id="d1e10079">
 7.
 </head>
@@ -7832,7 +7832,7 @@ Knud Valløe.
                <fw xml:id="d1e10316" type="head" place="top-right">2922</fw>
             
          </div>
-         <div xml:id="chptrd1e9359" decls="bibl-chptrd1e9359">
+         <div xml:id="chptrd1e9359" decls="#bibl-chptrd1e9359">
             <head xml:id="d1e10323">
 8.
 </head>
@@ -7929,7 +7929,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
                <fw xml:id="d1e10448" type="head" place="top-right">2924</fw>
             
          </div>
-         <div xml:id="chptrd1e9489" decls="bibl-chptrd1e9489">
+         <div xml:id="chptrd1e9489" decls="#bibl-chptrd1e9489">
             <head xml:id="d1e10455">
 9.
 </head>
@@ -8262,7 +8262,7 @@ L. Simony.
 </p>
             
          </div>
-         <div xml:id="chptrd1e9905" decls="bibl-chptrd1e9905">
+         <div xml:id="chptrd1e9905" decls="#bibl-chptrd1e9905">
             <head xml:id="d1e10874">
 10.
 </head>
@@ -8336,7 +8336,7 @@ Til Justitsministeriet.
 </p>
             
          </div>
-         <div xml:id="chptrd1e10013" decls="bibl-chptrd1e10013">
+         <div xml:id="chptrd1e10013" decls="#bibl-chptrd1e10013">
             <head xml:id="d1e10985">
 11.
 </head>
@@ -8374,7 +8374,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
                <fw xml:id="d1e11035" type="head" place="top-right">2934</fw>
             
          </div>
-         <div xml:id="chptrd1e10067" decls="bibl-chptrd1e10067">
+         <div xml:id="chptrd1e10067" decls="#bibl-chptrd1e10067">
             <head xml:id="d1e11042">
 12.
 </head>
@@ -8417,7 +8417,7 @@ Til Justitsministeriet.
 </p>
             
          </div>
-         <div xml:id="chptrd1e10126" decls="bibl-chptrd1e10126">
+         <div xml:id="chptrd1e10126" decls="#bibl-chptrd1e10126">
             <head xml:id="d1e11104">
 13.
 </head>
@@ -8455,7 +8455,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
                <fw xml:id="d1e11150" type="head" place="top-right">2936</fw>
             
          </div>
-         <div xml:id="chptrd1e10176" decls="bibl-chptrd1e10176">
+         <div xml:id="chptrd1e10176" decls="#bibl-chptrd1e10176">
             <head xml:id="d1e11157">
 14.
 </head>
@@ -8488,7 +8488,7 @@ Til Justitsministeriet.
 </p>
             
          </div>
-         <div xml:id="chptrd1e10222" decls="bibl-chptrd1e10222">
+         <div xml:id="chptrd1e10222" decls="#bibl-chptrd1e10222">
             <head xml:id="d1e11205">
 15.
 </head>
@@ -8530,7 +8530,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
                <fw xml:id="d1e11260" type="head" place="top-right">2938</fw>
             
          </div>
-         <div xml:id="chptrd1e10281" decls="bibl-chptrd1e10281">
+         <div xml:id="chptrd1e10281" decls="#bibl-chptrd1e10281">
             <head xml:id="d1e11267">
 16.
 </head>
@@ -8605,7 +8605,7 @@ Til Justitsministeriet.
 </p>
             
          </div>
-         <div xml:id="chptrd1e10355" decls="bibl-chptrd1e10355">
+         <div xml:id="chptrd1e10355" decls="#bibl-chptrd1e10355">
             <head xml:id="d1e11344">
 17.
 </head>
@@ -8648,7 +8648,7 @@ Justitsministeriet.
 </p>
             
          </div>
-         <div xml:id="chptrd1e10414" decls="bibl-chptrd1e10414">
+         <div xml:id="chptrd1e10414" decls="#bibl-chptrd1e10414">
             <head xml:id="d1e11405">
 18.
 </head>
@@ -9037,7 +9037,7 @@ Lemming.
 </p>
             
          </div>
-         <div xml:id="chptrd1e11030" decls="bibl-chptrd1e11030">
+         <div xml:id="chptrd1e11030" decls="#bibl-chptrd1e11030">
             <head xml:id="d1e12024">
 19.
 </head>
@@ -9088,7 +9088,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
                <fw xml:id="d1e12095" type="head" place="top-right">2952</fw>
             
          </div>
-         <div xml:id="chptrd1e11106" decls="bibl-chptrd1e11106">
+         <div xml:id="chptrd1e11106" decls="#bibl-chptrd1e11106">
             <head xml:id="d1e12102">
 20.*)
 </head>
@@ -9130,7 +9130,7 @@ Erklæringer fra Byraad m. fl.<lb xml:id="d1e12152"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e11161" decls="bibl-chptrd1e11161">
+         <div xml:id="chptrd1e11161" decls="#bibl-chptrd1e11161">
             <head xml:id="d1e12159">
 1.
 </head>
@@ -9189,7 +9189,7 @@ Westergaard.
                <fw xml:id="d1e12244" type="head" place="top-right">2956</fw>
             
          </div>
-         <div xml:id="chptrd1e11250" decls="bibl-chptrd1e11250">
+         <div xml:id="chptrd1e11250" decls="#bibl-chptrd1e11250">
             <head xml:id="d1e12251">
 2.
 </head>
@@ -9227,7 +9227,7 @@ M. Mogensen. Vilh. Friis. Albert Jensen. H. Lybye.
 </p>
             
          </div>
-         <div xml:id="chptrd1e11308" decls="bibl-chptrd1e11308">
+         <div xml:id="chptrd1e11308" decls="#bibl-chptrd1e11308">
             <head xml:id="d1e12311">
 3.
 </head>
@@ -9243,7 +9243,7 @@ slaaede Kredsinddelinger, for saa vidt de berører Kalundborg
 </p>
             
          </div>
-         <div xml:id="chptrd1e11325" decls="bibl-chptrd1e11325">
+         <div xml:id="chptrd1e11325" decls="#bibl-chptrd1e11325">
             <head xml:id="d1e12331">
 4.
 </head>
@@ -9274,7 +9274,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
                <fw xml:id="d1e12362" type="head" place="top-right">2958</fw>
             
          </div>
-         <div xml:id="chptrd1e11360" decls="bibl-chptrd1e11360">
+         <div xml:id="chptrd1e11360" decls="#bibl-chptrd1e11360">
             <head xml:id="d1e12369">
 5.
 </head>
@@ -9309,7 +9309,7 @@ Til Justitsministeriet,
 </p>
             
          </div>
-         <div xml:id="chptrd1e11406" decls="bibl-chptrd1e11406">
+         <div xml:id="chptrd1e11406" decls="#bibl-chptrd1e11406">
             <head xml:id="d1e12418">
 6.
 </head>
@@ -9345,7 +9345,7 @@ Til Justitsministeriet.
                <fw xml:id="d1e12459" type="head" place="top-right">2960</fw>
             
          </div>
-         <div xml:id="chptrd1e11452" decls="bibl-chptrd1e11452">
+         <div xml:id="chptrd1e11452" decls="#bibl-chptrd1e11452">
             <head xml:id="d1e12466">
 7.	
 </head>
@@ -9357,7 +9357,7 @@ Underbilag 4.
 </p>
             
          </div>
-         <div xml:id="chptrd1e11464" decls="bibl-chptrd1e11464">
+         <div xml:id="chptrd1e11464" decls="#bibl-chptrd1e11464">
             <head xml:id="d1e12481">
 8.	
 </head>
@@ -9372,7 +9372,7 @@ Byraadet udtalte, at man intet fandt at erindre mod Forslaget
 </p>
             
          </div>
-         <div xml:id="chptrd1e11479" decls="bibl-chptrd1e11479">
+         <div xml:id="chptrd1e11479" decls="#bibl-chptrd1e11479">
             <head xml:id="d1e12499">
 9.	
 </head>
@@ -9405,7 +9405,7 @@ Til Justitsministeriet.
 </p>
             
          </div>
-         <div xml:id="chptrd1e11515" decls="bibl-chptrd1e11515">
+         <div xml:id="chptrd1e11515" decls="#bibl-chptrd1e11515">
             <head xml:id="d1e12538">
 10.	
 </head>
@@ -9469,7 +9469,7 @@ København K.
 </p>
             
          </div>
-         <div xml:id="chptrd1e11603" decls="bibl-chptrd1e11603">
+         <div xml:id="chptrd1e11603" decls="#bibl-chptrd1e11603">
             <head xml:id="d1e12629">
 </head>
             
@@ -9535,7 +9535,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
                <fw xml:id="d1e12720" type="head" place="top-right">2964</fw>
             
          </div>
-         <div xml:id="chptrd1e11698" decls="bibl-chptrd1e11698">
+         <div xml:id="chptrd1e11698" decls="#bibl-chptrd1e11698">
             <head xml:id="d1e12727">
 12.
 </head>
@@ -9560,7 +9560,7 @@ Til Justitsministeriet.
 </p>
             
          </div>
-         <div xml:id="chptrd1e11727" decls="bibl-chptrd1e11727">
+         <div xml:id="chptrd1e11727" decls="#bibl-chptrd1e11727">
             <head xml:id="d1e12758">
 13.
 </head>
@@ -9630,7 +9630,7 @@ Borgen.
 </p>
             
          </div>
-         <div xml:id="chptrd1e11816" decls="bibl-chptrd1e11816">
+         <div xml:id="chptrd1e11816" decls="#bibl-chptrd1e11816">
             <head xml:id="d1e12850">
 14.
 </head>
@@ -9666,7 +9666,7 @@ Til Justitsministeriet.
 </p>
             
          </div>
-         <div xml:id="chptrd1e11862" decls="bibl-chptrd1e11862">
+         <div xml:id="chptrd1e11862" decls="#bibl-chptrd1e11862">
             <head xml:id="d1e12899">
 15.
 </head>
@@ -9763,7 +9763,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
                <fw xml:id="d1e13050" type="head" place="top-right">2970</fw>
             
          </div>
-         <div xml:id="chptrd1e12017" decls="bibl-chptrd1e12017">
+         <div xml:id="chptrd1e12017" decls="#bibl-chptrd1e12017">
             <head xml:id="d1e13057">
 16.
 </head>
@@ -9782,7 +9782,7 @@ Til Justitsministeriet.
 </p>
             
          </div>
-         <div xml:id="chptrd1e12035" decls="bibl-chptrd1e12035">
+         <div xml:id="chptrd1e12035" decls="#bibl-chptrd1e12035">
             <head xml:id="d1e13078">
 17.
 </head>
@@ -9959,7 +9959,7 @@ Bardenfleth.
 </p>
             
          </div>
-         <div xml:id="chptrd1e12283" decls="bibl-chptrd1e12283">
+         <div xml:id="chptrd1e12283" decls="#bibl-chptrd1e12283">
             <head xml:id="d1e13329">
 18.
 </head>
@@ -10036,7 +10036,7 @@ Til Landstingets Udvalg angaaende Lov om Rettens Pleje.
 </p>
             
          </div>
-         <div xml:id="chptrd1e12379" decls="bibl-chptrd1e12379">
+         <div xml:id="chptrd1e12379" decls="#bibl-chptrd1e12379">
             <head xml:id="d1e13428">
 19.
 </head>
@@ -10047,7 +10047,7 @@ Erklæring fra Silkeborg Byraad, se Uddrag af Andragender m. v. Nr. 18.
 </p>
             
          </div>
-         <div xml:id="chptrd1e12388" decls="bibl-chptrd1e12388">
+         <div xml:id="chptrd1e12388" decls="#bibl-chptrd1e12388">
             <head xml:id="d1e13440">
 20.
 </head>
@@ -10083,7 +10083,7 @@ Bilag til Bet, o. Lovf. om Rettens Pleje m. m.</fw>
                <fw xml:id="d1e13477" type="head" place="top-right">2978</fw>
             
          </div>
-         <div xml:id="chptrd1e12431" decls="bibl-chptrd1e12431">
+         <div xml:id="chptrd1e12431" decls="#bibl-chptrd1e12431">
             <head xml:id="d1e13485">
 21.
 </head>
@@ -10267,7 +10267,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
                <fw xml:id="d1e13750" type="head" place="top-right">2982</fw>
             
          </div>
-         <div xml:id="chptrd1e12701" decls="bibl-chptrd1e12701">
+         <div xml:id="chptrd1e12701" decls="#bibl-chptrd1e12701">
             <head xml:id="d1e13757">
 22.
 </head>
@@ -10303,7 +10303,7 @@ Til Justitsministeriet.
 </p>
             
          </div>
-         <div xml:id="chptrd1e12737" decls="bibl-chptrd1e12737">
+         <div xml:id="chptrd1e12737" decls="#bibl-chptrd1e12737">
             <head xml:id="d1e13796">
 23.
 </head>
@@ -10365,7 +10365,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
                <fw xml:id="d1e13869" type="head" place="top-right">2984</fw>
             
          </div>
-         <div xml:id="chptrd1e12814" decls="bibl-chptrd1e12814">
+         <div xml:id="chptrd1e12814" decls="#bibl-chptrd1e12814">
             <head xml:id="d1e13876">
 24.
 </head>
@@ -10394,7 +10394,7 @@ Til Justitsministeriet.
 </p>
             
          </div>
-         <div xml:id="chptrd1e12849" decls="bibl-chptrd1e12849">
+         <div xml:id="chptrd1e12849" decls="#bibl-chptrd1e12849">
             <head xml:id="d1e13913">
 25.
 </head>
@@ -10456,7 +10456,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
                <fw xml:id="d1e13993" type="head" place="top-right">2986</fw>
             
          </div>
-         <div xml:id="chptrd1e12933" decls="bibl-chptrd1e12933">
+         <div xml:id="chptrd1e12933" decls="#bibl-chptrd1e12933">
             <head xml:id="d1e14000">
 26.
 </head>
@@ -10485,7 +10485,7 @@ Til Justitsministeriet,
 </p>
             
          </div>
-         <div xml:id="chptrd1e12965" decls="bibl-chptrd1e12965">
+         <div xml:id="chptrd1e12965" decls="#bibl-chptrd1e12965">
             <head xml:id="d1e14035">
 27.
 </head>
@@ -10530,7 +10530,7 @@ Bilag VIII.
 </p>
             
          </div>
-         <div xml:id="chptrd1e13027" decls="bibl-chptrd1e13027">
+         <div xml:id="chptrd1e13027" decls="#bibl-chptrd1e13027">
             <head xml:id="d1e14099">
 Uddrag af Andragender m. v.
 tilstillede
@@ -11202,7 +11202,7 @@ kontor fra Hjørring til V. Brønderslev.
 </p>
             
          </div>
-         <div xml:id="chptrd1e14045" decls="bibl-chptrd1e14045">
+         <div xml:id="chptrd1e14045" decls="#bibl-chptrd1e14045">
             <head xml:id="d1e15120">
 24.
 </head>

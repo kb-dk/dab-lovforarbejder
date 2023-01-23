@@ -126,7 +126,7 @@ Herredskontor i Vejen.
    </teiHeader>
    <text xml:id="d1e125">
       <body xml:id="d1e127">
-         <div xml:id="chptrd1e33" decls="bibl-chptrd1e33">
+         <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
             <head xml:id="d1e131">1915-16: Betænkning (Landstinget)</head>
             
                
@@ -137,7 +137,7 @@ Herredskontor i Vejen.
                <fw xml:id="d1e145" type="head" place="top-right">2034</fw>
             
          </div>
-         <div xml:id="chptrd1e52" decls="bibl-chptrd1e52">
+         <div xml:id="chptrd1e52" decls="#bibl-chptrd1e52">
             <head xml:id="d1e152">
 LVII. 
 Betænkning 
@@ -850,7 +850,7 @@ nærmere at motivere sin Stilling til samme.
 </p>
             
          </div>
-         <div xml:id="chptrd1e1456" decls="bibl-chptrd1e1456">
+         <div xml:id="chptrd1e1456" decls="#bibl-chptrd1e1456">
             <head xml:id="d1e1559">
 Til B. Forslag til Lønningslov for for- 
 skellige af de i Lov om Rettens Pleje 
@@ -908,7 +908,7 @@ Vedtagelse.
 </p>
             
          </div>
-         <div xml:id="chptrd1e1557" decls="bibl-chptrd1e1557">
+         <div xml:id="chptrd1e1557" decls="#bibl-chptrd1e1557">
             <head xml:id="d1e1663">
 Til C. Forslag til midlertidig Lov om 
 offentlige Auktioner, der ikke er 
@@ -922,7 +922,7 @@ Vedtagelse.
 </p>
             
          </div>
-         <div xml:id="chptrd1e1574" decls="bibl-chptrd1e1574">
+         <div xml:id="chptrd1e1574" decls="#bibl-chptrd1e1574">
             <head xml:id="d1e1683">
 Til D. Forslag til Lov om Retsafgifter 
 i Domssager m. m.
@@ -942,7 +942,7 @@ Vedtagelse.
 </p>
             
          </div>
-         <div xml:id="chptrd1e1601" decls="bibl-chptrd1e1601">
+         <div xml:id="chptrd1e1601" decls="#bibl-chptrd1e1601">
             <head xml:id="d1e1713">
 Til E. Forslag til Lov om Udgifterne 
 i Strafferetsplejen.
@@ -980,7 +980,7 @@ Vedtagelse.
                <fw xml:id="d1e1775" type="head" place="top-right">2048</fw>
             
          </div>
-         <div xml:id="chptrd1e1667" decls="bibl-chptrd1e1667">
+         <div xml:id="chptrd1e1667" decls="#bibl-chptrd1e1667">
             <head xml:id="d1e1782">
 Til F. Forslag til Lov om Tilvejebrin- 
 gelse af Lokaler for Østre Landsret, Sø- 
@@ -1110,7 +1110,7 @@ I alt... 2 781,430 Kr.
                <fw xml:id="d1e1993" type="head" place="top-right">2052</fw>
             
          </div>
-         <div xml:id="chptrd1e1883" decls="bibl-chptrd1e1883">
+         <div xml:id="chptrd1e1883" decls="#bibl-chptrd1e1883">
             <head xml:id="d1e2000">
 Bilag. 
 1.
@@ -1150,7 +1150,7 @@ om Bettens Pleje.
                <fw xml:id="d1e2049" type="head" place="top-right">2054</fw>
             
          </div>
-         <div xml:id="chptrd1e1937" decls="bibl-chptrd1e1937">
+         <div xml:id="chptrd1e1937" decls="#bibl-chptrd1e1937">
             <head xml:id="d1e2056">
 2.
 </head>
@@ -1187,7 +1187,7 @@ Justitsministeriet.
 </p>
             
          </div>
-         <div xml:id="chptrd1e1978" decls="bibl-chptrd1e1978">
+         <div xml:id="chptrd1e1978" decls="#bibl-chptrd1e1978">
             <head xml:id="d1e2100">
 3.
 </head>
@@ -1226,7 +1226,7 @@ Allerærbødigst<lb xml:id="d1e2139"/>
                <fw xml:id="d1e2150" type="head" place="top-right">2056</fw>
             
          </div>
-         <div xml:id="chptrd1e2032" decls="bibl-chptrd1e2032">
+         <div xml:id="chptrd1e2032" decls="#bibl-chptrd1e2032">
             <head xml:id="d1e2157">
 4.
 </head>
@@ -1285,7 +1285,7 @@ i mange Aar fremsatte Ønsker		—
                <fw xml:id="d1e2239" type="head" place="top-right">2058</fw>
             
          </div>
-         <div xml:id="chptrd1e2119" decls="bibl-chptrd1e2119">
+         <div xml:id="chptrd1e2119" decls="#bibl-chptrd1e2119">
             <head xml:id="d1e2247">
 5. 
 Hids Herred.
@@ -1393,7 +1393,7 @@ som helst Jurisdiktionsomlæggelse, som derfor maa fraraades.
                <fw xml:id="d1e2410" type="head" place="top-right">2062</fw>
             
          </div>
-         <div xml:id="chptrd1e2286" decls="bibl-chptrd1e2286">
+         <div xml:id="chptrd1e2286" decls="#bibl-chptrd1e2286">
             <head xml:id="d1e2417">
 6. 
 Hids Herred.
@@ -1485,7 +1485,7 @@ Formand.
 </signatur>
             
          </div>
-         <div xml:id="chptrd1e2418" decls="bibl-chptrd1e2418">
+         <div xml:id="chptrd1e2418" decls="#bibl-chptrd1e2418">
             <head xml:id="d1e2552">
 7. 
 Odense.
@@ -1526,7 +1526,7 @@ Bilag til Bet. o. Lovf. om Rettens Pleje m. m.
 </topmidle>
             
          </div>
-         <div xml:id="chptrd1e2483" decls="bibl-chptrd1e2483">
+         <div xml:id="chptrd1e2483" decls="#bibl-chptrd1e2483">
             <head xml:id="d1e2620">
 8. 
 Korsør, Skelskør.
@@ -1618,7 +1618,7 @@ Retskreds (se Landstingsudvalgets Betænkning af 29. Maj 1914 pag. 99 [Tillæg B
 </p>
             
          </div>
-         <div xml:id="chptrd1e2630" decls="bibl-chptrd1e2630">
+         <div xml:id="chptrd1e2630" decls="#bibl-chptrd1e2630">
             <head xml:id="d1e2770">
 9, 
 Holsteinborg Birk.
@@ -1682,7 +1682,7 @@ Underskrifter.
 </signatur>
             
          </div>
-         <div xml:id="chptrd1e2728" decls="bibl-chptrd1e2728">
+         <div xml:id="chptrd1e2728" decls="#bibl-chptrd1e2728">
             <head xml:id="d1e2871">
 10. 
 Herredskontor i Vejen.
@@ -1726,7 +1726,7 @@ og Astrup-Tulstrup-Hvilsted Sogneraad.
 </p>
             
          </div>
-         <div xml:id="chptrd1e2789" decls="bibl-chptrd1e2789">
+         <div xml:id="chptrd1e2789" decls="#bibl-chptrd1e2789">
             <head xml:id="d1e2935">
 11.
 </head>

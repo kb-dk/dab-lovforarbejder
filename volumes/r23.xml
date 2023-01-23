@@ -42,7 +42,7 @@ D. Brevskriverkontoret.
    </teiHeader>
    <text xml:id="d1e57">
       <body xml:id="d1e59">
-         <div xml:id="chptrd1e33" decls="bibl-chptrd1e33">
+         <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
             <head xml:id="d1e63">1912-13: Betænkning (Folketinget)</head>
             
                
@@ -2527,7 +2527,7 @@ Byrettens Lokaler.<lb xml:id="d1e5037"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e5011" decls="bibl-chptrd1e5011">
+         <div xml:id="chptrd1e5011" decls="#bibl-chptrd1e5011">
             <head xml:id="d1e5044">
 A. De dømmende Afdelinger samt Formanden. 
             </head>
@@ -2662,7 +2662,7 @@ Overført.. 7,236<lb xml:id="d1e5309"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e5280" decls="bibl-chptrd1e5280">
+         <div xml:id="chptrd1e5280" decls="#bibl-chptrd1e5280">
             <head xml:id="d1e5316">
 B. Skiftevæsenet. 
             </head>
@@ -2717,7 +2717,7 @@ Overført.. 9.712<lb xml:id="d1e5410"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e5378" decls="bibl-chptrd1e5378">
+         <div xml:id="chptrd1e5378" decls="#bibl-chptrd1e5378">
             <head xml:id="d1e5417">
 C. Fogderne. 
             </head>
@@ -2743,7 +2743,7 @@ delbar indbyrdes Forbindelse.<lb xml:id="d1e5459"/>
                </p>
             
          </div>
-         <div xml:id="chptrd1e5424" decls="bibl-chptrd1e5424">
+         <div xml:id="chptrd1e5424" decls="#bibl-chptrd1e5424">
             <head xml:id="d1e5466">
 D. Brevskriverkontoret. 
             </head>

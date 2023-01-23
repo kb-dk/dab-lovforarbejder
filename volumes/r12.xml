@@ -31,7 +31,7 @@ Retspleje og 3) Strafferetsplejen.
    </teiHeader>
    <text xml:id="d1e42">
       <body xml:id="d1e44">
-         <div xml:id="chptrd1e33" decls="bibl-chptrd1e33">
+         <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
             <head xml:id="d1e48">1901-02: Tillæg til betænkning (Folketinget)</head>
             
                
@@ -41,7 +41,7 @@ Retspleje og 3) Strafferetsplejen.
                <fw xml:id="d1e62" type="head" place="top-right">2364</fw>
             
          </div>
-         <div xml:id="chptrd1e52" decls="bibl-chptrd1e52">
+         <div xml:id="chptrd1e52" decls="#bibl-chptrd1e52">
             <head xml:id="d1e69">
 LXXXV. 
 Tillæg til Betænkninger 
