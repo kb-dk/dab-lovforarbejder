@@ -54,6 +54,7 @@ while(my $file = <$PAGES>) {
 #	    $line =~ s/<\/?underpage>//;
 #	    $line =~ s/<\/?rightside>//;
 #	    $line =~ s/<\/?leftside>//;
+	    $line =~ s/Algreen\s+Ussing/Algreen-Ussing/g; 
 	    $line =~ s/<\?\././;
 	    $line =~ s/\s&\s/ &amp;/g;
 	    $line =~ s/<\/lb>/ /g;

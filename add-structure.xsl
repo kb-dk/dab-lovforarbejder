@@ -4,7 +4,7 @@
                xmlns:t="http://www.tei-c.org/ns/1.0"
                version="3.0">
 
-  <xsl:variable name="registrant" select="document('registrant-dab-lovsamlinger-20230109.xml')"/>
+  <xsl:variable name="registrant" select="document('registrant-dab-lovsamlinger.xml')"/>
   <xsl:param name="volume_number"/>
 
   <xsl:output indent="yes" encoding="UTF-8" />
