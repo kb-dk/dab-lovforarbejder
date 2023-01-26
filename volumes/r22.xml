@@ -1,727 +1,750 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root"><?page  r22_00001_rigsdagtid_a_1912_13 ?>
-<div type='page-placeholder'><h>
-<coll>
-3069</coll>
-<colr>3070</colr>
-</h>
-<p>
-LI.<lb />
-Forslag til Lov<lb />
-om<lb />
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="root">
+   <teiHeader xml:id="d1e3">
+      <fileDesc xml:id="d1e5">
+         <titleStmt xml:id="d1e7">
+            <title xml:id="d1e9">1912-13: Lovforslag</title>
+         </titleStmt>
+         <publicationStmt xml:id="d1e12">
+            <p xml:id="d1e14"/>
+         </publicationStmt>
+         <sourceDesc xml:id="d1e17">
+            <bibl xml:id="d1e19">
+               <title xml:id="d1e21">1912-13: Lovforslag</title>
+               <date xml:id="d1e23">1912</date>
+            </bibl>
+            <listBibl xml:id="d1e26">
+               <bibl xml:id="bibl-chptrd1e33">
+                  <title xml:id="d1e30">1912-13: Lovforslag</title>
+               </bibl>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text xml:id="d1e37">
+      <body xml:id="d1e39">
+         <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
+            <head xml:id="d1e43">1912-13: Lovforslag</head>
+            
+               
+               <pb xml:id="idr22_00001_rigsdagtid_a_1912_13" facs="r22_00001_rigsdagtid_a_1912_13" n=""/>
+               <fw xml:id="d1e51" type="head" place="top-left">
+3069</fw>
+               <fw xml:id="d1e54" type="head" place="top-middle"/>
+               <fw xml:id="d1e56" type="head" place="top-right">3070</fw>
+               <p xml:id="d1e60">
+LI.<lb xml:id="d1e62"/>
+Forslag til Lov<lb xml:id="d1e64"/>
+om<lb xml:id="d1e66"/>
 Gennemførelse af Lov om Rettens Pleje af 26. Marts 1909.
 </p>
-<p>
-(Fremsat i Folketinget den 10. December 1912 af Justitsminister Bülow.)<lb />
-Lov om Rettens Pleje af 26. Marts 1909 træder i Kraft 6 Maaneder efter<lb />
-Indrykkelsen i Lovtidende af en af Justitsministeren derom udstedt Bekendtgørelse,<lb />
+               <p xml:id="d1e69">
+(Fremsat i Folketinget den 10. December 1912 af Justitsminister Bülow.)<lb xml:id="d1e71"/>
+Lov om Rettens Pleje af 26. Marts 1909 træder i Kraft 6 Maaneder efter<lb xml:id="d1e73"/>
+Indrykkelsen i Lovtidende af en af Justitsministeren derom udstedt Bekendtgørelse,<lb xml:id="d1e75"/>
 dog ikke senere end d. 1. Oktober 1916.
 </p>
-<p>
-Bestemmelserne i Retsplejelovens § 9 om Sø- og Handelsrettens Sammensætning<lb />
-ændres og suppleres i Overensstemmelse med Reglerne i Lov Nr. 262 af 22. December<lb />
+               <p xml:id="d1e78">
+Bestemmelserne i Retsplejelovens § 9 om Sø- og Handelsrettens Sammensætning<lb xml:id="d1e80"/>
+ændres og suppleres i Overensstemmelse med Reglerne i Lov Nr. 262 af 22. December<lb xml:id="d1e82"/>
 1910 § 1, 2det Stykke, § 2, 1ste Stykke. 2det Punktum og § 2, 2det, 3die og 4de Stykke.
 </p>
-<p>
-I Tiden fra Indrykkelsen i Lovtidende af den i 1ste Stykke nævnte Bekendt-<lb />
-gørelse og indtil 2 Aar efter Retsplejelovens Ikrafttræden er Justitsministeren be-<lb />
-myndiget til i de kollegiale Retter — herunder dog ikke indbefattet Højesteret — at<lb />
-konstituere i alt indtil 5 Dommere udover det for de paagældende Retter tilsammen<lb />
+               <p xml:id="d1e85">
+I Tiden fra Indrykkelsen i Lovtidende af den i 1ste Stykke nævnte Bekendt-<lb xml:id="d1e87"/>
+gørelse og indtil 2 Aar efter Retsplejelovens Ikrafttræden er Justitsministeren be-<lb xml:id="d1e89"/>
+myndiget til i de kollegiale Retter — herunder dog ikke indbefattet Højesteret — at<lb xml:id="d1e91"/>
+konstituere i alt indtil 5 Dommere udover det for de paagældende Retter tilsammen<lb xml:id="d1e93"/>
 fastsatte Antal Dommere.
 </p>
-<p>
+               <p xml:id="d1e96">
 Bemærkninger til foranstaaende Lovforslag.
 </p>
-<leftside>
-<p>
-Ifølge Retsplejelovens § 998,1ste Stykke,<lb />
-træder Loven først i Kraft, naar 3 nærmere<lb />
-angivne Love, nemlig Politiloven, Lønnings-<lb />
-loven for Dommere m. m. samt Retsafgifts-<lb />
-loven ere vedtagne. Denne Bestemmelse<lb />
-har medført, at Loven endnu ikke har<lb />
-kunnet træde i Kraft, idet ingen af de<lb />
-paagældende tre Love hidtil er vedtaget af<lb />
+               <milestone type="leftside" xml:id="startd1e51" next="endd1e51" n="3069" unit="column"/>
+               <p xml:id="d1e101">
+Ifølge Retsplejelovens § 998,1ste Stykke,<lb xml:id="d1e103"/>
+træder Loven først i Kraft, naar 3 nærmere<lb xml:id="d1e105"/>
+angivne Love, nemlig Politiloven, Lønnings-<lb xml:id="d1e107"/>
+loven for Dommere m. m. samt Retsafgifts-<lb xml:id="d1e109"/>
+loven ere vedtagne. Denne Bestemmelse<lb xml:id="d1e111"/>
+har medført, at Loven endnu ikke har<lb xml:id="d1e114"/>
+kunnet træde i Kraft, idet ingen af de<lb xml:id="d1e116"/>
+paagældende tre Love hidtil er vedtaget af<lb xml:id="d1e118"/>
 Rigsdagen. Dog er den i Retsplejelovens
 </p>
-</leftside>
-<rightside>
-<p>
-§ 998 jfr. § 138 stillede Fordring om<lb />
-Ansættelse og Lønning af særlige Opdagel-<lb />
-sesbetjente, der skulle kunne gøre Tjeneste<lb />
-overalt i Riget, i hvert Fald delvist fyldest-<lb />
-gjort ved Lov om Oprettelse af et Stats-<lb />
-politi af 13. Maj f. A.<lb />
-Den Usikkerhed med Hensyn til Tids-<lb />
-punktet for en saa vigtig Reforms Ind-<lb />
+               <milestone type="leftside" xml:id="endd1e51" prev="startd1e51" n="3069" unit="column"/>
+               <milestone type="rightside" xml:id="startd1e74" next="endd1e74" n="3070" unit="column"/>
+               <p xml:id="d1e125">
+§ 998 jfr. § 138 stillede Fordring om<lb xml:id="d1e127"/>
+Ansættelse og Lønning af særlige Opdagel-<lb xml:id="d1e129"/>
+sesbetjente, der skulle kunne gøre Tjeneste<lb xml:id="d1e131"/>
+overalt i Riget, i hvert Fald delvist fyldest-<lb xml:id="d1e133"/>
+gjort ved Lov om Oprettelse af et Stats-<lb xml:id="d1e135"/>
+politi af 13. Maj f. A.<lb xml:id="d1e138"/>
+Den Usikkerhed med Hensyn til Tids-<lb xml:id="d1e140"/>
+punktet for en saa vigtig Reforms Ind-<lb xml:id="d1e142"/>
 førelse. der saaledes i længere Tid har
 </p>
-</rightside></div><?page  r22_00002_rigsdagtid_a_1912_13 ?>
-<div type='page-placeholder'><h>
-<coll>
-3071</coll>
-<topmidle>F. t. L. om Gennemførelse af L. om Rettens Pleje af 26. Marts 1909.</topmidle>
-<colr>3072</colr>
-</h>
-<leftside>
-<p>
-hersket og vedblivende er tilstede, med-<lb />
-fører uheldige Konsekvenser i flere Hen-<lb />
-seender. Allerede i en lang Aarrække ere<lb />
-saa godt som alle Planer og Forslag om<lb />
-mere stykkevise Forbedringer al vor for-<lb />
-ældede Retspleje skudte til Side med en<lb />
-Henvisning til den forestaaende Proces-<lb />
-reform, og efterat Retsplejeloven foreligger<lb />
-vedtagen af Lovgivningsmagten, gør dette<lb />
-Hensyn sig selvfølgelig i endnu højere Grad<lb />
-gældende, skønt Lovens Ikrafttræden endnu<lb />
-stadig henstaar i det uvisse. For Uni-<lb />
-versitetsstudiet har den nuværende Tilstand<lb />
-ogsaa medført ganske særlige Ulemper,<lb />
-idet det er saare vanskeligt for det<lb />
-rets- og statsvidenskabelige Fakultet at<lb />
-afgøre, om Undervisningen i Proces væ-<lb />
-sentlig bør baseres paa den hidtil gæl-<lb />
-dende Ordning eller paa den vedtagne<lb />
-Retsplejelovs Regler, medens det vilde være<lb />
-ugørligt at forlange af de studerende, at<lb />
-de skulle have et virkeligt Kendskab til<lb />
-begge de vidt forskellige Systemer. Det<lb />
-er ejheller at undres over, at baade<lb />
-Dommerne og Sagførerne sky det store<lb />
-Arbejde med at sætte sig ind i det nye<lb />
-System, saalænge det endnu er usikkert,<lb />
-om den hele Ordning vil blive til Virke-<lb />
-lighed i en overskuelig Fremtid. Justits-<lb />
-ministeriet kan derhos ikke paabegynde<lb />
-de omfattende Forberedelser til Lovens<lb />
-Ikrafttræden, førend Lovgivningsmagten<lb />
-ved at vedtage samtlige i Forbindelse med<lb />
-Procesreformen staaende Love og fastsætte<lb />
-Tidspunktet for deres Ikrafttræden har<lb />
-givet den hele Reform sin endelige Sank-<lb />
+               <milestone type="rightside" xml:id="endd1e74" prev="startd1e74" n="3070" unit="column"/>
+               <pb xml:id="idr22_00002_rigsdagtid_a_1912_13" facs="r22_00002_rigsdagtid_a_1912_13" n=""/>
+               <fw xml:id="d1e150" type="head" place="top-left">
+3071</fw>
+               <fw xml:id="d1e153" type="head" place="top-middle">F. t. L. om Gennemførelse af L. om Rettens Pleje af 26. Marts 1909.</fw>
+               <fw xml:id="d1e156" type="head" place="top-right">3072</fw>
+               <milestone type="leftside" xml:id="startd1e108" next="endd1e108" n="3071" unit="column"/>
+               <p xml:id="d1e161">
+hersket og vedblivende er tilstede, med-<lb xml:id="d1e163"/>
+fører uheldige Konsekvenser i flere Hen-<lb xml:id="d1e165"/>
+seender. Allerede i en lang Aarrække ere<lb xml:id="d1e167"/>
+saa godt som alle Planer og Forslag om<lb xml:id="d1e169"/>
+mere stykkevise Forbedringer al vor for-<lb xml:id="d1e171"/>
+ældede Retspleje skudte til Side med en<lb xml:id="d1e174"/>
+Henvisning til den forestaaende Proces-<lb xml:id="d1e176"/>
+reform, og efterat Retsplejeloven foreligger<lb xml:id="d1e178"/>
+vedtagen af Lovgivningsmagten, gør dette<lb xml:id="d1e180"/>
+Hensyn sig selvfølgelig i endnu højere Grad<lb xml:id="d1e182"/>
+gældende, skønt Lovens Ikrafttræden endnu<lb xml:id="d1e184"/>
+stadig henstaar i det uvisse. For Uni-<lb xml:id="d1e187"/>
+versitetsstudiet har den nuværende Tilstand<lb xml:id="d1e189"/>
+ogsaa medført ganske særlige Ulemper,<lb xml:id="d1e191"/>
+idet det er saare vanskeligt for det<lb xml:id="d1e193"/>
+rets- og statsvidenskabelige Fakultet at<lb xml:id="d1e195"/>
+afgøre, om Undervisningen i Proces væ-<lb xml:id="d1e197"/>
+sentlig bør baseres paa den hidtil gæl-<lb xml:id="d1e200"/>
+dende Ordning eller paa den vedtagne<lb xml:id="d1e202"/>
+Retsplejelovs Regler, medens det vilde være<lb xml:id="d1e204"/>
+ugørligt at forlange af de studerende, at<lb xml:id="d1e206"/>
+de skulle have et virkeligt Kendskab til<lb xml:id="d1e208"/>
+begge de vidt forskellige Systemer. Det<lb xml:id="d1e210"/>
+er ejheller at undres over, at baade<lb xml:id="d1e213"/>
+Dommerne og Sagførerne sky det store<lb xml:id="d1e215"/>
+Arbejde med at sætte sig ind i det nye<lb xml:id="d1e217"/>
+System, saalænge det endnu er usikkert,<lb xml:id="d1e219"/>
+om den hele Ordning vil blive til Virke-<lb xml:id="d1e221"/>
+lighed i en overskuelig Fremtid. Justits-<lb xml:id="d1e223"/>
+ministeriet kan derhos ikke paabegynde<lb xml:id="d1e226"/>
+de omfattende Forberedelser til Lovens<lb xml:id="d1e228"/>
+Ikrafttræden, førend Lovgivningsmagten<lb xml:id="d1e230"/>
+ved at vedtage samtlige i Forbindelse med<lb xml:id="d1e232"/>
+Procesreformen staaende Love og fastsætte<lb xml:id="d1e234"/>
+Tidspunktet for deres Ikrafttræden har<lb xml:id="d1e236"/>
+givet den hele Reform sin endelige Sank-<lb xml:id="d1e239"/>
 tion.
 </p>
-<p>
-Regeringen har nu besluttet at søge<lb />
-en endelig Afgørelse af Spørgsmaalet om<lb />
-Procesreformens Gennemførelse og fore-<lb />
-slaar derfor samtidig med at forelægge<lb />
-Lovforslag om Lønninger til Dommere<lb />
-m. v. i de kollegiale Retter og et delvis<lb />
-nyt Forslag til Lov om Retsafgifter samt<lb />
-et nyt Forslag til Lov om Fordelingen<lb />
-af Udgifterne i Strafferetsplejen i nær-<lb />
-værende Forslag at fastsætte en Termin<lb />
+               <p xml:id="d1e242">
+Regeringen har nu besluttet at søge<lb xml:id="d1e244"/>
+en endelig Afgørelse af Spørgsmaalet om<lb xml:id="d1e246"/>
+Procesreformens Gennemførelse og fore-<lb xml:id="d1e248"/>
+slaar derfor samtidig med at forelægge<lb xml:id="d1e250"/>
+Lovforslag om Lønninger til Dommere<lb xml:id="d1e252"/>
+m. v. i de kollegiale Retter og et delvis<lb xml:id="d1e255"/>
+nyt Forslag til Lov om Retsafgifter samt<lb xml:id="d1e257"/>
+et nyt Forslag til Lov om Fordelingen<lb xml:id="d1e259"/>
+af Udgifterne i Strafferetsplejen i nær-<lb xml:id="d1e261"/>
+værende Forslag at fastsætte en Termin<lb xml:id="d1e263"/>
 for Procesreformens Ikrafttræden.
 </p>
-<p>
-Naar der ikke tillige er udarbejdet<lb />
-noget Lovforslag om den stedlige Politi-<lb />
-styrke i de forskellige Retskredse, beror<lb />
-det paa, at det nuværende kommunale<lb />
-Politi efter Regeringens Formening i det<lb />
-Store og Hele maa siges at have fyldest-<lb />
-gjort alle Krav, der under den nuværende<lb />
-Retsordning med Rimelighed kunne stilles<lb />
-til dette, og at den vedtagne Retsplejelovs<lb />
-Ordning af Forundersøgelsen i Straffesager<lb />
-ikke afviger mere fra den nugældende<lb />
+               <p xml:id="d1e267">
+Naar der ikke tillige er udarbejdet<lb xml:id="d1e269"/>
+noget Lovforslag om den stedlige Politi-<lb xml:id="d1e271"/>
+styrke i de forskellige Retskredse, beror<lb xml:id="d1e273"/>
+det paa, at det nuværende kommunale<lb xml:id="d1e275"/>
+Politi efter Regeringens Formening i det<lb xml:id="d1e277"/>
+Store og Hele maa siges at have fyldest-<lb xml:id="d1e280"/>
+gjort alle Krav, der under den nuværende<lb xml:id="d1e282"/>
+Retsordning med Rimelighed kunne stilles<lb xml:id="d1e284"/>
+til dette, og at den vedtagne Retsplejelovs<lb xml:id="d1e286"/>
+Ordning af Forundersøgelsen i Straffesager<lb xml:id="d1e288"/>
+ikke afviger mere fra den nugældende<lb xml:id="d1e290"/>
 Ordning, end at det nye Statspoliti —
 </p>
-</leftside>
-<rightside>
-<p>
-eventuelt med passende successive Ud-<lb />
-videlser af dets Rammer — maa antages<lb />
-at ville tilfredsstille de forøgede Krav til<lb />
-Politiets Opdagervirksomhed m. v., som<lb />
-Strafferetsplejens Omordning af Hensyn til<lb />
-Retssikkerheden muligvis maatte kræve.<lb />
-Under alle Omstændigheder stiller det sig<lb />
-ikke tvivlsomt for Justitsministeriet, at der<lb />
-ikke bør skrides til en Omdannelse eller<lb />
-Forøgelse af det nuværende Politi, forinden<lb />
-der har været tilstrækkelig Lejlighed til at<lb />
-indhøste Erfaringer om Statspolitiets Be-<lb />
-tydning i Henseende til Retssikkerhedens<lb />
+               <milestone type="leftside" xml:id="endd1e108" prev="startd1e108" n="3071" unit="column"/>
+               <milestone type="rightside" xml:id="startd1e242" next="endd1e242" n="3072" unit="column"/>
+               <p xml:id="d1e297">
+eventuelt med passende successive Ud-<lb xml:id="d1e299"/>
+videlser af dets Rammer — maa antages<lb xml:id="d1e301"/>
+at ville tilfredsstille de forøgede Krav til<lb xml:id="d1e303"/>
+Politiets Opdagervirksomhed m. v., som<lb xml:id="d1e305"/>
+Strafferetsplejens Omordning af Hensyn til<lb xml:id="d1e307"/>
+Retssikkerheden muligvis maatte kræve.<lb xml:id="d1e310"/>
+Under alle Omstændigheder stiller det sig<lb xml:id="d1e312"/>
+ikke tvivlsomt for Justitsministeriet, at der<lb xml:id="d1e314"/>
+ikke bør skrides til en Omdannelse eller<lb xml:id="d1e316"/>
+Forøgelse af det nuværende Politi, forinden<lb xml:id="d1e318"/>
+der har været tilstrækkelig Lejlighed til at<lb xml:id="d1e320"/>
+indhøste Erfaringer om Statspolitiets Be-<lb xml:id="d1e323"/>
+tydning i Henseende til Retssikkerhedens<lb xml:id="d1e325"/>
 Opretholdelse.
 </p>
-<p>
-Saafremt alle de ovennævnte Love<lb />
-gennemføres, vil Vejen være banet for den<lb />
-store Reforms Indførelse i en bestemt<lb />
+               <p xml:id="d1e328">
+Saafremt alle de ovennævnte Love<lb xml:id="d1e330"/>
+gennemføres, vil Vejen være banet for den<lb xml:id="d1e332"/>
+store Reforms Indførelse i en bestemt<lb xml:id="d1e334"/>
 nærmere Fremtid.
 </p>
-<p>
-Inden Forelæggelsen af nærværende<lb />
-Lovforslag for Rigsdagen har Justitsmini-<lb />
-steriet imidlertid anset det for magtpaa-<lb />
-liggende saa vidt efter Omstændighederne<lb />
-gørligt at tilvejebringe Grundlaget for et<lb />
-paa kalkulatoriske Beregninger bygget Skøn<lb />
-over. hvilke Forandringer den samlede<lb />
-Procesreform kan antages at ville medføre<lb />
-i Justitsministeriets Budget paa de aarlige<lb />
-Finanslove. Som et Bidrag hertil har man<lb />
-anmodet samtlige Justitiarier i de kollegi-<lb />
-ale Retter (Højesteret, den kgl. Landsover-<lb />
-samt Hof- og Stadsret, Viborg Overret,<lb />
-Kriminal- og Politiretten og Sø- og Han-<lb />
-delsretten i København) om Oplysninger<lb />
-angaaende Arten og Størrelsen af det<lb />
-Personale, der efter deres Formening vil<lb />
-udkræves til at gøre Tjeneste paa de for-<lb />
-skellige Retters Kontorer under den nye<lb />
-Ordning, og om den sandsynlige aarlige<lb />
-Udgift hertil samt til Kontorhold m. v.<lb />
-for de paagæidende Retter. Paa Basis af<lb />
-de saaledes modtagne Oplysninger er der<lb />
-derefter under Hensyn til Lønsatserne i<lb />
-det samtidig forelagte Lovforslag om Løn-<lb />
-ninger for Embeds- og Bestillingsmænd<lb />
-ved de kollegiale Retter udregnet, hvilken<lb />
-Difference de paagældende Konti paa Bud-<lb />
-gettet maa antages at ville udvise efter<lb />
-Retsreformens Ikrafttræden. Det er der-<lb />
-hos ogsaa paa andre Punkter forsøgt at<lb />
-uddybe og korrigere de tidligere foretagne<lb />
-skønsmæssige Beregninger over Størrelsen<lb />
-af de nye Udgifter, som Retsplejeloven<lb />
-maa antages at ville medføre for Stats-<lb />
-kassen. En samlet Oversigt over de Æn-<lb />
-dringer paa Ministeriets Budget, som Proces-<lb />
-reformen efter de saaledes foretagne Ud-<lb />
-regninger kan antages at ville bevirke, er<lb />
-givet paa det vedhæftede Bilag, men det<lb />
-maa herved paany betones, at en saadan<lb />
+               <p xml:id="d1e337">
+Inden Forelæggelsen af nærværende<lb xml:id="d1e339"/>
+Lovforslag for Rigsdagen har Justitsmini-<lb xml:id="d1e341"/>
+steriet imidlertid anset det for magtpaa-<lb xml:id="d1e343"/>
+liggende saa vidt efter Omstændighederne<lb xml:id="d1e345"/>
+gørligt at tilvejebringe Grundlaget for et<lb xml:id="d1e347"/>
+paa kalkulatoriske Beregninger bygget Skøn<lb xml:id="d1e350"/>
+over. hvilke Forandringer den samlede<lb xml:id="d1e352"/>
+Procesreform kan antages at ville medføre<lb xml:id="d1e354"/>
+i Justitsministeriets Budget paa de aarlige<lb xml:id="d1e356"/>
+Finanslove. Som et Bidrag hertil har man<lb xml:id="d1e358"/>
+anmodet samtlige Justitiarier i de kollegi-<lb xml:id="d1e360"/>
+ale Retter (Højesteret, den kgl. Landsover-<lb xml:id="d1e363"/>
+samt Hof- og Stadsret, Viborg Overret,<lb xml:id="d1e365"/>
+Kriminal- og Politiretten og Sø- og Han-<lb xml:id="d1e367"/>
+delsretten i København) om Oplysninger<lb xml:id="d1e369"/>
+angaaende Arten og Størrelsen af det<lb xml:id="d1e371"/>
+Personale, der efter deres Formening vil<lb xml:id="d1e373"/>
+udkræves til at gøre Tjeneste paa de for-<lb xml:id="d1e376"/>
+skellige Retters Kontorer under den nye<lb xml:id="d1e378"/>
+Ordning, og om den sandsynlige aarlige<lb xml:id="d1e380"/>
+Udgift hertil samt til Kontorhold m. v.<lb xml:id="d1e382"/>
+for de paagæidende Retter. Paa Basis af<lb xml:id="d1e384"/>
+de saaledes modtagne Oplysninger er der<lb xml:id="d1e386"/>
+derefter under Hensyn til Lønsatserne i<lb xml:id="d1e389"/>
+det samtidig forelagte Lovforslag om Løn-<lb xml:id="d1e391"/>
+ninger for Embeds- og Bestillingsmænd<lb xml:id="d1e393"/>
+ved de kollegiale Retter udregnet, hvilken<lb xml:id="d1e395"/>
+Difference de paagældende Konti paa Bud-<lb xml:id="d1e397"/>
+gettet maa antages at ville udvise efter<lb xml:id="d1e399"/>
+Retsreformens Ikrafttræden. Det er der-<lb xml:id="d1e402"/>
+hos ogsaa paa andre Punkter forsøgt at<lb xml:id="d1e404"/>
+uddybe og korrigere de tidligere foretagne<lb xml:id="d1e406"/>
+skønsmæssige Beregninger over Størrelsen<lb xml:id="d1e408"/>
+af de nye Udgifter, som Retsplejeloven<lb xml:id="d1e410"/>
+maa antages at ville medføre for Stats-<lb xml:id="d1e412"/>
+kassen. En samlet Oversigt over de Æn-<lb xml:id="d1e415"/>
+dringer paa Ministeriets Budget, som Proces-<lb xml:id="d1e417"/>
+reformen efter de saaledes foretagne Ud-<lb xml:id="d1e419"/>
+regninger kan antages at ville bevirke, er<lb xml:id="d1e421"/>
+givet paa det vedhæftede Bilag, men det<lb xml:id="d1e423"/>
+maa herved paany betones, at en saadan<lb xml:id="d1e425"/>
 skønsmæssig Opgørelse efter Beskaffenheden
 </p>
-</rightside></div><?page  r22_00003_rigsdagtid_a_1912_13 ?>
-<div type='page-placeholder'><h>
-<coll>
-3073</coll>
-<topmidle>Tillæg A. (193).	Ordentlig Samling 1912—13.</topmidle>
-<topmidle>F. t. L. om Gennemførelse af L. om Rettens Pleje af 26. Marts 1909.</topmidle>
-<colr>3074</colr>
-</h>
-<leftside>
-<p>
-af mange af de paagældende nye Udgifter<lb />
-ikke lader sig opstille paa en saadan Maade,<lb />
-at den kan gøre Krav paa nogen virkelig<lb />
-Paalidelighed, idet kun Erfaringen vil<lb />
-være i Stand til at give bestemt Oplysning<lb />
-i saa Henseende. Der kan herved hen-<lb />
-vises til en Afhandling i Ugeskrift for<lb />
-Retsvæsen 1910 B p. 250, hvis Beregninger<lb />
-ere betydelig gunstigere for Statskassen<lb />
-end de i Bilaget til nærværende Lovfor-<lb />
-slag foretagne. Med Hensyn til Forde-<lb />
-lingen af Omkostningerne mellem Staten<lb />
-og Kommunerne forudsætter Oversigten<lb />
-den i det ovennævnte Lovforslag om Ud-<lb />
-gifterne i Strafferetsplejen foreslaaede Ord-<lb />
-ning, for hvilken der nærmere er gjort<lb />
+               <milestone type="rightside" xml:id="endd1e242" prev="startd1e242" n="3072" unit="column"/>
+               <pb xml:id="idr22_00003_rigsdagtid_a_1912_13" facs="r22_00003_rigsdagtid_a_1912_13" n=""/>
+               <fw xml:id="d1e433" type="head" place="top-left">
+3073</fw>
+               <fw xml:id="d1e436" type="head" place="top-middle">Tillæg A. (193).	Ordentlig Samling 1912—13. F. t. L. om Gennemførelse af L. om Rettens Pleje af 26. Marts 1909.</fw>
+               <fw xml:id="d1e439" type="head" place="top-right">3074</fw>
+               <milestone type="leftside" xml:id="startd1e389" next="endd1e389" n="3073" unit="column"/>
+               <p xml:id="d1e445">
+af mange af de paagældende nye Udgifter<lb xml:id="d1e447"/>
+ikke lader sig opstille paa en saadan Maade,<lb xml:id="d1e449"/>
+at den kan gøre Krav paa nogen virkelig<lb xml:id="d1e451"/>
+Paalidelighed, idet kun Erfaringen vil<lb xml:id="d1e453"/>
+være i Stand til at give bestemt Oplysning<lb xml:id="d1e455"/>
+i saa Henseende. Der kan herved hen-<lb xml:id="d1e458"/>
+vises til en Afhandling i Ugeskrift for<lb xml:id="d1e460"/>
+Retsvæsen 1910 B p. 250, hvis Beregninger<lb xml:id="d1e462"/>
+ere betydelig gunstigere for Statskassen<lb xml:id="d1e464"/>
+end de i Bilaget til nærværende Lovfor-<lb xml:id="d1e466"/>
+slag foretagne. Med Hensyn til Forde-<lb xml:id="d1e468"/>
+lingen af Omkostningerne mellem Staten<lb xml:id="d1e471"/>
+og Kommunerne forudsætter Oversigten<lb xml:id="d1e473"/>
+den i det ovennævnte Lovforslag om Ud-<lb xml:id="d1e475"/>
+gifterne i Strafferetsplejen foreslaaede Ord-<lb xml:id="d1e477"/>
+ning, for hvilken der nærmere er gjort<lb xml:id="d1e479"/>
 Rede i Motiverne til dette Forslag.
 </p>
-<p>
-Angaaende Størrelsen og Udredelsen<lb />
-af de Udgifter én Gang for alle, som<lb />
-Procesreformen vil medføre, forbeholder<lb />
-Regeringen sig at fremkomme med nær-<lb />
-mere Forslag, naar det i saa Henseende<lb />
-fornødne Materiale er tilvejebragt. Der<lb />
-føres for Tiden Underhandlinger med Kø-<lb />
-benhavns Magistrat om Ordningen med<lb />
-Hensyn til Rets- og Politilokalerne i Kø-<lb />
-benhavn; saafremt disse Forhandlinger føre<lb />
-til det Resultat, som et af Justitsministeriet<lb />
-fremsat Forslag tager Sigte paa, vil det<lb />
+               <p xml:id="d1e482">
+Angaaende Størrelsen og Udredelsen<lb xml:id="d1e484"/>
+af de Udgifter én Gang for alle, som<lb xml:id="d1e486"/>
+Procesreformen vil medføre, forbeholder<lb xml:id="d1e488"/>
+Regeringen sig at fremkomme med nær-<lb xml:id="d1e490"/>
+mere Forslag, naar det i saa Henseende<lb xml:id="d1e492"/>
+fornødne Materiale er tilvejebragt. Der<lb xml:id="d1e495"/>
+føres for Tiden Underhandlinger med Kø-<lb xml:id="d1e497"/>
+benhavns Magistrat om Ordningen med<lb xml:id="d1e499"/>
+Hensyn til Rets- og Politilokalerne i Kø-<lb xml:id="d1e501"/>
+benhavn; saafremt disse Forhandlinger føre<lb xml:id="d1e503"/>
+til det Resultat, som et af Justitsministeriet<lb xml:id="d1e505"/>
+fremsat Forslag tager Sigte paa, vil det<lb xml:id="d1e508"/>
 kunne paaregnes, at Udgiften en Gang for
 </p>
-</leftside>
-<rightside>
-<p>
-alle til Tilvejbringelse af Retslokaler i og<lb />
-udenfor København vil andrage omkring<lb />
-2 Millioner Kroner. Til Dækning heraf vil<lb />
-der imidlertid kunne ydes et Tilskud af en<lb />
-halv Million Kroner fra Politikasserne, og<lb />
-det øvrige Beløb vil komme til Udgift i<lb />
-Tiden inden Retsplejelovens Ikrafttræden<lb />
-med aarlige Beløb, der ikke ville overstige<lb />
-det, som selve Procesreformen aarlig vil<lb />
+               <milestone type="leftside" xml:id="endd1e389" prev="startd1e389" n="3073" unit="column"/>
+               <milestone type="rightside" xml:id="startd1e458" next="endd1e458" n="3074" unit="column"/>
+               <p xml:id="d1e515">
+alle til Tilvejbringelse af Retslokaler i og<lb xml:id="d1e517"/>
+udenfor København vil andrage omkring<lb xml:id="d1e519"/>
+2 Millioner Kroner. Til Dækning heraf vil<lb xml:id="d1e521"/>
+der imidlertid kunne ydes et Tilskud af en<lb xml:id="d1e523"/>
+halv Million Kroner fra Politikasserne, og<lb xml:id="d1e525"/>
+det øvrige Beløb vil komme til Udgift i<lb xml:id="d1e528"/>
+Tiden inden Retsplejelovens Ikrafttræden<lb xml:id="d1e530"/>
+med aarlige Beløb, der ikke ville overstige<lb xml:id="d1e532"/>
+det, som selve Procesreformen aarlig vil<lb xml:id="d1e534"/>
 medføre efter dens Ikrafttræden.
 </p>
-<p>
-I den første Tid efter Retsplejelovens<lb />
-Ikrafttræden vil der komme til at paahvile<lb />
-Dommerne et stort Arbejde med Indarbej-<lb />
-delsen af det nye Processystem; ved Siden<lb />
-heraf ville de imidlertid have at tilende-<lb />
-bringe Behandlingen af ældre Retssager<lb />
-efter den nuværende Procesmaade. Det vil<lb />
-derfor kunne være af stor Betydning for<lb />
-Arbejdets Fremme ved de kollegiale Retter<lb />
-saavel, at der i den nærmeste Tid efter<lb />
-Retsplejelovens Ikrafttræden kan haves pas-<lb />
-sende Assistance til Raadighed ved Doms-<lb />
-sagernes Behandling efter to forskellige<lb />
-Systemer, som ogsaa at de ældre Sager ved<lb />
-Lovens Ikrafttræden ere tilendebragte i saa<lb />
-stort Omfang som muligt. Af Hensyn hertil<lb />
-foreslaas det at give Justitsministeriet den<lb />
-i 3die Stykke omhandlede Bemyndigelse<lb />
-til Konstitutioner i de kollegiale Retter i<lb />
+               <p xml:id="d1e537">
+I den første Tid efter Retsplejelovens<lb xml:id="d1e539"/>
+Ikrafttræden vil der komme til at paahvile<lb xml:id="d1e541"/>
+Dommerne et stort Arbejde med Indarbej-<lb xml:id="d1e543"/>
+delsen af det nye Processystem; ved Siden<lb xml:id="d1e545"/>
+heraf ville de imidlertid have at tilende-<lb xml:id="d1e547"/>
+bringe Behandlingen af ældre Retssager<lb xml:id="d1e550"/>
+efter den nuværende Procesmaade. Det vil<lb xml:id="d1e552"/>
+derfor kunne være af stor Betydning for<lb xml:id="d1e554"/>
+Arbejdets Fremme ved de kollegiale Retter<lb xml:id="d1e556"/>
+saavel, at der i den nærmeste Tid efter<lb xml:id="d1e558"/>
+Retsplejelovens Ikrafttræden kan haves pas-<lb xml:id="d1e560"/>
+sende Assistance til Raadighed ved Doms-<lb xml:id="d1e563"/>
+sagernes Behandling efter to forskellige<lb xml:id="d1e565"/>
+Systemer, som ogsaa at de ældre Sager ved<lb xml:id="d1e567"/>
+Lovens Ikrafttræden ere tilendebragte i saa<lb xml:id="d1e569"/>
+stort Omfang som muligt. Af Hensyn hertil<lb xml:id="d1e571"/>
+foreslaas det at give Justitsministeriet den<lb xml:id="d1e573"/>
+i 3die Stykke omhandlede Bemyndigelse<lb xml:id="d1e576"/>
+til Konstitutioner i de kollegiale Retter i<lb xml:id="d1e578"/>
 Overgangstiden.
 </p>
-</rightside>
-<p>
+               <milestone type="rightside" xml:id="endd1e458" prev="startd1e458" n="3074" unit="column"/>
+               <p xml:id="d1e584">
 Forelagte Lovforslag m. m.  193
-</p></div><?page  r22_00004_rigsdagtid_a_1912_13 ?>
-<div type='page-placeholder'><h>
-<coll>
-3075</coll>
-<topmidle>Bilag til F. t. L. om Gennemførelse af L. om  Rettens Pleje af 26. Marts 1909.</topmidle>
-<colr>3076</colr>
-</h>
-<p>
+</p>
+               <pb xml:id="idr22_00004_rigsdagtid_a_1912_13" facs="r22_00004_rigsdagtid_a_1912_13" n=""/>
+               <fw xml:id="d1e588" type="head" place="top-left">
+3075</fw>
+               <fw xml:id="d1e591" type="head" place="top-middle">Bilag til F. t. L. om Gennemførelse af L. om  Rettens Pleje af 26. Marts 1909.</fw>
+               <fw xml:id="d1e594" type="head" place="top-right">3076</fw>
+               <p xml:id="d1e598">
 Bilag.
 </p>
-<p>
-Kalkulatorisk Oversigt<lb />
-over<lb />
-den aarlige Udgiftsforøgelse, som Procesreformens Gennemførelse kan antages<lb />
+               <p xml:id="d1e600">
+Kalkulatorisk Oversigt<lb xml:id="d1e602"/>
+over<lb xml:id="d1e604"/>
+den aarlige Udgiftsforøgelse, som Procesreformens Gennemførelse kan antages<lb xml:id="d1e606"/>
 at ville medføre paa Justitsministeriets Budget.
 </p>
-<p>
+               <p xml:id="d1e609">
 1.	Højesteret (Finanslovens § 17 A. II. A. 1.).
 </p>
-<p>
-a-b. Medens Udgiften til Dommernes Lønninger efter Indholdet Kr.	Kr.<lb />
-af det af Regeringen forelagte Lønningsforslag maa an-<lb />
-tages efter Procesreformens Ikrafttræden at ville blive om-<lb />
-trent den samme som nu, vil Lønningsudgiften til Rettens<lb />
-øvrige Embedsmænd, der i Henhold til Retsplejelovens § 3<lb />
+               <p xml:id="d1e611">
+a-b. Medens Udgiften til Dommernes Lønninger efter Indholdet Kr.	Kr.<lb xml:id="d1e613"/>
+af det af Regeringen forelagte Lønningsforslag maa an-<lb xml:id="d1e615"/>
+tages efter Procesreformens Ikrafttræden at ville blive om-<lb xml:id="d1e617"/>
+trent den samme som nu, vil Lønningsudgiften til Rettens<lb xml:id="d1e619"/>
+øvrige Embedsmænd, der i Henhold til Retsplejelovens § 3<lb xml:id="d1e621"/>
 forøges med en Fuldmægtig, formentlig stige med	ca. 3,900
 </p>
-<p>
-c. Rettens Medhjælpssum maa, idet Retsplejeloven ifølge Op-<lb />
-givelse fra Rettens Kontor antages at ville medføre en<lb />
-saadan Stigning af Kontorarbejdet ved Retten, at der bl. a.<lb />
-vil behøves 1 Skriver mere end nu. antages at ville forøges<lb />
+               <p xml:id="d1e624">
+c. Rettens Medhjælpssum maa, idet Retsplejeloven ifølge Op-<lb xml:id="d1e626"/>
+givelse fra Rettens Kontor antages at ville medføre en<lb xml:id="d1e628"/>
+saadan Stigning af Kontorarbejdet ved Retten, at der bl. a.<lb xml:id="d1e630"/>
+vil behøves 1 Skriver mere end nu. antages at ville forøges<lb xml:id="d1e632"/>
 med			ca. 1,600
 </p>
-<p>
+               <p xml:id="d1e635">
 2.	Landsover- samt Hof- og Stadsretten (§17 A. II. B.).
 </p>
-<p>
-Efter Retsplejelovens Ikrafttræden vil denne Konto natur-<lb />
-ligst blive at overføre paa Østre Landsret. Den sandsynlige<lb />
-Størrelse af'Udgifterne til Lønninger og Medhjælp ved denne<lb />
-Ret kan ifølge Opgivelse fra Rettens Justitiarius og under<lb />
-Hensyn til de i det forelagte Lønningsforslag for Landsdom-<lb />
-merne fastsatte Lønninger	Kr.<lb />
-anslaas til	ca. 225,000<lb />
-altsaa	ca. 175,000<lb />
-mindre end den nuværende Udgift (jfr. Statsregnskabet for<lb />
+               <p xml:id="d1e638">
+Efter Retsplejelovens Ikrafttræden vil denne Konto natur-<lb xml:id="d1e640"/>
+ligst blive at overføre paa Østre Landsret. Den sandsynlige<lb xml:id="d1e642"/>
+Størrelse af'Udgifterne til Lønninger og Medhjælp ved denne<lb xml:id="d1e644"/>
+Ret kan ifølge Opgivelse fra Rettens Justitiarius og under<lb xml:id="d1e646"/>
+Hensyn til de i det forelagte Lønningsforslag for Landsdom-<lb xml:id="d1e648"/>
+merne fastsatte Lønninger	Kr.<lb xml:id="d1e651"/>
+anslaas til	ca. 225,000<lb xml:id="d1e653"/>
+altsaa	ca. 175,000<lb xml:id="d1e655"/>
+mindre end den nuværende Udgift (jfr. Statsregnskabet for<lb xml:id="d1e657"/>
 Finansaaret 1910—11)	.				-	 175,000
 </p>
-<p>
+               <p xml:id="d1e660">
 3.	Landsoverretten i Viborg (§ 17 A. II. C.).
 </p>
-<p>
-Denne Rets Konto vil komme til at angaa Vestre Landsret.<lb />
-Angaaende den sandsynlige Størrelse af Udgifterne ved Retten<lb />
+               <p xml:id="d1e662">
+Denne Rets Konto vil komme til at angaa Vestre Landsret.<lb xml:id="d1e664"/>
+Angaaende den sandsynlige Størrelse af Udgifterne ved Retten<lb xml:id="d1e666"/>
 bemærkes følgende:
 </p>
-<p>
-1—2. Størrelsen af de aarlige Udgifter til Lønninger og<lb />
-Medhjælp samt Kontorholdsudgifter kan, ifølge Opgivelse fra<lb />
-Justitiarius og under Hensyn til de for Landsdommerne<lb />
+               <p xml:id="d1e669">
+1—2. Størrelsen af de aarlige Udgifter til Lønninger og<lb xml:id="d1e671"/>
+Medhjælp samt Kontorholdsudgifter kan, ifølge Opgivelse fra<lb xml:id="d1e673"/>
+Justitiarius og under Hensyn til de for Landsdommerne<lb xml:id="d1e675"/>
 foreslaaede Lønninger, antages at ville forøges med	ca. 53,000
 </p>
-<p>
+               <p xml:id="d1e678">
 At overføre... 58.500 - 175,000
-</p></div><?page  r22_00005_rigsdagtid_a_1912_13 ?>
-<div type='page-placeholder'><h>
-<coll>
-3077</coll>
-<topmidle>Bilag til F. t. L. om Gennemførelse af L. om Rettens Pleje af 26. Marts 1909.</topmidle>
-<colr>3078</colr>
-</h>
-<p>
-Kr.	Kr.<lb />
+</p>
+               <pb xml:id="idr22_00005_rigsdagtid_a_1912_13" facs="r22_00005_rigsdagtid_a_1912_13" n=""/>
+               <fw xml:id="d1e683" type="head" place="top-left">
+3077</fw>
+               <fw xml:id="d1e686" type="head" place="top-middle">Bilag til F. t. L. om Gennemførelse af L. om Rettens Pleje af 26. Marts 1909.</fw>
+               <fw xml:id="d1e689" type="head" place="top-right">3078</fw>
+               <p xml:id="d1e692">
+Kr.	Kr.<lb xml:id="d1e694"/>
 Overført... 58,500 -r 175,000
 </p>
-<p>
+               <p xml:id="d1e697">
 4.	Kriminal- og Politiretten i København (§ 17 A. II. D.).
 </p>
-<p>
-Efter Retsplejelovens Ikrafttræden vil denne Konto komme<lb />
-til at angaa Københavns Byret. Idet bemærkes, at denne<lb />
-Ret som Underret for Hovedstaden i baade civile og krimi-<lb />
-nelle Sager m. v. vil komme til at overtage en betydelig Del<lb />
-af de Landsover- samt Hof- og Stadsretten nu paahvilende<lb />
-Forretninger, kunne de aarlige Udgifter ifølge Opgivelse fra<lb />
-Justitiarius og under Hensyn til de for Byretsdommerne fore-<lb />
+               <p xml:id="d1e699">
+Efter Retsplejelovens Ikrafttræden vil denne Konto komme<lb xml:id="d1e701"/>
+til at angaa Københavns Byret. Idet bemærkes, at denne<lb xml:id="d1e703"/>
+Ret som Underret for Hovedstaden i baade civile og krimi-<lb xml:id="d1e705"/>
+nelle Sager m. v. vil komme til at overtage en betydelig Del<lb xml:id="d1e707"/>
+af de Landsover- samt Hof- og Stadsretten nu paahvilende<lb xml:id="d1e709"/>
+Forretninger, kunne de aarlige Udgifter ifølge Opgivelse fra<lb xml:id="d1e712"/>
+Justitiarius og under Hensyn til de for Byretsdommerne fore-<lb xml:id="d1e714"/>
 slaaede Lønningssatser formentlig anslaas saaledes: Kr.
 </p>
-<p>
+               <p xml:id="d1e718">
 1.	Til Lønninger	ca. 390,000
 </p>
-<p>
+               <p xml:id="d1e720">
 2.	Medhjælp	ca. 123,000
 </p>
-<p>
-3.	a. og b. Lønning og Medhjælp for Notarial-<lb />
+               <p xml:id="d1e722">
+3.	a. og b. Lønning og Medhjælp for Notarial-<lb xml:id="d1e724"/>
 kontoret				 23,000
 </p>
-<p>
-4.	Leje bl. a. af Lokaler for Notarialkontoret, for<lb />
-hvilket Kontor der foreløbig ikke skønnes<lb />
-at kunne blive Plads i Domhusbygningen paa<lb />
+               <p xml:id="d1e727">
+4.	Leje bl. a. af Lokaler for Notarialkontoret, for<lb xml:id="d1e729"/>
+hvilket Kontor der foreløbig ikke skønnes<lb xml:id="d1e731"/>
+at kunne blive Plads i Domhusbygningen paa<lb xml:id="d1e733"/>
 Nytorv		 4,000
 </p>
-<p>
+               <p xml:id="d1e736">
 Ialt... ca. 540,000
 </p>
-<p>
-altsaa en Stigning af	ca. 337.000<lb />
+               <p xml:id="d1e738">
+altsaa en Stigning af	ca. 337.000<lb xml:id="d1e740"/>
 jfr. Statsregnskabet for 1910—11.
 </p>
-<p>
-5.	Sø- og Handelsretten i København (§17 A. II. E.).<lb />
-Med Bemærkning, at Retsplejelovens § 9 vil medføre, at<lb />
-der bliver at ansætte en selvstændig Næstformand ved denne<lb />
-Ret. kunne de forskellige Konti paaregnes at ville forøges<lb />
+               <p xml:id="d1e744">
+5.	Sø- og Handelsretten i København (§17 A. II. E.).<lb xml:id="d1e746"/>
+Med Bemærkning, at Retsplejelovens § 9 vil medføre, at<lb xml:id="d1e748"/>
+der bliver at ansætte en selvstændig Næstformand ved denne<lb xml:id="d1e750"/>
+Ret. kunne de forskellige Konti paaregnes at ville forøges<lb xml:id="d1e752"/>
 med ialt				ca. 7,000
 </p>
-<p>
+               <p xml:id="d1e755">
 6.	Retsbetjente med fast Lønning (§ 17 A. II. G.).
 </p>
-<p>
-Idet der formentlig maa regnes med, at den mundtlige<lb />
-Retspleje vil lægge mere Beslag paa Dommerens Tid end<lb />
-den nuværende Procesmaade, vil det, uanset at Underrets-<lb />
-dommerne som Regel ville blive fritagne for at paadømme<lb />
-civile Sager, der angaar en større Værdi end 300 Kr., næppe<lb />
-kunne undgaas at forøge Kontorholdet for de større Under-<lb />
-dommerembeder, jfr. nærmere Underbilaget. Paa den anden<lb />
-Side vil Oprettelsen af de 4 nedenfor nævnte særlige Politi-<lb />
-mesterembeder medføre en Besparelse af Kontorholdsudgiften<lb />
-til de respektive Underdommerembeder. ligesom den even-<lb />
-tuelle Gennemførelse af Regeringsforslaget om folkevalgte<lb />
-Byraadsformænd antagelig vil kunne bevirke en Reduktion<lb />
-af Kontorholdsudgiften til de paagældende Underdommer-<lb />
-embeder. Under Hensyn til det saaledes anførte samt til,<lb />
-at der ogsaa vil blive at udrede Lønninger til de i Rets-<lb />
-plejelovens § 57. 2. Stk., nævnte Retsbude ved Underretterne,<lb />
-jfr. nærmere Underbilaget, kan den sandsynlige aarlige Ud-<lb />
-giftsforøgelse, som Procesreformen vil medføre paa denne i<lb />
+               <p xml:id="d1e757">
+Idet der formentlig maa regnes med, at den mundtlige<lb xml:id="d1e759"/>
+Retspleje vil lægge mere Beslag paa Dommerens Tid end<lb xml:id="d1e761"/>
+den nuværende Procesmaade, vil det, uanset at Underrets-<lb xml:id="d1e763"/>
+dommerne som Regel ville blive fritagne for at paadømme<lb xml:id="d1e765"/>
+civile Sager, der angaar en større Værdi end 300 Kr., næppe<lb xml:id="d1e767"/>
+kunne undgaas at forøge Kontorholdet for de større Under-<lb xml:id="d1e770"/>
+dommerembeder, jfr. nærmere Underbilaget. Paa den anden<lb xml:id="d1e772"/>
+Side vil Oprettelsen af de 4 nedenfor nævnte særlige Politi-<lb xml:id="d1e774"/>
+mesterembeder medføre en Besparelse af Kontorholdsudgiften<lb xml:id="d1e776"/>
+til de respektive Underdommerembeder. ligesom den even-<lb xml:id="d1e778"/>
+tuelle Gennemførelse af Regeringsforslaget om folkevalgte<lb xml:id="d1e780"/>
+Byraadsformænd antagelig vil kunne bevirke en Reduktion<lb xml:id="d1e783"/>
+af Kontorholdsudgiften til de paagældende Underdommer-<lb xml:id="d1e785"/>
+embeder. Under Hensyn til det saaledes anførte samt til,<lb xml:id="d1e787"/>
+at der ogsaa vil blive at udrede Lønninger til de i Rets-<lb xml:id="d1e789"/>
+plejelovens § 57. 2. Stk., nævnte Retsbude ved Underretterne,<lb xml:id="d1e791"/>
+jfr. nærmere Underbilaget, kan den sandsynlige aarlige Ud-<lb xml:id="d1e793"/>
+giftsforøgelse, som Procesreformen vil medføre paa denne i<lb xml:id="d1e796"/>
 sig selv stedse stigende Udgiftskonto, maaske anslaas til	ca. 125,000
 </p>
-<p>
-7.	Forskellige Udgifter ved Retterne (§17 A. II. H.).<lb />
-Det er sandsynligt, at Procesreformens Gennemførelse vil<lb />
-medføre Ændringer i den mellem Staten og Københavns<lb />
-Kommune trufne Overenskomst om Fordelingen af Udgifterne<lb />
+               <p xml:id="d1e799">
+7.	Forskellige Udgifter ved Retterne (§17 A. II. H.).<lb xml:id="d1e801"/>
+Det er sandsynligt, at Procesreformens Gennemførelse vil<lb xml:id="d1e803"/>
+medføre Ændringer i den mellem Staten og Københavns<lb xml:id="d1e805"/>
+Kommune trufne Overenskomst om Fordelingen af Udgifterne<lb xml:id="d1e807"/>
 til Vedligeholdelse og Drift af det gamle Raad- og Domhus,
 </p>
-<p>
-527,500<lb />
+               <p xml:id="d1e810">
+527,500<lb xml:id="d1e812"/>
 175.000
 </p>
-<p>
+               <p xml:id="d1e815">
 At overføre... 352,500
-</p></div><?page  r22_00006_rigsdagtid_a_1912_13 ?>
-<div type='page-placeholder'><h>
-<coll>
-3079</coll>
-<topmidle>Bilag til F. t. L. om Gennemførelse af L. om Rettens Pleje af 26. Marts 1909.</topmidle>
-<colr>3080</colr>
-</h>
-<p>
-Kr.<lb />
+</p>
+               <pb xml:id="idr22_00006_rigsdagtid_a_1912_13" facs="r22_00006_rigsdagtid_a_1912_13" n=""/>
+               <fw xml:id="d1e820" type="head" place="top-left">
+3079</fw>
+               <fw xml:id="d1e823" type="head" place="top-middle">Bilag til F. t. L. om Gennemførelse af L. om Rettens Pleje af 26. Marts 1909.</fw>
+               <fw xml:id="d1e826" type="head" place="top-right">3080</fw>
+               <p xml:id="d1e829">
+Kr.<lb xml:id="d1e831"/>
 Overført... 352,500
 </p>
-<p>
-hvorved Statens aarlige Udgift paa Konto Nr. 1 og 4, der<lb />
-for Tiden beløber sig til ca. 15,000 Kr., nærmest rnaa antages<lb />
-at ville stige. Paa nærværende Tidspunkt lader sig dog intet<lb />
-bestemt udsige herom. Stigningen kan ikke antages at ville<lb />
+               <p xml:id="d1e834">
+hvorved Statens aarlige Udgift paa Konto Nr. 1 og 4, der<lb xml:id="d1e836"/>
+for Tiden beløber sig til ca. 15,000 Kr., nærmest rnaa antages<lb xml:id="d1e838"/>
+at ville stige. Paa nærværende Tidspunkt lader sig dog intet<lb xml:id="d1e840"/>
+bestemt udsige herom. Stigningen kan ikke antages at ville<lb xml:id="d1e842"/>
 overskride							 ca. 10,000
 </p>
-<p>
-8.	(§17 A. II. I. nyt Nr.). Udgiften til Lønninger og Kontor-<lb />
-hold til de i Retsplejelovens § 22 omhandlede nye Politi-<lb />
-mesterembeder, der for Tiden ville blive 4, nemlig i 1) Frede-<lb />
-riksberg Birk. 2) Nordre Birk, 3) Odense og 4) Aarhus, kan<lb />
+               <p xml:id="d1e846">
+8.	(§17 A. II. I. nyt Nr.). Udgiften til Lønninger og Kontor-<lb xml:id="d1e848"/>
+hold til de i Retsplejelovens § 22 omhandlede nye Politi-<lb xml:id="d1e850"/>
+mesterembeder, der for Tiden ville blive 4, nemlig i 1) Frede-<lb xml:id="d1e852"/>
+riksberg Birk. 2) Nordre Birk, 3) Odense og 4) Aarhus, kan<lb xml:id="d1e854"/>
 formentlig anslaas til	ca. 50,000
 </p>
-<p>
+               <p xml:id="d1e857">
 9.	Erstatninger for uforskyldt Varetægtsfængsel (§ 17 A. II. K. 7).
 </p>
-<p>
-Da Reglerne i Retsplejelovens §§ 761 og 775 hjemle Erstat-<lb />
-ning i større Omfang end den nugældende Lov af 5. April<lb />
-1888, maa denne Konto efter Proceslovens Ikrafttræden for-<lb />
+               <p xml:id="d1e859">
+Da Reglerne i Retsplejelovens §§ 761 og 775 hjemle Erstat-<lb xml:id="d1e861"/>
+ning i større Omfang end den nugældende Lov af 5. April<lb xml:id="d1e863"/>
+1888, maa denne Konto efter Proceslovens Ikrafttræden for-<lb xml:id="d1e865"/>
 mentlig forhøjes med	ca. 4,000
 </p>
-<p>
-10.	Da Københavns Forligskommission efter Retsplejelovens Ikraft-<lb />
-træden ikke længere som nu vil komme til at staa i For-<lb />
-bindelse med en af de københavnske Retter, jfr. Retspleje-<lb />
-lovens § 260, maa der særskilt beregnes Kontorhold for Kom-<lb />
-missionen, hvilken Udgift, naar der gaas ud fra, at Kom-<lb />
-missionen vil kunne faa et Kontorlokale og en Mødesal anvist<lb />
+               <p xml:id="d1e868">
+10.	Da Københavns Forligskommission efter Retsplejelovens Ikraft-<lb xml:id="d1e870"/>
+træden ikke længere som nu vil komme til at staa i For-<lb xml:id="d1e872"/>
+bindelse med en af de københavnske Retter, jfr. Retspleje-<lb xml:id="d1e874"/>
+lovens § 260, maa der særskilt beregnes Kontorhold for Kom-<lb xml:id="d1e876"/>
+missionen, hvilken Udgift, naar der gaas ud fra, at Kom-<lb xml:id="d1e878"/>
+missionen vil kunne faa et Kontorlokale og en Mødesal anvist<lb xml:id="d1e881"/>
 paa Domhuset, kan beregnes til	ca. 4,000
 </p>
-<p>
-11.	Udgiften til Honorar til offentlige Anklagere maa som Følge<lb />
-af indførelsen af mundtlig Retspleje og delvis umiddelbar<lb />
-Bevisførelse antages at ville stige, hvilken Stigning Stats-<lb />
-kassen formentlig maa bære. Den aarlige Merudgift, for<lb />
-hvis Udregning der dog ganske mangler Holdepunkter, kan<lb />
-maaske anslaas til	ca. 35,000<lb />
+               <p xml:id="d1e884">
+11.	Udgiften til Honorar til offentlige Anklagere maa som Følge<lb xml:id="d1e886"/>
+af indførelsen af mundtlig Retspleje og delvis umiddelbar<lb xml:id="d1e888"/>
+Bevisførelse antages at ville stige, hvilken Stigning Stats-<lb xml:id="d1e890"/>
+kassen formentlig maa bære. Den aarlige Merudgift, for<lb xml:id="d1e892"/>
+hvis Udregning der dog ganske mangler Holdepunkter, kan<lb xml:id="d1e894"/>
+maaske anslaas til	ca. 35,000<lb xml:id="d1e897"/>
 (Ny Konto).
 </p>
-<p>
-12.	Udgiften til offentlige Forsvarere vil ligeledes stige, men i<lb />
-betydeligere Omfang, da Retsplejelovens § 715 indfører Be-<lb />
-skikkelse af Forsvarer i flere Tilfælde end de, hvor offent-<lb />
-lig Anklager beskikkes. Merudgiften, der imidlertid ganske<lb />
-unddrager sig egentlig Beregning, kan maaske anslaas til...ca. 75,000<lb />
+               <p xml:id="d1e900">
+12.	Udgiften til offentlige Forsvarere vil ligeledes stige, men i<lb xml:id="d1e902"/>
+betydeligere Omfang, da Retsplejelovens § 715 indfører Be-<lb xml:id="d1e904"/>
+skikkelse af Forsvarer i flere Tilfælde end de, hvor offent-<lb xml:id="d1e906"/>
+lig Anklager beskikkes. Merudgiften, der imidlertid ganske<lb xml:id="d1e908"/>
+unddrager sig egentlig Beregning, kan maaske anslaas til...ca. 75,000<lb xml:id="d1e910"/>
 (Ny Konto).
 </p>
-<p>
-13.	Udgiften til Honorar til Sagførere for Konsidtationer til<lb />
+               <p xml:id="d1e914">
+13.	Udgiften til Honorar til Sagførere for Konsidtationer til<lb xml:id="d1e916"/>
 Ubemidlede (Retsplejelovens § 122) kan mulig anslaas til. .. ca. 10,000
 </p>
-<p>
-Der udredes for Tiden 5,000 Kr. aarlig som Statsbidrag til<lb />
+               <p xml:id="d1e919">
+Der udredes for Tiden 5,000 Kr. aarlig som Statsbidrag til<lb xml:id="d1e921"/>
 Studentersamfundets Retshjælp, jfr. Finanslovens § 17 A. II. K. 6.
 </p>
-<p>
-Nævningers Medvirken ved Retsplejen i Straffesager vil<lb />
+               <p xml:id="d1e924">
+Nævningers Medvirken ved Retsplejen i Straffesager vil<lb xml:id="d1e926"/>
 derhos yderligere medføre følgende Udgiftsposter:
 </p>
-<p>
-14.	Leje af Lokaler til Nævningeretterne paa de Steder udenfor<lb />
-København og Viborg, hvor disse Retter i Medfør af Rets-<lb />
-plejelovens § 11, 1. Stk., skulle holde Ting. Udgiften an-<lb />
-slaas til	ca. 25,000<lb />
+               <p xml:id="d1e929">
+14.	Leje af Lokaler til Nævningeretterne paa de Steder udenfor<lb xml:id="d1e931"/>
+København og Viborg, hvor disse Retter i Medfør af Rets-<lb xml:id="d1e933"/>
+plejelovens § 11, 1. Stk., skulle holde Ting. Udgiften an-<lb xml:id="d1e935"/>
+slaas til	ca. 25,000<lb xml:id="d1e937"/>
 (§ 17 A. II. H., nyt Nr.).
 </p>
-<p>
+               <p xml:id="d1e940">
 At overføre... 565,500
-</p></div><?page  r22_00007_rigsdagtid_a_1912_13 ?>
-<div type='page-placeholder'><h>
-<coll>
-3081</coll>
-<topmidle>Bilag til F. t. L. om Gennemførelse af L. om Rettens Pleje af 26. Marts 1909.</topmidle>
-<colr>3082</colr>
-</h>
-<p>
-Kr.<lb />
+</p>
+               <pb xml:id="idr22_00007_rigsdagtid_a_1912_13" facs="r22_00007_rigsdagtid_a_1912_13" n=""/>
+               <fw xml:id="d1e945" type="head" place="top-left">
+3081</fw>
+               <fw xml:id="d1e948" type="head" place="top-middle">Bilag til F. t. L. om Gennemførelse af L. om Rettens Pleje af 26. Marts 1909.</fw>
+               <fw xml:id="d1e951" type="head" place="top-right">3082</fw>
+               <p xml:id="d1e954">
+Kr.<lb xml:id="d1e956"/>
 Overført... 565,500
 </p>
-<p>
-15.	Udfærdigelse af Nævningslister	 20,000<lb />
+               <p xml:id="d1e959">
+15.	Udfærdigelse af Nævningslister	 20,000<lb xml:id="d1e961"/>
 (§ 17 A. II. H., nyt Nr.).
 </p>
-<p>
-16.	Diæter og Befordringsudgift til Landsretternes Personale i<lb />
-Nævningesager 	 10,000<lb />
+               <p xml:id="d1e964">
+16.	Diæter og Befordringsudgift til Landsretternes Personale i<lb xml:id="d1e966"/>
+Nævningesager 	 10,000<lb xml:id="d1e968"/>
 (§ 17 A. II. H., nyt Nr.)
 </p>
-<p>
-17.	Diæter og Befordringsudgift til Nævninger (§ 17 A. II. EL,<lb />
+               <p xml:id="d1e972">
+17.	Diæter og Befordringsudgift til Nævninger (§ 17 A. II. EL,<lb xml:id="d1e974"/>
 nyt Nr.).
 </p>
-<p>
-Da Udgiften hertil ikke alene vil afhænge af Nævninge-<lb />
-sagernes Antal — hvorom det paa Forhaand er umuligt at<lb />
-opstille nogen Beregning, fordi det af Retsplejelovens § 679 e<lb />
-i de fleste Tilfælde vil afhænge af Sigtedes Valg, om Sagen<lb />
-vil være at paadømme af Nævninger eller ej — men ogsaa<lb />
-af de enkelte Sagers Størrelse og Længden af de Afstande,<lb />
-hvori de udtagne Nævninger bo fra vedkommende Tingsteder,<lb />
-samt Beskaffenheden af den Befordring, de maa benytte, og<lb />
-Længden af den Tid, hvori de maa vente paa, at den paa-<lb />
-gældende Sag kan foretages paa Tinget, er det formentlig<lb />
-ikke muligt paa Forhaand at opstille nogen Beregning af den<lb />
-heromhandlede Udgifts Størrelse. Ifølge en i Justitsmini-<lb />
-steriet foretagen kalkulatorisk Udregning, jfr. nærmere Under-<lb />
-bilaget, kan denne Udgiftspost imidlertid næppe antages at<lb />
-ville overstige	ca. 100,000<lb />
-og i en i Ugeskrift for Retsvæsen for Aaret 1910 B. pag. 250 ff<lb />
-sket Udregning anslaas den aarlige Udgift paa denne Konto<lb />
+               <p xml:id="d1e977">
+Da Udgiften hertil ikke alene vil afhænge af Nævninge-<lb xml:id="d1e979"/>
+sagernes Antal — hvorom det paa Forhaand er umuligt at<lb xml:id="d1e981"/>
+opstille nogen Beregning, fordi det af Retsplejelovens § 679 e<lb xml:id="d1e983"/>
+i de fleste Tilfælde vil afhænge af Sigtedes Valg, om Sagen<lb xml:id="d1e985"/>
+vil være at paadømme af Nævninger eller ej — men ogsaa<lb xml:id="d1e987"/>
+af de enkelte Sagers Størrelse og Længden af de Afstande,<lb xml:id="d1e990"/>
+hvori de udtagne Nævninger bo fra vedkommende Tingsteder,<lb xml:id="d1e992"/>
+samt Beskaffenheden af den Befordring, de maa benytte, og<lb xml:id="d1e994"/>
+Længden af den Tid, hvori de maa vente paa, at den paa-<lb xml:id="d1e996"/>
+gældende Sag kan foretages paa Tinget, er det formentlig<lb xml:id="d1e998"/>
+ikke muligt paa Forhaand at opstille nogen Beregning af den<lb xml:id="d1e1000"/>
+heromhandlede Udgifts Størrelse. Ifølge en i Justitsmini-<lb xml:id="d1e1003"/>
+steriet foretagen kalkulatorisk Udregning, jfr. nærmere Under-<lb xml:id="d1e1005"/>
+bilaget, kan denne Udgiftspost imidlertid næppe antages at<lb xml:id="d1e1007"/>
+ville overstige	ca. 100,000<lb xml:id="d1e1009"/>
+og i en i Ugeskrift for Retsvæsen for Aaret 1910 B. pag. 250 ff<lb xml:id="d1e1011"/>
+sket Udregning anslaas den aarlige Udgift paa denne Konto<lb xml:id="d1e1013"/>
 til ikkun 35,000 Kr.
 </p>
-<p>
-18. Vidnegodtgørelser (§17 A. II. K., nyt Nr.).<lb />
-Om denne Udgiftspost gælder tildels de ovenfor under<lb />
-Nr. 17 anførte Betragtninger, hvortil kan føjes Usikkerheden<lb />
-med Hensyn til. hvor mange Vidner der maa paaregnes gen-<lb />
-nemsnitlig at blive afhørte i de enkelte Nævningesager. Hertil<lb />
-kommer da Godtgørelser til Vidner, der undtagelsesvis ind-<lb />
-kaldes for at afgive Forklaring under Domsforhandling i<lb />
-Ikke-Nævningesager. I Justitsministeriet antager man, at<lb />
-den aarlige Udgift paa denne Konto, som det forudsættes at<lb />
+               <p xml:id="d1e1016">
+18. Vidnegodtgørelser (§17 A. II. K., nyt Nr.).<lb xml:id="d1e1018"/>
+Om denne Udgiftspost gælder tildels de ovenfor under<lb xml:id="d1e1020"/>
+Nr. 17 anførte Betragtninger, hvortil kan føjes Usikkerheden<lb xml:id="d1e1022"/>
+med Hensyn til. hvor mange Vidner der maa paaregnes gen-<lb xml:id="d1e1024"/>
+nemsnitlig at blive afhørte i de enkelte Nævningesager. Hertil<lb xml:id="d1e1026"/>
+kommer da Godtgørelser til Vidner, der undtagelsesvis ind-<lb xml:id="d1e1029"/>
+kaldes for at afgive Forklaring under Domsforhandling i<lb xml:id="d1e1031"/>
+Ikke-Nævningesager. I Justitsministeriet antager man, at<lb xml:id="d1e1033"/>
+den aarlige Udgift paa denne Konto, som det forudsættes at<lb xml:id="d1e1035"/>
 Statskassen maa bære, ikke vil overstige	ca. 50,000
 </p>
-<p>
+               <p xml:id="d1e1038">
 Tilsammen... ca.745,500
-</p></div><?page  r22_00008_rigsdagtid_a_1912_13 ?>
-<div type='page-placeholder'><h>
-<coll>
-3083</coll>
-<topmidle>Bilag til F. t. L. om Gennemførelse af L. om Rettens Pleje af 26. Marts 1909.</topmidle>
-<colr>3084</colr>
-</h>
-<p>
+</p>
+               <pb xml:id="idr22_00008_rigsdagtid_a_1912_13" facs="r22_00008_rigsdagtid_a_1912_13" n=""/>
+               <fw xml:id="d1e1042" type="head" place="top-left">
+3083</fw>
+               <fw xml:id="d1e1046" type="head" place="top-middle">Bilag til F. t. L. om Gennemførelse af L. om Rettens Pleje af 26. Marts 1909.</fw>
+               <fw xml:id="d1e1049" type="head" place="top-right">3084</fw>
+               <p xml:id="d1e1052">
 Underbilag.
 </p>
-<p>
-Med Hensyn til de nye Udgiftsposter, som Retsreformen vil medføre, bemærkes<lb />
+               <p xml:id="d1e1054">
+Med Hensyn til de nye Udgiftsposter, som Retsreformen vil medføre, bemærkes<lb xml:id="d1e1056"/>
 nærmere følgende:
 </p>
-<p>
+               <p xml:id="d1e1059">
 1.	Udgift til Reisbude ved Underretterne.
 </p>
-<p>
-Da der efter den bestaaende Ordning ikke af Statskassen udredes noget<lb />
-Beløb til saadanne Bude, hvortil Retsbetjenten i Almindelighed anvender en<lb />
-Politibetjent eller i Købstæderne Raadstuetjeneren, kan det formentlig ikke om-<lb />
-tvistes, at denne Udgiftspost, der nødvendiggøres ved Bestemmelsen i Retspleje-<lb />
-lovens § 57, er ny for Statskassen. Ved Beløbets Fastsættelse er taget i Be-<lb />
-tragtning, at Retsbudene kunne have fortrinlig Adgang til at benyttes som<lb />
+               <p xml:id="d1e1061">
+Da der efter den bestaaende Ordning ikke af Statskassen udredes noget<lb xml:id="d1e1063"/>
+Beløb til saadanne Bude, hvortil Retsbetjenten i Almindelighed anvender en<lb xml:id="d1e1065"/>
+Politibetjent eller i Købstæderne Raadstuetjeneren, kan det formentlig ikke om-<lb xml:id="d1e1067"/>
+tvistes, at denne Udgiftspost, der nødvendiggøres ved Bestemmelsen i Retspleje-<lb xml:id="d1e1069"/>
+lovens § 57, er ny for Statskassen. Ved Beløbets Fastsættelse er taget i Be-<lb xml:id="d1e1071"/>
+tragtning, at Retsbudene kunne have fortrinlig Adgang til at benyttes som<lb xml:id="d1e1074"/>
 Stævningsmænd.
 </p>
-<p>
+               <p xml:id="d1e1078">
 2.	Forøgelse af Kontorholdet til de større Underdommer embeder.
 </p>
-<p>
-Ved Retsplejeloven ville Underdommerne blive fritagne for selve Paa-<lb />
-kendelsen af de større civile og kriminelle Sager men ikke for Forberedelsen af<lb />
-disse Sager til Domsbehandling. Da det vistnok næppe kan betvivles, at den<lb />
-mundtlige Procedure af alle baade civile og kriminelle Sager vil lægge betydelig<lb />
-mere Beslag paa Dommerens Tid end Sagernes Gennemlæsning af ham under<lb />
-den nuværende Procesmaade, bliver det formentlig uundgaaeligt at forøge Kontor-<lb />
+               <p xml:id="d1e1080">
+Ved Retsplejeloven ville Underdommerne blive fritagne for selve Paa-<lb xml:id="d1e1082"/>
+kendelsen af de større civile og kriminelle Sager men ikke for Forberedelsen af<lb xml:id="d1e1084"/>
+disse Sager til Domsbehandling. Da det vistnok næppe kan betvivles, at den<lb xml:id="d1e1086"/>
+mundtlige Procedure af alle baade civile og kriminelle Sager vil lægge betydelig<lb xml:id="d1e1088"/>
+mere Beslag paa Dommerens Tid end Sagernes Gennemlæsning af ham under<lb xml:id="d1e1090"/>
+den nuværende Procesmaade, bliver det formentlig uundgaaeligt at forøge Kontor-<lb xml:id="d1e1093"/>
 holdet for de større Embeder.
 </p>
-<p>
-3.	Diæter og Rejseudgifter til Nævninger.<lb />
+               <p xml:id="d1e1096">
+3.	Diæter og Rejseudgifter til Nævninger.<lb xml:id="d1e1098"/>
 A.	Befordringsudgift.
 </p>
-<p>
-Ifølge Retsplejelovens § 104 tilkommer der hver Nævning 20 Ø. for<lb />
-hver Kilometer frem og tilbage fra hans Bopæl til Tingstedet. Forudsætter<lb />
-man, at hver Nævning gennemsnitlig maa rejse 30 Kilometer frem og 30 Kilo-<lb />
-meter tilbage, bliver det en Udgift af 12 Kr. for hver Nævning. Da der ifølge<lb />
-Retsplejelovens § 86 udtages 60 Hovednævninger til hvert Ting, og man maa<lb />
-forudsætte, at samtlige disse kommer til at fungere mindst 1 Gang ved hvert<lb />
-Ting, bliver den samlede Udgift for hvert Ting 720 Kr. Lægges hertil et<lb />
-mindre Beløb til Hjælpenævningers Rejse af f. Eks. 80 Kr., udkommer som sam-<lb />
+               <p xml:id="d1e1101">
+Ifølge Retsplejelovens § 104 tilkommer der hver Nævning 20 Ø. for<lb xml:id="d1e1103"/>
+hver Kilometer frem og tilbage fra hans Bopæl til Tingstedet. Forudsætter<lb xml:id="d1e1105"/>
+man, at hver Nævning gennemsnitlig maa rejse 30 Kilometer frem og 30 Kilo-<lb xml:id="d1e1107"/>
+meter tilbage, bliver det en Udgift af 12 Kr. for hver Nævning. Da der ifølge<lb xml:id="d1e1109"/>
+Retsplejelovens § 86 udtages 60 Hovednævninger til hvert Ting, og man maa<lb xml:id="d1e1111"/>
+forudsætte, at samtlige disse kommer til at fungere mindst 1 Gang ved hvert<lb xml:id="d1e1114"/>
+Ting, bliver den samlede Udgift for hvert Ting 720 Kr. Lægges hertil et<lb xml:id="d1e1116"/>
+mindre Beløb til Hjælpenævningers Rejse af f. Eks. 80 Kr., udkommer som sam-<lb xml:id="d1e1118"/>
 let Udgift til Nævningerejser ved hvert Ting 800 Kr.
 </p>
-<p>
-Da der efter den af Just. Min. foreløbig trufne Bestemmelse om Antallet<lb />
-af Tingsteder udenfor København til Paakendelse af Nævningesager vil blive<lb />
-afholdt ialt 38 ordinære Ting aarlig paa disse Tingsteder, bliver den aarlige<lb />
-Befordringsudgift altsaa	 ca. 30,000 Kr.<lb />
+               <p xml:id="d1e1121">
+Da der efter den af Just. Min. foreløbig trufne Bestemmelse om Antallet<lb xml:id="d1e1123"/>
+af Tingsteder udenfor København til Paakendelse af Nævningesager vil blive<lb xml:id="d1e1125"/>
+afholdt ialt 38 ordinære Ting aarlig paa disse Tingsteder, bliver den aarlige<lb xml:id="d1e1127"/>
+Befordringsudgift altsaa	 ca. 30,000 Kr.<lb xml:id="d1e1129"/>
 Til de ekstraordinære Ting kan mulig anslaas 1/3 heraf...
 </p>
-<p>
-eller		 10.000 —<lb />
+               <p xml:id="d1e1132">
+eller		 10.000 —<lb xml:id="d1e1134"/>
 altsaa tilsammen. .. 40,000 Kr.
 </p>
-<p>
-Udgiften vil dog rimeligvis blive noget mindre derved, at Nævningerne<lb />
-i et vist Omfang ville benytte Jærnbane, men det er formentlig ugørligt uden<lb />
+               <p xml:id="d1e1138">
+Udgiften vil dog rimeligvis blive noget mindre derved, at Nævningerne<lb xml:id="d1e1140"/>
+i et vist Omfang ville benytte Jærnbane, men det er formentlig ugørligt uden<lb xml:id="d1e1142"/>
 praktiske Erfaringer at tage Hensyn hertil.
 </p>
-<p>
+               <p xml:id="d1e1145">
 B.	Nævningediæterne.
 </p>
-<p>
-Efter foreliggende statistiske Oplysninger om Antallet af de forskellige<lb />
-Straffesager i Femaaret 1901—05 og i Aaret 1907 samt efter de Justitsmini-<lb />
-steriet foreliggende Oplysninger om Antallet af Sager om Erstatninger for<lb />
-uforskyldt Varetægtsfængsel maa det, saafremt man gaar ud fra, at de Til-<lb />
-talte altid ville vælge Nævningebehandling i de Tilfælde, hvor Retspleje-<lb />
-lovens § 679 e jf. § 678 b og c hjemle dem Valgfrihed, paaregnes, at der vil<lb />
-forekomme ca. 500 Nævningesager om Aaret i hele Landet. Af disse ville ca.<lb />
+               <p xml:id="d1e1147">
+Efter foreliggende statistiske Oplysninger om Antallet af de forskellige<lb xml:id="d1e1149"/>
+Straffesager i Femaaret 1901—05 og i Aaret 1907 samt efter de Justitsmini-<lb xml:id="d1e1151"/>
+steriet foreliggende Oplysninger om Antallet af Sager om Erstatninger for<lb xml:id="d1e1153"/>
+uforskyldt Varetægtsfængsel maa det, saafremt man gaar ud fra, at de Til-<lb xml:id="d1e1155"/>
+talte altid ville vælge Nævningebehandling i de Tilfælde, hvor Retspleje-<lb xml:id="d1e1157"/>
+lovens § 679 e jf. § 678 b og c hjemle dem Valgfrihed, paaregnes, at der vil<lb xml:id="d1e1160"/>
+forekomme ca. 500 Nævningesager om Aaret i hele Landet. Af disse ville ca.<lb xml:id="d1e1162"/>
 225 forefalde i Hovedstaden og ca. 275 i det øvrige Land.
-</p></div><?page  r22_00009_rigsdagtid_a_1912_13 ?>
-<div type='page-placeholder'><h>
-<coll>
-3085</coll>
-<topmidle>Bilag til F. t. L. om Gennemførelse af L. om Rettens Pleje af 26. Marts 1909.</topmidle>
-<colr>3086</colr>
-</h>
-<p>
-1.	Udenfor København. Ifølge Retsplejelovens § 104 tilkommer der hver<lb />
-Nævning 3 Kr. for hver Dag, han i Anledning af Hvervets Udførelse er<lb />
-borte fra sit Hjem. I hver Nævningesag fungerer mindst 16 Nævninger<lb />
-(Retsplejelovens § 96). Paa hvert Ting maa antages at blive foretaget ca.<lb />
-6 Sager (38 Ting x 6 = 228 Sager, Resten ca. 50 antages at ville blive<lb />
-foretagne paa Ekstratingene). Da Sagerne gennemsnitlig maa paaregnes<lb />
-at strække sig over 2 Dage (l½ Dag), da Nævningerne maa ligge inde paa<lb />
-Tingstedet en vis Tid for at afvente Behandlingen af den Sag, hvori de<lb />
-skulle fungere, samt da de have Krav paa Diæter ogsaa under Rejsen<lb />
-til og fra Tingstedet, bør man vistnok ikke undlade at beregne, at der i<lb />
-Tingtiden daglig vil være at udbetale Diæter til 3 Hold Nævninger. Antages<lb />
-hvert Ting at vare ca. 10 Dage (11/2 Dag til hver Sag) udkommer herved<lb />
-16 x 3 x 3 x 10 o: ca. 1,450 Kr. for hvert ordinært Ting, hvilket atter for<lb />
-38 Ting giver	 ca. 55,000 Kr.<lb />
-Anslaas nu	 ca. 15,000 —<lb />
+</p>
+               <pb xml:id="idr22_00009_rigsdagtid_a_1912_13" facs="r22_00009_rigsdagtid_a_1912_13" n=""/>
+               <fw xml:id="d1e1167" type="head" place="top-left">
+3085</fw>
+               <fw xml:id="d1e1170" type="head" place="top-middle">Bilag til F. t. L. om Gennemførelse af L. om Rettens Pleje af 26. Marts 1909.</fw>
+               <fw xml:id="d1e1174" type="head" place="top-right">3086</fw>
+               <p xml:id="d1e1177">
+1.	Udenfor København. Ifølge Retsplejelovens § 104 tilkommer der hver<lb xml:id="d1e1179"/>
+Nævning 3 Kr. for hver Dag, han i Anledning af Hvervets Udførelse er<lb xml:id="d1e1181"/>
+borte fra sit Hjem. I hver Nævningesag fungerer mindst 16 Nævninger<lb xml:id="d1e1183"/>
+(Retsplejelovens § 96). Paa hvert Ting maa antages at blive foretaget ca.<lb xml:id="d1e1185"/>
+6 Sager (38 Ting x 6 = 228 Sager, Resten ca. 50 antages at ville blive<lb xml:id="d1e1187"/>
+foretagne paa Ekstratingene). Da Sagerne gennemsnitlig maa paaregnes<lb xml:id="d1e1190"/>
+at strække sig over 2 Dage (l½ Dag), da Nævningerne maa ligge inde paa<lb xml:id="d1e1192"/>
+Tingstedet en vis Tid for at afvente Behandlingen af den Sag, hvori de<lb xml:id="d1e1194"/>
+skulle fungere, samt da de have Krav paa Diæter ogsaa under Rejsen<lb xml:id="d1e1196"/>
+til og fra Tingstedet, bør man vistnok ikke undlade at beregne, at der i<lb xml:id="d1e1198"/>
+Tingtiden daglig vil være at udbetale Diæter til 3 Hold Nævninger. Antages<lb xml:id="d1e1200"/>
+hvert Ting at vare ca. 10 Dage (11/2 Dag til hver Sag) udkommer herved<lb xml:id="d1e1203"/>
+16 x 3 x 3 x 10 o: ca. 1,450 Kr. for hvert ordinært Ting, hvilket atter for<lb xml:id="d1e1205"/>
+38 Ting giver	 ca. 55,000 Kr.<lb xml:id="d1e1207"/>
+Anslaas nu	 ca. 15,000 —<lb xml:id="d1e1209"/>
 i Diæter ved de ekstraordinære Ting, udkommer	 70,000 Kr.
 </p>
-<p>
-2.	I København. 225 Nævningesager à l½ Dag vil i Diæter à 3 Kr. til<lb />
+               <p xml:id="d1e1212">
+2.	I København. 225 Nævningesager à l½ Dag vil i Diæter à 3 Kr. til<lb xml:id="d1e1214"/>
 16 Nævninger i hver Sag give en Udgift af omtrent 24,000 Kr.
 </p>
-<p>
-Den samlede Udgift til Rejser og Diæter for Nævninger vil altsaa efter<lb />
+               <p xml:id="d1e1217">
+Den samlede Udgift til Rejser og Diæter for Nævninger vil altsaa efter<lb xml:id="d1e1219"/>
 ovenstaaende Beregning udgøre aarlig	 134,000 Kr.
 </p>
-<p>
-Hvis man imidlertid mener at turde bygge paa, at 1/3 af de Tiltalte i<lb />
-de ovennævnte Tilfælde ville vælge Paadømmelse uden Nævninger, ville de<lb />
-under B. 1. og 2. udregnede Tal kunne reduceres til	 ca. 50,000 Kr.<lb />
-og 		 15,000 —<lb />
-og under denne Forudsætning kunde den sandsynlige Udgift formentlig i<lb />
+               <p xml:id="d1e1222">
+Hvis man imidlertid mener at turde bygge paa, at 1/3 af de Tiltalte i<lb xml:id="d1e1224"/>
+de ovennævnte Tilfælde ville vælge Paadømmelse uden Nævninger, ville de<lb xml:id="d1e1226"/>
+under B. 1. og 2. udregnede Tal kunne reduceres til	 ca. 50,000 Kr.<lb xml:id="d1e1228"/>
+og 		 15,000 —<lb xml:id="d1e1230"/>
+og under denne Forudsætning kunde den sandsynlige Udgift formentlig i<lb xml:id="d1e1232"/>
 det hele anslaas til			 ca, 100,000 Kr.
 </p>
-<p>
-og hvis man mener at turde gaa ud fra en endnu ringere Benyttelse af<lb />
-Nævningers Medvirken eller med Hensyn til de enkelte Nævningesagers<lb />
+               <p xml:id="d1e1235">
+og hvis man mener at turde gaa ud fra en endnu ringere Benyttelse af<lb xml:id="d1e1237"/>
+Nævningers Medvirken eller med Hensyn til de enkelte Nævningesagers<lb xml:id="d1e1239"/>
 Varighed, vil Beløbet kunne nedsættes yderligere.
 </p>
-<p>
+               <p xml:id="d1e1243">
 4. Vidnegodtgørelser.
 </p>
-<p>
+               <p xml:id="d1e1245">
 A.	Nævningesager.
 </p>
-<p>
-a.	Udenfor København. Beregner man, at der i hver Nævningesag vil<lb />
-være at afhøre 10 Vidner, og at hvert Vidne gennemsnitlig ifølge Retspleje-<lb />
-lovens § 183 vil have Krav paa en Godtgørelse af 16 Kr., udkommer for<lb />
+               <p xml:id="d1e1247">
+a.	Udenfor København. Beregner man, at der i hver Nævningesag vil<lb xml:id="d1e1249"/>
+være at afhøre 10 Vidner, og at hvert Vidne gennemsnitlig ifølge Retspleje-<lb xml:id="d1e1251"/>
+lovens § 183 vil have Krav paa en Godtgørelse af 16 Kr., udkommer for<lb xml:id="d1e1253"/>
 ca. 200 Nævningesager	 32,000 Kr.
 </p>
-<p>
-b.	I København. Ca. 170 Nævningesager med 10 Vidner i hver<lb />
-Sag giver i alt ca. 1,700 Vidner aarlig. Beregnes Godtgørelsen<lb />
-til gennemsnitlig 4 Kr. for hvert Vidne, udkommer	 6,800 —<lb />
+               <p xml:id="d1e1256">
+b.	I København. Ca. 170 Nævningesager med 10 Vidner i hver<lb xml:id="d1e1258"/>
+Sag giver i alt ca. 1,700 Vidner aarlig. Beregnes Godtgørelsen<lb xml:id="d1e1260"/>
+til gennemsnitlig 4 Kr. for hvert Vidne, udkommer	 6,800 —<lb xml:id="d1e1262"/>
 altsaa... 40,000 Kr.
 </p>
-<p>
-B.	Beregner man dernæst til Vidneførsler ved Landsretterne og<lb />
-Højesteret i Ikke-Nævningesager	 10,000 —<lb />
+               <p xml:id="d1e1265">
+B.	Beregner man dernæst til Vidneførsler ved Landsretterne og<lb xml:id="d1e1267"/>
+Højesteret i Ikke-Nævningesager	 10,000 —<lb xml:id="d1e1269"/>
 kan hele Godtgørelsen maaske anslaas til			 50,000 Kr.
-</p></div></TEI>
+</p>
+            
+         </div>
+      </body>
+   </text>
+</TEI>
