@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <row>
-    <FIELD1>https://grundlov.dab.dk/</FIELD1>
-    <Filnavne></Filnavne>
-    <Startsidenummer></Startsidenummer>
-    <antalSider></antalSider>
-    <startSpaltenummer></startSpaltenummer>
-    <slutSpaltenummer></slutSpaltenummer>
-    <Bind></Bind>
-    <Titel></Titel>
-    <Udgivelsesår></Udgivelsesår>
-    <Skrevet>
-      <fremsatDato></fremsatDato>
-    </Skrevet>
-  </row>
-  <row>
-    <FIELD1>Forarbejder til grundloven</FIELD1>
-    <Filnavne></Filnavne>
-    <Startsidenummer></Startsidenummer>
-    <antalSider></antalSider>
-    <startSpaltenummer></startSpaltenummer>
-    <slutSpaltenummer></slutSpaltenummer>
-    <Bind></Bind>
-    <Titel></Titel>
-    <Udgivelsesår></Udgivelsesår>
-    <Skrevet>
-      <fremsatDato></fremsatDato>
-    </Skrevet>
-  </row>
+<!--
+Previous site: https://grundlov.dab.dk/
+Section title: Forarbejder til grundloven
+-->
   <row>
     <FIELD1></FIELD1>
     <Filnavne>g01_&lt;sidenr.&gt;_grundlov1</Filnavne>
@@ -36,10 +12,11 @@
     <startSpaltenummer>1</startSpaltenummer>
     <slutSpaltenummer>1476</slutSpaltenummer>
     <Bind>Bind I</Bind>
-    <Titel>Beretning om Forhandlingerne paa Rigsdagen. Bind I. Spalte 1-1476</Titel>
+    <Titel>Beretning om Forhandlingerne paa Rigsdagen. Bind I. Spalte 1-1476 <span>[G01]</span></Titel>
+	<digitaltID>G01</digitaltID>
     <Udgivelsesår>1848</Udgivelsesår>
     <Skrevet>
-      <fremsatDato></fremsatDato>
+      <fremsatDato>1848-10-23</fremsatDato>
     </Skrevet>
   </row>
   <row>
@@ -50,41 +27,18 @@
     <startSpaltenummer>1477</startSpaltenummer>
     <slutSpaltenummer>3968</slutSpaltenummer>
     <Bind>Bind II</Bind>
-    <Titel>Beretning om Forhandlingerne paa Rigsdagen. Bind II. Spalte 1477-3968</Titel>
+    <Titel>Beretning om Forhandlingerne paa Rigsdagen. Bind II. Spalte 1477-3968 <span>[G02]</span></Titel>
+	<digitaltID>G02</digitaltID>
     <Udgivelsesår>1849</Udgivelsesår>
     <Skrevet>
-      <fremsatDato></fremsatDato>
+      <fremsatDato>1849-02-22</fremsatDato>
     </Skrevet>
   </row>
-  <row>
-    <FIELD1>https://retsplejelov.dab.dk/</FIELD1>
-    <Filnavne></Filnavne>
-    <Startsidenummer></Startsidenummer>
-    <antalSider></antalSider>
-    <startSpaltenummer></startSpaltenummer>
-    <slutSpaltenummer></slutSpaltenummer>
-    <Bind></Bind>
-    <Titel></Titel>
-    <Udgivelsesår></Udgivelsesår>
-    <Skrevet>
-      <fremsatDato></fremsatDato>
-    </Skrevet>
-  </row>
-  <row>
-    <FIELD1>Retsplejeloven, proceskommissionerne</FIELD1>
-    <Filnavne></Filnavne>
-    <Startsidenummer></Startsidenummer>
-    <antalSider></antalSider>
-    <startSpaltenummer></startSpaltenummer>
-    <slutSpaltenummer></slutSpaltenummer>
-    <Bind></Bind>
-    <Titel></Titel>
-    <Udgivelsesår></Udgivelsesår>
-    <Skrevet>
-      <fremsatDato></fremsatDato>
-    </Skrevet>
-  </row>
-  <row>
+
+<!--
+Previous site: https://retsplejelov.dab.dk/
+Section title: Retsplejeloven, proceskommissionerne
+-->
     <FIELD1></FIELD1>
     <Filnavne>r01_&lt;sidenr.&gt;_proceskom_1868</Filnavne>
     <Startsidenummer>1</Startsidenummer>
@@ -92,7 +46,8 @@
     <startSpaltenummer>0</startSpaltenummer>
     <slutSpaltenummer>386</slutSpaltenummer>
     <Bind></Bind>
-    <Titel>Proceskommissionen af 1868. Offentliggjort 1875</Titel>
+    <Titel>Proceskommissionen af 1868. Offentliggjort 1875 <span>[R01]</span></Titel>
+	<digitaltID>R01</digitaltID>
     <Udgivelsesår>1875</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1875-03</fremsatDato>
@@ -106,7 +61,8 @@
     <startSpaltenummer>0</startSpaltenummer>
     <slutSpaltenummer>131</slutSpaltenummer>
     <Bind></Bind>
-    <Titel>Proceskommissionen af 1868. Offentliggjort 1876</Titel>
+    <Titel>Proceskommissionen af 1868. Offentliggjort 1876 <span>[R02]</span></Titel>
+	<digitaltID>R02</digitaltID>
     <Udgivelsesår>1876</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1876-02</fremsatDato>
@@ -120,7 +76,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>Proceskommissionen af 1868. Offentliggjort 1877</Titel>
+    <Titel>Proceskommissionen af 1868. Offentliggjort 1877 <span>[R03]</span></Titel>
+	<digitaltID>R03</digitaltID>
     <Udgivelsesår>1877</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1877-06</fremsatDato>
@@ -134,7 +91,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>Proceskommissionen af 1892. Offentliggjort 1899</Titel>
+    <Titel>Proceskommissionen af 1892. Offentliggjort 1899 <span>[R04]</span></Titel>
+	<digitaltID>R04</digitaltID>
     <Udgivelsesår>1899</Udgivelsesår>
     <Skrevet>
       <fremsatDato></fremsatDato>
@@ -148,7 +106,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>Proceskommissionen af 1892. Offentliggjort 1899</Titel>
+    <Titel>Proceskommissionen af 1892. Offentliggjort 1899 <span>[R05]</span></Titel>
+	<digitaltID>R05</digitaltID>
     <Udgivelsesår>1899</Udgivelsesår>
     <Skrevet>
       <fremsatDato></fremsatDato>
@@ -162,7 +121,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>Proceskommissionen af 1892. Offentliggjort 1899</Titel>
+    <Titel>Proceskommissionen af 1892. Offentliggjort 1899 <span>[R06]</span></Titel>
+	<digitaltID>R06</digitaltID>
     <Udgivelsesår>1899</Udgivelsesår>
     <Skrevet>
       <fremsatDato></fremsatDato>
@@ -176,26 +136,15 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>Retspleje-Reformen. En Oversigt. Offentliggjort 1901</Titel>
+    <Titel>Retspleje-Reformen. En Oversigt. Offentliggjort 1901 <span>[R07]</span></Titel>
+	<digitaltID>R07</digitaltID>
     <Udgivelsesår>1901</Udgivelsesår>
     <Skrevet>
-      <fremsatDato></fremsatDato>
+      <fremsatDato>1901</fremsatDato>
     </Skrevet>
   </row>
-  <row>
-    <FIELD1>Retsplejeloven, Rigsdagstidende</FIELD1>
-    <Filnavne></Filnavne>
-    <Startsidenummer></Startsidenummer>
-    <antalSider></antalSider>
-    <startSpaltenummer></startSpaltenummer>
-    <slutSpaltenummer></slutSpaltenummer>
-    <Bind></Bind>
-    <Titel></Titel>
-    <Udgivelsesår></Udgivelsesår>
-    <Skrevet>
-      <fremsatDato></fremsatDato>
-    </Skrevet>
-  </row>
+
+<!-- Section title: Retsplejeloven, Rigsdagstidende -->
   <row>
     <FIELD1></FIELD1>
     <Filnavne>r08_&lt;sidenr.&gt;_rigsdagtid_a_1880_81</Filnavne>
@@ -204,7 +153,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1880-81: Lovforslag</Titel>
+    <Titel>1880/1881: Lovforslag <span>[R08]</span></Titel>
+	<digitaltID>R08</digitaltID>
     <Udgivelsesår>1880</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1880-12-17</fremsatDato>
@@ -218,7 +168,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1901-02: Lovforslag</Titel>
+    <Titel>1901/1902: Lovforslag <span>[R09]</span></Titel>
+	<digitaltID>R09</digitaltID>
     <Udgivelsesår>1901</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1901-10-26</fremsatDato>
@@ -232,10 +183,11 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1901-02: Bemærkninger til lovforslag</Titel>
+    <Titel>1901/1902: Bemærkninger til lovforslag <span>[R10]</span></Titel>
+	<digitaltID>R10</digitaltID>
     <Udgivelsesår>1901</Udgivelsesår>
     <Skrevet>
-      <fremsatDato></fremsatDato>
+      <fremsatDato>1901-10-26</fremsatDato>
     </Skrevet>
   </row>
   <row>
@@ -246,8 +198,9 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1901-02: Betænkning (Folketinget)</Titel>
-    <Udgivelsesår>1902</Udgivelsesår>
+    <Titel>1901/1902: Betænkning (Folketinget) <span>[R11]</span></Titel>
+	<digitaltID>R11</digitaltID>
+    <Udgivelsesår>1901</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1902-05-14</fremsatDato>
     </Skrevet>
@@ -260,7 +213,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1901-02: Tillæg til betænkning (Folketinget)</Titel>
+    <Titel>1901/1902: Tillæg til betænkning (Folketinget) <span>[R12]</span></Titel>
+	<digitaltID>R12</digitaltID>
     <Udgivelsesår>1901</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1902-05-17</fremsatDato>
@@ -274,7 +228,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1902-03: Lovforslag</Titel>
+    <Titel>1902/1903: Lovforslag <span>[R13]</span></Titel>
+	<digitaltID>R13</digitaltID>
     <Udgivelsesår>1902</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1902-10-07</fremsatDato>
@@ -288,7 +243,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1902-03: Betænkning (Folketinget)</Titel>
+    <Titel>1902/1903: Betænkning (Folketinget) <span>[R14]</span></Titel>
+	<digitaltID>R14</digitaltID>
     <Udgivelsesår>1902</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1902-11-06</fremsatDato>
@@ -302,7 +258,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1902-03: Betænkning</Titel>
+    <Titel>1902/1903: Betænkning <span>[R15]</span></Titel>
+	<digitaltID>R15</digitaltID>
     <Udgivelsesår>1902</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1903-05-11</fremsatDato>
@@ -316,7 +273,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1905-06: Lovforslag</Titel>
+    <Titel>1905/1906: Lovforslag <span>[R16]</span></Titel>
+	<digitaltID>R16</digitaltID>
     <Udgivelsesår>1905</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1905-10-03</fremsatDato>
@@ -330,7 +288,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1905-06: Beretning fra Fællesudvalget</Titel>
+    <Titel>1905/1906: Beretning fra Fællesudvalget <span>[R17]</span></Titel>
+	<digitaltID>R17</digitaltID>
     <Udgivelsesår>1905</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1906-04-05</fremsatDato>
@@ -344,7 +303,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1906-07: Lovforslag</Titel>
+    <Titel>1906/1907: Lovforslag <span>[R18]</span></Titel>
+	<digitaltID>R18</digitaltID>
     <Udgivelsesår>1906</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1906-12-14</fremsatDato>
@@ -358,7 +318,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1908-09: Lovforslag</Titel>
+    <Titel>1908/1909: Lovforslag <span>[R19]</span></Titel>
+	<digitaltID>R19</digitaltID>
     <Udgivelsesår>1908</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1908-10-23</fremsatDato>
@@ -372,7 +333,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1908-09: Betænkning (Folketinget)</Titel>
+    <Titel>1908/1909: Betænkning (Folketinget) <span>[R20]</span></Titel>
+	<digitaltID>R20</digitaltID>
     <Udgivelsesår>1908</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1909-02-05</fremsatDato>
@@ -386,7 +348,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1908-09: Erklæring (Folketinget)</Titel>
+    <Titel>1908/1909: Erklæring (Folketinget) <span>[R21]</span></Titel>
+	<digitaltID>R21</digitaltID>
     <Udgivelsesår>1908</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1909-03-23</fremsatDato>
@@ -400,7 +363,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1912-13: Lovforslag</Titel>
+    <Titel>1912/1913: Lovforslag <span>[R22]</span></Titel>
+	<digitaltID>R22</digitaltID>
     <Udgivelsesår>1912</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1912-12-10</fremsatDato>
@@ -414,7 +378,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1912-13: Betænkning (Folketinget)</Titel>
+    <Titel>1912/1913: Betænkning (Folketinget) <span>[R23]</span></Titel>
+	<digitaltID>R23</digitaltID>
     <Udgivelsesår>1912</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1913-04-24</fremsatDato>
@@ -428,7 +393,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1913-14: Lovforslag</Titel>
+    <Titel>1913/1914: Lovforslag <span>[R24]</span></Titel>
+	<digitaltID>R24</digitaltID>
     <Udgivelsesår>1913</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1914-01-26</fremsatDato>
@@ -442,7 +408,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1913-14: Betænkning (Folketinget)</Titel>
+    <Titel>1913/1914: Betænkning (Folketinget) <span>[R25]</span></Titel>
+	<digitaltID>R25</digitaltID>
     <Udgivelsesår>1913</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1914-03-31</fremsatDato>
@@ -456,7 +423,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1913-14: Betænkning (Landstinget)</Titel>
+    <Titel>1913/1914: Betænkning (Landstinget) <span>[R26]</span></Titel>
+	<digitaltID>R26</digitaltID>
     <Udgivelsesår>1913</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1914-05-29</fremsatDato>
@@ -470,7 +438,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1915-16: Lovforslag</Titel>
+    <Titel>1915/1916: Lovforslag <span>[R27]</span></Titel>
+	<digitaltID>R27</digitaltID>
     <Udgivelsesår>1915</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1915-12-01</fremsatDato>
@@ -484,7 +453,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1915-16: Betænkning (Folketinget)</Titel>
+    <Titel>1915/1916: Betænkning (Folketinget) <span>[R28]</span></Titel>
+	<digitaltID>R28</digitaltID>
     <Udgivelsesår>1915</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1916-02-17</fremsatDato>
@@ -498,26 +468,15 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1915-16: Betænkning (Landstinget)</Titel>
+    <Titel>1915/1916: Betænkning (Landstinget) <span>[R29]</span></Titel>
+	<digitaltID>R29</digitaltID>
     <Udgivelsesår>1915</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1916-03-30</fremsatDato>
     </Skrevet>
   </row>
-  <row>
-    <FIELD1>Retsplejeloven, Lovtidende</FIELD1>
-    <Filnavne></Filnavne>
-    <Startsidenummer></Startsidenummer>
-    <antalSider></antalSider>
-    <startSpaltenummer></startSpaltenummer>
-    <slutSpaltenummer></slutSpaltenummer>
-    <Bind></Bind>
-    <Titel></Titel>
-    <Udgivelsesår></Udgivelsesår>
-    <Skrevet>
-      <fremsatDato></fremsatDato>
-    </Skrevet>
-  </row>
+
+<!-- Section title: Retsplejeloven, Lovtidende -->
   <row>
     <FIELD1></FIELD1>
     <Filnavne>r30_&lt;sidenr.&gt;_lovtid_1909</Filnavne>
@@ -526,7 +485,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1909: Lov</Titel>
+    <Titel>1909: Lov <span>[R30]</span></Titel>
+	<digitaltID>R30</digitaltID>
     <Udgivelsesår>1909</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1909-03-26</fremsatDato>
@@ -540,7 +500,8 @@
     <startSpaltenummer></startSpaltenummer>
     <slutSpaltenummer></slutSpaltenummer>
     <Bind></Bind>
-    <Titel>1916: Lov</Titel>
+    <Titel>1916: Lov <span>[R31]</span></Titel>
+	<digitaltID>R31</digitaltID>
     <Udgivelsesår>1916</Udgivelsesår>
     <Skrevet>
       <fremsatDato>1916-04-11</fremsatDato>
