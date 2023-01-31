@@ -2,19 +2,19 @@
    <teiHeader xml:id="d1e3">
       <fileDesc xml:id="d1e5">
          <titleStmt xml:id="d1e7">
-            <title xml:id="d1e9">1906-07: Lovforslag</title>
+            <title xml:id="d1e9">1906/1907: Lovforslag</title>
          </titleStmt>
          <publicationStmt xml:id="d1e12">
             <p xml:id="d1e14"/>
          </publicationStmt>
          <sourceDesc xml:id="d1e17">
             <bibl xml:id="d1e19">
-               <title xml:id="d1e21">1906-07: Lovforslag</title>
+               <title xml:id="d1e21">1906/1907: Lovforslag</title>
                <date xml:id="d1e23">1906</date>
             </bibl>
             <listBibl xml:id="d1e26">
                <bibl xml:id="bibl-chptrd1e33">
-                  <title xml:id="d1e30">1906-07: Lovforslag</title>
+                  <title xml:id="d1e30">1906/1907: Lovforslag</title>
                </bibl>
                <bibl xml:id="bibl-chptrd1e51">
                   <title xml:id="d1e35">
@@ -406,7 +406,7 @@ Sagsomkostninger og Rettergangsbøder i Straffesager.
    <text xml:id="d1e621">
       <body xml:id="d1e623">
          <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
-            <head xml:id="d1e627">1906-07: Lovforslag</head>
+            <head xml:id="d1e627">1906/1907: Lovforslag</head>
             
                
                <pb xml:id="idr18_00001_rigsdagtid_1906_07" facs="r18_00001_rigsdagtid_1906_07" n=""/>
@@ -19278,1371 +19278,1471 @@ Kap. 91: Overgangsbestemmelser	 984—997
                <p xml:id="d1e30425">
 Bemærkninger til foranstaaende Lovforslag.
 </p>
-               <milestone type="leftside" xml:id="startd1e25632" next="endd1e25632" n="4113" unit="column"/>
+               
                <p xml:id="d1e30430">
-Grundloven af 5te Juni 1849 bestemte<lb xml:id="d1e30432"/>
-i sin § 76, at Retsplejen bliver at adskille<lb xml:id="d1e30434"/>
-fra Forvaltningen efter de Regler, der<lb xml:id="d1e30436"/>
-fastsættes ved Lov, og i sin § 79, at Offent-<lb xml:id="d1e30438"/>
-lighed og Mundtlighed saa snart og saa<lb xml:id="d1e30440"/>
-vidt som muligt skal gennemføres ved hele<lb xml:id="d1e30443"/>
-Retsplejen, samt at Nævninger skulle ind-<lb xml:id="d1e30445"/>
-føres i Misgerningssager og i Sager, der<lb xml:id="d1e30447"/>
-rejse sig af politiske Lovovertrædelser.<lb xml:id="d1e30449"/>
-Disse Forskrifter ere gentagne uforandrede<lb xml:id="d1e30451"/>
-i den reviderede Grundlov af 1866 §§ 71<lb xml:id="d1e30453"/>
-og 74. I den borgerlige Retspleje er Mundt-<lb xml:id="d1e30456"/>
-lighedsprincipet gennemført paa et begræn-<lb xml:id="d1e30458"/>
-set Omraade ved Loven om Oprettelse af<lb xml:id="d1e30460"/>
-en Sø- og Handelsret i Kjøbenhavn af<lb xml:id="d1e30462"/>
-19de Februar 1861. I Strafferetsplejen blev<lb xml:id="d1e30464"/>
-Offentlighed og Mundtlighed saavidt muligt<lb xml:id="d1e30466"/>
-gennemført ved Loven om Rigsretten af<lb xml:id="d1e30469"/>
-3die Marts 1852, ligesom ogsaa offentlig og<lb xml:id="d1e30471"/>
-mundtlig Behandling af visse Politisager<lb xml:id="d1e30473"/>
-indførtes i Kjøbenhavn ved Lov Ilte Fe-<lb xml:id="d1e30475"/>
+                  <milestone type="leftside" xml:id="startd1e25632" next="endd1e25632" n="4113" unit="column"/>
+               </p>
+               <p xml:id="d1e30435">
+Grundloven af 5te Juni 1849 bestemte<lb xml:id="d1e30437"/>
+i sin § 76, at Retsplejen bliver at adskille<lb xml:id="d1e30439"/>
+fra Forvaltningen efter de Regler, der<lb xml:id="d1e30441"/>
+fastsættes ved Lov, og i sin § 79, at Offent-<lb xml:id="d1e30443"/>
+lighed og Mundtlighed saa snart og saa<lb xml:id="d1e30445"/>
+vidt som muligt skal gennemføres ved hele<lb xml:id="d1e30448"/>
+Retsplejen, samt at Nævninger skulle ind-<lb xml:id="d1e30450"/>
+føres i Misgerningssager og i Sager, der<lb xml:id="d1e30452"/>
+rejse sig af politiske Lovovertrædelser.<lb xml:id="d1e30454"/>
+Disse Forskrifter ere gentagne uforandrede<lb xml:id="d1e30456"/>
+i den reviderede Grundlov af 1866 §§ 71<lb xml:id="d1e30458"/>
+og 74. I den borgerlige Retspleje er Mundt-<lb xml:id="d1e30461"/>
+lighedsprincipet gennemført paa et begræn-<lb xml:id="d1e30463"/>
+set Omraade ved Loven om Oprettelse af<lb xml:id="d1e30465"/>
+en Sø- og Handelsret i Kjøbenhavn af<lb xml:id="d1e30467"/>
+19de Februar 1861. I Strafferetsplejen blev<lb xml:id="d1e30469"/>
+Offentlighed og Mundtlighed saavidt muligt<lb xml:id="d1e30471"/>
+gennemført ved Loven om Rigsretten af<lb xml:id="d1e30474"/>
+3die Marts 1852, ligesom ogsaa offentlig og<lb xml:id="d1e30476"/>
+mundtlig Behandling af visse Politisager<lb xml:id="d1e30478"/>
+indførtes i Kjøbenhavn ved Lov Ilte Fe-<lb xml:id="d1e30480"/>
 bruar 1863.
 </p>
-               <p xml:id="d1e30478">
-I øvrigt er det halve Aarhundrede, der<lb xml:id="d1e30480"/>
-nu er forløbet siden Grundloven af 1849,<lb xml:id="d1e30482"/>
-opfyldt med en Bække Bestræbelser for en<lb xml:id="d1e30484"/>
-almindeligere Gennemførelse af de nævnte<lb xml:id="d1e30486"/>
-Grundlovsprineiper, Bestræbelser, der som<lb xml:id="d1e30488"/>
-bekendt hidtil have været uden direkte<lb xml:id="d1e30491"/>
+               <p xml:id="d1e30483">
+I øvrigt er det halve Aarhundrede, der<lb xml:id="d1e30485"/>
+nu er forløbet siden Grundloven af 1849,<lb xml:id="d1e30487"/>
+opfyldt med en Bække Bestræbelser for en<lb xml:id="d1e30489"/>
+almindeligere Gennemførelse af de nævnte<lb xml:id="d1e30491"/>
+Grundlovsprineiper, Bestræbelser, der som<lb xml:id="d1e30493"/>
+bekendt hidtil have været uden direkte<lb xml:id="d1e30496"/>
 praktisk Resultat.
 </p>
-               <p xml:id="d1e30494">
-I 1852 blev det saaledes af Justits-<lb xml:id="d1e30496"/>
-minister A. W. Scheel overdraget Højeste-<lb xml:id="d1e30498"/>
-retsassessor Mourier at udarbejde de for-<lb xml:id="d1e30500"/>
-nødne Lovudkast til Gennemførelse af<lb xml:id="d1e30502"/>
-Grundlovens Bud paa Strafferetsplejens Om-<lb xml:id="d1e30504"/>
-raade. Et af denne udarbejdet Lovudkast<lb xml:id="d1e30507"/>
-tillige med Grundtræk til en Ordning af<lb xml:id="d1e30509"/>
-Domsmagten blev derpaa i August 1854<lb xml:id="d1e30511"/>
-indsendt til Justitsministeriet; den davæ-<lb xml:id="d1e30513"/>
-rende Justitsminister (Ørsted) tilstillede un-<lb xml:id="d1e30515"/>
-der 7de December s. A. den Kommission,<lb xml:id="d1e30517"/>
-der dengang var nedsat til Udarbejdelse af<lb xml:id="d1e30520"/>
-en ny Straffelov, Udkastet til Betænkning,<lb xml:id="d1e30522"/>
-ledsaget af en udførlig Skrivelse, hvori han<lb xml:id="d1e30524"/>
-nærmere udviklede og begrundede sine Be-<lb xml:id="d1e30526"/>
-tænkeligheder med Hensyn til Lovudkastet<lb xml:id="d1e30528"/>
+               <p xml:id="d1e30499">
+I 1852 blev det saaledes af Justits-<lb xml:id="d1e30501"/>
+minister A. W. Scheel overdraget Højeste-<lb xml:id="d1e30503"/>
+retsassessor Mourier at udarbejde de for-<lb xml:id="d1e30505"/>
+nødne Lovudkast til Gennemførelse af<lb xml:id="d1e30507"/>
+Grundlovens Bud paa Strafferetsplejens Om-<lb xml:id="d1e30509"/>
+raade. Et af denne udarbejdet Lovudkast<lb xml:id="d1e30512"/>
+tillige med Grundtræk til en Ordning af<lb xml:id="d1e30514"/>
+Domsmagten blev derpaa i August 1854<lb xml:id="d1e30516"/>
+indsendt til Justitsministeriet; den davæ-<lb xml:id="d1e30518"/>
+rende Justitsminister (Ørsted) tilstillede un-<lb xml:id="d1e30520"/>
+der 7de December s. A. den Kommission,<lb xml:id="d1e30522"/>
+der dengang var nedsat til Udarbejdelse af<lb xml:id="d1e30525"/>
+en ny Straffelov, Udkastet til Betænkning,<lb xml:id="d1e30527"/>
+ledsaget af en udførlig Skrivelse, hvori han<lb xml:id="d1e30529"/>
+nærmere udviklede og begrundede sine Be-<lb xml:id="d1e30531"/>
+tænkeligheder med Hensyn til Lovudkastet<lb xml:id="d1e30533"/>
 i det hele.
 </p>
-               <p xml:id="d1e30531">
-Da imidlertid det af Mourier udarbej-<lb xml:id="d1e30533"/>
-dede Lovudkast nærmest var bygget paa<lb xml:id="d1e30535"/>
-fransk Ret, ansaa den følgende Justits-<lb xml:id="d1e30537"/>
-minister (Simony) det rettest tillige at søge<lb xml:id="d1e30539"/>
-et Lovudkast udarbejdet, der nærmest slut-<lb xml:id="d1e30541"/>
-tede sig til den engelske Strafferetsplejes<lb xml:id="d1e30544"/>
-Principer, og dette Arbejde blev overdraget<lb xml:id="d1e30546"/>
+               <p xml:id="d1e30536">
+Da imidlertid det af Mourier udarbej-<lb xml:id="d1e30538"/>
+dede Lovudkast nærmest var bygget paa<lb xml:id="d1e30540"/>
+fransk Ret, ansaa den følgende Justits-<lb xml:id="d1e30542"/>
+minister (Simony) det rettest tillige at søge<lb xml:id="d1e30544"/>
+et Lovudkast udarbejdet, der nærmest slut-<lb xml:id="d1e30546"/>
+tede sig til den engelske Strafferetsplejes<lb xml:id="d1e30549"/>
+Principer, og dette Arbejde blev overdraget<lb xml:id="d1e30551"/>
 Hotlier Hage, som den 20de Juni 1857 ind-
 </p>
-               <milestone type="leftside" xml:id="endd1e25632" prev="startd1e25632" n="4113" unit="column"/>
-               <milestone type="rightside" xml:id="startd1e25754" next="endd1e25754" n="4114" unit="column"/>
                <p xml:id="d1e30554">
-sendte 3 Udkast til Love henholdsvis om<lb xml:id="d1e30556"/>
-1) Domsmagten i Straffesager, 2) Forfølg-<lb xml:id="d1e30558"/>
-ningen af de Straffesager, der behandles<lb xml:id="d1e30560"/>
-ved Nævningeretter, og 3) Behandlingen af<lb xml:id="d1e30562"/>
-Straffesager, der høre under Kredsretternes<lb xml:id="d1e30564"/>
-Omraade. Under 24de August 1857 blev<lb xml:id="d1e30567"/>
-det overensstemmende med Straffelovskom-<lb xml:id="d1e30569"/>
-missionens Ønske overdraget en særlig<lb xml:id="d1e30571"/>
-Kommission*) at afgive Betænkning over<lb xml:id="d1e30573"/>
-saavel de af Mourier som de af Hage ud-<lb xml:id="d1e30575"/>
-arbejdede Forslag. Denne Kommission<lb xml:id="d1e30577"/>
-gennemgik Grundprincip er ne i de nævnte<lb xml:id="d1e30580"/>
-Lovforslag; men da den kom til det Re-<lb xml:id="d1e30582"/>
-sultat, at Behandlingen i det enkelte vilde<lb xml:id="d1e30584"/>
-være forbunden med særegne Vanskelig-<lb xml:id="d1e30586"/>
-heder, fordi der forelaa indbyrdes meget<lb xml:id="d1e30588"/>
-afvigende Forslag, uden at man vidste, hvor-<lb xml:id="d1e30590"/>
-vidt Regeringen vilde kunne slutte sig til<lb xml:id="d1e30593"/>
-noget af dem, standsede den sine Arbejder<lb xml:id="d1e30595"/>
-og indsendte Udskrift af sine Forhandlin-<lb xml:id="d1e30597"/>
-ger til Justitsministeriet med Anmodning<lb xml:id="d1e30599"/>
-om, at dette selv vilde udarbejde et Lov-<lb xml:id="d1e30601"/>
-forslag. der da kunde danne Grundlag for<lb xml:id="d1e30603"/>
+                  <milestone type="leftside" xml:id="endd1e25632" prev="startd1e25632" n="4113" unit="column"/>
+               </p>
+               
+               <p xml:id="d1e30562">
+                  <milestone type="rightside" xml:id="startd1e25754" next="endd1e25754" n="4114" unit="column"/>
+               </p>
+               <p xml:id="d1e30567">
+sendte 3 Udkast til Love henholdsvis om<lb xml:id="d1e30569"/>
+1) Domsmagten i Straffesager, 2) Forfølg-<lb xml:id="d1e30571"/>
+ningen af de Straffesager, der behandles<lb xml:id="d1e30573"/>
+ved Nævningeretter, og 3) Behandlingen af<lb xml:id="d1e30575"/>
+Straffesager, der høre under Kredsretternes<lb xml:id="d1e30577"/>
+Omraade. Under 24de August 1857 blev<lb xml:id="d1e30580"/>
+det overensstemmende med Straffelovskom-<lb xml:id="d1e30582"/>
+missionens Ønske overdraget en særlig<lb xml:id="d1e30584"/>
+Kommission*) at afgive Betænkning over<lb xml:id="d1e30586"/>
+saavel de af Mourier som de af Hage ud-<lb xml:id="d1e30588"/>
+arbejdede Forslag. Denne Kommission<lb xml:id="d1e30590"/>
+gennemgik Grundprincip er ne i de nævnte<lb xml:id="d1e30593"/>
+Lovforslag; men da den kom til det Re-<lb xml:id="d1e30595"/>
+sultat, at Behandlingen i det enkelte vilde<lb xml:id="d1e30597"/>
+være forbunden med særegne Vanskelig-<lb xml:id="d1e30599"/>
+heder, fordi der forelaa indbyrdes meget<lb xml:id="d1e30601"/>
+afvigende Forslag, uden at man vidste, hvor-<lb xml:id="d1e30603"/>
+vidt Regeringen vilde kunne slutte sig til<lb xml:id="d1e30606"/>
+noget af dem, standsede den sine Arbejder<lb xml:id="d1e30608"/>
+og indsendte Udskrift af sine Forhandlin-<lb xml:id="d1e30610"/>
+ger til Justitsministeriet med Anmodning<lb xml:id="d1e30612"/>
+om, at dette selv vilde udarbejde et Lov-<lb xml:id="d1e30614"/>
+forslag. der da kunde danne Grundlag for<lb xml:id="d1e30616"/>
 Kommissionens videre Forhandlinger.
 </p>
-               <p xml:id="d1e30606">
-Denne Anmodning fandt Ministeriet at<lb xml:id="d1e30608"/>
-burde efterkomme, og der udarbejdedes i<lb xml:id="d1e30610"/>
-Aaret 1859 af daværende Departements-<lb xml:id="d1e30612"/>
-chef Leuning et nyt Udkast, hvis endelige<lb xml:id="d1e30614"/>
-Behandling i Ministeriet endnu ikke havde<lb xml:id="d1e30616"/>
-fundet Sted, da der i Bigsdagen i Efter-<lb xml:id="d1e30619"/>
-aaret 1861 (jfr. Folketingstid. 1861 Sp. 621,<lb xml:id="d1e30621"/>
-973, 1164, Tillæg A. Sp. 945, 963, 1027)<lb xml:id="d1e30623"/>
-af Hage blev indbragt 3 Lovforslag angaa-<lb xml:id="d1e30625"/>
-ende Gennemførelse af Grundlovens § 79,<lb xml:id="d1e30627"/>
-hvilke med enkelte Afvigelser stemmede<lb xml:id="d1e30629"/>
-med de Udkast, der som foran anført havde<lb xml:id="d1e30632"/>
-foreligget den i dette Øjemed nedsatte<lb xml:id="d1e30634"/>
-Kommission til Betænkning. Disse Forslag<lb xml:id="d1e30636"/>
-gennemgik en første Behandling i Folke-<lb xml:id="d1e30638"/>
-tinget, som derefter vedtog tvende af et<lb xml:id="d1e30640"/>
-nedsat Udvalg foreslaaede Beslutninger (jfr.<lb xml:id="d1e30642"/>
-Folketingstid. 1861 Tillæg B. Sp. 537, 556,<lb xml:id="d1e30645"/>
-567, A. Sp. 1507, B. 569), i Henhold til<lb xml:id="d1e30647"/>
-hvilke de forelagte Lovforslag tilligemed<lb xml:id="d1e30649"/>
-Udvalgets Betænkning tilstilledes Begerin-<lb xml:id="d1e30651"/>
-gen, idet Folketinget udtalte sit levende<lb xml:id="d1e30653"/>
+               <p xml:id="d1e30619">
+Denne Anmodning fandt Ministeriet at<lb xml:id="d1e30621"/>
+burde efterkomme, og der udarbejdedes i<lb xml:id="d1e30623"/>
+Aaret 1859 af daværende Departements-<lb xml:id="d1e30625"/>
+chef Leuning et nyt Udkast, hvis endelige<lb xml:id="d1e30627"/>
+Behandling i Ministeriet endnu ikke havde<lb xml:id="d1e30629"/>
+fundet Sted, da der i Bigsdagen i Efter-<lb xml:id="d1e30632"/>
+aaret 1861 (jfr. Folketingstid. 1861 Sp. 621,<lb xml:id="d1e30634"/>
+973, 1164, Tillæg A. Sp. 945, 963, 1027)<lb xml:id="d1e30636"/>
+af Hage blev indbragt 3 Lovforslag angaa-<lb xml:id="d1e30638"/>
+ende Gennemførelse af Grundlovens § 79,<lb xml:id="d1e30640"/>
+hvilke med enkelte Afvigelser stemmede<lb xml:id="d1e30642"/>
+med de Udkast, der som foran anført havde<lb xml:id="d1e30645"/>
+foreligget den i dette Øjemed nedsatte<lb xml:id="d1e30647"/>
+Kommission til Betænkning. Disse Forslag<lb xml:id="d1e30649"/>
+gennemgik en første Behandling i Folke-<lb xml:id="d1e30651"/>
+tinget, som derefter vedtog tvende af et<lb xml:id="d1e30653"/>
+nedsat Udvalg foreslaaede Beslutninger (jfr.<lb xml:id="d1e30655"/>
+Folketingstid. 1861 Tillæg B. Sp. 537, 556,<lb xml:id="d1e30658"/>
+567, A. Sp. 1507, B. 569), i Henhold til<lb xml:id="d1e30660"/>
+hvilke de forelagte Lovforslag tilligemed<lb xml:id="d1e30662"/>
+Udvalgets Betænkning tilstilledes Begerin-<lb xml:id="d1e30664"/>
+gen, idet Folketinget udtalte sit levende<lb xml:id="d1e30666"/>
 Ønske om at se Lovforslag til Gennem-
 </p>
-               <p xml:id="d1e30656">
-*) Penne Kommission (den første Proceskom-<lb xml:id="d1e30658"/>
-mission) bestod af Højesteretsassessor Bruun,<lb xml:id="d1e30660"/>
-Generalprokurør Algreen-Ussing, Højesterets-<lb xml:id="d1e30662"/>
-assessor Mourier, Departementschef i Justits-<lb xml:id="d1e30664"/>
-ministeriet Leuning, Byfoged Crone, Kriminal-<lb xml:id="d1e30666"/>
-retsassessor Køpke, Højeretsadvokat Broch og<lb xml:id="d1e30669"/>
+               <p xml:id="d1e30669">
+*) Penne Kommission (den første Proceskom-<lb xml:id="d1e30671"/>
+mission) bestod af Højesteretsassessor Bruun,<lb xml:id="d1e30673"/>
+Generalprokurør Algreen-Ussing, Højesterets-<lb xml:id="d1e30675"/>
+assessor Mourier, Departementschef i Justits-<lb xml:id="d1e30677"/>
+ministeriet Leuning, Byfoged Crone, Kriminal-<lb xml:id="d1e30679"/>
+retsassessor Køpke, Højeretsadvokat Broch og<lb xml:id="d1e30682"/>
 Cand. juris Hother Hage.
 </p>
-               <milestone type="rightside" xml:id="endd1e25754" prev="startd1e25754" n="4114" unit="column"/>
-               <p xml:id="d1e30674">
+               <p xml:id="d1e30685">
+                  <milestone type="rightside" xml:id="endd1e25754" prev="startd1e25754" n="4114" unit="column"/>
+               </p>
+               <p xml:id="d1e30690">
 Forelagte Lovforslag m. m.  258
 </p>
                <pb xml:id="idr18_00238_rigsdagtid_1906_07" facs="r18_00238_rigsdagtid_1906_07" n=""/>
-               <fw xml:id="d1e30679" type="head" place="top-left">4115</fw>
-               <fw xml:id="d1e30682" type="head" place="top-middle">Forsl. t. L. om Rettens Pleje.</fw>
-               <fw xml:id="d1e30685" type="head" place="top-right">4116</fw>
-               <milestone type="leftside" xml:id="startd1e25888" next="endd1e25888" n="4115" unit="column"/>
-               <p xml:id="d1e30690">
-førelse af Forskrifterne i Grundlovens §§ 76<lb xml:id="d1e30692"/>
-og 79 forelagte Rigsdagen af Justitsmini-<lb xml:id="d1e30694"/>
+               <fw xml:id="d1e30695" type="head" place="top-left">4115</fw>
+               <fw xml:id="d1e30698" type="head" place="top-middle">Forsl. t. L. om Rettens Pleje.</fw>
+               <fw xml:id="d1e30701" type="head" place="top-right">4116</fw>
+               
+               <p xml:id="d1e30706">
+                  <milestone type="leftside" xml:id="startd1e25888" next="endd1e25888" n="4115" unit="column"/>
+               </p>
+               <p xml:id="d1e30712">
+førelse af Forskrifterne i Grundlovens §§ 76<lb xml:id="d1e30714"/>
+og 79 forelagte Rigsdagen af Justitsmini-<lb xml:id="d1e30716"/>
 steren.
 </p>
-               <p xml:id="d1e30698">
-I den saaledes i Folketinget stedfundne<lb xml:id="d1e30700"/>
-Behandling fandt Justitsministeren (Casse)<lb xml:id="d1e30702"/>
-fornyet Opfordring til at fremme Sagen<lb xml:id="d1e30704"/>
-saa meget som muligt, og da de Forarbej-<lb xml:id="d1e30706"/>
-der, som man alt var i Besiddelse af, dels<lb xml:id="d1e30708"/>
-i de tidligere udarbejdede Lovforslag, dels<lb xml:id="d1e30711"/>
-i den nedsatte Kommissions Betænkning i<lb xml:id="d1e30713"/>
-Forbindelse med Forhandlingerne i Folke-<lb xml:id="d1e30715"/>
-tinget og den af sammes Udvalg afgivne<lb xml:id="d1e30717"/>
-Betænkning, ansaas tilstrækkelige, forelagde<lb xml:id="d1e30719"/>
-Ministeren (Casse) i Efteraaret 1862 (jfr.<lb xml:id="d1e30721"/>
-Folketingstid. 1862 Sp. 23, 227, Tillæg A.<lb xml:id="d1e30724"/>
-Sp. 459) Udkast til Lov om Gennemførel-<lb xml:id="d1e30726"/>
-sen af Offentlighed og Mundtlighed i Straffe-<lb xml:id="d1e30728"/>
-retsplejen samt Indførelse af Nævninger i<lb xml:id="d1e30730"/>
-Misgerningssager og i Sager, der rejse<lb xml:id="d1e30732"/>
-sig af politiske Lovovertrædelser, et Udkast,<lb xml:id="d1e30734"/>
-i hvilket — som det hedder i de samme<lb xml:id="d1e30737"/>
-ledsagende Motiver — Ministeriet havde<lb xml:id="d1e30739"/>
-troet saa vidt muligt at burde slutte sig til<lb xml:id="d1e30741"/>
-den Maade, hvorpaa Anklagerettergangen<lb xml:id="d1e30743"/>
-med Offentlighed, Mundtlighed og Nævnin-<lb xml:id="d1e30745"/>
-ger er gennemført i England og de Lande,<lb xml:id="d1e30747"/>
-der have holdt sig til den der stedfundne<lb xml:id="d1e30750"/>
-Retsudvikling, medens man paa den anden<lb xml:id="d1e30752"/>
-Side, hvor saadant lod sig forene med de<lb xml:id="d1e30754"/>
-til Grund for den ny Rettergangsmaade<lb xml:id="d1e30756"/>
-liggende Principer, formente at burde tage<lb xml:id="d1e30758"/>
-Hensyn til de her i Landet bestaaende For-<lb xml:id="d1e30760"/>
-hold og til den under disse udviklede Rets-<lb xml:id="d1e30763"/>
+               <p xml:id="d1e30719">
+I den saaledes i Folketinget stedfundne<lb xml:id="d1e30721"/>
+Behandling fandt Justitsministeren (Casse)<lb xml:id="d1e30723"/>
+fornyet Opfordring til at fremme Sagen<lb xml:id="d1e30725"/>
+saa meget som muligt, og da de Forarbej-<lb xml:id="d1e30727"/>
+der, som man alt var i Besiddelse af, dels<lb xml:id="d1e30729"/>
+i de tidligere udarbejdede Lovforslag, dels<lb xml:id="d1e30732"/>
+i den nedsatte Kommissions Betænkning i<lb xml:id="d1e30734"/>
+Forbindelse med Forhandlingerne i Folke-<lb xml:id="d1e30736"/>
+tinget og den af sammes Udvalg afgivne<lb xml:id="d1e30738"/>
+Betænkning, ansaas tilstrækkelige, forelagde<lb xml:id="d1e30740"/>
+Ministeren (Casse) i Efteraaret 1862 (jfr.<lb xml:id="d1e30742"/>
+Folketingstid. 1862 Sp. 23, 227, Tillæg A.<lb xml:id="d1e30745"/>
+Sp. 459) Udkast til Lov om Gennemførel-<lb xml:id="d1e30747"/>
+sen af Offentlighed og Mundtlighed i Straffe-<lb xml:id="d1e30749"/>
+retsplejen samt Indførelse af Nævninger i<lb xml:id="d1e30751"/>
+Misgerningssager og i Sager, der rejse<lb xml:id="d1e30753"/>
+sig af politiske Lovovertrædelser, et Udkast,<lb xml:id="d1e30755"/>
+i hvilket — som det hedder i de samme<lb xml:id="d1e30758"/>
+ledsagende Motiver — Ministeriet havde<lb xml:id="d1e30760"/>
+troet saa vidt muligt at burde slutte sig til<lb xml:id="d1e30762"/>
+den Maade, hvorpaa Anklagerettergangen<lb xml:id="d1e30764"/>
+med Offentlighed, Mundtlighed og Nævnin-<lb xml:id="d1e30766"/>
+ger er gennemført i England og de Lande,<lb xml:id="d1e30768"/>
+der have holdt sig til den der stedfundne<lb xml:id="d1e30771"/>
+Retsudvikling, medens man paa den anden<lb xml:id="d1e30773"/>
+Side, hvor saadant lod sig forene med de<lb xml:id="d1e30775"/>
+til Grund for den ny Rettergangsmaade<lb xml:id="d1e30777"/>
+liggende Principer, formente at burde tage<lb xml:id="d1e30779"/>
+Hensyn til de her i Landet bestaaende For-<lb xml:id="d1e30781"/>
+hold og til den under disse udviklede Rets-<lb xml:id="d1e30784"/>
 bevidsthed.
 </p>
-               <p xml:id="d1e30766">
-Dette Forslag var imidlertid, da Rigs-<lb xml:id="d1e30768"/>
-dagens Samling blev sluttet i Slutningen<lb xml:id="d1e30770"/>
-af Januar Maaned 1863, ikke naaet videre<lb xml:id="d1e30772"/>
-end til at have gennemgaaet en første Be-<lb xml:id="d1e30774"/>
-handling i Folketinget, hvorhos en Betænk-<lb xml:id="d1e30776"/>
-ning om det var afgiven af et af Folketin-<lb xml:id="d1e30779"/>
-get nedsat Udvalg (jfr. Folketingstid. 1862<lb xml:id="d1e30781"/>
-Tillæg B. Sp. 649).' Det udtales i denne<lb xml:id="d1e30783"/>
-Betænkning, at den omhandlede Reform<lb xml:id="d1e30785"/>
-maa betragtes som et stort Skridt til at<lb xml:id="d1e30787"/>
-udvikle og befæste Grundloven, der ikke<lb xml:id="d1e30789"/>
-kan siges at være fuldstændig gennemført,<lb xml:id="d1e30792"/>
-saa længe den bebudede Reform i Rets-<lb xml:id="d1e30794"/>
-plejen — hvilken har en saa indgribende<lb xml:id="d1e30796"/>
-Betydning for den personlige Frihed, for<lb xml:id="d1e30798"/>
-Udviklingen af det statsborgerlige Liv, for<lb xml:id="d1e30800"/>
-Befæstelsen af Tilliden til Domstolene, for<lb xml:id="d1e30802"/>
-Udbredelsen af Agtelse for Loven og Nid-<lb xml:id="d1e30805"/>
-kærhed for at opretholde den — ikke er<lb xml:id="d1e30807"/>
-bleven tilvejebragt. I den følgende Rigs-<lb xml:id="d1e30809"/>
-dagssamling fremsatte dernæst Justitsmini-<lb xml:id="d1e30811"/>
-steren (Casse) paany i Januar 1864 For-<lb xml:id="d1e30813"/>
-slaget fra forrige Samling (jfr. Folketings-<lb xml:id="d1e30815"/>
-tid'. 1863 Sp. 63, 388, Tillæg A. Sp. 455)<lb xml:id="d1e30818"/>
-med Optagelse af adskillige Ændringer<lb xml:id="d1e30820"/>
+               <p xml:id="d1e30787">
+Dette Forslag var imidlertid, da Rigs-<lb xml:id="d1e30789"/>
+dagens Samling blev sluttet i Slutningen<lb xml:id="d1e30791"/>
+af Januar Maaned 1863, ikke naaet videre<lb xml:id="d1e30793"/>
+end til at have gennemgaaet en første Be-<lb xml:id="d1e30795"/>
+handling i Folketinget, hvorhos en Betænk-<lb xml:id="d1e30797"/>
+ning om det var afgiven af et af Folketin-<lb xml:id="d1e30800"/>
+get nedsat Udvalg (jfr. Folketingstid. 1862<lb xml:id="d1e30802"/>
+Tillæg B. Sp. 649).' Det udtales i denne<lb xml:id="d1e30804"/>
+Betænkning, at den omhandlede Reform<lb xml:id="d1e30806"/>
+maa betragtes som et stort Skridt til at<lb xml:id="d1e30808"/>
+udvikle og befæste Grundloven, der ikke<lb xml:id="d1e30810"/>
+kan siges at være fuldstændig gennemført,<lb xml:id="d1e30813"/>
+saa længe den bebudede Reform i Rets-<lb xml:id="d1e30815"/>
+plejen — hvilken har en saa indgribende<lb xml:id="d1e30817"/>
+Betydning for den personlige Frihed, for<lb xml:id="d1e30819"/>
+Udviklingen af det statsborgerlige Liv, for<lb xml:id="d1e30821"/>
+Befæstelsen af Tilliden til Domstolene, for<lb xml:id="d1e30823"/>
+Udbredelsen af Agtelse for Loven og Nid-<lb xml:id="d1e30826"/>
+kærhed for at opretholde den — ikke er<lb xml:id="d1e30828"/>
+bleven tilvejebragt. I den følgende Rigs-<lb xml:id="d1e30830"/>
+dagssamling fremsatte dernæst Justitsmini-<lb xml:id="d1e30832"/>
+steren (Casse) paany i Januar 1864 For-<lb xml:id="d1e30834"/>
+slaget fra forrige Samling (jfr. Folketings-<lb xml:id="d1e30836"/>
+tid'. 1863 Sp. 63, 388, Tillæg A. Sp. 455)<lb xml:id="d1e30839"/>
+med Optagelse af adskillige Ændringer<lb xml:id="d1e30841"/>
 under Hensyn til det af Folketingsudvalget
 </p>
-               <milestone type="leftside" xml:id="endd1e25888" prev="startd1e25888" n="4115" unit="column"/>
-               <milestone type="rightside" xml:id="startd1e26023" next="endd1e26023" n="4116" unit="column"/>
-               <p xml:id="d1e30827">
-foreslaaede. 1 Forbindelse hermed blev<lb xml:id="d1e30829"/>
-der fremsat Forslag til Lov om Kongeriget<lb xml:id="d1e30831"/>
-Danmarks Inddeling i Underrretskredse<lb xml:id="d1e30833"/>
-m. m. og om Politiets Ordning i Konge-<lb xml:id="d1e30835"/>
-riget Danmark med Undtagelse af Køben-<lb xml:id="d1e30837"/>
-havn og gamle Københavns Amt, hvorhos<lb xml:id="d1e30840"/>
-der bebudedes Forelæggelsen af et særligt<lb xml:id="d1e30842"/>
-Forslag til Lov om Strafferetsjdejen i<lb xml:id="d1e30844"/>
-København. Heller ikke disse Forslag<lb xml:id="d1e30846"/>
-naaede længer end til første Behandling i<lb xml:id="d1e30848"/>
-Folketinget og til Udvalgsbetænknings Af-<lb xml:id="d1e30850"/>
-givelse (jfr. Folketingstid. 1863 Tillæg B.<lb xml:id="d1e30853"/>
-Sp. 377). I Oktober 1864 (Justitsminister<lb xml:id="d1e30855"/>
-Heltzen) blev derpaa de samme 3 Lovfor-<lb xml:id="d1e30857"/>
-slag paany forelagt Rigsdagen (jfr. Folke-<lb xml:id="d1e30859"/>
-tingstid. 1864 Sp. 287, 852, Tillæg A. Sp.<lb xml:id="d1e30861"/>
-1053), men naaede atter kun til første Be-<lb xml:id="d1e30863"/>
+               <p xml:id="d1e30844">
+                  <milestone type="leftside" xml:id="endd1e25888" prev="startd1e25888" n="4115" unit="column"/>
+               </p>
+               
+               <p xml:id="d1e30851">
+                  <milestone type="rightside" xml:id="startd1e26023" next="endd1e26023" n="4116" unit="column"/>
+               </p>
+               <p xml:id="d1e30857">
+foreslaaede. 1 Forbindelse hermed blev<lb xml:id="d1e30859"/>
+der fremsat Forslag til Lov om Kongeriget<lb xml:id="d1e30861"/>
+Danmarks Inddeling i Underrretskredse<lb xml:id="d1e30863"/>
+m. m. og om Politiets Ordning i Konge-<lb xml:id="d1e30865"/>
+riget Danmark med Undtagelse af Køben-<lb xml:id="d1e30867"/>
+havn og gamle Københavns Amt, hvorhos<lb xml:id="d1e30870"/>
+der bebudedes Forelæggelsen af et særligt<lb xml:id="d1e30872"/>
+Forslag til Lov om Strafferetsjdejen i<lb xml:id="d1e30874"/>
+København. Heller ikke disse Forslag<lb xml:id="d1e30876"/>
+naaede længer end til første Behandling i<lb xml:id="d1e30878"/>
+Folketinget og til Udvalgsbetænknings Af-<lb xml:id="d1e30880"/>
+givelse (jfr. Folketingstid. 1863 Tillæg B.<lb xml:id="d1e30883"/>
+Sp. 377). I Oktober 1864 (Justitsminister<lb xml:id="d1e30885"/>
+Heltzen) blev derpaa de samme 3 Lovfor-<lb xml:id="d1e30887"/>
+slag paany forelagt Rigsdagen (jfr. Folke-<lb xml:id="d1e30889"/>
+tingstid. 1864 Sp. 287, 852, Tillæg A. Sp.<lb xml:id="d1e30891"/>
+1053), men naaede atter kun til første Be-<lb xml:id="d1e30893"/>
 handling i Folketinget.
 </p>
-               <p xml:id="d1e30866">
-Sagen hvilede derpaa, indtil Hage i<lb xml:id="d1e30868"/>
-December 1867, da Rosenørn-Teilmann var<lb xml:id="d1e30870"/>
-Justitsminister, fremsatte 3 Lovforslag i<lb xml:id="d1e30872"/>
-væsentlig Overensstemmelse med de sidste<lb xml:id="d1e30874"/>
-Gang i Oktober 1864 fremsatte (jfr. Folke-<lb xml:id="d1e30876"/>
-tingstid. 1867 Sp. 387, 1073, Tillæg A. Sp.<lb xml:id="d1e30879"/>
-1129). Forslagene kom til første Behand-<lb xml:id="d1e30881"/>
-ling i Folketinget, men blev ved denne<lb xml:id="d1e30883"/>
-tagne tilbage af Forslagsstilleren, efter at<lb xml:id="d1e30885"/>
-der var fremkommet Forslag til en moti-<lb xml:id="d1e30887"/>
-veret Dagsorden, som gik ud paa, at en<lb xml:id="d1e30889"/>
-saa stor og indgribende Reform, som Lov-<lb xml:id="d1e30892"/>
-forslagene gik ud paa, vanskelig kunde<lb xml:id="d1e30894"/>
-gennemføres med Held, før Regeringen tog<lb xml:id="d1e30896"/>
-Initiativet dertil, og alle fornødne Forar-<lb xml:id="d1e30898"/>
-bejder var til Stede, at det vilde være ret-<lb xml:id="d1e30900"/>
-test, at der, forinden endelig Beslutning<lb xml:id="d1e30902"/>
-toges om Indførelse af Nævninger i den<lb xml:id="d1e30905"/>
-kriminelle Retspleje, forelaa Forberedelser<lb xml:id="d1e30907"/>
-til den civile Retsplejes Omordning, og at<lb xml:id="d1e30909"/>
-man forventede, at Regeringen vilde lade<lb xml:id="d1e30911"/>
-begge disse Anliggenders Fremme være sig<lb xml:id="d1e30913"/>
+               <p xml:id="d1e30896">
+Sagen hvilede derpaa, indtil Hage i<lb xml:id="d1e30898"/>
+December 1867, da Rosenørn-Teilmann var<lb xml:id="d1e30900"/>
+Justitsminister, fremsatte 3 Lovforslag i<lb xml:id="d1e30902"/>
+væsentlig Overensstemmelse med de sidste<lb xml:id="d1e30904"/>
+Gang i Oktober 1864 fremsatte (jfr. Folke-<lb xml:id="d1e30906"/>
+tingstid. 1867 Sp. 387, 1073, Tillæg A. Sp.<lb xml:id="d1e30909"/>
+1129). Forslagene kom til første Behand-<lb xml:id="d1e30911"/>
+ling i Folketinget, men blev ved denne<lb xml:id="d1e30913"/>
+tagne tilbage af Forslagsstilleren, efter at<lb xml:id="d1e30915"/>
+der var fremkommet Forslag til en moti-<lb xml:id="d1e30917"/>
+veret Dagsorden, som gik ud paa, at en<lb xml:id="d1e30919"/>
+saa stor og indgribende Reform, som Lov-<lb xml:id="d1e30922"/>
+forslagene gik ud paa, vanskelig kunde<lb xml:id="d1e30924"/>
+gennemføres med Held, før Regeringen tog<lb xml:id="d1e30926"/>
+Initiativet dertil, og alle fornødne Forar-<lb xml:id="d1e30928"/>
+bejder var til Stede, at det vilde være ret-<lb xml:id="d1e30930"/>
+test, at der, forinden endelig Beslutning<lb xml:id="d1e30932"/>
+toges om Indførelse af Nævninger i den<lb xml:id="d1e30935"/>
+kriminelle Retspleje, forelaa Forberedelser<lb xml:id="d1e30937"/>
+til den civile Retsplejes Omordning, og at<lb xml:id="d1e30939"/>
+man forventede, at Regeringen vilde lade<lb xml:id="d1e30941"/>
+begge disse Anliggenders Fremme være sig<lb xml:id="d1e30943"/>
 særdeles magtpaaliggende.
 </p>
-               <p xml:id="d1e30917">
-I Henhold til allerhøjeste Reskript af<lb xml:id="d1e30919"/>
-28de Februar 1868 blev der derpaa af<lb xml:id="d1e30921"/>
-Justitsminister Ro senørn-Teilmann nedsat<lb xml:id="d1e30923"/>
-en Kommission til Udarbejdelse af For-<lb xml:id="d1e30925"/>
-slag til en Omordning af saavel den civile<lb xml:id="d1e30927"/>
+               <p xml:id="d1e30946">
+I Henhold til allerhøjeste Reskript af<lb xml:id="d1e30948"/>
+28de Februar 1868 blev der derpaa af<lb xml:id="d1e30950"/>
+Justitsminister Ro senørn-Teilmann nedsat<lb xml:id="d1e30952"/>
+en Kommission til Udarbejdelse af For-<lb xml:id="d1e30954"/>
+slag til en Omordning af saavel den civile<lb xml:id="d1e30956"/>
 som den kriminelle Retspleje.*) Om Ar-
 </p>
-               <p xml:id="d1e30930">
-*) Denne Kommission (den anden Proceskommis-<lb xml:id="d1e30932"/>
-sion) bestod fra Begyndelsen af følgende Med-<lb xml:id="d1e30934"/>
-lemmer: Højesteretsassessor Krieger som For-<lb xml:id="d1e30936"/>
-mand, Højesteretsassessor Ussing, Borgmester i<lb xml:id="d1e30938"/>
-København, Etatsraad Larsen, Formand i Sø-<lb xml:id="d1e30940"/>
-og Handelsretten i Købenbavn Klein, Professor<lb xml:id="d1e30943"/>
-juris Nellemann, Kriminalretsassessor Nyholm,<lb xml:id="d1e30945"/>
-Overretsassessor Rimestad, By- og Herreds-<lb xml:id="d1e30947"/>
-foged Hage samt Højesteretsadvokaterne Broch<lb xml:id="d1e30949"/>
-og Liebe. Senere tiltraadtes Kommissionen, i<lb xml:id="d1e30951"/>
-Henbold til allerhøjeste Reskripter af 8de Juni<lb xml:id="d1e30953"/>
-og 19de Oktober 1870, af Professor juris Goos<lb xml:id="d1e30956"/>
+               <p xml:id="d1e30959">
+*) Denne Kommission (den anden Proceskommis-<lb xml:id="d1e30961"/>
+sion) bestod fra Begyndelsen af følgende Med-<lb xml:id="d1e30963"/>
+lemmer: Højesteretsassessor Krieger som For-<lb xml:id="d1e30965"/>
+mand, Højesteretsassessor Ussing, Borgmester i<lb xml:id="d1e30967"/>
+København, Etatsraad Larsen, Formand i Sø-<lb xml:id="d1e30969"/>
+og Handelsretten i Købenbavn Klein, Professor<lb xml:id="d1e30972"/>
+juris Nellemann, Kriminalretsassessor Nyholm,<lb xml:id="d1e30974"/>
+Overretsassessor Rimestad, By- og Herreds-<lb xml:id="d1e30976"/>
+foged Hage samt Højesteretsadvokaterne Broch<lb xml:id="d1e30978"/>
+og Liebe. Senere tiltraadtes Kommissionen, i<lb xml:id="d1e30980"/>
+Henbold til allerhøjeste Reskripter af 8de Juni<lb xml:id="d1e30982"/>
+og 19de Oktober 1870, af Professor juris Goos<lb xml:id="d1e30985"/>
 og Departementschef i Justitsministeriet Bi-
 </p>
-               <milestone type="rightside" xml:id="endd1e26023" prev="startd1e26023" n="4116" unit="column"/>
+               <p xml:id="d1e30988">
+                  <milestone type="rightside" xml:id="endd1e26023" prev="startd1e26023" n="4116" unit="column"/>
+               </p>
                <pb xml:id="idr18_00239_rigsdagtid_1906_07" facs="r18_00239_rigsdagtid_1906_07" n=""/>
-               <fw xml:id="d1e30963" type="head" place="top-left">4117</fw>
-               <fw xml:id="d1e30966" type="head" place="top-middle">Forsi. t. L. om Rettens Pleje.</fw>
-               <fw xml:id="d1e30970" type="head" place="top-right">4118</fw>
-               <milestone type="leftside" xml:id="startd1e26168" next="endd1e26168" n="4117" unit="column"/>
-               <p xml:id="d1e30975">
-bejdets Gang i denne Kommission afgav<lb xml:id="d1e30977"/>
-Kommissionens Formand i Forbindelse<lb xml:id="d1e30979"/>
-med Indsendelsen af de af Kommissionen<lb xml:id="d1e30981"/>
-udarbejdede 3 Lovudkast: om Strafferets-<lb xml:id="d1e30983"/>
-plejen, om den borgerlige Retspleje og om<lb xml:id="d1e30985"/>
-Domsmagtens Ordning m. m., en Beret-<lb xml:id="d1e30988"/>
-ning til Justitsministeriet, dateret Septbr.<lb xml:id="d1e30990"/>
+               <fw xml:id="d1e30996" type="head" place="top-left">4117</fw>
+               <fw xml:id="d1e30999" type="head" place="top-middle">Forsi. t. L. om Rettens Pleje.</fw>
+               <fw xml:id="d1e31002" type="head" place="top-right">4118</fw>
+               
+               <p xml:id="d1e31007">
+                  <milestone type="leftside" xml:id="startd1e26168" next="endd1e26168" n="4117" unit="column"/>
+               </p>
+               <p xml:id="d1e31012">
+bejdets Gang i denne Kommission afgav<lb xml:id="d1e31014"/>
+Kommissionens Formand i Forbindelse<lb xml:id="d1e31016"/>
+med Indsendelsen af de af Kommissionen<lb xml:id="d1e31018"/>
+udarbejdede 3 Lovudkast: om Strafferets-<lb xml:id="d1e31020"/>
+plejen, om den borgerlige Retspleje og om<lb xml:id="d1e31022"/>
+Domsmagtens Ordning m. m., en Beret-<lb xml:id="d1e31025"/>
+ning til Justitsministeriet, dateret Septbr.<lb xml:id="d1e31027"/>
 1877.
 </p>
-               <p xml:id="d1e30993">
-Som Grundlag for Kommissionens Ar-<lb xml:id="d1e30995"/>
-bejder paa den borgerlige Retsplejes Om-<lb xml:id="d1e30997"/>
-raade tjente et af Nellemann forfattet<lb xml:id="d1e30999"/>
-foreløbigt Udkast, hvis vigtigste Dele til-<lb xml:id="d1e31001"/>
-sendtes Landets Overdommere, Advokater,<lb xml:id="d1e31003"/>
-Amtmænd, en Del Sagførere og andre med<lb xml:id="d1e31006"/>
-Anmodning om, saa vidt de dertil maatte<lb xml:id="d1e31008"/>
-føle sig opfordrede, at ytre sig over<lb xml:id="d1e31010"/>
-samme, hvorefter der til Kommissionen<lb xml:id="d1e31012"/>
-indkom en Del forskellige Udtalelser og<lb xml:id="d1e31014"/>
+               <p xml:id="d1e31031">
+Som Grundlag for Kommissionens Ar-<lb xml:id="d1e31033"/>
+bejder paa den borgerlige Retsplejes Om-<lb xml:id="d1e31035"/>
+raade tjente et af Nellemann forfattet<lb xml:id="d1e31037"/>
+foreløbigt Udkast, hvis vigtigste Dele til-<lb xml:id="d1e31039"/>
+sendtes Landets Overdommere, Advokater,<lb xml:id="d1e31041"/>
+Amtmænd, en Del Sagførere og andre med<lb xml:id="d1e31044"/>
+Anmodning om, saa vidt de dertil maatte<lb xml:id="d1e31046"/>
+føle sig opfordrede, at ytre sig over<lb xml:id="d1e31048"/>
+samme, hvorefter der til Kommissionen<lb xml:id="d1e31050"/>
+indkom en Del forskellige Udtalelser og<lb xml:id="d1e31052"/>
 Meddelelser.
 </p>
-               <p xml:id="d1e31017">
-Om Udpantning udarbejdedes et sær-<lb xml:id="d1e31019"/>
+               <p xml:id="d1e31055">
+Om Udpantning udarbejdedes et sær-<lb xml:id="d1e31057"/>
 ligt Lovudkast med Motiver af Ricard.
 </p>
-               <p xml:id="d1e31022">
-Som Grundlag for Kommissionens Ar-<lb xml:id="d1e31024"/>
-bejder paa Strafferetsplejens Omraade<lb xml:id="d1e31026"/>
-tjente et af Goos udarbejdet Udkast til<lb xml:id="d1e31028"/>
+               <p xml:id="d1e31060">
+Som Grundlag for Kommissionens Ar-<lb xml:id="d1e31062"/>
+bejder paa Strafferetsplejens Omraade<lb xml:id="d1e31064"/>
+tjente et af Goos udarbejdet Udkast til<lb xml:id="d1e31066"/>
 Lov om Strafferetsplejen.
 </p>
-               <p xml:id="d1e31032">
-Som Grundlag for Kommissionens Ar-<lb xml:id="d1e31034"/>
-bejder paa Retsorganisationens Omraade<lb xml:id="d1e31036"/>
-tjente først dels et af Klein udarbejdet<lb xml:id="d1e31038"/>
-Forslag til Lov om Domsmagtens Ordning,<lb xml:id="d1e31040"/>
-dels et af Nyholm udarbejdet Forslag til<lb xml:id="d1e31042"/>
-Lov om en Rets- og Politiorganisation,<lb xml:id="d1e31045"/>
-og senere et af Goos i Tilslutning til<lb xml:id="d1e31047"/>
-de nævnte Udkast udarbejdet Udkast til<lb xml:id="d1e31049"/>
-Lov om Domsmagtens Ordning samt om<lb xml:id="d1e31051"/>
-den offentlige Anklagemyndighed og om<lb xml:id="d1e31053"/>
+               <p xml:id="d1e31069">
+Som Grundlag for Kommissionens Ar-<lb xml:id="d1e31071"/>
+bejder paa Retsorganisationens Omraade<lb xml:id="d1e31073"/>
+tjente først dels et af Klein udarbejdet<lb xml:id="d1e31075"/>
+Forslag til Lov om Domsmagtens Ordning,<lb xml:id="d1e31077"/>
+dels et af Nyholm udarbejdet Forslag til<lb xml:id="d1e31079"/>
+Lov om en Rets- og Politiorganisation,<lb xml:id="d1e31082"/>
+og senere et af Goos i Tilslutning til<lb xml:id="d1e31084"/>
+de nævnte Udkast udarbejdet Udkast til<lb xml:id="d1e31086"/>
+Lov om Domsmagtens Ordning samt om<lb xml:id="d1e31088"/>
+den offentlige Anklagemyndighed og om<lb xml:id="d1e31090"/>
 Nævningers Kaldelse.
 </p>
-               <p xml:id="d1e31056">
-Under Arbejdets Gang udsondredes<lb xml:id="d1e31058"/>
-forskellige Dele til særskilt legislativ Be-<lb xml:id="d1e31060"/>
-handling, hvilket førte til, at der paa<lb xml:id="d1e31062"/>
-Grundlag af Kommissionens Arbejder frem-<lb xml:id="d1e31064"/>
-kom følgende særlige Love: Konkursloven<lb xml:id="d1e31066"/>
-af 25de Marts 1872, Udpantningsloven af<lb xml:id="d1e31069"/>
-29de Marts 1873 og Skifteloven af 30te<lb xml:id="d1e31071"/>
+               <p xml:id="d1e31093">
+Under Arbejdets Gang udsondredes<lb xml:id="d1e31095"/>
+forskellige Dele til særskilt legislativ Be-<lb xml:id="d1e31097"/>
+handling, hvilket førte til, at der paa<lb xml:id="d1e31099"/>
+Grundlag af Kommissionens Arbejder frem-<lb xml:id="d1e31101"/>
+kom følgende særlige Love: Konkursloven<lb xml:id="d1e31103"/>
+af 25de Marts 1872, Udpantningsloven af<lb xml:id="d1e31106"/>
+29de Marts 1873 og Skifteloven af 30te<lb xml:id="d1e31108"/>
 November 1874.
 </p>
-               <p xml:id="d1e31074">
-Kommissionen foretog den endelige<lb xml:id="d1e31076"/>
-Behandling af Udkast til Lov om Straffe-<lb xml:id="d1e31078"/>
-retsplejen i Slutningen af 1874, og Ud-<lb xml:id="d1e31080"/>
-kastet med Motiver vedtoges derpaa, dog<lb xml:id="d1e31082"/>
-med et dissentierende Votum af Ussing, i<lb xml:id="d1e31084"/>
-Marts 1875 i den Form, hvori det afgaves<lb xml:id="d1e31087"/>
-til Justitsministeriet. Udkastet til Lov<lb xml:id="d1e31089"/>
-om Domsmagtens, den offentlige Anklage-<lb xml:id="d1e31091"/>
-myndigheds, Politimyndighedens samt Sag-<lb xml:id="d1e31093"/>
-førervæsenets Ordning med Motiver ved-<lb xml:id="d1e31095"/>
+               <p xml:id="d1e31111">
+Kommissionen foretog den endelige<lb xml:id="d1e31113"/>
+Behandling af Udkast til Lov om Straffe-<lb xml:id="d1e31115"/>
+retsplejen i Slutningen af 1874, og Ud-<lb xml:id="d1e31117"/>
+kastet med Motiver vedtoges derpaa, dog<lb xml:id="d1e31119"/>
+med et dissentierende Votum af Ussing, i<lb xml:id="d1e31121"/>
+Marts 1875 i den Form, hvori det afgaves<lb xml:id="d1e31124"/>
+til Justitsministeriet. Udkastet til Lov<lb xml:id="d1e31126"/>
+om Domsmagtens, den offentlige Anklage-<lb xml:id="d1e31128"/>
+myndigheds, Politimyndighedens samt Sag-<lb xml:id="d1e31130"/>
+førervæsenets Ordning med Motiver ved-<lb xml:id="d1e31132"/>
 toges i dets endelige Skikkelse i Februar
 </p>
-               <p xml:id="d1e31098">
-card, medens to af dens oprindelige Medlem-<lb xml:id="d1e31100"/>
-mer, Etatsraad, Borgmester Larsen og By-<lb xml:id="d1e31102"/>
-foged Hage, afgik ved Boden, forinden Kom-<lb xml:id="d1e31104"/>
+               <p xml:id="d1e31136">
+card, medens to af dens oprindelige Medlem-<lb xml:id="d1e31138"/>
+mer, Etatsraad, Borgmester Larsen og By-<lb xml:id="d1e31140"/>
+foged Hage, afgik ved Boden, forinden Kom-<lb xml:id="d1e31142"/>
 missionen havde sluttet sine Arbejder.
 </p>
-               <milestone type="leftside" xml:id="endd1e26168" prev="startd1e26168" n="4117" unit="column"/>
-               <milestone type="rightside" xml:id="startd1e26303" next="endd1e26303" n="4118" unit="column"/>
-               <p xml:id="d1e31112">
-1876. Lovudkastet om den borgerlige<lb xml:id="d1e31114"/>
-Retspleje med Motiver vedtoges i September<lb xml:id="d1e31116"/>
-1877; med Hensyn til dette afgav Brock<lb xml:id="d1e31118"/>
+               <p xml:id="d1e31145">
+                  <milestone type="leftside" xml:id="endd1e26168" prev="startd1e26168" n="4117" unit="column"/>
+               </p>
+               
+               <p xml:id="d1e31152">
+                  <milestone type="rightside" xml:id="startd1e26303" next="endd1e26303" n="4118" unit="column"/>
+               </p>
+               <p xml:id="d1e31157">
+1876. Lovudkastet om den borgerlige<lb xml:id="d1e31159"/>
+Retspleje med Motiver vedtoges i September<lb xml:id="d1e31161"/>
+1877; med Hensyn til dette afgav Brock<lb xml:id="d1e31163"/>
 og Ussing dissentierende Vota.
 </p>
-               <p xml:id="d1e31121">
-Efter at Justitsministeriet havde mod-<lb xml:id="d1e31123"/>
-taget de nævnte Udkast, lod det ved en<lb xml:id="d1e31125"/>
-særlig Kommission udarbejde Forslag til<lb xml:id="d1e31127"/>
-en ny Lov om Retsafgifter, et Arbejde,<lb xml:id="d1e31129"/>
-der nødvendiggjordes ved, at den bestaaende<lb xml:id="d1e31131"/>
-Sportellovgivning, navnlig Sportelreglemen-<lb xml:id="d1e31134"/>
-tet af 22de Marts 1814, ikke lader sig an-<lb xml:id="d1e31136"/>
-vende under en fra den nuværende saa<lb xml:id="d1e31138"/>
-forskellig Indretning af hele Retsplejen<lb xml:id="d1e31140"/>
-som den paatænkte. Af samme særlige<lb xml:id="d1e31142"/>
-Kommission udarbejdedes derhos et For-<lb xml:id="d1e31144"/>
-slag til Lov om Udgifterne i Strafferets-<lb xml:id="d1e31147"/>
-plejen. Medens efter de gældende Regler<lb xml:id="d1e31149"/>
-samtlige de særlige Omkostninger i krimi-<lb xml:id="d1e31151"/>
-nelle Sager udredes af Kommunerne, blev<lb xml:id="d1e31153"/>
-der i dette Lovforslag foreslaaet en For-<lb xml:id="d1e31155"/>
-deling af disse, saaledes at de egentlige<lb xml:id="d1e31157"/>
-Delinkventomkostninger skulde bæres af<lb xml:id="d1e31160"/>
-Statskassen, medens Kommunerne vedbli-<lb xml:id="d1e31162"/>
-vende skulde udrede Udgifterne dels til<lb xml:id="d1e31164"/>
-det underordnede Politipersonale, dels til<lb xml:id="d1e31166"/>
-Indrettelsen og Vedligeholdelsen af Arrest-<lb xml:id="d1e31168"/>
-husene med Inventarium, Opvarmning,<lb xml:id="d1e31170"/>
-Betjening og Rengøring samt Udgifterne<lb xml:id="d1e31173"/>
-til Arrestanternes Bevogtning og til Til-<lb xml:id="d1e31175"/>
-vejebringelsen af de fornødne Retslokaler<lb xml:id="d1e31177"/>
-med Undtagelse af Lokalerne til Lands-<lb xml:id="d1e31179"/>
-retterne. Kommunerne skulde for de i<lb xml:id="d1e31181"/>
-Arresthusene modtagne Arrestanter af<lb xml:id="d1e31183"/>
-Statskassen have en fast Betaling pr. Dag.<lb xml:id="d1e31186"/>
-Med Hensyn til Fordelingen af de Ud-<lb xml:id="d1e31188"/>
-gifter, der vedblivende skulde falde Kom-<lb xml:id="d1e31190"/>
-munerne til Last, blev der i Lovforslaget<lb xml:id="d1e31192"/>
-truffet en Ordning, hvorved de nu i høj<lb xml:id="d1e31194"/>
-Grad bebyrdede Købstæder lettedes, og en<lb xml:id="d1e31196"/>
-ligelig Fordeling fandt Sted. — Endelig<lb xml:id="d1e31199"/>
-blev der i Justitsministeriet udarbejdet et<lb xml:id="d1e31201"/>
-Forslag til Lov om Lønninger m. m. for<lb xml:id="d1e31203"/>
-de i Lov om Domsmagtens Ordning om-<lb xml:id="d1e31205"/>
+               <p xml:id="d1e31166">
+Efter at Justitsministeriet havde mod-<lb xml:id="d1e31168"/>
+taget de nævnte Udkast, lod det ved en<lb xml:id="d1e31170"/>
+særlig Kommission udarbejde Forslag til<lb xml:id="d1e31172"/>
+en ny Lov om Retsafgifter, et Arbejde,<lb xml:id="d1e31174"/>
+der nødvendiggjordes ved, at den bestaaende<lb xml:id="d1e31176"/>
+Sportellovgivning, navnlig Sportelreglemen-<lb xml:id="d1e31179"/>
+tet af 22de Marts 1814, ikke lader sig an-<lb xml:id="d1e31181"/>
+vende under en fra den nuværende saa<lb xml:id="d1e31183"/>
+forskellig Indretning af hele Retsplejen<lb xml:id="d1e31185"/>
+som den paatænkte. Af samme særlige<lb xml:id="d1e31187"/>
+Kommission udarbejdedes derhos et For-<lb xml:id="d1e31189"/>
+slag til Lov om Udgifterne i Strafferets-<lb xml:id="d1e31192"/>
+plejen. Medens efter de gældende Regler<lb xml:id="d1e31194"/>
+samtlige de særlige Omkostninger i krimi-<lb xml:id="d1e31196"/>
+nelle Sager udredes af Kommunerne, blev<lb xml:id="d1e31198"/>
+der i dette Lovforslag foreslaaet en For-<lb xml:id="d1e31200"/>
+deling af disse, saaledes at de egentlige<lb xml:id="d1e31202"/>
+Delinkventomkostninger skulde bæres af<lb xml:id="d1e31205"/>
+Statskassen, medens Kommunerne vedbli-<lb xml:id="d1e31207"/>
+vende skulde udrede Udgifterne dels til<lb xml:id="d1e31209"/>
+det underordnede Politipersonale, dels til<lb xml:id="d1e31211"/>
+Indrettelsen og Vedligeholdelsen af Arrest-<lb xml:id="d1e31213"/>
+husene med Inventarium, Opvarmning,<lb xml:id="d1e31215"/>
+Betjening og Rengøring samt Udgifterne<lb xml:id="d1e31218"/>
+til Arrestanternes Bevogtning og til Til-<lb xml:id="d1e31220"/>
+vejebringelsen af de fornødne Retslokaler<lb xml:id="d1e31222"/>
+med Undtagelse af Lokalerne til Lands-<lb xml:id="d1e31224"/>
+retterne. Kommunerne skulde for de i<lb xml:id="d1e31226"/>
+Arresthusene modtagne Arrestanter af<lb xml:id="d1e31228"/>
+Statskassen have en fast Betaling pr. Dag.<lb xml:id="d1e31231"/>
+Med Hensyn til Fordelingen af de Ud-<lb xml:id="d1e31233"/>
+gifter, der vedblivende skulde falde Kom-<lb xml:id="d1e31235"/>
+munerne til Last, blev der i Lovforslaget<lb xml:id="d1e31237"/>
+truffet en Ordning, hvorved de nu i høj<lb xml:id="d1e31239"/>
+Grad bebyrdede Købstæder lettedes, og en<lb xml:id="d1e31241"/>
+ligelig Fordeling fandt Sted. — Endelig<lb xml:id="d1e31244"/>
+blev der i Justitsministeriet udarbejdet et<lb xml:id="d1e31246"/>
+Forslag til Lov om Lønninger m. m. for<lb xml:id="d1e31248"/>
+de i Lov om Domsmagtens Ordning om-<lb xml:id="d1e31250"/>
 handlede Embeds- og Bestillingsmænd.
 </p>
-               <p xml:id="d1e31208">
-De sidstnævnte 3 Lovforslag blev i<lb xml:id="d1e31210"/>
-Tilknytning til 3 Lovforslag, der i alt væ-<lb xml:id="d1e31212"/>
-sentligt svarede til de af Proceskommis-<lb xml:id="d1e31214"/>
-sionen udarbejdede Udkast, af Justitsmini-<lb xml:id="d1e31216"/>
-ster Nellemann forelagt i Folketinget i Sam-<lb xml:id="d1e31218"/>
-lingen 1880—81 (Rigsdagstid. Tillæg A. Sp.<lb xml:id="d1e31221"/>
-3365—4106). Samtlige 6 Lovforslag vare<lb xml:id="d1e31223"/>
-Genstand for en 1ste Behandling i Folke-<lb xml:id="d1e31225"/>
-tinget i Tiden fra 26de Januar til 5te Fe-<lb xml:id="d1e31227"/>
-bruar 1881. (Folket. Tid. Sp. 1981—2364).<lb xml:id="d1e31229"/>
-Deres Overgang til 2den Behandling og<lb xml:id="d1e31231"/>
-Henvisning til et Udvalg af 15 Medlemmer<lb xml:id="d1e31234"/>
-vedtoges. Udvalget blev valgt, men afgav<lb xml:id="d1e31236"/>
-ingen Betænkning. I Samlingen 1881—82<lb xml:id="d1e31238"/>
-forelagde Regeringen de ovennævnte Lov-<lb xml:id="d1e31240"/>
+               <p xml:id="d1e31254">
+De sidstnævnte 3 Lovforslag blev i<lb xml:id="d1e31256"/>
+Tilknytning til 3 Lovforslag, der i alt væ-<lb xml:id="d1e31258"/>
+sentligt svarede til de af Proceskommis-<lb xml:id="d1e31260"/>
+sionen udarbejdede Udkast, af Justitsmini-<lb xml:id="d1e31262"/>
+ster Nellemann forelagt i Folketinget i Sam-<lb xml:id="d1e31264"/>
+lingen 1880—81 (Rigsdagstid. Tillæg A. Sp.<lb xml:id="d1e31267"/>
+3365—4106). Samtlige 6 Lovforslag vare<lb xml:id="d1e31269"/>
+Genstand for en 1ste Behandling i Folke-<lb xml:id="d1e31271"/>
+tinget i Tiden fra 26de Januar til 5te Fe-<lb xml:id="d1e31273"/>
+bruar 1881. (Folket. Tid. Sp. 1981—2364).<lb xml:id="d1e31275"/>
+Deres Overgang til 2den Behandling og<lb xml:id="d1e31277"/>
+Henvisning til et Udvalg af 15 Medlemmer<lb xml:id="d1e31280"/>
+vedtoges. Udvalget blev valgt, men afgav<lb xml:id="d1e31282"/>
+ingen Betænkning. I Samlingen 1881—82<lb xml:id="d1e31284"/>
+forelagde Regeringen de ovennævnte Lov-<lb xml:id="d1e31286"/>
 forslag paa ny. De henvistes efter en ganske
 </p>
-               <milestone type="rightside" xml:id="endd1e26303" prev="startd1e26303" n="4118" unit="column"/>
+               <p xml:id="d1e31289">
+                  <milestone type="rightside" xml:id="endd1e26303" prev="startd1e26303" n="4118" unit="column"/>
+               </p>
                <pb xml:id="idr18_00240_rigsdagtid_1906_07" facs="r18_00240_rigsdagtid_1906_07" n=""/>
-               <fw xml:id="d1e31247" type="head" place="top-left">4119</fw>
-               <fw xml:id="d1e31251" type="head" place="top-middle">Forsi. t. L. om Rettens Pleje.</fw>
-               <fw xml:id="d1e31254" type="head" place="top-right">4120</fw>
-               <milestone type="leftside" xml:id="startd1e26449" next="endd1e26449" n="4119" unit="column"/>
-               <p xml:id="d1e31259">
-kort Omtale ved 1ste Behandling atter til<lb xml:id="d1e31261"/>
+               <fw xml:id="d1e31296" type="head" place="top-left">4119</fw>
+               <fw xml:id="d1e31299" type="head" place="top-middle">Forsi. t. L. om Rettens Pleje.</fw>
+               <fw xml:id="d1e31302" type="head" place="top-right">4120</fw>
+               
+               <p xml:id="d1e31308">
+                  <milestone type="leftside" xml:id="startd1e26449" next="endd1e26449" n="4119" unit="column"/>
+               </p>
+               <p xml:id="d1e31313">
+kort Omtale ved 1ste Behandling atter til<lb xml:id="d1e31315"/>
 Udvalg; videre skete ikke.
 </p>
-               <p xml:id="d1e31264">
-Sagen hvilede derefter — dog at der<lb xml:id="d1e31266"/>
-lejlighedsvis gennem det private Initiativ<lb xml:id="d1e31268"/>
-fremsattes Procesreformforslag — indtil<lb xml:id="d1e31270"/>
-Folketinget den 10de November 1891 efter<lb xml:id="d1e31272"/>
-en lang forudgaaende Forhandling (Folket.<lb xml:id="d1e31274"/>
-Tid. 1891 Sp. 910—1112) vedtog en saa-<lb xml:id="d1e31277"/>
-lydende Beslutning: „Idet Tinget udtaler<lb xml:id="d1e31279"/>
-sit levende Ønske om en snarlig Omord-<lb xml:id="d1e31281"/>
-ning af Betsplejen i Overensstemmelse med<lb xml:id="d1e31283"/>
-Grundlovens § 74, jfr. § 71, opfordrer det<lb xml:id="d1e31285"/>
-Justitsministeren til at foretage de fornødne<lb xml:id="d1e31287"/>
-Skridt til Fremme af denne Beforms Gen-<lb xml:id="d1e31290"/>
+               <p xml:id="d1e31318">
+Sagen hvilede derefter — dog at der<lb xml:id="d1e31320"/>
+lejlighedsvis gennem det private Initiativ<lb xml:id="d1e31322"/>
+fremsattes Procesreformforslag — indtil<lb xml:id="d1e31324"/>
+Folketinget den 10de November 1891 efter<lb xml:id="d1e31326"/>
+en lang forudgaaende Forhandling (Folket.<lb xml:id="d1e31328"/>
+Tid. 1891 Sp. 910—1112) vedtog en saa-<lb xml:id="d1e31331"/>
+lydende Beslutning: „Idet Tinget udtaler<lb xml:id="d1e31333"/>
+sit levende Ønske om en snarlig Omord-<lb xml:id="d1e31335"/>
+ning af Betsplejen i Overensstemmelse med<lb xml:id="d1e31337"/>
+Grundlovens § 74, jfr. § 71, opfordrer det<lb xml:id="d1e31339"/>
+Justitsministeren til at foretage de fornødne<lb xml:id="d1e31341"/>
+Skridt til Fremme af denne Beforms Gen-<lb xml:id="d1e31344"/>
 nemførelse".
 </p>
-               <p xml:id="d1e31293">
-Under Hensyn hertil blev ved aller-<lb xml:id="d1e31295"/>
-højeste Beskript af 11. Maj 1892 den tredie<lb xml:id="d1e31297"/>
-Proceskommission nedsat*). Af denne blev<lb xml:id="d1e31299"/>
+               <p xml:id="d1e31347">
+Under Hensyn hertil blev ved aller-<lb xml:id="d1e31349"/>
+højeste Beskript af 11. Maj 1892 den tredie<lb xml:id="d1e31351"/>
+Proceskommission nedsat*). Af denne blev<lb xml:id="d1e31353"/>
 følgende Lovudkast udkarbejdede:
 </p>
-               <p xml:id="d1e31303">
-1.	Udkast til Lov om Domsmagtens, den<lb xml:id="d1e31305"/>
-offentlige Anklagemyndigheds, Politi-<lb xml:id="d1e31307"/>
-myndighedens samt Sagførervæsenets<lb xml:id="d1e31309"/>
+               <p xml:id="d1e31356">
+1.	Udkast til Lov om Domsmagtens, den<lb xml:id="d1e31358"/>
+offentlige Anklagemyndigheds, Politi-<lb xml:id="d1e31360"/>
+myndighedens samt Sagførervæsenets<lb xml:id="d1e31362"/>
 Ordning.
 </p>
-               <p xml:id="d1e31312">
-2.	Udkast til Lov om den borgerlige<lb xml:id="d1e31314"/>
+               <p xml:id="d1e31365">
+2.	Udkast til Lov om den borgerlige<lb xml:id="d1e31367"/>
 Retspleje.
 </p>
-               <p xml:id="d1e31317">
+               <p xml:id="d1e31371">
 3.	Udkast til Lov om Strafferetsplejen.
 </p>
-               <p xml:id="d1e31319">
+               <p xml:id="d1e31373">
 4.	Udkast til Lov om Betsafgifter.
 </p>
-               <p xml:id="d1e31321">
-5.	Udkast til Lov om Lønninger m. m.<lb xml:id="d1e31323"/>
-for de i Lov om Domsmagten Ord-<lb xml:id="d1e31325"/>
-ning omhandlede Embeds- og Bestil-<lb xml:id="d1e31327"/>
+               <p xml:id="d1e31375">
+5.	Udkast til Lov om Lønninger m. m.<lb xml:id="d1e31377"/>
+for de i Lov om Domsmagten Ord-<lb xml:id="d1e31379"/>
+ning omhandlede Embeds- og Bestil-<lb xml:id="d1e31381"/>
 lingsmænd og
 </p>
-               <p xml:id="d1e31330">
-6.	Udkast til Lov om offentlige Auktioner,<lb xml:id="d1e31332"/>
+               <p xml:id="d1e31384">
+6.	Udkast til Lov om offentlige Auktioner,<lb xml:id="d1e31386"/>
 der ikke er Tvangsauktioner.
 </p>
-               <p xml:id="d1e31336">
-Disse Lovudkast med tilhørende Be-<lb xml:id="d1e31338"/>
-mærkninger m. v afgaves af Kommissionen<lb xml:id="d1e31340"/>
-til Justitsministeriet i Begyndelsen af Aaret<lb xml:id="d1e31342"/>
-1899, men blev ikke forelagt for Rigsdagen<lb xml:id="d1e31344"/>
-førend den 26de Oktober 1901, da den nu-<lb xml:id="d1e31346"/>
-værende Justitsminister fremsatte de 4<lb xml:id="d1e31349"/>
-førstnævnte i Folketinget, hvor de henvistes<lb xml:id="d1e31351"/>
-til et Udvalg, som under 16de Maj 1902<lb xml:id="d1e31353"/>
+               <p xml:id="d1e31389">
+Disse Lovudkast med tilhørende Be-<lb xml:id="d1e31391"/>
+mærkninger m. v afgaves af Kommissionen<lb xml:id="d1e31393"/>
+til Justitsministeriet i Begyndelsen af Aaret<lb xml:id="d1e31395"/>
+1899, men blev ikke forelagt for Rigsdagen<lb xml:id="d1e31397"/>
+førend den 26de Oktober 1901, da den nu-<lb xml:id="d1e31399"/>
+værende Justitsminister fremsatte de 4<lb xml:id="d1e31402"/>
+førstnævnte i Folketinget, hvor de henvistes<lb xml:id="d1e31404"/>
+til et Udvalg, som under 16de Maj 1902<lb xml:id="d1e31406"/>
 afgav Betænkning.
 </p>
-               <p xml:id="d1e31356">
-I Rigsdagssamlingen 1902—03 -frem-<lb xml:id="d1e31358"/>
-satte Justitsministeren den 7de Oktober<lb xml:id="d1e31360"/>
-1902 paany de 3 førstnævnte af Forslagene,<lb xml:id="d1e31362"/>
-men samlede til et Lovforslag under Navn<lb xml:id="d1e31364"/>
+               <p xml:id="d1e31409">
+I Rigsdagssamlingen 1902—03 -frem-<lb xml:id="d1e31411"/>
+satte Justitsministeren den 7de Oktober<lb xml:id="d1e31413"/>
+1902 paany de 3 førstnævnte af Forslagene,<lb xml:id="d1e31415"/>
+men samlede til et Lovforslag under Navn<lb xml:id="d1e31417"/>
 „Forslag til Lov om Rettens Pleje" og paa
 </p>
-               <p xml:id="d1e31367">
-*) Denne Kommission bestod oprindelig af : Over-<lb xml:id="d1e31369"/>
-præsident Klein som Formand, Departements-<lb xml:id="d1e31371"/>
-chef i Justitsministeriet Ricard, Højesterets-<lb xml:id="d1e31373"/>
-assessorerne Rimestad og Nyholm, Justitiarius<lb xml:id="d1e31375"/>
-i Københavns Kriminal- og Politiret Ingerslev,<lb xml:id="d1e31377"/>
-Professor juris Deuntzer, daværende Kriminal -<lb xml:id="d1e31380"/>
-retsassessor, senere Overretsassessor Thomsen,<lb xml:id="d1e31382"/>
-Højesteretssagfører Oct. Hansen og Direktør<lb xml:id="d1e31384"/>
-N. I. Larsen. Efter at Højesteretsasessor Bime-<lb xml:id="d1e31386"/>
-stad var sfgaaet ved Døden i Oktober 1894,<lb xml:id="d1e31388"/>
-blev det ved allerhøjeste Resolution af 30te<lb xml:id="d1e31390"/>
-Januar 1896 overdraget Justitiarius i Lands-<lb xml:id="d1e31393"/>
-over- samt Hof- og Stadsretten Ipsen at til-<lb xml:id="d1e31395"/>
+               <p xml:id="d1e31421">
+*) Denne Kommission bestod oprindelig af : Over-<lb xml:id="d1e31423"/>
+præsident Klein som Formand, Departements-<lb xml:id="d1e31425"/>
+chef i Justitsministeriet Ricard, Højesterets-<lb xml:id="d1e31427"/>
+assessorerne Rimestad og Nyholm, Justitiarius<lb xml:id="d1e31429"/>
+i Københavns Kriminal- og Politiret Ingerslev,<lb xml:id="d1e31431"/>
+Professor juris Deuntzer, daværende Kriminal -<lb xml:id="d1e31434"/>
+retsassessor, senere Overretsassessor Thomsen,<lb xml:id="d1e31436"/>
+Højesteretssagfører Oct. Hansen og Direktør<lb xml:id="d1e31438"/>
+N. I. Larsen. Efter at Højesteretsasessor Bime-<lb xml:id="d1e31440"/>
+stad var sfgaaet ved Døden i Oktober 1894,<lb xml:id="d1e31442"/>
+blev det ved allerhøjeste Resolution af 30te<lb xml:id="d1e31444"/>
+Januar 1896 overdraget Justitiarius i Lands-<lb xml:id="d1e31447"/>
+over- samt Hof- og Stadsretten Ipsen at til-<lb xml:id="d1e31449"/>
 træde Kommissionen.
 </p>
-               <milestone type="leftside" xml:id="endd1e26449" prev="startd1e26449" n="4119" unit="column"/>
-               <milestone type="rightside" xml:id="startd1e26591" next="endd1e26591" n="4120" unit="column"/>
-               <p xml:id="d1e31402">
-de allerfleste Punkter i Overensstemmelse<lb xml:id="d1e31404"/>
-med de betydelige Ændringer, der fremgik<lb xml:id="d1e31406"/>
-af den fornævnte Udvalgsbetænkning. Lov-<lb xml:id="d1e31408"/>
-forslaget blev med en Række af Ændringer<lb xml:id="d1e31410"/>
-vedtaget af Folketinget ved 3die Behand-<lb xml:id="d1e31412"/>
+               <p xml:id="d1e31452">
+                  <milestone type="leftside" xml:id="endd1e26449" prev="startd1e26449" n="4119" unit="column"/>
+               </p>
+               
+               <p xml:id="d1e31459">
+                  <milestone type="rightside" xml:id="startd1e26591" next="endd1e26591" n="4120" unit="column"/>
+               </p>
+               <p xml:id="d1e31464">
+de allerfleste Punkter i Overensstemmelse<lb xml:id="d1e31466"/>
+med de betydelige Ændringer, der fremgik<lb xml:id="d1e31468"/>
+af den fornævnte Udvalgsbetænkning. Lov-<lb xml:id="d1e31470"/>
+forslaget blev med en Række af Ændringer<lb xml:id="d1e31472"/>
+vedtaget af Folketinget ved 3die Behand-<lb xml:id="d1e31474"/>
 ling den 18de December 1902.
 </p>
-               <p xml:id="d1e31416">
-I Landstinget kom Forslaget til 1ste<lb xml:id="d1e31418"/>
-Behandling den 13de Januar 1903 og hen-<lb xml:id="d1e31420"/>
-vistes til et Udvalg, som afgav Betænkning<lb xml:id="d1e31422"/>
+               <p xml:id="d1e31477">
+I Landstinget kom Forslaget til 1ste<lb xml:id="d1e31479"/>
+Behandling den 13de Januar 1903 og hen-<lb xml:id="d1e31481"/>
+vistes til et Udvalg, som afgav Betænkning<lb xml:id="d1e31483"/>
 den Ilte Maj 1903.
 </p>
-               <p xml:id="d1e31425">
-I Rigsdagssamlingen 1903—04 blev<lb xml:id="d1e31427"/>
-Lovforlaget paany fremsat for Landstinget<lb xml:id="d1e31429"/>
-den 7de Oktober 1903 i samme Skikkelse,<lb xml:id="d1e31431"/>
-hvori det i den foregaaende Rigsdags-<lb xml:id="d1e31433"/>
-samling var vedtaget i Folketinget. Lov-<lb xml:id="d1e31435"/>
-forslaget henvistes til et Udvalg, som afgav<lb xml:id="d1e31438"/>
-Betænkning den 27de Oktober 1903, og<lb xml:id="d1e31440"/>
-Lovforslaget vedtoges i Landstinget ved<lb xml:id="d1e31442"/>
-3die Behandling den Ilte December 1903<lb xml:id="d1e31444"/>
-i en Skikkelse, der paa mange og for en<lb xml:id="d1e31446"/>
-stor Del meget væsentlige Punkter afveg<lb xml:id="d1e31448"/>
-fra den, hvori det var vedtaget i Folke-<lb xml:id="d1e31451"/>
+               <p xml:id="d1e31487">
+I Rigsdagssamlingen 1903—04 blev<lb xml:id="d1e31489"/>
+Lovforlaget paany fremsat for Landstinget<lb xml:id="d1e31491"/>
+den 7de Oktober 1903 i samme Skikkelse,<lb xml:id="d1e31493"/>
+hvori det i den foregaaende Rigsdags-<lb xml:id="d1e31495"/>
+samling var vedtaget i Folketinget. Lov-<lb xml:id="d1e31497"/>
+forslaget henvistes til et Udvalg, som afgav<lb xml:id="d1e31500"/>
+Betænkning den 27de Oktober 1903, og<lb xml:id="d1e31502"/>
+Lovforslaget vedtoges i Landstinget ved<lb xml:id="d1e31504"/>
+3die Behandling den Ilte December 1903<lb xml:id="d1e31506"/>
+i en Skikkelse, der paa mange og for en<lb xml:id="d1e31508"/>
+stor Del meget væsentlige Punkter afveg<lb xml:id="d1e31510"/>
+fra den, hvori det var vedtaget i Folke-<lb xml:id="d1e31513"/>
 tinget.
 </p>
-               <p xml:id="d1e31454">
-I dette kom det til 1ste Behandling<lb xml:id="d1e31456"/>
-den 16de Januar 1904, henvistes til et Ud-<lb xml:id="d1e31458"/>
-valg, som afgav Betænkning den 25de Fe-<lb xml:id="d1e31460"/>
-bruar 1904, og ved 3die Behandling den<lb xml:id="d1e31462"/>
-10de Marts 1904 blev det paa de væsent-<lb xml:id="d1e31464"/>
-ligste Uenighedspunkter ført tilbage til den<lb xml:id="d1e31467"/>
-tidligere af Folketinget vedtagne Skikkelse.<lb xml:id="d1e31469"/>
-Efterat det den 16de og den 17de Marts<lb xml:id="d1e31471"/>
-1904 havde været til eneste Behandling hen-<lb xml:id="d1e31473"/>
-holdsvis i Landstinget og i Folketinget og<lb xml:id="d1e31475"/>
-var vedtaget i væsentlig afvigende Skikkel-<lb xml:id="d1e31477"/>
-ser, blev der den 17de Marts 1904 af Folke-<lb xml:id="d1e31480"/>
-tinget paa Forslag af Alfred Christensm be-<lb xml:id="d1e31482"/>
-gært Fællesudvalg, som den 21de April 1904<lb xml:id="d1e31484"/>
-afgav Beretning, hvori udtaltes Ønske om<lb xml:id="d1e31486"/>
-Lovforslagets Genoptagelse paa et senere<lb xml:id="d1e31488"/>
+               <p xml:id="d1e31516">
+I dette kom det til 1ste Behandling<lb xml:id="d1e31518"/>
+den 16de Januar 1904, henvistes til et Ud-<lb xml:id="d1e31520"/>
+valg, som afgav Betænkning den 25de Fe-<lb xml:id="d1e31522"/>
+bruar 1904, og ved 3die Behandling den<lb xml:id="d1e31524"/>
+10de Marts 1904 blev det paa de væsent-<lb xml:id="d1e31526"/>
+ligste Uenighedspunkter ført tilbage til den<lb xml:id="d1e31529"/>
+tidligere af Folketinget vedtagne Skikkelse.<lb xml:id="d1e31531"/>
+Efterat det den 16de og den 17de Marts<lb xml:id="d1e31533"/>
+1904 havde været til eneste Behandling hen-<lb xml:id="d1e31535"/>
+holdsvis i Landstinget og i Folketinget og<lb xml:id="d1e31537"/>
+var vedtaget i væsentlig afvigende Skikkel-<lb xml:id="d1e31539"/>
+ser, blev der den 17de Marts 1904 af Folke-<lb xml:id="d1e31542"/>
+tinget paa Forslag af Alfred Christensm be-<lb xml:id="d1e31544"/>
+gært Fællesudvalg, som den 21de April 1904<lb xml:id="d1e31546"/>
+afgav Beretning, hvori udtaltes Ønske om<lb xml:id="d1e31548"/>
+Lovforslagets Genoptagelse paa et senere<lb xml:id="d1e31550"/>
 Tidspunkt.
 </p>
-               <p xml:id="d1e31491">
-I Bigsdagssamlingen 1904—05 frem-<lb xml:id="d1e31493"/>
-satte Justitsministeren paany Lovforslaget<lb xml:id="d1e31495"/>
-i Folketinget den Ilte Oktober 1904 i den<lb xml:id="d1e31497"/>
-Skikkelse, hvori det sidst var vedtaget af<lb xml:id="d1e31499"/>
-Folketinget. Forslaget blev ikke henvist<lb xml:id="d1e31501"/>
-til Udvalg, men blev ved 3die Behandling<lb xml:id="d1e31504"/>
-den 22de Oktober 1904 uforandret vedtaget<lb xml:id="d1e31506"/>
+               <p xml:id="d1e31553">
+I Bigsdagssamlingen 1904—05 frem-<lb xml:id="d1e31555"/>
+satte Justitsministeren paany Lovforslaget<lb xml:id="d1e31557"/>
+i Folketinget den Ilte Oktober 1904 i den<lb xml:id="d1e31559"/>
+Skikkelse, hvori det sidst var vedtaget af<lb xml:id="d1e31561"/>
+Folketinget. Forslaget blev ikke henvist<lb xml:id="d1e31563"/>
+til Udvalg, men blev ved 3die Behandling<lb xml:id="d1e31566"/>
+den 22de Oktober 1904 uforandret vedtaget<lb xml:id="d1e31568"/>
 af Folketinget.
 </p>
-               <p xml:id="d1e31509">
-I Landstinget kom Forslaget til 1ste<lb xml:id="d1e31511"/>
-Behandling den 28de Oktober 1904, hen-<lb xml:id="d1e31513"/>
-vistes til et Udvalg, som afgav Betænkning<lb xml:id="d1e31515"/>
-den 22de Februar 1905, og ved 3die Be-<lb xml:id="d1e31517"/>
-handling den 9de Marts 1905 blev Lovfor-<lb xml:id="d1e31519"/>
-slaget ført tilbage til den Skikkelse, hvori<lb xml:id="d1e31522"/>
+               <p xml:id="d1e31571">
+I Landstinget kom Forslaget til 1ste<lb xml:id="d1e31573"/>
+Behandling den 28de Oktober 1904, hen-<lb xml:id="d1e31575"/>
+vistes til et Udvalg, som afgav Betænkning<lb xml:id="d1e31577"/>
+den 22de Februar 1905, og ved 3die Be-<lb xml:id="d1e31579"/>
+handling den 9de Marts 1905 blev Lovfor-<lb xml:id="d1e31581"/>
+slaget ført tilbage til den Skikkelse, hvori<lb xml:id="d1e31584"/>
 det senest var vedtaget af Landstinget.
 </p>
-               <p xml:id="d1e31525">
-Efter at det ved eneste Behandling<lb xml:id="d1e31527"/>
-den Ilte Marts 1905 og den 17de Marts<lb xml:id="d1e31529"/>
-1905, henholdsvis i Folketinget og Lands-<lb xml:id="d1e31531"/>
-tinget, var vedtaget i afvigende Skikkelser,<lb xml:id="d1e31533"/>
+               <p xml:id="d1e31587">
+Efter at det ved eneste Behandling<lb xml:id="d1e31589"/>
+den Ilte Marts 1905 og den 17de Marts<lb xml:id="d1e31591"/>
+1905, henholdsvis i Folketinget og Lands-<lb xml:id="d1e31593"/>
+tinget, var vedtaget i afvigende Skikkelser,<lb xml:id="d1e31595"/>
 vedtog Landstinget paa Forslag af Madsen-
 </p>
-               <milestone type="rightside" xml:id="endd1e26591" prev="startd1e26591" n="4120" unit="column"/>
+               <p xml:id="d1e31598">
+                  <milestone type="rightside" xml:id="endd1e26591" prev="startd1e26591" n="4120" unit="column"/>
+               </p>
                <pb xml:id="idr18_00241_rigsdagtid_1906_07" facs="r18_00241_rigsdagtid_1906_07" n=""/>
-               <fw xml:id="d1e31541" type="head" place="top-left">4121</fw>
-               <fw xml:id="d1e31544" type="head" place="top-middle">Forsi. t. L. om Rettens Pleje.</fw>
-               <fw xml:id="d1e31547" type="head" place="top-right">4122</fw>
-               <milestone type="leftside" xml:id="startd1e26739" next="endd1e26739" n="4121" unit="column"/>
-               <p xml:id="d1e31553">
-Mygdal dets Henvisning til Fællesudvalg,<lb xml:id="d1e31555"/>
-som den 3die April 1905 afgav Beretning,<lb xml:id="d1e31557"/>
-hvori oplystes, at Justitsministeren i Fælles-<lb xml:id="d1e31559"/>
-udvalget havde angivet som sin Hensigt at<lb xml:id="d1e31561"/>
-søge Lovforslaget fremmet i næste Rigs-<lb xml:id="d1e31563"/>
+               <fw xml:id="d1e31606" type="head" place="top-left">4121</fw>
+               <fw xml:id="d1e31609" type="head" place="top-middle">Forsi. t. L. om Rettens Pleje.</fw>
+               <fw xml:id="d1e31612" type="head" place="top-right">4122</fw>
+               
+               <p xml:id="d1e31617">
+                  <milestone type="leftside" xml:id="startd1e26739" next="endd1e26739" n="4121" unit="column"/>
+               </p>
+               <p xml:id="d1e31623">
+Mygdal dets Henvisning til Fællesudvalg,<lb xml:id="d1e31625"/>
+som den 3die April 1905 afgav Beretning,<lb xml:id="d1e31627"/>
+hvori oplystes, at Justitsministeren i Fælles-<lb xml:id="d1e31629"/>
+udvalget havde angivet som sin Hensigt at<lb xml:id="d1e31631"/>
+søge Lovforslaget fremmet i næste Rigs-<lb xml:id="d1e31633"/>
 dagssamling.
 </p>
-               <p xml:id="d1e31566">
-I Rigsdagssamlingen 1905—06 frem-<lb xml:id="d1e31568"/>
-satte Justitsministeren den 3die Oktober<lb xml:id="d1e31570"/>
-1905 Lovforslaget i Landstinget i den<lb xml:id="d1e31572"/>
-Skikkelse, hvori det senest var vedtaget af<lb xml:id="d1e31574"/>
-Landstinget, men med udtrykkelig Bemærk-<lb xml:id="d1e31576"/>
-ning, at den valgte Skikkelse udelukkende<lb xml:id="d1e31579"/>
-var anvendt, for at Lovforslaget om muligt<lb xml:id="d1e31581"/>
-kunde naa noget hurtigere gennem Lands-<lb xml:id="d1e31583"/>
-tinget end i den foregaaende Samling.<lb xml:id="d1e31585"/>
-Efter 1ste Behandling den 13de Oktober<lb xml:id="d1e31587"/>
-1905 blev Lovforslaget uden Henvisning<lb xml:id="d1e31589"/>
-til Udvalg ved 3die Behandling den 20de<lb xml:id="d1e31592"/>
+               <p xml:id="d1e31636">
+I Rigsdagssamlingen 1905—06 frem-<lb xml:id="d1e31638"/>
+satte Justitsministeren den 3die Oktober<lb xml:id="d1e31640"/>
+1905 Lovforslaget i Landstinget i den<lb xml:id="d1e31642"/>
+Skikkelse, hvori det senest var vedtaget af<lb xml:id="d1e31644"/>
+Landstinget, men med udtrykkelig Bemærk-<lb xml:id="d1e31646"/>
+ning, at den valgte Skikkelse udelukkende<lb xml:id="d1e31649"/>
+var anvendt, for at Lovforslaget om muligt<lb xml:id="d1e31651"/>
+kunde naa noget hurtigere gennem Lands-<lb xml:id="d1e31653"/>
+tinget end i den foregaaende Samling.<lb xml:id="d1e31655"/>
+Efter 1ste Behandling den 13de Oktober<lb xml:id="d1e31657"/>
+1905 blev Lovforslaget uden Henvisning<lb xml:id="d1e31659"/>
+til Udvalg ved 3die Behandling den 20de<lb xml:id="d1e31662"/>
 Oktober 1905 vedtaget uforandret.
 </p>
-               <p xml:id="d1e31595">
-I Folketinget, hvor det kom til Be-<lb xml:id="d1e31597"/>
-handling den 6te November 1905 og ej<lb xml:id="d1e31599"/>
-heller blev henvist til Udvalg, blev det ved<lb xml:id="d1e31601"/>
-3die Behandling den 13de November 1905<lb xml:id="d1e31603"/>
-vedtaget i den Skikkelse, hvori det senest<lb xml:id="d1e31605"/>
-var vedtaget af Folketinget. Efterat Lov-<lb xml:id="d1e31608"/>
-forslaget den 15de November 1905 og den<lb xml:id="d1e31610"/>
-17de November 1905 ved eneste Behand-<lb xml:id="d1e31612"/>
-ling henholdsvis i Landstinget og Folke-<lb xml:id="d1e31614"/>
-tinget var vedtaget i afvigende Skikkelser,<lb xml:id="d1e31616"/>
-blev det paa Forslag af Sveistrup henvist<lb xml:id="d1e31618"/>
-til et Fællesudvalg, som den 5te April 1906<lb xml:id="d1e31621"/>
-afgav Beretning. Af denne fremgaar det,<lb xml:id="d1e31623"/>
-at der i Fællesudvalget var Enighed om,<lb xml:id="d1e31625"/>
-at „det vilde være uden Udsigt til Resultat<lb xml:id="d1e31627"/>
+               <p xml:id="d1e31665">
+I Folketinget, hvor det kom til Be-<lb xml:id="d1e31667"/>
+handling den 6te November 1905 og ej<lb xml:id="d1e31669"/>
+heller blev henvist til Udvalg, blev det ved<lb xml:id="d1e31671"/>
+3die Behandling den 13de November 1905<lb xml:id="d1e31673"/>
+vedtaget i den Skikkelse, hvori det senest<lb xml:id="d1e31675"/>
+var vedtaget af Folketinget. Efterat Lov-<lb xml:id="d1e31678"/>
+forslaget den 15de November 1905 og den<lb xml:id="d1e31680"/>
+17de November 1905 ved eneste Behand-<lb xml:id="d1e31682"/>
+ling henholdsvis i Landstinget og Folke-<lb xml:id="d1e31684"/>
+tinget var vedtaget i afvigende Skikkelser,<lb xml:id="d1e31686"/>
+blev det paa Forslag af Sveistrup henvist<lb xml:id="d1e31688"/>
+til et Fællesudvalg, som den 5te April 1906<lb xml:id="d1e31691"/>
+afgav Beretning. Af denne fremgaar det,<lb xml:id="d1e31693"/>
+at der i Fællesudvalget var Enighed om,<lb xml:id="d1e31695"/>
+at „det vilde være uden Udsigt til Resultat<lb xml:id="d1e31697"/>
 at forhandle videre."
 </p>
-               <p xml:id="d1e31630">
-Naar der saaledes i Fællesudvalget<lb xml:id="d1e31632"/>
-var Enighed om, at det vilde være uden<lb xml:id="d1e31634"/>
-Udsigt til Resultat at forhandle videre,<lb xml:id="d1e31636"/>
-stemmer dette ganske med Justitsministe-<lb xml:id="d1e31638"/>
-steriets Opfattelse af Sagens Gang igen-<lb xml:id="d1e31640"/>
-nem de fem Rigsdagssamlinger, hvori Pro-<lb xml:id="d1e31643"/>
-ceskommissionens Forslag har været til<lb xml:id="d1e31645"/>
+               <p xml:id="d1e31700">
+Naar der saaledes i Fællesudvalget<lb xml:id="d1e31702"/>
+var Enighed om, at det vilde være uden<lb xml:id="d1e31704"/>
+Udsigt til Resultat at forhandle videre,<lb xml:id="d1e31706"/>
+stemmer dette ganske med Justitsministe-<lb xml:id="d1e31708"/>
+steriets Opfattelse af Sagens Gang igen-<lb xml:id="d1e31710"/>
+nem de fem Rigsdagssamlinger, hvori Pro-<lb xml:id="d1e31713"/>
+ceskommissionens Forslag har været til<lb xml:id="d1e31715"/>
 Behandling paa Rigsdagen.
 </p>
-               <p xml:id="d1e31648">
-Det maatte da blive Justitsministe-<lb xml:id="d1e31650"/>
-riets Opgave at tilvejebringe et nyt For-<lb xml:id="d1e31652"/>
-handlingsgrundlag, der baade kunde op-<lb xml:id="d1e31654"/>
-fylde Grundlovens Krav til Beskaffenheden<lb xml:id="d1e31656"/>
-af en Retsplejereform og kunde vinde Ud-<lb xml:id="d1e31658"/>
-sigt til Gennemførelse derved, at der toges<lb xml:id="d1e31661"/>
-et rimeligt Hensyn til de under Forhand-<lb xml:id="d1e31663"/>
-lingerne saavel i Tingene som i Udvalgene<lb xml:id="d1e31665"/>
-fremkomne afvigende Anskuelser og til<lb xml:id="d1e31667"/>
-den stærke Understrøm af Betænkelighed<lb xml:id="d1e31669"/>
-ved den af Proceskommissionens Forslag<lb xml:id="d1e31671"/>
-flydende Udgiftsforøgelse saavel for Stats-<lb xml:id="d1e31674"/>
-kassen som for de procesførende Parter.<lb xml:id="d1e31676"/>
-Det maatte derhos efter Justitsministeriets<lb xml:id="d1e31678"/>
-Skøn ogsaa fremme Udsigterne til Gen-<lb xml:id="d1e31680"/>
-nemførelse, naar Forslaget i saa stort et<lb xml:id="d1e31682"/>
+               <p xml:id="d1e31718">
+Det maatte da blive Justitsministe-<lb xml:id="d1e31720"/>
+riets Opgave at tilvejebringe et nyt For-<lb xml:id="d1e31722"/>
+handlingsgrundlag, der baade kunde op-<lb xml:id="d1e31724"/>
+fylde Grundlovens Krav til Beskaffenheden<lb xml:id="d1e31726"/>
+af en Retsplejereform og kunde vinde Ud-<lb xml:id="d1e31728"/>
+sigt til Gennemførelse derved, at der toges<lb xml:id="d1e31731"/>
+et rimeligt Hensyn til de under Forhand-<lb xml:id="d1e31733"/>
+lingerne saavel i Tingene som i Udvalgene<lb xml:id="d1e31735"/>
+fremkomne afvigende Anskuelser og til<lb xml:id="d1e31737"/>
+den stærke Understrøm af Betænkelighed<lb xml:id="d1e31739"/>
+ved den af Proceskommissionens Forslag<lb xml:id="d1e31741"/>
+flydende Udgiftsforøgelse saavel for Stats-<lb xml:id="d1e31744"/>
+kassen som for de procesførende Parter.<lb xml:id="d1e31746"/>
+Det maatte derhos efter Justitsministeriets<lb xml:id="d1e31748"/>
+Skøn ogsaa fremme Udsigterne til Gen-<lb xml:id="d1e31750"/>
+nemførelse, naar Forslaget i saa stort et<lb xml:id="d1e31752"/>
 Omfang som muligt søgte at tage Hensyn
 </p>
-               <milestone type="leftside" xml:id="endd1e26739" prev="startd1e26739" n="4121" unit="column"/>
-               <milestone type="rightside" xml:id="startd1e26874" next="endd1e26874" n="4122" unit="column"/>
-               <p xml:id="d1e31690">
-til det Befolkningen gennem saa lange<lb xml:id="d1e31692"/>
-Tider tilvante, og til ikke at paaføre den<lb xml:id="d1e31694"/>
-større Ulempe end absolut nødvendigt i<lb xml:id="d1e31696"/>
-Henseende til Tidsspilde og personlig<lb xml:id="d1e31698"/>
+               <p xml:id="d1e31755">
+                  <milestone type="leftside" xml:id="endd1e26739" prev="startd1e26739" n="4121" unit="column"/>
+               </p>
+               
+               <p xml:id="d1e31763">
+                  <milestone type="rightside" xml:id="startd1e26874" next="endd1e26874" n="4122" unit="column"/>
+               </p>
+               <p xml:id="d1e31768">
+til det Befolkningen gennem saa lange<lb xml:id="d1e31770"/>
+Tider tilvante, og til ikke at paaføre den<lb xml:id="d1e31772"/>
+større Ulempe end absolut nødvendigt i<lb xml:id="d1e31774"/>
+Henseende til Tidsspilde og personlig<lb xml:id="d1e31776"/>
 Ulejlighed.
 </p>
-               <p xml:id="d1e31701">
-Med disse Hensyn for Øje er nær-<lb xml:id="d1e31703"/>
-værende Lovforslag udarbejdet i den For-<lb xml:id="d1e31705"/>
-visning, at, om det maatte blive vedtaget,<lb xml:id="d1e31707"/>
-vilde derved være tilvejebragt en Rets-<lb xml:id="d1e31709"/>
-pleje, hvorunder Befolkningen vilde kunne<lb xml:id="d1e31711"/>
-leve med saa stor Tryghed og Tillid, som<lb xml:id="d1e31714"/>
+               <p xml:id="d1e31779">
+Med disse Hensyn for Øje er nær-<lb xml:id="d1e31781"/>
+værende Lovforslag udarbejdet i den For-<lb xml:id="d1e31783"/>
+visning, at, om det maatte blive vedtaget,<lb xml:id="d1e31785"/>
+vilde derved være tilvejebragt en Rets-<lb xml:id="d1e31787"/>
+pleje, hvorunder Befolkningen vilde kunne<lb xml:id="d1e31789"/>
+leve med saa stor Tryghed og Tillid, som<lb xml:id="d1e31792"/>
 overhovedet mulig.
 </p>
-               <p xml:id="d1e31717">
-Grundloven paabyder som allerede foran<lb xml:id="d1e31719"/>
-nævnt en Reform af Retsplejen (Grundlovens<lb xml:id="d1e31721"/>
-§ 74), hvorved Offentlighed og Mundtlighed<lb xml:id="d1e31723"/>
-saavidt muligt gennemføres ved hele Rets-<lb xml:id="d1e31725"/>
-plejen, og at Nævninger skulle indføres i<lb xml:id="d1e31727"/>
-Misgerningssager og i Sager, der rejse sig<lb xml:id="d1e31730"/>
-af politiske Lovovertrædelser. Tillige inde-<lb xml:id="d1e31732"/>
-holder Grundlovens § 71, at Retsplejen<lb xml:id="d1e31734"/>
-bliver at adskille fra Forvaltningen efter<lb xml:id="d1e31736"/>
+               <p xml:id="d1e31795">
+Grundloven paabyder som allerede foran<lb xml:id="d1e31797"/>
+nævnt en Reform af Retsplejen (Grundlovens<lb xml:id="d1e31799"/>
+§ 74), hvorved Offentlighed og Mundtlighed<lb xml:id="d1e31801"/>
+saavidt muligt gennemføres ved hele Rets-<lb xml:id="d1e31803"/>
+plejen, og at Nævninger skulle indføres i<lb xml:id="d1e31805"/>
+Misgerningssager og i Sager, der rejse sig<lb xml:id="d1e31808"/>
+af politiske Lovovertrædelser. Tillige inde-<lb xml:id="d1e31810"/>
+holder Grundlovens § 71, at Retsplejen<lb xml:id="d1e31812"/>
+bliver at adskille fra Forvaltningen efter<lb xml:id="d1e31814"/>
 de Regler, der fastsættes ved Lov.
 </p>
-               <p xml:id="d1e31739">
-Proceskommissionens Forslag søgte<lb xml:id="d1e31741"/>
-at opfylde begge disse Løfteparagrafer<lb xml:id="d1e31743"/>
-under ét, men tog netop derved et Ud-<lb xml:id="d1e31745"/>
-gangspunkt, som af sig selv ved Indførelse<lb xml:id="d1e31747"/>
-af en stor Mængde nye Embeds- og Be-<lb xml:id="d1e31749"/>
-stillingsmænd medførte stærkt forøgede Ud-<lb xml:id="d1e31752"/>
-gifter og en betydeligt forøget Ulejlighed<lb xml:id="d1e31754"/>
-for Befolkningen derved, at denne i mange<lb xml:id="d1e31756"/>
-Tilfælde fik væsentligt større Afstand fra<lb xml:id="d1e31758"/>
-Embedskontorerne og Tingstederne end<lb xml:id="d1e31760"/>
-nu, hvorhos denne Ordning ganske af sig<lb xml:id="d1e31762"/>
-selv maatte paa en Række af andre Punk-<lb xml:id="d1e31765"/>
-ter lede til forøgede Udgifter og forøget<lb xml:id="d1e31767"/>
+               <p xml:id="d1e31817">
+Proceskommissionens Forslag søgte<lb xml:id="d1e31819"/>
+at opfylde begge disse Løfteparagrafer<lb xml:id="d1e31821"/>
+under ét, men tog netop derved et Ud-<lb xml:id="d1e31823"/>
+gangspunkt, som af sig selv ved Indførelse<lb xml:id="d1e31825"/>
+af en stor Mængde nye Embeds- og Be-<lb xml:id="d1e31827"/>
+stillingsmænd medførte stærkt forøgede Ud-<lb xml:id="d1e31830"/>
+gifter og en betydeligt forøget Ulejlighed<lb xml:id="d1e31832"/>
+for Befolkningen derved, at denne i mange<lb xml:id="d1e31834"/>
+Tilfælde fik væsentligt større Afstand fra<lb xml:id="d1e31836"/>
+Embedskontorerne og Tingstederne end<lb xml:id="d1e31838"/>
+nu, hvorhos denne Ordning ganske af sig<lb xml:id="d1e31840"/>
+selv maatte paa en Række af andre Punk-<lb xml:id="d1e31843"/>
+ter lede til forøgede Udgifter og forøget<lb xml:id="d1e31845"/>
 Ulejlighed.
 </p>
-               <p xml:id="d1e31770">
-Det foreliggende Lovforslag gaar alene<lb xml:id="d1e31772"/>
-ud paa nu at indføre den i Grundloven<lb xml:id="d1e31774"/>
-foreskrevne Reform af Retsplejen — idet<lb xml:id="d1e31776"/>
-den dog paa forskellige Punkter og navn-<lb xml:id="d1e31778"/>
-lig i Henseende til Omraadet for Næv-<lb xml:id="d1e31780"/>
-ningers Medvirkning i Retsplejen gaar be-<lb xml:id="d1e31783"/>
-tydeligt videre, end Grundloven kræver —<lb xml:id="d1e31785"/>
-men foreslaar Retsplejereformen indført<lb xml:id="d1e31787"/>
-paa en saadan Maade, at en Adskillelse<lb xml:id="d1e31789"/>
-af Retspleje og Forvaltning naarsom-<lb xml:id="d1e31791"/>
-helst med Lethed vil kunne foretages.<lb xml:id="d1e31793"/>
-Herved opnaas det, at man, indtil saadan<lb xml:id="d1e31796"/>
-Adskillelse finder Sted, kan bibeholde den<lb xml:id="d1e31798"/>
-bestaaende og for Befolkningen tilvante<lb xml:id="d1e31800"/>
-Inddeling af Underretskredsene og de nu-<lb xml:id="d1e31802"/>
-værende Tingsteder og Retskontorer og<lb xml:id="d1e31804"/>
-undgaar den betydelige Forøgelse af An-<lb xml:id="d1e31806"/>
-tallet af Embeds- og Bestillingsmænd, idet<lb xml:id="d1e31809"/>
-den nuværende Forening af Underdommer-<lb xml:id="d1e31811"/>
-og Underøvrighedsembederne bibeholdes,<lb xml:id="d1e31813"/>
-indtil bemeldte Adskillelse finder Sted.<lb xml:id="d1e31815"/>
-Dette betyder en stor Formindskelse af<lb xml:id="d1e31817"/>
-Udgifterne ved Reformen og af Ulemperne<lb xml:id="d1e31819"/>
+               <p xml:id="d1e31848">
+Det foreliggende Lovforslag gaar alene<lb xml:id="d1e31850"/>
+ud paa nu at indføre den i Grundloven<lb xml:id="d1e31852"/>
+foreskrevne Reform af Retsplejen — idet<lb xml:id="d1e31854"/>
+den dog paa forskellige Punkter og navn-<lb xml:id="d1e31856"/>
+lig i Henseende til Omraadet for Næv-<lb xml:id="d1e31858"/>
+ningers Medvirkning i Retsplejen gaar be-<lb xml:id="d1e31861"/>
+tydeligt videre, end Grundloven kræver —<lb xml:id="d1e31863"/>
+men foreslaar Retsplejereformen indført<lb xml:id="d1e31865"/>
+paa en saadan Maade, at en Adskillelse<lb xml:id="d1e31867"/>
+af Retspleje og Forvaltning naarsom-<lb xml:id="d1e31869"/>
+helst med Lethed vil kunne foretages.<lb xml:id="d1e31871"/>
+Herved opnaas det, at man, indtil saadan<lb xml:id="d1e31874"/>
+Adskillelse finder Sted, kan bibeholde den<lb xml:id="d1e31876"/>
+bestaaende og for Befolkningen tilvante<lb xml:id="d1e31878"/>
+Inddeling af Underretskredsene og de nu-<lb xml:id="d1e31880"/>
+værende Tingsteder og Retskontorer og<lb xml:id="d1e31882"/>
+undgaar den betydelige Forøgelse af An-<lb xml:id="d1e31884"/>
+tallet af Embeds- og Bestillingsmænd, idet<lb xml:id="d1e31887"/>
+den nuværende Forening af Underdommer-<lb xml:id="d1e31889"/>
+og Underøvrighedsembederne bibeholdes,<lb xml:id="d1e31891"/>
+indtil bemeldte Adskillelse finder Sted.<lb xml:id="d1e31893"/>
+Dette betyder en stor Formindskelse af<lb xml:id="d1e31895"/>
+Udgifterne ved Reformen og af Ulemperne<lb xml:id="d1e31897"/>
 for Befolkningen.
 </p>
-               <milestone type="rightside" xml:id="endd1e26874" prev="startd1e26874" n="4122" unit="column"/>
+               <p xml:id="d1e31901">
+                  <milestone type="rightside" xml:id="endd1e26874" prev="startd1e26874" n="4122" unit="column"/>
+               </p>
                <pb xml:id="idr18_00242_rigsdagtid_1906_07" facs="r18_00242_rigsdagtid_1906_07" n=""/>
-               <fw xml:id="d1e31827" type="head" place="top-left">4123</fw>
-               <fw xml:id="d1e31830" type="head" place="top-middle">Forsi. t. L. om Rettens Pleje.</fw>
-               <fw xml:id="d1e31833" type="head" place="top-right">4124</fw>
-               <milestone type="leftside" xml:id="startd1e27020" next="endd1e27020" n="4123" unit="column"/>
-               <p xml:id="d1e31839">
-Udenfor København bliver der kun<lb xml:id="d1e31841"/>
-en Forandring i Retsbetjentembedernes Or-<lb xml:id="d1e31843"/>
-ganisation i meget tæt befolkede Rets-<lb xml:id="d1e31845"/>
-kredse (for Tiden kun Aarhus, Odense og<lb xml:id="d1e31847"/>
-Frederiksberg), hvor der vil blive en sær-<lb xml:id="d1e31849"/>
-lig Dommer (paa Frederiksberg to) under<lb xml:id="d1e31852"/>
-hvem Retsplejen henlægges, og en særlig-<lb xml:id="d1e31854"/>
-Politimester, under hvem de administra-<lb xml:id="d1e31856"/>
-tive Forretninger henlægges. I Køben-<lb xml:id="d1e31858"/>
-havn indfører Forslaget ligesom Proces-<lb xml:id="d1e31860"/>
-kommissionens Forslag en Byret som<lb xml:id="d1e31862"/>
+               <fw xml:id="d1e31908" type="head" place="top-left">4123</fw>
+               <fw xml:id="d1e31911" type="head" place="top-middle">Forsi. t. L. om Rettens Pleje.</fw>
+               <fw xml:id="d1e31914" type="head" place="top-right">4124</fw>
+               
+               <p xml:id="d1e31920">
+                  <milestone type="leftside" xml:id="startd1e27020" next="endd1e27020" n="4123" unit="column"/>
+               </p>
+               <p xml:id="d1e31925">
+Udenfor København bliver der kun<lb xml:id="d1e31927"/>
+en Forandring i Retsbetjentembedernes Or-<lb xml:id="d1e31929"/>
+ganisation i meget tæt befolkede Rets-<lb xml:id="d1e31931"/>
+kredse (for Tiden kun Aarhus, Odense og<lb xml:id="d1e31933"/>
+Frederiksberg), hvor der vil blive en sær-<lb xml:id="d1e31935"/>
+lig Dommer (paa Frederiksberg to) under<lb xml:id="d1e31938"/>
+hvem Retsplejen henlægges, og en særlig-<lb xml:id="d1e31940"/>
+Politimester, under hvem de administra-<lb xml:id="d1e31942"/>
+tive Forretninger henlægges. I Køben-<lb xml:id="d1e31944"/>
+havn indfører Forslaget ligesom Proces-<lb xml:id="d1e31946"/>
+kommissionens Forslag en Byret som<lb xml:id="d1e31948"/>
 Underret.
 </p>
-               <p xml:id="d1e31865">
-Lovforslaget foreslaar ligesom det tid-<lb xml:id="d1e31867"/>
-ligere Forslag to Landsretter, den ene for<lb xml:id="d1e31869"/>
-Øerne med Sæde i København, den anden<lb xml:id="d1e31871"/>
-for Jylland og (i Overensstemmelse med<lb xml:id="d1e31873"/>
-Rigsdagens Vedtagelser) med Sæde i Vi-<lb xml:id="d1e31875"/>
-borg, men organiserer derhos, hvor Talen<lb xml:id="d1e31878"/>
-er om Behandling i første Instans saavel<lb xml:id="d1e31880"/>
-af borgerlige Sager som af Straffesager,<lb xml:id="d1e31882"/>
-Landsretterne som rejsende Domstole med<lb xml:id="d1e31884"/>
-Tingsteder omkring i Landet, hvorved det<lb xml:id="d1e31886"/>
-opnaas, at de fleste, der skulle møde som<lb xml:id="d1e31888"/>
-Nævninger eller som Parter eller Vidner,<lb xml:id="d1e31891"/>
-Syns- og Skønsmænd o. s. v., faar kortere<lb xml:id="d1e31893"/>
-til Mødestedet end efter de tidligere For-<lb xml:id="d1e31895"/>
-slag, hvilket medfører betydeligt mindre<lb xml:id="d1e31897"/>
-Ulejlighed, Tidsspilde og Rejseudgifter,<lb xml:id="d1e31899"/>
-hvorved saavel Statens som Amtskommu-<lb xml:id="d1e31901"/>
-nernes og de procesførende Parters Ud-<lb xml:id="d1e31904"/>
+               <p xml:id="d1e31951">
+Lovforslaget foreslaar ligesom det tid-<lb xml:id="d1e31953"/>
+ligere Forslag to Landsretter, den ene for<lb xml:id="d1e31955"/>
+Øerne med Sæde i København, den anden<lb xml:id="d1e31957"/>
+for Jylland og (i Overensstemmelse med<lb xml:id="d1e31959"/>
+Rigsdagens Vedtagelser) med Sæde i Vi-<lb xml:id="d1e31961"/>
+borg, men organiserer derhos, hvor Talen<lb xml:id="d1e31964"/>
+er om Behandling i første Instans saavel<lb xml:id="d1e31966"/>
+af borgerlige Sager som af Straffesager,<lb xml:id="d1e31968"/>
+Landsretterne som rejsende Domstole med<lb xml:id="d1e31970"/>
+Tingsteder omkring i Landet, hvorved det<lb xml:id="d1e31972"/>
+opnaas, at de fleste, der skulle møde som<lb xml:id="d1e31974"/>
+Nævninger eller som Parter eller Vidner,<lb xml:id="d1e31977"/>
+Syns- og Skønsmænd o. s. v., faar kortere<lb xml:id="d1e31979"/>
+til Mødestedet end efter de tidligere For-<lb xml:id="d1e31981"/>
+slag, hvilket medfører betydeligt mindre<lb xml:id="d1e31983"/>
+Ulejlighed, Tidsspilde og Rejseudgifter,<lb xml:id="d1e31985"/>
+hvorved saavel Statens som Amtskommu-<lb xml:id="d1e31987"/>
+nernes og de procesførende Parters Ud-<lb xml:id="d1e31990"/>
 gifter betydeligt vil nedbringes.
 </p>
-               <p xml:id="d1e31907">
-Højesterets Organisation er foreslaaet<lb xml:id="d1e31909"/>
-i samme Skikkelse som i det tidligere<lb xml:id="d1e31911"/>
+               <p xml:id="d1e31993">
+Højesterets Organisation er foreslaaet<lb xml:id="d1e31995"/>
+i samme Skikkelse som i det tidligere<lb xml:id="d1e31997"/>
 Forslag.
 </p>
-               <p xml:id="d1e31914">
-Det tidligere Forslags Regler om Dom-<lb xml:id="d1e31916"/>
-mere og Sagførere er i alt væsentligt bi-<lb xml:id="d1e31918"/>
-beholdt. Derimod har man paa Grund af<lb xml:id="d1e31920"/>
-den nedenfor beskrevne Forandring i Be-<lb xml:id="d1e31922"/>
-handlingen af Straffesager været i Stand<lb xml:id="d1e31924"/>
-til at undgaa den i de tidligere Forslag<lb xml:id="d1e31927"/>
-omhandlede meget kostbare Forøgelse af<lb xml:id="d1e31929"/>
-Politiet, idet formentlig en eller to rej-<lb xml:id="d1e31931"/>
-sende smaa Afdelinger Opdagelsespoliti,<lb xml:id="d1e31933"/>
-hvorom særligt Lovforslag senere vil blive<lb xml:id="d1e31935"/>
-fremsat, vil være en tilstrækkelig Forøgelse<lb xml:id="d1e31937"/>
+               <p xml:id="d1e32000">
+Det tidligere Forslags Regler om Dom-<lb xml:id="d1e32002"/>
+mere og Sagførere er i alt væsentligt bi-<lb xml:id="d1e32004"/>
+beholdt. Derimod har man paa Grund af<lb xml:id="d1e32006"/>
+den nedenfor beskrevne Forandring i Be-<lb xml:id="d1e32008"/>
+handlingen af Straffesager været i Stand<lb xml:id="d1e32010"/>
+til at undgaa den i de tidligere Forslag<lb xml:id="d1e32013"/>
+omhandlede meget kostbare Forøgelse af<lb xml:id="d1e32015"/>
+Politiet, idet formentlig en eller to rej-<lb xml:id="d1e32017"/>
+sende smaa Afdelinger Opdagelsespoliti,<lb xml:id="d1e32019"/>
+hvorom særligt Lovforslag senere vil blive<lb xml:id="d1e32021"/>
+fremsat, vil være en tilstrækkelig Forøgelse<lb xml:id="d1e32023"/>
 af Politiet,
 </p>
-               <p xml:id="d1e31940">
-Hvad den borgerlige Retspleje angaar,<lb xml:id="d1e31942"/>
-bibeholder Lovforslaget Reglerne om For-<lb xml:id="d1e31944"/>
-ligsmægling, Værneting, Forening af Sager,<lb xml:id="d1e31946"/>
-Sagens Parter, Rettergangsfuldmægtige.<lb xml:id="d1e31948"/>
-fri Proces og Sagsomkostninger, saaledes<lb xml:id="d1e31950"/>
-som disse forefindes i de seneste Rege-<lb xml:id="d1e31953"/>
-ringsforslag, altsaa med de Forandringer,<lb xml:id="d1e31955"/>
-Proceskommissionens Forslag i saa Hen-<lb xml:id="d1e31957"/>
-seende er undergaaet, Disse Bestemmelser<lb xml:id="d1e31959"/>
-udgør i det væsentlige kun en tidssvarende<lb xml:id="d1e31961"/>
-Kodifikation af de nugældende Regler.<lb xml:id="d1e31963"/>
-Ligeledes er de tidligere Forslags Bestem-<lb xml:id="d1e31966"/>
-melser om personlig Afhøring af Parterne<lb xml:id="d1e31968"/>
+               <p xml:id="d1e32026">
+Hvad den borgerlige Retspleje angaar,<lb xml:id="d1e32028"/>
+bibeholder Lovforslaget Reglerne om For-<lb xml:id="d1e32030"/>
+ligsmægling, Værneting, Forening af Sager,<lb xml:id="d1e32032"/>
+Sagens Parter, Rettergangsfuldmægtige.<lb xml:id="d1e32034"/>
+fri Proces og Sagsomkostninger, saaledes<lb xml:id="d1e32036"/>
+som disse forefindes i de seneste Rege-<lb xml:id="d1e32039"/>
+ringsforslag, altsaa med de Forandringer,<lb xml:id="d1e32041"/>
+Proceskommissionens Forslag i saa Hen-<lb xml:id="d1e32043"/>
+seende er undergaaet, Disse Bestemmelser<lb xml:id="d1e32045"/>
+udgør i det væsentlige kun en tidssvarende<lb xml:id="d1e32047"/>
+Kodifikation af de nugældende Regler.<lb xml:id="d1e32049"/>
+Ligeledes er de tidligere Forslags Bestem-<lb xml:id="d1e32052"/>
+melser om personlig Afhøring af Parterne<lb xml:id="d1e32054"/>
 og Partsed bibeholdte.
 </p>
-               <milestone type="leftside" xml:id="endd1e27020" prev="startd1e27020" n="4123" unit="column"/>
-               <milestone type="rightside" xml:id="startd1e27155" next="endd1e27155" n="4124" unit="column"/>
-               <p xml:id="d1e31976">
-Rettergangsmaaden i borgerlige Sager<lb xml:id="d1e31978"/>
-bliver efter Lovforslaget ligesom efter de<lb xml:id="d1e31980"/>
-tidligere Forslag saaledes, at Sagerne i<lb xml:id="d1e31982"/>
-første Instans paadømmes dels af Under-<lb xml:id="d1e31984"/>
-retterne, dels af Landsretterne; dog har<lb xml:id="d1e31986"/>
-Lovforslaget, da Landsretternes Arbejde<lb xml:id="d1e31989"/>
-lettes betydeligt, været i Stand til at hen-<lb xml:id="d1e31991"/>
-lægge betydeligt flere Sagers Paadømmelse<lb xml:id="d1e31993"/>
-til Landsret end de tidligere Forslag<lb xml:id="d1e31995"/>
-Men Hovedafvigelsen paa dette Punkt fra<lb xml:id="d1e31997"/>
-de tidligere Forslag bestaar deri, at Be-<lb xml:id="d1e31999"/>
-handlingen af alle Sager i første Instans<lb xml:id="d1e32002"/>
-uden Undtagelse begynder ved Underretten<lb xml:id="d1e32004"/>
-og at de Sager, hvis Paadømmelse i første<lb xml:id="d1e32006"/>
-Instans hører under Landsret, først kommer<lb xml:id="d1e32008"/>
-frem for denne, naar de er saavidt for-<lb xml:id="d1e32010"/>
-beredte, at de er modne til mundtlig Pro-<lb xml:id="d1e32012"/>
+               <p xml:id="d1e32058">
+                  <milestone type="leftside" xml:id="endd1e27020" prev="startd1e27020" n="4123" unit="column"/>
+               </p>
+               
+               <p xml:id="d1e32065">
+                  <milestone type="rightside" xml:id="startd1e27155" next="endd1e27155" n="4124" unit="column"/>
+               </p>
+               <p xml:id="d1e32070">
+Rettergangsmaaden i borgerlige Sager<lb xml:id="d1e32072"/>
+bliver efter Lovforslaget ligesom efter de<lb xml:id="d1e32074"/>
+tidligere Forslag saaledes, at Sagerne i<lb xml:id="d1e32076"/>
+første Instans paadømmes dels af Under-<lb xml:id="d1e32078"/>
+retterne, dels af Landsretterne; dog har<lb xml:id="d1e32080"/>
+Lovforslaget, da Landsretternes Arbejde<lb xml:id="d1e32083"/>
+lettes betydeligt, været i Stand til at hen-<lb xml:id="d1e32085"/>
+lægge betydeligt flere Sagers Paadømmelse<lb xml:id="d1e32087"/>
+til Landsret end de tidligere Forslag<lb xml:id="d1e32089"/>
+Men Hovedafvigelsen paa dette Punkt fra<lb xml:id="d1e32091"/>
+de tidligere Forslag bestaar deri, at Be-<lb xml:id="d1e32093"/>
+handlingen af alle Sager i første Instans<lb xml:id="d1e32096"/>
+uden Undtagelse begynder ved Underretten<lb xml:id="d1e32098"/>
+og at de Sager, hvis Paadømmelse i første<lb xml:id="d1e32100"/>
+Instans hører under Landsret, først kommer<lb xml:id="d1e32102"/>
+frem for denne, naar de er saavidt for-<lb xml:id="d1e32104"/>
+beredte, at de er modne til mundtlig Pro-<lb xml:id="d1e32106"/>
 cedure og Paadømmelse.
 </p>
-               <p xml:id="d1e32015">
-Rettergangsmaaden i de til Under-<lb xml:id="d1e32017"/>
-retternes Paadømmelse henlagte borgerlige<lb xml:id="d1e32019"/>
-Sager vil efter Forslaget i væsentlig Hen-<lb xml:id="d1e32021"/>
-seende minde om den nu i mindre Gælds-<lb xml:id="d1e32023"/>
-sager brugte Fremgangsmaade med Vej-<lb xml:id="d1e32025"/>
-ledning af Dommeren, dog at der kun<lb xml:id="d1e32028"/>
-ganske undtagelsesvis vil blive Tale om<lb xml:id="d1e32030"/>
-Indlægsveksling imellem Parterne, idet<lb xml:id="d1e32032"/>
-disse eller deres Sagførere i Almindelig-<lb xml:id="d1e32034"/>
-hed mundtlig skal fremstille Sagen for<lb xml:id="d1e32036"/>
+               <p xml:id="d1e32109">
+Rettergangsmaaden i de til Under-<lb xml:id="d1e32111"/>
+retternes Paadømmelse henlagte borgerlige<lb xml:id="d1e32113"/>
+Sager vil efter Forslaget i væsentlig Hen-<lb xml:id="d1e32115"/>
+seende minde om den nu i mindre Gælds-<lb xml:id="d1e32117"/>
+sager brugte Fremgangsmaade med Vej-<lb xml:id="d1e32119"/>
+ledning af Dommeren, dog at der kun<lb xml:id="d1e32122"/>
+ganske undtagelsesvis vil blive Tale om<lb xml:id="d1e32124"/>
+Indlægsveksling imellem Parterne, idet<lb xml:id="d1e32126"/>
+disse eller deres Sagførere i Almindelig-<lb xml:id="d1e32128"/>
+hed mundtlig skal fremstille Sagen for<lb xml:id="d1e32130"/>
 Dommeren.
 </p>
-               <p xml:id="d1e32039">
-I de borgerlige Sager, som i 1ste In-<lb xml:id="d1e32041"/>
-stans skal paadømmes af Landsretterne,<lb xml:id="d1e32043"/>
-nemlig de betydeligere Sager, hvori der ikke<lb xml:id="d1e32045"/>
-paa Grund af Indstævntes Udeblivelse gaar<lb xml:id="d1e32047"/>
-Udeblivelsesdom, foregaar som foran an-<lb xml:id="d1e32049"/>
-tydet Forberedelsen af Sagens Behand-<lb xml:id="d1e32052"/>
-ling for Underretten. Under denne for-<lb xml:id="d1e32054"/>
-beredende Behandling afhøres Vidner,<lb xml:id="d1e32056"/>
-Skønsmænd og Parter, og en kort Ind-<lb xml:id="d1e32058"/>
-lægsveksling finder Sted. Naar Forberedel-<lb xml:id="d1e32060"/>
-sen saaledes er bragt til Ende, henvises<lb xml:id="d1e32062"/>
-Sagen til mundtlig Domsforhandling for<lb xml:id="d1e32065"/>
-Landsretten i den første ordinære Rets-<lb xml:id="d1e32067"/>
-session, Landsretten afholder paa det Ting-<lb xml:id="d1e32069"/>
-sted, hvorunder den paagældende Retskreds<lb xml:id="d1e32071"/>
-hører. Her finder en mundtlig Procedure<lb xml:id="d1e32073"/>
-Sted efter lignende Regler, som nu følges<lb xml:id="d1e32075"/>
-ved den mundtlige Procedure i Højesteret,<lb xml:id="d1e32078"/>
-og med Oplæsning af de Dokumenter, som<lb xml:id="d1e32080"/>
-Parterne paaberaaber sig, derunder Ud-<lb xml:id="d1e32082"/>
-skrifter af afholdte Tingsvidner, Syns- og<lb xml:id="d1e32084"/>
-Skønsforretninger samt afgivne Partsfor-<lb xml:id="d1e32086"/>
-klaringer. Rettens Formand har Ledelsen<lb xml:id="d1e32088"/>
-af hele Proceduren, og Dommerne have<lb xml:id="d1e32091"/>
-Ret til at stille Spørgsmaal for at fjerne<lb xml:id="d1e32093"/>
+               <p xml:id="d1e32133">
+I de borgerlige Sager, som i 1ste In-<lb xml:id="d1e32135"/>
+stans skal paadømmes af Landsretterne,<lb xml:id="d1e32137"/>
+nemlig de betydeligere Sager, hvori der ikke<lb xml:id="d1e32139"/>
+paa Grund af Indstævntes Udeblivelse gaar<lb xml:id="d1e32141"/>
+Udeblivelsesdom, foregaar som foran an-<lb xml:id="d1e32143"/>
+tydet Forberedelsen af Sagens Behand-<lb xml:id="d1e32146"/>
+ling for Underretten. Under denne for-<lb xml:id="d1e32148"/>
+beredende Behandling afhøres Vidner,<lb xml:id="d1e32150"/>
+Skønsmænd og Parter, og en kort Ind-<lb xml:id="d1e32152"/>
+lægsveksling finder Sted. Naar Forberedel-<lb xml:id="d1e32154"/>
+sen saaledes er bragt til Ende, henvises<lb xml:id="d1e32156"/>
+Sagen til mundtlig Domsforhandling for<lb xml:id="d1e32159"/>
+Landsretten i den første ordinære Rets-<lb xml:id="d1e32161"/>
+session, Landsretten afholder paa det Ting-<lb xml:id="d1e32163"/>
+sted, hvorunder den paagældende Retskreds<lb xml:id="d1e32165"/>
+hører. Her finder en mundtlig Procedure<lb xml:id="d1e32167"/>
+Sted efter lignende Regler, som nu følges<lb xml:id="d1e32169"/>
+ved den mundtlige Procedure i Højesteret,<lb xml:id="d1e32172"/>
+og med Oplæsning af de Dokumenter, som<lb xml:id="d1e32174"/>
+Parterne paaberaaber sig, derunder Ud-<lb xml:id="d1e32176"/>
+skrifter af afholdte Tingsvidner, Syns- og<lb xml:id="d1e32178"/>
+Skønsforretninger samt afgivne Partsfor-<lb xml:id="d1e32180"/>
+klaringer. Rettens Formand har Ledelsen<lb xml:id="d1e32182"/>
+af hele Proceduren, og Dommerne have<lb xml:id="d1e32185"/>
+Ret til at stille Spørgsmaal for at fjerne<lb xml:id="d1e32187"/>
 Uklarhed i Fremstillingen.
 </p>
-               <p xml:id="d1e32096">
-Paa Grundlag af den saaledes fore-<lb xml:id="d1e32098"/>
+               <p xml:id="d1e32191">
+Paa Grundlag af den saaledes fore-<lb xml:id="d1e32193"/>
 gaaede mundtlige Procedure fældes Dommen.
 </p>
-               <p xml:id="d1e32101">
-I Proceskommissionens Forslag var det<lb xml:id="d1e32103"/>
-saakaldte Umiddelbarhedsprincip indført<lb xml:id="d1e32105"/>
+               <p xml:id="d1e32196">
+I Proceskommissionens Forslag var det<lb xml:id="d1e32198"/>
+saakaldte Umiddelbarhedsprincip indført<lb xml:id="d1e32200"/>
 i hele Retsplejen, ihvorvel dette ikke er
 </p>
-               <milestone type="rightside" xml:id="endd1e27155" prev="startd1e27155" n="4124" unit="column"/>
+               <p xml:id="d1e32203">
+                  <milestone type="rightside" xml:id="endd1e27155" prev="startd1e27155" n="4124" unit="column"/>
+               </p>
                <pb xml:id="idr18_00243_rigsdagtid_1906_07" facs="r18_00243_rigsdagtid_1906_07" n=""/>
-               <fw xml:id="d1e32113" type="head" place="top-left">4125</fw>
-               <fw xml:id="d1e32116" type="head" place="top-middle">Forsi. t. L. om Rettens Pleje.</fw>
-               <fw xml:id="d1e32119" type="head" place="top-right">4126</fw>
-               <milestone type="leftside" xml:id="startd1e27301" next="endd1e27301" n="4125" unit="column"/>
-               <p xml:id="d1e32125">
-krævet i Grundloven og ikke er nødvendigt<lb xml:id="d1e32127"/>
-for at opfylde Grundlovens Bud. Følgen<lb xml:id="d1e32129"/>
-af Umiddelbarhedsprincipets Anvendelse i<lb xml:id="d1e32131"/>
-Proceskommissionens Forslag var, at Afhø-<lb xml:id="d1e32133"/>
-ringen af Parter, Vidner, Syns- og Skønsmænd<lb xml:id="d1e32135"/>
-altid i alle borgerlige Sager skulde foregaa<lb xml:id="d1e32138"/>
-under Domsforhandlingen og for den Dom-<lb xml:id="d1e32140"/>
-stol, hvor denne foregik. Heraf fulgte atter,<lb xml:id="d1e32142"/>
-at der i Underretssager for mange og i<lb xml:id="d1e32144"/>
-Landsretssager for næsten alle de nævnte<lb xml:id="d1e32146"/>
-mødende vilde blive længere, som oftest<lb xml:id="d1e32148"/>
-betydeligt længere og flere Rejser at gøre,<lb xml:id="d1e32151"/>
-hvilket baade vilde medføre store Udgifter<lb xml:id="d1e32153"/>
-for de procesførende Parter og betydelig<lb xml:id="d1e32155"/>
-Tidsspilde og Ulejlighed for de mødende.<lb xml:id="d1e32157"/>
-I det foreliggende Lovforslag er Umiddel-<lb xml:id="d1e32159"/>
-barhedsprineipet fraveget i alle borgerlige<lb xml:id="d1e32161"/>
-Sager, dog med den Undtagelse, at Lands-<lb xml:id="d1e32164"/>
-ret og Højesteret i de Tilfælde, hvor Ret-<lb xml:id="d1e32166"/>
-ten finder det nødvendigt, kan kræve, at de<lb xml:id="d1e32168"/>
-Personer, hvis egen Forklaring den mener<lb xml:id="d1e32170"/>
-selv at burde høre, skulle fremstille sig for<lb xml:id="d1e32172"/>
-den. Forslagets Hovedregel bliver herefter,<lb xml:id="d1e32174"/>
-at Vidner og Syns- eller Skønsmænd lige-<lb xml:id="d1e32177"/>
-som nu kun skulle være pligtige at afgive<lb xml:id="d1e32179"/>
-Forklaring for Underretten paa deres<lb xml:id="d1e32181"/>
-Hjemsted, og disse Forklaringer, der pro-<lb xml:id="d1e32183"/>
-tokolleres efter de nugældende Regler, op-<lb xml:id="d1e32185"/>
-læses da ved den mundtlige Domsforhand-<lb xml:id="d1e32187"/>
-ling paa lignende Maade som nu ved<lb xml:id="d1e32190"/>
-Højesteret. Dette System vil medføre væ-<lb xml:id="d1e32192"/>
-sentlig mindre Udgifter og Ulejlighed end<lb xml:id="d1e32194"/>
-Proceskommissionens Forslag, og saa vidt<lb xml:id="d1e32196"/>
-vides har endnu ingen ment, at den hidtil<lb xml:id="d1e32198"/>
-i Højesteret brugte mundtlige Procedure<lb xml:id="d1e32200"/>
-ikke var fuldt tilstrækkelig og vel egnet til<lb xml:id="d1e32203"/>
-at give de retskyndige Dommere fuld Op-<lb xml:id="d1e32205"/>
-lysning om Sagens Beskaffenhed, i hvert<lb xml:id="d1e32207"/>
-Fald, naar den fik det ovennævnte Tillæg<lb xml:id="d1e32209"/>
-om Adgang til at indkalde særlig betyd-<lb xml:id="d1e32211"/>
-ningsfulde Vidner til Afhøring under Doms-<lb xml:id="d1e32213"/>
+               <fw xml:id="d1e32210" type="head" place="top-left">4125</fw>
+               <fw xml:id="d1e32213" type="head" place="top-middle">Forsi. t. L. om Rettens Pleje.</fw>
+               <fw xml:id="d1e32217" type="head" place="top-right">4126</fw>
+               
+               <p xml:id="d1e32222">
+                  <milestone type="leftside" xml:id="startd1e27301" next="endd1e27301" n="4125" unit="column"/>
+               </p>
+               <p xml:id="d1e32227">
+krævet i Grundloven og ikke er nødvendigt<lb xml:id="d1e32229"/>
+for at opfylde Grundlovens Bud. Følgen<lb xml:id="d1e32231"/>
+af Umiddelbarhedsprincipets Anvendelse i<lb xml:id="d1e32233"/>
+Proceskommissionens Forslag var, at Afhø-<lb xml:id="d1e32235"/>
+ringen af Parter, Vidner, Syns- og Skønsmænd<lb xml:id="d1e32237"/>
+altid i alle borgerlige Sager skulde foregaa<lb xml:id="d1e32240"/>
+under Domsforhandlingen og for den Dom-<lb xml:id="d1e32242"/>
+stol, hvor denne foregik. Heraf fulgte atter,<lb xml:id="d1e32244"/>
+at der i Underretssager for mange og i<lb xml:id="d1e32246"/>
+Landsretssager for næsten alle de nævnte<lb xml:id="d1e32248"/>
+mødende vilde blive længere, som oftest<lb xml:id="d1e32250"/>
+betydeligt længere og flere Rejser at gøre,<lb xml:id="d1e32253"/>
+hvilket baade vilde medføre store Udgifter<lb xml:id="d1e32255"/>
+for de procesførende Parter og betydelig<lb xml:id="d1e32257"/>
+Tidsspilde og Ulejlighed for de mødende.<lb xml:id="d1e32259"/>
+I det foreliggende Lovforslag er Umiddel-<lb xml:id="d1e32261"/>
+barhedsprineipet fraveget i alle borgerlige<lb xml:id="d1e32263"/>
+Sager, dog med den Undtagelse, at Lands-<lb xml:id="d1e32266"/>
+ret og Højesteret i de Tilfælde, hvor Ret-<lb xml:id="d1e32268"/>
+ten finder det nødvendigt, kan kræve, at de<lb xml:id="d1e32270"/>
+Personer, hvis egen Forklaring den mener<lb xml:id="d1e32272"/>
+selv at burde høre, skulle fremstille sig for<lb xml:id="d1e32274"/>
+den. Forslagets Hovedregel bliver herefter,<lb xml:id="d1e32276"/>
+at Vidner og Syns- eller Skønsmænd lige-<lb xml:id="d1e32279"/>
+som nu kun skulle være pligtige at afgive<lb xml:id="d1e32281"/>
+Forklaring for Underretten paa deres<lb xml:id="d1e32283"/>
+Hjemsted, og disse Forklaringer, der pro-<lb xml:id="d1e32285"/>
+tokolleres efter de nugældende Regler, op-<lb xml:id="d1e32287"/>
+læses da ved den mundtlige Domsforhand-<lb xml:id="d1e32289"/>
+ling paa lignende Maade som nu ved<lb xml:id="d1e32292"/>
+Højesteret. Dette System vil medføre væ-<lb xml:id="d1e32294"/>
+sentlig mindre Udgifter og Ulejlighed end<lb xml:id="d1e32296"/>
+Proceskommissionens Forslag, og saa vidt<lb xml:id="d1e32298"/>
+vides har endnu ingen ment, at den hidtil<lb xml:id="d1e32300"/>
+i Højesteret brugte mundtlige Procedure<lb xml:id="d1e32302"/>
+ikke var fuldt tilstrækkelig og vel egnet til<lb xml:id="d1e32305"/>
+at give de retskyndige Dommere fuld Op-<lb xml:id="d1e32307"/>
+lysning om Sagens Beskaffenhed, i hvert<lb xml:id="d1e32309"/>
+Fald, naar den fik det ovennævnte Tillæg<lb xml:id="d1e32311"/>
+om Adgang til at indkalde særlig betyd-<lb xml:id="d1e32313"/>
+ningsfulde Vidner til Afhøring under Doms-<lb xml:id="d1e32315"/>
 forhandlingen.
 </p>
-               <p xml:id="d1e32216">
-Alle af en Underret afsagte Domme i<lb xml:id="d1e32218"/>
-borgerlige Sager kunne indankes for Lands-<lb xml:id="d1e32220"/>
-retten ligesom efter Proceskommissionens<lb xml:id="d1e32222"/>
-Forslag, men Landsrettens Dom i saadanne<lb xml:id="d1e32224"/>
-Sager kan, ligesom efter Proceskommis-<lb xml:id="d1e32226"/>
-sionens Forslag, kun i særlige Tilfælde ind-<lb xml:id="d1e32229"/>
+               <p xml:id="d1e32318">
+Alle af en Underret afsagte Domme i<lb xml:id="d1e32320"/>
+borgerlige Sager kunne indankes for Lands-<lb xml:id="d1e32322"/>
+retten ligesom efter Proceskommissionens<lb xml:id="d1e32324"/>
+Forslag, men Landsrettens Dom i saadanne<lb xml:id="d1e32326"/>
+Sager kan, ligesom efter Proceskommis-<lb xml:id="d1e32328"/>
+sionens Forslag, kun i særlige Tilfælde ind-<lb xml:id="d1e32331"/>
 ankes for Højesteret.
 </p>
-               <p xml:id="d1e32232">
-Alle af en Landsret i 1ste Instans af-<lb xml:id="d1e32234"/>
-sagte Domme kunne ligesom efter Proces-<lb xml:id="d1e32236"/>
-kommissionens Forslag indankes for Højeste-<lb xml:id="d1e32238"/>
-ret. Nye Beviser kunne paaberaabes i<lb xml:id="d1e32240"/>
-Højesteret uden særlig Bevilling, men nye<lb xml:id="d1e32242"/>
-Vidner skulle i Reglen føres for Under-<lb xml:id="d1e32245"/>
-retten paa det Sted, hvor Vidnerne bor.<lb xml:id="d1e32247"/>
-Ogsaa i Ankesager foreskriver Lovforslaget<lb xml:id="d1e32249"/>
-mundtlig Procedure saavel for Landsret<lb xml:id="d1e32251"/>
+               <p xml:id="d1e32334">
+Alle af en Landsret i 1ste Instans af-<lb xml:id="d1e32336"/>
+sagte Domme kunne ligesom efter Proces-<lb xml:id="d1e32338"/>
+kommissionens Forslag indankes for Højeste-<lb xml:id="d1e32340"/>
+ret. Nye Beviser kunne paaberaabes i<lb xml:id="d1e32342"/>
+Højesteret uden særlig Bevilling, men nye<lb xml:id="d1e32344"/>
+Vidner skulle i Reglen føres for Under-<lb xml:id="d1e32347"/>
+retten paa det Sted, hvor Vidnerne bor.<lb xml:id="d1e32349"/>
+Ogsaa i Ankesager foreskriver Lovforslaget<lb xml:id="d1e32351"/>
+mundtlig Procedure saavel for Landsret<lb xml:id="d1e32353"/>
 som for Højesteret.
 </p>
-               <milestone type="leftside" xml:id="endd1e27301" prev="startd1e27301" n="4125" unit="column"/>
-               <milestone type="rightside" xml:id="startd1e27433" next="endd1e27433" n="4126" unit="column"/>
-               <p xml:id="d1e32258">
-I Henseende til Arrest, Eksekution,<lb xml:id="d1e32260"/>
-Tvangsauktion, Skifte og Konkurs m. v.<lb xml:id="d1e32262"/>
-foreskriver Lovforslaget i det væsentlige<lb xml:id="d1e32264"/>
-de samme, hovedsagelig med vor nugæl-<lb xml:id="d1e32266"/>
-dende Ret stemmende Regler, som fore-<lb xml:id="d1e32268"/>
-sloges i Proceskommissionens Forslag. Alle<lb xml:id="d1e32271"/>
-disse Forretninger er efter Lovforslaget<lb xml:id="d1e32273"/>
-henlagte til Underdommerne. Der var<lb xml:id="d1e32275"/>
-under Sagens Behandling paa Rigsdagen<lb xml:id="d1e32277"/>
-en afgørende Uenighed imellem de to<lb xml:id="d1e32279"/>
-Ting paa dette Punkt, idet Folketinget<lb xml:id="d1e32281"/>
-ved Retsplejens Adskillelse fra For-<lb xml:id="d1e32284"/>
-valtningen mente, at disse Sager burde<lb xml:id="d1e32286"/>
-henlægges til de nye Øvrighedspersoner.<lb xml:id="d1e32288"/>
-Justitsministeriet var ganske enigt heri og<lb xml:id="d1e32290"/>
-maa fremdeles være af den Formening, at<lb xml:id="d1e32292"/>
-naar Retsplejen bliver adskilt fra Forvalt-<lb xml:id="d1e32294"/>
-ningen, bør disse Sager, der ifølge deres<lb xml:id="d1e32297"/>
-Natur og Beskaffenhed ere administrative,<lb xml:id="d1e32299"/>
-ikke forblive hos Underdommerne, hvor de<lb xml:id="d1e32301"/>
-efter den nugældende Ordning ere, men<lb xml:id="d1e32303"/>
-henlægges til Øvrigheden. Men da det<lb xml:id="d1e32305"/>
-foreliggende Lovforslag som oven anført<lb xml:id="d1e32307"/>
-ikke gaar ud paa allerede nu at adskille<lb xml:id="d1e32310"/>
-Retsplejen fra Forvaltningen, bliver dette<lb xml:id="d1e32312"/>
-vidtrækkende Uenighedsspørgsmaal for<lb xml:id="d1e32314"/>
+               <p xml:id="d1e32357">
+                  <milestone type="leftside" xml:id="endd1e27301" prev="startd1e27301" n="4125" unit="column"/>
+               </p>
+               
+               <p xml:id="d1e32364">
+                  <milestone type="rightside" xml:id="startd1e27433" next="endd1e27433" n="4126" unit="column"/>
+               </p>
+               <p xml:id="d1e32369">
+I Henseende til Arrest, Eksekution,<lb xml:id="d1e32371"/>
+Tvangsauktion, Skifte og Konkurs m. v.<lb xml:id="d1e32373"/>
+foreskriver Lovforslaget i det væsentlige<lb xml:id="d1e32375"/>
+de samme, hovedsagelig med vor nugæl-<lb xml:id="d1e32377"/>
+dende Ret stemmende Regler, som fore-<lb xml:id="d1e32379"/>
+sloges i Proceskommissionens Forslag. Alle<lb xml:id="d1e32382"/>
+disse Forretninger er efter Lovforslaget<lb xml:id="d1e32384"/>
+henlagte til Underdommerne. Der var<lb xml:id="d1e32386"/>
+under Sagens Behandling paa Rigsdagen<lb xml:id="d1e32388"/>
+en afgørende Uenighed imellem de to<lb xml:id="d1e32390"/>
+Ting paa dette Punkt, idet Folketinget<lb xml:id="d1e32392"/>
+ved Retsplejens Adskillelse fra For-<lb xml:id="d1e32395"/>
+valtningen mente, at disse Sager burde<lb xml:id="d1e32397"/>
+henlægges til de nye Øvrighedspersoner.<lb xml:id="d1e32399"/>
+Justitsministeriet var ganske enigt heri og<lb xml:id="d1e32401"/>
+maa fremdeles være af den Formening, at<lb xml:id="d1e32403"/>
+naar Retsplejen bliver adskilt fra Forvalt-<lb xml:id="d1e32405"/>
+ningen, bør disse Sager, der ifølge deres<lb xml:id="d1e32408"/>
+Natur og Beskaffenhed ere administrative,<lb xml:id="d1e32410"/>
+ikke forblive hos Underdommerne, hvor de<lb xml:id="d1e32412"/>
+efter den nugældende Ordning ere, men<lb xml:id="d1e32414"/>
+henlægges til Øvrigheden. Men da det<lb xml:id="d1e32416"/>
+foreliggende Lovforslag som oven anført<lb xml:id="d1e32418"/>
+ikke gaar ud paa allerede nu at adskille<lb xml:id="d1e32421"/>
+Retsplejen fra Forvaltningen, bliver dette<lb xml:id="d1e32423"/>
+vidtrækkende Uenighedsspørgsmaal for<lb xml:id="d1e32425"/>
 Øjeblikket uden Betydning.
 </p>
-               <p xml:id="d1e32318">
-Hvad Behandlingen af Straffesager an-<lb xml:id="d1e32320"/>
-gaar, har nærværende Lovforslag fra Proces-<lb xml:id="d1e32322"/>
-kommissionens Forslag bibeholdt det Prin-<lb xml:id="d1e32324"/>
-cip, at der i enhver Straffesag forud for dens<lb xml:id="d1e32326"/>
-Behandling ved den dømmende Ret, hvad<lb xml:id="d1e32328"/>
-enten denne er Underretten eller Landsret,<lb xml:id="d1e32331"/>
-gaar en Forberedelse ved Underret, men<lb xml:id="d1e32333"/>
-i Lighed med, hvad der foran er udviklet<lb xml:id="d1e32335"/>
-om borgerlige Sager, strækker Behandlingen<lb xml:id="d1e32337"/>
-ved Underret af de Sager, der skulle paa-<lb xml:id="d1e32339"/>
-dømmes af en Landsret som 1ste In-<lb xml:id="d1e32341"/>
-stans, sig til et noget mere fremskredet<lb xml:id="d1e32344"/>
-Punkt end i Proceskommissionens For-<lb xml:id="d1e32346"/>
-slag foreslaaet, nemlig til det Tidspunkt,<lb xml:id="d1e32348"/>
-da Sagen er moden til Domsforhandling<lb xml:id="d1e32350"/>
-og Paadømmelse, idet der dog i den Hen-<lb xml:id="d1e32352"/>
-seende gøres en Undtagelse i Nævningesager,<lb xml:id="d1e32354"/>
-hvis Behandling ved Underret stopper paa<lb xml:id="d1e32357"/>
-det samme Punkt, hvor den efter Proces-<lb xml:id="d1e32359"/>
+               <p xml:id="d1e32428">
+Hvad Behandlingen af Straffesager an-<lb xml:id="d1e32430"/>
+gaar, har nærværende Lovforslag fra Proces-<lb xml:id="d1e32432"/>
+kommissionens Forslag bibeholdt det Prin-<lb xml:id="d1e32434"/>
+cip, at der i enhver Straffesag forud for dens<lb xml:id="d1e32436"/>
+Behandling ved den dømmende Ret, hvad<lb xml:id="d1e32438"/>
+enten denne er Underretten eller Landsret,<lb xml:id="d1e32441"/>
+gaar en Forberedelse ved Underret, men<lb xml:id="d1e32443"/>
+i Lighed med, hvad der foran er udviklet<lb xml:id="d1e32445"/>
+om borgerlige Sager, strækker Behandlingen<lb xml:id="d1e32447"/>
+ved Underret af de Sager, der skulle paa-<lb xml:id="d1e32449"/>
+dømmes af en Landsret som 1ste In-<lb xml:id="d1e32451"/>
+stans, sig til et noget mere fremskredet<lb xml:id="d1e32454"/>
+Punkt end i Proceskommissionens For-<lb xml:id="d1e32456"/>
+slag foreslaaet, nemlig til det Tidspunkt,<lb xml:id="d1e32458"/>
+da Sagen er moden til Domsforhandling<lb xml:id="d1e32460"/>
+og Paadømmelse, idet der dog i den Hen-<lb xml:id="d1e32462"/>
+seende gøres en Undtagelse i Nævningesager,<lb xml:id="d1e32464"/>
+hvis Behandling ved Underret stopper paa<lb xml:id="d1e32467"/>
+det samme Punkt, hvor den efter Proces-<lb xml:id="d1e32469"/>
 kommissionens Forslag skulde ophøre.
 </p>
-               <p xml:id="d1e32362">
-Den nævnte Forandring staar i For-<lb xml:id="d1e32364"/>
-bindelse med, at nærværende Lovforslag ej-<lb xml:id="d1e32366"/>
-heller i Straffesager — Nævningesager dog<lb xml:id="d1e32368"/>
-undtagne — saaledes som Proceskommis-<lb xml:id="d1e32370"/>
-sionens Forslag bygger paa Umiddelbarheds-<lb xml:id="d1e32372"/>
-principet. Man er nemlig gaaet ud fra, at i<lb xml:id="d1e32375"/>
-alle de Sager, ved hvis Paadømmelse kun<lb xml:id="d1e32377"/>
-retskyndige Dommere skulle medvirke, vil<lb xml:id="d1e32379"/>
-Sagens Beskaffenhed kunne blive ligesaa<lb xml:id="d1e32381"/>
-klart og fyldestgørende behandlet og frem-<lb xml:id="d1e32383"/>
-stillet for de retskyndige Dommere ved en<lb xml:id="d1e32385"/>
+               <p xml:id="d1e32472">
+Den nævnte Forandring staar i For-<lb xml:id="d1e32474"/>
+bindelse med, at nærværende Lovforslag ej-<lb xml:id="d1e32476"/>
+heller i Straffesager — Nævningesager dog<lb xml:id="d1e32478"/>
+undtagne — saaledes som Proceskommis-<lb xml:id="d1e32480"/>
+sionens Forslag bygger paa Umiddelbarheds-<lb xml:id="d1e32482"/>
+principet. Man er nemlig gaaet ud fra, at i<lb xml:id="d1e32485"/>
+alle de Sager, ved hvis Paadømmelse kun<lb xml:id="d1e32487"/>
+retskyndige Dommere skulle medvirke, vil<lb xml:id="d1e32489"/>
+Sagens Beskaffenhed kunne blive ligesaa<lb xml:id="d1e32491"/>
+klart og fyldestgørende behandlet og frem-<lb xml:id="d1e32493"/>
+stillet for de retskyndige Dommere ved en<lb xml:id="d1e32495"/>
 lignende Fremgangsmaade som den, der
 </p>
-               <milestone type="rightside" xml:id="endd1e27433" prev="startd1e27433" n="4126" unit="column"/>
+               <p xml:id="d1e32499">
+                  <milestone type="rightside" xml:id="endd1e27433" prev="startd1e27433" n="4126" unit="column"/>
+               </p>
                <pb xml:id="idr18_00244_rigsdagtid_1906_07" facs="r18_00244_rigsdagtid_1906_07" n=""/>
-               <fw xml:id="d1e32392" type="head" place="top-left">4127</fw>
-               <fw xml:id="d1e32395" type="head" place="top-middle">Forsl. t. L. om Rettens Pleje.</fw>
-               <fw xml:id="d1e32399" type="head" place="top-right">4128</fw>
-               <milestone type="leftside" xml:id="startd1e27577" next="endd1e27577" n="4127" unit="column"/>
-               <p xml:id="d1e32404">
-nu bruges under den mundtlige Procedure<lb xml:id="d1e32406"/>
+               <fw xml:id="d1e32506" type="head" place="top-left">4127</fw>
+               <fw xml:id="d1e32509" type="head" place="top-middle">Forsl. t. L. om Rettens Pleje.</fw>
+               <fw xml:id="d1e32512" type="head" place="top-right">4128</fw>
+               
+               <p xml:id="d1e32518">
+                  <milestone type="leftside" xml:id="startd1e27577" next="endd1e27577" n="4127" unit="column"/>
+               </p>
+               <p xml:id="d1e32523">
+nu bruges under den mundtlige Procedure<lb xml:id="d1e32525"/>
 for Højesteret i Straffesager.
 </p>
-               <p xml:id="d1e32409">
-Bortset fra Nævningesager er nærvæ-<lb xml:id="d1e32411"/>
-rende Lovforslags Regel altsaa den, at<lb xml:id="d1e32413"/>
-saavel i Underretssager som i de Sager,<lb xml:id="d1e32415"/>
-der i første Instans skulle paadømmes af<lb xml:id="d1e32417"/>
-Landsret, foregaar hele Indsamlingen af<lb xml:id="d1e32419"/>
-Bevismaterialet ved Underretten, hvor-<lb xml:id="d1e32422"/>
-efter Oplæsning af de tilvejebragte Be-<lb xml:id="d1e32424"/>
-viser finder Sted under den mundtlige<lb xml:id="d1e32426"/>
-Forhandling for Retten. Ligesom i borger-<lb xml:id="d1e32428"/>
-lige Sager kan Landsretten dog forlange,<lb xml:id="d1e32430"/>
-at en eller flere af de Personer, der have<lb xml:id="d1e32432"/>
-afgivet Forklaring i Sagen, skulle møde under<lb xml:id="d1e32435"/>
-Domsforhandlingen og personlig afgive For-<lb xml:id="d1e32437"/>
-klaring der. Ved denne Fremgangsmaade vil<lb xml:id="d1e32439"/>
-det offentlige i næsten alle Landsretssager<lb xml:id="d1e32441"/>
-spares for de meget betydelige Udgifter,<lb xml:id="d1e32443"/>
-som efter Proceskommissionens Forslag vilde<lb xml:id="d1e32445"/>
-bevirkes ved Vidners og andres Rejse til<lb xml:id="d1e32448"/>
-det Sted, hvor Landsretten holdes, og deres<lb xml:id="d1e32450"/>
-Ophold der ofte i flere, stundom i mange<lb xml:id="d1e32452"/>
-Dage, ligesom den Ulejlighed og Tidsspilde,<lb xml:id="d1e32454"/>
-som derved vilde foraarsages Borgerne, i<lb xml:id="d1e32456"/>
-en ganske tilsvarende og meget betydelig<lb xml:id="d1e32458"/>
+               <p xml:id="d1e32528">
+Bortset fra Nævningesager er nærvæ-<lb xml:id="d1e32530"/>
+rende Lovforslags Regel altsaa den, at<lb xml:id="d1e32532"/>
+saavel i Underretssager som i de Sager,<lb xml:id="d1e32534"/>
+der i første Instans skulle paadømmes af<lb xml:id="d1e32536"/>
+Landsret, foregaar hele Indsamlingen af<lb xml:id="d1e32538"/>
+Bevismaterialet ved Underretten, hvor-<lb xml:id="d1e32541"/>
+efter Oplæsning af de tilvejebragte Be-<lb xml:id="d1e32543"/>
+viser finder Sted under den mundtlige<lb xml:id="d1e32545"/>
+Forhandling for Retten. Ligesom i borger-<lb xml:id="d1e32547"/>
+lige Sager kan Landsretten dog forlange,<lb xml:id="d1e32549"/>
+at en eller flere af de Personer, der have<lb xml:id="d1e32551"/>
+afgivet Forklaring i Sagen, skulle møde under<lb xml:id="d1e32554"/>
+Domsforhandlingen og personlig afgive For-<lb xml:id="d1e32556"/>
+klaring der. Ved denne Fremgangsmaade vil<lb xml:id="d1e32558"/>
+det offentlige i næsten alle Landsretssager<lb xml:id="d1e32560"/>
+spares for de meget betydelige Udgifter,<lb xml:id="d1e32562"/>
+som efter Proceskommissionens Forslag vilde<lb xml:id="d1e32564"/>
+bevirkes ved Vidners og andres Rejse til<lb xml:id="d1e32567"/>
+det Sted, hvor Landsretten holdes, og deres<lb xml:id="d1e32569"/>
+Ophold der ofte i flere, stundom i mange<lb xml:id="d1e32571"/>
+Dage, ligesom den Ulejlighed og Tidsspilde,<lb xml:id="d1e32573"/>
+som derved vilde foraarsages Borgerne, i<lb xml:id="d1e32575"/>
+en ganske tilsvarende og meget betydelig<lb xml:id="d1e32577"/>
 Grad formindskes.
 </p>
-               <p xml:id="d1e32461">
-Kun i Landsretssager, hvori der med-<lb xml:id="d1e32463"/>
-virker Nævninger, har man, da disse jo ikke<lb xml:id="d1e32465"/>
-kunne forudsættes at have de retskyndige<lb xml:id="d1e32467"/>
-Dommeres Øvelse og i mange Tilfælde ej<lb xml:id="d1e32469"/>
-heller deres Evne til ved at høre en Oplæs-<lb xml:id="d1e32471"/>
-ning at tilegne sig det oplæstes virkelige<lb xml:id="d1e32474"/>
-Indhold og Betydning, fundet det fornødent<lb xml:id="d1e32476"/>
-at bibeholde Umiddelbarhedsprincipet efter<lb xml:id="d1e32478"/>
+               <p xml:id="d1e32580">
+Kun i Landsretssager, hvori der med-<lb xml:id="d1e32582"/>
+virker Nævninger, har man, da disse jo ikke<lb xml:id="d1e32584"/>
+kunne forudsættes at have de retskyndige<lb xml:id="d1e32586"/>
+Dommeres Øvelse og i mange Tilfælde ej<lb xml:id="d1e32588"/>
+heller deres Evne til ved at høre en Oplæs-<lb xml:id="d1e32590"/>
+ning at tilegne sig det oplæstes virkelige<lb xml:id="d1e32593"/>
+Indhold og Betydning, fundet det fornødent<lb xml:id="d1e32595"/>
+at bibeholde Umiddelbarhedsprincipet efter<lb xml:id="d1e32597"/>
 Proceskommissionens Forslag.
 </p>
-               <p xml:id="d1e32481">
-Lovforslaget beholder uforandret Pro-<lb xml:id="d1e32483"/>
-ceskommissionens Forslag om, hvilke Sager<lb xml:id="d1e32485"/>
-der i 1ste Instans skulle paadømmes ved<lb xml:id="d1e32487"/>
-Underret, og hvilke Sager der i 1ste In-<lb xml:id="d1e32489"/>
+               <p xml:id="d1e32600">
+Lovforslaget beholder uforandret Pro-<lb xml:id="d1e32602"/>
+ceskommissionens Forslag om, hvilke Sager<lb xml:id="d1e32604"/>
+der i 1ste Instans skulle paadømmes ved<lb xml:id="d1e32606"/>
+Underret, og hvilke Sager der i 1ste In-<lb xml:id="d1e32608"/>
 stants skulle paadømmes ved Landsret.
 </p>
-               <p xml:id="d1e32493">
-I alle Straffesagerne bliver det som an-<lb xml:id="d1e32495"/>
-ført Underretten, som ligesom efter Proces-<lb xml:id="d1e32497"/>
-kommissionens Forslag besørger den forbere-<lb xml:id="d1e32499"/>
-dende Behandling. Hvad denne angaar,<lb xml:id="d1e32501"/>
-formener Justitsministeriet, at man Ted en<lb xml:id="d1e32503"/>
-Reform af Strafferetsplejen maa fuldstændig<lb xml:id="d1e32506"/>
-bort fra det nuværende Inkvisitionssystein<lb xml:id="d1e32508"/>
-med dets hemmelige Forhør, dets Udeluk-<lb xml:id="d1e32510"/>
-kelse af Forsvarere, dets Pligt for den Sigtede<lb xml:id="d1e32512"/>
-til at udtale sig, en Pligt der endogsaa kan<lb xml:id="d1e32514"/>
-fremtvinges ved Tvangsmidler saa stærke<lb xml:id="d1e32516"/>
-som Hensættelse paa Vand og Brød, indtil<lb xml:id="d1e32519"/>
-den Sigtede svarer, o. s. v. Men man har<lb xml:id="d1e32521"/>
-ikke ment, at den Vej, Proceskommissionen<lb xml:id="d1e32523"/>
-er gaaet med Indførelse af det rene An-<lb xml:id="d1e32525"/>
-klageprincip, er den eneste, ad hvilken man<lb xml:id="d1e32527"/>
-kan naa til en for den Sigtede fuldt ud<lb xml:id="d1e32529"/>
+               <p xml:id="d1e32611">
+I alle Straffesagerne bliver det som an-<lb xml:id="d1e32613"/>
+ført Underretten, som ligesom efter Proces-<lb xml:id="d1e32615"/>
+kommissionens Forslag besørger den forbere-<lb xml:id="d1e32617"/>
+dende Behandling. Hvad denne angaar,<lb xml:id="d1e32619"/>
+formener Justitsministeriet, at man Ted en<lb xml:id="d1e32621"/>
+Reform af Strafferetsplejen maa fuldstændig<lb xml:id="d1e32624"/>
+bort fra det nuværende Inkvisitionssystein<lb xml:id="d1e32626"/>
+med dets hemmelige Forhør, dets Udeluk-<lb xml:id="d1e32628"/>
+kelse af Forsvarere, dets Pligt for den Sigtede<lb xml:id="d1e32630"/>
+til at udtale sig, en Pligt der endogsaa kan<lb xml:id="d1e32632"/>
+fremtvinges ved Tvangsmidler saa stærke<lb xml:id="d1e32634"/>
+som Hensættelse paa Vand og Brød, indtil<lb xml:id="d1e32637"/>
+den Sigtede svarer, o. s. v. Men man har<lb xml:id="d1e32639"/>
+ikke ment, at den Vej, Proceskommissionen<lb xml:id="d1e32641"/>
+er gaaet med Indførelse af det rene An-<lb xml:id="d1e32643"/>
+klageprincip, er den eneste, ad hvilken man<lb xml:id="d1e32645"/>
+kan naa til en for den Sigtede fuldt ud<lb xml:id="d1e32647"/>
 betryggende og retfærdig Ordning.
 </p>
-               <p xml:id="d1e32532">
+               <p xml:id="d1e32651">
 Anklageprincipet, saaledes som det
 </p>
-               <milestone type="leftside" xml:id="endd1e27577" prev="startd1e27577" n="4127" unit="column"/>
-               <milestone type="rightside" xml:id="startd1e27710" next="endd1e27710" n="4128" unit="column"/>
-               <p xml:id="d1e32538">
-er udført i Proceskommissionens Forslag,<lb xml:id="d1e32540"/>
-lægger saa godt som hele Sagens Le-<lb xml:id="d1e32542"/>
-delse i Politiets Haand. Herimod kan<lb xml:id="d1e32544"/>
-der blandt andre Invendinger navnlig gø-<lb xml:id="d1e32546"/>
-res den, at den vidtrækkende Virksom-<lb xml:id="d1e32548"/>
-hed, som derved overlades Politiet, med<lb xml:id="d1e32551"/>
-Nødvendighed, hvis dette skal kunne<lb xml:id="d1e32553"/>
-magte Opgaven, maa medføre en meget<lb xml:id="d1e32555"/>
-betydelig Forøgelse af Politistyrken hele<lb xml:id="d1e32557"/>
-Landet over og derved særdeles betydeligt<lb xml:id="d1e32559"/>
-større Udgifter for det Offentlige end efter<lb xml:id="d1e32561"/>
+               <p xml:id="d1e32653">
+                  <milestone type="leftside" xml:id="endd1e27577" prev="startd1e27577" n="4127" unit="column"/>
+               </p>
+               
+               <p xml:id="d1e32660">
+                  <milestone type="rightside" xml:id="startd1e27710" next="endd1e27710" n="4128" unit="column"/>
+               </p>
+               <p xml:id="d1e32665">
+er udført i Proceskommissionens Forslag,<lb xml:id="d1e32667"/>
+lægger saa godt som hele Sagens Le-<lb xml:id="d1e32669"/>
+delse i Politiets Haand. Herimod kan<lb xml:id="d1e32671"/>
+der blandt andre Invendinger navnlig gø-<lb xml:id="d1e32673"/>
+res den, at den vidtrækkende Virksom-<lb xml:id="d1e32675"/>
+hed, som derved overlades Politiet, med<lb xml:id="d1e32678"/>
+Nødvendighed, hvis dette skal kunne<lb xml:id="d1e32680"/>
+magte Opgaven, maa medføre en meget<lb xml:id="d1e32682"/>
+betydelig Forøgelse af Politistyrken hele<lb xml:id="d1e32684"/>
+Landet over og derved særdeles betydeligt<lb xml:id="d1e32686"/>
+større Udgifter for det Offentlige end efter<lb xml:id="d1e32688"/>
 det nuværende System.
 </p>
-               <p xml:id="d1e32564">
-Det foreliggende Lovforslag foreslaar<lb xml:id="d1e32566"/>
-en Undersøgelsesform, hvorunder Under-<lb xml:id="d1e32568"/>
-søgelsesdommeren modtager saavel den Sig-<lb xml:id="d1e32570"/>
-tedes som Vidnernes og andres Forklarin-<lb xml:id="d1e32572"/>
-ger, men ikke kan kræve, at den Sigtede<lb xml:id="d1e32574"/>
-skal svare, paa hvilken Frihed for den<lb xml:id="d1e32577"/>
-Sigtede til at undlade at udtale sig der<lb xml:id="d1e32579"/>
-maa lægges den allerstørste Vægt. For-<lb xml:id="d1e32581"/>
-slaget foreslaar tillige ligesom de tid-<lb xml:id="d1e32583"/>
-ligere Forslag, at Retsmøderne som Re-<lb xml:id="d1e32585"/>
-gel skal være offentlige, at der sørges<lb xml:id="d1e32587"/>
-for, at den Sigtede, saasnart han bliver<lb xml:id="d1e32590"/>
-arresteret, kan faa en Forsvarer, og at Vare-<lb xml:id="d1e32592"/>
-tægtsarrestens Anvendelse lovbindes. Der-<lb xml:id="d1e32594"/>
-næst foreslaas Indførelse af borgerlig Kon-<lb xml:id="d1e32596"/>
-trol med Varetægtsarrestanter og gives en<lb xml:id="d1e32598"/>
-udvidet Adgang til Erstatning for uforskyldt<lb xml:id="d1e32600"/>
-Varetægtsarrest og til Erstatning for ufor-<lb xml:id="d1e32603"/>
-skyldt Udstaaelse af Straf ifølge en Dom,<lb xml:id="d1e32605"/>
-der senere viser sig at have været urigtig,<lb xml:id="d1e32607"/>
-og foreslaas en ganske ny Regel om Er-<lb xml:id="d1e32609"/>
-statning, eventuelt Æreserklæring, i Til-<lb xml:id="d1e32611"/>
-fælde af Anholdelse, der viser sig uberet-<lb xml:id="d1e32613"/>
-tiget, Lovforslaget indeholder endvidere den<lb xml:id="d1e32616"/>
-betydningsfulde Regel, at hvor Spørgsmaai<lb xml:id="d1e32618"/>
-opstaar om Erstatning for uforskyldt Vare-<lb xml:id="d1e32620"/>
-tægtsarrest eller for uforskyldt Udstaaelse<lb xml:id="d1e32622"/>
-af Straf, kan den, der søger Erstatningen,,<lb xml:id="d1e32624"/>
-altid forlange afgjort af Nævninger, om<lb xml:id="d1e32626"/>
-der tilkommer ham Erstatning, og hvor stor<lb xml:id="d1e32629"/>
+               <p xml:id="d1e32691">
+Det foreliggende Lovforslag foreslaar<lb xml:id="d1e32693"/>
+en Undersøgelsesform, hvorunder Under-<lb xml:id="d1e32695"/>
+søgelsesdommeren modtager saavel den Sig-<lb xml:id="d1e32697"/>
+tedes som Vidnernes og andres Forklarin-<lb xml:id="d1e32699"/>
+ger, men ikke kan kræve, at den Sigtede<lb xml:id="d1e32701"/>
+skal svare, paa hvilken Frihed for den<lb xml:id="d1e32704"/>
+Sigtede til at undlade at udtale sig der<lb xml:id="d1e32706"/>
+maa lægges den allerstørste Vægt. For-<lb xml:id="d1e32708"/>
+slaget foreslaar tillige ligesom de tid-<lb xml:id="d1e32710"/>
+ligere Forslag, at Retsmøderne som Re-<lb xml:id="d1e32712"/>
+gel skal være offentlige, at der sørges<lb xml:id="d1e32714"/>
+for, at den Sigtede, saasnart han bliver<lb xml:id="d1e32717"/>
+arresteret, kan faa en Forsvarer, og at Vare-<lb xml:id="d1e32719"/>
+tægtsarrestens Anvendelse lovbindes. Der-<lb xml:id="d1e32721"/>
+næst foreslaas Indførelse af borgerlig Kon-<lb xml:id="d1e32723"/>
+trol med Varetægtsarrestanter og gives en<lb xml:id="d1e32725"/>
+udvidet Adgang til Erstatning for uforskyldt<lb xml:id="d1e32727"/>
+Varetægtsarrest og til Erstatning for ufor-<lb xml:id="d1e32730"/>
+skyldt Udstaaelse af Straf ifølge en Dom,<lb xml:id="d1e32732"/>
+der senere viser sig at have været urigtig,<lb xml:id="d1e32734"/>
+og foreslaas en ganske ny Regel om Er-<lb xml:id="d1e32736"/>
+statning, eventuelt Æreserklæring, i Til-<lb xml:id="d1e32738"/>
+fælde af Anholdelse, der viser sig uberet-<lb xml:id="d1e32740"/>
+tiget, Lovforslaget indeholder endvidere den<lb xml:id="d1e32743"/>
+betydningsfulde Regel, at hvor Spørgsmaai<lb xml:id="d1e32745"/>
+opstaar om Erstatning for uforskyldt Vare-<lb xml:id="d1e32747"/>
+tægtsarrest eller for uforskyldt Udstaaelse<lb xml:id="d1e32749"/>
+af Straf, kan den, der søger Erstatningen,,<lb xml:id="d1e32751"/>
+altid forlange afgjort af Nævninger, om<lb xml:id="d1e32753"/>
+der tilkommer ham Erstatning, og hvor stor<lb xml:id="d1e32756"/>
 denne skal være.
 </p>
-               <p xml:id="d1e32633">
-Og endelig indfører Lovforslaget til<lb xml:id="d1e32635"/>
-den Sigtedes fuldkomne Betryggelse mod<lb xml:id="d1e32637"/>
-Overgreb fra Undersøgelsesdommerens Side<lb xml:id="d1e32639"/>
-den nye Regel, at den Sigtede, som har<lb xml:id="d1e32641"/>
-aflagt Tilstaaelse, paa et hvilketsomkelst<lb xml:id="d1e32643"/>
-Trin af Sagens Behandling, saalænge der<lb xml:id="d1e32646"/>
-ikke er faldet Dom i Sagen, kan tage<lb xml:id="d1e32648"/>
-en afgiven Tilstaaelse tilbage, uden at<lb xml:id="d1e32650"/>
-der, saaledes som Tilfældet er efter den<lb xml:id="d1e32652"/>
-nugældende Ordning og ogsaa vilde have<lb xml:id="d1e32654"/>
-været efter Proceskommissionens Forslag,<lb xml:id="d1e32656"/>
-behøver at foreligge Omstændigheder, der<lb xml:id="d1e32659"/>
-bestyrker Rigtigheden af Tilstaaelsens Til-<lb xml:id="d1e32661"/>
+               <p xml:id="d1e32760">
+Og endelig indfører Lovforslaget til<lb xml:id="d1e32762"/>
+den Sigtedes fuldkomne Betryggelse mod<lb xml:id="d1e32764"/>
+Overgreb fra Undersøgelsesdommerens Side<lb xml:id="d1e32766"/>
+den nye Regel, at den Sigtede, som har<lb xml:id="d1e32768"/>
+aflagt Tilstaaelse, paa et hvilketsomkelst<lb xml:id="d1e32770"/>
+Trin af Sagens Behandling, saalænge der<lb xml:id="d1e32773"/>
+ikke er faldet Dom i Sagen, kan tage<lb xml:id="d1e32775"/>
+en afgiven Tilstaaelse tilbage, uden at<lb xml:id="d1e32777"/>
+der, saaledes som Tilfældet er efter den<lb xml:id="d1e32779"/>
+nugældende Ordning og ogsaa vilde have<lb xml:id="d1e32781"/>
+været efter Proceskommissionens Forslag,<lb xml:id="d1e32783"/>
+behøver at foreligge Omstændigheder, der<lb xml:id="d1e32786"/>
+bestyrker Rigtigheden af Tilstaaelsens Til-<lb xml:id="d1e32788"/>
 bagetagelse.
 </p>
-               <p xml:id="d1e32664">
-Den samlede Virkning af alle disse<lb xml:id="d1e32666"/>
+               <p xml:id="d1e32791">
+Den samlede Virkning af alle disse<lb xml:id="d1e32793"/>
 Bestemmelser — hvortil for betydelige
 </p>
-               <milestone type="rightside" xml:id="endd1e27710" prev="startd1e27710" n="4128" unit="column"/>
+               <p xml:id="d1e32796">
+                  <milestone type="rightside" xml:id="endd1e27710" prev="startd1e27710" n="4128" unit="column"/>
+               </p>
                <pb xml:id="idr18_00245_rigsdagtid_1906_07" facs="r18_00245_rigsdagtid_1906_07" n=""/>
-               <fw xml:id="d1e32673" type="head" place="top-left">4129</fw>
-               <fw xml:id="d1e32676" type="head" place="top-middle">Tillæg A. (259).	Ordentlig Samling  1906.</fw>
-               <fw xml:id="d1e32680" type="head" place="top-right">4130</fw>
-               <topmidle xml:id="d1e32683">Forsl. t. L. om Rettens Pleje.</topmidle>
-               <milestone type="leftside" xml:id="startd1e27856" next="endd1e27856" n="4129" unit="column"/>
-               <p xml:id="d1e32687">
-Straffespørgsmaals Vedkommende kan føjes,<lb xml:id="d1e32689"/>
-at i alle Sager, der behandles af de ved<lb xml:id="d1e32691"/>
-nærværende Lovforslag organiserede Dom-<lb xml:id="d1e32693"/>
-stole, vil Dommen blive afsagt af andre<lb xml:id="d1e32695"/>
-Dommere end den, der har ledet Under-<lb xml:id="d1e32697"/>
-søgelsen — er efter Justitsministeriets<lb xml:id="d1e32700"/>
-Formening, at der i Lovforslaget er<lb xml:id="d1e32702"/>
-skabt et Undersøgelsessystem, der end-<lb xml:id="d1e32704"/>
-ogsaa afviger mere fra det nuværende<lb xml:id="d1e32706"/>
-Undersøgelsessystem end Proceskommis-<lb xml:id="d1e32708"/>
-sionens paa Anklageprincipet byggede<lb xml:id="d1e32710"/>
-Forslag i saa Henseende, og som<lb xml:id="d1e32713"/>
-formentlig indeholder større Sikkerhed<lb xml:id="d1e32715"/>
-for den Sigtede imod vilkaarlig eller urig-<lb xml:id="d1e32717"/>
-tig Behandling, end Anklageprincipets Gren-<lb xml:id="d1e32719"/>
+               <fw xml:id="d1e32803" type="head" place="top-left">4129</fw>
+               <fw xml:id="d1e32806" type="head" place="top-middle">Tillæg A. (259).	Ordentlig Samling  1906.</fw>
+               <fw xml:id="d1e32810" type="head" place="top-right">4130</fw>
+               <topmidle xml:id="d1e32813">Forsl. t. L. om Rettens Pleje.</topmidle>
+               
+               <p xml:id="d1e32817">
+                  <milestone type="leftside" xml:id="startd1e27856" next="endd1e27856" n="4129" unit="column"/>
+               </p>
+               <p xml:id="d1e32822">
+Straffespørgsmaals Vedkommende kan føjes,<lb xml:id="d1e32824"/>
+at i alle Sager, der behandles af de ved<lb xml:id="d1e32826"/>
+nærværende Lovforslag organiserede Dom-<lb xml:id="d1e32828"/>
+stole, vil Dommen blive afsagt af andre<lb xml:id="d1e32830"/>
+Dommere end den, der har ledet Under-<lb xml:id="d1e32832"/>
+søgelsen — er efter Justitsministeriets<lb xml:id="d1e32835"/>
+Formening, at der i Lovforslaget er<lb xml:id="d1e32837"/>
+skabt et Undersøgelsessystem, der end-<lb xml:id="d1e32839"/>
+ogsaa afviger mere fra det nuværende<lb xml:id="d1e32841"/>
+Undersøgelsessystem end Proceskommis-<lb xml:id="d1e32843"/>
+sionens paa Anklageprincipet byggede<lb xml:id="d1e32845"/>
+Forslag i saa Henseende, og som<lb xml:id="d1e32848"/>
+formentlig indeholder større Sikkerhed<lb xml:id="d1e32850"/>
+for den Sigtede imod vilkaarlig eller urig-<lb xml:id="d1e32852"/>
+tig Behandling, end Anklageprincipets Gren-<lb xml:id="d1e32854"/>
 nemførelse i og for sig vilde medføre.
 </p>
-               <p xml:id="d1e32722">
-Naar Undersøgelsesdommeren efter de<lb xml:id="d1e32724"/>
-anførte Regler har tilendebragt Forunder-<lb xml:id="d1e32726"/>
-søgelsen, bliver det af Tiltalemyndigheden<lb xml:id="d1e32728"/>
-— i København Politidirektøren, udenfor<lb xml:id="d1e32730"/>
-København Amtmanden — afgjort, om Til-<lb xml:id="d1e32732"/>
-tale skal finde Sted eller ikke. Finder Til-<lb xml:id="d1e32735"/>
-tale Sted, beskikkes der i de Sager, der<lb xml:id="d1e32737"/>
-skal paadømmes ved Underretten, Anklager<lb xml:id="d1e32739"/>
-og Forsvarer, hvilken sidste kan være den<lb xml:id="d1e32741"/>
-samme som har været Tiltaltes Forsvarer<lb xml:id="d1e32743"/>
-under Forundersøgelsen, hvorpaa mundtlig<lb xml:id="d1e32745"/>
-Domsforhandling og Domsafsigelse sker ved<lb xml:id="d1e32748"/>
+               <p xml:id="d1e32857">
+Naar Undersøgelsesdommeren efter de<lb xml:id="d1e32859"/>
+anførte Regler har tilendebragt Forunder-<lb xml:id="d1e32861"/>
+søgelsen, bliver det af Tiltalemyndigheden<lb xml:id="d1e32863"/>
+— i København Politidirektøren, udenfor<lb xml:id="d1e32865"/>
+København Amtmanden — afgjort, om Til-<lb xml:id="d1e32867"/>
+tale skal finde Sted eller ikke. Finder Til-<lb xml:id="d1e32870"/>
+tale Sted, beskikkes der i de Sager, der<lb xml:id="d1e32872"/>
+skal paadømmes ved Underretten, Anklager<lb xml:id="d1e32874"/>
+og Forsvarer, hvilken sidste kan være den<lb xml:id="d1e32876"/>
+samme som har været Tiltaltes Forsvarer<lb xml:id="d1e32878"/>
+under Forundersøgelsen, hvorpaa mundtlig<lb xml:id="d1e32880"/>
+Domsforhandling og Domsafsigelse sker ved<lb xml:id="d1e32883"/>
 Underretten.
 </p>
-               <p xml:id="d1e32751">
-I de Sager, der i 1ste Instans uden<lb xml:id="d1e32753"/>
-Nævninger paadømmes ved Landsretten,<lb xml:id="d1e32755"/>
-sendes hele det ved af Forundersøgelsen<lb xml:id="d1e32757"/>
-tilvejebragte Materiale til Landsretten, hvor<lb xml:id="d1e32759"/>
-Anklager og Forsvarer efter de foran frem-<lb xml:id="d1e32761"/>
-stillede Regler, der i det væsentlige stemme<lb xml:id="d1e32764"/>
-med den nuværende Højesteretsprocedure,<lb xml:id="d1e32766"/>
-procedere Sagen mundtlig, hvorpaa Lands-<lb xml:id="d1e32768"/>
+               <p xml:id="d1e32887">
+I de Sager, der i 1ste Instans uden<lb xml:id="d1e32889"/>
+Nævninger paadømmes ved Landsretten,<lb xml:id="d1e32891"/>
+sendes hele det ved af Forundersøgelsen<lb xml:id="d1e32893"/>
+tilvejebragte Materiale til Landsretten, hvor<lb xml:id="d1e32895"/>
+Anklager og Forsvarer efter de foran frem-<lb xml:id="d1e32897"/>
+stillede Regler, der i det væsentlige stemme<lb xml:id="d1e32900"/>
+med den nuværende Højesteretsprocedure,<lb xml:id="d1e32902"/>
+procedere Sagen mundtlig, hvorpaa Lands-<lb xml:id="d1e32904"/>
 retten afsiger sin Dom.
 </p>
-               <p xml:id="d1e32772">
-I de Sager, der paadømmes i 1ste In-<lb xml:id="d1e32774"/>
-stans af Landsretten under Medvirkning af<lb xml:id="d1e32776"/>
-Nævninger, foregaar, som foran nævnt,<lb xml:id="d1e32778"/>
-Domsforhandlingen, derunder indbefattet<lb xml:id="d1e32780"/>
-Afhøring af Vidner, Syns- og Skønsmænd<lb xml:id="d1e32782"/>
-og Afgivelse af Udtalelser af Tiltalte, ganske<lb xml:id="d1e32785"/>
-paa samme Maade som af Proceskommissio-<lb xml:id="d1e32787"/>
+               <p xml:id="d1e32907">
+I de Sager, der paadømmes i 1ste In-<lb xml:id="d1e32909"/>
+stans af Landsretten under Medvirkning af<lb xml:id="d1e32911"/>
+Nævninger, foregaar, som foran nævnt,<lb xml:id="d1e32913"/>
+Domsforhandlingen, derunder indbefattet<lb xml:id="d1e32915"/>
+Afhøring af Vidner, Syns- og Skønsmænd<lb xml:id="d1e32917"/>
+og Afgivelse af Udtalelser af Tiltalte, ganske<lb xml:id="d1e32920"/>
+paa samme Maade som af Proceskommissio-<lb xml:id="d1e32922"/>
 nen foreslaaet.
 </p>
-               <p xml:id="d1e32790">
-Hvad Udtagelse af Nævninger angaar,<lb xml:id="d1e32792"/>
-søger nærværende Forslag, uden at gaa<lb xml:id="d1e32794"/>
-bort fra de af Proceskommissionen fore-<lb xml:id="d1e32796"/>
-slaaede Grundprinciper for Nævningers<lb xml:id="d1e32798"/>
-Udtagelse, en Ordning, som formentlig vil<lb xml:id="d1e32800"/>
-være egnet til at løse Uenigheden paa dette<lb xml:id="d1e32803"/>
-Punkt imellem Rigsdagens to Ting, idet det<lb xml:id="d1e32805"/>
-som Middel til at undgaa partiske Næv-<lb xml:id="d1e32807"/>
-ninger indfører paa Nævningeudtagelsens<lb xml:id="d1e32809"/>
-forberedende Stadier en Række af nye Ud-<lb xml:id="d1e32811"/>
+               <p xml:id="d1e32925">
+Hvad Udtagelse af Nævninger angaar,<lb xml:id="d1e32927"/>
+søger nærværende Forslag, uden at gaa<lb xml:id="d1e32929"/>
+bort fra de af Proceskommissionen fore-<lb xml:id="d1e32931"/>
+slaaede Grundprinciper for Nævningers<lb xml:id="d1e32933"/>
+Udtagelse, en Ordning, som formentlig vil<lb xml:id="d1e32935"/>
+være egnet til at løse Uenigheden paa dette<lb xml:id="d1e32938"/>
+Punkt imellem Rigsdagens to Ting, idet det<lb xml:id="d1e32940"/>
+som Middel til at undgaa partiske Næv-<lb xml:id="d1e32942"/>
+ninger indfører paa Nævningeudtagelsens<lb xml:id="d1e32944"/>
+forberedende Stadier en Række af nye Ud-<lb xml:id="d1e32946"/>
 skydninger.
 </p>
-               <p xml:id="d1e32814">
-Med Hensyn til Spørgsmaalet om hvilke<lb xml:id="d1e32816"/>
-Sager, der skulle behandles med Nævninger,<lb xml:id="d1e32818"/>
+               <p xml:id="d1e32949">
+Med Hensyn til Spørgsmaalet om hvilke<lb xml:id="d1e32951"/>
+Sager, der skulle behandles med Nævninger,<lb xml:id="d1e32953"/>
 foreslaar nærværende Lovforslag ligesom
 </p>
-               <milestone type="leftside" xml:id="endd1e27856" prev="startd1e27856" n="4129" unit="column"/>
-               <milestone type="rightside" xml:id="startd1e27993" next="endd1e27993" n="4130" unit="column"/>
-               <p xml:id="d1e32825">
-de seneste Regeringsforslag, at Nævninger<lb xml:id="d1e32827"/>
-skulle medvirke i Misgerningssager ,og i<lb xml:id="d1e32829"/>
-Sager, der rejse sig af politiske Lovover-<lb xml:id="d1e32831"/>
+               <p xml:id="d1e32956">
+                  <milestone type="leftside" xml:id="endd1e27856" prev="startd1e27856" n="4129" unit="column"/>
+               </p>
+               
+               <p xml:id="d1e32964">
+                  <milestone type="rightside" xml:id="startd1e27993" next="endd1e27993" n="4130" unit="column"/>
+               </p>
+               <p xml:id="d1e32969">
+de seneste Regeringsforslag, at Nævninger<lb xml:id="d1e32971"/>
+skulle medvirke i Misgerningssager ,og i<lb xml:id="d1e32973"/>
+Sager, der rejse sig af politiske Lovover-<lb xml:id="d1e32975"/>
 trædelser.
 </p>
-               <p xml:id="d1e32835">
-Ihvorvel Grundlovens Krav til Næv-<lb xml:id="d1e32837"/>
-ningers Medvirkning dermed vilde være op-<lb xml:id="d1e32839"/>
-fyldt, gaar Lovforslaget dog betydeligt<lb xml:id="d1e32841"/>
-videre. For det første giver det, som<lb xml:id="d1e32843"/>
-anført. Adgang til Nævningers Medvirk-<lb xml:id="d1e32845"/>
-ning ved Spørgsmaal om Erstatning for<lb xml:id="d1e32848"/>
-uforskyldt Varetægtsarrest eller for ufor-<lb xml:id="d1e32850"/>
-skyldt Udstaaelse af Straf. Dernæst be-<lb xml:id="d1e32852"/>
-stemmer det, at Nævninger skal medvirke,<lb xml:id="d1e32854"/>
-hvor der bliver Spørgsmaal om Ikendelse<lb xml:id="d1e32856"/>
-af Legemsstraf. Og endelig giver Lovforslaget<lb xml:id="d1e32858"/>
-Adgang til Medvirkning af Nævninger, hvor<lb xml:id="d1e32861"/>
-der bliver Spørgsmaal om Idømmelse af<lb xml:id="d1e32863"/>
-Strafarbejde med visse Undtagelser. Paa<lb xml:id="d1e32865"/>
-dette Punkt stiller Lovforslaget sig i Prin-<lb xml:id="d1e32867"/>
-cipet paa samme Maade som Proces-<lb xml:id="d1e32869"/>
-kommissionens Forslag, men søger ikke<lb xml:id="d1e32871"/>
-det afgørende 1 den i den paagældende<lb xml:id="d1e32874"/>
-Straffebestemmelse givne Strafferamme,<lb xml:id="d1e32876"/>
-men i. om der i det enkelte foreliggende<lb xml:id="d1e32878"/>
-Tilfælde vil blive ikendt Strafarbejde eller<lb xml:id="d1e32880"/>
+               <p xml:id="d1e32978">
+Ihvorvel Grundlovens Krav til Næv-<lb xml:id="d1e32980"/>
+ningers Medvirkning dermed vilde være op-<lb xml:id="d1e32982"/>
+fyldt, gaar Lovforslaget dog betydeligt<lb xml:id="d1e32984"/>
+videre. For det første giver det, som<lb xml:id="d1e32986"/>
+anført. Adgang til Nævningers Medvirk-<lb xml:id="d1e32988"/>
+ning ved Spørgsmaal om Erstatning for<lb xml:id="d1e32991"/>
+uforskyldt Varetægtsarrest eller for ufor-<lb xml:id="d1e32993"/>
+skyldt Udstaaelse af Straf. Dernæst be-<lb xml:id="d1e32995"/>
+stemmer det, at Nævninger skal medvirke,<lb xml:id="d1e32997"/>
+hvor der bliver Spørgsmaal om Ikendelse<lb xml:id="d1e32999"/>
+af Legemsstraf. Og endelig giver Lovforslaget<lb xml:id="d1e33001"/>
+Adgang til Medvirkning af Nævninger, hvor<lb xml:id="d1e33004"/>
+der bliver Spørgsmaal om Idømmelse af<lb xml:id="d1e33006"/>
+Strafarbejde med visse Undtagelser. Paa<lb xml:id="d1e33008"/>
+dette Punkt stiller Lovforslaget sig i Prin-<lb xml:id="d1e33010"/>
+cipet paa samme Maade som Proces-<lb xml:id="d1e33012"/>
+kommissionens Forslag, men søger ikke<lb xml:id="d1e33014"/>
+det afgørende 1 den i den paagældende<lb xml:id="d1e33017"/>
+Straffebestemmelse givne Strafferamme,<lb xml:id="d1e33019"/>
+men i. om der i det enkelte foreliggende<lb xml:id="d1e33021"/>
+Tilfælde vil blive ikendt Strafarbejde eller<lb xml:id="d1e33023"/>
 ikke.
 </p>
-               <p xml:id="d1e32883">
-Med Hensyn til Appel af Straffesager<lb xml:id="d1e32885"/>
-gælder ligesom i borgerlige Sager den Re-<lb xml:id="d1e32887"/>
-gel, at Domme, der ere afsagte i 1ste In-<lb xml:id="d1e32889"/>
-stans af Underret, kunne indankes for<lb xml:id="d1e32891"/>
-Landsret, hvor de procederes mundtlig, og<lb xml:id="d1e32893"/>
-at Domme, afsagte i 1ste Instans ved<lb xml:id="d1e32896"/>
-Landsret, kunne indankes for Højesteret,<lb xml:id="d1e32898"/>
-hvor de behandles efter de om mundtlig<lb xml:id="d1e32900"/>
-Procedure gældende Regler. Men i Mod-<lb xml:id="d1e32902"/>
-sætning til Proceskommissionens Forslag,<lb xml:id="d1e32904"/>
-der i alle Sager, der vare paakendte af<lb xml:id="d1e32906"/>
-Landsret, hvad enten det var Sager i 1ste<lb xml:id="d1e32909"/>
-Instans eller Appelsager, kun hjemlede en<lb xml:id="d1e32911"/>
-begrænset Appel til Højesteret, der kom<lb xml:id="d1e32913"/>
-til at fungere som en Art Kassationsret<lb xml:id="d1e32915"/>
-med Hensyn til begaaede formelle og pro-<lb xml:id="d1e32917"/>
-cessuelle Fejl, hjemler det foreliggende Lov-<lb xml:id="d1e32919"/>
-forslag i alle Appelsager Adgang til Behand-<lb xml:id="d1e32922"/>
-ling og Undersøgelse af Sagen i dens fulde<lb xml:id="d1e32924"/>
-Udstrækning, alene med Undtagelse af Næv-<lb xml:id="d1e32926"/>
-ningesager. hvori det er anset fornødent<lb xml:id="d1e32928"/>
-ligesom i Proceskommissionens Forslag at<lb xml:id="d1e32930"/>
-fastholde Nævningernes Afgørelser som<lb xml:id="d1e32932"/>
-endelige, forsaavidt ingen formelle eller<lb xml:id="d1e32935"/>
+               <p xml:id="d1e33026">
+Med Hensyn til Appel af Straffesager<lb xml:id="d1e33028"/>
+gælder ligesom i borgerlige Sager den Re-<lb xml:id="d1e33030"/>
+gel, at Domme, der ere afsagte i 1ste In-<lb xml:id="d1e33032"/>
+stans af Underret, kunne indankes for<lb xml:id="d1e33034"/>
+Landsret, hvor de procederes mundtlig, og<lb xml:id="d1e33036"/>
+at Domme, afsagte i 1ste Instans ved<lb xml:id="d1e33039"/>
+Landsret, kunne indankes for Højesteret,<lb xml:id="d1e33041"/>
+hvor de behandles efter de om mundtlig<lb xml:id="d1e33043"/>
+Procedure gældende Regler. Men i Mod-<lb xml:id="d1e33045"/>
+sætning til Proceskommissionens Forslag,<lb xml:id="d1e33047"/>
+der i alle Sager, der vare paakendte af<lb xml:id="d1e33049"/>
+Landsret, hvad enten det var Sager i 1ste<lb xml:id="d1e33052"/>
+Instans eller Appelsager, kun hjemlede en<lb xml:id="d1e33054"/>
+begrænset Appel til Højesteret, der kom<lb xml:id="d1e33056"/>
+til at fungere som en Art Kassationsret<lb xml:id="d1e33058"/>
+med Hensyn til begaaede formelle og pro-<lb xml:id="d1e33060"/>
+cessuelle Fejl, hjemler det foreliggende Lov-<lb xml:id="d1e33062"/>
+forslag i alle Appelsager Adgang til Behand-<lb xml:id="d1e33065"/>
+ling og Undersøgelse af Sagen i dens fulde<lb xml:id="d1e33067"/>
+Udstrækning, alene med Undtagelse af Næv-<lb xml:id="d1e33069"/>
+ningesager. hvori det er anset fornødent<lb xml:id="d1e33071"/>
+ligesom i Proceskommissionens Forslag at<lb xml:id="d1e33073"/>
+fastholde Nævningernes Afgørelser som<lb xml:id="d1e33075"/>
+endelige, forsaavidt ingen formelle eller<lb xml:id="d1e33078"/>
 processuelle Fejl foreligger.
 </p>
-               <p xml:id="d1e32938">
-I offentlige Politisager bibeholder Lov-<lb xml:id="d1e32940"/>
-forslaget i det væsentlige den nu i Køben-<lb xml:id="d1e32942"/>
-havn brugelige Fremgangsmaade, hvorved<lb xml:id="d1e32944"/>
-Offentlighed og Mundtlighed allerede er<lb xml:id="d1e32946"/>
-indført. Saavel i borgerlige Sager som i<lb xml:id="d1e32948"/>
-Straffesager bibeholder Lovforslaget den i<lb xml:id="d1e32951"/>
-Proceskommissionens Forslag under Be-<lb xml:id="d1e32953"/>
-nævnelsen Kære foreslaaede hurtige og<lb xml:id="d1e32955"/>
+               <p xml:id="d1e33081">
+I offentlige Politisager bibeholder Lov-<lb xml:id="d1e33083"/>
+forslaget i det væsentlige den nu i Køben-<lb xml:id="d1e33085"/>
+havn brugelige Fremgangsmaade, hvorved<lb xml:id="d1e33087"/>
+Offentlighed og Mundtlighed allerede er<lb xml:id="d1e33089"/>
+indført. Saavel i borgerlige Sager som i<lb xml:id="d1e33091"/>
+Straffesager bibeholder Lovforslaget den i<lb xml:id="d1e33094"/>
+Proceskommissionens Forslag under Be-<lb xml:id="d1e33096"/>
+nævnelsen Kære foreslaaede hurtige og<lb xml:id="d1e33098"/>
 forholdsvis formløse Adgang til at fore-
 </p>
-               <milestone type="rightside" xml:id="endd1e27993" prev="startd1e27993" n="4130" unit="column"/>
-               <p xml:id="d1e32960">
+               <p xml:id="d1e33101">
+                  <milestone type="rightside" xml:id="endd1e27993" prev="startd1e27993" n="4130" unit="column"/>
+               </p>
+               <p xml:id="d1e33107">
 Forelagte Lovforslag m. m.	259
 </p>
                <pb xml:id="idr18_00246_rigsdagtid_1906_07" facs="r18_00246_rigsdagtid_1906_07" n=""/>
-               <fw xml:id="d1e32965" type="head" place="top-left">4131</fw>
-               <fw xml:id="d1e32968" type="head" place="top-middle">Forsl. t. L. o Rettes Pleje.</fw>
-               <fw xml:id="d1e32971" type="head" place="top-right">4132</fw>
-               <milestone type="leftside" xml:id="startd1e28141" next="endd1e28141" n="4131" unit="column"/>
-               <p xml:id="d1e32976">
-lægge en Række Afgørelser af Underret<lb xml:id="d1e32978"/>
+               <fw xml:id="d1e33111" type="head" place="top-left">4131</fw>
+               <fw xml:id="d1e33114" type="head" place="top-middle">Forsl. t. L. o Rettes Pleje.</fw>
+               <fw xml:id="d1e33117" type="head" place="top-right">4132</fw>
+               
+               <p xml:id="d1e33123">
+                  <milestone type="leftside" xml:id="startd1e28141" next="endd1e28141" n="4131" unit="column"/>
+               </p>
+               <p xml:id="d1e33128">
+lægge en Række Afgørelser af Underret<lb xml:id="d1e33130"/>
 for Landsret og af Landsret for Højesteret.
 </p>
-               <p xml:id="d1e32981">
-Den Regeringen nu tilkommende Myn-<lb xml:id="d1e32983"/>
-dighed til under særlige Omstændigheder at<lb xml:id="d1e32985"/>
-nedsætte ekstraordinære Retter foreslaar<lb xml:id="d1e32987"/>
-Lovforslaget hibeholdt. Det vil nemlig meget<lb xml:id="d1e32989"/>
-vel kunne tænkes, at en Sag enten omfatter<lb xml:id="d1e32991"/>
-saa mange Personer eller kræver Under-<lb xml:id="d1e32994"/>
-søgelser i en saa stor Del af Landet eller af<lb xml:id="d1e32996"/>
-andre Grunde er af stort Omfang, at<lb xml:id="d1e32998"/>
-det baade af Hensyn til Sagens egen Be-<lb xml:id="d1e33000"/>
-handling og af Hensyn til det Ophold, denne<lb xml:id="d1e33002"/>
-vilde medføre for andre samtidig behand-<lb xml:id="d1e33004"/>
-lede Sager, maa anses i høj Grad ønske-<lb xml:id="d1e33007"/>
-ligt, at dens Behandling finder Sted uden-<lb xml:id="d1e33009"/>
+               <p xml:id="d1e33133">
+Den Regeringen nu tilkommende Myn-<lb xml:id="d1e33135"/>
+dighed til under særlige Omstændigheder at<lb xml:id="d1e33137"/>
+nedsætte ekstraordinære Retter foreslaar<lb xml:id="d1e33139"/>
+Lovforslaget hibeholdt. Det vil nemlig meget<lb xml:id="d1e33141"/>
+vel kunne tænkes, at en Sag enten omfatter<lb xml:id="d1e33143"/>
+saa mange Personer eller kræver Under-<lb xml:id="d1e33146"/>
+søgelser i en saa stor Del af Landet eller af<lb xml:id="d1e33148"/>
+andre Grunde er af stort Omfang, at<lb xml:id="d1e33150"/>
+det baade af Hensyn til Sagens egen Be-<lb xml:id="d1e33152"/>
+handling og af Hensyn til det Ophold, denne<lb xml:id="d1e33154"/>
+vilde medføre for andre samtidig behand-<lb xml:id="d1e33156"/>
+lede Sager, maa anses i høj Grad ønske-<lb xml:id="d1e33159"/>
+ligt, at dens Behandling finder Sted uden-<lb xml:id="d1e33161"/>
 for de sædvanlige Retssagers Rækkefølge,
 </p>
-               <milestone type="leftside" xml:id="endd1e28141" prev="startd1e28141" n="4131" unit="column"/>
-               <milestone type="rightside" xml:id="startd1e28180" next="endd1e28180" n="4132" unit="column"/>
-               <p xml:id="d1e33017">
-ligesom ogsaa saadant kan tænkes formaals-<lb xml:id="d1e33019"/>
- tjenligt af andre Grunde, f. Eks. at den<lb xml:id="d1e33021"/>
-ordinære Dommer uden at være inhabil dog<lb xml:id="d1e33023"/>
-kan antages at have en saadan Stilling til<lb xml:id="d1e33025"/>
-Sagen, at dens Behandling under hans Le-<lb xml:id="d1e33027"/>
-delse maatte anses for lidet heldig. Til<lb xml:id="d1e33030"/>
-Betryggelse for Sigtede er det imidlertid i<lb xml:id="d1e33032"/>
-Lovforslaget foreskrevet, at alle de ved de<lb xml:id="d1e33034"/>
-almindelige Retter gældende Regler om<lb xml:id="d1e33036"/>
-Undersøgelsesmaade, Forsvarer, Varetægts-<lb xml:id="d1e33038"/>
-arrest, Fængselskontrol, Erstatning og Med-<lb xml:id="d1e33040"/>
-tagelse af Nævninger skulle finde Anven-<lb xml:id="d1e33043"/>
-delse ved saadanne ekstraordinære Retter,<lb xml:id="d1e33045"/>
-hvis Domme og andre Afgørelser altid<lb xml:id="d1e33047"/>
-skulle staa under Anke og Kære til Høje-<lb xml:id="d1e33049"/>
+               <p xml:id="d1e33164">
+                  <milestone type="leftside" xml:id="endd1e28141" prev="startd1e28141" n="4131" unit="column"/>
+               </p>
+               
+               <p xml:id="d1e33171">
+                  <milestone type="rightside" xml:id="startd1e28180" next="endd1e28180" n="4132" unit="column"/>
+               </p>
+               <p xml:id="d1e33177">
+ligesom ogsaa saadant kan tænkes formaals-<lb xml:id="d1e33179"/>
+ tjenligt af andre Grunde, f. Eks. at den<lb xml:id="d1e33181"/>
+ordinære Dommer uden at være inhabil dog<lb xml:id="d1e33183"/>
+kan antages at have en saadan Stilling til<lb xml:id="d1e33185"/>
+Sagen, at dens Behandling under hans Le-<lb xml:id="d1e33187"/>
+delse maatte anses for lidet heldig. Til<lb xml:id="d1e33190"/>
+Betryggelse for Sigtede er det imidlertid i<lb xml:id="d1e33192"/>
+Lovforslaget foreskrevet, at alle de ved de<lb xml:id="d1e33194"/>
+almindelige Retter gældende Regler om<lb xml:id="d1e33196"/>
+Undersøgelsesmaade, Forsvarer, Varetægts-<lb xml:id="d1e33198"/>
+arrest, Fængselskontrol, Erstatning og Med-<lb xml:id="d1e33200"/>
+tagelse af Nævninger skulle finde Anven-<lb xml:id="d1e33203"/>
+delse ved saadanne ekstraordinære Retter,<lb xml:id="d1e33205"/>
+hvis Domme og andre Afgørelser altid<lb xml:id="d1e33207"/>
+skulle staa under Anke og Kære til Høje-<lb xml:id="d1e33209"/>
 steret.
 </p>
-               <milestone type="rightside" xml:id="endd1e28180" prev="startd1e28180" n="4132" unit="column"/>
+               <p xml:id="d1e33212">
+                  <milestone type="rightside" xml:id="endd1e28180" prev="startd1e28180" n="4132" unit="column"/>
+               </p>
             </div>
          </div>
       </body>

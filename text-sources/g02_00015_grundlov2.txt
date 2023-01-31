@@ -115,10 +115,10 @@ Medlemmerne af Landsthinget vælges paa 8 Aar. Halvdelen<lb />
 afgaaer hvert 4de Aar.<lb />
 <law n="38" >§ 38.<lb /></law>
 Medlemmerne af Landsthinget erholde et dagligt Vederlag.<lb />
-<stitle>
-5te Minoritet.<lb />
-</stitle>
 </p>
+<stitle>
+5te Minoritet.
+</stitle>
 <p>
 Bruun og Hage gaae ud fra de samme Anskuelser, som synes<lb />
 at have foresvævet Udkastets Forfattere. Vi mene saaledes, at der<lb />

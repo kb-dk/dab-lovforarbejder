@@ -2,19 +2,19 @@
    <teiHeader xml:id="d1e3">
       <fileDesc xml:id="d1e5">
          <titleStmt xml:id="d1e7">
-            <title xml:id="d1e9">1915-16: Lovforslag</title>
+            <title xml:id="d1e9">1915/1916: Lovforslag</title>
          </titleStmt>
          <publicationStmt xml:id="d1e12">
             <p xml:id="d1e14"/>
          </publicationStmt>
          <sourceDesc xml:id="d1e17">
             <bibl xml:id="d1e19">
-               <title xml:id="d1e21">1915-16: Lovforslag</title>
+               <title xml:id="d1e21">1915/1916: Lovforslag</title>
                <date xml:id="d1e23">1915</date>
             </bibl>
             <listBibl xml:id="d1e26">
                <bibl xml:id="bibl-chptrd1e33">
-                  <title xml:id="d1e30">1915-16: Lovforslag</title>
+                  <title xml:id="d1e30">1915/1916: Lovforslag</title>
                </bibl>
                <bibl xml:id="bibl-chptrd1e52">
                   <title xml:id="d1e35">
@@ -485,7 +485,7 @@ Sagsomkostninger og Rettergangsbøder i Straffesager.
    <text xml:id="d1e739">
       <body xml:id="d1e741">
          <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
-            <head xml:id="d1e745">1915-16: Lovforslag</head>
+            <head xml:id="d1e745">1915/1916: Lovforslag</head>
             
                
                <pb xml:id="idr27_00001_rigsdagtid_a_1915_16" facs="r27_00001_rigsdagtid_a_1915_16" n=""/>

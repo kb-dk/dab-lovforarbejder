@@ -2,19 +2,19 @@
    <teiHeader xml:id="d1e3">
       <fileDesc xml:id="d1e5">
          <titleStmt xml:id="d1e7">
-            <title xml:id="d1e9">1908-09: Lovforslag</title>
+            <title xml:id="d1e9">1908/1909: Lovforslag</title>
          </titleStmt>
          <publicationStmt xml:id="d1e12">
             <p xml:id="d1e14"/>
          </publicationStmt>
          <sourceDesc xml:id="d1e17">
             <bibl xml:id="d1e19">
-               <title xml:id="d1e21">1908-09: Lovforslag</title>
+               <title xml:id="d1e21">1908/1909: Lovforslag</title>
                <date xml:id="d1e23">1908</date>
             </bibl>
             <listBibl xml:id="d1e26">
                <bibl xml:id="bibl-chptrd1e33">
-                  <title xml:id="d1e30">1908-09: Lovforslag</title>
+                  <title xml:id="d1e30">1908/1909: Lovforslag</title>
                </bibl>
                <bibl xml:id="bibl-chptrd1e51">
                   <title xml:id="d1e35">
@@ -410,7 +410,7 @@ Sagsomkostninger og Rettergangsbøder i Straffesager.
    <text xml:id="d1e621">
       <body xml:id="d1e623">
          <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
-            <head xml:id="d1e627">1908-09: Lovforslag</head>
+            <head xml:id="d1e627">1908/1909: Lovforslag</head>
             
                
                <pb xml:id="idr19_00001_rigsdagtid_1908_09" facs="r19_00001_rigsdagtid_1908_09" n=""/>
@@ -20113,216 +20113,236 @@ Forelagte Lovforslag m. m.  165
                <p xml:id="d1e31854">
 Bemærkninger til foranstaaende Lovforslag.
 </p>
-               <milestone type="leftside" xml:id="startd1e27003" next="endd1e27003" n="2627" unit="column"/>
+               
                <p xml:id="d1e31858">
-Nærværende Lovforslag, der i alt væ-<lb xml:id="d1e31860"/>
-sentligt er overensstemmende med det i<lb xml:id="d1e31862"/>
-afvigte Rigsdagssamling vedtagne og under<lb xml:id="d1e31864"/>
-16. Juni d. A. stadfæstede Lovforslag om<lb xml:id="d1e31866"/>
-Rettens Pleje, fremsættes dels for at af-<lb xml:id="d1e31868"/>
-hjælpe forskellige i den nævnte Lov fore-<lb xml:id="d1e31871"/>
-fundne Unøjagtigheder og Ufuldstændig-<lb xml:id="d1e31873"/>
-heder og dels af anden Aarsag, som det<lb xml:id="d1e31875"/>
-vil være ufornødent at gaa nærmere ind<lb xml:id="d1e31877"/>
+                  <milestone type="leftside" xml:id="startd1e27003" next="endd1e27003" n="2627" unit="column"/>
+               </p>
+               <p xml:id="d1e31864">
+Nærværende Lovforslag, der i alt væ-<lb xml:id="d1e31866"/>
+sentligt er overensstemmende med det i<lb xml:id="d1e31868"/>
+afvigte Rigsdagssamling vedtagne og under<lb xml:id="d1e31870"/>
+16. Juni d. A. stadfæstede Lovforslag om<lb xml:id="d1e31872"/>
+Rettens Pleje, fremsættes dels for at af-<lb xml:id="d1e31874"/>
+hjælpe forskellige i den nævnte Lov fore-<lb xml:id="d1e31877"/>
+fundne Unøjagtigheder og Ufuldstændig-<lb xml:id="d1e31879"/>
+heder og dels af anden Aarsag, som det<lb xml:id="d1e31881"/>
+vil være ufornødent at gaa nærmere ind<lb xml:id="d1e31883"/>
 paa.
 </p>
-               <p xml:id="d1e31881">
-De Punkter, hvori Forslaget afviger<lb xml:id="d1e31883"/>
-fra fornævnte Lov om Rettens Pleje, ere<lb xml:id="d1e31885"/>
+               <p xml:id="d1e31886">
+De Punkter, hvori Forslaget afviger<lb xml:id="d1e31888"/>
+fra fornævnte Lov om Rettens Pleje, ere<lb xml:id="d1e31890"/>
 følgende:
 </p>
-               <p xml:id="d1e31888">
-I § 55 er tilføjet en Bestemmelse, der<lb xml:id="d1e31890"/>
-savnes i den nuværende Affattelse, om<lb xml:id="d1e31892"/>
-hvorledes der vil være at forholde med<lb xml:id="d1e31894"/>
-Klager over Afgørelser af de i Lovens § 17,<lb xml:id="d1e31896"/>
-2det Punktum, nævnte særlige Retsskrivere.<lb xml:id="d1e31898"/>
-Det er fundet rimeligst at henvise disse<lb xml:id="d1e31901"/>
-Klager til Dommeren i den paagældende<lb xml:id="d1e31903"/>
+               <p xml:id="d1e31893">
+I § 55 er tilføjet en Bestemmelse, der<lb xml:id="d1e31895"/>
+savnes i den nuværende Affattelse, om<lb xml:id="d1e31897"/>
+hvorledes der vil være at forholde med<lb xml:id="d1e31899"/>
+Klager over Afgørelser af de i Lovens § 17,<lb xml:id="d1e31901"/>
+2det Punktum, nævnte særlige Retsskrivere.<lb xml:id="d1e31903"/>
+Det er fundet rimeligst at henvise disse<lb xml:id="d1e31906"/>
+Klager til Dommeren i den paagældende<lb xml:id="d1e31908"/>
 Retskreds.
 </p>
-               <p xml:id="d1e31906">
-I § 88 er Bestemmelsen i 1ste Punk-<lb xml:id="d1e31908"/>
-tum om, at Genparter af Nævningelisterne<lb xml:id="d1e31910"/>
-mindst 10 Dage før Tingets Begyndelse<lb xml:id="d1e31912"/>
-skulle tilstilles Landsretten, ændret saa-<lb xml:id="d1e31914"/>
-lecles, at Genparterne til den angivne Tid<lb xml:id="d1e31916"/>
-skulle være Landsretten i Hænde, da det<lb xml:id="d1e31919"/>
-ellers vil kunne være umuligt for Forman-<lb xml:id="d1e31921"/>
-den for det forestaaende Ting at efter-<lb xml:id="d1e31923"/>
-komme Forskriften i 2det Punktum. I<lb xml:id="d1e31925"/>
-dette Punktum er „tilstilles" ændret til<lb xml:id="d1e31927"/>
-„afsendes", hvorhos det er fundet rettest<lb xml:id="d1e31929"/>
-at bestemme, at de her omhandlede Gen-<lb xml:id="d1e31932"/>
-parter skulle tilvejebringes af Formanden<lb xml:id="d1e31934"/>
+               <p xml:id="d1e31911">
+I § 88 er Bestemmelsen i 1ste Punk-<lb xml:id="d1e31913"/>
+tum om, at Genparter af Nævningelisterne<lb xml:id="d1e31915"/>
+mindst 10 Dage før Tingets Begyndelse<lb xml:id="d1e31917"/>
+skulle tilstilles Landsretten, ændret saa-<lb xml:id="d1e31919"/>
+lecles, at Genparterne til den angivne Tid<lb xml:id="d1e31921"/>
+skulle være Landsretten i Hænde, da det<lb xml:id="d1e31924"/>
+ellers vil kunne være umuligt for Forman-<lb xml:id="d1e31926"/>
+den for det forestaaende Ting at efter-<lb xml:id="d1e31928"/>
+komme Forskriften i 2det Punktum. I<lb xml:id="d1e31930"/>
+dette Punktum er „tilstilles" ændret til<lb xml:id="d1e31932"/>
+„afsendes", hvorhos det er fundet rettest<lb xml:id="d1e31934"/>
+at bestemme, at de her omhandlede Gen-<lb xml:id="d1e31937"/>
+parter skulle tilvejebringes af Formanden<lb xml:id="d1e31939"/>
 for det i § 79 ommeldte Udvalg.
 </p>
-               <p xml:id="d1e31937">
-I § 72 er „Trediedagen" ændret til<lb xml:id="d1e31939"/>
-„Femtedagen", for at de paagældende Li-<lb xml:id="d1e31941"/>
-ster kunne være Rettens Formand i Hænde<lb xml:id="d1e31943"/>
-inden Afholdelsen af det i § 93 omhand-<lb xml:id="d1e31945"/>
-lede Møde; der er derhos foretaget en lig-<lb xml:id="d1e31947"/>
+               <p xml:id="d1e31942">
+I § 72 er „Trediedagen" ændret til<lb xml:id="d1e31944"/>
+„Femtedagen", for at de paagældende Li-<lb xml:id="d1e31946"/>
+ster kunne være Rettens Formand i Hænde<lb xml:id="d1e31948"/>
+inden Afholdelsen af det i § 93 omhand-<lb xml:id="d1e31950"/>
+lede Møde; der er derhos foretaget en lig-<lb xml:id="d1e31952"/>
 nende Redaktionsændring som i § 88.
 </p>
-               <p xml:id="d1e31950">
-I § 97 er „med mindst 2 Dages Var-<lb xml:id="d1e31952"/>
-sel" ændret til „saa vidt muligt med 2<lb xml:id="d1e31954"/>
-Dages Varsel", da det under Hensyn til<lb xml:id="d1e31956"/>
-Reglen i § 93 om Tidspunktet for Afhol-<lb xml:id="d1e31958"/>
-delsen af det Møde, hvor Nævningernes<lb xml:id="d1e31960"/>
-Udtagelse til de enkelte Sager foregaar,<lb xml:id="d1e31963"/>
-ikke altid vil være muligt at indkalde<lb xml:id="d1e31965"/>
-Nævningerne i de Sager, der skulle fore-<lb xml:id="d1e31967"/>
-tages først paa Tinget, med fulde 2 Dages<lb xml:id="d1e31969"/>
+               <p xml:id="d1e31955">
+I § 97 er „med mindst 2 Dages Var-<lb xml:id="d1e31957"/>
+sel" ændret til „saa vidt muligt med 2<lb xml:id="d1e31959"/>
+Dages Varsel", da det under Hensyn til<lb xml:id="d1e31961"/>
+Reglen i § 93 om Tidspunktet for Afhol-<lb xml:id="d1e31963"/>
+delsen af det Møde, hvor Nævningernes<lb xml:id="d1e31965"/>
+Udtagelse til de enkelte Sager foregaar,<lb xml:id="d1e31968"/>
+ikke altid vil være muligt at indkalde<lb xml:id="d1e31970"/>
+Nævningerne i de Sager, der skulle fore-<lb xml:id="d1e31972"/>
+tages først paa Tinget, med fulde 2 Dages<lb xml:id="d1e31974"/>
 Varsel.
 </p>
-               <p xml:id="d1e31972">
-I § 127 er „Mænd" i næstsidste Punk-<lb xml:id="d1e31974"/>
+               <p xml:id="d1e31978">
+I § 127 er „Mænd" i næstsidste Punk-<lb xml:id="d1e31980"/>
 tum ændret til „Personer" for at angive,
 </p>
-               <milestone type="leftside" xml:id="endd1e27003" prev="startd1e27003" n="2627" unit="column"/>
-               <milestone type="rightside" xml:id="startd1e27125" next="endd1e27125" n="2628" unit="column"/>
-               <p xml:id="d1e31982">
-at Kvinder, der have været Sagførere, have<lb xml:id="d1e31984"/>
-samme Valgret og Valgbarhed til Sagfører-<lb xml:id="d1e31986"/>
+               <p xml:id="d1e31983">
+                  <milestone type="leftside" xml:id="endd1e27003" prev="startd1e27003" n="2627" unit="column"/>
+               </p>
+               
+               <p xml:id="d1e31990">
+                  <milestone type="rightside" xml:id="startd1e27125" next="endd1e27125" n="2628" unit="column"/>
+               </p>
+               <p xml:id="d1e31995">
+at Kvinder, der have været Sagførere, have<lb xml:id="d1e31997"/>
+samme Valgret og Valgbarhed til Sagfører-<lb xml:id="d1e31999"/>
 raadet som Mænd.
 </p>
-               <p xml:id="d1e31989">
-I § 133 er ligeledes i 1ste og 2det<lb xml:id="d1e31991"/>
+               <p xml:id="d1e32002">
+I § 133 er ligeledes i 1ste og 2det<lb xml:id="d1e32004"/>
 Punktum „Mænd" ændret til „Personer".
 </p>
-               <p xml:id="d1e31994">
-I § 273, jfr. § 275, er tilføjet en Bestem-<lb xml:id="d1e31996"/>
-melse, der formentlig vil være praktisk,<lb xml:id="d1e31998"/>
-hvorefter Retten kan forlange en Parts<lb xml:id="d1e32000"/>
-personlige Tilstedekomst til de i Paragraf-<lb xml:id="d1e32002"/>
+               <p xml:id="d1e32008">
+I § 273, jfr. § 275, er tilføjet en Bestem-<lb xml:id="d1e32010"/>
+melse, der formentlig vil være praktisk,<lb xml:id="d1e32012"/>
+hvorefter Retten kan forlange en Parts<lb xml:id="d1e32014"/>
+personlige Tilstedekomst til de i Paragraf-<lb xml:id="d1e32016"/>
 ferne omhandlede Retsmøder.
 </p>
-               <p xml:id="d1e32005">
-I § 335 er i 1ste Stykke, 2det Punk-<lb xml:id="d1e32007"/>
-tum, efter „Gensvar" for Tydeligheds Skyld<lb xml:id="d1e32009"/>
+               <p xml:id="d1e32019">
+I § 335 er i 1ste Stykke, 2det Punk-<lb xml:id="d1e32021"/>
+tum, efter „Gensvar" for Tydeligheds Skyld<lb xml:id="d1e32023"/>
 indføjet „til Sagsøgeren".
 </p>
-               <p xml:id="d1e32013">
-I § 364. 1ste Stykke, Linie 1, er efter<lb xml:id="d1e32015"/>
-„§ 331" tilføjet „sidste Stykke" for at an-<lb xml:id="d1e32017"/>
-give, at Sagsøgeren i Tilfælde af Udebli-<lb xml:id="d1e32019"/>
-velse kun kan begære Genoptagelse, saafremt<lb xml:id="d1e32021"/>
+               <p xml:id="d1e32026">
+I § 364. 1ste Stykke, Linie 1, er efter<lb xml:id="d1e32028"/>
+„§ 331" tilføjet „sidste Stykke" for at an-<lb xml:id="d1e32030"/>
+give, at Sagsøgeren i Tilfælde af Udebli-<lb xml:id="d1e32032"/>
+velse kun kan begære Genoptagelse, saafremt<lb xml:id="d1e32034"/>
 han er dømt for en Modfordring.
 </p>
-               <p xml:id="d1e32024">
+               <p xml:id="d1e32037">
 I § 495 er en Trykfejl rettet.
 </p>
-               <p xml:id="d1e32026">
-I §§ 645 og 658 er det, navnlig for<lb xml:id="d1e32028"/>
-at afskære Tvivl om, hvem der er Skifte-<lb xml:id="d1e32030"/>
-forvalter i de Købstæder, hvor der findes<lb xml:id="d1e32032"/>
-en særlig Borgmester, fundet rettest at til-<lb xml:id="d1e32034"/>
-føje en Bestemmelse om, at udenfor Kø-<lb xml:id="d1e32036"/>
-benhavn beklædes den ordinære Skifteret<lb xml:id="d1e32039"/>
+               <p xml:id="d1e32039">
+I §§ 645 og 658 er det, navnlig for<lb xml:id="d1e32041"/>
+at afskære Tvivl om, hvem der er Skifte-<lb xml:id="d1e32043"/>
+forvalter i de Købstæder, hvor der findes<lb xml:id="d1e32045"/>
+en særlig Borgmester, fundet rettest at til-<lb xml:id="d1e32047"/>
+føje en Bestemmelse om, at udenfor Kø-<lb xml:id="d1e32049"/>
+benhavn beklædes den ordinære Skifteret<lb xml:id="d1e32052"/>
 af Underretsdommeren.
 </p>
-               <p xml:id="d1e32042">
-Den tidligere § 673 er rykket op som<lb xml:id="d1e32044"/>
-sidste Stykke i § 672, hvorhos der er ind-<lb xml:id="d1e32046"/>
-føjet en ny § 673 indeholdende en Regel<lb xml:id="d1e32048"/>
-om de saakaldte frivillige Auktioner.<lb xml:id="d1e32050"/>
-Grunden til, at der ikke tidligere har<lb xml:id="d1e32052"/>
-været Bestemmelser om dette Emne i Rets-<lb xml:id="d1e32055"/>
-plej eforslagene, er udelukkende, at disse<lb xml:id="d1e32057"/>
-Auktioner tænktes udskudte af Retsplejen<lb xml:id="d1e32059"/>
-og henlagte til særlige offentlig beskikkede<lb xml:id="d1e32061"/>
-„Auktionsbestyrere", hvilket atter stod i<lb xml:id="d1e32063"/>
-Forbindelse med, at det var Hensigten at<lb xml:id="d1e32065"/>
-ophæve de nuværende Afgifter til Staten<lb xml:id="d1e32068"/>
-af disse Auktioner. Ligesom det imidler-<lb xml:id="d1e32070"/>
-tid maa være betænkeligt samtidig med<lb xml:id="d1e32072"/>
-Retsreformen, der vil paaføre Statskassen<lb xml:id="d1e32074"/>
-betydelige Udgifter, at ophæve den nævnte<lb xml:id="d1e32076"/>
-Afgift af frivillige Auktioner, der ikke har<lb xml:id="d1e32078"/>
-nogen helt ringe finansiel Betydning, saale-<lb xml:id="d1e32081"/>
-des er det i det hele fundet hensigtsmæssigst<lb xml:id="d1e32083"/>
-indtil videre at bibeholde den nuværende<lb xml:id="d1e32085"/>
-Ordning af Auktionsvæsenet, hvorefter det<lb xml:id="d1e32087"/>
-som Regel er Retsbetjentene, hvem det<lb xml:id="d1e32089"/>
-tilkommer og paahviler at afholde frivillige<lb xml:id="d1e32091"/>
-Auktioner. Den ny Bestemmelse gaar der-<lb xml:id="d1e32094"/>
-for ud paa at bevare denne Ordning og<lb xml:id="d1e32096"/>
+               <p xml:id="d1e32055">
+Den tidligere § 673 er rykket op som<lb xml:id="d1e32057"/>
+sidste Stykke i § 672, hvorhos der er ind-<lb xml:id="d1e32059"/>
+føjet en ny § 673 indeholdende en Regel<lb xml:id="d1e32061"/>
+om de saakaldte frivillige Auktioner.<lb xml:id="d1e32063"/>
+Grunden til, at der ikke tidligere har<lb xml:id="d1e32065"/>
+været Bestemmelser om dette Emne i Rets-<lb xml:id="d1e32068"/>
+plej eforslagene, er udelukkende, at disse<lb xml:id="d1e32070"/>
+Auktioner tænktes udskudte af Retsplejen<lb xml:id="d1e32072"/>
+og henlagte til særlige offentlig beskikkede<lb xml:id="d1e32074"/>
+„Auktionsbestyrere", hvilket atter stod i<lb xml:id="d1e32076"/>
+Forbindelse med, at det var Hensigten at<lb xml:id="d1e32078"/>
+ophæve de nuværende Afgifter til Staten<lb xml:id="d1e32081"/>
+af disse Auktioner. Ligesom det imidler-<lb xml:id="d1e32083"/>
+tid maa være betænkeligt samtidig med<lb xml:id="d1e32085"/>
+Retsreformen, der vil paaføre Statskassen<lb xml:id="d1e32087"/>
+betydelige Udgifter, at ophæve den nævnte<lb xml:id="d1e32089"/>
+Afgift af frivillige Auktioner, der ikke har<lb xml:id="d1e32091"/>
+nogen helt ringe finansiel Betydning, saale-<lb xml:id="d1e32094"/>
+des er det i det hele fundet hensigtsmæssigst<lb xml:id="d1e32096"/>
+indtil videre at bibeholde den nuværende<lb xml:id="d1e32098"/>
+Ordning af Auktionsvæsenet, hvorefter det<lb xml:id="d1e32100"/>
+som Regel er Retsbetjentene, hvem det<lb xml:id="d1e32102"/>
+tilkommer og paahviler at afholde frivillige<lb xml:id="d1e32104"/>
+Auktioner. Den ny Bestemmelse gaar der-<lb xml:id="d1e32107"/>
+for ud paa at bevare denne Ordning og<lb xml:id="d1e32109"/>
 indpasse den i Lovens System.
 </p>
-               <p xml:id="d1e32099">
+               <p xml:id="d1e32113">
 I § 727 er Sundhedskollegiet ændret
 </p>
-               <milestone type="rightside" xml:id="endd1e27125" prev="startd1e27125" n="2628" unit="column"/>
+               <p xml:id="d1e32115">
+                  <milestone type="rightside" xml:id="endd1e27125" prev="startd1e27125" n="2628" unit="column"/>
+               </p>
                <pb xml:id="idr19_00246_rigsdagtid_1908_09" facs="r19_00246_rigsdagtid_1908_09" n=""/>
-               <fw xml:id="d1e32106" type="head" place="top-left">2629</fw>
-               <fw xml:id="d1e32109" type="head" place="top-middle">
+               <fw xml:id="d1e32122" type="head" place="top-left">2629</fw>
+               <fw xml:id="d1e32125" type="head" place="top-middle">
 Forsl. t L. om Rettens Pleje
 </fw>
-               <fw xml:id="d1e32112" type="head" place="top-right">2630</fw>
-               <milestone type="leftside" xml:id="startd1e27258" next="endd1e27258" n="2629" unit="column"/>
-               <p xml:id="d1e32117">
-til vedkommende overordnede Sundheds-<lb xml:id="d1e32119"/>
+               <fw xml:id="d1e32128" type="head" place="top-right">2630</fw>
+               
+               <p xml:id="d1e32134">
+                  <milestone type="leftside" xml:id="startd1e27258" next="endd1e27258" n="2629" unit="column"/>
+               </p>
+               <p xml:id="d1e32139">
+til vedkommende overordnede Sundheds-<lb xml:id="d1e32141"/>
 myndighed.
 </p>
-               <p xml:id="d1e32123">
-I § 883 er tilføjet en ny Bestemmelse<lb xml:id="d1e32125"/>
-indeholdende Regler for Udtagelsen af<lb xml:id="d1e32127"/>
-Nævningerne til den i Paragraffen om-<lb xml:id="d1e32129"/>
-handlede ny Domsforhandling, saafremt<lb xml:id="d1e32131"/>
-denne skal foregaa paa samme Ting som<lb xml:id="d1e32133"/>
-den første Domsforhandling. En saadan<lb xml:id="d1e32136"/>
-Regel tiltrænges formentlig, da Lovens<lb xml:id="d1e32138"/>
-Kapitel 9 forudsætter, at alle Nævningerne<lb xml:id="d1e32140"/>
-som Regel udtages inden vedkommende<lb xml:id="d1e32142"/>
-Retssessions Begyndelse, hvorfor §§ 102<lb xml:id="d1e32144"/>
-og 839 kun omhandler Udtagelse af Næv-<lb xml:id="d1e32146"/>
-ninger til Supplering af et udtaget util-<lb xml:id="d1e32149"/>
+               <p xml:id="d1e32144">
+I § 883 er tilføjet en ny Bestemmelse<lb xml:id="d1e32146"/>
+indeholdende Regler for Udtagelsen af<lb xml:id="d1e32148"/>
+Nævningerne til den i Paragraffen om-<lb xml:id="d1e32150"/>
+handlede ny Domsforhandling, saafremt<lb xml:id="d1e32152"/>
+denne skal foregaa paa samme Ting som<lb xml:id="d1e32154"/>
+den første Domsforhandling. En saadan<lb xml:id="d1e32157"/>
+Regel tiltrænges formentlig, da Lovens<lb xml:id="d1e32159"/>
+Kapitel 9 forudsætter, at alle Nævningerne<lb xml:id="d1e32161"/>
+som Regel udtages inden vedkommende<lb xml:id="d1e32163"/>
+Retssessions Begyndelse, hvorfor §§ 102<lb xml:id="d1e32165"/>
+og 839 kun omhandler Udtagelse af Næv-<lb xml:id="d1e32167"/>
+ninger til Supplering af et udtaget util-<lb xml:id="d1e32170"/>
 strækkeligt Antal.
 </p>
-               <p xml:id="d1e32152">
-I § 998, 1ste Stykke, er Bestemmelsen<lb xml:id="d1e32154"/>
-om. at Loven først træder i Kraft, naar der<lb xml:id="d1e32156"/>
-er forløbet 2 Aar efter den Dag, da den<lb xml:id="d1e32158"/>
-er kundgjort i Lovtidende, ændret saa-<lb xml:id="d1e32160"/>
-ledes, at det bestemmes, at Lovens Ikraft-<lb xml:id="d1e32162"/>
-træden ikke kan falde førend 1. Oktober<lb xml:id="d1e32165"/>
+               <p xml:id="d1e32173">
+I § 998, 1ste Stykke, er Bestemmelsen<lb xml:id="d1e32175"/>
+om. at Loven først træder i Kraft, naar der<lb xml:id="d1e32177"/>
+er forløbet 2 Aar efter den Dag, da den<lb xml:id="d1e32179"/>
+er kundgjort i Lovtidende, ændret saa-<lb xml:id="d1e32181"/>
+ledes, at det bestemmes, at Lovens Ikraft-<lb xml:id="d1e32183"/>
+træden ikke kan falde førend 1. Oktober<lb xml:id="d1e32186"/>
 1910.
 </p>
-               <milestone type="leftside" xml:id="endd1e27258" prev="startd1e27258" n="2629" unit="column"/>
-               <milestone type="rightside" xml:id="startd1e27311" next="endd1e27311" n="2630" unit="column"/>
-               <p xml:id="d1e32172">
-I 2det Stykke er tilføjet en Bestem-<lb xml:id="d1e32174"/>
-melse om, at Østre Landsret i vestindiske<lb xml:id="d1e32176"/>
-Appelsager træder i Stedet for Landsover-<lb xml:id="d1e32178"/>
+               <p xml:id="d1e32189">
+                  <milestone type="leftside" xml:id="endd1e27258" prev="startd1e27258" n="2629" unit="column"/>
+               </p>
+               
+               <p xml:id="d1e32197">
+                  <milestone type="rightside" xml:id="startd1e27311" next="endd1e27311" n="2630" unit="column"/>
+               </p>
+               <p xml:id="d1e32202">
+I 2det Stykke er tilføjet en Bestem-<lb xml:id="d1e32204"/>
+melse om, at Østre Landsret i vestindiske<lb xml:id="d1e32206"/>
+Appelsager træder i Stedet for Landsover-<lb xml:id="d1e32208"/>
 samt Hof- og Stadsretten.
 </p>
-               <p xml:id="d1e32181">
-I § 1006 er gjort en Tilføjelse, der<lb xml:id="d1e32183"/>
-tilsigter at tydeliggøre, hvorledes der i<lb xml:id="d1e32185"/>
-Overgangstiden vil være at forholde med<lb xml:id="d1e32187"/>
-Behandlingen af de borgerlige Retssager,<lb xml:id="d1e32189"/>
-der ved Lovens Ikrafttræden henstaa ved<lb xml:id="d1e32191"/>
+               <p xml:id="d1e32211">
+I § 1006 er gjort en Tilføjelse, der<lb xml:id="d1e32213"/>
+tilsigter at tydeliggøre, hvorledes der i<lb xml:id="d1e32215"/>
+Overgangstiden vil være at forholde med<lb xml:id="d1e32217"/>
+Behandlingen af de borgerlige Retssager,<lb xml:id="d1e32219"/>
+der ved Lovens Ikrafttræden henstaa ved<lb xml:id="d1e32221"/>
 nuværende Retter.
 </p>
-               <p xml:id="d1e32195">
-I § 1012, sidste Punktum, er tilføjet,<lb xml:id="d1e32197"/>
-at Bestemmelsen ogsaa finder Anvendelse<lb xml:id="d1e32199"/>
-paa Straffesager, der ved Lovens Ikraft-<lb xml:id="d1e32201"/>
-træden ere optagne til Dom uden endnu<lb xml:id="d1e32203"/>
+               <p xml:id="d1e32224">
+I § 1012, sidste Punktum, er tilføjet,<lb xml:id="d1e32226"/>
+at Bestemmelsen ogsaa finder Anvendelse<lb xml:id="d1e32228"/>
+paa Straffesager, der ved Lovens Ikraft-<lb xml:id="d1e32230"/>
+træden ere optagne til Dom uden endnu<lb xml:id="d1e32232"/>
 at være paadømte.
 </p>
-               <p xml:id="d1e32206">
-Det tilføjes endvidere, at naar det<lb xml:id="d1e32208"/>
-foreliggende Lovforslag gennemføres og<lb xml:id="d1e32210"/>
-udkommer som Lov, betragter Regeringen<lb xml:id="d1e32212"/>
-det i forrige Rigsdagssamling vedtagne og<lb xml:id="d1e32214"/>
-derefter stadfæstede Lovforslag om Rettens<lb xml:id="d1e32216"/>
-Pleje, der endnu ikke er kundgjort som<lb xml:id="d1e32219"/>
+               <p xml:id="d1e32235">
+Det tilføjes endvidere, at naar det<lb xml:id="d1e32237"/>
+foreliggende Lovforslag gennemføres og<lb xml:id="d1e32239"/>
+udkommer som Lov, betragter Regeringen<lb xml:id="d1e32241"/>
+det i forrige Rigsdagssamling vedtagne og<lb xml:id="d1e32243"/>
+derefter stadfæstede Lovforslag om Rettens<lb xml:id="d1e32245"/>
+Pleje, der endnu ikke er kundgjort som<lb xml:id="d1e32248"/>
 Lov, som bortfaldet.
 </p>
-               <milestone type="rightside" xml:id="endd1e27311" prev="startd1e27311" n="2630" unit="column"/>
+               <p xml:id="d1e32251">
+                  <milestone type="rightside" xml:id="endd1e27311" prev="startd1e27311" n="2630" unit="column"/>
+               </p>
             </div>
          </div>
       </body>

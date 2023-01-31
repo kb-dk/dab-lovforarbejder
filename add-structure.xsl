@@ -62,27 +62,29 @@
       Now, to embed these milestones in a paragraph is more or less
       meaningless, but I want them to be indexed as being content.
     </xsl:comment>
-    <p>
     <xsl:if test="number($column)">
-      <xsl:element name="milestone">
-        <xsl:attribute name="type"><xsl:call-template name="milestone-type"/></xsl:attribute>
-        <xsl:attribute name="xml:id"><xsl:value-of select="concat('start',$id)"/></xsl:attribute>
-        <xsl:attribute name="next"><xsl:value-of select="concat('end',$id)"/></xsl:attribute>
-        <xsl:attribute name="n"><xsl:value-of select="number($column)"/></xsl:attribute>
-        <xsl:attribute name="unit">column</xsl:attribute>
-      </xsl:element>
+      <p>
+        <xsl:element name="milestone">
+          <xsl:attribute name="type"><xsl:call-template name="milestone-type"/></xsl:attribute>
+          <xsl:attribute name="xml:id"><xsl:value-of select="concat('start',$id)"/></xsl:attribute>
+          <xsl:attribute name="next"><xsl:value-of select="concat('end',$id)"/></xsl:attribute>
+          <xsl:attribute name="n"><xsl:value-of select="number($column)"/></xsl:attribute>
+          <xsl:attribute name="unit">column</xsl:attribute>
+        </xsl:element>
+      </p>
     </xsl:if>
     <xsl:apply-templates/>
     <xsl:if test="number($column)">
-      <xsl:element name="milestone">
-        <xsl:attribute name="type"><xsl:call-template name="milestone-type"/></xsl:attribute>
-        <xsl:attribute name="xml:id"><xsl:value-of select="concat('end',$id)"/></xsl:attribute>
-        <xsl:attribute name="prev"><xsl:value-of select="concat('start',$id)"/></xsl:attribute>
-        <xsl:attribute name="n"><xsl:value-of select="number($column)"/></xsl:attribute>
-        <xsl:attribute name="unit">column</xsl:attribute>
-      </xsl:element>
+      <p>
+        <xsl:element name="milestone">
+          <xsl:attribute name="type"><xsl:call-template name="milestone-type"/></xsl:attribute>
+          <xsl:attribute name="xml:id"><xsl:value-of select="concat('end',$id)"/></xsl:attribute>
+          <xsl:attribute name="prev"><xsl:value-of select="concat('start',$id)"/></xsl:attribute>
+          <xsl:attribute name="n"><xsl:value-of select="number($column)"/></xsl:attribute>
+          <xsl:attribute name="unit">column</xsl:attribute>
+        </xsl:element>
+      </p>
     </xsl:if>
-    </p>
   </xsl:template>
 
   <xsl:template name="get-column">

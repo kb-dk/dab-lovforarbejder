@@ -2,19 +2,19 @@
    <teiHeader xml:id="d1e3">
       <fileDesc xml:id="d1e5">
          <titleStmt xml:id="d1e7">
-            <title xml:id="d1e9">1901-02: Lovforslag</title>
+            <title xml:id="d1e9">1901/1902: Lovforslag</title>
          </titleStmt>
          <publicationStmt xml:id="d1e12">
             <p xml:id="d1e14"/>
          </publicationStmt>
          <sourceDesc xml:id="d1e17">
             <bibl xml:id="d1e19">
-               <title xml:id="d1e21">1901-02: Lovforslag</title>
+               <title xml:id="d1e21">1901/1902: Lovforslag</title>
                <date xml:id="d1e23">1901</date>
             </bibl>
             <listBibl xml:id="d1e26">
                <bibl xml:id="bibl-chptrd1e33">
-                  <title xml:id="d1e30">1901-02: Lovforslag</title>
+                  <title xml:id="d1e30">1901/1902: Lovforslag</title>
                </bibl>
                <bibl xml:id="bibl-chptrd1e51">
                   <title xml:id="d1e35">
@@ -225,7 +225,7 @@ Skifte af Dødsbo og Fællesbo m. v. samt Konkurs.
    <text xml:id="d1e352">
       <body xml:id="d1e354">
          <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
-            <head xml:id="d1e358">1901-02: Lovforslag</head>
+            <head xml:id="d1e358">1901/1902: Lovforslag</head>
             
                
                <pb xml:id="idr09_00001_rigsdagtid_a_1901_02" facs="r09_00001_rigsdagtid_a_1901_02" n=""/>

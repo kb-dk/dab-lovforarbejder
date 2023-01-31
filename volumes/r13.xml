@@ -2,19 +2,19 @@
    <teiHeader xml:id="d1e3">
       <fileDesc xml:id="d1e5">
          <titleStmt xml:id="d1e7">
-            <title xml:id="d1e9">1902-03: Lovforslag</title>
+            <title xml:id="d1e9">1902/1903: Lovforslag</title>
          </titleStmt>
          <publicationStmt xml:id="d1e12">
             <p xml:id="d1e14"/>
          </publicationStmt>
          <sourceDesc xml:id="d1e17">
             <bibl xml:id="d1e19">
-               <title xml:id="d1e21">1902-03: Lovforslag</title>
+               <title xml:id="d1e21">1902/1903: Lovforslag</title>
                <date xml:id="d1e23">1902</date>
             </bibl>
             <listBibl xml:id="d1e26">
                <bibl xml:id="bibl-chptrd1e33">
-                  <title xml:id="d1e30">1902-03: Lovforslag</title>
+                  <title xml:id="d1e30">1902/1903: Lovforslag</title>
                </bibl>
                <bibl xml:id="bibl-chptrd1e51">
                   <title xml:id="d1e35">
@@ -1016,7 +1016,7 @@ Kapitel 98.
    <text xml:id="d1e1055">
       <body xml:id="d1e1057">
          <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
-            <head xml:id="d1e1061">1902-03: Lovforslag</head>
+            <head xml:id="d1e1061">1902/1903: Lovforslag</head>
             
                
                <pb xml:id="idr13_00001_rigsdagtid_a_1902_03" facs="r13_00001_rigsdagtid_a_1902_03" n=""/>

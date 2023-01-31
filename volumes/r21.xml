@@ -2,19 +2,19 @@
    <teiHeader xml:id="d1e3">
       <fileDesc xml:id="d1e5">
          <titleStmt xml:id="d1e7">
-            <title xml:id="d1e9">1908-09: Erklæring (Folketinget)</title>
+            <title xml:id="d1e9">1908/1909: Erklæring (Folketinget)</title>
          </titleStmt>
          <publicationStmt xml:id="d1e12">
             <p xml:id="d1e14"/>
          </publicationStmt>
          <sourceDesc xml:id="d1e17">
             <bibl xml:id="d1e19">
-               <title xml:id="d1e21">1908-09: Erklæring (Folketinget)</title>
+               <title xml:id="d1e21">1908/1909: Erklæring (Folketinget)</title>
                <date xml:id="d1e23">1908</date>
             </bibl>
             <listBibl xml:id="d1e26">
                <bibl xml:id="bibl-chptrd1e33">
-                  <title xml:id="d1e30">1908-09: Erklæring (Folketinget)</title>
+                  <title xml:id="d1e30">1908/1909: Erklæring (Folketinget)</title>
                </bibl>
                <bibl xml:id="bibl-chptrd1e51">
                   <title xml:id="d1e35">
@@ -33,7 +33,7 @@ Forslag til Lov om Rettens Pleje.
    <text xml:id="d1e42">
       <body xml:id="d1e44">
          <div xml:id="chptrd1e33" decls="#bibl-chptrd1e33">
-            <head xml:id="d1e48">1908-09: Erklæring (Folketinget)</head>
+            <head xml:id="d1e48">1908/1909: Erklæring (Folketinget)</head>
             
                
                <pb xml:id="idr21_00001_rigsdagtid_b2_1908_09" facs="r21_00001_rigsdagtid_b2_1908_09" n=""/>
