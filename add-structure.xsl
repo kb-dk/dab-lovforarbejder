@@ -58,6 +58,11 @@
   <xsl:template match="t:leftside|t:rightside">
     <xsl:variable name="id"><xsl:value-of select="generate-id(.)"/></xsl:variable>
     <xsl:variable name="column"><xsl:call-template name="get-column"/></xsl:variable>
+    <xsl:comment>
+      Now, to embed these milestones in a paragraph is more or less
+      meaningless, but I want them to be indexed as being content.
+    </xsl:comment>
+    <p>
     <xsl:if test="number($column)">
       <xsl:element name="milestone">
         <xsl:attribute name="type"><xsl:call-template name="milestone-type"/></xsl:attribute>
@@ -77,6 +82,7 @@
         <xsl:attribute name="unit">column</xsl:attribute>
       </xsl:element>
     </xsl:if>
+    </p>
   </xsl:template>
 
   <xsl:template name="get-column">
@@ -115,9 +121,12 @@
       <xsl:otherwise><xsl:value-of select="local-name(.)"/></xsl:otherwise>
     </xsl:choose>
   </xsl:template>
+
+  <xsl:template match="t:law"/>
   
-  <xsl:template match="t:law">
-    <span type="law"><xsl:apply-templates select="@*"/><xsl:apply-templates/></span> 
+  <xsl:template match="t:p[t:law]">
+    <wtitle type="law"><xsl:value-of select="t:law"/></wtitle>
+    <p><xsl:apply-templates/></p>
   </xsl:template>
   
   <xsl:template match="t:signature|t:signaturlist">
